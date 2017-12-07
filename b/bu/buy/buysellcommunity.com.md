@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101008id_/http%3A//www.buysellcommunity.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207052303id_/http%3A//www.buysellcommunity.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Buy & Sell Classifieds - Privacy Policy
 
