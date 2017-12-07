@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meta.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626195049id_/http%3A//meta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meta.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207114911id_/http%3A//www.meta.com/privacy.html) for the most accurate reproduction.*
 
 # Meta - AI for Science
 
