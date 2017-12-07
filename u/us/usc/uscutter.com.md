@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscutter.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604023904id_/http%3A//www.uscutter.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscutter.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207045655id_/http%3A//www.uscutter.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
 
 # USCutter - Vinyl Cutters, Heat Transfer, Flat Beds, Craft, Vinyl Supplies, Tools
 
@@ -50,8 +50,8 @@ Our websites may contain links to other sites. Please be aware that we are not r
 If you have any privacy questions or issues, the privacy contact for our websites is listed below 
 
 USCutter, Inc.   
-19510 144th Avenue NE   
-Woodinville, WA 98072   
+17945 NE 65th St, Suite 200   
+Redmond, WA 98052   
 Tel.: 425-481-3555   
 eMail: generalsupport@uscuttersupport.com 
 
