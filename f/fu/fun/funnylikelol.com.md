@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnylikelol.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606201938id_/http%3A//funnylikelol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnylikelol.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207122527id_/http%3A//funnylikelol.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Funny Like LOL
 
