@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparaboo.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615173209id_/http%3A//www.comparaboo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparaboo.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207225637id_/http%3A//www.comparaboo.com/privacy) for the most accurate reproduction.*
 
 # The Privacy Policy | Comparaboo
 
