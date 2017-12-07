@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the greatfashionideas.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630154428id_/http%3A//video.greatfashionideas.com/privacyGFI.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatfashionideas.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207153206id_/http%3A//video.greatfashionideas.com/privacyGFI.html) for the most accurate reproduction.*
 
-# Privacy | Great Fashion Ideas
+# PRIVACY POLICY | Great Fashion Ideas
 
-**GREAT FASHION IDEAS**
+[](https://web.archive.org/index.html)
 
-**PRIVACY POLICY**
+## GREAT FASHION IDEAS
+
+### PRIVACY POLICY
 
 _Last Modified: January 25, 2017_
 
