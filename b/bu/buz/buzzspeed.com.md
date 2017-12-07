@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzspeed.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626212032id_/http%3A//buzzspeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzspeed.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207075548id_/https%3A//buzzspeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,13 +38,13 @@ See: [Google Adsense](http://www.google.com/privacypolicy.html)
 
 See: [MochiMedia](https://www.mochimedia.com/privacy.html)
 
-See: [CPMStar](https://www.cpmstar.com/index.aspx?nav=privacy) and [Third Party](https://www.cpmstar.com/index.aspx?nav=thirdpartyprivacy)
+See: [CPMStar](http://www.cpmstar.com/index.aspx?nav=privacy) and [Third Party](http://www.cpmstar.com/index.aspx?nav=thirdpartyprivacy)
 
 See: [AdEngage](http://www.adengage.com/privacy.cfm)
 
 See: [ValueClick](http://media.valueclick.com/privacy_consumer.shtml)
 
-See: [YieldManager](https://content-ssl.yieldmanager.com/ym_privacy.html)
+See: [YieldManager](http://content.yieldmanager.com/ym_privacy.html)
 
 See: [Jambo Media](http://jambovideonetwork.com/privacy.html)
 
