@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessandlifetips.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607002235id_/http%3A//www.businessandlifetips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessandlifetips.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207220248id_/http%3A//www.businessandlifetips.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Business and Life
+# PRIVACY POLICY - Business and Life
 
 Business and Life Tips ( We, Us, Our) is committed to protecting our users information and to making our users a ware of our online practices regarding the privacy of their information. By visiting this website (blog), you expressly consent and agree to the terms and conditions of this privacy policy.
 
