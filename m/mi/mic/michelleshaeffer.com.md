@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michelleshaeffer.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912190229id_/http%3A//www.michelleshaeffer.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michelleshaeffer.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207105455id_/http%3A//michelleshaeffer.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -35,20 +35,20 @@ We hate junk e-mail (Spam). Information you obtain from our website about us or 
 You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
 
 **9\. AUTORESPONDERS.**  
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to michelle@creocommunico.com, or sending us mail to the address listed below.
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to girlbloggernextdoor@gmail.com, or sending us mail to the address listed below.
 
 **10\. POLICY CHANGES.**  
 The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.  
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to michelle@creocommunico.com and providing us with information relating to your concern.  
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to girlbloggernextdoor@gmail.com and providing us with information relating to your concern.  
 You may also mail your concerns to us at the following address:  
-Creo Communico LLC  
+Virago Unlimited LLC  
 3110A East 40th Ave  
 Anchorage, AK 99508  
 USA
 
-**11\. CALIFORNIA PRIVACY RIGHTS.** ****  
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to michelle@creocommunico.com or write us at the following address:  
-Creo Communico LLC  
+**11\. CALIFORNIA PRIVACY RIGHTS.**  
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail togirlbloggernextdoor@gmail.com or write us at the following address:  
+Virago Unlimited LLC  
 3110A East 40th Ave  
 Anchorage, AK 99508  
 USA
