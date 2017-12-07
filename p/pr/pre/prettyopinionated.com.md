@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettyopinionated.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074332id_/http%3A//www.prettyopinionated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettyopinionated.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207064536id_/http%3A//www.prettyopinionated.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pretty Opinionated
 
@@ -17,6 +17,10 @@ When visiting @prettyopinionated the IP address used to access the site will be 
 
 **Links to third party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+
+**Gourmet Ads**
+
+For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy](http://www.gourmetads.com/about/privacy-policy)
 
 **Notice Regarding Online behavioural Advertising**  
 We allow third party companies to serve ads and/or collect certain anonymous information  
