@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ok.co.uk privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627055135id_/http%3A//www.ok.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ok.co.uk privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207153411id_/https%3A//www.ok.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # About
 
