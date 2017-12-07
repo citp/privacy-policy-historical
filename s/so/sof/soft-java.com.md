@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the soft-java.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608002151id_/http%3A//slovoed.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft-java.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207154931id_/http%3A//slovoed.com/en/privacy) for the most accurate reproduction.*
 
 # Slovoed
 
 ### General Provisions
 
-This Privacy Policy applies to the entire business relationship between Paragon Software GmbH (also hereinafter referred to as ‘we’ or ‘us’) and our visitors (hereinafter referred to as "Users"). This document explains what information we collect about Users of this online resource and how we use this information. The privacy of those who visit this online resource is important to us. We support the goals and guidelines set forth by oversight laws and organizations devoted to providing online safety and privacy for children, households, parents and schools. We design and operate our technology and services with our Users’ protection and privacy in mind. For purposes of this Policy, personal information is data that can be used to identify or contact a single person including e-mail, name, etc.
+This Privacy Policy applies to the entire business relationship between Paragon Software GmbH, Wiesentalstraße 22, D-79115, Freiburg, (also hereinafter referred to as ‘we’ or ‘us’) and our visitors (hereinafter referred to as "Users"). This document explains what information we collect about Users of this online resource and how we use this information. The privacy of those who visit this online resource is important to us. We support the goals and guidelines set forth by oversight laws and organizations devoted to providing online safety and privacy for children, households, parents and schools. We design and operate our technology and services with our Users’ protection and privacy in mind. For purposes of this Policy, personal information is data that can be used to identify or contact a single person including e-mail, name, etc.
 
 ### Security Policy
 
@@ -12,11 +12,17 @@ Paragon Software GmbH takes the security of your personal information seriously.
 
 ### Privacy Policy
 
-Paragon Software GmbH guarantees to keep confidential all the information you provide and items we discussed. We are committed to protecting your privacy and we will only use the information that we collect about you lawfully in accordance with German and European Data Protection Laws. We collect information about you for two reasons: first to process your order and second to provide you with the best possible service. We will not email you in the future unless you have given your consent. The type of information we will collect about you after submitting the order form includes: your name, address, phone number and email address. You can check the information hold by us about you by entering Slovoed Customer Service System at my.slovoed.com using your password and login we sent to you. If you find any inaccuracies you will able to correct it promptly. We never pass on customer details to other companies or organizations for any purpose.
+Paragon Software GmbH guarantees to keep confidential all the information you provide and items we discussed. We are committed to protecting your privacy and we will only use the information that we collect about you lawfully in accordance with German and European Data Protection Laws. We collect information about you for two reasons: first to process your order and second to provide you with the best possible service. We will not email you in the future unless you have given your consent. The type of information we will collect about you after submitting the order form includes your name, address, phone number and email address. You can check the information hold by us about you by entering Slovoed Customer Service System at my.slovoed.com using your password and login we sent to you. If you find any inaccuracies, you will able to correct it promptly. We never pass on customer details to other companies or organizations for any purpose.
 
-### Privacy Policy for mobile apps
+### Privacy Policy for apps
 
-Paragon Software GmbH develops the apps for iOS, Android, Mac OS X, Windows and other popular platforms. We integrate Google Analytics service to our apps because we want our apps and promotions to be relevant and interesting for you. We collect data on the app purchase/refund, conversion data, online sources where our customers come from without collecting any information that personally identifies you, such as name, email address or any other personal information that could be used to contact you or identifies who you are. We do not share this information with any third parties.
+Paragon Software GmbH, Wiesentalstraße 22, D-79115, Freiburg, develops apps for Android, macOS, Windows, and other popular platforms. We integrate Google Analytics/Firebase service to our apps because we want our app user experience to be easy and seamless. These analytical services include, but are not limited to, Google Analytics SDK, Firebase SDK, and Fabric, depending on the platform.
+
+Using these frameworks in our apps helps track purchases/refunds, conversion rates, and online sources where our customers come from, without collecting any information that personally identifies users, such as name, email address, IP address, phone, or other personal information that could be used to contact users or identifies who they are.
+
+To provide users with a free trial period our Android apps collect Google IDs and Facebook IDs to bind the trial license to it. This data is securely transferred to our protected server and is stored encrypted without any access from third parties. This is required to provide trial access. We do not share this information with any third parties.
+
+If you do not want these analytical services tracking your behavior while using Paragon Software product, you can disable this option in the product settings.
 
 ### PenReader handwriting recognition app
 
@@ -27,15 +33,15 @@ PenReader app converts any text (whether written with a finger or stylus) into p
 The Users’ browser may save cookies while they are using our website. The use of our website means that the Users agree to this procedure.
 
 **This is how we use cookies:**   
-A cookie is a short text snippet which is sent to the browser by a website the Users visited. It saves the Users’ information such as the last visit, the preferred language, or other settings. This will help Users find the way around our website quicker and use it more effectively the next time they access it. Cookies play an important role. Surfing the net would be frustrating without them. Cookies can also be used to analyze website use on our pages. This helps us optimize our website and deliver the relevant content in a target-oriented manner.   
+A cookie is a short text snippet, which is sent to the browser by a website the Users visited. It saves the Users’ information such as the last visit, the preferred language, or other settings. This will help Users find the way around our website quicker and use it more effectively the next time they access it. Cookies play an important role. Surfing the net would be frustrating without them. Cookies can also be used to analyze website use on our pages. This helps us optimize our website and deliver the relevant content in a target-oriented manner.   
 **This is how we don’t use cookies:**   
-We do not use cookies on our websites to collect personal or personalized data.   
+We do not use cookies on our websites to collect personal or personalized data.    
 **Cookie management**   
-Most modern browsers allow Users to manage cookies as they please. Many browsers give the chance to set rules which they can use to manage cookies for each individual website. This way, Users can rule out cookies from all websites which they don’t trust. As an alternative, they can also deactivate the use of cookies on the browser entirely and thus prevent them from being used all together. 
+Most modern browsers allow Users to manage cookies as they please. Many browsers give the chance to set rules, which they can use to manage cookies for each individual website. This way, Users can rule out cookies from all websites, which they don’t trust. As an alternative, they can also deactivate the use of cookies on the browser entirely and thus prevent them from being used all together. 
 
 ### Data collection
 
-Paragon Software GmbH processes Users’ information for the purpose of dealing with enquiries and for maintaining existing relations. Personal information about the Users will not be used for any purpose which is unrelated to the use of the services unless specifically authorized by the Use
+Paragon Software GmbH processes Users’ information for the purpose of dealing with inquiries and for maintaining existing relations. Personal information about the Users will not be used for any purpose, which is unrelated to the use of the services unless specifically authorized by the Use
 
 ### Legally Required Disclosure and Transfer in a Corporate Transaction
 
