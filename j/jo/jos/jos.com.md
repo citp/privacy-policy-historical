@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jos.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061418id_/http%3A//www.jos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jos.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207151150id_/http%3A//www.jos.com/privacy-policy) for the most accurate reproduction.*
 
 # JOS - Hong Kong and Macau | English | Privacy Policy
 
@@ -42,7 +42,7 @@ This information is collected for analysis and evaluation in order to help us im
 
 **Access request; Withdrawal of consent; Updating of personal data**
 
-You may by contact us via email at [CorpCommunications@jos.com.hk](mailto:CorpCommunications@jos.com.hk) or by telephone +852 2880 8553 to (a) request access to your Personal Information, or (b) withdraw your consent to our use or disclosure of your Personal Information.
+You may by contact us via email at [CorpCommunications@jos.com.hk](mailto:CorpCommunications@jos.com.hk) or by telephone +852 2565 2011 to (a) request access to your Personal Information, or (b) withdraw your consent to our use or disclosure of your Personal Information.
 
 You may also update or correct your Personal Information by the above contact.
 
