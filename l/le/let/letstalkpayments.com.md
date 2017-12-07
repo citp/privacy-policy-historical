@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letstalkpayments.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401144150id_/https%3A//letstalkpayments.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalkpayments.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207063256id_/https%3A//letstalkpayments.com/privacy-policy) for the most accurate reproduction.*
 
 # LTP Privacy Policy | #1 in Global FinTech Insights
 
