@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemseducation.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211150908id_/http%3A//www.gemseducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemseducation.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207230231id_/http%3A//www.gemseducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GEMS Education
 
