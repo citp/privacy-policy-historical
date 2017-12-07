@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607063557id_/http%3A//www.cybergrants.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207123824id_/http%3A//www.cybergrants.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CyberGrants
 
@@ -44,7 +44,7 @@ We may collect your TCP/ IP address, Internet Provider, browser type, and langua
 
 ### Cookies and Other Tracking Technologies
 
-When you visit our sites, cookies or other tracking technologies may be placed on your computers or mobile devices. A cookie is a small amount of information that a web server sends to your browser that stores Non-Personal Information about your account, preferences and use of our sites and Services. Cookies allow us to recognize you when you return to our sites and track and target your interests in order to provide a customized experience. They also help us to detect certain kinds of fraud. We use cookies to store preferences, record session information, record user-specific information on what pages are accessed or visited, alert you to new areas of our sites, or customize web page content, services and advertisements based on browser type or other information that the tracking technologies provide.
+When you visit our sites, cookies or other tracking technologies may be placed on your computers or mobile devices. A cookie is a small amount of information that a web server sends to your browser that stores Non-Personal Information about your account, preferences and use of our sites and Services. Cookies allow us to recognize you when you return to our sites and track and target your interests in order to provide a customized experience. They also help us to detect certain kinds of fraud. We use cookies to store preferences, record session information, record user-specific information on what pages are accessed or visited, alert you to new areas of our sites, or customize web page content.
 
 ### Data Retention
 
