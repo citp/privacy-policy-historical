@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcrw.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627054238id_/http%3A//www.kcrw.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcrw.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207110700id_/http%3A//www.kcrw.com/about/privacy-policy) for the most accurate reproduction.*
 
 # About KCRW 89.9 FM | Music, NPR News, Culture Los Angeles
 
