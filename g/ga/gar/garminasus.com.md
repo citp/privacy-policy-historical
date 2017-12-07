@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garminasus.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627190651id_/http%3A//www.garmin.com/en-US/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garminasus.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207230808id_/http%3A//www.garmin.com/en-US/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Garmin | United States
 
