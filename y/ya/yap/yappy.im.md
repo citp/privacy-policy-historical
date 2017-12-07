@@ -1,59 +1,100 @@
-> *The following text is extracted and transformed from the yappy.im privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224134047id_/http%3A//yappy.im/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yappy.im privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207062629id_/https%3A//www.yappy.im/businessPrivacy) for the most accurate reproduction.*
 
 # Yappy - Privacy Policy
 
-**Privacy Policy**
+Privacy Policy   
+Effective Date: October 27, 2016 
 
-This Privacy Policy describes Yappy's policies and procedures on the collection, use and disclosure of your information. Yappy receives your information through our various web sites, SMS, APIs, and other services ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by Yappy in the United States or any other country where Yappy operates.
+This Privacy Policy covers the Yappy Application, Services, and Website, which are owned and operated by MariusSoft LLC (“MariusSoft”). The terms “Application,” “Services,” and “Website” are defined in the Terms of Service at [www.yappy.im/businessTOS](http://www.yappy.im/businessTOS). 
 
-If you have any questions or comments about this Privacy Policy, please contact us at info@Yappy.im
+MariusSoft is committed to protecting the privacy of its users and wishes to maintain a safe and secure environment for all users of the Application, Services, and Website. Please read the following Privacy Policy to understand how your personal information is treated. From time to time, MariusSoft may offer new services that may require MariusSoft to update this Privacy Policy. Please check this Privacy Policy periodically. If you have questions or concerns regarding this policy, you should contact MariusSoft’s Privacy Administrator by email at [info@yappy.im](mailto:info@yappy.im). 
 
-* * *
+This Privacy Policy addresses the following issues regarding your privacy protection: 
 
-**Information Collection & Use **
+INFORMATION COLLECTED BY MARIUSSOFT 
 
-We collect and use your information to provide our Services and improve them over time. 
+MariusSoft collects personal information from users for different purposes. Information gathered can be identified as either anonymous or identifiable. Anonymous information is information that cannot be traced back to the individual. Identifiable information is information that is specific to an individual. 
 
-Information Collected Upon Registration: When you create or reconfigure a Yappy account, you provide some personal information, we may collect information such as your name, email address, and contacts info through connecting to your Google Account (with your consent) This information is not displayed with the public nor is it ever shared without your explicit consent. We may use your contact information to send you information about our Services or alert you to important events. If you contact us via email or other electronic communication, we may keep your message, email address and contact information to respond to your request. 
+Automatically Collected Data / Log Data
 
-Text Messages: Our Services are primarily designed to help you share information privately with whom you choose. None of the information is ever made public, unless you explicitly opt-in for that. 
+Like most companies offering online services, the Application, Services, and Website gather certain information automatically from your computer or mobile device and store it. This information may include Internet protocol (IP) addresses, operating system, device type, browser type, content viewed, Internet services provider (ISP), location information, referring/exit pages, date/time stamps, and clickstream data. MariusSoft uses this information, which does not identify individual users, to analyze trends, administer the Application and Website, gather demographic information about its user base as a whole, and improve its level of service to you. 
 
-Log Data: Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, phone type, the referring domain, pages visited. Other actions, such as interactions with advertisements, may also be included in Log Data. 
+Information You Provide
 
-Links: Yappy may keep track of how you interact with links by redirecting clicks or through other means. We do this to help improve our Services, including advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on. 
+To use the Application and Services, a user must register for an account. A user may register by creating an account through the Application or Website. In either case, MariusSoft will collect the following information: (i) name, (ii) email address, and (iii) password. Alternatively, MariusSoft may allow a user to register using third party services (such as Google or Facebook) to authenticate the user’s identity. If a user registers using a third party service, you will be asked permission to share certain information from your third party account with MariusSoft. In addition, users must provide financial information in order to use the MariusSoft service. However, all financial information is processed through third-party payment processors, and MariusSoft does not collect or store a user’s financial information. The provision of this personally identifiable information is mandatory and if you choose not to submit the requested information we will not be able to provide you with an account. 
 
-Cookies: Like many websites, we use "cookies" to collect additional website usage data and to improve our Services, and to authenticate users. A cookie is a small data file that is transferred to your computer's hard disk. Yappy may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. 
+Service Data Provided by MariusSoft’s Customers
 
-Third Party Services: Yappy uses a variety of services hosted by third parties to help provide our Services and to help us understand the use of our Services, such as Google Analytics. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request. 
+MariusSoft collects and stores information that is created, inputted, submitted, posted, transmitted, or stored by you or an individual authorized to use the Services through your account (“Agent”). This information (“Service Data”) may include electronic data, texts, messages, communications, phone numbers, Facebook account information, IP addresses, clickstream date, cookies, and other custom data provided by you to MariusSoft. 
 
-* * *
+If your personal information is collected and/or used by MariusSoft’s customers, you should review the privacy policies of such customers to understand how your personal information is collected and used. 
 
-**Information Sharing & Disclosure **
+COOKIES 
 
-We do not disclose your private information except in the limited circumstances described here. 
+MariusSoft uses cookies. A cookie is a piece of data stored on a user’s device to help us improve your access to and use of the Application, Services, or Website and identify repeat visitors. 
 
-Your Consent: We may share or disclose your information with your consent, such as when you use a third party web client to access your Yappy account. 
+You can set your browser to refuse all cookies or to indicate when a cookie is being sent. If you do not accept cookies, you may not be able to use some features of the Services. 
 
-Service Providers: We engage certain trusted third parties to perform functions and provide services to us. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to obligations mirroring the protections of this privacy policy. 
+USE OF PERSONALLY IDENTIFIABLE INFORMATION 
 
-Law and Harm: We may disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Yappy's rights or property. 
+Personally identifiable information collected is used primarily for the purpose it is collected (e.g., creating a user account). MariusSoft also may use a user’s email address as follows, provided that the user grants his/her consent to such additional use: 
 
-Business Transfers: In the event that Yappy is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this privacy policy will apply to your information as transferred to the new entity. 
+• in internal surveys to obtain feedback on aspects of MariusSoft’s business; 
 
-Non-Private or Non-Personal Information: We may share or disclose aggregated or otherwise non-personal information, such as usage patterns or link click statistics 
+• to notify users of information MariusSoft thinks may be of interest to them; • to send communications or promotional materials; and 
 
-* * *
+• to provide, operate, maintain, analyze, improve and promote the Services. 
 
-**Information Sharing & Disclosure **
+MariusSoft may also use personally identifiable information collected to contact users in connection with the inappropriate use of the Application, Services, or Website. 
 
-If you are a registered user of our Services, we provide you with tools to access or modify the personal information you provided to us and associated with your account. 
+DISCLOSURE OF PERSONALLY IDENTIFIABLE INFORMATION 
 
-* * *
+From time to time, MariusSoft may disclose your personal information to organizations that perform services for or on behalf of MariusSoft, for example to provide customer service, for research, data processing, and to measure the use of our Application, Services, or Website. MariusSoft will share with these companies only that personal information that they need to work on our behalf. Some of these service providers may be located in other countries. Your personal information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to MariusSoft, and under the instructions of MariusSoft, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Privacy Policy. 
 
-**Policy updates**
+INFORMATION SECURITY 
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will be at https://www.yappy.im/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you via your Yappy client or to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
+The Application, Security, and Website have commercially reasonable security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about MariusSoft’s ability to prevent any such loss, misuse, or alteration to you or to any third party. Please review MariusSoft’s Terms of Service regarding MariusSoft’s liability for any loss, misuse, or alteration of personally identifiable information. 
 
-* * *
+UPDATING INFORMATION 
 
-This Privacy Policy is effective December 30, 2013.
+You have the right to correct and update the personal information collected about you through the Application, Services, or Website. You can make changes to your personal information at any time by logging into your account. You will need your email address and password in order to access your account. Alternatively, you may contact MariusSoft at [info@yappy.im](mailto:info@yappy.im). 
+
+NOTIFICATION OF CHANGES TO THIS PRIVACY POLICY 
+
+MariusSoft reserves the right to make changes to this Privacy Policy. In the event of a material change in our information collection and handling practices, MariusSoft will notify by email those users who have provided an email address. Any changes will apply prospectively only. 
+
+OPTING OUT OF RECEIVING EMAIL COMMUNICATIONS 
+
+MariusSoft provides you the opportunity to “opt-out” of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you register for an account but do not wish to receive any additional marketing material from us, you can indicate your preference during the account creation process. If you opted-in to receive marketing communications but no longer wish to receive communications from us, you may opt-out of receiving them by following the instructions included in each communication. 
+
+LINKS 
+
+The Application, Services, or Website may contain links to third party applications, services, or websites. Please be aware that MariusSoft is not responsible for the privacy practices or the content of such other applications, services, or websites. MariusSoft encourages users to read the privacy policies of any third party that collects personally identifiable information. This Privacy Policy applies solely to information collected by MariusSoft. 
+
+NOTICE REGARDING CHILDREN 
+
+The Application, Services, and Website is general audience app and does not direct any of its content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children’s privacy. If we learn or have reason to suspect that a user is under age 13, we will promptly delete any personal information in that user’s account. 
+
+NOTICE TO CALIFORNIA RESIDENTS 
+
+MariusSoft does not disclose your information to third parties for marketing purposes. If you are a California resident, you have the right to receive (a) information identifying all third-party companies to which we may have disclosed, within the past year, personal information pertaining to you and your family for those companies’ direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information, please email [info@yappy.im](mailto:info@yappy.im). 
+
+CALIFORNIA DO NOT TRACK DISCLOSURE 
+
+MariusSoft does not track its customers over time and across third party websites to provide targeted advertising and therefore does not respond to Do Not Track (“DNT”) signals. However, some third parties do track of your browsing activities. If you are visiting third party websites, your browser should allow you to set the DNT signal on your browser so that third parties know you do not want to be tracked. 
+
+INTERNATIONAL USERS 
+
+MariusSoft is a U.S. company and the Application, Services, and Website are hosted in the United States. If you access the Application, Services, or Website from the European Union, Asia, or any other region, country, or jurisdiction with privacy laws or regulations governing personal data collection, use, and disclosure that differ from United States privacy laws, please note that, by your use of the Application, Services, and Website, you are transferring your personal information to the United States and you consent to that transfer. In addition, you understand that your personal information may be processed in countries (including the United States) where privacy laws may be less stringent than in your country. If you reside in a country or jurisdiction that provides access rights under law, you may access, correct or update the personal information through your account or by contacting MariusSoft at [info@yappy.im](mailto:info@yappy.im). 
+
+U.S.-EUROPEAN UNION AND U.S.-SWITZERLAND SAFE HARBOR 
+
+MariusSoft complies with the U.S.-European Union Safe Harbor Framework and the U.S.-Switzerland Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. To learn more about the Safe Harbor program, please visit <https://build.export.gov/main/safeharbor/index.asp>. 
+
+HOW TO CONTACT MARIUSSOFT ABOUT PRIVACY CONCERNS 
+
+If you have any further questions or comments regarding this Privacy Policy, you may contact us at [info@yappy.im](mailto:info@yappy.im). 
+
+REQUIRED DISCLOSURES 
+
+MariusSoft may disclose personal information when required by law or when MariusSoft believes in good faith that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our site. 
