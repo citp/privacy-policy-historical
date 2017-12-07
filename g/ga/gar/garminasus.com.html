@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the garminasus.com privacy policy that was archived on 2017-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627190651id_/http%3A//www.garmin.com/en-US/legal/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the garminasus.com privacy policy that was archived on 2017-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171207230808id_/http%3A//www.garmin.com/en-US/legal/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head lang="en-US">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -19,14 +19,15 @@ window._ga_universal.push(['set_disabled', false]);
     GarminGCAPI.config.locales.autoSelect = 1;
     GarminGCAPI.config.locales.autoSelectSrc = "url-replace";
     </script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://static.garmincdn.com/com.garmin/ui/js/jquery-migrate-1.4.1.min.js"></script>
 
-<link href="https://static.garmincdn.com/com.garmin/ui/css/base.lib-v1.8-min.css?4bbb6a16" rel="stylesheet" type="text/css">
-<!--[if lt IE 9]>
-<script src="https://static.garmincdn.com/com.garmin/ui/src-js/html5shiv.js?68daa682"></script>
-<link  href="https://static.garmincdn.com/com.garmin/ui/src-css/oldIE.css?5599c884" rel="stylesheet" type="text/css" />
-<![endif]-->
-<script src="https://static.garmincdn.com/com.garmin/ui/js/jquery.lib-v1.8-min.js?b76b714b" type="text/javascript"></script>
+
+<link href="https://static.garmincdn.com/com.garmin/ui/css/base.lib-v2.0-min.css?439ea1b2" rel="stylesheet" type="text/css">
+<script src="https://static.garmincdn.com/com.garmin/ui/js/jquery.lib-v2.0-min.js?89224924" type="text/javascript"></script>
+
+
+
 
 
 
@@ -166,678 +167,789 @@ window._ga_universal.push(['set_disabled', false]);
 
 <div id="content">     
 
-  <!-- <div>Header (File: ./lib/app/views/gcapi/0.99/header.gcapi.tpl)</div> -->
+  
+<header class="g__header">
 
-<header id="global-header">
-    <div id="top-utility-bar" class="container">
-	<div class="row">
-		<div class="col-sm-12">
-			<ul class="pull-right">
-			<li id="login-state">
-  <div id="logged-out" class="logged-out">
-    <a class="sign-in-link" data-ua-event="Global Header,Sign In,Sign In" data-locale="en-US" href="https://my.garmin.com/mygarmin/login.htm?service=https%3A%2F%2Fwww.garmin.com%2Fen-US">Sign In</a>  </div>
-  <div id="logged-in" class="logged-in has-menu" style="display: none;">
-    <a data-ua-event="Global Header,Utility Bar: Your Account,Your Account" onclick="header_data(action_f3, 'Your Account');" class="signed-in-link" href="#">Your Account</a>
-    <span class="dd-arrow"></span>
-    <div class="dropdown">
-      <ul>
-        <li><a data-ua-event="Global Header,Utility Bar: Your Account,Account Home" onclick="header_data(action_f3, 'Account Home');" href="https://my.garmin.com/">Account Home</a></li><li><a data-ua-event="Global Header,Utility Bar: Your Account,Your Products" onclick="header_data(action_f3, 'Your Products');" href="https://my.garmin.com/mygarmin/customers/myUnits.htm">Your Products</a></li><li><a data-ua-event="Global Header,Utility Bar: Your Account,Order History" onclick="header_data(action_f3, 'Order History');" href="https://buy.garmin.com/en-US/US/manage-account.ep">Order History</a></li><li><a data-ua-event="Global Header,Utility Bar: Your Account,Repair History" onclick="header_data(action_f3, 'Repair History');" href="https://my.garmin.com/mygarmin/customers/myGarminHome.faces">Repair History</a></li><li><a data-ua-event="Global Header,Utility Bar: Your Account,Sign Out" onclick="header_data(action_f3, 'Sign Out');" href="https://my.garmin.com/mygarmin/logout.jsp">Sign Out</a></li>
-      </ul>
-    </div>
+  <!-- utility bar -->
+  <nav class="g__header__utility-bar" aria-label="Utility Bar Navigation">
+	<ul class="g__header__utility-bar__list">
+    		<span id="js__g__header__signin"><!-- wrap for js gcapi component on/off state check -->
+  <li id="js__g__header__utility-bar__item--signin" class="g__header__utility-bar__item g__header__utility-bar__item--signin">
+    <a id="js__g__header__utility-bar__signin-link" class="g__header__utility-bar__link g__header__utility-bar__link__signin-link" data-ua-event="Global Header,Sign In,Sign In" data-locale="en-US" href="#">
+  <span class="g__header__utility-bar__link__arw">
+        <svg class="g__header__utility-bar__arw__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M12.5 22.5l7-7.5-7-7.5-2 2.1 5 5.4-5 5.4 2 2.1z"></path></svg>
+  </span>
+    Sign In
+</a>
+<div class="g__header__utility-bar__dd g__header__utility-bar__dd--sign-in js-sign-in-dd container-GAuth">
+  <div id="js__g__header__gauth-widget"></div>
+  <p class="g__header__utility-bar__text">Don't have an account? <a href="https://www.garmin.com/en-US/account/create">Create One</a></p>
+</div>
+
+<script type="text/javascript" src="https://sso.garmin.com/sso/js/gauth-widget.js"></script>
+<script type="text/javascript">
+/* eslint-disable */
+  GAUTH.init({
+    gauthHost: 'https://sso.garmin.com/sso',
+    callBackWebHostUrl: "",
+    clientId: 'gcapi',
+    locale: "en-US",
+    id: 'js__g__header__gauth-widget',
+    rememberMeShown: true,
+    rememberMeChecked: false,
+    customerId: '',
+    createAccountShown: false,
+    cssUrl: "https://static.garmincdn.com/com.garmin.guest-checkout/css/guest-checkout-sso-v0.1.1-min.css",
+    redirectAfterAccountLoginUrl: window.location.href,
+    redirectAfterAccountCreationUrl: window.location.href,
+    generateExtraServiceTicket: false,
+  });
+
+  GAUTH.loadGAuth();
+  /* eslint-enable */
+</script>  </li>
+  <li class="g__header__utility-bar__item g__header__utility-bar__item--account-dd g__header__utility-bar__item--has-dd">
+    <a id="js__g__header__utility-bar__account-link" class="g__header__utility-bar__link" href="#" data-ua-event="Global Header,Utility Bar: Your Account,Your Account">
+      <span class="g__header__utility-bar__link__arw">
+        <svg class="g__header__utility-bar__arw__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M12.5 22.5l7-7.5-7-7.5-2 2.1 5 5.4-5 5.4 2 2.1z"></path></svg>
+      </span>
+        Your Account
+    </a>
+    <ul class="g__header__utility-bar__dd">
+      <li class="g__header__utility-bar__dd__item">
+        <a id="" class="g__header__utility-bar__link" data-ua-event="Global Header,Utility Bar: Your Account,Profile" href="https://www.garmin.com/en-US/account/">Profile</a>
+      </li>
+      <li class="g__header__utility-bar__dd__item">
+        <a id="" class="g__header__utility-bar__link" data-ua-event="Global Header,Utility Bar: Your Account,Products" href="https://www.garmin.com/en-US/account/products/">Products</a>
+      </li>
+      <li class="g__header__utility-bar__dd__item">
+        <a id="" class="g__header__utility-bar__link" data-ua-event="Global Header,Utility Bar: Your Account,Orders" href="https://buy.garmin.com/en-US/US/manage-account.ep">Orders</a>
+      </li>
+      <li class="g__header__utility-bar__dd__item">
+        <a id="js__g__header__utility-bar__signout-link" class="g__header__utility-bar__link" data-ua-event="Global Header,Utility Bar: Your Account,Sign Out" href="https://www.garmin.com/en-US/account/logout/">Sign Out</a>
+      </li>
+    </ul>
+  </li>
+</span>
+		<li id="js__g__header__locale-selector" class="g__header__utility-bar__item g__header__utility-bar__item--has-dd">
+  <a class="g__header__utility-bar__link g__flag--en-US" href="#">United States</a>
+
+  <div class="g__header__utility-bar__dd g__header__utility-bar__dd--locale">
+  <ul id="js__g__locale-selector__group__main" class="g__locale-selector__group js__locale-selector__group">
+    
+    <li class="g__locale-selector__item" lang="es-AR">
+      <a class="g__locale-selector__item__link  g__flag--es-AR js__g__locale-selector__item__link" href="/es-AR/legal/privacy-statement" data-locale="es-AR">Argentina</a>
+    </li>
+    <li class="g__locale-selector__item" lang="en-AU">
+      <a class="g__locale-selector__item__link  g__flag--en-AU js__g__locale-selector__item__link" href="/en-AU/legal/privacy-statement" data-locale="en-AU">Australia</a>
+    </li>
+    <li class="g__locale-selector__item" lang="fr-BE">
+      <a class="g__locale-selector__item__link  g__flag--fr-BE js__g__locale-selector__item__link" href="/fr-BE/legal/privacy-statement" data-locale="fr-BE">Belgique (Français)</a>
+    </li>
+    <li class="g__locale-selector__item" lang="nl-BE">
+      <a class="g__locale-selector__item__link  g__flag--nl-BE js__g__locale-selector__item__link" href="/nl-BE/legal/privacy-statement" data-locale="nl-BE">België (Nederlands)</a>
+    </li>
+    <li class="g__locale-selector__item" lang="pt-BR">
+      <a class="g__locale-selector__item__link  g__flag--pt-BR js__g__locale-selector__item__link" href="/pt-BR/legal/privacy-statement" data-locale="pt-BR">Brasil</a>
+    </li>
+    <li class="g__locale-selector__item" lang="en-CA">
+      <a class="g__locale-selector__item__link  g__flag--en-CA js__g__locale-selector__item__link" href="/en-CA/legal/privacy-statement" data-locale="en-CA">Canada (English)</a>
+    </li>
+    <li class="g__locale-selector__item" lang="es-CL">
+      <a class="g__locale-selector__item__link  g__flag--es-CL js__g__locale-selector__item__link" href="/es-CL/legal/privacy-statement" data-locale="es-CL">Chile</a>
+    </li>
+    <li class="g__locale-selector__item" lang="da-DK">
+      <a class="g__locale-selector__item__link  g__flag--da-DK js__g__locale-selector__item__link" href="/da-DK/legal/privacy-statement" data-locale="da-DK">Danmark</a>
+    </li>
+    <li class="g__locale-selector__item" lang="de-DE">
+      <a class="g__locale-selector__item__link  g__flag--de-DE js__g__locale-selector__item__link" href="/de-DE/legal/privacy-statement" data-locale="de-DE">Deutschland</a>
+    </li>
+    <li class="g__locale-selector__item" lang="es-ES">
+      <a class="g__locale-selector__item__link  g__flag--es-ES js__g__locale-selector__item__link" href="/es-ES/legal/privacy-statement" data-locale="es-ES">España</a>
+    </li>
+    <li class="g__locale-selector__item" lang="fr-FR">
+      <a class="g__locale-selector__item__link  g__flag--fr-FR js__g__locale-selector__item__link" href="/fr-FR/legal/privacy-statement" data-locale="fr-FR">France</a>
+    </li>
+    <li class="g__locale-selector__item" lang="hr-HR">
+      <a class="g__locale-selector__item__link  g__flag--hr-HR js__g__locale-selector__item__link" href="/hr-HR/legal/privacy-statement" data-locale="hr-HR">Hrvatska</a>
+    </li>
+    <li class="g__locale-selector__item" lang="en-IE">
+      <a class="g__locale-selector__item__link  g__flag--en-IE js__g__locale-selector__item__link" href="/en-IE/legal/privacy-statement" data-locale="en-IE">Ireland</a>
+    </li>
+    <li class="g__locale-selector__item" lang="it-IT">
+      <a class="g__locale-selector__item__link  g__flag--it-IT js__g__locale-selector__item__link" href="/it-IT/legal/privacy-statement" data-locale="it-IT">Italia</a>
+    </li>
+    <li class="g__locale-selector__item" lang="es-MX">
+      <a class="g__locale-selector__item__link  g__flag--es-MX js__g__locale-selector__item__link" href="/es-MX/legal/privacy-statement" data-locale="es-MX">México</a>
+    </li>
+    <li class="g__locale-selector__item" lang="nl-NL">
+      <a class="g__locale-selector__item__link  g__flag--nl-NL js__g__locale-selector__item__link" href="/nl-NL/legal/privacy-statement" data-locale="nl-NL">Nederland</a>
+    </li>
+    <li class="g__locale-selector__item" lang="en-NZ">
+      <a class="g__locale-selector__item__link  g__flag--en-NZ js__g__locale-selector__item__link" href="/en-NZ/legal/privacy-statement" data-locale="en-NZ">New Zealand</a>
+    </li>
+    <li class="g__locale-selector__item" lang="nb-NO">
+      <a class="g__locale-selector__item__link  g__flag--nb-NO js__g__locale-selector__item__link" href="/nb-NO/legal/privacy-statement" data-locale="nb-NO">Norge</a>
+    </li>
+    <li class="g__locale-selector__item" lang="pl-PL">
+      <a class="g__locale-selector__item__link  g__flag--pl-PL js__g__locale-selector__item__link" href="/pl-PL/legal/privacy-statement" data-locale="pl-PL">Polska</a>
+    </li>
+    <li class="g__locale-selector__item" lang="pt-PT">
+      <a class="g__locale-selector__item__link  g__flag--pt-PT js__g__locale-selector__item__link" href="/pt-PT/legal/privacy-statement" data-locale="pt-PT">Portugal</a>
+    </li>
+    <li class="g__locale-selector__item" lang="ro-RO">
+      <a class="g__locale-selector__item__link  g__flag--ro-RO js__g__locale-selector__item__link" href="/ro-RO/legal/privacy-statement" data-locale="ro-RO">Romania</a>
+    </li>
+    <li class="g__locale-selector__item" lang="sl-SI">
+      <a class="g__locale-selector__item__link  g__flag--sl-SI js__g__locale-selector__item__link" href="/sl-SI/legal/privacy-statement" data-locale="sl-SI">Slovenija</a>
+    </li>
+    <li class="g__locale-selector__item" lang="en-ZA">
+      <a class="g__locale-selector__item__link  g__flag--en-ZA js__g__locale-selector__item__link" href="/en-ZA/legal/privacy-statement" data-locale="en-ZA">South Africa</a>
+    </li>
+    <li class="g__locale-selector__item" lang="fi-FI">
+      <a class="g__locale-selector__item__link  g__flag--fi-FI js__g__locale-selector__item__link" href="/fi-FI/legal/privacy-statement" data-locale="fi-FI">Suomi</a>
+    </li>
+    <li class="g__locale-selector__item" lang="sv-SE">
+      <a class="g__locale-selector__item__link  g__flag--sv-SE js__g__locale-selector__item__link" href="/sv-SE/legal/privacy-statement" data-locale="sv-SE">Sverige</a>
+    </li>
+    <li class="g__locale-selector__item" lang="en-GB">
+      <a class="g__locale-selector__item__link  g__flag--en-GB js__g__locale-selector__item__link" href="/en-GB/legal/privacy-statement" data-locale="en-GB">United Kingdom</a>
+    </li>
+    <li class="g__locale-selector__item" lang="en-US">
+      <a class="g__locale-selector__item__link g__locale-selector__item__link--active g__flag--en-US js__g__locale-selector__item__link" href="/en-US/legal/privacy-statement" data-locale="en-US">United States</a>
+    </li>
+    <li class="g__locale-selector__item" lang="de-AT">
+      <a class="g__locale-selector__item__link  g__flag--de-AT js__g__locale-selector__item__link" href="/de-AT/legal/privacy-statement" data-locale="de-AT">Österreich</a>
+    </li>
+    <li class="g__locale-selector__item" lang="cs-CZ">
+      <a class="g__locale-selector__item__link  g__flag--cs-CZ js__g__locale-selector__item__link" href="/cs-CZ/legal/privacy-statement" data-locale="cs-CZ">Česká Republika</a>
+    </li>
+    <li class="g__locale-selector__item" lang="el-GR">
+      <a class="g__locale-selector__item__link  g__flag--el-GR js__g__locale-selector__item__link" href="http://www.garmin.gr/" data-locale="el-GR">Ελλάδα</a>
+    </li>
+    
+  </ul>
+  
   </div>
-</li>						<li class="country-selector has-menu">
-  <a class="flag-en-US">United States</a>
-  <span class="dd-arrow"></span>
-  <div class="dropdown row" id="api-locale-options">
-    
-    <ul class="col-xs-12 col-sm-3">
-      <li lang="es-AR"><a class="flag-es-AR " data-locale="es-AR" href="/es-AR/legal/privacy-statement" title="Argentina">Argentina</a></li><li lang="en-AU"><a class="flag-en-AU " data-locale="en-AU" href="/en-AU/legal/privacy-statement" title="Australia">Australia</a></li><li lang="fr-BE"><a class="flag-fr-BE " data-locale="fr-BE" href="/fr-BE/legal/privacy-statement" title="Belgique (Français)">Belgique (Français)</a></li><li lang="nl-BE"><a class="flag-nl-BE " data-locale="nl-BE" href="/nl-BE/legal/privacy-statement" title="België (Nederlands)">België (Nederlands)</a></li><li lang="pt-BR"><a class="flag-pt-BR " data-locale="pt-BR" href="/pt-BR/legal/privacy-statement" title="Brasil">Brasil</a></li><li lang="en-CA"><a class="flag-en-CA " data-locale="en-CA" href="/en-CA/legal/privacy-statement" title="Canada (English)">Canada (English)</a></li><li lang="es-CL"><a class="flag-es-CL " data-locale="es-CL" href="/es-CL/legal/privacy-statement" title="Chile">Chile</a></li><li lang="da-DK"><a class="flag-da-DK " data-locale="da-DK" href="/da-DK/legal/privacy-statement" title="Danmark">Danmark</a></li><li lang="cs-CZ"><a class="flag-cs-CZ " data-locale="cs-CZ" href="/cs-CZ/legal/privacy-statement" title="Česká Republika">Česká Republika</a></li><li lang="th-TH"><a class="flag-th-TH " data-locale="th-TH" href="/th-TH/legal/privacy-statement" title="ประเทศไทย">ประเทศไทย</a></li><li lang="ko-KR"><a class="flag-ko-KR " data-locale="ko-KR" href="/ko-KR/legal/privacy-statement" title="한국">한국</a></li>
-    </ul>
-    <ul class="col-xs-12 col-sm-3">
-      <li lang="de-DE"><a class="flag-de-DE " data-locale="de-DE" href="/de-DE/legal/privacy-statement" title="Deutschland">Deutschland</a></li><li lang="es-ES"><a class="flag-es-ES " data-locale="es-ES" href="/es-ES/legal/privacy-statement" title="España">España</a></li><li lang="es-US"><a class="flag-es-US " data-locale="es-US" href="/es-US/legal/privacy-statement" title="Estados Unidos (Español)">Estados Unidos (Español)</a></li><li lang="fr-FR"><a class="flag-fr-FR " data-locale="fr-FR" href="/fr-FR/legal/privacy-statement" title="France">France</a></li><li lang="hr-HR"><a class="flag-hr-HR " data-locale="hr-HR" href="/hr-HR/legal/privacy-statement" title="Hrvatska">Hrvatska</a></li><li lang="en-IN"><a class="flag-en-IN " data-locale="en-IN" href="/en-IN/legal/privacy-statement" title="India">India</a></li><li lang="en-IE"><a class="flag-en-IE " data-locale="en-IE" href="/en-IE/legal/privacy-statement" title="Ireland">Ireland</a></li><li lang="it-IT"><a class="flag-it-IT " data-locale="it-IT" href="/it-IT/legal/privacy-statement" title="Italia">Italia</a></li><li lang="hu-HU"><a class="flag-hu-HU " data-locale="hu-HU" href="/hu-HU/legal/privacy-statement" title="Magyarország">Magyarország</a></li><li lang="es-MX"><a class="flag-es-MX " data-locale="es-MX" href="/es-MX/legal/privacy-statement" title="México">México</a></li><li lang="nl-NL"><a class="flag-nl-NL " data-locale="nl-NL" href="/nl-NL/legal/privacy-statement" title="Nederland">Nederland</a></li>
-    </ul>
-    <ul class="col-xs-12 col-sm-3">
-      <li lang="en-NZ"><a class="flag-en-NZ " data-locale="en-NZ" href="/en-NZ/legal/privacy-statement" title="New Zealand">New Zealand</a></li><li lang="nb-NO"><a class="flag-nb-NO " data-locale="nb-NO" href="/nb-NO/legal/privacy-statement" title="Norge">Norge</a></li><li lang="pl-PL"><a class="flag-pl-PL " data-locale="pl-PL" href="/pl-PL/legal/privacy-statement" title="Polska">Polska</a></li><li lang="pt-PT"><a class="flag-pt-PT " data-locale="pt-PT" href="/pt-PT/legal/privacy-statement" title="Portugal">Portugal</a></li><li lang="ro-RO"><a class="flag-ro-RO " data-locale="ro-RO" href="/ro-RO/legal/privacy-statement" title="Romania">Romania</a></li><li lang="zh-SG"><a class="flag-zh-SG " data-locale="zh-SG" href="/zh-SG/legal/privacy-statement" title="Singapore">Singapore</a></li><li lang="sl-SI"><a class="flag-sl-SI " data-locale="sl-SI" href="/sl-SI/legal/privacy-statement" title="Slovenija">Slovenija</a></li><li lang="sk-SK"><a class="flag-sk-SK " data-locale="sk-SK" href="/sk-SK/legal/privacy-statement" title="Slovensko">Slovensko</a></li><li lang="en-ZA"><a class="flag-en-ZA " data-locale="en-ZA" href="/en-ZA/legal/privacy-statement" title="South Africa">South Africa</a></li><li lang="fi-FI"><a class="flag-fi-FI " data-locale="fi-FI" href="/fi-FI/legal/privacy-statement" title="Suomi">Suomi</a></li><li lang="de-AT"><a class="flag-de-AT " data-locale="de-AT" href="/de-AT/legal/privacy-statement" title="Österreich">Österreich</a></li>
-    </ul>
-    <ul class="col-xs-12 col-sm-3">
-      <li lang="sv-SE"><a class="flag-sv-SE " data-locale="sv-SE" href="/sv-SE/legal/privacy-statement" title="Sverige">Sverige</a></li><li lang="tr-TR"><a class="flag-tr-TR " data-locale="tr-TR" href="/tr-TR/legal/privacy-statement" title="Türkiye">Türkiye</a></li><li lang="en-GB"><a class="flag-en-GB " data-locale="en-GB" href="/en-GB/legal/privacy-statement" title="United Kingdom">United Kingdom</a></li><li lang="en-US"><a class="flag-en-US active" data-locale="en-US" href="/en-US/legal/privacy-statement" title="United States">United States</a></li><li lang="el-GR"><a class="flag-el-GR " data-locale="el-GR" href="/el-GR/legal/privacy-statement" title="Ελλάδα">Ελλάδα</a></li><li lang="bg-BG"><a class="flag-bg-BG " data-locale="bg-BG" href="/bg-BG/legal/privacy-statement" title="България">България</a></li><li lang="ru-RU"><a class="flag-ru-RU " data-locale="ru-RU" href="/ru-RU/legal/privacy-statement" title="Россия">Россия</a></li><li lang="uk-UA"><a class="flag-uk-UA " data-locale="uk-UA" href="/uk-UA/legal/privacy-statement" title="Україна">Україна</a></li><li lang="zh-CN"><a class="flag-zh-CN " data-locale="zh-CN" href="/zh-CN/legal/privacy-statement" title="中国 - 中文">中国 - 中文</a></li><li lang="zh-TW"><a class="flag-zh-TW " data-locale="zh-TW" href="/zh-TW/legal/privacy-statement" title="台灣 - 中文">台灣 - 中文</a></li><li lang="ja-JP"><a class="flag-ja-JP " data-locale="ja-JP" href="/ja-JP/legal/privacy-statement" title="日本">日本</a></li>
-    </ul>
-    
-      </div><!-- eo: .dropdown -->
-  <script type="text/javascript">
+</li>
+
+<script type="text/javascript">
+  window.Garmin = window.Garmin || {};
+  window.Garmin.site = window.Garmin.site || {};
+  window.Garmin.site.gcapiBootstrap = window.Garmin.site.gcapiBootstrap || {};
+  window.Garmin.site.gcapiBootstrap.locale = function() {
     var autoSelect = true;
     var autoSelectSource = 'url-rewrite';
-    if(autoSelect) {
-      window.garminEvent.trigger('api:locale-selector:auto-select',{'autoSelectSource':autoSelectSource});
-    }
-  </script>
-</li>						</ul>
-		</div><!-- end col -->
-	</div><!-- end  row -->
-</div>
-<!-- eo: #global-utility-bar -->    <div class="header-wrap">
-        <nav class="global-nav">
-            <div class="container">
-                <div class="row">
-                    <div class="global-util col-xs-10 col-sm-3 pull-right">
-                        <ul class="row">
-                            <li class="cart hidden-sm hidden-md hidden-lg"></li>
-                            <li class="nav-show-mobile hidden-sm hidden-md hidden-lg"></li>
-                            <li class="global-search-container col-xs-12 col-sm-12"><script type="text/javascript">
-  /*****************
-  ***
-  *** Remove this when we have INTL search results. 
-  ***
-  *************/
-  var pageHost           = window.location.host;
-  var pagePath           = window.location.pathname;
-  var currentLocale      = pagePath.split('/')[1];
-  var localeCookiePref   = garminGlobalStore.getGlobal('locale');
-  var pageLang           = jQuery('html').attr('lang');
-  if (typeof(pageLang) != 'undefined') {
-    jQuery('html').attr('lang',pageLang.replace('_','-'));
-  } 
-  else {
-    if (typeof(currentLocale) != 'undefined' && currentLocale.length == 5) {
-      jQuery('html').attr('lang',currentLocale);
-    } else if (localeCookiePref != -1) {
-      jQuery('html').attr('lang',localeCookiePref);
-    } else {
-      jQuery('html').attr('lang','en-US');
-    }
-  }
-  //object containing the Google Search Appliance localization strings:
-  var GSALocales = {
-    "es-AR":"garmin_ar_fe",
-    "de-AT":"garmin_at_fe",
-    "en-AU":"garmin_au_fe",
-    "fr-BE":"garmin_be_fr_fe",
-    "nl-BE":"garmin_be_nl_fe",
-    "pt-BR":"garmin_br_fe",
-    "es-CL":"garmin_cl_fe",
-    "zh-CN":"garmin_cn_fe",
-    "de-DE":"garmin_de_fe",
-    "da-DK":"garmin_dk_fe",
-    "es-ES":"garmin_es_fe",
-    "fi-FI":"garmin_fi_fe",
-    "fr-FR":"garmin_fr_fe",
-    "it-IT":"garmin_it_fe",
-    "es-MX":"garmin_mx_fe",
-    "nl-NL":"garmin_nl_fe",
-    "nb-NO":"garmin_no_fe",
-    "en-NZ":"garmin_nz_fe",
-    "pl-PL":"garmin_pl_fe",
-    "pt-PT":"garmin_pt_fe",
-    "sv-SE":"garmin_se_fe",
-    "sl-SI":"garmin_sl_fe",
-    "hr-HR":"garmin_hr_fe",
-    "en-GB":"garmin_uk_fe",
-    "en-ZA":"garmin_za_fe",
-    "en-CA":"garmin_fe"
-  }
 
-  function setupSearch() {
-      if (typeof(GSALocales[pageLang]) != 'undefined' && jQuery('input[name=proxystylesheet]').length == 0) {
-      /* hidden values for info to go to GSA */
-      var searchForm   = jQuery('#suggestion_form');
-      var searchLocale = GSALocales[pageLang];
-      searchForm.append('<input value="'+searchLocale+'" name="proxystylesheet" type="hidden"/>');
-      searchForm.find('input[name="client"]').replaceWith('<input value="'+searchLocale+'" name="client" type="hidden"/>');
-      searchForm.append('<input value="xml_no_dtd" name="output" type="hidden"/>');
-      searchForm.append('<input value="date:D:L:d1" name="sort" type="hidden"/>');
-      searchForm.append('<input value="3" name="entqr" type="hidden"/>');
-      searchForm.append('<input value="UTF-8" name="oe" type="hidden"/>');
-      searchForm.append('<input value="UTF-8" name="ie" type="hidden"/>');
-      searchForm.append('<input value="1" name="ud" type="hidden"/>');
-      searchForm.append('<input value="'+searchLocale.substr(0,searchLocale.length - 3)+'" name="site" type="hidden"/>');
-      searchForm.attr('action','http://search.garmin.com/search');
-    }
+    window.Garmin.site.locale.autoSelect(autoSelect, autoSelectSource);
   }
-    jQuery(document).ready(function(){
-      var page_lang = jQuery('html').attr('lang');
-      jQuery('#js-gheader-page-lang').val( page_lang );
-      
-      setupSearch();
-    });
-</script>
-<form action="https://support.garmin.com/search/shopResults.faces" method="get" name="searchform" id="suggestion_form" class="global-search">
-  <input value="Shop" name="site" type="hidden">
-  <input value="0" name="filter" type="hidden">
-  <input value="garmin_fe" name="client" type="hidden">
-  <input value="Shop" name="contentType" type="hidden">
-  <input value="" name="pageLang" type="hidden" id="js-gheader-page-lang">
-  <label for="js-gheader-search-field" class="hidden">Search Garmin.com</label>
-  <input type="text" class="rounded defaultify" data-default="Search Garmin.com" autocomplete="off" value="" maxlength="256" name="q" id="js-gheader-search-field">
-  <a href="#" class="global-search-btn" onclick="jQuery(this).parents('form').submit();" data-text="Go" name="Go">
-    <img src="https://static.garmincdn.com/com.garmin/ui/images/search-blue.png" width="15" alt="Go">
-  </a>
-</form>
-</li>
-                        </ul>
-                    </div><!-- /col -->
-                    <div class="col-xs-12 col-sm-9">
-                        <div class="row">
-                            <div class="logo-wrapper col-xs-12 col-sm-2">
-                                <div class="logo">
-    <a data-ua-event="Global Header, Nav-tertiary, Navigation" href="https://www.garmin.com/en-US/">
-        <img src="https://static.garmincdn.com/com.garmin/ui/images/logo/garmin_logo_on_w.png" alt="Garmin">
-    </a>
-</div>
-                            </div>
-                            <div class="nav col-xs-12 col-sm-10">
-                                <ul class="level1 row">
-    <li class="shop col-xs-12 col-sm-2">
-        <a data-ua-event="Global Header, Nav-primary, Products" href="">Products
-            
-        </a>
-        <div class="level2">
-            <div class="primary-level section">
-                <ul class="row">
-                    <li class="automotive has-menu col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Automotive" href="https://buy.garmin.com/en-US/US/cOnTheRoad-p1.html">Automotive
-                            
-                        </a>
-                        <div class="level3">
-                            <div class="column">
-                                <ul class="row">
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Cars" href="https://buy.garmin.com/en-US/US/cOnTheRoad-cAutomotive-p1.html" class="">Cars</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Motorcycles" href="https://buy.garmin.com/en-US/US/cOnTheRoad-cMotorcycles-p1.html" class="">Motorcycles</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Semi Trucks" href="https://buy.garmin.com/en-US/US/cOnTheRoad-cTrucking-p1.html" class="">Semi Trucks</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, RV" href="https://buy.garmin.com/en-US/US/cOnTheRoad-c518-p1.html" class="">RV</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Cameras" href="https://buy.garmin.com/en-US/US/cOnTheRoad-c533-p1.html" class="">Cameras</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Fleet" href=" https://buy.garmin.com/en-US/US/c544-p1.html?series=BRAND612" class="">Fleet</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, In-Dash" href="https://auto-oem.garmin.com/landing/" class="">In-Dash</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="sports has-menu col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Sports &amp; Recreation" href="https://buy.garmin.com/en-US/US/cIntoSports-p1.html">Sports &amp; Recreation
-                            
-                        </a>
-                        <div class="level3">
-                            <div class="column">
-                                <ul class="row">
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Activity Tracking" href="https://buy.garmin.com/en-US/US/cIntoSports-c571-p1.html" class="">Activity Tracking</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Garmin Index™ Smart Scale" href="https://buy.garmin.com/en-US/US/p/530464" class="">Garmin Index™ Smart Scale</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Running" href="https://buy.garmin.com/en-US/US/cIntoSports-cRunning-p1.html" class="">Running</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Cycling" href="https://buy.garmin.com/en-US/US/cIntoSports-cCycling-p1.html" class="">Cycling</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Multisport" href="https://buy.garmin.com/en-US/US/cIntoSports-cMultisport-p1.html" class="">Multisport</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Swimming" href="https://buy.garmin.com/en-US/US/cIntoSports-cSwimming-p1.html" class="">Swimming</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Golf" href="https://buy.garmin.com/en-US/US/cIntoSports-cGolfing-p1.html" class="">Golf</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Hiking " href="https://buy.garmin.com/en-US/US/cIntoSports-c10340-p1.html" class="">Hiking </a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Handhelds" href="https://buy.garmin.com/en-US/US/cIntoSports-c10341-p1.html " class="">Handhelds</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Sporting Dogs" href="https://buy.garmin.com/en-US/US/cIntoSports-c10342-p1.html " class="">Sporting Dogs</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Household Pets" href="https://buy.garmin.com/en-US/US/cIntoSports-c10960-p1.html" class="">Household Pets</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="marine has-menu col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Marine" href="https://buy.garmin.com/en-US/US/cOnTheWater-p1.html">Marine
-                            
-                        </a>
-                        <div class="level3">
-                            <div class="column">
-                                <h6 class="light">By Product</h6>
-                                <ul class="row">
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Chartplotters &amp; Combos" href="https://buy.garmin.com/en-US/US/cOnTheWater-c519-p1.html" class="">Chartplotters &amp; Combos</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Sonar Modules" href="https://buy.garmin.com/en-US/US/cOnTheWater-cSounders-p1.html " class="">Sonar Modules</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Panoptix" href="https://buy.garmin.com/en-US/US/cOnTheWater-c10535-p1.html" class="">Panoptix</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Fishfinder/GPS Combos" href="https://buy.garmin.com/en-US/US/cOnTheWater-cFishfinders-p1.html " class="">Fishfinder/GPS Combos</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Transducers" href="https://buy.garmin.com/en-US/US/cOnTheWater-cTransducers-p1.html " class="">Transducers</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Radar" href="https://buy.garmin.com/en-US/US/cOnTheWater-cRadar-p1.html " class="">Radar</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Autopilots" href="https://buy.garmin.com/en-US/US/cOnTheWater-cAutopilots2-p1.html " class="">Autopilots</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Communications" href="https://buy.garmin.com/en-US/US/cOnTheWater-cCommunications-p1.html " class="">Communications</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Instruments" href="https://buy.garmin.com/en-US/US/cOnTheWater-cInstrumentsSensors-p1.html " class="">Instruments</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Wind Sensors" href="https://buy.garmin.com/en-US/US/cOnTheWater-c10537-p1.html " class="">Wind Sensors</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Antennas &amp; Sensors" href="https://buy.garmin.com/en-US/US/cOnTheWater-c10538-p1.html" class="">Antennas &amp; Sensors</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Handhelds &amp; Wearables" href="https://buy.garmin.com/en-US/US/cOnTheWater-cHandhelds-p1.html " class="">Handhelds &amp; Wearables</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Cameras" href="https://buy.garmin.com/en-US/US/cOnTheWater-cCameras-p1.html" class="">Cameras</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Apps" href="https://buy.garmin.com/en-US/US/cOnTheWater-cMarineApps-p1.html " class="">Apps</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Marine Entertainment" href="https://www.fusionentertainment.com/marine" class="">Marine Entertainment</a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="column">
-                                <h6 class="light">By Activity</h6>
-                                <ul class="row">
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Coastal Fishing" href="https://buy.garmin.com/en-US/US/cOnTheWater-c10480-p1.html" class="">Coastal Fishing</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Inland Fishing" href="https://buy.garmin.com/en-US/US/cOnTheWater-c10494-p1.html" class="">Inland Fishing</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Cruising" href="https://buy.garmin.com/en-US/US/cOnTheWater-c10506-p1.html" class="">Cruising</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Sailing " href="https://buy.garmin.com/en-US/US/cOnTheWater-c10521-p1.html" class="">Sailing </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="aviation has-menu col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Aviation" href="https://buy.garmin.com/en-US/US/cInTheAir-p1.html">Aviation
-                            
-                        </a>
-                        <div class="level3">
-                            <div class="column">
-                                <h6 class="light">By Market</h6>
-                                <ul class="row">
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, General Aviation" href="http://explore.garmin.com/en-US/general-aviation" class="">General Aviation</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Helicopters" href="https://explore.garmin.com/en-US/helicopters/" class="">Helicopters</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Experimental" href="http://www.garmin.com/us/products/intheair/sport-aviation/" class="">Experimental</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, ADS-B" href="http://ads-b.garmin.com/en-US" class="">ADS-B</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Portable GPS" href="https://buy.garmin.com/en-US/US/cInTheAir-cPortableGPS-p1.html" class="">Portable GPS</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Apps" href="https://buy.garmin.com/en-US/US/cInTheAir-cAviationApps-p1.html" class="">Apps</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, flyGarmin Services" href="https://fly.garmin.com/fly-garmin/" class="">flyGarmin Services</a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="column">
-                                <h6 class="light">By Product</h6>
-                                <ul class="row">
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, ADS-B	" href="https://ads-b.garmin.com/en-US" class="">ADS-B	</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Flight Decks &amp; Displays" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cMFDs-p1.html" class="">Flight Decks &amp; Displays</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, GPS/Nav/Comm" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cGPSNAVComm-p1.html" class="">GPS/Nav/Comm</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Transponders" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cTransponders-p1.html" class="">Transponders</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Connectivity" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-c11183-p1.html" class="">Connectivity</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Terrain Awareness" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cTerrainAwareness-p1.html" class="">Terrain Awareness</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Weather &amp; Traffic" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cWeatherSolutions-p1.html" class="">Weather &amp; Traffic</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Audio Panels" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cAudioPanels-p1.html" class="">Audio Panels</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Autopilots" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-c11181-p1.html" class="">Autopilots</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Angle of Attack	" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-c11182-p1.html" class="">Angle of Attack	</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Radar Altimeters" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cRadarAltimeters-p1.html" class="">Radar Altimeters</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Indicators &amp; Interfaces	" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cIndicators-p1.html" class="">Indicators &amp; Interfaces	</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Portables, Wearables &amp; Apps" href="https://buy.garmin.com/en-US/US/cInTheAir-cPortableGPS-p1.html" class="">Portables, Wearables &amp; Apps</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Warranties &amp; Databases" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-c11200-p1.html" class="">Warranties &amp; Databases</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-            <div class="secondary-level section">
-                <ul class="row">
-                    <li class="action-cameras has-menu col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Cameras" href="https://buy.garmin.com/en-US/US/c11880-p1.html">Cameras
-                            
-                        </a>
-                        <div class="level3">
-                            <div class="column">
-                                <ul class="row">
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, 360-degree Cameras" href="https://buy.garmin.com/en-US/US/c11883-p1.html" class="">360-degree Cameras</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Action Cameras" href="https://buy.garmin.com/en-US/US/cIntoSports-c545-p1.html" class="">Action Cameras</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Dash Cameras" href="https://buy.garmin.com/en-US/US/c11880-c11881-p1.html" class="">Dash Cameras</a>
-                                    </li>
-                                    <li class="col-xs-12">
-                                        <a data-ua-event="Global Header, Nav, Backup Cameras" href="https://buy.garmin.com/en-US/US/c11880-c11882-p1.html" class="">Backup Cameras</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="wearables col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Wearables" href="https://buy.garmin.com/en-US/US/c10002-p1.html">Wearables
-                            <span class="subhead">Activity trackers &amp; watches</span>
-                        </a>
-                    </li>
-                    <li class="health col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Corporate Wellness" href="http://sites.garmin.com/en-US/wellness/">Corporate Wellness
-                            
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div class="section">
-                <ul class="row">
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, inReach Technology" href="https://explore.garmin.com/en-US/inreach/">inReach Technology
-                            
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Accessories" href="http://www.garmin.com/en-US/shop/accessories">Accessories
-                            
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Apps" href="https://buy.garmin.com/en-US/US/cOnTheGo-cApps-p1.html">Apps
-                            
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Sensors" href="https://buy.garmin.com/en-US/US/cOEM-cSensorsAndBoards-p1.html">Sensors
-                            
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </li>
-    <li class="maps col-xs-12 col-sm-2">
-        <a data-ua-event="Global Header, Nav-primary, Maps" href="http://www.garmin.com/en-US/maps/updates/">Maps
-            
-        </a>
-        <div class="level2">
-            <div class="section">
-                <ul class="row">
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Automotive Maps" href="http://www.garmin.com/en-US/maps/updates/?/automotive">Automotive Maps
-                            
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Golf Course Map Updates" href="http://www.garmin.com/en-US/maps/updates/?/golf">Golf Course Map Updates
-                            
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Marine Charts and Maps" href="http://www.garmin.com/en-US/maps/updates/?/marine">Marine Charts and Maps
-                            
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Aviation Database Updates" href="http://www.garmin.com/en-US/maps/updates/?/aviation">Aviation Database Updates
-                            
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Outdoor Maps" href="http://www.garmin.com/en-US/maps/updates/?/outdoor">Outdoor Maps
-                            
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Cycling Maps" href="http://www.garmin.com/en-US/maps/updates/?/cycling">Cycling Maps
-                            
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, DeLorme® Atlas &amp; Gazetteer" href="https://buy.garmin.com/en-US/US/p/575993">DeLorme® Atlas &amp; Gazetteer
-                            
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </li>
-    <li class="support col-xs-12 col-sm-2">
-        <a data-ua-event="Global Header, Nav-primary, Support" href="http://www.garmin.com/us/support/">Support
-            
-        </a>
-        <div class="level2">
-            <div class="section">
-                <ul class="row">
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Support Center" href="https://support.garmin.com/en-US/">Support Center
-                            
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Aviation Support" href="https://fly.garmin.com/fly-garmin/support/">Aviation Support
-                            
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </li>
-    <li class="col-xs-12 col-sm-2">
-        <a data-ua-event="Global Header, Nav-primary, Discover" href="">Discover
-            
-        </a>
-        <div class="level2">
-            <div class="section">
-                <ul class="row">
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Garmin Connect" href="https://connect.garmin.com/en-US/">Garmin Connect
-                            <span class="subhead">Community for tracking, analysis and sharing</span>
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Garmin Express" href="http://software.garmin.com/en-US/express.html">Garmin Express
-                            <span class="subhead">Maps and software to manage your devices</span>
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Connect IQ" href="https://apps.garmin.com/en-US/">Connect IQ
-                            <span class="subhead">Free watch faces, apps and more</span>
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, inReach Account" href="https://inreach.garmin.com/en-US/ ">inReach Account
-                            <span class="subhead">Manage your inReach device</span>
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Basecamp" href="http://www.garmin.com/en-US/shop/downloads/basecamp">Basecamp
-                            <span class="subhead">Trip-planning software for roads and trails</span>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div class="section">
-                <ul class="row">
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Blog" href="https://www.garmin.com/en-US/blog/">Blog
-                            <span class="subhead">Latest product news and events</span>
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Garmin Pros" href="https://www.garmin.com/en-US/pros/">Garmin Pros
-                            <span class="subhead">Garmin ambassadors and their stories</span>
-                        </a>
-                    </li>
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Running Dynamics" href="https://www.garmin.com/en-US/runningdynamics/">Running Dynamics
-                            <span class="subhead">A deeper dive into running dynamics and physiological measurements</span>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div class="section">
-                <ul class="row">
-                    <li class="col-xs-12">
-                        <a data-ua-event="Global Header, Nav-secondary, Careers" href="http://careers.garmin.com/en-US">Careers
-                            <span class="subhead">Job openings</span>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </li>
-</ul>
-<ul class="utility level1 row hidden-sm hidden-md hidden-lg">
-    <li class="col-xs-12"> <!-- Utility -->
-        <div class="row">
-  
-  <div class="col-xs-12 col-sm-2">
-    <h5>Customer Service</h5>
-    
-    <ul>
-      <li><a data-ua-event="Global Footer,Nav,Special Offers" onclick="footer_data('Nav', 'Special Offers');" href="http://garmin.blogs.com/promotions/" title="Special Offers">Special Offers</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Shipping &amp; Delivery" onclick="footer_data('Nav', 'Shipping &amp; Delivery');" href="http://www.garmin.com/en-US/shop/shipping-delivery" title="Shipping &amp; Delivery">Shipping &amp; Delivery</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Returns &amp; Refunds" onclick="footer_data('Nav', 'Returns &amp; Refunds');" href="http://www.garmin.com/en-US/shop/returns-refunds" title="Returns &amp; Refunds">Returns &amp; Refunds</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Find a Dealer" onclick="footer_data('Nav', 'Find a Dealer');" href="https://www.garmin.com/en-US/dealerlocator" title="Find a Dealer">Find a Dealer</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Contact Us" onclick="footer_data('Nav', 'Contact Us');" href="http://www.garmin.com/contactUs/" title="Contact Us">Contact Us</a></li>
-    </ul>
-    
-  </div>
-  
-  <div class="col-xs-12 col-sm-2">
-    <h5>Company</h5>
-    
-    <ul>
-      <li><a data-ua-event="Global Footer,Nav,About Us" onclick="footer_data('Nav', 'About Us');" href="http://www.garmin.com/en-US/company/about/" title="About Us">About Us</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Blog" onclick="footer_data('Nav', 'Blog');" href="http://www.garmin.com/en-US/blog/" title="Blog">Blog</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Investors" onclick="footer_data('Nav', 'Investors');" href="http://www.garmin.com/en-US/company/investors" title="Investors">Investors</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Newsroom" onclick="footer_data('Nav', 'Newsroom');" href="http://newsroom.garmin.com/" title="Newsroom">Newsroom</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Retail Stores" onclick="footer_data('Nav', 'Retail Stores');" href="http://www8.garmin.com/company/stores/chicago/" title="Retail Stores">Retail Stores</a></li>
-    </ul>
-    
-  </div>
-  
-  <div class="col-xs-12 col-sm-2">
-    <h5>Careers</h5>
-    
-    <ul>
-      <li><a data-ua-event="Global Footer,Nav,Jobs" onclick="footer_data('Nav', 'Jobs');" href="http://careers.garmin.com/en-US" title="Jobs">Jobs</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Benefits" onclick="footer_data('Nav', 'Benefits');" href="http://careers.garmin.com/en-US#benefits" title="Benefits">Benefits</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Life at Garmin" onclick="footer_data('Nav', 'Life at Garmin');" href="http://careers.garmin.com/en-US#lag" title="Life at Garmin">Life at Garmin</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Students    " onclick="footer_data('Nav', 'Students    ');" href="http://www.garmin.com/us/company/careers/students/" title="Students    ">Students    </a></li>
-    </ul>
-    
-  </div>
-  
-  <div class="col-xs-12 col-sm-2">
-    <h5>Garmin Sites</h5>
-    
-    <ul>
-      <li><a data-ua-event="Global Footer,Nav,myGarmin" onclick="footer_data('Nav', 'myGarmin');" href="http://my.garmin.com/" title="myGarmin">myGarmin</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Garmin Connect" onclick="footer_data('Nav', 'Garmin Connect');" href="http://connect.garmin.com/" title="Garmin Connect">Garmin Connect</a></li>
-      <li><a data-ua-event="Global Footer,Nav,flyGarmin" onclick="footer_data('Nav', 'flyGarmin');" href="http://fly.garmin.com/" title="flyGarmin">flyGarmin</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Garmin Adventures" onclick="footer_data('Nav', 'Garmin Adventures');" href="http://adventures.garmin.com/en-US/" title="Garmin Adventures">Garmin Adventures</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Connect IQ" onclick="footer_data('Nav', 'Connect IQ');" href="https://apps.garmin.com/" title="Connect IQ">Connect IQ</a></li>
-    </ul>
-    
-  </div>
-  
-  <div class="col-xs-12 col-sm-2">
-    <h5>Partners</h5>
-    
-    <ul>
-      <li><a data-ua-event="Global Footer,Nav,Fleet Management" onclick="footer_data('Nav', 'Fleet Management');" href="http://www.garmin.com/solutions/" title="Fleet Management">Fleet Management</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Developers" onclick="footer_data('Nav', 'Developers');" href="http://developer.garmin.com/" title="Developers">Developers</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Dealer Resource Center" onclick="footer_data('Nav', 'Dealer Resource Center');" href="http://dealers.garmin.com/" title="Dealer Resource Center">Dealer Resource Center</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Education" onclick="footer_data('Nav', 'Education');" href="http://garmin.com/education" title="Education">Education</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Corporate Wellness" onclick="footer_data('Nav', 'Corporate Wellness');" href="https://explore.garmin.com/en-US/wellness/" title="Corporate Wellness">Corporate Wellness</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Garmin Gear" onclick="footer_data('Nav', 'Garmin Gear');" href="http://garmin-gear.com/" title="Garmin Gear">Garmin Gear</a></li>
-    </ul>
-    
-  </div>
-  
-</div>    </li>
-</ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </nav>
+</script>			</ul>
+</nav>  
+  <nav id="js__g__header__nav" class="g__header__nav" aria-label="Main Navigation">
+    <div class="g__header__controls">
+      <!-- logo -->
+      <a class="g__header__logo" href="https://www.garmin.com" data-ua-event="Global Header, Logo, Logo Link">
+  <svg class="g__header__logo__svg" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 107 30"><title>Garmin</title><defs><path id="a" d="M0 0h107v29.028H0z"></path></defs><clipPath id="b"><use xlink:href="#a" overflow="visible"></use></clipPath><path clip-path="url(#b)" d="M27.93 14.623c-.177-.358-.65-.65-1.05-.65h-.816c-.4 0-.868.296-1.04.656l-6.46 13.49c-.178.357.017.612.417.612h1.493c.59 0 .86-.268 1.018-.596.16-.328.517-1.042.585-1.187.092-.198.376-.32.776-.318l6.95.004c.4 0 .657.077.775.313.077.153.432.795.607 1.145.176.35.472.637 1.046.637h2.165c.4 0 .575-.304.43-.586-.142-.283-6.892-13.523-6.892-13.523m-4.08 9.925c-.4 0-.587-.298-.42-.66l2.546-5.45c.17-.364.443-.362.608 0l2.478 5.452c.165.364-.027.66-.427.66l-4.784-.002zm53.98-9.82V28.11c0 .37.326.622.727.622h1.765c.4 0 .728-.256.728-.656V14.7c0-.4-.26-.727-.66-.727H78.56c-.402 0-.73.246-.73.754M48.26 23.11c-.23-.328-.105-.69.28-.804 0 0 1.524-.456 2.254-1.11.73-.657 1.097-1.605 1.097-2.84 0-.807-.142-1.486-.423-2.04-.28-.55-.684-1-1.21-1.346-.523-.347-1.15-.6-1.882-.76-.732-.16-1.72-.206-1.72-.206-.4-.018-1.055-.033-1.454-.033h-7.327c-.4 0-.727.327-.727.728v13.376c0 .4.327.656.727.656h1.734c.4 0 .728-.256.728-.656 0 0 0-5.32.004-5.32.002 0 .004-.003.004-.007s3.287-.008 3.287-.008c.4 0 .917.267 1.148.594l3.413 4.805c.318.425.62.59 1.02.59h2.267c.4 0 .463-.377.325-.573-.138-.193-3.545-5.047-3.545-5.047m-1.38-2.716c-.45.103-.955.124-.955.124-.4.017-1.054.032-1.454.032H41.07c-.4 0-.727-.328-.727-.728v-2.71c0-.4.327-.728.728-.728h3.398c.4 0 1.054.014 1.454.03 0 0 .506.02.955.125.45.103.806.247 1.066.434.262.188.45.408.562.66.11.254.168.53.168.83 0 .3-.057.578-.168.83-.113.254-.3.475-.562.662-.26.19-.616.335-1.066.438m52.617-6.42c-.4 0-.724.263-.724.648l.004 8.556c0 .4-.227.492-.504.204l-8.567-8.887c-.278-.288-.685-.523-1.234-.523h-1.612c-.507 0-.728.27-.728.544v13.682c0 .273.26.533.66.533h1.615c.4 0 .68-.217.68-.585l.007-9.014c0-.4.226-.49.504-.2l8.933 9.286c.283.284.628.516 1.24.516h1.213c.4 0 .728-.327.728-.728V14.7c0-.4-.326-.727-.727-.727h-1.49zm-34.93 8.34c-.194.35-.514.35-.706 0l-4.188-7.69c-.178-.358-.543-.65-1.052-.65h-2.27c-.4 0-.73.325-.73.726v13.36c0 .4.264.672.73.672h1.41c.402 0 .69-.253.69-.638 0-.185.006-9.717.02-9.717.017 0 5.228 9.714 5.228 9.714.19.353.652.355.844.004 0 0 5.254-9.69 5.27-9.69.016 0 .01 9.41.01 9.69 0 .385.31.637.71.637h1.625c.4 0 .727-.198.727-.727V14.7c0-.4-.326-.727-.727-.727H69.98c-.556 0-.89.283-1.09.63l-4.326 7.712zM0 21.34c0 7.206 7.372 7.572 8.85 7.572 4.892 0 6.96-1.322 7.045-1.38.306-.172.68-.52.68-1.175v-4.974c0-.46-.374-.832-.833-.832H9.596c-.46 0-.76.374-.76.833v.515c0 .46.3.833.76.833h3.555c.344 0 .623.28.623.622l-.004 2.32c-.703.286-3.902 1.22-6.472.607-3.728-.892-4.018-3.968-4.018-4.89 0-.772.232-4.646 4.81-5.038 3.707-.318 6.148 1.18 6.172 1.194.436.226.887.065 1.13-.396 0-.004.46-.937.46-.937.193-.384.128-.782-.34-1.1-.03-.018-2.63-1.427-6.66-1.427C.247 13.686 0 20.556 0 21.34"></path><path clip-path="url(#b)" fill="#007DC3" d="M98.68 10.284h-9.655c-.354 0-.658-.176-.835-.482-.177-.306-.177-.657 0-.963L93.017.482C93.195.175 93.5 0 93.853 0s.657.175.834.48l4.827 8.358c.178.307.178.657 0 .964-.177.306-.48.482-.835.482"></path></svg>
+</a>
+      <a href="#" id="js__g__header__button" class="g__header__button">
+        <svg class="g__header__button__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><title>Menu Button</title><path d="M2.5 6.5v2.8h25V6.5h-25zm0 9.9h25v-2.8h-25v2.8zm0 7.1h25v-2.8h-25v2.8z"></path></svg>
+      </a>
     </div>
+
+    <div class="g__header__content">
+      <div class="g__header__content__wrap">
+        <form id="js__g__header__search" class="g__header__search" action="https://support.garmin.com/search/shopResults.faces" method="get" name="header-search-form" role="search">
+  <input value="0" name="filter" type="hidden">
+  <input value="Shop" name="contentType" type="hidden">
+  <label class="g__header__search__label" for="js__g__header__search__input">Search Garmin.com</label>
+  <input id="js__g__header__search__input" class="g__header__search__input" name="q" type="text" placeholder="Search Garmin.com" autocomplete="off" value="" maxlength="256">
+  <button id="js__g__header__search__button" class="g__header__search__button" type="submit" for="header-search-form" value="Go">
+    <svg class="g__header__search__button__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><title>Search Button</title><path d="M22.2 20.8l-4.5-4.4c.6-.9 1-2 1-3.2 0-3.1-2.5-5.6-5.6-5.6-3.1 0-5.6 2.5-5.6 5.6 0 3.1 2.5 5.6 5.6 5.6 1.2 0 2.3-.4 3.2-1l4.4 4.4c.4.4 1 .4 1.4.1.5-.4.5-1.1.1-1.5zM9.4 13.1c0-2.1 1.7-3.7 3.7-3.7 2.1 0 3.7 1.7 3.7 3.7 0 2.1-1.7 3.7-3.7 3.7-2 .1-3.7-1.6-3.7-3.7z"></path></svg>
+  </button>
+</form>
+        <ul id="js__g__header__level1" class="g__header__level1">
+  <li class="g__header__level1__item g__header__level1__item--shop">
+    <a class="g__header__level1__link g__header__nav__link--has-dd js__g__header__nav__link--has-dd" href="" data-ua-event="Global Header, Nav-primary, Products">
+      Products
+      <span class="g__header__level1__arw g__header__nav__arw">
+        <svg class="g__header__level1__arw__svg g__header__nav__arw__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M12.5 22.5l7-7.5-7-7.5-2 2.1 5 5.4-5 5.4 2 2.1z"></path></svg>
+      </span>
+    </a>
+    <ul class="g__header__level2 js__g__header__level2">
+      <div class="g__header__level2__sec g__header__level2__sec--primary-level">
+      <li class="g__header__level2__item g__header__level2__item--automotive">
+        <a class="g__header__level2__link g__header__nav__link--has-dd js__g__header__nav__link--has-dd" href="https://buy.garmin.com/en-US/US/cOnTheRoad-p1.html" data-ua-event="Global Header, Nav-secondary, Automotive">
+          <span class="g__header__level2__arw g__header__nav__arw">
+            <svg class="g__header__level2__arw__svg g__header__nav__arw__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M12.5 22.5l7-7.5-7-7.5-2 2.1 5 5.4-5 5.4 2 2.1z"></path></svg>
+          </span>
+          <span class="g__header__level2__text">Automotive</span>
+          
+        </a> 
+        <ul class="g__header__level3">
+          <div class="g__header__level3__wrapper js__g__header__level3__wrapper">
+            <div class="g__header__level3__col ">
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheRoad-cAutomotive-p1.html" data-ua-event="Global Header, Nav, Cars">Cars</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/p/591054" data-ua-event="Global Header, Nav, Garmin Speak™ with Amazon Alexa">Garmin Speak™ with Amazon Alexa</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheRoad-cMotorcycles-p1.html" data-ua-event="Global Header, Nav, Motorcycles">Motorcycles</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheRoad-cTrucking-p1.html" data-ua-event="Global Header, Nav, Semi Trucks">Semi Trucks</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheRoad-c518-p1.html" data-ua-event="Global Header, Nav, RV">RV</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheRoad-c533-p1.html" data-ua-event="Global Header, Nav, Cameras">Cameras</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href=" https://buy.garmin.com/en-US/US/c544-p1.html?series=BRAND612" data-ua-event="Global Header, Nav, Fleet">Fleet</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://auto-oem.garmin.com/landing/" data-ua-event="Global Header, Nav, In-Dash">In-Dash</a>
+              </li>
+            </div>
+          </div>
+        </ul>
+      </li>
+      <li class="g__header__level2__item g__header__level2__item--sports">
+        <a class="g__header__level2__link g__header__nav__link--has-dd js__g__header__nav__link--has-dd" href="https://buy.garmin.com/en-US/US/cIntoSports-p1.html" data-ua-event="Global Header, Nav-secondary, Sports &amp; Fitness">
+          <span class="g__header__level2__arw g__header__nav__arw">
+            <svg class="g__header__level2__arw__svg g__header__nav__arw__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M12.5 22.5l7-7.5-7-7.5-2 2.1 5 5.4-5 5.4 2 2.1z"></path></svg>
+          </span>
+          <span class="g__header__level2__text">Sports &amp; Fitness</span>
+          
+        </a> 
+        <ul class="g__header__level3">
+          <div class="g__header__level3__wrapper js__g__header__level3__wrapper">
+            <div class="g__header__level3__col ">
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cIntoSports-c571-p1.html" data-ua-event="Global Header, Nav, Activity Tracking">Activity Tracking</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/p/530464" data-ua-event="Global Header, Nav, Garmin Index™ Smart Scale">Garmin Index™ Smart Scale</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cIntoSports-cRunning-p1.html" data-ua-event="Global Header, Nav, Running">Running</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cIntoSports-cCycling-p1.html" data-ua-event="Global Header, Nav, Cycling">Cycling</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cIntoSports-cMultisport-p1.html" data-ua-event="Global Header, Nav, Multisport">Multisport</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cIntoSports-cSwimming-p1.html" data-ua-event="Global Header, Nav, Swimming">Swimming</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cIntoSports-c13280-p1.html" data-ua-event="Global Header, Nav, Diving">Diving</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cIntoSports-cGolfing-p1.html" data-ua-event="Global Header, Nav, Golf">Golf</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/p/579018" data-ua-event="Global Header, Nav, Baseball &amp; Softball">Baseball &amp; Softball</a>
+              </li>
+            </div>
+          </div>
+        </ul>
+      </li>
+      <li class="g__header__level2__item g__header__level2__item--outdoor">
+        <a class="g__header__level2__link g__header__nav__link--has-dd js__g__header__nav__link--has-dd" href="https://buy.garmin.com/en-US/US/c12520-p1.html" data-ua-event="Global Header, Nav-secondary, Outdoor Recreation">
+          <span class="g__header__level2__arw g__header__nav__arw">
+            <svg class="g__header__level2__arw__svg g__header__nav__arw__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M12.5 22.5l7-7.5-7-7.5-2 2.1 5 5.4-5 5.4 2 2.1z"></path></svg>
+          </span>
+          <span class="g__header__level2__text">Outdoor Recreation</span>
+          
+        </a> 
+        <ul class="g__header__level3">
+          <div class="g__header__level3__wrapper js__g__header__level3__wrapper">
+            <div class="g__header__level3__col ">
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/c12521-p1.html" data-ua-event="Global Header, Nav, Hiking &amp; Handhelds">Hiking &amp; Handhelds</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/c12522-p1.html" data-ua-event="Global Header, Nav, Sporting Dogs">Sporting Dogs</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/c12523-p1.html" data-ua-event="Global Header, Nav, Household Pets">Household Pets</a>
+              </li>
+            </div>
+          </div>
+        </ul>
+      </li>
+      <li class="g__header__level2__item g__header__level2__item--marine">
+        <a class="g__header__level2__link g__header__nav__link--has-dd js__g__header__nav__link--has-dd" href="https://buy.garmin.com/en-US/US/cOnTheWater-p1.html" data-ua-event="Global Header, Nav-secondary, Marine">
+          <span class="g__header__level2__arw g__header__nav__arw">
+            <svg class="g__header__level2__arw__svg g__header__nav__arw__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M12.5 22.5l7-7.5-7-7.5-2 2.1 5 5.4-5 5.4 2 2.1z"></path></svg>
+          </span>
+          <span class="g__header__level2__text">Marine</span>
+          
+        </a> 
+        <ul class="g__header__level3">
+          <div class="g__header__level3__wrapper js__g__header__level3__wrapper">
+            <div class="g__header__level3__col ">
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheWater-c519-p1.html" data-ua-event="Global Header, Nav, Chartplotters">Chartplotters</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheWater-cFishfinders-p1.html " data-ua-event="Global Header, Nav, Fishfinders">Fishfinders</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheWater-cTransducers-p1.html " data-ua-event="Global Header, Nav, Transducers">Transducers</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheWater-c10535-p1.html" data-ua-event="Global Header, Nav, Panoptix">Panoptix</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheWater-cSounders-p1.html " data-ua-event="Global Header, Nav, Sonar Black Boxes">Sonar Black Boxes</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheWater-cRadar-p1.html " data-ua-event="Global Header, Nav, Radar">Radar</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheWater-cAutopilots2-p1.html " data-ua-event="Global Header, Nav, Autopilots">Autopilots</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheWater-cCommunications-p1.html " data-ua-event="Global Header, Nav, VHF &amp; AIS">VHF &amp; AIS</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheWater-cInstrumentsSensors-p1.html " data-ua-event="Global Header, Nav, Instruments &amp; Instrument Packs">Instruments &amp; Instrument Packs</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheWater-cHandhelds-p1.html " data-ua-event="Global Header, Nav, Handhelds &amp; Wearables">Handhelds &amp; Wearables</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheWater-cCameras-p1.html" data-ua-event="Global Header, Nav, Cameras">Cameras</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cOnTheWater-c10538-p1.html" data-ua-event="Global Header, Nav, Antennas &amp; Sensors">Antennas &amp; Sensors</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://explore.garmin.com/en-US/active-captain/" data-ua-event="Global Header, Nav, ActiveCaptain™">ActiveCaptain™</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://www.fusionentertainment.com/" data-ua-event="Global Header, Nav, Fusion Audio">Fusion Audio</a>
+              </li>
+            </div>
+          </div>
+        </ul>
+      </li>
+      <li class="g__header__level2__item g__header__level2__item--aviation">
+        <a class="g__header__level2__link g__header__nav__link--has-dd js__g__header__nav__link--has-dd" href="https://buy.garmin.com/en-US/US/cInTheAir-p1.html" data-ua-event="Global Header, Nav-secondary, Aviation">
+          <span class="g__header__level2__arw g__header__nav__arw">
+            <svg class="g__header__level2__arw__svg g__header__nav__arw__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M12.5 22.5l7-7.5-7-7.5-2 2.1 5 5.4-5 5.4 2 2.1z"></path></svg>
+          </span>
+          <span class="g__header__level2__text">Aviation</span>
+          
+        </a> 
+        <ul class="g__header__level3">
+          <div class="g__header__level3__wrapper js__g__header__level3__wrapper">
+            <div class="g__header__level3__col ">
+              <li class="g__header__level3__item">
+                <span class="g__header__level3__header">By Market</span>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="http://explore.garmin.com/en-US/general-aviation" data-ua-event="Global Header, Nav, General Aviation">General Aviation</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://explore.garmin.com/en-US/helicopters/" data-ua-event="Global Header, Nav, Helicopters">Helicopters</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-c10260-p1.html" data-ua-event="Global Header, Nav, Experimental">Experimental</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="http://ads-b.garmin.com/en-US" data-ua-event="Global Header, Nav, ADS-B">ADS-B</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cPortableGPS-p1.html" data-ua-event="Global Header, Nav, Portable GPS">Portable GPS</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cAviationApps-p1.html" data-ua-event="Global Header, Nav, Apps">Apps</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://fly.garmin.com/fly-garmin/" data-ua-event="Global Header, Nav, flyGarmin Services">flyGarmin Services</a>
+              </li>
+            </div>
+            <div class="g__header__level3__col ">
+              <li class="g__header__level3__item">
+                <span class="g__header__level3__header">By Product</span>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://ads-b.garmin.com/en-US" data-ua-event="Global Header, Nav, ADS-B	">ADS-B	</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cMFDs-p1.html" data-ua-event="Global Header, Nav, Flight Decks &amp; Displays">Flight Decks &amp; Displays</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cGPSNAVComm-p1.html" data-ua-event="Global Header, Nav, GPS/Nav/Comm">GPS/Nav/Comm</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cTransponders-p1.html" data-ua-event="Global Header, Nav, Transponders">Transponders</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-c11183-p1.html" data-ua-event="Global Header, Nav, Connectivity">Connectivity</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cTerrainAwareness-p1.html" data-ua-event="Global Header, Nav, Terrain Awareness">Terrain Awareness</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cWeatherSolutions-p1.html" data-ua-event="Global Header, Nav, Weather &amp; Traffic">Weather &amp; Traffic</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cAudioPanels-p1.html" data-ua-event="Global Header, Nav, Audio Panels">Audio Panels</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-c11181-p1.html" data-ua-event="Global Header, Nav, Autopilots">Autopilots</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-c11182-p1.html" data-ua-event="Global Header, Nav, Angle of Attack	">Angle of Attack	</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cRadarAltimeters-p1.html" data-ua-event="Global Header, Nav, Radar Altimeters">Radar Altimeters</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-cIndicators-p1.html" data-ua-event="Global Header, Nav, Indicators &amp; Interfaces	">Indicators &amp; Interfaces	</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cPortableGPS-p1.html" data-ua-event="Global Header, Nav, Portables, Wearables &amp; Apps">Portables, Wearables &amp; Apps</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cInTheAir-cAvionics-c11200-p1.html" data-ua-event="Global Header, Nav, Warranties &amp; Databases">Warranties &amp; Databases</a>
+              </li>
+            </div>
+          </div>
+        </ul>
+      </li>
+      </div>
+      <div class="g__header__level2__sec g__header__level2__sec--secondary-level">
+      <li class="g__header__level2__item g__header__level2__item--action-cameras">
+        <a class="g__header__level2__link g__header__nav__link--has-dd js__g__header__nav__link--has-dd" href="https://buy.garmin.com/en-US/US/c11880-p1.html" data-ua-event="Global Header, Nav-secondary, Cameras">
+          <span class="g__header__level2__arw g__header__nav__arw">
+            <svg class="g__header__level2__arw__svg g__header__nav__arw__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M12.5 22.5l7-7.5-7-7.5-2 2.1 5 5.4-5 5.4 2 2.1z"></path></svg>
+          </span>
+          <span class="g__header__level2__text">Cameras</span>
+          
+        </a> 
+        <ul class="g__header__level3">
+          <div class="g__header__level3__wrapper js__g__header__level3__wrapper">
+            <div class="g__header__level3__col ">
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/c11883-p1.html" data-ua-event="Global Header, Nav, 360-degree Cameras">360-degree Cameras</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/cIntoSports-c545-p1.html" data-ua-event="Global Header, Nav, Action Cameras">Action Cameras</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/c11880-c11881-p1.html" data-ua-event="Global Header, Nav, Dash Cameras">Dash Cameras</a>
+              </li>
+              <li class="g__header__level3__item ">
+                <a class="g__header__level3__link" href="https://buy.garmin.com/en-US/US/c11880-c11882-p1.html" data-ua-event="Global Header, Nav, Backup Cameras">Backup Cameras</a>
+              </li>
+            </div>
+          </div>
+        </ul>
+      </li>
+      <li class="g__header__level2__item g__header__level2__item--wearables">
+        <a class="g__header__level2__link " href="https://buy.garmin.com/en-US/US/c10002-p1.html" data-ua-event="Global Header, Nav-secondary, Wearables">
+          <span class="g__header__level2__text">Wearables</span>
+          <span class="g__header__level2__link-subhead">Activity trackers &amp; watches</span>
+        </a>
+      </li>
+      <li class="g__header__level2__item g__header__level2__item--health">
+        <a class="g__header__level2__link " href="https://explore.garmin.com/wellness/" data-ua-event="Global Header, Nav-secondary, Corporate Wellness">
+          <span class="g__header__level2__text">Corporate Wellness</span>
+          
+        </a>
+      </li>
+      </div>
+      <div class="g__header__level2__sec ">
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="http://www.garmin.com/en-US/shop/accessories" data-ua-event="Global Header, Nav-secondary, Accessories">
+          <span class="g__header__level2__text">Accessories</span>
+          
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://buy.garmin.com/en-US/US/cOnTheGo-cApps-p1.html" data-ua-event="Global Header, Nav-secondary, Apps">
+          <span class="g__header__level2__text">Apps</span>
+          
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://buy.garmin.com/en-US/US/cOEM-cSensorsAndBoards-p1.html" data-ua-event="Global Header, Nav-secondary, Sensors">
+          <span class="g__header__level2__text">Sensors</span>
+          
+        </a>
+      </li>
+      </div>
+    </ul>
+  </li>
+  <li class="g__header__level1__item g__header__level1__item--maps">
+    <a class="g__header__level1__link g__header__nav__link--has-dd js__g__header__nav__link--has-dd" href="http://www.garmin.com/en-US/maps/updates/" data-ua-event="Global Header, Nav-primary, Maps">
+      Maps
+      <span class="g__header__level1__arw g__header__nav__arw">
+        <svg class="g__header__level1__arw__svg g__header__nav__arw__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M12.5 22.5l7-7.5-7-7.5-2 2.1 5 5.4-5 5.4 2 2.1z"></path></svg>
+      </span>
+    </a>
+    <ul class="g__header__level2 js__g__header__level2">
+      <div class="g__header__level2__sec ">
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="http://www.garmin.com/en-US/maps/updates/?/automotive" data-ua-event="Global Header, Nav-secondary, Automotive Maps">
+          <span class="g__header__level2__text">Automotive Maps</span>
+          
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="http://www.garmin.com/en-US/maps/updates/?/golf" data-ua-event="Global Header, Nav-secondary, Golf Course Map Updates">
+          <span class="g__header__level2__text">Golf Course Map Updates</span>
+          
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="http://www.garmin.com/en-US/maps/updates/?/marine" data-ua-event="Global Header, Nav-secondary, Marine Charts and Maps">
+          <span class="g__header__level2__text">Marine Charts and Maps</span>
+          
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="http://www.garmin.com/en-US/maps/updates/?/aviation" data-ua-event="Global Header, Nav-secondary, Aviation Database Updates">
+          <span class="g__header__level2__text">Aviation Database Updates</span>
+          
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="http://www.garmin.com/en-US/maps/updates/?/outdoor" data-ua-event="Global Header, Nav-secondary, Outdoor Maps">
+          <span class="g__header__level2__text">Outdoor Maps</span>
+          
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="http://www.garmin.com/en-US/maps/updates/?/cycling" data-ua-event="Global Header, Nav-secondary, Cycling Maps">
+          <span class="g__header__level2__text">Cycling Maps</span>
+          
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://buy.garmin.com/en-US/US/p/575993" data-ua-event="Global Header, Nav-secondary, DeLorme® Atlas &amp; Gazetteer">
+          <span class="g__header__level2__text">DeLorme® Atlas &amp; Gazetteer</span>
+          
+        </a>
+      </li>
+      </div>
+    </ul>
+  </li>
+  <li class="g__header__level1__item g__header__level1__item--support">
+    <a class="g__header__level1__link g__header__nav__link--has-dd js__g__header__nav__link--has-dd" href="" data-ua-event="Global Header, Nav-primary, Support">
+      Support
+      <span class="g__header__level1__arw g__header__nav__arw">
+        <svg class="g__header__level1__arw__svg g__header__nav__arw__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M12.5 22.5l7-7.5-7-7.5-2 2.1 5 5.4-5 5.4 2 2.1z"></path></svg>
+      </span>
+    </a>
+    <ul class="g__header__level2 js__g__header__level2">
+      <div class="g__header__level2__sec ">
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://support.garmin.com/en-US/" data-ua-event="Global Header, Nav-secondary, Support Center">
+          <span class="g__header__level2__text">Support Center</span>
+          
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://fly.garmin.com/fly-garmin/support/" data-ua-event="Global Header, Nav-secondary, Aviation Support">
+          <span class="g__header__level2__text">Aviation Support</span>
+          
+        </a>
+      </li>
+      </div>
+    </ul>
+  </li>
+  <li class="g__header__level1__item ">
+    <a class="g__header__level1__link g__header__nav__link--has-dd js__g__header__nav__link--has-dd" href="" data-ua-event="Global Header, Nav-primary, Discover">
+      Discover
+      <span class="g__header__level1__arw g__header__nav__arw">
+        <svg class="g__header__level1__arw__svg g__header__nav__arw__svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M12.5 22.5l7-7.5-7-7.5-2 2.1 5 5.4-5 5.4 2 2.1z"></path></svg>
+      </span>
+    </a>
+    <ul class="g__header__level2 js__g__header__level2">
+      <div class="g__header__level2__sec ">
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://connect.garmin.com/en-US/" data-ua-event="Global Header, Nav-secondary, Garmin Connect">
+          <span class="g__header__level2__text">Garmin Connect</span>
+          <span class="g__header__level2__link-subhead">Community for tracking, analysis and sharing</span>
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://www.garmin.com/en-US/software/express/" data-ua-event="Global Header, Nav-secondary, Garmin Express">
+          <span class="g__header__level2__text">Garmin Express</span>
+          <span class="g__header__level2__link-subhead">Maps and software to manage your devices</span>
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://apps.garmin.com/en-US/" data-ua-event="Global Header, Nav-secondary, Connect IQ">
+          <span class="g__header__level2__text">Connect IQ</span>
+          <span class="g__header__level2__link-subhead">Free watch faces, apps and more</span>
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://inreach.garmin.com/en-US/ " data-ua-event="Global Header, Nav-secondary, inReach Account">
+          <span class="g__header__level2__text">inReach Account</span>
+          <span class="g__header__level2__link-subhead">Manage your inReach device</span>
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="http://www.garmin.com/en-US/shop/downloads/basecamp" data-ua-event="Global Header, Nav-secondary, Basecamp">
+          <span class="g__header__level2__text">Basecamp</span>
+          <span class="g__header__level2__link-subhead">Trip-planning software for roads and trails</span>
+        </a>
+      </li>
+      </div>
+      <div class="g__header__level2__sec ">
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://www.garmin.com/en-US/blog/" data-ua-event="Global Header, Nav-secondary, Blog">
+          <span class="g__header__level2__text">Blog</span>
+          <span class="g__header__level2__link-subhead">Latest product news and events</span>
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://explore.garmin.com/en-US/garmin-pay/" data-ua-event="Global Header, Nav-secondary, Garmin Pay">
+          <span class="g__header__level2__text">Garmin Pay</span>
+          <span class="g__header__level2__link-subhead">Contactless payment solution</span>
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://www.garmin.com/en-US/pros/" data-ua-event="Global Header, Nav-secondary, Garmin Pros">
+          <span class="g__header__level2__text">Garmin Pros</span>
+          <span class="g__header__level2__link-subhead">Garmin ambassadors and their stories</span>
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://www.garmin.com/en-US/runningdynamics/" data-ua-event="Global Header, Nav-secondary, Running Dynamics">
+          <span class="g__header__level2__text">Running Dynamics</span>
+          <span class="g__header__level2__link-subhead">A deeper dive into running dynamics and physiological measurements</span>
+        </a>
+      </li>
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="https://www.garmin.com/en-US/cyclingdynamics/" data-ua-event="Global Header, Nav-secondary, Cycling Dynamics">
+          <span class="g__header__level2__text">Cycling Dynamics</span>
+          <span class="g__header__level2__link-subhead">A deeper dive into cycling dynamics and physiological measurements</span>
+        </a>
+      </li>
+      </div>
+      <div class="g__header__level2__sec ">
+      <li class="g__header__level2__item ">
+        <a class="g__header__level2__link " href="http://careers.garmin.com/en-US" data-ua-event="Global Header, Nav-secondary, Careers">
+          <span class="g__header__level2__text">Careers</span>
+          <span class="g__header__level2__link-subhead">Job openings</span>
+        </a>
+      </li>
+      </div>
+    </ul>
+  </li>
+</ul>
+        <div class="g__header__footer">
+          <div class="g__footer__sec">
+  <h2 class="g__footer__header">Customer Service</h2>
+  <ul class="g__footer__nav">
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Special Offers" href="http://garmin.blogs.com/promotions/">Special Offers</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Shipping &amp; Delivery" href="http://www.garmin.com/en-US/shop/shipping-delivery">Shipping &amp; Delivery</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Order Return Status" href="https://support.garmin.com/orderStatus/checkOrderStatus">Order Return Status</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Returns &amp; Refunds" href="http://www.garmin.com/en-US/shop/returns-refunds">Returns &amp; Refunds</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Find a Dealer" href="https://www.garmin.com/en-US/dealerlocator">Find a Dealer</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Contact Us" href="https://www.garmin.com/en-US/company/contact/">Contact Us</a>
+    </li>
+  </ul>
+</div><div class="g__footer__sec">
+  <h2 class="g__footer__header">Company</h2>
+  <ul class="g__footer__nav">
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,About Us" href="http://www.garmin.com/en-US/company/about/">About Us</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Blog" href="http://www.garmin.com/en-US/blog/">Blog</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Investors" href="http://www.garmin.com/en-US/company/investors">Investors</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Newsroom" href="http://newsroom.garmin.com/">Newsroom</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Retail Stores" href="http://www8.garmin.com/company/stores/chicago/">Retail Stores</a>
+    </li>
+  </ul>
+</div><div class="g__footer__sec">
+  <h2 class="g__footer__header">Careers</h2>
+  <ul class="g__footer__nav">
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Jobs" href="http://careers.garmin.com/en-US">Jobs</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Benefits" href="http://careers.garmin.com/en-US#benefits">Benefits</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Life at Garmin" href="http://careers.garmin.com/en-US#lag">Life at Garmin</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Students    " href="https://careers.garmin.com/en-US/students">Students    </a>
+    </li>
+  </ul>
+</div><div class="g__footer__sec">
+  <h2 class="g__footer__header">Garmin Sites</h2>
+  <ul class="g__footer__nav">
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Garmin Connect" href="http://connect.garmin.com/">Garmin Connect</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,flyGarmin" href="http://fly.garmin.com/">flyGarmin</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Garmin Adventures" href="http://adventures.garmin.com/en-US/">Garmin Adventures</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Connect IQ" href="https://apps.garmin.com/">Connect IQ</a>
+    </li>
+  </ul>
+</div><div class="g__footer__sec">
+  <h2 class="g__footer__header">Partners</h2>
+  <ul class="g__footer__nav">
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Fleet Management" href="https://explore.garmin.com/en-US/fleet/">Fleet Management</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Developers" href="http://developer.garmin.com/">Developers</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Dealer Resource Center" href="http://dealers.garmin.com/">Dealer Resource Center</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Education" href="http://garmin.com/education">Education</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Corporate Wellness" href="https://explore.garmin.com/en-US/wellness/">Corporate Wellness</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Garmin Gear" href="http://garmin-gear.com/">Garmin Gear</a>
+    </li>
+  </ul>
+</div>        </div>
+      </div>
+    </div>
+  </nav>
 </header>
 
 
@@ -846,7 +958,7 @@ window._ga_universal.push(['set_disabled', false]);
 	
     <div class="row bottom-s" id="privacy-statement">
       <div class="span24">
-        <h1>Privacy Statement</h1>
+        <h1 class="top-m">Privacy Statement</h1>
         
                 <style>.container.legacy-grid ul{padding-bottom:0}.container.legacy-grid ul li{padding-bottom:16px}.container.legacy-grid ul li ul li{padding-top:16px;padding-bottom:0}.container.legacy-grid .navlist{padding-bottom:16px}.container.legacy-grid .navlist li{padding-bottom:4px}</style>
 <p class="updated">Last updated: February 14, 2017</p>
@@ -961,115 +1073,159 @@ window._ga_universal.push(['set_disabled', false]);
     
 </div><!--end container-->
 
-    <script type="text/javascript">
-  window._gaq = _gaq ? _gaq : []; 
-  var footer_data = function (a,b) { _gaq.push( ['_trackEvent', 'Global Footer', a,b] ); };
-</script>
-<div id="global-footer">
-  <div class="container">
-    <div class="row">
-  
-  <div class="col-xs-12 col-sm-2">
-    <h5>Customer Service</h5>
-    
-    <ul>
-      <li><a data-ua-event="Global Footer,Nav,Special Offers" onclick="footer_data('Nav', 'Special Offers');" href="http://garmin.blogs.com/promotions/" title="Special Offers">Special Offers</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Shipping &amp; Delivery" onclick="footer_data('Nav', 'Shipping &amp; Delivery');" href="http://www.garmin.com/en-US/shop/shipping-delivery" title="Shipping &amp; Delivery">Shipping &amp; Delivery</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Returns &amp; Refunds" onclick="footer_data('Nav', 'Returns &amp; Refunds');" href="http://www.garmin.com/en-US/shop/returns-refunds" title="Returns &amp; Refunds">Returns &amp; Refunds</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Find a Dealer" onclick="footer_data('Nav', 'Find a Dealer');" href="https://www.garmin.com/en-US/dealerlocator" title="Find a Dealer">Find a Dealer</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Contact Us" onclick="footer_data('Nav', 'Contact Us');" href="http://www.garmin.com/contactUs/" title="Contact Us">Contact Us</a></li>
-    </ul>
-    
-  </div>
-  
-  <div class="col-xs-12 col-sm-2">
-    <h5>Company</h5>
-    
-    <ul>
-      <li><a data-ua-event="Global Footer,Nav,About Us" onclick="footer_data('Nav', 'About Us');" href="http://www.garmin.com/en-US/company/about/" title="About Us">About Us</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Blog" onclick="footer_data('Nav', 'Blog');" href="http://www.garmin.com/en-US/blog/" title="Blog">Blog</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Investors" onclick="footer_data('Nav', 'Investors');" href="http://www.garmin.com/en-US/company/investors" title="Investors">Investors</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Newsroom" onclick="footer_data('Nav', 'Newsroom');" href="http://newsroom.garmin.com/" title="Newsroom">Newsroom</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Retail Stores" onclick="footer_data('Nav', 'Retail Stores');" href="http://www8.garmin.com/company/stores/chicago/" title="Retail Stores">Retail Stores</a></li>
-    </ul>
-    
-  </div>
-  
-  <div class="col-xs-12 col-sm-2">
-    <h5>Careers</h5>
-    
-    <ul>
-      <li><a data-ua-event="Global Footer,Nav,Jobs" onclick="footer_data('Nav', 'Jobs');" href="http://careers.garmin.com/en-US" title="Jobs">Jobs</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Benefits" onclick="footer_data('Nav', 'Benefits');" href="http://careers.garmin.com/en-US#benefits" title="Benefits">Benefits</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Life at Garmin" onclick="footer_data('Nav', 'Life at Garmin');" href="http://careers.garmin.com/en-US#lag" title="Life at Garmin">Life at Garmin</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Students    " onclick="footer_data('Nav', 'Students    ');" href="http://www.garmin.com/us/company/careers/students/" title="Students    ">Students    </a></li>
-    </ul>
-    
-  </div>
-  
-  <div class="col-xs-12 col-sm-2">
-    <h5>Garmin Sites</h5>
-    
-    <ul>
-      <li><a data-ua-event="Global Footer,Nav,myGarmin" onclick="footer_data('Nav', 'myGarmin');" href="http://my.garmin.com/" title="myGarmin">myGarmin</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Garmin Connect" onclick="footer_data('Nav', 'Garmin Connect');" href="http://connect.garmin.com/" title="Garmin Connect">Garmin Connect</a></li>
-      <li><a data-ua-event="Global Footer,Nav,flyGarmin" onclick="footer_data('Nav', 'flyGarmin');" href="http://fly.garmin.com/" title="flyGarmin">flyGarmin</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Garmin Adventures" onclick="footer_data('Nav', 'Garmin Adventures');" href="http://adventures.garmin.com/en-US/" title="Garmin Adventures">Garmin Adventures</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Connect IQ" onclick="footer_data('Nav', 'Connect IQ');" href="https://apps.garmin.com/" title="Connect IQ">Connect IQ</a></li>
-    </ul>
-    
-  </div>
-  
-  <div class="col-xs-12 col-sm-2">
-    <h5>Partners</h5>
-    
-    <ul>
-      <li><a data-ua-event="Global Footer,Nav,Fleet Management" onclick="footer_data('Nav', 'Fleet Management');" href="http://www.garmin.com/solutions/" title="Fleet Management">Fleet Management</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Developers" onclick="footer_data('Nav', 'Developers');" href="http://developer.garmin.com/" title="Developers">Developers</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Dealer Resource Center" onclick="footer_data('Nav', 'Dealer Resource Center');" href="http://dealers.garmin.com/" title="Dealer Resource Center">Dealer Resource Center</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Education" onclick="footer_data('Nav', 'Education');" href="http://garmin.com/education" title="Education">Education</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Corporate Wellness" onclick="footer_data('Nav', 'Corporate Wellness');" href="https://explore.garmin.com/en-US/wellness/" title="Corporate Wellness">Corporate Wellness</a></li>
-      <li><a data-ua-event="Global Footer,Nav,Garmin Gear" onclick="footer_data('Nav', 'Garmin Gear');" href="http://garmin-gear.com/" title="Garmin Gear">Garmin Gear</a></li>
-    </ul>
-    
-  </div>
-  
-</div>        <div class="row">
-  <div class="col-xs-12 col-sm-12 disclaimer-block text-center">
-    <p>
-            
-<a onclick="footer_data('Disclaimer', 'Site Map');" href="http://www.garmin.com/siteIndex.html" title="Site Map">Site Map</a>&nbsp; • &nbsp; 
-<a onclick="footer_data('Disclaimer', 'Terms of Use');" href="http://www.garmin.com/en-US/legal/terms-of-use" title="Terms of Use">Terms of Use</a>&nbsp; • &nbsp; 
-<a onclick="footer_data('Disclaimer', 'Privacy');" href="http://www.garmin.com/en-US/legal/privacy-statement" title="Privacy">Privacy</a>&nbsp; • &nbsp; 
-<a onclick="footer_data('Disclaimer', 'Security');" href="https://www.garmin.com/en-US/legal/security" title="Security">Security</a>&nbsp; • &nbsp; 
+    <div class="g__footer" role="contentinfo">
+  <nav class="g__footer__con" aria-label="Footer Navigation">
+    <div class="g__footer__sec">
+  <h2 class="g__footer__header">Customer Service</h2>
+  <ul class="g__footer__nav">
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Special Offers" href="http://garmin.blogs.com/promotions/">Special Offers</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Shipping &amp; Delivery" href="http://www.garmin.com/en-US/shop/shipping-delivery">Shipping &amp; Delivery</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Order Return Status" href="https://support.garmin.com/orderStatus/checkOrderStatus">Order Return Status</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Returns &amp; Refunds" href="http://www.garmin.com/en-US/shop/returns-refunds">Returns &amp; Refunds</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Find a Dealer" href="https://www.garmin.com/en-US/dealerlocator">Find a Dealer</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Contact Us" href="https://www.garmin.com/en-US/company/contact/">Contact Us</a>
+    </li>
+  </ul>
+</div><div class="g__footer__sec">
+  <h2 class="g__footer__header">Company</h2>
+  <ul class="g__footer__nav">
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,About Us" href="http://www.garmin.com/en-US/company/about/">About Us</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Blog" href="http://www.garmin.com/en-US/blog/">Blog</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Investors" href="http://www.garmin.com/en-US/company/investors">Investors</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Newsroom" href="http://newsroom.garmin.com/">Newsroom</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Retail Stores" href="http://www8.garmin.com/company/stores/chicago/">Retail Stores</a>
+    </li>
+  </ul>
+</div><div class="g__footer__sec">
+  <h2 class="g__footer__header">Careers</h2>
+  <ul class="g__footer__nav">
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Jobs" href="http://careers.garmin.com/en-US">Jobs</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Benefits" href="http://careers.garmin.com/en-US#benefits">Benefits</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Life at Garmin" href="http://careers.garmin.com/en-US#lag">Life at Garmin</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Students    " href="https://careers.garmin.com/en-US/students">Students    </a>
+    </li>
+  </ul>
+</div><div class="g__footer__sec">
+  <h2 class="g__footer__header">Garmin Sites</h2>
+  <ul class="g__footer__nav">
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Garmin Connect" href="http://connect.garmin.com/">Garmin Connect</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,flyGarmin" href="http://fly.garmin.com/">flyGarmin</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Garmin Adventures" href="http://adventures.garmin.com/en-US/">Garmin Adventures</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Connect IQ" href="https://apps.garmin.com/">Connect IQ</a>
+    </li>
+  </ul>
+</div><div class="g__footer__sec">
+  <h2 class="g__footer__header">Partners</h2>
+  <ul class="g__footer__nav">
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Fleet Management" href="https://explore.garmin.com/en-US/fleet/">Fleet Management</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Developers" href="http://developer.garmin.com/">Developers</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Dealer Resource Center" href="http://dealers.garmin.com/">Dealer Resource Center</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Education" href="http://garmin.com/education">Education</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Corporate Wellness" href="https://explore.garmin.com/en-US/wellness/">Corporate Wellness</a>
+    </li>
+    <li class="g__footer__item">
+      <a class="g__footer__link" data-ua-event="Global Footer,Nav,Garmin Gear" href="http://garmin-gear.com/">Garmin Gear</a>
+    </li>
+  </ul>
+</div>        <div class="g__footer__sec g__footer__sec--full">
+  <ul class="g__footer__nav">
+        <li class="g__footer__item g__footer__item--disclaimer">
+    <a class="g__footer__link" data-ua-event="Global Footer,Disclaimer,Site Map" href="http://www.garmin.com/siteIndex.html">Site Map</a>
+</li><li class="g__footer__item g__footer__item--disclaimer">
+    <a class="g__footer__link" data-ua-event="Global Footer,Disclaimer,Terms of Use" href="http://www.garmin.com/en-US/legal/terms-of-use">Terms of Use</a>
+</li><li class="g__footer__item g__footer__item--disclaimer">
+    <a class="g__footer__link" data-ua-event="Global Footer,Disclaimer,Privacy" href="http://www.garmin.com/en-US/legal/privacy-statement">Privacy</a>
+</li><li class="g__footer__item g__footer__item--disclaimer">
+    <a class="g__footer__link" data-ua-event="Global Footer,Disclaimer,Security" href="https://www.garmin.com/en-US/legal/security">Security</a>
+</li>
+    <li class="g__footer__item g__footer__item--disclaimer">
       Copyright © 1996-2017 Garmin Ltd. or its subsidiaries
-    </p>
-  </div>
+    </li>
+  </ul>
 </div>
-    <div class="text-center top">
-    <a title="Facebook" href="https://www.facebook.com/Garmin" data-ua-event="Footer Social Links,Click,Facebook" class="garmin-social-icon garmin-social-icon-facebook">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNpiYBgF+AEjjNHR0TEfSCUMkDsWVFRUJIIYTEiCCQMYMHC7mQZblI06iBBgoZG5H0AJFYgXAhPrBWQJYOYRAFLv6ekgkGMc0R0CA0DxD0BH0TXKAnE5ZiDS0AagYw4MpjR0EF0AGD0GQKoeiAUGwkHYomo/sY6hV7YXGMg0NFpSD+6SGpjFGUlVA8x1oJp9/mAKIYXBFmXyg81BCjRLQ8D00IClKfqAgBraOQhaJSADUD32gICa0XJo1EGjDhp10KiDho2DFgygOxYwjAIiAUCAAQDuci9tTHZyJgAAAABJRU5ErkJggg==" alt="Facebook">
-</a>
-    <a title="Twitter" href="https://twitter.com/garmin" data-ua-event="Footer Social Links,Click,Twitter" class="garmin-social-icon garmin-social-icon-twitter">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAddJREFUeNrsl9FtgzAQhinKAIxAN6ATlEzQdILCBA1vvKV5y1vSCaATlEwQOkHoBGEERuid9EdKrzEYg6M+cNLJig32lx/f2ec4k032j22z2XjkQZ937ixA+NSsyBfk3sVQQf6epmkpno+oKam//gOEyV5pMDGE4cm3AkTajvyD/AXQDq13fx50xcP8wJImzgxgQmqyDhi2JfkRLQsQXw5KoCe0EUPxHujBlBmImvOatM5BBXRpLP9BZ1NCHd8AKIInOkBsDHOkBd861AoNY6Ahn9MeqlRAX4oXOWpOAPNHCshawqii7KQxGU+yR1sjGFY9gTjU57Lzl0LIBWuNyQIAfCJiVmPlMVcolOG7VjdI5M21zpn47SGx3cK+OxVq2dQ2rNIBylVSWrCyE4g2dSNTuSUrsFanQgxVAMqmUnutKBNyxipZh0YX/elcNThT9PvIMTZsbXRBwwkcjh1ZpM6DdmIU9mwhQXYGjBIIUTBHKhgFRh6kxndqXD0inFmeAUxOMFrpxNWccDEAZqcLo1QI1xA+0R+hjAkIf/KkLcRbgQhii4v3WMdCfC5tjOuylppK+0i4VnsNLhSxiUNUIQFcdQ2tcEsoTBQZWpUGfUvjySa7tf0IMADxFJtOUjDJYQAAAABJRU5ErkJggg==" alt="Twitter">
-</a>
-    <a title="YouTube" href="https://www.youtube.com/garmin" data-ua-event="Footer Social Links,Click,YouTube" class="garmin-social-icon garmin-social-icon-youtube">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAATRJREFUeNrsl9ENgjAQhrFhADYQJhAngBHYQN0A3nhT33iTDWQDHUEmEDfADTqCd+YeKiExoUfakP7JpaUJ7Zdrr9fzPCenhWmlflRVFUITk6nagAWaa0mw12DsAdaXZdn/AAEILnYEyw05pgaoAjuCBi4GYVA5OOX69RB0cHuelhyhLXoos+hMZwiUWASUCIbo4VQgRkLcpGKh8fMZ7ID3CCeRDpAHd0cDFhGYNA6kgkETkdekcSCCkmAnXTDBfSoHYHfjQJQbU2huUy5dfwYQTNLp1Dl8JpCYEnSqO5evCRKSR/ZcXtYB2hEMq3QOdThHQCBQZ1Eu6wTXlc8kiUCtRUAtAjUWATWCShAboPDl0AvKP/h8qA3C4NrFWKEYKIWi+rRdM4Q57sT7X6Ho5LQ4fQQYAA8xTWzOM62qAAAAAElFTkSuQmCC" alt="YouTube">
-</a>
-        </div>
-<style type="text/css">
-    .garmin-social-icon img{height:18px;width:18px;margin:0 10px;opacity:0.4;transition:opacity 250ms}
-    .garmin-social-icon:hover{text-decoration:none}
-    .garmin-social-icon:hover img{opacity:1;transition:none}
-</style>      </div>
-  <!--eo: container container_24-->
+        <div class="g__footer__sec g__footer__sec--full">
+  <ul class="g__footer__nav">
+    <li class="g__footer__item g__footer__item--social">
+      <a href="https://www.facebook.com/Garmin" data-ua-event="Footer Social Links,Click,Facebook">
+        <svg class="g__footer__item__icon g__footer__item__icon--fb" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151.6 157.3">
+  <title>Garmin on Facebook</title>
+  <path class="g__footer__item__icon__path" d="M86.8 5.3h5.5c2.1.1 4.2.1 6.4.3 1.9.1 3.8.3 5.8.5.6.1 1.3.1 1.9.2l-.6 23.4h-.4c-5.5 0-11 0-16.4-.1-1.3 0-2.6.2-3.9.5-2.3.6-4 2-4.7 4.3-.5 1.5-.7 3.1-.7 4.7v19h26.8c-.4 8.4-.8 16.7-1.2 25.1H79.6v68.7H53.1V83.2H35V58.3h18.2V37.5c0-1.6.1-3.2.3-4.8.2-2.4.8-4.8 1.7-7.1 1.7-4.7 4.3-8.7 8.1-12 3.6-3.2 7.8-5.3 12.4-6.6 3.2-.9 6.5-1.4 9.8-1.6.4 0 .9-.1 1.3-.1"></path>
+</svg>      </a>
+    </li>
+    <li class="g__footer__item g__footer__item--social">
+      <a href="https://twitter.com/garmin" data-ua-event="Footer Social Links,Click,Twitter">
+        <svg class="g__footer__item__icon g__footer__item__icon--tw" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151.6 157.3">
+  <title>Garmin on Twitter</title>
+  <path class="g__footer__item__icon__path" d="M147.8 38.9c-5.3 2.4-11 4-17 4.6 6.1-3.6 10.8-9.4 13-16.3-5.7 3.4-12 5.8-18.8 7.2-5.4-5.7-13.1-9.3-21.5-9.3C87.2 25 74 38.3 74 54.6c0 2.3.3 4.6.8 6.8-24.6-1.2-46.3-13-60.9-30.9-2.5 4.4-4 9.4-4 14.9C9.8 55.6 15.1 64.6 23 70c-4.9-.2-9.4-1.5-13.4-3.7v.4c0 14.3 10.2 26.2 23.7 29-2.5.7-5.1 1.1-7.8 1.1-1.9 0-3.7-.2-5.6-.5 3.7 11.7 14.7 20.3 27.6 20.6-10.1 7.9-22.9 12.6-36.7 12.6-2.4 0-4.7-.2-7.1-.4 13.1 8.4 28.6 13.3 45.3 13.3 54.4 0 84.1-45.1 84.1-84.1 0-1.3 0-2.6-.1-3.8 5.9-4.4 10.9-9.6 14.8-15.6z"></path>
+</svg>      </a>
+    </li>
+    <li class="g__footer__item g__footer__item--social">
+      <a href="https://www.youtube.com/garmin" data-ua-event="Footer Social Links,Click,YouTube">
+        <svg class="g__footer__item__icon g__footer__item__icon--yt" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151.6 157.3">
+  <title>Garmin on Youtube</title>
+  <path class="g__footer__item__icon__path" d="M104.3 79.6l-48 28.2V51.4l48 28.2zm44.8 26.1V53.3s0-25.3-25.3-25.3h-96S2.5 28 2.5 53.3v52.4s0 25.3 25.3 25.3h96.1s25.2 0 25.2-25.3"></path>
+</svg>      </a>
+    </li>
+    <li class="g__footer__item g__footer__item--social">
+      <a href="https://www.pinterest.com/garmin/" data-ua-event="Footer Social Links,Click,Pinterest">
+              </a>
+    </li>
+    <li class="g__footer__item g__footer__item--social">
+      <a href="https://instagram.com/garmin/" data-ua-event="Footer Social Links,Click,Instagram">
+              </a>
+    </li>
+  </ul>
 </div>
-
+  </nav>
+</div>
 
 
 </div><!-- /#content -->
         
-	<script language="JavaScript1.1" src="http://pixel.mathtag.com/event/js?mt_id=454110&amp;mt_adid=108693&amp;v1=&amp;v2=&amp;v3=&amp;s1=&amp;s2=&amp;s3="></script>
+	
 
  
 
