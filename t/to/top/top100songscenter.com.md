@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the top100songscenter.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319192159id_/http%3A//www.top100songscharts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top100songscenter.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207214944id_/http%3A//www.muxicbeats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which The Top 100 Songs collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.top100songscharts.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by The Top 100 Songs.
+This Privacy Policy governs the manner in which The Top 100 Songs collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.muxicbeats.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by The Top 100 Songs.
 
 ### Personal identification information
 
@@ -55,9 +55,9 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.
 
-### Songs Videos
+### Songs Videos & Lyrics
 
-This website does not own the songs videos.
+This website does not own the songs’ videos and Lyrics. We have given proper credits to the team who made the song at every song’s page. Moreover, we have provided the Itunes links at the end of each song’s page so users can buy the song from there and the team of the song gets paid for their work.
 
 ### Changes to this privacy policy
 
@@ -70,6 +70,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 ### Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-<http://www.top100songscharts.com/contact-us/>
-
-This document was last updated on December 18, 2011
+<http://www.muxicbeats.com/contact-us/>
