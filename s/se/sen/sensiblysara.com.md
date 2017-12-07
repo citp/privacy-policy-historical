@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sensiblysara.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602142802id_/http%3A//sensiblysara.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sensiblysara.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207080846id_/http%3A//sensiblysara.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - sensiblysara.com
 
