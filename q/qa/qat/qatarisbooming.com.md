@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qatarisbooming.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620060609id_/http%3A//www.qatarisbooming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qatarisbooming.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207042159id_/http%3A//www.qatarisbooming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Qatar is Booming
 
@@ -99,4 +99,4 @@ This Privacy Policy may be updated from time to time so you may wish to check it
 
 **11\. Contacting ME Business Wire about this Privacy Policy**
 
-If you have any questions or comments about this Privacy Policy please [contact us](mailto:info@qatarisbooming.com)
+If you have any questions or comments about this Privacy Policy please [contact us](https://web.archive.org/cdn-cgi/l/email-protection#c0a9aea6af80b1a1b4a1b2a9b3a2afafada9aea7eea3afad)
