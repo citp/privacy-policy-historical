@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkalizer.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525154309id_/http%3A//linkalizer.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkalizer.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207103841id_/http%3A//linkalizer.com/privacy_policy.php) for the most accurate reproduction.*
 
 # LinkAlizer - Privacy Policy
 
