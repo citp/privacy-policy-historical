@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilwire.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607042129id_/http%3A//tamilwire.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilwire.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207094826id_/http%3A//tamilwire.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tamil Movies Portal (TamilWire.net)
 
@@ -54,6 +54,6 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [TamilWire](http://tamilwire.net/)  
 [http://tamilwire.net](http://tamilwire.net/)  
-info@tamilwire.net
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on September 09, 2013
