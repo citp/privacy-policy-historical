@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saclaw.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092109id_/http%3A//saclaw.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saclaw.org privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207010104id_/http%3A//saclaw.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - saclaw.org
+# Privacy Policy | saclaw.org
 
 This privacy policy describes how the Sacramento County Public Law Library uses personal information collected at this site. Please read this policy carefully before using the site or submitting any personal information. By using this site, you are accepting the practices described in this privacy policy. Websites you link to from [www.saclaw.org](http://www.saclaw.org/) may have privacy provisions that differ from those of the library’s website.
 
