@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpskins.org privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515095849id_/https%3A//www.elegantthemes.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpskins.org privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207071509id_/https%3A//www.elegantthemes.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Elegant Themes
 
@@ -46,7 +46,9 @@ Elegant Themes, Inc. is the owner of the information collected through the Servi
 
 If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal website. 
 
-**Authorize.net**
+**Stripe.com**
+
+Credit card transactions are also processed using Stripe.com, a secure third party payment processing company. When using your credit card to purchase our product, you may be redirected to their secure third party gateway in the form of an iframe popup. The information you provide for payment will be stored on their secure servers. We do not store any payment information on our servers for your protection. **Authorize.net**
 
 Credit card transactions are also processed using Authorize.net, a secure third party payment processing company. When using your credit card to purchase our product, you may be redirected to their secure third party gateway in the form of an iframe. The information you provide for payment will be stored on their secure servers. We do not store any payment information on our servers for your protection. 
 
