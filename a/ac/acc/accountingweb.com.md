@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the accountingweb.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623152953id_/http%3A//www.accountingweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingweb.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207184635id_/https%3A//www.accountingweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AccountingWEB
 
 Last revised and effective as of: October 13th, 2015
 
-This Privacy Policy relates to information collected online by Sift Media US Inc. (“Sift Media” "we" or “us” or “our”) through your use of our Accounting Web website at **<http://www.accountingweb.com/>** and any subdomains (each of which is “our site”) and including the services, features, and information available our site (the “Service”). This Privacy Policy is incorporated into, a part of, and governed by the [**Sift Media Terms of Use**](http://www.accountingweb.com/terms-and-conditions-of-use).
+This Privacy Policy relates to information collected online by Sift Media (US), Inc. (“Sift” "we" or “us” or “our”) through your use of our Accounting Web website at **<https://www.accountingweb.com/>** and any subdomains (each of which is “our site”) and including the services, features, and information available our site (the “Service”). This Privacy Policy is incorporated into, a part of, and governed by the [**Sift  Terms of Use**](https://www.accountingweb.com/terms-and-conditions-of-use).
 
 You should carefully read this Privacy Policy. By using the Service, you are accepting the terms of this Privacy Policy. If you do not agree to this Privacy Policy, you may not use the Service.
 
@@ -16,11 +16,11 @@ This Privacy Policy serves to notify you of the following:
 
 **Where and when is information collected (including through the use of cookies and action tags)?**
 
-**Does Sift Media collect information from children under 13 years of age?**
+**Does Sift  collect information from children under 13 years of age? **
 
-**What does Sift Media do with the information it collects?**
+**What does Sift  do with the information it collects? **
 
-**When does Sift Media disclose information to third parties?**
+**When does Sift  disclose information to third parties? **
 
 **Does this Privacy Policy apply when I link to other websites or services?**
 
@@ -88,11 +88,11 @@ This Policy gives you details on how Google uses your data and how you can contr
 
 We also collect non-personally identifiable information through our Internet log files, which record data such as user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of the Service. This information may be used to analyze trends, to administer the Service, to monitor the use of the Service, and to gather general demographic information. We may link this information to personally identifiable information for these and other purposes such as personalizing your experience on the Service and evaluating the Service in general.
 
-**Does Sift Media collect information from children under 13 years of age?**
+**Does Sift  collect information from children under 13 years of age?**
 
 We are committed to protecting the privacy of children. The Service is not designed for or directed to children under the age of 13. We do not collect personally identifiable information from any person we actually know is under the age of 13.
 
-**What does Sift Media do with the information it collects?**
+**What does Sift  do with the information it collects?**
 
 In general, we use the information collected to provide the Service to you and process your transactions, to help us understand who uses the Service, for internal operations such as operating and improving the Service, to contact you for customer service and billing purposes, to facilitate the delivery of advertising, and so that we and third parties can contact you about products and services that may be of interest to you.
 
@@ -100,13 +100,13 @@ We may use your information to send you a welcoming email that may confirm your 
 
 We may also use the information gathered to perform statistical analysis of user behavior or to evaluate and improve the Service. We may link some of this information to personally identifiable information for internal purposes or to improve your experience with the Service.
 
-**When does Sift Media disclose information to third parties?**
+**When does Sift  disclose information to third parties?**
 
 Except as set forth in this Privacy Policy or our Terms of Use or as specifically authorized by you, we will not disclose any information we gather from you through the Service.
 
 **_Laws and Legal Rights_**
 
-We may disclose your information (including personally identifiable information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose personally identifiable information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the **_Sift Media Terms of Use_** , to detect fraud, for assistance with a delinquent account, or to protect the safety and/or security of our users, the Service or the general public.
+We may disclose your information (including personally identifiable information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose personally identifiable information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the **_Sift  Terms of Use_**, to detect fraud, for assistance with a delinquent account, or to protect the safety and/or security of our users, the Service or the general public.
 
 **_Third Parties Generally_**
 
@@ -118,11 +118,11 @@ We may employ independent contractors, vendors and suppliers (collectively, "Out
 
 **_Sale of Business_**
 
-We reserve the right to disclose or sell your information to a third party, provided that the third party agrees to adhere to the terms of this Privacy Policy, in the event we (i) become insolvent or are unable to pay our debts when due; (ii) file a petition or have filed against us a petition in bankruptcy, reorganization or similar proceeding; (iii) if Sift Mediais acquired by or merged with another company; or (iv) discontinue our business.
+We reserve the right to disclose or sell your information to a third party, provided that the third party agrees to adhere to the terms of this Privacy Policy, in the event we (i) become insolvent or are unable to pay our debts when due; (ii) file a petition or have filed against us a petition in bankruptcy, reorganization or similar proceeding; (iii) if Sift is acquired by or merged with another company; or (iv) discontinue our business.
 
 **_Affiliates_**
 
-We may disclose information (including personally identifiable information) about you to our Corporate Affiliates. For purposes of this Privacy Policy, "Corporate Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under common control with Sift Media, whether by ownership or otherwise. Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Privacy Policy.
+We may disclose information (including personally identifiable information) about you to our Corporate Affiliates. For purposes of this Privacy Policy, "Corporate Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under common control with Sift, whether by ownership or otherwise. Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Privacy Policy.
 
 **Does this Privacy Policy apply when I link to other websites or services?**
 
@@ -166,7 +166,7 @@ By postal mail or courier:
 
 Attn: Privacy Agent
 
-Sift Media (US), Inc
+Sift (US), Inc
 
 9775 Crosspoint Blvd
 
