@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finduniversity.ph privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628093645id_/http%3A//www.finduniversity.ph/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finduniversity.ph privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207170207id_/http%3A//www.finduniversity.ph/privacy.aspx) for the most accurate reproduction.*
 
 # FindUniversity.ph - Privacy Policy
 
