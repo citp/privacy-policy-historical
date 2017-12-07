@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thethriftycouple.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403213044id_/http%3A//thethriftycouple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thethriftycouple.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207222318id_/http%3A//thethriftycouple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fthethriftycouple.com%2Fprivacy-policy%2F&media=)
+[](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fthethriftycouple.com%2Fprivacy-policy%2F&media=)
 
 ##### Your Privacy
 
-Please always know that your privacy is a top priority for Alex & Cassie Michael and TheThriftyCouple.com!  Any information that you might share with us by any method will not be shared, sold, or used in any malicious way.  Any information you provide to us will not be publicly posted without your written permission.  Our goal is to protect your information while making this site a safe haven for you to learn how to save and become more a more thrifty family.  We encourage you to view our privacy policy below and let us know if you have any questions by visiting our [Contact Us](http://thethriftycouple.com/contact-us/ "Contact Us") page.
+Please always know that your privacy is a top priority for Alex & Cassie Michael and TheThriftyCouple.com!  Any information that you might share with us by any method will not be shared, sold, or used in any malicious way.  Any information you provide to us will not be publicly posted without your written permission.  Our goal is to protect your information while making this site a safe haven for you to learn how to save and become more a more thrifty family.  We encourage you to view our privacy policy below and let us know if you have any questions by visiting our [Contact Us](https://thethriftycouple.com/contact-us/ "Contact Us") page.
 
 ##### E-mails Collected in Comments
 
