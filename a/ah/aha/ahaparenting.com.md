@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ahaparenting.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611064254id_/http%3A//ahaparenting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahaparenting.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207124449id_/http%3A//www.ahaparenting.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# [CONTENT] - Privacy
 
 ###  Thank you for visiting Aha! Parenting.com.
 
