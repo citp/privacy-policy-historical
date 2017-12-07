@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pilotgroup.net privacy policy that was archived on 2017-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627061613id_/http%3A//www.pilotgroup.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pilotgroup.net privacy policy that was archived on 2017-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171207185237id_/http%3A//www.pilotgroup.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36"><head>
 
@@ -93,7 +93,7 @@ var myAjax = {"ajaxurl":"http:\/\/www.pilotgroup.net\/wp-admin\/admin-ajax.php"}
 					
 					data.action = 'revslider_ajax_call_front';
 					data.client_action = 'get_slider_html';
-					data.token = 'b6f77ea833';
+					data.token = 'e6f719472f';
 					data.type = obj.type;
 					data.id = obj.id;
 					data.aspectratio = obj.aspectratio;
@@ -139,8 +139,8 @@ var myAjax = {"ajaxurl":"http:\/\/www.pilotgroup.net\/wp-admin\/admin-ajax.php"}
 			});
 		</script>
 		<style type="text/css">div#toc_container {background: #fff;border: 1px solid #fff;}</style>        <!--bpmonline code-->
-        <script src="https://webtracking-v01.bpmonline.com/JS/track-cookies.js"></script>
-        <script src="https://webtracking-v01.bpmonline.com/JS/create-lead.js"></script>
+        <script async="" src="https://webtracking-v01.bpmonline.com/JS/track-cookies.js"></script>
+        <script async="" src="https://webtracking-v01.bpmonline.com/JS/create-lead.js"></script>
         
                     
             <!--<script type="text/javascript">             
@@ -1755,7 +1755,13 @@ mixpanel.init("9415f776275e03f6493761c42cd08294");</script><!-- end Mixpanel -->
     <script type="text/javascript" src="http://www.pilotgroup.net/wp-content/themes/Avada/pilot/js/stickySidebar.js"></script>
     <script type="text/javascript" src="http://www.pilotgroup.net/wp-content/themes/Avada/pilot/js/js-webshim/minified/polyfiller.js"></script>
     <script type="text/javascript" src="http://www.pilotgroup.net/wp-content/themes/Avada/pilot/js/jquery.textchange.js"></script>
-   
+
+    <script type="text/javascript" src="http://www.pilotgroup.net/wp-content/themes/Avada/pilot/js/slick.js"></script>   
+    <link rel="stylesheet" href="http://www.pilotgroup.net/wp-content/themes/Avada/pilot/css/slick.css" type="text/css" media="all">
+    <script type="text/javascript" src="http://www.pilotgroup.net/wp-content/themes/Avada/pilot/js/dot.js"></script>
+    <link rel="stylesheet" href="http://www.pilotgroup.net/wp-content/themes/Avada/pilot/css/dot.css" type="text/css" media="all">
+    <link rel="stylesheet" href="http://www.pilotgroup.net/wp-content/themes/Avada/pilot/css/slick-theme.css" type="text/css" media="all">
+
              <script type="text/javascript" src="http://www.pilotgroup.net/wp-content/themes/Avada/pilot/js/request.js"></script>
 		<script type="text/javascript">
 
@@ -1769,26 +1775,38 @@ mixpanel.init("9415f776275e03f6493761c42cd08294");</script><!-- end Mixpanel -->
 		</script>
 		<div class="fusion-modal modal fade modal-1 request_demo" tabindex="-1" role="dialog" aria-labelledby="modal-heading-1" aria-hidden="true"><style type="text/css">.modal-1 .modal-header, .modal-1 .modal-footer{border-color:#ebebeb;}</style><div class="modal-dialog modal-sm"><div class="modal-content fusion-modal-content" style="background-color:#333333"><div class="modal-header"><button class="close" type="button" data-dismiss="modal" aria-hidden="true">×</button><h3 class="modal-title" id="modal-heading-1" data-dismiss="modal" aria-hidden="true">Get started</h3></div><div class="modal-body">
 		<div id="demo-request-main">
+			<ul class="demo-modal-ul ">
+				<li>Try the site and apps for free</li>
+				<li>Get access to bonuses</li>
+				<li>Sign up for industry digest</li>
+				<li>All your changes will be saved when you switch to license</li>
+			</ul>
 			<div id="demo-request-form" class="register-advanced" style="display: block;">
-				<form action="" method="post">
+				<form id="demo_register_form" action="" method="post">
 					<div id="register_type" data-button-gid="" style="display:none"></div>
-					<a class="button_google" href="http://demo.datingpro.com/requests/index.php?controller=facebook&amp;action=register&amp;free=1"> <i class="fa fa-facebook fa-5"></i> Sign in with Facebook</a>
-					<a class="button_google" href="http://demo.datingpro.com/requests/index.php?controller=google&amp;action=register&amp;free=1"> <i class="fa fa-google-plus fa-5"></i> Sign in with Google</a>
-					<input id="register_email" name="sender_email" type="email" value="" placeholder="Your email">
-					<input id="register_name" class="demo-request-advanced" style="display: inline;" name="sender_name" type="text" value="" placeholder="Your name">
-                    <input id="register_phone" class="demo-request-advanced" style="display: inline;" name="sender_phone" type="text" value="" placeholder="Your phone (with country code)">
-					<div class="demo-request-remember demo-request-advanced" style="display: block;">
-						<input id="demo-request-remember" checked="checked" name="user_account[remember_me]" type="checkbox" value="1"> 
-						<label for="demo-request-remember">Remember me</label>
+					<input id="register_email" name="email" type="email" value="" placeholder="Your email">
+					<div id="demo_register_block" style="display: none;">
+						<input id="register_name" class="demo-request-advanced" style="display: inline;" name="name" type="text" value="" placeholder="Your name">
+						<input id="register_phone" class="demo-request-advanced" style="display: inline;" name="phone" type="text" value="" placeholder="Your phone (with country code)">
 					</div>
-					<input id="demo-register-btn" data-dismiss="modal" class="btn-main green" style="display: inline; width: 100%;" name="send" type="submit" value="Start my dating site">
+					<input id="marketplace-register-btn" data-dismiss="modal" class="btn-black" style="display: inline; width: 100%;margin-top:20px;" name="send" type="submit" value="GET STARTED FREE">
 				</form>
 			</div>
 		</div></div></div></div></div> 
                     
     
      
-                     	    
+                     <script type="text/javascript" src="http://www.pilotgroup.net/wp-content/themes/Avada/pilot/js/marketplace.js"></script>
+        <script type="text/javascript">
+            jQuery(function($) {
+                if(typeof Marketplace != 'undefined') {
+                    new Marketplace({
+                        siteUrl: 'http://www.pilotgroup.net', 
+                    });
+                }
+            });
+        </script>
+        
 	<script>
 		var pgmixpanel = new pgmixpanel({
 			fname:'',
@@ -1862,8 +1880,14 @@ mixpanel.init("9415f776275e03f6493761c42cd08294");</script><!-- end Mixpanel -->
                     <img src="http://www.pilotgroup.net/wordpress/wp-content/uploads/2016/02/pg-logo-standartSize.png" alt="Pilot Group" class="normal_logo">
                                     </a>
             </div>
-            <div class="col-xs-3 menu-expander">
-                <a id="menu-expander-href" href="#"><i class="fa fa-bars"></i></a>
+            <div class="menu-expander">
+                <a id="menu-expander-href" href="#"><i class="fa fa-bars fa-2x"></i></a>
+            </div>
+            <div class="pull-right contact-button">
+                <div class="gs-button" id="gs-button" style="display:inline-block; padding: 0 15px;">
+                    <a id="gs-button-a" style="color: #111111; font-size: 16px !important;" href="#"><i id="gs-button-i" class="fa fa-search"></i></a>
+                </div>
+                <a class="btn-black" href="http://www.pilotgroup.net/contact-us/">GET FREE QUOTE</a>
             </div>
             <style>
     #google-search-block > div {
@@ -1938,21 +1962,116 @@ mixpanel.init("9415f776275e03f6493761c42cd08294");</script><!-- end Mixpanel -->
                     <a href="/recipe-of-success/">Services</a>
                 </li>
                                                 <li>
+                    <a href="https://marketplace.pilotgroup.net/filter-dating-dating-a79-vDating/filter-realty-realty-a80-vRealty/filter-marketplace-marketplace-a77-vMarketplace/filter-all-all-a85-vAll/filter-mobile-mobile-a83-vMobile/filter-websites-websites-a84-vWebsites">What we do &amp; Sell own</a>
+                </li>
+                                                <li>
+                    <a href="https://marketplace.pilotgroup.net/filter-cases-cases-a90-vCases/filter-portfolio-portfolio-a76-vPortfolio">Cases</a>
+                </li>
+                                                <li>
                     <a href="/about/">We are</a>
                 </li>
-                                                <li>
-                    <a href="https://marketplace.pilotgroup.net">Our projects &amp; Services</a>
-                </li>
-                                                <li>
-                    <a href="http://blog.pilotgroup.net/">Blog</a>
-                </li>
                             <li>
-            <div class="gs-button" id="gs-button"><a id="gs-button-a" style="color: #111111; font-size: 16px !important;" href="#"><i id="gs-button-i" class="fa fa-search"></i></a></div>
+            <style type="text/css">
+@media (max-width: 414px) {    
+    .google_translate_element {
+        width: 100%;
+    }
+}    
+@media (min-width: 415px) and (max-width: 1170px) {    
+    .google_translate_element {
+        width: 200px;
+    }
+} 
+.mobile-menu {
+    width: 550px !important;
+}    
+</style>
+<span id="google_translate_element_gt_11" class="google_translate_element"></span>
+<script type="text/javascript">     
+
+var google_layout_gt_11 = 'SIMPLE';
+
+jQuery(function($) {
+    $(document).ready(function() {
+        setGoogleTranslateElement();
+    });    
+    function setGoogleTranslateElement() {
+        if (google_layout_gt_11.length == 0) {
+            if ($(window).width() <= '1170') {
+                google_layout_gt_11 = 'HORIZONTAL';
+            } else {
+                google_layout_gt_11 = 'SIMPLE';
+            }
+        }    
+    }     
+});    
+
+function loadGoogleTranslate_gt_11() {
+    
+    var googleTranslateScript = document.createElement('script');
+    googleTranslateScript.type = 'text/javascript';
+    googleTranslateScript.async = true;
+    googleTranslateScript.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit_gt_11';
+    ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( googleTranslateScript );
+}
+    
+function googleTranslateElementInit_gt_11() {            
+    if (google_layout_gt_11 == 'HORIZONTAL') {
+        new google.translate.TranslateElement(
+            { 
+                //pageLanguage: 'en', 
+                pageLanguage: "auto",                
+                //layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL, 
+                gaTrack: true, 
+                gaId: 'UA-43414725-1',
+                autoDisplay: true            }, 
+            'google_translate_element_gt_11');
+    } else if (google_layout_gt_11 == 'SIMPLE') {
+        new google.translate.TranslateElement(
+            {
+                //pageLanguage: 'en', 
+                pageLanguage: "auto",
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE, 
+                gaTrack: true, 
+                gaId: 'UA-43414725-1',
+                autoDisplay: true            }, 
+            'google_translate_element_gt_11');
+    }  
+} 
+</script>
+        <script type="text/javascript">     
+
+        var gt_elem_position__gt_11 = 'top_menu';   
+
+        jQuery(function($) {
+            $(document).ready(function() {            
+
+                if (gt_elem_position__gt_11 == "mobile_menu") {
+
+                //load google translate element if width < 780
+                    if ($(window).width() < 780) {
+                        loadGoogleTranslate_gt_11();
+                    }
+                } else if (gt_elem_position__gt_11 == "top_menu") {
+                    //load google translate element if width >= 780
+                    if ($(window).width() >= 780) {
+                        loadGoogleTranslate_gt_11();
+                    }
+                }
+
+            }); 
+        });     
+        </script>
+      
         </li>
     </ul>
-</div>
-<div class="pull-right contact-button">
-    <a class="btn-black" href="http://www.pilotgroup.net/contact-us/">GET FREE QUOTE</a>
+
+    <div class="pull-right contact-button-mobile">
+        <div class="gs-button" id="gs-button" style="display:inline-block; padding: 0 15px;">
+            <a id="gs-button-a" style="color: #111111; font-size: 16px !important;" href="#"><i id="gs-button-i" class="fa fa-search"></i></a>
+        </div>
+        <a class="btn-black" href="http://www.pilotgroup.net/contact-us/">GET FREE QUOTE</a>
+    </div>
 </div>
 
 
@@ -2123,55 +2242,30 @@ mixpanel.init("9415f776275e03f6493761c42cd08294");</script><!-- end Mixpanel -->
 			</div>
 			<div id="sidebar" class="sidebar" style="float:right;">
 		<div id="text-2" class="widget widget_text">			<div class="textwidget"><aside class="b-sidebar">
-			<!--
-            <div class="b-contactform">
-                <div>Questions? Sales?</div>
-                <div class="b-contactform-phone">1-866-620-1919</div>
+    <a class="button_google" style="margin-top: 0px; font-size: 15px ! important;" href="http://www.pilotgroup.net/privacy-policy/">Contact us</a>
+    <div class="b-sidebar-slogan">Get started!</div>
+            <div id="demo-request-main">
+            <div id="sidebar-request-form" class="register-advanced" style="display: block;">
+                <form action="" method="post" id="sidebar-register-form">
+                    <a class="button_google" href="http://marketplace.datingpro.com/social/login/facebook/"> <i class="fa fa-facebook fa-5"></i> Sign in with Facebook</a>
+                    <a class="button_google" href="http://marketplace.datingpro.com/social/login/google/"> <i class="fa fa-google-plus fa-5"></i> Sign in with Google</a>
+                    <div id="sidebar_register_type" data-button-gid="" style="display:none"></div>
+                    <input id="sidebar_register_email" name="email" type="email" value="" placeholder="Your email"><br>
+                    <div id="sidebar_register_block" style="display: none;">
+                        <input id="sidebar_register_name" class="demo-request-advanced" style="display: inline;" name="name" type="text" value="" placeholder="Your name">
+                        <input id="sidebar_register_phone" class="demo-request-advanced" style="display: inline;" name="phone" type="text" value="" placeholder="Your phone (with country code)">
+                        <!-- div class="g-recaptcha" style="margin-top: 20px;" data-sitekey="6LeRHwsTAAAAAKVuuMPS9KynaTC1YhgLzUVftpcd"></div -->
+                    </div>
+                    <div id="sidebar_login_block" style="display:none;">
+                        <input id="sidebar_register_password" name="password" type="password" value="" placeholder="Your password"><br>
+                        <a href="javascript:;" id="sidebar_restore_password">Restore password</a>
+                    </div>
+                    <input id="sidebar-register-btn" class="btn-main green" style="display: inline-block; margin-top: 20px;" name="send" type="submit" value="Start my dating site">
+                </form>                
             </div>
-			-->
-			<a class="button_google" style="margin-top: 0px; font-size: 15px ! important;" href="http://www.pilotgroup.net/privacy-policy/">Contact us</a>
-            <div class="b-sidebar-slogan">Get started!</div>
-							<div id="demo-request-main">
-					<div id="sidebar-request-form" class="register-advanced" style="display: block;">
-						<form action="" method="post">
-							<!--
-							<a class="button_google" href="http://marketplace.datingpro.com/request/oauth/authorize/?client_id=pgclient&response_type=code&scope=datingpro&redirect_uri=http%3A%2F%2Fwww.datingpro.com%2Fdating-software%2Fonline-demo%2F">			
-								<i class="market-button">M</i>Sign in with Marketplace
-							</a>
-							-->
-							<a class="button_google" href="http://demo.datingpro.com/requests/index.php?controller=facebook&amp;action=register&amp;free=1" id="sidebar-facebook"> <i class="fa fa-facebook fa-5"></i> Sign in with Facebook</a>
-							<a class="button_google" href="http://demo.datingpro.com/requests/index.php?controller=google&amp;action=register&amp;free=1" id="sidebar-google"> <i class="fa fa-google-plus fa-5"></i> Sign in with Google</a>
-							<div id="sidebar_register_type" data-button-gid="" style="display:none"></div>
-							<input id="sidebar_register_email" name="sender_email" type="email" value="" placeholder="Your email">
-							<input id="sidebar_register_name" class="demo-request-advanced" style="display: inline;" name="sender_name" type="text" value="" placeholder="Your name">
-                            <input id="sidebar_register_phone" class="demo-request-advanced" style="display: inline;" name="sender_phone" type="text" value="" placeholder="Your phone (with country code)">
-							<div class="demo-request-remember demo-request-advanced" style="display: block;">
-								<input id="sidebar-request-remember" checked="checked" name="user_account[remember_me]" type="checkbox" value="1"> 
-								<label for="sidebar-request-remember">Remember me</label>
-							</div>
-							<input id="sidebar-register-btn" data-dismiss="modal" class="btn-main green" style="display: inline;" name="send" type="submit" value="Start my dating site">
-						</form>
-					</div>
-				</div>
-				<script type="text/javascript">
-				jQuery(function($){
-					new PgRequests({
-						url: 'http://demo.datingpro.com/requests/index.php',
-						redirectUrl: '/privacy-policy/',
-						code: '',
-						requestFormId: 'sidebar-request-form',
-						requestMenuId: 'sidebar-request-menu',
-						requestErrorId: 'demo_request_alerts',
-						registerEmailId: 'sidebar_register_email',
-						registerNameId: 'sidebar_register_name',
-                        registerPhoneId: 'sidebar_register_phone',
-						registerButtonId: 'sidebar-register-btn',
-						registerAdvancedClass: 'demo-request-advanced',
-						rememberMeId: 'sidebar-request-remember',
-					});
-				});
-				</script>
-			</aside>
+        </div>
+    </aside>
+
 </div>
 		</div>	</div>
 				</div>
@@ -2182,6 +2276,11 @@ mixpanel.init("9415f776275e03f6493761c42cd08294");</script><!-- end Mixpanel -->
        
     
 	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			Intercom('onUnreadCountChange', function() { 
+				ga('send', 'event', 'Intercom', 'Change unread messages count');
+			});
+		});
              
 		jQuery('.submit_form').bind( "click", function() {
 			
@@ -2455,6 +2554,8 @@ else
                 color: #333333 !important;
                 font-size: 18px !important;
                 font-family: "Open Sans", Arial, Helvetica, sans-serif !important;
+                line-height: 30px !important;
+                height: 70px;
             }
             #onpbxcb__container .onpbxcb__form {
                 font-family: "Open Sans", Arial, Helvetica, sans-serif !important;
@@ -2488,7 +2589,14 @@ else
             if (typeof OnlinePBXWebWidget == 'undefined') {
                 OnlinePBXWebWidget = {events:{}};
             }
-
+            
+            function getCookie(name) {
+                var matches = document.cookie.match(new RegExp(
+                  "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+                ));
+                return matches ? decodeURIComponent(matches[1]) : undefined;
+            }
+            
             OnlinePBXWebWidget.events.init = function() {
                 jQuery('.onpbxcb__closebutton').prependTo('.onpbxcb__form');
                 jQuery('.onpbxcb__row.js-onpbxcb__footer').remove();
@@ -2509,7 +2617,11 @@ else
                 jQuery('#onpbxcb__container .onpbxcb__header.onpbxcb__js-header').clone()
                     .removeClass('onpbxcb__js-header').addClass('onpbxcb__js-header2')
                     .insertAfter('#onpbxcb__container .onpbxcb__header.onpbxcb__js-header');
-                jQuery('#onpbxcb__container .onpbxcb__header.onpbxcb__js-header').html('Want us to call you and give you more details?');
+                jQuery('#onpbxcb__container .onpbxcb__header.onpbxcb__js-header').html('Do you have any questions?');
+                jQuery('#onpbxcb__container .onpbxcb__header.onpbxcb__js-header2').html('We can call you back absolutely for free!<br> We will get in touch with you and answer all your questions!');
+                if (getCookie('telCode')){
+                    jQuery('.onpbxcb__inputs.onpbxcb__js-inputs .onpbxcb__inputblock:nth-child(1) .onpbxcb__js-number').val('+' + getCookie('telCode'));
+                }
                 jQuery('.onpbxcb__formfooter_text').text('operators online');
 
             };
@@ -2517,15 +2629,24 @@ else
             OnlinePBXWebWidget.events.expandclick = function() {
                 jQuery('.onpbxcb__js_callbutton').text('Call me');
                 jQuery('.onpbxcb__formfooter_text').text('operators online');
+                if (getCookie('telCode')){
+                    jQuery('.onpbxcb__inputs.onpbxcb__js-inputs .onpbxcb__inputblock:nth-child(1) .onpbxcb__js-number').val('+' + getCookie('telCode'));
+                }
             };
-
+            
+            OnlinePBXWebWidget.events.expandauto = function() {
+                if (getCookie('telCode')){
+                    jQuery('.onpbxcb__inputs.onpbxcb__js-inputs .onpbxcb__inputblock:nth-child(1) .onpbxcb__js-number').val('+' + getCookie('telCode'));
+                }
+            };
+            
             OnlinePBXWebWidget.events.disableclick = function(src) {
             };
 
             OnlinePBXWebWidget.events.callrequest = function(number, src) {
                 jQuery('.onpbxcb__js_callbutton').text('connect');
                 jQuery('.onpbxcb__formfooter_text').text('operators online');
-
+                ga('send', 'event', 'Формы сайта', 'Call Me', 'Pilotgroup.net');
             };
 
             OnlinePBXWebWidget.events.callsuccess = function(number, op, src) {
