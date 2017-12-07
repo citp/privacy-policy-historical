@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplawrence.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607210258id_/http%3A//aplawrence.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplawrence.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207100528id_/http%3A//aplawrence.com/privacy.html) for the most accurate reproduction.*
 
 # aplawrence.com | Privacy Policy
 
