@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607035813id_/http%3A//www.sandow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207201527id_/http%3A//www.sandow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SANDOW | Brands Powered by Innovation.
 
