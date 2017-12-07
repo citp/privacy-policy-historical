@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newarena.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627033512id_/http%3A//newarena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newarena.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207180456id_/http%3A//newarena.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy – New Arena
 
 This Privacy Policy describes how “NewArena.com,” “we” or other first person pronouns treat the information we collect and/or receive from users of our website, www.NewArena.com (“Site”), any downloadable mobile app(s) we offer (“App”) and any of our other services (collectively, the “Services”).
 
@@ -50,16 +50,16 @@ Any information collected by New Arena is stored using security procedures and p
 **Foreign Countries  
 **Our Services are provided from facilities based in the United States and may also be provided from servers located outside the United States. We may store and process your information both in and out of the United States. Your use of our Services constitutes your consent to and understanding of processing both in and out of the United States. For example, if you use our Services from outside the United States, your Personal Information will be transferred to and maintained on servers or databases located outside your country.
 
-**Third Party Sites and Services  
+ **Third Party Sites and Services  
 **We may provide links to third party websites, apps and other services. We are not responsible for those third parties and cannot control their use of any information that they collect from you. You should contact such third-party websites directly to determine their privacy policies.  
 Changes
 
 NewArena.com reserves the right to change this Privacy Policy at any time, and will do so by posting an updated Privacy Policy on our website. Changes will not affect the user information that we obtained prior to the change without your express consent.
 
-**California Residents  
+ **California Residents  
 **Under California Civil Code sections 1798.83-1798.84, also known as the “Shine the Light Law,” any of our users who are California residents may request and receive once a year, free of charge, a notice from us describing what categories of personal customer information we share with third parties for their direct marketing purposes. That notice will identify the categories of information shared, the third parties and affiliates with which it was shared, and their names and addresses. If you are a California resident and would like a copy of the notice that the law requires, please submit a written request to the following address: admin@newarena.com. In your request, please specify that you want a “California Privacy Rights Notice.” Please allow at least thirty days for a response.
 
-**Contact Us  
+ **Contact Us  
 **If you would like to opt-out of receiving marketing communications from us, please follow the instructions in the messages or emails to unsubscribe.
 
 If you have any questions about our privacy practices, please email us at admin@newarena.com.
