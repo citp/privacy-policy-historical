@@ -1,75 +1,205 @@
-> *The following text is extracted and transformed from the chikka.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020022id_/http%3A//www.chikka.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chikka.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207100700id_/http%3A//chikka.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Chikka
 
-Chikka Philippines, Inc. and all its affiliates understand your concerns about how your information is used and shared, and we appreciate your trust that we will do so carefully and sensibly.
+To provide you with the best customer experience, Voyager Innovations, Inc. is committed to protecting your privacy and staying transparent with the way we handle your personal information. For this we have designed a privacy policy that will help you understand how we collect, use, store, share and protect the personal information you have entrusted us. 
 
-This Privacy Policy covers this Chikka Web Site, and your use of the Chikka Text Messenger. This Privacy Policy does not include any other Web Site linked to or from the Web Site or the Chikka Text Messenger. By using the Chikka Web Site, and using Chikka Services including the Chikka Text Messenger, you agree to accept the terms set forth in this privacy policy. Chikka Philippines and all its affiliates may amend this privacy policy from time to time. If the privacy policy is revised, the revised privacy policy will be posted on this Web site, and you will have the opportunity to modify your information on file with Chikka.
+Our privacy policy values and protects your personal information under the Data Privacy Act of 2012 and the laws of the Philippines. Personal information simply means any information or data that can be used to distinguish, identify or contact you. 
 
-## Information Collection
+Our Privacy Policy explains: 
 
-You agree that you will not allow unauthorized persons to use your account as identified by your mobile phone number. You agree to indemnify and hold Chikka Philippines, Inc and the Service, its partners, parents, subsidiaries, agents, affiliates and/or licensors, as applicable, harmless for any improper, unauthorized or illegal uses of your account.
+1\. Why we collect personal information 
 
-In order to use the Chikka Text Messenger, some personally identifiable information is necessary, such as your name, mobile number, user name, password, birthday, sex and country, among others, as specified by the Chikka Web Site. In addition, Chikka and all its affiliates may collect non-personally identifiable usage data and other information on all users.
+2\. What kind information we collect 
 
-### Customer Service
+3\. Where we get these information 
 
-Chikka Philippines, Inc may provide you with access to some Services without the need for you to register, such as sign-up via SMS. In such a case, your identification will be based on means of identification that we deem fitting, such as your mobile telephone number.
+4\. Who we share your information with 
 
-When you contact our customer service, we request for personal information to ensure that we have the necessary information to assist you with your inquiries. We communicate with users via email on a regular basis to provide requested services and assistance on issues relating to their account. 
+5\. How we protect your information
 
-###  Cookies 
+6\. Your choices, including how you can check and update any personal information we have about you 
 
-Cookies are small bits of data that are deposited on a user's hard drive. These cookies allow easier communication and interaction with the Web Site. The Chikka Web Site utilizes cookies and IP addresses for certain functions. We also use cookies to deliver content specific to your interests, among other purposes. You may choose to decline the cookies any time through your web browser, although certain functions of the Web Site may be disallowed. The Chikka Web Site will never use cookies to retrieve information from a computer that is unrelated to the Web Site or your interaction with the Web Site. Our advertisers and business partners may also use cookis through our Web Site. We have no access to or control over these cookies once we have given permission to set cookies on our Web Site to the said advertisers or business partners. 
+7\. What happens if there are changes in our privacy policy 
 
-###  IP Addresses 
+As a condition for use of our products and services, you are consenting to the Privacy Policy of Voyager Innovations, Inc. (we, our, us) and its subsidiaries, affiliates, and subcontractors; and the collection, use, access, transfer, storage and processing of your personal information as described in this Privacy Policy. 
 
-IP Addresses are automatically reported by your browser, and stored in our databases each time you use the Chikka Web Site. Chikka compiles and stores IP addresses of visitors for the following purposes: to enforce our Terms of Service; to diagnose or service technology problems reported by our users; to protect or troubleshoot the Web Site; and to estimate total number of users visiting the Chikka Web Site from specific geographical regions. 
+To improve our products and services, it is important that we collect, use, process and analyze your personal information when it is reasonable and necessary. When we can, we aggregate and anonymize this information such that you are never identified as an individual. [Aggregating simply means presenting information in segments or categories like age groups; anonymizing means removing personally identifiable information from the data]. 
 
-###  Log Files 
+In particular, we are using your information to:
 
-Chikka uses log files including internet protocol (IP) addresses, Internet service provider (ISP), platform type, browser type, date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the Web Site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. Such information is not linked to personally identifiable information. 
+1\. Manage your account, provide customer care activities, monitor the quality and security of the network, train our staff, and provide services timely and efficiently; 
 
-##  Sharing of Information 
+2\. Send commercial and promotional advertisements, loyalty and rewards offers, surveys, customer care and aftersales communications, and other broadcast push messages; 
 
-Chikka may share information with other parties when necessary, such as in the following cases: 
+3\. Send commercial and promotional advertisements, loyalty and rewards offers, surveys, customer care and aftersales communications, and other broadcast push messages; 
 
-###  Third Party 
+4\. Conduct analysis for research and marketing initiatives, including the generation of anonymized or non-personally identifiable location and mobility data to show footfall, location patterns, crowd density, and other information that may be relevant for marketing purposes; 
 
-Chikka and all its affiliates, share personally identifiable information when necessary, with partners that provide us with content and technology, and our agents, representatives, contractors, and service providers in order to enable the normal course of functionality of the Chikka Web Site. By using the Chikka Web Site or the Chikka Text Messenger, you consent to our sharing your personally identifiable information with third parties in connection with providing services, including without limitation, our messaging and billing service providers and your wireless service provider. If the Chikka Web Site or the Chikka Text Messenger goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, Chikka and all its affiliates will inform users before users' personal information is transferred and become subject to a different privacy policy. 
+5\. Generate statistical insights based on usage/network information to assist the Government in planning for healthcare, disaster, and other similar initiatives; 
 
-###  Legal Disclaimer 
+6\. Run credit scoring programs and initiatives, including but not limited to, providing information to the Credit Information Corporation in accordance to Republic Act No. 9501, otherwise known as the Credit Information System Act; and 
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on the Web Site or its owners. Chikka Philippines, Inc. may also disclose personally identifiable information in order to respond to a subpoena, court order or other similar requests. Chikka may also provide such personally identifiable information in order to comply with law or in response to a law enforcement agency's request, to enforce our privacy policy, terms of service, and to protect the rights, property or safety of Chikka Web Site users. 
+7\. Perform such other processing or disclosure that may be required under law or regulations. 
 
-###  Aggregate Information (non-personally identifiable) 
+In cases where your separate and full consent is given, we are also processing your personal data to:
 
-The non-personally identifiable information we may gather includes the type of browser that you use, your gender, age, and IP address, the content that you access and the duration of your visit to the Chikka Web Site or the Chikka Text Messenger. We may share aggregated demographic information with our partners. This is not linked to any personally identifiable information. We also use this information, to enhance the operation of our services, analyze interest in the areas of the Chikka Web Site and to tailor advertising and content display to users and to inform our advertisers about the number of users that have viewed their advertising. We also retain aggregated log files of requested content in order to report overall product usage and to evaluate user trends. 
+1\. Create your personal profile based on your interests, preferences, mobility patterns from physical locations that you may visit, and other information that may be relevant for marketing and market research purposes;
 
-###  Third Party Intermediaries 
+2\. Share your personal profile based on your interests, preferences, and mobility patterns from physical locations that you may visit, to our business partners and third-party service providers; 
 
-By using our services, you consent to sharing necessary information/account to and/or with third parties in connection with delivering the services offered by the Chikka Web Site such as participating mobile communications service providers, in order to bill users for its services. 
+3\. Compute your credit score based on data collected internally within the PLDT Group and its subsidiaries and affiliates, and share your credit score to third-parties to whom you specifically instruct us to share your credit score; and 
 
-###  Children 
+4\. Send you information on offers, promotions, and advertisements from our business partners and third-party service providers.
 
-The Chikka Web Site does not knowingly collect personal information from children under the age of 13. We request that children under the age of 13 not to use our services nor submit any personal information to us. Since we do not collect information from children under the age of 13, we do not knowingly use or distribute personal information regarding children under the age of 13. If Chikka and all its affiliates obtain actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Chikka and all its affiliates believe that parents should supervise their children's online activities and use a parental control tool to prevent children from disclosing personal information without parental consent. If a child under the age of 13 has provided personal information without the consent of a parent or guardian, please contact us. After verification of the information, we will immediately delete the information from our records. 
+We collect information to provide better services to all of our users. This may range from the most basic like being able to offer promos that best suites the user’s to more complex use cases like which related services and digital content a user might find interesting & useful. This includes information such as: 
 
-###  Communication 
+  * Basic personal information like your name, date of birth, gender, nationality, address, and identity supporting documents such as social security, passport, or tax identification numbers. You can check what we know about you by making a request to the Voyager Data Privacy Compliance Officer through the contact details provided below; 
+  * Your credit card, bank and payment details; and 
+  * Your contact details like billing address, telephone number, mobile phone number, email address; 
 
-The Chikka Web Site and Chikka Text Messenger will send you certain communication relating to the general operation of the service, such as service announcements and administrative messages. 
 
-###  Notification of Changes 
 
-We may update or modify this Privacy Policy from time to time. Any such updates, modifications or revisions, shall be effective immediately upon posting on our sites. If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so you may always be aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. Please refer back to this page often for the latest information. 
+There are a few different ways we collect information.
 
-###  Links 
+##  Information that you personally give us 
 
-The Chikka Text Messenger contains banner and text advertising that are linked to other Web Sites. Chikka and all its affiliates are not responsible for the privacy practices of such other Web Sites. We persuade our users to be aware when they leave our Web Site and to read the privacy statements of each and every Web Site that collects personally identifiable information. The use of personal information will be governed by such third party's own privacy policy. This privacy statement applies solely to information collected by this Web Site and the Chikka Text Messenger. 
+Most of the personal information we have are those that you have given us yourself. You provide us personal information when you:
 
-###  Your Acceptance of this Policy 
+  * Sign up to use our products and services by creating an account in our web sites or applications; 
+  * Apply for subscription to our services by filling out a Service Application Form or Customer Information Sheet or provide personal information to one of our TeleSales representative; 
+  * Get in touch with us to ask about something, file a complaint or request for service; 
+  * Take part in our research and surveys; 
+  * Sign up in our booth in trade shows or events; and/or 
+  * When you apply for job with us. 
 
-By visiting the Web Site, or using the Chikka Text Messenger you signify your assent to the terms of this Privacy Policy. Use of this web site or the Chikka Text Messenger signifies your acceptance of the Chikka Text Messenger end-user license agreement and this privacy policy. Each time you use the Chikka Web Site, or the Chikka Text Messenger you signify that you have read and agree to be bound by the End-User License Agreement and the Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the Web Site or the Chikka Text Messenger. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time. Your continued use of the Web Site or the Chikka Text Messenger following the posting of changes to these terms means you accept these changes. 
 
-### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please email us at [mailus@chikka.com](mailto:mailus@chikka.com).
+##  Information we collect during our relationship with you 
+
+We also collect information as you use our products & services, like when you:
+
+  * Use our networks - whether it is mobile, Wi-Fi, or other channels; 
+  * Pay your bill or purchase add-on products and services; 
+  * Use our apps, websites and self-service channels; 
+  * Purchase items from our apps and websites; and 
+  * Join our promos, prize raffles or reward & loyalty programs 
+
+
+
+We also collect anonymous information to help us tailor our Web sites and Applications to visitor interests and concerns; we also use this to improve our Applications for overall user experience. We use "cookies" to help us understand which parts of our Web sites and Applications are the most popular, where our users are going and how much time they spend there. The information that is gathered through cookies is used solely to assist in improving both our Web sites and Applications design and function. Our Web sites are functional without the retention of cookies. You may elect to block cookies from our Web sites through your browser settings. 
+
+We also automatically track certain information about you based upon your behavior on our Web site and Applications. We use this information to do internal research on our Users’ demographics, interests, and behavior to better understand, protect and serve you and our community. This information may include browsing history and your IP address. 
+
+##  Information we collect from other sources 
+
+We also collect information from commercially or publicly available sources like published directories and public documents. We may also obtain your personal information from third parties (credit agencies) and from other sources which you have given consent for the disclosure of such information relating to you and where otherwise lawfully permitted. 
+
+We will never share, rent or sell your personal information to third parties outside Voyager Innovations, Inc. (or the group of companies of which Voyager Innovations, Inc. is part of) except in limited circumstances as noted in this policy. In some instances, we may be required to disclose your personal information to our agents, subsidiaries, affiliates, partners and other third party agencies as part of business operations and the provision of our products and services. This means we might share your information with: 
+
+  * Our partner companies, organizations, or agencies including their sub-contractors or prospective business partners that act as our service providers, contractors, professional advisers who help us provide our products and services, for example our couriers for bill delivery and our customer contact centers for our hotline operations; 
+  * Other companies in the PLDT Group of companies; 
+  * Law enforcement and government agencies; and 
+  * Other companies whom you have also given consent to share your information 
+
+
+
+The integrity, confidentiality and security of your information are particularly important to us. That’s why we strictly enforce our privacy policy within the company and we have implemented technological, organizational and physical security measures that are designed to protect your information from unauthorized access, use, alteration and disclosure. We also put in effect safeguards such as: 
+
+1\. We keep and protect your information using a secured server behind a firewall, encryption and security controls; 
+
+2\. We restrict access to your information only to qualified and authorized personnel who hold your information with strict confidentiality; 
+
+3\. We undergo regular audit and rigorous testing of our infrastructure’s security protocols to ensure your data is always protected; and 
+
+4\. We let you update your information securely to keep our records accurate 
+
+We will retain your personal data throughout the subscription of our products and services, and for a maximum period of five (5) years afterward. 
+
+You are afforded certain rights in relation to your personal data under the Data Privacy Act of 2012, which includes the right to object to processing, the right to access your data, the right to modify of inaccurate data, and the right to erasure or blocking of data. 
+
+If you wish to have access to your personal information in our records; or you think that such personal information we have of you is incomplete, not up-to-date, or otherwise inaccurate, you may get in touch with our Data Privacy Officer through the contact details provided below. 
+
+Our Contact Details: 
+
+Data Privacy Compliance Officer
+
+dpo@voyagerinnovation.com
+
+From time to time, Voyager Innovations, Inc. may change this privacy policy to comply with government and regulatory requirements; to adapt to new technologies and protocols; to align with industry practices; or for other legitimate purposes. You will always be provided notice if these changes are material and, if we are required by law, we will also obtain your consent. 
+
+## Subsidiaries and Affiliates
+
+  * Smart Communications, Inc. 
+  * PLDT 
+  * ePLDT
+  * Digitel Mobile Philippines, Inc. (Sun Cellular)
+  * Cignal TV
+  * PayMaya Philippines, Inc. (formerly Smart eMoney, Inc.)
+  * FINTQnologies Corp.
+  * FINTQ Inventures Insurance Agency Corp. (Surelite Insurance Agency) 
+  * Takatack Technologies Pte. Ltd.
+  * Takatack Holdings Pte. Ltd.
+
+
+
+## Partners
+
+  * 2GO Express Inc.
+  * aCommerce
+  * Adyen
+  * AFDigital Inc.
+  * Airspeed International Corporation
+  * Alibaba Group Holding Limited (AnyProxy)
+  * Amazon Web Services, Inc.
+  * Apple Inc.
+  * Asiapay Payment Technology Corp.
+  * Atlassian, Inc. (JIRA)
+  * Autodesk, Inc.
+  * BDO Unibank, Inc.
+  * Braintree
+  * CC Mobile Financial Services Philippines (Cash Credit)
+  * Cliqnship Corp.
+  * Curo Teknika Inc.
+  * Degreed, Inc.
+  * Dragonpay Corporation
+  * DSTNCT Pte. Ltd.
+  * Ematic Solutions PTE. LTD. 
+  * Facebook, Inc.
+  * FindShare
+  * Globe Telecom, Inc.
+  * Google
+  * Gotuaco, del Rosario Insurance Brokers, Inc.
+  * Graymatics, Inc.
+  * Hashtag Digital, Inc.
+  * HubSpot, Inc.
+  * i4asia Corporation (FreshDesk)
+  * IdeasXmachina Advertising, Inc. (IXM)
+  * iPay88 Sdn Bhd
+  * Jam2Go Express Corp.
+  * LBC Express, Inc.
+  * LBP Service Corporation
+  * Media 5 Marketing Corporation
+  * Microsoft Corporation
+  * MOLPay Sdn Bhd.
+  * Nanigans, Inc.
+  * Ninja Express Tech. Philippines Inc.
+  * Officevibe, Inc.
+  * PayPal Pte., Ltd.
+  * Periscope, Inc.
+  * Rapid7 Ireland Limited (Logentries)
+  * Rising Tide Mobile Entertainment Inc.
+  * Riskified Ltd.
+  * Sandvine, Inc.
+  * SAP
+  * SurveyMonkey Inc.
+  * The Rocket Science Group LLC (Mailchimp)
+  * Tune, Inc. (HasOffers)
+  * Twilio, Inc.
+  * Xend Business Solutions Inc.
+  * Xfers Pte Ltd.
+  * Z-Lift Solutions (Tableau)
+  * Zoho Corporation
+  * Zoom Celero Courier Inc.
+
+
