@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blindstogo.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621122259id_/http%3A//www3.blindstogo.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blindstogo.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207233545id_/http%3A//www.blindstogo.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blinds To Go
 
