@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettingadvice.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608191619id_/http%3A//www.bettingadvice.com/information/privacy/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettingadvice.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207023604id_/http%3A//www.bettingadvice.com/information/privacy/6) for the most accurate reproduction.*
 
 # Privacy - Bettingadvice
 
