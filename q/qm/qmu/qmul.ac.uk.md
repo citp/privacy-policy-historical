@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630123633id_/http%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207192327id_/http%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
 
-# Privacy and cookies
+# Privacy and cookies - Queen Mary University of London
 
-[Home](http://www.qmul.ac.uk/index.html) / Site / Privacy and cookies
-
-  * Site home
-
-
-  * Privacy and cookies 
-  * [Site map](http://www.qmul.ac.uk/site/sitemap/index.html)
-  * [Disclaimer](http://www.qmul.ac.uk/site/disclaimer/index.html)
-  * [Accessibility](http://www.qmul.ac.uk/site/accessibility/index.html)
+  * [Site home](https://www.qmul.ac.uk/site/)
+  * [Accessibility](https://www.qmul.ac.uk/site/accessibility/)
+  * [Site map](https://www.qmul.ac.uk/site/sitemap/)
+  * [Privacy and cookies](https://www.qmul.ac.uk/site/privacy/)
+  * [Disclaimer](https://www.qmul.ac.uk/site/disclaimer/)
 
 
 
@@ -27,7 +23,7 @@ When someone visits our websites we collect standard internet log information an
 
 ### Submitting personal information
 
-While using this website to request a prospectus, send an enquiry or apply online, you may have to submit personal information. Queen Mary University of London is committed to protecting your privacy and the information that you give us will be treated in accordance with our [Data Protection Policy](http://www.arcs.qmul.ac.uk/docs/policyzone/102302.pdf) [PDF] and this statement. It will be used only for the purpose which is stated at the point of collection.
+While using this website to request a prospectus, send an enquiry or apply online, you may have to submit personal information. Queen Mary University of London is committed to protecting your privacy and the information that you give us will be treated in accordance with our [Data Protection Policy](http://www.arcs.qmul.ac.uk/media/arcs/policyzone/Data-Protection-Policy-2009-v02.3.pdf) [PDF] and this statement. It will be used only for the purpose which is stated at the point of collection.
 
 ## Use of cookies by Queen Mary
 
@@ -37,14 +33,14 @@ You may delete and block all cookies from this site. Most web browsers allow som
 
 Please see the table below for details of the cookies we use at Queen Mary and their purpose.
 
- **Cookie**|  **Name**|  **Purpose**|  **Expires  
-** (you may control these through your browser settings)|  **More information**  
+**Cookie** | **Name** | **Purpose** | **Expires  
+** (you may control these through your browser settings) | **More information**  
 ---|---|---|---|---  
-Google Analytics| _utma| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.| 2 days| [Click here for an overview of privacy at Google](https://support.google.com/analytics/topic/2919631?hl=en&ref_topic=1008008)  
- | _utmb| 30 minutes  
- | _utmc | On closing browser  
- |  _utmz| 6 months  
-QM Cookie notice display| QMhasVisited| Signifies you have responded to our website's cookie notification banner. If you remove this cookie, the notification will display again.| 1000 days|    
+Google Analytics | _utma | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | 2 days | [Click here for an overview of privacy at Google](https://support.google.com/analytics/topic/2919631?hl=en&ref_topic=1008008)  
+  | _utmb | 30 minutes  
+  | _utmc  | On closing browser  
+  |  _utmz | 6 months  
+QM Cookie notice display | QMhasVisited | Signifies you have responded to our website's cookie notification banner. If you remove this cookie, the notification will display again. | 1000 days |    
   
 To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
 
@@ -55,3 +51,5 @@ We embed videos from our YouTube channels using YouTube's privacy-enhanced mode.
 ## Contact us
 
 If you have any questions or concerns please contact us: [data-protection@qmul.ac.uk](mailto:data-protection@qmul.ac.uk)
+
+[](http://www.addthis.com/bookmark.php?v=250&pub=queenmary)
