@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healevate.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042841id_/http%3A//healevate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healevate.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207092644id_/http%3A//healevate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Healevate
 
@@ -74,7 +74,7 @@ You may not access or use the Site if you are not at least 18 years old.
 
 **SHINE THE LIGHT LAW**
 
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our site visitors who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year.  If you are a California resident and would like to make such a request, please email us at info@healevate.com.
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our site visitors who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year.  If you are a California resident and would like to make such a request, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **INFORMATION CHOICES AND CHANGES**
 
@@ -86,7 +86,7 @@ You can typically remove and reject cookies from our Site with your browser sett
 
 **CONTACT INFORMATION**
 
-We welcome your comments or questions about this privacy policy. You may contact us at info@healevate.com, or at our address:
+We welcome your comments or questions about this privacy policy. You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or at our address:
 
 Healevate LLC  
 1976 S La Cienega Blvd Ste 300  
