@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leonardodicaprio.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630045006id_/http%3A//leonardodicaprio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leonardodicaprio.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207082050id_/http%3A//leonardodicaprio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Leonardo DiCaprio
 
@@ -8,7 +8,7 @@ Please review LeonardoDiCaprio.com’s Terms of Use in conjunction with this Pri
 
 SUMMARY.
 
-At LeonardoDiCaprio.com, we take the privacy of our visitors and members very seriously. Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used and the circumstances under which it may be disclosed. If you have comments, suggestions, questions or concerns about our Privacy Policy, please contact us via email at info@leonardodicaprio.com or in writing at P.O. Box 69427, West Hollywood, CA 90069.
+At LeonardoDiCaprio.com, we take the privacy of our visitors and members very seriously. Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used and the circumstances under which it may be disclosed. If you have comments, suggestions, questions or concerns about our Privacy Policy, please contact us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or in writing at P.O. Box 69427, West Hollywood, CA 90069.
 
 Online Privacy Standards. While there are no official standards governing privacy practices on the Internet, LeonardoDiCaprio.com follows the principles supported by the Federal Trade Commission’s Fair Information Practices Principles, currently available at http://www.ftc.gov/reports/privacy3/fairinfo.htm.
 
@@ -24,7 +24,7 @@ Access To Your Personal Information. In general, LeonardoDiCaprio.com makes it e
 
 2\. Information We Do Not Collect.
 
-Children. As explained further in our Terms of Use, currently available at http://leonardodicaprio.com/terms-of-use, you must be 13 years of age or older to use our website. Therefore, LeonardoDiCaprio.com does not knowingly collect personally identifiable information about children. If you believe that LeonardoDiCaprio.com has information from or about anyone under 13 years of age, please notify LeonardoDiCaprio.com by email at info@leonardodicaprio.com or write to LeonardoDiCaprio.com at the address noted above.
+Children. As explained further in our Terms of Use, currently available at http://leonardodicaprio.com/terms-of-use, you must be 13 years of age or older to use our website. Therefore, LeonardoDiCaprio.com does not knowingly collect personally identifiable information about children. If you believe that LeonardoDiCaprio.com has information from or about anyone under 13 years of age, please notify LeonardoDiCaprio.com by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or write to LeonardoDiCaprio.com at the address noted above.
 
 3\. Information We Track.
 
