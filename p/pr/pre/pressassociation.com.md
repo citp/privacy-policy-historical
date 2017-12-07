@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressassociation.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630214426id_/https%3A//www.pressassociation.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressassociation.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208004446id_/https%3A//www.pressassociation.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Press Association
 
