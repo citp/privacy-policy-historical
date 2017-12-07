@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masspings.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617130722id_/http%3A//www.masspings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masspings.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207234407id_/http%3A//masspings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Mass Ping
 
