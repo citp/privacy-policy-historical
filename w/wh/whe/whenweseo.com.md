@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whenweseo.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607091430id_/http%3A//whenweseo.com/whenwe/site_info/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whenweseo.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207161157id_/http%3A//whenweseo.com/whenwe/site_info/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - When We
 
