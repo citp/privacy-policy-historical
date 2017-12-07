@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120001id_/http%3A//leisure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207100828id_/http%3A//www.leisure.com/privacy) for the most accurate reproduction.*
 
-# Terms | Leisure.com
+# Leisure | Privacy Policy
 
 Last updated: Jan 1st, 2016
 
