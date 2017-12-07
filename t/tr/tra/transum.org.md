@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transum.org privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619100740id_/http%3A//www.transum.org/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transum.org privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207165650id_/http%3A//www.transum.org/Privacy.asp) for the most accurate reproduction.*
 
 # Transum
 
