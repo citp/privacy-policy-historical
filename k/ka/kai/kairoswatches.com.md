@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kairoswatches.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217155235id_/https%3A//www.kairoswatches.com/policy/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kairoswatches.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207190623id_/https%3A//kairoswatches.com/policy/pp) for the most accurate reproduction.*
 
 # Kairos | Make every moment an opprtunity
 
