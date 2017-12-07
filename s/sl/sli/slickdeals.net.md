@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519025843id_/https%3A//slickdeals.net/corp/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207054933id_/https%3A//slickdeals.net/corp/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective Date: May 18, 2017**
+**Effective Date: August 5, 2017**
 
 Slickdeals, LLC (“Slickdeals,” “we,” “us,” or “our”) values its users’ privacy on the Slickdeals web site (Slickdeals.net), mobile site and apps (“Properties”). This Privacy Policy pertains to the Services that we offer on our Properties. We have implemented this Privacy Policy to provide you with information about how Slickdeals collects, uses, and discloses information about you. By visiting our Properties or using our Services, you are agreeing to the practices described in this Privacy Policy.
 
@@ -28,7 +28,7 @@ As noted above, when you provide us with your address, we may use third-party se
 
 Please see below for information on how third parties may collect and use information on our Properties for interest-based advertising purposes, and for information on how Slickdeals may share the information that we collect with third parties.
 
-If you use a third-party payment service such as PayPal to pay for purchases that you make on our Properties, the third party may collect information about your purchase and combine that with any information that you have separately provided to that third party. The third party’s privacy policy will govern the information you provide to them, including information you provide through your interactions with them on our Properties.
+If you use a third-party payment service such as PayPal to pay for purchases that you make on our Properties, the third party may collect information about you, your online activities and/or your purchase and combine that with any information that you have separately provided to that third party. The third party’s privacy policy will govern the information you provide to them, including information you provide through your interactions with them on our Properties.
 
 **How Does Slickdeals Use My Information?**
 
@@ -53,15 +53,15 @@ We may share your personal information with other companies or individuals. For 
 
   * We may share your personal information with third parties for the third party’s marketing purposes. Please see below for your choices regarding this sharing.
   * We may make any information you disclose when you participate in community and social networking features on our Properties available to other users. Slickdeals is not responsible for the information you disclose in public forums, and we strongly recommend that you only disclose your personal information to users that you know to be trustworthy.
-  * We may share your personal information with participating merchants to process your purchases, in which case your information may be used and disclosed by the merchant (including for marketing purposes) subject to its privacy policy;
+  * We may share your personal information with participating merchants to process your purchases, in which case your information may be used and disclosed by the merchant (including for marketing purposes) subject to its privacy policy.
   * We may share your personal information with your consent or as otherwise disclosed at the time of collection.
-  * We may share information with our agents, contractors, service providers, and partners who are providing services on our behalf, such as payment processing, data processing, and hosting.
+  * We may share information with our agents, contractors, service providers, and partners who are providing services on our behalf and on behalf of our merchants and other partners, such as payment processing, data processing, and hosting.
   * We may share your information in connection with an actual or potential merger, sale, acquisition, assignment, or transfer of all or part of Slickdeals’ assets, affiliates, lines of business, or products, including at bankruptcy.
   * We may share your information in order to (i) protect or defend our legal rights or property or the rights/property of our other users, business partners, employees, agents and contractors (including enforcement of our agreements); (ii) pursue available remedies or limit the damages that we may sustain, (iii) protect the safety and security of our employees, users, or members of the public; (iv) protect against fraud or for other risk management purposes; or (v) comply with the law or respond to law enforcement requests, subpoenas, legal process or inquiries.
 
 
 
-We may share information that identifies your browser or device over time (including device identifiers and/or personal information which has been hashed or obfuscated) as well as information about your activities on our Properties, with third-party companies for purposes including interest-based advertising. Please see below for information about opting out of interest-based advertising by companies participating in industry self-regulation.
+We may share information that identifies your browser or device over time (including device identifiers and/or personal information which has been hashed or obfuscated) as well as information about your activities on our Properties, with third-party companies for purposes including interest-based advertising across different websites, apps, browsers and devices. Please see below for information about opting out of the collection and use of data for interest-based advertising by companies participating in industry self-regulation.
 
 We also may use and share non-personal information, de-identified information, and aggregate information with third parties, advertisers and/or business partners for our own business purposes and for third party marketing and other purposes. The use and disclosure of these types of information is not subject to any restrictions under this Privacy Policy.
 
@@ -73,9 +73,9 @@ When you buy a product or service from a third-party merchant on our Properties,
 
 **Interest-Based Advertising**
 
-Slickdeals adheres to the Digital Advertising Alliance (“DAA”) Self-Regulatory Principles. We use third-party advertising companies to serve ads when you visit our Properties. These companies may use cookies or other technologies to collect non-personal information about your visits to our Properties and other online properties in order to provide advertisements about goods and services of interest to you. We may also partner with ad networks and other companies that serve ads on behalf of us and others on non-affiliated properties. Some of those ads may be interest-based, meaning that they are intended to be relevant to you based on information these ad networks collect about your visits to our Properties and other non-affiliated web sites or apps over time.
+Slickdeals adheres to the Digital Advertising Alliance (“DAA”) Self-Regulatory Principles. We use third-party advertising companies to serve ads when you visit our Properties. These companies may use cookies or other technologies to collect non-personal information about your visits to our Properties and other online properties over time and across different browsers and devices, in order to provide advertisements about goods and services of interest to you. We may also partner with ad networks and other companies that serve ads on behalf of us and others on non-affiliated properties. Some of those ads may be interest-based, meaning that they are intended to be relevant to you based on information these ad networks collect about your visits to our Properties and other non-affiliated web sites or apps over time and across different browsers and devices.
 
-You may visit [www.aboutads.info/choices](https://www.aboutads.info/choices) to learn more about interest-based advertising and to opt-out of this form of advertising on your web browser by companies participating in the DAA self-regulatory program. If you wish to opt-out of interest-based advertising in mobile apps on your device by companies that participate in the DAA’s AppChoices app, you may download that app onto your device and exercise your choice. AppChoices is available at the links below:
+You may visit [www.aboutads.info/choices](https://www.aboutads.info/choices) to learn more about interest-based advertising, to opt-out of this form of advertising on your web browser by companies participating in the DAA self-regulatory program, and to learn about the effect of an opt-out choice. If you wish to opt-out of interest-based advertising in mobile apps on your device by companies that participate in the DAA’s AppChoices app, you may download that app onto your device and exercise your choice. AppChoices is available at the links below:
 
 [DAA AppChoices iOS](https://itunes.apple.com/us/app/appchoices/id894822870?mt=8)
 
@@ -83,7 +83,7 @@ You may visit [www.aboutads.info/choices](https://www.aboutads.info/choices) t
 
 [DAA AppChoices Amazon](https://www.amazon.com/Digital-Advertising-Alliance-AppChoices/dp/B00SVQ4FMO)
 
-You may also limit data collection by third parties by using your mobile device settings where available. Please note that electing to opt-out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. Additionally, please note that if you use a different browser or erase cookies from your browser, or use a different mobile device, you may need to renew your opt-out choices.
+You may also limit data collection and use by third parties for interest-based advertising by using your mobile device settings where available. Please note that electing to opt-out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. Additionally, please note that if you use a different browser or erase cookies from your browser, or use a different mobile device, you may need to renew your opt-out choices.
 
 **Security**
 
@@ -107,7 +107,7 @@ If you are a parent or legal guardian of a child under 13 years old, and you bel
 
 **Updating Your Personal Information**
 
-You may review, update, or change information that you have provided to us, or request that we deactivate your account, by emailing us at [info@slickdeals.net.](https://web.archive.org/web/20170519025843id_/https%3A//slickdeals.net/corp/info@slickdeals.net) If you request that we deactivate your account, we may retain certain personal information in our archives for record-keeping purposes. We are not able to remove personal information from the records or databases of third parties with which we have already shared such information.
+You may review, update, or change information that you have provided to us, or request that we deactivate your account, by emailing us at [info@slickdeals.net.](https://web.archive.org/web/20171207054933id_/https%3A//slickdeals.net/corp/info@slickdeals.net) If you request that we deactivate your account, we may retain certain personal information in our archives for record-keeping purposes. We are not able to remove personal information from the records or databases of third parties with which we have already shared such information.
 
 **Does Slickdeals Ever Make Changes to its Privacy Policy?**
 
