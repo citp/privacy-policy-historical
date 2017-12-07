@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612042756id_/http%3A//www.ces.tech/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207074830id_/http%3A//www.ces.tech/privacy) for the most accurate reproduction.*
 
-# CES.tech Privacy Statement - CES 2017
+# CES.tech Privacy Statement - CES 2018
 
 ### Please Read Carefully Prior to Using This Website
 
