@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesoftking.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627025735id_/http%3A//thesoftking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesoftking.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207143247id_/http%3A//thesoftking.com/privacy) for the most accurate reproduction.*
 
-# THESOFTKING | Web Design & Development | Apps & Software
+# THESOFTKING | Web Development | Web Design | Apps & Software
 
 About  Privacy Policy
 
