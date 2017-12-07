@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628091446id_/http%3A//www.latrobe.edu.au/statements/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207233031id_/http%3A//www.latrobe.edu.au/statements/privacy) for the most accurate reproduction.*
 
 # Website privacy statement, Statements, La Trobe University
 
@@ -30,6 +30,8 @@ If you have used your staff or student login details to access the La Trobe Univ
 If you provide personal details during your visit to the La Trobe University web site, then we will only use and disclose your personal information for the purpose for which it was collected. Any other type of use and disclosure will require your consent, or be in accordance with prescribed exemptions under privacy laws.
 
 For example, if you complete an online form requesting services, unless you give consent to your personal details being used for other purposes, then those details will only be used for the purpose of requesting that service, for a secondary related purpose, or for another that falls within one of the exemptions of use and disclosure in the privacy legislation.
+
+We may share data that you provide to us with trusted third party partners to help us perform statistical analysis, provide customer support and to offer more relevant and personalised content. Such third parties are prohibited from using your personal information for any other purposes and they are required to maintain the confidentiality and security of your information.
 
 ### Monitoring computer users
 
