@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymmogames.net privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218103758id_/http%3A//playfreeonlinesonicgames.com/%3Fpage_id%3D172) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymmogames.net privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207122022id_/http%3A//playfreeonlinesonicgames.com/%3Fpage_id%3D172) for the most accurate reproduction.*
 
 # Privacy Policy « Sonic Games
 
