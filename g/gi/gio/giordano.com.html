@@ -1,0 +1,1007 @@
+<!--The following is the downloaded HTML source of the giordano.com privacy policy that was archived on 2017-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171207025146id_/http%3A//www3.giordano.com/GB/en-US/article/eshop2015_help_privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	GIORDANO Online Store
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="baidu-site-verification" content="ikG52uXWqF"><meta name="google-site-verification" content="LxRySYPV14idQGQFTpyrPADbMGI2cdOZ6pAxmfRct9s"><link rel="alternate" hreflang="x-default" href="http://www.giordano.com/"><link rel="alternate" hreflang="zh-cn" href="http://www.giordano.com/CN/zh-CN/"><link rel="alternate" hreflang="zh-hk" href="http://www.giordano.com/HK/zh-CHT/"><link rel="alternate" hreflang="zh-tw" href="http://www.giordano.com/TW/zh-CHT/"><link rel="alternate" hreflang="en-hk" href="http://www.giordano.com/HK/en-US/"><link rel="alternate" hreflang="en" href="http://www.giordano.com/GB/"><link rel="alternate" hreflang="en-eu" href="http://www.giordano.com/EU/"><link rel="alternate" hreflang="en-au" href="http://www.giordano.com/AU/"><link rel="alternate" hreflang="en-id" href="http://www.giordano.com/ID/"><link rel="alternate" hreflang="en-mm" href="http://www.giordano.com/MM/"><link rel="alternate" hreflang="en-my" href="http://www.giordano.com/MY/"><link rel="alternate" hreflang="en-th" href="http://www.giordano.com/TH/"><link rel="stylesheet" href="/bootstrap/css/bootstrap.css"><link rel="stylesheet" href="/bootstrap/css/bootstrap-theme.min.css"><link rel="stylesheet" href="/CSS/bootstrap-switch.css"><link href="/CSS/EshopCSS.css" rel="stylesheet"><link href="/CSS/toastr.css" rel="stylesheet"><link href="/CSS/sweetalert.css" rel="stylesheet">
+    <style type="text/css">
+        #scrollUp {
+            background-image: url("/images/top.png");
+            bottom: 40px;
+            right: 20px;
+            width: 38px; /* Width of image */
+            height: 38px; /* Height of image */
+        }
+        #webchat {
+            color:white;
+            background-color:rgb(13,13,13);
+            bottom: 5px;
+            right: 20px;
+            padding-left:12px;
+            padding-right:12px;
+            padding-top:12px;
+            padding-bottom:8px;
+            text-align:center;
+            width: 120px; /* Width of image */
+            /*height: 38px; */
+        }
+    </style>
+    <!--[if lt IE 9]><script src="/Scripts/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="/Scripts/html5shiv.min.js"></script>
+        <script src="/Scripts/respond.min.js"></script>
+    <![endif]-->
+
+    
+
+
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Scripts/jquery1_11_2/jquery.min.js"></script>
+    <script src="/Scripts/bootstrap3_3_2/bootstrap.min.js"></script>
+
+
+    <script src="/Scripts/jquery-ui.min.js"></script>
+    <script src="/Scripts/bootstrap-switch.js"></script>
+    <script src="/Scripts/jquery.cookie.js"></script>
+    <script src="/Scripts/jquery-ui.min.js"></script>
+    <script src="/Scripts/holder.min.js"></script>
+    <script src="/Scripts/public.js"></script>
+    <script src="/Scripts/toastr.js"></script>
+    <script src="/Scripts/sweetalert.min.js"></script>
+
+    <script type="text/javascript">
+        var langID = "EN";
+        var marketID = "GB";
+        var cul = "en-US";
+        function GetWCFURL() {
+            return "http://giordanoappsite.cloudapp.net/AppSiteGB/SVC/AppsFunc.svc/rest/";
+        }
+
+        function GetImageUrl() {
+            return "http://images.e-giordano.com";
+        }
+
+
+        $(document).ready(function () {
+            var _brandID = getUrlParameter("BND");
+
+            getCartQty();
+
+            if (_brandID == "" || typeof _brandID === "undefined") {
+                return;
+            }
+
+            $("#imgBrand" + _brandID).removeAttr("onmouseout", "");
+            $("#imgBrand" + _brandID).mouseover();
+
+            //linkfromlog();
+
+        });
+
+        function search() {
+            var searchKeyword = $("#txtSearch").val();
+
+            if (searchKeyword != "") {
+                window.location = "/GB/en-US/C1.aspx?Search=" + encodeURI(searchKeyword);
+            }
+            else {
+                window.location = "/GB/en-US/C1.aspx?Search=" + encodeURI('');
+
+            }
+        }
+
+        function searchKeypress(e) {
+            var curKey = e.which;
+            if (curKey == 13) {
+                search();
+            }
+        }
+
+
+
+    </script>
+
+    
+    
+
+    <script type="text/javascript">
+        function checkSignEmail()
+        {
+            if ($("#signEmail").val() == "")
+            {
+                var mer = "Email cannot be blank!"
+                $("#signemailresult").html("<p>" + mer + "</p>");
+                $("#signemailresult").css("color", "red")
+                return false;
+            }
+
+            var reg = /[\w!#$%&'*+/=?^_`{|}~-]+(?:\.[\w!#$%&'*+/=?^_`{|}~-]+)*@(?:[\w](?:[\w-]*[\w])?\.)+[\w](?:[\w-]*[\w])?/;
+            var reg1 = new RegExp("yopmail.com");
+            var email = $("#signEmail").val();
+
+            if (!reg.test(email))
+            {
+                var mer1 = "Email format incorrect!"
+
+                $("#signemailresult").html("<p>" + mer1 + "</p>");
+                $("#signemailresult").css("color", "red")
+                return false;
+            }
+            else
+            {
+                if (reg1.test(email))
+                {
+                    var mer2 = "Email format incorrect!"
+
+                    $("#signemailresult").html("<p>" + mer2 + "</p>");
+                    $("#signemailresult").css("color", "red")
+                    return false;
+                }
+                else
+                {
+                    $("#signemailresult").html("<p></p>");
+                    $("#signemailresult").css("color", "black")
+                }
+            }
+            return true;
+        }
+
+        function regEmail()
+        {
+            if (checkSignEmail())
+            {
+                var email = $("#signEmail").val();
+                window.location = "/GB/en-US/SignUpEmail.aspx" + "?email=" + email
+            }
+        }
+
+
+    </script>
+
+    <!--百度分析 -->
+    <link rel="icon" href="/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"></head>
+<body id="masterBody">
+     
+    <div id="header">
+        <nav class="navbar">
+            <div class="container-fluid">
+                
+                <div class="navbar-header" style="width:160px;height:160px;display:inline; position:absolute;left:0px; top:30px">
+                    
+                    <a href="/GB/en-US/default.aspx"><img src="/Images/LargeLogo/Pagelogo.png" style="margin-left: -12px; margin-top: 3px;"></a>
+                    
+                </div>
+                 
+                <div class="navbar-header">                                        
+                    
+                </div>
+
+                
+                
+                
+                <ul class="nav navbar-nav navbar-right" style="margin-top:15px;margin-right:2px">
+                    <li>
+                        <span style="margin-right: 10px">Global edition  | USD </span>   
+                    </li>
+                </ul>
+                
+
+                <ul class="nav navbar-nav navbar-right">
+                    
+                </ul>
+                <div class="navbar-form  navbar-right" role="search">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="" id="txtSearch" value="" onkeypress="searchKeypress(window.event);">
+                    </div>
+                    <button class="btn btn-link" onclick="search();"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+                </div>
+                                
+                <ul class="nav navbar-nav navbar-right">
+                    
+                    <li><a href="/GB/en-US/shoppingcart.aspx"><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true" style="margin-right: 5px;"></span>Shopping Cart<span id="txtCartQty" style="margin-left: 10px;">0</span></a></li>                                                           
+                    <li>
+                        </li>
+                                                                    
+                    <li><a href="/GB/en-US/login.aspx" id="btnLogin">Sign in</a></li>
+                    <li><a id="btnRegist"></a></li>
+                    
+                </ul>
+            </div>
+        </nav>
+    </div>
+
+
+    <div class="togglerShoppingCart alpha60" id="shoppingCartQuickView" style="display: none; position: absolute; z-index: 100003">
+
+        <h5>Below items are in your shopping Cart</h5>
+        <div class="row">
+            <div class="col-md-6">
+                
+                <img id="shoppingCartQuickViewImage">
+            </div>
+            <div class="col-md-6 text-right" style="padding-top: 15px; padding-bottom: 15px;">
+                <span id="shoppingCartQuickViewQty"></span>&nbsp;Pcs
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-7" style="vertical-align: bottom; padding-top: 2px;">
+                <a href="/GB/en-US/ShoppingCart.aspx" style="color: white;">Show shopping Cart</a>
+            </div>
+            <div class="col-md-5 text-right">
+                <a href="/GB/en-US/member/checkout.aspx" class="btn btn-sm btn-primary">Checkout</a>
+            </div>
+        </div>
+
+
+    </div>
+    
+
+    <br>
+    <br>
+    <br>
+
+    
+     <style>
+        .sizecell{
+            border: 1px solid #0d0d0d;
+            text-align:center;
+            font-size:11px;
+            line-height:8px;
+            padding-top:10px;
+            text-transform:uppercase;
+            background-color:white;
+            color:#0d0d0d;
+            display:inline-block;
+            width:30px;
+            height:30px;
+            margin:4px 4px 4px 4px;
+            font-weight:bold;
+        }
+        .colorcell{
+            font-weight:bold;
+            font-size:11px;
+            line-height:10px;
+            display:inline-block;
+        }
+    </style>
+    <script>
+        var _menu_Lang = "EN";        
+
+        function showMenu(id) {
+            $('#categoryMenu' + id).show();
+        }
+
+        function hideMenu(id) {
+            $('#categoryMenu' + id).hide();
+        }
+
+        var _tab_brand = "GIO";
+        var $divFilterList;
+        var _curFilterDiv;
+        var _curI = 0;
+        var _curTab = "";
+        var $objData;
+        var _curBrand = "";
+        var _curGender = "";
+
+        $(function () {
+            InitFilter();
+        });
+
+        function InitFilter() {
+            $divFilterList = $(".div-filter");
+            if( $divFilterList.length > 0 )
+            {
+                _curI = 0;
+                _curFilterDiv = $divFilterList[_curI];                               
+                GetFilterData();
+            }
+        }
+
+        function GetFilterData() {
+            var src = GetWCFURL();
+            var gender = "1";
+            var brand = "";
+            var tab = "";
+            brand = _curFilterDiv.getAttribute("brand");
+            gender = _curFilterDiv.getAttribute("gender");
+            tab = _curFilterDiv.getAttribute("tabid");
+
+            if (brand == null || brand == undefined) {
+                ProcceeNextFilterMenu()
+            }
+            if (gender == null || gender == undefined) {
+                ProcceeNextFilterMenu()
+            }
+            _curFilterDiv.innerHTML = "loading...";
+            _curGender = gender;
+            _curBrand = brand;
+            _curTab = tab;            
+
+            src = src + "/GetProductColorSizeFilter?langid=" + _menu_Lang + "&brandId=" + brand + "&sysCate=&gender=" + gender + "&customCate=&search=&colorfilter=&sizefilter=";
+            $.support.cors = true;
+            $.ajax({
+                url: src,
+                type: "get",
+                dataType: "jsonp",
+                crossDomain: true,
+                success: function (data) {
+                    $objData = data.GetProductColorSizeFilterResult;
+                    RenderFilterDiv();
+                    ProcceeNextFilterMenu();
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    ProcceeNextFilterMenu();
+                }
+            });
+        }
+
+        function ProcceeNextFilterMenu() {
+            _curI++;
+            if (_curI < $divFilterList.length) {
+                _curFilterDiv = $divFilterList[_curI];
+                GetFilterData();
+            }
+        }
+
+        function IsNum(s)
+        {
+            if (s!=null && s!="")
+            {
+                return !isNaN(s);
+            }
+            return false;
+        }
+
+
+        function RenderFilterDiv() {
+            var $colorData = $objData[0].Value;
+            var $sizeData = $objData[1].Value;
+
+            /////////////////color filter/////////////////////
+
+            var colorHtml = "<div class=\"col-md-12\"><h3>Colors</h3><div><table>";
+            var COLMAX = 4;
+            var colcur = 1;
+
+            for (var i = 0; i < $colorData.length; i++) {
+                var color = $colorData[i];
+                var id = color.key;
+                var name = color.value;
+                if (i == 0) {
+                    colorHtml += "<tr>";
+                }
+                var url = "/c1.aspx?tabid=" + _curTab + "&BND=" + _curBrand + "&BrandID=" + _curBrand + "&GenderID=" + _curGender + "&fcolor=" + id + "&fsize=";
+                var td = "<td style=\"width:40px;height:40px;\" align=\"center\">" +
+                          "<div style=\"margin:4px 4px 4px 4px\">" +
+                          "<a href=\"" + url + "\" >" +
+                          "<span style=\"margin-top:10px\"><img src=\"/images/color/" + id + ".jpg\" style=\"border-style:none;margin-bottom:5px\" /><br /><span class=\"colorcell\">" + name + "</span></span>" +
+                          "</a></div></td>";
+                colorHtml += td;
+
+                //last td
+                if (colcur == COLMAX) {
+                    colorHtml += "</tr>";
+                    colcur = 1;
+                }
+                else {
+                    if ((i + 1) < $colorData.length) {
+                        colcur++;
+                    }
+                    else {
+                        var less = COLMAX - colcur;
+                        for (var j = 0; j < less ; j++) {
+                            colorHtml += "<td style=\"width:40px;height:40px;\" align=\"center\">&nbsp;&nbsp;</td>";
+                        }
+                        colorHtml += "</tr>";
+                    }
+                }
+            }
+            colorHtml += "</table></div></div>";
+
+            /////////////////size filter/////////////////////
+
+            var sizeHtml = "<div class=\"col-md-12\"><h3>Sizes</h3><div><table>";;
+            COLMAX = 5;
+            colcur = 1;
+            var preSizeName = "";
+
+            for (var i = 0; i < $sizeData.length; i++) {
+                var size = $sizeData[i];
+                var id = size.key;
+                var name = size.value;
+                if (i == 0) {
+                    sizeHtml += "<tr>";
+                }
+
+                if (i != 0) {
+                    var curIsNumeric = IsNum(name);
+                    var preIsNumeric = IsNum(preSizeName);
+                    if (curIsNumeric != preIsNumeric) {
+                        var less = COLMAX - colcur;
+                        if (less < (COLMAX-1)) {
+                            for (var j = 0; j < less ; j++) {
+                                sizeHtml += "<td>&nbsp;</td>";
+                            }
+                            sizeHtml += "</tr>";
+                            colcur = 1;
+                            sizeHtml += "<tr>";
+                        }
+                    }
+                }
+
+                var url = "/c1.aspx?tabid=" + _curTab + "&BND=" + _curBrand + "&BrandID=" + _curBrand + "&GenderID=" + _curGender + "&fcolor=&fsize=" + id;
+                var td = "<td>" +                          
+                          "<a href=\"" + url + "\" >" +
+                          "<span class=\"sizecell\">"+name+"</span>" +
+                          "</a></td>";
+                sizeHtml += td;
+
+                //last td
+                if (colcur == COLMAX) {
+                    sizeHtml += "</tr>";
+                    colcur = 1;
+                }
+                else {
+                    if ((i + 1) < $sizeData.length) {
+                        colcur++;
+                    }
+                    else {
+                        var less = COLMAX - colcur;
+                        for (var j = 0; j < less ; j++) {
+                            sizeHtml += "<td>&nbsp;</td>";
+                        }
+                        sizeHtml += "</tr>";
+                    }
+                }
+                
+
+                preSizeName = name;
+            }
+
+
+            sizeHtml += "</table></div></div>";
+
+            _curFilterDiv.innerHTML = colorHtml + sizeHtml;
+        }
+
+
+    </script>
+
+
+    <div id="ContentPlaceHolder1_TabMenu_brandMenu" class="container">
+        <div class="row text-center">
+            <img id="ContentPlaceHolder1_TabMenu_imgLargeBrandLogo" class="BrandPageLogo" src="/Images/LargeLogo/GIO.png">
+        </div>
+        <ul class="nav nav-tabs  nav-justified">
+            
+                    <li id="ContentPlaceHolder1_TabMenu_repeaterTab_liMenu_0" role="presentation">
+                        <a id="ContentPlaceHolder1_TabMenu_repeaterTab_lnkTab_0" href="/GB/en-US/default.aspx?BND=GIO&amp;TabID=100000"><b><font color="#EB1A3A">HOME</font></b></a></li>
+                
+                    <li id="ContentPlaceHolder1_TabMenu_repeaterTab_liMenu_1" role="presentation" onmouseover="showMenu('100010')" onmouseout="hideMenu('100010');">
+                        <a id="ContentPlaceHolder1_TabMenu_repeaterTab_lnkTab_1" href="/GB/en-US/Tabmain.aspx?TabID=100010&amp;BND=GIO"><b><font color="#EB1A3A">MEN</font></b></a></li>
+                
+                    <li id="ContentPlaceHolder1_TabMenu_repeaterTab_liMenu_2" role="presentation" onmouseover="showMenu('100020')" onmouseout="hideMenu('100020');">
+                        <a id="ContentPlaceHolder1_TabMenu_repeaterTab_lnkTab_2" href="/GB/en-US/Tabmain.aspx?TabID=100020&amp;BND=GIO"><b><font color="#EB1A3A">WOMEN</font></b></a></li>
+                
+                    <li id="ContentPlaceHolder1_TabMenu_repeaterTab_liMenu_3" role="presentation">
+                        <a id="ContentPlaceHolder1_TabMenu_repeaterTab_lnkTab_3" href="/GB/en-US/C1.aspx?TabID=100030&amp;SKeyWord=Z00800&amp;BND=GIO"><b><font color="#EB1A3A">SALE</font></b></a></li>
+                
+                    <li id="ContentPlaceHolder1_TabMenu_repeaterTab_liMenu_4" role="presentation">
+                        <a id="ContentPlaceHolder1_TabMenu_repeaterTab_lnkTab_4" href="/GB/en-US/C1.aspx?TabID=100900&amp;BND=GIO&amp;BrandID=GIO"><b><font color="#EB1A3A">ALL ITEMS</font></b></a></li>
+                
+        </ul>
+    </div>
+
+    
+            <div id="categoryMenu100010" style="display: none;">
+                <div style="position: absolute; z-index: 100; margin: 0 auto; width: 100%">
+                    <div class="container" onmouseover="showMenu('100010');" onmouseout="hideMenu('100010');">
+                        <div class="container">
+  <div class="row" style="background-color: white; padding: 20px;">
+            <div class="col-md-3">
+            <h3>Features</h3>
+                <a href="/GB/en-US/C1.aspx?tabid=000010&amp;skeyword=a96000&amp;bnd=gio&amp;pageid=4">New Arrivals</a>
+                <br>
+                <a href="/C1.aspx?TabID=000010&amp;SKeyWord=Z08301&amp;BND=GIO"> Sportswear </a>
+
+                <br>
+                <a href="/C1.aspx?TabID=000010&amp;SKeyWord=Z09101&amp;BND=GIO"> BOB collection </a>
+                <br>
+<a href="C1.aspx?TabID=000010&amp;SKeyWord=A02500&amp;BND=GIO"> BSX  </a>
+
+                <br>
+                <a href="C1.aspx?TabID=000010&amp;SKeyWord=A01500&amp;BND=GIO"> Jackets </a>
+                <br>
+                <a href="C1.aspx?TabID=000010&amp;SKeyWord=Z00300&amp;BND=GIO"> Accessories </a>
+
+                <br>
+                <a href="C1.aspx?TabID=000010&amp;SKeyWord=A00800&amp;BND=GIO"> Denim Collection </a>
+	<br>
+<a href="C1.aspx?TabID=000010&amp;SKeyWord=A01800&amp;BND=GIO"> Wrinkle free </a>
+
+                <br>
+                <a href="C1.aspx?TabID=000010&amp;SKeyWord=A01300&amp;BND=GIO"> Summer Tees </a>
+
+                <br>
+            </div>
+            <div class="col-md-3">
+                <h3>Tops</h3>
+<br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=000080&amp;BND=GIO">POLO</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=249050&amp;BND=GIO">Plain Tees</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=230050&amp;BND=GIO">Graphic Tees</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=672000&amp;BND=GIO">Short-sleeve Shirts</a>
+                <br>
+
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=629000&amp;BND=GIO">Light Jackets</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=631009&amp;BND=GIO">Down</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=192050&amp;BND=GIO">Blazers</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=631000&amp;BND=GIO">Heavy Jackets</a>
+                <br>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=195050&amp;BND=GIO">Long-sleeve Shirts</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=164050&amp;BND=GIO">Long-sleeve Tees</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=190050&amp;BND=GIO">Cardigans / Sweaters </a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=192051&amp;BND=GIO">Sweatshirts</a>
+                <br>
+                                <br>
+            </div>
+            <div class="col-md-3">
+                <h3>Bottoms</h3>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=171050&amp;BND=GIO">Jeans</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=172050&amp;BND=GIO">Khakis &amp; Pants</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=A92000&amp;BND=GIO">Joggers</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=194050&amp;BND=GIO">Shorts</a>
+                <br>
+                <br>
+                <h3>Accessories</h3>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=699000&amp;BND=GIO">Homewear</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=198050&amp;BND=GIO">Underwear</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=634000&amp;BND=GIO">Scarves &amp; Caps</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=199050&amp;BND=GIO">Shoes &amp; Socks</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=633000&amp;BND=GIO">Belts</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000010&amp;SKeyWord=204050&amp;BND=GIO">Bags &amp; Gifts</a>
+            </div>             
+            <div class="col-md-3 div-filter" brand="gio" gender="1" tabid="100900" style="padding-bottom:8px">
+            </div>
+        </div>
+    </div>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="categoryMenu100020" style="display: none;">
+                <div style="position: absolute; z-index: 100; margin: 0 auto; width: 100%">
+                    <div class="container" onmouseover="showMenu('100020');" onmouseout="hideMenu('100020');">
+                        <div class="container">
+  <div class="row" style="background-color: white; padding: 20px;">
+            <div class="col-md-3">
+            <h3>Features</h3>
+                <a href="/GB/en-US/C1.aspx?tabid=000020&amp;skeyword=a97000&amp;bnd=gio&amp;pageid=4">New Arrivals</a>
+                <br>
+                <a href="C1.aspx?tabid=000010&amp;skeyword=Z08302&amp;bnd=gio&amp;pageid=4"> Sportswear </a>
+
+                <br>
+                <a href="C1.aspx?tabid=000010&amp;skeyword=Z09102&amp;bnd=gio&amp;pageid=4"> BOB Collection </a>
+                <br>
+
+                <a href="C1.aspx?TabID=000010&amp;SKeyWord=A02600&amp;BND=GIO "> BSX  </a>
+
+                <br>
+
+                <a href="C1.aspx?TabID=000020&amp;SKeyWord=A01600&amp;BND=GIO&amp;pageid=3"> Jackets </a>
+                <br>
+                <a href="C1.aspx?TabID=000020&amp;SKeyWord=A01100&amp;BND=GIO"> Denim Collection </a>
+ <br>
+                <a href="C1.aspx?TabID=000020&amp;SKeyWord=A00500&amp;BND=GIO&amp;pageid=3"> Summer Tops </a>
+                <br>
+            </div>
+            <div class="col-md-3">
+                <h3>Tops</h3>
+ <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=000079&amp;BND=GIO">POLO</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=250050&amp;BND=GIO">Plain Tees</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=246050&amp;BND=GIO">Graphic Tees</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=178050&amp;BND=GIO">Tanks</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=A54000&amp;BND=GIO">Short-sleeve Shirts</a>
+                <br>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=637000&amp;BND=GIO">Light Jackets</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=639000&amp;BND=GIO">Heavy Jackets</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=722000&amp;BND=GIO">Down</a>
+                <br>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=163050&amp;BND=GIO">Long-sleeve Tees</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=165050&amp;BND=GIO">Long-sleeve Shirts</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=177050&amp;BND=GIO">Sweaters</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=211050&amp;BND=GIO">Hoodies &amp; Sweatshirts</a>
+                <br>
+               
+            </div>
+            <div class="col-md-3">
+                <h3>Bottoms</h3>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=166050&amp;BND=GIO">Jeans</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=167050&amp;BND=GIO">Casual Pants</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=182050&amp;BND=GIO">Capris &amp; Shorts</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=179050&amp;BND=GIO">Skirts &amp; Dresses</a>
+                <br>
+                <br>
+                <h3>Accessories</h3>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=210050&amp;BND=GIO">Homewear</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=197050&amp;BND=GIO">Underwear</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=184050&amp;BND=GIO">Shoes &amp; Socks</a>
+                <br>
+                <a href="/GB/en-US/C1.aspx?TabID=000020&amp;SKeyWord=641000&amp;BND=GIO"> Scarves &amp; Gifts</a>
+            </div>
+            <div class="col-md-3 div-filter" tabid="100900" brand="gio" gender="0" style="padding-bottom:8px">
+            </div>
+        </div>
+    </div>
+
+
+                    </div>
+                </div>
+            </div>
+        
+    <div id="ContentPlaceHolder1_divFrame" style="min-height: 780px;">
+        
+    <div class="container-thin">
+        <div class="container">
+	<div class="page-header">
+		<h1>PRIVACY POLICY &amp; PERSONAL INFORMATION COLLECTION STATEMENT (“PICS”)</h1>
+	</div>
+	<br>
+	<h2>1. Our Commitment to Privacy:</h2>
+	<p><b>Giordano Limited (“Giordano”)</b>  respects our customers’ legal rights of privacy when collecting, storing, using and transmitting their personal data, and this PICS explains our privacy policy and sets out the following practices we commit to protect our customers’ privacy and personal data:	<br><br>
+	- to provide safeguards to protect the security and confidentiality of the personal data we collect;<br>
+	- to limit the personal data collected to the minimum required;<br>
+	- to only permit authorized personnel, who are obliged to respect the confidentiality of the personal data, to access to the personal data on a “<strong>needs-to-know</strong>” basis; and<br>
+	- not to disclose customers’ personal data to any external parties (except to our employees, professional advisors, subcontractors of database management, agents and business partners in/outside Hong Kong) unless customers have agreed, or we are required by the laws and regulations of the Stock Exchange or the court orders or the directions of governmental body or regulatory authority of competent jurisdiction.<br>
+<br>
+	We treat all personal data collected in accordance with the provisions of the Personal Data (Privacy) Ordinance (Cap. 486) of the Laws of Hong Kong (as amended from time-to-time).	
+	<br><br>
+
+	Where our operations are subject to privacy legislation other than that of Hong Kong (such as due to our carrying out of operational functions outside of Hong Kong), this PICS shall apply so far as it is consistent with such local legislation.	
+	<br>
+	
+	<br>
+	We may be required to change/amend this PICS from time-to-time, so we recommend checking it occasionally. Any amendment to this PICS will continue to be in accordance with the provisions of the Personal Data (Privacy) Ordinance (Cap. 486) (as amended from time-to-time).
+	<br><br>
+
+	In case of any inconsistency between the English and the Chinese versions of this PICS, the English version shall prevail.	
+	</p>
+	<br>
+	<br>
+	<h2>2. Personal Data Collection:</h2>
+	<p><b>“Personal data”</b> means any personally identifiable information or sensitive data (such as name, phone number, residential/e-mail address, facsimile number, credit card information) from which it is practicable for the identity of an individual to be ascertained.	<br><br>
+	Personal data may be collected by the following means:<br>
+	- telephone; <br>
+	- correspondences (letter, facsimile and e-mail); <br>
+	- Internet site;  <br>
+	- point of sales; <br>
+	- membership enrolment;<br>
+	- customer loyalty programs; and<br> 
+	- direct customer survey.</p>
+	
+	<p>Besides, through our websites, we may collect other information when one completes an on-line inquiry or order.  We may also maintain records of the below visitors’ information for statistical analysis, including: <br>
+	- the Internet Protocol (IP) address;  <br>
+	- the date and time of visit;  <br>
+	- the webpage accessed and documents downloaded; and  <br>
+	- the type of browser being used.  <br>
+	</p>
+	
+		
+	Customers who are under the age of 13 must consult with their parent or guardian before providing any personal data to us.
+	<br><br>
+
+	<br>
+	<h2>3. Purpose of Using Personal Data:</h2>
+	<p>The purposes for which we may use customers’ personal data are divided into obligatory purposes and voluntary purposes. 
+	If personal data is to be used for an obligatory purpose, it will be marked as <b>“Required”</b> in our members application forms or data provision columns, 
+	and customers MUST provide his/her personal data to us if in need of our products or services for which being applied. If personal data is only to be 
+	used for a voluntary purpose, it is entirely up to customers’ choice of whether to provide so or not.
+	<br><br>
+	<b>Purposes for collecting obligatory personal data include :</b>
+	<br>
+	(i) providing goods and/or services of our brands (including <b>Giordano, Giordano Junior, Giordano Ladies, BSX and Concepts1One</b>);<br>
+	(ii) enrolment into and maintaining membership;<br>
+	(iii) handling accumulated and/or redeemed bonus points or privileges;<br>
+	(iv) communicating to customers about entitlements and privileges as our members;<br>
+	(v) notification of any amendment to the membership program;<br>
+	(vi) checking and verifying customers’ identity, credit payment and/or account status in relation to the provision of products and/or services; <br>
+	(vii) processing payment instructions, direct debit facilities and/or credit facilities requested by customers; <br>
+	(viii) data cleansing and customers profile updates; and <br>
+	(ix) any other purposes to which customers have given consent. <br>
+	</p>
+	<p>
+	<b>Purposes for collecting voluntary personal data include:</b>
+	<br>
+	(i) to distribute customer satisfaction survey;<br>
+	(ii) to conduct market research and analysis to better understand our customers, so as to enable us to provide rewards, services and product information or offerings better tailored to customers’ needs;<br>
+	(iii) to conduct business planning, such as service design and continuous improvement in services for customers;<br>
+	(iv) to communicate to customers for direct marketing :<br>
+	</p><div style="padding-left:20px">
+		(a) new product launch and other promotional offers of products and services under our brands, including but not limited to apparel and fashion accessories, rain gear, gift items, and lifestyle enhanced services;<br>
+		(b) promotional events, including PR events, shop opening events, store announcement/events and news updates;<br>
+		(c) marketing reward programs, promotional campaigns and roadshows;<br>
+		(d) joint promotion or events with shopping malls, department stores, credit cards, banks, trades, celebrities, mass media (e.g. magazines, television, websites), charities or non-profit organizations; and<br>
+		(e) cross-brand joint promotions and/or events with brands within Giordano Group.<br>
+	</div>
+	<p></p>
+	<br>
+	<h2>4. Customers’ Rights to Opt-Out, Access and Correction:</h2>
+	<p>If at any other point of time customers do not wish us to use his/her personal data for use in direct marketing as described above, they may exercise their opt-out rights by notifying us (see the below contact details).
+	<br><br>
+	Additionally, customers may at any time contact us to request access to and/or correct his/her personal data in our records. In response, we will approach the customers to collect certain details so as to ensure of the right person to whom the data refers. We will respond to such requests within 40 days, but we may charge a reasonable fee for doing so. In so far as the law permits, however, we reserve the right to refuse to provide customer with information. In this eventuality, we will provide the reasons for refusal.
+	
+	</p>
+	<br>
+	<h2>5. How to Contact Us</h2>
+	<p>This PICS applies to all customers, which may be updated and revised from time to time without prior notice. We will, however, post the update version on Giordano’s websites. 
+	Should customers have any questions or concerns about this PICS, or wish to correct his/her personal data or remove the membership or choose not to receive any promotional materials, please contact us :
+	<br><br>
+	E-mail address: <a href="mailto:e-shop@giordano.com">e-shop@giordano.com </a>
+	<br><br>
+	For other customers:
+	<br><br>
+	Postal address : Sales Operations Dept.<br>
+	Giordano Limited<br>
+	5/F, Tin On Industrial Building<br>
+	777-779 Cheung Sha Wan Road, Kowloon, Hong Kong<br>
+	E-mail address : <a href="mailto:wws@giordano.com">wws@giordano.com</a><br>
+	Phone number: (852) 2746 4668 (during office hours)<br>
+	</p>
+	<br>
+	<h2>6. Retention / Security of Data:</h2>
+	<p>Giordano will keep customers’ personal data for as long as necessary to fulfill the purpose for which the data was collected. We may also retain archived personal data for statistical analysis. Personal data which is no longer required will be destroyed.
+	<br><br>
+	If customers provide personal data via facsimile, e-mail or completing an on-line inquiry, please be aware that there may have risks in transmitting such information on the Internet. We have secured our websites using industry standard technology. 
+	However, we cannot provide any guarantee with respect to the security of customers’ personal data, and we will not be liable for any breach of security or unintended loss or disclosure of information due to the website being linked to the Internet.
+	<br><br>
+	Giordano, however, will use all reasonable endeavors to secure all customers’ personal data collected. For on-line personal data, it is stored behind industry standard firewalls and where applicable, protected by user name and password. 
+	</p>
+	<br>
+	<h2>7. Identifier:</h2>
+	<p>Giordano does not identify any individual by any Commonwealth Group identifier such as Medicare or Tax File Number.</p>
+	<br>
+	<h2>8. Acknowledgement:</h2>
+	<p>By providing personal data on-line or by signing our membership application forms etc., customers are deemed to acknowledge and agree to the above provisions.</p>
+	<br>
+</div>
+
+
+    </div>
+
+    </div>
+    <br>
+    <br>
+    <br>
+
+    
+    <div class="container">
+        <div class="row">
+            <div>
+            <br>
+            <br>
+            <hr>
+            <div class="row">
+                <div class="col-md-8" style="margin-left:120px">
+                    <div class="col-md-3">
+                    </div>
+                    <div class="col-md-3">
+                        <h4>customer support</h4>
+                        <a href="/GB/en-US/article/eshop2015_help_payment" class="helpitem">payment</a><br>
+                        <a href="/GB/en-US/article/eshop2015_help_express" class="helpitem">delivery service</a><br>
+                        <a href="/GB/en-US/article/eshop2015_help_exchange" class="helpitem">exchange  &amp;  return</a><br>
+                        <a href="/GB/en-US/article/eshop2015_help_sizechart" class="helpitem">care label</a><br>
+                    </div>
+                    <div class="col-md-3">
+                        <h4>about us</h4>
+                        <a href="http://corp.giordano.com.hk/" class="helpitem">the company</a><br>
+                        <a href="/GB/en-US/article/eshop2015_help_brandstory" class="helpitem">our brands</a><br>
+		<a href="/GB/en-US/article/eshop2015_help_privacy" class="helpitem">privacy</a><br>
+                 <a href="https://www.facebook.com/giordanoonline/" target="_blank">
+                                    <img width="30" src="http://images.e-giordano.com/materiel/gio/cn/workpage/hkshop/icon/facebook01.png" border="0"></a>&nbsp;&nbsp;
+                              
+                                <a href="https://plus.google.com/b/115444242886083912302/115444242886083912302?gmbpt=true&amp;pageid=115444242886083912302&amp;_ga=1.167922145.1781045512.1445570372&#10;" target="_blank">
+                                    <img width="30" src="http://images.e-giordano.com/materiel/gio/cn/workpage/hkshop/icon/g.png" border="0"></a>
+                    </div>
+                    <div class="col-md-3">
+                        <h4>contact us</h4>
+             business day 9am - 6pm  <style>
+  #box{
+    text-transform:uppercase;
+  }
+</style>
+<div id="box">( gmt +8 ) </div> 
+
+<br>
+
+
+                                	<p>email: <br>
+                                <a href="mailto:e-shop@giordano.com">e-shop@giordano.com</a>
+</p></div>
+
+
+                                <br>
+<br>
+                                <br>
+
+
+
+                                <br>
+
+
+
+                                <br>
+
+
+
+                                <br>
+                               
+                    </div>
+                    <div class="col-md-2">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+            <div class="col-md-2" style="float: left; margin-top: -110px; width: 250px;">
+                <div id="ContentPlaceHolder1_divsignupemail">
+                    <label>
+                        eNEWS SUBSCRIPTION
+                        
+                    </label>
+                    <input type="text" style="margin-top: 5px;" placeholder="Email Address" onblur="return checkSignEmail()" class="form-control" id="signEmail">
+                    <div id="signemailresult"></div>
+                    <input type="button" class="btn btn-primary btn-block" style="margin-top: 5px;" value="
+                        Submit
+                        " onclick="regEmail()">
+                </div>
+                
+            </div>
+
+            <div style="margin-top: -110px; float: right; width: 220px">
+                <br>
+                
+                
+                
+            </div>
+        </div>
+    
+    <br>
+    <br>
+
+    <br>
+
+    
+
+
+
+    <div class="container">
+<img src="/Images/w.png" class="center-block">
+</div>
+<br>
+<br>
+<br>
+<br>
+<div class="text-center SiteList">
+<a href="http://m.giordano.com/gb/" target="_blank" style="font-size: 10px;">Giordano @Mobile</a>&nbsp;|&nbsp;
+<a href="http://www2.giordano.com/" target="_blank" style="font-size: 10px;">China </a>&nbsp;|&nbsp;
+<a href="http://www.giordano.com/hk/" target="_blank" style="font-size: 10px;">HongKong</a>&nbsp;|&nbsp;
+<a href="http://www.giordano.com/tw/" target="_blank" style="font-size: 10px;">Taiwan</a>&nbsp;|&nbsp;
+<a href="http://www.giordano.com/au/" target="_blank" style="font-size: 10px;">Australia</a>&nbsp;|&nbsp;
+<a href="http://www.giordano.com/eu/" target="_blank" style="font-size: 10px;">Europe</a>&nbsp;|&nbsp;
+<a href="http://www.giordano.com/my/" target="_blank" style="font-size: 10px;">Malaysia</a>&nbsp;|&nbsp;
+<a href="http://www.giordano.com/id/" target="_blank" style="font-size: 10px;">Indonesia</a>&nbsp;|&nbsp;
+<a href="http://www.giordano.com/mm/" target="_blank" style="font-size: 10px;">Myanmar</a>&nbsp;|&nbsp;
+<a href="http://www.giordano.com/gb/" target="_blank" style="font-size: 10px;">Complete List of Global E-Shop</a>
+
+</div>
+ 
+
+
+    
+
+    <script type="text/javascript" src="/scripts/jquery.scrollUp.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $.scrollUp({
+                scrollName: 'scrollUp',
+                topDistance: '300',
+                topSpeed: 300,
+                animation: 'fade',
+                animationInSpeed: 200,
+                animationOutSpeed: 200,
+                scrollText: '',
+                activeOverlay: false,
+            });
+        });
+    </script>
+
+    <!-- #region 晶赞 -->
+    <script type="text/javascript">
+        (function (param) {
+            var _MarketID = "GB";
+
+            if (_MarketID != "CN") {
+                return;
+            }
+
+            var c = { query: [], args: param || {} };
+            c.query.push(["_setAccount", "467"]);
+            (window.__zpSMConfig = window.__zpSMConfig || []).push(c);
+            var zp = document.createElement("script");
+            zp.type = "text/javascript";
+            zp.async = true;
+            zp.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//cdn.zampda.net/s.js";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(zp, s);
+        })
+        (window.__zp_tag_params);
+    </script>
+    <!--HK remarketing  -->
+    <script>
+        var _MarketID = "GB";
+        var _GoogleAnalytics = "Y";
+        (function (i, s, o, g, r, a, m) {
+            if (_GoogleAnalytics != "Y") {
+                return;
+            }
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        if (_GoogleAnalytics == "Y") {
+            ga('create', 'UA-70827696-2', 'auto');
+            ga('send', 'pageview');
+            
+        }
+
+    </script>
+
+    
+
+    <!-- #endregion -->
+        
+    
+
+</body></html>
