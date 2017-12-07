@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefunnybeaver.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040850id_/http%3A//thefunnybeaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefunnybeaver.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207055313id_/http%3A//thefunnybeaver.com/privacy-policy) for the most accurate reproduction.*
 
 # TheFunnyBeaver – Privacy Policy
 
