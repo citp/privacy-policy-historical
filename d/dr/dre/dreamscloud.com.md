@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamscloud.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611095424id_/https%3A//www.dreamscloud.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamscloud.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207083947id_/https%3A//www.dreamscloud.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Online Dream Interpretation, Meaning & Analysis | DreamsCloud
 
