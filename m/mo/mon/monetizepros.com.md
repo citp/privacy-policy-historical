@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monetizepros.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312023956id_/https%3A//monetizepros.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monetizepros.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207062755id_/https%3A//monetizepros.com/privacy) for the most accurate reproduction.*
 
 # Privacy - MonetizePros
 
