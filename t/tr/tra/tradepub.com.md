@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628085649id_/https%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207073445id_/https%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
 
 # Free Professional and Technical Research Library of White Papers, Magazines, Reports, and eBooks
 
