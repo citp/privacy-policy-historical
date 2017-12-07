@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troubleshooter.xyz privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171257id_/http%3A//troubleshooter.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troubleshooter.xyz privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207094641id_/http%3A//troubleshooter.xyz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Troubleshooter
 
@@ -69,7 +69,7 @@ Gautam Budh Nagar
 India  
 Uttar Pradesh  
 201008  
-[adityafarrad@gmail.com](mailto:adityafarrad@gmail.com)
+[[email protected]](http://troubleshooter.xyz/cdn-cgi/l/email-protection#ed8c898499948c8b8c9f9f8c89ad8a808c8481c38e8280)
     
     
     **Last updated: 17th Nov 2016**
