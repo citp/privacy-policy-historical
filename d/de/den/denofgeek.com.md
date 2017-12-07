@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denofgeek.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124345id_/http%3A//www.denofgeek.com/us/content/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denofgeek.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207132911id_/http%3A//www.denofgeek.com/us/content/privacy-notice) for the most accurate reproduction.*
 
 # Den of Geek | Privacy Notice
 
