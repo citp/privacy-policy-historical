@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bankingtech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065714id_/http%3A//www.bankingtech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankingtech.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208000321id_/http%3A//www.bankingtech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Banking Technology
+# Privacy Policy | Banking Technology
 
 Informa Group (which comprises Informa plc and any and all of its subsidiaries) (“we” or “us”) are committed to protecting and respecting your privacy. This privacy policy has been created in order to demonstrate our firm commitment to your privacy.
 
@@ -23,7 +23,7 @@ We may collect information about your computer, including where available your I
 
 **3\. COOKIES**
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them please see our [cookies policy](http://www.bankingtech.com/cookies-policy/).
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them please see our [cookies policy](https://bankingtech-dev.knect365.com/cookies-policy/).
 
 **4\. WHERE WE STORE YOUR PERSONAL DATA**
 
@@ -91,6 +91,6 @@ United Kingdom
 
 T: +44 (0)20 7017 7077  
 F: +44 (0)20 7017 7828  
-Email: [integrity@informa.com](mailto:integrity@informa.com)
+Email: [integrity@informa.com](mailto:integrity@informa.com)
 
 10.2. We endeavour to process all requests as promptly as practical, however please note that you may continue to receive existing communications for a transitional period whilst we update your preferences.
