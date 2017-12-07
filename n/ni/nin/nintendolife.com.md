@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendolife.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143118id_/http%3A//www.nintendolife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendolife.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207203533id_/http%3A//www.nintendolife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Nintendo Life
 
@@ -53,7 +53,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [help@nintendolife.com](mailto:help@nintendolife.com).
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](http://www.nintendolife.com/cdn-cgi/l/email-protection#d5bdb0b9a595bbbcbba1b0bbb1bab9bcb3b0fbb6bab8).
 
 
 
