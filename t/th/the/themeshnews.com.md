@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeshnews.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320004013id_/http%3A//www.themeshnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeshnews.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207233538id_/https%3A//www.themeshnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
