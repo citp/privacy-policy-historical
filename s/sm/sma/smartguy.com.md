@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartguy.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421171647id_/http%3A//www.smartguy.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartguy.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208205228id_/http%3A//www.smartguy.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | smartguy.com
 
@@ -44,7 +44,7 @@ We may use Traffic Data to analyze trends, administer our Website, track the use
 
 We may provide Traffic Data and/or other aggregate non-personally identifying information to third parties, including our affiliates and business partners.
 
-Notwithstanding the foregoing, we may transfer, sell or assign information concerning your use of our Website, including without limitation, Personally Identifiable Information, to third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of SmartGuy.com to a successor in interest.
+Notwithstanding the foregoing, we may transfer, sell or assign information concerning your use of our Website, including without limitation, Personally Identifiable Information, to third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, liquidation of SmartGuy.com to a successor in interest or other reason we may designate.
 
 **Opt-Out Process**
 
@@ -84,4 +84,4 @@ By using our Website, you signify your assent to our Privacy Policy. If you do n
 
 **Contact Us**
 
-If you have any questions or concerns regarding our Privacy Policy or any questions about the security at our Website, please send an email to **[info@smartguy.com](mailto:info@smartguy.com) **or contact us in writing at Privacy Department, c/o SmartGuy.com, 16133 Ventura Blvd. Suite 700, Encino CA 91436
+If you have any questions or concerns regarding our Privacy Policy or any questions about the security at our Website, please send an email to **[info@smartguy.com](mailto:info@smartguy.com) **or contact us in writing at Privacy Department, c/o SmartGuy.com, 269 So. Beverly Drive, #642, Beverly Hills, CA 90212
