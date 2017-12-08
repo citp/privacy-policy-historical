@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoozads.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608100641id_/http%3A//zoozads.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoozads.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208153009id_/http%3A//www.zoozads.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
