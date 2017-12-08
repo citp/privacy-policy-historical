@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the earthshare.org privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615061411id_/http%3A//www.earthshare.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthshare.org privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208170006id_/http%3A//www.earthshare.org/privacy-policy.html) for the most accurate reproduction.*
 
 # About: EarthShare’s Donor Privacy Policy
+
+## DONATE ONLINE
+
+Your gift can help protect our air, water, land and wildlife, and our health. Support for **EarthShare National** helps us continue our innovative partnerships and programs aimed at accelerating the pace of positive environmental change. 
+
+[DONATE TO NATIONAL NOW »](https://www.donationpay.org/earthshare/)  
+
 
 EarthShare values and respects its donors’ right to privacy. It affirms that its fund-raising practices protect against unauthorized use of its contributor lists, and permits no general telephone solicitation of the public. 
 
