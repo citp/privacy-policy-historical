@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylentips.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134806id_/http%3A//www.stylentips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylentips.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208013556id_/http%3A//www.stylentips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Style N Tips
 
