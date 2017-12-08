@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bryxensoftware.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517235229id_/http%3A//www.bryxen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bryxensoftware.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208212340id_/http%3A//www.bryxen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Bryxen
 
