@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fthe.me privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614134241id_/http%3A//fthe.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fthe.me privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208190101id_/http%3A//fthe.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Best Free and Premium Wordpress Themes For Download
 
