@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketwizard.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609052502id_/http%3A//www.pocketwizard.com/home/misc/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketwizard.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208134841id_/http%3A//www.pocketwizard.com/home/misc/privacy_policy) for the most accurate reproduction.*
 
 # PocketWizard® - Privacy Policy
 
