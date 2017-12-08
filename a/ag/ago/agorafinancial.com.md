@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the agorafinancial.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922133137id_/http%3A//agorafinancial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agorafinancial.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208074351id_/https%3A//agorafinancial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Agora Financial
 
-## We at Agora Financial take your privacy very seriously!
+We take your privacy very seriously. If you have any questions regarding our privacy policy that are not addressed below, **[please email us here](https://agorafinancial.com/contact-us/)**. To place an order, or if you have questions before you order, you can reach our customer care department at 800-708-1020 Monday through Friday, 9 a.m. – 5 p.m. Eastern time.
 
-**Email Address**
+## **Email Address**
 
 When you subscribe to Agora Financial via email, your email address is placed in a database and used to send your issues of Agora Financial publications. We will not sell or rent your email address to any company outside of our parent company of Agora, Inc. You can remove your address from our email list by following the instructions at the end of every email we send.
 
@@ -12,7 +12,7 @@ Any email you send to Agora Financial is considered confidential unless you tell
 
 **Spam**
 
-If you believe that _Agora Financial_ has sent you unsolicited commercial e-mail (spam), please send an e-mail to [customerservice@agorafinancial.com](mailto:customerservice@agorafinancial.com).
+If you believe that _Agora Financial_ has sent you unsolicited commercial e-mail (spam), please send an e-mail to [feedback@agorafinancial.com](mailto:feedback@agorafinancial.com).
 
 **Personal Information**
 
@@ -34,4 +34,4 @@ Baltimore, MD 21202
 
 Cookies are small files placed on your computer by a Web page when you visit it. They can be used to store all sorts of useful information to make your next visit easier and more convenient, but some people are uncomfortable not knowing what information is in a cookie. Accepting cookies through your Web browser is your personal choice. You can set your browser to disable cookies. However, if you choose not to accept cookies, we may not be able to provide you with as good of an experience as one that is specifically tailored to your needs by utilizing the cookie.
 
-The Agora Financial website uses cookies to compile statistics on the use of the various pages on our site (how many people visit each page and that sort of thing). We do not store or collect any personally identifiable information. We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt out of receiving online display advertisements tailored to your interests by our third-party partners, visit the Network Advertising Initiative at[ www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
+The Agora Financial website uses cookies to compile statistics on the use of the various pages on our site (how many people visit each page and that sort of thing). We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt out of receiving online display advertisements tailored to your interests by our third-party partners, visit the Network Advertising Initiative at[ www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
