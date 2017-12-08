@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevertraining.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134744id_/http%3A//www.clevertraining.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevertraining.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208035732id_/http%3A//www.clevertraining.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
