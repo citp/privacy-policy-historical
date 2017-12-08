@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryobi.com.au privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621121315id_/http%3A//www.ryobi.com.au/power-tools/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryobi.com.au privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208121751id_/http%3A//www.ryobi.com.au/power-tools/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RYOBI Tools
 
