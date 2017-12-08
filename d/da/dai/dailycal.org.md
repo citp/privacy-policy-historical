@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycal.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625015215id_/http%3A//www.dailycal.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycal.org privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208030106id_/http%3A//www.dailycal.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Copyright Information | The Daily Californian
 
@@ -24,10 +24,7 @@ Any of the information we collect from you may be used in one of the following w
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
   * To administer a contest, promotion, survey or other site feature
   * To send periodic emails  
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions. 
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
@@ -49,6 +46,10 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 **Third party links**  
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+**Why are you seeing ads on our website?**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/).
+
 **California Online Privacy Protection Act Compliance**  
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
@@ -69,7 +70,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 2483 Hearst Ave.  
 Berkeley, California 94709  USA  
-[dailycal@dailycal.org](mailto:dailycal@dailycal.org)  510-548-8300
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f19590989d8892909db19590989d8892909ddf9e8396)  510-548-8300
 
 **SITE USAGE AND COPYRIGHT**
 
