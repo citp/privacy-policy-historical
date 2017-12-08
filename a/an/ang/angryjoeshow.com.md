@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angryjoeshow.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626011904id_/http%3A//angryjoeshow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angryjoeshow.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208151714id_/http%3A//angryjoeshow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Angry Joe Show
 
