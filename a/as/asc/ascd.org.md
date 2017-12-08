@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascd.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607134506id_/http%3A//www.ascd.org/about-ascd/ASCD-Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascd.org privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208140723id_/http%3A//www.ascd.org/about-ascd/ASCD-Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # ASCD
 
