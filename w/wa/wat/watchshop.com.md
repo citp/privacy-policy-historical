@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchshop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042241id_/http%3A//www.watchshop.com/privacy-policy-a2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchshop.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208155002id_/http%3A//www.watchshop.com/privacy-policy-a2.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,33 +70,39 @@ We may use information held about you in the following ways:
 
 ## 8\. DISCLOSURE OF YOUR INFORMATION
 
-We may disclose your personal information to third parties including:
+**8.1** We may disclose your personal information to third parties including:
 
-**8.1** Postal service organisations to assist in the delivery of goods you have ordered.
+**8.1.1** Postal service organisations to assist in the delivery of goods you have ordered.
 
-**8.2** Organisations that provide customer feedback services.
+**8.1.2** Organisations that provide customer feedback services.
 
-**8.3** Group companies for marketing purposes as described in section 7 above.
+**8.1.3** Group companies for marketing purposes as described in section 7 above.
 
-**8.4** Organisations to assist in the completion of a purchase of goods from us.
+**8.1.4** Organisations to assist in the completion of a purchase of goods from us.
 
-**8.5** In the event that we sell our business and/or assets, in which case we may disclose your personal data to the prospective buyer of our business or assets; and if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms Of Website Use](https://web.archive.org/terms-of-website-usage-a170.html) and other agreements; or to protect our rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+**8.1.5** In the event that we sell our business and/or assets, in which case we may disclose your personal data to the prospective buyer of our business or assets; and
 
-## 9\. WEBSITE LINKS
+**8.1.6** If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms Of Website Use](https://web.archive.org/terms-of-website-usage-a170.html) and other agreements; or to protect our rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+## 9\. RETENTION OF YOUR INFORMATION
+
+For tax reasons, we keep information such as invoices, receipts and records (which may include personal data) for a minimum of 6 years after which time it will be destroyed. Your information we use for marketing purposes will be kept with us until you notify us you no longer wish to receive this information. 
+
+## 10\. WEBSITE LINKS
 
 Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. Please note that if you follow a link to any of these websites, such websites will apply different terms to the collection and privacy of your personal data and we do not accept any responsibility or liability for these policies. Please check before you submit any personal data to these websites. 
 
-## 10\. ACCESS TO INFORMATION AND UPDATING AND CORRECTING YOUR INFORMATION
+## 11\. ACCESS TO INFORMATION AND UPDATING AND CORRECTING YOUR INFORMATION
 
-**10.1** Data protection legislation gives you the right to access information held about you. If you would like a copy of some or all of your personal information, please send an email to [helpdesk@watchshop.com](mailto:helpdesk@watchshop.com). Any access request may be subject to a reasonable fee to meet our costs in providing you with details of the information we hold about you.
+**11.1** Data protection legislation gives you the right to access information held about you. If you would like a copy of some or all of your personal information, please send an email to [helpdesk@watchshop.com](mailto:helpdesk@watchshop.com). Any access request may be subject to a reasonable fee to meet our costs in providing you with details of the information we hold about you.
 
-**10.2** We want to ensure that your personal information is accurate and up to date. If any information that you have provided to us changes, for example if you change your email address or name, please let us know the correct details by sending an email to [helpdesk@watchshop.com](mailto:helpdesk@watchshop.com) or a letter to Customer Services Manager c/o SDK, PO Box 8174, Reading, Berkshire, RG6 9PE. You may ask us to correct information you think is inaccurate, ask for your information to be deleted or only be used for certain purposes.
+**11.2** We want to ensure that your personal information is accurate and up to date. If any information that you have provided to us changes, for example if you change your email address or name, please let us know the correct details by sending an email to [helpdesk@watchshop.com](mailto:helpdesk@watchshop.com) or a letter to Customer Services Manager c/o SDK, PO Box 8174, Reading, Berkshire, RG6 9PE. You may ask us to correct information you think is inaccurate, ask for your information to be deleted or only be used for certain purposes.
 
-## 11\. CHANGES TO OUR PRIVACY POLICY
+## 12\. CHANGES TO OUR PRIVACY POLICY
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. 
 
-## 12\. CONTACT
+## 13\. CONTACT
 
 Questions, comments and requests regarding this privacy policy should be addressed to [helpdesk@watchshop.com](mailto:helpdesk@watchshop.com) or Customer Services Manager c/o SDK, PO Box 8174, Reading, Berkshire, RG6 9PE. 
 
