@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032652id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208123811id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MarathiStars
 
@@ -84,4 +84,4 @@ MarathiStars.com is committed to resolving disputes as soon as feasible and shal
 
 #### Tags
 
-vaidehi parshurami assets, sonu nigam photos 2013, web, 
+lagira Zala Ji Khalsa Bagh, nxn com marathi, MANSI NAEK NXN VIEDO, web, 
