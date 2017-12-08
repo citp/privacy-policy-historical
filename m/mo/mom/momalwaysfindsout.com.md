@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momalwaysfindsout.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608181408id_/http%3A//www.momalwaysfindsout.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momalwaysfindsout.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208031537id_/http%3A//www.momalwaysfindsout.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mom Always Finds Out
 
@@ -75,6 +75,6 @@ opt-out of this type of advertising, you can visit<http://www.aboutads.info/cho
 
 This policy was last modified on 06/11/15.
 
-momalwaysfindsout@gmail.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [kayako Supportsuite](http://www.rhinosupport.com/kayako.htm) and save! 
+This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [kayako Supportsuite](http://www.rhinosupport.com/kayako.htm) and save!
