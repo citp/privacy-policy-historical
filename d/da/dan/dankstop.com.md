@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dankstop.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120192538id_/http%3A//dankstop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dankstop.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208103113id_/https%3A//dankstop.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Headshop
+# Privacy Policy | Online Headshop | DankStop
 
 **Privacy Policy**
 
