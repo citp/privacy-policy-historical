@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fratmusic.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612132656id_/http%3A//fratmusic.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fratmusic.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208161117id_/http%3A//fratmusic.com/privacy-statement.php) for the most accurate reproduction.*
 
 # Fratmusic.com | Privacy Statement
 
@@ -28,4 +28,4 @@ Because no data transmission over the Internet is completely secure, and no syst
 
 **Contact**
 
-If you have any concerns or questions about any aspect of this policy, please feel free to contact us at the following e-mail address: contact@fratmusic.com 
+If you have any concerns or questions about any aspect of this policy, please feel free to contact us at the following e-mail address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
