@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the switzer.com.au privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628135353id_/http%3A//www.switzer.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the switzer.com.au privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208205224id_/http%3A//www.switzer.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Switzer
 
@@ -48,7 +48,7 @@ We may also disclose your personal information to our professional advisors, inc
 
 From time to time we may use your personal information to provide you with current information about our services, special offers you may find of interest, changes to our organisation, or new products or services being offered by us or any company we are associated with, seminars, and conventions.
 
-If you do not wish to receive marketing information, you may at any time decline to receive such information by contacting our offices, by email to info@switzer.com.au, by following the instructions for removal in the marketing information or by writing to us at Suite 2 Level 1 36-40 Queen St Woollahra, NSW, Australia. We will not charge you for giving effect to your request and will take all reasonable steps to meet your request at the earliest possible opportunity.
+If you do not wish to receive marketing information, you may at any time decline to receive such information by contacting our offices, by email to info@switzer.com.au, by following the instructions for removal in the marketing information or by writing to us at Level 4, 10 Spring Street, Sydney, NSW, 2000. We will not charge you for giving effect to your request and will take all reasonable steps to meet your request at the earliest possible opportunity.
 
 ##### Updating your personal information
 
