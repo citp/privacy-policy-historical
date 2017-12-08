@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpapers13.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611154159id_/http%3A//www.wallpapers13.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapers13.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208132757id_/http%3A//www.wallpapers13.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY : Wallpapers13.com
 
