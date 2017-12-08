@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the fccincinnati.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142845id_/http%3A//www.sportsengine.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fccincinnati.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208211738id_/http%3A//www.sportsengine.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Welcome to the online and mobile service of SportsEngine, Inc. ("SportsEngine," "we," "our," or "us"). We are committed to protecting your privacy and to treating your personal information as you would want it to be treated. This Privacy Policy explains how we collect, use, share and protect your personal information. It applies to SportsEngine's collection of information on our websites, applications, services and tools (collectively, our "Service"). Please remember that we provide many of our Services to Organizations who have their own privacy practices, which may also govern your data in different ways. This Privacy Policy applies only to our own data practices, and not to the practices of third parties that we do not control. By using our Services, you agree to the terms of this Privacy Policy and our [Terms of Use](https://www.sportsengine.com/legal/terms_of_use/)
+Welcome to the online and mobile service of SportsEngine, Inc. ("SportsEngine," "we," "our," or "us"). We are committed to protecting your privacy and to treating your personal information as you would want it to be treated. This Privacy Policy explains how we collect, use, share and protect your personal information. It applies to SportsEngine's collection of information on our websites, applications, services and tools (collectively, our "Service"). Please remember that we provide many of our Services to Organizations who have their own privacy practices, which may also govern your data in different ways. This Privacy Policy applies only to our own data practices, and not to the practices of third parties that we do not control. By using our Services, you agree to the terms of this Privacy Policy and our [Terms of Use](https://www.sportsengine.com/solutions/legal/terms_of_use/)
 
 ### Table of Contents:
 
-  1. #### [What information do we collect and for what purpose?](https://www.sportsengine.com/#section_1)
+  1. #### [What information do we collect and for what purpose?](https://web.archive.org/solutions/#section_1)
 
-  2. #### [How we use cookies and other tracking technology to collect information.](https://www.sportsengine.com/#section_2)
+  2. #### [How we use cookies and other tracking technology to collect information.](https://web.archive.org/solutions/#section_2)
 
-  3. #### [Sharing your information.](https://www.sportsengine.com/#section_3)
+  3. #### [Sharing your information.](https://web.archive.org/solutions/#section_3)
 
-  4. #### [Your choices about your information.](https://www.sportsengine.com/#section_4)
+  4. #### [Your choices about your information.](https://web.archive.org/solutions/#section_4)
 
-  5. #### [How we store and protect your information.](https://www.sportsengine.com/#section_5)
+  5. #### [How we store and protect your information.](https://web.archive.org/solutions/#section_5)
 
-  6. #### [Children's Privacy.](https://www.sportsengine.com/#section_6)
+  6. #### [Children's Privacy.](https://web.archive.org/solutions/#section_6)
 
-  7. #### [Links to other web sites and services.](https://www.sportsengine.com/#section_7)
+  7. #### [Links to other web sites and services.](https://web.archive.org/solutions/#section_7)
 
-  8. #### [How to contact us.](https://www.sportsengine.com/#section_8)
+  8. #### [How to contact us.](https://web.archive.org/solutions/#section_8)
 
-  9. #### [Information security.](https://www.sportsengine.com/#section_9)
+  9. #### [Information security.](https://web.archive.org/solutions/#section_9)
 
-  10. #### [Changes to our privacy policy.](https://www.sportsengine.com/#section_10)
+  10. #### [Changes to our privacy policy.](https://web.archive.org/solutions/#section_10)
 
 
 
@@ -70,7 +70,7 @@ We may also share your personal information with:
     * Third parties with whom you interact on SportsEngine Services. For example, when you make information available to an Organization through the Service (e.g., by submitting the information via the Organization's page or by sharing your profile with a tournament organizer, etc.), your personal information will be shared with that Organization and with any third party with whom that Organization also shares information (for example, if that Organization's participation is sponsored by a professional team or league, the Organization may share its members’ personal information that that team sponsor). Each Organization may customize the manner in which the Organization collects, uses, and discloses personal information of users who submit information to the Organization, either directly or through the SportsEngine Service. The SportsEngine Privacy Policy does not apply to, and we cannot control the data collection and use practices of, these Organizations. Please consult the respective privacy policies of such Organizations or contact them for more information.
     * The public. Any information that you voluntarily disclose for posting to the Service is viewable by other users and the public. You may be able to control some elements of data sharing through your privacy Settings.
     * Other parties in connection with a company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of a bankruptcy or related or similar proceedings; and
-    * Third parties as required by law or subpoena or to if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](https://www.sportsengine.com/terms-of-use) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of SportsEngine, our Users, or others.
+    * Third parties as required by law or subpoena or to if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](https://www.sportsengine.com/solutions/terms-of-use) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of SportsEngine, our Users, or others.
 
 We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
 
