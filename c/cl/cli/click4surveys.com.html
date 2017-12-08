@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the click4surveys.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606090914id_/http%3A//click4surveys.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the click4surveys.com privacy policy that was archived on 2017-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171208144156id_/http%3A//click4surveys.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 
@@ -11,7 +11,7 @@
 
 <meta name="viewport" content="width=1100">
 
-<script type="text/javascript" src="/jwplayer/jwplayer.js"></script>
+<script id="wonderpush-jssdk-loader" src="https://cdn.by.wonderpush.com/sdk/1.1/wonderpush-loader.min.js"></script><script type="text/javascript" src="/jwplayer/jwplayer.js"></script>
 
 <style type="text/css">
 
@@ -188,7 +188,37 @@ a.hlink_1:active {color:#ffffff;}
 </div>
 
 </div>
+<div id="wonderpush-subscription-switch" data-sentence="Receive our latest news by web push: " data-on="YES" data-off="NO"></div>
+<script>
+(function(w, d, s, id, n){
+    w[n] = w[n] || {q: [],
+        init: function(o) {w[n].initOpts = o;},
+        ready: function(c) {w[n].q.push(c);}};
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "https://cdn.by.wonderpush.com/sdk/1.1/wonderpush-loader.min.js";
+    fjs.parentNode.insertBefore(js, fjs);
+}(window, document, "script", "wonderpush-jssdk-loader", "WonderPush"));
 
+WonderPush.init({
+    webKey: "35bf1ac0665ee5ee99dd20d054383cc9be649cb7e5ac4a8ac64a6d0de60bc57b",
+    optInOptions: {
+        // You can modify or translate the following:
+        externalBoxMessage: "We'd like to send you notifications",
+        externalBoxExampleTitle: "Example notification",
+        externalBoxExampleMessage: "This is an example notification",
+        externalBoxDisclaimer: "You can always unsubscribe at anytime.",
+        externalBoxProcessingMessage: "Subscribing...",
+        externalBoxSuccessMessage: "Thanks for subscribing!",
+        externalBoxFailureMessage: "Sorry, something went wrong.",
+        externalBoxTooLongHint: "Poor connection or private browsing?",
+        externalBoxCloseHint: "Close",
+        modalBoxMessage: "We will send you personalized notifications.<br/>You can always unsubscribe at any time.",
+        modalBoxButton: "Got it!"
+    }
+});
+</script>
 
 
 </body></html>
