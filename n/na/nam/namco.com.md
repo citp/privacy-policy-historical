@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namco.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603113940id_/http%3A//www.namco.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namco.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208131600id_/http%3A//www.namco.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
