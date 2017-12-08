@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the indianrailwayemployee.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212958id_/http%3A//www.indianrailwayemployee.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianrailwayemployee.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208023825id_/http%3A//www.indianrailwayemployee.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Railway Employee
-
-[](http://indianrailwayemployee.com/print/1042 "Display a printer-friendly version of this page.")
 
 _Privacy Policy for indianrailwayemployee.com_
 
@@ -12,8 +10,8 @@ At indianrailwayemployee.com, the privacy of our visitors is of extreme importan
 
 _Log Files_  
 Like many other Web sites, indianrailwayemployee.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.  
-_Cookies and Web Beacons_ indianrailwayemployee.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.  
-_**DoubleClick DART Cookie**_ .
+ _Cookies and Web Beacons_ indianrailwayemployee.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.  
+ _ **DoubleClick DART Cookie**_ .
 
 :: Google, as a third party vendor, uses cookies to serve ads on indianrailwayemployee.com.  
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to indianrailwayemployee.com and other sites on the Internet.   
@@ -27,10 +25,8 @@ indianrailwayemployee.com has no access to or control over these cookies that ar
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. indianrailwayemployee.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-  * [](https://web.archive.org/print/1042 "Display a printer-friendly version of this page.")
+  * 2 views
 
 
 
-To protect against spam we limit the _**Comments only for the registerd users**_. Please [**register**](https://web.archive.org/user/register)[  ](https://web.archive.org/web/20170606212958id_/http%3A//www.indianrailwayemployee.com/content/user/register)or [**login**](https://web.archive.org/user/login) **.   **Thank you for your understanding.
-
-Custom Search 
+## Comments
