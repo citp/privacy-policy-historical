@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627005358id_/http%3A//www.thedailymash.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208221355id_/http%3A//www.thedailymash.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # The Daily Mash | Privacy Policy
 
@@ -48,4 +48,4 @@ We do not disclose any personal information obtained about you from this website
 We may from time to time provide information of a general nature to third parties – for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals.  ****
 
 **Contacting Us**  
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [help@thedailymash.co.uk.](mailto:help@thedailymash.co.uk.) You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#462e232a3606322e2322272f2a3f2b27352e68252968332d68) You can also correct any factual errors in that information or require us to remove your details form any list under our control.
