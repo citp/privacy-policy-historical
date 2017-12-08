@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the leadid.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061641id_/http%3A//www.jornaya.com/client-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadid.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208210250id_/https%3A//www.jornaya.com/client-privacy-policy) for the most accurate reproduction.*
 
 # Client Privacy Policy | Jornaya
 
-[Download a copy here](http://www.jornaya.com/hubfs/legal/Privacy%20Policy%20-%20Clients%20FINAL%20download%20copy%20-%20UPDATED%2011.15.16.pdf?t=1496694940283)
+[Download a copy here](https://www.jornaya.com/hubfs/legal/Privacy%20Policy%20-%20Clients%20FINAL%20download%20copy%20-%20UPDATED%2011.15.16.pdf?t=1512743167652)
 
-This Privacy Policy for Clients (“Client Privacy Policy”) is provided by Lead Intelligence, Inc. d/b/a Jornaya (“Jornaya,” “we,” “us,” or “our”) to let you, as our Clients (i.e., Publishers, Queriers, and Partners, as further defined below), know what information is collected through our Platform, how it’s collected, and how we protect it, use it, and share it with others.  Unless otherwise defined in this Client Privacy Policy, terms used in this Client Privacy Policy have the same meanings as in our [Terms of Use](http://www.jornaya.com/terms-of-use). 
+This Privacy Policy for Clients (“Client Privacy Policy”) is provided by Lead Intelligence, Inc. d/b/a Jornaya (“Jornaya,” “we,” “us,” or “our”) to let you, as our Clients (i.e., Publishers, Queriers, and Partners, as further defined below), know what information is collected through our Platform, how it’s collected, and how we protect it, use it, and share it with others.  Unless otherwise defined in this Client Privacy Policy, terms used in this Client Privacy Policy have the same meanings as in our [Terms of Use](https://www.jornaya.com/terms-of-use). 
 
-**Please Note: If you are a Consumer, please** **review** **our Privacy Policy for Consumers by clicking[here](http://www.jornaya.com/consumer-privacy-policy) or by visiting our website at [jornaya.com](http://www.jornaya.com/).** **  For our purposes, “Consumer” refers to an individual who visits and interacts with ****a website or application, such as a website operated by a Publisher on which the individual indicated an interest in a particular product or service and provided contact information in response to a form or questionnaire, as well as browsed or otherwise interacted within such sites.**
+**Please Note: If you are a Consumer, please** **review** **our Privacy Policy for Consumers by clicking[here](https://www.jornaya.com/consumer-privacy-policy) or by visiting our website at [jornaya.com](https://www.jornaya.com/).** **  For our purposes, “Consumer” refers to an individual who visits and interacts with ****a website or application, such as a website operated by a Publisher on which the individual indicated an interest in a particular product or service and provided contact information in response to a form or questionnaire, as well as browsed or otherwise interacted within such sites.**
 
-By accessing and using our Platform, which includes the Jornaya online portal (“Site”), any scripts or code provided by Jornaya (“Scripts”), and any services provided by Jornaya (“Services”), we assume that you have read, understand, and consent to this Client Privacy Policy.  If you do not consent, you should not access or use the Platform.  Please review our [Terms of Use](http://www.jornaya.com/terms-of-use) for a description about how our Platform operates.
+By accessing and using our Platform, which includes the Jornaya online portal (“Site”), any scripts or code provided by Jornaya (“Scripts”), and any services provided by Jornaya (“Services”), we assume that you have read, understand, and consent to this Client Privacy Policy.  If you do not consent, you should not access or use the Platform.  Please review our [Terms of Use](https://www.jornaya.com/terms-of-use) for a description about how our Platform operates.
 
 This Privacy Policy applies to a Publisher, Querier or Partner, as defined below and as applicable, when you access and use our Platform. You also agree that you are responsible for maintaining privacy policies on your company sites that are consistent with our Privacy Policy regarding the collection, use, sharing, and protection of information provided by Consumers (as defined above) to your owned or managed sites.
 
@@ -87,6 +87,6 @@ This Client Privacy Policy may change from time to time. We will notify you of a
 
 **QUESTIONS OR COMMENTS**
 
-Please feel free to direct any questions or comments regarding this Client Privacy Policy by emailing us at [ _privacy@jornaya.com_](mailto:privacy@jornaya.com) or writing to us at:  Lead Intelligence, Inc., 201 S. Maple Ave., Suite 150, Ambler, PA 19002, ATTN: _Client Privacy Policy_.
+Please feel free to direct any questions or comments regarding this Client Privacy Policy by emailing us at [ _privacy@jornaya.com_](mailto:privacy@jornaya.com) or writing to us at:  Lead Intelligence, Inc., 1001 East Hector Street, Suite #230, Conshohocken, PA. 19428. ATTN: _Client Privacy Policy_.
 
 #####  
