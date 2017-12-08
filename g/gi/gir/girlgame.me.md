@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlgame.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172714id_/http%3A//girlgame.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgame.me privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208204328id_/http%3A//girlgame.me/privacy) for the most accurate reproduction.*
 
 # Play Free Dress Up Games For Girls On Girlgame.me!
 
