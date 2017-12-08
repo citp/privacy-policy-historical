@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the switzer.com.au privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628135353id_/http%3A//www.switzer.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the switzer.com.au privacy policy that was archived on 2017-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171208205224id_/http%3A//www.switzer.com.au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="chrome  linux"><head>
-    <script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=005699747301473023477:b5gla_nz5qu"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5C9KL2R"></script><script src="/javascripts/isMobile.min.js" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=005699747301473023477:b5gla_nz5qu"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;amp;version=v2.5"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5C9KL2R"></script><script src="/javascripts/isMobile.min.js" type="text/javascript"></script>
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -10,6 +10,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5C9KL2R');</script>
 <!-- End Google Tag Manager -->
+
+<meta property="fb:pages" content="145510852194217">
     <script type="text/javascript">
         (function() {
             var url  = window.location.pathname;
@@ -67,8 +69,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <body>
       <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5C9KL2R"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript"><!--
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+// --></script>
 <!-- End Google Tag Manager (noscript) -->
         <!-- topbar -->
 <style>
@@ -207,7 +216,7 @@ $(function() {
 <h5>Direct marketing</h5>
 <p>From time to time we may use your personal information to provide you with current information about our services, special offers you may find of interest, changes to our organisation, or new products or services being offered by us or any company we are associated with, seminars, and conventions.</p>
 
-<p>If you do not wish to receive marketing information, you may at any time decline to receive such information by contacting our offices, by email to info@switzer.com.au, by following the instructions for removal in the marketing information or by writing to us at Suite 2 Level 1 36-40 Queen St Woollahra, NSW, Australia. We will not charge you for giving effect to your request and will take all reasonable steps to meet your request at the earliest possible opportunity.</p>
+<p>If you do not wish to receive marketing information, you may at any time decline to receive such information by contacting our offices, by email to info@switzer.com.au, by following the instructions for removal in the marketing information or by writing to us at Level 4, 10 Spring Street, Sydney, NSW, 2000. We will not charge you for giving effect to your request and will take all reasonable steps to meet your request at the earliest possible opportunity.</p>
 
 <h5>Updating your personal information</h5>
 <p>It is important to our relationship that the personal information we hold about you is accurate and up to date. During the course of our relationship with you we will ask you to inform us if any of your personal information has changed.</p>
@@ -324,8 +333,11 @@ $(function() {
     font-size: 14px;
     display: none;
 }
+.subscribe-captcha {
+    padding-left: 15%;
+}
 </style>
-
+<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
 <script type="text/javascript">
 $(document).ready(function() {
     // hide subscription form
@@ -337,13 +349,15 @@ $(document).ready(function() {
 
     // subscribe button
     $('.sidebar-subscribe-button').click(function() {
-        if($(this).hasClass('disabled-subscribe-button')) {
+        console.log("Desktop Register Button Clicked");
+        if($(this).hasClass('disabled-subscribe-button')) { 
             $('.subscribe-form-overlay, .subscribe-form').hide();
             return false;
         } else {
             $('.subscribe-form-overlay, .subscribe-form').fadeIn();
         }
     });
+
 
     // cookie reader
     var popupHidden = retrieveCookie('hidden');
@@ -374,19 +388,25 @@ function showForm() {
 
 // register button
 function register() {
-    var isComplete = true;
+    if(grecaptcha.getResponse().length !==0){
+        var isComplete = true;
 
-    $('#sd-subscription-form input').each(function(index) {
-        if($(this).val() == '') {
-            isComplete = false;
+        $('#sd-subscription-form input').each(function(index) {
+            if($(this).val() == '') {
+                isComplete = false;
+            }
+        });
+
+        if(isComplete) {
+            document.cookie = 'status = subscribed';
+            $('#sd-subscription-form').submit();
+            $('.subscribe-form-overlay, .validation-txt').hide();
+        } else {
+            $('.validation-txt').show();
+            return false;
         }
-    });
-
-    if(isComplete) {
-        document.cookie = 'status = subscribed';
-        $('#sd-subscription-form').submit();
-        $('.subscribe-form-overlay, .validation-txt').hide();
-    } else {
+    }
+    else {
         $('.validation-txt').show();
         return false;
     }
@@ -439,7 +459,8 @@ GA_googleFillSlot("SWIT_300x600");
 
 <img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="15" vspace="0" hspace="0">
 
-<a href="http://www.switzer.com.au/ebooks/seeking-higher-returns-or-lower-risk-through-etfs-ebook"><img src="http://assets.switzer.com.au.global.prod.fastly.net/assets/12666/Ebook_Tower_300X360_normal.jpg" width="300" height="360" border="0" vspace="0"></a>
+<!-- iShare WEBINAR -->
+<!-- <a href="http://www.switzer.com.au/events/webinars/2017/ishares-cost"><img src="http://www.switzer.com.au/images/webinar/ishare/Tower_300X360.jpg" width="300" height="360" border="0" vspace="0" /></a> -->
 
 <!--<div class="ad-container">
 	<div class="top"></div>
@@ -510,17 +531,8 @@ GA_googleFillSlot("SWIT_300x600");
 
 <img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="10" vspace="0" hspace="0">
 
-
-
- 	
-	<!-- small caps masterclass -->
-
-	 
-
-<!-- end small caps masterclass -->
-
-
-
+<!-- iShares EBOOK -->
+<a href="http://www.switzer.com.au/ebooks/2017/how-etfs-can-help-lower-the-cost-of-investing"><img src="http://www.switzer.com.au/images/banner/iShareEbook/eBook_Tower_300X360.jpg" width="300" height="360" border="0" vspace="0"></a>
 
 <img src="http://s3.amazonaws.com/russh-production/public/galleries/18/pixel_admin_thumb_300x300.gif" width="1" height="15" vspace="0" hspace="0">
 
@@ -533,7 +545,7 @@ GA_googleFillSlot("SWIT_300x600");
 
 
 
-<!-- Switzer_ROS_Top_300x250 -->
+<!- Switzer_ROS_Top_300x250 -->
 <script type="text/javascript">
 		GA_googleFillSlot("Switzer_ROS_Top_300x250");
 	</script>
@@ -560,7 +572,7 @@ GA_googleFillSlot("SWIT_300x600");
 	<a class="name" href="/the-experts/john-mcgrath-property-expert">John McGrath</a>
 	
 		
-			<a href="/the-experts/john-mcgrath-property-expert/what-the-nsw-budget-means-for-home-owners/">What the NSW Budget means for home owners </a>
+			<a href="/the-experts/john-mcgrath-property-expert/biggest-boom-winners-20171205/">Biggest property boom winners</a>
 		
 	
 </div>
@@ -576,7 +588,7 @@ GA_googleFillSlot("SWIT_300x600");
 	<a class="name" href="/the-experts/craig-james-economy-expert">Craig James</a>
 	
 		
-			<a href="/the-experts/craig-james-economy-expert/20170623-investor-signposts/">Investor Signposts: The financial year draws to a close</a>
+			<a href="/the-experts/craig-james-economy-expert/craig-james20171208/">Investor signposts</a>
 		
 	
 </div>
@@ -809,35 +821,35 @@ GA_googleFillSlot("Partner_300x100");
 				
          			
 					<li class="sub-nav-article-container">
-				      	<a href="/business-news/inside-markets/higher-oil-iron-ore-prices-boost-shares/">
-				      		<div class="item-img"><img alt="MarketData_200x150_normal" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/6169/MarketData_200x150_normal_original.jpg?1441679579" width="200"></div>
-				      		<div class="item-title">Higher oil, iron ore prices boost shares</div>
+				      	<a href="/business-news/in-the-news/6-things-you-need-to-know-today-20171208/">
+				      		<div class="item-img"><img alt="InTheNews" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5797/InTheNew_Logo_Transparent_V4_normal.jpg?1416429500" width="200"></div>
+				      		<div class="item-title">6 things you need to know today</div>
 				      	</a>
-				      	<div class="item-intro">Higher iron ore and oil prices have helped boost the Australian share market.</div>
+				      	<div class="item-intro">Bitcoin hits $US16,000, same-sex marriage signed off and California wildfires.</div>
 				    </li>
 					
 					<li class="sub-nav-article-container">
-				      	<a href="/business-news/inside-markets/aust-stocks-dip-despite-mining-strength/">
-				      		<div class="item-img"><img alt="MarketData_200x150_normal" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/6169/MarketData_200x150_normal_original.jpg?1441679579" width="200"></div>
-				      		<div class="item-title">Aust stocks dip despite mining strength</div>
-				      	</a>
-				      	<div class="item-intro">The local share market has closed marginally lower on Tuesday despite strong gains posted by financial stocks and miners.</div>
-				    </li>
-					
-					<li class="sub-nav-article-container">
-				      	<a href="/business-news/in-the-news/20170626-5-things-you-need-to-know-today/">
-				      		<div class="item-img"><img alt="InTheNews" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5797/InTheNew_Logo_Transparent_V4_original.jpg?1416429500" width="200"></div>
+				      	<a href="/business-news/in-the-news/5-things-you-need-to-know-today20171207-2/">
+				      		<div class="item-img"><img alt="InTheNews" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5797/InTheNew_Logo_Transparent_V4_normal.jpg?1416429500" width="200"></div>
 				      		<div class="item-title">5 things you need to know today</div>
 				      	</a>
-				      	<div class="item-intro">Auction clearance rates trend below 70% across the combined capitals, total returns on Aussie shares currently up 12.7% over 2016/17, and...</div>
+				      	<div class="item-intro">Trump announces Jerusalem as the capital of Israel, bitcoin tops $13,000 and oil is on the slide.</div>
 				    </li>
 					
 					<li class="sub-nav-article-container">
-				      	<a href="/business-news/in-the-news/20170623-5-things-you-need-to-know-today/">
-				      		<div class="item-img"><img alt="InTheNews" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5797/InTheNew_Logo_Transparent_V4_original.jpg?1416429500" width="200"></div>
+				      	<a href="/business-news/in-the-news/5-things-you-need-to-know-today-20171204/">
+				      		<div class="item-img"><img alt="InTheNews" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5797/InTheNew_Logo_Transparent_V4_normal.jpg?1416429500" width="200"></div>
 				      		<div class="item-title">5 things you need to know today</div>
 				      	</a>
-				      	<div class="item-intro">US share markets finish flat, Domino's Pizza gets burned after Citi analysts turn bearish on the stock, and CEOs brave the cold for a good...</div>
+				      	<div class="item-intro">Russia banned from the Olympics, RBA rate and Trump.</div>
+				    </li>
+					
+					<li class="sub-nav-article-container">
+				      	<a href="/business-news/in-the-news/5-things-you-need-to-know-today-20171205/">
+				      		<div class="item-img"><img alt="InTheNews" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5797/InTheNew_Logo_Transparent_V4_normal.jpg?1416429500" width="200"></div>
+				      		<div class="item-title">7 things you need to know today</div>
+				      	</a>
+				      	<div class="item-intro">Amazon launches, ACCC takes on tech giants, Carmichael mine and more.</div>
 				    </li>
 					
     			
@@ -870,11 +882,11 @@ GA_googleFillSlot("Partner_300x100");
 					
 						<li class="sub-nav-article-container">
 							<span class="expert-name">Peter Switzer</span>
-					      	<a href="/the-experts/peter-switzer-expert/abbott-cant-save-the-libs-or-the-economy-so-who-can/">
-					      		<div class="item-img"><img alt="Peter_Switzer_200x150_original" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/11660/Peter_Switzer_200x150_original_original.jpg?1478550787" width="200"></div>
-					      		<div class="item-title">Abbott can't save the Libs or the economy! So who can?</div>
+					      	<a href="/the-experts/peter-switzer-expert/can-australia-cut-the-fang-companies-down-to-size20171208/">
+					      		<div class="item-img"><img alt="Peter_Switzer_200x150_original" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/11660/Peter_Switzer_200x150_original_normal.jpg?1478550787" width="200"></div>
+					      		<div class="item-title">Can Australia cut the FANG companies down to size?</div>
 					      	</a>
-					      	<div class="item-intro">We need an inspirational leader to nullify the splinter/narrow interest groups who have crept into parliament.</div>
+					      	<div class="item-intro">The world is watching to see if our consumer cops can reign in digital giants Google and Facebook.</div>
 					    </li>
 					
 				
@@ -883,11 +895,11 @@ GA_googleFillSlot("Partner_300x100");
 					
 						<li class="sub-nav-article-container">
 							<span class="expert-name">Paul Rickard</span>
-					      	<a href="/the-experts/paul-rickard/a-b-grade-budget/">
-					      		<div class="item-img"><img alt="PaulRickard200" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/6824/Rickard_copy_original.jpg?1441866273" width="200"></div>
-					      		<div class="item-title">A B-grade Budget</div>
+					      	<a href="/the-experts/paul-rickard/short-sellers-get-smashed-20171207/">
+					      		<div class="item-img"><img alt="rickard_200x150" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/5642/rickard200x150_normal.png?1414617512" width="200"></div>
+					      		<div class="item-title">Short sellers get smashed</div>
 					      	</a>
-					      	<div class="item-intro">Once all the hype about extra infrastructure spending fades, will the NSW Budget unveiled on Tuesday go down as a missed opportunity?</div>
+					      	<div class="item-intro">After so much fanfare, Amazon arrived...and didn’t conquer.</div>
 					    </li>
 					
 				
@@ -896,11 +908,11 @@ GA_googleFillSlot("Partner_300x100");
 					
 						<li class="sub-nav-article-container">
 							<span class="expert-name">David Bassanese</span>
-					      	<a href="/the-experts/david-bassanese/is-moodys-bank-downgrade-cause-for-shock-and-alarm/">
-					      		<div class="item-img"><img alt="DavidBassanesenew200" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/6814/7_original.jpg?1441865844" width="200"></div>
-					      		<div class="item-title">Is Moody's bank downgrade cause for shock and alarm?</div>
+					      	<a href="/the-experts/david-bassanese/banks-a-buy-in-2018-2/">
+					      		<div class="item-img"><img alt="DavidBassanesenew200" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/6814/7_normal.jpg?1433286442" width="200"></div>
+					      		<div class="item-title">Banks a buy in 2018</div>
 					      	</a>
-					      	<div class="item-intro">Global ratings agency Moody’s has marginally downgraded their long-term bank credit ratings - so should we be worried?</div>
+					      	<div class="item-intro">Don’t laugh – I don’t mean local bank stocks.</div>
 					    </li>
 					
 				
@@ -929,7 +941,7 @@ GA_googleFillSlot("Partner_300x100");
 				    
 						<li class="sub-nav-article-container">
 					      	<a href="/your-money/investment-advice/etfs/the-secret-to-building-a-low-cost-portfolio/">
-					      		<div class="item-img"><img alt="James_Dunn_white_bg" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/10282/James_Dunn_white_bg_original.jpg?1465428251" width="200"></div>
+					      		<div class="item-img"><img alt="James_Dunn_white_bg" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/10282/James_Dunn_white_bg_normal.jpg?1465428251" width="200"></div>
 					      		<div class="item-title">The secret to building a low-cost portfolio</div>
 					      	</a>
 					      	<div class="item-intro">One of the greatest weapons that investors have at their disposal is the magic of compounding returns, or earning a return on your return,...</div>
@@ -939,7 +951,7 @@ GA_googleFillSlot("Partner_300x100");
 					
 						<li class="sub-nav-article-container">
 					      	<a href="/your-money/investment-advice/know-the-ceo-before-you-make-an-investment/">
-					      		<div class="item-img"><img alt="StockCharts_200x150" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/4124/StockCharts_200x150_original.jpg?1394509379" width="200"></div>
+					      		<div class="item-img"><img alt="StockCharts_200x150" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/4124/StockCharts_200x150_normal.jpg?1394509379" width="200"></div>
 					      		<div class="item-title">Know the CEO before you make an investment</div>
 					      	</a>
 					      	<div class="item-intro">If investors are to maintain some equilibrium in their investments, they need to rely on the diversification provided by the stocks they...</div>
@@ -949,7 +961,7 @@ GA_googleFillSlot("Partner_300x100");
 					
 						<li class="sub-nav-article-container">
 					      	<a href="/your-money/ask-the-money-coach/how-do-i-go-about-creating-a-portfolio-for-my-son/">
-					      		<div class="item-img"><img alt="Documents_200x150" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/2546/Documents_200x150_original.jpg?1441765038" width="200"></div>
+					      		<div class="item-img"><img alt="Documents_200x150" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/2546/Documents_200x150_normal.jpg?1378445790" width="200"></div>
 					      		<div class="item-title">How do I go about creating a portfolio for my son?</div>
 					      	</a>
 					      	<div class="item-intro">I am helping my son put a portfolio of shares together. He is 21 and was given $50,000 by a relative. How do I go about creating a sound...</div>
@@ -959,7 +971,7 @@ GA_googleFillSlot("Partner_300x100");
 					
 						<li class="sub-nav-article-container">
 					      	<a href="/your-money/value-stocks-with-growth-potential/">
-					      		<div class="item-img"><img alt="Nathan_200x150" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/11217/Nathan_200x150_original.jpg?1474341202" width="200"></div>
+					      		<div class="item-img"><img alt="Nathan_200x150" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/11217/Nathan_200x150_normal.jpg?1474341202" width="200"></div>
 					      		<div class="item-title">Value stocks with growth potential </div>
 					      	</a>
 					      	<div class="item-intro">Investing in value stocks doesn’t mean you have to forgo growth. Let's look at one example.</div>
@@ -992,37 +1004,37 @@ GA_googleFillSlot("Partner_300x100");
 				<div class="video-container">
 				    
 						<li class="sub-nav-article-container">
-					      	<a href="/video/joel-fleming-20170627/">
-					      		<div class="item-img"><img alt="Screen_Shot_2017-06-28_at_2.30.25_pm" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/13461/Screen_Shot_2017-06-28_at_2.30.25_pm_original.png?1498624250" width="200"></div>
-					      		<div class="item-title">Joel Fleming</div>
+					      	<a href="/video/michael-mccarthy20171208/">
+					      		<div class="item-img"><img alt="Screen_Shot_2017-12-08_at_2.30.27_pm" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/14860/Screen_Shot_2017-12-08_at_2.30.27_pm_normal.png?1512703845" width="200"></div>
+					      		<div class="item-title">Michael McCarthy</div>
 					      	</a>
-					      	<div class="item-intro">Microcap expert Joel Fleming from UBS joins Switzer TV to discuss how he's investing and the companies he's watching right now (broadcast on...</div>
+					      	<div class="item-intro">The market hasn't had a positive response to the Trump tax cuts, but stocks turned positive on Thursday afternoon. Michael McCarthy from CMC...</div>
 					    </li>
         			
 						<li class="sub-nav-article-container">
-					      	<a href="/video/steve-hui/">
-					      		<div class="item-img"><img alt="Screen_Shot_2017-06-28_at_2.01.06_pm" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/13459/Screen_Shot_2017-06-28_at_2.01.06_pm_original.png?1498623663" width="200"></div>
-					      		<div class="item-title">Steve Hui</div>
+					      	<a href="/video/andrew-main20171208/">
+					      		<div class="item-img"><img alt="Screen_Shot_2017-12-08_at_2.23.13_pm" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/14859/Screen_Shot_2017-12-08_at_2.23.13_pm_normal.png?1512703439" width="200"></div>
+					      		<div class="item-title">Andrew Main</div>
 					      	</a>
-					      	<div class="item-intro">Steve Hui joins Switzer TV to talk about iFlyFlat, a business that helps you maximise your frequent flyer points, and the upcoming changes...</div>
+					      	<div class="item-intro">Switzer Daily business journalist Andrew Main joins Switzer TV to share his views on the Royal Commission to the banks (broadcast Thursday 7...</div>
 					    </li>
         			
 
         			
 						<li class="sub-nav-article-container">
-					      	<a href="/video/mad-about-money---episode-107/">
-					      		<div class="item-img"><img alt="Mad_Money2_s" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/10577/Mad_Money2_s_original.png?1468368028" width="200"></div>
-					      		<div class="item-title">Mad About Money - Episode 107</div>
+					      	<a href="/video/mad-about-money---episode-130/">
+					      		<div class="item-img"><img alt="madaboutmoney" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/11674/madaboutmoney_normal.png?1478647780" width="200"></div>
+					      		<div class="item-title">Mad About Money - Episode 130</div>
 					      	</a>
-					      	<div class="item-intro">On today's Mad About Money, Paul Rickard and Marty Switzer take a look at this uninspiring local stock market, news from Link and Blackmores...</div>
+					      	<div class="item-intro">In today's Mad About Money, no celebration after Trump's tax announcement, copper prices fall and the retailers fight back. Don't miss it! </div>
 					    </li>
         			
 						<li class="sub-nav-article-container">
-					      	<a href="/video/mad-about-money---episode-106/">
-					      		<div class="item-img"><img alt="Mad_Money2_s" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/10577/Mad_Money2_s_original.png?1468368028" width="200"></div>
-					      		<div class="item-title">Mad About Money - Episode 106</div>
+					      	<a href="/video/mad-about-money---episode-129/">
+					      		<div class="item-img"><img alt="Screen_Shot_2017-11-29_at_9.45.19_am" height="150" src="http://assets.switzer.com.au.global.prod.fastly.net/assets/14760/Screen_Shot_2017-11-29_at_9.45.19_am_normal.png?1511909138" width="200"></div>
+					      		<div class="item-title">Mad About Money - Episode 129</div>
 					      	</a>
-					      	<div class="item-intro">On today's Mad About Money, Paul Rickard and Marty Switzer discuss the stock market, economy and home loan rates, plus provide a review of...</div>
+					      	<div class="item-intro">In today's Mad About Money, there's a new kid on the Wall Street Block, the bank's inquiry and all the latest stock market news.</div>
 					    </li>
         			
 				</div>
@@ -1175,6 +1187,7 @@ _yPageTrack("07GW2CXVR6JLXAAG6KZVGAJG6J");
     <!-- onload popup form -->
 <link rel="stylesheet" href="http://switzer.com.au/stylesheets/subscribe-form.min.css">
 
+
 <script type="text/javascript">
     $(function() {
         var url   = window.location.pathname;
@@ -1227,6 +1240,10 @@ _yPageTrack("07GW2CXVR6JLXAAG6KZVGAJG6J");
                     <label for="fieldjjlhtjt">Phone</label>
                     <input id="fieldjjlhtjt" name="cm-f-jjlhtjt" type="text" required="">
                 </p>
+                <p class="clearfix" style="text-align: center">
+                    <label style="max-width: 250px;">Also subscribe me to Switzer Weekly</label>
+                    <input id="fielddybtjyk-0" name="cm-fo-dybtjyk" value="9675110" type="checkbox" checked="check" style="width: auto; position: absolute;"> <label for="fielddybtjyk-0" style="opacity:0; position:absolute; left:9999px;">Receive our weekly update of only the best bits</label>
+                </p>
                 <p class="clearfix" style="opacity:0; position:absolute; left:9999px;">
                     <label>Switzer Daily</label>
                     <input id="fielddybtjyh-0" name="cm-fo-dybtjyh" value="9675109" type="checkbox" checked="check"> <label for="fielddybtjyh-0">Receive the Switzer Daily emails each weekday morning</label>
@@ -1236,9 +1253,14 @@ _yPageTrack("07GW2CXVR6JLXAAG6KZVGAJG6J");
                     <input id="fielddybtjyu-0" name="cm-fo-dybtjyu" value="9675111" type="checkbox" checked="check"> <label for="fielddybtjyu-0">Receive relevant offers from our partners</label>
                 </p>
                 <p class="clearfix" style="opacity:0; position:absolute; left:9999px;">
-                    <label>Switzer Weekly</label>
-                    <input id="fielddybtjyk-0" name="cm-fo-dybtjyk" value="9675110" type="checkbox" checked="check"> <label for="fielddybtjyk-0">Receive our weekly update of only the best bits</label>
+                    <label>Weekend Switzer</label>
+                    <input id="fielddybtjjl-0" name="cm-fo-dybtjjl" value="9675112" type="checkbox" checked="check"> <label for="fielddybtjjl-0">Receive our Saturday morning updates</label>
                 </p>
+                
+                    <div class="subscribe-captcha">
+                        <div class="g-recaptcha" data-sitekey="6LeNSCwUAAAAAH4BiiHsBOQdFIA8ZtLqif9eVHae"></div>
+                    </div>
+                
                 <p>
                     <button type="button" class="subscribe-button" onclick="register();">REGISTER NOW</button>
                     <a class="hide-popup" onclick="hidePopup();">Don't show this message again.</a>
