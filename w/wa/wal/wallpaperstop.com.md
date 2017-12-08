@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperstop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150831id_/http%3A//www.wallpaperstop.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperstop.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208091014id_/http%3A//www.wallpaperstop.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
