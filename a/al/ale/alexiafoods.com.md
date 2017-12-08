@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the alexiafoods.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014209id_/http%3A//www.conagrafoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexiafoods.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208094018id_/http%3A//www.alexiafoods.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Conagra Brands
+# Privacy Policy | Alexia
+
+Alexia Foods is part of the Conagra Brands, Inc. (“Conagra Brands”) family of brands. This privacy policy is intended to help you understand how Conagra Brands collects and uses your information.
 
 Conagra Brands, Inc., ("Conagra Brands") recognizes that many adults and children who visit our Web site are concerned about how personal information they provide online is maintained and used by Conagra Brands. To address these concerns and to demonstrate our firm commitment to privacy, especially for children who visit our sites, we have developed and implemented this privacy policy so you will know how Conagra Brands gathers, and provides, information. Please review our privacy policy from time to time as we may update or change it periodically.
 
@@ -74,7 +76,7 @@ Back to Top
 
 **CHOICE/OPT-OUT**
 
-Our sites will provide users the opportunity to opt out of receiving communications from us at the point where we request information about the visitor. Simply follow the procedure outlined at each site. Likewise, we will provide users with the opportunity to change any personal information previously provided, or to opt out of receiving future email communication from us. You can also control certain cookies and tracking tools. To learn more about our tracking and how our vendors use cookies and other tracking tools, please [click here](https://web.archive.org/sites/g/files/qyyrlu371/files/2016-11/ConAgra_Foods_About_Our_Ads.pdf).
+Our sites will provide users the opportunity to opt out of receiving communications from us at the point where we request information about the visitor. Simply follow the procedure outlined at each site. Likewise, we will provide users with the opportunity to change any personal information previously provided, or to opt out of receiving future email communication from us. You can also control certain cookies and tracking tools. To learn more about our tracking and how our vendors use cookies and other tracking tools, please [click here](http://www.conagrabrands.com/sites/g/files/qyyrlu371/files/2016-11/ConAgra_Foods_About_Our_Ads.pdf).
 
 Back to Top
 
