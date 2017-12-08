@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the raceit.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616143550id_/http%3A//www.raceit.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceit.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209000743id_/http%3A//www.raceit.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://web.archive.org/)
-
-Call us today! **866-972-2348**
 
 This Privacy Policy is designed to assist you in understanding how we collect, use, and safeguard the personal information you provide to us and to assist you in making informed decisions when using our Web site and our products and services. Race IT is committed to maintaining the privacy of the clients and potential clients alike. Our relationships with our clients and potential clients are of the utmost importance; the trust we’ve developed with them is a paramount concern of ours. We collect two types of information from users of our Web site: (1) personal information you choose to disclose to us; and (2) aggregate information collected on users of our Web site.
 
