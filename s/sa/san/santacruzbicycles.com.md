@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santacruzbicycles.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429103459id_/https%3A//www.santacruzbicycles.com/en-US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santacruzbicycles.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208102428id_/https%3A//www.santacruzbicycles.com/en-US/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Santa Cruz Bicycles
 
