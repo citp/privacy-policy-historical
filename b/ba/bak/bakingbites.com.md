@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bakingbites.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607151848id_/http%3A//bakingbites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakingbites.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208133953id_/http%3A//bakingbites.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Baking Bites
+# Privacy Policy - Baking Bites
 
 **Our Privacy Policy**
 
