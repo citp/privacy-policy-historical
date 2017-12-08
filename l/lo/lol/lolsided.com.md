@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolsided.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042419id_/http%3A//www.lolsided.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolsided.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208111238id_/http%3A//lolsided.com/privacy-policy.php) for the most accurate reproduction.*
 
 # LolSided
 
@@ -77,7 +77,7 @@ We will notify the users via in-site notification within 3 business days.
 
 We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors. 
 
-If you have any questions about our Privacy Policy, feel free to [contact the website](https://web.archive.org/web/20170606042419id_/http%3A//www.lolsided.com/contact.php).
+If you have any questions about our Privacy Policy, feel free to [contact the website](https://web.archive.org/web/20171208111238id_/http%3A//lolsided.com/contact.php).
 
 Last Edited on 27 Mar 2017 
 
