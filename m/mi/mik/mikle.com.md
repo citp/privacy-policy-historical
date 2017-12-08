@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mikle.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217093152id_/http%3A//feed.mikle.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikle.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208092928id_/http%3A//feed.mikle.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FeedWind Support : FeedWind Support
+# Privacy Policy | FeedWind Support : FeedWind Support
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -66,7 +66,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 ### 10.California Online Privacy Protection Act
 
-  * CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – For more information [click here](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf).
+  * CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – For more information [click here](https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf).
 
 
 
@@ -140,7 +140,7 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[Click here to contact us via our website (https://feed.mikle.com)](http://feed.mikle.com/contact/)
+[Click here to contact us via our website (https://feed.mikle.com)](https://feed.mikle.com/contact/)
 
 ### Mailing Address:
 
