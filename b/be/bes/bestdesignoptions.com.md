@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestdesignoptions.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523050334id_/http%3A//allfreedesigns.com/disclaimer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdesignoptions.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208050642id_/http%3A//allfreedesigns.com/disclaimer-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy | All Free Designs
 
