@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aadharcarduidai.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134609id_/http%3A//www.aadharcarduidai.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadharcarduidai.in privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208140112id_/http%3A//www.aadharcarduidai.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Aadhar Card
 
@@ -7,13 +7,17 @@
 
 At **Aadharcarduidai.in** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by  **Aadharcarduidai.in** and how it is used.
 
-**Log Files**  
+ **Personal Information-**
+
+This is an informational blog, We do not ask any confidential information of users like Aadhar Enrollment Number, Aadhar Number, Mobile Number etc.
+
+ **Log Files**  
 Like many other Web sites,  **Aadharcarduidai.in** makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies**  
+ **Cookies**  
 **Aadharcarduidai.in** uses cookies like many other websites. Cookies are small text files saved on your computer, smart phone or any other device used to visit our website. Cookies cannot examine your computer, read data from it or in any other way share personal information stored on your computer with others. Cookies allow users to login without entering their ID and password every time they login to **Aadharcarduidai.in**. Cookies also help us understand how our users use the Site, which allows us to improve our service. We do not use cookies to retrieve any information from your computer.
 
-**DoubleClick DART Cookie**  
+ **DoubleClick DART Cookie**  
 Google, as a third party vendor, uses cookies to serve ads on **Aadharcarduidai.in**.  
 Google’s use of the DART cookie enables it to serve ads to users based on their visit to  **Aadharcarduidai.in** and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
