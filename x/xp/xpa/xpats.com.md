@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpats.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531030713id_/http%3A//www.xpats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpats.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208204530id_/http%3A//www.xpats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The Bulletin
 
