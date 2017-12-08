@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629231752id_/http%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208130837id_/http%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - County of Henrico, Virginia
 
@@ -23,7 +23,7 @@ We use Google Analytics for this service. For more information on their privacy 
 
 ## Disclosure of Information
 
-Our site offers several online services, where users can submit forms to various departments in the County to interact with various services or programs that the County offers. For example, suppose you use the [Restaurant Complaint Form](https://web.archive.org/health/environmental-health/complaint/) to file a complaint about a restaurant in Henrico County. That page asks you to enter personally identifiable information such as your name, address, and phone number. The appropriate agency receives this information, and can only share with other County agencies that might need the information to resolve the issue.
+Our site offers several online services, where users can submit forms to various departments in the County to interact with various services or programs that the County offers. For example, suppose you use the [Restaurant Complaint Form](http://henrico.us/services/restaurant-complaint-form/) to file a complaint about a restaurant in Henrico County. That page asks you to enter personally identifiable information such as your name, address, and phone number. The appropriate agency receives this information, and can only share with other County agencies that might need the information to resolve the issue.
 
 The County of Henrico does not sell or market such information in any way, to anyone. The County of Henrico will disclose such information to third parties only when required to do so by law enforcement.
 
@@ -56,7 +56,7 @@ If you click on these links to visit other sites, you are subject to the privacy
 
 ## Searching our site
 
-Our website offers searching of the site, backed by Google Site Search. The software tracks search terms used on the site, but it does not correlate a search term to a user. We use this data to assist users to find information quicker on common search terms. This software adheres to [Google’s Privacy Policy](https://www.google.com/intl/en/policies/privacy/).
+Our website offers searching of the site, backed by Swiftype. The software tracks search terms used on the site, but it does not correlate a search term to a user. We use this data to assist users to find information quicker on common search terms. This software adheres to [Swiftype’s Privacy Policy](https://swiftype.com/privacy).
 
 ## Traffic Monitoring
 
@@ -66,8 +66,12 @@ We monitor our incoming Internet traffic to protect our network against incoming
 
 All information to and from the web site is unencrypted, unless you choose to use SSL, which is available.
 
+## Photo Usage
+
+Photographs on this website have been taken by various county employees and photographers and are not used for solicitation or advertising purposes. We use photographs taken at Henrico County locations and events which may or may not include the written permission of persons shown in the photos.
+
 ## Updates
 
 Henrico County reserves the right to change these policies and the corresponding information on this page at any time without prior notice.
 
-_Last updated:  July 15, 2016_
+_Last updated:  September 12, 2017_
