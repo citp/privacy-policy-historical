@@ -1,19 +1,48 @@
-> *The following text is extracted and transformed from the free-samples.ca privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114192031id_/http%3A//free-samples.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-samples.ca privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208092432id_/http%3A//freebies.com/pages/privacy) for the most accurate reproduction.*
 
-# Free Samples for Canadians
+# Privacy Policy - Freebies.com
 
-Free-Samples.ca is committed to providing both clients and end-users with the utmost in privacy and security. We abide by all industry guidelines and consistently monitor our policies, practices and operating methods in order to maintain our valued reputation and integrity. This is our promise to our clients, and end-users. 
+#### Freebies.com Privacy Policy
 
-**Type of Information Collected** Our sites offer both free and commercial advertising. Each commercial offer is sponsored by one of our advertisers. Information is collected from the consumer through online forms. Applicants submit their name, address, title, e-mail address, and age along with other demographic information and optional questions chosen by the advertiser. 
+[Freebies.com](http://www.freebies.com/) respects the privacy of its subscribers. This Privacy Policy describes how  [Freebies.com ](http://www.freebies.com/) collects, uses and discloses personal information for the purpose of operating contests and providing information about third party products and services to subscribers. By using [Freebies.com ](http://www.freebies.com/), you consent to the collection, use and disclosure of personal information as described in this Privacy Policy and in our  [Terms & Conditions.](http://www.freebies.com/pages/terms-and-conditions)  
+Please review this Privacy Policy from time-to-time so that you are notified of any changes that may occur.
 
-**Use of Collected Information** Information collected by Free-Samples.ca solely for the purpose of sending you our Free-Samples.ca email will be used only for that purpose. It will not be disclosed or sold to others. Information collected by Free-Samples.ca on behalf of advertisers is the sole property of the advertiser and is shared only with the advertiser. Each advertiser individually controls what is done with the information collected. We host ads and collect the information from consumers on behalf of our client. We only use this information to audit accuracy. We guarantee unique users to our clients, and the auditing procedure ensures that promise. 
+#### Collection and use of personal information
 
-**Member Contact** If the opt-in box is selected on the entry form, we have permission to contact the applicant via electronic or postal mail regarding information, savings, or special offers that relate directly to the information, savings, or special offers that relate directly to the information they have provided. This is opt-in only, meaning that the applicant has complete control in allowing us to contact them. Applicant must opt-in to receive secondary communication from Free-Samples.ca but the policies of our clients may differ. 
+We collect certain information when you sign-up on our site, including such things as your name, email address, telephone number, date of birth, country of residence, date of birth, occupation and areas of interest. This information is used for the following purposes:  
+\- to send you emails with information about third-party offers, including free samples, prize draws, and free trials, etc.;  
+\- to enter you into contests and notify you if you have won;  
+\- to determine which offers are most relevant to you (e.g., based on date of birth, country of residence, occupation and areas of interest).  
+We collect and analyze information about how you interact with our emails (e.g., opens and clicks) to better tailor the future communications that we send to you.  
+Our site also uses "cookies", which are text files placed in your internet browser that contain non-identifying information, such as internet protocol (IP) addresses and browsing behaviour. Cookies may be used to assist in analyzing website traffic in order to improve the user experience on our site.  
 
-**Cookies** Cookies are only used to keep track of log-in names and passwords. A user's e-mail address is automatically logged in when they revisit the site and they do not have to reenter profile information. This is to keep track of preferences and to better tailor the site to the visitor's needs while providing the most effective service to our clients. Information such as IP address internal session ID, user's domain, type of Internet browser, domain of Web site are collected and used only for traffic auditing and analyzing trends. 
 
-**Security** In order to ensure security and protection of collected information, all employees are aware of our security policy and practices. Web security is constantly reviewed. Access to the information is limited and only obtained through codenames and passwords. Any loss, misuse, or alteration of information is prohibited followed by appropriate action and termination of employee. This is to uphold our promise to our clients, affiliate members, and property users. 
+####  Disclosure of personal information 
 
-**Delete/Deactivate** "Deactivating" refers to the process by which Personally Identifiable Information, upon request, is removed. Because of backups and records of deletions, it may be impossible to delete a consumer's entry without some residual information. An individual who requests to have Personally Identifiable Information deactivated will be functionally deleted. We will not sell, transfer, or use the information relating to a deleted individual in any way. To deactivate your account, please click unsubscribe (OPT OUT) at the bottom of one of our emails. 
+Aggregated, non-personal information is shared with advertisers to assist in purchasing decisions and to analyze results from advertising campaigns. [Freebies.com](http://www.freebies.com/) will only share your personal information with advertisers (e.g., name, email address) after notifying you and obtaining your express consent.  
+We may also disclose personal information for the following purposes:  
+(1) in response to a court order, warrant or request from a law enforcement agency;  
+(2) to enforce the [Freebies.com ](http://www.freebies.com/) Terms & Conditions or to protect our rights; or  
+(3) to protect the safety of members of the public and users of the service.   
 
-**Contact Information** Free-Samples.ca abides by the laws and guidelines of the Internet. We welcome any inquiries as to the use of collected information and cookies, product capabilities, or company methods and practices. If you have any questions, comments or corrections regarding personally identifiable information obtained through us, please e-mail to [ privacy@ourfreestuff.com](mailto:privacy@ourfreestuff.com)
+
+#### Unsubscribe
+
+You can unsubscribe from receiving communications from us by clicking the "unsubscribe" link provided at the bottom of all [Freebies.com ](http://www.freebies.com/) emails, or by contacting our Privacy Officer at [contact@freebies.com. ](mailto:contact@freebies.com.)
+
+#### Third-party companies
+
+Our website and the emails that we send provide links to third-party websites. Also, our site may allow you to subscribe to receive offers directly from third-party companies in addition to Freebies.com. As our Privacy Policy only applies to information collected and used by Freebies.com, we cannot be responsible for the privacy policies and/or practices of third-party companies. Please refer to the privacy policies of third-party companies for information about how they collect, use and disclose personal information.
+
+#### Security
+
+Freebies.com has in place administrative, technical and physical safeguards to protect the security of your personal information, including the following:  
+\- Access to data is restricted to those employees who require access;  
+\- Servers are located in a physically controlled area;  
+\- Data is transferred over an encrypted connection; and  
+\- Systems are regularly tested for security vulnerabilities and updated as necessary.  
+We transfer and store personal information on servers located outside of Canada. As such, we may be required to provide law enforcement agencies in foreign jurisdictions with access to personal information. Please contact our Privacy Officer at [contact@freebies.com ](mailto:contact@freebies.com.)for more information about the jurisdictions in which we store personal information. 
+
+#### Access to personal information and how to contact Freebies.com
+
+You have a right to access and to request corrections to personal information that we have about you. If you would like to contact us about your personal information or the practices described in this Privacy Policy, please contact our Privacy Officer at [contact@freebies.com.](mailto:contact@freebies.com.)
