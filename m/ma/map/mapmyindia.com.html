@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mapmyindia.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606093035id_/http%3A//www.mapmyindia.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mapmyindia.com privacy policy that was archived on 2017-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171208083752id_/http%3A//www.mapmyindia.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class="js no-touch history boxshadow csstransforms3d csstransitions video svg webkit chrome linux js sticky-header-enabled sticky-header-active"><head>
 
@@ -241,6 +241,13 @@ html .heading-primary, html .lnk-primary, html .text-color-primary {
 }
 #alert{font-size:13px;display: none;padding:25px 5px 25px 5px;text-align:center;border:1px solid #FFC74D;border-radius:2px;background:#FFFFCC;top:0;left:0%;right:0%;position:fixed;z-index:99999;}		
 
+.ft-gst	
+{	
+	font-size: 10px;
+    padding-left: 4px !important;
+    font-family: "Open Sans", Arial, sans-serif;
+	}
+
 </style>
 
 <footer class="short" id="footer">
@@ -253,21 +260,25 @@ html .heading-primary, html .lnk-primary, html .text-color-primary {
 									
 										<div class="col-md-6">
 											<label><i class="fa fa-user" aria-hidden="true"></i>
-Your name *</label>
+											Your name *</label>
 											<input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" required="">
 										</div>
-										<div class="col-md-6">
-											<label><i class="fa fa-phone" aria-hidden="true"></i> Phone Number</label>
-											<input type="text" value="" data-msg-required="Please enter your contact no." data-msg-email="Please enter contact no." maxlength="100" class="form-control" name="phone" id="phone" required="">
-									  </div>
-									
-								</div>
-                                    <div class="row">
-									
 										<div class="col-md-6">
 											<label><i class="fa fa-envelope-o" aria-hidden="true"></i> Email ID</label>
 											<input type="text" value="" data-msg-required="Please enter your email address." maxlength="100" class="form-control" name="email" id="email" required="">
 										</div>
+									
+								</div>
+								
+								
+                                    <div class="row">
+									
+									<div class="col-md-6">
+											<label><i class="fa fa-phone" aria-hidden="true"></i> Phone Number</label>
+											<input type="text" value="" data-msg-required="Please enter your contact no." data-msg-email="Please enter contact no." maxlength="100" class="form-control" name="phone" id="phone" required="">
+									  </div>
+									
+										
                                         
                                         <div class="col-md-6">
 											<label><i class="fa fa-building-o" aria-hidden="true"></i> Company</label>
@@ -321,6 +332,7 @@ Your name *</label>
 								<li><i class="fa fa-map-marker"></i> <strong>Registered office:</strong> 237, Okhla Industrial Estate, Phase 3 
 New Delhi – 110020</li>
 <li><i class="fa fa-registered"></i><strong>CIN No.:</strong> U74899DL1995PTC065551</li>
+<li><i class="fa ft-gst" style="padding-top: 7px;">GST</i><strong>Provisional GST No.:</strong> 07AAACC5585B1ZW</li>
 								<li><i class="fa fa-phone"></i><strong>Board line:</strong><a href="tel:+91-11-4600-9900"> +91-11-4600-9900 </a></li>
                                 <li><i class="fa fa-fax"></i> <strong>Fax number:</strong> +91-11-4600-9920</li>
 								<li><i class="fa fa-phone"></i><strong>Customer Support</strong>: <a href="tel:+91-9999-333-223">+91-9999-333-223</a></li>
@@ -347,7 +359,7 @@ New Delhi – 110020</li>
 						
 					</div>
                     
-                    <div class="row"><div class="col-md-12">© Copyright 2017.
+                    <div class="row"><div class="col-md-12">© Copyright  <span id="copyright">2020</span>.
 CE Info Systems Pvt. Ltd.
 All Rights Reserved. | <a href="http://www.mapmyindia.com/about/terms-conditions">Terms &amp; Conditions</a> | <a href="http://www.mapmyindia.com/about/privacy-policy">Privacy Policy</a> | <a href="http://www.mapmyindia.com/pdf/mapmyIndia-sustainability-policy-healt-labour-rules-supplir-sustainability.pdf" target="_blank">Supplier Sustainability Policy</a>
 | <a href="http://www.mapmyindia.com/pdf/Health-Safety-Management.pdf" target="_blank">Health &amp; Safety Policy</a>
@@ -375,6 +387,7 @@ function contact()
     var query=$("#interest").val();
     //var url="http://www.mapmyindia.com/contact_save.php";
      var url="http://www.mapmyindia.com/contact_save.php";
+    //var url="/contact_save.php";
     if(req) req.abort();
     var req=$.ajax({type: "POST",url:url,data: "action=contact&name="+name+"&email="+email+"&query="+query+"&phone="+phone+"&city="+city+"&company="+       company+"&message="+message,cache: false,success: function(response)
        {$('#alert').stop().html(response).fadeIn().fadeOut(8000);
@@ -403,6 +416,7 @@ function contact()
             '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
             })(window,document,'script','dataLayer','GTM-P6BWCM');</script>
 		<!-- End GTM -->        
+
 
 </div><script>
 $('#f_cont').load('../footer_home.html');
