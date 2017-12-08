@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeram.org privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324104154id_/http%3A//www.animeram.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeram.org privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208115502id_/https%3A//ww2.animeram.cc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
