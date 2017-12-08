@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agri-insurance.gov.in privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219124016id_/http%3A//agri-insurance.gov.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agri-insurance.gov.in privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208140753id_/http%3A//agri-insurance.gov.in/PrivacyLogin.aspx) for the most accurate reproduction.*
 
 # Crop Insurance
 
