@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazarus-ide.org privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608033600id_/http%3A//wiki.lazarus.freepascal.org/Lazarus_wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazarus-ide.org privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208124117id_/http%3A//wiki.lazarus.freepascal.org/Lazarus_wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Free Pascal wiki:Privacy policy - Lazarus wiki
 
