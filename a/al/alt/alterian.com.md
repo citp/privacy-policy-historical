@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alterian.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427031442id_/http%3A//www.alterian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alterian.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208113349id_/https%3A//www.alterian.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ALTERIAN
+# Privacy Policy | Alterian™
 
 **Last updated November 02, 2016**
 
@@ -8,7 +8,7 @@ Alterian Software Holdings LLC, (“we”, “our”, “us”) operating as Alt
 
 If you have any requests concerning your personal information or any queries with regard to these practices please contact our data manager via email at [privacy@alterian.com](mailto:privacy@alterian.com). Please note that all data thus captured will be used and held in accordance with the requirements of the Data Protection Act 1998.
 
-**INFORMATION WE MAY COLLECT FROM YOU**
+## INFORMATION WE MAY COLLECT FROM YOU
 
 We may collect and process the following personal data about you:
 
@@ -21,7 +21,7 @@ We may collect and process the following personal data about you:
 
 
 
-**USE OF PERSONAL INFORMATION**
+## USE OF PERSONAL INFORMATION
 
 We process personal information for the purposes of:
 
@@ -33,13 +33,13 @@ We process personal information for the purposes of:
 
 
 
-**MARKETING**
+## MARKETING
 
 We will not share identifiable personal data with third parties for the purposes of direct marketing without your explicit consent.
 
 We may use and disclose information in aggregate (so that no individuals are identified) for marketing and strategic development purposes.
 
-**USE OF COOKIES**
+## USE OF COOKIES
 
 In order to improve the website, we may use small files commonly known as “cookies”. A cookie is a small amount of data which often includes a unique identifier that is sent to your computer or mobile phone (referred to in this policy as a ‘device’) from the website and is stored on your device’s hard drive. Our use of cookies also allows certain users to be presented with a personalized version of the site.
 
@@ -49,15 +49,16 @@ For the same reason, we may obtain information about your general internet usage
 
 If you don’t want us to use cookies when you use the website, you can adjust your internet browser settings not to accept cookies. Your web browser’s help function should tell you how to do this.
 
-Alternatively, you can find information about how to do this for all the commonly used internet browsers on the website: [www.aboutcookies.org](https://web.archive.org/web/20170427031442id_/http://www.alterian.com/privacy-policy/www.aboutcookies.org), it also explains how you can delete cookies which are already stored on your device. Please note however that turning off cookies will restrict your use of our website.
+Alternatively, you can find information about how to do this for all the commonly used internet browsers on the website: [www.aboutcookies.org](http://www.aboutcookies.org/), it also explains how you can delete cookies which are already stored on your device. Please note however that turning off cookies will restrict your use of our website.
 
 By continuing to use this website you are agreeing to the use of cookies as detailed above.
 
-**WHERE WE STORE YOUR PERSONAL DATA**
+## WHERE WE STORE YOUR PERSONAL DATA
 
 The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-**DISCLOSURE OF YOUR INFORMATION**  
+## DISCLOSURE OF YOUR INFORMATION
+
 We will only disclose data when obliged to disclose personal data by law, or the disclosure is ‘necessary’ for purposes of national security, taxation and criminal investigation, or we have your consent, and to the following:
 
   * Other companies within our Group of companies;
@@ -68,10 +69,10 @@ We will only disclose data when obliged to disclose personal data by law, or the
 
 
 
-**ACCESS TO INFORMATION**
+## ACCESS TO INFORMATION
 
 You have a right to access the personal data held about you or to obtain a copy of it. We may ask you to verify your identity and for more information about your request. To obtain a copy of the personal information we hold about you, please email [privacy@alterian.com](mailto:privacy@alterian.com). Alternatively you can write to us at Alterian, 1550 Wewatta Street, 2nd floor, Denver, CO 80202, USA.
 
-**AMENDMENTS**
+## AMENDMENTS
 
 Please note that this Privacy Policy is subject to change from time to time. It was last updated on the date shown at the top of this webpage.
