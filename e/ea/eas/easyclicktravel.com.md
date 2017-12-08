@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyclicktravel.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609183621id_/http%3A//www.easyclicktravel.com/info/PagePrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyclicktravel.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208192032id_/http%3A//www.easyclicktravel.com/info/PagePrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Easy Click Travel - Privacy Policy
 
