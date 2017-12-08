@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nocode.tech privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607054107id_/http%3A//www.nocode.tech/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nocode.tech privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208102520id_/http%3A//www.nocode.tech/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - NoCode
+# Privacy Policy
 
 NoCode has created this Privacy Policy in order to demonstrate our firm commitment to helping our users better understand what information we collect about them and what may happen to that information. The following discloses our information gathering and dissemination practices.
 
