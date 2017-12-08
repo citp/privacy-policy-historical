@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208073521id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208140318id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Natural and alternative health and wellness mega-site
 
@@ -22,22 +22,16 @@ HealthWorld Online does not disclose, share, sell or trade any personal or indiv
 
 HealthWorld Online uses a secure server for any ordering and credit card information you provide. The servers use Secure Sockets Layer (SSL), an advanced encryption technology that safeguards your personal information and guarantees privacy. Our check-out process is certified secure and verified by GeoTrust (www.geotrust.com) and we are an Authorize.net certified merchant.
 
-| **"Health is a state of complete physical, mental and social well-being, and not merely the absence of disease and infirmity."**  
+| **"Change your thoughts and you can change your world."**  
 ---  
   
 | 
 
-Simply Well
-
-| [Connect with Nature](https://web.archive.org/scr/Column.aspx?Id=478)  
----  
-The human body needs the touch of nature along with the touch of human skin. Yet too many people have dulled their senses and thus silenced that need. It’s easy to go several months without ever touching... [ more](https://web.archive.org/scr/Column.aspx?Id=478)  
-  
 Fabulous Functional Foods
 
-[Hazelnut Bread](https://web.archive.org/scr/Column.aspx?Id=114)  
+| [Super Oatmeal ](https://web.archive.org/scr/Column.aspx?Id=132)  
 ---  
-Imagine a bread every bit as substantial and savory as wholegrain bread, but containing no grains. Danish chef Oscar Umahro Cadogan brings us this recipe for “Hazelnut Bread” which is suitable for people... [ more](https://web.archive.org/scr/Column.aspx?Id=114)  
+Sometimes, it's the simplest things in life that bring the most pleasure. Danish chef Oscar Umahro Cadogan brings us one of them. "Super Oatmeal" takes very little time to make and nourishes body, soul,... [ more](https://web.archive.org/scr/Column.aspx?Id=132)  
   
 Popular & Featured Events
 
