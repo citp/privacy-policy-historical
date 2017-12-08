@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiandate.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225145331id_/http%3A//www.asiandate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiandate.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208180311id_/https%3A//www.asiandate.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -138,5 +138,3 @@ AsianDate.com reserves the right to change, modify or amend this policy at any t
 ### Effective Date
 
 This privacy statement was last revised on September 1, 2016.
-
-### Registered addresses:
