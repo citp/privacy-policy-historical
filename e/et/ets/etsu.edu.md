@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etsu.edu privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207191828id_/http%3A//www.etsu.edu/etsuhome/documents/WebPrivacyStatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsu.edu privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208212425id_/http%3A//www.etsu.edu/ehome/documents/webprivacystatement.pdf) for the most accurate reproduction.*
 
 # East Tennessee State University Web Privacy Statement
 
@@ -21,10 +21,11 @@ handled.
 ETSU understands the importance of protecting the privacy of personal information, especially
 in today’s electronic environment. This privacy policy covers the Web Pages belonging to ETSU
 in the United States. The ETSU privacy policy on the internet means that:
-    We inform you how we use any personally identifiable information that we gather on our
-    Web Pages.
-    We maintain security and safeguards for any information that we gather on our Web Pages.
-    You have control over the information you decide to submit to us.
+          We inform you how we use any personally identifiable information that we gather on
+           our Web Pages.
+          We maintain security and safeguards for any information that we gather on our Web
+           Pages.
+          You have control over the information you decide to submit to us.
 We provide the following privacy notice to define ETSU's web-based information policies and
 practices and to assist you in protecting your privacy.
 Privacy Notice
@@ -104,49 +105,49 @@ Access Information (automatically collected)
 When you browse our Web Pages, certain statistics are automatically collected for marketing
 and research. This information is housed outside of the University on web servers. This
 information could include but is not limited to:
-        IP address
-        Referring site
+       IP address
+       Referring site
 
 
-        Date and time
-        Operating System
-        Screen Resolution
-        Browser Type
-        Length of stay
-        Hostname
-        Connection Speed
-        Web pages visited
-        Network location
-        Client information: the Internet domain and Internet address of the computer you are
-        using.
-        Essential technical information: identification of the page or service you are requesting,
-        type of browser and operating system you are using; and the date and time of access.
-        Nonessential technical information: the Internet address of the Web site from which
-        you linked directly to our Web site, and the "cookie information" used to direct and
-        tailor information based on your entry path to the site.
-Client information is used to route the requested Web page to your computer for viewing. In
-theory, the requested Web page and the routing information could be discerned by other
-entities involved in transmitting the requested page to you. We do not control the privacy
-practices of those entities.
-We may keep client information from our systems indefinitely after the Web page is
-transmitted, but we do not cross-reference it to the individuals who browse our Web site.
-However, on rare occasions when a "hacker" attempts to breach computer security, logs of
-access information are retained to permit a security investigation. In such cases the logs may
-be further analyzed or forwarded together with any other relevant information in our
-possession to law enforcement agencies.
-Optional information (deliberately sent)
-When you send us an email: your name, e-mail address, and the content of your e-mail.
-When you complete online forms: all the data you choose to fill in or confirm. This may include
-credit or debit card information if you are ordering a product or making a payment, as well as
-information about other people if you are providing it for delivery purposes, etc.
-The Way We Use Information
-Client information is used to route the requested Web page to your computer for viewing. In
-theory, the requested Web page and the routing information could be discerned by other
-entities involved in transmitting the requested page to you. We do not control the privacy
-practices of those entities. Essential and nonessential technical information helps us respond
-to your request in an appropriate format [or in a personalized manner] and helps us plan Web
-site improvements. Optional information enables us to provide services or information tailored
-more specifically to your needs or to forward your message or inquiry to another entity that is
+       Date and time
+       Operating System
+       Screen Resolution
+       Browser Type
+       Length of stay
+       Hostname
+       Connection Speed
+       Web pages visited
+       Network location
+       Client information: the Internet domain and Internet address of the computer you are
+ using.
+       Essential technical information: identification of the page or service you are requesting,
+type of browser and operating system you are using; and the date and time of access.
+       Nonessential technical information: the Internet address of the Web site from which
+you linked directly to our Web site, and the "cookie information" used to direct and tailor
+information based on your entry path to the site.
+ Client information is used to route the requested Web page to your computer for viewing. In
+ theory, the requested Web page and the routing information could be discerned by other
+ entities involved in transmitting the requested page to you. We do not control the privacy
+ practices of those entities.
+ We may keep client information from our systems indefinitely after the Web page is
+ transmitted, but we do not cross-reference it to the individuals who browse our Web site.
+ However, on rare occasions when a "hacker" attempts to breach computer security, logs of
+ access information are retained to permit a security investigation. In such cases the logs may
+ be further analyzed or forwarded together with any other relevant information in our
+ possession to law enforcement agencies.
+ Optional information (deliberately sent)
+ When you send us an email: your name, e-mail address, and the content of your e-mail.
+ When you complete online forms: all the data you choose to fill in or confirm. This may include
+ credit or debit card information if you are ordering a product or making a payment, as well as
+ information about other people if you are providing it for delivery purposes, etc.
+ The Way We Use Information
+ Client information is used to route the requested Web page to your computer for viewing. In
+ theory, the requested Web page and the routing information could be discerned by other
+ entities involved in transmitting the requested page to you. We do not control the privacy
+ practices of those entities. Essential and nonessential technical information helps us respond
+ to your request in an appropriate format [or in a personalized manner] and helps us plan Web
+ site improvements. Optional information enables us to provide services or information tailored
+ more specifically to your needs or to forward your message or inquiry to another entity that is
 
 
 better able to do so, and also allows us to plan Web site improvements.
@@ -189,18 +190,18 @@ to us online in ways unrelated to the purpose described without a clear notice o
 site and without also providing you an opportunity to opt-out or otherwise prohibit such
 unrelated uses. However, when circumstances arise for the need to share information
 gathered from its University Web servers, the University may share as:
-         authorized by law,
-         permitted under University and campus policies,
-         authorized by an approved ETSU contract,
-         clearly stated at a University Web site that such information will be shared and the user
-         indicates consent by providing the information,
-         consent is otherwise given,
-         available certain student and employee demographic information with the ETSU Alumni
-         Association, the ETSU Foundation, applicant students’ high schools and other
-         educational institutions with questions about students who have been admitted or
-         earned a degree from the University, or
-         authorized for good cause by the President or the Provost and Vice President for
-         Academic Affairs of ETSU.
+      authorized by law,
+      permitted under University and campus policies, authorized
+       by an approved ETSU contract,
+      clearly stated at a University Web site that such information will be shared and the user
+       indicates consent by providing the information,
+      consent is otherwise given,
+      available certain student and employee demographic information with the ETSU Alumni
+       Association, the ETSU Foundation, applicant students’ high schools and other
+       educational institutions with questions about students who have been admitted or
+       earned a degree from the University, or
+      authorized for good cause by the President or the Provost and Vice President for
+       Academic Affairs of ETSU.
 Use and Sharing Restrictions
 The data is only used for University-related outreach, service, and development programs.
 The data will be shared only with University staff and student workers that directly need access
@@ -250,22 +251,20 @@ Records Act or other laws to provide specific information, such as some electron
 correspondence sent via the University Web. More information about the University’s
 compliance with the Open Records Act, which provides for public access to certain documents
 and records of public bodies, can be obtained at:
-        http://state.tn.us/comptroller/openrecords/law.htm
+                           https://www.comptroller.tn.gov/openrecords/
 FERPA
 ETSU also complies with the Family Educational Rights and Privacy Act (FERPA), which generally
 prohibits the release of student education records without student permission. For more
 details on FERPA, see the explanation at:
-        http://www.etsu.edu/students/spectrum/pfp.htm#a1
+                                 http://catalog.etsu.edu/index.php
 However, FERPA does permit the release of public or “directory” information about students.
-Information about suppressing the release of “directory” information can be obtained at:
-
-
-        http://www.etsu.edu/students/spectrum/pd.htm#a12
 Use of Cookies
 Essential and nonessential technical information lets us respond to your request in an
 appropriate format [or in a personalized manner] and helps us plan Web site improvements.
 To expedite this process, some official ETSU Web sites use "cookies." Usually a cookie enables
 the university Web site to tailor what you see according to the way you entered the site (i.e., if
+
+
 you entered by pushing a button identifying yourself as a student, your subsequent views of
 information might be tailored for student audiences).
 We also use non-identifying and aggregate information to better design our Web site. For
