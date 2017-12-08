@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weatheronline.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630211057id_/http%3A//www.weatheronline.co.uk/about/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatheronline.co.uk privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208131027id_/https%3A//www.weatheronline.co.uk/about/Privacy.htm) for the most accurate reproduction.*
 
-# WeatherOnline Ltd. : Privacy Weather UK weatheronline.co.uk
+# WeatherOnline : Privacy Weather UK weatheronline.co.uk
 
 This website was last updated on 18 Oct 2013.
 
@@ -63,11 +63,11 @@ The security of the information you provide to WeatherOnline's online services i
 
 **Making changes/opt-out**
 
-To make changes to your preferences, update your personally identifiable information, unsubscribe to any e-mail subscriptions or to opt-out of any services, please contact us directly at cirrus@weatheronline.co.uk. 
+To make changes to your preferences, update your personally identifiable information, unsubscribe to any e-mail subscriptions or to opt-out of any services, please contact us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Changes to our privacy policy**
 
 This privacy policy may occasionally be updated or amended therefore we advise you to revisit this page regularly.   
 **How to contact us**
 
-If you have any questions about this privacy statement, the practices of WO online services, or your dealings with WO online services, you can contact us at cirrus@weatheronline.co.uk 
+If you have any questions about this privacy statement, the practices of WO online services, or your dealings with WO online services, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
