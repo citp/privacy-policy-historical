@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the therepublic.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613063121id_/http%3A//www.therepublic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therepublic.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208015429id_/http%3A//www.therepublic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Republic
 
 This is the Privacy Policy for all Web sites owned or operated by Aim Media Indiana  (“Aim” “we” or “our”), including, without limitation the Web sites listed (collectively, the “Site”). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to this Site.
 
- **Managing Information Preferences**
+**Managing Information Preferences**
 
 We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or if you wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at:
 
@@ -16,7 +16,7 @@ E-mail: webstaff@aimmediaindiana.com
 
 If you would like to correct, update, or change your personal information with us please contact us the same way.
 
- **What Types Of Information Do We Collect?**
+**What Types Of Information Do We Collect?**
 
 We collect information that may personally identify you (such as your name, address, telephone number, email address, billing information, or other data which can be reasonably linked to such information) only if you choose to share such information with us. For example, we may collect personal information from you when you register on the Site, subscribe to one of our services, enter sweepstakes, contests or other promotions, and at other times. We also collect credit card information in connection with any purchase you make on or through the Site. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Site or other services.
 
@@ -24,7 +24,7 @@ We may automatically collect non-personal information that does not identify an 
 
 We also use cookies (a small file containing a string of characters that uniquely identifies your Web browser) and Web beacons (an electronic file placed within a Web site that monitors usage). We use cookies and Web beacons to improve the quality of the Site. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Certain of our Service Providers (defined below) may use cookies and Web beacons in connection with the services they perform on our behalf, including, without limitation, ad serving.
 
- **How Do We Use The Information We Collect?**
+**How Do We Use The Information We Collect?**
 
 We will not sell, share, or rent personal information to third parties, and we will not otherwise disclose personal information to third parties, without your permission, except as disclosed in this Privacy Policy.
 
@@ -50,23 +50,23 @@ We may work with third-party advertising companies which may use information abo
 
 Although unlikely, in certain instances we may disclose your personal information when we have reason to believe it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to AIM or its affiliates, or to others. We may also disclose your personal information when we believe the law or legal process requires such disclosure. Please note that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your personal information to be shared or transferred to third parties without your permission.
 
- **Security**
+**Security**
 
 We use encryption and authentication tools to protect the security of personal information that you share with us. However, no data transmission over the Internet (or, with respect to our mobile services, over cellular phone networks) can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Site, and you do so at your own risk.
 
- **Links To Third-Party Web Sites**
+**Links To Third-Party Web Sites**
 
 The Site may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. You should always read the privacy policy of a linked Web site before disclosing any personal information on such site.
 
- **Discussion Board, Forums and Other User Generated Content**
+**Discussion Board, Forums and Other User Generated Content**
 
 Our online chat areas, bulletin boards, social networks, mobile messaging services, other public forums and user-generated content (i.e., photos, videos) can be a useful way for you to express yourself to other online users. When you post messages or otherwise use these features, the information that you provide (including personal information) may be publicly available to, collected by, and used by third parties. We are not responsible for the content of such messages or images posted by users or such disclosures of personal information.
 
- **Children’s Privacy Statement**
+**Children’s Privacy Statement**
 
 We do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records.
 
- **Policy Changes**
+**Policy Changes**
 
 If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.
 
