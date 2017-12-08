@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogmint.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229221734id_/https%3A//www.blogmint.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogmint.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208134341id_/http%3A//blogmint.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Blogmint
 
@@ -32,3 +32,7 @@ Mampang Prapatan, Daerah Khusus Ibukota
 Jakarta 12710, Indonesia ** **Logix Techno Park, Tower B, 4th Floor  
 Sector - 127, Noida  
 Uttar Pradesh, INDIA. **
+
+**3rd Floor, Sahukar's Building #721,  
+CMH Road, Indranagar 1st Stage,  
+Bengaluru - 560038. **
