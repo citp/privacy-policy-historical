@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the witmart.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624014527id_/http%3A//www.witmart.com/help/truste.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witmart.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208055537id_/http%3A//www.witmart.com/help/truste.html) for the most accurate reproduction.*
 
 # Cancellation and Refund Policy - Witmart.com
 
@@ -120,7 +120,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-10611 Harwin Drive, Suite 402 Houston, TX 77036
+10611 Harwin Drive, Suite 406 Houston, TX 77036
 
 322 King Street West Suite #402 Toronto, ON M5V 1J2 Canada
 
