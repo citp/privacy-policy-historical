@@ -1,36 +1,36 @@
-> *The following text is extracted and transformed from the designbootstrap.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206202937id_/http%3A//www.designbootstrap.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbootstrap.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208192559id_/http%3A//www.designbootstrap.com/terms-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Design Bootstrap
 
-**PrivacyÂ  Policy.**
+**Privacy  Policy.**
 
-ThisÂ PrivacyÂ PolicyÂ wasÂ lastÂ modifiedÂ on 01 May 2015.
+This Privacy Policy was last modified on 01 May 2015.
 
-ThisÂ pageÂ informsÂ youÂ ofÂ ourÂ policiesÂ regardingÂ theÂ collection,Â useÂ andÂ disclosureÂ  ofÂ PersonalÂ InformationÂ weÂ receiveÂ fromÂ usersÂ ofÂ theÂ Site.Â  Â  WeÂ useÂ yourÂ PersonalÂ InformationÂ onlyÂ forÂ providingÂ andÂ improvingÂ theÂ Site.Â ByÂ usingÂ theÂ Site,Â  youÂ agreeÂ toÂ theÂ collectionÂ andÂ useÂ ofÂ informationÂ inÂ accordanceÂ withÂ thisÂ policy.
+This page informs you of our policies regarding the collection, use and disclosure  of Personal Information we receive from users of the Site.    We use your Personal Information only for providing and improving the Site. By using the Site,  you agree to the collection and use of information in accordance with this policy.
 
-**1\. InformationÂ  CollectionÂ AndÂ Use.**
+**1\. Information  Collection And Use.**
 
-WhileÂ usingÂ ourÂ Site,Â weÂ mayÂ askÂ youÂ toÂ provideÂ usÂ withÂ certainÂ personallyÂ identifiableÂ informationÂ  thatÂ canÂ beÂ usedÂ toÂ contactÂ orÂ identifyÂ you.Â PersonallyÂ identifiableÂ informationÂ mayÂ include,Â butÂ is notÂ limitedÂ toÂ yourÂ name and Email address(“PersonalÂ Information”).
+While using our Site, we may ask you to provide us with certain personally identifiable information  that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name and Email address(“Personal Information”).
 
-**2\. LogÂ  Data.**
+**2\. Log  Data.**
 
-LikeÂ manyÂ siteÂ operators,Â weÂ collectÂ informationÂ thatÂ yourÂ browserÂ sendsÂ wheneverÂ youÂ visitÂ ourÂ  SiteÂ (“LogÂ Data”).Â ThisÂ LogÂ DataÂ mayÂ includeÂ informationÂ suchÂ asÂ yourÂ computer’sÂ InternetÂ  ProtocolÂ (“IP”)Â address,Â browserÂ type,Â browserÂ version,Â theÂ pagesÂ ofÂ ourÂ SiteÂ thatÂ youÂ visit,Â theÂ  timeÂ andÂ dateÂ ofÂ yourÂ visit,Â theÂ timeÂ spentÂ onÂ thoseÂ pagesÂ andÂ otherÂ statistics.Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  â€‹
+Like many site operators, we collect information that your browser sends whenever you visit our  Site (“Log Data”). This Log Data may include information such as your computer’s Internet  Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the  time and date of your visit, the time spent on those pages and other statistics.                          ​
 
 **3\. Cookies**
 
-CookiesÂ areÂ filesÂ withÂ smallÂ amountÂ ofÂ data,Â whichÂ mayÂ includeÂ anÂ anonymousÂ uniqueÂ identifier.Â  CookiesÂ areÂ sentÂ toÂ yourÂ browserÂ fromÂ aÂ webÂ siteÂ andÂ storedÂ onÂ yourÂ computer’sÂ hardÂ drive.Â  Â  LikeÂ manyÂ sites,Â weÂ useÂ “cookies”Â toÂ collectÂ information.Â YouÂ canÂ instructÂ yourÂ browserÂ toÂ refuseÂ  allÂ cookiesÂ orÂ toÂ indicateÂ whenÂ aÂ cookieÂ isÂ beingÂ sent.Â However,Â ifÂ youÂ doÂ notÂ acceptÂ cookies,Â youÂ  mayÂ notÂ beÂ ableÂ toÂ useÂ someÂ portionsÂ ofÂ ourÂ Site.
+Cookies are files with small amount of data, which may include an anonymous unique identifier.  Cookies are sent to your browser from a web site and stored on your computer’s hard drive.    Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse  all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you  may not be able to use some portions of our Site.
 
 **4\. Security.**
 
-TheÂ securityÂ ofÂ yourÂ PersonalÂ InformationÂ isÂ importantÂ toÂ us,Â butÂ rememberÂ thatÂ noÂ methodÂ ofÂ  transmissionÂ overÂ theÂ Internet,Â orÂ methodÂ ofÂ electronicÂ storage,Â isÂ 100%Â secure.Â WhileÂ weÂ striveÂ toÂ  useÂ commerciallyÂ acceptableÂ meansÂ toÂ protectÂ yourÂ PersonalÂ Information,Â weÂ cannotÂ guaranteeÂ  itsÂ absoluteÂ security.
+The security of your Personal Information is important to us, but remember that no method of  transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to  use commercially acceptable means to protect your Personal Information, we cannot guarantee  its absolute security.
 
-**5\. ChangesÂ  ToÂ ThisÂ PrivacyÂ Policy**
+**5\. Changes  To This Privacy Policy**
 
-Designbootstrap.comâ€‹Â mayÂ updateÂ thisÂ PrivacyÂ PolicyÂ fromÂ timeÂ toÂ time.Â WeÂ willÂ notifyÂ  youÂ ofÂ anyÂ changesÂ byÂ postingÂ theÂ newÂ PrivacyÂ PolicyÂ onÂ theÂ Site.Â YouÂ areÂ advisedÂ toÂ reviewÂ thisÂ  PrivacyÂ PolicyÂ periodicallyÂ forÂ anyÂ changes.
+Designbootstrap.com​ may update this Privacy Policy from time to time. We will notify  you of any changes by posting the new Privacy Policy on the Site. You are advised to review this  Privacy Policy periodically for any changes.
 
-**6\. ContactÂ  Us.**
+**6\. Contact  Us.**
 
-IfÂ youÂ haveÂ anyÂ questionsÂ aboutÂ thisÂ PrivacyÂ Policy,Â pleaseÂ contactÂ us at **info@designbootstrap.com**
+If you have any questions about this Privacy Policy, please contact us at **info@designbootstrap.com**
 
 Thanks
 
