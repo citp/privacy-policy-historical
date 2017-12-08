@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihiphopmusic.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608023506id_/http%3A//www.ihiphopmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihiphopmusic.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208102640id_/http%3A//www.ihiphopmusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -94,4 +94,4 @@ http://www.ihiphopmusic.com/
 45 Grant Ave  
 Brentwood, New York 11717  
 Untied States  
-chozen@digitalswagg.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
