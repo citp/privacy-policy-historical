@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onsemi.com privacy policy that was archived on 2017-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170602164024id_/http%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109%26lcnt%3Dfoot) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onsemi.com privacy policy that was archived on 2017-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171208220208id_/http%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,11 +16,11 @@
 <meta name="google-site-verification" content="Q0T0OzmiC6U-o9N3BgHQno8NWyK_TvuZBvjxw34Ysu0">
 <meta property="twitter:account_id" content="44640024">
 <meta name="DESCRIPTION" content="ON Semiconductor is committed to protecting your privacy. This policy explains how we handle information we learn about you while you visit our site. The information that we receive depends on what you do during your visit, and what service(s) you request.">
-<link rel="alternate" href="http://www.onsemi.com/PowerSolutions/content.do?id=1109&amp;lcnt=foot" hreflang="x-default">
-<link rel="alternate" href="http://www.onsemi.com/PowerSolutions/content.do?id=1109&amp;lcnt=foot" hreflang="en">
-<link rel="alternate" href="http://www.onsemi.cn/PowerSolutions/content.do?id=1109&amp;lcnt=foot" hreflang="zh">
-<link rel="alternate" href="http://www.onsemi.jp/PowerSolutions/content.do?id=1109&amp;lcnt=foot" hreflang="ja">
-<link rel="alternate" href="http://www.onsemi.ru.com/PowerSolutions/content.do?id=1109&amp;lcnt=foot" hreflang="ru">	<link rel="stylesheet" type="text/css" href="/site/css/style.ncv20150630.css">
+<link rel="alternate" href="http://www.onsemi.com/PowerSolutions/content.do?id=1109" hreflang="x-default">
+<link rel="alternate" href="http://www.onsemi.com/PowerSolutions/content.do?id=1109" hreflang="en">
+<link rel="alternate" href="http://www.onsemi.cn/PowerSolutions/content.do?id=1109" hreflang="zh">
+<link rel="alternate" href="http://www.onsemi.jp/PowerSolutions/content.do?id=1109" hreflang="ja">
+<link rel="alternate" href="http://www.onsemi.ru.com/PowerSolutions/content.do?id=1109" hreflang="ru">	<link rel="stylesheet" type="text/css" href="/site/css/style.ncv20150630.css">
 <link rel="stylesheet" type="text/css" href="/site/css/jquery-ui-1.12.1.theme.min.css">
 <link rel="stylesheet" type="text/css" href="/site/css/jquery-ui-1.12.1.min.css">
 <link rel="stylesheet" type="text/css" href="/site/css/myon/login.css">
@@ -31,12 +31,14 @@
 <script src="/site/js/scripts.js" type="text/javascript"></script>
 <script src="/site/js/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="/site/js/jquery-ui-1.12.1.min.js" type="text/javascript"></script>
-<script src="/site/js/jquery.autocomplete.js" type="text/javascript"></script>
 <script src="/site/js/login.js" type="text/javascript"></script>
+<script src="/site/js/jquery.cookie.js" type="text/javascript"></script>
 <script src="/site/js/hoverIntent.js" type="text/javascript"></script>
 <script src="/site/js/headerProductsFloatingMenu.js" type="text/javascript"></script>
 <script src="/site/js/munchkin.js" type="text/javascript"></script>
 <script src="/site/js/gatedDocuments.js" type="text/javascript"></script>
+<script src="/site/js/typeAhead.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/site/css/typeAhead.css">
 <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
 <script type="text/javascript">
     window.cookieconsent_options = {
@@ -58,6 +60,8 @@
 
 
 
+<script src="/site/js/marketo.js"></script>
+    
 <!-- Google Tag Manager -->
 
 <script>dataLayer = [];</script>
@@ -66,7 +70,40 @@
             dataLayer.push({'USER-MYON-LOGIN-STATUS': 0});        
         </script>
     <script>
-    dataLayer.push({'USER-MKTO-COOKIE': getCookie('_mkto_trk')});    
+
+var gaPushLoginCookieName = 'gaPushLogin';
+
+if (readCookie(gaPushLoginCookieName) == 'true') {
+    dataLayer.push({'event': 'USR-MYON-LOGIN'});
+    eraseSiteCookie(gaPushLoginCookieName);
+}
+
+pushToMarketo('https://www.onsemi.com');
+
+$(document).ready(function() {
+    
+    $('.gaSearch.simpleSearchForm').on('submit', function() {        
+        if ($(this).data('eventaction')) {
+            dataLayer.push({            
+                'eventCategory': 'SEARCH',
+                'eventAction': $(this).data('eventaction'),    
+                'eventLabel': $(this).find('.simpleSearchText').val(),
+                'event': 'universalSearchEvent'
+            });
+        }
+    });
+    
+    $('.gaSearch:has(> table.multiSearchForm)').on('submit', function() {
+        if ($(this).data('eventaction')) {
+            dataLayer.push({            
+                'eventCategory': 'SEARCH',
+                'eventAction': $(this).data('eventaction'),    
+                'eventLabel': $(this).find('.multiSearchText').val(),
+                'event': 'universalSearchEvent'
+            });
+        }
+    });    
+});
 </script>
 
 <script>
@@ -112,11 +149,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <table cellspacing="0" cellpadding="0" class="top-nav" border="0" style="margin-right: 5px;">
                             <tbody>
                             <tr style="height: 22px;">
-                                <td><a href="http://www.onsemi.cn/PowerSolutions/content.do?id=1109&amp;lcnt=foot" style="font-size: 12px" title="chinese"> 简体中文 </a></td>
+                                <td><a ga-on="click" ga-event-action="CHANGE" ga-event-category="USR-FOCUS-LANGUAGE" ga-event-label="zh-cn" href="http://www.onsemi.cn/PowerSolutions/content.do?id=1109" style="font-size: 12px" title="chinese"> 简体中文 </a></td>
 		    <td>&nbsp;|&nbsp;</td>
-		<td><a href="http://www.onsemi.jp/PowerSolutions/content.do?id=1109&amp;lcnt=foot" style="font-size: 12px" title="japanese"> 日本語 </a></td>
+		<td><a ga-on="click" ga-event-action="CHANGE" ga-event-category="USR-FOCUS-LANGUAGE" ga-event-label="ja-jp" href="http://www.onsemi.jp/PowerSolutions/content.do?id=1109" style="font-size: 12px" title="japanese"> 日本語 </a></td>
 		    <td>&nbsp;|&nbsp;</td>
-		    <td><a href="http://www.onsemi.ru.com/PowerSolutions/content.do?id=1109&amp;lcnt=foot" title="russian"> Русский </a></td>
+		    <td><a ga-on="click" ga-event-action="CHANGE" ga-event-category="USR-FOCUS-LANGUAGE" ga-event-label="ru-ru" href="http://www.onsemi.ru.com/PowerSolutions/content.do?id=1109" title="russian"> Русский </a></td>
 		</tr>
                             </tbody>
                         </table>
@@ -212,7 +249,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <table cellspacing="0" class="ul">
     <tbody><tr class="li">
         <td style="padding: 0;">
-            <div style="width: 900px;">
+            <div style="width: 1260px;">
                 <div style="border-bottom: 2px solid black;">
                     <table id="productsMenuHomePage" style="border-spacing: 0;">
                         <tbody><tr class="productsMenuHomePageTabRow">
@@ -224,14 +261,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </td>
 
                             <td class="menuText secondMenuItem menuTabLight">
-                                <a href="/PowerSolutions/content.do?id=10049">
-                                    <div>Product Services</div>
+                                <a href="/PowerSolutions/newProducts.do">
+                                    <div>New Products</div>
                                 </a>
                             </td>
 
                             <td class="menuText menuTabLight">
-                                <a href="/PowerSolutions/newProducts.do">
-                                    <div>New Products</div>
+                                <a href="/PowerSolutions/content.do?id=10049">
+                                    <div>Product Services</div>
                                 </a>
                             </td>
 
@@ -242,12 +279,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div style="padding: 0px 10px; margin-top: 10px">
     <table width="100%" height="100%">
         <tbody><tr>
-            <td valign="top" style="max-width: 280px">
+            <td valign="top" style="max-width: 180px">
                 <table style="width: 100%;">
                     <tbody><tr>
-                        <td style="font-weight: bold; font-size: 13px; white-space: nowrap;">
+                        <td style="font-weight: bold; font-size: 13px; white-space: normal;">
                             <div style="background: url('/site/images/tabs.png') 0 -631px no-repeat; width:13px; height:13px; display: inline-block; padding: 0 0 2px;"></div>
-                            <span style="position: relative; bottom: 4px; color: black;">Connectivity, Custom, and SoC</span>
+                            <span style="position: relative; bottom: 4px; color: black;"><a style="color: black;" href="/PowerSolutions/mainTaxonomy.do?id=1">Connectivity, Custom, &amp; SoC</a></span>
                         </td>
                     </tr>
                     <tr>
@@ -266,7 +303,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID101532_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=101538">
                   <div>
-                    Audio ASSP&nbsp;(15)</div>
+                    Audio ASSP&nbsp;(14)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
@@ -284,7 +321,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=101537">
                   <div>
-                    Display Controllers&nbsp;(5)</div>
+                    Display Controllers&nbsp;(2)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
@@ -293,10 +330,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     LCD Drivers&nbsp;(33)</div>
                 </a>
                     </div>
-<div class="bottomItemTopMenu">
+<div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=101743">
                   <div>
-                    MMICs&nbsp;(7)</div>
+                    MMICs&nbsp;(6)</div>
+                </a>
+                    </div>
+<div class="bottomItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17660">
+                  <div>
+                    Video Conditioning&nbsp;(19)</div>
                 </a>
                     </div>
 </div>
@@ -310,7 +353,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID16960_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=178">
                   <div>
-                    Wired Transceivers &amp; Modems&nbsp;(40)</div>
+                    Wired Transceivers &amp; Modems&nbsp;(44)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
@@ -323,7 +366,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="firstLevelTaxTopMenu" id="tax_ID16617_TopMenu"><div class="headingTopMenu">
             <a href="/PowerSolutions/content.do?id=16617">
                 <div class="headingBulletTopMenu">»&nbsp;</div>
-                <div class="headingTextTopMenu">ASICs</div>
+                <div class="headingTextTopMenu">SoC, SiP, &amp; Custom Products</div>
             </a>
         </div>
       </div>
@@ -334,21 +377,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/content.do?id=18825">
+                  <div>
+                    System-in-Package&nbsp;</div>
+                </a>
+                    </div>
+<div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/content.do?id=16621">
                   <div>
                     ASIC Technology&nbsp;</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
-    <a style="text-decoration: none;" href="/PowerSolutions/content.do?id=16622">
+    <a style="text-decoration: none;" href="/PowerSolutions/content.do?id=16789">
                   <div>
-                    Mixed-Signal ASIC&nbsp;</div>
+                    ASIC-to-ASIC Conversion&nbsp;</div>
+                </a>
+                    </div>
+<div class="middleItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/content.do?id=16788">
+                  <div>
+                    FPGA-to-ASIC Conversion&nbsp;</div>
+                </a>
+                    </div>
+<div class="middleItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/content.do?id=17084">
+                  <div>
+                    Custom Image Sensors&nbsp;</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
-    <a style="text-decoration: none;" href="/PowerSolutions/content.do?id=18825">
+    <a style="text-decoration: none;" href="/PowerSolutions/content.do?id=16699">
                   <div>
-                    System-in-Package&nbsp;</div>
+                    Integrated Passive Devices&nbsp;</div>
                 </a>
                     </div>
 </div>
@@ -360,32 +421,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 <div class="floatingMenuTopMenu" id="ID16558_TopMenu"><div class="topItemTopMenu">
-    <a style="text-decoration: none;" href="/PowerSolutions/content.do?id=18579">
-                  <div>
-                    External  Intellectual Property&nbsp;</div>
-                </a>
-                    </div>
-<div class="bottomItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/content.do?id=18397">
                   <div>
                     Manufacturing Processes&nbsp;</div>
                 </a>
                     </div>
+<div class="bottomItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/content.do?id=18579">
+                  <div>
+                    External  Intellectual Property&nbsp;</div>
+                </a>
+                    </div>
 </div>
-<div class="firstLevelTaxTopMenu" id="tax_ID17084_TopMenu"><div class="headingTopMenu">
-            <a href="/PowerSolutions/content.do?id=17084">
-                <div class="headingBulletTopMenu">»&nbsp;</div>
-                <div class="headingTextTopMenu">Custom Image Sensors</div>
-            </a>
-        </div>
-      </div>
-<div class="firstLevelTaxTopMenu" id="tax_ID16699_TopMenu"><div class="headingTopMenu">
-            <a href="/PowerSolutions/content.do?id=16699">
-                <div class="headingBulletTopMenu">»&nbsp;</div>
-                <div class="headingTextTopMenu">Integrated Passive Devices</div>
-            </a>
-        </div>
-      </div>
 </td>
 </tr>
 </tbody></table>
@@ -393,12 +440,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </tr>
                 </tbody></table>
             </td>
-            <td valign="top" style="max-width: 280px">
+            <td valign="top" style="max-width: 180px">
                 <table style="width: 100%;">
                     <tbody><tr>
-                        <td style="font-weight: bold; font-size: 13px; white-space: nowrap;">
+                        <td style="font-weight: bold; font-size: 13px; white-space: normal;">
                             <div style="background: url('/site/images/tabs.png') 0 -631px no-repeat; width:13px; height:13px; display: inline-block; padding: 0 0 2px;"></div>
-                            <span style="position: relative; bottom: 4px; color: black;">Sensors</span>
+                            <span style="position: relative; bottom: 4px; color: black;"><a style="color: black;" href="/PowerSolutions/mainTaxonomy.do?id=17040">Sensors</a></span>
                         </td>
                     </tr>
                     <tr>
@@ -417,19 +464,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID2209_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=16880">
                   <div>
-                    Image Processors&nbsp;(8)</div>
+                    Image Processors&nbsp;(10)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=2213">
                   <div>
-                    Image Sensor Modules&nbsp;(5)</div>
+                    Image Sensor Modules&nbsp;(7)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=101682">
                   <div>
-                    Image Sensors&nbsp;(137)</div>
+                    Image Sensors&nbsp;(147)</div>
                 </a>
                     </div>
 </div>
@@ -443,7 +490,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID16942_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=2208">
                   <div>
-                    Ambient Light Sensors&nbsp;(7)</div>
+                    Ambient Light Sensors&nbsp;(11)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
@@ -469,7 +516,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="bottomItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=2127">
                   <div>
-                    Temperature Sensors&nbsp;(23)</div>
+                    Temperature Sensors&nbsp;(20)</div>
                 </a>
                     </div>
 </div>
@@ -494,12 +541,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </tr>
                 </tbody></table>
             </td>
-            <td valign="top" style="max-width: 280px">
+            <td valign="top" style="max-width: 180px">
                 <table style="width: 100%;">
                     <tbody><tr>
-                        <td style="font-weight: bold; font-size: 13px; white-space: nowrap;">
+                        <td style="font-weight: bold; font-size: 13px; white-space: normal;">
                             <div style="background: url('/site/images/tabs.png') 0 -631px no-repeat; width:13px; height:13px; display: inline-block; padding: 0 0 2px;"></div>
-                            <span style="position: relative; bottom: 4px; color: black;">Power Management</span>
+                            <span style="position: relative; bottom: 4px; color: black;"><a style="color: black;" href="/PowerSolutions/mainTaxonomy.do?id=3">Power Management</a></span>
                         </td>
                     </tr>
                     <tr>
@@ -518,25 +565,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID448_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=976">
                   <div>
-                    Off-Line Controllers&nbsp;(82)</div>
+                    Offline Controllers&nbsp;(86)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=449">
                   <div>
-                    Off-Line Regulators&nbsp;(34)</div>
+                    Offline Regulators&nbsp;(106)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=981">
                   <div>
-                    Power Factor Controllers&nbsp;(22)</div>
+                    Power Factor Controllers&nbsp;(43)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=979">
                   <div>
-                    Secondary Side Controllers&nbsp;(12)</div>
+                    Secondary Side Controllers&nbsp;(20)</div>
                 </a>
                     </div>
 </div>
@@ -550,25 +597,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID167_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=106">
                   <div>
-                    Battery Charge Controllers&nbsp;(9)</div>
+                    Battery Charge Controllers&nbsp;(17)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=793">
                   <div>
-                    Charge Pumps&nbsp;(5)</div>
+                    Charge Pumps&nbsp;(6)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=145">
                   <div>
-                    Controllers&nbsp;(88)</div>
+                    Controllers&nbsp;(165)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=149">
                   <div>
-                    Converters&nbsp;(132)</div>
+                    Converters&nbsp;(192)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
@@ -580,7 +627,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="bottomItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=366">
                   <div>
-                    Linear Voltage Regulators&nbsp;(326)</div>
+                    Linear Voltage Regulators&nbsp;(410)</div>
                 </a>
                     </div>
 </div>
@@ -594,63 +641,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID16200_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=16160">
                   <div>
-                    AC-DC LED Drivers&nbsp;(26)</div>
+                    AC-DC LED Drivers&nbsp;(58)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=16180">
                   <div>
-                    DC-DC LED Drivers&nbsp;(33)</div>
+                    DC-DC LED Drivers&nbsp;(36)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=197">
                   <div>
-                    Linear LED Drivers&nbsp;(46)</div>
+                    Linear LED Drivers&nbsp;(60)</div>
                 </a>
                     </div>
 </div>
 <div class="firstLevelTaxTopMenu" id="tax_ID210_TopMenu"><div class="headingTopMenu">
             <a href="/PowerSolutions/taxonomy.do?id=210">
                 <div class="headingBulletTopMenu">»&nbsp;</div>
-                <div class="headingTextTopMenu">Motor and Load Drivers</div>
+                <div class="headingTextTopMenu">Motor &amp; Load Drivers</div>
             </a>
         </div>
       </div>
 <div class="floatingMenuTopMenu" id="ID210_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=15440">
                   <div>
-                    Integrated Driver &amp; MOSFET&nbsp;(5)</div>
+                    Integrated Driver &amp; MOSFET&nbsp;(18)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=358">
                   <div>
-                    Load / Relay Drivers&nbsp;(31)</div>
+                    Load / Relay Drivers&nbsp;(35)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=388">
                   <div>
-                    MOSFET / IGBT Drivers&nbsp;(44)</div>
+                    MOSFET / IGBT Drivers&nbsp;(144)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=16980">
                   <div>
-                    Motor Drivers, Brushed&nbsp;(24)</div>
+                    Motor Drivers, Brushed&nbsp;(22)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17060">
                   <div>
-                    Motor Drivers, Brushless&nbsp;(104)</div>
+                    Motor Drivers, Brushless&nbsp;(100)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17020">
                   <div>
-                    Motor Drivers, Stepper&nbsp;(98)</div>
+                    Motor Drivers, Stepper&nbsp;(96)</div>
                 </a>
                     </div>
 </div>
@@ -664,13 +711,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID16900_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=16901">
                   <div>
-                    Intelligent Power Modules (IPMs)&nbsp;(20)</div>
+                    Intelligent Power Modules (IPMs)&nbsp;(111)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=16920">
                   <div>
-                    Power Integrated Modules (PIMs)&nbsp;(2)</div>
+                    Power Integrated Modules (PIMs)&nbsp;(11)</div>
                 </a>
                     </div>
 </div>
@@ -684,19 +731,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID75_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=15180">
                   <div>
-                    Battery Fuel Gauges&nbsp;(2)</div>
+                    Battery Fuel Gauges&nbsp;(3)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=101336">
                   <div>
-                    Current Protection&nbsp;(19)</div>
+                    Current Protection&nbsp;(27)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=101881">
                   <div>
-                    Load Switches&nbsp;(25)</div>
+                    Load Switches&nbsp;(117)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
@@ -708,13 +755,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=687">
                   <div>
-                    Voltage References&nbsp;(16)</div>
+                    Voltage References&nbsp;(33)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=694">
                   <div>
-                    Voltage Supervisors&nbsp;(39)</div>
+                    Voltage Supervisors&nbsp;(50)</div>
                 </a>
                     </div>
 </div>
@@ -725,12 +772,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </tr>
                 </tbody></table>
             </td>
-            <td valign="top" style="max-width: 280px">
+            <td valign="top" style="max-width: 180px">
                 <table style="width: 100%;">
                     <tbody><tr>
-                        <td style="font-weight: bold; font-size: 13px; white-space: nowrap;">
+                        <td style="font-weight: bold; font-size: 13px; white-space: normal;">
                             <div style="background: url('/site/images/tabs.png') 0 -631px no-repeat; width:13px; height:13px; display: inline-block; padding: 0 0 2px;"></div>
-                            <span style="position: relative; bottom: 4px; color: black;">Analog, Logic, and Timing</span>
+                            <span style="position: relative; bottom: 4px; color: black;"><a style="color: black;" href="/PowerSolutions/mainTaxonomy.do?id=4">Analog, Logic, &amp; Timing</a></span>
                         </td>
                     </tr>
                     <tr>
@@ -749,25 +796,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID967_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=62">
                   <div>
-                    Audio Amplifiers&nbsp;(35)</div>
+                    Audio Amplifiers&nbsp;(20)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=133">
                   <div>
-                    Comparators&nbsp;(36)</div>
+                    Comparators&nbsp;(52)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=16740">
                   <div>
-                    Current Sense Amplifiers&nbsp;(6)</div>
+                    Current Sense Amplifiers&nbsp;(7)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=453">
                   <div>
-                    Operational Amplifiers&nbsp;(95)</div>
+                    Operational Amplifiers&nbsp;(120)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
@@ -805,7 +852,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=101334">
                   <div>
-                    Spread Spectrum EMI Reduction Clocks&nbsp;(24)</div>
+                    Spread Spectrum EMI Reduction Clocks&nbsp;(23)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
@@ -837,7 +884,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=547">
                   <div>
-                    Drivers &amp; Fanout Buffers&nbsp;(149)</div>
+                    Drivers &amp; Fanout Buffers&nbsp;(147)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
@@ -849,13 +896,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=246">
                   <div>
-                    Logic Gates&nbsp;(32)</div>
+                    Logic Gates&nbsp;(30)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=418">
                   <div>
-                    Multiplexers &amp; Crosspoint Switches&nbsp;(46)</div>
+                    Multiplexers &amp; Crosspoint Switches&nbsp;(44)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
@@ -887,7 +934,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID303_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=963">
                   <div>
-                    Analog Switches&nbsp;(99)</div>
+                    Analog Switches&nbsp;(205)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
@@ -899,19 +946,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=100010">
                   <div>
-                    Digital Potentiometers (POTs)&nbsp;(35)</div>
+                    Digital Potentiometers (POTs)&nbsp;(36)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=609">
                   <div>
-                    GFCI Controllers&nbsp;(1)</div>
+                    GFCI Controllers&nbsp;(9)</div>
                 </a>
                     </div>
-<div class="bottomItemTopMenu">
+<div class="middleItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17641">
+                  <div>
+                    Serializers / Deserializers&nbsp;(22)</div>
+                </a>
+                    </div>
+<div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=788">
                   <div>
                     Smart Card &amp; SIM Card Interfaces&nbsp;(8)</div>
+                </a>
+                    </div>
+<div class="bottomItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17642">
+                  <div>
+                    USB Type-C&nbsp;(11)</div>
                 </a>
                     </div>
 </div>
@@ -925,7 +984,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID2205_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=2311">
                   <div>
-                    EEPROM Memory&nbsp;(104)</div>
+                    EEPROM Memory&nbsp;(122)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
@@ -951,7 +1010,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID101533_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=101534">
                   <div>
-                    Application Specific Microcontrollers&nbsp;(25)</div>
+                    Application Specific Microcontrollers&nbsp;(22)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
@@ -977,49 +1036,49 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=92">
                   <div>
-                    Buffers&nbsp;(143)</div>
+                    Buffers&nbsp;(273)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=548">
                   <div>
-                    Bus Transceivers&nbsp;(21)</div>
+                    Bus Transceivers&nbsp;(50)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=238">
                   <div>
-                    Flip-Flops&nbsp;(45)</div>
+                    Flip-Flops&nbsp;(83)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=100008">
                   <div>
-                    I / O Expanders&nbsp;(7)</div>
+                    I / O Expanders&nbsp;(8)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=339">
                   <div>
-                    Latches &amp; Registers&nbsp;(54)</div>
+                    Latches &amp; Registers&nbsp;(80)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=247">
                   <div>
-                    Logic Gates&nbsp;(205)</div>
+                    Logic Gates&nbsp;(437)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=419">
                   <div>
-                    Multiplexers&nbsp;(63)</div>
+                    Multiplexers&nbsp;(87)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=649">
                   <div>
-                    Translators&nbsp;(32)</div>
+                    Translators&nbsp;(64)</div>
                 </a>
                     </div>
 </div>
@@ -1030,12 +1089,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </tr>
                 </tbody></table>
             </td>
-            <td valign="top" style="max-width: 280px">
+            <td valign="top" style="max-width: 180px">
                 <table style="width: 100%;">
                     <tbody><tr>
-                        <td style="font-weight: bold; font-size: 13px; white-space: nowrap;">
+                        <td style="font-weight: bold; font-size: 13px; white-space: normal;">
                             <div style="background: url('/site/images/tabs.png') 0 -631px no-repeat; width:13px; height:13px; display: inline-block; padding: 0 0 2px;"></div>
-                            <span style="position: relative; bottom: 4px; color: black;">Discrete</span>
+                            <span style="position: relative; bottom: 4px; color: black;"><a style="color: black;" href="/PowerSolutions/mainTaxonomy.do?id=2">Discrete</a></span>
                         </td>
                     </tr>
                     <tr>
@@ -1054,25 +1113,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID797_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=796">
                   <div>
-                    Audio Transistors&nbsp;(80)</div>
+                    Audio Transistors&nbsp;(96)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=799">
                   <div>
-                    Digital Transistors (BRTs)&nbsp;(338)</div>
+                    Digital Transistors (BRTs)&nbsp;(370)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=798">
                   <div>
-                    Darlington Transistors&nbsp;(100)</div>
+                    Darlington Transistors&nbsp;(121)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=802">
                   <div>
-                    General Purpose and Low V<sub>CE(sat)</sub> Transistors&nbsp;(593)</div>
+                    General Purpose and Low VCE(sat)&nbsp;Transistors&nbsp;(993)</div>
                 </a>
                     </div>
 </div>
@@ -1084,6 +1143,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 <div class="floatingMenuTopMenu" id="ID800_TopMenu"><div class="topItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17100">
+                  <div>
+                    High Frequency Diodes&nbsp;(7)</div>
+                </a>
+                    </div>
+<div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=101531">
                   <div>
                     PIN Diodes&nbsp;(7)</div>
@@ -1092,31 +1157,57 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=820">
                   <div>
-                    Rectifiers&nbsp;(149)</div>
+                    Rectifiers&nbsp;(519)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=815">
                   <div>
-                    Schottky Diodes &amp; Schottky Rectifiers&nbsp;(387)</div>
+                    Schottky Diodes &amp; Schottky Rectifiers&nbsp;(533)</div>
+                </a>
+                    </div>
+<div class="middleItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17640">
+                  <div>
+                    Silicon Carbide (SIC) Diodes&nbsp;(27)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=818">
                   <div>
-                    Small Signal Switching Diodes&nbsp;(72)</div>
-                </a>
-                    </div>
-<div class="middleItemTopMenu">
-    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=827">
-                  <div>
-                    Tuning Diodes&nbsp;(8)</div>
+                    Small Signal Switching Diodes&nbsp;(176)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=830">
                   <div>
-                    Zener Diodes&nbsp;(534)</div>
+                    Zener Diodes&nbsp;(742)</div>
+                </a>
+                    </div>
+</div>
+<div class="firstLevelTaxTopMenu" id="tax_ID101900_TopMenu"><div class="headingTopMenu">
+            <a href="/PowerSolutions/taxonomy.do?id=101900">
+                <div class="headingBulletTopMenu">»&nbsp;</div>
+                <div class="headingTextTopMenu">ESD, EMI, &amp; Surge Protection</div>
+            </a>
+        </div>
+      </div>
+<div class="floatingMenuTopMenu" id="ID101900_TopMenu"><div class="topItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=248">
+                  <div>
+                    ESD Protection Diodes&nbsp;(231)</div>
+                </a>
+                    </div>
+<div class="middleItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=832">
+                  <div>
+                    EMI Filters&nbsp;(71)</div>
+                </a>
+                    </div>
+<div class="bottomItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=824">
+                  <div>
+                    Transient Voltage Suppressors (TVS)&nbsp;(343)</div>
                 </a>
                     </div>
 </div>
@@ -1130,45 +1221,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="floatingMenuTopMenu" id="ID962_TopMenu"><div class="topItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=805">
                   <div>
-                    IGBTs&nbsp;(89)</div>
+                    IGBTs&nbsp;(250)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=806">
                   <div>
-                    JFETs&nbsp;(28)</div>
+                    JFETs&nbsp;(80)</div>
                 </a>
                     </div>
 <div class="middleItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=809">
                   <div>
-                    MOSFETs&nbsp;(708)</div>
+                    MOSFETs&nbsp;(2419)</div>
                 </a>
                     </div>
 <div class="bottomItemTopMenu">
     <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=819">
                   <div>
-                    Protected MOSFETs&nbsp;(24)</div>
-                </a>
-                    </div>
-</div>
-<div class="firstLevelTaxTopMenu" id="tax_ID101900_TopMenu"><div class="headingTopMenu">
-            <a href="/PowerSolutions/taxonomy.do?id=101900">
-                <div class="headingBulletTopMenu">»&nbsp;</div>
-                <div class="headingTextTopMenu">ESD &amp; EMI Protection</div>
-            </a>
-        </div>
-      </div>
-<div class="floatingMenuTopMenu" id="ID101900_TopMenu"><div class="topItemTopMenu">
-    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=248">
-                  <div>
-                    ESD Protection Diodes&nbsp;(232)</div>
-                </a>
-                    </div>
-<div class="bottomItemTopMenu">
-    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=832">
-                  <div>
-                    EMI Filters&nbsp;(68)</div>
+                    Protected MOSFETs&nbsp;(22)</div>
                 </a>
                     </div>
 </div>
@@ -1199,9 +1270,155 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </tr>
                 </tbody></table>
             </td>
+            <td valign="top" style="max-width: 180px">
+                <table style="width: 100%;">
+                    <tbody><tr>
+                        <td style="font-weight: bold; font-size: 13px; white-space: normal;">
+                            <div style="background: url('/site/images/tabs.png') 0 -631px no-repeat; width:13px; height:13px; display: inline-block; padding: 0 0 2px;"></div>
+                            <span style="position: relative; bottom: 4px; color: black;"><a style="color: black;" href="/PowerSolutions/mainTaxonomy.do?id=17681">Optoelectronics</a></span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table class="categoryMap" cellspacing="0" style="margin-top: -5px">
+<tbody><tr>
+  <td class="categoryColumn">
+
+<div class="firstLevelTaxTopMenu" id="tax_ID17703_TopMenu"><div class="headingTopMenu">
+            <a href="/PowerSolutions/taxonomy.do?id=17703">
+                <div class="headingBulletTopMenu">»&nbsp;</div>
+                <div class="headingTextTopMenu">IGBT/MOSFET Gate Drivers Optocouplers</div>
+            </a>
+        </div>
+      </div>
+<div class="floatingMenuTopMenu" id="ID17703_TopMenu"><div class="topBottomItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17704">
+                  <div>
+                    IGBT / MOSFET Gate Drivers Optocouplers&nbsp;(17)</div>
+                </a>
+                    </div>
+</div>
+<div class="firstLevelTaxTopMenu" id="tax_ID17720_TopMenu"><div class="headingTopMenu">
+            <a href="/PowerSolutions/taxonomy.do?id=17720">
+                <div class="headingBulletTopMenu">»&nbsp;</div>
+                <div class="headingTextTopMenu">High Performance Optocouplers</div>
+            </a>
+        </div>
+      </div>
+<div class="floatingMenuTopMenu" id="ID17720_TopMenu"><div class="topItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17722">
+                  <div>
+                    High Performance Transistor Optocouplers&nbsp;(22)</div>
+                </a>
+                    </div>
+<div class="middleItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17721">
+                  <div>
+                    High Speed Logic Gate Optocouplers&nbsp;(22)</div>
+                </a>
+                    </div>
+<div class="middleItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17723">
+                  <div>
+                    Low Voltage, High Performance Optocouplers&nbsp;(12)</div>
+                </a>
+                    </div>
+<div class="bottomItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17724">
+                  <div>
+                    Specific Function Optocouplers&nbsp;(5)</div>
+                </a>
+                    </div>
+</div>
+<div class="firstLevelTaxTopMenu" id="tax_ID17725_TopMenu"><div class="headingTopMenu">
+            <a href="/PowerSolutions/taxonomy.do?id=17725">
+                <div class="headingBulletTopMenu">»&nbsp;</div>
+                <div class="headingTextTopMenu">Phototransistor Optocouplers</div>
+            </a>
+        </div>
+      </div>
+<div class="floatingMenuTopMenu" id="ID17725_TopMenu"><div class="topItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17726">
+                  <div>
+                    Isolated Error Amplifier Optocouplers&nbsp;(6)</div>
+                </a>
+                    </div>
+<div class="middleItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17727">
+                  <div>
+                    Photo Darlington Output Optocouplers&nbsp;(13)</div>
+                </a>
+                    </div>
+<div class="middleItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17728">
+                  <div>
+                    Phototransistor Output - DC Sensing Input Optocouplers&nbsp;(70)</div>
+                </a>
+                    </div>
+<div class="bottomItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17729">
+                  <div>
+                    Phototransistor Output - AC Sensing Input Optocouplers&nbsp;(7)</div>
+                </a>
+                    </div>
+</div>
+<div class="firstLevelTaxTopMenu" id="tax_ID17705_TopMenu"><div class="headingTopMenu">
+            <a href="/PowerSolutions/taxonomy.do?id=17705">
+                <div class="headingBulletTopMenu">»&nbsp;</div>
+                <div class="headingTextTopMenu">Infrared Optocouplers</div>
+            </a>
+        </div>
+      </div>
+<div class="floatingMenuTopMenu" id="ID17705_TopMenu"><div class="topItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17707">
+                  <div>
+                    Emitting Diodes Optocouplers&nbsp;(8)</div>
+                </a>
+                    </div>
+<div class="middleItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17500">
+                  <div>
+                    Photo Sensor Optocouplers&nbsp;(8)</div>
+                </a>
+                    </div>
+<div class="middleItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17708">
+                  <div>
+                    Photo Sensor Transistor Optocouplers&nbsp;(10)</div>
+                </a>
+                    </div>
+<div class="bottomItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17709">
+                  <div>
+                    Reflective Sensor Optocouplers&nbsp;(3)</div>
+                </a>
+                    </div>
+</div>
+<div class="firstLevelTaxTopMenu" id="tax_ID17700_TopMenu"><div class="headingTopMenu">
+            <a href="/PowerSolutions/taxonomy.do?id=17700">
+                <div class="headingBulletTopMenu">»&nbsp;</div>
+                <div class="headingTextTopMenu">TRIAC Driver Optocouplers</div>
+            </a>
+        </div>
+      </div>
+<div class="floatingMenuTopMenu" id="ID17700_TopMenu"><div class="topBottomItemTopMenu">
+    <a style="text-decoration: none;" href="/PowerSolutions/parametrics.do?id=17701">
+                  <div>
+                    TRIAC Driver Optocouplers&nbsp;(42)</div>
+                </a>
+                    </div>
+</div>
+</td>
+</tr>
+</tbody></table>
+</td>
+                    </tr>
+                </tbody></table>
+            </td>
             </tr>
     </tbody></table>
 </div>
+
 </div>
             </div>
         </td>
@@ -1227,10 +1444,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <tbody><tr class="li">
 
         <td class="menuText">
-            <a href="/PowerSolutions/content.do?id=16602">
+            <a href="/PowerSolutions/content.do?id=15068">
                 <div style="width: 100%; height: 100%;">
                     <span style="font-weight: bold;font-size: 10px;">››</span>
-                    <span>Medical</span>
+                    <span>Automotive</span>
                 </div>
             </a>
         </td>
@@ -1238,10 +1455,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <tr class="li">
 
         <td class="menuText">
-            <a href="/PowerSolutions/content.do?id=15068">
+            <a href="/PowerSolutions/content.do?id=16602">
                 <div style="width: 100%; height: 100%;">
                     <span style="font-weight: bold;font-size: 10px;">››</span>
-                    <span>Automotive</span>
+                    <span>Medical</span>
                 </div>
             </a>
         </td>
@@ -1282,10 +1499,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <tr class="li">
 
         <td class="menuText">
-            <a href="/PowerSolutions/content.do?id=16004">
+            <a href="/PowerSolutions/content.do?id=16610">
                 <div style="width: 100%; height: 100%;">
                     <span style="font-weight: bold;font-size: 10px;">››</span>
-                    <span>Industrial</span>
+                    <span>Aerospace &amp; Defense</span>
                 </div>
             </a>
         </td>
@@ -1304,10 +1521,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <tr class="li">
 
         <td class="menuText">
-            <a href="/PowerSolutions/content.do?id=16610">
+            <a href="/PowerSolutions/content.do?id=16004">
                 <div style="width: 100%; height: 100%;">
                     <span style="font-weight: bold;font-size: 10px;">››</span>
-                    <span>Aerospace &amp; Defense Applications</span>
+                    <span>Industrial</span>
                 </div>
             </a>
         </td>
@@ -1337,10 +1554,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <tr class="li">
 
         <td class="menuText">
-            <a href="/PowerSolutions/content.do?id=16818">
+            <a href="/PowerSolutions/content.do?id=16003">
                 <div style="width: 100%; height: 100%;">
                     <span style="font-weight: bold;font-size: 10px;">››</span>
-                    <span>Portable &amp; Wireless</span>
+                    <span>Networking &amp; Telecommunications</span>
                 </div>
             </a>
         </td>
@@ -1348,10 +1565,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <tr class="li">
 
         <td class="menuText">
-            <a href="/PowerSolutions/content.do?id=16003">
+            <a href="/PowerSolutions/content.do?id=16818">
                 <div style="width: 100%; height: 100%;">
                     <span style="font-weight: bold;font-size: 10px;">››</span>
-                    <span>Networking &amp; Telecommunications</span>
+                    <span>Portable &amp; Wireless</span>
                 </div>
             </a>
         </td>
@@ -1380,23 +1597,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 </td>
                                                 <td class="menuItem">
                                                     <a href="/PowerSolutions/support.do">
-                                                        Tools</a>
+                                                        Design Support</a>
                                                 </td>
                                             </tr>
                                         </tbody></table>
                                         <table cellspacing="0" class="ul">
     <tbody><tr class="li">
-
-        <td class="menuText">
-            <a href="/PowerSolutions/supportResources.do">
-                <div style="width: 100%; height: 100%;">
-                    <span style="font-weight: bold;font-size: 10px;">››</span>
-                    <span>Design Resources &amp; Documents</span>
-                </div>
-            </a>
-        </td>
-    </tr>
-    <tr class="li">
 
         <td class="menuText">
             <a href="/PowerSolutions/supportTechnical.do">
@@ -1410,10 +1616,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <tr class="li">
 
         <td class="menuText">
-            <a href="/community">
+            <a href="/community/blog">
                 <div style="width: 100%; height: 100%;">
                     <span style="font-weight: bold;font-size: 10px;">››</span>
-                    <span>Community</span>
+                    <span>Blog</span>
                 </div>
             </a>
         </td>
@@ -1421,10 +1627,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <tr class="li">
 
         <td class="menuText">
-            <a href="/PowerSolutions/content.do?id=18415">
+            <a href="/PowerSolutions/pswd.do">
                 <div style="width: 100%; height: 100%;">
                     <span style="font-weight: bold;font-size: 10px;">››</span>
-                    <span>GreenPoint® Design Tool</span>
+                    <span>Power Supply WebDesigner</span>
+                </div>
+            </a>
+        </td>
+    </tr>
+    <tr class="li">
+
+        <td class="menuText">
+            <a href="/PowerSolutions/content.do?id=16816">
+                <div style="width: 100%; height: 100%;">
+                    <span style="font-weight: bold;font-size: 10px;">››</span>
+                    <span>Interactive Block Diagrams</span>
+                </div>
+            </a>
+        </td>
+    </tr>
+    <tr class="li">
+
+        <td class="menuText">
+            <a href="/PowerSolutions/pst.do">
+                <div style="width: 100%; height: 100%;">
+                    <span style="font-weight: bold;font-size: 10px;">››</span>
+                    <span>Product Recommendation Tools</span>
                 </div>
             </a>
         </td>
@@ -1596,10 +1824,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </a>
                                 </td>
 <td class="menuText">
-                                    <a href="/PowerSolutions/content.do?id=1039">
+                                    <a href="/PowerSolutions/content.do?id=1034">
                                         <div style="width: 100%; height: 100%;">
                                             <span style="font-weight: bold;font-size: 10px;">››</span>
-                                            <span>Environmental Health &amp; Safety</span>
+                                            <span>Leadership</span>
                                         </div>
                                     </a>
                                 </td>
@@ -1622,10 +1850,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </a>
                                 </td>
 <td class="menuText">
-                                    <a href="/PowerSolutions/content.do?id=1034">
+                                    <a href="/PowerSolutions/content.do?id=1039">
                                         <div style="width: 100%; height: 100%;">
                                             <span style="font-weight: bold;font-size: 10px;">››</span>
-                                            <span>Leadership</span>
+                                            <span>Environmental Health &amp; Safety</span>
                                         </div>
                                     </a>
                                 </td>
@@ -1675,75 +1903,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     .ui-icon.white { background-image: url(/site/images/jquery/custom-wpnmgmt/ui-icons_ffffff_256x240.png); }
                                 </style>
 
-                                <td style="width: 100%;">
+                                <td style="width: 100%;padding:0">
                                     <div style="float: right;">
-                                            <form id="searchForm" action="/PowerSolutions/search.do" method="get" onsubmit="return treatAdvancedInput('query', 'queryAdvanced');" accept-charset="UTF-8">
-                                                <table class="searchFormTable">
-                                                    <tbody><tr>
-                                                        <td>
-                                                            <input type="text" name="query" id="query" value="Enter Part#/Keyword/Cross-reference" style="color: #888;" onfocus="clearInput(this,'Enter Part#/Keyword/Cross-reference', '#000');" onblur="defaultInputVal(this,'Enter Part#/Keyword/Cross-reference', '#888');" autocomplete="off" class="ac_input">
-                                                            <input type="hidden" name="tabbed" value="Y">
-                                                            <input type="hidden" name="clearFilters" value="Y">
-                                                        </td>
-                                                        <td>
-                                                            <input type="hidden" value="others" name="searchType" id="searchType">
-                                                            <button class="searchFormButton" type="button" onclick="$('#searchType').val('others');$('#searchForm').submit();">
-                                                                <span>Search</span>
-                                                            </button>
-                                                        </td>
-                                                        <td>
-                                                            <button class="searchFormButton" type="button" onclick="$('#searchType').val('xref');$('#searchForm').submit();">
-                                                                <span>XREF</span>
-                                                            </button>
-                                                        </td>
-                                                        <td style="padding-right: 1px; position: relative;">
-                                                            <button class="searchFormButton" type="button" onclick="$('#searchOptions').is(':visible') ? $('#searchOptions').hide() : $('#searchOptions').show();">
-                                                                <span class="ui-icon ui-icon-white ui-icon-help">Options</span>
-                                                            </button>
-
-                                                            <div id="searchOptions" style="z-index: 1001;position: absolute; display: none; border: 1px solid black; right: 0; top: 24px; color: black; background-color: white;">
-                                                                <div class="dbContent">
-	<table style="width: 450px; text-align: center;">
-                                                                <tbody><tr>
-                                                                    <td colspan="3" style="text-align: left;">
-                                                                        <div style="margin-top: 10px; margin-left: 25px;">
-                                                                            <strong style="font-size: 12px;">Search Help</strong> - <a style="color: #3e6ca8;" href="/PowerSolutions/supportVideo.do?docId=1000069">View Website Search Video Tutorial </a>
-                                                                        </div>
-                                                                        <div>
-                                                                            <ul>
-                                                                                <li>
-                                                                                    <strong>AND</strong> - Results contain <strong>both</strong> words.<br>
-                                                                                    <i>Example: controllers AND converters</i></li>
-                                                                                <li>
-                                                                                    <strong>OR</strong> - Results contain <strong>either</strong> of the words.<br>
-                                                                                    <i>Example: controllers OR converters</i></li>
-                                                                                <li>
-                                                                                    <strong>Phrase Search</strong> ( " " ) - Results contain <strong>exact words in that exact order</strong>.<br>
-                                                                                    <i>Example: "npn bipolar transistor"</i>
-                                                                                </li>
-                                                                                <li>
-                                                                                    <strong>Fill in the Blanks - Wildcard</strong> ( <strong>*</strong> ) - Results contain <strong>various forms of words sharing common roots or stems</strong>. The symbol (*) represents additional letters or
-                                                                                    characters<br>
-                                                                                    <i>Example: "NCP*"</i>
-                                                                                </li>
-                                                                                <li>
-                                                                                    <strong>Exclude Terms</strong> ( <strong>-</strong> ) - Results <strong>do not</strong> contain the term immediately following it (do not add a space after the -).<br>
-                                                                                    <i>Example: "npn -pnp"</i>
-                                                                                </li>
-                                                                                <li>
-                                                                                    <strong>Search Exactly As Is</strong> ( <strong>+</strong> ) - Results contain the <strong>exact</strong> term immediately following it (do not add a space after the +).<br>
-                                                                                    <i>Example: "npn +pnp"</i>
-                                                                                </li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </td>
-                                                                </tr>
-                                                            </tbody></table></div>
-</div>
-                                                        </td>
-                                                    </tr>
-                                                </tbody></table>
-                                            </form>
+                                            <div class="search-wrapper">
+												<form id="searchForm" class="form-inline" action="/PowerSolutions/search.do" method="get">
+													<select name="searchType" class="custom-select resizeselect" style="width: 76px;">
+														<option selected="selected" value="others">Search</option>
+														<option value="xref">Cross-References</option>
+													</select>
+							
+													<input class="form-control ui-autocomplete-input" type="text" placeholder="Search for Products or Cross-references" name="query" id="query" autocomplete="off">			
+													<button class="btn btn-outline-success" type="submit">
+														<i class="fa fa-search" aria-hidden="true"></i>
+													</button>
+												</form>
+											</div>
                                         </div>
                                     </td>
                             </tr>
@@ -1797,7 +1971,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </td>
             </tr>
             <tr>
-                <td align="center" colspan="2" id="loginInnerTableId"><table><tbody><tr><td align="center">
+                <td align="center" colspan="2" id="loginInnerTableId"><table><tbody><tr><td align="center">                    
                     <button id="myonLoginButtonId" class="button3 width:100%" name="" type="submit">
 	<table cellspacing="0"><tbody><tr><td class="icon" style="border-right: 0 none;"><img src="/site/images/btn_icon_login.gif" height="19px"></td><td class="text"><div class="buttonImage">Login</div></td></tr></tbody></table></button>	
 
@@ -1836,9 +2010,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </tr>
         <tr>
             <td class="fdbkRtg" style="height: 40px;">
-                <div class="rtg" id="fdbkRtg" actual-rating="0" rating-id="http://www.onsemi.com" votes="0" votessum="0" readonly="false">
-                    <span class="rtgStars"><span></span></span>
-                </div><span>Rate this webpage</span>
+                <div class="rtg loaded" id="fdbkRtg" actual-rating="0" rating-id="http://www.onsemi.com" votes="0" votessum="0" readonly="false">
+                    <span class="rtgStars" style="cursor: pointer;"><span style="width: 0px;"></span></span>
+                <strong class="starRtgReport"></strong></div><span>Rate this webpage</span>
             </td>
         </tr>
         <tr>
@@ -1908,7 +2082,144 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             container.hide();
         }
     });
-</script><table class="mainColumns" cellspacing="0" cellpadding="0"><tbody><tr>
+</script>
+
+<style>		
+	.search-wrapper select {
+		 background: transparent url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%2328972e' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E") no-repeat right .75rem center;
+		 background-size: 12px 16px;
+		 border: none;
+		 height: 35px;
+		 color: #28972e;
+		-webkit-appearance: none;
+		-moz-appearance: none;
+		text-indent: 1px;
+		text-overflow: '';
+	}
+
+	.search-wrapper option {
+		color: #28972e;
+	}
+		
+	.search-wrapper input.form-control {
+		height: 40px;
+		color: black;
+		background: white;
+		border-radius: 4px;
+	}
+		
+		.search-wrapper #searchForm #query {
+			padding-left: 5px;
+		}
+		
+		.search-wrapper input.form-control::placeholder {
+			color: grey;
+			font-style: italic;
+		}
+		
+		 .search-wrapper select, .search-wrapper .btn {
+			vertical-align: top;
+			height: 31px;
+			margin-top: 0px;
+		}
+		
+		.search-wrapper select {
+			width: 100px;
+			padding: 0;
+		}
+		.search-wrapper input.form-control {
+			margin: 3px;
+			vertical-align: top;
+			height: 25px;
+			border: none;
+		}
+		
+		
+		.search-wrapper form {
+			margin: 0 !important;
+			display: inline-block;
+			white-space: nowrap;
+		}
+		
+
+		
+		.search-wrapper button, .search-button {
+			border: none;
+			width:  15px;
+			padding: 0;
+			color: #28972e;
+			background: none;
+			border: none;
+		}
+		
+		.search-wrapper button:hover, .search-button:hover {
+			color: #fff;
+			
+		}
+		
+		.search-results {
+			position: absolute;
+			width: 100%;
+		}
+		
+		.search-wrapper {
+			float: right;
+			margin-right: 15px;
+			white-space: nowrap;
+			margin-left: 50px;
+		}
+		
+		table.main-nav {
+			position: relative;
+		}
+		
+		.search-button, .close-search {
+			margin-right: 15px;
+			margin-top: 0px;
+		}
+		
+		#menus-wrapper .fa, .desktop-footer .fa {
+			font-family: FontAwesome;
+		}
+		
+	</style>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous">
+	
+	<script>
+	(function($, window){
+		  var arrowWidth = 40;
+		
+		  $.fn.resizeselect = function(settings) {  
+		    return this.each(function() { 
+		
+		      $(this).on("change", function(){
+		        var $this = $(this);
+		
+		        var text = $this.find("option:selected").text();
+		        var $test = $("<span>").html(text).css({
+		            "font-size": $this.css("font-size"),
+		            "visibility": "hidden"               
+		        });
+		
+		        $test.appendTo($this.parent());
+		        var width = $test.width();
+		        $test.remove();
+		
+		        $this.width(width + arrowWidth);
+		      }).change();
+		
+		    });
+		  };
+		
+		  // run by default
+		  $("select.resizeselect").resizeselect();
+		})(jQuery, window);
+	
+	$(document).ready(function() {
+		$("select.resizeselect").change();
+	})
+	</script>
+<table class="mainColumns" cellspacing="0" cellpadding="0"><tbody><tr>
 	<td class="center">
 		<h2 id="breadcrumb">
 <a href="/">Home</a>&nbsp;&gt;&nbsp;
@@ -2060,6 +2371,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<td>&nbsp;</td>
 	</tr>
 </tbody></table>
+<div id="QRCodeBG" style="z-index: 10000; position: fixed; left: 0px; top: 0px; width: 100%; height: 100%; display: none; background-color:rgba(50,50,50,0.7);">
+	<div style="position: absolute; top: 50%; left:50%; margin-top:-172px; margin-left: -172px; border-radius: 10px; border: 2px solid gray;">
+		<div id="qrcode"></div>
+	</div>
+</div>
 <!-- zonda-www --></td></tr></tbody></table>
 <script type="text/javascript">
       var documentready2;
@@ -2069,7 +2385,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
       $(window).load(function() {   
           $.ajax({
-              url: '/PowerSolutions/performanceLogging?requestId=2369265078&bd1='+(documentready2 - head1)+'&bd2='+((new Date()).getTime()-documentready2),
+              url: '/PowerSolutions/performanceLogging?requestId=2318953533&bd1='+(documentready2 - head1)+'&bd2='+((new Date()).getTime()-documentready2),
               type: 'GET'
           });
       });
@@ -2094,9 +2410,11 @@ var google_remarketing_only = true;
 </noscript>
 
 
-<div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-dialog-buttons ui-draggable ui-resizable" aria-describedby="licenseAgreement" aria-labelledby="ui-id-1" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-1" class="ui-dialog-title">CONTENT USE AGREEMENT</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="licenseAgreement" class="ui-dialog-content ui-widget-content" style="display: block;">
+<div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-dialog-buttons ui-draggable ui-resizable" aria-describedby="licenseAgreement" aria-labelledby="ui-id-1" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-1" class="ui-dialog-title">COLLATERAL USE AGREEMENT</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="licenseAgreement" class="ui-dialog-content ui-widget-content" style="display: block;">
     <div class="alignLeft">
-        <p><b>IMPORTANT - READ BEFORE DOWNLOADING, COPYING, INSTALLING, OR USING.</b></p>
+        <a href="/site/pdf/Collateral Use Agreement.pdf">Download Agreement</a>
+<br>
+<p><b>IMPORTANT - READ BEFORE DOWNLOADING, COPYING, INSTALLING, OR USING.</b></p>
 <p><b><u>DO NOT DOWNLOAD, COPY, INSTALL, OR USE THIS CONTENT UNTIL YOU (THE
 "LICENSEE") HAVE CAREFULLY READ THE FOLLOWING TERMS AND CONDITIONS. BY
 DOWNLOADING, COPYING, INSTALLING, OR USING THE CONTENT, YOU AGREE TO THE
@@ -2137,8 +2455,7 @@ h)  The Content is licensed for use only with the ON Semiconductor Products.  Us
 <p>11.9	<u>Entire Agreement; Amendment; Counterparts; Facsimile Copies.</u> This Agreement, including the Exhibits attached hereto, constitutes the entire agreement and understanding between the parties hereto regarding the subject matter hereof and supersedes all other agreements, understandings, promises, representations or discussions, written or oral, between the parties regarding the subject matter hereof. This Agreement may not be amended except in writing signed by an authorized representative of each of the parties hereto. This Agreement may be executed in counterparts, each of which shall be deemed to be an original, and which together shall constitute one and the same agreement. Each party hereto may deliver an executed copy of this Agreement to the other party via facsimile or other electronic means, and such executed copy(ies) sent/received via facsimile or other electronic means shall be deemed an original and binding copy.</p>
 <p><b>12.	Confidentiality.</b> Notwithstanding any terms to the contrary in any non-disclosure agreements between the Parties, Licensee shall treat this Agreement and the Content as ON Semiconductor's "Confidential Information" including: not using the Confidential Information except as expressly set forth herein or otherwise authorized in writing; implementing reasonable procedures to prohibit the disclosure, unauthorized duplication, misuse  or removal  of the Confidential  Information; and not  disclosing the Confidential Information to any third party except as may be necessary and required in connection with the rights and obligations under this Agreement and subject to confidentiality obligations at least as protective as those set forth herein, or as otherwise required by law. It is expressly understood that all Confidential Information transferred hereunder, and all copies, modifications, and derivatives thereof, will remain the property of ON Semiconductor, and the Licensee is authorized to use those materials only in accordance with the terms and conditions of this Agreement. Upon termination of this Agreement or upon written request, License shall either return all Confidential Information to ON Semiconductor along with all copies and/or derivatives made, including that on computer databases and copies of portions of the Confidential Information, or destroy all such Confidential Information and certify by written memorandum that all such Confidential Information has been destroyed.
 <br><br>
-Nothing contained in this Agreement limits a party from filing a truthful complaint, or the party's ability to communicate directly to, or otherwise participate in either: (i) any investigation or proceeding with a United States government agency alleging a securities law violation, waste, fraud, or abuse; or (ii) an investigation or proceeding that is protected under a whistleblower provision of a U.S. federal law or regulation.</p>
-</div>
+Nothing contained in this Agreement limits a party from filing a truthful complaint, or the party's ability to communicate directly to, or otherwise participate in either: (i) any investigation or proceeding with a United States government agency alleging a securities law violation, waste, fraud, or abuse; or (ii) an investigation or proceeding that is protected under a whistleblower provision of a U.S. federal law or regulation.</p></div>
 </div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="ui-button ui-corner-all ui-widget">Accept</button><button type="button" class="ui-button ui-corner-all ui-widget">Decline</button></div></div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div><div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-dialog-buttons ui-draggable ui-resizable" aria-describedby="additionalInfo" aria-labelledby="ui-id-2" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-2" class="ui-dialog-title">Additional Information</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="additionalInfo" class="ui-dialog-content ui-widget-content" style="display: block;">    
 </div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="ui-button ui-corner-all ui-widget">Submit</button></div></div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div><div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-dialog-buttons ui-draggable ui-resizable" aria-describedby="newRequestInfo" aria-labelledby="ui-id-3" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-3" class="ui-dialog-title">Request Submitted</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="newRequestInfo" class="ui-dialog-content ui-widget-content" style="display: block;">
     <div class="centered">
@@ -2146,4 +2463,4 @@ Nothing contained in this Agreement limits a party from filing a truthful compla
 </div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="ui-button ui-corner-all ui-widget">Close</button></div></div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div><div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-dialog-buttons ui-draggable ui-resizable" aria-describedby="existingRequestInfo" aria-labelledby="ui-id-4" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-4" class="ui-dialog-title">Request Exists</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="existingRequestInfo" class="ui-dialog-content ui-widget-content" style="display: block;">
     <div class="centered">
         Request for this document already exists and is waiting for approval.</div>
-</div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="ui-button ui-corner-all ui-widget">Close</button></div></div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div></body></html>
+</div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="ui-button ui-corner-all ui-widget">Close</button></div></div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div><ul id="ui-id-5" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div></body></html>
