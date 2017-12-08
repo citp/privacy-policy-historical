@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacquieetmichellive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025255id_/http%3A//www.jacquieetmichellive.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacquieetmichellive.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208080646id_/https%3A//www.jacquieetmichellive.com/en/privacy) for the most accurate reproduction.*
 
 # www.jacquieetmichellive.com - Privacy policy
 
