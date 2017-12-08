@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ir.net privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627030037id_/http%3A//ir.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ir.net privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208144942id_/http%3A//ir.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - IR.net - Independent Reporter
+# Privacy Policy - IR.net
 
  This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -14,9 +14,9 @@ We collect information from you when you subscribe to a newsletter or enter info
 
 **How do we use your information?**
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, agree to push notifications, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-**•** To send periodic emails regarding your order or other products and services.
+**•** To send periodic emails with promotions, send daily newsletter mailings or send browser-push notifications.
 
 **How do we protect visitor information?**
 
@@ -119,11 +119,15 @@ We also agree to the individual redress principle, which requires that individua
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-**We collect your email address in order to:**
+**We collect your email address in order to: send daily newsletters or occasional promotions.**
 
 **To be in accordance with CANSPAM we agree to the following:**
 
 **  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+If at any time you would like to unsubscribe from receiving future emails, you can click the “unsubscribe link” at the bottom of the email or you can email us at irnetnews@gmail.com**
 
 and we will promptly remove you from **ALL** correspondence.
+
+If you are receiving a browser push-notification, it’s because you agreed to accept them via a pop-up request through third party Pushcrew.  To remove yourself from receiving these notifications, please view instructions [here](https://support.pushcrew.com/support/solutions/articles/9000064230-a-website-is-sending-me-push-notifications-how-do-i-unsubscribe-).
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
