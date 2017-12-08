@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the kentlaw.edu privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615084149id_/http%3A//www.kentlaw.iit.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentlaw.edu privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208180538id_/https%3A//www.kentlaw.iit.edu/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | IIT Chicago-Kent College of Law
+# Privacy Statement | Chicago-Kent College of Law
 
-[Privacy Statement](http://www.kentlaw.iit.edu/privacy-statement "Privacy Statement")
-
-
-
-
-A  A  |  Email  | Print |  Share 
-
-_**Chicago-Kent College of Law at Illinois Institute of Technology (Chicago-Kent)**_
+## _**Chicago-Kent College of Law at Illinois Institute of Technology (Chicago-Kent)**_
 
 This is a privacy statement for the website and pages of Chicago-Kent College of Law, an academic unit of Illinois Institute of Technology. Chicago-Kent is committed to protecting your privacy when you visit its web pages. This statement is intended to inform you concerning what information Chicago-Kent collects while you browse our web pages, how we utilize this information and your options with respect to the same. The information disclosed in this statement is subject to change periodically in the sole discretion of Chicago-Kent. Your continued use of our site implies your understanding and acceptance of this privacy statement.
 
@@ -38,8 +31,3 @@ Throughout our web pages we provide links to third-party websites which may cont
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us at [webmaster@kentlaw.iit.edu](mailto:webmaster@kentlaw.iit.edu).
 
 _Effective February 2017_
-
-  
-  
-  
-
