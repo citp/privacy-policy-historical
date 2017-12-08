@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bornprettystore.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010818id_/http%3A//www.bornprettystore.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bornprettystore.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208144921id_/http%3A//bornprettystore.com/privacy.php) for the most accurate reproduction.*
 
 # Born Pretty Store - Quality Nail Art, Beauty & Lifestyle Products, Retail, Wholesale & OEM
 
@@ -15,5 +15,3 @@ Born Pretty Store is committed to protecting your privacy. We have established t
 **Information Control** \- Your customer profile is accessible from our website and you may update it at anytime. Our web site provides you with the ability to change your phone numbers, physical addresses, and email address information stored in your profile. You may also write to us to request that we make the change for you. 
 
 **Compliance** \- This privacy policy complies ecommerce industry best practice guidelines. If you have any questions or concerns about this policy please feel free to contact us. 
-
-Copyright (c) 2006 Born Pretty Store. All rights reserved. 
