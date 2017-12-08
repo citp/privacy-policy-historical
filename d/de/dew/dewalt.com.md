@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dewalt.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203345id_/http%3A//www.dewalt.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dewalt.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208150824id_/http%3A//www.dewalt.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DEWALT
 
 **Privacy Policy for U.S. Websites**
 
-**Scope**.  This Privacy Policy applies to personal information collected online, used and disclosed by Stanley Black & Decker, Inc.’s affiliates including but not limited to Black+Decker, Bostitch, CRAFTSMAN, DEWALT, ELCO, Emglo, hilmor, Irwin, InnerSpace, Lenox, Lista, Mac Tools, Porter-Cable, Powers, Proto, Stanley, Stanley FatMax, and Vidmar (collectively referred to as “Stanley Black & Decker”) in connection with its U.S.-based websites, microsites, mobile sites or mobile apps that expressly adopt, display or link to this Privacy Policy (collectively referred to as our “Sites”).  It also applies to personal information we collect, use and disclose in connection with Stanley Black & Decker pages on social media sites, such as Facebook®, Twitter®, Google Plus® or others (collectively referred to as our “Social Media Pages”). 
+**Scope**.  This Privacy Policy applies to personal information collected online, used and disclosed by Stanley Black & Decker, Inc.’s affiliates including but not limited to Black+Decker, Bostitch, CRAFTSMAN, DEWALT, ELCO, Emglo, hilmor, IRWIN, InnerSpace, LENOX, Lista, Mac Tools, PORTER-CABLE, Powers, Proto, Stanley, Stanley FatMax, and Vidmar (collectively referred to as “Stanley Black & Decker”) in connection with its U.S.-based websites, microsites, mobile sites or mobile apps that expressly adopt, display or link to this Privacy Policy (collectively referred to as our “Sites”).  It also applies to personal information we collect, use and disclose in connection with Stanley Black & Decker pages on social media sites, such as Facebook®, Twitter®, Google Plus® or others (collectively referred to as our “Social Media Pages”). 
 
 **NOTE:  **Stanley Black & Decker licenses the use of its trademarks to unrelated third parties which operate websites independently from Stanley Black & Decker.  This Privacy Policy **does not cover** the websites of these third parties.  These third parties have separate and independent privacy policies which we recommend you read carefully.
 
@@ -136,7 +136,9 @@ For example, in connection with searching and applying for jobs with us, we use 
 
 Personal information may be collected directly by us through our Social Media Pages.  The type of information we would collect is similar to what is described above under “Information You Provide.”   Personal information may also be collected by the social media site hosting our Social Media Pages. Our Privacy Policy does not cover the privacy and security practices of the social media sites on which Stanley Black & Decker has its Social Media Pages.
 
-### 2.       How do we use the information we collect about you?
+**2.        How do we use the information we collect about you?**
+
+### 
 
 The information we learn from you helps us personalize your experience with us and our communications to you, and helps us continually improve your experience on our Websites. 
 
@@ -188,7 +190,9 @@ We use third-party analytics providers, such as Google® Analytics, to measure t
 
 Similar to the navigational information described above, the social media sites where we have our Social Media Pages may provide aggregate information and analysis to us about visitors to our Social Media Pages.  This allows us to better understand and analyze our user growth, general demographic information about the users of, and interaction with content on, our Social Media Pages.
 
-### 3.       How is technology used to serve our advertisements on other Sites that you visit and what choices do you have?
+**3.        How is technology used to serve our advertisements on other Sites that you visit and what choices do you have?**
+
+### 
 
 We contract with third party advertising companies to tailor online advertising to be directed to you on other websites.  These third party advertising companies place, use, or rely on technology, such as cookies and pixel tags, to obtain information about your interactions with our Sites as well as with other websites.  This information helps us select advertising to serve to you and where to serve it based on your experience on our Sites and other sites that you visit.
 
@@ -199,14 +203,15 @@ For information about opt out programs that these third party advertising compan
 We do not sell, rent, or trade your personal information to unrelated third parties except as set forth below.  We may share your personal information with the following:
 
   * our affiliates and brands so that they can provide information to you about their products, which includes the affiliates listed under “Scope” above and those specified at <http://www.stanleyblackanddecker.com/contact/contact-us>. 
-  * our affiliates and third party service providers in order to perform tasks on our behalf such as the following: 
+  * our affiliates, licensees and third party service providers in order to perform tasks on our behalf such as the following: 
     * facilitating your purchase
-    * assisting in servicing our products
+    * assisting in servicing products
+    * product registrations
+    * responding to your requests and providing product information
     * helping you exchange products
-    * providing and improving our communications with you
-    * responding to requests to our investor relations
+    * providing and improving communications with you
+    * responding to investor relations requests
     * cloud based and hosting services
-    * our licensees (USA only)
     * as required to cooperate with a subpoena, search warrant or other legally valid inquiry, court order or other legal process, or as required or permitted by law 
     * to protect the rights, property or safety of our Sites, our users or others, including where necessary for the establishment, exercise or defense of legal claims. 
 
@@ -248,4 +253,4 @@ We may make changes to this Privacy Policy at any time, so please review it peri
 
 If you have questions or concerns with respect to our Privacy Policy, please contact the Privacy Policy Manager by sending an email to [PrivacyPolicyManager@sbdinc.com](mailto:PrivacyPolicyManager@sbdinc.com) and include your question.  Or if you prefer to contact the Privacy Policy Manager via U.S. mail, please use the following postal address:  Stanley Black & Decker, Inc., 701 E. Joppa Road, MS TW230, Towson, Maryland 21286, USA, Attn: R. Weyand.
 
-Effective as of:  March 13, 2017
+Effective as of:  July 6, 2017
