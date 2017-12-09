@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609203319id_/http%3A//www.ndp.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209012928id_/http%3A//www.ndp.ca/privacy) for the most accurate reproduction.*
 
-# New Democratic Party of Canada « Canada's NDP
+# Privacy Policy « Canada's NDP
 
 **Our Commitment to Respecting and Protecting Your Privacy**
 
