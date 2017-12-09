@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ininbox.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051858id_/http%3A//www.ininbox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ininbox.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209094016id_/http%3A//www.ininbox.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | INinbox
 
@@ -7,10 +7,6 @@
 ### Where we stand on gathering, sharing and protecting your info
 
 This privacy policy shows our commitment to protecting your info when gathering data from you. It refers specifically to INinbox. This privacy policy describes how INinbox ltd ("INinbox", "We", "Us") collects and uses the personal information you provide on our web site [http://www.ininbox.com](http://www.ininbox.com/ "INinbox") and the INinbox Service Platform. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our Service shall be limited to the purpose of providing the Service for which our customer has engaged INinbox.
-
-INinbox ltd has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements") and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html "TRUSTed Cloud Program Requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, [http://www.ininbox.com](http://www.ininbox.com/ "INinbox") and the INinbox Service.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [_customercare@ininbox.com_](mailto:customercare@ininbox.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ### When you sign up for a free account, we will ask you for information. This information _may include_ :
 
