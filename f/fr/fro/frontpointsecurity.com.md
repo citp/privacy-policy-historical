@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontpointsecurity.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610080712id_/http%3A//www.frontpointsecurity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontpointsecurity.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210003500id_/http%3A//www.frontpointsecurity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frontpoint Security
 
@@ -6,28 +6,24 @@
 
 **Privacy Policy**
 
-Effective on August 27, 2015
+Effective on September 7th, 2017
 
-This privacy policy describes how FrontPoint Security Solutions, LLC (“FrontPoint Security”) collects and uses the personal information you provide on our website: [http://www.frontpointsecurity.com](http://www.frontpointsecurity.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy describes how FrontPoint Security Solutions, LLC (“FrontPoint Security”) collects and uses the personal information you provide on our website: http://www.frontpointsecurity.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.p>
 
 This privacy policy addresses the following topics:
 
-  * Collection and Use of Personal Information
-  * Information Obtained from Third Parties
-  * Information sharing
-  * Customer Testimonials/Comments/Reviews
-  * Tracking Technologies
-  * Behavioral Targeting / Re-Targeting
-  * Links to Other Websites
-
-
-  * Social Media Widgets
-
-
-  * Security
-  * Additional Policy Information
-  * Notification of Privacy Policy Changes
-  * Contact information
+  * Collection and Use of Personal Information 
+  * Information Obtained from Third Parties 
+  * Information sharing 
+  * Customer Testimonials/Comments/Reviews 
+  * Tracking Technologies 
+  * Behavioral Targeting / Re-Targeting 
+  * Links to Other Websites 
+  * Social Media Widgets 
+  * Security 
+  * Additional Policy Information 
+  * Notification of Privacy Policy Changes 
+  * Contact information 
 
 
 
@@ -38,8 +34,10 @@ We may collect the following personal information from you
   * Contact information such as name, email address, mailing address, phone number
   * Billing information such as credit card number, and billing address
   * Unique identifiers such as user name, account number, password
-  * As is true of most websites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
-  * Third party personal information through the referral rewards program such as name, email address, phone number.
+  * Purchase information such as equipment and plan selections and other purchase details
+  * Account information such as system status and system event records. This information may be collected automatically from your system once it is activated or from our direct interactions with your account. 
+  * As is true of most websites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. 
+  * Third party personal information through the referral rewards program such as name, email address, phone number. 
 
 
 
@@ -72,10 +70,11 @@ We will share your personal information with third parties only in the ways that
 
 We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-  * We may also disclose your personal information as required by law such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * If FrontPoint Security is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so.
+We may provide your personal information to companies that provide a co-branded or joint marketing program in which you have opted to participate. For instance, we may run a special promotion with a third party home insurance provider who is offering incentives for you to purchase one of our home security monitoring systems. We may share your personal information with such partners to enable them to administer the incentive program. In those instances, their use of your personal information will be subject to their own privacy policies.
 
+We may also disclose your personal information as required by law such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
 
+If FrontPoint Security is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so.
 
 **Customer Testimonials/Comments/Reviews**
 
