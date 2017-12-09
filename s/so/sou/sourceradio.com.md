@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourceradio.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522002949id_/http%3A//themovievault.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceradio.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209082318id_/http%3A//themovievault.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
