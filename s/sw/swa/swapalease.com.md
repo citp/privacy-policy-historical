@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119074841id_/http%3A//www.swapalease.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209132329id_/http%3A//www.swapalease.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Swapalease.com
 
