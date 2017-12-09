@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616035713id_/http%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209210334id_/http%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crowdfunder.co.uk
 
@@ -62,7 +62,7 @@ _When creating an account and joining the Crowdfunder.co.uk community, we collec
   5. reply to any correspondence you send to us; andfor any other reasonable purposes related to Crowdfunder.co.uk or your membership.
 
 
-  * ****Your name. This is not displayed publicly on the Crowdfunder.co.uk unless you choose to display your name, rather than your username, when you support a Project. If the project you choose to support is successful in reaching its target funding within the target timescale, then, unless you pledge anonymously, your name (as shown on your bank account) is given to the Project Owner by our payment processors, GoCardless and Stripe, when your funds are taken from your account** **.****
+  * ****Your name. This is not displayed publicly on the Crowdfunder.co.uk unless you choose to display your name, rather than your username, when you support a Project. If the project you choose to support is successful in reaching its target funding within the target timescale, then, unless you pledge anonymously, your name (as shown on your bank account) is given to the Project Owner by our payment processors, Crowdfunder Payments and Stripe, when your funds are taken from your account** **.****
   *  ** **By pledging you agree that your personal details given to the Project Owner may be used as relevant for reward fulfilment (i.e. your name on a wall of fame). If your details are used for anything else please contact the Project Owner. Please see our[Terms and Conditions](http://www.crowdfunder.co.uk/terms-conditions) for the contract between you and the project owner.****
 
 
@@ -140,13 +140,9 @@ _Legal requests:_
 
 ### 5\. Payment providers
 
-**5.1** If you decide to support a Project by making a financial contribution to it using GoCardless, you will be directed to the payment processor GoCardless to process your payment. You will be invited to set-up a Direct Debit mandate with GoCardless. If the Project is successful in reaching 100% of its target funding within its target timescale, GoCardless will execute a one-off direct debit from your account only.
+**5.1**  If you decide to support a Project by making a financial contribution to it using PayPal you will be directed to the payment processor PayPal to process your payment. Please read PayPal's [privacy policy](https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy_pop-outside&popup=1&country.x=US) to learn your privacy rights regarding PayPal's collection, use, storage, sharing and protection of your personal information.
 
-**5.2** GoCardless operates a secure server to process your payments details. They encrypt the account information you provide and once a Project has successfully reached its target funding within its target timescale, will authorise the debit from your account directly. This means that your account details are never revealed to us. Please read their privacy policy at [[GoCardless privacy policy]](https://gocardless.com/privacy)to see what security measures they have in place and how they treat your information.
-
-**5.3** If you decide to support a Project by making a financial contribution to it using PayPal you will be directed to the payment processor PayPal to process your payment. Please read PayPal's [privacy policy](https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy_pop-outside&popup=1&country.x=US) to learn your privacy rights regarding PayPal's collection, use, storage, sharing and protection of your personal information.
-
-**5.4** If you decide to support a Project by making a financial contribution to it using Stripe you will be prompted to enter your: Full Name, Credit/Debit Card Details & Billing Address in order to process your payment. Please read Stripe’s [privacy policy](https://stripe.com/gb/privacy) to learn what policies Stripe has to manage and protect your personal information.
+**5.2**  If you decide to support a Project by making a financial contribution to it using Stripe or Crowdfunder Payments you will be prompted to enter your: Full Name, Credit/Debit Card Details & Billing Address in order to process your payment. Please read Stripe’s [privacy policy](https://stripe.com/gb/privacy) to learn what policies Stripe has to manage and protect your personal information.
 
 ### 6\. Using information about other Crowdfunder.co.uk users
 
