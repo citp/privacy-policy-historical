@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionzip.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611045956id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionzip.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209161121id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.*
 
 # AuctionZip, LLC Privacy Policy
 
