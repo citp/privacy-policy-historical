@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yegnatikuret.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518221745id_/http%3A//yegnatikuret.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yegnatikuret.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209170906id_/http%3A//www.yegnatikuret.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
