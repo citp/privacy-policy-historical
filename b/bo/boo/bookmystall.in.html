@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bookmystall.in privacy policy that was archived on 2017-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170609080628id_/http%3A//www.bookmystall.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookmystall.in privacy policy that was archived on 2017-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171210002306id_/http%3A//www.bookmystall.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-IN"><!--<![endif]--><head>
   	
@@ -8,10 +8,11 @@
 <base href="http://www.bookmystall.in/">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Online platform to reserve stall spaces in Today's Lifestyle Expos, Flea markets, Handloom Exhibitions, Carnivals, Festivals etc.">
-<meta name="keywords" content="bookmystall, exhibition stalls, popup stalls, flea market, lifestyle exhibitions, college fests, trade expo, events">
+<meta name="description" content="Find stall spaces in Today's Lifestyle Exhibitions Expos, Flea markets, Fashion Events, College Fests, Carnivals, Festivals etc.">
+<meta name="keywords" content="bookmystall, exhibition stalls, popup spaces, fleamarkets, lifestyle exhibitions, college fests, fashion events, trade shows, expos">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="BookMyStall">
+<meta name="msvalidate.01" content="2C5435CDBCDAF12043F3F91FE281228B">
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 <script async="" src="https://embed.tawk.to/55f506f49117999634b94b3a/default" charset="UTF-8" crossorigin="*"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
     (function (i, s, o, g, r, a, m) {
@@ -28,6 +29,7 @@
     ga('create', 'UA-66471306-1', 'auto');
     ga('send', 'pageview');
 </script>
+
 <link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -49,7 +51,7 @@
 <div id="header" class="bms-header new shift-with-hiw">
     <div class="regular-header regular-header--new clearfix" id="new-header">
         <div class="comp pull-left">
-            <a href="index.php" class="hdr-btn link-reset">
+            <a href="http://www.bookmystall.in" class="hdr-btn link-reset">
                 <img src="images/bookmystall-logo.png" alt="bookmystall">
             </a>
         </div>
@@ -100,8 +102,7 @@
 
 									<a href="become-volunteer.php"><span class="btn"><i class="fa fa-handshake-o"></i>Be a Volunteer</span></a>
 									
-									<a href="zero-transaction-fee.php"><span class="btn"><i class="fa fa-rupee"></i>0% Transaction Fee</span></a>
-								</div>
+																	</div>
 							</div>
 						</div>
 					</div>					
@@ -150,7 +151,7 @@
             for (var i = 0; i < data.length; i++) {
                 $("#getEventCity").append("<a id='" + data[i].Id + "' href='cities/" + data[i].Id + "/" + data[i].Name + "' class='article-link hover-item'>" +
                     "<div class='hover-item__content va-container'>" +
-                    "<div class='result-icon va-middle'><img src='" + data[i].Image + "' alt='Book My Stall'/></div>" +
+                    "<div class='result-icon va-middle'><img src='" + data[i].Image + "' alt='" + data[i].Name + "'/></div>" +
                     "<div class='content va-middle'><div class='title text-dark-gray' >" + data[i].Name + "</div></div>" +
                     "</div>" +
                     "</a>");
@@ -258,6 +259,9 @@
 				if (data[i].Name == "Madurai") {
                     $(".Madurai").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
                 }
+				if (data[i].Name == "Mangalore") {
+                    $(".Mangalore").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }				
 				if (data[i].Name == "Gwalior") {
                     $(".Gwalior").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
                 }
@@ -278,6 +282,87 @@
                 }
 				if (data[i].Name == "Guwahati") {
                     $(".Guwahati").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Patna") {
+                    $(".Patna").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Jamnagar") {
+                    $(".Jamnagar").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Amravati") {
+                    $(".Amravati").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Ghaziabad") {
+                    $(".Ghaziabad").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Meerut") {
+                    $(".Meerut").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Shillong") {
+                    $(".Shillong").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Dehradun") {
+                    $(".Dehradun").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Kolhapur") {
+                    $(".Kolhapur").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Palampur") {
+                    $(".Palampur").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Bhubaneswar") {
+                    $(".Bhubaneswar").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Phagwara") {
+                    $(".Phagwara").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Nagaon") {
+                    $(".Nagaon").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Rajahmundry") {
+                    $(".Rajahmundry").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Bareilly") {
+                    $(".Bareilly").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Krishnagiri") {
+                    $(".Krishnagiri").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Davangere") {
+                    $(".Davangere").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Patiala") {
+                    $(".Patiala").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Udaipur") {
+                    $(".Udaipur").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Panipat") {
+                    $(".Panipat").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Aurangabad") {
+                    $(".Aurangabad").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Pollachi") {
+                    $(".Pollachi").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Thiruchirapalli") {
+                    $(".Thiruchirapalli").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Sikar") {
+                    $(".Sikar").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Colombo") {
+                    $(".Colombo").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Panchkula") {
+                    $(".Panchkula").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Dubai") {
+                    $(".Dubai").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
+                }
+				if (data[i].Name == "Guntur") {
+                    $(".Guntur").attr("href", "cities/" + data[i].Id + "/" + data[i].Name);
                 }
             }
 
@@ -371,21 +456,23 @@
                 <h2 class="h5">Company</h2>
                 <ul class="list-layout">
                     <li><a href="aboutus" class="link-contrast">About BMS</a></li>
+					<li><a href="faqs" class="link-contrast">FAQ's</a></li>
 					<li><a href="how-it-works" class="link-contrast">How it Works</a></li>
-					<li><a href="press-releases.php" class="link-contrast">Press Releases</a></li>
+					<li><a href="become-volunteer" class="link-contrast">Be a Volunteer</a></li>
+					<!--<li><a href="press-releases.php" class="link-contrast">Press Releases</a></li>-->
                     <li><a href="http://bookmystall.blogspot.in" class="link-contrast" target="_blank">Blog</a></li>
-                    <li><a href="faqs" class="link-contrast">FAQ's</a></li>
+                    
                 </ul>
             </div>
-            <div class="col-md-2 hide-sm">
+            <!--<div class="col-md-2 hide-sm">
                 <h2 class="h5">Categories</h2>
                 <ul class="list-layout">
-                    <li><a href="#" class="link-contrast">Apparel &amp; Fashion</a></li>
+                    <li><a href="#" class="link-contrast">Apparel & Fashion</a></li>
                     <li><a href="#" class="link-contrast">College Fests</a></li>                    
                     <li><a href="#" class="link-contrast">Organic Goods</a></li>
                     <li><a href="#" class="link-contrast">Startups</a></li>
                 </ul>
-            </div>
+            </div>-->
             <div class="col-md-2 hide-sm">
                 <h2 class="h5">Links</h2>
                 <ul class="list-layout">
@@ -393,13 +480,24 @@
                 </ul>
             </div>
             <div class="col-md-2 col-sm-6 hide-sm">
-                <h2 class="h5">Top 5 Cities</h2>
+                <h2 class="h5">Top 10 Cities</h2>
                 <ul class="list-layout">
-                    <li><a href="#" class="link-contrast Hyderabad">Hyderabad</a></li>
-                    <li><a href="#" class="link-contrast Bangalore">Bangalore</a></li>
-                    <li><a href="#" class="link-contrast Mumbai">Mumbai</a></li>
-					<li><a href="#" class="link-contrast Chennai">Chennai</a></li>
-                    <li><a href="#" class="link-contrast Pune">Pune</a></li>					
+                    <li><a href="#" class="link-contrast Hyderabad">Exhibitions in Hyd</a></li>
+                    <li><a href="#" class="link-contrast Bangalore">Exhibitions in Bangalore</a></li>
+                    <li><a href="#" class="link-contrast Mumbai">Exhibitions in Mumbai</a></li>
+					<li><a href="#" class="link-contrast Chennai">Exhibitions in Chennai</a></li>
+                    <li><a href="#" class="link-contrast Pune">Exhibitions in Pune</a></li>					
+                </ul>
+            </div>
+			
+			<div class="col-md-2 col-sm-6 hide-sm">
+                <h2 class="h5">&nbsp;</h2>
+                <ul class="list-layout">
+                    <li><a href="#" class="link-contrast Delhi">Exhibitions in Delhi</a></li>
+                    <li><a href="#" class="link-contrast Jaipur">Exhibitions in Jaipur</a></li>
+                    <li><a href="#" class="link-contrast Kolkata">Exhibitions in Kolkata</a></li>
+					<li><a href="#" class="link-contrast Vijayawada">Exhibitions in Vijayawada</a></li>
+                    <li><a href="#" class="link-contrast Rajkot">Exhibitions in Rajkot</a></li>					
                 </ul>
             </div>
         </div>
@@ -413,7 +511,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="https://plus.google.com/116160751905617350330" class="link-contrast footer-icon-container" target="_blank">
+                    <a href="https://plus.google.com/+Bookmystallin" class="link-contrast footer-icon-container" target="_blank">
                         <span class="screen-reader-only">BookMyStall Google+</span><i class="fa fa-google-plus"></i>
                     </a>
                 </li>
