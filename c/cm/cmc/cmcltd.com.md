@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmcltd.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613145024id_/http%3A//www.cmcltd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmcltd.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209123409id_/http%3A//cmcltd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for cmcltd.com
 
@@ -16,8 +16,6 @@ cmcltd.com may use the information collected from you when you register, make a 
 
 
 
-cmcltd.com does not use an SSL certificate. cmcltd.com only provides articles and information.
-
 Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, cmcltd.com uses cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services.
 
 cmcltd.com uses cookies to:
@@ -34,6 +32,8 @@ cmcltd.com does not sell, trade, or otherwise transfer to outside parties your p
 
 COPPA (Children Online Privacy Protection Act)
 
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
 cmcltd.com does not specifically market to children under 13.
 
 Fair Information Practices
@@ -48,6 +48,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 To be in accordance with CANSPAM cmcltd.com agrees to the following:
 
+  * NOT use false or misleading subjects or email addresses.
   * Identify the message as an advertisement in some reasonable way.
   * Include the physical address of our business or site headquarters.
   * Monitor third-party email marketing services for compliance, if one is used.
