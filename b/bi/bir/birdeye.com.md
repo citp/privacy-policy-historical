@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birdeye.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615094118id_/http%3A//birdeye.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdeye.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209165430id_/https%3A//birdeye.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BirdEye
 
