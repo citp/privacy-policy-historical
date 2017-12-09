@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2017-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170611045956id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2017-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171209161121id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>
@@ -43,6 +43,19 @@ var PREBID_adUnits = [{
   code: 'global_header_ad',
   sizes: [728,90],
   bids: [{
+    bidder: 'sovrn',
+    params: {
+      tagid: '404728'
+    }
+  },{
+    bidder: 'rubicon',
+    params: {
+      accountId: '16282',
+      siteId: '119460',
+      zoneId: '564486',
+      Sizes: '[2]'
+    }
+  },{
     bidder: 'pulsepoint',
     params: {
       cf: '728X90',
@@ -79,19 +92,6 @@ var PREBID_adUnits = [{
       size: '7x9'
     }
   },{
-    bidder: 'sovrn',
-    params: {
-      tagid: '404728'
-    }
-  },{
-    bidder: 'rubicon',
-    params: {
-      accountId: '16282',
-      siteId: '119460',
-      zoneId: '564486',
-      Sizes: '[2]'
-    }
-  },{
     bidder: 'openx',
     params: {
       unit: '538621051'
@@ -107,6 +107,15 @@ var pbjs = pbjs || {};
 pbjs.que = pbjs.que || [];
 pbjs.retries = 0;
 
+const customGranularity = {
+ 'buckets': [{
+  "precision": 2,
+  'min': 0,
+  'max': 100,
+  'increment': 0.01
+ }]
+};
+
 (function () {
   var script = document.createElement('script');
   script.async=true;
@@ -117,13 +126,11 @@ pbjs.retries = 0;
 })();
 
 pbjs.que.push(function() {
-//  pbjs.enableAnalytics({
-//    provider: 'aol', // Enable AOL Container solution reporting
-//    options: {}
-//  });
-
   pbjs.addAdUnits(PREBID_adUnits);
-  pbjs.enableSendAllBids();
+  //  pbjs.setConfig({ priceGranularity: "high" });
+  pbjs.setConfig({ priceGranularity: customGranularity });
+  //  pbjs.enableSendAllBids(); // Depreciated
+  pbjs.setConfig({ enableSendAllBids: true });
   pbjs.requestBids({
     timeout: PREBID_timeout, // The primary timeout is set here
     bidsBackHandler: sendAdserverRequest
@@ -152,7 +159,7 @@ function sendAdserverRequest(bidResponses) {
 		var bidid=null;
 		var code=PREBID_adUnits[bid].code;
 		// Extract openx auid from bid requests where available
-		// openx bids without the jstag_url param will not execute,
+		// bids without delDomain-v.34 or jstag_url-v.17 param will not execute,
 		// but this is a good place to store the auid for use below.
 		var bids=PREBID_adUnits[bid].bids;
 		for (b=0;b<bids.length;b++)
@@ -185,7 +192,7 @@ function sendAdserverRequest(bidResponses) {
 				var iframe = document.createElement('iframe');
 				iframe.setAttribute("scrolling", "no");
 				try {
-				iframe.setAttribute("sandbox", "allow-same-origin allow-scripts allow-popups allow-form");
+				iframe.setAttribute("sandbox", "allow-same-origin allow-scripts allow-popups allow-forms");
 				} catch (e) {}
 				iframe.style.margin='0px';
 				iframe.style.padding='0px';
@@ -214,7 +221,7 @@ function sendAdserverRequest(bidResponses) {
 				var iframe = document.createElement('iframe');
 				iframe.setAttribute("scrolling", "no");
 				try {
-				iframe.setAttribute("sandbox", "allow-same-origin allow-scripts allow-popups allow-form");
+				iframe.setAttribute("sandbox", "allow-same-origin allow-scripts allow-popups allow-forms");
 				} catch (e) {}
 				iframe.style.margin='0px';
 				iframe.style.padding='0px';
@@ -257,7 +264,7 @@ function sendAdserverRequest(bidResponses) {
 					var iframe = document.createElement('iframe');
 					iframe.setAttribute("scrolling", "no");
 					try {
-					iframe.setAttribute("sandbox", "allow-same-origin allow-scripts allow-popups allow-form");
+					iframe.setAttribute("sandbox", "allow-same-origin allow-scripts allow-popups allow-forms");
 					} catch (e) {}
 					iframe.style.margin='0px';
 					iframe.style.padding='0px';
@@ -307,7 +314,7 @@ function sendAdserverRequest(bidResponses) {
 	
 	
 	<div id="hlogIn" style="display: block;">
-		<a href="http://www.auctionzip.com/cgi-bin/azlogin.cgi">Sign Up</a>
+		<a href="//www.auctionzip.com/cgi-bin/azlogin.cgi">Sign Up</a>
 		|
 		<a href="javascript: showLogin();" id="headingLink">Member Login</a>
 	</div>
@@ -328,7 +335,7 @@ function sendAdserverRequest(bidResponses) {
 					<div class="clearfix">
 						<label class="formItems" for="pw">Password:</label>
 						  <input class="txtIP" id="pw" type="password" size="16" name="pass">
-						  <a href="http://www.auctionzip.com/lostpass.html" class="forgotPW">Forgot  your password?</a>
+						  <a href="//www.auctionzip.com/lostpass.html" class="forgotPW">Forgot  your password?</a>
 					</div>
 					
 					<input type="checkbox" checked="checked" value="1" id="remem" name="remember">
@@ -361,20 +368,20 @@ function sendAdserverRequest(bidResponses) {
 				<!-- navBar // -->
 	<div id="navBar" class="clearfix">
 		<ul id="mainNavLinks">
-			<li><a href="http://www.auctionzip.com">Home</a></li>
-			<li><a href="http://www.auctionzip.com/online-auctions/">Online Bidding</a></li> 
-			<li><a href="http://www.auctionzip.com/Auctioneer-Directory/">Auctioneer Directory</a></li>
-			<li><a href="http://www.auctionzip.com/cgi-bin/azlogin.cgi">Member Login &amp; Sign Up</a></li> 
+			<li><a href="//www.auctionzip.com">Home</a></li>
+			<li><a href="//www.auctionzip.com/online-auctions/">Online Bidding</a></li> 
+			<li><a href="//www.auctionzip.com/Auctioneer-Directory/">Auctioneer Directory</a></li>
+			<li><a href="//www.auctionzip.com/cgi-bin/azlogin.cgi">Member Login &amp; Sign Up</a></li> 
 			<li></li>
 		</ul>
 		  
 		
 		<div class="navRight"> 
-			<form method="post" action="javascript: void(0);" onsubmit="javascript: submitAuctioneerSearch('http://www.auctionzip.com'); return false;">
+			<form method="post" action="javascript: void(0);" onsubmit="javascript: submitAuctioneerSearch('//www.auctionzip.com'); return false;">
 				<p>
 					AuctionZip Auctioneer ID#
 					<input type="text" id="txtSearchAZID" name="txtSearchAZID" class="txtx">
-					<input type="button" class="fixGreen submitx" onclick="javascript: submitAuctioneerSearch('http://www.auctionzip.com'); return false;" value="GO">
+					<input type="button" class="fixGreen submitx" onclick="javascript: submitAuctioneerSearch('//www.auctionzip.com'); return false;" value="GO">
 				</p>
 			</form>
 		</div> 
@@ -437,7 +444,7 @@ select.azsrchbar::-ms-expand {
 </style>
 <div id="hsrchbarbox" class="hsrchbarbox" style="width:100%; height:75px; background-color: #FFE9AF; margin-top:0px;">
 <div>
-<form name="hsrchbox" id="hsrchbox" action="http://www.auctionzip.com/cgi-bin/auctionsearch.cgi" method="get">
+<form name="hsrchbox" id="hsrchbox" action="//www.auctionzip.com/cgi-bin/auctionsearch.cgi" method="get">
 <div style="height:75px; padding-top:20px;">
 <div style="float: left; width: 10px;">&nbsp;</div>
 <div style="float: left; width: 100px;">
@@ -1013,30 +1020,30 @@ _qoptions={
 
 	<ul class="footerLink">
 		<li class="headingLink">Auction Search</li>
-			<li><a href="http://www.auctionzip.com/cgi-bin/auctionsearch.cgi?txtSearchRadius=0&amp;txtSearchZip=&amp;txtSearchKeywords=&amp;idxSearchCategory=0&amp;month=&amp;year=">Auction Calendar</a></li>
-			<li><a href="http://www.auctionzip.com/Auctioneer-Directory/">Auctioneer Directory</a></li>
-			<li><a href="http://www.auctionzip.com/cgi-bin/highlights.cgi">Prices Realized</a></li>
+			<li><a href="//www.auctionzip.com/cgi-bin/auctionsearch.cgi?txtSearchRadius=0&amp;txtSearchZip=&amp;txtSearchKeywords=&amp;idxSearchCategory=0&amp;month=&amp;year=">Auction Calendar</a></li>
+			<li><a href="//www.auctionzip.com/Auctioneer-Directory/">Auctioneer Directory</a></li>
+			<li><a href="//www.auctionzip.com/cgi-bin/highlights.cgi">Prices Realized</a></li>
 	</ul>
 	
 	<ul class="footerLink">
 		<li class="headingLink">Online Bidding</li>
-			<li><a href="http://www.auctionzip.com/online-auctions/">Upcoming Auctions</a></li>
+			<li><a href="//www.auctionzip.com/online-auctions/">Upcoming Auctions</a></li>
 
 			<!-- Commented out since videos dont match across sites -->
-			<!--<li><a href="http:// #echo var="HTTP_HOST" >/Tutorial.html">Online Bidding Tutorial</a></li>-->
+			<!--<li><a href="// #echo var="HTTP_HOST" >/Tutorial.html">Online Bidding Tutorial</a></li>-->
 			
-			<li><a href="http://www.auctionzip.com/azlive.html?method=getHelpInfo">Online Bidding Help</a></li>
+			<li><a href="//www.auctionzip.com/azlive.html?method=getHelpInfo">Online Bidding Help</a></li>
 	</ul>
 	
 	<ul class="footerLink">
 		<li class="headingLink">Quick Links</li>
-			<li><a href="http://www.auctionzip.com/cgi-bin/azlogin.cgi">Create Account</a></li>
+			<li><a href="//www.auctionzip.com/cgi-bin/azlogin.cgi">Create Account</a></li>
 			<li><a href="http://auctionzipontheblock.blogspot.com">Auction News</a></li>
 			<li><a href="https://www.auctionzip.com/azforum/">Auction Forum</a></li>
-			<li><a href="http://www.auctionzip.com/about.html">About Us</a></li>
-			<li><a href="http://www.auctionzip.com/contacts.html">Contact Us</a></li>
-			<li><a href="http://www.auctionzip.com/linktous.html">Link to Us</a></li>
-			<li><a href="http://www.auctionzip.com/content/advertise/">Advertise with Us</a></li>
+			<li><a href="//www.auctionzip.com/about.html">About Us</a></li>
+			<li><a href="//www.auctionzip.com/contacts.html">Contact Us</a></li>
+			<li><a href="//www.auctionzip.com/linktous.html">Link to Us</a></li>
+			<li><a href="//www.auctionzip.com/content/advertise/">Advertise with Us</a></li>
 	</ul>
 	
 	<ul class="footerLink">
@@ -1168,9 +1175,9 @@ _qoptions={
 		<li class="copy">© AuctionZip 2003 - 
 			<script type="text/javascript">var d = new Date(); d = d.getFullYear(); document.write(d);</script>2020
 		</li>
-		<li><a href="http://www.auctionzip.com/agreements/terms.html">Terms of Use</a></li>
-		<li><a href="http://www.auctionzip.com/agreements/privacy.html">Privacy</a></li>
-		<li><a href="http://www.auctionzip.com/agreements/subterms.html">Subscription Agreement</a></li>
+		<li><a href="//www.auctionzip.com/agreements/terms.html">Terms of Use</a></li>
+		<li><a href="//www.auctionzip.com/agreements/privacy.html">Privacy</a></li>
+		<li><a href="//www.auctionzip.com/agreements/subterms.html">Subscription Agreement</a></li>
 	</ul>
 </div>
 
