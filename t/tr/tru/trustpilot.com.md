@@ -1,20 +1,12 @@
-> *The following text is extracted and transformed from the trustpilot.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626052737id_/http%3A//legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustpilot.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209014657id_/http%3A//legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  * [Terms & Conditions](http://legal.trustpilot.com/end-user-terms-and-conditions)
-  * [Privacy Policy](http://legal.trustpilot.com/end-user-privacy-terms)
-  * [COPYRIGHT DISPUTE POLICY](http://legal.trustpilot.com/copyright)
-
-
 
 ## PRIVACY POLICY
 
 By creating a profile on or using any of the Trustpilot websites including, but not limited to www.trustpilot.com, (the "Website") you **accept** the terms contained in this Privacy Policy, which govern the processing of your personal data on the Website.
 
-We, Trustpilot, Inc., 245 5th Avenue, 4th floor, New York, NY 10016, USA ("Trustpilot") recommend that you **print** and **keep** a copy of this Privacy Policy.
-
-Close and return
+We, Trustpilot, Inc., 245 5th Avenue, 5th floor, New York, NY 10016, USA ("Trustpilot") recommend that you **print** and **keep** a copy of this Privacy Policy.
 
 ### 1  Collecting information on the Website
 
@@ -245,5 +237,3 @@ Trustpilot, Inc.,
 New York, NY 10016, USA
 
 November 2013
-
-Close and return
