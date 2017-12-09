@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quantcast.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630131546id_/https%3A//www.quantcast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantcast.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209201654id_/https%3A//www.quantcast.com/privacy) for the most accurate reproduction.*
 
 # Quantcast Privacy Policy | Quantcast
 
-Effective: February 7, 2014
+Effective: July 17, 2017
 
 ### Privacy Commitment
 
@@ -22,8 +22,7 @@ We use some phrases in this Privacy Policy that are unique to our business or th
 
 #### Cookies
 
-A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. They typically are used to store user preferences or IDs. Some cookies are set by the site you are visiting, and others are set by that site’s service partners.  Cookies allow the site and services to recognize your browser. And the site or service that places a particular cookie has permission to read the contents of that cookie each time it communicates with your browser.
-
+A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. They typically are used to store user preferences or IDs. Some cookies are set by the site you are visiting, and others are set by that site’s service partners. Cookies allow the site and services to recognize your browser. And the site or service that places a particular cookie has permission to read the contents of that cookie each time it communicates with your browser.  
 Important note about cookies: If you visit a site with Quantcast cookies with your browser set to accept cookies, we will assume that you have consented to our setting and reading cookies from your browser. You do not have to use cookies, but if you do not accept cookies, you may not be able to use all portions of Quantcast.com or all functionality of the Services. In addition, some websites host prior versions of our code that used Flash cookies. We no longer use these cookies for any purpose. If you want to delete Flash cookies, please access your Flash Player settings management tool (available on Adobe’s web site), or click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 #### Tags
@@ -40,7 +39,7 @@ Personally Identifiable Information (PII) is information about you that can be u
 
 #### Non-Personally Identifiable Information (“Non-PII”)
 
-Non-PII refers to information about individuals that, in some cases, might serve to identify a device or browser but does not identify any individual person. For example, we consider the following to be Non-PII: your ZIP code, approximate location (e.g., region, city, ZIP), your browser type, cookie IDs, device identifiers, IP address, websites you may have visited, and advertisements viewed or clicked.  We also consider aggregated, de-identified, and/or anonymized data to be **Non-PII**. Not all jurisdictions have the same definition for PII and Non-PII. Some jurisdictions consider IP addresses to be PII. When Quantcast stores an IP address, we store it in truncated or encrypted form.
+Non-PII refers to information about individuals that, in some cases, might serve to identify a device or browser but does not identify any individual person. For example, we consider the following to be Non-PII: your ZIP code, approximate location (e.g., region, city, ZIP), your browser type, cookie IDs, device identifiers, IP address, websites you may have visited, and advertisements viewed or clicked. We also consider aggregated, de-identified, and/or anonymized data to be Non-PII. Not all jurisdictions have the same definition for PII and Non-PII. Some jurisdictions consider IP addresses to be PII. When Quantcast stores an IP address, we store it in truncated or encrypted form.
 
 #### Quantcast Partners (“Partners”)
 
@@ -56,7 +55,7 @@ This refers broadly to the entire set of services that we provide through our Me
 
 When you visit Quantcast.com, whether as a Visitor or a Registered User, our servers record and collect Log Data automatically sent by your browser. We use the Log Data to monitor, analyze, administer, and improve the Quantcast Site and our Services. We require our Quantcast Partners to provide some PII as part of signing up to use our Measure and Advertise products, such as full name, contact email, physical address, and telephone number. We use this PII mainly to provide the Services, to administer accounts, and to address questions and issues you might have.
 
-If you contact us by email, we may keep a record of your contact information and correspondence.  If you provide contact information to us, we may use that information to contact you with Quantcast newsletters, marketing, or promotional materials. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications.
+If you contact us by email, we may keep a record of your contact information and correspondence. If you provide contact information to us, we may use that information to contact you with Quantcast newsletters, marketing, or promotional materials. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications.
 
 #### Information Collected through our Services
 
@@ -74,13 +73,12 @@ We may share with third parties Non-PII, including certain Log Data, as part of 
 
 #### Information Shared with Our Service Providers
 
-We may use third parties and Quantcast affiliate companies to help us administer and improve our Measure and Advertise products. For example, these companies may assist with hosting, data processing, database management, and administrative tasks. These third parties and affiliates may have access to your PII (if you submitted such data to Quantcast) and Log Data, but only to perform these tasks on our behalf, and they are obligated not to disclose or use it for any other purpose.
-
+We may use third parties and Quantcast affiliate companies to help us administer and improve our Measure and Advertise products. For example, these companies may assist with hosting, data processing, database management, and administrative tasks. These third parties and affiliates may have access to your PII (if you submitted such data to Quantcast) and Log Data, but only to perform these tasks on our behalf, and they are obligated not to disclose or use it for any other purpose.  
 We also receive Demographics and Interest Reporting data about the Quantcast Site from one of our service providers, Google Analytics. This data is used purely to satisfy our own curiosity about the type and quality of Demographic and Interest Reporting that Google provides. If you like, you can opt out of Google Analytics through Google’s Ad Settings.
 
 #### Information Disclosed for Our Protection and the Protection of Others
 
-It is our policy to protect you from having your privacy violated through abuse of the legal system.  But we reserve the right to disclose information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary: (i) to comply with any applicable laws, regulations, and valid subpoenas, warrants, and court orders; (ii) to protect the rights, property, and safety of ourselves, third parties, or the public in general; and (iii) to prevent or stop activity we consider to be illegal or unethical.
+It is our policy to protect you from having your privacy violated through abuse of the legal system. But we reserve the right to disclose information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary: (i) to comply with any applicable laws, regulations, and valid subpoenas, warrants, and court orders; (ii) to protect the rights, property, and safety of ourselves, third parties, or the public in general; and (iii) to prevent or stop activity we consider to be illegal or unethical.
 
 #### Information Disclosed in a Change of Ownership
 
@@ -108,7 +106,7 @@ You have a right to access your PII controlled by Quantcast by emailing us at th
 
 ### Data Security
 
-We employ administrative, physical, and technical measures designed to protect your information from unauthorized access. These measures may include encryption of information you provide and employment of information storage security technologies to block access from outside our network.  Please be aware that no method of transmitting information over the Internet or storing information is completely secure. Additionally, in some instances our Partners or others may provide information to us in unencrypted form.
+We employ administrative, physical, and technical measures designed to protect your information from unauthorized access. These measures may include encryption of information you provide and employment of information storage security technologies to block access from outside our network. Please be aware that no method of transmitting information over the Internet or storing information is completely secure. Additionally, in some instances our Partners or others may provide information to us in unencrypted form.
 
 ### International Transfers
 
@@ -120,27 +118,27 @@ Quantcast does not knowingly collect PII from children under 13. If a parent or 
 
 ### Health Information
 
-Quantcast does not knowingly collect or utilize any sensitive health-related information, such as, for example, information related to past or present medical conditions or prescriptions.  We do assist some of our advertising clients in serving ads for their health, medical, and wellness related products. We also provide the following standard segments related to health and wellness: cosmetics, diapers, hair care, and mouthwash.
+Quantcast does not knowingly collect or utilize any sensitive health-related information, such as, for example, information related to past or present medical conditions or prescriptions. We do assist some of our advertising clients in serving ads for their health, medical, and wellness related products. We also provide the following standard segments related to health and wellness: cosmetics, diapers, hair care, and mouthwash.
 
 ### Other Websites and Apps
 
-We contractually require our Quantcast Partners to ensure that their sites and apps containing Quantcast Tags post adequate privacy policies and otherwise protect the privacy rights of their visitors.  However, the fact that we link to a particular site or app or receive data from a site or app, does not mean that we endorse that site or app, nor its privacy practices.  These other websites have their own terms of use and privacy policies, and we would encourage you to read those terms and policies when you visit those websites.
+We contractually require our Quantcast Partners to ensure that their sites and apps containing Quantcast Tags post adequate privacy policies and otherwise protect the privacy rights of their visitors. However, the fact that we link to a particular site or app or receive data from a site or app, does not mean that we endorse that site or app, nor its privacy practices. These other websites have their own terms of use and privacy policies, and we would encourage you to read those terms and policies when you visit those websites.
 
 ### Quantcast Data Control
 
 The Quantcast.com Site and Services are made available and provided to persons residing within the United States by Quantcast Corporation, located at 795 Folsom Street, San Francisco, CA 94107. Information or data relating to persons within the United States provided to or gathered by the Quantcast.com Site or Services are controlled by Quantcast Corporation.
 
-The Quantcast.com Site and Services are made available to persons resident outside the United States by Quantcast International Limited, located at Beaux Lane House, Lower Mercer Street, 1st Floor, Dublin 2, Ireland. Information or data relating to persons resident outside the United States provided to or gathered by the Quantcast.com Site or Services is controlled by Quantcast International Limited.
+The Quantcast.com Site and Services are made available to persons resident outside the United States by Quantcast International Limited, located at Beaux Lane House, Lower Mercer Street, 1st Floor, Dublin 2, Ireland. Information or data relating to persons resident outside the United States provided to or gathered by the Quantcast.com Site or Services is controlled by Quantcast International Limited.
 
 ### Our Memberships and Affiliations
 
-Quantcast is a member of the Network Advertising Initiative (NAI) and is in compliance with the NAI’s [2013 Code of Conduct](http://www.networkadvertising.org/2013_Principles.pdf).  Quantcast is also a member of the Digital Advertising Alliance (“DAA”) and is in compliance with the DAA’s [Self-Regulatory Principles](http://www.aboutads.info/obaprinciples) for Online Behavioral Advertising. Quantcast is also a member of the European Digital Advertising Alliance (“EDAA”) and is in compliance the [EDAA’s Self-Regulatory Principles](http://www.edaa.eu/european-principles/). Please see the “Opt Out” section of this Privacy Policy for more information about the NAI’s, DAA’s, and EDAA’s opt-out pages.
+Quantcast is an active member of industry associations that govern the policies around online consumer privacy in the context of internet-based advertising, including: the Network Advertising Initiative (NAI), the Digital Advertising Alliance (DAA), and the European Interactive Digital Advertising Alliance (EDAA). Quantcast complies with the [NAI Codes of Conduct](http://www.networkadvertising.org/code-enforcement), the [DAA Self-Regulatory Principles](http://www.aboutads.info/principles/), and the [EDAA Self-Regulatory Principles](http://www.edaa.eu/european-principles/). We believe that these codes and principles help protect consumer privacy.
 
-Quantcast is also a member of TRUSTe’s Data Collection Program, which means that this Privacy Policy and our practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/3rd-party-data-collection/) including transparency, accountability, and choice regarding the collection and use of information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us through one of the methods listed here. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program only covers the collection and use practices for data that we obtain through our Measure and Advertise products.
+Please see the “Opt Out” section of this Privacy Policy for more information about the NAI’s, DAA’s, and EDAA’s opt-out pages.
 
 ### Changes to the Privacy Policy
 
-Any information that we collect is subject to the privacy policy in effect at the time that information is collected.  However, we may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them clearly on our website or by sending you an email or other notification, and we’ll indicate when such changes will become effective.
+Any information that we collect is subject to the privacy policy in effect at the time that information is collected. However, we may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them clearly on our website or by sending you an email or other notification, and we’ll indicate when such changes will become effective.
 
 ### Contact Us
 
@@ -161,3 +159,7 @@ Beaux Lane House
 Lower Mercer Street, 1st Floor  
 Dublin 2, Ireland  
 Email: [privacy.qil@quantcast.com](mailto:privacy.qil@quantcast.com)
+
+If you have contacted us about a privacy or data use concern and feel that we have not addressed it satisfactorily, you may contact our US-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=0fb104f1-1aa8-422c-9b33-d1e881ad04d5)
