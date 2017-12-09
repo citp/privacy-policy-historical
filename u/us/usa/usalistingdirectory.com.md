@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usalistingdirectory.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033102id_/http%3A//www.usalistingdirectory.com/usalistingdirectoryprivacypolicyread.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usalistingdirectory.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209094808id_/http%3A//www.usalistingdirectory.com/usalistingdirectoryprivacypolicyread.html) for the most accurate reproduction.*
 
 # USA listing Web Directory - usalistingdirectoryprivacypolicyread
 
