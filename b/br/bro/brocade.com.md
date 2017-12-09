@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brocade.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004938id_/http%3A//brocade.com/en/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brocade.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209221827id_/http%3A//www.brocade.com/en/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Brocade Legal - Privacy Policy
 
-Brocade Communications Systems, Inc. (“Brocade”) values your privacy.  This Privacy Statement (“Statement”) describes how we collect, use, and disclose personal information that we obtain about those who visit our website [www.brocade.com](http://www.brocade.com/) (the “Site”) and utilize the services available through our Site (collectively, the “Services”).   It does not apply to personal information Brocade obtains in its capacity as an employer.
+Brocade Communications Systems LLC (“Brocade”) values your privacy.  This Privacy Statement (“Statement”) describes how we collect, use, and disclose personal information that we obtain about those who visit our website [www.brocade.com](http://www.brocade.com/) (the “Site”) and utilize the services available through our Site (collectively, the “Services”).   It does not apply to personal information Brocade obtains in its capacity as an employer.
 
 Your use of our Site or Services is subject to this Statement and our Website Use Terms and Conditions <http://www.brocade.com/en/legal/website-use-terms.html#website>. ****
 
