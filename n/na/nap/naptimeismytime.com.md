@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naptimeismytime.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607030832id_/http%3A//naptimeismytime.com/media/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naptimeismytime.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209225536id_/http%3A//naptimeismytime.com/media/disclosure) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy | Nap Time is My Time
 
@@ -80,7 +80,7 @@ For information about opting out of Gourmet Ads and ad serving partners please v
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
 
 **Copyright Notice**  
-© Emily Stephens and Nap Time is My Time, 2010 – 2016. 
+© Emily Stephens and Nap Time is My Time, 2010 – 2017. 
 
 Unauthorized use and/or duplication of this material without express and written permission from Emily is strictly prohibited. The cropping of watermarks where applicable and all photo edits is not permissible, ever. Excerpts and links may be used, provided that full and clear credit is given to Emily and Nap Time is My Time with appropriate and specific direction to the original content. This copyright includes photographs, recipe instructions, and all other content found on this blog.
 
