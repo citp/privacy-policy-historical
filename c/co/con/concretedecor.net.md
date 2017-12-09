@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concretedecor.net privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609195244id_/http%3A//www.concretedecor.net/about/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concretedecor.net privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209021328id_/http%3A//www.concretedecor.net/about/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Concrete Decor
 
