@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxcell.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611084618id_/http%3A//www.uxcell.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxcell.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209220252id_/http%3A//www.uxcell.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -178,7 +178,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
  **  
 If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-info@uxcell.com and we will promptly remove you from **ALL** correspondence.
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from **ALL** correspondence.
 
  **Contacting Us**
 
@@ -194,7 +194,5 @@ Room 1111, 11/F, Metroplaza, Tower 2, 223 Hing Fong Road
 Kwai Fong, N.T. 0000 
 
 Hong Kong
-
-info@uxcell.com
 
 Last Edited on 2016-06-22
