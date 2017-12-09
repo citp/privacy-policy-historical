@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegamecrafter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040308id_/http%3A//help.thegamecrafter.com/article/153-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamecrafter.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209182031id_/http%3A//help.thegamecrafter.com/article/153-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Game Crafter Knowledge Base
+# Privacy Policy - The Game Crafter
 
 This policy covers how The Game Crafter, LLC ("TGC") treats personal information that TGC collects and receives, including information related to your past use of TGC products and services. Personal information is information about you that is personally identifiable such as your name, address, email address, or phone number, and that is not otherwise publicly available.
 
