@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarugbymag.co.za privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183352id_/http%3A//www.sarugbymag.co.za/sa-rugby-magazine/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarugbymag.co.za privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209114126id_/http%3A//www.sarugbymag.co.za/sa-rugby-magazine/privacy-policy) for the most accurate reproduction.*
 
 # 
 
