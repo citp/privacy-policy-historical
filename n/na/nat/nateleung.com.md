@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nateleung.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609161714id_/http%3A//www.nateleung.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nateleung.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209215233id_/http%3A//www.nateleung.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nate Leung
 
