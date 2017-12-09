@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the counterpath.net privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616170503id_/http%3A//www.counterpath.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the counterpath.net privacy policy that was archived on 2017-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171209235237id_/http%3A//www.counterpath.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<title>Privacy Policy | CounterPath</title>
@@ -10,34 +10,249 @@
 	<link type="text/css" rel="stylesheet" href="assets/css/subpage.css">
 	<link type="text/css" rel="stylesheet" href="assets/css/responsive.css">
 	<link type="text/css" rel="stylesheet" href="assets/css/magnific-popup.css">
-	<script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">var store_collapsed_session = 0;</script>
+	<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript">var store_collapsed_session = 0;</script>
 	<script type="text/javascript" src="assets/js/jquery-1.11.1.min.js"></script>
 	<script type="text/javascript" src="assets/js/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
+	<script type="text/javascript" src="assets/js/additional-methods.min.js"></script>
+	<!-- *****************************************************************************
+     *  OLD ga.js REPLACED FOR analytics.js THEN REPLACED TO Google Tag Manager  *
+     *****************************************************************************
+<script src="//www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-1550700-2");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+	pageTracker._trackPageLoadTime();
+</script>
+-->
+
+<!-- New Google Universal Analytics 
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+</script>
+-->
+<!-- End Google Analytics -->
+
+<script>
+/*** DEVELOPERS ONLY - FUNCTIONS */
+
+function salesClientId() {
+	if (typeof window.cp == "undefined") window.cp = {}
+	if (typeof ga == "undefined") {
+		setTimeout(salesClientId, 1000);
+	} else if (typeof ga.getAll()[0].get('clientId') == "undefined") {
+		console.log("waiting for ga to load");
+		setTimeout(salesClientId, 1000);
+	} else {
+		window.cp.clientId = ga.getAll()[0].get('clientId') + "_" + generateCustom();
+	}
+}
+
+function createFunctionWithTimeout(callback, opt_timeout) {
+  var called = false;
+  function fn() {
+    if (!called) {
+      called = true;
+      callback();
+    }
+  }
+  setTimeout(fn, opt_timeout || 1000);
+  return fn;
+}
+
+function selectSeveral(parent, arrayOfChildren, attribute, suffix) {
+	let string = "";
+	for (let i = 0, l = arrayOfChildren.length; i < l; i++) {
+		const 	hasAttribute = typeof attribute !== typeof undefined, 
+				hasSuffix = typeof suffix !== typeof undefined,
+				child = hasAttribute ? " [" + attribute + "='" + arrayOfChildren[i] + "']" + (hasSuffix ? suffix : "") : " " + arrayOfChildren[i] + (hasSuffix ? suffix : "");
+
+		string += (i > 0 ? ", ": "") + parent + child;
+	}
+	return string;
+}
+
+function normalizeNumbers(string, length, after) {
+    after = typeof after === typeof undefined ? false : after;
+    let i = string.length, l = length;
+
+    if ( i < l ) {
+        for (l = l - i, i = 0; i < l; i++)
+            if (after) string += "0"; else string = "0" + string;
+    }    
+    
+    return string;
+}
+
+function randomDigits(length) {
+    let isIt = false,
+        amount = "";
+    
+    while (!isIt) {
+        amount = (Math.random() * 99999999999999).toString();
+        if ( amount.indexOf(".") >= 0 ) amount = amount.replace(".", "");
+        if ( amount.length > length ) amount = amount.substring(0, length);
+
+        if ( amount.length = length ) isIt = true;
+    }
+    return amount;
+}
+
+function generateCustom() {
+	let custom = "";
+	const timeStamp = new Date();
+	custom  =  timeStamp.getFullYear().toString()
+	  + "-" +    normalizeNumbers( (timeStamp.getMonth() + 1).toString(), 2 )
+	  + "-" +    normalizeNumbers( timeStamp.getDate().toString(), 2 )
+	  + "_" +    normalizeNumbers( timeStamp.getHours().toString(), 2 )
+	  + ":" +    normalizeNumbers( timeStamp.getMinutes().toString(), 2 )
+	  + ":" +    normalizeNumbers( timeStamp.getSeconds().toString(), 2 )
+	  + ":" +    normalizeNumbers( timeStamp.getMilliseconds().toString(), 3 )
+	  + "_" +    randomDigits( 5 );
+
+	return custom;
+}
+</script>
+
+
+<!-- Add this as the last item inside of the HEAD tag -->
+<!-- Requires jQuery -->
+<!-- Google Tag Manager -->
+<script>
+$().ready(function() {
+    $.fn.extend({
+        getPath: function() {
+            var pathes = [];
+
+            this.each(function(index, element) {
+                var path, $node = jQuery(element);
+
+                while ($node.length) {
+                    var realNode = $node.get(0), name = realNode.localName;
+                    if (!name) { break; }
+
+                    name = name.toLowerCase();
+                    var parent = $node.parent();
+                    var sameTagSiblings = parent.children(name);
+
+                    if (sameTagSiblings.length > 1)
+                    {
+                        allSiblings = parent.children();
+                        var index = allSiblings.index(realNode) +1;
+                        if (index > 0) {
+                            name += ':nth-child(' + index + ')';
+                        }
+                    }
+
+                    path = name + (path ? ' > ' + path : '');
+                    $node = parent;
+                }
+
+                pathes.push(path);
+            });
+
+            return pathes.join(',');
+        }
+    });
+});
+
+if (typeof window.cp == "undefined") window.cp = {};
+window.cp.uniqueTrackingID = "UA-1550700-12";
+
+salesClientId();
+
+if (typeof pageTracker === typeof undefined) pageTracker = {};
+if (typeof pageTracker._trackEvent === typeof undefined) pageTracker._trackEvent = function (category, action, opt_label, opt_value, opt_noninteraction) { }
+
+function gTagManager(w,d,s,l,i){
+    w[l] = w[l] || [];
+    w[l].push({   'gtm.start': new Date().getTime(),
+                event:'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l == 'dataLayer' ? '&l=' + l : '';
+
+    /*j.async=true;
+    j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;
+    f.parentNode.insertBefore(j,f);*/
+}
+gTagManager(window, document, 'script', 'dataLayer', 'GTM-P4GN546');
+</script>
+<script async="true" src="https://www.googletagmanager.com/gtm.js?id=GTM-P4GN546&amp;l=dataLayer"></script>
+<!-- End Google Tag Manager -->
+
+
+
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 976142066;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/3954780.js"></script>
+<!-- End of HubSpot Embed Code -->
+
+<!-- Bing Tracking -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5037276"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5037276&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/976142066/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<!-- HotJar Heatmap Tracking -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:307482,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="//static.hotjar.com/c/hotjar-307482.js?sv=5"></script>
+
+
+<!-- Pardot Tracking Code -->
+<script type="text/javascript">
+piAId = '147931';
+piCId = '1089';
+
+(function() {
+	function async_load(){
+		var s = document.createElement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+
 </head>
 
 <body>
-	<!-- Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-fbq('init', '977661205626335');
-fbq('track', "PageView");</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
-
+	
 	<div id="store_header"><!-- Start Store Header -->
 		<div id="store_header_wrapper"><!-- Start Store Header Wrapper -->
 			<div id="store_header_expanded">
 				<a href="https://secure.counterpath.com/Store/CounterPath/Default.aspx">
-				<h1>Visit The <span>CounterPath</span> Store</h1>
+				<h6>Visit The <span>CounterPath</span> Store</h6>
 				</a>
-				<img src="/assets/images/general/./store.png" alt="CounterPath Store" style="border: 0px;">
+				<img src="/assets/images/general/./store_bria5.png" alt="CounterPath Store">
 				
 				<div id="product_purchase" style="margin-top: 20px;"><!-- Start Product Purchase -->
 					<div id="os_select1" style="padding: 0px;">
@@ -51,23 +266,23 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 						<h2 class="os_buy_android">Buy Bria for your Android device</h2>
 						<h2 class="os_buy_ios">Buy Bria for your iPad/iPhone</h2>
 						<p style="overflow: hidden;">
-							<a class="os_buy_mac store_banner_buy_button store_banner_buy_btn" href="https://secure.counterpath.com/Store/CounterPath/ProductInfo.aspx?ProductId=309" onclick="pageTracker._trackEvent('Buy Now Buttons', 'Clicked', 'Store Banner - Mac');">Buy Now</a>
-							<a class="os_buy_windows store_banner_buy_button store_banner_buy_btn" href="https://secure.counterpath.com/Store/CounterPath/ProductInfo.aspx?ProductId=309" onclick="pageTracker._trackEvent('Buy Now Buttons', 'Clicked', 'Store Banner - Windows');">Buy Now</a>
-							<a class="os_buy_android store_banner_buy_button store_banner_buy_btn" href="https://play.google.com/store/apps/details?id=com.bria.voip" onclick="pageTracker._trackEvent('Buy Now Buttons', 'Clicked', 'Store Banner - Android');">Buy Now</a>
-							<a class="os_buy_ios store_banner_buy_button store_banner_buy_btn" href="https://secure.counterpath.com/Store/CounterPath/Default.aspx" onclick="pageTracker._trackEvent('Buy Now Buttons', 'Clicked', 'Store Banner - iOS');">Buy Now</a>
-						<a href="https://itunes.apple.com/app/bria-iphone-edition/id373968636?mt=8" style="display: inline !important;"><img src="assets/images/logos/app-store-badge.png" class="store_banner_app_badge" id="app_badge_apple"></a>
-							<a href="https://play.google.com/store/apps/details?id=com.bria.voip" style="display: inline !important;"><img src="assets/images/logos/google-play-badge.png" class="store_banner_app_badge" id="app_badge_google"></a>
+							<a class="os_buy_mac store_banner_buy_button store_banner_buy_btn" href="https://secure.counterpath.com/Store/CounterPath/ProductInfo.aspx?ProductId=333">Buy Now</a>
+							<a class="os_buy_windows store_banner_buy_button store_banner_buy_btn" href="https://secure.counterpath.com/Store/CounterPath/ProductInfo.aspx?ProductId=333">Buy Now</a>
+							<a class="os_buy_android store_banner_buy_button store_banner_buy_btn" href="https://play.google.com/store/apps/details?id=com.counterpath.bria">Buy Now</a>
+							<a class="os_buy_ios store_banner_buy_button store_banner_buy_btn" href="https://itunes.apple.com/app/id1236194368">Buy Now</a>
+							<a href="https://itunes.apple.com/app/id1236194368" style="display: inline !important;"><img src="assets/images/logos/app-store-badge.png" class="store_banner_app_badge" id="app_badge_apple"></a>
+							<a href="https://play.google.com/store/apps/details?id=com.counterpath.bria" style="display: inline !important;"><img src="assets/images/logos/google-play-badge.png" class="store_banner_app_badge" id="app_badge_google"></a>
 						</p>
 					</div>
 
 				</div><!-- End Product Purchase -->
-
+				
 			</div>
 			
 			<div id="store_header_collapsed">
 				<div id="store_header_collapsed_container">
 					<img src="/assets/images/general/./store_topper_small.png" alt="CounterPath Store">
-					<a href="https://secure.counterpath.com/Store/CounterPath/Default.aspx"><h1>Visit The <span>CounterPath</span> Store</h1></a>
+					<a href="https://secure.counterpath.com/Store/CounterPath/Default.aspx"><h6>Visit The <span>CounterPath</span> Store</h6></a>
 				</div>
 				
 			</div>
@@ -76,16 +291,16 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 			
 			<div class="clear"></div>
 		</div><!-- End Store Header Wrapper -->
-	</div><!-- End Store Header -->	
+	</div><!-- End Store Header -->
 
 	
 	<div id="header_wrapper"><!-- Start Header Wrapper -->
 		<div id="login_cart"><!-- Start Login Cart -->
 			<div id="login_cart_wrapper">
-				<p id="responsive_store_ios" class="responsive_store"><a href="https://secure.counterpath.com/Store/CounterPath/Default.aspx"><span>CounterPath</span> Store - Buy Bria for your iPad/iPhone</a></p>
-				<p id="responsive_store_android" class="responsive_store"><a href="https://play.google.com/store/apps/details?id=com.bria.voip" target="_blank"><span>CounterPath</span> Store - Buy Bria for your Android device</a></p>
-				<p id="responsive_store_desktop" class="responsive_store"><a href="https://secure.counterpath.com"><span>CounterPath</span> Store</a></p>
-			
+				<p id="responsive_store_ios" class="responsive_store"><a href="https://itunes.apple.com/app/id1236194368"><span>CounterPath</span> Store - Buy Bria for your iPad/iPhone</a></p>
+				<p id="responsive_store_android" class="responsive_store"><a href="https://play.google.com/store/apps/details?id=com.counterpath.bria" target="_blank"><span>CounterPath</span> Store - Buy Bria for your Android device</a></p>
+				<p id="responsive_store_desktop" class="responsive_store"><a href="https://secure.counterpath.com/Store/CounterPath/Default.aspx"><span>CounterPath</span> Store</a></p>
+
 				<ul id="login_cart_nav">
 					<li><a id="login" href="##">Login</a></li>
 					<li><a id="cart" href="##">Cart</a></li>
@@ -96,13 +311,13 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 		</div><!-- End Login Cart -->
 		
 		<div id="header"><!-- Start Header -->
-			<h1><a href="/"><img src="assets/images/counterpath_logo/logo.gif" alt="CounterPath"></a></h1><!-- Logo -->
+			<h1><a href="/"><img src="assets/images/counterpath_logo/logo.png" alt="CounterPath"></a></h1><!-- Logo -->
 			<div id="main_nav_wrapper"><!-- Start Main Nav Wrapper -->
 				<ul id="main_nav"><!-- Start Main Nav -->
         <li><span class="responsive_exp_col">+</span><a href="products/" class="open_rich_nav" rel="products_rich_nav" title="Products">Products</a></li>
 <li><span class="responsive_exp_col">+</span><a href="solutions/" class="open_rich_nav" rel="solutions_rich_nav" title="Solutions">Solutions</a></li>
 <li><span class="responsive_exp_col">+</span><a href="partners/" class="open_rich_nav" rel="partners_rich_nav" title="Partners">Partners</a></li>
-<li><span class="responsive_exp_col">+</span><a href="company/" class="open_rich_nav" rel="company_rich_nav" title="Company">Company</a></li>
+<li><span class="responsive_exp_col">+</span><a href="https://blog.counterpath.com" class="open_rich_nav" rel="blog_rich_nav" title="Blog" onclick="window.location.href=this.href;">Blog</a></li>
 <li><span class="responsive_exp_col">+</span><a href="support/" class="open_rich_nav" rel="support_rich_nav" title="Support">Support</a></li>
 
 	<li><a id="store_link" href="https://secure.counterpath.com/Store/CounterPath/Default.aspx">Store</a></li>
@@ -133,7 +348,7 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 				<div id="products_rich_nav" class="main_nav_sub"><!-- Start Main Nav Sub -->
 			<div class="sub_nav_content"><!-- Start Sub Nav Content -->
 				<div class="sub_nav_box" rel="/products/"><!-- Start Sub Nav Box -->
-					<img src="assets/images/richnav/nav_products.jpg" alt="Products">
+					<img src="assets/images/richnav/nav_products_bria5.jpg" alt="Products">
 					<h2>Products Overview</h2>
 					<p>Unified, modular and truly unlimited.<br>
 <a href="/products/">Learn more</a></p>
@@ -154,21 +369,14 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 <ul>
 
 				<li class="first">
-				<a href="bria/" title="Bria 4">Bria 4
+				<a href="bria/" title="Bria 5">Bria 5
 					<span></span>
 				</a>
 				
 				</li>
 
 				<li>
-				<a href="bria-for-linux/" title="Bria for Linux">Bria for Linux
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li>
-				<a href="bria-virtualized-edition/" title="Bria Virtualized Edition">Bria Virtualized Edition
+				<a href="bria-for-salesforce/" title="Bria for Salesforce®">Bria for Salesforce®
 					<span></span>
 				</a>
 				
@@ -186,49 +394,19 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 				
 					<li>
 				
-				<a href="smartphone-clients/" title="Smartphone Clients">Smartphone Clients</a>
+				<a href="softphone-apps/" title="Bria Mobile">Bria Mobile</a>
 				
 <ul>
 
 				<li class="first">
-				<a href="bria-iphone-edition/" title="Bria iPhone Edition">Bria iPhone Edition
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li>
-				<a href="bria-android-edition/" title="Bria Android Edition">Bria Android Edition
+				<a href="ios-sip-softphone/" title="Bria for iOS">Bria for iOS
 					<span></span>
 				</a>
 				
 				</li>
 
 				<li class="last">
-				<a href="bria-blackberry-edition/" title="Bria BlackBerry Edition">Bria BlackBerry Edition
-					<span></span>
-				</a>
-				
-				</li>
-
-</ul>
-				</li>
-				
-					<li>
-				
-				<a href="tablet-clients/" title="Tablet Clients">Tablet Clients</a>
-				
-<ul>
-
-				<li class="first">
-				<a href="bria-ipad-edition/" title="Bria iPad Edition">Bria iPad Edition
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li class="last">
-				<a href="bria-android-tablet-edition/" title="Bria Android Tablet Edition">Bria Android Tablet Edition
+				<a href="android-sip-softphone/" title="Bria for Android">Bria for Android
 					<span></span>
 				</a>
 				
@@ -244,13 +422,6 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 <ul>
 
 				<li class="first">
-				<a href="bria-addin-for-outlook/" title="Bria Add-In for Outlook®">Bria Add-In for Outlook®
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li class="last">
 				<a href="screen-share-add-in/" title="Screen Share Add-In">Screen Share Add-In
 					<span></span>
 				</a>
@@ -258,6 +429,22 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 				</li>
 
 </ul>
+				</li>
+
+</ul>
+				</li>
+				
+					<li>
+				
+				<a href="x-lite/" title="X-Lite">X-Lite</a>
+				
+<ul>
+
+				<li class="first">
+				<a href="x-lite-download/" title="X-Lite Overview">Download
+					<span></span>
+				</a>
+				
 				</li>
 
 </ul>
@@ -270,7 +457,7 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 				
 				</li>
 				
-					<li>
+					<li class="last">
 				
 				<a href="developer-tools/" title="Developer Tools">Developer Tools</a>
 				
@@ -285,29 +472,6 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 
 				<li class="last">
 				<a href="bria-desktop-api/" title="Bria Desktop API">Bria Desktop API
-					<span></span>
-				</a>
-				
-				</li>
-
-</ul>
-				</li>
-				
-					<li class="last">
-				
-				<a href="x-lite/" title="X-Lite">X-Lite</a>
-				
-<ul>
-
-				<li class="first">
-				<a href="xlite-comparison/" title="X-Lite Comparison">X-Lite Comparison
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li class="last">
-				<a href="x-lite-download/" title="X-Lite Overview">Download
 					<span></span>
 				</a>
 				
@@ -359,7 +523,7 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 				</li>
 
 				<li class="last">
-				<a href="bria-virtualized-edition/" title="Virtualized Edition">Virtualized Edition
+				<a href="bria-for-salesforce/" title="Bria for Salesforce">Bria for Salesforce®
 					<span></span>
 				</a>
 				
@@ -533,161 +697,12 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 				<div class="clear"></div>
 			</div><!-- End Sub Nav Content -->
 		</div><!-- End Main Nav Sub -->
-<div id="company_rich_nav" class="main_nav_sub"><!-- Start Main Nav Sub -->
+<div id="blog_rich_nav" class="main_nav_sub"><!-- Start Main Nav Sub -->
 			<div class="sub_nav_content"><!-- Start Sub Nav Content -->
-				<div class="sub_nav_box" rel="/company/"><!-- Start Sub Nav Box -->
-					<img src="assets/images/richnav/nav_company.jpg" alt="Company">
-					<h2>Company Overview</h2>
-					<p>Changing the face of telecommunications.<br>
-<a href="/company/">Learn more</a></p>
-				</div><!-- End Sub Nav Box -->
+				
 
-				<!-- Richnav pulldown for Company-->
+				<!-- Richnav pulldown for Blog-->
 				
-<ul class="sub_nav"><!-- Start Sub Nav -->
-				
-					<li class="first">
-				
-				<a href="company/" title="About Us">About Us</a>
-				
-<ul>
-
-				<li class="first">
-				<a href="company/" title="Learn about CounterPath">Learn about CounterPath
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li>
-				<a href="customers/" title="Customers">Customers
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li class="last">
-				<a href="contact-us/" title="About - Contact Us">Contact Us
-					<span></span>
-				</a>
-				
-				</li>
-
-</ul>
-				</li>
-				
-					<li>
-				
-				<a href="executive-team/" title="Leadership">Leadership</a>
-				
-<ul>
-
-				<li class="first">
-				<a href="executive-team/" title="Executive Team">Executive Team
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li>
-				<a href="board-of-directors/" title="Board of Directors">Board of Directors
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li class="last">
-				<a href="advisory-board/" title="Advisory Board">Advisory Board
-					<span></span>
-				</a>
-				
-				</li>
-
-</ul>
-				</li>
-
-				<li>
-				<a href="investors/" title="Investors">Investors
-					<span>Competing to serve the communication needs of tomorrow, today.</span>
-				</a>
-				
-				</li>
-				
-					<li>
-				
-				<a href="news/" title="News and Events">News &amp; Events</a>
-				
-<ul>
-
-				<li class="first">
-				<a href="2016-news/" title="In the News">In the News
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li>
-				<a href="press-releases/" title="Press Releases">Press Releases
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li>
-				<a href="events/" title="Events">Events
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li>
-				<a href="media-kit/" title="Media Kit">Media Kit
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li>
-				<a href="awards/" title="Awards">Awards
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li class="last">
-				<a href="http://blog.counterpath.com/" title="Corporate Blog">Corporate Blog
-					<span></span>
-				</a>
-				
-				</li>
-
-</ul>
-				</li>
-				
-					<li class="last">
-				
-				<a href="careers/" title="Careers">Careers</a>
-				
-<ul>
-
-				<li class="first">
-				<a href="careers/" title="Join our Team">Join our Team
-					<span></span>
-				</a>
-				
-				</li>
-
-				<li class="last">
-				<a href="scholarships/" title="CounterPath Scholarship Program">Scholarship
-					<span></span>
-				</a>
-				
-				</li>
-
-</ul>
-				</li>
-
-</ul>
 
 				<div class="clear"></div>
 			</div><!-- End Sub Nav Content -->
@@ -756,35 +771,53 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 	<div class="subpage_section no_marquee">
 		<div class="subpage_container generic_content">
 			<h1>Privacy Policy</h1>
-<p>CounterPath Corporation is sensitive to the private nature of information you provide to us over the Internet. Our privacy practices are designed to maximize your ability to control the use of your personal, private information while at the same time giving you the opportunity to obtain interesting and useful information, products and services. This privacy policy describes how we treat information received about you when you visit our Web site and register on-line for CounterPath Corporation products or services. This privacy policy only applies to data collected on-line by CounterPath Corporation. Please read our privacy policy carefully. By using this Web site and submitting any personal information, you consent to the collection and use of this information by CounterPath Corporation, Inc., its subsidiaries and affiliates consistent with this privacy policy. Also, please be aware that CounterPath Corporation may change this Privacy Policy from time to time. If we do, we will prominently post any notification of changes. If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days, so be sure to check back here periodically for any changes.</p>
-<p>This Statement only pertains to our on-line collection of data from our web properties and does not apply to other means of collecting data.</p>
-<h2>Information - How We Get It</h2>
-<p>When you register for our products or services, you will be providing personal information to CounterPath Corporation such as your name, phone number, address, email and other information by which you can be personally identified. You will also be asked to provide demographic information such as zip code and age. If you purchase products or services on our site, you will be asked for financial information such as account or credit card numbers. We do not knowingly collect personal information from children under 13 years of age.</p>
-<p>We also collect usage information from you when you visit us or use our softphones. Web site usage information is not typically personally identifiable information. It describes how our Web site is used and navigated, including the number and frequency of visitors to each Web page and the length of their stay. Web site usage information and some information sent from the softphone includes the IP addresses that visit our Web site and use our softphones, time of day the Web site was visited or the softphone was first used and other non-personally identifiable information.</p>
-<h2>Information - How We Use It</h2>
-<p>CounterPath Corporation believes that knowing more about you will enable us to serve you better. It permits us to personalize the content and services we offer to you. It also permits us to target advertising for products and services to your interests and tastes. CounterPath Corporation uses demographic and Web site usage information to improve the products and services we offer to you. One of the many services CounterPath Corporation can offer to you when you register for our products or services is notification concerning new products and services available from third party marketing partners. These notices and offers will be targeted to your individual preferences and tastes based on the information collected. Unless you have opted-out of receiving third party offers during registration, we reserve the right to share your personal information with third parties and you may receive emails concerning third party offers. As a publicly traded company, we are required to file numerous reports with different administrative bodies. As such, CounterPath Corporation may provide aggregate statistics about customers, sales and traffic patterns. None of these reports or statistics will include personally identifiable information. However, CounterPath Corporation reserves the right to use personally identifiable information to investigate and help prevent potentially unlawful activity that threatens either CounterPath Corporation or any company affiliated with CounterPath Corporation. Moreover, upon the appropriate request of a government agency, law enforcement, court or as otherwise required by law, CounterPath Corporation may disclose personally identifiable information.</p>
-<p>Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a>.</p>
-<h2>News Release Distribution List</h2>
-<p>When you sign up to be on our News Release Distribution List, you will be asked only to provide your email address. You will receive updates of our news releases. We will not share your email address with any third parties.</p>
-<h2>Affiliate Programs</h2>
-<p>When a user or company signs up to be a CounterPath Corporation affiliate, they do so through RegNow. RegNow shares personally identifiable information about affiliates with CounterPath Corporation. This information is not sold, shared or rented to any third party, and is used internally only to manage relationships with affiliates.</p>
-<h2>Ability to Opt-Out of Emails from CounterPath Corporation</h2>
-<p>Upon registration for CounterPath Corporation products and services, you may receive a welcome email from CounterPath Corporation introducing you to CounterPath Corporation product and service offerings. If you do not wish to receive future emails from CounterPath Corporation, please follow the instructions contained in the email to unsubscribe from receiving future emails from CounterPath Corporation.</p>
+<p>Last updated: August 18, 2016</p>
+<p>CounterPath Corporation (“CounterPath”) is committed to protecting the privacy of customers and users of our website, products and services. This Privacy Policy explains what personal data we collect from you and how we use it. This Privacy Policy pertains to our online collection of data from our web properties and to our collection of data from your use of our products or services. We encourage you to read the full policy below as by using our website, products or services, and submitting any personal information, you consent to the collection and use of this information by CounterPath.</p>
+<p>Also, please be aware that our Privacy Policy may change from time to time to evolve with the products and services we offer you and changing technologies. Be sure to check back here periodically for any changes.</p>
+<p>CounterPath is sensitive to the private nature of information you provide to us over the Internet. Our privacy practices are designed to maximize your ability to control the use of your personal, private information while at the same time giving you the opportunity to obtain interesting and useful information, products and services.</p>
+<h2>Personal Data We Collect</h2>
+<p>CounterPath collects data to operate effectively and provide you with the best experiences with our products and services. You provide some of this data directly when you purchase one of our products or services, register for a program, or when you contact us for support. We also get some of it by recording how you interact with our services, for example, using technologies like cookies, receiving error reports or usage data from software running on your device, or tracking IP addresses when you visit our website.</p>
+<p>Data we collect depends on the products, services and features you use, and can include the following:</p>
+<p><strong>Name and contact data.</strong> We collect your first and last name, email address, postal address, phone number, and other similar contact data.</p>
+<p><strong>Credentials.</strong> We collect passwords and security information used for authentication and account access.</p>
+<p><strong>Demographic data.</strong> We collect data about you such as your country and preferred language.</p>
+<p><strong>Payment data.</strong> We, or our third party service providers, collect data necessary to process your payment if you make purchases, such as your credit card number, CCV number or PayPal account information.</p>
+<p><strong>Usage data.</strong> We collect data about how you and your device interact with our services. This includes data, such as the features you use, items you purchase, and web pages your visit. This also includes data about your device and the network you use to connect to our services, including IP address, device identifiers, regional and language settings. This includes information about the operating systems and other CounterPath software installed on your device. And it includes data about the performance of the products or services and any problems you experience with them.</p>
+<p><strong>Location data.</strong> We collect information about your location in two ways. When you register or purchase a product or service we may request a billing address or country location. We also may derive data from your IP address.</p>
+<p><strong>Content.</strong> We collect content of your files and communications when necessary to provide you with the services you use. For example, if you receive a message using a CounterPath hosted messaging service, we need to collect the content of that message in order to deliver it to your softphone client, display it to you, enable you to reply to it, and store it for you until you choose to delete it. Examples of this data include the content of instant messages, or documents, photos, music or videos you file transfer using CounterPath services.</p>
+<p>We also collect the content of messages you send to us, such as feedback and product reviews you write, or questions or information you provide for customer support. When you contact us, such as for customer support, chat sessions with our representatives may be monitored and recorded.</p>
+<h2>How We Use Personal Data</h2>
+<p>CounterPath uses the data we collect to provide you with the services we offer and to improve and personalize your experiences, as well as the products and services CounterPath provides. We also may use the data to communicate with you, including sending you information on security updates, account status notices and product changes or updates. Further details on how we specifically use your data are outlined below:</p>
+<p><strong>Providing and improving our products and services.</strong> We use data to provide and improve the services we offer and perform essential business operations. This includes operating the services, maintaining and improving the performance of the services, including development of new features, research, and providing customer support.</p>
+<p><strong>Communications.</strong> We use the data we collect to deliver and personalize communications with you. For example, we may contact you by email or other means to inform you when a subscription is ending, let you know when updates are available, remind you about items left in your online shopping cart, invite you to participate in a survey, or tell you about new products or services available to you. Additionally, you can choose to sign up for email subscriptions, like our News Subscription list, and choose whether you wish to receive promotional material along with your subscription. We do not sell any information we collect to third parties. With any of our promotional material emails, you will have the option to unsubscribe from future mailings from a link within the email communication. You can also contact CounterPath directly in order to unsubscribe by emailing <a href="mailto:marketing@counterpath.com">marketing@counterpath.com</a>.</p>
+<p><strong>Business operations and compliance.</strong> As a publicly traded company, CounterPath is required to file numerous reports with different administrative bodies. As such, we may provide aggregate statistics about customers, sales and traffic patterns. None of these reports or statistics include personally identifiable information. However, CounterPath reserves the right to use personally identifiable information to investigate and help prevent potentially unlawful activity that threatens either CounterPath or any company affiliated with CounterPath. Moreover, upon the appropriate request of a government agency, law enforcement, court or as otherwise required by law, CounterPath may disclose personally identifiable information.</p>
+<p><strong>Push notification.</strong> To let you know of incoming calls, chats and other messages, our apps use the notification service on your device. For many devices, these services are provided by another company. To tell you who is calling, for example, or to give you the first few words of the new chat, our service has to tell the company providing the notification service so that they can provide the notification to you. The company providing the notification service on your device will use this information in accordance with their own terms and privacy policy. CounterPath is not responsible for the data collected by the company providing the notification service. If you don’t want to use the notification services with our applications, turn it off in the settings found in the application or your device.</p>
+<h2>Cookies &amp; Similar Technologies</h2>
+<p>CounterPath uses cookies (small text files placed on your device) and similar technologies to provide our services and help collect data. The text in a cookie often consists of a string of numbers and letters that uniquely identifies your computer, but it can contain other information as well. We sometimes use other identifiers, such as the advertising ID in Windows, for similar purposes, and many of our websites and applications also contain web beacons or other similar technologies, as described below.</p>
+<p><strong>Sign-in and Authentication.</strong> When you sign into a CounterPath site, we store a unique ID number, and the time you signed in, in an encrypted cookie on your device. This cookie allows you to move from page to page within the site without having to sign in again on each page.</p>
+<p><strong>Analytics.</strong> In order to provide our services, we use cookies and other identifiers to gather usage and performance data. For example, we use cookies to count the number of unique visitors to a web page or service and to develop other statistics about the operations of our services.</p>
+<p>CounterPath does not use technology that recognizes browser “Do Not Track”’ signals or similar software mechanisms that block the collection of data related to your online activities over time and across third party websites. You can block cookies from your computer using the TRUSTe Consent Manager <a href="http://preferences-mgr.truste.com/" target="_blank">here</a>, or your web browser’s settings (see below). For more information on how to disable and manage cookies and tracking devices see: <a href="http://www.ftc.gov/ftc/cookies.shtm" target="_blank">www.ftc.gov/ftc/cookies.shtm</a>.</p>
+<ul>
+<li><strong>Microsoft Internet Explorer:</strong> Click the gear icon to the right of the address bar and select “Internet Options”. Select the “Privacy” tab, and you can move the slider to “High” or “Block All Cookies”. In order to delete cookies, select the “General” tab, and under the “Browsing history” section, click “Delete…”. Make sure “Cookies” is selected, and click “Delete” to delete cookies. Click “OK” when you are finished making your changes.</li>
+<li><strong>Mozilla Firefox:</strong> Click the “Firefox” menu on the upper-right corner of your browser and select “Options”. Select the “Privacy” tab, and under the “History” section, select “Never remember history” or “Use custom settings for history”. If you select “Use custom settings for history”, you can deselect “Accept third-party cookies” or “Accept cookies from sites”. In order to delete cookies, click “Show Cookies”, scroll to the particular cookies you would like to remove, and click “Remove Cookie”, or click “Remove All Cookies” to remove all cookies. If your history setting is set to “Never Remember history”, click “clear all current history”, make sure “Cookies” is selected, and click “Clear Now”. Click “OK” when you are finished making your changes.</li>
+<li><strong>Apple Safari:</strong> Click the gear icon to the right of the address bar and click “Preferences…”. Select the “Privacy” tab, and under the “Block cookies” section, you can select “From third parties and advertisers” or “always”. In order to delete cookies, click “Details…”, scroll to the particular cookies you would like to remove, and click “Remove Cookie”, or click “Remove All” to remove all cookies.</li>
+<li><strong>Google Chrome:</strong> Click the wrench icon to the right of the address bar and select “Settings”. Click “Show advanced settings…”, scroll down to the “Privacy” section, and click “Content settings”. Under the “Cookies section”, you can select “Block sites from setting any data” or “Block third-party cookies and site data” to prevent cookies from being set. In order to delete cookies, click “All cookies and site data”, scroll to the particular cookies you would like to remove, and click “x” to the right of the cookies, or click “Remove all” to remove all cookies. Click “OK” when you are finished making your changes.</li>
+</ul>
 <h2>Corrections/Complaints</h2>
-<p>CounterPath Corporation shall honor any email requests sent to&nbsp;<a href="mailto:support@counterpath.com">support@counterpath.com</a>&nbsp;from customers to change their account information (i.e., name, address or billing information) or otherwise correct inaccurate information. CounterPath Corporation will gladly correct such information and customers are welcome to verify that the appropriate corrections have been made. In addition, if you believe that your personally identifiable information is being mishandled in light of this Privacy Policy, please immediately notify CounterPath Corporation by email at&nbsp;<a href="mailto:support@counterpath.com">support@counterpath.com</a>&nbsp;so that we can address your concern.</p>
+<p>CounterPath shall honor email requests sent to <a href="mailto:storehelp@counterpath.com">storehelp@counterpath.com</a> from customers to change their account information (i.e., name, address or billing information) or otherwise correct inaccurate information. CounterPath will gladly correct such information and customers are welcome to verify that the appropriate corrections have been made. In addition, if you believe that your personally identifiable information is being mishandled in light of this Privacy Policy, please immediately notify CounterPath by email at <a href="mailto:storehelp@counterpath.com">storehelp@counterpath.com</a> so that we can address your concern.</p>
 <h2>Security</h2>
-<p>We take great care and use the latest technologies to ensure the security and safety of all your transactions with CounterPath Corporation. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place safeguards to secure the information we collect online. Our servers use encryption technology to protect the transfer of your credit card data to unauthorized parties. When these types of measures are taken, shopping online is safe and secure. We use industry-recognized standards in transaction security to protect the information you provide when you make a purchase at CounterPath Corporation.</p>
+<p>We take great care and use the latest technologies to ensure the security and safety of all your transactions with CounterPath. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place safeguards to secure the information we collect online. Our servers use encryption technology to protect the transfer of your credit card data to unauthorized parties. When these types of measures are taken, shopping online is safe and secure. We use industry-recognized standards in transaction security to protect the information you provide when you make a purchase at CounterPath.</p>
 <h2>Links to Other Sites</h2>
-<p>This Web site contains links to other Web sites. CounterPath Corporation is not responsible for the privacy practices or the content of such Web sites. You are encouraged to review the privacy policies of these other Web sites before registering for any products or services from that Web site.</p>
+<p>This website contains links to other web pages and websites. CounterPath is not responsible for the privacy practices or the content of such websites. You are encouraged to review the privacy policies of these other websites before registering for any products or services from that website.</p>
 <h2>Questions/Concerns</h2>
-<p>If, after reading our Privacy Policy, you have questions or concerns about any of the statements herein, we welcome your feedback. You may contact our Customer Service Department at&nbsp;<a href="mailto:support@counterpath.com">support@counterpath.com</a>.</p>
+<p>If, after reading our Privacy Policy, you have questions or concerns about any of the statements herein, we welcome your feedback. You may contact our Customer Service Department at <a href="mailto:storehelp@counterpath.com">storehelp@counterpath.com</a>.</p>
 		</div>
 	</div>
 	
 	<div id="footer_wrapper"><!-- Start Footer Wrapper -->
 		<div id="footer"><!-- Start Footer -->
 			<div id="store_footer"><!-- Start Store Footer -->
-				<img src="assets/images/counterpath_logo/logo.gif" alt="CounterPath">
+				<img src="assets/images/counterpath_logo/logo.png" alt="CounterPath">
 				<p>CounterPath Corporation is a leading provider of innovative desktop and mobile VoIP software products and solutions.</p>
 				<a class="store_footer_btn yellow_button" id="visit_store_btn" href="https://secure.counterpath.com/Store/CounterPath/Default.aspx">Visit Store</a>
 				<a class="store_footer_btn dark_button" id="sales_request_btn" href="sales-request-form/">Sales Request</a>
@@ -800,21 +833,15 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 					<ul class="footer_menu">
 
 						<li>
-	<a href="bria/" title="Bria 4">Bria 4</a>
+	<a href="bria/" title="Bria 5">Bria 5</a>
 </li><li>
-	<a href="bria-iphone-edition/" title="Bria iPhone Edition">Bria iPhone Edition</a>
+	<a href="ios-sip-softphone/" title="Bria iPhone Edition">Bria iPhone Edition</a>
 </li><li>
-	<a href="bria-android-edition/" title="Bria Android Edition">Bria Android Edition</a>
+	<a href="android-sip-softphone/" title="Bria Android Edition">Bria Android Edition</a>
 </li><li>
-	<a href="bria-blackberry-edition/" title="Bria BlackBerry Edition">Bria BlackBerry Edition</a>
+	<a href="bria-ipad-edition-old/" title="Bria iPad Edition">Bria iPad Edition</a>
 </li><li>
-	<a href="bria-ipad-edition/" title="Bria iPad Edition">Bria iPad Edition</a>
-</li><li>
-	<a href="bria-android-tablet-edition/" title="Bria Android Tablet Edition">Bria Android Tablet Edition</a>
-</li><li>
-	<a href="bria-for-linux/" title="Bria for Linux">Bria for Linux</a>
-</li><li>
-	<a href="bria-virtualized-edition/" title="Bria Virtualized Edition">Bria Virtualized Edition</a>
+	<a href="bria-android-tablet-edition-old/" title="Bria Android Tablet Edition">Bria Android Tablet Edition</a>
 </li><li>
 	<a href="sdk/" title="Softphone SDK">Softphone SDK</a>
 </li><li>
@@ -937,7 +964,7 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 
 			
 			<div id="copyright"><!-- Start Copyright -->
-				<p>© 2016 CounterPath. All rights reserved. </p><dl id="final"><!-- Start Final Links -->
+				<p>© 2017 CounterPath. All rights reserved. </p><dl id="final"><!-- Start Final Links -->
         <dt class="first"><a href="terms/" title="Terms of Use">Terms of Use</a></dt>
 <dt class="active"><a href="privacy/" title="Privacy Policy">Privacy Policy</a></dt>
 <dt><a href="sitemap/" title="Sitemap">Sitemap</a></dt>
@@ -964,42 +991,6 @@ src="https://www.facebook.com/tr?id=977661205626335&ev=PageView&noscript=1"
 		});
 	});
 </script>
-	<script src="//www.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-1550700-2");
-	pageTracker._initData();
-	pageTracker._trackPageview();
-	pageTracker._trackPageLoadTime();
-</script>
-
-<!-- Google Code for Remarketing Tag -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 976142066;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-
-<!-- Bing Tracking -->
-<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5037276"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5037276&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
-
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/976142066/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-<!-- Twitter Tracking Pixel -->
-<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
-<script type="text/javascript">twttr.conversion.trackPid('ntst8', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
-<noscript>
-<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=ntst8&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
-<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=ntst8&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
-</noscript>
-
 
 
 </body></html>
