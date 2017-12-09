@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222216id_/https%3A//www.askia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209035853id_/https%3A//www.askia.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Askia - Software for surveys
 
