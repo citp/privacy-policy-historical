@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ohayookasan.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601111142id_/http%3A//www.ohayookasan.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohayookasan.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209170512id_/http%3A//www.ohayookasan.com/disclosure) for the most accurate reproduction.*
 
-# Disclosure + Privacy Policy – Ohayo Okasan
+# Disclosure + Privacy Policy | Ohayo Okasan
 
 This blog is a personal blog written and edited by me. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
