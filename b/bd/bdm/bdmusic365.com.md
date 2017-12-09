@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdmusic365.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611125547id_/http%3A//bdmusic365.com/about-us-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdmusic365.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209134445id_/http%3A//bdmusic365.com/about-us-2) for the most accurate reproduction.*
 
 # Privacy Policy | BDmusic365.com
 
