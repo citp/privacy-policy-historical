@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggingtrendz.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119043715id_/http%3A//www.bloggingtrendz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingtrendz.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210002556id_/http%3A//www.bestgeekytricks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blogging Trendz
+# Privacy Policy - Best Geeky Tricks
 
 1\. When you are using our website we never sell your information and we are never collect your personal information. If you got any thing about that then we are not responsible about that , because our website is only context based and when the user comes only for view the content not for collect the personal information.
 
@@ -10,12 +10,12 @@
 
 4\. We respect our readers so we don’t collect any personal information of our users.
 
-BloggingTrendz
+Best Geeky Tricks
 
-http://www.bloggingtrendz.com/
+http://www.bestgeekytricks.com/
 
-bloggingtrendz@gmail.com
+bestgeekytricks@gmail.com
 
 Harry Goyal
 
-Updates on 14 January 2015
+Updates on 31 March 2017
