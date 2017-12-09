@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eightcap.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227055318id_/http%3A//cdn.eightcap.com/legal/8cap-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eightcap.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209123132id_/http%3A//cdn.eightcap.com/legal/8cap-privacy-policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
