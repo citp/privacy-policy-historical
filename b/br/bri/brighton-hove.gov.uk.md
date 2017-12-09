@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighton-hove.gov.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609213304id_/http%3A//www.brighton-hove.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighton-hove.gov.uk privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209014357id_/http%3A//www.brighton-hove.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies | Brighton & Hove City Council
 
@@ -9,10 +9,6 @@ We know this information is important to our residents and we take our responsib
 This page tells you how Brighton & Hove City Council uses your personal information.
 
 For full details of our policies and guidelines, and to make a request for information, please check [our Data Protection page](http://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/data-protection-act-1998).
-
-## Cookies on our website
-
-We use [cookies](http://www.brighton-hove.gov.uk/content/about-website/cookies-our-website) to gather information about how our website is used to help us maintain and develop our services. For example we monitor what pages and links are most popular.
 
 ## Requesting your data
 
@@ -52,6 +48,8 @@ We do our own data matching, using names, dates of birth and address. We will co
 
 All Local Authorities have a duty to improve the health of the population they serve. To help with this, we use data and information from a range of source data, including hospitals and data collected at the registration of a birth or death to understand more about the health and care needs in the area.
 
+You have the right to opt out of Brighton & Hove City Council Public Health receiving or holding your personally identifiable information. There are occasions where service providers will have a legal duty to share personal data, for example for safeguarding or criminal issues. The process for opting out will depend on what the specific data is and what programme it relates to. For further information on how to withdraw consent please contact the the Data Protection Team, on 01273 295959 or [data.protection@brighton-hove.gov.uk](mailto:data.protection@brighton-hove.gov.uk).
+
 For some regulated services your application may be published and potentially discussed in open committee. This will always be made clear on any relevant application forms and supporting documentation.
 
 We have to share information with certain other public bodies such as the Department for Work and Pensions (DWP), HM Revenues and Customs (HMRC), courts, tribunals, other formal bodies dealing with legal processes or external regulatory bodies. We also have to assist in the prevention and detection of crime and we will therefore generally supply specific information requested by the police or other crime detection agencies, if we are satisfied that the disclosure would be lawful and appropriate.
@@ -68,10 +66,20 @@ Most CCTV cameras located around the cities highways and public spaces are opera
 
 The Electoral Register for Brighton & Hove is a separate legal entity from the council and is separately notified with the Information Commissioner as a data controller as Superintendent Registrar Brighton & Hove Registration District, registration Number Z5908457.
 
+## Website cookies
+
+The Brighton & Hove City Council website uses cookies to work. 
+
+You can decide what cookies are allowed and delete cookies at any time by adjusting settings on your web browser. 
+
+Find out more about [cookies on our website](http://www.brighton-hove.gov.uk/content/about-website/cookies-our-website).
+
 ## Related information
 
+  * [Data protection](http://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/data-protection-act-1998)
+  * [Cookies on our website](http://www.brighton-hove.gov.uk/content/about-website/cookies-our-website)
   * [Statement of ownership](http://www.brighton-hove.gov.uk/content/about-website/statement-ownership)
   * [Freedom of information](http://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/freedom-information)
-  * [External links disclaimer](http://www.brighton-hove.gov.uk/content/about-website/external-links-disclaimer)
+  * [External links](http://www.brighton-hove.gov.uk/content/about-website/external-links-disclaimer)
 
 
