@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130203217id_/http%3A//www.bchydro.com/siteinfo/privacy.html%3FWT.ac_id%3Dhp_footer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209115251id_/http%3A//www.bchydro.com/siteinfo/privacy.html%3FWT.ac%3Dhp_footer_privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -19,7 +19,7 @@ Keep your user ID and password confidential. Be wary of emails that ask for pers
 
 Please also note that when you send us electronic mail, we collect your email address, your internet IP address and your message so that we may reply to you. We recommend that sensitive personal information not be sent unencrypted over the Internet or by e-mail.
 
-In addition, when you visit our website, the web server collects a small amount of information to facilitate the operation and security of our website. This information may include browser type, your domain address from your Internet service provider and IP address. We use this information to optimize our website and make system improvements. In some casses, we may associate your IP address with other information you provide when using our website, such as your login information.
+In addition, when you visit our website, the web server collects a small amount of information to facilitate the operation and security of our website. This information may include browser type, your domain address from your Internet service provider, your activity on our site and IP address tracking (e.g. tracking your intent to share of articles). We use this information to optimize our website and make system improvements. In some cases, we may associate your IP address with other information you provide when using our website, such as your login information.
 
 ### Cookies
 
