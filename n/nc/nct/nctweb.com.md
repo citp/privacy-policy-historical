@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nctweb.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610023119id_/http%3A//nctweb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nctweb.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209013615id_/http%3A//www.nctweb.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Nctweb.com Web Directory - Privacy Policy
 
