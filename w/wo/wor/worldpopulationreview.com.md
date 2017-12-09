@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldpopulationreview.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084026id_/http%3A//worldpopulationreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpopulationreview.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209071907id_/http%3A//worldpopulationreview.com/privacy) for the most accurate reproduction.*
 
-# World Population Review Privacy Policy
+# Privacy
 
 ##### Privacy Policy for World Population Review
 
@@ -48,4 +48,4 @@ This privacy policy applies only to our online activities and is valid for visit
 
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-This Privacy Policy was last updated on: Wednesday, June 22nd, 2016.
+This Privacy Policy was last updated on: Wednesday, July 22nd, 2017.
