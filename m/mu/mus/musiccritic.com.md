@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the musiccritic.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615082729id_/http%3A//musiccritic.com/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musiccritic.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209024246id_/http%3A//musiccritic.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Music Critic | The Home Of Music Reviews
 
 ## Privacy Policy
 
-At Music Critic we respect the privacy of our users and follow a strict privacy policy. This Privacy Policy is applicable to any personal information which we may receive via the web site located at Music Critic, and is devised to help you feel more confident about the privacy and security of your personal details. Be assured that the information you share with Music Critic is kept strictly confidential and fully secure, and that Music Critic will never misuse this information. If you have any questions or concerns about this statement, please contact us at editor@music-critic.com. 
+At Music Critic we respect the privacy of our users and follow a strict privacy policy. This Privacy Policy is applicable to any personal information which we may receive via the web site located at Music Critic, and is devised to help you feel more confident about the privacy and security of your personal details. Be assured that the information you share with Music Critic is kept strictly confidential and fully secure, and that Music Critic will never misuse this information. If you have any questions or concerns about this statement, please contact us at editor@musiccritic.com. 
 
 The following discloses our information gathering and dissemination practices for Music Critic.
 
@@ -13,6 +13,10 @@ The following discloses our information gathering and dissemination practices fo
 The only ways in which Music Critic may receive personally identifiable information about you is if you knowingly and willingly provide the information by contacting us using email or through one of our service areas, including, but not limited to, contests and promotions. In such areas, the information you disclose is done so knowingly and willingly, at your sole discretion. The personally identifiable information you disclose is optional, and is normally required so as to effectively enter you into any contest we may offer or to reply to your email and correspondence.
 
 If you give us permission to use your email address and name we are not responsible for any correspondence that you may receive. We do not sell or compile lists of email addresses for marketing purposes. Users can opt in to receive our newsletter if they wish. Music Critic will never share the aggregate results of the data it receives with advertisers or any other forms of internet activities. We are committed to user privacy protection and will keep everything secure as stated in the Data Protection Act, 1984.
+
+### Amazon Services
+
+MusicCritic.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com, Amazon.co.uk or Amazon.ca.
 
 ### Third Party Sites
 
@@ -40,10 +44,10 @@ We welcome users of all ages to our content and services. If you are under the a
 
 ### Notes to Parents
 
-We respect that you may wish to monitor the content and services your child uses on the Internet. If you wish for your child to be removed from any and/or all Music Critic services, please send an email specifically requesting your wish to editor@music-critic.com. Please note, however, that while we will subsequently use our best endeavours to prevent your child from using our services, we cannot and will not be held responsible for access to our services your child may subsequently gain, as this is out of our control. 
+We respect that you may wish to monitor the content and services your child uses on the Internet. If you wish for your child to be removed from any and/or all Music Critic services, please send an email specifically requesting your wish to editor@musiccritic.com. Please note, however, that while we will subsequently use our best endeavours to prevent your child from using our services, we cannot and will not be held responsible for access to our services your child may subsequently gain, as this is out of our control. 
 
 ### User Consent
 
 By using our Web site, you consent to the collection and uses of the information detailed here. Any changes in our Privacy Policy will appear on this page so you are aware of what we collect and how we use it. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact editor@music-critic.com.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact editor@musiccritic.com.
