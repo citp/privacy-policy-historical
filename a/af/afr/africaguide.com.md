@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africaguide.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612062815id_/http%3A//www.africaguide.com/main/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africaguide.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209210323id_/http%3A//www.africaguide.com/main/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
