@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interpunk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153741id_/http%3A//www.interpunk.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpunk.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209221839id_/http%3A//www.interpunk.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy @ Interpunk.com - The Ultimate Punk Music Store
 
@@ -90,6 +90,6 @@ interpunk.com
 203 E German School Rd  
 Richmond, VA 23224-1460  
 United States  
-service@interpunk.com  
+gethelp@interpunk.com  
 (804) 275-9733  
 
