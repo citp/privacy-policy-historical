@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207003530id_/http%3A//www.zarca.com/online-survey-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209042519id_/http%3A//www.zarca.com/online-survey-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Zarca Interactive ("Zarca") is an application service provider that provide you, our customer, tools to conduct two-way communications with your customers, employees, suppliers and constituents. Like the postal service, we understand that the Information we deliver belongs to you and your survey participants, not us. At Zarca, it is a core business principle that we must protect the privacy of our customers and survey participants or we will not have either. With this principle in mind, Zarca created this privacy policy to demonstrate our commitment to your privacy. 
+Zarca Interactive ("Zarca") is an application service provider that provides you, our customer, tools to create and deploy Web surveys, Web forms, Web-based event registration forms, including capabilities to generate reports, upload, input and download data through its unique technology platform for your customers, employees, suppliers and constituents. Like the postal service, we understand that the Information (defined below) we deliver belongs to you and your survey participants, not us. At Zarca, it is a core business principle that we must protect the privacy of our customers and survey participants or we will not have either. With this principle in mind, Zarca created this privacy policy to demonstrate our commitment to your privacy.
 
 You should be assured that our practices stated in this policy are practiced worldwide. Zarca is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders. We may share information between Zarca entities and transfer it to offices around the world. Some countries may provide less legal protection for personal information than the country in which the information was provided. No matter the country standards, we will still handle the information in the manner we describe here.
 
-This Privacy Policy applies only to information collected on our web site at the URL [http://www.zarca.com](http://www.zarca.com/) (the "Site") and our Zarca service platform. It does not speak about Zarca practices for information collected elsewhere or the practices of any third parties, including those of our partners who may display Zarca branding on their sites. The use of information collected through our service platform shall be limited to the purpose of providing the service for which the Client has engaged Zarca.
+This Privacy Policy applies only to information collected on our web site at the URL [http://www.zarca.com](http://www.zarca.com/)(the "Site") and our Zarca service platform. It does not speak about Zarca practices for Information collected elsewhere or the practices of any third parties, including those of our partners who may display Zarca branding on their sites. The use of Information collected through our service platform shall be limited to the purpose of providing the service for which the Customer has engaged Zarca.
 
 If you have questions about this privacy policy please email, [privacy@zarca.com](mailto:privacy@zarca.com)
 
@@ -24,9 +24,9 @@ We also log Customer and Survey Participant Internet Protocol addresses to ensur
 
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-If you choose to use our referral service on Zarca to share an article from our site, we will ask you for your email address and your friend's email address. We will automatically send your friend a one-time email in your name inviting him or her to visit the site to review the article. Zarca does not store this information and uses it for the sole purpose of sending this one-time email.
+If you choose to use our referral service on Zarca to share an article from our site, we will ask you for your email address and your referral’s email address. We will automatically send your referral a one-time email in your name inviting him or her to visit the site to review the article. Zarca does not store this information and uses it for the sole purpose of sending this one-time email.
 
-Zarca also collects information under the direction of its Clients on its service platform and has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Zarca's Client (the data controller). If the Client requests Zarca to remove the data, we will respond to their request within 30 days. Zarca works with its Clients to help them provide notice to their customers concerning, the purpose for which personal information is collected. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
+Zarca also receive Information under the direction of its Customers on its service platform and has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Zarca's Customer (the data controller). If the Customer requests Zarca to remove the data, we will respond to their request within 30 days. Zarca works with its Customers to help them provide notice to their customers concerning, the purpose for which personal information is collected. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Customers.
 
 **Tracking Technologies Employed on the Site and the Service Platforms**
 
@@ -42,7 +42,7 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 
 **Widgets**
 
-From time to time our site includes Widgets, such as the Share This button or interactive mini-programs that run on our site. These Features may collect your IP address and which page you are visiting on our site; they may also set a cookie to enable the Feature to function properly. Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the third party company providing the Feature.
+From time to time our site includes “Widgets”, such as a “Share This”, button or interactive mini-programs that run on our site. These features may collect your IP address and which page you are visiting on our site; they may also set a cookie to enable the feature to function properly. Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the third party company providing the Feature.
 
 **Blogs/Forums**
 
@@ -58,7 +58,7 @@ If you want to remove your personal information that is being displayed on our w
 
 We use your Customer Information in the normal course of our business, for reasons such as contacting you regarding technical support, discuss billing issues, or to bring to your attention any aspect of our mutual business. We may also use your contact information to provide you with policy or product updates or to introduce new products and services. If you do not wish to receive promotional emails from us, please follow the unsubscribe instructions included in each promotional email.
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature.
 
 All Participant Information resides in our database primarily for the benefit of you, our Customers. At your direction, we use a Survey Participant's email address (and perhaps name) to send survey invitations and reminders. We also use Participant Information to improve the performance of our Site and services by analyzing site and user behavior, troubleshooting technical problems, resolving disputes and addressing complaints, and verifying compliance with the Terms of Service.
 
@@ -66,7 +66,7 @@ If Zarca intends to use any Information in a manner that deviates from this Priv
 
 **Choice**
 
-We collect information for our Clients. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. If you are a Client and would like to update your account please contact us.
+We collect information for our Customers. If you are a client of one of our Customers and would no longer like to be contacted by one of our Customers that use our service, please contact the Customer that you interact with directly. If you are our Customer and would like to update your account please contact us.
 
 **Data Retention**
 
@@ -85,9 +85,9 @@ We do not share Information with any third parties except under the following ve
 
 **(b) As You Explicitly Allow:** We may share or otherwise use your Customer Information as you explicitly allow us and we may share Participant Information as both you and the Survey Participant expressly allow. For example, you are given the opportunity to either hide or make available to Survey Participants certain Customer contact information in connection with any survey.
 
-**(c) Agents Acting on Our Behalf:** We may share some of your Information with other companies who provide us with technical and other type of services such as a credit card processor . They will be contractually granted access to only that Information which is necessary for them to do their jobs and they will be prohibited from using the Information for any other purpose including marketing or sharing the Information with any other party. We do not share any personally identifiable information with third parties who are not services providers.
+**(c) Agents Acting on Our Behalf:** We may share some of your Information with other companies who provide us with technical and other type of services such as a credit card processor. They will be contractually granted access to only that Information which is necessary for them to do their jobs and they will be prohibited from using the Information for any other purpose including marketing or sharing the Information with any other party. We do not share any personally identifiable information with third parties who are not services providers.
 
-**(d) For Legal Reasons:** We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share your Information to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.
+**(d) For Legal Reasons:** We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share your Information to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. Please note that under the Privacy Shield Framework, Zarca and is Customers may be subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission, the Department of Transportation, or any other U.S. authorized statutory body, relating to the use and disclosure of Information.
 
 **(e) Affiliates and Acquisition:** We may share Information with our affiliated companies or during any real or potential acquisition or merger of our company by or with another. We will notify you if your Information becomes subject to a different privacy policy.
 
@@ -106,9 +106,27 @@ if you learn or suspect that our security has been breached.
 
 As we are constantly improving our services and expanding our business, we retain the right to modify this privacy policy at any time. In the event we make such changes, we will announce the changes and post the new policy on the Site. Information collected after the new policy is posted will be used in conformance with the new policy. Information gathered under the old policy will continue to be used in conformance with that policy unless we, in conjunction with the Customer, notify Survey Participants of the changes and the Survey Participant does not prohibit the use of the Information in conformance with the new policy. If we make any material changes we will notify you or our Client by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-**U.S.-EU and U.S.-Swiss Safe Harbor**
+**U.S.-EU and U.S.-Swiss Privacy Shield and Data Dispute Resolution**
 
-Zarca complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Zarca has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Zarca's certification, please visit <http://www.export.gov/safeharbor/>.
+Zarca complies with the U.S.-E.U. Privacy Shield Framework and the U.S.-Swiss Privacy Shield framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Zarca has certified that it adheres to the Privacy Shield Framework principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield Framework, and to view Zarca's certification, please visit [ https://www.privacyshield.gov/EU-US-Framework ](https://www.privacyshield.gov/EU-US-Framework) and [ https://www.privacyshield.gov/list ](https://www.privacyshield.gov/list).
+
+**Independent Recourse Mechanism for EU and Swiss Privacy Shield Complaints.**
+
+For purposes of our Customers that require compliance with the U.S.-E.U. or U.S.-Swiss Privacy Shield Framework, Zarca undertakes the following alternative dispute resolution process relating to privacy complaints and final resolutions: the independent dispute resolution body designated to address complaints and provide appropriate recourse, free of charge, to the individual, shall be through an arbitration panel, in accordance with the EU data protection authorities (“DPAs”), and the Swiss Federal Data Protection and Information Commissioner (“FDPIC”), with all privacy, including human resource (“HR”) and non-HR related complaints being addressed by said mechanism.
+
+In compliance with the Privacy Shield Principles, Zarca Interactive Inc., commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact at [privacy@zarca.com](mailto:privacy@zarca.com), and include the statement “Privacy Complaint” in the subject line of your email. Or you may contact us via mail, at:
+
+2291 Wood Oak Drive  
+Suite 300  
+Herndon, VA 20171
+
+Zarca Interactive Inc., has further committed to cooperate with the panel established by the EU data protection authorities and the Swiss Federal Data Protection and Information Commissioner with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU and Switzerland, in the context of the employment relationship.
+
+In order to invoke arbitration under the Framework, the aggrieved party must: (1) first, raise the claimed violation directly with Zarca and afford the Zarca an opportunity to resolve the issue within the timeframe set forth in Section III.11(d)(i) of the Privacy Shield’s Principles; (2) then, make use of the independent recourse mechanism under the Principles, which is at no cost to the individual; and to the extent unresolved; (3) raise the issue through their Data Protection Authority to the Department of Commerce and afford the Department of Commerce an opportunity to use best efforts to resolve the issue within the timeframes set forth in the Letter from the International Trade Administration of the Department of Commerce, at no cost to the individual.
+
+Zarca commits to cooperate with DPAs and the FDPIC, and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship.
+
+Zarca complies with the possibility that, under certain limited conditions, individuals may invoke binding arbitration. As a reminder, we may be required to share personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Zarca recognizes that in certain circumstances, Zarca may be held liable in cases of onward transfers of personal information to third parties.
 
 **Additional Information**
 
@@ -118,4 +136,4 @@ If you have questions about this Privacy Policy or the Site, you may contact us 
 Suite 300  
 Herndon, VA 20171
 
-Last Updated: 7/22/2016
+Last Updated: 11/3/2017
