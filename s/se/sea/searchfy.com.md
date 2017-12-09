@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchfy.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527021926id_/http%3A//www.searchfy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchfy.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209054614id_/http%3A//www.searchfy.com/about/privacy) for the most accurate reproduction.*
 
 # searchfy.com
 
