@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the musixhub.com privacy policy that was archived on 2017-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170620021727id_/http%3A//www.musixhub.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musixhub.com privacy policy that was archived on 2017-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171209213026id_/http%3A//www.musixhub.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Free albums music - Listen free at MusixHub</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="description" content="Play albums from your favorites artists and improve YouTube music experience
+    <meta name="description" content="Play albums from your favorite artists and improve YouTube music experience
 MusixHub is a music network that gives you easy and unlimited access to music, for free.
 You can find all your favorites artists and albums.
 MusixHub give you better YouTube music experience.
@@ -13,7 +13,7 @@ MusixHub give you better YouTube music experience.
     <meta name="author" content="MusixHub">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!-- for Google -->
-    <meta name="description" content="Play albums from your favorites artists and improve YouTube music experience
+    <meta name="description" content="Play albums from your favorite artists and improve YouTube music experience
 MusixHub is a music network that gives you easy and unlimited access to music, for free.
 You can find all your favorites artists and albums.
 MusixHub give you better YouTube music experience.
@@ -28,7 +28,7 @@ MusixHub give you better YouTube music experience.
     <!-- for Google Plus -->
     <!-- Add the following three tags inside head. -->
     <meta itemprop="name" content=">Free albums music - Listen free at MusixHub">
-    <meta itemprop="description" content="Play albums from your favorites artists and improve YouTube music experience
+    <meta itemprop="description" content="Play albums from your favorite artists and improve YouTube music experience
 MusixHub is a music network that gives you easy and unlimited access to music, for free.
 You can find all your favorites artists and albums.
 MusixHub give you better YouTube music experience.
@@ -40,7 +40,7 @@ MusixHub give you better YouTube music experience.
     <meta property="og:type" content="article">
     <meta property="og:image" content="http://www.musixhub.com/images/logo_fb_share.jpg">
     <meta property="og:url" content="http://www.musixhub.com/privacy.php?lnk=share">
-    <meta property="og:description" content="Play albums from your favorites artists and improve YouTube music experience
+    <meta property="og:description" content="Play albums from your favorite artists and improve YouTube music experience
 MusixHub is a music network that gives you easy and unlimited access to music, for free.
 You can find all your favorites artists and albums.
 MusixHub give you better YouTube music experience.
@@ -50,7 +50,7 @@ MusixHub give you better YouTube music experience.
     <!-- for Twitter -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Free albums music - Listen free at MusixHub">
-    <meta name="twitter:description" content="Play albums from your favorites artists and improve YouTube music experience
+    <meta name="twitter:description" content="Play albums from your favorite artists and improve YouTube music experience
 MusixHub is a music network that gives you easy and unlimited access to music, for free.
 You can find all your favorites artists and albums.
 MusixHub give you better YouTube music experience.
@@ -66,7 +66,6 @@ MusixHub give you better YouTube music experience.
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
 <script src="js/jquery.cookie.js"></script>
-<script src="js/offers.js"></script>
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
 
 <link rel="stylesheet" type="text/css" href="slick/slick.css">
@@ -90,8 +89,7 @@ MusixHub give you better YouTube music experience.
 
 
 <script>
-
-    var baseDataUrl = "http://data.musixhub.com/data.php";
+    var baseDataUrl = (window.location.href.indexOf('www') > -1) ? location.protocol + "//www.musixhub.com/data.php" :  location.protocol + "//musixhub.com/data.php";
     var apiKey = "596b6a87b325e101a9e8829bf8546d7d";
     var ytKey = "AIzaSyBbWHVgPc8uxLpdEtsbSREphEUIgC4bHC4";
     var _plObj = null;
@@ -285,8 +283,8 @@ MusixHub give you better YouTube music experience.
     function openStore() {
         window.open("https://chrome.google.com/webstore/detail/gkbhpmdajdojnnhkfgffkofkjifglkan");
     }
-    function saveAlbum(id, name, image, releaseDate, artist, trackCount) {
-        var u = baseDataUrl + "?uid=" + getUsetId() + "&t=alu&id=" + id + "&name=" + encodeURIComponent(name) + "&image=" + encodeURIComponent(image) + "&releaseDate=" + releaseDate + "&artist=" + encodeURIComponent(artist) + "&trackCount=" + trackCount;
+    function saveAlbum(id, name, image, releaseDate, artist, trackCount, artist_avatar) {
+        var u = baseDataUrl + "?uid=" + getUsetId() + "&t=alu&id=" + id + "&name=" + encodeURIComponent(name) + "&image=" + encodeURIComponent(image) + "&releaseDate=" + releaseDate + "&artist=" + encodeURIComponent(artist) + "&trackCount=" + trackCount + "&artist_avatar=" + artist_avatar;
         console.log(u);
 
 
@@ -715,8 +713,8 @@ MusixHub give you better YouTube music experience.
 
                 $.removeCookie('n_ext_fs', {path: '/'});
                 swal({
-                    title: "Share with friens?",
-                    text: "Share musixhub with friends and let them enjoy from playing albums they like!",
+                    title: "Share with friends?",
+                    text: "Share musixhub with friends and let them enjoy playing albums they like!",
                     type: "success",
                     showCancelButton: true,
                     confirmButtonColor: "#3b5998",
@@ -727,7 +725,7 @@ MusixHub give you better YouTube music experience.
                     allowOutsideClick: true
                 }, function (isConfirm) {
                     if (isConfirm) {
-                        _mz_ShareAlbum("http://www.musixhub.com");
+                        _mz_ShareAlbum(location.protocol + "//www.musixhub.com");
                     } else {
 
                         swal("Cancelled", "Maybe next time... enjoy :)", "error");
@@ -758,7 +756,7 @@ MusixHub give you better YouTube music experience.
             updateCanShareMsg();
             swal({
                 title: "Share with friens?",
-                text: "Share musixhub with friends and let them enjoy from playing albums they like!",
+                text: "Share musixhub with friends and let them enjoy playing albums they like!",
                 type: "success",
                 showCancelButton: true,
                 confirmButtonColor: "#3b5998",
@@ -769,7 +767,7 @@ MusixHub give you better YouTube music experience.
                 allowOutsideClick: true
             }, function (isConfirm) {
                 if (isConfirm) {
-                    _mz_ShareAlbum("http://www.musixhub.com");
+                    _mz_ShareAlbum(location.protocol + "//www.musixhub.com");
                     $.cookie('swf_msg', timestamp + "", {expires: 365, path: '/'});
 
                 } else {
@@ -809,7 +807,7 @@ MusixHub give you better YouTube music experience.
     $(function () {
         showMsgUser();
         updateLoginView();
-
+        
         if ($(document).width() < 800) {
             $('.footerAds').hide();
         }
@@ -858,7 +856,7 @@ MusixHub give you better YouTube music experience.
                 if (request.term.length < 3) {
                     return;
                 }
-                var u = "http://itunes.apple.com/search?term=" + request.term + "&media=music&entity=musicArtist&limit=5&attribute=artistTerm";
+                var u = location.protocol + "//itunes.apple.com/search?term=" + request.term + "&media=music&entity=musicArtist&limit=5&attribute=artistTerm";
                 $.ajax({
                     url: u,
                     dataType: "jsonp",
@@ -970,6 +968,47 @@ MusixHub give you better YouTube music experience.
 
         //lyricsDiv
     }
+</script>
+
+<script>
+
+
+    function window_dimensions(windowContext)
+    {
+        var result = [0,0];
+
+        var width;
+        var height;
+
+        try
+        {
+            if (windowContext.innerWidth && typeof(windowContext.innerWidth) == 'number')
+            {
+                width = Math.floor(windowContext.innerWidth);
+            }
+            else
+            {
+                width = windowContext.document.documentElement.clientWidth || windowContext.document.body.clientWidth;
+                try { width = Number(width.replace('px', '')); } catch (f) {}
+            }
+
+            if (windowContext.innerHeight && typeof(windowContext.innerHeight) == 'number')
+            {
+                height = Math.floor(windowContext.innerHeight);
+            }
+        } catch (e) {}
+
+        if (width && height)
+        {
+            result = [width, height];
+        }
+
+        return result;
+    }
+  
+    
+
+
 </script>
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1085,13 +1124,12 @@ function loginStatusUpdated()
             $.removeCookie("userId",{  path: '/',domain: 'musixhub.com' });
             $.removeCookie("userId");
             $.cookie("msg", "LogOut successfully");
-            location.reload();
+            location.href = location.protocol + '//www.musixhub.com';
         });
       }
     });
   }
 </script>
-
 <style>
 </style>
 
@@ -1108,6 +1146,7 @@ function loginStatusUpdated()
                         <!-- <li style="border-left: 1px ridge rgb(68, 68, 68);" ><a href="index.php">Home</a></li> -->
                         <li><a id="_mz_mylibrary_lnk" href="javascript:needLoginPop();">My Library</a></li>
                         <li><a href="artists.php">Artists</a></li>
+                        <li><a href="genres.php">Genres</a></li>
                         <li><a href="javascript:void(0)" onclick="chrome.webstore.install()">Extension</a></li>
                         <li><a href="contact.php">Contact</a></li>
 
@@ -1395,8 +1434,7 @@ You are entitled to access and correct your data by requesting to do so via the 
 					<h3>Recent Posts</h3>
 				     <ul class="f-nav">
 						<li><a target="_blank" href="https://www.facebook.com/musixhub"><img src="images/facebook.png" alt="">Facebook</a></li>
-						<li><a href=""><img src="images/twitter.png" alt="">Twitter</a></li>
-						<li><a href=""><img src="images/gplus.png" alt="">Google+</a></li>
+						<li><a href="https://twitter.com/yrmusixhub"><img src="images/twitter.png" alt="">Twitter</a></li>
 					</ul>
 			</div>
 			<div class="grid_1_of_4 images_1_of_4">
