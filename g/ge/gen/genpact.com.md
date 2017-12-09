@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the genpact.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629190521id_/http%3A//www.genpact.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genpact.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209194033id_/http%3A//www.genpact.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy | Genpact
+
+### Privacy and Cookie Policy
+
+Effective 2007, modified to include reference to Cookie Policy 2/2013. 
 
 We at Genpact and our affiliated companies worldwide (“Genpact”) respect your privacy and are therefore committed to affording complete protection to the sensitive information relating to any visitor to our website. In recognition of your need for adequate protection and proper management of any personally identifiable information (“Personal Information”) that we may receive from this website, Genpact has established this Online Privacy Policy. By using Genpact.com you agree to be legally bound by this Policy, which shall take effect immediately on your first use of Genpact.com.
 
