@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the loudgames.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060824id_/http%3A//video.loudgames.com/privacyLGS.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudgames.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209232918id_/http%3A//video.loudgames.com/privacyLGS.html) for the most accurate reproduction.*
 
-# Privacy | Loud Games
+# PRIVACY POLICY| Loud Games
 
-**LOUD GAMES**
+[](https://web.archive.org/index.html)
 
-**PRIVACY POLICY**
+## LOUD GAMES
+
+### PRIVACY POLICY
 
 _Last Modified: January 25, 2017_
 
