@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerhouselive.net privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610014618id_/http%3A//www.powerhouselive.net/Page-PrivacyPolicy_13.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhouselive.net privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209025952id_/http%3A//www.powerhouselive.net/Page-PrivacyPolicy_13.aspx) for the most accurate reproduction.*
 
 # Powerhouse :: Privacy Policy
 
