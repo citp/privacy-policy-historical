@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engagebdr.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607014307id_/http%3A//engagebdr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engagebdr.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209114148id_/http%3A//engagebdr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | engage:BDR
 
