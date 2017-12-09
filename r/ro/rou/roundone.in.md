@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roundone.in privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225111126id_/http%3A//www.roundone.in/app_term_cond.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundone.in privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209035128id_/http%3A//www.roundone.in/app_term_cond.html) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -52,7 +52,7 @@ THE FOLLOWING ARE THE TERMS OF USE OF THE WEBSITE ROUNDONE.IN (" **WEBSITE** ") 
 
   
 **Privacy Policy**  
-Last updated on Feb 18, 2013
+Last updated on March 18, 2016
 
 Round One Network Pvt Ltd is concerned about the privacy of its users (hereinafter referred to as "You" 'Your' 'Yourself') accessing its website located at www.roundone.in ('Website') and has provided this Privacy Policy ('Policy') to familiarize You with the manner in which Round One collects, uses and discloses Your information collected through the Website. 
 
@@ -62,7 +62,7 @@ BY USING THE WEBSITE, YOU AGREE TO THE TERMS AND CONDITIONS OF THIS POLICY. IF Y
 
 This Privacy Policy explains how Round One collects personal and non-personal information, classified as mandatory or voluntary and uses, discloses and protects such information through the Website. 'Personal Information' is data that can be used to uniquely identify or contact a single person ("Personal Information"). Personal Information for the purposes of this Policy shall include, but not limited to, information regarding Your name, address, telephone number, date of birth, gender, e-mail address, etc.
 
-You may need to provide Round One Your Personal Information during the course of using some services of the Round One, for instance, creating a User ID, provide information in Your account while registering on the Website, or provide financial information while making an online purchase, upload content, participate in any online survey or contest, communicate with ï¿½Companyï¿½s customer service by phone, email or otherwise, provide reviews for the content available on the Website.
+You may need to provide Round One Your Personal Information during the course of using some services of the Round One, for instance, creating a User ID, provide information in Your account while registering on the Website, or provide financial information while making an online purchase, upload content, participate in any online survey or contest, communicate with Company's customer service by phone, email or otherwise, provide reviews for the content available on the Website.
 
 Round One collects only such Personal Information that Round One believes to be relevant and is required to understand You or Your interests. Round One collects Your Personal Information in order to record, support and facilitate Your participation in the activities You select, track Your preferences, to provide You with a customized Website experience, to notify You of any updated information and new activities and other related functions offered by Round One, keep You informed about latest content available on the Website, special offers, and other products and services of Round One, to assist You with customer service or technical support issues, to follow up with You after Your visit, to otherwise support Your relationship with Round One or to prevent fraud and unlawful use. 
 
@@ -117,7 +117,7 @@ A "Force Majeure Event" shall mean any event that is beyond the reasonable contr
 
 Round One will use information only in accordance with the Policy under which the information was collected unless we have received explicit authorization.
 
-Round One may disclose any information Round One may have about You (including Your identity) if Round One determines that such disclosure is necessary in connection with any investigation or complaint regarding Your use of the Website, or to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) ï¿½Companyï¿½s rights or property, or the rights or property of users of the Website, including ï¿½Companyï¿½s customers. Round One reserves the right at all times to disclose any information that Round One deems necessary to comply with any applicable law, regulation, legal process or governmental request. Round One also may disclose Your information when Round One determines that applicable law requires or permits such disclosure, including exchanging information with other companies and organizations for fraud protection purposes.
+Round One may disclose any information Round One may have about You (including Your identity) if Round One determines that such disclosure is necessary in connection with any investigation or complaint regarding Your use of the Website, or to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) ï¿½Companyï¿½s rights or property, or the rights or property of users of the Website, including 'Company's customers. Round One reserves the right at all times to disclose any information that Round One deems necessary to comply with any applicable law, regulation, legal process or governmental request. Round One also may disclose Your information when Round One determines that applicable law requires or permits such disclosure, including exchanging information with other companies and organizations for fraud protection purposes.
 
 You acknowledge and agree that Round One may preserve any communication by You with Round One through the Website or any Service, and may also disclose such data if required to do so by law or if Round One determines that such preservation or disclosure is reasonably necessary to: (1) comply with legal process; (2) enforce this Policy; (3) respond to claims that any such data violates the rights of others; or (4) protect the rights, property or personal safety of Round One, its employees, users of, or visitors to, the Website, and the public.
 
