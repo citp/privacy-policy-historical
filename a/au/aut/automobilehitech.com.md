@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the automobilehitech.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514105528id_/http%3A//www.automobilehitech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobilehitech.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210004509id_/http%3A//www.automobilehitech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AutomobileHiTech | AutomobileHiTech
+# Privacy Policy - Automobile HiTech | Automobile HiTech
 
 ## Privacy Policy
 
