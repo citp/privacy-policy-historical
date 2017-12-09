@@ -1,48 +1,20 @@
-> *The following text is extracted and transformed from the dallascowboys.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629155049id_/http%3A//www.dallascowboys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallascowboys.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209184403id_/http%3A//www.dallascowboys.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dallas Cowboys
 
-Last Updated: October 19, 2015
-
 [](https://privacy.truste.com/privacy-seal/validation?rid=c44fb464-77f8-4840-840c-5560b222de2b)
+
+Effective Date: August 16, 2001
+
+Updated: September 13, 2017
 
 The Dallas Cowboys Football Club, Ltd., and all other related entities (“Dallas Cowboys”, “we”, “our”, “us”) respect your privacy and value your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our websites and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.
 
 Please note that this Privacy Policy does not apply to Dallas Cowboys properties that do not link to this Privacy Policy (including Dallas Cowboys Crew Youth Membership Program) or to information collected by the thirty-two individual NFL member clubs (the "Member Clubs").  In some instances, we may direct you to a site that is operated by a third party service provider. Even though the page where you provide information may have the look and feel of the Services, a different privacy policy may govern that information collection by our third party service provider.
 
-**1\. Information Collection**
+Dallas Cowboys has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.  The TRUSTe certification only applies to our sites [www.dallascowboys.com](http://www.dallascowboys.com/), [www.shop.dallascowboys.com](http://www.shop.dallascowboys.com/) and our Dallas Cowboys Mobile application. If you have questions or concerns regarding our privacy policy or practices, please contact us at [privacy@dallascowboys.com](mailto:privacy@dallascowboys.com).  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [**https://feedback-form.truste.com/watchdog/request**](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through our websites that link to this privacy policy or mobile applications that link to this policy.
 
-**2\. Use of Information**
-
-**3\. Sharing of Information**
-
-**4\. Tracking Technologies and Cookies**
-
-**5\. Behavioral / Re-targeting**
-
-**6\. Social Networking Services**
-
-**7\. Public Profile**
-
-**8\. Links To Other Websites**
-
-**9\. Security**
-
-**10\. Data Retention**
-
-**11\. Children’s Privacy**
-
-**12\. Communications Preferences and Access**
-
-**13\. Your California Privacy Rights**
-
-**14\. Changes To This Privacy Policy**
-
-**15\. International Users**
-
-**16\. Contact Us**
-
-**1\. Information Collection**
+**_Information Collection_**
 
 You generally are not required to provide information about yourself when you visit the Services.  However, we may ask you for some or all of the following types of information when you register with our Services, sign up for contests or sweepstakes, participate in surveys, access various content or features, submit comments or content, use a send-to-a-friend feature, or directly contact us with questions or feedback:
 
@@ -69,12 +41,11 @@ We also may collect certain information automatically when you visit the Service
   * Pages you view and links you click on within the Services;
   * Information collected through cookies, web beacons, Local Shared Objects, and other technologies;
   * Information about your interactions with e-mail messages, such as the links clicked on and whether the messages were received, opened, or forwarded; and
-  * Standard Server Log Information 
-
-2. **Use of Information**
+  * Standard Server Log Information
 
 
 
+**_Use of Information_**
 
 We may use information that we collect through the Services for a variety of purposes, including to:
 
@@ -89,7 +60,7 @@ We may use information that we collect through the Services for a variety of pur
 
 
 
-**3\. Sharing of Information**
+**_Sharing of Information_**
 
 We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.  At times, as described below, we may share your personal information with others for various purposes:
 
@@ -119,10 +90,11 @@ We are committed to maintaining your trust, and we want you to understand when a
  
   * **Geo-Location Data and Services Providers:** We may share your geo-location data with service providers that perform certain functions or services on our behalf (such as to host the Services, fulfill orders, provide products and services, manage databases; perform analyses, process credit card payments, provide customer service, or send communications for us). These companies are authorized to use your geo-location data  _only as necessary to provide  _these services to us.  If you do not wish to allow us to share your information in this manner please opt-out by contacting us at [privacy@dallascowboys.com](mailto:privacy@dallascowboys.com).  
  
-  * **Geo-Location Data and Third Parties:** We may share your geo-location data with third parties for the purpose of them serving you ads for places in your area.  If you do not wish to allow us to share your information in this manner please opt-out by contacting us at [privacy@dallascowboys.com](mailto:privacy@dallascowboys.com). 
+  * **Geo-Location Data and Third Parties:** We may share your geo-location data with third parties for the purpose of them serving you ads for places in your area.  If you do not wish to allow us to share your information in this manner please opt-out by contacting us at [privacy@dallascowboys.com](mailto:privacy@dallascowboys.com).
 
-4\. **Tracking Technologies and Cookies**  
- 
+
+
+**_Tracking Technologies and Cookies_**
 
   * Technologies such as: cookies, beacons, tags and scripts are used by the Dallas Cowboys and our marketing partners, affiliates, and other service providers such as analytics providers and e-commerce providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies for various purposes as described above and in addition to remember users’ settings (e.g. language preference) and for authentication.  Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.  
  
@@ -136,39 +108,40 @@ We use mobile analytics software to allow us to better understand the functional
 
 By using the Services, you consent to our use of cookies and similar technologies.  You can decide if and how your computer will accept a cookie by configuring your preferences or options in your browser.  However, if you choose to reject cookies and similar technologies, you may not be able to use certain online products, services or features on the Services.
 
-**5\. Behavioral / Re-Targeting**
+**_Behavioral / Re-Targeting_**
 
-We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking HERE or if located in the European Union click HERE.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [HERE](http://preferences.truste.com/) or if located in the European Union click [HERE](http://www.youronlinechoices.eu/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
-**6\. Social Networking**
+**_Social Networking_**
 
 The Dallas Cowboys have worked with certain third-party social media providers to offer you their social networking services through our Services.  For example, you can use third-party social networking services, including but not limited to Facebook, Google+, and others to share information about your experience on our Services with your friends and followers on those social networking services.  These social networking services may be able to collect information about you, including your activity on our Services.  These third-party social networking services also may notify your friends, both on our Services and on the social networking services themselves, that you are a user of our Services or about your use of our Services, in accordance with applicable law and their own privacy policies.  If you choose to access or make use of third-party social networking services, we may receive information about you that you have made available to those social networking services, including information about your contacts on those social networking services. Your interactions with those social networking services are governed by the privacy policy of the company providing it.
 
 You also may be able to link an account from a social networking service (e.g., Facebook, Google+, Yahoo!) to an account through our Services.  This may allow you to use your credentials from the other site or service to sign in to certain features on our Services.  If you link your account from a third-party site or service, we may collect information from those third-party accounts, and any information that we collect will be governed by this Privacy Policy.
 
-**7\. Public Profile**
+**_Public Profile_**
 
 The profile you create on our site will be publically accessible unless otherwise indicated.  You may change the privacy settings of your profile through your account portal.
 
-**8\. Links to Other Websites**
+**_Links to Other Websites_**
 
 The Services may contain links to other websites or online services that are operated and maintained by third parties and that are not under our control of or maintained by us.  Such links do not constitute an endorsement by us of those other websites, the content displayed therein, or the persons or entities associated therewith.  This Privacy Policy does not apply to this third-party content.  We encourage you to review the privacy policies of these third-party websites or services.
 
-**9\. Security**
+**_Security_**
 
 We have adopted generally accepted standards to help protect against loss, misuse, and unauthorized access to the information you provide to us.  When you enter sensitive information (such as a credit card number) and geo-location we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 Please note that no data transmission or storage can be guaranteed to be 100% secure.  As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to the Services and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information.
 
-**10\. Data Retention**
+**_Data Retention_**
 
 We will retain your information for as long as your account is active, as needed to provide you the Services, and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**11\. Children’s Privacy**
+**_Children’s Privacy_**  
+ 
 
-The Services do not knowingly collect, use, or disclose personal information from children under the age of 13, except as permitted by the Children’s Online Privacy Protection Act (“COPPA”).   If we are made aware that we have collected personal information from a child under 13 years old in a manner that is inconsistent with COPPA, we will delete this information as soon as possible.
+The Website is a general audience Website. We do not currently collect any personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent.
 
-**12\. Communications Preferences and Access**
+**_Communications Preferences and Access_**
 
 You may choose to receive promotional emails, newsletters, push notifications, and similar communications from us.  You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive or by turning off push notifications at the device level.  Please note that opt-out requests may take some time to be effective.  Your opt-out request will not apply to messages that you request or that are not commercial in nature.  For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
 
@@ -176,26 +149,29 @@ If your information changes, or if you no longer desire to use the Services, you
 
 You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at [privacy@dallascowboys.net](mailto:privacy@dallascowboys.net).
 
-**13\. Your California Privacy Rights**
+**_Your California Privacy Rights_**
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@dallascowboys.net](mailto:privacy@dallascowboys.net) or write us at CA Privacy Rights, Dallas Cowboys, One Cowboys Parkway, Irving, TX 75063.
+A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes.
 
-Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, we currently do not take action in response to these signals.  If and when a final standard is established and accepted, we will reassess how to respond to these signals. In some cases, third parties may be able to collect information about a user’s online activities over time and across different websites when he or she uses our Services.
+As explained in this privacy policy, whenever you agree to let us collect personal information about you, we will always provide you with an option to prevent this information from being shared for non-administrative purposes with third parties. You can exercise this option at any time by following the steps outlined above.
 
-**14\. Changes To This Privacy Policy**
+Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.
+
+If you are a California resident and have questions about our compliance with this law, please send us an email at [privacy@dallascowboys.net](mailto:privacy@dallascowboys.net) or write to us at Legal Department, Attn: CA Privacy Rights, One Cowboys Way, Suite 100, Frisco, Texas 75034.
+
+**_Changes To This Privacy Policy_**
 
 We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Services prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-**15\. International Users**
+**_International Users_**
 
 Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States.  While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy.
 
-**16\. Contact Us**
+**_Contact Us_**
 
-If you have questions or concerns regarding our privacy policy or practices, please contact us at [privacy@dallascowboys.net](mailto:privacy@dallascowboys.net).  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at  
-<https://feedback-form.truste.com/watchdog/request> .
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [privacy@dallascowboys.net](mailto:privacy@dallascowboys.net) or:
 
 Dallas Cowboys   
 Attn: Website Privacy Policy   
-One Cowboys Pkwy   
-Irving , TX 75063
+One Cowboys Way, Suite 100   
+Frisco , TX 75034
