@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropshipzone.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132047id_/http%3A//www.dropshipzone.com.au/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshipzone.com.au privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209022034id_/http%3A//www.dropshipzone.com.au/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
