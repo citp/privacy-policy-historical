@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prlog.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628085442id_/https%3A//www.prlog.org/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prlog.org privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209061306id_/https%3A//www.prlog.org/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
