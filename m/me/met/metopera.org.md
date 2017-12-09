@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628091531id_/http%3A//www.metopera.org/user-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209091408id_/https%3A//www.metopera.org/user-information/privacy-policy) for the most accurate reproduction.*
 
 # Metropolitan Opera | Privacy Policy
 
-Last updated December 18, 2013
+## Updated JULY 19, 2017
 
-The Metropolitan Opera is committed to protecting the privacy and personal information of visitors to the metopera.org and metoperashop.org websites. The personal information referred to in this statement of our Privacy Policy includes, but may not be limited to, names, addresses, telephone numbers, e-mail addresses, and credit card information. As part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the [Direct Marketing Association’s Privacy Promise to American Consumers.](https://www.dmachoice.org/static/privacy_policy.php)
+The Metropolitan Opera is committed to protecting the privacy and personal information of visitors to the metopera.org and metoperashop.org websites and their respective sub-domains, and users of the Met Opera on Demand subscription streaming service (the "Service") available through the metopera.org website and applications that may be available on certain TVs, mobile devices, and other platforms, devices, and/or hardware. The personal information referred to in this statement of our Privacy Policy includes, but may not be limited to, names, addresses, telephone numbers, e-mail addresses, and credit card information. This Privacy Policy also applies, without limitation, to online and mobile websites, services, and applications, as well as all components, features, and downloads that are or may be available through the Service and which are collectively included in the definition of the "Service". As part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the [Direct Marketing Association’s Privacy Promise to American Consumers.](https://www.dmachoice.org/static/privacy_policy.php)
 
 We have prepared this policy statement so you will be aware of what information is collected about visitors to our websites and how that information is used. From time to time, our practices may change necessitating changes to the policy as it exists now. We encourage you to refer back to this page to see the policy in effect at the time of your use and, if you wish, change your user preferences.
 
-By using any of our websites, or communicating with us by e-mail, you are deemed to have assented and agreed to this policy as in effect at the time of your use.
+By using any of our websites, applications, or Services, or communicating with us by e-mail, you are deemed to have assented and agreed to this policy as in effect at the time of your use.
 
 _What Information About You Is Collected and How Is It Used?_
 
@@ -33,7 +33,7 @@ Tracking Tags (also known as “web beacons,” “action tags” or “single-p
 
 ## **Personal Information**  
 
-When a customer using our websites requests brochures, enters quizzes, uses performance/season selection tools, or purchases a membership, tickets, merchandise, or other items, we must have the information necessary to process the transaction: name, address, telephone number, e-mail address and, when applicable, credit card number. For reasons of security, no credit card information is shared with any third parties or stored permanently on our web server. If a user registers at our sites, but does not make a request or purchase, this same information, is collected with the exception of credit card information. In addition to using your name and contact information to fulfill your requests, process your transactions or to award prizes, your name and contact information will be added to our database, and we may perform statistical analyses of user behavior to measure interest in the various areas of our sites. You may receive direct mail or telemarketing calls from the Met. We sometimes make names and addresses available to select organizations for direct mail marketing purposes,
+When a customer using our websites requests brochures, enters quizzes, uses performance/season selection tools, or purchases a membership, tickets, merchandise, Met Opera on Demand trial, subscription, or rental, or other items, we must have the information necessary to process the transaction: name, address, telephone number, e-mail address and, when applicable, credit card number. For reasons of security, no credit card information is shared with any third parties or stored permanently on our web server. If a user registers at our sites, but does not make a request or purchase, this same information, is collected with the exception of credit card information. In addition to using your name and contact information to fulfill your requests, process your transactions or to award prizes, your name and contact information will be added to our database, and we may perform statistical analyses of user behavior to measure interest in the various areas of our sites. You may receive direct mail or telemarketing calls from the Met. We sometimes make names and addresses available to select organizations for direct mail marketing purposes.
 
 On occasion, the Met shares information collected from our customers with selected third-party companies that assist the Met in advertising and marketing efforts. For example, we may retain an outside company to help us with customer research, to manage a customer database, or to send e-mail messages. The information we provide to third parties may include your name, address, e-mail address, site usage, and purchase information, which will help us target marketing communications.
 
@@ -42,6 +42,10 @@ We may release information if we are required to do so by law or in the good fai
 If you communicate with us by letter, e-mail, phone or in person, it is possible that information about the communication may be collected into a file specifically about you.
 
 To alter your e-mail preferences, please use our [My Account](https://web.archive.org/Account/) section of the site and we will record and respect your instructions.
+
+MET OPERA ON DEMAND USAGE INFORMATION
+
+The Met does collect usage information whne you access the video and audio content available to stream on Met Opera on Demand, whether through the Met website or any available Met Opera on Demand Service. The information collected includes the date and time of access, the specific piece(s) of content selected for playback, the number of tracks played, and the app, device, and/or platform used to access the service and its content. We may use your usage information for a variety of purposes, including to assess, enhance, or otherwise improve the service or our activities in connection with it, for analytics, or for marketing purposes.
 
 ## **Disclaimers**
 
