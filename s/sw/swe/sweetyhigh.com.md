@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetyhigh.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518214540id_/http%3A//www.sweetyhigh.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetyhigh.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209124348id_/https%3A//www.sweetyhigh.com/privacy) for the most accurate reproduction.*
 
 # Sweety High: Video, Entertainment, Beauty and Lifestyle
 
