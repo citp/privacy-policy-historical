@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daily.social privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104450id_/http%3A//daily.social/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daily.social privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209070718id_/https%3A//daily.social/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily.Social
 
@@ -26,7 +26,7 @@ Service Providers – We may use various third-party services to provide our Ser
 
 **2\. INFORMATION SHARING AND DISCLOSURE**
 
-Any information you share such as your profile information (such as nickname, gender and location), information or content you submit, post, like or comment on, and your other activities on the Services will be accessible by other users of the Website and Services. Content that you create through or upload to the Website will by default be public and available to users of the Website and the Services. Similarly, if you comment on any Content (as defined in the [Terms of Use](http://daily.social/terms-of-use/)) on the Website or the Services, your comments will be public and available to users of the Website and the Services.
+Any information you share such as your profile information (such as nickname, gender and location), information or content you submit, post, like or comment on, and your other activities on the Services will be accessible by other users of the Website and Services. Content that you create through or upload to the Website will by default be public and available to users of the Website and the Services. Similarly, if you comment on any Content (as defined in the [Terms of Use](https://daily.social/terms-of-use/)) on the Website or the Services, your comments will be public and available to users of the Website and the Services.
 
 We may share data about our users or the use of the Website or Services with our advertisers and partners. This means that we may tell our advertisers general information about the characteristics of our user base, but we do not specifically identify a particular user or visitor by name or provide the user’s contact information. We may share your unique device ID and/or your location (based on opt-in location-based services, which rely upon a device’s GPS coordinates) with third parties, including advertisers and partners, or provide reports to such parties about the number of unique users who saw or clicked on their advertisements. We may also share certain information such as cookie data with third-party advertising partners. This information, among other things, allows third-party ad networks to deliver targeted advertisements that they believe will be of most interest to you.
 
@@ -212,7 +212,7 @@ Terms of Use, which contain disclaimers, limitations of liability, a choice of
 
 Indian law, and consent to the jurisdiction of State and courts in Mumbai and
 
-which is available at DailySocial’s [Terms of use](http://daily.social/terms-of-use/).
+which is available at DailySocial’s [Terms of use](https://daily.social/terms-of-use/).
 
 8\. CONTACT US
 
@@ -220,4 +220,4 @@ Please feel free to contact us with any comments, questions, complaints or
 
 suggestions you might have regarding the information practices described in
 
-this Privacy Policy. You may send us an e-mail at hello@daily.social.
+this Privacy Policy. You may send us an e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection).
