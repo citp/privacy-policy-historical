@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the indiatravelblog.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028042238id_/http%3A//www.indiatravelblog.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatravelblog.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210164209id_/http%3A//www.indiatravelblog.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # IndiaTravelBlog.com privacy policy
-
-  
-
 
 * * *
 
@@ -48,6 +45,3 @@ As we continue to develop and grow our web site, we may sell IndiaTravelBlog or 
 If you would like to contact us about any information or privacy policy you can If you need to contact the webmaster of IndiaTravelBlog, please **[Write to us.](https://web.archive.org/general/ContactUs.aspx)**
 
 In case you face problems, we would request you please provide us as much information as possible to resolve the issue. 
-
-  
-
