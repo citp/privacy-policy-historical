@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rad.io privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630044708id_/http%3A//www.radio.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rad.io privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210133037id_/http%3A//www.radio.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -111,3 +111,7 @@ With regard to personal data you have the rights of information, correction and 
 In case you have any further questions concerning our data protection provisions, please feel free to contact us at any time via e-mail at privacy@radio.net.
 
 Status: February 2016
+
+.
+
+.
