@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608054551id_/https%3A//www.deakin.edu.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210022036id_/https%3A//www.deakin.edu.au/footer/privacy) for the most accurate reproduction.*
 
 # Privacy | Deakin
 
 If you're neither a staff member nor student of Deakin, but have contacted or visited us, the way we handle your personal information or requests for personal information is outlined below.
 
-Deakin affiliates can access relevant information via our [student](http://www.deakin.edu.au/students/enrolment-fees-and-money/enrolments/student-information-privacy) or [staff ](http://www.deakin.edu.au/staff)webpages.
+Deakin affiliates can access relevant information via our [student](http://www.deakin.edu.au/students/enrolment-fees-and-money/enrolments/student-information-privacy) or [staff ](https://wiki.deakin.edu.au/display/staff/Information+Privacy+Statement+for+Deakin+Staff)webpages.
 
 ## Use and disclosure of personal information
 
@@ -69,9 +69,9 @@ Deakin uses cookies to:
 
 ### Doubleclick and Google Analytics
 
-Deakin uses DoubleClick, which tailors your browsing experience by placing information about our university on third party websites. For this purpose, the cookie collects your IP address, browser type, browser language, date and time of your request, and the identity of your browser - but does not collect personally-identifying information. The cookie remains active for 30 days after each visit you make to Deakin's website. For further information about this, please visit the [DoubleClick cookies webpage.](https://support.google.com/adsense/answer/2839090?hl=en.)
+Deakin uses DoubleClick, which tailors your browsing experience by placing information about our university on third party websites. For this purpose, the cookie collects your IP address, browser type, browser language, date and time of your request, and the identity of your browser - but does not collect personally-identifying information. The cookie remains active for 30 days after each visit you make to Deakin's website. For further information about this, please visit the [DoubleClick cookies webpage.](https://support.google.com/dfp_premium/answer/2839090?hl=en)
 
-Deakin also uses Google Analytics, which predicts your age range and general interests by analysing the websites you visit. Deakin will use this information to further understand its audience. No personally-identifying information is collected.
+Deakin also uses Google Analytics, which predicts your age range and general interests by analysing the websites you visit.  Deakin will use this information to further understand its audience.  No personally-identifying information is collected.
 
 You may choose not to receive cookies by [opting-out of DoubleClick](https://support.google.com/adsense/troubleshooter/1631343?hl=en) or [opting-out of Google Analytics.](https://tools.google.com/dlpage/gaoptout)
 
