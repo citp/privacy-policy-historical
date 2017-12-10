@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612180529id_/http%3A//www.burke.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210060555id_/http%3A//burke.com/About/index.cfm%3Fpri%3D1) for the most accurate reproduction.*
 
-# None
+# 
 
 Founded in 1931, Burke is an international leader in decision support services. We are committed to quality, honesty, and integrity in all endeavors.
 
@@ -24,7 +24,7 @@ Burke understands the importance of protecting children's privacy, especially in
 
 Burke collects or obtains personal information such as name, mailing or email address, and phone numbers, but only for the purposes of conducting research. We may share this information with others to assist with the research process, understanding our potential liability in cases of onward transfer to third parties. We may also be required to disclose personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
-Individuals have the right to access, correct, or delete their personal data, and may submit such requests via email, phone or mail using Burkeâ€™s contact information below.
+Individuals have the right to access, correct, or delete their personal data, and may submit such requests via email, phone or mail using Burke's contact information below.
 
 Burke abides by all relevant legislation (both international and national) relating to data protection and other topics. In addition to being under the enforcement authority of the Federal Trade Commission for protection of individually identifiable information, Burke has committed to abide by the following legislative directives:
 
@@ -34,11 +34,11 @@ Burke is familiar with HIPAA and has worked with health care providers and other
 
 We can reassure our clients and respondents that Burke has implemented a number of administrative, physical and technical safeguards which strictly control access to patient information and enable us to preserve respondent confidentiality.
 
-### EU-U.S. Privacy Shield Framework
+### EU-U.S. and Swiss-U.S. Privacy Shield Framework
 
-Burke complies with the EU-US Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Burke has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+Burke complies with the EU-US Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland and European Union member countries. Burke has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
 
-In compliance with the EU-US Privacy Shield Principles, Burke commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Burke at:
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Burke commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss and European Union individuals with inquiries or complaints regarding this privacy policy should first contact Burke at:
 
 Mail:
      Burke Incorporated   
@@ -50,8 +50,8 @@ Email:
 Telephone:
     800-688-2674
 
-Burke has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to the INSIGHTS ASSOCIATION PRIVACY SHIELD PROGRAM, a non-profit alternative dispute resolution provider located in the United States and operated by the Insights Association. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.insightsassociation.org/get-support/privacy-shield-program/privacy-shield-eu-swiss-citizens-file-complaint ](http://www.insightsassociation.org/get-support/privacy-shield-program/privacy-shield-eu-swiss-citizens-file-complaint) for more information and to file a complaint.
+Burke has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to the INSIGHTS ASSOCIATION PRIVACY SHIELD PROGRAM, a non-profit alternative dispute resolution provider located in the United States and operated by the Insights Association. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.insightsassociation.org/get-support/privacy-shield-program/privacy-shield-eu-swiss-citizens-file-complaint> for more information and to file a complaint. This dispute resolution service is offered at no cost to you.
 
-Burke is under the enforcement authority of the Federal Trade Commission to adhere to the EU-US Privacy Shield Framework. It may be possible, under certain limited conditions, for European Union individuals to invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission.
+Burke is under the enforcement authority of the Federal Trade Commission to adhere to the EU-US and Swiss-US Privacy Shield Frameworks. It may be possible, under certain limited conditions, for European Union individuals to invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission.
 
 Please contact Burke using the Mail, E-mail or Telephone options listed above if you have any questions or comments about this privacy policy.
