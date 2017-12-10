@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the supernewschannel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112958id_/http%3A//video.supernewschannel.com/privacySNC.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supernewschannel.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210041141id_/http%3A//video.supernewschannel.com/privacySNC.html) for the most accurate reproduction.*
 
-# Privacy | Super News Channel
+# PRIVACY POLICY | Super News Channel
 
-**SUPER NEWS CHANNEL**
+[](https://web.archive.org/index.html)
 
-**PRIVACY POLICY**
+## SUPER NEWS CHANNEL
+
+### PRIVACY POLICY
 
 _Last Modified: January 25, 2017_
 
