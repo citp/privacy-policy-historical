@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608142001id_/http%3A//www.csgi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210163851id_/http%3A//www.csgi.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / CSG International
 
 CSG has a long-standing tradition of recognizing and protecting the privacy of customers who use its billing and customer care solutions. This Privacy Policy describes how CSG (including its subsidiaries and affiliates) collect, use, share, protect, and transfer personal data. For the purpose of this policy, “personal data” refers to information that is about, or relates to, an identified or identifiable individual.
+
+**GPDR Readiness**
 
 **Who Does this Privacy Policy Cover**
 
@@ -30,9 +32,15 @@ CSG has a long-standing tradition of recognizing and protecting the privacy of c
 
 **Changes to Our Privacy Policies**
 
+## GPDR Readiness
+
+Data protection has always been a fundamental priority at CSG and safeguarding the personal information entrusted to us on behalf of our customers and employees is at the core of what we do.
+
+[Download the full GDPR Readiness Statement](https://web.archive.org/files/gpdr-readiness-statement.pdf)
+
 ## Who Does this Privacy Policy Cover
 
-This Privacy Policy covers CSG Systems International, Inc. (“CSG”), and its corporate affiliates and subsidiaries.
+This Privacy Policy covers CSG Systems International, Inc. (“CSG”), and its corporate affiliates and subsidiaries including CSG Systems, Inc., CSG Interactive Messaging, Inc. and Intec Billing, Inc. 
 
 ## What Information Do We Collect
 
@@ -116,9 +124,11 @@ Chief Compliance Office
 
 Attn: Chief Compliance Officer
 
-9555 Maroon Circle
+6175 S. Willow Drive
 
-Englewood, Colorado 80112
+10th Floor
+
+Greenwood Village, CO 80111
 
 USA  
 DataPrivacy@csgi.com
