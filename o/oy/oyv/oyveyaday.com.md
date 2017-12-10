@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oyveyaday.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030044424id_/http%3A//oyveyaday.com/contact-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyveyaday.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211002634id_/http%3A//oyveyaday.com/contact-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,4 +16,4 @@ We also use third-party advertisements on [oyveyaday.com](http://www.oyveyaday.c
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20161030044424id_/http://oyveyaday.com/contact-me/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20171211002634id_/http://oyveyaday.com/contact-me/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
