@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadshot.net privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230134203id_/http%3A//www.leadshot.net/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadshot.net privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210225827id_/http%3A//leadshot.net/home/privacy.html) for the most accurate reproduction.*
 
 # Leadshot
 
