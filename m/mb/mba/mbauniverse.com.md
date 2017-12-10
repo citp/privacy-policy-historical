@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mbauniverse.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119052907id_/http%3A//www.mbauniverse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbauniverse.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210162923id_/http%3A//www.mbauniverse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MBAUniverse.com – India’s No 1 MBA Portal
+# Privacy Policy | MBAUniverse.com
 
 You expressly agree that use of the website is at your sole risk, you are accepting the practices outlined in this Privacy Policy.
 
@@ -20,4 +20,4 @@ Cookies are required to use the MBAUniverse.com services. A cookie is a small am
 
 We use persistent cookies to record your session information on the servers and your local machines.
 
-MBAUniverse.com may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified when you signed in or by placing a prominent notice on our site. 
+MBAUniverse.com may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified when you signed in or by placing a prominent notice on our site.
