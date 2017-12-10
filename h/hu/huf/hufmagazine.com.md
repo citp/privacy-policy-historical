@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hufmagazine.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611140912id_/http%3A//hufmagazine.com/privacy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hufmagazine.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210160943id_/http%3A//hufmagazine.com/privacy-2) for the most accurate reproduction.*
 
 # Privacy – HUF Magazine
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Last Updated: May 23, 2016
 
-HUF Magazine (HUF) enables its users (“they“, “their“, “you“ or “your“), via its website (http://www.hufmagazine.com) (the “Website”), its services or other means, to access content, comment and interact. HUF is owned and operated by HUF Magazine (“its“, “HUF”, “we” or “us”).
+HUF Magazine (HUF) enables its users (“they“, “their“, “you“ or “your“), via its website (//www.hufmagazine.com) (the “Website”), its services or other means, to access content, comment and interact. HUF is owned and operated by HUF Magazine (“its“, “HUF”, “we” or “us”).
 
 Your use of the Website is subject to the terms set forth in this Privacy Policy (the “Privacy Policy”)
 
@@ -14,7 +14,7 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE , Y
 
 We are committed to respect and protect the privacy of the personal information we obtain from you through our Website and we have created this Privacy Policy to inform you about how we collect, use and share your personal information, and our privacy practices in general.
 
-We are always ready to address your questions and concerns regarding this policy and our privacy practices. If you would like to contact Customer Service, please contact us at http://hufmagazine.com/contact-us/.
+We are always ready to address your questions and concerns regarding this policy and our privacy practices. If you would like to contact Customer Service, please contact us at //hufmagazine.com/contact-us/.
 
 We continually strive to find new ways to enhance your experience with the Website and we may modify this Privacy Policy from time to time to reflect changes in our privacy practices. You are strongly encouraged to review this Privacy Policy periodically and to check the “Last Updated” date at the top of the Privacy Policy for the most recent version. If we make changes to this Privacy Policy, we will notify you here, by email, or by means of notice on the Website or otherwise as practical.
 
@@ -54,7 +54,7 @@ Data Tracking Cookies. To facilitate and customize your experience with the Webs
 
 Other Tracking Devices. We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or marketing partners for the same purposes.
 
-Privacy Policies of Third Party Websites. This Privacy Policy only addresses the use and disclosure of information we collect from you on http://www.hufmagazine.com and via HUF services. Other websites or services that may be accessible through this Website or the HUF services, such as Third Party Service Providers, may have their own privacy policies and data collection, use and disclosure practices. If you use, link or visit any such website, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties.
+Privacy Policies of Third Party Websites. This Privacy Policy only addresses the use and disclosure of information we collect from you on //www.hufmagazine.com and via HUF services. Other websites or services that may be accessible through this Website or the HUF services, such as Third Party Service Providers, may have their own privacy policies and data collection, use and disclosure practices. If you use, link or visit any such website, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties.
 
 Privacy Settings. As a user, you may have limited access to privacy settings. These settings help hide information you wish to share with other users and/or the public. It is up to you to select the appropriate privacy settings. If you don’t agree with the available privacy settings, please stop using the Website and the relevant services.
 
@@ -62,4 +62,4 @@ Public Areas. We may provide areas on our Website or via services where you can 
 
 We do not knowingly collect or solicit personal information from anyone under the age of 18. If you are under 18, please do not attempt to register for HUF services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 18, we will take steps to remove such information and terminate the child’s account as soon as possible. If you become aware that your child has provided us with personal information without your consent, please contact us immediately.
 
-Customer Service. For assistance or questions regarding this Privacy Policy, you may email us at http://hufmagazine.com/contact-us/.
+Customer Service. For assistance or questions regarding this Privacy Policy, you may email us at //hufmagazine.com/contact-us/.
