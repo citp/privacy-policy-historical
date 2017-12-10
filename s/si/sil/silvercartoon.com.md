@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silvercartoon.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628093737id_/http%3A//silvercartoon.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvercartoon.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210175231id_/http%3A//silvercartoon.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # SilverCartoon.com - Cartoon Porn.
 
@@ -47,7 +47,7 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 ## YOUR RIGHTS
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info@awmmazilla.com. 
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## OPT-IN AND USER COMMUNICATION
 
