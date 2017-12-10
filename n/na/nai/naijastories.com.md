@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijastories.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611192422id_/http%3A//www.naijastories.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijastories.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210231404id_/http%3A//www.naijastories.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NaijaStories.com
 
@@ -47,7 +47,7 @@ Google’s use of the DART cookie enables it and its partners to serve ads to us
 
 The Adbrite Network also serves ads on this site based on cookies. You can visit their [privacy policy](http://www.adbrite.com/mb/privacy.php) page to learn more or go directly to the [opt out](http://www.adbrite.com/mb/behavorial_optout.php) page.
 
-Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20170611192422id_/http://www.naijastories.com/privacy-policy/www.networkadvertising.org/managing/opt_out.asp).
+Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20171210231404id_/http://www.naijastories.com/privacy-policy/www.networkadvertising.org/managing/opt_out.asp).
 
 **Children & Young Adults**
 
