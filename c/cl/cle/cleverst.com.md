@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverst.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519150318id_/http%3A//www.cleverst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverst.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210184318id_/http%3A//www.cleverst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cleverst
 
