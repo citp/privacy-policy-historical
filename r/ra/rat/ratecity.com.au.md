@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181547id_/http%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210173419id_/http%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
