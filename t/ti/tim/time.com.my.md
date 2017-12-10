@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time.com.my privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620105743id_/http%3A//www1.time.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time.com.my privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210044810id_/http%3A//www.time.com.my/privacy-policy) for the most accurate reproduction.*
 
 # TIME dotCom | Privacy Policy
 
@@ -82,7 +82,7 @@ Selangor, Malaysia
 
 Telephone : **1800 18 1818** **** or **03 5021 2122** (if you are abroad)   
 Fax : ******03 5032 6579**   
-Email: [customerservice@time.com.my](mailto:customerservice@time.com.my)  
+Email: [cs@time.com.my](mailto:cs@time.com.my)  
   
 |  9.2  |  We endeavour to take reasonable precautions to ensure that the Personal Data that we collect and/or process is accurately reflected in our systems in accordance with the details provided by you. Therefore, the accuracy of the Personal Data depends to a large extent on the information you provide. As such, it is a condition of us providing the Services to you that you;   
 |  |  9.2.1  |  provide us with the accurate and complete Personal Data of yourself and/or any relevant person (including their consents) for purposes of acquiring and/or subscription of the Services.   
