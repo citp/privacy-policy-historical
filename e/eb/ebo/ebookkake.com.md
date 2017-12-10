@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookkake.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003723id_/http%3A//www.ebookkake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookkake.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210171247id_/http%3A//www.ebookkake.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ebookkake
 
@@ -12,4 +12,4 @@ Ebookkake does not provide any personally identifiable information to these thir
 
 You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. The Company’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-This Privacy Notice was last modified October 25, 2016.
+This Privacy Notice was last modified Jun 25, 2017.
