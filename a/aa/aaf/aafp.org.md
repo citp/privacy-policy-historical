@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aafp.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145124id_/http%3A//www.aafp.org/about-site/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aafp.org privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210220737id_/http%3A//www.aafp.org/about-site/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,7 +43,7 @@ The AAFP uses information collected to improve its web content, to respond to vi
 #### Disclosure to third parties  
 
 
-The AAFP makes member contact information available in its online membership directory only to other members of the AAFP who have verified their membership status before entering the online membership directory. The AAFP may also make your contact information and/or other personally identifiable information publicly available in connection with AAFP programs and events or for other purposes, as permitted by you. The AAFP also shares membership, demographic, CME, and/or contact information with organizations such as the following: AAFP chapters; the AAFP Foundation; FamMedPAC; TransforMED, LLC; AAFP Insurance Services, Inc.; and the American Board of Family Medicine (ABFM).
+The AAFP makes member contact information available in its online membership directory only to other members of the AAFP who have verified their membership status before entering the online membership directory. The AAFP may also make your contact information and/or other personally identifiable information publicly available in connection with AAFP programs and events or for other purposes, as permitted by you. The AAFP also shares membership, demographic, CME, and/or contact information with organizations such as the following: AAFP chapters; the AAFP Foundation; FamMedPAC; AAFP Insurance Services, Inc.; and the American Board of Family Medicine (ABFM).
 
 The AAFP also may share CME activity participation records with medical licensing boards (which may include CME reporting agents and/or contractors of those boards). Such records may include, but not be limited to: the member’s name and license number; the name and date of the CME activity; and the number of credits received for participation in the CME activity. In connection with the Physician Payments Sunshine Act, CME attendees’ names, addresses, license numbers, states of licensure, and any transfers of value may be shared with the CME activities’ funders.
 
