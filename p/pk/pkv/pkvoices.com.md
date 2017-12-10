@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pkvoices.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609211955id_/http%3A//www.pkvoices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkvoices.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210110221id_/http%3A//www.pkvoices.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Latest Pakistan News, World, Sports, Technology, Urdu Columns - PkVoices.Com
+# Privacy Policy – PkVoices.Com – Latest Pakistan News, World and Urdu Column
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our website (http://www.pkvoices.com/).
 
