@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadetown.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610102108id_/http%3A//www.iwin.com/corp/iwin/user/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadetown.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210205938id_/http%3A//www.iwin.com/corp/iwin/user/privacy-policy.html) for the most accurate reproduction.*
 
 # iWin Privacy Policy
 
