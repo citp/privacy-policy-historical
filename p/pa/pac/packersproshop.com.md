@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packersproshop.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609051606id_/http%3A//www.packers.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packersproshop.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210210829id_/http%3A//www.packers.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Packers.com | Privacy Policy
 
@@ -6,14 +6,14 @@
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=9cfff619-36a1-45bf-9d94-b477fd3a46a3)
 
-_Updated: November 2016  
+_Updated: November 2017  
 _
 
-This privacy policy applies to the Green Bay Packers' websites located at [www.packers.com](http://www.packers.com/), [webmail.gbpackersfan.com](http://webmail.gbpackersfan.com/), [m.packers.com](http://m.packers.com/), [m.packersproshop.com](http://m.packersproshop.com/), [www.packerseverywhere.com](http://www.packerseverywhere.com/), [www.packersproshop.com](http://www.packersproshop.com/), and [www.lambeaufield.com](http://www.lambeaufield.com/), its mobile applications and other services that link to it ("Services"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+This privacy policy applies to the Green Bay Packers' websites located at [www.packers.com](http://www.packers.com/), [webmail.gbpackersfan.com](http://webmail.gbpackersfan.com/), [m.packers.com](http://m.packers.com/), [www.packerseverywhere.com](http://m.packersproshop.com/), [www.packersproshop.com](http://www.packersproshop.com/), and [www.titletown.com](http://www.titletown.com/), its mobile applications and other services that link to it ("Services"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
-The Website is in part operated by DMInteractive and Blue State Digital on behalf of the Green Bay Packers (collectively, the "Green Bay Packers", "we", "our", or "us"). DMInteractive and Blue State Digital do not own any information submitted through this website and cannot use this information for its own purposes.
+The Website is in part operated by _DMInteractive_ , _AmericanEagle.com_ and _Delphic, a Hero Digital Company_ on behalf of the Green Bay Packers (collectively, the "Green Bay Packers", "we", "our", or "us"). _DMInteractive_ , _AmericanEagle.com_ and _Delphic, a Hero Digital Company_ do not own any information submitted through this website and cannot use this information for its own purposes.
 
-If you have questions or concerns regarding this statement, you should first contact the Packers Digital Manager at 920-569-7219 or privacy@packers.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have questions or concerns regarding this statement, you should first contact the Packers Manager of Digital at 920-569-7219 or privacy@packers.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
