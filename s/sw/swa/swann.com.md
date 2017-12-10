@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swann.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626223311id_/http%3A//www.swann.com/us/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swann.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210162625id_/http%3A//www.swann.com/us/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy-Policy
+# Privacy-Policy USA
 
 #### Swann Communications Privacy Policy 
 
@@ -140,7 +140,7 @@ Swann Communications occasionally allows other companies to offer our registered
 
 #### How to access, correct and update your personal information
 
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by contacting us at [info@swann.com](mailto:info@swan.com)
+We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f49d9a929bb48783959ada979b99)
 
 You can: 
 
@@ -150,11 +150,11 @@ Upon your request, Swann Communications will provide access to your personal inf
 
 You may also request us to correct the personal information that Swann Communications holds about you. If you do so and we are satisfied that, having regard to a purpose for which the information is held, the information is inaccurate, out-of-date, incomplete, irrelevant or misleading, Swann Communications will take such steps as are reasonable in the circumstances to correct your personal information to ensure that, having regarding to the purpose for which it is held, the information is accurate, up-to-date, complete, relevant and not misleading. 
 
-To request access to the personal information that Swann Communications holds about you, or to update or correct that personal information, please send a written request to The Privacy Officer, Swann Communications Limited by email to [info@swann.com](mailto:info@swan.com)
+To request access to the personal information that Swann Communications holds about you, or to update or correct that personal information, please send a written request to The Privacy Officer, Swann Communications Limited by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d44434b426d5e5a4c43034e4240)
 
 #### How to make a complaint
 
-If you are concerned that the way Swann Communications collects, holds, uses or discloses your personal information may be in breach of the government Privacy Principles in your country, please send written details of your complaint to The Privacy Officer, Swann Communications, via email to [info@swann.com](mailto:info@swan.com)
+If you are concerned that the way Swann Communications collects, holds, uses or discloses your personal information may be in breach of the government Privacy Principles in your country, please send written details of your complaint to The Privacy Officer, Swann Communications, via email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#eb82858d84ab989c8a85c5888486)
 
 #### How Swann Communications will handle complaints
 
@@ -185,6 +185,6 @@ The use of Swann’s mobile Apps (including SwannView Plus, SwannView Link, Swan
 
 #### Privacy Queries 
 
-If you have any queries or concerns, further information can be obtained by contacting our Privacy Officer by email to [info@swann.com](mailto:info@swan.com)
+If you have any queries or concerns, further information can be obtained by contacting our Privacy Officer by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#40292e262f003337212e6e232f2d)
 
 Swann Communications Ltd 
