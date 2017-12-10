@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the localsaver.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611003957id_/http%3A//www.localsaver.com%3Fp%3DLocalSaverAbout%26content%3Dprivacypolicy%26fullpage%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsaver.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210024948id_/http%3A//www.localsaver.com%3Fp%3DLocalSaverAbout%26content%3Dprivacypolicy%26fullpage%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Last updated: September 18, 2013
 
-This privacy policy ("Policy") explains how personal information is collected, used, and disclosed with respect to your use of the LocalSaver™ website located at <http://www.localsaver.com/> (the "Site") operated by DataSphere Technologies, Inc. ("DataSphere", "we" or "us") so you can make an informed decision about using the Site. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices. We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.
+This privacy policy ("Policy") explains how personal information is collected, used, and disclosed with respect to your use of the LocalSaver™ website located at <http://www.localsaver.com/> (the "Site") operated by Sinclair Digital Agency, Inc. ("Sinclair", "we" or "us") so you can make an informed decision about using the Site. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices. We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.
 
 ### What is personal information
 
@@ -37,7 +37,7 @@ We may share your personal information with third parties when you request us to
 
 You understand that if you post an advertisement to the Site, certain information you post on the Site will be publicly available and will be shared with other users of the Site. Your use of the Site and the Services constitutes your consent to share this information in such manner and all such sharing of information is done at your own risk. Please keep in mind that if you directly disclose personal information when posting listings or other information or content to the Site, this information may become publicly available.
 
-In addition, we may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of DataSphere, our users, our employees or the public, including without limitation to protect DataSphere or our users from fraudulent, abusive, inappropriate or unlawful use of our Site or the Services. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of DataSphere. In addition, we may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of DataSphere, our users, our employees or the public, including without limitation to protect DataSphere or our users from fraudulent, abusive, inappropriate or unlawful use of our Site or the Services. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of DataSphere.
+In addition, we may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of Sinclair, our users, our employees or the public, including without limitation to protect Sinclair or our users from fraudulent, abusive, inappropriate or unlawful use of our Site or the Services. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of Sinclair. In addition, we may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of Sinclair, our users, our employees or the public, including without limitation to protect Sinclair or our users from fraudulent, abusive, inappropriate or unlawful use of our Site or the Services. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of Sinclair.
 
 ### What steps do we take to protect personal information online?
 
@@ -53,7 +53,7 @@ The Site is not directed at nor targeted to children under the age of 13. We do 
 
 ### Digital millennium copyright act notice
 
-DataSphere does not knowingly publish (or permit individuals to publish) copyrighted materials without permission. If you believe that any material published on the Site or the Services has been used in a way that constitutes copyright infringement and if you are authorized to act on behalf of the owner of the copyright that is allegedly infringed, please notify our Copyright Agent of any alleged infringement. Your notice to our Copyright Agent should be in the form of a written, signed statement containing the following information:
+Sinclair does not knowingly publish (or permit individuals to publish) copyrighted materials without permission. If you believe that any material published on the Site or the Services has been used in a way that constitutes copyright infringement and if you are authorized to act on behalf of the owner of the copyright that is allegedly infringed, please notify our Copyright Agent of any alleged infringement. Your notice to our Copyright Agent should be in the form of a written, signed statement containing the following information:
 
   * a description of the infringing material
   * a description of the copyrighted work(s) that you believe has been infringed;
@@ -68,11 +68,11 @@ DataSphere does not knowingly publish (or permit individuals to publish) copyrig
 
 Your statement must be sent to us by U.S. mail, fax, or e-mail (preferably by e-mail), addressed as follows:
 
-DataSphere Technologies, Inc.  
-Attn: TangoLaw (DMCA Copyright Agent for DataSphere)  
-Mailing address: 93 South Jackson Street, #85485, Seattle, WA 98104  
-Fax: 206.219.6416  
-E-mail: doug@tangolaw.com  
+Sinclair Digital Agency, Inc.  
+Attn: Delane Hewett  
+Mailing address: 3350 161st Ave SE, Bellevue, Washington 98008  
+Fax: 425.691.1225  
+E-mail: support@datasphere.com  
 
 
 ### Third policy services privacy policies
