@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betadirectory.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630020014id_/https%3A//www.contrib.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betadirectory.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210232154id_/https%3A//www.contrib.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Contrib.com
 
@@ -78,7 +78,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 PO Box 1567  
 Stony brook, NY 11790  
 USA  
-Privacy@domainholdings.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 
 
 ## No Guarantees
