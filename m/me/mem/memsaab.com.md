@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memsaab.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611165653id_/http%3A//www.memsaab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memsaab.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210164341id_/http%3A//www.memsaab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Memsaab.com
 
@@ -99,7 +99,7 @@ You can also play an important role in keeping your personal information secure 
 
 **How you can access your information**
 
-If you are a memsaab.com member, you can access, change and update your Membership profile at any time on the site. If you wish to know what other information we have gathered about you while you have been logged in to the site, you can request this information via our privacy feedback form. We will endeavour to respond to your request within seven days. If you make us aware of any ongoing concerns or problems with our site, we will take these issues seriously and work to address these concerns. You can contact us by sending us email at [privacy@memsaab.com](mailto:privacy@memsaab.com)
+If you are a memsaab.com member, you can access, change and update your Membership profile at any time on the site. If you wish to know what other information we have gathered about you while you have been logged in to the site, you can request this information via our privacy feedback form. We will endeavour to respond to your request within seven days. If you make us aware of any ongoing concerns or problems with our site, we will take these issues seriously and work to address these concerns. You can contact us by sending us email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fc8c8e958a9d9f85bc9199918f9d9d9ed29f9391)
 
 **Changes to the Privacy Policy**
 
