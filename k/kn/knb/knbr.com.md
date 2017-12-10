@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knbr.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607054619id_/http%3A//www.knbr.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knbr.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210213546id_/http%3A//www.knbr.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KNBR-AM
 
