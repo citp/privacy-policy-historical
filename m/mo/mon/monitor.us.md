@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monitor.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034051id_/http%3A//www.monitis.com/en/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monitor.us privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210062634id_/http%3A//www.monitis.com/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy – Monitis
 
@@ -87,7 +87,7 @@ Monitis has enabled Google Analytics Advertiser Features that include:
 Google Analytics Advertiser Features enable Google Analytics to collect data via [Google advertising cookies](https://www.google.com/policies/privacy/key-terms/#toc-terms-cookie) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier), in addition to data collected through a standard Google Analytics implementation.   
 If you do not want Google Analytics to collect and use your data you can use Google Analytics' [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/). 
 
-Monitis uses KissMetrics to track Monitis users' visits to Monitis web interfaces.
+Monitis uses KissMetrics and HotJar to track Monitis users' visits to Monitis web interfaces.
 
 ### Information you provide to us
 
@@ -170,7 +170,7 @@ You have the right to ask us not to process your personal data for marketing pur
 
 ### Your California privacy rights
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to support@monitis.com. 
+California Civil Code Section ? 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to support@monitis.com. 
 
 ### Access to information
 
@@ -178,7 +178,7 @@ The Act gives you the right to access information held about you. Your right of 
 
 ### Changes to our privacy policy
 
-It is our policy to post any changes we make to our privacy policy on this page. It is your responsibility to check this page from time to time to check for any change. Your continued use of the Website or our services shall be deemed to be your consent to such changes. The date the privacy policy was last revised is identified at the top of the page. 
+It is our policy to post any changes we make to our privacy policy on this page. It is your responsibility to check this page from time to time to check for any change. Your continued use of the Website or our services shall be deemed to be your consent to such changes.The date the privacy policy was last revised is identified at the top of the page. 
 
 ### Contact information
 
