@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the brother-usa.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612060943id_/http%3A//www.brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brother-usa.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210015559id_/http%3A//www.brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
 
 # Brother International - Privacy Statement
 
 **Privacy Policy**
 
-**(Last Updated: December 2, 2016)**
+**(Last Updated: July 6, 2017)**
 
 Brother International Corporation, and its subsidiaries ("Company," "Brother", "we," or "us"), are committed to respecting and protecting your privacy. We know that the privacy of personal information is an important concern to our customers. 
 
-This policy covers information that is collected through Brother websites, including www.brother-usa.com, www.brothermall.com, www.brothercloud.com, and www.ibroidery.com, to which it is linked ("Site") and to the use of our products and/or services ("Services"). This Privacy Policy is a part of, and is incorporated into, any Terms of Service between you and Company which are applicable to our products and/or services. This Privacy Policy and such applicable Terms of Service (together, the "Agreement") comprise the entire agreement and understanding between you and Company with respect to your access to and use of the Site and Services. 
+This policy covers information that is collected through Brother websites, including [www.brother-usa.com](http://www.brother-usa.com/), [www.brothermall.com](http://www.brothermall.com/), [www.brothercloud.com](http://www.brothercloud.com/), and [www.ibroidery.com](http://www.ibroidery.com/), to which it is linked ("Site") and to the use of our products and/or services ("Services"). This Privacy Policy is a part of, and is incorporated into, any Terms of Service between you and Company which are applicable to our products and/or services. This Privacy Policy and such applicable Terms of Service (together, the "Agreement") comprise the entire agreement and understanding between you and Company with respect to your access to and use of the Site and Services. 
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=ec0be97b-12d7-465d-8d62-a4423cb6a3fc "TRUSTe Privacy Certification")
 
-Brother International Corporation (and its subsidiary companies Brother Industries (U.S.A.), Inc. and Brother Mobile Solutions, Inc.) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework. Brother International Corporation is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>. 
+Brother International Corporation (and its subsidiary companies Brother Industries (U.S.A.), Inc. and Brother Mobile Solutions, Inc.) participate in and have certified their compliance with the EU-U.S. and the Swiss-US Privacy Shield Framework. Brother International Corporation is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>. 
 
-Brother International Corporation is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequent transfers to a third party acting as an agent on its behalf. Brother International Corporation complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
+Brother International Corporation is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequent transfers to a third party acting as an agent on its behalf. Brother International Corporation complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. 
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Brother International Corporation is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Brother International Corporation may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
-
-Brother International Corporation complies with the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Brother International Corporation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Brother International Corporation certification, please visit <https://safeharbor.export.gov/swisslist.aspx>. 
 
 This statement describes (i) the types of personal information we collect, (ii) how we use and protect the information, and (iii) to whom we disclose information. 
 
@@ -111,7 +109,7 @@ We use clear gifs in our HTML-based emails in order to count traffic or determin
 
 We also use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To learn how to manage privacy and storage settings for Flash cookies click here: [**http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118** ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
 **Social Media Widgets**
 
