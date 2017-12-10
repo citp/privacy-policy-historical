@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumbojumbo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004625id_/http%3A//www.iwin.com/corp/iwin/user/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumbojumbo.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210205938id_/http%3A//www.iwin.com/corp/iwin/user/privacy-policy.html) for the most accurate reproduction.*
 
 # iWin Privacy Policy
 
@@ -88,11 +88,3 @@ By using any of our Sites or Applications, you consent to our collection and use
 IWin reserves the right to change or update this Privacy Policy at any time by positing a notice that we are changing this Privacy Policy. If there is a change to this Privacy Policy, we will post the change on the Site or with the Application to keep you aware of what information we collect, how we use it, and under what circumstances we may disclose it. You will be deemed to have accepted such change if you continue to use the Site or Application after the new policy has been posted. In the event that this document conflicts in any way with the User Agreement, the User Agreement shall take precedence over the relationship.
 
 Effective:  June 25, 2014
-
-** ** is Our games are guaranteed safe and free of viruses and malicious software. We have rigorous internal testing and we are members of the McAfee SECURE program, which ensures that our games are tested externally daily and approved. iWin.com is also Verisign Secured certified.
-
-Click logos below for more information.
-
-[ ](https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.iwin.com&lang=en)
-
-[ ](http://support.iwin.com/ics/support/default.asp?deptID=5419&task=knowledge&questionID=31)
