@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamsport.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002223id_/http%3A//www.iamsport.org/pg/pages/view/408) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamsport.org privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210224355id_/http%3A//www.iamsport.org/pg/pages/view/408) for the most accurate reproduction.*
 
 # IAMSport
 
@@ -61,4 +61,4 @@ Should you have other questions or concerns about these privacy policies, please
 
 [privacy policy](http://www.iamsport.org/search/?tag=privacy+policy), [iamsport](http://www.iamsport.org/search/?tag=iamsport)
 
-Last updated 2953 days ago by [IAMSPORT ONE](http://www.iamsport.org/pg/profile/admin)
+Last updated 3340 days ago by [IAMSPORT ONE](http://www.iamsport.org/pg/profile/admin)
