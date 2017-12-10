@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotel-board.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611043310id_/http%3A//www.hotel-board.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel-board.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210210753id_/http%3A//www.hotel-board.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Hotel-Board.com Privacy Policy
 
@@ -84,4 +84,4 @@ Hotel-Board.com may update this Privacy Policy in the future. We will notify you
 
 **How you can contact us**
 
-If you have questions about either Privacy Policy (or your travel planning or purchases), please contact us from [Contact Form](https://web.archive.org/web/20170611043310id_/http%3A//www.hotel-board.com/contact-us.php).
+If you have questions about either Privacy Policy (or your travel planning or purchases), please contact us from [Contact Form](https://web.archive.org/web/20171210210753id_/http%3A//www.hotel-board.com/contact-us.php).
