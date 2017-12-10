@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610005920id_/http%3A//www.quantum.com/privacypolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210022103id_/http%3A//www.quantum.com/privacypolicy/index.aspx) for the most accurate reproduction.*
 
 # Quantum Privacy Policy
 
-## Quantum takes your privacy seriously. Please read the following to learn more about our privacy policy.
+## Please read the following to learn more about our privacy policy.
 
 ### What This Privacy Policy Covers
 
-This Privacy Policy describes how we treat personal information that we receive from visitors of the websites of Quantum Corporation and its affiliates (collectively “Quantum” or “we”), in connection with our products, services, support or marketing activities, or from representatives of our customers, suppliers, and other business partners. By visiting our sites or by using our products, services or support, you acknowledge and agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree to the terms, please do not access our sites or use our products, services or support. 
+This Privacy Policy describes how we treat personal information that we receive from visitors of the websites of Quantum Corporation and its affiliates (collectively “Quantum” or “we”), in connection with our products, services, support or marketing activities, or from representatives of our customers, suppliers, and other business partners. If you do not agree to the terms, do not access our sites or use our products, services or support or sell us products or services. 
 
 ### Links To Non-Quantum Websites And Third Parties
 
 Our sites may provide links to third-party websites for your convenience and information. If you access those links, you will leave our sites. Quantum does not control those sites or their privacy practices, which may differ from Quantum’s. We do not endorse or make any representations about third-party websites. The personal data you choose to give to unrelated third parties is not covered by our Privacy Policy. 
 
-### Privacy Shield
+### Privacy
 
-Quantum Corporation participates in the EU-U.S. Privacy Shield. To learn more, please [read here](http://www.quantum.com/privacypolicy/eu-us-privacyshieldnotice/index.aspx). 
+Quantum Corporation participates in the EU-U.S. and Swiss Privacy Shield. To learn more, please [read here](http://www.quantum.com/privacypolicy/eu-us-privacyshieldnotice/index.aspx). 
 
 ### Personal Information We Collect
 
@@ -50,7 +50,7 @@ Quantum may collect and use your information to:
 We do not sell, rent, or share personal data with nonaffiliated companies except that we may disclose such data:
 
   * To our agents, suppliers and/or service providers who need to access such information to carry out work on our behalf, including in connection with our services, support or products. These companies may be in the United States or in other parts of the world.
-  * To our agents and/or services providers in connection with your application for a position with us. 
+  * To our agents and/or services providers in connection with your application for a position with us.
   * During negotiations or as the result of any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company. 
   * In situations involving violations of our terms and conditions posted on our sites, potential risks to the physical safety of any person, where we believe it is necessary in order to investigate, prevent, or take action regarding suspected fraud or illegal activities, or as otherwise required by law. 
   * In response to a request for information when disclosure is in accordance with or required by any applicable law, regulation, or process, including in response to requests by public authorities responsible for public safety, law enforcement, and national security. 
@@ -63,7 +63,7 @@ We may share aggregate or de-identified information that cannot reasonably be us
 
 ### Information Retention
 
-We will retain your personal information for as long as we need to keep this information for the purposes for which it was collected or for which it is lawfully further processed and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your personal information for as long as we need to keep this information for the purposes for which it was collected or for which it is lawfully further processed and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Your Choices
 
@@ -77,7 +77,7 @@ When you view our sites or advertisements, we might store some information on yo
 
 Quantum places cookies on your browser in part to allow its vendors to collect data about your online activity and show you targeted ads for Quantum products. To learn more about cookies and other automatic data collection tools, please visit <http://www.allaboutcookies.org/>
 
-Quantum has engaged one or more affiliated and unaffiliated third-party service providers to track and analyze usage and volume statistical information from visitors to our sites. The service provider(s) set cookies on behalf of Quantum. Quantum also uses other third-party cookies to track the effectiveness of our sites and to advertise Quantum’s products and services, as well as those of our partners and affiliates. Some of the providers that track visitors to our sites are [Google Analytics](http://www.google.com/intl/en/policies/privacy), [Marketo](http://legal.marketo.com/privacy), [Crazyegg](http://www.crazyegg.com/privacy) and [Adroll](https://www.adroll.com/about/privacy). 
+Quantum has engaged one or more affiliated and unaffiliated third-party service providers to track and analyze usage and volume statistical information from visitors to our sites. The service provider(s) set cookies on behalf of Quantum. Quantum also uses other third-party cookies to track the effectiveness of our sites and to advertise Quantum’s products and services, as well as those of our partners and affiliates. Some of the providers that track visitors to our sites are [Google Analytics](http://www.google.com/intl/en/policies/privacy), [Marketo](http://legal.marketo.com/privacy), [Terminus](http://terminus.com/privacy-policy/) and [Adroll](https://www.adroll.com/about/privacy). 
 
 Our ad partners deliver ads for us and may combine the information collected or obtained from us with other information they have independently collected from other websites and/or other online or mobile products and services relating to your browser’s activities across their network of websites. 
 
@@ -101,4 +101,4 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at [privacy@quantum.com ](mailto:privacy@Quantum.Com)
 
-_Privacy Policy updated October 18, 2016._
+_Privacy Policy updated October 16, 2017._
