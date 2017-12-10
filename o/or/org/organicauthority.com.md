@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organicauthority.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619155408id_/http%3A//www.organicauthority.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicauthority.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210224320id_/http%3A//www.organicauthority.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Organic Authority
 
@@ -10,7 +10,7 @@ Our postal address is:
 **9854 National Blvd. #413  
 Los Angeles, CA 90034**
 
-We can be reached via e-mail at [liveorganic@organicauthority.com](https://web.archive.org/mailto:liveorganic@organicauthority.com)  
+We can be reached via e-mail at [[email protected]](https://web.archive.org/mailto:liveorganic@organicauthority.com)  
 or you can reach us by telephone at 310-694-8306
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
@@ -47,4 +47,4 @@ We do not provide site visitors with access to information that we have collecte
 
 Access to this website and its content is provided without charge to users “AS IS” and without warranty of any kind. We shall bear no responsibility or liability for any damages of any kind arising out or in connection with, the use copying or display of content from this website.
 
-The views expressed at Organic Authority are the views of theOrganic Authority staff and do not necessarily represent the views of Organic Authority sponsors and/or partners.Organic Authority content is for informational and entertainment purposes, and any views expressed should not be accepted as a substitute for qualified expertise. Though we make every effort to provide accurate information, it is up to you, the reader, to use Organic Authority’s content responsibly; in return, we promise to publish responsibly. We stand by our content, our writers, and our editors. If we make a mistake, we will take whatever reasonable course of action we can to acknowledge and correct it. (Fortunately, this doesn’t happen too often.) We appreciate our readers keeping us sharp, and take our role in informing, sharing and expressing seriously. We value your trust.
+The opinions and views expressed by the authors at Organic Authority in blogs and on social media and more, are theirs alone and do not necessarily reflect the views, opinions or position of Organic Authority, Inc  and do not necessarily represent the views of Organic Authority sponsors and/or partners. Organic Authority content is for informational and entertainment purposes, and any views expressed should not be accepted as a substitute for qualified expertise. Though we make every effort to provide accurate information, it is up to you, the reader, to use Organic Authority’s content responsibly; in return, we promise to publish responsibly. We stand by our content, our writers, and our editors. If we make a mistake, we will take whatever reasonable course of action we can to acknowledge and correct it. (Fortunately, this doesn’t happen too often.) We appreciate our readers keeping us sharp, and take our role in informing, sharing and expressing seriously. We value your trust.
