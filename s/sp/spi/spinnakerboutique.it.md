@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinnakerboutique.it privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119204654id_/http%3A//www.spinnakerboutique.it/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinnakerboutique.it privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210163838id_/http%3A//www.spinnakerboutique.it/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | Spinnaker Boutique
 
