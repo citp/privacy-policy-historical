@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtv.gov privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426225430id_/https%3A//www.fcc.gov/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtv.gov privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210094843id_/https%3A//www.fcc.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Federal Communications Commission
 
@@ -66,5 +66,7 @@ This website employs Google Analytics (a service from Google, Inc.) and the URL 
 
 **Applications**  
 In order to provide you with dynamic content, the third-party applications YouTube, JW Player, and jQuery may be embedded in pages you visit on our site:  No personal information is collected as a result of their use.
+
+It is the policy of the FCC to ensure the accuracy and protect the privacy of every individual whose protected information is stored in Commission systems or records. The Commission carries out this policy by ensuring that it has and implements procedures to regulate the collection, maintenance, use, and dissemination of Privacy Act-protected information. Find information about all the FCC's many efforts to comply with the Privacy Act of 1974 on our [Privacy Act Information webpage](https://web.archive.org/general/privacy-act-information).
 
 The FCC reserves the right to modify this policy at any time.
