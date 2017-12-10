@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manpower-me.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625210852id_/http%3A//www.manpowergroup.ae/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpower-me.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210201446id_/http%3A//www.manpowergroup.ae/en/privacy-policy) for the most accurate reproduction.*
 
-# ManpowerGroup | Manpower Global Privacy Policy
+# ManpowerGroup - Global Privacy Policy
 
 We at ManpowerGroup Inc., along with our subsidiaries and affiliates listed [here](http://www.manpowergroup.com/wps/wcm/connect/manpowergroup-en/home/privacy/list+of+subsidiaries+and+affiliates/subsidiaries-and-affiliates#.VmgY4HYrJII) ("ManpowerGroup"), respect your concerns about privacy. This Global Privacy Policy applies to (1) our job candidates, (2) our associates, who are people we source or place on assignment with one of our clients, or individuals to whom we provide career transition services, (3) users of the websites and apps listed [here](http://www.manpowergroup.com/wps/wcm/connect/manpowergroup-en/home/privacy/apps+and+sites/sites-and-apps#.VmgZhHYrJII) (the "Sites"), and (4) representatives of our clients and vendors. This Policy does not apply to our headquarters and country-based staff employees, who are individuals employed by ManpowerGroup and who work directly for ManpowerGroup and not directly with a ManpowerGroup client.
 
