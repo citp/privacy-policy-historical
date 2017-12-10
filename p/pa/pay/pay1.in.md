@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pay1.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172953id_/https%3A//pay1.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pay1.in privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210140726id_/https%3A//pay1.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pay1 - Mobile Recharges & Bill Payments
 
