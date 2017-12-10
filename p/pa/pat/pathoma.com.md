@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathoma.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611011946id_/http%3A//www.pathoma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathoma.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210030027id_/http%3A//www.pathoma.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pathoma
 
