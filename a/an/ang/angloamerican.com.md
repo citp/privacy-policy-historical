@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angloamerican.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620121339id_/http%3A//www.angloamerican.com/site-services/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angloamerican.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210164005id_/http%3A//www.angloamerican.com/site-services/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie policy – Anglo American
 
