@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safelinkreview.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012904id_/http%3A//safelinkreview.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safelinkreview.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210222319id_/http%3A//safelinkreview.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Get website cost online
 
