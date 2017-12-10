@@ -1,49 +1,100 @@
-> *The following text is extracted and transformed from the motortopia.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611095038id_/http%3A//motortopia.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motortopia.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211002849id_/http%3A//www.motortopia.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Motortopia.com is an online service that allows you to set up your individual personal profile that can be linked together through networks of your friends. After you join Motortopia.com, you can view others' profiles and communicate with friends. You can also meet new friends on the service, share photos, post blogs and comments, and talk about your interests.
+**PRIVACY POLICY**
 
-At Motortopia.com nothing is more important than your online privacy. If you have any questions concerning this privacy policy, please email us at [support@newdigitalgroup.com](mailto:support@newdigitalgroup.com)
+**Last Updated: September 26, 2017**
 
-## Information Collection and Use by Motortopia.com
+This privacy policy (“ **Policy** ”) describes how Engaged Media, Inc. and its related companies (“ **Company** ”) collect, use and share personal information of consumer users of any of our websites that post this Policy or incorporate this Policy into their Terms of Service (each is referred to in this Policy as the “ **Site** ”). This Policy does not apply to websites that specifically post different privacy policies.
 
-Motortopia.com collects user submitted information such as name and email address to authenticate users and to send notifications to those users relating to the Motortopia.com service. Motortopia.com also collects other profile data including but not limited to: personal interests, gender, age, and location in order to assist users in finding and communicating with each other.
+**WHAT WE COLLECT**
 
-Motortopia.com also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes.
+** ** We get information about you in a range of ways.
 
-User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in the Motortopia.com social networking community. Email addresses are used for the purposes of inviting new friends to join Motortopia.com, to add others to your network of friends, and to send notifications related to the service. Unless you insert your email address in a public blog or a message entry viewable by the public, Motortopia.com does not provide anyone's email address to anyone else. Unless you put your full name in as a public display name, your full name will not be displayed by Motortopia.com to the public. To facilitate searching and finding friends and acquaintances on the service, Motortopia.com allows users to search for other members using first and last name, email address, and schools and/or companies where users may have attended or worked.
+**Information You Give Us.** We collect your‎ name, postal address, email address, phone number, location, username, password, demographic information (such as your age, gender, occupation), third party social media profile information, as well as other information you directly give us on our Site.  If you elect to purchase products or services through our Site, we will collect the payment information that you provide to facilitate the transaction. ** **
 
-We may also use a user's email address to send updates, a newsletter or news regarding the service, or cost saving offers from our sponsors and advertisers. Users may choose not to receive this email.
+**Information We Get From Others.** We may get information about you from other sources. We may add this to information we get from this Site. If you register or log into your Account using a third party authenticator login (such as Facebook), you authorize us to access certain account information from the third party authenticator, such as your public profile (consistent with the third party’s privacy policy and your privacy settings related thereto), email address, interests, “likes,” gender, birthday, education history, work history, interests, current city, photos, videos, personal description, friend list, and other information from your use of the third party service. Information we get from others (including third party data companies) may be combined with information you give us.
 
-From time to time, Motortopia.com or a partner may sponsor a promotion, sweepstakes or contest on Motortopia.com. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
+**Location Information.** When you use the Site, we may collect your location information from your device. This location information may include your longitudinal and latitudinal coordinates. If you do not agree to this collection, you can change your privacy preferences on your device, but the some functionality of the Site may be disabled.
 
-## Invitations and Other Communications
+**Information Automatically Collected.** We automatically log information about you and your computer. For example, when visiting our Site, we log your computer operating system type, browser type, browser language, the website you visited before browsing to our Site, pages you viewed, how long you spent on a page, access times, and information about your use of and actions on our Site. ** **
 
-In Motortopia.com you can invite friends to join the service by sending invitation emails via our automated invitation system. Motortopia.com stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations. Motortopia.com does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Recipients of invitations from Motortopia.com may contact Motortopia.com to request the removal of their information from our database.
+**Cookies.** We may log information using "cookies." Cookies are small data files stored on your hard drive by a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site.    This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs.
 
-## Use of Cookies
+**Google Analytics**. We also use Google Analytics to understand how the site is being used. Google Analytics uses permanent cookies on your web browser to identify you as a unique user. All data are anonymous. Please review the Google Privacy pages for more information: <https://www.google.com/policies/privacy/>
 
-Motortopia.com may use cookies to store preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. If we do use cookies, we will not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies. Advertisers' use of cookies is subject to their own privacy policies, not the Motortopia.com Privacy Policy.
+**USE OF PERSONAL INFORMATION** We use your personal information to:
 
-## Links
+  * operate, maintain, and improve our sites, products, and services.
+  * process and deliver contest entries and rewards.
+  * respond to comments and questions and provide customer service.
+  * send information including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages.
+  * communicate about promotions, upcoming events, and other news about products and services offered by us and our selected partners.
+  * link or combine user information with other personal information.
+  * protect, investigate, and deter against fraudulent, unauthorized, or illegal activity.
+  * customize and tailor content and advertising to specific audiences or individuals.
+  * provide and deliver products and services customers request.
+  * facilitate purchase transactions ** **
 
-Motortopia.com contains links to sites. Motortopia.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on Motortopia.com.
 
-## Forums, Blogs, and Classifieds
 
-Please be aware that whenever you voluntarily post public information to Motortopia.com public areas such as forums, blogs, and classifieds that your information is open to the public and that public information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
+**SHARING OF PERSONAL INFORMATION**
 
-## Correcting/Updating or Removing Information
+We may share personal information as follows:
 
-Motortopia.com permits you to modify or remove any of your personal information at any time by logging into your account and editing your personal information.
+  * We may share personal information with your consent. For example, you may let us share personal information with others for their own marketing uses. Those uses will be subject to their privacy policies.
+  * We may share personal information when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
+  * We may share personal information for legal, protection, and safety purposes, including, but not limited to: i) to comply with laws; ii) to respond to lawful requests and legal processes; iii) to protect the rights and property of the Company, our agents, customers, and others (this includes enforcing our agreements, policies, and terms of use); and iv) to share information in an emergency (this includes protecting the safety of our employees and agents, our customers, or any person).
+  * We may share information with those who need it to do work for us.
+  * If you elect to purchase products or services through the Site, we will use the information you provide to facilitate the transaction. We do not store or use this payment information in anyway other than to relay the information to the third-party payment processor to facilitate the transfer of funds.   The third-party payment processor’s use of such information shall be governed by its applicable terms of services and/or privacy policy.
 
-## Email Choice/Opt-out
 
-You may choose not to receive updates or notifications from Motortopia.com.
 
-## Third Party Advertising
+We may also share aggregated and/or anonymized data with others for their own uses.
 
-Ads appearing on this Web site may be delivered to users by Motortopia.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Motortopia.com and does not cover the use of cookies by any advertisers.
+**INFORMATION CHOICES AND CHANGES**
 
-We use third-party advertising companies to serve ads. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [(http://networkadvertising.org/consumer/opt_out.asp).](http://networkadvertising.org/consumer/opt_out.asp)
+Our marketing emails tell you how to “opt-out.” If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you.
+
+You may send requests about personal information to our Contact Information below. You can request to change contact choices, opt-out of our sharing with others, and update your personal information.
+
+You can typically remove and reject cookies from our Site with your browser settings. Many browsers are set to accept cookies until you change your settings. If you remove or reject our cookies, it could affect how our Site works for you.
+
+**EXTERNAL LINKS**
+
+Links to third-party websites from this website are provided as a convenience to you.  If you use these links, you will leave this site. We do not assume responsibility for any of these sites, their content, or their privacy policies.
+
+**SECURITY**
+
+On the Site, we may use secure socket layer technology (SSL), which is designed to encrypt the transmission of information shared between your browser and our site. Where SSL is being used, a padlock icon will appear adjacent to the URL in your browser. Click on the padlock next to the URL to view certificate details. If you do not see the padlock, we may not have implemented SSL on the Site, or there could be an issue with your browser or the secure socket layer technology.
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
+
+**DATA RETENTION**
+
+Even after you delete your account, copies of information you have submitted to the site, such as survey responses, may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed by others, or it was copied or stored by other users. You may not have the authority or ability to remove information (including survey responses) you submitted by participating in the site. ** **
+
+**CORPORATE EVENTS  **
+
+If we become involved in a merger, acquisition, or any form of sale of some or all of its assets, your information may be included in the assets sold or transferred to the acquirer. You hereby agree that we may transfer or assign the information we have collected from you in connection with any such event. In the event of a bankruptcy, insolvency, reorganization, receivership or assignment for the benefit of creditors, we may not be able to control how your personal information is treated, transferred or used. ** **
+
+**LOCATION OF SERVERS**
+
+Our servers are located in the United States of America. If you are accessing the site and service from outside the United States, please be advised that through your continued use of the site or service, which is governed by U.S. law and this Privacy Policy, you are transferring your personal information to the United States and you consent to that transfer and the maintenance and processing of such information in the United States.
+
+**INFORMATION OF CHILDREN**
+
+This site is not intended for use by minors under the age of 13. If we learn that a child under the age of 13 has provided us with personal information without verifiable parental consent, we will promptly take reasonable and appropriate actions to remove such user and delete any personal information from our servers.
+
+**CONTACT INFORMATION.** We welcome your comments or questions about this privacy policy. You may also contact us at:
+
+Privacy Inquiries
+
+Engaged Media, Inc.
+
+2222 Sedwick Road Durham, NC 27713
+
+[support@engagedmedia.com](mailto:support@engagedmedia.com)
+
+**CHANGES TO THIS PRIVACY POLICY.** We may change this privacy policy. If we make any changes, we will change the Last Updated date above.
