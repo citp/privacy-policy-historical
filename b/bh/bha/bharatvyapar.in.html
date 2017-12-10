@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bharatvyapar.in privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606013506id_/http%3A//www.bharatvyapar.in/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bharatvyapar.in privacy policy that was archived on 2017-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171210102325id_/http%3A//www.bharatvyapar.in/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -27,29 +27,32 @@
         ga('send', 'pageview');
     </script>
     <link href="https://plus.google.com/+BharatvyaparIn" rel="publisher">
-
     <!--animation file css-->
-    <link href="/bv_theme/css/animate.min.css" rel="stylesheet">
+    
     <script src="/bv_theme/js/jquery.js"></script>
     <!-- Bootstrap Core js -->
     <script src="/bv_theme/js/bootstrap.min.js"></script>
     <!-- Bootstrap Core CSS -->
     <link href="/bv_theme/css/bootstrap.min.css" rel="stylesheet">
-    <script src="/bv_theme/css/jquery.bootstrap-dropdown-hover.js"></script>
+    
     <!-- animated css -->
     <link href="/bv_theme/css/style.css" rel="stylesheet">
     
     <!-- Custom CSS -->
-    <link href="/bv_theme/css/landing-page.css" rel="stylesheet">
+    
     <!-- Custom Fonts -->
     <link href="/bv_theme/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="/styles.css" rel="stylesheet" type="text/css" media="all">
+    
 
     <!-- FlexSlider -->
     <script src="/Scripts/Jquery1.10.3.js"></script>
-    <script type="text/javascript" src="/bv_theme/js/jquery.flexslider-min.js"></script>
+    
     <script src="/bv_theme/js/jquery.easing.min.js"></script>
     <script src="/bv_theme/js/lightslider.js"></script>
+
+
+
+
 
     <script type="text/javascript">
         var $ = jQuery.noConflict();
@@ -68,9 +71,14 @@
             });
         });
     </script>
-    <link href="/bv_theme/css/lightslider.css" rel="stylesheet">
+    
     <script>
         $(document).ready(function () {
+            var ipaddress = "";
+            $.get("http://ipinfo.io", function (response) {
+                //  alert(response.ip);
+                ipaddress = response.ip;
+            }, "jsonp");
 
             $("#SearchProductAreaTop").autocomplete({
                 source: function (request, response) {
@@ -95,8 +103,13 @@
                     //var cinm = getCookie('cinm');
                     //var productcity = getCookie('cinm');
                     var cinm = '';
-                    var SearchTearm = ui.item.value.toLowerCase().trim().replace('&', '$');
-                    window.location.replace('http://dir.bharatvyapar.in/search?Ad=' + SearchTearm);
+                    $.getJSON('/Requirement/GetProductUrl', { 'ProductName': ui.item.value.toLowerCase().trim() }, function (data) {
+                            $.each(data, function (key, val) {
+                                window.location.replace('http://dir.bharatvyapar.in/' + val.Producturl);
+                            });
+                       });
+
+                    
 
                 },
                 open: function () {
@@ -146,8 +159,12 @@
                 if ((input == '' || input == null) && (headerinput != '' || headerinput != null)) {
                     input = headerinput;
                 }
-                var SearchTearm = input.trim().toLowerCase().trim().replace('&', '$');
-                window.location.replace('http://dir.bharatvyapar.in/search?Ad=' + SearchTearm);
+
+                $.getJSON('/Requirement/GetProductUrl', { 'ProductName': input.toLowerCase().trim() }, function (data) {
+                        $.each(data, function (key, val) {
+                            window.location.replace('http://dir.bharatvyapar.in/' + val.Producturl);
+                        });
+                 });
             }
 
             return false;//don't let the form submit
@@ -344,6 +361,8 @@
             });
         });
     </script>
+
+    
     <style>
         /*Contact*/
         iframe {
@@ -490,39 +509,39 @@
                                         <div class="row">
                                             <div class="col-md-12 div1">
                                                 <div class="form-group1">
-                                                    <label>Product / Service Required *</label>
-                                                    <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input id="ProductNameTop" type="text" class="form-control ui-autocomplete-input" placeholder="Product / Service Required *" required="" autocomplete="off">
+                                                    <label for="ProductNameTop">Product / Service Required *</label>
+                                                    <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" id="ProductNameTop" class="form-control ui-autocomplete-input" placeholder="Product / Service Required *" required="" autocomplete="off">
                                                     <input type="hidden" id="ProductTopid" value="0">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
                                             <div class="col-md-12 animated bounceInUp">
                                                 <div class="form-group1">
-                                                    <label>Product / Service Description *</label>
+                                                    <label for="ProductDescpTop">Product / Service Description *</label>
                                                     <textarea id="ProductDescpTop" class="form-control" placeholder="Enter Product / Service Description *" rows="4" required=""></textarea>
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
                                             <div class="col-md-6 div1">
                                                 <div class="form-group1">
-                                                    <label>Name *</label>
-                                                    <input id="NameTop" type="text" class="form-control" placeholder="Enter your Name *" required="">
+                                                    <label for="NameTop">Name *</label>
+                                                    <input type="text" id="NameTop" class="form-control" placeholder="Enter your Name *" required="">
                                                     <input type="hidden" id="AppUserIDTop" value="0">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
                                             <div class="col-md-6 div1">
                                                 <div class="form-group1">
-                                                    <label>Email *</label>
-                                                    <input id="EmailIdTop" type="text" class="form-control" placeholder="Enter valid Email-Id *" required="">
+                                                    <label for="EmailIdTop">Email *</label>
+                                                    <input type="text" id="EmailIdTop" class="form-control" placeholder="Enter valid Email-Id *" required="">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
 
                                             <div class="col-md-12 div1">
                                                 <div class="form-group1">
-                                                    <label>Mobile No*</label>
-                                                    <input id="MobileNoTop" type="text" maxlength="15" onkeypress="return (event.charCode >= 48 &amp;&amp; event.charCode <= 57) || event.charCode == 32 || event.charCode == 43 || event.charCode == 45 || event.charCode == 0  " class="form-control" placeholder="Enter your Mobile *" required="">
+                                                    <label for="MobileNoTop">Mobile No*</label>
+                                                    <input type="text" id="MobileNoTop" maxlength="15" onkeypress="return (event.charCode >= 48 &amp;&amp; event.charCode <= 57) || event.charCode == 32 || event.charCode == 43 || event.charCode == 45 || event.charCode == 0  " class="form-control" placeholder="Enter your Mobile *" required="">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
@@ -583,7 +602,7 @@
                     <div class="input-group searchbox searchbox_size1 serch-menu" id="search-menu" style="">
                         <input type="hidden" name="search_param" value="all" id="search_param" class="searchbox_size1 searchbox_size">
                         <form role="search" onsubmit="return redirect();" method="post">
-                            <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" class="form-control searchbox_size1 searchbox_size nav-height ui-autocomplete-input" id="SearchProductAreaTop" name="x" placeholder="Find Products / Suppliers" autocomplete="off">
+                            <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" class="form-control searchbox_size1 searchbox_size nav-height ui-autocomplete-input" id="SearchProductAreaTop" title="Find Products / Suppliers" name="x" placeholder="Find Products / Suppliers" autocomplete="off">
                         </form>
                         <span class="input-group-btn">
                             <button class="btn btn-default searchbutton searchbox_size1 nav-height nav-btn-search" onclick="redirect();" type="button">
@@ -615,7 +634,7 @@
                                     <li><a href="http://www.bharatvyapar.in/bulk-buying-requirement">Bulk Requirement</a></li>
                                 </ul>
                             </li>
-                            <li class="de"><a href="http://www.bharatvyapar.in/blog">Blog</a> </li>
+                            <li class="de"><a href="http://blog.bharatvyapar.in">Blog</a> </li>
                             <li class="posting font1"><a href="#contact" class=" post2" data-toggle="modal" data-target="#myModal_popup1" style="color: #eee; border-radius: 4px;">Bulk Requirement</a> </li>
                             <li class="posting font1"><a href="#contact" class=" post2" data-toggle="modal" data-target="#myModal_popup" style="color: #eee; border-radius: 4px;">Post Buy Requirement</a> </li>
                         </ul>
@@ -773,12 +792,12 @@
                 <h4 class="n2">About Us</h4>
                 <ul>
                     <li><a href="http://www.bharatvyapar.in/aboutus" class="link">About Bharat Vyapar</a></li>
-                    <li><a href="http://www.bharatvyapar.in/blog" class="link">Blog</a></li>
+                    <li><a href="http://blog.bharatvyapar.in" class="link">Blog</a></li>
                     <li><a href="#" class="link">How It Works</a></li>
                     <li><a href="http://www.bharatvyapar.in/contactus" class="link">Contact Us</a></li>
                     <li><a href="http://www.bharatvyapar.in/policy" class="link">Privacy Policy</a></li>
                     <li><a href="http://www.bharatvyapar.in/terms" class="link">Terms &amp; condition</a></li>
-                    <li>Sitemap</li>
+                    <li><a href="http://www.bharatvyapar.in/sitemap" class="link">Sitemap</a></li>
                 </ul>
             </div>
             <div class="col-lg-2 col-md-3 col-sm-6 col-xs-12">
@@ -808,10 +827,10 @@
                     <!-- <h5 class="n2">Follow Us</h5> -->
                     <p class="n2">Follow Us :</p>
                     <ul>
-                        <li style="float: left;"><a class="social fb" rel="nofollow" href="https://www.facebook.com/bharatvyaparb2b/"></a></li>
-                        <li style="float: left;"><a class="social gplus" rel="nofollow" href="https://plus.google.com/u/0/+BharatvyaparIn"></a></li>
-                        <li style="float: left;"><a class="social ytube" rel="nofollow" href="https://www.youtube.com/channel/UCD2N9l1XrNFx_MuMkrehBsw/"></a></li>
-                        <li style="float: left;"><a class="social twit" rel="nofollow" href="https://twitter.com/bharatvyapar"></a></li>
+                        <li style="float: left;"><a class="social fb" rel="nofollow" title="Facebook" href="https://www.facebook.com/bharatvyaparb2b/"></a></li>
+                        <li style="float: left;"><a class="social gplus" rel="nofollow" title="Google plus" href="https://plus.google.com/u/0/+BharatvyaparIn"></a></li>
+                        <li style="float: left;"><a class="social ytube" rel="nofollow" title="youtube" href="https://www.youtube.com/channel/UCD2N9l1XrNFx_MuMkrehBsw/"></a></li>
+                        <li style="float: left;"><a class="social twit" rel="nofollow" title="twitter" href="https://twitter.com/bharatvyapar"></a></li>
                         <!-- <a href="https://www.pinterest.com/bharatvyapar/"><li  class="social pint"></li></a> -->
                     </ul>
 
@@ -824,7 +843,7 @@
         <div class="container">
             <div class="row foot_1">
                 <div class="col-md-8 col-sm-8">
-                    <p class="copyright">Copyright © 2015 Bharat Vyapar, All Rights Reserved. </p>
+                    <p class="copyright">Copyright © 2014-2017 Bharat Vyapar, All Rights Reserved. </p>
                 </div>
                 <div class="col-md-4 col-sm-4">
                     <ul class="list-inline foot_menu">
@@ -867,8 +886,8 @@
                                         <div class="row">
                                             <div class="col-md-12 div1">
                                                 <div class="form-group1">
-                                                    <label>Product / Service Required *</label>
-                                                    <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input id="ProductNameBulk" type="text" name="name" class="form-control ui-autocomplete-input" placeholder="Product / Service Required *" required="" autocomplete="off">
+                                                    <label for="ProductNameBulk">Product / Service Required *</label>
+                                                    <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" id="ProductNameBulk" name="name" class="form-control ui-autocomplete-input" placeholder="Product / Service Required *" required="" autocomplete="off">
                                                     <input type="hidden" id="ProductIdBulk" value="0">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
@@ -876,14 +895,14 @@
 
                                             <div class="col-md-6 div1">
                                                 <div class="form-group1">
-                                                    <label>Estimated quantity  *</label>
-                                                    <input id="EstimatedQtyBulk" type="text" name="surname" class="form-control" placeholder="Enter Estimated quantity*" required="">
+                                                    <label for="EstimatedQtyBulk">Estimated quantity  *</label>
+                                                    <input type="text" id="EstimatedQtyBulk" name="surname" class="form-control" placeholder="Enter Estimated quantity*" required="">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
                                             <div class="col-md-6 div1">
                                                 <div class="form-group1">
-                                                    <label>Required basis </label>
+                                                    <label for="RequiredBasisBulk">Required basis </label>
                                                     <select class="form-control" id="RequiredBasisBulk">
                                                         <option value="1">One time</option>
                                                         <option value="2">Weekly</option>
@@ -897,21 +916,21 @@
 
                                             <div class="col-md-12 animated bounceInUp">
                                                 <div class="form-group1">
-                                                    <label>Product / Service Description </label>
+                                                    <label for="ProductDesBulk">Product / Service Description </label>
                                                     <textarea id="ProductDesBulk" name="message" class="form-control" placeholder="Enter Product / Service Description *" rows="4" required=""></textarea>
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
                                             <div class="col-md-6 div1">
                                                 <div class="form-group1">
-                                                    <label>Mobile No*</label>
-                                                    <input id="MobileNoBulk" type="text" maxlength="15" onkeypress="return (event.charCode >= 48 &amp;&amp; event.charCode <= 57) || event.charCode == 32 || event.charCode == 43 || event.charCode == 45 || event.charCode == 0  " class="form-control" placeholder="Enter your Mobile *" required="">
+                                                    <label for="MobileNoBulk">Mobile No*</label>
+                                                    <input type="text" id="MobileNoBulk" maxlength="15" onkeypress="return (event.charCode >= 48 &amp;&amp; event.charCode <= 57) || event.charCode == 32 || event.charCode == 43 || event.charCode == 45 || event.charCode == 0  " class="form-control" placeholder="Enter your Mobile *" required="">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
                                             <div class="col-md-6 div1">
                                                 <div class="form-group1">
-                                                    <label>Email *</label>
+                                                    <label for="EmailIdBulk">Email *</label>
                                                     <input id="EmailIdBulk" type="email" class="form-control" placeholder="Enter valid Email-Id *" required="">
                                                     <input type="hidden" id="UseridIdBulk" value="0">
                                                     <div class="help-block with-errors"></div>
@@ -920,14 +939,14 @@
 
                                             <div class="col-md-6 div1">
                                                 <div class="form-group1">
-                                                    <label>Contact Person Name </label>
+                                                    <label for="NameBulk">Contact Person Name </label>
                                                     <input id="NameBulk" type="text" class="form-control" placeholder="Enter Name *" required="">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
                                             <div class="col-md-6 div1">
                                                 <div class="form-group1">
-                                                    <label>Company </label>
+                                                    <label for="CompanyNameBulk">Company </label>
                                                     <input id="CompanyNameBulk" type="text" class="form-control" placeholder="Enter Company Name *" required="">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
