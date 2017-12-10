@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharetap.it privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615182438id_/http%3A//sharetap.it/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharetap.it privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210205138id_/http%3A//www.sharetap.it/privacypolicy.html) for the most accurate reproduction.*
 
 # ShareTap: Privacy Policy
 
