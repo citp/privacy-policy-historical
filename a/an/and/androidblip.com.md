@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidblip.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610150800id_/http%3A//www.androidblip.com/v/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidblip.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210225950id_/http%3A//www.androidblip.com/v/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ Our site may contain links to other websites of interest. However, once you use 
 
 ###  Privacy Contact Information
 
-Should you have any questions, concerns, or comments about our privacy policy, please contact us directly at info@androidblip[dot] com. 
+Should you have any questions, concerns, or comments about our privacy policy, please contact us directly at [[email protected]](http://www.androidblip.com/cdn-cgi/l/email-protection)[dot] com. 
