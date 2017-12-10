@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the adshield.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121321id_/http%3A//adshield.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adshield.me privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210041832id_/http%3A//adshield.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy adshield.me
 
 ## Overview of Our Privacy Policy
+
+Adshield.me is owned and operated by Tightrope Interactive.
 
 We supply free web browsing software. Our Products may include built-in technology that adds search functionality to your browser. We refer to our software throughout this agreement as our “Services”.
 
@@ -114,7 +116,7 @@ You can always choose to delete your browsing history information, in whole or i
 
 We currently do not send promotional messages to our users. If at any time we do contact you, it would only be for product support reasons. If in that regard, you would like stop receiving messages or notifications, you can click on an unsubscribe link from any message we provide to no longer receive our messages.
 
-If you would like to be removed from our system, you can reach us via email at [contactus@browseAdShield.com](mailto:contactus@adshield.me?Subject=Hello%20again).
+If you would like to be removed from our system, you can reach us via email at [contactus@AdShield.me](mailto:contactus@adshield.me?Subject=Hello%20again).
 
 ## California Online Privacy Protection Act Compliance
 
@@ -146,7 +148,7 @@ If we decide to change our Privacy Policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may Contact Us at:
 
-**AdShield**  
+**Tightrope Interactive, Inc.**  
 588 Sutter St. #551   
 San Francisco, CA 94102-1102  
 [contactus@adshield.me](mailto:contactus@adshield.me?Subject=Hello%20again)
