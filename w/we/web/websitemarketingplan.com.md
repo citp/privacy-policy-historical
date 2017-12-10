@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611232858id_/http%3A//www.websitemarketingplan.com/html/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210233108id_/http%3A//www.websitemarketingplan.com/html/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Marketing Plan Information, Sample Marketing Plan and Marketing Strategies
 
   
 
 
-## [Website Marketing Plan .com](https://web.archive.org/web/20170611232858id_/http%3A//), [Web Marketing Place](http://www.webmarketingplace.com/), and [ My Online Wedding Help .com](http://www.myonlineweddinghelp.com/) Privacy Statement
+## [Website Marketing Plan .com](https://web.archive.org/web/20171210233108id_/http%3A//), [Web Marketing Place](http://www.webmarketingplace.com/), and [ My Online Wedding Help .com](http://www.myonlineweddinghelp.com/) Privacy Statement
 
 ### **Information Use**
 
