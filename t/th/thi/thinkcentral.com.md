@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkcentral.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611060001id_/http%3A//hmhco.com/common/privacy-policy-for-k-12-learning-platforms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkcentral.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210172916id_/http%3A//hmhco.com/common/privacy-policy-for-k-12-learning-platforms) for the most accurate reproduction.*
 
 # Privacy Policy for K-12 Learning Platforms | Houghton Mifflin Harcourt
 
