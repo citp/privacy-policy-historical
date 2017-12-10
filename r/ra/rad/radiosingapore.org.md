@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiosingapore.org privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610150317id_/http%3A//www.radiosingapore.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiosingapore.org privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210012423id_/http%3A//www.radiosingapore.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Radiosingapore.org
 
