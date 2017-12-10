@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the variance.tv privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615192004id_/https%3A//variance.tv/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the variance.tv privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210231745id_/http%3A//variance.tv/p/privacy) for the most accurate reproduction.*
 
 # Variance TV
 
@@ -140,7 +140,7 @@ Our Services are intended for a general audience. We do not knowingly collect, u
 
 ### How to Contact Us
 
-If you have questions or concerns about this Privacy Policy or about Variance TV's privacy practices in general, please send us an email to info@variance.tv
+If you have questions or concerns about this Privacy Policy or about Variance TV's privacy practices in general, please send us an email to [email protected]
 
 ### Changes to This Privacy Policy and Additional Information
 
