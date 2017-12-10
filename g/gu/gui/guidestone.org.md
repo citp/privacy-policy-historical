@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidestone.org privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610150438id_/https%3A//www.guidestone.org/AboutUs/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidestone.org privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210012514id_/http%3A//www.guidestone.org/AboutUs/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
