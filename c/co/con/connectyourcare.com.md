@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607094449id_/http%3A//www.connectyourcare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210203614id_/http%3A//www.connectyourcare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and End User Terms of Use | ConnectYourCare
 
 ### 1\. Privacy Policy
 
-We recognize our obligation to protect the personal information you share via this website and are committed to protecting your online privacy while providing you with the most useful Internet experience possible.
+Privacy Policy last updated: 10/4/17
+
+ConnectYourCare recognizes itsobligation to protect the personal information you share via this website. We are committed to protecting your online privacy while providing you with the most useful Internet experience possible.
 
 **Information Collection and Use**
 
-To conduct our business, we may collect personal information about you from applications or other forms, health plans and providers, your employer and our partners. In some circumstances, you may provide us with additional information yourself. We will not share this information with others using methods different than the methods described in this privacy statement.
+To conduct our business, we may collect personal information about you from applications or other forms, health plans and providers, your employer and our partners. In some circumstances, you may provide us with additional information yourself. We will not share this information with others using methods different than the methods described in this Privacy Policy.
 
 **Information Sharing and Disclosure**
 
@@ -30,32 +32,15 @@ You must complete a registration to use our website or our mobile application. I
 
 **Cookies**
 
-We utilize cookies to facilitate user navigation of our site. A cookie is a small text file containing information about you sent by a web server and stored on your hard drive in your browser. A majority of browsers will allow you to disable cookies or give you the opportunity to decide whether or not to accept it. If you choose to disable cookies, functionality on the website may be diminished or may not work at all. The use of cookies by third party sites that you may access through a link from our site is not covered by this privacy statement.
+We utilize cookies to facilitate user navigation of our site. A cookie is a small text file containing information about you sent by a web server and stored on your hard drive in your browser. A majority of browsers will allow you to disable cookies or give you the opportunity to decide whether or not to accept it. If you choose to disable cookies, functionality on the website may be diminished or may not work at all. The use of cookies by third party sites that you may access through a link from our site is not covered by this Privacy Policy.
 
 **Log Files**
 
 To comply with applicable laws and regulations, we record your IP addresses and login credentials when you access our site. The application logs all transaction-based activity regarding the date, time and user performing the transaction. Furthermore, changes to system configurations are logged for audit and quality control purposes. Our solution supports configurable logging levels.
 
-The following data elements are logged by the system:
-
-  * Event or transaction time — The date and time an event occurred
-  * Transaction ID — A unique identification string is permanently assigned to a transaction
-  * Event or transaction type — A category or type of event, such as a claim approval or account update
-  * Event or transaction status — The result of an event
-  * Object attributes — Describes the object(s) affected by the event
-  * Originator user ID — ID of user who initiated the event or action
-  * Subject ID — ID, if applicable, of the subject or object affected by the event
-  * Process user ID — ID, if applicable, of the system process performing the event
-  * Account number — Participant account number
-  * Account type — Type of account
-  * Source or Channel — Identification of where the transaction was initiated
-  * Specific elements — Data elements specific to transaction performed, such as information on account numbers for funds transfer
-
-
-
 **Links to Partner Sites**
 
-This site contains links to other sites. We do not share any information with our partners unless it is necessary for the performance of the program. We cannot guarantee, though, that links to sites we don’t own or control have the same privacy practices, so we cannot assume responsibility for information our partners gather themselves. Be sure to read our partners’ privacy policies once you leave our website.
+This site contains links to other sites. We do not share any information with our partners unless it is necessary for the performance of a service. We cannot guarantee, though, that links to sites we don’t own or control have the same privacy practices, and we cannot assume responsibility for information our partners gather themselves. Be sure to read our partners’ privacy policies once you leave our website.
 
 **Security Safeguards**
 
@@ -63,7 +48,7 @@ We use extensive physical, electronic and procedural safeguards to make sure you
 
 It is our policy to send and receive personal information through encrypted channels only. All personal data used on this web site is processed using Secure Socket Layer (SSL) encryption.
 
-We will use or share only the minimum amount of personal health information or personally identifiable information needed for a particular purpose. We will continue to limit disclosures of your information in accordance with this Privacy Statement even after your relationship with us ends.
+We will use or share only the minimum amount of personal health information or personally identifiable information needed for a particular purpose. We will continue to limit disclosures of your information in accordance with this Privacy Policy even after your relationship with us ends.
 
 **Communications You May Receive**
 
@@ -73,7 +58,7 @@ We will send you service-related announcements on those occasions when it is nec
 
 The employer has the option to turn on or off communication templates for their participant population as a whole.
 
-Additionally, there are a few communication types that participants may control. For example, we offer a unique advanced alert service unmatched in the industry. Participants may elect to receive push notices sent through mobile text messaging. The participant may change these preferences at any time.
+Additionally, there are a few communication types that participants may control. For example, participants may elect to receive push notices sent through mobile text messaging. The participant may change these preferences at any time.
 
 We offer three options for receiving participant statements. The employer may choose whether participants receive paper statements, eStatements, or paper statements with eStatements. Employers may also allow participants to choose between paper and eStatements. Participants are automatically enrolled in paper statements but can opt into eStatements online.
 
@@ -91,11 +76,11 @@ We retain personal information necessary to provide you services. If you request
 
 **Privacy Complaints**
 
-If you feel we are not following our state policy, contact customer service at _(877) 292-4040_ , your state or local consumer protection office or the Better Business Bureau.
+If you feel we are not following state policy, contact customer service at _(877) 292-4040_ , your state or local consumer protection office or the Better Business Bureau.
 
 **Notification of Changes**
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change our privacy policy, we will post those changes to this privacy statement, our homepage, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We reserve the right to modify this Privacy Policy. When changes are made to our Privacy Policy, we will post notice of change to our homepage, or other places we deem appropriate. We will also update the Privacy Policy version date located at the top of this Privacy Policy.
 
 **Legal Disclaimer**
 
@@ -107,9 +92,9 @@ ConnectYourCare’s data is highly confidential, and therefore data should only 
 
 PLEASE READ THESE END USER TERMS OF USE CAREFULLY BEFORE ACCESSING OR USING OUR WEBSITES, SERVICES, OR MOBILE APPLICATIONS, DO NOT USE THE WEBSITE, SERVICE OR MOBILE APPLICATION IF YOU DO NOT AGREE TO THESE TERMS.
 
-Last updated: October 3, 2016
+Last updated: October 4, 2017
 
-These terms of Use (“Terms”) cover your use and access to our services, mobile application software and websites (“Services”). Our Privacy Policy explains how we collect and use your information while our Terms of Use Policy outlines your responsibilities when using our Services. By accessing the Site, Mobile Application and/or using the Services, you agree to abide by these terms of use, including our Privacy Policy (together, “End User Terms”). These End User Terms may be subject to change from time to time, and you are bound by the End User Terms in effect at the time you access the Services. If there is a material change to these End User Terms, we will notify you here by indicating a new effective date at the top of this page. We encourage you to refer to these End User Terms on an ongoing basis.
+These Terms of Use (“Terms”) cover your use and access to our services, mobile application software and websites (“Services”). Our Privacy Policy explains how we collect and use your information while our Terms of Use Policy outlines your responsibilities when using our Services. By accessing the Site, Mobile Application and/or using the Services, you agree to abide by these terms of use, including our Privacy Policy (together, “End User Terms”). These End User Terms may be subject to change from time to time, and you are bound by the End User Terms in effect at the time you access the Services. If there is a material change to these End User Terms, we will notify you here by indicating a new effective date at the top of this page. We encourage you to refer to these End User Terms on an ongoing basis.
 
 These End User Terms do not apply to the practices of other websites or companies that ConnectYourCare does not own or control, including but not limited to unaffiliated third party websites, services and applications that you may access through use of the Services (“Third Party Services”). We take no responsibility for the privacy policies or terms of use associated with any Third Party Services and we encourage you to review the applicable terms for each of these sites.
 
