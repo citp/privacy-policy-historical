@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigapurbalingga.gq privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129163959id_/http%3A//safelinkreview.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigapurbalingga.gq privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210222319id_/http%3A//safelinkreview.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Get website cost online
 
@@ -63,6 +63,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [SafeLinkReview](http://www.safelinkreview.com/)  
 [http://www.safelinkreview.com](http://www.safelinkreview.com/)  
 WellTech Developers Pvt. Ltd. - Head Office - Safelinkconverter.com Houston, Texas 77270 United States Indian Branch - Safelinkreview.com C934, Dwarka Sector 7 New Delhi - 110045 India  
-safelinkconverter@gmail.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on December 27, 2014
