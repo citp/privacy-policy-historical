@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mauldineconomics.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621103452id_/http%3A//www.mauldineconomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mauldineconomics.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210210733id_/http%3A//www.mauldineconomics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mauldin Economics
 
@@ -28,7 +28,7 @@ When you purchase a subscription from us, we will request certain Personal Infor
 
 By subscribing to _This Week in Geopolitics_ , you agree to allow us to share your email address with Geopolitical Futures, LLC.  Geopolitical Futures may send you information about their products and services.  
 
-We may share your Personal Information (but never your credit card or password information) with our affiliates or with third parties who provide services to us and agree to keep your Personal Information confidential.
+We may share your Personal Information (but never your credit card or password information) with our affiliates, John Mauldin and his affiliated companies  or with third parties who provide services to us and agree to keep your Personal Information confidential.
 
 #### (3) Mailing and Email Addresses.
 
@@ -36,13 +36,13 @@ We will use your mailing and email addresses to send you the publications you ha
 
 ### b.
 
-We may send you information and special offers on our other products. We may also, on occasion, use your mailing or email address to send you information or special offers from select companies that offer products, services or information we believe may be of interest to you. Though we hope you gain value from the email messages you receive, you can choose to opt out of receiving further messages by following the instructions provided at the bottom of each email.
+We may send you information and special offers on our other products. We may also, on occasion, use your mailing or email address to send you information or special offers from select companies that offer products, services or information we believe may be of interest to you or from companies that are affiliates of John Mauldin. Though we hope you gain value from the email messages you receive, you can choose to opt out of receiving further messages by following the instructions provided at the bottom of each email.
 
 You may, at any time, request to not have your mail and email information used for information and offers from us or other companies by contacting our customer service center at 1-877-631-6311 (1-602-626-3100 if calling internationally).
 
 ### c.
 
-We will only disclose your Personal Information to our employees, affiliates, agents, contractors, or other third parties who have a need to know such information for the uses listed above. Except as provided above, we will not disclose Personal Information to any other third parties.
+We will only disclose your Personal Information to our employees, affiliates, agents, contractors, or other third parties including John Mauldin affiliated companies who have a need to know such information for the uses listed above. Except as provided above, we will not disclose Personal Information to any other third parties.
 
 ### d.
 
@@ -88,35 +88,3 @@ PO Box 192495 | Dallas, Texas 75219
 (877) 631-6311 toll-free  
 (602) 625-3100 main  
 [subscribers@mauldineconomics.com](mailto:subscribers@mauldineconomics.com)
-
-## This rest of this notice is in regards to MauldinCircle.com which can be linked to from this site.
-
-Millennium Wave Investments, Mauldin Securities LLC, and Mauldin Solutions, LLC are providing this notice to explain our information collection practices and other important information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share and protect your personal information.
-
-### Information We Collect
-
-We collect nonpublic personal information about you from the following sources:
-
-  * Information we receive about you on applications and other forms including subscription documents, questionnaires and online registration forms. This information may include your name, address, telephone number, e-mail address, social security number, income and other financial data, investment experience, etc.
-  * Information about your transactions with us, our affiliates and others. This includes information about other products you may have purchased through Mauldin Economics, the Millennium Companies and others, information about additions, redemptions, etc.
-  * Information we receive about you from third parties such as brokers and selling agents. This includes information about their review of your investment application for products the Millennium Companies sponsor that such firms sell.
-
-
-
-### Disclosure of Your Information
-
-We do not disclose any personal or financial information about you, whether you are our current or former client, without your authorization or direction, except as disclosed below.
-
-We may share information about you with affiliated and nonaffiliated third parties, in order for them to assist us in providing services to you, and otherwise as permitted by law. You may not limit the sharing of this information. However, nonaffiliated third parties who receive information about you in order to assist us in providing services to you are restricted from using your information for any other purpose, except to the extent we have a solicitor or joint marketing arrangement with them, as further described below.
-
-We may also share information about you with our affiliated financial service companies as reasonably needed to provide you with the financial services that you have engaged us to perform, or otherwise to identify services which may serve your financial, investment or planning objectives. We may also disclose information that we collect about you with nonaffiliated third party financial services companies with which we have solicitor and joint marketing arrangements. If you are a resident of California, we will not share your information if you notify us that you do not wish us to share this information with non-affiliated third parties. A separate document entitled Important Privacy Choices for Consumers is included with this Privacy Notice that provides additional information under California law.
-
-If there is a change to our Privacy Policy, the new policy will be posted on our web site with a visible effective date, and is available by email or post when requested.
-
-### Confidentiality and Security
-
-We restrict access to nonpublic personal information about you to those employees and third parties who need to know that information to assist us in providing services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information.
-
-Please see <http://www.mauldincircle.com/disclosures/> for more information.
-
-Rev. 06/06/12
