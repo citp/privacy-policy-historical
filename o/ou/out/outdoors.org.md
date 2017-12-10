@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoors.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611172126id_/https%3A//www.outdoors.org/about/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoors.org privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210164001id_/https%3A//outdoors.org/about/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Appalachian Mountain Club
 
@@ -6,8 +6,7 @@ This site, [www.outdoors.org](https://web.archive.org/index.cfm), and related su
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-##  Gathering and Tracking Information  
-
+## Gathering and Tracking Information
 
 The AMC gathers two types of information about users: 
 
@@ -20,9 +19,9 @@ The AMC gathers two types of information about users:
 
 The AMC Gathers User Information In The Following Processes:
 
-###  Optional Voluntary Information
+### Optional Voluntary Information
 
-We offer the following free services, which require some type of voluntary submission of personal information by users: 
+We offer the following free services, which require some type of voluntary submission of personal information by users:
 
   1. Electronic newsletters policy: We offer free electronic newsletters to users. The AMC gathers the email addresses of users who voluntarily subscribe and its members. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page.
 
@@ -53,11 +52,9 @@ We may place a text file called a "cookie" in the browser files of your computer
 
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in our BBS, Community, online store, polling and surveys.
 
-Third parties may use cookies, web beacons, and similar technologies to collect or receive information from our website and elsewhere on the internet and use that information to provide measurement services and target ads. You can opt-out from the collection of web viewing data for interest-based advertising and other applicable uses, by some or all of the participating companies, at www.aboutads.info/choices.   
+Third parties may use cookies, web beacons, and similar technologies to collect or receive information from our website and elsewhere on the internet and use that information to provide measurement services and target ads. You can opt-out from the collection of web viewing data for interest-based advertising and other applicable uses, by some or all of the participating companies, at www.aboutads.info/choices.
 
-
-## Use of Information  
-
+## Use of Information
 
 The AMC uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
 
@@ -69,8 +66,7 @@ We use tracking information to determine which areas of our sites users like and
 
 The AMC creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked on their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
-## Sharing of the Information  
-
+## Sharing of the Information
 
 The AMC uses the above-described information to tailor our content to suit your needs and better understand our audience's demographics.
 
@@ -86,7 +82,7 @@ We may release personal information if required by law, for example, to comply w
 
 The AMC makes every effort to ensure the secure collection and transmission of sensitive user information using industry accepted data collection and encryption methodologies. For example, when entering personal address, phone number, and credit card information, we use Secure Socket Layer encryption to ensure unauthorized individuals cannot intercept and read this data over a network connection. You will know you are in secure mode when the padlock or key icon in the lower right-hand or left-hand corner of the computer screen appears in the locked position. In addition, when accessing a secure server, the first characters of the site address will change from "http" to "https." Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
 
-##  Opt-Out Policy
+## Opt-Out Policy
 
 We give users options wherever necessary and practical. Such choices include. 
 
@@ -96,31 +92,27 @@ We give users options wherever necessary and practical. Such choices include.
 
 
 
-## Your Consent   
-
+## Your Consent
 
 By using this site, you consent to the collection and use of this information by the AMC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
 **Questions:** Any questions on this privacy policy may be sent to: [webeditor@outdoors.org](mailto:webeditor@outdoors.org).
 
-## Member and Donor Policy  
-
+## Member and Donor Policy
 
 AMC may make members’ names and postal addresses available to other nonprofit organizations, outdoor retailers/catalogers, and/or outdoor publishers whose products, services, or activities may be of interest to you. These third parties are obligated to maintain the confidentiality of this information and are not authorized to use this information for any purpose other than offering you those products or services. If you would like to opt-out of having AMC share your name and postal address with third party organizations, please email [AMCInformation@outdoors.org](mailto:AMCinformation@outdoors.org) and use 'do not share' in the subject line of your email, or call Member Services at 1-800-372-1758.
 
-AMC does not share telephone numbers or email addresses with other organizations or companies for marketing purposes. 
+AMC does not share telephone numbers or email addresses with other organizations or companies for marketing purposes.
 
-AMC may provide member or donor information to research organizations hired by and working on behalf of AMC for the purpose of member/donor research that will help support AMC and our mission. 
+AMC may provide member or donor information to research organizations hired by and working on behalf of AMC for the purpose of member/donor research that will help support AMC and our mission.
 
-## Contacting Us  
-
+## Contacting Us
 
 Effective management of our email list to honor the interests of our members and donors is an important aspect of email communications program. Whether you would like to be removed from a specific campaign or an enewsletter, all of our communications include an ‘Remove me from this mailing ' link at the very bottom of the email
 
 To be removed from all AMC emails, please email [AMCInformation@outdoors.org](mailto:AMCinformation@outdoors.org) with ‘unsubscribe’ in the subject line.
 
-To be removed from our direct mail or telemarketing lists, email us at [AMCInformation@outdoors.org](mailto:AMCinformation@outdoors.org) and tell us your preference. Key options include:  
-
+To be removed from our direct mail or telemarketing lists, email us at [AMCInformation@outdoors.org](mailto:AMCinformation@outdoors.org) and tell us your preference. Key options include:
 
 1 Renewal only in the mail
 
@@ -128,7 +120,7 @@ To be removed from our direct mail or telemarketing lists, email us at [AMCInfor
 
   * No telemarketing 
 
-  * No AMC Outdoors magazine 
+  * No AMC Outdoors magazine
 
   * No membership renewals (email, mail, phone)
 
@@ -136,9 +128,8 @@ To be removed from our direct mail or telemarketing lists, email us at [AMCInfor
 
 
   
-If you want something else, please specify and we will find the best option to meet your needs.   
+If you want something else, please specify and we will find the best option to meet your needs. 
 
+If users have questions or concerns regarding this statement, they should contact us by email at [AMCInformation@outdoors.org](mailto:AMCinformation@outdoors.org), by calling Member Services at 1-800-372-1758, or by postal mail at: 10 City Square, Boston, MA 02129.
 
-If users have questions or concerns regarding this statement, they should contact us by email at [AMCInformation@outdoors.org](mailto:AMCinformation@outdoors.org), by calling Member Services at 1-800-372-1758, or by postal mail at: 5 Joy Street, Boston, MA 02108.
-
- **Thank you for supporting AMC. It is greatly appreciated!**
+**Thank you for supporting AMC. It is greatly appreciated!**
