@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154718id_/http%3A//www.qvcuk.com/content/legal-information/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210223342id_/http%3A//www.qvcuk.com/privacy.content.html) for the most accurate reproduction.*
 
 # Legal | Privacy Statement | QVCUK.com
 
