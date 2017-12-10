@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savills.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144119id_/http%3A//www.savills.com/footer/privacy-and-cookies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savills.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210211241id_/http%3A//www.savills.com/footer/privacy-and-cookies.aspx) for the most accurate reproduction.*
 
-# Savills trusted advisors to real estate clients around the globe | Privacy & Cookies
+# Savills | Privacy & Cookies
 
 Savills is a trading name of Savills plc. Savills is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
 
