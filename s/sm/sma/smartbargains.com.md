@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120005844id_/http%3A//www.smartbargains.com/cust/privacypolicy.asp%3Fd%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210221421id_/http%3A//www.smartbargains.com/cust/privacypolicy1328.html%3Fd%3D0) for the most accurate reproduction.*
 
 # SmartBargains Privacy Policy - Online Discounted Shopping
 
@@ -58,7 +58,7 @@ Our customers can use the special request page to inquire about products that th
 **Security**  
 SmartBargains.com takes precautions to protect our users' information. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the Secure Socket Layers (SSLs)encryption software. While on a secure page, such as our order form, a lock icon appears on the bottom of your Web browser. When you are not on a secure page, no lock icon will appear. To learn more about SSL, click here. In addition, the servers that we store personally identifiable information on are kept in a secure environment under restricted access.
 
-If you have any questions about the security at our website, send us an [Online Inquiry](https://web.archive.org/web/20161120005844id_/http%3A//www.smartbargains.com/cust/information.asp?d=0) for more info.
+If you have any questions about the security at our website, send us an [Online Inquiry](https://web.archive.org/web/20171210221421id_/http%3A//www.smartbargains.com/cust/information1328.html?d=0) for more info.
 
 **Supplementation of Information**  
 In order for SmartBargains.com to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from third party sources. When a user makes a purchase from any of these companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.
@@ -68,7 +68,7 @@ Established members will occasionally receive information on products, services,
 
 **Correcting/Updating/Deleting/Deactivating**  
 If a user's personally identifiable information changes (such as your zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate that user's personally identifiable information provided to us. This can be done by using the unsubscribe feature in our communication or by sending us an   
-[Online Inquiry](https://web.archive.org/web/20161120005844id_/http%3A//www.smartbargains.com/cust/information.asp?d=0).
+[Online Inquiry](https://web.archive.org/web/20171210221421id_/http%3A//www.smartbargains.com/cust/information1328.html?d=0).
 
 **Choice/Opt-Out**  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.
