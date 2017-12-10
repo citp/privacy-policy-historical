@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitediscuss.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065109id_/http%3A//websitediscuss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitediscuss.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210212438id_/http%3A//websitediscuss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
