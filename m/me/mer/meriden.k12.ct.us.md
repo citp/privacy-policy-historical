@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meriden.k12.ct.us privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029153701id_/http%3A//www.meridenk12.org/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meriden.k12.ct.us privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210221825id_/http%3A//www.meridenk12.org/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,4 +48,4 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 203.630.4171 or via our [online contact form](https://web.archive.org/ContactForm/).
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 203.630.4171 or via our [online contact form](https://web.archive.org/Contact/).
