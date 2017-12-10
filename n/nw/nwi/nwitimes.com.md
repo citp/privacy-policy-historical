@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwitimes.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608134234id_/http%3A//www.nwitimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwitimes.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210235225id_/http%3A//www.nwitimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy | nwitimes.com
 
