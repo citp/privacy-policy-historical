@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcci.edu privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123040032id_/http%3A//www.pcci.edu/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcci.edu privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210173514id_/http%3A//www.pcci.edu/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy · Pensacola Christian College
 
@@ -8,9 +8,9 @@ We respect the privacy of our users and the importance of the information they e
 
 Last Updated: October 10, 2013
 
-## Information we may collect
+### Information we may collect
 
-We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us, or (ii) from other PCC affiliates. We may combine the personal information that we receive from different sources.
+We may collect information that can identify you (“personal information”), such as your name and e-mail address, (i) when you (or other users) provide it to us, or (ii) from other PCC affiliates. We may combine the personal information that we receive from different sources.
 
 We also may collect other types of information in the following ways when you visit our website:
 
@@ -20,7 +20,7 @@ We also may collect other types of information in the following ways when you vi
 
 
 
-## How we may use information we collect
+### How we may use information we collect
 
 We may use information to:
 
@@ -38,22 +38,15 @@ We may use information to:
 
 
 
-## With whom we may share information we collect
+### With whom we may share information we collect
 
 We will not share your personal information with others except as indicated below. We may share personal information with:
-
-  * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other PCC affiliates;
-  * Other select companies whose products or services may be of interest to you; and
-  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
-
-
 
 We may share aggregated, non-personal information.
 
 We may allow third-party companies, including AddThis, Google, and DoubleClick, to collect certain anonymous information when you visit our website in part to inform, optimize, and serve ads based on your past visits to our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. We may use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on sites across the Internet. To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-## Your choices
+### Your choices
 
 You may choose:
 
@@ -64,10 +57,10 @@ You may choose:
 
 
 
-## Security
+### Security
 
 We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
 
-## Changes to our Privacy Policy
+### Changes to our Privacy Policy
 
 We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, changes will be posted in this Privacy Policy. Please revisit this site periodically to view the current version of our Privacy Policy.
