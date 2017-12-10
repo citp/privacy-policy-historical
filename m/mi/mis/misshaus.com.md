@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misshaus.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608023421id_/http%3A//www.misshaus.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misshaus.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210225450id_/http%3A//www.misshaus.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Official Missha
 
