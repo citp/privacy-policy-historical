@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fustany.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012521id_/http%3A//www.fustany.com/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fustany.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210142311id_/http%3A//fustany.com/en/about/privacy-policy) for the most accurate reproduction.*
 
 # Arab Fashion Magazine for Middle East Women, Beauty Tips, Latest
 
