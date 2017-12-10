@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the angrybirds.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607183636id_/http%3A//www.rovio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angrybirds.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210164356id_/http%3A//www.rovio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rovio.com
 
-[English](https://web.archive.org/privacy-policy) | [English (USA)](https://web.archive.org/privacy-policy-usa) | [En français](https://web.archive.org/privacy-policy-francaise) | [Suomeksi](https://web.archive.org/privacy-policy-suomeksi) | [På svenska](https://web.archive.org/privacy-policy-svenska)    
-[한국어](https://web.archive.org/privacy-policy-korean) |  [Portuguese](https://web.archive.org/politica-de-privacidade) |  [en Español](https://web.archive.org/privacy-policy-espanol) |  [auf Deutsch](https://web.archive.org/privacy-policy-auf-deutsch)
+[English](https://www.rovio.com/privacy-policy) | [English (USA)](https://www.rovio.com/privacy-policy-usa) | [En français](https://www.rovio.com/privacy-policy-francaise) | [Suomeksi](https://www.rovio.com/privacy-policy-suomeksi) | [På svenska](https://www.rovio.com/privacy-policy-svenska)    
+[한국어](https://www.rovio.com/privacy-policy-korean) |  [Portuguese](https://www.rovio.com/politica-de-privacidade) |  [en Español](https://www.rovio.com/privacy-policy-espanol) |  [auf Deutsch](https://www.rovio.com/privacy-policy-auf-deutsch)
 
 Last updated: April 2016
 
-## Rovio Entertainment Ltd Privacy Policy
+## Rovio Entertainment Corporation Privacy Policy
 
-Rovio Entertainment Ltd, including its affiliates (“ **Rovio** ”), collects, stores, and uses your personal information as a data controller in connection with and in order to provide and develop Rovio’s products, mobile applications, services and websites (together “ **Services** ”) according to this privacy policy (“ **Privacy Policy** ”).
+Rovio Entertainment Corporation, including its affiliates (“ **Rovio** ”), collects, stores, and uses your personal information as a data controller in connection with and in order to provide and develop Rovio’s products, mobile applications, services and websites (together “ **Services** ”) according to this privacy policy (“ **Privacy Policy** ”).
 
-For questions and information about Privacy Policy and data subject's rights, please contact us at privacy[a]rovio.com or alternatively at Rovio Entertainment Ltd, Legal Department, Keilaranta 7, 02150 Espoo, Finland.
+For questions and information about Privacy Policy and data subject's rights, please contact us at privacy[a]rovio.com or alternatively at Rovio Entertainment Corporation, Legal Department, Keilaranta 7, 02150 Espoo, Finland.
 
 For information about our privacy practices related to data from children, please see “Special Note About Children’s Privacy” below.
 
@@ -116,7 +116,7 @@ Rovio and its partners also collect data to assess general information about the
 Please note that Rovio’s partners may have their own policies related to tracking technologies for analytics and ad-serving purposes.  While   
 Rovio requires that companies comply with Rovio’s privacy policy before Rovio allows those companies to access our sites and services, Rovio does not actually control third-party data collection and use. Rovio encourages parents to review the list of operators below and to become familiar with those parties policies and practices.
 
-If you have additional questions about Rovio’s Privacy Practices related to children under the age of 13, please contact us at [privacy@rovio.com](mailto:privacy@rovio.com), or alternatively at Rovio Entertainment Ltd., Legal Department, Keilaranta 7, 02150 Espoo, Finland.
+If you have additional questions about Rovio’s Privacy Practices related to children under the age of 13, please contact us at [privacy@rovio.com](mailto:privacy@rovio.com), or alternatively at Rovio Entertainment Corporation, Legal Department, Keilaranta 7, 02150 Espoo, Finland.
 
 ## 13\. Further information
 
