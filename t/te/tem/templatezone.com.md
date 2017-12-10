@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatezone.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512040948id_/http%3A//www.templatezone.com/templatezone-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatezone.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210162545id_/http%3A//www.templatezone.com/templatezone-privacy-policy) for the most accurate reproduction.*
 
 # TemplateZone - 30 Day Money-Back Guarantee & Privacy Policy
 
