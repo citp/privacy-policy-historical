@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleachernation.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615172345id_/http%3A//www.bleachernation.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachernation.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210084819id_/http%3A//www.bleachernation.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Bleacher Nation | Chicago Cubs News, Rumors, and Baseball Goodness
 
@@ -64,13 +64,13 @@ If you decide to visit GMBM websites, your visit and any possible dispute over p
 
  **Effective Date of this Privacy Policy**
 
-This Privacy Policy is effective as of 5/17/2011 and last updated 12/27/2016.
+This Privacy Policy is effective as of 5/17/2011 and last updated 07/27/2017.
 
 ## Terms of Use and Commenting Policy
 
 The web pages available at bleachernation.com, and all linked pages, are owned and operated by GMBM, and are accessed by you under the Terms of Use described below.
 
-Please read these terms of use carefully before using GMBM websites or services. By accessing a GMBM websiet or using any part of the site, you agree to become bound by these terms of use. If you do not agree to all the terms and conditions, then you may not access a GMBM website, or use the content or any services offered. GMBM’s acceptance is expressly conditioned upon your assent to all of these terms and conditions; if these terms and conditions are considered an offer by GMBM, acceptance is expressly limited to these terms.
+Please read these terms of use carefully before using GMBM websites or services. By accessing a GMBM website or using any part of the site, you agree to become bound by these terms of use. If you do not agree to all the terms and conditions, then you may not access a GMBM website, or use the content or any services offered. GMBM’s acceptance is expressly conditioned upon your assent to all of these terms and conditions; if these terms and conditions are considered an offer by GMBM, acceptance is expressly limited to these terms.
 
 By using and/or registering for GMBM websites or services, you agree to the following terms of use.
 
