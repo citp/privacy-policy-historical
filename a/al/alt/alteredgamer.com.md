@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alteredgamer.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603220739id_/http%3A//www.alteredgamer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alteredgamer.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210212947id_/http%3A//www.alteredgamer.com/privacy.html) for the most accurate reproduction.*
 
 # alteredgamer.com | Privacy Policy
 
@@ -131,5 +131,5 @@ USA
 alteredgamer.com 
 
 Email:  
-contact@alteredgamer.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 
