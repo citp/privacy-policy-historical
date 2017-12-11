@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocabulary.cl privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073007id_/http%3A//www.vocabulary.cl/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabulary.cl privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211134143id_/http%3A//www.vocabulary.cl/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,12 +41,12 @@ Effective Date: 01 January 2008
 
 A variety of different English vocabulary topics including common words lists, charts and example sentences.
 
-[Learn Vocabulary](https://web.archive.org/web/20170606073007id_/http%3A//www.vocabulary.cl/Lists.htm "English Vocabulary Lists and Notes")
+[Learn Vocabulary](https://web.archive.org/web/20171211134143id_/http%3A//www.vocabulary.cl/Lists.htm "English Vocabulary Lists and Notes")
 
 ### Vocabulary Games
 
 Improve your English with our interactive English vocabulary games. There are many different topics and levels.
 
-[Play our Games](https://web.archive.org/web/20170606073007id_/http%3A//www.vocabulary.cl/Games.htm "English Vocabulary Games")
+[Play our Games](https://web.archive.org/web/20171211134143id_/http%3A//www.vocabulary.cl/Games.htm "English Vocabulary Games")
 
-[VOCABULARY NOTES](https://web.archive.org/web/20170606073007id_/http%3A//www.vocabulary.cl/Lists.htm "English Vocabulary Lists") [VOCABULARY GAMES](https://web.archive.org/web/20170606073007id_/http%3A//www.vocabulary.cl/Games.htm "English Vocabulary Games") [STUDENT SECTION](https://web.archive.org/web/20170606073007id_/http%3A//www.vocabulary.cl/StudentListsGames.htm "English Student Vocabulary Section") [RESOURCES](https://web.archive.org/web/20170606073007id_/http%3A//www.vocabulary.cl/useful-resources.htm "Useful Resources for Learning English") [ENGLISH GRAMMAR](http://www.grammar.cl/ "English Grammar")
+[VOCABULARY NOTES](https://web.archive.org/web/20171211134143id_/http%3A//www.vocabulary.cl/Lists.htm "English Vocabulary Lists") [VOCABULARY GAMES](https://web.archive.org/web/20171211134143id_/http%3A//www.vocabulary.cl/Games.htm "English Vocabulary Games") [STUDENT SECTION](https://web.archive.org/web/20171211134143id_/http%3A//www.vocabulary.cl/StudentListsGames.htm "English Student Vocabulary Section") [RESOURCES](https://web.archive.org/web/20171211134143id_/http%3A//www.vocabulary.cl/useful-resources.htm "Useful Resources for Learning English") [ENGLISH GRAMMAR](http://www.grammar.cl/ "English Grammar")
