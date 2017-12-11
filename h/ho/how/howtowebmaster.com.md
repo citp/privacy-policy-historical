@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtowebmaster.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611023317id_/http%3A//howtowebmaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtowebmaster.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211162746id_/http%3A//howtowebmaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,4 +21,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of howtowebmaster.com then you may contact us at support@howtowebmaster.com
+If you have any questions regarding the privacy policy of howtowebmaster.com then you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
