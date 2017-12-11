@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wowpopular.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612225054id_/http%3A//wowpopular.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowpopular.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211141637id_/http%3A//wowpopular.com/about/privacy) for the most accurate reproduction.*
 
-# Popular Gear, Talents, Enchants and Gems for World of Warcraft :: WowPopular :: Data for Warcraft Legion 7.2
+# Popular Gear, Talents, Enchants and Gems for World of Warcraft :: WowPopular :: Data for Warcraft Legion 7.3.5
 
 ## Privacy Policy
 
