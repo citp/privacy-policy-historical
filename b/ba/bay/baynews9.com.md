@@ -1,118 +1,77 @@
-> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614125844id_/http%3A//brighthouse.com/policies/online-services-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211133243id_/http%3A//www.baynews9.com/content/news/baynews9/news/article.html/content/news/articles/bn9/2017/4/7/bn9_privacy_policy.html) for the most accurate reproduction.*
 
-# Online Services Privacy Policy | Spectrum
+# Spectrum-BHN Privacy Policy
 
-  
-Updated December 2016
+The information BHN's parent, Charter Communications, Inc. (“Spectrum”) collects about you at this site and its sub domains (the "Site") is used to administer the Site and to provide information to visitors about the Site's various services and tools, and to provide general news, information and entertainment. Spectrum, together with Road Runner and Spectrum-affiliated cable operators, are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Spectrum."
 
-The information Bright House Networks, LLC’s parent, Charter Communications Operating, LLC and its subsidiaries providing the services (collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or “Spectrum”), collects about you at [brighthouse.com](https://brighthouse.com/), and the subdomains thereof (the "Site" or "Website") is used to administer the Website and to provide information to Website visitors about the Site’s various services and tools, and to provide general news, information, entertainment and ecommerce capability.
+## What Does This Privacy Policy Cover?
 
-**What Does This Privacy Policy Cover?**
+This Privacy Policy (the "Privacy Policy") applies to your use of the site. This Privacy Policy does not govern Spectrum's treatment of information it collects and receives about you other than through the Site, for example in connection with any other services provided to you by Spectrum. A privacy notice relating to some of the other services Spectrum provides is located at [help.twcable.com/html/policies.html](http://help.twcable.com/policies.html)   
 
-This Privacy Policy (the "Privacy Policy") applies to your use of the Website. This Privacy Policy does not govern Spectrum’s treatment of information it collects and receives about you other than through this Website, for example in connection with any other services provided to you by Spectrum. Spectrum also has a Subscriber Privacy Notice that applies to its subscription services, which is located at <http://brighthouse.com/policies/policies/customer-privacy.html>.
+This Privacy Policy covers how Spectrum treats information that Spectrum collects and receives about you via the Site, including the personally identifiable information we collect through the various features, services, and software that we use to provide the Site to you. Some of these offerings are provided by third parties who may provide you with additional information and choices about your privacy. If you choose to take advantage of these offerings, you should read the privacy policies of such third parties.
 
-This Privacy Policy covers how Spectrum treats information that Spectrum collects and receives about you via this Website, including the personal information we collect through the various features, services, and software that we use to provide the Site to you. Some of these offerings are provided by third parties who may provide you with additional information and choices about your privacy. If you choose to take advantage of these offerings, you should read the privacy policies of such third parties.
+## How Does Spectrum Collect and Use Information About You?
 
-**How Does Spectrum Collect and Use Information About You?**
+Absent your consent or request, Spectrum does not divulge personally identifiable information to third parties for their marketing or advertising purposes.
 
-Spectrum will not share your personally identifiable information with third parties for their marketing purposes without your consent.
+When you visit the Site, it is important that we can present our content in a way that makes sense to your screen, that we are able to conduct research, that we know which pages and activity on the Site are most popular and, in some cases, that compensation can be determined between us and our content and advertising partners. In order to do these types of things, we may collect data such as:
 
-The information learned from this Website's users will help Spectrum provide an enhanced online experience for its subscribers. Spectrum tracks certain information about users (as further described below), including, but not limited to, the type of browser being used by the visitor (e.g., Netscape, Internet Explorer), the type of operating system (e.g., Macintosh, Windows) in use by the visitor and the domain name of the visitor's Internet service provider (e.g., Spectrum Internet). By having this information, Web pages optimized for a particular visitor's preferences are automatically made available to that visitor. Other use of this information may include review of the number of visitors to this Site as well other internal and administrative purposes.
+  * The type of browser you use (e.g., Firefox, Internet Explorer, etc.);  
+The type of operating system you use (e.g., Apple Mac OS X, Windows XP, mobile Android or Apple OS, etc.);  
+The domain name of your Internet Service Provider (e.g., Road Runner);  
+Your Internet Protocol address;
+  * The referring page that linked you to us, the pages you visit on this Site; the web page you visit after this Site;
+  * The content and advertisements that you view and/or click on;
+  * Any search terms you enter on this Site or a referral site;
+  * If you are accessing this Site from a portable device, the device may provide this Site with your location, we will collect that information on pages where your location helps authenticate you or determine the page content. To the extent this information is stored; it will be stored only in anonymous or aggregate format.
+  * In delivering a video service on the Site, we may also track information about your use of the Site in a non-personally identifiable manner and we may combine this information with other non-personally identifiable information. None of this data will be used to personally identify you.
 
-Personally identifiable data (as further described below) about visitors to this Site are collected by Spectrum, for example, when users register or subscribe for newsletters, accounts or features, change services or service settings (such as your Digital Phone settings) on our Website, make online purchases, enter sweepstakes and contests, complete surveys, contribute to a chat room, message board, blog, or other similar open forum on our Website, submit a comment or question to us using a "contact us" or similar feature on our Website, or send us an e-mail, or in any other way submit personal information to us via our Website.
 
-We may use your personally identifiable information to send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you.
 
-Spectrum sites (other than this Site), as well as any other third party sites linked to from this Site, may each have different privacy policies and practices. Spectrum is not responsible for the information practices of non-Spectrum sites, or channels or areas of this Site, that are operated by third parties. You should carefully review these other privacy policies in order to determine how each third party may use any personal information you provide.
+Use of this Site is allowed only for people that are authenticated as Spectrum subscribers. In order to identify whether you are eligible to enter the Site and access particular content, we will collect information to authenticate you and the Spectrum services you purchase.
 
-Here are the types of information Spectrum gathers and how this information is used:
+From time-to-time, this Site may offer features that will require us to collect information about you in order for the features to work in an optimum way. These features can include the registration or subscription to newsletters, accounts or features on this Site, the making of online purchases, entering sweepstakes and contests, completing surveys, contributing to a chat room, message board, blog, or other similar open forum on this Site, the submission of comments or question to us using a "contact us" or similar feature on this Site, the sending to Spectrum of e-mail, or in any other way submitting personally identifiable information to us via or relating to this Site. If you do not take advantage of these opportunities, we will not collect information from you to support these options.
 
-**Website Usage Information**
+To the extent you provide us with information about you, we may use this information for internal purposes related to any Spectrum service or product and to send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you.
 
-Spectrum receives and stores certain types of website usage information whenever you interact with our Website. Here are the types of website usage information Spectrum gathers and how it is used.
+Spectrum sites (other than this Site), as well as any other third party content, sites, advertisements, applications and toolbars linked to from this Site, may each have their own privacy policies and practices. Spectrum is not responsible for the information practices of third parties. You should carefully review their privacy policies in order to determine how each third party may use any personally identifiable information you provide.
 
-**Cookies**
+Some of the information described above is collected or maintained through "cookies," which are small data files that are sent to your browser or related software from a web server and stored on your computer's hard drive. Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies (technically known as Flash "local shared objects"). However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Site or certain areas or features.
 
-We may use "cookies" to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a Web server and stored on your computer's hard drive. Cookies track where you travel on our Web site and what you look at and purchase. They may store, for example, the information in your shopping cart, and/or your username and/or password. All of these purposes serve to improve and personalize your experience on our Website.
+Many of the third party advertisers that place tracking tools on our Websites are members of programs that offer you additional choices regarding the collection and use of your information. You can learn more about the options available to limit these third parties’ collection and use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance](http://www.youradchoices.com/aboutus.aspx), as well as the webpages for [Facebook’s ad preferences tool](https://www.facebook.com/about/ads/) and [privacy policy](https://www.facebook.com/policy.php) .
 
-Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies (technically known as Flash “local shared objects”). However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web site or certain areas or features of the Web site.
+Content on this Site, including advertisements, may be recommended to you or customized to your interests and preferences, based on your personally identifiable information and web site usage information, including (but not limited to) non-personally identifying information, which we may obtain from you or from other sources.
 
-**Clear GIFs**
+We may make available a service through which you can receive messages on your wireless device via short message service ("SMS Service"). You must first register and provide all required information, which may include, for example, your name, SMS address, wireless carrier and, if fees are applicable to the SMS Service you subscribe to, billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier). We may also obtain the date, time and content of your messages in the course of your use of the SMS Service. We will use the information we obtain in connection with our SMS Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
 
-We may use "clear GIFs" (aka "Web beacons" or "pixel tags") or similar technologies, in the Website and/or in our communications with you, for example, to enable us to know whether you have visited a Web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a Web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual's viewing or receipt of a Web page or message.
+Any or all of the activities and collection described above may be performed on our behalf by our services providers.
 
-**IP Address and Clickstream Data**
+## Does Spectrum Ever Share Information with Other Parties?
 
-Our server automatically collects data about your server's Internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that's automatically assigned to your computer by your Internet service provider (i.e., if you are using your Spectrum Internet account, us) whenever you're on the Internet. When you request pages from our Website, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another site or a search engine); the pages you visit on this Website; the site you visit after this Website; the ads you see and/or click on; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Website or a referral site; and other Web usage activity and data logged by our Web servers. We use this information for internal system administration, to help diagnose problems with our server, and to administer our Website. Such information may also be used to gather broad demographic information, such as country of origin and Internet Service Provider.
+Spectrum will not disclose information about you to any other party except under circumstances like the ones described below, or as otherwise provided in this Privacy Policy or required or permitted by law:
 
-Ads and Content displayed to you on the Site may be customized to your interests and preferences, based on your personal information and web site usage information, including (but not limited to) non-personally identifying information, which we may obtain from you or from other sources.
+  * If you express a desire for us to do so, we may share your personally identifiable information with third parties (such as co-sponsors of our sweepstakes, contests and other offerings) pursuant to the service that you desire.
+  * Spectrum may share your information with its affiliates, service providers and other third parties that help to operate our business and this Site and deliver the products and services available on or through the Site.
+  * When you contribute to a "public" area or feature of this Site, such as a chat room, bulletin board, blog or other open forum that we may make available on or through this Site, the information that you submit will be made available to other users. For this reason, we recommend that you not submit any sensitive information on these areas of the Site, including your full name, home address, phone number, financial information, or other information that would enable users to locate you.
+  * Spectrum provides your information to trusted vendors who work on behalf of or with Spectrum and under confidentiality agreements. However, these companies do not have any independent right to share this information.
+  * When Spectrum believes it should, it will respond to subpoenas, court orders, legal process, and to establish or exercise Spectrum's legal rights or defend against legal claims.
+  * Spectrum shares information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to Spectrum's property or the physical safety of any person, violations of Spectrum's terms of use or as otherwise allowed by law.
+  * In the event that Spectrum, or any affiliated entity, or substantially all of its assets related to a particular geographical region, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, user information may be one of the transferred assets.
 
-Any or all of these activities with regard to web site usage Information may be performed on our behalf by our services providers.
 
-**Short Message Service**
 
-We may make available a service through which you can receive messages on your wireless device via short message service (“SMS Service”). If you subscribe to one of our SMS Services, you thereby agree to receive SMS Service messages at the address you provide for such purposes from Spectrum.
+Aggregate data and information that otherwise is not personally identifiable to you may be disclosed to others.
 
-Your wireless carrier’s standard rates apply to these messages, and you may change your mind at any time by following the instructions on the Site or in the message you receive. You represent that you are the owner or authorized user of the wireless device you use to sign up for the SMS Service, and that you are authorized to approve the applicable charges. To use the SMS Service, you must be 18 years of age or older and reside in the United States. You must first register and provide all required Personal Information, which may include, for example, your name, SMS address, wireless carrier and, if fees are applicable to the SMS Service you subscribe to, billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier). We may also obtain the date, time and content of your messages in the course of your use of the SMS Service. We will use the information we obtain in connection with our SMS Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
-
-You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. We may also access the content of your account and/or wireless account with your carrier for the purpose of identifying and resolving technical problems and/or service-related complaints.
-
-**Third Party Ad Services and Providers**
-
-We may use third-party advertising services companies to serve ads when you visit our Website. We are not using ad serving companies as of the date of this Privacy Policy, however we may add such companies at a later date, and if we do so we will revise this Privacy Policy accordingly.
-
-These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer Web site at <http://www.networkadvertising.org/understanding-online-advertising>.
-
-**Personal Information**
-
-Spectrum also receives and stores information that may personally identify you. Visitors to the Website who decide to register or login to [brighthouse.com](https://brighthouse.com/) **** in order to request a more personalized Website experience, or accept any of the various promotions and other product or service offerings (i.e., security downloads) that may be made available on the Website from time to time, may be asked to enter certain types of personally identifiable information that will allow Spectrum to provide those promotions and offerings to the visitor. The types of personally identifiable information that may be collected include: name, postal address, email address and phone number; Spectrum account number, CPNI customer code, Website login, user ID and/or password information; social security number; short message service or text message address or other wireless device address; instant messaging address; credit card or other payment information; demographic information and/or other information that may identify you as an individual or allow online or offline contact with you as an individual. Certain other information collected, such as security questions, may be used by Spectrum to verify your identity in the event that you lose or forget your Website login credentials.
-
-**Short Message Service**
-
-We may make available a service through which you can receive messages on your wireless device via short message service (“SMS Service”). If you subscribe to one of our SMS Services, you thereby agree to receive SMS Service messages at the address you provide for such purposes from Spectrum.
-
-Your wireless carrier’s standard rates apply to these messages, and you may change your mind at any time by following the instructions on the Site or in the message you receive. You represent that you are the owner or authorized user of the wireless device you use to sign up for the SMS Service, and that you are authorized to approve the applicable charges. To use the SMS Service, you must be 18 years of age or older and reside in the United States. You must first register and provide all required Personal Information, which may include, for example, your name, SMS address, wireless carrier and, if fees are applicable to the SMS Service you subscribe to, billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier). We may also obtain the date, time and content of your messages in the course of your use of the SMS Service. We will use the information we obtain in connection with our SMS Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
-
-You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. We may also access the content of your account and/or wireless account with your carrier for the purpose of identifying and resolving technical problems and/or service-related complaints.
-
-**Does Spectrum Ever Share Information with Other Parties?**
-
-Disclosure of Information to Outside Parties:
-
-Spectrum will not disclose information about you to any other party except under the circumstances as described below, or as otherwise provided in this Privacy Policy or required or permitted by law:
-
-If you give us your consent, we may share your personally identifiable information with third parties (such as co-sponsors of our sweepstakes, contests and other offerings) pursuant to the terms of your consent.
-
-Spectrum may share your information with its affiliates, service providers and other third parties that help to operate our business and this Website and deliver the products and services available on or through the Website.
-
-When you contribute to a "public" area or feature of our Website, such as a chat room, bulletin board, blog or other open forum that we may make available on or through our Website, the information that you submit will be made available to other users. For this reason, we recommend that you not submit any sensitive information on these areas of the Site, including your full name, home address, phone number, financial information, or other information that would enable users to locate you.
-
-Spectrum provides your information to trusted partners who work on behalf of or with Spectrum and under confidentiality agreements. However, these companies do not have any independent right to share this information.
-
-When Spectrum believes it should, it will respond to subpoenas, court orders, legal process, and to establish or exercise Spectrum’s legal rights or defend against legal claims.
-
-Spectrum shares information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to Spectrum’s property or the physical safety of any person, violations of Spectrum’s terms of use or as otherwise allowed by law.
-
-In the event that Spectrum, or any affiliated entity, or substantially all of its assets related to a particular geographical region, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, user information may be one of the transferred assets.
-
-**Security**
+## Security
 
 Spectrum will take steps to protect the security and integrity of all sensitive information provided to this Site. However, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be safe from intrusion by others, such as hackers.
 
-You are responsible for maintaining the strict confidentiality of your account password and any Website login or user ID information, and you shall be responsible for any access to or use of the Site by you or any person or entity using your password, login or user ID, whether or not such access or use has been authorized by or on behalf of you.
+You are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Site by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you.
 
-In the event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail.
+## Changes to This Privacy Policy
 
-Spectrum online products and services and applications are for the sole use of Spectrum customers in managing their accounts and the products and services they receive. If you choose to provide access to certain of your account data to third parties (for example, you forward voice mail sound files to third parties via our Digital Phone Manager product) Spectrum cannot be held responsible for any release of account or personal data that occurs as a result of such transmissions or access that you provide to others.
+We may change this Policy by amending the on-line version. If you continue to use this Site following any change in our Policy, you will have accepted the changes. If you do not agree to the changes, you should not use this Site. Any changes to this Notice are intended to be prospective only.
 
-**Changes to This Privacy Policy**
+## Contacting Us
 
-Spectrum will occasionally update this Privacy Policy at Spectrum’s sole discretion. Please check the Website frequently to see recent changes. Such changes and/or modifications shall become effective immediately upon posting thereof. Without limiting the foregoing, Spectrum may occasionally notify you by email about changes to the Website and/or this Privacy Policy, or provide notices of such changes by displaying notices or links to notices to you generally on the Website.
-
-**Contacting Us**
-
-If you have any questions regarding this Privacy Policy, or the privacy practices of Spectrum in connection with this Website, you may contact us at [privacy@charter.com](mailto:privacy@charter.com).
-
-**California Residents: Your California Privacy Rights**
-
-California law entitles our California customers to request additional information from a business which shares personally identifiable information with third parties for their direct marketing purposes. We do not share personally identifiable information with unaffiliated third parties, for their own direct marketing purposes. We may share personally identifiable information with some same-branded affiliates, however, for those affiliates’ direct marketing purposes. If you contact us, we will provide you with the names and addresses of our same-branded affiliates in California and a list of personally identifiable information that we may have shared with them.
+If you have any questions regarding this Privacy Policy, or the privacy practices of Spectrum in connection with this Site, you may contact us at [Privacy@Charter.com](mailto:Privacy@Charter.com).
