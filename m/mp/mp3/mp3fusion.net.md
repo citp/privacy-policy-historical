@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3fusion.net privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611203211id_/http%3A//mp3fusion.net/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3fusion.net privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211155332id_/http%3A//www.mp3fusion.net/page/privacy) for the most accurate reproduction.*
 
 # Free MP3 Downloads and Songs | Mp3Fusion.net - Privacy
 
