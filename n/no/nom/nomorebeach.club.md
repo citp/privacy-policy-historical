@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomorebeach.club privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522042125id_/http%3A//nomorebeach.club/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorebeach.club privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211223704id_/http%3A//nomorebeach.club/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies – No More Beach
 
