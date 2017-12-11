@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vid.me privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217162757id_/https%3A//vid.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vid.me privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211040054id_/https%3A//vid.me/privacy) for the most accurate reproduction.*
 
-# Privacy policy - vidme
+# Privacy policy - Vidme
 
 ##  Privacy Policy 
 
