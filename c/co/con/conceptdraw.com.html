@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the conceptdraw.com privacy policy that was archived on 2017-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170612150236id_/http%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the conceptdraw.com privacy policy that was archived on 2017-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171211015136id_/http%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -484,11 +484,6 @@ div.title.special .right-block > div {
     position: absolute;
     bottom: 0;
     width: 100%;
-}
-
-div.title.special.project-management-online .right-block > div {
-    top: 50%;
-    transform: translateY(-50%);
 }
 
 div.title.special.prefooter.store .right-block > div {
@@ -1448,6 +1443,10 @@ div.pp_pic_holder {
 
 div.pp_overlay {
     z-index: 999999999;
+}
+
+.pp_description {
+    display: none !important;
 }/*! normalize.css v3.0.2 | MIT License | git.io/normalize */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{height:auto}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:bold}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}</style><script>
     (function(e){"use strict";function r(t,n){this.opts=e.extend({handleWheel:!0,handleScrollbar:!0,handleKeys:!0,scrollEventKeys:[32,33,34,35,36,37,38,39,40]},n);this.$container=t;this.$document=e(document);this.lockToScrollPos=[0,0];this.disable()}var t,n;n=r.prototype;n.disable=function(){var e=this;e.opts.handleWheel&&e.$container.bind("mousewheel.disablescroll DOMMouseScroll.disablescroll touchmove.disablescroll",e._handleWheel);if(e.opts.handleScrollbar){e.lockToScrollPos=[e.$container.scrollLeft(),e.$container.scrollTop()];e.$container.bind("scroll.disablescroll",function(){e._handleScrollbar.call(e)})}e.opts.handleKeys&&e.$document.bind("keydown.disablescroll",function(t){e._handleKeydown.call(e,t)})};n.undo=function(){var e=this;e.$container.unbind(".disablescroll");e.opts.handleKeys&&e.$document.unbind(".disablescroll")};n._handleWheel=function(e){e.preventDefault()};n._handleScrollbar=function(){this.$container.scrollLeft(this.lockToScrollPos[0]);this.$container.scrollTop(this.lockToScrollPos[1])};n._handleKeydown=function(e){for(var t=0;t<this.opts.scrollEventKeys.length;t++)if(e.keyCode===this.opts.scrollEventKeys[t]){e.preventDefault();return}};e.fn.disablescroll=function(e){!t&&(typeof e=="object"||!e)&&(t=new r(this,e));t&&typeof e=="undefined"?t.disable():t&&t[e]&&t[e].call(t)};window.UserScrollDisabler=r})(jQuery);
     (function($) {
@@ -1471,7 +1470,7 @@ div.pp_overlay {
         if (currPage.indexOf('project-management-online') > -1) {
             $(".menu-center a[href*='project-management-online']").addClass('selected');
         } else {
-            currPage = currPage.substring(0, currPage.indexOf("/", currPage.indexOf("/") + 1));
+        currPage = currPage.substring(0, currPage.indexOf("/", currPage.indexOf("/") + 1));
             $(".menu-center a[href*='"+currPage+"']").first().addClass('selected');
         }
     });
@@ -1600,7 +1599,7 @@ div.pp_overlay {
     }
     .menu > .menu-center > a:last-child{
         border: 1px #84A5D7 solid;
-        border-radius: 6px;
+        border-radius: 3px;
         height: 28px;
         line-height: 2;
         font-size: 13px;
@@ -2216,7 +2215,6 @@ div.pp_overlay {
                 <div class="item"><a href="/products/drawing-tool/">ConceptDraw PRO&nbsp;11</a></div>
                 <div class="item"><a href="/products/mind-map-software/">ConceptDraw MINDMAP&nbsp;9</a></div>
                 <div class="item"><a href="/products/project-management-software/">ConceptDraw PROJECT&nbsp;8</a></div>
-                <div class="item"><a href="/products/project-management-online">ConceptDraw PLAN</a></div>
                 <div class="item"><a href="/products/store">ConceptDraw STORE</a></div>
             </div>
             <div class="col">
@@ -2261,6 +2259,7 @@ div.pp_overlay {
             </div>
             <div class="col">
                 <div class="title"><a href="/products/contact-us">CS Odessa</a></div>
+                <div class="item"><a href="/about">About Us</a></div>
                 <div class="item"><a href="/products/contact-us">Contact Us</a></div>
                 <div class="item"><a href="/products/CS-Odessa-Identity">CS Odessa Identity</a></div>
             </div>
@@ -2277,13 +2276,12 @@ div.pp_overlay {
     </div>
 </div>
 <div class="menu_overlay"></div>
-<div class="productsPanel" id="productsPanel"><a href="/products/office"><div><img width="auto" height="100" src="/products/icons/office4/svg/OFFICE4-LOGO-WHITE.svg" alt="ConceptDraw OFFICE 4"></div></a><a href="/products/drawing-tool"><div><img width="auto" height="100" src="/products/icons/office4/svg/PRO11-LOGO-WHITE.svg" alt="ConceptDraw PRO 11"></div></a><a href="/products/mind-map-software/"><div><img width="auto" height="100" src="/products/icons/office4/svg/MINDMAP9-LOGO-WHITE.svg" alt="ConceptDraw MINDMAP 9"></div></a><a href="/products/project-management-software/"><div><img width="auto" height="100" src="/products/icons/office4/svg/PROJECT8-LOGO-WHITE.svg" alt="ConceptDraw PROJECT 8"></div></a><a href="/products/store/"><div><img width="auto" height="100" src="/products/icons/office4/svg/STORE-LOGO-WHITE.svg" alt="ConceptDraw STORE"></div></a></div><div class="productsPanel" id="productsPanelMobile"><a href="/products/office"><div><img width="auto" height="55" src="/products/icons/office4/OFF-LOGO-WHITE_mobile.png" alt="ConceptDraw OFFICE 4"></div></a><a href="/products/drawing-tool"><div><img width="auto" height="55" src="/products/icons/office4/PRO-LOGO-WHITE_mobile.png" alt="ConceptDraw PRO 11"></div></a><a href="/products/mind-map-software/"><div><img width="auto" height="55" src="/products/icons/office4/MM-LOGO-WHITE_mobile.png" alt="ConceptDraw MINDMAP 9"></div></a><a href="/products/project-management-software/"><div><img width="auto" height="55" src="/products/icons/office4/PRJ-LOGO-WHITE_mobile.png" alt="ConceptDraw PROJECT 8"></div></a><a href="/products/store/"><div><img width="auto" height="55" src="/products/icons/office4/STORE-LOGO-WHITE_mobile.png" alt="ConceptDraw STORE"></div></a></div><div class="article-body entry-content ">
+<!--googleoff: snippet--> <div class="productsPanel" id="productsPanel"><a href="/products/office"><div><img width="auto" height="100" src="/products/icons/office4/svg/OFFICE4-LOGO-WHITE.svg" alt="ConceptDraw OFFICE 4"></div></a><a href="/products/drawing-tool"><div><img width="auto" height="100" src="/products/icons/office4/svg/PRO11-LOGO-WHITE.svg" alt="ConceptDraw PRO 11"></div></a><a href="/products/mind-map-software/"><div><img width="auto" height="100" src="/products/icons/office4/svg/MINDMAP9-LOGO-WHITE.svg" alt="ConceptDraw MINDMAP 9"></div></a><a href="/products/project-management-software/"><div><img width="auto" height="100" src="/products/icons/office4/svg/PROJECT8-LOGO-WHITE.svg" alt="ConceptDraw PROJECT 8"></div></a><a href="/products/store/"><div><img width="auto" height="100" src="/products/icons/office4/svg/STORE-LOGO-WHITE.svg" alt="ConceptDraw STORE"></div></a></div> <!--googleon: snippet--><!--googleoff: snippet--> <div class="productsPanel" id="productsPanelMobile"><a href="/products/office"><div><img width="auto" height="55" src="/products/icons/office4/OFF-LOGO-WHITE_mobile.png" alt="ConceptDraw OFFICE 4"></div></a><a href="/products/drawing-tool"><div><img width="auto" height="55" src="/products/icons/office4/PRO-LOGO-WHITE_mobile.png" alt="ConceptDraw PRO 11"></div></a><a href="/products/mind-map-software/"><div><img width="auto" height="55" src="/products/icons/office4/MM-LOGO-WHITE_mobile.png" alt="ConceptDraw MINDMAP 9"></div></a><a href="/products/project-management-software/"><div><img width="auto" height="55" src="/products/icons/office4/PRJ-LOGO-WHITE_mobile.png" alt="ConceptDraw PROJECT 8"></div></a><a href="/products/store/"><div><img width="auto" height="55" src="/products/icons/office4/STORE-LOGO-WHITE_mobile.png" alt="ConceptDraw STORE"></div></a></div> <!--googleon: snippet--><div class="article-body entry-content ">
 <div class="article">
 <div class="title no-icon">
 <h1>Privacy</h1>
 </div>
 <div class="regular">
-
 
 
 <h2>CS Odessa Personal Privacy Policy</h2>                        
@@ -2326,7 +2324,12 @@ div.pp_overlay {
 
 <p class="normal">Unless you expressly notify&nbsp;us to&nbsp;the&nbsp;contrary, we&nbsp;will maintain your personal data for&nbsp;future ordering and&nbsp;individual marketing purposes, after the&nbsp;specified services or&nbsp;products have been&nbsp;provided.</p>                        
 
-<p class="normal">Beyond this, our authorization to&nbsp;use and&nbsp;share this data will be&nbsp;restricted to&nbsp;the&nbsp;respective individual consent you&nbsp;grant&nbsp;us.</p>                        
+<p class="normal">Beyond this, our authorization to&nbsp;use and&nbsp;share this data will be&nbsp;restricted to&nbsp;the&nbsp;respective individual consent you&nbsp;grant&nbsp;us.</p> 
+
+<h3>Online Services</h3> 
+<p class="normal">You retain full rights of your data uploaded to the online services. We store your data  and only provide access by registration information of you and other registered users you chose to collaborate with. We will not sell, share, or rent your data to others in ways different from those disclosed in this Policy.</p>
+<p class="normal">We use outside vendors and hosting companies to provide the necessary hardware, software, networking, storage, and related technology required to run our services. We retain full rights of ownership on our software, designs, code, databases, and any other internally developed application to provide our online services.</p>
+                       
 
 <h3>Electronic Product&nbsp;Registration</h3>                        
 
@@ -2380,10 +2383,9 @@ div.pp_overlay {
 <li>Odessa 65044, Ukraine</li>                        
 <li><a href="mailto:support@conceptdraw.com">support@conceptdraw.com</a></li>                        
 </ul>
-
 </div>
 </div>
-</div><div class="pre-footer"><a href="/products/terms-of-service">TOS<br><br></a></div><div class="footer"><div class="foo-left"><div class="top"><span>CS Odessa</span></div><div class="bottom"><span>Plan. Do. Communicate.</span></div></div><div class="foo-right"><div class="top"><a href="/products/contact-us">Contact Us</a><span> | </span><a href="http://helpdesk.conceptdraw.com/ticket.php">Feedback</a><span> | </span><a href="/products/eula">EULA</a><span> | </span><a href="/products/privacy">Privacy</a><span> | </span><a href="/products/tou">TOU</a><span> | </span><a href="/products/terms-of-service">TOS</a></div><div class="bottom"><span>© 1993 — 2017 CS Odessa Corp.</span></div></div></div><link href="/products/css/fonts.min.css" rel="stylesheet" type="text/css">
+</div><div class="footer"><div class="foo-left"><div class="top"><span>CS Odessa</span></div><div class="bottom"><span>Plan. Do. Communicate.</span></div></div><div class="foo-right"><div class="top"><a href="/products/contact-us">Contact Us</a><span> | </span><a href="http://helpdesk.conceptdraw.com/ticket.php">Feedback</a><span> | </span><a href="/products/eula">EULA</a><span> | </span><a href="/products/privacy">Privacy</a><span> | </span><a href="/products/tou">TOU</a><span> | </span><a href="/products/terms-of-service">TOS</a></div><div class="bottom"><span>© 1993 — 2017 CS Odessa Corp.</span></div></div></div><link href="/products/css/fonts.min.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 
    var _gaq = _gaq || [];
