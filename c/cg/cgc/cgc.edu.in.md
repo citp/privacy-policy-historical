@@ -1,45 +1,19 @@
-> *The following text is extracted and transformed from the cgc.edu.in privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201012850id_/http%3A//www.cgc.edu.in/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgc.edu.in privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211055404id_/https%3A//www.cgc.edu.in/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policies
+# Privacy Policies | CGC | Landran
 
-Thanks for visiting website of Chandigarh Group of Collages (CGC) and reviewing our privacy policy.
+## Privacy Policy
 
-We collect no personal information, like names or addresses, when you visit our website. If you choose to provide that information to us, it is only used to fulfill your request for information.
+Chandigarh Group of Colleges is committed to the responsible use and protection of any personally identifiable information that Chandigarh Group of Colleges may collect through this website. Throughout the policy, we refer to information that personally identifies you as “personal information.”
 
-We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website.
+## Gathering and Sources of Information
 
-Information collected and stored automatically when you browse, read pages, or download information on this website, we automatically gather and store certain technical information about your visit. This information never identifies who you are.
+You may visit our website without disclosing any personal information about yourself. However, we may offer you options for further information which will require you to share with us certain personal information about yourself. The categories of personal information we may request include your name, address, telephone number, e-mail address and other contact information. If you submit any personal information, you can be assured that we shall not sell, lease, or share your personal information with or to any third parties, except as set forth in this policy. We may use the personal information that you submit and other data collected through the website to contact you regarding the website and the services provided by Chandigarh Group of Colleges and its affiliates, and to provide you with updates regarding the website and to otherwise provide you with information or services that you may request. We may also from time to time use your personal information to send you e-mail messages or marketing materials regarding the services of Chandigarh Group of Colleges and its affiliates. Instructions for opting out will be included in those communications. We may collect some information on our Websites through the use of cookies (i.e., we may identify pages on our web-sites visited by customers), and may automatically collect certain individually identifying information (i.e., IP addresses or processor serial numbers), which are not associated with any personal information provided by you, to track your online activities, including but not limited to submissions and information requests. This information is only personally identifiable if you have chosen to identify yourself. The Chandigarh Group of Colleges website is not intended for children under the age of 13, and does not knowingly collect any private information from children.
 
-The information we collect and store about your visit is listed below:
+## Sharing Information
 
-•        The Internet domain of your service provider vider (e.g. mtnl.net.in) and IP address (an IP address is a number that is automatically assigned to your computer whenever you’re surfing the web) from which you access our website.
+Chandigarh Group of Colleges may disclose the personal information collected from this website to third parties in the following circumstances: • Chandigarh Group of Colleges do not sell your information to anyone. • Chandigarh Group of Colleges do not disclose information to non-affiliated third parties, except as: permitted by you; required by law; and as follows: 1\. Chandigarh Group of Colleges may disclose personal information to our affiliates, and to other companies that help us process your requests or services, including companies with which we may contract to perform business functions and services on our behalf. Examples of such functions may include, hosting our Internet servers, analyzing information, providing legal, accounting, administrative or marketing services. 2\. Chandigarh Group of Colleges may disclose or report personal information in limited circumstances where we believe in good faith that disclosure is required or permitted under law (for example, to cooperate with government agencies or law enforcement authorities, resolve consumer disputes, or for institutional risk control or as consented to by you) or where we are otherwise authorized by you. 3\. Chandigarh Group of Colleges may employ other companies and individuals to perform functions on our behalf, which may include fulfilling orders, delivering packages, sending postal mail and e-mail correspondence, and providing customer service. These third-party service providers will have access to personal information as needed to perform their functions, but may not use it for other purposes. 4\. Other than as set out above, you will receive notice when your personal information may go to third parties, and you will have an opportunity to opt not to share your information. If you do not want us to share your information as outlined above, or if you would like to review or revise any personal information that you have submitted, please let us know, by sending an e-mail message to info@cgc.edu.in or by mail at Chandigarh Group of Colleges, Sector 112, Landran, Greater Mohali, Punjab 14307 (India).
 
-•        The type of browser (such as Firefox, Netscape, or Internet Explorer) and operating system (Windows, Linux) used to access our site .
+## Protecting Information
 
-•        The date and time you accessed our site.
-
-•        The pages/URLs you have visited and
-
-•        If you reached this website from another website, the address of that referring website.
-
-This information is only used to help us make the site more useful for you. With this data, we learn about the number of visitors to our site and the types of technology our visitors use. We never track of record information about individuals & their visits.
-
-**Cookies**
-
-When you visit some websites, they may download small pieces of software on your computer/browsing device known as cookies. Some cookies collect personal information to recognise your computer in the future. We only use non-persistent cookies or “per- session cookies”.
-
-Per-session cookies serve technical purposes, like providing seamless navigation through this website. These cookies do not collect personal information on users and they are deleted as soon as you leave our website. The cookies do not permanently record data and they are not stored on your computer’s hard drive. The cookies are stored in memory and are only available during an active browser session. Again, once you close your browser, the cookie disappears.
-
-**If you send us personal information**
-
-We do not collect personal information for any purpose other than to respond to you (for example, to respond to your questions or provide subscriptions you have chosen). If you choose to provide us with personal information— like filling out a Contact Us form, with an e-mail address or postal address, and submitting it to us through the website—we use that information to respond to your message, and to help you get the information you’ve requested. We only share the information you give us with another Government agency if your question relates to that agency, or as otherwise required by law.
-
-Our website never collects information or creates individual profiles for commercial marketing. While you must provide an e-mail address for a localised response to any incoming questions or comments to us, we recommend that you do NOT include any other personal information.
-
-**Site Security**
-
-For site security purposes and to ensure that this service vice remains available to all users, this Government computer system employs commercial software programs to monitor network traffic to identify unauthorised attempts to upload or change information, or otherwise cause damage.
-
-•        Except for authorised law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular deletion.
-
-•        Unauthorised attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Indian IT Act.
+Chandigarh Group of Colleges may receive personal information regarding you that you submit through the use of and accessed through the Chandigarh Group of Colleges website or otherwise. Such personal information shall be secured by Chandigarh Group of Colleges firewalls and other reasonable safeguards designed to keep such information confidential and secure, however, as there is no guarantee that information transmitted online will remain secure, Chandigarh Group of Colleges cannot warrant the security of any personal information that you transmit online from unlawful interception by third parties. Chandigarh Group of Colleges has and will implement reasonable safeguards, from time to time, aimed at limiting the risk of such interception. Such safeguards may include: • Software programs that monitor network traffic to identify and prevent unauthorized access. • Encryption technology designed to protect certain sensitive information transmitted through the Internet. • Enacting and enforcing an internal safeguard policy that is provided to each employee. • Network and systems protections that restrict access to Chandigarh Group of Colleges network. • Policy Changes Should Chandigarh Group of Colleges make any changes to this Website Privacy Policy, we shall post the same on this Website for your review. You should check our website frequently to see recent changes.
