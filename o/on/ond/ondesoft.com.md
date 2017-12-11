@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ondesoft.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229155324id_/http%3A//www.ondesoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondesoft.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211052805id_/http%3A//www.ondesoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Ondesoft Corporation - Privacy Policy
 
-[Home](https://web.archive.org/web/20161229155324id_/http%3A//www.ondesoft.com/index.html) > Ondesoft Customer Privacy Policy
+[Home](https://web.archive.org/web/20171211052805id_/http%3A//www.ondesoft.com/index.html) > Ondesoft Customer Privacy Policy
 
 When you visit our website, purchase Ondesoft products and services, or when you contact our sales or supporting colleagues, Ondesoft 's collection, use, and disclosure of your personal information occurs.
 
@@ -88,5 +88,5 @@ Ondesoft makes it easy for you to keep your personal information accurate, compl
 
 * * *
 
-If you have any questions or concerns about Ondesoft’s Privacy Policy, please [contact us](https://web.archive.org/web/20161229155324id_/http%3A//www.ondesoft.com/contact.html).  
+If you have any questions or concerns about Ondesoft’s Privacy Policy, please [contact us](https://web.archive.org/web/20171211052805id_/http%3A//www.ondesoft.com/contact.html).  
 Ondesoft may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
