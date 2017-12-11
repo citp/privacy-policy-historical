@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jdpoweronline.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629225058id_/http%3A//jdpoweronline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdpoweronline.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211055118id_/http%3A//jdpoweronline.com/privacy) for the most accurate reproduction.*
 
 # J.D. Power Privacy and Cookie Notice
 
-**English   |  [简体中文](https://web.archive.org/web/20170629225058id_/http%3A//jdpoweronline.com/Default_ZH.htm)  |  [Français](https://web.archive.org/web/20170629225058id_/http%3A//jdpoweronline.com/Default_FR.htm)  |  [Deutsch](https://web.archive.org/web/20170629225058id_/http%3A//jdpoweronline.com/Default_DE.htm)  |  [Português](https://web.archive.org/web/20170629225058id_/http%3A//jdpoweronline.com/Default_PT.htm)  |  [Español](https://web.archive.org/web/20170629225058id_/http%3A//jdpoweronline.com/Default_ES.htm)  |  [日本語](https://web.archive.org/web/20170629225058id_/http%3A//jdpoweronline.com/Default_JA.htm)**
+**English   |  [简体中文](https://web.archive.org/web/20171211055118id_/http://www.jdpoweronline.com/privacy/Default_ZH.htm)  |  [Français](https://web.archive.org/web/20171211055118id_/http://www.jdpoweronline.com/privacy/Default_FR.htm)  |  [Deutsch](https://web.archive.org/web/20171211055118id_/http://www.jdpoweronline.com/privacy/Default_DE.htm)  |  [Português](https://web.archive.org/web/20171211055118id_/http://www.jdpoweronline.com/privacy/Default_PT.htm)  |  [Español](https://web.archive.org/web/20171211055118id_/http://www.jdpoweronline.com/privacy/Default_ES.htm)  |  [日本語](https://web.archive.org/web/20171211055118id_/http://www.jdpoweronline.com/privacy/Default_JA.htm)**
 
 At J.D. Power and Associates ("JDP"), we conduct market research across a variety of industries to understand the Voice of the Customer.
 
