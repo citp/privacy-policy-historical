@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialbrite.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611133130id_/http%3A//www.socialbrite.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbrite.org privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211213940id_/http%3A//www.socialbrite.org/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Socialbrite
 
