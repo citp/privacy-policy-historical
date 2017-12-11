@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisemindhealthybody.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145932id_/http%3A//wisemindhealthybody.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisemindhealthybody.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211081406id_/http%3A//wisemindhealthybody.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wise Mind Healthy Body
 
