@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xosara.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617035455id_/http%3A//www.xosara.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xosara.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212005055id_/http%3A//www.xosara.com/privacy) for the most accurate reproduction.*
 
 # About Us, Privacy Policy and Terms of Use on Xosara.com
 
@@ -73,7 +73,7 @@ Advertising on **xosara.com** offers advertisement places in several places acro
 
 ### Opt out Mechanism
 
-All sites using advertisements provided by companies that adhered to the Network Advertising Initiative (NAI) must provide an opt-out button that will allow users to no longer receive online advertising. In order to opt out from the advertisements provided by our NAI compliant partners, please use the opt-out form provided by the organization by [clicking here](http://www.networkadvertising.org/choices/). 
+All sites using advertisements provided by companies that adhered to the Network Advertising Initiative (NAI) must provide an opt-out button that will allow users to no longer receive online advertising. In order to opt out from the advertisements provided by our NAI compliant partners, please use the opt-out form provided by the organization by [clicking here](https://www.networkadvertising.org/choices/). 
 
 ### Changes to this Privacy Policy
 
