@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clumsycrooks.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615114257id_/http%3A//www.clumsycrooks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clumsycrooks.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211193341id_/http%3A//clumsycrooks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Clumsy Crooks
 
@@ -27,3 +27,18 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 We reserve the right to change our privacy policy at any time by posting revisions on the ClumsyCrooks.com web site. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party.
 
 As our subscribers' needs change, we may find it necessary to amend or revise this Privacy Policy. Any such revisions or additions will be posted on this page. Please re-visit this page from time to time to make sure that you are aware of any additions or revisions to this policy. If you have any concern about privacy, please send a thorough description via e-mail and we try to resolve it.
+
+  
+  
+  
+
+
+A caller reported a man running naked through a store on Walden Avenue while another man was videotaping him.
+
+[](https://web.archive.org/mugshots/tracey_gold.html) |  **Tracey Gold**
+
+Actress Tracey Gold, best known as Carol Seaver on TV's Growing Pains and whose battle with anorexia was highly publicized, was arrested in September 2004 for drunk driving. The California Highway Patrol busted thirty-five-year-old Gold and charged her with three felony counts: driving under the influence of alcohol causing bodily injury, driving with a blood alcohol level greater than 0.08 causing injury, and felony child endangerment. A CHP spokesman said that Gold was driving on Route 118 at about 11:51 PM when she lost control of the vehicle, rolling her Yukon down an embankment on a California highway. Luckily, Gold, her husband, and her two youngest sons (ages five and four months) were not seriously injured. However, her oldest child, 7-year-old Sage, suffered a broken clavicle and a head laceration. After CHP officers administered sobriety tests, Gold was arrested on the DUI charge. The actress first pleaded not guilty to the charges, but later changed her plea to guilty. She was sentenced to one month in a work release program, 240 hours of community service, and three years' probation, which will end in 2007. The mug shot below was taken by the Ventura County Sheriff's Office after her arrest.
+
+[More Mug Shots](https://web.archive.org/mugshots/)  
+  
+---|---
