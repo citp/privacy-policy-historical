@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizdoo.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609014946id_/http%3A//quizdoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizdoo.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211124946id_/http%3A//quizdoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | QuizDoo
 
