@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentrix.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230155856id_/http%3A//www.writerhelpwanted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentrix.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211020906id_/https%3A//www.writerhelpwanted.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ⋆WriterHelpWanted.com
 
