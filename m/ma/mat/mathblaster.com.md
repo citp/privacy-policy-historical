@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathblaster.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624032027id_/http%3A//www.mathblaster.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathblaster.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211075154id_/http%3A//www.mathblaster.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Math Blaster
 
@@ -6,7 +6,7 @@
 
 Our Privacy Policy applies to and governs all websites, games, online services, and software made available at all websites owned and operated by JumpStart Games, Inc. (collectively, the “Sites” and, individually, “Site”), on mobile devices, tablets, personal computers and other devices. By accessing any of the Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Sites collect from users, including children, when they visit the Sites; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected. 
 
-Our users’ privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Sites permitting such users. Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries. In all cases, younger users should always check with their parents or guardians before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of personal information. In order for a child to fully participate on any of the Sites, no personally identifiable information is collected from a child until such time as verifiable parental consent is received from the child’s parent or guardian. For more information about how the Sites deal with users under the age of 13, click [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy/ka-and-coppa "KA and COPPA"). In order to register on our site as a user, the child’s parent or guardian must activate their account. Users may choose to play as Guests with no information collected, nor game play history recorded and prizes or gems collected may not be available upon the users return. 
+Our users’ privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Sites permitting such users. Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries. In all cases, younger users should always check with their parents or guardians before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of personal information. In order for a child to fully participate on any of the Sites, no personally identifiable information is collected from a child until such time as verifiable parental consent is received from the child’s parent or guardian. For more information about how the Sites deal with users under the age of 13, click [here](http://www.mathblaster.com/policy/kaandcoppa.aspx "KA and COPPA"). In order to register on our site as a user, the child’s parent or guardian must activate their account. Users may choose to play as Guests with no information collected, nor game play history recorded and prizes or gems collected may not be available upon the users return. 
 
 ## SUMMARY.
 
@@ -24,7 +24,7 @@ We only collect information necessary for the activities on the Sites. We do not
 
 
 
-For more detailed information regarding the information we collect, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioni).  
+For more detailed information regarding the information we collect, please go [here](http://www.mathblaster.com/privacypolicy.aspx#sectioni).  
   
 ---|---  
   
@@ -43,7 +43,7 @@ While we take reasonable steps to secure your personal information, no system is
 
 
 
-For more detailed information regarding how we store information, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniv).  
+For more detailed information regarding how we store information, please go [here](http://www.mathblaster.com/privacypolicy.aspx#sectioniv).  
   
 ### How We Use the Information: 
 
@@ -63,7 +63,7 @@ Allow us to:
 
 It may also allow you access to enhanced features available to registered users and on behalf of third-parties whose products or services might be of interest to you; measure analytics; and manage and improve the services available on the Sites.
 
-For more detailed information regarding how we use such information, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioni).   
+For more detailed information regarding how we use such information, please go [here](http://www.mathblaster.com/privacypolicy.aspx#sectioni).   
   
 ### What We Share:
 
@@ -87,7 +87,7 @@ Please be aware that we cannot control the activities of third parties to whom w
 
 Our sites may also have message boards and/or chat areas, where users can exchange ideas and communicate with one another. When posting to a message board or chat area, please be aware that the information is being made publicly available online and the user does so at his or her own risk.
 
-For more detailed information regarding our information sharing practices, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionii).   
+For more detailed information regarding our information sharing practices, please go [here](http://www.mathblaster.com/privacypolicy.aspx#sectionii).   
   
 ### Who Else Is Collecting Information: 
 
@@ -95,7 +95,7 @@ For more detailed information regarding our information sharing practices, pleas
 
 We may use a number of advertising networks, analytics service providers and other such companies to, for example, serve advertisements or analyze the performance of the Sites. These companies may use their own unique identifiers, and their use of these technologies is within their control and not ours. These companies may use the information they collect from you consistent with their own privacy policies, which we encourage you to review.
 
-For more information about these third parties and how you might be able to control how they use your information, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionid).   
+For more information about these third parties and how you might be able to control how they use your information, please go [here](http://www.mathblaster.com/privacypolicy.aspx#sectionid).   
   
 ### How You Can Control Your Own Information:
 
@@ -112,7 +112,7 @@ We make every attempt to allow you to control the way that we use personally ide
 
 If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from us (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at JumpStart Games, Inc., 21250 Hawthorne Blvd., Ste. 380 Torrance, California 90503. You can also contact us by e-mailing us at opt-out@jumpstart.com. Please indicate what publications or services you no longer wish to receive so that we may better address your needs. 
 
-For more detailed information regarding your control over your information, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionic) and [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionv).   
+For more detailed information regarding your control over your information, please go [here](http://www.mathblaster.com/privacypolicy.aspx#sectionic) and [here](http://www.mathblaster.com/privacypolicy.aspx#sectionv).   
   
 ### Who We Are:
 
@@ -124,37 +124,37 @@ Start")
   
 ## QUICK LINKS.
 
-  1. [INFORMATION COLLECTION AND USE](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioni).
-    1. [Registration Information ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionia)
-    2. [Social Platform Registrations and Social Media Plugins ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionib)
-    3. [Computer Information Collected By Us](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionic)
-    4. [Computer Information Collected By Others ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionid)
-    5. [Contests and Sweepstakes ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionie)
-    6. [Electronic Postcards and Messages ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionif)
-    7. [Electronic Newsletters ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionig)
-    8. [Interactive Features and Services ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionih)
-    9. [Wireless Marketing Services](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniwireless)
-    10. [Geolocation Information ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionij)
-    11. [Financial Information ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionik)
-    12. [Other Data Collection and Use ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionil)
-  2. [DISCLOSURE TO THIRD PARTIES.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionii)
-    1. [Law Enforcement and Safety ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniia)
-    2. [Agents ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniib)
-    3. [Third Parties/Advertisers](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniic)
-    4. [Co-Branded Sites And Features ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniid)
-    5. [JumpStart Games and Other Affiliated Businesses ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniie)
-    6. [Business Transfer](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniif)
-    7. [With Your Consent ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniig)
-  3. [INTERNATIONAL USERS.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniii)
-  4. [SECURITY, STORAGE AND RETENTION OF INFORMATION.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniv)
-  5. [ACCESSING AND CORRECTING INFORMATION; TERMINATION OF WIRELESS SERVICES.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionv)
-    1. [Reviewing Your Information](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionva)
-    2. [Parental Access](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionvb)
-    3. [Termination Of Wireless Services ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionvc)
-  6. [ONLINE SAFETY.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionvi)
-  7. [LINKS TO THIRD PARTIES.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionvii)
-  8. [YOUR CALIFORNIA PRIVACY RIGHTS.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionviii)
-  9. [CONTACT US](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionix)
+  1. [INFORMATION COLLECTION AND USE](http://www.mathblaster.com/privacypolicy.aspx#sectioni).
+    1. [Registration Information ](http://www.mathblaster.com/privacypolicy.aspx#sectionia)
+    2. [Social Platform Registrations and Social Media Plugins ](http://www.mathblaster.com/privacypolicy.aspx#sectionib)
+    3. [Computer Information Collected By Us](http://www.mathblaster.com/privacypolicy.aspx#sectionic)
+    4. [Computer Information Collected By Others ](http://www.mathblaster.com/privacypolicy.aspx#sectionid)
+    5. [Contests and Sweepstakes ](http://www.mathblaster.com/privacypolicy.aspx#sectionie)
+    6. [Electronic Postcards and Messages ](http://www.mathblaster.com/privacypolicy.aspx#sectionif)
+    7. [Electronic Newsletters ](http://www.mathblaster.com/privacypolicy.aspx#sectionig)
+    8. [Interactive Features and Services ](http://www.mathblaster.com/privacypolicy.aspx#sectionih)
+    9. [Wireless Marketing Services](http://www.mathblaster.com/privacypolicy.aspx#sectioniwireless)
+    10. [Geolocation Information ](http://www.mathblaster.com/privacypolicy.aspx#sectionij)
+    11. [Financial Information ](http://www.mathblaster.com/privacypolicy.aspx#sectionik)
+    12. [Other Data Collection and Use ](http://www.mathblaster.com/privacypolicy.aspx#sectionil)
+  2. [DISCLOSURE TO THIRD PARTIES.](http://www.mathblaster.com/privacypolicy.aspx#sectionii)
+    1. [Law Enforcement and Safety ](http://www.mathblaster.com/privacypolicy.aspx#sectioniia)
+    2. [Agents ](http://www.mathblaster.com/privacypolicy.aspx#sectioniib)
+    3. [Third Parties/Advertisers](http://www.mathblaster.com/privacypolicy.aspx#sectioniic)
+    4. [Co-Branded Sites And Features ](http://www.mathblaster.com/privacypolicy.aspx#sectioniid)
+    5. [JumpStart Games and Other Affiliated Businesses ](http://www.mathblaster.com/privacypolicy.aspx#sectioniie)
+    6. [Business Transfer](http://www.mathblaster.com/privacypolicy.aspx#sectioniif)
+    7. [With Your Consent ](http://www.mathblaster.com/privacypolicy.aspx#sectioniig)
+  3. [INTERNATIONAL USERS.](http://www.mathblaster.com/privacypolicy.aspx#sectioniii)
+  4. [SECURITY, STORAGE AND RETENTION OF INFORMATION.](http://www.mathblaster.com/privacypolicy.aspx#sectioniv)
+  5. [ACCESSING AND CORRECTING INFORMATION; TERMINATION OF WIRELESS SERVICES.](http://www.mathblaster.com/privacypolicy.aspx#sectionv)
+    1. [Reviewing Your Information](http://www.mathblaster.com/privacypolicy.aspx#sectionva)
+    2. [Parental Access](http://www.mathblaster.com/privacypolicy.aspx#sectionvb)
+    3. [Termination Of Wireless Services ](http://www.mathblaster.com/privacypolicy.aspx#sectionvc)
+  6. [ONLINE SAFETY.](http://www.mathblaster.com/privacypolicy.aspx#sectionvi)
+  7. [LINKS TO THIRD PARTIES.](http://www.mathblaster.com/privacypolicy.aspx#sectionvii)
+  8. [YOUR CALIFORNIA PRIVACY RIGHTS.](http://www.mathblaster.com/privacypolicy.aspx#sectionviii)
+  9. [CONTACT US](http://www.mathblaster.com/privacypolicy.aspx#sectionix)
 
 
 
@@ -168,7 +168,7 @@ Registration information is used to enable users to take advantage of site offer
 
 **B. Social Platform Registrations and Social Media Plugins:  **Some of the Sites permit or require users who are at least 13 years old to register or log into their account via a social networking platform such as Login with Facebook, or permit you to use social media plugins such as the Facebook “Like” or Google “+1” buttons. When you use these social networking platforms and plugins, your username and password for the services and other information available about you or collected from you on these services may be shared with us.
 
-When you use social networking platforms and plugins, you share your information with them and their privacy policy applies to their collection, use, and disclosure of such information. In addition, they may be able to collect information about you, including your activity on the Sites, and they may notify your connections on the social networking platform about your use of the Sites. Such services may also employ unique identifiers which allow your activity to be monitored across multiple websites for purposes of delivering more targeted advertising to you. For more information about Login with Facebook, please go [ **here**](https://www.facebook.com/help). For more information on Flux, please go [ **here**](http://www.socialproject.com/UserAgreements/enUS/privacypolicy.html). Please note that their privacy policies may be different from our own and we encourage you to read them.
+When you use social networking platforms and plugins, you share your information with them and their privacy policy applies to their collection, use, and disclosure of such information. In addition, they may be able to collect information about you, including your activity on the Sites, and they may notify your connections on the social networking platform about your use of the Sites. Such services may also employ unique identifiers which allow your activity to be monitored across multiple websites for purposes of delivering more targeted advertising to you. For more information about Login with Facebook, please go [ **here**](https://www.facebook.com/help). For more information on Flux, please go [ **here**](http://www.mtv.co.uk/legal/privacy-policy). Please note that their privacy policies may be different from our own and we encourage you to read them.
 
 **C. Computer Information Collected by Us:  **When users come to a Site, we may automatically collect certain information from their computers or mobile devices, such as the type of computer operating system (e.g., Windows XP or Mac OS), the user's IP address, the web browser (e.g., Internet Explorer, Safari, Chrome and Firefox), UDID (for certain mobile devices), information about the websites visited before and after visiting the Site, the web pages and advertisements viewed and links clicked on within the Sites, interactions with e-mail messages sent by a Site or JumpStart Games' companies (e.g., links clicked on and whether the messages were opened or forwarded), information collected through the use of unique identifiers such as cookies (see below), information regarding the Internet service provider, and other standard server log information ("Computer Information").
 
@@ -361,11 +361,11 @@ Information collected through the Sites may be transferred, disclosed or shared 
 **C. Third Parties/Advertisers.**  
 
 
-JumpStart Games uses the services of third parties who may collect, use or disclose cookie information, IP addresses or other identifiers from devices and/or browsers of users who visit The Sites. For a list of these third parties on The Sites, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy/third-party-information-collection-through-our-sites-and-applications "Third Party Information Collection"). Some The Sites partner with outside third parties to provide you with additional content, products, or services that we believe may be of interest. For example, we may partner with a greeting card company, software manufacturer, social media plugin provider, or mobile phone provider to offer you electronic cards, games, social networking, or text messaging services. These partners operate websites and services that are separate and independent from the Sites and, accordingly, may have their own privacy policies. If you consent or register with one of our partners, that means you grant the Sites permission to give your registration and other information, including e-mail address, to that third party. If you have identified yourself as residing in the EU, we will not share your email address or other personally identifiable information with third parties for advertising purposes unless you have "opted-in."
+JumpStart Games uses the services of third parties who may collect, use or disclose cookie information, IP addresses or other identifiers from devices and/or browsers of users who visit The Sites. For a list of these third parties on The Sites, please go [here](http://www.mathblaster.com/policy/thirdpartyinformationcollection.aspx "Third Party Information Collection"). Some The Sites partner with outside third parties to provide you with additional content, products, or services that we believe may be of interest. For example, we may partner with a greeting card company, software manufacturer, social media plugin provider, or mobile phone provider to offer you electronic cards, games, social networking, or text messaging services. These partners operate websites and services that are separate and independent from the Sites and, accordingly, may have their own privacy policies. If you consent or register with one of our partners, that means you grant the Sites permission to give your registration and other information, including e-mail address, to that third party. If you have identified yourself as residing in the EU, we will not share your email address or other personally identifiable information with third parties for advertising purposes unless you have "opted-in."
 
 In addition, Third Party Advertising Service Providers may use their own Tracking Technologies to gather information about you. Please see Section I(D) above for more detailed information regarding such use of Tracking Technologies.
 
-For more information on our use of third party advertisers and the self-regulatory principles, please click [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy/advertizing-option-icon-request "Advertizing Option Icon Request"). 
+For more information on our use of third party advertisers and the self-regulatory principles, please click [here](http://www.mathblaster.com/policy/advertisingoptionIconRequest.aspx "Advertizing Option Icon Request"). 
 
 **D. Co-Branded Sites and Features**  
 Some Sites offer co-branded services and features, such as events and promotions that we put together with another company ("Co-Branded Partner"). Such services may be hosted on a Site and/or our Co-Branded Partner's website. We may share your information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and affirmatively consent to both the Sites and our Co-Branded Partner collecting and using the information you provided during registration and/or in connection with the specific co-branded feature for fulfillment, marketing or administrative purposes. If you wish to opt-out of a Co-Branded Partner's future use of your information for marketing purposes, you will need to contact the Co-Branded Partner directly. The Co-Branded Partner will be identified on the co-branded feature or service. 
@@ -397,14 +397,14 @@ Information collected at the Sites will not be stored for longer than is necessa
 You have the right to access, update and correct factual inaccuracies in personally identifiable information that we collect online at the Sites, subject to certain exceptions. To do so, you should log into your account or you may e-mail us at privacy@jumpstart.com. To help protect your privacy and the security of your personally identifiable information, we will take reasonable steps to verify your identity before granting access. 
 
 **B. Parental Access**  
-Parents/guardians of children under the age of 13 can print out and mail or fax us a signed form that allows them to review any personally identifiable information collected with their permission, about their child, have this information deleted, and/or request that there be no further collection or use of their child's personally identifiable information. You can download the form [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy/knowledge-adventure-personal-information-access-inquiry-form "Download the Form Here"). We will take steps to verify the identity of anyone requesting personally identifiable information about a child and to ensure that the person is in fact the child's parent or legal guardian. 
+Parents/guardians of children under the age of 13 can print out and mail or fax us a signed form that allows them to review any personally identifiable information collected with their permission, about their child, have this information deleted, and/or request that there be no further collection or use of their child's personally identifiable information. You can download the form [here](http://www.mathblaster.com/policy/accessinquiryform.aspx "Download the Form Here"). We will take steps to verify the identity of anyone requesting personally identifiable information about a child and to ensure that the person is in fact the child's parent or legal guardian. 
 
 **C. Termination of Wireless Services**  
 If you have registered for wireless services, you may cancel one or more wireless services via your wireless device at any time by using the unsubscribe mechanism provided by the Sites at the time the message is sent, or by sending a text message that says "STOP", "END", "CANCEL", "REMOVE", "UNSUBSCRIBE" or "QUIT". The Sites will terminate your registration for the most recent wireless service you received. Any of these words followed by the word "ALL" in the user's termination request will cancel all of the user's registered wireless services with the Sites. If you unsubscribe from one or all of wireless service(s) via your wireless device, the service(s) will be terminated immediately and will cancel your previous opt-in. 
 
 ## VI. ONLINE SAFETY.
 
-Some of the Sites offer you and your child an online safety guide which we encourage you to use as starting point for discussing safety and privacy concerns with your child. Of course, involvement in your family’s online lives is the most important safety tool available. Some of the various guides are available by clicking [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy/knowledge-adventure-online-safety-guide).
+Some of the Sites offer you and your child an online safety guide which we encourage you to use as starting point for discussing safety and privacy concerns with your child. Of course, involvement in your family’s online lives is the most important safety tool available. Some of the various guides are available by clicking [here](http://www.mathblaster.com/policy/onlinesafetyguide.aspx "KA Online Safety Guide").
 
 ## VII. LINKS TO THIRD PARTIES.
 
