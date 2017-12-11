@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toshibadirect.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625155447id_/http%3A//us.toshiba.com/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshibadirect.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211165931id_/http%3A//us.toshiba.com/website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
