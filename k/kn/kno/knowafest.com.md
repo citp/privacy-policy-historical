@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the knowafest.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523194536id_/http%3A//www.knowafest.com/2009/12/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowafest.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211195444id_/http%3A//www.knowafest.com/college-fests/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Advertise in knowafest.com, Campus Fests, College Fest: Know a Fest - College Fests in India
-
-**Knowafest.com privacy policy Highlights**
+# Privacy Policy Knowafest in India, Knowafest.com
 
 This privacy policy sets out how Knowafest.com uses and protects any information that you give Knowafest.com when you use this website.
 
