@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the screenstepslive.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628205341id_/http%3A//www.screensteps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenstepslive.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211190942id_/http%3A//www.screensteps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Our Commitment to Your Privacy
 
-This privacy policy applies to [http://www.screensteps.com](http://www.screensteps.com/) (the "Site"), a website operated by Blue Mango Learning Systems, LLC (the “Company”).
+This privacy policy applies to [http://www.screensteps.com](https://www.screensteps.com/) (the "Site"), a website operated by Blue Mango Learning Systems, LLC (the “Company”).
 
 The Site includes customer subdomains, e.g. company-name.screenstepslive.com.
 
-The Site provides the "Service" as defined in the [Terms of Use](http://www.screensteps.com/terms-of-service).
+The Site provides the "Service" as defined in the [Terms of Use](https://www.screensteps.com/terms-of-service).
 
-We respect and protect the privacy of our users. This Privacy Policy explains how we collect and use your information and is part of our [Terms of Use](http://www.screensteps.com/terms-of-service) when you use our Site or Service.
+We respect and protect the privacy of our users. This Privacy Policy explains how we collect and use your information and is part of our [Terms of Use](https://www.screensteps.com/terms-of-service) when you use our Site or Service.
 
 ### Your Consent
 
