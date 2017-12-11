@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoover.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611021037id_/https%3A//adminguide.stanford.edu/chapter-1/subchapter-6/policy-1-6-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoover.org privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211013749id_/https%3A//adminguide.stanford.edu/chapter-1/subchapter-6/policy-1-6-1) for the most accurate reproduction.*
 
 # 1.6.1 Privacy Policy | Administrative Guide
 
@@ -51,7 +51,7 @@ In addition to the rights afforded by HIPAA and other laws related to health inf
 The [Gramm-Leach-Bliley Act ("GLBA")](http://business.ftc.gov/privacy-and-security/gramm-leach-bliley-act) requires that Stanford protect the privacy and security of information collected in the course of providing certain financial services, such as student financial aid or faculty staff housing loans. Stanford has adopted polices to protect this information. These policies are located on the [Office of General Counsel's website](https://ogc.stanford.edu/sites/default/files/glb_plan_june2010.pdf).
 
 **(6) Information Collected in the Course of Electronic Commerce**  
-Some areas of the Stanford website operate commercial enterprises online. Stanford also delivers online service through its network. To comply with the [California Online Privacy Protection Act of 2003](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=bpc&group=22001-23000&file=22575-22579) when Stanford (or any of its partners) collects personally identifiable consumer information on one of the commercial areas of its website or as the operator of an online service, it will conspicuously post either a privacy policy or a link to a privacy policy on the portal page for the commercial activity. This policy will:
+Some areas of the Stanford website operate commercial enterprises online. Stanford also delivers online service through its network. To comply with the [California Online Privacy Protection Act of 2003](http://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=8.&title=&part=&chapter=22.&article=) when Stanford (or any of its partners) collects personally identifiable consumer information on one of the commercial areas of its website or as the operator of an online service, it will conspicuously post either a privacy policy or a link to a privacy policy on the portal page for the commercial activity. This policy will:
 
 **(a)** Identify the categories of personally identifiable information collected through the commercial portions of its website or through its online service;  
 **(b)** Identify the categories of third-parties with whom Stanford may share that personally identifiable information;  
@@ -74,7 +74,7 @@ Stanford respects and values the privacy of its faculty, students and staff and 
 
   * **Computer and Network Usage.** See section 2.c in [Guide Memo 6.2.1](https://web.archive.org/6-2-1): Computer and Network Usage Policy.
   * **Library Circulation Records.** See Stanford University Libraries policy on [Disclosure of Borrower Information](http://library.stanford.edu/how_to/policies/circulation_policies.html#disclose).
-  * **University Student Housing.** See [Stanford residence agreement terms](http://www.stanford.edu/dept/rde/shs/res_agree.htm) for limited circumstances in which student residences may be accessed.
+  * **University Student Housing.** See [Stanford residence agreement terms](https://rde.stanford.edu/studenthousing/apply/residence-agreement) for limited circumstances in which student residences may be accessed.
 
 
 
@@ -117,7 +117,7 @@ Back to top
 
  **a.** Failure to follow proper policies and procedures concerning access, storage and transmission of Information may result in sanctions and disciplinary action up to and including termination of employment, referral to Judicial Affairs or other applicable administrative process.
 
-**b.** Members of the Stanford community who believe that these policies have been violated should report such violations to the University Privacy Officer, Office of the University Ombuds, Internal Audit or Office of the General Counsel. Complaints or concerns may also be reported anonymously by calling the University Compliance Officer at (650) 721-2667 or reporting it [online](http://institutionalcompliance.stanford.edu/report/helpline.html).
+**b.** Members of the Stanford community who believe that these policies have been violated should report such violations to the University Privacy Officer, Office of the University Ombuds, Internal Audit or Office of the General Counsel. Complaints or concerns may also be reported anonymously by calling the University Compliance Officer at (650) 721-2667 or reporting it [online](https://acrp.stanford.edu/compliance/compliance-and-ethics-helpline).
 
 **c.** Any School or Department found to have violated this policy may be held accountable for the financial penalties and remediation costs that are a direct result of this failure.
 
@@ -125,7 +125,7 @@ Back to top
 
 ## 6\. Relevant Laws
 
- **a.** [State of California Constitution, Article 1](http://www.leginfo.ca.gov/.const/.article_1)
+ **a.** [State of California Constitution, Article 1](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CONS&division=&title=&part=&chapter=&article=I)
 
 **b.** The Family Educational Rights and Privacy Act of 1974 (FERPA) (also known as the Buckley Amendment) 20 U.S.C. § 1232g; 34 C.F.R. § 99.1 et seq.
 
