@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divachix.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422222332id_/http%3A//www.divachix.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divachix.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211021853id_/http%3A//www.divachix.com/privacy.shtml) for the most accurate reproduction.*
 
 # Dress Up Games | Diva Chix: The Fashionista's Playground
 
