@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodirectsoccer.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623082441id_/http%3A//www.prodirectsoccer.com/information/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodirectsoccer.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211144433id_/http%3A//www.prodirectsoccer.com/information/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Pro-Direct Soccer - Privacy
 
