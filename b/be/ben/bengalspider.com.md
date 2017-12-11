@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bengalspider.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208041141id_/http%3A//www.bengalspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bengalspider.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211043005id_/http%3A//www.bengalspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # BengalSpider.com privacy policy
 
@@ -44,6 +44,3 @@ If you would like to contact us about any information or privacy policy you can 
 Kochi. India**
 
 We would request you please provide us as much information as possible to resolve the issue. 
-
-  
-
