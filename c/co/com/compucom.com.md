@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compucom.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611032929id_/http%3A//compucom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compucom.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211153518id_/http%3A//compucom.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | CompuCom
 
@@ -24,13 +24,13 @@ With respect to sharing of data described elsewhere in this Privacy Policy, you 
 
 An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to [privacy@compucom.com](mailto:privacy@compucom.com) or use the contact information provided in the next paragraph. If requested to remove data, we will respond within a reasonable timeframe.
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, CompuCom Systems, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this Privacy Policy should first contact CompuCom Systems, Inc. at:
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, CompuCom Systems, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact CompuCom Systems, Inc. at:
 
 CompuCom Systems, Inc.  
-c/o Sharon Johnson, CompuCom Legal Department  
-[sharon.johnson@compucom.com](mailto:sharon.johnson@compucom.com)  
-8383 Dominion Parkway  
-Plano, TX 75024  
+c/o  Paul Gagnier, CompuCom Legal Department  
+[paul.gagnier@compucom.com](mailto:paul.gagnier@compucom.com)  
+3800 Arco Corporate Drive, Suite 550  
+Charlotte NC 28273  
 USA         
 
 CompuCom Systems, Inc. has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.             
@@ -144,4 +144,4 @@ c/o CompuCom Legal Department
 Plano, TX 75024  
 USA
 
-Effective May 9, 2017
+Effective September 21, 2017
