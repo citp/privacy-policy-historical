@@ -1,11 +1,16 @@
-> *The following text is extracted and transformed from the dsmtuners.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610115018id_/http%3A//www.dsmtuners.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsmtuners.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211123537id_/http%3A//www.dsmtuners.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DSMtuners
 
-[](http://bit.ly/23VkSvN)
+  
+Log in/Register to remove ads
+
+[ ](http://www.dsmtuners.com/)
+
+[](http://bit.ly/1TsPsVc)
 
 **What we collect**  
-DSMtuners collects personal information from you when you register to participate, enter a contest, or complete a survey on our website. Personal information consists of your email address, first name, last name, and password. In some rare cases, like for contests, we'll ask for street address and zip code. If you enter a sweepstakes, contest or survey we may also ask you for some demographic information such as your age or income range. Other information collected may include your IP address, browser type and operating system. 
+DSMtuners collects personal information from you when you register to participate, enter a contest, or complete a survey on our website. Personal information consists of your email address, first name, last name, and password. In some rare cases, like for contests, we'll ask for street address and zip code - none of this information is saved on our servers or shared with third parties. If you enter a sweepstakes, contest or survey we may also ask you for some demographic information such as your age or income range. Other information collected may include your IP address, browser type and operating system. 
 
 **How we use this info**  
 The information collected is used for administration purposes and to help improve the services we provide. This information will not be sold, rented or disclosed in any way to outside parties unless required to do so by law. We also may disclose aggregated information (for example, X number of our viewers visit the Gallery section) to third parties. 
