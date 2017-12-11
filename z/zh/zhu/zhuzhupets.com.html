@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zhuzhupets.com privacy policy that was archived on 2017-01-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170119131220id_/http%3A//www.zhuzhupets.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zhuzhupets.com privacy policy that was archived on 2017-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171211220940id_/http%3A//www.zhuzhupets.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="html js" lang="en-US"><head>
 <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
@@ -131,9 +131,36 @@
 </div>
 <div id="footer" align="center">
   <div style="width:1227px;">
-    <div class="logos"><a href="http://www.cepia.com/" target="_blank"><img src="images/logo-cepia.png" width="74" height="89" alt=""></a><a href="http://www.nelvana.com/" target="_blank"><img src="images/logo-nelvana.png" width="81" height="80" alt="" style="margin-left:17px;"></a></div>
+    <div class="logos"><a href="http://www.cepia.com/" target="_blank"><img src="images/logo-cepia.png" width="74" height="89" alt=""></a><a class="open_interstitial" href="http://www.nelvana.com/"><img src="images/logo-nelvana.png" width="81" height="80" alt="" style="margin-left:17px;"></a></div>
     <div class="links"><a href="https://www.facebook.com/TheZhuZhuPets/" target="_blank"><span id="facebookLink" class="socialLink"><img src="images/logo-facebook.png" width="12" height="24" alt=""></span></a><span class="pipe">|</span><a href="https://twitter.com/TheZhuZhu_Pets" target="_blank"><span id="twitterLink" class="socialLink"><img src="images/logo-twitter.png" width="24" height="18" alt=""></span></a><span class="pipe">|</span><a href="http://www.pinterest.com/" target="_blank"><span id="pinterestLink" class="socialLink"><img src="images/logo-pinterest.png" width="24" height="24" alt=""></span></a><span class="pipe">|</span><a href="https://www.youtube.com/channel/UClv8mnaxrArbfGHAgUw8_LQ" target="_blank"><span id="youtubeLink" class="socialLink"><img src="images/logo-youtube.png" width="22" height="24" alt=""></span></a><span class="pipe">|</span><a href="aboutus.html">About Us</a><span class="pipe">|</span><a href="faqs.html">FAQs</a><span class="pipe">|</span><a href="contactus.html">Contact Us</a><span class="pipe">|</span><a href="press.html">Zhu’s News</a><span class="pipe">|</span><a href="productinfo.html">Product Info</a><span class="pipe">|</span><a href="wheretobuy.html">Where To Buy</a><span class="pipe">|</span><a href="terms.html">Terms &amp; Conditions</a><span class="pipe">|</span><a href="privacypolicy.html">Privacy Policy</a></div>
   </div>
+</div>
+
+<div class="interstitial_modal"><div class="modal_content">
+    <h1>
+        Leaving zhuzhupets.com
+    </h1>
+
+    <p>
+        By clicking "continue" you'll be leaving the Zhu Zhu Pets web site and landing on a retail site. Remember, they have different terms and privacy policies. Hope we see you again soon! KIDS, get your parent's permission before visiting other sites and NEVER share any personal info about yourself — including your full name, address and phone number and let your parent or guardian handle any transaction.
+    </p>
+
+    <div class="button_contain">
+        <a class="cancel_btn">
+            Cancel
+        </a>
+
+        <a class="continue_btn" href="#" target="_blank">
+            Continue
+        </a>
+    </div>
+</div>
+
+<div class="overlay"></div>
+
+<link rel="stylesheet" type="text/css" href="css/interstitial.css">
+
+
 </div>
 <!-- JS includes --> 
 <script type="text/javascript">
@@ -162,7 +189,11 @@ $('#u91').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,0]},{"spe
 Muse.Utils.fullPage('#page'); /*100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
-} catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
+} catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }
+
+/* import interstitial */
+$('.interstitial_modal').load('interstitial.shtml');
+});
 /*SCROLL-TO SECTION*/
 $(function() {
   $('a[href*=#]:not([href=#])').click(function() {
