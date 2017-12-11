@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1cak.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521125555id_/http%3A//1cuk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1cak.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211140535id_/http%3A//1cuk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy 1CAK For Fun Only
 
