@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the colum.edu privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611033857id_/http%3A//www.colum.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colum.edu privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211022827id_/https%3A//www.colum.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Columbia College Chicago
 
 ## Your Personal Information
 
-Columbia College Chicago respects your privacy. We will never give, sell, rent, or share your personal information with any person or company in any way not listed here, unless compelled by law.
+Columbia College Chicago respects your privacy. We will never give, sell, rent, or share your personal information with any person or company in any way not listed here, unless compelled by law. 
 
 ## Cookies
 
@@ -16,7 +16,7 @@ We use remarketing services from Google and other providers. These providers use
 
 ## Web Analytics
 
-We use Google Analytics and other cookie or IP address-based tools to analyze website visitor behavior and technical information for reporting and marketing purposes. This information may be connected to your personal information, if you voluntarily provide any personal information to us.
+We use Google Analytics and other cookie or IP address-based tools to analyze website visitor behavior and technical information for reporting and marketing purposes. The information analyzed may include any personal details you voluntarily provide through online forms. You can find [more information about how Google uses data](https://www.google.com/policies/privacy/partners/), you can also prevent Google Analytics from using your data by downloading and installing the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
 
 ## Sharing
 
