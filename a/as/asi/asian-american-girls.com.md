@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asian-american-girls.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506152649id_/http%3A//www.asian-american-girls.com/compliance/privacypolicy.php%3Fsite%3Dasian-american-girls.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asian-american-girls.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211155152id_/http%3A//www.asian-american-girls.com/compliance/privacypolicy.php%3Fsite%3Dasian-american-girls.com) for the most accurate reproduction.*
 
 # asian-american-girls.com - Privacy Policy
 
