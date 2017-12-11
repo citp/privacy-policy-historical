@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the petvalu.com privacy policy that was archived on 2017-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170611184527id_/http%3A//petvalu.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petvalu.com privacy policy that was archived on 2017-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171211231925id_/http%3A//petvalu.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-CA"><!--<![endif]--><head>
 	<meta charset="UTF-8">
@@ -23,7 +23,7 @@
 	<!--[if gte IE 8]>
 	<link rel="stylesheet" type="text/css" href="http://petvalu.com/wordpress/wp-content/themes/petvalu/css/ie.css" />
 	<![endif]-->
-	<link id="dynamic-favicon" rel="icon" href="/favicon.ico"><script src="http://petvalu.com/wordpress/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script></head><body class="" style=""><input type="hidden" value="ca">
+
 		<link rel="shortcut icon" href="/favicon.ico?v=2" type="image/x-icon">
 	<script>
 	   // HTML5, baby! https://mathiasbynens.be/notes/document-head
@@ -43,7 +43,7 @@
 
 	   changeFavicon('/favicon.ico');
 	  
-	</script>
+	</script><link id="dynamic-favicon" rel="icon" href="/favicon.ico">
 
 	<!-- Google Analytics -->
 		<script>
@@ -59,6 +59,8 @@
 	})();
 
 	</script>
+
+    
 	
 <!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"\/","name":"Pet Valu"}</script>
@@ -69,7 +71,7 @@
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/petvalu.com\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
+		</script><script src="http://petvalu.com/wordpress/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -106,7 +108,7 @@ img.emoji {
 <script type="text/javascript" src="http://petvalu.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure":""};
+var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1513033969","secure":""};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://petvalu.com/wordpress/wp-includes/js/utils.min.js?ver=4.2.2"></script>
@@ -124,7 +126,46 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://petvalu.com/wordpress/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://petvalu.com/wordpress/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 4.2.2">
+   <script type="text/javascript">
 
+		jQuery(function(){
+		  jQuery(document.body)
+			  .on('click touchend','#swipebox-slider .current img', function(e){
+				  jQuery('#swipebox-next').click();
+				  return false;
+			  })
+				.on('click touchend','video', function(e){
+					jQuery('video').play();
+					return false;
+			  })
+			  .on('click touchend','#swipebox-slider .current', function(e){
+				  jQuery('#swipebox-close').trigger('click');
+			  });
+
+		});
+                /* ridimensionamento immagine profilo in badge */
+                jQuery(document).ready(function(){
+                  jQuery('#div_shortcode_badge #badge_image_profile').height(jQuery('#div_shortcode_badge #badge_image_profile').width());
+                  jQuery('#div_shortcode_badge_widget #badge_image_profile').height(jQuery('#div_shortcode_badge_widget #badge_image_profile').width());
+
+                });
+               jQuery( window ).resize(function() {
+  jQuery('#div_shortcode_badge #badge_image_profile').height(jQuery('#div_shortcode_badge #badge_image_profile').width());
+  jQuery('#div_shortcode_badge_widget #badge_image_profile').height(jQuery('#div_shortcode_badge_widget #badge_image_profile').width());
+
+});
+
+//Grid displaying after loading of images
+	function display_grid(){
+		jQuery('[id^="ei-grid-loading-"]').hide();
+		jQuery('[id^="ei-grid-list-"]').show();
+	}
+
+	window.onload = display_grid;
+
+
+</script>
+   
 <!-- ========= WordPress Store Locator (v2.1) | http://www.viadat.com/store-locator/ ========== -->
 <!-- No store locator on this page, so no unnecessary scripts for better site performance. ()-->
 <!-- ========= End WordPress Store Locator ========== -->
@@ -145,14 +186,15 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 <link hreflang="bs" href="/privacy-policy/?lang=bs" rel="alternate">
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 
-							<meta name="description" content="Pet Food, Pet Supplies, Pet Knowledge | PetValu.com. Pet Valu provides pet supplies and pet experitise near you."> 
+							<meta name="description" content="Pet Food, Pet Supplies, Pet Knowledge | PetValu.com. Pet Valu provides pet supplies and pet expertise near you.">
 						<meta name="keywords" content="PetValu,pet store,pet shop,pet food,dog treats,cat treats,pet supplies,Toronto,Vaughan,Winnipeg,London,Calgary,Edmonton,Windsor,Ottawa,Halifax,Niagara Falls,Burlington,Vancouver">
 	
 	<!-- Typekit -->
 	<script type="text/javascript" src="//use.typekit.net/cuz6fug.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
-
+</head>
+<body class="" style="">
+<a href="#primary" class="SkipNav screen-reader-text" tabindex="1">Skip to main content</a>
 	<input type="hidden" id="google_analytics_id" value="UA-12821136-1">
 <!--[if lt IE 9]>
 
@@ -161,8 +203,9 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 </a>
 <div class="screen"></div>
 <![endif]-->	
+<h1 class="aria-only">Pet Valu Menu</h1>
 <div id="sidr-left" style="display:none">
-	<h3>About Pet Valu</h3>
+	<h2>About Pet Valu</h2>
 	<ul>
 				<li><a href="/about-pet-valu/">About Us</a></li>
 				<!-- <li><a href="/companion-magazine/">Companion Magazine</a></li> -->
@@ -171,7 +214,7 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 		<li><a href="/flyer/">Local Flyer</a></li>				<li><a target="_blank" href="http://petvalu.com/franchise">Franchise Info</a></li>
 						<li><a href="/email-signup/">Email Sign-up</a></li>
 			</ul>
-	<h3>Main Menu</h3>
+	<h2>Main Menu</h2>
 	<ul>
 		<li><a href="/dog" class="dog">Dog</a></li>
 		<li><a href="/cat" class="cat">Cat</a></li>
@@ -217,7 +260,7 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 					</div>
 				</div>
 			</div>
-			<div class="fr top_social sub_social">
+			<!--<div class="fr top_social sub_social">
 				<div class="text">Connect with  Pet Valu </div>
 					
 
@@ -232,7 +275,7 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
     </a>
 </div>
 <div class="social social_pinterest">
-	<a aria-label="Pinterest" target="_blank" href="http://www.pinterest.com/petvalu" title="pinterest">
+	<a aria-label="Pinterest"  target="_blank" href="http://www.pinterest.com/petvalu" title="pinterest">
         <img src="//pv-web-01t.s3.amazonaws.com/static_site/icons/pinterest-32.png" alt="pinterest share">
     </a>
 </div>
@@ -246,7 +289,7 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
             <img src="//pv-web-01t.s3.amazonaws.com/static_site/icons/youtube-32.png" alt="youtube share">
         </a>
     </div>
-			</div>
+			</div>-->
 		</div>
 </header>
 <div id="main" class="site-main">
@@ -294,8 +337,8 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 
 			<h2>Popular</h2>
 			<ul class="links">
-										<li><a href="/pet-expert-tips-how-to-travel-safely-with-your-dog/">Pet Expert Tips: How to Travel Safely with your Dog</a></li>
-							<li><a href="/the-joy-of-pet-adoption/">The Joy of Pet Adoption</a></li>
+										<li><a href="/loving-fostering-a-future-dog-guide/">Loving &amp; Fostering a Future Dog Guide</a></li>
+							<li><a href="/pet-expert-tips-how-to-travel-safely-with-your-dog/">Pet Expert Tips: How to Travel Safely with your Dog</a></li>
 							<li><a href="/jet-set-pets-in-cabin-air-travel-with-your-small-dog/">Jet-Set Pet: Small Dogs &amp; In-Cabin Air Travel</a></li>
 							<li><a href="/pet-myth-busters/">Pet Myth Busters</a></li>
 							<li><a href="/top-10-dog-breeds/">Top 10 Dog Breeds</a></li>
@@ -320,13 +363,13 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 	</div>
 
 	<div class="featured-column">
-							<a href="/the-joy-of-pet-adoption/">
+							<a href="/christmas-safety/">
 				<div class="post">
-					<div class="read" href="/the-joy-of-pet-adoption/">Read</div>
+					<div class="read" href="/christmas-safety/">Read</div>
 					<div class="title">
-						<h3>The Joy of Pet Adoption</h3>
+						<h3>Christmas Safety</h3>
 					</div>
-										<img alt="The Joy of Pet Adoption" class="scale" data-scale="best-fill" data-align="center" src="https://pv-web-01t.s3.amazonaws.com/wordpress/wp-content/uploads/2016/04/16-2963-April-Article396-300x173.jpg">
+										<img alt="Christmas Safety" class="scale" data-scale="best-fill" data-align="center" src="https://pv-web-01t.s3.amazonaws.com/wordpress/wp-content/uploads/2013/12/shutterstock_90395566-300x203.jpg">
 				</div>
 			</a>
 			</div>
@@ -376,11 +419,11 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 
 			<h2>Popular</h2>
 			<ul class="links">
-										<li><a href="/kitten-wish-list/">Kitten Wish List</a></li>
-							<li><a href="/the-joy-of-pet-adoption/">The Joy of Pet Adoption</a></li>
+										<li><a href="/going-outside-the-box/">Going Outside the Box</a></li>
 							<li><a href="/brush-cat-grooming/">Brush Up on Your Cat Grooming</a></li>
 							<li><a href="/pet-myth-busters/">Pet Myth Busters</a></li>
 							<li><a href="/fat-cat-syndrome-feeding-a-multi-cat-household/">Fat Cat Syndrome: Feeding a Multi-Cat Household</a></li>
+							<li><a href="/feline-frenzy-fun-cat-facts/">Feline Frenzy – Fun Cat Facts</a></li>
 						<li><a class="more-link" href="/category/cat"> More </a></li>
 			</ul>
 
@@ -401,13 +444,13 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 	</div>
 
 	<div class="featured-column">
-							<a href="/kitten-wish-list/">
+							<a href="/pets-as-presents/">
 				<div class="post">
-				<div class="read" href="/kitten-wish-list/">Read</div>
+				<div class="read" href="/pets-as-presents/">Read</div>
 				<div class="title">
-					<h3>Kitten Wish List</h3>
+					<h3>Pets as Presents</h3>
 				</div>
-								<img alt="Kitten Wish List" class="scale" data-scale="best-fill" data-align="center" src="https://pv-web-01t.s3.amazonaws.com/wordpress/wp-content/uploads/2016/05/16-3018-May-Product-Carousel-Kitten-300x150.jpg">
+								<img alt="Pets as Presents" class="scale" data-scale="best-fill" data-align="center" src="https://pv-web-01t.s3.amazonaws.com/wordpress/wp-content/uploads/2013/12/shutterstock_65520949-300x226.jpg">
 			</div>
 			</a>
 			</div>
@@ -554,13 +597,13 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 	</div>
 
 	<div class="featured-column">
-							<a href="/domestic-birds-101/">
+							<a href="/wild-bird-diet/">
 				<div class="post">
-				<div class="read" href="/domestic-birds-101/">Read</div>
+				<div class="read" href="/wild-bird-diet/">Read</div>
 				<div class="title">
-					<h3>Domestic Birds 101</h3>
+					<h3>Wild Bird Diet</h3>
 				</div>
-								<img alt="Domestic Birds 101" class="scale" data-scale="best-fill" data-align="center" src="https://pv-web-01t.s3.amazonaws.com/wordpress/wp-content/uploads/2013/12/dom-birds2-300x200.jpg">
+								<img alt="Wild Bird Diet" class="scale" data-scale="best-fill" data-align="center" src="https://pv-web-01t.s3.amazonaws.com/wordpress/wp-content/uploads/2013/12/wildbird1-300x173.jpg">
 			</div>
 			</a>
 			</div>
@@ -609,7 +652,7 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 
 			<h2>Popular</h2>
 			<ul class="links">
-										<li><a href="/clean-bettas-home/">How to Clean Your Betta’s Home</a></li>
+										<li><a href="/how-to-care-for-your-goldfish/">How to Care For Your Goldfish</a></li>
 							<li><a href="/clean-fish-tank/">How to Clean Your Fish Tank</a></li>
 							<li><a href="/beginners-shopping-list-basics-aquariums/">Beginners Shopping List: The Basics of Aquariums</a></li>
 							<li><a href="/create-a-healthy-aquarium/">Create a Healthy Aquarium</a></li>
@@ -632,13 +675,13 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 	</div>
 
 	<div class="featured-column">
-							<a href="/clean-bettas-home/">
+							<a href="/how-to-care-for-your-goldfish/">
 				<div class="post">
-				<div class="read" href="/clean-bettas-home/">Read</div>
+				<div class="read" href="/how-to-care-for-your-goldfish/">Read</div>
 				<div class="title">
-					<h3>How to Clean Your Betta’s Home</h3>
+					<h3>How to Care For Your Goldfish</h3>
 				</div>
-								<img alt="How to Clean Your Betta’s Home" class="scale" data-scale="best-fill" data-align="center" src="https://pv-web-01t.s3.amazonaws.com/wordpress/wp-content/uploads/2015/05/15-2608-April-Article58C-300x173.jpg">
+								<img alt="How to Care For Your Goldfish" class="scale" data-scale="best-fill" data-align="center" src="https://pv-web-01t.s3.amazonaws.com/wordpress/wp-content/uploads/2017/09/17-3648-October-Blog-Article-CareGoldfish-300x173.jpg">
 			</div>
 			</a>
 			</div>
@@ -760,7 +803,7 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 					<form id="locator_form_city_province" class="sn" action="/store-locator">
 						<input name="city" class="city_input" id="city_input" placeholder="YOUR CITY" aria-label="City">
 						<input name="state_province" class="state_province_input" id="state_province_input" placeholder="Province (ex.ON)" aria-label="Province Or State">
-						<input class="search_button sn" id="city_province_locator_button" type="submit" value="Go" aria-label="Submit">
+						<input class="search_button sn" id="city_province_locator_button" type="submit" value="Go" aria-label="Province Or State Search">
 					</form>
 				</div>
 				<div class="clear"></div>
@@ -777,7 +820,7 @@ var userSettings = {"url":"\/wordpress\/","uid":"0","time":"1497201858","secure"
 		</div>
 		<img alt="map loading" class="map_loading" src="/images/loading_large.gif">
 		<div class="empty_list">
-			<h1>Find a location near you!</h1>
+			<span class="findloc">Find a location near you!</span>
 			<p> Type your <strong> Postal Code </strong> or <strong>City</strong> and hit go. </p>
 		</div>
 		<div class="r-col mini_locator hide">
@@ -926,8 +969,6 @@ Email:  <a href="mailto:privacy@petvalu.com" target="_blank">privacy@petvalu.com
 	</div><!-- #primary -->
 
 
-		</div><!-- #main -->
-	<!-- #page -->
 	<footer>
 				<div class="chalkboard_runner"></div>
 		<div class="center">
@@ -1084,6 +1125,4 @@ var _wpcf7 = {"loaderUrl":"http:\/\/petvalu.com\/wordpress\/wp-content\/plugins\
             </div>
         </div>
 </div>
-<script type="text/javascript" src="http://petvalu.com/wordpress/wp-content/themes/petvalu/js/popup.php?nocache=true&amp;t=832247394"></script>	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.1/js.cookie.min.js"></script>
-
-</body></html>
+<script type="text/javascript" src="http://petvalu.com/wordpress/wp-content/themes/petvalu/js/popup.php?nocache=true&amp;t=127861764"></script>	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.1/js.cookie.min.js"></script></div></body></html>
