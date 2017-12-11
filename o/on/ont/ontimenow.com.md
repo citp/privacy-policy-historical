@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ontimenow.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026155146id_/http%3A//www.axosoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontimenow.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211062944id_/https%3A//www.axosoft.com/privacy) for the most accurate reproduction.*
 
-# Axosoft.com Privacy Policy
+# Privacy Policy | Axosoft
 
-## Use of Information
+## Use of information
 
 We collect and use the following information to provide and improve our application and service for you:
 
@@ -13,7 +13,7 @@ We collect and use the following information to provide and improve our applicat
 
 
 
-## Information Sharing
+## Information sharing
 
 We may share information as mentioned below but we do not sell it to third parties.
 
