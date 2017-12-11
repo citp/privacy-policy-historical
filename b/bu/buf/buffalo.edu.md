@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614180028id_/http%3A//www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211175035id_/http%3A//www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html) for the most accurate reproduction.*
 
 # Privacy - UBIT - University at Buffalo
 
@@ -64,7 +64,7 @@ As noted above, the University at Buffalo does not collect any [_personal inform
 
 **Disclosure of Information Collected Through This Website**
 
-The collection of information through this website and the disclosure of that information are subject to the provisions of the Internet Security and Privacy Act. UB will only collect _personal information_[](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html#personal-info)through this website or disclose [_personal information_](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html#personal-info) collected through this website if the [_user_](http://itpolicies.buffalo.edu/privacy/#user) has consented to the collection or disclosure of such [_personal information_.](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html#personal-info) The voluntary disclosure of [_personal information_](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html#personal-info) to UB by the _ _[ _user_ ,](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html#user) whether solicited or unsolicited, constitutes consent to the collection and disclosure of the information by UB for the purposes for which the [_user_](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html#user) disclosed the information to the UB, as was reasonably ascertainable from the nature and terms of the disclosure.
+The collection of information through this website and the disclosure of that information are subject to the provisions of the Internet Security and Privacy Act. UB will only collect _personal information_ through this website or disclose [_personal information_](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html#personal-info) collected through this website if the [_user_](http://itpolicies.buffalo.edu/privacy/#user) has consented to the collection or disclosure of such [_personal information_.](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html#personal-info) The voluntary disclosure of [_personal information_](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html#personal-info) to UB by the _ _[ _user_ ,](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html#user) whether solicited or unsolicited, constitutes consent to the collection and disclosure of the information by UB for the purposes for which the [_user_](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html#user) disclosed the information to the UB, as was reasonably ascertainable from the nature and terms of the disclosure.
 
 However, UB may collect or disclose _ _[ _personal information_](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html#personal-info) without consent if the collection or disclosure is: (1) necessary to perform the statutory duties of the University, or necessary for UB to operate a program authorized by law, or authorized by state or federal statute or regulation; (2) made pursuant to a court order or by law; (3) for the purpose of validating the identity of the [_user_ ;](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html#user) or (4) of information to be used solely for statistical purposes that is in a form that cannot be used to identify any particular person.
 
@@ -104,9 +104,8 @@ Shall have the meaning set forth in subdivision 5 of section 202 of the State Te
 
 Shall have the meaning set forth in subdivision 8 of section 202 of the State Technology Law.
 
-Questions concerning this policy may be directed to: [privacy@buffalo.edu](mailto:privacy@buffalo.edu)
-
 Privacy Compliance Office  
-Office of the CIO  
-517 Capen Hall  
-Buffalo, NY  14260
+Office of the Chief Information Officer  
+[517 Capen Hall](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CAPEN)  
+Buffalo, NY  14260  
+[privacy@buffalo.edu](mailto:privacy@buffalo.edu)
