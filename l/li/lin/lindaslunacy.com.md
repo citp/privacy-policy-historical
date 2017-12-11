@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindaslunacy.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611185843id_/http%3A//lindaslunacy.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindaslunacy.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211054108id_/http%3A//lindaslunacy.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - Linda's Lunacy
 
