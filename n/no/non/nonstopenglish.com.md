@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonstopenglish.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602194520id_/http%3A//www.nonstopenglish.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonstopenglish.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211215118id_/http%3A//www.nonstopenglish.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - NonStopEnglish.com
 
@@ -41,4 +41,4 @@ NonStopEnglish.com links to many Web sites. NonStopEnglish.com provides links to
 
 When users follow a link to an outside Web site, they are leaving NonStopEnglish.com and are subject to the privacy and security policies of the owners/sponsors of the outside Web site(s). NonStopEnglish.com is not responsible for the information collection practices of those sites. 
 
-Copyright © [NonStopEnglish.com](https://web.archive.org/web/20170602194520id_/http%3A//www.nonstopenglish.com/index.asp) | [Privacy Policy](https://web.archive.org/web/20170602194520id_/http%3A//www.nonstopenglish.com/privacy.asp) | [Contact Us](https://web.archive.org/web/20170602194520id_/http%3A//www.nonstopenglish.com/contact.html)
+Copyright © [NonStopEnglish.com](https://web.archive.org/web/20171211215118id_/http%3A//www.nonstopenglish.com/index.asp) | [Privacy Policy](https://web.archive.org/web/20171211215118id_/http%3A//www.nonstopenglish.com/privacy.asp) | [Contact Us](https://web.archive.org/web/20171211215118id_/http%3A//www.nonstopenglish.com/contact.html)
