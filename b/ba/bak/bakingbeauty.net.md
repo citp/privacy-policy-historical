@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakingbeauty.net privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610193907id_/http%3A//www.bakingbeauty.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakingbeauty.net privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211151350id_/http%3A//www.bakingbeauty.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Baking Beauty
 
@@ -9,6 +9,9 @@ This privacy policy sets out how <company name> uses and protects any informatio
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 <company name> may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from date.
+
+  
+
 
 What we collect
 
@@ -46,7 +49,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 Advertising
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](https://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you
 
 have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
@@ -66,7 +69,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 Opt Out
 
-For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy](https://www.gourmetads.com/about/privacy-policy)
+For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
 
