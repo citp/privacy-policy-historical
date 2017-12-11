@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pradhanmantriyojana.in privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609085545id_/http%3A//www.pradhanmantriyojana.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pradhanmantriyojana.in privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211035407id_/http%3A//www.pradhanmantriyojana.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -148,6 +148,6 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
  **•** Follow the instructions at the bottom of each email.
 
-admin@pradhanmantriyojana.in and we will promptly remove you from **ALL** correspondence
+support_desk@pradhanmantriyojana.in and we will promptly remove you from **ALL** correspondence
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
