@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612150236id_/http%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211015136id_/http%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
 
 # Privacy | ConceptDraw
 
@@ -44,6 +44,12 @@ We also reserve the right to share this data within our group of partners an
 Unless you expressly notify us to the contrary, we will maintain your personal data for future ordering and individual marketing purposes, after the specified services or products have been provided.
 
 Beyond this, our authorization to use and share this data will be restricted to the respective individual consent you grant us.
+
+### Online Services
+
+You retain full rights of your data uploaded to the online services. We store your data and only provide access by registration information of you and other registered users you chose to collaborate with. We will not sell, share, or rent your data to others in ways different from those disclosed in this Policy.
+
+We use outside vendors and hosting companies to provide the necessary hardware, software, networking, storage, and related technology required to run our services. We retain full rights of ownership on our software, designs, code, databases, and any other internally developed application to provide our online services.
 
 ### Electronic Product Registration
 
