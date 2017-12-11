@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the lifebru.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162424id_/http%3A//lifebru.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifebru.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211123529id_/http%3A//lifebru.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Lifebru
 
 Last updated: June 17, 2014
 
-Lifebru.com (“us”, “we”, or “our”) operates the lifebru.com website (the “Service”).
+Lifebru.com (“us”, “we”, or “our”) operates the Lifebru.com website (the “Service”).
 
 This page informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at lifebru.com
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at Lifebru.com
 
 Information Collection And Use
 
@@ -24,13 +24,13 @@ In addition, we may use third-party services such as Google Analytics that colle
 
 Cookies
 
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your computer’s hard drive.
 
 We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
 Cookies…(cont)
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here (http://www.networkadvertising.org/choices)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here (<http://www.networkadvertising.org/choices>)
 
 Do Not Track Disclosure
 
@@ -60,7 +60,7 @@ International Transfer
 
 Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and processes it there.
+If you are located outside the United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to the United States and processes it there.
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
@@ -68,7 +68,7 @@ Links To Other Sites
 
 Our Service may contain links to other sites that are not operated by us. If you click on a third-party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
 Children’s Privacy
 
@@ -89,11 +89,11 @@ when you visit our Web site. These companies may use non-personally identifiable
 or scrolled over) during your visits to this and other Web sites in order to provide  
 advertisements about goods and services likely to be of greater interest to you. These  
 companies typically use a cookie or third party web beacon to collect this information. To learn  
-more about this behavioral advertising practice visit the NAI at http://www.networkadvertising.org. To  
-opt-out of this type of advertising, you can visit http://www.aboutads.info/choices.
+more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To  
+opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
 
 Contact Us
 
 If you have any questions about this Privacy Policy, please contact us.
 
-*“We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit* * http://www.networkadvertising.org/managing/opt_out.asp.”*
+*“We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit* * <http://www.networkadvertising.org/managing/opt_out.asp>.”*
