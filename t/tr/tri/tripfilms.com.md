@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripfilms.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514194240id_/http%3A//www.tripfilms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripfilms.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211084712id_/http%3A//www.tripfilms.com/privacy) for the most accurate reproduction.*
 
 # Tripfilms
 
