@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growthhackingidea.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623182456id_/http%3A//growthhackingidea.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growthhackingidea.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211113126id_/http%3A//growthhackingidea.com/privacy_policy.html) for the most accurate reproduction.*
 
 # growthhackingidea.com - privacy policy.
 
