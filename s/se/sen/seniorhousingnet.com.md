@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seniorhousingnet.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626232930id_/http%3A//www.move.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seniorhousingnet.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211203553id_/http%3A//www.move.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy » Move Inc.
 
