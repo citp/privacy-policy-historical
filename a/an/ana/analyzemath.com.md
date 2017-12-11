@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analyzemath.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126040528id_/http%3A//analyzemath.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analyzemath.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211192643id_/http%3A//www.analyzemath.com/privacy.html) for the most accurate reproduction.*
 
 # analyzemath.com | Privacy Policy
 
