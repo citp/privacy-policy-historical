@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the costcochecks.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624085309id_/http%3A//www.costcochecks.com/PrivacyPolicyRs.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costcochecks.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212001341id_/http%3A//www.costcochecks.com/PrivacyPolicyRs.aspx) for the most accurate reproduction.*
 
-# Billing Address - Harland Clarke Check Printing
+# Privacy Policy - Harland Clarke Check Printing
 
-**Harland Clarke Check Printing for Costco** is committed to protecting the privacy of our current and future customers. We utilize technology that gives you a powerful, safe ordering experience that we hope exceeds your expectations. We want to assure you that when we ask for consumer information, it’s done with the goal of improving our relationship. 
+**Costco Checks** knows that you care about how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our Privacy Policy. 
 
-The following statements will help you understand how we collect, use and safeguard information you provide. 
+The information we learn from customers helps us personalize and improve your shopping experience at Costco Checks. These are the types of information we gather: 
 
 ## Internet-Specific Information
 
@@ -18,28 +18,28 @@ Most web browsers automatically accept cookies, but you can usually change your 
 
 Our website is directed at adult consumers and guests. We do not knowingly solicit data from, or market to, children under age 13. Should children access our website, we are confident that parents will not judge any of the information provided as objectionable for viewing. If you are under 18, you may use the website only with the involvement of a parent or guardian.
 
-**Harland Clarke Check Printing for Costco** is not responsible for the content, privacy practices or information practices employed by sites linked to or from our website. In most cases, links to **non-Harland Clarke Check Printing** websites are provided solely as pointers to information on topics that may be useful to the user. 
+**Costco Checks** is not responsible for the content, privacy practices or information practices employed by sites linked to or from our website. In most cases, links other websites are provided solely as pointers to information on topics that may be useful to the user. 
 
 ## General Business Practices
 
-**Harland Clarke Check Printing for Costco** uses the information collected from you to process orders and to provide a more personalized shopping experience. 
+**Costco Checks** uses the information collected from you to process orders and to provide a more personalized shopping experience. 
 
-**Harland Clarke Check Printing for Costco** may also use your information to provide you order confirmation and shipment notification, as well as to communicate with you about products, services, and promotions in the future. We may use third party service providers to assist us in maintaining good consumer relations by communicating to you relevant announcements regarding exclusive sales, company information, and to conduct consumer surveys. We may also provide your information to third party service providers who assist us in fulfilling your order, as well as to financial institutions for customer verification and fraud prevention purposes. All of our third party service providers are required by contract not to otherwise disclose your personal information. The Harland Clarke Check Printing program for Costco Services is fulfilled through Harland Clarke, a trusted third party leader in the check manufacturing industry. Accordingly, data is gathered and compiled by Harland Clarke and is shared with Costco. Harland Clarke may advertise on other websites. 
+**Costco Checks** may also use your information to provide you order confirmation and shipment notification, as well as to communicate with you about products, services, and promotions in the future. We may use third party service providers to assist us in maintaining good consumer relations by communicating to you relevant announcements regarding exclusive sales, company information, and to conduct consumer surveys. We may also provide your information to third party service providers who assist us in fulfilling your order, as well as to financial institutions for customer verification and fraud prevention purposes. All of our third party service providers are required by contract not to otherwise disclose your personal information. The Harland Clarke Check Printing program for Costco Services is fulfilled through Harland Clarke, a trusted third party leader in the check manufacturing industry. Accordingly, data is gathered and compiled by Harland Clarke and is shared with Costco. Harland Clarke may advertise on other websites. 
 
 We may change our privacy policy at any time. Any changes to the privacy policy will be posted on this website so that you are aware of the information we collect, how we use it, as well as the latest updates on how we maintain the secure portions of our website. 
 
-By purchasing products or services from **Harland Clarke Check Printing for Costco** or using the website, you consent to this Privacy Policy. If you do not agree with this policy, please do not purchase from **Harland Clarke Check Printing for Costco**. We reserve the right, at our discretion, to change, modify, add or remove portions from this policy at any time. You agree that your continued purchases or continued use of the **Harland Clarke Check Printing for Costco** website following the posting of changes to these terms indicates your acceptance of our changes. 
+By purchasing products or services from **Costco Checks** or using the website, you consent to this Privacy Policy. If you do not agree with this policy, please do not purchase from **Costco Checks**. We reserve the right, at our discretion, to change, modify, add or remove portions from this policy at any time. You agree that your continued purchases or continued use of the **Costco Checks** website following the posting of changes to these terms indicates your acceptance of our changes. 
 
 ## Contact Information
 
-**Harland Clarke Check Printing for Costco** is committed to ensuring that the information we obtain and use about consumers is accurate. You can help us maintain the accuracy of information previously provided or information we may have collected by modifying your profile information directly through the website. 
+**Costco Checks** is committed to ensuring that the information we obtain and use about consumers is accurate. You can help us maintain the accuracy of information previously provided or information we may have collected by modifying your profile information directly through the website. 
 
-If you have any questions about this privacy statement or the practices of this site, please contact us at (855) 556-5283 or at the address listed below. 
+If you have any questions about this privacy statement or the practices of this site, please contact us at 1-855-556-5283 or at the address listed below. 
 
-  * **Harland Clarke Check Printing for Costco**
+  * **Harland Clarke Check Printing**
   * P.O. Box 351220 
   * New Braunfels, Texas 78135 
-  * Phone: (855) 556-5283 
+  * Phone: 1-855-556-5283 
 
 
 
@@ -66,7 +66,7 @@ We also collect information from you when you give us permission to access it. F
 We may collect certain technical information about your visits to our online environments without you actively submitting such information. This information can make your use of our online environments easier and more meaningful by allowing us to provide better service, customize our online environments based on consumer preferences, compile statistics, provide you with more relevant advertisements, analyze trends and otherwise administer and improve our online environments. Some of the types of technical information collected automatically when visiting our online environments include: 
 
   * **Log Data**. When you use our online environments, our servers automatically record information (“ **log data** ”), including information that your browser or mobile app sends whenever you visit or use our online environments. This log data may include your Internet Protocol address, browser type and settings, the date and time of your request, how you used our online environments and cookie data; 
-  * **Cookie Data**. Depending on how you are accessing our online environments, we may use “ **cookies** ” (a small text file sent by your device each time you visit our websites, unique to your **Harland Clarke Check Printing for Costco** account or your browser) or similar technologies to record log data. When we use cookies, we may use “session” cookies (that last until you close your browser) or “persistent” cookies (that last until you or your browser delete them). For example, we may use cookies to remember your personal preferences, such as sections of our online environments that you visit frequently, your user ID or other settings so you don’t have to set them up every time you visit our online environments. Some of the cookies we use are associated with your **Harland Clarke Check Printing for Costco** account (including information about you, such as the email address you gave us), and other cookies are not. 
+  * **Cookie Data**. Depending on how you are accessing our online environments, we may use “ **cookies** ” (a small text file sent by your device each time you visit our websites, unique to your **Costco Checks** account or your browser) or similar technologies to record log data. When we use cookies, we may use “session” cookies (that last until you close your browser) or “persistent” cookies (that last until you or your browser delete them). For example, we may use cookies to remember your personal preferences, such as sections of our online environments that you visit frequently, your user ID or other settings so you don’t have to set them up every time you visit our online environments. Some of the cookies we use are associated with your **Costco Checks** account (including information about you, such as the email address you gave us), and other cookies are not. 
   * **Device Information**. In addition to log data, we may also collect information about the device you are using to access our online environments, including what type of device it is, what operating system you are using, device settings, unique device identifiers and crash data. Whether we collect some or all of this information often depends on what type of device you are using and its settings. For example, different types of information are available depending on whether you are using a Mac or a PC, or an iPhone or an Android phone. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider. 
 
 
@@ -114,9 +114,9 @@ Some of our applications and mobile-optimized online environments may have locat
 
 We use common tools, such as cookies and similar technologies (discussed in the “Technical Information Collected Automatically” section above), to collect information about consumers’ use of our online environments for purposes of enhancing their online experience and delivering more meaningful advertisements. Like many companies, we may also utilize third party advertising vendors and other partners to collect this information. 
 
-One way in which we deliver more meaningful advertisements is through a common form of online advertising known as “ **retargeting** ” or “ **remarketing**.” Retargeting works by serving ads on one site based on consumers’ online activities on a different site. To do this, **Harland Clarke Check Printing for Costco** or our advertising vendors may use a device ID, cookie or similar technology placed by us or the advertising vendor when you visit our online environments or third party websites or apps. The placing of these cookies or other technologies on your device may enable you to be identified across multiple websites and you should consult the privacy policies of our advertising vendors to understand how they collect and use your data. 
+One way in which we deliver more meaningful advertisements is through a common form of online advertising known as “ **retargeting** ” or “ **remarketing**.” Retargeting works by serving ads on one site based on consumers’ online activities on a different site. To do this, **Costco Checks** or our advertising vendors may use a device ID, cookie or similar technology placed by us or the advertising vendor when you visit our online environments or third party websites or apps. The placing of these cookies or other technologies on your device may enable you to be identified across multiple websites and you should consult the privacy policies of our advertising vendors to understand how they collect and use your data. 
 
-Harland Clarke Check Printing for Costco facilitates the collection and use of data by our customers in connection with interest-based advertising. Harland Clarke Check Printing for Costco adheres to the [DAA principles governing online marketing and data sharing](http://www.aboutads.info/principles).
+Costco Checks facilitates the collection and use of data by our customers in connection with interest-based advertising. **Costco Checks** adheres to the [DAA principles governing online marketing and data sharing](http://www.aboutads.info/principles).
 
 You may opt out using tools provided by the following industry groups.
 
