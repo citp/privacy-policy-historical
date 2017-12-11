@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changelly.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208123756id_/https%3A//changelly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changelly.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211092427id_/https%3A//changelly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,4 +28,4 @@ This Policy may be amended at our full discretion without prior notice. We encou
 
  **Contacting us**
 
-If you have any questions about this Privacy Policy or the rules of changelly.com, please contact us at: [support@changelly.com](mailto:support@changelly.com)
+If you have any questions about this Privacy Policy or the rules of changelly.com, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#54272124243b262014373c353a333138382d7a373b39)
