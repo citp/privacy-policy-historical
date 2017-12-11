@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ismyshowcancelled.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014102id_/http%3A//www.ismyshowcancelled.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ismyshowcancelled.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211125515id_/http%3A//www.ismyshowcancelled.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Cancelled TV Shows, Renewed Shows, Television News, Ratings Charts - IsMyShowCancelled.com
+
+## Privacy Policy for IsMyShowCancelled.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@ismyshowcancelled.com. 
 
