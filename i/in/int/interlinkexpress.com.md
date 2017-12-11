@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611175800id_/http%3A//www.dpdlocal.co.uk/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211125626id_/http%3A//www.dpdlocal.co.uk/privacy_policy.jsp) for the most accurate reproduction.*
 
 # DPD Local - Privacy & Cookie Policy
 
