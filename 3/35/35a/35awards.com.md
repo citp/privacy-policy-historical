@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 35awards.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405053858id_/http%3A//35awards.com/page/private_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 35awards.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211215722id_/http%3A//2017.35awards.com/page/private_privacy) for the most accurate reproduction.*
 
 # International photo contest 2016 - 100 BEST PHOTOS of the year
+
+[](http://adv.muslib.ru/www/delivery/ck.php?zoneid=7&cb=761394)
 
 35AWARDS is founded on the principle of helping people discover new photos and photographers. 
 
