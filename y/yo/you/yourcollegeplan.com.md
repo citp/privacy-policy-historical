@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourcollegeplan.com privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308020251id_/http%3A//www.yourcollegeplan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcollegeplan.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211204454id_/http%3A//yourcollegeplan.com/privacy.html) for the most accurate reproduction.*
 
 # YourCollegePlan.com
 
