@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emdt.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045153id_/http%3A//www.ubmcanon.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emdt.co.uk privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211164927id_/http%3A//www.ubmcanon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · UBM
 
@@ -6,13 +6,13 @@ Effective: November 22, 2013
 
 ### Scope
 
-Welcome to UBM Canon LLC (“UBM Canon” or “we”). 
+Welcome to UBM Canon LLC (“UBM Canon” or “we”).
 
-UBM Canon is the leading B2B media company dedicated exclusively to the global advanced manufacturing sector, a $3.0 trillion business. We create face to face events and premier business and professional content and offer people in our business and professional communities a number of ways to connect directly with one another. We support the flow of information, commerce and innovation in such sophisticated segments as medical devices and pharmaceutical development. We address cutting edge developments in the broader areas of advanced engineering design and manufacturing, manufacturing processes and packaging. We help you succeed in an advanced, technology driven manufacturing world. 
+UBM Canon is the leading B2B media company dedicated exclusively to the global advanced manufacturing sector, a $3.0 trillion business. We create face to face events and premier business and professional content and offer people in our business and professional communities a number of ways to connect directly with one another. We support the flow of information, commerce and innovation in such sophisticated segments as medical devices and pharmaceutical development. We address cutting edge developments in the broader areas of advanced engineering design and manufacturing, manufacturing processes and packaging. We help you succeed in an advanced, technology driven manufacturing world.
 
 We publish this Privacy Policy to let you know how we collect and use data about you as individuals in your business and professional roles and to describe what choices you have.
 
-This Privacy Policy covers information which you give us about yourself in a business or professional role as you 
+This Privacy Policy covers information which you give us about yourself in a business or professional role as you
 
   * register for or attend our face to face events that take place in the United States;
   * subscribe to any of our print publications distributed around the world, access digital editions of those publications, or sign up for webinars or online venues offered to subscribers; or
@@ -24,7 +24,7 @@ We will post or display a link to this UBM Canon LLC Privacy Policy on all our f
 
 ### Information That Identifies You
 
-We rely on the information you provide to us as you register, contact us, participate in surveys, post comments to public areas of and interact with digital properties and assets, respond to email campaigns, participate in webinars or online events or attend face to face events. 
+We rely on the information you provide to us as you register, contact us, participate in surveys, post comments to public areas of and interact with digital properties and assets, respond to email campaigns, participate in webinars or online events or attend face to face events.
 
 Once you have registered with us, we will create a profile for you. We will add information about how you interact with our offerings for example, your registrations or subscriptions, the events you attend, the content you access and the like. We may also add information to your profile from external sources.
 
@@ -32,7 +32,7 @@ We may work to expand our communities by acquiring names and contact details fro
 
 ### Automatic Data Collection Technologies
 
-We also use cookies and common data collection technologies, including web beacons and clear GIFs associated with cookies, on our web pages, in newsletters, and in our email campaigns to collect information both on an aggregate and individual basis. 
+We also use cookies and common data collection technologies, including web beacons and clear GIFs associated with cookies, on our web pages, in newsletters, and in our email campaigns to collect information both on an aggregate and individual basis.
 
 Some of our web sites use Adobe Flash to provide video content, and the Adobe Flash Player has the ability to separately store information about that particular Flash application. We do not associate this Adobe Flash stored information with you as an individual. Please see the [Adobe Flash Player Help](http://helpx.adobe.com/flash-player.html) page for additional information about controlling the settings of the Adobe Flash Player on your computer.
 
@@ -49,7 +49,7 @@ We use information about you:
   * to provide the services, publications, and information you request and to manage your account with us.
   * to deliver or display content that matches your professional interests and responsibilities.
   * to contact you with information about and invitations for products and services – ours and other companies’ – directed to your professional interests and responsibilities.
-  * to offer you opportunities to connect directly with your peers and with sellers of technology that may be of interest to you. 
+  * to offer you opportunities to connect directly with your peers and with sellers of technology that may be of interest to you.
   * to give suppliers in our communities a limited opportunity to find you: We make contact data, including email addresses, available in a subscription-only data base for our exhibitors and sponsors. If you wish to find out whether contact information about you is in this data base or to have data removed, please email us at [canonprivacyrequests@ubm.com](mailto:canonprivacyrequests@ubm.com).
   * for any other purpose that we tell you about when you give us the information.
 
@@ -61,12 +61,12 @@ You have choices about:
 
 **Receiving email marketing messages from us.**
 
-You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails. 
+You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails.
 
-To avoid confusion, please note that 
+To avoid confusion, please note that
 
-  * We have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all email marketing from UBM Canon LLC, you may send a request to [canonprivacyrequests@ubm.com](mailto:canonprivacyrequests@ubm.com).
-  * Affiliated companies within the UBM plc group, see [www.ubm.com](http://www.ubm.com/), use Canon brands to offer face to face events and digital offerings outside of the United States. These affiliates may publish separate privacy policies and so, collect and use data about you in other ways If you wish to remove your email address from another UBM affiliate’s list, kindly use the unsubscribe mechanism provided in emails you receive from that affiliate or contact that affiliate directly. 
+  * We have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all email marketing from UBM Canon LLC, you may [unsubscribe here](http://go.ubmamg-media.com/21_SYSTEM_AMG_UNSUBSCRIBE_WEBSITE). 
+  * Affiliated companies within the UBM plc group, see [www.ubm.com](http://www.ubm.com/), use Canon brands to offer face to face events and digital offerings outside of the United States. These affiliates may publish separate privacy policies and so, collect and use data about you in other ways If you wish to remove your email address from another UBM affiliate’s list, kindly use the unsubscribe mechanism provided in emails you receive from that affiliate or contact that affiliate directly.
   * You may receive email marketing messages from us about other companies’ offerings as part of a partner marketing program. To opt out of a partner marketing email program, you may follow the instructions at the bottom of any email we send you as part of the program.
 
 
@@ -91,13 +91,13 @@ To avoid confusion, please note that
 
 If you want to know how a vendor or advertiser will use data about you, we urge you to check that vendor’s or advertiser’s privacy policy.
 
-We will use one or more cookies to track your interests in the digital resources listed above. Your registration for and log on to any of the above specific, gated activities will constitute you consent to be tracked as described and to be put in touch directly with any vendors you select. If you wish to withdraw that consent, simply do not attend the event or access the resources. 
+We will use one or more cookies to track your interests in the digital resources listed above. Your registration for and log on to any of the above specific, gated activities will constitute you consent to be tracked as described and to be put in touch directly with any vendors you select. If you wish to withdraw that consent, simply do not attend the event or access the resources.
 
 **Making information you provide public.**
 
   * We offer web sites that allow you to publish content. Many of these sites require that you register if you wish to do so. We will publish the user name you provide at registration when you comment. Some sites allow you to create a public profile as well.
   * Our online event venues also allow you to have both public and closed communications with exhibitors and other participants. Information that identifies you will be published or shared according to your choices in that venue.
-  * In addition, we may create online membership communities that allow you to create and publish your profile and other information. These communities may provide privacy controls which allow you to choose how much of your profile and other information to make public or to share with others within the community. As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide. 
+  * In addition, we may create online membership communities that allow you to create and publish your profile and other information. These communities may provide privacy controls which allow you to choose how much of your profile and other information to make public or to share with others within the community. As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide.
   * Some of our apps allow you to publish information available to others who are also using the same app, for example, at a face to face event. We recommend that you understand how the app will work, what access it may have to your social media or other accounts, and what choices you may have.
 
 
@@ -120,17 +120,17 @@ We place cookies that identify you, or allow third parties to do so on our behal
 
 
 
-You may use the tools in your browser to decline, disable, or delete any cookies. 
+You may use the tools in your browser to decline, disable, or delete any cookies.
 
-You will still be able to log on to a gated digital property if you decline or delete the persistent cookie that enables automatic recognition but you will need to log on each time. 
+You will still be able to log on to a gated digital property if you decline or delete the persistent cookie that enables automatic recognition but you will need to log on each time.
 
 **Third party advertising cookies.**
 
-We allow other companies, called third party ad servers, to serve ads on our digital properties. We currently allow the following companies to do so: 
+We allow other companies, called third party ad servers, to serve ads on our digital properties. We currently allow the following companies to do so:
 
   * [Atlas](http://atlassolutions.com/privacy-policy)
-  * [Google’s DoubleClick](https://support.google.com/dfp_premium/answer/2839090?hl=en), and 
-  * [MediaPlex](http://www.mediaplex.com/opt-out). 
+  * [Google’s DoubleClick](https://support.google.com/dfp_premium/answer/2839090?hl=en), and
+  * [MediaPlex](http://www.mediaplex.com/opt-out).
 
 
 
@@ -154,7 +154,7 @@ This Privacy Policy covers how we use information you provide. We cannot control
 
 Please note that virtual events may mimic face to face events by automatically displaying information about you to other participants in the event. We cannot control how other participants use that displayed information, so please take a moment to make sure you understand how a particular virtual event works and what choices you have within the environment.
 
-Our products, services, events and offerings are directed to professionals. They are not intended for children under the age of thirteen. 
+Our products, services, events and offerings are directed to professionals. They are not intended for children under the age of thirteen.
 
 ### Changes
 
@@ -164,7 +164,7 @@ We will post and date any changes to this Privacy Policy. Please check here peri
 
 For questions about this Privacy Policy, please contact:
 
-[canonprivacyrequests@ubm.com](mailto:canonprivacyrequests@ubm.com) or 
+[canonprivacyrequests@ubm.com](mailto:canonprivacyrequests@ubm.com) or
 
 UBM Canon LLC  
 Attn: UBM Legal  
