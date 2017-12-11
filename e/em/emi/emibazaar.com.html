@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emibazaar.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606115725id_/http%3A//emibazaar.com/Pages/Privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emibazaar.com privacy policy that was archived on 2017-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171211043359id_/http%3A//www.emibazaar.com/Pages/Privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy : EMI Online Shopping: Shop Online for Mobiles,Laptops,Cameras,Watches with EMI on Debit card,Credit card &amp; Consumer Durable Loans
@@ -17,156 +17,124 @@ body {
 </style>
 <script type="text/javascript">
 <!--
-var timeout         = 500;
-var closetimer		= 0;
-var ddmenuitem      = 0;
+    var timeout = 500;
+    var closetimer = 0;
+    var ddmenuitem = 0;
 
-// open hidden layer
-function mopen(id)
-{	
-	// cancel close timer
-	mcancelclosetime();
+    // open hidden layer
+    function mopen(id) {
+        // cancel close timer
+        mcancelclosetime();
 
-	// close old layer
-	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+        // close old layer
+        if (ddmenuitem) ddmenuitem.style.visibility = 'hidden';
 
-	// get new layer and show it
-	ddmenuitem = document.getElementById(id);
-	ddmenuitem.style.visibility = 'visible';
+        // get new layer and show it
+        ddmenuitem = document.getElementById(id);
+        ddmenuitem.style.visibility = 'visible';
 
-}
-// close showed layer
-function mclose()
-{
-	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
-}
+    }
+    // close showed layer
+    function mclose() {
+        if (ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+    }
 
-// go close timer
-function mclosetime()
-{
-	closetimer = window.setTimeout(mclose, timeout);
-}
+    // go close timer
+    function mclosetime() {
+        closetimer = window.setTimeout(mclose, timeout);
+    }
 
-// cancel close timer
-function mcancelclosetime()
-{
-	if(closetimer)
-	{
-		window.clearTimeout(closetimer);
-		closetimer = null;
-	}
-}
+    // cancel close timer
+    function mcancelclosetime() {
+        if (closetimer) {
+            window.clearTimeout(closetimer);
+            closetimer = null;
+        }
+    }
 
-// close layer when click-out
-document.onclick = mclose; 
-// -->
+    // close layer when click-out
+    document.onclick = mclose;
+    // -->
 </script>
 
    <script type="text/javascript">
-    //<![CDATA[
+       //<![CDATA[
 
-    var tabLinks = new Array();
-    var contentDivs = new Array();
+       var tabLinks = new Array();
+       var contentDivs = new Array();
 
-    function init() {
+       function init() {
 
-      // Grab the tab links and content divs from the page
-      var tabListItems = document.getElementById('tabs').childNodes;
-      for ( var i = 0; i < tabListItems.length; i++ ) {
-        if ( tabListItems[i].nodeName == "LI" ) {
-          var tabLink = getFirstChildWithTagName( tabListItems[i], 'A' );
-          var id = getHash( tabLink.getAttribute('href') );
-          tabLinks[id] = tabLink;
-          contentDivs[id] = document.getElementById( id );
-        }
-      }
+           // Grab the tab links and content divs from the page
+           var tabListItems = document.getElementById('tabs').childNodes;
+           for (var i = 0; i < tabListItems.length; i++) {
+               if (tabListItems[i].nodeName == "LI") {
+                   var tabLink = getFirstChildWithTagName(tabListItems[i], 'A');
+                   var id = getHash(tabLink.getAttribute('href'));
+                   tabLinks[id] = tabLink;
+                   contentDivs[id] = document.getElementById(id);
+               }
+           }
 
-      // Assign onclick events to the tab links, and
-      // highlight the first tab
-      var i = 0;
+           // Assign onclick events to the tab links, and
+           // highlight the first tab
+           var i = 0;
 
-      for ( var id in tabLinks ) {
-        tabLinks[id].onclick = showTab;
-        tabLinks[id].onfocus = function() { this.blur() };
-        if ( i == 0 ) tabLinks[id].className = 'selected';
-        i++;
-      }
+           for (var id in tabLinks) {
+               tabLinks[id].onclick = showTab;
+               tabLinks[id].onfocus = function () { this.blur() };
+               if (i == 0) tabLinks[id].className = 'selected';
+               i++;
+           }
 
-      // Hide all content divs except the first
-      var i = 0;
+           // Hide all content divs except the first
+           var i = 0;
 
-      for ( var id in contentDivs ) {
-        if ( i != 0 ) contentDivs[id].className = 'tabContent hide';
-        i++;
-      }
-    }
+           for (var id in contentDivs) {
+               if (i != 0) contentDivs[id].className = 'tabContent hide';
+               i++;
+           }
+       }
 
-    function showTab() {
-      var selectedId = getHash( this.getAttribute('href') );
+       function showTab() {
+           var selectedId = getHash(this.getAttribute('href'));
 
-      // Highlight the selected tab, and dim all others.
-      // Also show the selected content div, and hide all others.
-      for ( var id in contentDivs ) {
-        if ( id == selectedId ) {
-          tabLinks[id].className = 'selected';
-          contentDivs[id].className = 'tabContent';
-        } else {
-          tabLinks[id].className = '';
-          contentDivs[id].className = 'tabContent hide';
-        }
-      }
+           // Highlight the selected tab, and dim all others.
+           // Also show the selected content div, and hide all others.
+           for (var id in contentDivs) {
+               if (id == selectedId) {
+                   tabLinks[id].className = 'selected';
+                   contentDivs[id].className = 'tabContent';
+               } else {
+                   tabLinks[id].className = '';
+                   contentDivs[id].className = 'tabContent hide';
+               }
+           }
 
-      // Stop the browser following the link
-      return false;
-    }
+           // Stop the browser following the link
+           return false;
+       }
 
-    function getFirstChildWithTagName( element, tagName ) {
-      for ( var i = 0; i < element.childNodes.length; i++ ) {
-        if ( element.childNodes[i].nodeName == tagName ) return element.childNodes[i];
-      }
-    }
+       function getFirstChildWithTagName(element, tagName) {
+           for (var i = 0; i < element.childNodes.length; i++) {
+               if (element.childNodes[i].nodeName == tagName) return element.childNodes[i];
+           }
+       }
 
-    function getHash( url ) {
-      var hashPos = url.lastIndexOf ( '#' );
-      return url.substring( hashPos + 1 );
-    }
+       function getHash(url) {
+           var hashPos = url.lastIndexOf('#');
+           return url.substring(hashPos + 1);
+       }
 
-    //]]>
+       //]]>
     </script>
 </head>
 <body>
     <form name="aspnetForm" method="post" action="Privacypolicy.aspx" id="aspnetForm">
-<div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAw9kFgYCAQ8PFgQeBFRleHQFBUxvZ2luHgtDb21tYW5kTmFtZQUFTG9naW5kZAIFDw8WAh8ABQ1XZWxjb21lIEd1ZXN0ZGQCBw8PFgIfAAUHMCBJdGVtc2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ9jdGwwMCRidG5TZWFyY2h7H0v/wqUJbPqY4bcaVtcny7HsfQ==">
-</div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAw9kFgYCAQ8PFgQeBFRleHQFBUxvZ2luHgtDb21tYW5kTmFtZQUFTG9naW5kZAIFDw8WAh8ABQ1XZWxjb21lIEd1ZXN0ZGQCBw8PFgIfAAUHMCBJdGVtc2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ9jdGwwMCRidG5TZWFyY2h7wjYWxzAbzKpflZOe5zOSahfrGp7Wh50uKJzfY2iwAg==">
 
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-if (!theForm) {
-    theForm = document.aspnetForm;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=8w3PXXCoKMKBSxDxXfwkV-JkmxvMj7bOLr9aEouz0zwhLcuWa7ogEJxwo1igwl4woe_1HbIhKRsCpoO_Gi6weIPtie81&amp;t=635588618575142005" type="text/javascript"></script>
-
-<div>
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="82959E0B">
-	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="I2li-pzHXf95NqahWDBv1JSbBBqKtLGzl0M68wYXTBG7QhMLVzPIa2GrGVbM8LRf-aYWiujZxmqFYuxYDEm_g4MgnPwJt1lgbm3quKfwiFLvRAGV0">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKMlNvBAQLnrI+ZDwL/pMzhBwLE5ML0AgL9n+COAhoUCMVsSX4rU756qVijsCH4N391">
-</div>
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="dfwx8GH3HPppfnDs9p0kIMPlifNkryPy56pnSXJzXSr-vxOVYWyS1Dd5GKQNOqyOgs9V6enwG3N5FPx_R9BBHcL5F0HxIlAy1MLyVOMxW19zG-TlZDaxBnEbTHbgpr8M0">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUlcT3GOeZ6ueo9UhBH26nlSRZVUtO1aEx/UVNm/L2iDaB+WHUewCuP8yRZZR8pawnj7dallA1vzavOzYqdPeuHVXpGQB+5+uolroumqcYWC5aiePA3xrpmST6TsPmoZqZ0erH2TE3cxFXUQnL7ep+n">
     <div>
 <table width="1024" border="0" align="center" cellpadding="0" cellspacing="0" class="boarder">
   <tbody><tr>
@@ -207,7 +175,8 @@ function __doPostBack(eventTarget, eventArgument) {
         <tbody><tr>
           <td width="10" height="50"></td>
           <td width="430"><a href="../Pages/Home.aspx"><img src="../Images/EmibzrLogo.jpg"></a></td>
-          <td width="134"><img src="../Images/cal2ord.jpg"></td>
+          
+            <td width="134"></td>
           <td width="260" class="WelcmTxt">
               &nbsp;<span id="ctl00_btnWelcome">Welcome Guest</span></td>
           <td width="80" align="right"><a href="../Pages/ShoppingCart.aspx"><img src="../Images/cart.gif"></a></td>
@@ -277,9 +246,9 @@ function __doPostBack(eventTarget, eventArgument) {
               <table border="0" cellpadding="0" cellspacing="0">
                   <tbody><tr>
                       <td style="height: 30px; width:275px" align="right">
-                          <input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" class="seachtxtbox" style="height:22px;width:266px;"></td>
+                          <input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" class="seachtxtbox"></td>
                       <td align="left" style="width: 30px">
-                          <input type="image" name="ctl00$btnSearch" id="ctl00_btnSearch" src="../Images/searchicon.jpg" style="border-width:0px;"></td>
+                          <input type="image" name="ctl00$btnSearch" id="ctl00_btnSearch" src="../Images/searchicon.jpg" border="0"></td>
                   </tr>
               </tbody></table>
           </td>
@@ -550,7 +519,7 @@ function __doPostBack(eventTarget, eventArgument) {
               <td class="runtxt"></td>
               <td></td>
             </tr>
-            <tr>
+            <tr style="display:none;">
               <td height="25" class="runtxt">&nbsp;</td>
               <td class="runtxt"><strong>How can you make changes to any inaccurate information on our website?</strong></td>
               <td>&nbsp;</td>
@@ -560,7 +529,7 @@ function __doPostBack(eventTarget, eventArgument) {
               <td></td>
               <td></td>
             </tr>
-            <tr>
+            <tr style="display:none;">
               <td height="25" class="runtxt">&nbsp;</td>
               <td class="runtxt">To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can use any of the following options:</td>
               <td>&nbsp;</td>
@@ -573,7 +542,7 @@ function __doPostBack(eventTarget, eventArgument) {
             <tr>
               <td height="25">&nbsp;</td>
               <td class="runtxt">Send an e-mail to cservice@emibazaar.com <br>
-                You can reach us at: +91 (44) 2836 0151. Toll free: 1800-102-2770.</td>
+                You can reach us at: +91 (44) 2433 2455. Toll free: 1800-102-2770.</td>
               <td>&nbsp;</td>
             </tr>
             <tr>
@@ -624,10 +593,10 @@ function __doPostBack(eventTarget, eventArgument) {
             <tr>
               <td height="25">&nbsp;</td>
               <td class="runtxt">EMIBAZAAR<br>
-                Alsa Regency, <br>
-                165 Eldams Road Alwarpet, <br>
+                ROYAL IMAGES CATALOGUE PVT LTD, <br>
+                NO.165 ALSA REGENCY,ELDAMS ROAD, <br>
                 Chennai - 600018 Tamilnadu, <br>
-                India. Tel:+91 (44) 2836 0151.<br>
+                India. Tel:+91 (44) 2433 2455.<br>
                 Email:cservice@emibazaar.com</td>
               <td>&nbsp;</td>
             </tr>
@@ -670,24 +639,16 @@ function __doPostBack(eventTarget, eventArgument) {
                         <td></td>
                         <td><span class="BtmMenu"><a href="../Pages/Privacypolicy.aspx" class="BtmMenu">Privacy Policy</a></span></td>
                         <td></td>
-                        <td><span class="BtmMenu"><a href="../Pages/Returnpolicy.aspx" class="BtmMenu">Return Policy</a></span></td>
+                        <td><span class="BtmMenu"><a href="../Pages/Returnpolicy.aspx" class="BtmMenu" style="display:none;">Return Policy</a></span></td>
                       </tr>
                     </tbody></table>
                     </td>
                     <td width="20" align="left"><img src="../Images/verline.jpg" width="1" height="70"></td>
-                    <td width="604"><table width="654">
-                      <tbody><tr>
-                        <td width="198">
-                            <img src="../Images/EasyEMI.jpg"></td>
-                        <td width="10">&nbsp;</td>
-                        <td width="198">
-                            <img src="../Images/15days.jpg"></td>
-                        <td width="40">&nbsp;</td>
-                        <td width="198">
-                            <img src="../Images/FREE.jpg"></td>
-                        <td width="50">&nbsp;</td>
-                      </tr>
-                    </tbody></table></td>
+                    <td width="604">
+                        Powered by  &nbsp;&nbsp;<img src="../Images/kisshtlogo.png">
+                        
+
+                    </td>
                   </tr>
                 </tbody></table>                  
                   </td>
@@ -696,9 +657,7 @@ function __doPostBack(eventTarget, eventArgument) {
               <td height="1" colspan="7" bgcolor="#969595"></td>
               </tr>              
 
-            <tr>
-              <td colspan="7" align="center" bgcolor="#eeeeee"><img src="../Images/LogoBtm.jpg" width="1024" height="133"></td>
-            </tr>
+           
             <tr>
               <td colspan="7" align="center" bgcolor="#eeeeee"><table width="1024" class="BtmGray">
                 <tbody><tr>
@@ -748,7 +707,7 @@ function __doPostBack(eventTarget, eventArgument) {
         <tr>
           <td height="15" align="center"><table width="1010" align="center">
             <tbody><tr>
-              <td class="BtmText">© 2016 emibazaar.com. ALL RIGHTS RESERVED. Emibazaar.com is a fast growing e-commerce company which offers customers the convenience of shopping online or ordering on phone. We are India’s leading online shopping portal offering great discounts and products on easy installments not only on credit cards, but also EMI without credit cards &amp; EMI on debit cards to customers. Our easy EMI options make aspirations affordable to all. You can shop online at Emibazaar.com using credit cards as well as debit cards from all leading Banks including HDFC, HSBC, CITI Bank, Kotak, IndusInd, ICICI, Axis, Standard Chartered, SBI Bank &amp; RBL Bank. We are also partnered with NBFC’s like Bajaj FinServ to satisfy the needs of non-credit card holders. We hold a diverse mix of products across popular categories ranging from mobiles, computers, cameras, home/kitchen appliances to health and grooming products, watches, perfumes, bags and toys, all at competitive prices and Easy EMIs to make online shopping convenient. The top-selling brands that we provide are Samsung, Nokia, Blackberry, Apple, Dell, Toshiba, Sony, Canon, Nikon, Panasonic, Philips, Bajaj, Jaipan, BPL, Braun, Skullcandy, Casio, Citizen, Reebok, Tag Heuer, Calvin Klein, Lavie and American Tourister. One of the fastest growing online shopping portals, Emibazaar.com offers a hassle-free experience of shopping online by offering 15-days money-back guarantee and free all-India delivery. With a wide range of products and convenient EMIs on debit cards and credit cards, get set to enjoy a simple, stress-free and smart online shopping experience with Emibazaar.com.</td>
+              <td class="BtmText">© 2017 emibazaar.com. ALL RIGHTS RESERVED. Emibazaar.com is a fast growing e-commerce company which offers customers the convenience of shopping online or ordering on phone. We are India’s leading online shopping portal offering great discounts and products on easy installments not only on credit cards, but also EMI without credit cards &amp; EMI on debit cards to customers. Our easy EMI options make aspirations affordable to all. You can shop online at Emibazaar.com using credit cards as well as debit cards from all leading Banks including HDFC, HSBC, CITI Bank, Kotak, IndusInd, ICICI, Axis, Standard Chartered, SBI Bank &amp; RBL Bank. We are also partnered with NBFC’s like Bajaj FinServ to satisfy the needs of non-credit card holders. We hold a diverse mix of products across popular categories ranging from mobiles, computers, cameras, home/kitchen appliances to health and grooming products, watches, perfumes, bags and toys, all at competitive prices and Easy EMIs to make online shopping convenient. The top-selling brands that we provide are Samsung, Nokia, Blackberry, Apple, Dell, Toshiba, Sony, Canon, Nikon, Panasonic, Philips, Bajaj, Jaipan, BPL, Braun, Skullcandy, Casio, Citizen, Reebok, Tag Heuer, Calvin Klein, Lavie and American Tourister. One of the fastest growing online shopping portals, Emibazaar.com offers a hassle-free experience of shopping online by offering 15-days money-back guarantee and free all-India delivery. With a wide range of products and convenient EMIs on debit cards and credit cards, get set to enjoy a simple, stress-free and smart online shopping experience with Emibazaar.com.</td>
             </tr>
           </tbody></table></td>
         </tr>
@@ -775,14 +734,14 @@ function __doPostBack(eventTarget, eventArgument) {
     </form>
     		<!-- Google Code for All Visitors Remarketing List -->
 		<script type="text/javascript">
-			/* <![CDATA[ */
-			var google_conversion_id = 968457540;
-			var google_conversion_language = "en";
-			var google_conversion_format = "3";
-			var google_conversion_color = "666666";
-			var google_conversion_label = "4-ikCNzgiwMQxPrlzQM";
-			var google_conversion_value = 0;
-			/* ]]> */
+		    /* <![CDATA[ */
+		    var google_conversion_id = 968457540;
+		    var google_conversion_language = "en";
+		    var google_conversion_format = "3";
+		    var google_conversion_color = "666666";
+		    var google_conversion_label = "4-ikCNzgiwMQxPrlzQM";
+		    var google_conversion_value = 0;
+		    /* ]]> */
 		</script>
 
 </body></html>
