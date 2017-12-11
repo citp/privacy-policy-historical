@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sho.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609084022id_/http%3A//www.sho.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sho.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211074757id_/http%3A//www.sho.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | SHOWTIME
 
@@ -162,9 +162,9 @@ This Privacy Policy is effective as of the Effective Date above. We may change t
 
 If you have any questions, comments or concerns regarding this Privacy Policy and/or our privacy practices, please contact us through the contact or help feature of the relevant Service or write to us at Showtime Networks Inc., 1633 Broadway, New York, NY 10019, Attn: Customer Service, or call our customer service department at (877)4-SHOWTIME ((877)474-6984). 
 
-### SERIES
+### Series
 
-[SERIES](https://web.archive.org/series)
+[Series](https://web.archive.org/series)
 
 ### Movies
 
