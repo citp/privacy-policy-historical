@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611164529id_/http%3A//www.sescoops.com/site-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211105207id_/http%3A//www.sescoops.com/site-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SEScoops Wrestling News
+# Privacy Policy - SEScoops
 
 SEScoops.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:
 
@@ -26,7 +26,7 @@ This site contains links to other sites. SEScoops.com is not responsible for the
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 **Data Quality/Access**  
-This site gives users the following options for changing and modifying information previously provided: You can send email to [**SEScoops@gmail.com**](mailto:sescoops@gmail.com).
+This site gives users the following options for changing and modifying information previously provided: You can send email to [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#04776177676b6b7477446369656d682a676b69).
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact email [**SEScoops@gmail.com**](mailto:sescoops@gmail.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact email [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#afdccadcccc0c0dfdcefc8c2cec6c381ccc0c2).
