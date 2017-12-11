@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myarchicad.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630063954id_/http%3A//www.graphisoft.com/info/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myarchicad.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211015225id_/http%3A//www.graphisoft.com/info/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ _Last updated: September 17, 2015_
 
 ## GRAPHISOFT Privacy Policy
 
-GRAPHISOFT SE (registered address: 1031 Budapest (GRAPHISOFT park), Záhony u 7, Hungary; hereinafter referred to as “GRAPHISOFT”) is constantly striving to provide excellent service to its customers and business partners, while building a long-lasting relationship. This privacy policy describes the privacy practices of GRAPHISOFT’s websites, as well as our products, online services and applications that include a link to this policy. This privacy policy also applies to GRAPHISOFT’s marketing and advertising practices. Please also see the [GRAPHISOFT Terms of Use](https://www.graphisoft.com/info/legal/terms_of_use/) and product specific End User License Agreements that may apply to the website or application you are using.
+GRAPHISOFT SE (registered address: 1031 Budapest (GRAPHISOFT park), Záhony u 7, Hungary; hereinafter referred to as “GRAPHISOFT”) is constantly striving to provide excellent service to its customers and business partners, while building a long-lasting relationship. This privacy policy describes the privacy practices of GRAPHISOFT’s websites, as well as our products, online services and applications that include a link to this policy. This privacy policy also applies to GRAPHISOFT’s marketing and advertising practices. Please also see the [GRAPHISOFT Terms of Use](http://www.graphisoft.com/info/legal/terms_of_use/) and product specific End User License Agreements that may apply to the website or application you are using.
 
 ### What information does GRAPHISOFT collect about you?
 
@@ -16,7 +16,7 @@ When you register to use a GRAPHISOFT website or application, create a GRAPHISOF
 
 #### GRAPHISOFT Websites and Applications
 
-We collect information about how you use our websites and applications. We may collect information that your browser or device typically sends to our servers whenever you visit a GRAPHISOFT website, or when a GRAPHISOFT desktop product or application feature takes you online (as when you visit Online help). For example, your browser or device may tell us your IP address (which may tell us where you are located) and the type of browser and device you used. When you visit a GRAPHISOFT website, your browser may also tell us information such as the page that led you to our website (referral url). To collect this information, GRAPHISOFT may use cookies and similar technologies, and our servers may collect similar information when you are logged in to the website or application. Depending on the website or application, this information may be anonymous (for example, see the [GRAPHISOFT Customer Experience Improvement Program](https://www.graphisoft.com/info/legal/license_agreements/ceip/ceip_int_15.html)) or it may be associated with you ([MyARCHICAD website](https://myarchicad.com/)).
+We collect information about how you use our websites and applications. We may collect information that your browser or device typically sends to our servers whenever you visit a GRAPHISOFT website, or when a GRAPHISOFT desktop product or application feature takes you online (as when you visit Online help). For example, your browser or device may tell us your IP address (which may tell us where you are located) and the type of browser and device you used. When you visit a GRAPHISOFT website, your browser may also tell us information such as the page that led you to our website (referral url). To collect this information, GRAPHISOFT may use cookies and similar technologies, and our servers may collect similar information when you are logged in to the website or application. Depending on the website or application, this information may be anonymous (for example, see the [GRAPHISOFT Customer Experience Improvement Program](http://www.graphisoft.com/info/legal/license_agreements/ceip/ceip_int_15.html)) or it may be associated with you ([MyARCHICAD website](https://myarchicad.com/)).
 
 #### GRAPHISOFT Emails
 
@@ -95,7 +95,7 @@ We may share or publish aggregate information that doesn’t specifically identi
 
 There are several places on GRAPHISOFT’s websites and applications that allow you to post comments, upload pictures, or submit content for others to see. Sometimes you might be able to limit who can see what you share, but there are some places where what you share can be seen by the general public or other members of the website or application. Please be careful when you share your personal information. Do not share anything you wouldn’t want publicly known unless you are sure you are posting it within a website or application that allows you to control who sees your post. Please note that when you post messages on certain user forums on our websites and applications, your email address or name may be included and displayed with your message.
 
-To remove content you have shared on our websites and applications, please use the same website or application feature you used to share the content. If another user invites you to participate in shared viewing, editing, or commenting of content, you may be able to delete your contributions, but usually the user who invited you has full control. If you have questions or concerns about this, please [contact us](mailto:privacy@graphisoft.com).
+To remove content you have shared on our websites and applications, please use the same website or application feature you used to share the content. If another user invites you to participate in shared viewing, editing, or commenting of content, you may be able to delete your contributions, but usually the user who invited you has full control. If you have questions or concerns about this, please .
 
 ### Is my personal information secure?
 
@@ -109,7 +109,7 @@ Your personal information and data files are stored on GRAPHISOFT’s servers an
 
 Many of our websites and applications allow you to edit your personal information by accessing the "[my profile](https://graphisoftid.graphisoft.com/#/profile)," or a similar feature of the website or application you are using. Likewise, you can delete files or photos you have stored in our online services by logging in and using the deletion functions they make available.
 
-To request that we delete your email address from our marketing database, to deactivate your GRAPHISOFT ID account, or to obtain a copy of your personal information, please email your request to [privacy@graphisoft.com](mailto:privacy@graphisoft.com). Please note that we need to retain certain information about you for legal and internal business reasons, such as fraud prevention. We will retain your personal information for as long as necessary to provide you with the websites and applications you are eligible to use with your GRAPHISOFT ID and as needed to comply with our legal obligations and enforce our agreements.
+To request that we delete your email address from our marketing database, to deactivate your GRAPHISOFT ID account, or to obtain a copy of your personal information, please email your request to . Please note that we need to retain certain information about you for legal and internal business reasons, such as fraud prevention. We will retain your personal information for as long as necessary to provide you with the websites and applications you are eligible to use with your GRAPHISOFT ID and as needed to comply with our legal obligations and enforce our agreements.
 
 ### Will GRAPHISOFT market to me?
 
@@ -137,13 +137,13 @@ The data handling shall take place for a maximum period of 5 years exclusively f
 Possible controllers authorized to acquire knowledge of Your Personal Data:
 
   * GRAPHISOFT SE 1031 Budapest (GRAPHISOFT park), Záhony u 7, Hungary
-  * [GRAPHISOFT’s subsidiaries resellers and other partners](https://www.graphisoft.com/info/where_to_buy/)
+  * [GRAPHISOFT’s subsidiaries resellers and other partners](http://www.graphisoft.com/info/where_to_buy/)
 
 
 
 By accepting this Policy, You give your explicit consent to GRAPHISOFT to transfer Your Personal Data to data controllers or data processors undertaking data control on behalf of GRAPHISOFT for the purposes set forth herein, who may be located in third countries, i.e. out of the European Economic Area.
 
-You may request information on the management of your personal data and submit Your request for information, correction, and deletion to the following address: [privacy@graphisoft.com](mailto:privacy@graphisoft.com)
+You may request information on the management of your personal data and submit Your request for information, correction, and deletion to the following address: 
 
 In case You submit a request about the handling of Your Personal Data, we provide You with information on any of Your data that we control, as well as the data processed by the data processor we contracted if any, the sources, the objective of the control, its legal grounds and duration, the name and address of the data processor and the activities they undertake in connection with control, in addition to the legal grounds and recipients should the personal data of the data subject be transferred.
 
@@ -173,4 +173,4 @@ The validity, interpretation and performance of this Privacy Policy and any disp
 
 ### Who can I contact with questions or concerns?
 
-If you have a privacy question or complaint, please email us at [privacy@graphisoft.com](mailto:privacy@graphisoft.com).
+If you have a privacy question or complaint, please email us at .
