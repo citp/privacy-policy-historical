@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalmarketer.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629013456id_/http%3A//www.digitalmarketer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmarketer.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211161057id_/http%3A//www.digitalmarketer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DigitalMarketer
 
@@ -86,4 +86,4 @@ If you would like to: access, correct, amend or delete any personal information 
 
 [Re: Privacy Compliance Officer]
 
-[4330 Gaines Ranch Loop Austin TX United States 78735]
+[4330 Gaines Ranch Loop Austin TX United States 78735] 
