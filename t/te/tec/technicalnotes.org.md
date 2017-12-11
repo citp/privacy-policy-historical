@@ -1,33 +1,5 @@
-> *The following text is extracted and transformed from the technicalnotes.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612204132id_/http%3A//www.technicalnotes.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technicalnotes.org privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211125909id_/http%3A//www.technicalnotes.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Technical Notes
 
-[vc_row][vc_column width=”1/1″][vc_message color=”alert-info” style=”rounded”] **TechnicalNotes.org Privacy Policy Highlights**
-
-This notice provides highlights of the full privacy policy which currently applies to the collection and use of information from any device used to access or connect to **TechnicalNotes.org** , services, and software, as well as many websites owned by or affiliated with **TechnicalNotes.org** and operating under different names.
-
-**Information We Collect and Receive**
-
-We collect and receive information about you and your device when you give it to us directly, when you use our Services, and from certain third-party sources.
-
-**Internet Advertising**
-
-Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. We want you to understand how internet advertising works and offer resources and choices.
-
-**How we use your Information**
-
-The information we collect and receive is used to provide our Services, to improve our Services, and to offer effective advertising, which helps us keep most of our Services free.
-
-**Information Sharing**
-
-We do not sell or rent your personal information to third parties. We may, however, share non-personally identifiable information with select business partners.
-
-**How to Contact Us**
-
-**TechnicalNotes.org**
-
-India, Karnataka,
-
-581320 –
-
-Ihtishamtashreef6@gmail.com[/vc_message][/vc_column][/vc_row]
+[vc_message color=”alert-info” style=”rounded”] **TechnicalNotes.org Privacy Policy Highlights** This notice provides highlights of the full privacy policy which currently applies to the collection and use of information from any device used to access or connect to **TechnicalNotes.org** , services, and software, as well as many websites owned by or affiliated with **TechnicalNotes.org** and operating under different names. **Information We Collect and Receive** We collect and receive information about you and your device when you give it to us directly, when you use our Services, and from certain third-party sources. **Internet Advertising** Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. We want you to understand how internet advertising works and offer resources and choices. **How we use your Information** The information we collect and receive is used to provide our Services, to improve our Services, and to offer effective advertising, which helps us keep most of our Services free. **Information Sharing** We do not sell or rent your personal information to third parties. We may, however, share non-personally identifiable information with select business partners. **How to Contact Us** **TechnicalNotes.org** India, Karnataka, 581320 – Ihtishamtashreef6@gmail.com[/vc_message]
