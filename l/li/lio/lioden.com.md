@@ -1,26 +1,80 @@
-> *The following text is extracted and transformed from the lioden.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120345id_/http%3A//www.lioden.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lioden.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211222355id_/https%3A//www.lioden.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :|: Lioden
 
-  1. [Home](https://web.archive.org/)
+  1. [Home](https://www.lioden.com/)
   2. Privacy Policy
 
 
 
-Lioden (“site”) uses cookies to keep members logged in. The site also stores members’ IP, e-mail addresses and date of birth. IP addresses are used to monitor for rule breaking and e-mail addresses are used for site communication and to reset lost passwords. The site asks that members keep their e-mail addresses up to date for this purpose. 
+**Last updated November 28 2017 18:30:32**. 
 
-Lioden will not distribute any personal information to a third party unless required by law. 
+This privacy policy sets out how Lioden Ltd uses and protects any information that you give Lioden Ltd when you use this website.
 
-However, our advertising partner Google Adsense may use cookies and web beacons on our site. 
+Lioden Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**DoubleClick DART Cookie**  
-Google, as a third party vendor, uses cookies to serve ads on Lioden.  
-Google's use of the DART cookie enables it to serve ads to users based on their visit to Lioden.com and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+Lioden Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-**Google Analytics**  
-Google Analytics: We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information.We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. 
+## What we collect
 
-You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.com/analytics/learn/privacy.html?l=SE>
+We collect the following information upon registration and when signed into the game:
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. However it is not recommended to disable cookies as most of the game will become unusable without the use of cookies. 
+  * Email Address
+  * Date of Birth
+  * IP addresses
+
+
+
+## What we do with the information we gather
+
+We require this information to understand your needs and provide you with certain site functions; in particular the following:
+
+  * Internal record keeping.
+  * Communication with you regarding your account, for example: account activation, retrieving lost password, reminding you of an inactive account.
+  * Your date of birth is used specifically to ensure you are at least sixteen (16) when joining the game to comply with our Terms of Service, and also to provide you with an in-game birthday gift on your birthday.
+  * IP addresses are recorded to monitor account activity and to ensure users do not breach the Terms of Service and register more than the allowed two accounts.
+
+
+
+The information we gather is stored for the duration of the account.
+
+## Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+## How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added. Cookies allow web applications to respond to you as an individual.
+
+We use cookies to identify when a user is returning to Lioden so that it can keep users logged into their accounts. Cookies can be destroyed by logging out of your account. 
+
+A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+
+## Google Analytics
+
+This website uses Google Analytics to help Analyse how users use the site. The tool uses "cookies" to collect standard Internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the website (including IP address) is transmitted to Google. This information is then used to evaluate visitors' use of the website and to compile statistical reports on website activity for Lioden Ltd.
+
+We will never (and will not allow any third party to) use the statistical analytics tool to track or to collect any Personally Identifiable Information (PII) of visitors to our site. Google will not associate your IP address with any other data held by Google. Neither we nor Google will link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any Personally Identifiable Information from any source, unless you explicitly submit that information via a fill-in form on our website.
+
+[You can opt-out from Google Analytics cookies here.](https://tools.google.com/dlpage/gaoptout)
+
+## Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+## Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * in your in-game den page, there is an option under the member information form that will enable you to opt out of lioden marketing emails
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at **admin@lioden.com**.
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we are required by law to do so.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to **admin@lioden.com**.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above email address. We will promptly correct any information found to be incorrect.
