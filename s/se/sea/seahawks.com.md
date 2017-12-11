@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the seahawks.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609042108id_/http%3A//www.seahawks.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seahawks.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211211034id_/http%3A//www.seahawks.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Seattle Seahawks
 
-#### Effective Date:  11/08/2016
+#### Effective Date:  08/31/2017
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=2b83f563-5b6e-49e3-827d-07931b0f41aa)
 
-The Seattle Seahawks organization (“we,” “our,” “us”) respects your privacy and values your trust and confidence. This privacy policy (the "Privacy Policy") applies to our websites and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy. Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs").
+The Seattle Seahawks organization, CenturyLink Field, and Washington Music Theater (“we,” “our,” “us”) respects your privacy and values your trust and confidence. This privacy policy (the "Privacy Policy") applies to our websites and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy. Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs").
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -182,3 +182,31 @@ If you have any questions about this Privacy Policy or the privacy practices of 
 Attn: Seahawks.com Privacy Policy  
 12 Seahawks Way  
 Renton, WA 98056
+
+#### 13\. Notice and Procedure for Making Claims of Copyright Infringement
+
+Pursuant to Title 17, United States Code, § 512(c)(2), if you believe in good faith that your copyrighted work has been reproduced and is accessible on the Services in a way that constitutes copyright infringement, please provide our DMCA Agent with a written communication containing the following information.
+
+IMPORTANT NOTE: ONLY DMCA NOTICES WILL RECEIVE A RESPONSE.
+
+  * (a) identification of the copyrighted work claimed to have been infringed;
+  * (b) identification of the allegedly infringing material on the Services that is requested to be removed;
+  * (c) your name, address and daytime telephone number, and an e-mail address if available, so that we may contact you if necessary;
+  * (d) a statement that you have a good faith belief that the use of the copyrighted work is not authorized by you or the law;
+  * (e) a statement that the information in the notification is accurate, and under penalty of perjury, that you are, or are authorized to act on behalf of, the owner of an exclusive copyright right that is allegedly infringed; and
+  * (f) an electronic or physical signature of you or someone authorized on the copyright owner's behalf, to assert infringement of copyright and to submit the statement.
+
+
+
+Claims of infringement which include the above required information must be submitted via postal mail or e-mail to our DMCA Agent as follows:
+
+DMCA Agent  
+Seattle Seahawks  
+12 Seahawks Way  
+Renton, WA 98056  
+P: (425) 203-8058  
+E: [DmcaAgent@Seahawks.com](mailto:DmcaAgent@Seahawks.com) (Please include "DMCA Notice of Infringement" in the subject line)
+
+IMPORTANT NOTE: The foregoing information is provided exclusively for notifying us that your copyrighted material may have been infringed. All other inquires and requests will not receive a response through this process.
+
+We reserve the right to remove any posted submission that infringes the copyright of any person under the laws of the United States upon receipt of a notice that complies with the requirements of 17 U.S.C. § 512(c)(3). United States law provides significant penalties for submitting such a statement falsely.
