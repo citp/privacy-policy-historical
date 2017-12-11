@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caws.ws privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508070944id_/http%3A//caws.ws/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caws.ws privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211191643id_/http%3A//caws.ws/privacy.php) for the most accurate reproduction.*
 
 # CAWs.ws
 
