@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the cardhaus.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611175700id_/http%3A//www.cardhaus.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardhaus.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211130331id_/http%3A//www.cardhaus.com/privacy_policy) for the most accurate reproduction.*
 
 # Cardhaus - Privacy Policy
-
-**Return Policy  
-** You may return most new, unopened items sold and fulfilled by CardHaus.com within 30 days of delivery for a full refund. We'll also pay the return shipping costs if the return is a result of our error (you received an incorrect or defective item, etc.).   
-**  
-Refunds**  
-Refunds are requested after we receive and process your return. You should expect to receive your refund within four weeks of giving your package to the return shipper, however, in many cases you will receive a refund more quickly. This time period includes the transit time for us to receive your return from the shipper (5 to 10 business days), the time it takes us to process your return once we receive it (3 to 5 business days), and the time it takes your bank to process our refund request (see below for specific guidelines). We'll notify you via e-mail of your refund once we've received and processed the returned item.
 
 **If you pay by:**
 
@@ -83,4 +77,4 @@ CardHaus also provides links to affiliated sites. The privacy policies of these 
  **Questions and Feedback**  
 If you have any questions or feedback related to our Policies, please email us at sales@CardHaus.com
 
-Thank you for shopping at CardHaus.com! 
+Thank you for shopping at CardHaus.com!
