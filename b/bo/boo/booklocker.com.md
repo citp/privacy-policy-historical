@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booklocker.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531211845id_/http%3A//www.booklocker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booklocker.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211133629id_/http%3A//www.booklocker.com/privacy.html) for the most accurate reproduction.*
 
 # BookLocker.com
 
@@ -24,7 +24,7 @@ This site contains links to other sites. BookLocker.com is not responsible for t
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us in the following ways:
 
-Using the form [here](https://web.archive.org/web/20170531211845id_/http%3A//www.booklocker.com/help/contact.html).
+Using the form [here](https://web.archive.org/web/20171211133629id_/http%3A//www.booklocker.com/help/contact.html).
 
 Mailing us at:  
 Booklocker.com, Inc.  
