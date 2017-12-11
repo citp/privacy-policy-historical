@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studytemple.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518015856id_/http%3A//www.studytemple.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studytemple.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211221531id_/http%3A//www.studytemple.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Study Temple - Information Heaven
 
@@ -21,6 +21,6 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Information Heaven then you may contact us at info@studytemple.com
+If you have any questions regarding the privacy policy of Information Heaven then you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Last updated Sun, 17 Apr 2011 18:18
