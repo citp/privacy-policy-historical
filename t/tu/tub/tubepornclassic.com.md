@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubepornclassic.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611220804id_/http%3A//www.tubepornclassic.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubepornclassic.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211131111id_/http%3A//tubepornclassic.com/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tubepornclassic.com
 
