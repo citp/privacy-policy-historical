@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.bc.ca privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208205546id_/http%3A//www2.gov.bc.ca/gov/content/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.bc.ca privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211181745id_/http%3A//www2.gov.bc.ca/gov/content/home/privacy) for the most accurate reproduction.*
 
 # B.C. Government Website Privacy Statement - Province of British Columbia
 
@@ -49,7 +49,7 @@ Some cookies will remain on your computer for only as long as your browser remai
 
 **How can I access and correct information I submit to a web site?**
 
-You can review any personal information collected about you by requesting access to it by the ministry holding the information, or by submitting a Freedom of Information request. You may request changes or annotate your personal information if you believe it to be inaccurate by submitting a written request describing the error. Please contact the ministry or other government body holding your personal information. The Legislation, Privacy and Policy Branch may be contacted for general information.
+You can review any personal information collected about you by requesting access to it by the ministry holding the information, or by submitting a Freedom of Information request. You may request changes or annotate your personal information if you believe it to be inaccurate by submitting a written request describing the error. Please contact the ministry or other government body holding your personal information. The Privacy, Compliance and Training Branch may be contacted for general information.
 
 **What about links to external websites from B.C. government websites?**
 
@@ -57,4 +57,4 @@ B.C. government websites may include links to external websites. Once you leave 
 
 **Who can I contact for more information about this privacy statement?**
 
-Questions regarding this privacy statement, including the collection of personal information, can be directed to a Senior Legislative and Policy Advisor at [Legislation, Privacy and Policy Branch](http://www.cio.gov.bc.ca/cio/priv_leg/lpp.page?) in the Ministry of Citizens’ Services and Open Government, PO Box 9493 Stn Prov Govt, Victoria, BC., V8W 9N7, telephone (250) 356-1851. [Privacy.Helpline@gov.bc.ca](mailto:Privacy.Helpline@gov.bc.ca).
+Questions regarding this privacy statement, including the collection of personal information, can be directed to a Senior Privacy Advisor at the Privacy, Compliance and Training Branch in the Ministry of Finance, PO Box 9493 Stn Prov Govt, Victoria, BC., V8W 9N7, telephone (250) 356-1851. [Privacy.Helpline@gov.bc.ca](mailto:Privacy.Helpline@gov.bc.ca).
