@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tgguide.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530195757id_/http%3A//tgguide.com/about-us/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgguide.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211182709id_/http%3A//tgguide.com/about-us/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy of The Transgender Guide | The Transgender Guide
+# Privacy Notice - The Transgender Guide
 
 We take your privacy very seriously! This is the web site of TGGuide.com. We will never share your personal information with anyone, except as legally required in connection with lawful investigations associated with allegations of member misconduct or safety concerns.
 
