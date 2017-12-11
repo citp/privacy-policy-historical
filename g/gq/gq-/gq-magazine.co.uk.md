@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gq-magazine.co.uk privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620000150id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gq-magazine.co.uk privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211203741id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Statement - The Condé Nast Publications Ltd.
 
