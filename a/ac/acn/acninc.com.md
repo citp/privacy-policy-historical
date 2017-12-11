@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acninc.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529165130id_/http%3A//acninc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acninc.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211194447id_/http%3A//acninc.com/privacy-policy) for the most accurate reproduction.*
 
-# ACN Opportunity, LLC | Privacy Policy | ACN Opportunity, LLC | Privacy Policy
+# ACN Opportunity, LLC | Privacy Policy
 
 ## Privacy Policy (Safe Harbor)
 
