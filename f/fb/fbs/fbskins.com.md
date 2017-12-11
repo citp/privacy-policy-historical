@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbskins.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613220228id_/http%3A//www.fbskins.com/facebook-layouts/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbskins.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211231146id_/http%3A//www.fbskins.com/facebook-layouts/privacy-policy.php) for the most accurate reproduction.*
 
 # FBSkins.com | Privacy Policy
 
