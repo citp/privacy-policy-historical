@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612123137id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211052307id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
 
 # Job.com Jobs - Start your job search and find employment today!
 
-_Effective Date: 04/26/2016_
+_Effective Date: 06/12/2017_
 
 ### Job.com's Privacy Information - Overview
 
 This privacy policy applies to www.job.com owned and operated by Job.com, Inc "Job.com". This privacy policy describes how Job.com, Inc. collects and uses the personal information you provide on our web site: www.job.com. Job.com is committed to protecting the privacy of our users. We want to provide a safe, secure user experience while on our Web site www.Job.com. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes as set forth herein. The following reflects our commitment to you. 
-
-[](https://privacy.truste.com/privacy-seal/Job-com,-Inc-/validation?rid=b022f04f-526a-437b-a2d1-defdaffa0335 "TRUSTe online privacy certification")
-
-Job.com, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through this site www.Job.com. 
-
-If you have questions or concerns regarding this Statement, you should first contact Privacy@job.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
 ### Information About All Job.com Visitors
 
@@ -76,7 +70,7 @@ We use Local Shared Objects, such as Flash cookies, and Local Storage, such as H
 
 ### Targeted or Behavioral Advertising:
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. 
 
 ### Security
 
