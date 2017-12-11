@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dovetailgames.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625063837id_/http%3A//www.dovetailgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dovetailgames.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211195618id_/http%3A//www.dovetailgames.com/privacy) for the most accurate reproduction.*
 
 # Dovetail Games | Privacy
 
@@ -225,7 +225,7 @@ We may provide versions of this privacy policy in languages other than English. 
 
 **3.9 Your Rights**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise that right at any time by contacting us at Camburgh House, New Dover Road, Canterbury, Kent CT1 3DN, United Kingdom **OR** support@dovetailgames.com.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise that right at any time by contacting us at First Floor, The Observatory, Chatham Maritime, Chatham, ME4 4NT, United Kingdom **OR** support@dovetailgames.com.
 
 **3.10 Access to Information**
 
