@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the ioeducation.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608185026id_/http%3A//ioeducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioeducation.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211085427id_/http%3A//ioeducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IO Education
 
 ## Privacy Policy
 
 Effective September 29, 2016  
- [Download Privacy Policy](http://ioeducation.com/wp-content/uploads/IO-PP-General-Website-1.pdf)
+ [Download Privacy Policy](http://23713-presscdn.pagely.netdna-cdn.com/wp-content/uploads/IO-PP-General-Website-1.pdf)
 
 #### **IO Education is committed to your Privacy.**
 
-IO Education, LLC (“IO Education,” “we,” or “us”) understands that privacy is tremendously important to our online visitors to our website. We hope the following will help you understand how we collect, use and safeguard the personal information provided to us on our website, [www.ioeducation.com](http://www.ioeducation.com/), and associated webpages (the “Site”), by users of and visitors to the Site. This Privacy Policy (the “Policy”) is part of our website Terms of Use, <https://ioeducation.com/terms-of-use/>, (together with this Policy, collectively, the “Terms”).  By using the Site, you acknowledge that you have read and agree to this Policy.  If you do not agree with this Policy, you may not use the Site.
+IO Education, LLC (“IO Education,” “we,” or “us”) understands that privacy is tremendously important to our online visitors to our website. We hope the following will help you understand how we collect, use and safeguard the personal information provided to us on our website, [www.ioeducation.com](http://ioeducation.com/), and associated webpages (the “Site”), by users of and visitors to the Site. This Privacy Policy (the “Policy”) is part of our website Terms of Use, <https://ioeducation.com/terms-of-use/>, (together with this Policy, collectively, the “Terms”).  By using the Site, you acknowledge that you have read and agree to this Policy.  If you do not agree with this Policy, you may not use the Site.
 
 This Privacy Policy does not apply to IO Education’s online software services or applications or other web-based products and services (collectively, the “Services”); separate privacy terms apply to the Services and the data provided by our clients that is stored in our Services.  If you have questions about the privacy terms applicable to our Services, which is available here <https://ioeducation.com/platform-privacy-policy/>, please contact us at [privacy@ioeducation.com](mailto:privacy@ioeducation.com).  You may also contact our Privacy Officer, Peter Bencivenga, at [pbencivenga@ioeducation.com](mailto:pbencivenga@ioeducation.com) or 866-817-0726.
 
