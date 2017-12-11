@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the est.org.uk privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617035221id_/http%3A//www.energysavingtrust.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the est.org.uk privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211031501id_/http%3A//www.energysavingtrust.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Energy Saving Trust
 
@@ -130,7 +130,7 @@ When you download any of our apps (either Android or Apple):
 
 ### 11\. Cookies
 
-Please visit here for information about [cookies](https://energysavingtrust.sharepoint.com/sites/Intranet/SitePages/Home.aspxhttp:/www.energysavingtrust.org.uk/cookies).
+Please visit here for information about [cookies](http://www.energysavingtrust.org.uk/cookies).
 
 ### 12\. Access to your information
 
