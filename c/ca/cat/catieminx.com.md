@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catieminx.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627233825id_/http%3A//catieminx.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catieminx.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211042603id_/http%3A//www.catieminx.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Catie Minx Privacy Policy
 
@@ -52,7 +52,7 @@ Please be sure to include your full name and the email address you used when you
 Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email or postal mail with questions or information regarding your order.
 
 **How does Catie Minx protect kids’ privacy?**  
-Catie Minx is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request or collect personal information online from anyone under the age of 18. Our website is a mature audience site and is not targeted to or intended for use by children. If you are a parent and believe we may have inadvertently collected such information from your child, please notify us immediately by sending an e-mail to [****](mailto:THISYEARSMODEL.WEB@GMAIL.COM)**[**thisyearsmodel.web@gmail.com**](mailto:THISYEARSMODEL.WEB@GMAIL.COM) ****** ****
+Catie Minx is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request or collect personal information online from anyone under the age of 18. Our website is a mature audience site and is not targeted to or intended for use by children. If you are a parent and believe we may have inadvertently collected such information from your child, please notify us immediately by sending an e-mail to [****](https://web.archive.org/cdn-cgi/l/email-protection#06524e4f555f434754554b4942434a2851434446414b474f4a2845494b)**[**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#e7b3afaeb4bea2a6b5b4aaa8a3a2abc9b0a2a5a7a0aaa6aeabc9a4a8aa) ****** ****
 
 **Third Party Ads**  
 We may use third-party advertising companies to serve ads when you visit our website. Please note that these companies may use information about your visit to this website and third-party websites in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this website, these companies may place or recognize a unique cookie on your browser.
@@ -76,13 +76,13 @@ For your convenience and information, our website may contain links to other sit
 **How do I contact you?**  
 For questions about our privacy policy, to make choices about receiving promotional communications, to update your personal information, or to place an order, you can contact Catie Minx by email:
 
-[**thisyearsmodel.web@gmail.com**](mailto:THISYEARSMODEL.WEB@GMAIL.COM) ****
+[**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#efbba7a6bcb6aaaebdbca2a0abaaa3c1b8aaadafa8a2aea6a3c1aca0a2) ****
 
 **How do I know my personal information is secure?**  
 We take precautions, including the use of encryption technologies and authentication tools, to protect the security of your personal information and to provide you with a safe and convenient shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to protect the security and privacy of your personal information.
 
 When you enter your personal information on our website, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from “http” to “https.”
 
-Some browsers and firewalls do not permit communication through secure servers. In that case, you will be unable to connect to our server so you will not have to worry about mistakenly placing an order through an unsecured connection. If you can’t access the server, you can place your order by email [****](mailto:THISYEARSMODEL.WEB@GMAIL.COM)**[**thisyearsmodel.web@gmail.com**](mailto:THISYEARSMODEL.WEB@GMAIL.COM) ****** ****
+Some browsers and firewalls do not permit communication through secure servers. In that case, you will be unable to connect to our server so you will not have to worry about mistakenly placing an order through an unsecured connection. If you can’t access the server, you can place your order by email [****](https://web.archive.org/cdn-cgi/l/email-protection#04504c4d575d41455657494b4041482a534146444349454d482a474b49)**[**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#184c50514b415d594a4b55575c5d54364f5d5a585f55595154365b5755) ****** ****
 
 THANK YOU
