@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-pdf.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523003908id_/http%3A//www.a-pdf.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-pdf.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211172212id_/http%3A//www.a-pdf.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy [A-PDF.com]
 
@@ -13,7 +13,7 @@ No personal information is collected by A-PDF.com from visitors to our website, 
 
 ## Newsletter
 
-If you subscribed our [A-PDF Newsletter](https://web.archive.org/web/20170523003908id_/http%3A//www.a-pdf.com/newsletter.htm) (it will be used to inform you of our products news and promotion only), your information will **not** be sold, rented or leased to a third-party, and you can remove your name and email from the list at any time.
+If you subscribed our [A-PDF Newsletter](https://web.archive.org/web/20171211172212id_/http%3A//www.a-pdf.com/newsletter.htm) (it will be used to inform you of our products news and promotion only), your information will **not** be sold, rented or leased to a third-party, and you can remove your name and email from the list at any time.
 
 ## Order
 
