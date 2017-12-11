@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emibazaar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115725id_/http%3A//emibazaar.com/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emibazaar.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211043359id_/http%3A//www.emibazaar.com/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : EMI Online Shopping: Shop Online for Mobiles,Laptops,Cameras,Watches with EMI on Debit card,Credit card & Consumer Durable Loans
 
@@ -59,12 +59,10 @@ emibazaar uses reasonable precautions to keep the information disclosed to us se
   | We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  
 |    
 |  |   
-  | **How can you make changes to any inaccurate information on our website?** |    
 |  |   
-  | To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can use any of the following options: |    
 |  |   
   | Send an e-mail to cservice@emibazaar.com   
-You can reach us at: +91 (44) 2836 0151. Toll free: 1800-102-2770. |    
+You can reach us at: +91 (44) 2433 2455. Toll free: 1800-102-2770. |    
 |  |   
   | Policy Updates: |    
 |  |   
@@ -75,10 +73,10 @@ You can reach us at: +91 (44) 2836 0151. Toll free: 1800-102-2770. |  
   | Contact Information |    
   | You can contact us at: |    
   | EMIBAZAAR  
-Alsa Regency,   
-165 Eldams Road Alwarpet,   
+ROYAL IMAGES CATALOGUE PVT LTD,   
+NO.165 ALSA REGENCY,ELDAMS ROAD,   
 Chennai - 600018 Tamilnadu,   
-India. Tel:+91 (44) 2836 0151.  
+India. Tel:+91 (44) 2433 2455.  
 Email:cservice@emibazaar.com |    
   |   |    
   
@@ -87,4 +85,4 @@ Email:cservice@emibazaar.com |  
   
 Top Online Shopping Stores: Mobiles: Smartphones | Android Mobiles | iPad | Tablets | Mobile Accessories, Phone Brands - Samsung Mobile | Nokia | Apple | Sony | HTC | LG | Blackberry | HCL Mobiles Cameras: Point & Shoot | SLR | Camcorders | Binoculars, Digital Camera Brands – Nikon Camera | Canon Camera | Sony Camera | Olympus | Samsung | Panasonic | Fujifilm Camera Computers: Laptops | Ipad | Disk & Drive | Printers & Scanners | Computer Accessories, Laptop Brands – Apple | Acer Laptop | HP Laptop | HCL | Lenovo Laptop | Sony Laptop | Toshiba Laptops Electronics: TV | Video Player | Speakers | Electronic accessories, Electronic Brands – Sony TV | Philips | Apple ipods | JBL Lifestyle: Watches | Men’s Watch | Women’s Watch | Sunglasses | Hand Bags | Wallets | Perfumes, Brands – Casio Watch | Citizen | Titan | Reebok Sunglasses | Fastrack Watches Home Appliances: AC | Refrigerators | Washing Machines | Home Utilities | Kitchen Appliances | Brands – Philips | Morphy Richards | Oster | Bajaj | Skil | Bosch | Zain | Havells | USHA Travel: Luggage | Laptop Bags | Back Pack | Hand Bags | Jewelry Cases | Wallets | Toilet Cases | Accessories, Brands – American Tourister | Holii | Fastrack | Wildcraft Bags Health & Beauty: Men’s Grooming | Women’s Grooming | Health Care | Fitness Equipment | Perfumes, Brands – Philips | Panasonic | Dr.Morepen | Braun | 4Sure Toys & Gifts: Kids Electronic Toys | Jewellery | Gift Voucher | Education | Utility | Home Decor | Unique Products | Pens, Brands – Barbie, Jpearls Books & Magazines, Sales  
   
-© 2016 emibazaar.com. ALL RIGHTS RESERVED. Emibazaar.com is a fast growing e-commerce company which offers customers the convenience of shopping online or ordering on phone. We are India’s leading online shopping portal offering great discounts and products on easy installments not only on credit cards, but also EMI without credit cards & EMI on debit cards to customers. Our easy EMI options make aspirations affordable to all. You can shop online at Emibazaar.com using credit cards as well as debit cards from all leading Banks including HDFC, HSBC, CITI Bank, Kotak, IndusInd, ICICI, Axis, Standard Chartered, SBI Bank & RBL Bank. We are also partnered with NBFC’s like Bajaj FinServ to satisfy the needs of non-credit card holders. We hold a diverse mix of products across popular categories ranging from mobiles, computers, cameras, home/kitchen appliances to health and grooming products, watches, perfumes, bags and toys, all at competitive prices and Easy EMIs to make online shopping convenient. The top-selling brands that we provide are Samsung, Nokia, Blackberry, Apple, Dell, Toshiba, Sony, Canon, Nikon, Panasonic, Philips, Bajaj, Jaipan, BPL, Braun, Skullcandy, Casio, Citizen, Reebok, Tag Heuer, Calvin Klein, Lavie and American Tourister. One of the fastest growing online shopping portals, Emibazaar.com offers a hassle-free experience of shopping online by offering 15-days money-back guarantee and free all-India delivery. With a wide range of products and convenient EMIs on debit cards and credit cards, get set to enjoy a simple, stress-free and smart online shopping experience with Emibazaar.com.
+© 2017 emibazaar.com. ALL RIGHTS RESERVED. Emibazaar.com is a fast growing e-commerce company which offers customers the convenience of shopping online or ordering on phone. We are India’s leading online shopping portal offering great discounts and products on easy installments not only on credit cards, but also EMI without credit cards & EMI on debit cards to customers. Our easy EMI options make aspirations affordable to all. You can shop online at Emibazaar.com using credit cards as well as debit cards from all leading Banks including HDFC, HSBC, CITI Bank, Kotak, IndusInd, ICICI, Axis, Standard Chartered, SBI Bank & RBL Bank. We are also partnered with NBFC’s like Bajaj FinServ to satisfy the needs of non-credit card holders. We hold a diverse mix of products across popular categories ranging from mobiles, computers, cameras, home/kitchen appliances to health and grooming products, watches, perfumes, bags and toys, all at competitive prices and Easy EMIs to make online shopping convenient. The top-selling brands that we provide are Samsung, Nokia, Blackberry, Apple, Dell, Toshiba, Sony, Canon, Nikon, Panasonic, Philips, Bajaj, Jaipan, BPL, Braun, Skullcandy, Casio, Citizen, Reebok, Tag Heuer, Calvin Klein, Lavie and American Tourister. One of the fastest growing online shopping portals, Emibazaar.com offers a hassle-free experience of shopping online by offering 15-days money-back guarantee and free all-India delivery. With a wide range of products and convenient EMIs on debit cards and credit cards, get set to enjoy a simple, stress-free and smart online shopping experience with Emibazaar.com.
