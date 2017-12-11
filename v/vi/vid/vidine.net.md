@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidine.net privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615092805id_/http%3A//vidine.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidine.net privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211120139id_/http%3A//vidine.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Video Clip Manager - Vidine
 
