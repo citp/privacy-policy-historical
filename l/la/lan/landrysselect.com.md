@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the landrysselect.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622141511id_/http%3A//www.landrysselect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landrysselect.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212174742id_/https%3A//www.landrysselect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Landry's Select Club
+# Privacy Policy | Landry's Select Club®
 
 Privacy
 
@@ -8,11 +8,11 @@ Effective Date: May 1, 2009
 
 We want to make your experience online satisfying and safe. We want to provide you with the means to control your privacy and give you a way to voice questions or concerns you may have. 
 
-When you use our website certain information about your online activity is collected. We use this information to determine our website users’ preferences, to design initiatives to meet those preferences, to eliminate online hassles, and to generally make your online Landry’s Select Club experience more satisfying. Very infrequently, we may initiate a program, service or survey that requests your name, birthday, e-mail address, city of residence, zip code, or information about what you like and do not like about the Landry’s Select Club program. We recognize that the loyalty of our customers depends upon our relationships with them and we strongly support the rights of customers to maintain privacy of personal data. 
+When you use our website certain information about your online activity is collected. We use this information to determine our website users’ preferences, to design initiatives to meet those preferences, to eliminate online hassles, and to generally make your online Landry's Select Club® experience more satisfying. Very infrequently, we may initiate a program, service or survey that requests your name, birthday, e-mail address, city of residence, zip code, or information about what you like and do not like about the Landry's Select Club® program. We recognize that the loyalty of our customers depends upon our relationships with them and we strongly support the rights of customers to maintain privacy of personal data. 
 
 Children’s Online Privacy Protection Act (COPPA) 
 
-Like you, we have children of our own and are concerned about their safety when they use the Internet. We want you and your family to be safe while visiting our website. That is why, consistent with the Federal Children's Online Privacy Protection act of 1998 (COPPA), personally identifiable information from children, we have no intention of collection of any personally identifiable information from individuals under 16 years of age. If a child under 16 years of age has provided us with personally identifiable information, a parent or guardian of that child can contact us at the e-mail address or phone number listed in the Contact Us section of the website if they would like this information deleted from our records. We will use reasonable efforts to delete the child’s information from our existing records. For more information about protecting the privacy and safety of minors online, we recommend you visit <http://www.ftc.gov/ogc/coppa1.htm>. 
+Like you, we have children of our own and are concerned about their safety when they use the Internet. We want you and your family to be safe while visiting our website. That is why, consistent with the Federal Children's Online Privacy Protection act of 1998 (COPPA), personally identifiable information from children, we have no intention of collection of any personally identifiable information from individuals under 13 years of age. If a child under 13 years of age has provided us with personally identifiable information, a parent or guardian of that child can contact us at the e-mail address or phone number listed in the Contact Us section of the website if they would like this information deleted from our records. We will use reasonable efforts to delete the child’s information from our existing records. For more information about protecting the privacy and safety of minors online, we recommend you visit <http://www.ftc.gov/ogc/coppa1.htm>. 
 
 What Information Do We Collect? 
 
