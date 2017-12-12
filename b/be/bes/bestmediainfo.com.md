@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the bestmediainfo.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621114256id_/http%3A//www.bestmediainfo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmediainfo.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212150213id_/http%3A//bestmediainfo.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Best Media Info, News and Analysis on Indian Advertising, Marketing and Media Industry
 
-[www.BestMediaInfo.com](https://web.archive.org/web/20170621114256id_/http%3A//www.bestmediainfo.com/www.bestmediainfo.com) is maintained by:
+Privacy Policy
+
+[www.BestMediaInfo.com](https://web.archive.org/web/20171212150213id_/http%3A//bestmediainfo.com/www.bestmediainfo.com) is maintained by:
 
 **BMI Publications Private Limited**
 
