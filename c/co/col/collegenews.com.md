@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collegenews.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509020817id_/http%3A//www.collegenews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegenews.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212155231id_/http%3A//www.collegenews.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy & User Agreement - College News
 
-This privacy policy is applicable to the Web site located at the domain “www.collegenews.com” and any other sites within the College News network which may link to this privacy policy (collectively, the “Site"). We do not collect any personal identifying information from users who are browsing the public areas of our Web site. Users of the public areas of our Website browse anonymously. We will not review the use of publicly accessible College News web sites by individual users unless this information will assist us in troubleshooting individual problems. College News will also review this information if a user’s account is associated with:
+This privacy policy is applicable to the Web site located at the domain “www.collegenews.com” and any other sites within the College News network which may link to this privacy policy (collectively, the “Site”). We do not collect any personal identifying information from users who are browsing the public areas of our Web site. Users of the public areas of our Website browse anonymously. We will not review the use of publicly accessible College News web sites by individual users unless this information will assist us in troubleshooting individual problems. College News will also review this information if a user’s account is associated with:
 
 • Attempts to violate security of College News computer networks  
 • Activity that degrades the performance of College News Websites  
@@ -14,7 +14,7 @@ Applicable laws (choice of venue and forum)
 Use of this web site shall in all respects be governed by the laws of the state of Illinois, U.S., regardless of the laws that might be applicable under principles of conflicts of law. The parties agree that the Illinois courts located in Cook county, Illinois, shall have exclusive jurisdiction over all controversies arising under this agreement and agree that venue is proper only in those courts.
 
 Online Privacy Policy for Identifying Information  
-College News collects personally identifying information and data about individuals, their company, and the company’s demographics ("personally identifying information and data") including when you provide information to College News, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, surveys, newsletters, memberships, webcasts, podcasts, online seminars, conferences and other communications with College News.
+College News collects personally identifying information and data about individuals, their company, and the company’s demographics (“personally identifying information and data”) including when you provide information to College News, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, surveys, newsletters, memberships, webcasts, podcasts, online seminars, conferences and other communications with College News.
 
 College News, or third party partners may place a “cookie” in the browser files of a user’s computer. The cookie itself does not contain any personally identifying information, except when such information has been supplied by a subscriber or registered user. If you have registered with College News, the information in your “cookie” may be used to provide a more personalized experience on our Web site.
 
@@ -45,9 +45,7 @@ Print Subscribers or applicants who do not want their names used in any of the a
 One2One Digital manages CollegeNews.com and handles the sites social media.
 
 [One2One Digital](http://www.one2onedigital.com/)  
-123 W Madison Street,
-
-Chicago, IL 60602, USA
+123 W Madison Street, Chicago, IL 60602, USA
 
 312-572-7722  
-[http://www.One2OneDigital.com](http://www.collegenews.com/?URL=http%3A%2F%2Fwww.One2OneDigital.com)
+www.One2OneDigital.com
