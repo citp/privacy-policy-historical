@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimorecity.gov privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612174737id_/http%3A//www.baltimorecity.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorecity.gov privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212215105id_/http%3A//www.baltimorecity.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City of Baltimore
 
@@ -36,4 +36,4 @@ Furthermore, this site takes reasonable measures to maintain the confidentiality
 
 ### Oversight
 
-If you have comments or questions about our privacy policy, please e-mail the site's administrator at  **[webmaster@baltimorecity.gov](mailto:webmaster@baltimorecity.gov).**
+If you have comments or questions about our privacy policy, please e-mail the site's administrator at  **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#fe899b9c939f8d8a9b8cbe9c9f928a9793918c9b9d978a87d0999188).**
