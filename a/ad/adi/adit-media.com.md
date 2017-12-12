@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adit-media.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174330id_/http%3A//adit-media.com/393-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adit-media.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212115028id_/http%3A//adit-media.com/393-2) for the most accurate reproduction.*
 
 # Privacy policy - Adit-media
 
