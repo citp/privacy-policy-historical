@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the katespade.co.uk privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621115304id_/http%3A//www.katespade.co.uk/uk/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katespade.co.uk privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212232927id_/http%3A//www.katespade.co.uk/uk/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
+
+  * ### FAQ
 
   * ### ORDERING
 
@@ -27,11 +29,11 @@
 
 ### Need Help ?
 
-or give us a call at   
+If you have any questions or need help please give us a call at   
 [ 0800 240 4320 ](tel:0800 240 4320)   
 8am - 8pm monday to friday,   
-10am - 6pm saturday, closed sundays.   
-calls made to 0800 240 4320may be subject to a charge.
+10am - 6pm saturday & sunday.   
+calls made to 0800 240 4320 may be subject to a charge.
 
 last updated jan 16th, 2017
 
