@@ -1,115 +1,67 @@
-> *The following text is extracted and transformed from the spyhuman.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613223743id_/https%3A//spyhuman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyhuman.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212064936id_/http%3A//www.spyhuman.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of SpyHuman | Disclaimer before using SpyHuman app
 
-This **_privacy policy_** has been compiled to better serve those who are concerned with how their **‘Personally identifiable information’ (PII)** is being used online. PII, as used in US privacy _law and information security_ , is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+###  1\. Introduction
 
-#### What personal information do we collect from the people that visit our blog, website or app?
+SpyHuman respects and realizes importance of protective your privacy and Website is committed to protecting your Privacy Rights to fullest possible extend. This Section classifies the information SpyHuman collect from you while you use the Services of this SpyHuman and the mode and manner the same is used by the Website. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your **name, email address, mailing address, phone number, credit card information, social security number or other details** to help you with your experience.
+###  2\. Cookies
 
-#### When do we collect information?
+When you view SpyHuman Website, Website may store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a Web site as easily as possible. Website use cookies to deliver content specific to your interests and to prevent you from reentering all your registration data at each connection.
 
-We collect information from you when you _register on our site, place an order or enter information_ on our site.
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site. 
 
-#### How do we use your information?
+###  3\. Information Tracking
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+SpyHuman Website may automatically collects non-personally identifiable information about you in a several ways, which includes tracking your activities through your IP address, computer settings, most-recently visited URL, Operating System, date and time, your preference and choices and saved options subject to your browser settings. 
 
-  * To **personalize user’s experience** and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To allow us to better service you in responding to your _customer service requests._
-  * To quickly process your transactions.
+Website use your IP Address to help diagnose problems with its server, and to administer its Web site.
 
+###  4\. Registration of User
 
+  * You are required to register on the SpyHuman to avail the services provided BY SpyHuman, for which you are required to submit all your personal identifiable data and information. SpyHuman stores all this personal information on its personal database. Such personal data you provide will not be sold, or made available to any third party website, that is not associated, linked or affiliated with this Website.
 
-#### How do we protect visitor information?
+  * SpyHuman may use information collected to deliver to you information about the site and promotional material regarding its services. Your information may also be used to contact you when necessary. 
 
-We do not use vulnerability scanning and/or scanning to PCI standards.We use regular Malware Scanning.
+  * Your User Name and Password will remain confidential to you, and SpyHuman will never ask you to reveal your password to itself or any third party whatsoever. 
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+**Non Disclosure**
+    * SpyHuman do not rent, sell, or share personal information about you with other people.
 
-We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+    * YouR information may be provided to partners/affiliates/subsidiary Companies of SpyHuman who work on behalf of or with SpyHuman under confidentiality agreements. These companies may use your personal information to help SpyHuman to communicate with you about offers from SpyHuman and its marketing partners. However, these companies do not have any independent right to share this information.
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers. Admin access
+    * We shall be bound to disclose any of your personal information provided by you, pursuant to any courts order, or any statutory authority empowered to order such disclosure. 
 
-#### Third Party Disclosure
+    * You information may be shared by us with any Investigation Agency with a view to investigate suspicious activity, fraud or any malicious or illegal activity that may have been committed .
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+    * In case of any amalgamation, merger, or acquisition of SpyHuman with any third party entity, in that event all the information and data will stand automatically transfer to such third party and all the information stored herein shall be subject to privacy policy of such transferee entity. 
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+    * All the information that you provide may be used by SpyHuman for analysis of its services, researching markets, traffic, prevailing trends, or for any other aspect as it may deem fit, and for that purpose SpyHuman may make any such data available to analysis under a Non-Disclosure Agreement. 
 
-#### Google
+    * SpyHuman do not store or keep credit card data in a location that is accessible via the Internet. Once a credit card transaction has been completed, all credit card data is moved off-line only to ensure that the data/credit card information received is not accessible to anyone after completion of the on-line transaction and to ensure the maximum security. SpyHuman uses maximum security as is possible to ensure that all or any data / information in respect of electronic transfer of money do not fall in the wrong hands. 
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
-
-We have not enabled Google AdSense on our site but we may do so in the future.
-
-#### California Online Privacy Protection Act
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-#### According to CalOPPA we agree to the following:
-
-Users can visit our site _anonymously_  
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.  
-Our **Privacy Policy** link includes the word ‘Privacy’, and can be easily be found on the page specified above.
-
-  * Users will be notified of any privacy policy changes:
-  * On our Privacy Policy Page
-  * Users are able to change their personal information:
-  * By logging in to their account
+    * SpyHuman shall not be liable for any loss or damage sustained by reason of any disclosure (inadvertent or otherwise) of any information concerning the user's account and / or information relating to or regarding online transactions using credit cards / debit cards and / or their verification process and particulars nor for any error, omission or inaccuracy with respect to any information so disclosed and used whether or not in pursuance of a legal process or otherwise.
 
 
 
-#### How does our site handle do not track signals?
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a **Do Not Track (DNT)** browser mechanism is in place.
+###  5\. Preservation of monitored information
 
-#### Does our site allow third party behavioral tracking?
+SpyHuman Applications may collect sensitive and personal information of targets, which are stored on private servers. SpyHuman do not sell use or view this information. they are stored on servers as it is and can be only viewed by the users. SpyHuman do not assume any liability in the event of leak of any such information from the end of user. 
 
-It’s also important to note that we do not allow third party behavioral tracking
+###  6\. Website Security
 
-#### COPPA (Children Online Privacy Protection Act)
+Our site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, Website will take all reasonable steps to insure the safety of your personal information.
 
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the **COPPA Rule** , which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+###  7\. Third Party Links
 
-We do not specifically market to children under 13.
+Our Web site contains links to other Web sites. Website is not responsible for the privacy practices or the content of such Web sites.
 
-#### Fair Information Practices
+###  8\. Amendment
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+SpyHuman may modify, add or delete any part of these Privacy Policy at any time, without giving any prior notice, which shall become effective immediately upon its posting on this Website. It is users responsibility to review these Privacy Policy prior to each use of the Site and by continuing to use this Site, user agree to any such changes.
 
-#### In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+###  9\. Consent
 
-We will notify the users via email
-
-  * Within 7 business days
-
-
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-#### CAN SPAM Act
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-#### We collect your email address in order to:
-
-#### To be in accordance with CANSPAM we agree to the following:
-
-#### If at any time you would like to unsubscribe from receiving future emails, you can email us at :support@spyhuman.com
-
-and we will promptly remove you from **ALL** correspondence.
-
-#### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-SpyHuman.COM
-
-+91-9104979801  
-support@spyhuman.com
-
-Last Edited on 2017-01-04
-
-#### You acknowledge having read these words in good conscience. If you have additional questions, contact us via our form contact.
+By using this Website, you consent to the terms of our Online Privacy Policy and to SpyHuman processing of Personal Information for the purposes given above as well as those explained where SpyHuman collects Personal Information. 
