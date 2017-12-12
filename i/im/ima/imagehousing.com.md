@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagehousing.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605232754id_/http%3A//www.imagehousing.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagehousing.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212130536id_/http%3A//www.imagehousing.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of the Image Housing
 
@@ -29,7 +29,7 @@ The images are legally shared from our users or custom designed by us. The conte
 Copyright Infringement  
 The images are the copyright of their respective owners. You must own the copyright or have permission from the copyright holder for any image you upload to our website.
 
-The images we have on the site were sent by our users, photographers and contributors. If you found a photo of yourself or an image that you created and would like it to be taken off, please use the [contact form](https://web.archive.org/web/20170605232754id_/http%3A//www.imagehousing.com/contact_us.php).
+The images we have on the site were sent by our users, photographers and contributors. If you found a photo of yourself or an image that you created and would like it to be taken off, please use the [contact form](https://web.archive.org/web/20171212130536id_/http%3A//www.imagehousing.com/contact_us.php).
 
 Terms and Conditions  
-The images found to break our terms and conditions will be removed without no warning. The imagehousing.com provides no guarantee of the service and assume no liability that may be incurred as a result of your use of our site. To report any type of abuse, use our [contact us](https://web.archive.org/web/20170605232754id_/http%3A//www.imagehousing.com/contact_us.php) page.
+The images found to break our terms and conditions will be removed without no warning. The imagehousing.com provides no guarantee of the service and assume no liability that may be incurred as a result of your use of our site. To report any type of abuse, use our [contact us](https://web.archive.org/web/20171212130536id_/http%3A//www.imagehousing.com/contact_us.php) page.
