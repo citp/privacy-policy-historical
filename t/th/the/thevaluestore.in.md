@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevaluestore.in privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202192604id_/http%3A//www.thevaluestore.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevaluestore.in privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212153558id_/http%3A//www.thevaluestore.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ Our site has stringent security measures in place to protect the loss, misuse, a
 
 We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
 
-If you want to remove your contact information from all thevaluestore.in lists and newsletters, please visit send us a mail at cs@thevaluestore.in
+If you want to remove your contact information from all thevaluestore.in lists and newsletters, please visit send us a mail at [[email protected]](http://www.thevaluestore.in/cdn-cgi/l/email-protection)
 
 **7\. Advertisements on Thevaluestore.in**
 
@@ -96,10 +96,10 @@ Chennai - 600002.
 
 Landmark: Opp New Secretriat
 
-Email:cs@thevaluestore.in 
+Email:[[email protected]](http://www.thevaluestore.in/cdn-cgi/l/email-protection) 
 
 Time: Mon – Sat (9:00 – 18:00)
 
 **8\. Questions?**
 
-Questions regarding this statement should be directed to the following address: cs@thevaluestore.in 
+Questions regarding this statement should be directed to the following address: [[email protected]](http://www.thevaluestore.in/cdn-cgi/l/email-protection) 
