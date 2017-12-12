@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kakuroconquest.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619000022id_/http%3A//www.kakuroconquest.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kakuroconquest.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212032058id_/http%3A//www.kakuroconquest.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - KakuroConquest.com
 
@@ -6,7 +6,7 @@
 
 Kakuro is like a crossword puzzle with numbers. Each "word" must add up to the number provided in the clue above it or to the left. Words can only use the numbers 1 through 9, and a given number can only be used once in a word. Every [kakuro puzzle](http://www.kakuroconquest.com/) has one and only solution, and can be solved through logic alone.
 
-Kakuro Hint: Start with clues that only have one valid combination. For example, 3 in 2 must be 1 and 2, and 23 in 3 must be 6, 8, and 9.
+Kakuro Hint: Did you know that you can use the arrow keys on your keyboard to move up and down, left and right?
 
 Also try [**sudoku**](http://www.sudokuconquest.com/) and [**hitori**](http://www.hitoriconquest.com/)
 
