@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.ca privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630233726id_/https%3A//tripadvisor.mediaroom.com/caen-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.ca privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212043752id_/https%3A//tripadvisor.mediaroom.com/caen-privacy-policy) for the most accurate reproduction.*
 
 # CA EN Press Center | Resources
 
