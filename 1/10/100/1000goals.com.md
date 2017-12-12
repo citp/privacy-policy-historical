@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629022110id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212083327id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
 
 # Privacy | 1000 Goals
-
-**27 February 2008** at 01:51 GMT
 
 Third Party Advertising:  
 We serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
@@ -16,24 +14,22 @@ This Web site does allow user to enter their email address at their own will for
 External Links  
 This site contains links to other sites. 1000goals.com is not responsible for the privacy practices or the content of such Web sites.
 
-### Latest Football News
+[ ](http://www.1000goals.com/news/madrid-set-for-psg-clash-chelsea-challenge-barca-in-champions-league/)
 
-[ ](http://www.1000goals.com/news/chile-overcome-portugal-in-penalties-to-secure-confederations-cup-final/)
+Champions League knock out stages round will already treat football lovers with tons of excitement with several interesting matches between top teams, notably Real Madrid's clash against Paris Saint Germain. Those two European powerhouse are set to produce mouthwatering challenge, especially with the amount of quality players both team possessed. PSG's big spending with Neymar…
 
-Chile Overcome Portugal in Penalties to Secure Confederations Cup Final The exciting Confederations Cup final battle between Portugal against Chile eventually ended with victory for Alexis Sanchez and co. Juan Antonio Pizzi's men successfully ending Selecao's hope for another potential international trophy as the South American champions beat their opponent via penalty shoot out. Both…
+[ ](http://www.1000goals.com/news/city-victorious-in-manchester-derby-liverpool-and-arsenal-held/)
 
-[ ](http://www.1000goals.com/news/chelsea-ready-to-spent-big-on-bakayoko-and-sandro/)
+Manchester City's title bid looking smoother following their thrilling 2-1 win over their closet rival, Manchester United on Sunday. Playing away from home didn't stop City from taking a positive approach with their attacking display and ball possession style straight from kick off. The visitor's early domination was eventually rewarded when David Silva puts them…
 
-Chelsea Ready to Spent Big on Bakayoko and Sandro Looking pretty calm in the market so far this summer, Chelsea reportedly are set to make an immediate splash as they are preparing mega bid for two players. Rumors are strongly indicating that The Blues will be purchasing AS Monaco's midfielder Tiemoue Bakayoko and Juventus' wing…
+[ ](http://www.1000goals.com/news/chelsea-stunned-by-west-ham-tottenham-hammered-stoke/)
 
-[ ](http://www.1000goals.com/news/germany-and-chile-secured-tickets-to-confederations-cup-semifinals/)
+Chelsea's ambition to defend their English Premier League title seems to be fading even further this weekend following their shock defeat against West Ham United. Playing on an early fixture, The Blues  had a big chance in cutting their gap with the top teams above them and also putting some pressure too with all three…
 
-Germany and Chile Secured Tickets to Confederations Cup Semifinals Another predictable outcome arrived from Confederations Cup as two favorites from Groub B, Germany and Chile made their way into the competition's semifinals. World Cup winners, Der Panzer comfortably defeated African champions, Cameroon 3-1, while the South American representative drew 1-1 against Australia. Joachim Low's men…
+[ ](http://www.1000goals.com/news/madrid-star-ronaldo-delighted-with-fifth-ballon-dor/)
 
-[ ](http://www.1000goals.com/news/portugal-and-mexico-advanced-into-confederations-cup-semifinals/)
+Following up on his success in being named as FIFA Best Player not long ago, just  as it was expected, Cristiano Ronaldo also won the Ballon d'Or award beating his rival, Lionel Messi. Acquiring his fifth Ballon d'Or, Ronaldo still can't hide his delight while adding that he has been waiting to get it for…
 
-Portugal and Mexico Advanced Into Confederations Cup Semifinals Two teams that started their Confederations Cup campaign with a 2-2 draw, Portugal and Mexico, successfully advanced into the knock out stages of that competition. European Selecao finished their third group game in a convincing fashion as they defeated New Zealand 4-0, while El Tri knocked out…
+[ ](http://www.1000goals.com/news/liverpool-advance-napoli-crashed-out-of-champions-league/)
 
-[ ](http://www.1000goals.com/news/liverpool-new-signing-salah-is-now-ready-for-premier-league/)
-
-Liverpool New Signing, Salah, Is Now Ready for Premier League Getting back into Champions League football this summer, Liverpool preparing themselves by making their first major signing, which is Mohamed Salah. The former AS Roma star was acquired in a deal which could very well worth 50 million Euro, making him the club's record signing…
+Liverpool made their way into the knock out stage of UEFA Champions League in some style as Jurgen Klopp's men demolished Spartak Moscow 7-0 at Anfield. Needing just a point to get them into the next round, The Reds were aiming for more as they were looking for all three points in front of their…
