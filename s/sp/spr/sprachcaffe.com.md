@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sprachcaffe.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617040133id_/http%3A//www.sprachcaffe.com/english/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprachcaffe.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212230733id_/http%3A//www.sprachcaffe.com/english/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Sprachcaffe
 
-This privacy policy applies to this website [www.sprachcaffe.com](http://www.sprachcaffe.com/) and [www.sprachcaffe.co.uk](http://www.sprachcaffe.co.uk/) and governs the privacy of their users. These websites are served for the company HOLIDAY-N-ADVENTURE LIMITED who trade as Sprachcaffe Languages PLUS. Payments are processed by **SCIH LIMITED, 135 Kings Road, Bn1 2HX, Brighton, UK** on behalf on HOLIDAY-N-ADVENTURE LIMITED. 
+This privacy policy applies to this website [www.sprachcaffe.com](https://www.sprachcaffe.com/) and [www.sprachcaffe.co.uk](https://www.sprachcaffe.co.uk/) and governs the privacy of their users. These websites are served for the company HOLIDAY-N-ADVENTURE LIMITED who trade as Sprachcaffe Languages PLUS. Payments are processed by **SCIH LIMITED, 135 Kings Road, Bn1 2HX, Brighton, UK** on behalf on HOLIDAY-N-ADVENTURE LIMITED. 
 
 The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
