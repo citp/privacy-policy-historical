@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topendsports.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620114813id_/http%3A//www.topendsports.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topendsports.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212181346id_/http%3A//www.topendsports.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-At http://www.topendsports.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.topendsports.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20170620114813id_/http%3A//www.topendsports.com/comment.htm).
+At http://www.topendsports.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.topendsports.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20171212181346id_/http%3A//www.topendsports.com/comment.htm).
 
 ## Log Files
 
@@ -36,4 +36,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 > Your contact details may be required for several sections of this website. In each case there is built in security to safeguard your contact and personal information. When posting a message to this site, you may wish to include your email address if you require a reply. The inclusion of you email address is not compulsory. Your contact details will not be stored and used for any other purpose except for replying to a message sent to this site. Other third party websites or software such as Yahoo Groups, PhpBB, WordPress may require you to provide your email and other information. Please see their websites for more information about the security of this information.
 
-If you have any issues, questions or comments concerning this privacy policy, please [contact us](https://web.archive.org/web/20170620114813id_/http%3A//www.topendsports.com/comment.htm).
+If you have any issues, questions or comments concerning this privacy policy, please [contact us](https://web.archive.org/web/20171212181346id_/http%3A//www.topendsports.com/comment.htm).
