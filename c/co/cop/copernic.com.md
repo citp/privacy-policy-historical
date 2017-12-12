@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copernic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105515id_/http%3A//www.copernic.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copernic.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212072648id_/http%3A//www.copernic.com/en/company/privacy) for the most accurate reproduction.*
 
 # Copernic - Privacy Policy
 
@@ -47,7 +47,7 @@ We, however, may occasionally wish to communicate with our customers in order to
 
 As part of our service, our Customer Service Department routinely communicates with members by phone or email to respond to questions or issues relating to their account, or to offer optimization services. We may also solicit some of our clients from time to time, either online or by email, to participate in client surveys. Participation in these surveys is voluntary, and the information collected provides Copernic with valuable feedback on our services, which in turn, helps us to improve them. 
 
-Copernic respects your right to unsubscribe from our company offers and newsletters at any time. To do so, [please contact our Customer Service Department](http://www.copernic.com/en/contact/). Please note, that this does not include status or confirmation emails related to your account activity. 
+Copernic respects your right to unsubscribe from our company offers and newsletters at any time. To do so, [please contact our Customer Service Department](http://copernic.com/en/contact/). Please note, that this does not include status or confirmation emails related to your account activity. 
 
 **Information Sharing**  
 Copernic may share the information we gather from cookies, web beacons, survey respondents, etc., with advertisers, business partners, sponsors, and other selected third parties. This sharing of information is done only in an aggregate form for statistical purposes. 
@@ -62,4 +62,4 @@ Clients' personally identifiable information is password protected and restricte
 **Children Under 13 Years of Age**  
 In light of the concern over protecting children's privacy online, Copernic does not knowingly request, collect, or share personally identifiable information from users under the age of 13. Our websites, products and services are neither developed for, nor directed at, children. 
 
-For additional information, or to express your comments or concerns, please [contact us](http://www.copernic.com/en/contact/). 
+For additional information, or to express your comments or concerns, please [contact us](http://copernic.com/en/contact/). 
