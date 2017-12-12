@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124826id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212045015id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Toys"R"Us/Babies"R"Us : Help Desk
 
-**The "R"Us Family Privacy Policy**
+Thank you for visiting Babies R Us. If you need assistance with shopping on our site, please call us at 888-222-9787 and a customer care representative will be happy to assist you. Please inform the Customer Service representative that you require assistance.
+
+**The "R" Us Family Privacy Policy**
 
 * * *
 
-  1. WHAT DOES THIS "R"US FAMILY PRIVACY POLICY COVER?
+  1. WHAT DOES THIS "R" US FAMILY PRIVACY POLICY COVER?
   2. WHAT INFORMATION DO WE COLLECT?
   3. CHILDREN'S PRIVACY
   4. HOW DO WE USE AND SHARE YOUR PERSONAL INFORMATION?
   5. HOW IS YOUR PERSONAL INFORMATION PROTECTED?
   6. WHERE IS YOUR PERSONAL INFORMATION PROCESSED AND STORED?
   7. HOW CAN YOU ACCESS YOUR PERSONAL INFORMATION?
-  8. WHAT ARE COOKIES AND HOW DO WE USE THEM?
+  8. WHAT ARE COOKIES, WEB BEACONS AND FLASH COOKIES, AND HOW DO WE USE THEM?
   9. HOW THE "R" US FAMILY USES YOUR INFORMATION FOR ADVERTISING
   10. WHAT ABOUT LINKED SITES?
   11. HOW TO CONTACT US
@@ -22,7 +24,7 @@
 
 
 
-**1\. What does this "R"Us Family Privacy Policy cover?**
+**1\. What does this "R" Us Family Privacy Policy cover?**
 
 The "R" Us Family includes Toys "R" Us, Inc.; Babiesrus.com, LLC; Toys "R" Us (Canada) Ltd.; and their affiliates (collectively, the ""R" Us Family members" or the ""R" Us Family").
 
@@ -31,8 +33,6 @@ This Privacy Policy outlines "R" Us Family practices regarding personal informat
 **YOUR CONSENT**
 
 BY SUBMITTING PERSONAL INFORMATION TO THE "R" US FAMILY MEMBERS OR THEIR RESPECTIVE SERVICE PROVIDERS OR AGENTS VIA OUR WEBSITES OR AT THE RETAIL STORES, OR THROUGH OTHER INTERACTIONS WITH US AS DESCRIBED IN SECTION 2 BELOW, YOU CONSENT TO OUR COLLECTION, USE AND DISCLOSURE OF SUCH PERSONAL INFORMATION FOR THE PURPOSES DESCRIBED IN THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW.
-
-If you provide us with personal information concerning another individual, you represent and warrant that you have all necessary authority and/or have obtained all necessary consents from such individual to enable us to collect, use and disclose such personal information for the purposes set forth in this Privacy Policy.
 
 If you provide us with personal information concerning another individual, you represent and warrant that you have all necessary authority and/or have obtained all necessary consents from such individual to enable us to collect, use and disclose such personal information for the purposes set forth in this Privacy Policy.
 
@@ -53,11 +53,13 @@ As used in this Privacy Policy, "personal information" is information about an i
 
 (a)     _Information You Give Us_
 
-The "R" Us Family members collect personal information (including, without limitation, names, addresses, telephone numbers and email addresses) that you provide when you: (i) visit the Online Store and the Retail Stores; (ii) create or edit your Registries and Wish Lists; (iii) participate in a contest, sweepstakes or other promotion; (iv) sign up for and/or fill out a survey or questionnaire; (v) sign-up for email and/or SMS news and alerts (or other commercial electronic messages); (vi) contact an "R" Us Family member (by email or otherwise); (vii) contact an "R" Us Family customer service representative; (viii) otherwise interact with an "R" Us Family member; or (ix) provide product reviews and/or feedback.
+The "R" Us Family members collect personal information (including, without limitation, names, addresses, telephone numbers and email addresses) that you provide when you: (i) visit the Online Store and the Retail Stores; (ii) create or edit your Registries and Wish Lists; (iii) register your R Club card or otherwise participate in the R Club loyalty program; (iv) participate in a contest, sweepstakes or other promotion; (v) sign up for and/or fill out a survey or questionnaire; (vi) sign-up for email and/or SMS news and alerts (or other commercial electronic messages); (vii) contact an "R" Us Family member (by email or otherwise); (viii) contact an "R" Us Family customer service representative; (ix) otherwise interact with an "R" Us Family member; or ( x) provide product reviews and/or feedback.
 
 (b)     _Automatic Information Collection_
 
 Each time you visit the "R" Us Site or the Online Store, the web server automatically collects certain types of information, including your Internet service provider's address, your Internet protocol or IP address, the web page from which you logged in, your web browser software, the language settings on your web browser, and a record of your activity while visiting the "R" Us Site or the Online Store. "R" Us Family members may use cookies, pixel tags, browser analysis tools, server logs, web beacons and other similar technologies that allow us to know if a particular web page was visited, an email opened, links in the email utilized or if the advertisements on the "R" Us Site or Online Store were effective. In some instances, these technologies may allow us to match activities with particular users. Please see Sections 8 and 9 below for further information about such technologies.
+
+While using "R" Us Family apps, including the Play Chaser app, we will collect unique device identifiers and information concerning the game activities and usage of the app in connection with such unique device identifier, in order to be able to operate and improve the app. However, this information cannot identify you as an individual since the "R" Us Family does not have the capacity to link, combine or match such information with other personal information of an app user.
 
  BACK TO TOP
 
@@ -73,7 +75,7 @@ _Using Your Personal Information_
 
 The "R" Us Family members collect, use and disclose personal information in accordance with applicable privacy laws and regulations.
 
-Your personal information may be used by the "R" Us Family members and their agents and service providers: (a) to administer and enhance your guest and/or customer relationship with us, including to administer accounts, maintain gift registries and Wish Lists, to book Baby Registry or other appointments with a "R" Us family member, monitor customer refunds, facilitate deliveries, administer our customer service centre, make and receive payments, and fulfill contractual obligations; (b) to understand your needs and preferences, respond to your requests and follow-up on, respond to and settle any complaints or inquiries you may have regarding our products, stores and/or services; (c) subject to your right to opt-out of such advertising (please refer to Section 9), to tailor offerings to you by delivering to you or allowing you to see certain advertising based on your interests, searches you perform, information you provide at the Retail Store, on the "R" Us Site or Online Store or your activity on our websites or other websites; (d) subject to your right to withdraw consent for such purposes, to communicate with you about products, services, special offerings and events or programs offered by the "R" Us Family members or their marketing partners that may be of interest to you; (e) subject to your right to withdraw consent for such purposes, to conduct surveys, contests and promotions; (f) to conduct research and statistical analysis; (g) to monitor communications to ensure the consistency and quality of the products and services of the "R" Us Family and its suppliers, distributors and other third parties with whom we have a commercial relationship; (h) to manage and develop the "R" Us Family businesses and operations; (i) to detect and protect the "R" Us Family and other third parties against error, negligence, breach of contract, theft, fraud and other illegal activity; (j) to comply with the "R" Us Family audit requirements, and to audit compliance with laws and the "R" Us Family corporate policies, procedures and contractual obligations; (k) to engage in due diligence and carry out business transactions that may involve the purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, securitization or financing involving an "R" Us Family member; (l) as permitted by, and to comply with, applicable laws and regulations; and (m) for any other purpose to which you consent.
+Your personal information may be used by the "R" Us Family members and their agents and service providers: (a) to administer and enhance your guest and/or customer relationship with us, including to administer accounts, maintain gift registries, Wish Lists, R Club cards and the R Club loyalty program, to book Baby Registry or other appointments with a "R" Us Family member, monitor customer refunds, facilitate deliveries, administer our customer service centre, make and receive payments, and fulfill contractual obligations; (b) to understand your needs and preferences, respond to your requests and follow-up on, respond to and settle any complaints or inquiries you may have regarding our products, stores and/or services; (c) subject to your right to opt-out of such advertising (please refer to Section 9), to tailor offerings to you by delivering to you or allowing you to see certain advertising based on your interests, searches you perform, information you provide at the Retail Store, on the "R" Us Site or Online Store or your activity on our websites or other websites; (d) subject to your right to withdraw consent for such purposes, to communicate with you about products, services, special offerings and events or programs offered by the "R" Us Family members or their marketing partners that may be of interest to you; (e) subject to your right to withdraw consent for such purposes, to conduct surveys, contests and promotions; (f) to conduct research and statistical analysis; (g) to monitor communications to ensure the consistency and quality of the products and services of the "R" Us Family and its suppliers, distributors and other third parties with whom we have a commercial relationship; (h) to manage and develop the "R" Us Family businesses and operations; (i) to detect and protect the "R" Us Family and other third parties against error, negligence, breach of contract, theft, fraud and other illegal activity; (j) to comply with the "R" Us Family audit requirements, and to audit compliance with laws and the "R" Us Family corporate policies, procedures and contractual obligations; (k) to engage in due diligence and carry out business transactions that may involve the purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, securitization or financing involving an "R" Us Family member; (l) as permitted by, and to comply with, applicable laws and regulations; and (m) for any other purpose to which you consent.
 
 Only "R" Us Family Representatives who require your personal information in the performance of their duties will have access to your personal information. Notably, only "R" Us Family Representatives in the customer service department, who process online purchases, may have access to your credit card information.
 
@@ -81,11 +83,11 @@ _Sharing Your Personal Information_
 
 "R" Us Family members will not license, sell or provide your personal information to any third party except as permitted by this Privacy Policy, as permitted or required by law, or with your consent. In addition to the purposes described above, the "R" Us Family shares your personal information as set forth below:
 
-**With "R"Us Family Members.** Personal information collected by one member of the "R" Us Family will be used by that member in accordance with this Privacy Policy and may be shared with other "R" Us Family members for use only as permitted by law.
+**With "R" Us Family Members.** Personal information collected by one member of the "R" Us Family will be used by that member in accordance with this Privacy Policy and may be shared with other "R" Us Family members for use only as permitted by law.
 
 **With Our Agents and/or Service Providers.** "R" Us Family members may share your personal information with agents and service providers who provide services for, or administer activities on behalf of, the "R" Us Family (such as, but not limited to, authorization of credit card transactions, order fulfillment and delivery, sweepstakes, website maintenance and contests, marketing, advertising, data processing and storage, information technology and office services, auditors and professional advisors, and co-branded or joint product and service promotions). These agents and/or service providers are granted access to some or all of your personal information as necessary in order to provide the service and may use cookies and other automatic collection technologies (as described in further detail in Section 8 below) on our behalf. "R" Us Family members strive to protect personal information rendered accessible to agents and service providers by using contractual and other measures to restrict them from using your personal information in any manner other than as may be necessary to perform their mandate and/or services. We may also utilize agents and/or service providers to assist us in aggregating personal information. We may then share such aggregated information (but not personal information) with prospective marketing partners and advertisers.
 
-**In Connection with Business Transfers.** In the event that a store, division or part or all of an "R" Us Family member (or the assets of one of those entities) is bought, sold, otherwise transferred or financed, or is in the process of a potential transaction, personal information may need to be disclosed under confidentiality restrictions to perform due diligence reviews. If the transaction proceeds, such personal information may be used and disclosed by the successor entity, provided such use and disclosure is in accordance with this Privacy Policy. If the transaction does not proceed, the "R" Us Family will require the potential purchaser not to use or disclose customer personal information, in any manner whatsoever, and to return or destroy such information.
+**In Connection with Business Transactions.** In the event that a store, division or part or all of an "R" Us Family member (or the assets of one of those entities) is bought, sold, otherwise transferred or financed, or is in the process of a potential transaction, personal information may need to be disclosed under confidentiality restrictions to perform due diligence reviews. If the transaction proceeds, such personal information may be used and disclosed by the successor entity, provided such use and disclosure is in accordance with this Privacy Policy. If the transaction does not proceed, the "R" Us Family will require the potential purchaser not to use or disclose customer personal information, in any manner whatsoever, and to return or destroy such information.
 
 **To Comply with Laws and Protect Against Loss.** A "R" Us Family member may also disclose your personal information when it determines that such disclosure is necessary to comply with applicable laws, and/or to detect and protect the "R" Us Family and other third parties against error, negligence, breach of contract, theft, fraud and other illegal activity, to comply with the "R" Us Family audit requirements, and to audit compliance with laws and the "R" Us Family corporate policies, procedures and contractual obligations, to the extent permitted by law. This includes exchanging information with other companies and organizations for fraud protection, credit risk reduction, debt collection, insurance coverage and in the course of investigating and resolving disputes and litigation.
 
@@ -126,7 +128,7 @@ Cookies are small text files containing a unique identification number that iden
 
 Pixel tags and web beacons are tiny graphic images placed on our website pages or in our emails that allow "R" Us Family members to determine whether you have performed a specific action. When you access these pages or open or click an email, the pixel tags and web beacons generate a notice of that action. These tools allow the "R" Us Family to measure response to our communications and improve our website pages and promotions.
 
-"R" Us Family members also use Flash Cookies (also known as Local Stored Objects) and similar technologies to personalize and enhance your online experience, facilitate processes and personalize and store your settings. A Flash cookie is a small data file placed on a computer using Adobe? Flash? or a similar technology that may be built into your computer or downloaded or installed by you to your computer. They help "R" Us Family members improve our websites by measuring which areas are of greatest interest to customers. Flash cookies are different from browser cookies and are managed through a different interface than the one provided by your web browser. Click [HERE](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) to learn how to manage privacy and storage settings for Flash cookies. If you disable Flash cookies, please be aware that you may not have access to certain feature and services.
+"R" Us Family members also use Flash Cookies (also known as Local Stored Objects) and similar technologies to personalize and enhance your online experience, facilitate processes and personalize and store your settings. A Flash cookie is a small data file placed on a computer using Adobe® Flash® or a similar technology that may be built into your computer or downloaded or installed by you to your computer. They help "R" Us Family members improve our websites by measuring which areas are of greatest interest to customers. Flash cookies are different from browser cookies and are managed through a different interface than the one provided by your web browser. Click [HERE](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) to learn how to manage privacy and storage settings for Flash cookies. If you disable Flash cookies, please be aware that you may not have access to certain feature and services.
 
  BACK TO TOP
 
@@ -150,7 +152,7 @@ If you have questions or concerns regarding policies and practices of "R"Us Fami
 
 **12\. Revisions to this Privacy Policy**
 
-This Privacy Policy may be updated and revised from time to time. If we make a change to this Privacy Policy, we will post an updated policy on our websites and in our Retail Stores, and the updated policy will be available on request by sending an email to privacymanager_canada@toysrus.com, by calling 1-800-TOYSRUS (1-800-869-7787) or by writing to our Privacy Manager at Toys "R" Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, L4K 4M5. This policy was last revised on August 1, 2016.
+This Privacy Policy may be updated and revised from time to time. If we make a change to this Privacy Policy, we will post an updated policy on our websites and in our Retail Stores, and the updated policy will be available on request by sending an email to privacymanager_canada@toysrus.com, by calling 1-800-TOYSRUS (1-800-869-7787) or by writing to our Privacy Manager at Toys "R" Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, L4K 4M5. This policy was last revised on October 12, 2017.
 
  BACK TO TOP
 
@@ -160,7 +162,7 @@ The Website Use Agreement governing your use of this website (which may be viewe
 
  BACK TO TOP
 
-_Effective Date of Privacy Policy: August 1, 2016_
+_Effective Date of Privacy Policy: October 12, 2017_
 
   
 
