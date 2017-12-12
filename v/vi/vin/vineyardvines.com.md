@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vineyardvines.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623053557id_/https%3A//www.vineyardvines.com/frequently-asked-questions/frequently-asked-questions.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vineyardvines.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212232656id_/http%3A//www.vineyardvines.com/frequently-asked-questions/frequently-asked-questions.html%23privacy) for the most accurate reproduction.*
 
 # FAQ's
 
@@ -46,15 +46,15 @@ Since this is a large and heavy item, our shipping provider charges more for us 
 
 ## Returns & Exchanges
 
-Download the [Returns & Exchanges form](http://www.vineyardvines.com/on/demandware.static/-/Sites-Vineyard-Vines-Library/default/dw0f33c07d/Ret-Exc%20Form.pdf).  
-[Viewers & Players](http://www.hhs.gov/web/tools/plugins.html)
+To return or exchange your product(s), follow the steps outlined [here](https://vineyardvines.letslinc.com/order_locator?shop_id=377914ec-cb42-11e4-99bf-22000ac737a1&iframe=0&instructions=1&v=return).
 
-Please send all returns and exchanges to:
+You can also return your products in any of our [stores](http://www.vineyardvines.com/stores).
 
-vineyard vines 3 Apparel Court Monroe Township, NJ 08831
+**International Returns and Exchanges**
 
-**International Returns and Exchanges**   
-To submit an international return or exchange request, please contact vineyard vines customer support at 1-800-892-4982. Returns and exchanges should only be shipped once you have submitted a request. Be sure to include a copy of the pack slip in your shipment! br> Allow 30 days for return/exchange to be processed. 
+To submit an international return or exchange request, please contact vineyard vines customer support at 1-203-391-9398. Returns and exchanges should only be shipped once you have submitted a request. Be sure to include a copy of the pack slip in your shipment! 
+
+Please allow 30 days for return/exchange to be processed. 
 
 Borderfree 525 Dell Road Carlstadt, NJ 07072 United States
 
@@ -139,7 +139,7 @@ Check out our [ size charts](http://www.vineyardvines.com/sizechart) to help det
 
 Please find more information about sizing in our [size charts](http://www.vineyardvines.com/sizechart).
 
-Our [boys’ ties](http://www.vineyardvines.com/silk-ties/boys-printed-ties/) are generally geared toward young men 5 feet tall and under.
+Our [boys’ ties](https://www.vineyardvines.com/silk-ties/boys-printed-ties/) are generally geared toward young men 5 feet tall and under.
 
 The best method we’ve found is simply spot cleaning as necessary. You can also take your tote to the dry cleaner, but be sure to point out the silk trim.
 
@@ -151,7 +151,7 @@ Since this is a large and heavy item, our shipping provider charges more for us 
   * American Express
   * MasterCard
   * Discover Card
-  * Paypal
+  * PayPal
   * vineyard vines Gift Cards
   * Additional international payment methods displayed at checkout, where applicable
 
@@ -236,8 +236,8 @@ Yes! You can get the Good Life… on the go! Download the vineyard vines [iPhone
 
 We sure do! Connect with us here:
 
-In addition to supporting the causes we believe in, we also feel strongly about contributing to the charitable efforts of our customers and their communities. As a dear friend once told us: "Give back more to the community than you receive." Not only do we live by this philosophy, we’ve built our entire company around it, too. [Download our guidelines and donation form](http://demandware.edgesuite.net/aahw_prd/on/demandware.static/-/Sites-Vineyard-Vines-Library/default/dwc4dff0db/Donation%20Request%20Form.pdf) (PDF).  
-[Viewers & Players](http://www.hhs.gov/web/tools/plugins.html)
+In addition to supporting the causes we believe in, we also feel strongly about contributing to the charitable efforts of our customers and their communities. As a dear friend once told us: "Give back more to the community than you receive." Not only do we live by this philosophy, we’ve built our entire company around it, too. [Download our guidelines and donation form](https://demandware.edgesuite.net/aahw_prd/on/demandware.static/-/Sites-Vineyard-Vines-Library/default/dwc4dff0db/Donation%20Request%20Form.pdf) (PDF).  
+[Viewers & Players](https://www.hhs.gov/web/tools/plugins.html)
 
 ## Privacy & Security
 
@@ -282,6 +282,8 @@ vineyard vines may update our privacy policy from time to time and use of the in
 Email: tieguys@vineyardvines.com
 
 Phone: 800-892-4982
+
+International Phone: 203-391-9398
 
 Fax: 800-892-3606
 
