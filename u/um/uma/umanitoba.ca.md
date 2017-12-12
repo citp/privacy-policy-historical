@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umanitoba.ca privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611161102id_/http%3A//umanitoba.ca/access_and_privacy/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umanitoba.ca privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212151916id_/http%3A//umanitoba.ca/access_and_privacy/Privacy_Statement.html) for the most accurate reproduction.*
 
 # University of Manitoba - Office of Fair Practices and Legal Affairs - Access and Privacy - University of Manitoba Website Privacy Statement
 
