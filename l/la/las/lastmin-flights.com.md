@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastmin-flights.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518135804id_/http%3A//www.lastmin-flights.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastmin-flights.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212133041id_/http%3A//lastmin-flights.com/privacy.php) for the most accurate reproduction.*
 
 # lastmin-flights.com - Privacy Policy
 
