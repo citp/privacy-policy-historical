@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozello.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210844id_/http%3A//www.mozello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozello.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212175137id_/http%3A//www.mozello.com/privacy) for the most accurate reproduction.*
 
 # Mozello - Privacy Policy
 
@@ -42,7 +42,7 @@ When you subscribe to our e-mail newsletter, you will be required to provide you
 
 When you place an order online with us, you will be redirected to an SSL-secured website operated by our trusted billing merchant and there you will be required to provide personal information (including your credit card details) to our billing merchant. Information you provide to our billing merchant will be processed in accordance with its privacy policy (available at the bottom of billing pages) and you are therefore advised to review such policy prior to purchase. Mozello will have access to your full name, company name, address and contact info, but not to your credit card or any other payment account data.
 
-We may use collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+We may use collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, ad targeting and research.
 
 **Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.** If you do not want to receive such information, **you can easily opt-out from future communication** at anytime by clicking a link at the bottom of a message from us or by sending an explicit unsubscribe request to .
 
@@ -76,11 +76,21 @@ We may use Google Analytics' Demographics and Interest Reporting features to vie
 
 To opt out of this behavior, install [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
 
-## Google Ads Remarketing
+## Third Party Ad Targeting Tools
 
-We may use Google Ads remarketing features to re-engage with our visitors via Google Display Network ads. This means that when you visit our page, Google will note this by saving a cookie in your web browser and then use it to serve more of our ads when you visit Google Display Network websites.
+We may use third party ad targeting tools to re-engage with our visitors and customers.
 
-To opt out of this behavior, visit [Google's Ads Settings](http://www.google.com/settings/ads).
+This means that third parties, including Google and Facebook, may use cookies, web beacons, and other storage technologies to collect or receive information from our websites and elsewhere on the internet and use that information to provide measurement services and target ads.
+
+For example, when you visit our page, Google or other ad publisher that we use may note this by saving a cookie in your web browser and then use it to serve more of our ads on their website and their advertising partner websites.
+
+You can opt-out of the collection and use of information for ad targeting by means of one of the following free tools:
+
+  * [WebChocies](http://www.aboutads.info/choices)
+  * [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp)
+  * [Your Online Choices](http://www.youronlinechoices.eu/)
+
+
 
 ## Data Storage
 
