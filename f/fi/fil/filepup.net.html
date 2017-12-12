@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the filepup.net privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606150216id_/http%3A//www.filepup.net/help/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the filepup.net privacy policy that was archived on 2017-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171212174720id_/http%3A//www.filepup.net/help/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -35,6 +35,26 @@
     <link href="http://static.filepup.net/v2/css/prettyPhoto.css" rel="stylesheet" type="text/css">
     <link href="http://static.filepup.net/v2/css/zocial.css" rel="stylesheet" type="text/css">
     <link href="http://static.filepup.net/v2/css/settings.css" rel="stylesheet" type="text/css">
+      
+      
+
+
+     
+		<!-- Google Fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+		
+		<!-- styles -->
+		<link href="http://www.filepup.net/include/uploaderV2/jquery.fileuploader.css" media="all" rel="stylesheet">
+		<link href="http://www.filepup.net/include/uploaderV2/css/jquery.fileuploader-theme-dragdrop.css" media="all" rel="stylesheet">
+		
+
+      
+      
+      
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; scrolling: no; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 300px; }</style>
+   
+      
+      
       
  <style>     
     #progress_bar_container {
@@ -197,9 +217,10 @@ input[type=checkbox].css-checkbox {
         <nav id="main_menu">
           <div class="nav-collapse collapse">
             <ul class="nav nav-pills">	
-              
-					<li><a href="http://www.filepup.net/index.php"><i class="fa fa-home"></i> Home</a></li>
-			  
+               
+                    <li><a data-toggle="modal" href="#UploadModalV2"><i class="fa fa-cloud-upload"></i> Upload</a></li>
+					<!--<li><a href="http://www.filepup.net/index.php"><i class="fa fa-home"></i> Home</a></li>-->
+             			  
 	  <!-- If user doesn't exist or is not logged in -->
             <li class="dropdown"><a href="javascript:{}"><i class="fa fa-user"></i> Sign Up | Sign In</a>
               <ul class="dropdown-menu" style="margin-left: 43px;">
@@ -216,11 +237,6 @@ input[type=checkbox].css-checkbox {
       </div>
     </div>
 	
-	<!-- Sign Up Modal Box ================================================== -->
-
-
-		
-		<!-- Sign In Modal Box ================================================== -->
 
         <!-- Sign In modal content -->
         <div id="SignModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="SignModalLabel" aria-hidden="true">
@@ -231,9 +247,9 @@ input[type=checkbox].css-checkbox {
 				<div class="modal-body">
 					<form action="./loginaa.php" method="post">
 						<p class="form_info">username</p>
-						<input class="span3" type="text" name="user" style="height: 30px;" value="">
+						<input class="span4" type="text" name="user" style="height: 30px;" value="">
 						<p class="form_info">Password</p>
-						<input class="span3" type="password" name="pass" style="height: 30px;"><br>
+						<input class="span4" type="password" name="pass" style="height: 30px;"><br>
 						
 						<a href="./lostpassword.php">Lost password?</a>
 						
@@ -249,7 +265,26 @@ input[type=checkbox].css-checkbox {
 				</div>
 	</div>
 
-		<!-- Upload Modal Box ================================================== -->
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>
+    
+        <!-- UPLOAD V2 modal content -->
+        <div id="UploadModalV2" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="UploadModalV2label" aria-hidden="true" data-backdrop="static">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+            <h3 id="UploadModalV2labelbody">Select files to upload</h3>
+            </div>
+				<div class="modal-body" style="padding:0px !IMPORTANT; max-height:600px !IMPORTANT;">
+                    <!--<iframe src="http://www.filepup.net/include/uploaderV2/index.html" style="margin-top: -15px !IMPORTANT;"></iframe>-->
+                    <input type="file" name="files">
+				</div>
+				<div class="modal-footer">
+				</div>
+	</div>
+
 
         <!-- Upload modal content -->
         <div id="UploadModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="UploadModalLabel" aria-hidden="true">
@@ -494,7 +529,14 @@ $(document).ready(function() {
       		//]]>
     </script>
 	
+     
 
+		<!--<script src="https://code.jquery.com/jquery-3.1.1.min.js" crossorigin="anonymous"></script>-->
+		<script src="http://www.filepup.net/include/uploaderV2/jquery.fileuploader.min.js" type="text/javascript"></script>
+		<script src="http://www.filepup.net/include/uploaderV2/js/custom.js" type="text/javascript"></script>
+        <!--<script src="http://www.filepup.net/include/uploaderV2/dist/clipboard.min.js"></script>-->
+
+ 
 
 	
     <!-- SCRIPTS -->
@@ -558,6 +600,9 @@ $(document).ready(function() {
                 }
         </script>
     
+
+  
+
      
 
 </body></html>
