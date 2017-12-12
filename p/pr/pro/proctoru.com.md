@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proctoru.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604075129id_/https%3A//www.proctoru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proctoru.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212225932id_/https%3A//www.proctoru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ProctorU
 
@@ -8,11 +8,15 @@ This Privacy Policy describes ProctorU Inc.’s policies and procedures on the c
 
 ProctorU Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. ProctorU Inc. is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
 
-ProctorU Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. ProctorU Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+ProctorU Inc. complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. ProctorU Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+
+ProctorU Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. ProctorU Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, ProctorU Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission . In certain situations, ProctorU Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+If you have a Privacy Shield complaint, please visit <https://support.proctoru.com/hc/en-us> to submit a support ticket.
 
 Under certain conditions, more fully described on the [Privacy Shield Website](https://www.privacyshield.gov/welcome), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
