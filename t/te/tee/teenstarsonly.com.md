@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenstarsonly.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603000509id_/http%3A//teenstarsonly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenstarsonly.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212052635id_/http%3A//www.teenstarsonly.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,4 +61,4 @@ This web site contains links to other sites. Please be aware that we are not res
 
 From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via email support@royal-cash.com.**
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via email[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection).**
