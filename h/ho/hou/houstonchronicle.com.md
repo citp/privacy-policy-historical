@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houstonchronicle.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626201234id_/http%3A//www.houstonchronicle.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonchronicle.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212060426id_/http%3A//www.houstonchronicle.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | HoustonChronicle.com - Houston Chronicle
 
@@ -76,28 +76,28 @@
 
 ## 6\. Wireless Email Address, Short Message Services and WAP.
 
-If the email address you provide to us is a wireless email address, you agree to receive messages at such address from Newspaper or from third parties. Similarly, we may make available services through which you can receive messages on your phone or wireless device SMS Service or WAP Services. We may also make available content and versions of our Covered Sites available via WAP and Mobile Services. If you subscribe to one of our SMS, WAP or Mobile Services, you thereby agree to receive services and messages at the address you provide for such purposes. Such messages may come from Newspaper, or from third parties. To use the wireless email address, SMS, WAP, or Mobile Service, you must reside in the United States. We may also obtain the date, time and content of your messages. We will use the information we obtain in connection with these services in accordance with this Privacy Policy. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. By providing us your wireless email address or by signing up for any SMS, WAP, or Mobile Service, you consent to receiving messages as described above. You understand that your wireless carrier's standard rates apply to these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. 
+If the email address you provide to us is a wireless email address, you agree to receive messages at such address from Newspaper or from third parties. Similarly, we may make available services through which you can receive messages on your phone or wireless device SMS Service or WAP Services. We may also make available content and versions of our Covered Sites available via WAP and Mobile Services. If you subscribe to one of our SMS, WAP or Mobile Services, you thereby agree to receive services and messages at the address you provide for such purposes. Such messages may come from Newspaper, or from third parties. To use the wireless email address, SMS, WAP, or Mobile Service, you must reside in the United States. We may also obtain the date, time and content of your messages. We will use the information we obtain in connection with these services in accordance with this Privacy Policy. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. By providing us your wireless email address or by signing up for any SMS, WAP, or Mobile Service, you consent to receiving messages as described above. You understand that your wireless carrier's standard rates apply to these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.
 
   
 
 
 ## 7\. Security of Your Personally Identifiable Information.
 
-We use a variety of industry-standard security technologies and procedures to help protect your Personally Identifiable Information from unauthorized access, use, or disclosure. We also require you to enter a password to access your registration information. Please do not disclose your registration password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Newspaper uses reasonable efforts to protect your Personally Identifiable Information, Newspaper cannot guarantee its absolute security. 
+We use a variety of industry-standard security technologies and procedures to help protect your Personally Identifiable Information from unauthorized access, use, or disclosure. We also require you to enter a password to access your registration information. Please do not disclose your registration password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Newspaper uses reasonable efforts to protect your Personally Identifiable Information, Newspaper cannot guarantee its absolute security.
 
   
 
 
 ## 8\. Kids And Parents.
 
-The Covered Sites are not intended for use by children, especially those under age 13. If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. There are also commercially available tools to help you limits your children's exposure to material online. 
+The Covered Sites are not intended for use by children, especially those under age 13. If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. There are also commercially available tools to help you limits your children's exposure to material online.
 
   
 
 
 ## 9\. Non-U.S. Users.
 
-If you are located outside of the United States, please note that the information you provide to us will be transferred to and processed in the United States, where laws regarding processing of Personally Identifiable Information may be less stringent than the laws in your country. By using this Covered Site, you consent to this transfer and processing. You also consent to the adjudication of any disputes arising in connection with this Covered Site in the federal and state courts of, and in accordance with the laws of, the state of New York. 
+If you are located outside of the United States, please note that the information you provide to us will be transferred to and processed in the United States, where laws regarding processing of Personally Identifiable Information may be less stringent than the laws in your country. By using this Covered Site, you consent to this transfer and processing. You also consent to the adjudication of any disputes arising in connection with this Covered Site in the federal and state courts of, and in accordance with the laws of, the state of New York.
 
   
 
