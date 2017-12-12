@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lulu.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602042415id_/http%3A//www.lulu.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lulu.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212213752id_/http%3A//www.lulu.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Self Publishing, Book Printing and Publishing Online - Lulu
 
@@ -6,7 +6,7 @@
 
 Lulu Press, Inc. ("Lulu," "we," "us") respects your privacy, including the privacy of your personal information. This Privacy Policy explains what information we collect through our website at www.lulu.com, www.lulujr.com, www.picture.com and www.replayphotos.com (collectively, the "Site") and our other services, and how we use this information to provide outstanding service to you. By accessing and using the Site or other services owned and/or operated by Lulu (collectively, the "Site"), you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Site. If you feel that Lulu is not abiding by this Privacy Policy, you should contact us. Lulu's offices are located at 627 Davis Drive, Suite 300, Morrisville, NC 27560. We will do our best to resolve your inquiry. 
 
-REVISED: January 15, 2017
+REVISED: July 13, 2017
 
 **1\. Information Collected Through Our Site**
 
@@ -53,9 +53,13 @@ In order to provide quality products, the Lulu employees and third-party service
 
 Lulu will make an effort to keep all your Personal Information up to date when you provide it to us. You can update your account information and change your password at any time. On Lulu.com, you will find this at My Projects > My Account & Orders > About Me. If you have forgotten your password, you can set a new one by clicking the “Forgot My Password” link on the login page or by contacting our Customer Service team. If any of your Personal Information changes, or you identify a mistake in our records, please contact us and we will update your data. 
 
+As a Lulu API customer, you can update your account information from the Developer Portal in your User Account.
+
 **6\. Opt-Out**
 
 You may unsubscribe to our notification services through your account profile on the Lulu.com Site. Simply go to the My Projects > My Account & Orders > Preferences page or contact our Customer Service team. From time to time Lulu may share Personal Information with affiliates or third parties to allow them to contact you regarding products, programs, services and promotions that we believe may be of interest to you. If you would prefer that we do not share your Personal Information with affiliates and/or third parties for such affiliates' and/or third parties' direct marketing purposes, you may submit an opt-out request by going to the My Projects > My Account & Orders > Preferences page. We will comply with your request as soon as reasonably practicable. Please note that we will not be able to remove your Personal Information from the databases of affiliates or third parties with which we have already shared your Personal Information as of the date that we implement your opt-out request. If you wish to cease receiving marketing-related e-mails from any such affiliates or third parties, please contact the affiliate or third party directly or use any opt-out mechanisms provided in its marketing-related e-mails or privacy policy.
+
+As a Lulu API customer, you may unsubscribe from notification services through your account profile. Simply log in and go to User Account, and select which notifications you would like to receive. Once completed, click Update.
 
 **7\. Security**
 
