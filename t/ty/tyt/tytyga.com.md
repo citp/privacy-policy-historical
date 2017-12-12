@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tytyga.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144644id_/http%3A//www.tytyga.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tytyga.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212173733id_/http%3A//www.tytyga.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -39,7 +39,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 **Do we disclose the information we collect to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include The Nursery at Ty Ty LLC. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Ty Ty Plant Nursery, LLC. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20170606144644id_/http%3A//www.tytyga.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20171212173733id_/http%3A//www.tytyga.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your consent**
 
