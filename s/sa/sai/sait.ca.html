@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sait.ca privacy policy that was archived on 2017-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170625183509id_/http%3A//www.sait.ca/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sait.ca privacy policy that was archived on 2017-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171212010644id_/http%3A//www.sait.ca/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/CollegeOrUniversity"><head>
     <meta charset="UTF-8">
@@ -46,7 +46,10 @@
         <link rel="stylesheet" type="text/css" href="/assets/prebuilt/css/tooltipster.min.css" />
         
         <!-- Global CSS -->
-        <link href="/assets/prebuilt/css/dest/screen.min.css?v=201705251000" rel="stylesheet">
+        <link href="/assets/prebuilt/css/dest/screen.min.css" rel="stylesheet">
+
+        <!-- Print CSS -->
+        <link href="/assets/prebuilt/css/dest/print.min.css" rel="stylesheet">
 
         <link type="text/css" rel="stylesheet" href="/assets/prebuilt/css/igx-styles.css?v=201705251000" />
 
@@ -123,9 +126,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
 
                 <div class="info-banner-no-bg">
-                    <b><a href="http://www.sait.ca/future-students/featured-programs">Fall 2017 programs still accepting applications. Apply now<span class="ion-ios-arrow-forward g-icon-right"></span></a></b>
+                    <b><a href="http://www.sait.ca/future-students/featured-programs">Find a program to fit your career plan. Apply now for 2018.<span class="ion-ios-arrow-forward g-icon-right"></span></a></b>
                 </div>
             </div>
+
+            <div class="color-banner" style="margin-top:20px; margin-bottom:-25px;"></div>
+
         </div>
         <div class="recently-viewed">
             <div class="g-container g-clearfix">
@@ -135,7 +141,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-                        <p><span id="numRecentlyViewed">0</span> Recently Viewed Full-Time Program(s) <a class="g-btn-4 g-btn-sm g-pull-right" onclick="location.href='/Sait/PrintProgramsPdf'"><span class="g-icon-left ion-android-download"></span>Download Your Career and Program Guide</a></p>
+                        <p><span id="numRecentlyViewed">0</span> Recently Viewed Full-Time Program(s) <a class="g-btn-4 g-btn-sm g-pull-right" onclick="PrintProgramsPdf(); location.href='/Sait/PrintProgramsPdf'"><span class="g-icon-left ion-android-download"></span>Download Your Career and Program Guide</a></p>
 
 
 
@@ -179,14 +185,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a href="/programs-and-courses">View Programs A-Z</a></li>
 <li><a href="/programs-and-courses?activeTab=courses">View Courses A-Z</a></li>
 <li><a href="/programs-and-courses/continuing-education?available=Continuing Education">Continuing Education</a></li>
-<li><a href="/programs-and-courses/distance-education">Distance Education</a></li>
+<li><a class="intLink" href="/programs-and-courses/distance-education">Distance Education</a></li>
 <li><a href="/programs-and-courses/apprenticeships-and-trades">Apprenticeships &amp; Trades</a></li>
 </ul>
 </div>
 <div class="col-1of4 sm-1of2">
 <div class="title">Other</div>
 <ul class="g-secondary-list">
-<li><a href="/programs-and-courses/academic-upgrading-x20737">Academic Upgrading</a></li>
+<li><a href="/programs-and-courses/academic-upgrading" title="Academic Upgrading">Academic Upgrading</a></li>
 <li><a href="/programs-and-courses/dual-credit-programs">Dual-Credit Programs</a></li>
 <li><a href="/programs-and-courses/full-time-studies/english-language-foundations">English Language Foundations</a></li>
 <!--<li><a href="https://saitcareermatch.ca/" target="_blank">Career Match<span class="ion-forward g-icon-right"></span></a></li>--></ul>
@@ -204,11 +210,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="title">More Offerings</div>
 <ul class="g-secondary-list">
 <li><a href="http://culinarycampus.ca" rel="noopener" target="_blank">Culinary Campus<span class="ion-forward g-icon-right"></span></a></li>
+<li><a href="https://tastemarket.ca" rel="noopener" target="_blank">Tastemarket<span class="ion-forward g-icon-right"></span></a></li>
 <li><a href="http://saitsummercamps.ca/" rel="noopener" target="_blank">Summer Camps<span class="ion-forward g-icon-right"></span></a></li>
+<li><a href="/student-life/your-campus/sait-recreation" title="SAIT Recreation">SAIT Recreation</a></li>
 </ul>
 </div>
 </div>
 </div>
+<div class="info-banner info-banner-bottom"><a href="http://www.sait.ca/future-students/featured-programs">Find a program to fit your career plan. Apply now for 2018. <span class="ion-ios-arrow-forward g-icon-right"></span></a></div>
 </div>
     </li>
     <li>
@@ -254,7 +263,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="title">Events</div>
 <div class="timely-uevents-widget nav-cal">
 <script type="text/javascript" data-widget="ai1ec_agenda_widget" data-events_seek_type="events" data-cat_ids="16" data-events_per_page="3" data-days_per_page="20" data-show_subscribe_buttons="false">
-  (function(){var d=document,s=d.createElement('script'),
+(function(){var d=document,s=d.createElement('script'),
   i='ai1ec-script';if(d.getElementById(i))return;s.async=1;
   s.id=i;s.src='https://live-timely-ymr3dz1b2x.time.ly/?ai1ec_js_widget';
   d.getElementsByTagName('head')[0].appendChild(s);})();
@@ -266,6 +275,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 </div>
+<div class="info-banner info-banner-bottom"><a href="http://www.sait.ca/future-students/featured-programs"> Find a program to fit your career plan. Apply now for 2018. <span class="ion-ios-arrow-forward g-icon-right"></span></a></div>
 </div>
     </li>
     <li>
@@ -280,7 +290,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a href="/student-life/academic-support/academic-coaching">Academic Coaching</a></li>
 <li><a href="/student-life/academic-support/tutoring-services">Tutoring services</a></li>
 <li><a href="/admissions/admission-and-selection/recognition-of-prior-learning">Recognition of Prior Learning</a></li>
-<li><a href="http://library.sait.ca/" rel="noopener" target="_blank">Library<span class="ion-forward g-icon-right"></span></a></li>
+<li><a href="/student-life/reg-erhardt-library/reg-erhardt-library">Library</a></li>
 <li><a href="/student-life/academic-support/accessibility-services">Accessibility</a></li>
 <li><a class="all-link" href="/student-life">View All<span class="ion-ios-arrow-forward g-icon-right"></span></a></li>
 </ul>
@@ -292,7 +302,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a href="/student-life/health-wellness-and-safety/student-development-and-counselling">Student Development &amp; Counselling</a></li>
 <li><a href="/student-life/health-wellness-and-safety/safewalk">Safewalk</a></li>
 <li><a href="/about-sait/campus/campus-security">Campus Security</a></li>
-<li><a href="/student-life">View All</a></li>
+<li><a class="all-link" href="/student-life">View All<span class="ion-ios-arrow-forward g-icon-right"></span></a></li>
 </ul>
 </div>
 <div class="col-1of4 sm-1of2">
@@ -309,7 +319,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="title">Student Services</div>
 <ul class="g-secondary-list">
 <li><a href="/about-sait/campus/helpline">Helpline</a></li>
-<li><a href="/student-life/student-services/computer-services">Computer Services</a></li>
+<li><a href="/student-life/student-services/technical-support">Technical Support</a></li>
 <li><a href="/student-life/student-services/office-of-the-registrar/order-transcripts-and-credentials">Order Transcripts &amp; Credentials</a></li>
 <li><a href="/student-life/your-campus/student-employment-and-career-centre">Student Employment Services</a></li>
 <li><a href="/student-life/student-services/office-of-the-registrar">Office of the Registrar</a></li>
@@ -346,6 +356,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a href="/applied-research-and-innovation-services">Applied Research and Innovation Services</a></li>
 <li><a href="/about-sait/news-and-events">News &amp; Events</a></li>
 <li><a href="/about-sait/media-centre">Media Centre</a></li>
+<li><a href="/about-sait/who-we-are/publications">Publications </a></li>
 </ul>
 </div>
 <div class="col-1of4 sm-1of2">
@@ -398,8 +409,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul class="g-secondary-list">
 <li><a href="/donors">Donors Home</a></li>
 <li><a href="/donors/gifts-at-work">Gifts at Work</a></li>
+<li><a href="/donors/ways-to-give">Ways to Give</a></li>
 <li><a href="/donors/donate-to-sait">Donate to SAIT</a></li>
-<li><a href="/donors/donate-to-sait/reports-to-donors">Reports to Donors</a></li>
+<li><a href="/donors/donate-to-sait/report-to-donors">Reports to Donors</a></li>
 <li><a class="all-link" href="/donors">View All<span class="ion-ios-arrow-forward g-icon-right"></span></a></li>
 </ul>
 </div>
@@ -445,20 +457,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     }
 
     function PrintProgramsPdf() {
-        $.ajax({
-            url: '/Sait/PrintProgramsPdf',
-            method: 'GET'
+
+        $(".recently-viewed").find(".g-check").each(function(i, obj){
+            ga('send', 'event', { eventCategory: 'PDF Download', eventAction: 'Click', eventLabel: '[rvp] ' + obj.innerText });
         });
     }
 
 </script>        <main>
             
-	<div class="container">
-		<div class="mobile-side-menu">
-			<a class="mobile-side-menu-open" href="#"><i class="fa fa-bars"></i></a>
-		</div>
-		<div class="row">
-			
+
+
+
+    <div class="container">
+        <div class="mobile-side-menu">
+            <a class="mobile-side-menu-open" href="#"><i class="fa fa-bars"></i></a>
+        </div>
+        <div class="row">
+            
     <div class="g-main">
         <div class="g-apply-banner" style="background-image: url('/assets/images/')">
             <div class="g-container">
@@ -479,7 +494,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="g-container">
                 <h2>SAIT's compliance with anti-spam legislation</h2>
 <p>SAIT complies with new federal legislation for the sending of electronic messages. Canada's anti-spam legislation (CASL) regulates the sending of commercial electronic messages, including email, text, social media, advertising and cellphone communications that encourage participation in a commercial activity.</p>
-<p>Learn more about Canada's anti-spam legislation on our <a href="/privacy-policy/canadian-antispam-legislation-and-sait">FAQ</a> page.</p>
+<p>Learn more about Canada's anti-spam legislation on our <a href="/privacy-policy/canadian-anti-spam-legislation">FAQ</a> page.</p>
 <h2>Personal information</h2>
 <p>At SAIT, we intend to give you as much control as possible over your personal information. In general, you can visit SAIT on the Web without telling us who you are or revealing any information about yourself. There are times, however, when we may need information from you, such as your name and address. It is our intent to let you know before we collect personal information from you on the Internet.</p>
 <p>If you choose to give us personal information via the Internet that we or our educational partners may need - to correspond with you, process an order or provide you with a subscription, for example - it is our intent to let you know how we will use such information. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. We do keep track of the domains from which people visit us. We analyze this data for trends and statistics, and then we discard it.</p>
@@ -497,8 +512,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     </div>
 
-		</div>
-	</div>	
+        </div>
+    </div>
 
         </main>
 
@@ -507,6 +522,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 
     <footer class="g-footer">
+        <div class="color-banner"></div>
         <div class="footer-top">
             <div class="g-container">
 
@@ -674,12 +690,65 @@ piCId = '1173';
     <script type="text/javascript" src="//www.google-analytics.com/analytics.js"></script>
 
     <!-- Main JS file -->
-    <script src="/assets/prebuilt/js/dest/scripts.js?v=201705251000" defer=""></script>
+    <script src="/assets/prebuilt/js/dest/scripts-min.js?v=201705251000" defer=""></script>
 
     <script type="text/javascript">
 
         $(function () {
             $(".lazy").lazyload();
+
+            $.getJSON("https://generaldonuts.com/api/emergencies?isactive=true", function (activeEmergency) {
+                if (activeEmergency.length > 0)
+                {
+                    $.getJSON("https://generaldonuts.com/api/messages?isactive=true", function (emergencyMessages) {
+
+                        if (emergencyMessages.length > 0)
+                        {
+                            switch (activeEmergency[0]) {
+                                case "1":
+                                    if (window.location.href == "http://www.sait.ca/programs-and-courses") {
+                                        var bannerCrisisMatch = 0;
+                                        $('.info-banner a').each(function (i) {
+                                            if ($(this)[0].innerText.trim() != emergencyMessages[0].Content && bannerCrisisMatch == 0) {
+                                                
+                                                bannerCrisisMatch = 1;
+                                                
+                                            }
+                                        });
+                                    }
+                                    else
+                                    {
+                                        $("<div id='crisis-level-one'>" + emergencyMessages[0].Content + "</div>").prependTo("#page");
+                                        $('header.g-header .mega-menu').css('margin-top', '50px');
+                                    }
+                                    break;
+                                case "2":
+                                    $("#hp-banner").empty();
+                                    $("<div id='crisis-level-two'>" + emergencyMessages[0].Content + "</div>").prependTo("#hp-banner");
+                                    break;
+                                case "3":
+                                    $('link[href="/assets/prebuilt/css/dest/screen.min.css"]').attr("href", "//www.sait.ca/assets/prebuilt/css/dest/emergency.min.css");
+                                    $('#page').remove();                                    
+                                    $("body").append('<div id="logo"><img src="//www.sait.ca/assets/images/logo-footer.png" /></div>');
+                                    $("body").append('<div><div class="container"><ul id="messageBox"></div></div>');
+
+                                    for (var i = 0; i < emergencyMessages.length; i++)
+                                    {
+                                        $("#messageBox").prepend('<li class="message">' + emergencyMessages[i].Content + "<br/> Posted on " + emergencyMessages[i].Timestamp + "</li>");
+                                    }
+
+                                    break;
+                            }
+                        }
+
+
+
+                    });
+
+
+                }
+            });
+
         });
 
         var loadDeferredStyles = function () {
