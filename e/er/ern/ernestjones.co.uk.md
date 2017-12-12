@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010244id_/http%3A//www.ernestjones.co.uk/webstore/static/customerservice/customer_privacy_policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212042156id_/http%3A//www.ernestjones.co.uk/webstore/static/customerservice/customer_privacy_policy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Services - Ernest Jones
 
@@ -118,7 +118,7 @@ Back to top
 
 ## Children’s Privacy
 
-We are committed to protecting the privacy of children. The Website is not directed to children and we do not knowingly collect any personal information from children. If a child under the age of 13 has provided us with personal information online, we ask that a parent or guardian please [contact us](https://web.archive.org/webstore/secure/message/customer-services/show.sdo). Please visit the FTC’s website at [www.ftc.gov](https://web.archive.org/web/20170606010244id_/http%3A//www.ernestjones.co.uk/webstore/static/customerservice/www.ftc.gov) for tips on protecting children’s privacy online. 
+We are committed to protecting the privacy of children. The Website is not directed to children and we do not knowingly collect any personal information from children. If a child under the age of 13 has provided us with personal information online, we ask that a parent or guardian please [contact us](https://web.archive.org/webstore/secure/message/customer-services/show.sdo). Please visit the FTC’s website at [www.ftc.gov](https://web.archive.org/web/20171212042156id_/http%3A//www.ernestjones.co.uk/webstore/static/customerservice/www.ftc.gov) for tips on protecting children’s privacy online. 
 
 Back to top
 
