@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladieseuropeantour.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612012905id_/http%3A//ladieseuropeantour.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladieseuropeantour.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212061343id_/http%3A//ladieseuropeantour.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Ladies European Tour
 
