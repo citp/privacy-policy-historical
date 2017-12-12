@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldofvolley.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122005602id_/http%3A//www.worldofvolley.com/about-wov/Privacy_Policy.html%3ForderBy%3Dname) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofvolley.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212053155id_/http%3A//www.worldofvolley.com/about-wov/Privacy_Policy.html) for the most accurate reproduction.*
 
-# WorldofVolley :: / orderBy=name
+# WorldofVolley ::
 
 **  Introduction**
 
