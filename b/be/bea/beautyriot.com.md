@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyriot.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613223810id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dwww.beautyriot.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyriot.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212042835id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dwww.beautyriot.com) for the most accurate reproduction.*
 
 # TotallyHer Media | Privacy - ?site=www.beautyriot.com
 
