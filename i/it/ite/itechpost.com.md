@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itechpost.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053441id_/http%3A//www.itechpost.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itechpost.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212163832id_/http%3A//www.itechpost.com/privacypolicy) for the most accurate reproduction.*
 
 # iTech Post
 
@@ -43,6 +43,10 @@ To the extent that iTech Post utilizes third party service providers to set and 
 We use reputable third parties to present or serve some or all of the advertisements on our Web site. These third party network advertisers may set and access their own cookies on your computer. The use of cookies by third parties is subject to such third party's own privacy policies.
 
 Most browsers are initially set up to accept cookies. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to reject cookies. If you set your browser to reject cookies, you may not be able to take advantage of certain features offered through our Web site.
+
+If you would like more information about the information collection practices of a particular third-party advertising service provider, or if you would like more information on how to opt out of a third-party advertising service provider’s information collection practices, go to [http://www.aboutads.info](http://www.aboutads.info/), or for apps, at <http://www.aboutads.info/appchoices>.  
+Additionally, some of our third-party advertising service providers are members of the Network Advertising Initiative ("NAI"). You can obtain more information about these third-party advertising service providers' information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI's website at <http://www.networkadvertising.org/managing/opt_out.asp>.  
+Please note that one of our third-party advertising service providers is DoubleClick. You can opt out of the use of cookies by DoubleClick by visiting <http://www.google.com/settings/ads>.
 
 **Security**
 
