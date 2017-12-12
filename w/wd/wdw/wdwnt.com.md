@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wdwnt.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613155451id_/http%3A//wdwnt.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdwnt.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212161412id_/http%3A//wdwnt.com/disclosure) for the most accurate reproduction.*
 
-# Disclosure/Disclaimer/Privacy Policy - WDW News TodayWDW News Today
+# Disclosure/Disclaimer/Privacy Policy - WDW News Today
 
 WDW News Today (and WDWNT, LLC and the WDWNT Network of websites and podcasts) has financial relationships with some of the merchants mentioned on this blog. WDWNT, LLC may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the merchant. WDWNT, LLC is compensated for certain paid links and advertisements on this blog. You are not obligated to click on any link or buy any products that are advertised.
 
