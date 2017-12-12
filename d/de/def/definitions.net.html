@@ -1,8 +1,157 @@
-<!--The following is the downloaded HTML source of the definitions.net privacy policy that was archived on 2016-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125192847id_/http%3A//www.definitions.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the definitions.net privacy policy that was archived on 2017-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171212022007id_/http%3A//www.definitions.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-<meta charset="utf-8">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=393997013979407&amp;version=v2.3"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="http://definitions.net/adunits/prebid-desktop.js"></script><script>
+var PREBID_TIMEOUT = 1000;
+var MAX_RETRIES = 20;
+var EXCHANGE_RATE = 3.6;
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+function detectWidth() {var w = window,d = document, e = d.documentElement, x = screen.width || e.offsetWidth || e.clientWidth;return x;}
+var screenSizeMobile = 768;
+function initHBS() {
+  if (pbjs.initAdserverSet) return;
+  loadScript('//www.googletagservices.com/tag/js/gpt.js');
+  pbjs.initAdserverSet = true;
+}
+setTimeout(initHBS, PREBID_TIMEOUT);
+
+if (detectWidth() < screenSizeMobile) {
+      googletag.cmd.push(function () {
+         googletag.pubads().setTargeting("device", "mobile");
+      });
+    loadScript('http://definitions.net/adunits/prebid-mobile.js');
+} else {
+      googletag.cmd.push(function () {
+         googletag.pubads().setTargeting("device", "desktop");
+      });
+    loadScript('http://definitions.net/adunits/prebid-desktop.js');
+}
+
+function loadScript(scriptSrc) {
+  var script = document.createElement('script');
+  script.async=true;
+  script.type = 'text/javascript';
+  script.src = scriptSrc;
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(script, node);
+}
+
+pbjs.que.push(function() {
+  pbjs.bidderSettings = {
+    standard: {
+      adserverTargeting: [{
+        key: "hb_bidder",
+        val: function(bidResponse) {
+         return bidResponse.bidderCode;
+       }
+      }, {
+        key: "hb_adid",
+        val: function(bidResponse) {
+         return bidResponse.adId;
+       }
+      }, {
+        key: "hb_pb",
+        val: function(bidResponse) {
+         if(bidResponse.cpm >= 80) return '80.00';
+         return (Math.floor(bidResponse.cpm * 4) / 4).toFixed(2);
+       }
+      }, {
+         key: 'hb_size',
+         val: function (bidResponse) {
+            return bidResponse.size;
+         }
+      }]
+    },
+    sekindoA:{
+      bidCpmAdjustment: function (bidCpm) {
+        return bidCpm * EXCHANGE_RATE * .75;
+      }
+    },
+    brealtime:{
+      bidCpmAdjustment: function (bidCpm) {
+        return bidCpm * EXCHANGE_RATE * .85;
+      }
+    },
+    aol:{
+      bidCpmAdjustment: function (bidCpm) {
+        return bidCpm * EXCHANGE_RATE;
+      }
+    },
+    sovrn:{
+      bidCpmAdjustment: function (bidCpm) {
+        return bidCpm * EXCHANGE_RATE;
+      }
+    },
+    sekindoUM:{
+      bidCpmAdjustment: function (bidCpm) {
+        return bidCpm * EXCHANGE_RATE;
+      }
+    },
+    pulsepoint:{
+      bidCpmAdjustment: function (bidCpm) {
+        return bidCpm * EXCHANGE_RATE;
+      }
+    },
+    districtmDMX:{
+      bidCpmAdjustment: function (bidCpm) {
+        return bidCpm * EXCHANGE_RATE  * .85;
+      }
+    },
+    rhythmone:{
+      bidCpmAdjustment: function (bidCpm) {
+        return bidCpm * EXCHANGE_RATE;
+      }
+    },
+    rubicon:{
+      bidCpmAdjustment: function (bidCpm) {
+        return bidCpm * EXCHANGE_RATE  * .75;
+      }
+    },
+    indexExchange:{
+      bidCpmAdjustment: function (bidCpm) {
+        return bidCpm * EXCHANGE_RATE;
+      }
+    },
+    appnexus:{
+      bidCpmAdjustment: function (bidCpm) {
+        return bidCpm * EXCHANGE_RATE;
+      }
+    }
+  };
+});
+</script>
+
+<script>
+var mapSizeMRU = [[300, 250], [300, 600]];
+if(detectWidth() < screenSizeMobile) mapSizeMRU = [[300, 250]];
+
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/52304935/Definitions_IA_300x250_A', [300, 250], 'div-gpt-ad-Definitions_IA_300x250_A').addService(googletag.pubads());
+    googletag.defineSlot('/52304935/Definitions_IA_300x250_B', [300, 250], 'div-gpt-ad-Definitions_IA_300x250_B').addService(googletag.pubads());
+    googletag.defineSlot('/52304935/'+((detectWidth() < screenSizeMobile) ? 'Definitions_Mobile_LR_300x250_A' : 'Definitions_LR_300x250_A'), mapSizeMRU, 'div-gpt-ad-Definitions_LR_300x250_A').addService(googletag.pubads());
+    googletag.defineSlot('/52304935/Definitions_LR_300x250_B', mapSizeMRU, 'div-gpt-ad-Definitions_LR_300x250_B').addService(googletag.pubads());
+    googletag.defineSlot('/52304935/Definitions_LR_300x250_C', mapSizeMRU, 'div-gpt-ad-Definitions_LR_300x250_C').addService(googletag.pubads());
+    googletag.defineSlot('/52304935/Definitions_LR_300x250_D', mapSizeMRU, 'div-gpt-ad-Definitions_LR_300x250_D').addService(googletag.pubads());
+    googletag.defineSlot('/52304935/Definitions_LR_125x125', [125, 125], 'div-gpt-ad-Definitions_LR_125x125').addService(googletag.pubads());
+
+    googletag.defineSlot('/52304935/Definition_1x1_Slider', [1, 1], 'div-gpt-ad-Definition_1x1_Slider').addService(googletag.pubads());
+
+    pbjs.que.push(function () {
+      pbjs.setTargetingForGPTAsync();
+    });
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+
+</script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <title>Privacy Policy</title>
 <meta name="description" content="">
@@ -26,7 +175,7 @@
 <script src="root/app_common/js/libs/modernizr-2.8.3.custom.min.js"></script>
 <script src="root/app_common/js/libs/html5shiv.min.js"></script>
 <script src="root/app_common/js/libs/respond.min.js"></script>
-<![endif]--><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=393997013979407&amp;version=v2.3"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<![endif]--><script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-172613-3']);
   _gaq.push(['_trackPageview']);
@@ -36,10 +185,9 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script><meta property="fb:app_id" content="393997013979407">
-</head>
+<meta name="google-signin-client_id" content="567628204450-d2poj278l03v4n2u772cob4p4ukhi4qn.apps.googleusercontent.com">
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
 <body id="s4-page-privacy" data-fb="393997013979407" data-atp="ra-4f75bf3d5305fac2" data-prefix="" data-abp="0">
-<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -56,17 +204,19 @@
 				<div id="network-header"><span id="network-header-trigger">The&nbsp;STANDS4&nbsp;Network<span class="arw">☰</span></span>
 	<ul id="network-header-links" style="display:none;">
 		<li class="nw-abbreviations"><a href="http://www.abbreviations.com/">ABBREVIATIONS</a></li>
+		<li class="nw-anagrams"><a href="http://www.anagrams.net/">ANAGRAMS</a></li>
 		<li class="nw-biographies"><a href="http://www.biographies.net/">BIOGRAPHIES</a></li>
 		<li class="nw-convert"><a href="http://www.convert.net/">CONVERSIONS</a></li>
 		<li class="nw-definitions"><a href="http://www.definitions.net/">DEFINITIONS</a></li>
-		<li class="nw-grammar"><a href="http://www.grammar.com/">GRAMMAR</a></li>
-		<li class="nw-lyrics"><a href="http://www.lyrics.com/">LYRICS</a></li>
+		<li class="nw-grammar"><a href="https://www.grammar.com/">GRAMMAR</a></li>
+		<li class="nw-lyrics"><a href="https://www.lyrics.com/">LYRICS</a></li>
+		<li class="nw-math"><a href="http://www.math.net/">MATH</a></li>
 		<li class="nw-phrases"><a href="http://www.phrases.net/">PHRASES</a></li>
 		<li class="nw-poetry"><a href="http://www.poetry.net/">POETRY</a></li>
 		<li class="nw-quotes"><a href="http://www.quotes.net/">QUOTES</a></li>
 		<li class="nw-references"><a href="http://www.references.net/">REFERENCES</a></li>
 		<li class="nw-rhymes"><a href="http://www.rhymes.net/">RHYMES</a></li>
-		<li class="nw-scripts"><a href="http://www.scripts.com/">SCRIPTS</a></li>
+		<li class="nw-scripts"><a href="https://www.scripts.com/">SCRIPTS</a></li>
 		<li class="nw-symbols"><a href="http://www.symbols.com/">SYMBOLS</a></li>
 		<li class="nw-synonyms"><a href="http://www.synonyms.net/">SYNONYMS</a></li>
 		<li class="nw-uszip"><a href="http://www.uszip.com/">USZIP</a></li>
@@ -180,50 +330,47 @@
 	</div>
 </div>    <hr class="sep">
 </div>		
-<section><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script src="/js/ads.js"></script>
+<section><script>
+var scriptTag = document.getElementsByTagName('script');
+scriptTag = scriptTag[scriptTag.length - 1];
+var parentTag3 = scriptTag.parentNode;
 
-<script>
-if( window.canRunAds === undefined ){
-	document.write("<!-- DEF_NEW_TRANS_TXT_ONLY_300_600 --><ins class=\"adsbygoogle\" style=\"display:inline-block;width:300px;height:600px\" data-ad-client=\"ca-pub-6071864913982699\" data-ad-slot=\"6735402741\"></ins>");
-} else {
-	document.write("<!-- DEF_NEW_TRANS_300_600 --><ins class=\"adsbygoogle\" style=\"display:inline-block;width:300px;height:600px\" data-ad-client=\"ca-pub-6071864913982699\" data-ad-slot=\"9052785143\"></ins>");
+if( window.canRunAds === undefined )	{
+	var scriptElem = document.createElement('script');
+	scriptElem.type = 'text/javascript';
+    scriptElem.async = false;
+    scriptElem.onload = function(){
+    	parentTag3.innerHTML = "<!-- DEF_NEW_TRANS_TXT_ONLY_300_600 --><ins class='adsbygoogle' style='display:inline-block;width:300px;height:600px' data-ad-client='ca-pub-6071864913982699' data-ad-slot='6735402741'></ins>";
+         (adsbygoogle = window.adsbygoogle || []).push({});
+    };
+    scriptElem.src = '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
+    document.getElementsByTagName('head')[0].appendChild(scriptElem);
+    
+}else{
+
+	parentTag3.innerHTML = "<div id='div-gpt-ad-Definitions_LR_300x250_A'></div>";
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-Definitions_LR_300x250_A'); });
+	
 }
-</script><!-- DEF_NEW_TRANS_TXT_ONLY_300_600 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-6071864913982699" data-ad-slot="6735402741"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
 </script></section>
-<section><script type="text/javascript">
-<!--//<![CDATA[
-   document.MAX_ct0 ='';
-   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("zoneid=291866");document.write("&amp;nodis=1");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location).substring(0,1600));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
-       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
-   }
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'></scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=291866&amp;nodis=1&amp;cb=93702709391&amp;exclude=undefined&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20161125192847id_/http%253A//www.definitions.net/privacy.php"></script></section>
-<section><script type="text/javascript"><!--
-	e9 = new Object();
-    e9.size = "300x250";
-//--></script>
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Definitionsnet/ROS/tags.js"></script></section>
-<section><!-- Async Tag // Tag for network 9533: Marketplace: STANDS4 LLC // Website: Definitions.net // Page: Definitions.net // Placement: Definitions 300x250 ATF (3219702) // created at: Dec 8, 2014 8:38:50 AM -->
-<script type="text/javascript" src="http://aka-cdn-ns.adtechus.com/dt/common/DAC.js"></script>
-<div id="3219702"></div>
+<section><!-- /52304935/Definitions_LR_300x250_B -->
+<div id="div-gpt-ad-Definitions_LR_300x250_B">
 <script>
-ADTECH.config.page = { protocol: 'http', server: 'adserver.adtechus.com', network: '9533.1', pageid: 693114, params: { loc: '100' }};
-ADTECH.config.placements[3219702] = { sizeid: 170, params: { alias: '', target: '_blank' }};
-ADTECH.loadAd(3219702);
-</script></section>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-Definitions_LR_300x250_B'); });
+</script>
+</div></section>
+<section><!-- /52304935/Definitions_LR_300x250_C -->
+<div id="div-gpt-ad-Definitions_LR_300x250_C">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-Definitions_LR_300x250_C'); });
+</script>
+</div></section>
+<section><!-- /52304935/Definitions_LR_300x250_D -->
+<div id="div-gpt-ad-Definitions_LR_300x250_D">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-Definitions_LR_300x250_D'); });
+</script>
+</div></section>
 	</div>
 	
 </div></div>
@@ -252,6 +399,7 @@ ADTECH.loadAd(3219702);
 							<li class="ex"><a href="signup.php">Become an Editor</a></li>
 							<li><a href="editors.php">Meet the Editors</a></li>
 							<li><a href="justadded.php">Recently Added</a></li>
+							<li class="ex"><a href="activity.php">Activity Log</a></li>
 							<li class="ex"><a href="pending.php">Pending&nbsp;Definitions</a></li>
 							<li><a href="random.php">Random Entry</a></li>
 						</ul>
@@ -300,20 +448,22 @@ ADTECH.loadAd(3219702);
 				<div class="col-xs-6 col-sm-6">
 					<ul>
 						<li class="nw-abbreviations"><a rel="nofollow" href="http://www.abbreviations.com/">Abbreviations</a></li>
-						<li class="nw-definitions"><a rel="nofollow" href="http://www.definitions.net/">Definitions</a></li>
-						<li class="nw-phrases"><a rel="nofollow" href="http://www.phrases.net/">Phrases</a></li>
-						<li class="nw-references"><a rel="nofollow" href="http://www.references.net/">References</a></li>
-						<li class="nw-symbols"><a rel="nofollow" href="http://www.symbols.com/">Symbols</a></li>
+						<li class="nw-convert"><a rel="nofollow" href="http://www.convert.net/">Conversions</a></li>
+						<li class="nw-lyrics"><a rel="nofollow" href="https://www.lyrics.com/">Lyrics</a></li>
+						<li class="nw-poetry"><a rel="nofollow" href="http://www.poetry.net/">Poetry</a></li>
+						<li class="nw-rhymes"><a rel="nofollow" href="http://www.rhymes.net/">Rhymes</a></li>
+						<li class="nw-synonyms"><a rel="nofollow" href="http://www.synonyms.net/">Synonyms</a></li>
 					</ul>
 				</div>
 
 				<div class="col-xs-6 col-sm-6">
 					<ul>
-						<li class="nw-biographies"><a rel="nofollow" href="http://www.biographies.net/">Biographies</a></li>
-						<li class="nw-grammar"><a rel="nofollow" href="http://www.grammar.com/">Grammar</a></li>
-						<li class="nw-poetry"><a rel="nofollow" href="http://www.poetry.net/">Poetry</a></li>
-						<li class="nw-rhymes"><a rel="nofollow" href="http://www.rhymes.net/">Rhymes</a></li>
-						<li class="nw-synonyms"><a rel="nofollow" href="http://www.synonyms.net/">Synonyms</a></li>
+						<li class="nw-acronyms"><a rel="nofollow" href="http://www.acronyms.com/">Acronyms</a></li>
+						<li class="nw-definitions"><a rel="nofollow" href="http://www.definitions.net/">Definitions</a></li>
+						<li class="nw-math"><a rel="nofollow" href="http://www.math.net/">Math</a></li>
+						<li class="nw-quotes"><a rel="nofollow" href="http://www.quotes.net/">Quotes</a></li>
+						<li class="nw-scripts"><a rel="nofollow" href="https://www.scripts.com/">Scripts</a></li>
+						<li class="nw-ua"><a rel="nofollow" href="http://www.useragents.com/">User Agents</a></li>
 					</ul>
 				</div>
 			</div>
@@ -321,10 +471,11 @@ ADTECH.loadAd(3219702);
 
 		<div class="col-xs-12 col-sm-4">
 			<ul class="last">
-				<li class="nw-convert"><a rel="nofollow" href="http://www.convert.net/">Conversions</a></li>
-				<li class="nw-lyrics"><a rel="nofollow" href="http://www.lyrics.com/">Lyrics</a></li>
-				<li class="nw-quotes"><a rel="nofollow" href="http://www.quotes.net/">Quotes</a></li>
-				<li class="nw-scripts"><a rel="nofollow" href="http://www.scripts.com/">Scripts</a></li>
+				<li class="nw-biographies"><a rel="nofollow" href="http://www.biographies.net/">Biographies</a></li>
+				<li class="nw-grammar"><a rel="nofollow" href="https://www.grammar.com/">Grammar</a></li>
+				<li class="nw-phrases"><a rel="nofollow" href="http://www.phrases.net/">Phrases</a></li>
+				<li class="nw-references"><a rel="nofollow" href="http://www.references.net/">References</a></li>
+				<li class="nw-symbols"><a rel="nofollow" href="http://www.symbols.com/">Symbols</a></li>
 				<li class="nw-uszip"><a rel="nofollow" href="http://www.uszip.com/">Zip Codes</a></li>
 			</ul>
 		</div>
@@ -338,25 +489,27 @@ ADTECH.loadAd(3219702);
 				<div class="col-xs-6 col-sm-6">
 					<ul>
 						<li class="nw-abbreviations"><a rel="nofollow" href="http://www.abbreviations.com/">Abbreviations</a></li>
+						<li class="nw-acronyms"><a rel="nofollow" href="http://www.acronyms.com/">Acronyms</a></li>
 						<li class="nw-biographies"><a rel="nofollow" href="http://www.biographies.net/">Biographies</a></li>
 						<li class="nw-convert"><a rel="nofollow" href="http://www.convert.net/">Conversions</a></li>
 						<li class="nw-definitions"><a rel="nofollow" href="http://www.definitions.net/">Definitions</a></li>
-						<li class="nw-grammar"><a rel="nofollow" href="http://www.grammar.com/">Grammar</a></li>
-						<li class="nw-lyrics"><a rel="nofollow" href="http://www.lyrics.com/">Lyrics</a></li>
+						<li class="nw-grammar"><a rel="nofollow" href="https://www.grammar.com/">Grammar</a></li>
+						<li class="nw-lyrics"><a rel="nofollow" href="https://www.lyrics.com/">Lyrics</a></li>
+						<li class="nw-math"><a rel="nofollow" href="http://www.math.net/">Math</a></li>
 						<li class="nw-phrases"><a rel="nofollow" href="http://www.phrases.net/">Phrases</a></li>
-						<li class="nw-poetry"><a rel="nofollow" href="http://www.poetry.net/">Poetry</a></li>
 					</ul>
 				</div>
 
 				<div class="col-xs-6 col-sm-6">
 					<ul>
-
+						<li class="nw-poetry"><a rel="nofollow" href="http://www.poetry.net/">Poetry</a></li>
 						<li class="nw-quotes"><a rel="nofollow" href="http://www.quotes.net/">Quotes</a></li>
 						<li class="nw-references"><a rel="nofollow" href="http://www.references.net/">References</a></li>
 						<li class="nw-rhymes"><a rel="nofollow" href="http://www.rhymes.net/">Rhymes</a></li>
-						<li class="nw-scripts"><a rel="nofollow" href="http://www.scripts.com/">Scripts</a></li>
+						<li class="nw-scripts"><a rel="nofollow" href="https://www.scripts.com/">Scripts</a></li>
 						<li class="nw-symbols"><a rel="nofollow" href="http://www.symbols.com/">Symbols</a></li>
 						<li class="nw-synonyms"><a rel="nofollow" href="http://www.synonyms.net/">Synonyms</a></li>
+						<li class="nw-ua"><a rel="nofollow" href="http://www.useragents.com/">User Agents</a></li>
 						<li class="nw-uszip"><a rel="nofollow" href="http://www.uszip.com/">Zip Codes</a></li>
 					</ul>
 				</div>
@@ -365,7 +518,7 @@ ADTECH.loadAd(3219702);
 	</div>
 
 	<div class="clearfix">
-		<div class="copyright"><strong>© 2001-2016 STANDS4 LLC.</strong><br>All rights reserved.</div>
+		<div class="copyright"><strong>© 2001-2017 STANDS4 LLC.</strong><br>All rights reserved.</div>
 		<div id="social-icons">
 			<a rel="nofollow" href="http://www.facebook.com/STANDS4" target="_blank"><div class="social fb"></div></a>
 			<a rel="nofollow" href="http://twitter.com/justadded" target="_blank"><div class="social tw"></div></a>
@@ -388,6 +541,15 @@ ADTECH.loadAd(3219702);
 <script src="root/app_common/js/libs/jquery.placeholder.min.js"></script>
 <script src="root/app_common/js/libs/wselect.js"></script>
 
-<script src="js/defn.js"></script>
+<script src="https://use.fontawesome.com/1d5fda5f00.js"></script>
 
-<!-- Timer: 0.0474 secs | Server: 127.0.0.1 --></body></html>
+<script src="js/defn.js"></script>
+<!-- /52304935/Definition_1x1_Slider -->
+<div id="div-gpt-ad-Definition_1x1_Slider">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-Definition_1x1_Slider'); });
+</script>
+</div>
+
+
+<!-- Timer: 0.0677 secs | Server: ip-10-113-129-74 --></body></html>
