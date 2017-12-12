@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winthrillsnetwork.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023714id_/http%3A//winthrillsnetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winthrillsnetwork.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212091201id_/http%3A//www.winthrillsnetwork.com/privacy.php) for the most accurate reproduction.*
 
-# .: WINThrills Network - Privacy Policy :.
+# WINThrills Network - Privacy Policy
 
 This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting this website. Please read the following information to understand our practices with regards to your personal data and how we will treat it.
 
