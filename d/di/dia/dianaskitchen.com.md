@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dianaskitchen.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105115455id_/http%3A//dianaskitchen.com/page/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianaskitchen.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212172756id_/http%3A//classic-recipes.com/page/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Diana's Kitchen
+# Privacy Policy - Classic-Recipes
 
 **Our Privacy Policy**
 
-We do respect your privacy! All information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Diana's Kitchen will be held with the utmost care, and will not be used in ways that you have not consented to. If you submit material (via the [recipe or cooking tip submission form](https://web.archive.org/page/feedback1.htm)) to be displayed on this site, only the information you specify will be used. 
+We do respect your privacy! All information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Classic-Recipes will be held with the utmost care, and will not be used in ways that you have not consented to. If you submit material (via the [recipe or cooking tip submission form](http://classic-recipes.com/page/feedback1.htm)) to be displayed on this site, only the information you specify will be used. 
 
 **Resale or disclosure of information to third parties**
 
-Diana's Kitchen does not sell, rent, loan, trade, or lease any personal information collected at our site, including membership forms or email lists. 
+Classic-Recipes does not sell, rent, loan, trade, or lease any personal information collected at our site, including membership forms or email lists. 
 
 **Browser information collected on this Website**
 
