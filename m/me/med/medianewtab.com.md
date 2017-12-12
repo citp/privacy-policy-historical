@@ -1,77 +1,115 @@
-> *The following text is extracted and transformed from the medianewtab.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503184934id_/http%3A//www.medianewtab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medianewtab.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213001307id_/http%3A//www.medianewtab.com/privacy) for the most accurate reproduction.*
 
-# New Tab TV | Privacy Policy
+# Medianewtab | Privacy Policy
 
-Effective on January 1st, 2015
+Imali N.I Media LTD. ("Imali Media") ( **"we"** , **"us"** or the **"Company"** ) respects your privacy and is committed to protect the privacy of its users ( **"user(s)"** or **"you"** ). 
 
-This privacy statement describes how New Tab TV collects and uses the personal information you provide on our Web site: [www.medianewtab.com](https://web.archive.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This Privacy Policy ( **"Privacy Policy"** ) sets forth the privacy practices the Company applies to users that use our new tab extensions or search extensions as detailed in our [End User License Agreement](https://web.archive.org/terms) ( **"EULA"** or **"Agreement"** ) ( **"Browsing Product"** or **"Product"** ). 
 
-## Collection and Use of Personal Information
+This Privacy Policy is an integrated part of the Company's [EULA](https://web.archive.org/terms) and is a legally binding agreement between the user and the Company. The Privacy Policy and EULA shall be binding upon any user using or attempting to use the Browsing Products or any content available therein. 
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the type of browser you used to visit our site (such as Google Chrome, Internet Explorer or Mozilla Firefox), the time at which you visited our site and which pages you visited throughout our site. 
+_**ACCEPTANCE OF THE TERMS:** BY DOWNLOADING OR INSTALLING OR USING THE BROWSING PRODUCT OR OUR SERVICES, AS APPLICABLE, YOU HEREBY AGREE TO THE TERMS OF THIS PRIVACY POLICY AND THE EULA AND TO THE ACCESS, COLLECTION, USE AND DISCLOSURE OF CERTAIN INFORMATION, AS DESCRIBED IN THIS PRIVACY POLICY AND IN THE THIRD PARTY’S POLICIES (AS DEFINED BELOW). IF YOU DO NOT AGREE TO THESE TERMS, PLEASE DO NOT ACCESS, DOWNLOAD OR USE THE BROWSING PRODUCT OR SERVICES._
 
-We may collect personal information at various times when you use our website or plugin. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Your participation is voluntary and you have the choice not to disclose any information that we request. 
+Further, by downloading or installing or using the Browsing Product or our services, or by accepting this Privacy Policy and the EULA, you also consent to the following privacy policy of Yahoo, whose search product might be offered to you as part of our service, available in the following link: <https://info.yahoo.com/privacy/us/yahoo/search/details.html> ( **"Third Party's Policies"** ). 
 
-### The types of information we gather:
+In our Privacy Policy, you will learn about: 
 
-  * **Information you provide:** We receive and store any information you enter on www.medianewtab.com or give us in any other way. You provide most such information when you use the New Tab TV or bundled plugins. For instance, if you register for an account with us, we may collect your name, email address, country of origin, and, if you choose, your nickname, telephone number, website, company, and title. If you download and install the plugin, we collect any information voluntarily provided by you during the installation and registration process, which can include demographic information such as gender, age, occupation, household income, zip code and country. Demographic information may be correlated to web usage information collected during your use of the service. In addition, you might provide us with personal identifying information, such as mobile telephone number, when you communicate with us by phone, e-mail or otherwise, or complete a questionnaire, subscription form or a contest entry form. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing and improving our services, delivering targeted content and advertisements that may be of interest to you, and communicating with you. 
-  * **Automatic information we collect from the plugin:** When you use New Tab TV plugin, we may collect information about the websites you visit and the advertisements that you see on those websites, the searches you perform using search engines, the ways in which you use various features, and the pages you view (especially social media pages). For example, we may collect information about page views, impressions and clicks, as well as similar web usage information. For every webpage you view while using the plugin, our software transmits and stores information associated with your Internet Protocol (IP) address, which may include a domain name, the full URL of the webpage you are visiting, general information about your browser; general information about your computer's operating system; your Licensor cookie number or other identifying alphanumerical information enabling Licensor to identify your computer; and the date and time the above information is logged. All of this above information may be logged together in a single data string for each webpage you visit. Each string is logged in our database in the chronological order received from our users. In addition, we may collect information about what cookies are stored on your computer, which enables Licensor to determine which websites you have visited in the past. Although this information may contain some personal identifying information, Licensor does not use it to determine the identity of individual users or correlate it to your email address or other personal identifying information that you give us or our affiliates, except as required by subpoenas, court orders, investigations or other legal requirements. When you download the plugin, and at times during your use of the site, we may transmit Licensor cookies to the hard drive of your computer. We may also automatically collects information about the online advertisements that are displayed on the websites you visit - specifically, the text, source, and URL of the online ad - and the terms you choose when you use search engines to search the Web. Licensor also may periodically collect usage statistics from users that describe the frequency of use of each feature. 
-  * **Automatic information we collect from the site:** We receive and store certain types of information whenever you interact with our site. For example, like many websites, we use "cookies," and we obtain certain types of information when your Web browser accesses the Site, when you use the plugin, or when you view advertisements and other content served by or on behalf of Licensor on other Web sites. Examples of the information we may collect and analyze when you use our website include the IP address used to connect your computer to the Internet; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through, and from the Site, including date and time; cookie; web pages you viewed or searched for. During some visits to the Site we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
-
-
-
-We do not only collect any identifiable information in order to optimize and improve our website. 
-
-If you are not yet 18, you are not allowed to use our services. Further, if we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. 
-
-## Information Sharing
-
-We do not sell your personal information to third parties. However, we may disclose your personal information: 
-
-  * As required by law such as to comply with a subpoena, or similar legal process
-  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request 
-  * If New Tab TV is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information 
-  * To any other third party with your prior consent to do so.
+  * What type of information we collect.
+  * How we collect your information.
+  * How we use the information we collect.
+  * With whom we share the information, and for what purpose.
+  * Cookies and other technologies we or third parties may use.
+  * Links to third party content may presented to you.
+  * For how long we retain the information we collect.
+  * Your choices and control.
+  * How do we safeguard your information.
+  * Children's information.
+  * Updates or amendments to the Privacy Policy.
+  * How to contact us.
 
 
 
-### Use of Information
+## WHAT TYPE OF INFORMATION WE COLLECT?
 
-New Tab TV may use information (whether personal identifying information or not) that we collect about you to: 
+The **_first type_** of information is non-identifiable information, which may be made available or gathered via the user's use of the Browsing Products or bundle plugins ( **"Non-Personal Information"** ). We are not aware of the identity of the user from which the Non-Personal Information was collected. The Non-Personal Information which is being collected may include your aggregated usage information and technical information transmitted by your device, including certain software and hardware information as follows: 
 
-  * Deliver the products and services that you have requested
-  * Send you offers that you have opted in to receive
-  * Manage your relationship with us and provide you with customer support
-  * Perform research and analysis about your use of, or interest in, our products, services or content, or products, services or content offered by others. 
-  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or third parties 
-  * Develop and display content and advertising (such as targeted ads) tailored to your interests on our websites and other websites 
-  * verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes
-  * Enforce our Agreement
-  * Protect Licensor, our plugin, our websites, our customers and/or our other users from fraud, hacking or other harm 
-  * Cooperate with legal, criminal or regulatory investigations or proceedings
-  * Manage our business
-  * Perform functions as otherwise described to you at the time of information collection
+  * Type of browser, including your default browser;
+  * Operating system your device uses;
+  * Language preference;
+  * The ways in which you use various features of the Browsing Product, your time of access and the domain name of the website from which you linked to the Browsing Products;
+  * We also may periodically collect usage statistics from users that describe the frequency of use of each feature;
+  * When you use Browsing Product, the searches you perform using our domains, for example: we may collect information about page views, impressions and clicks, as well as similar web usage information on our domains and IP Address;
+  * please note, we consider IP address data to be Non-Personal Information, however, in some countries and jurisdictions this data might be considered as identifying and "Personal Information".
 
 
 
-### Third Party E-Commerce Solutions Provider
+We may disclose or share Non-Personal Information with third parties as specified below and solely if applicable. 
 
-Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose. 
+The **_second type_** of information is individually identifiable information, namely information that identifies an individual or may with reasonable effort identify an individual ( **"Personal Information"** ). The Personal information includes information voluntarily submitted by you when and if you contact us (name, email address, etc.). To clarify, you can use the Product and services without providing us with any Personal Information. Nonetheless, if we combine Personal Information with Non-Personal Information, the combined information will be treated as Personal Information for as long as it remains combined. 
 
-## Use of Cookies and Web Beacons
+## USE OF INFORMATION WE COLLECT
 
-In computer language, a cookie is used to store data on a computer's hard drive. Almost all websites utilize cookies to one extent or another. 
+We use the information collected to: (i) respond to user’s requests, support and, if applicable, investigate any issues a user raises; (ii) send periodic emails or to keep user informed with updates; (iii) enable the Browsing Product to work as is intended, maintain, measure, improve and customize our Browsing Product to your needs and interests and provide you with such content we believe may interest you. 
 
-### Links to Other Web Sites
+## SHARING INFORMATION WITH THIRD PARTIES
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of New Tab TV. Our service may also be linked to sites or services operated by the New Tab TV affiliates or third parties, and may carry advertisements or offer content, functionality, games, rewards programs, newsletters, contests or sweepstakes, or applications developed and maintained by third parties including, any online store. New Tab TV is not responsible for the privacy practices of any such third parties, and once you leave the Services via a link, enable a third party service, or click an advertisement, you should check the applicable privacy policy of the third party site. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+Company will **not** share any Personal Information collected from you with third parties or any of our partners except in the following events: 
 
-## Security
+  * **Authorized Disclosures:** we may disclose your personal information to third parties when you consent to a particular disclosure of your personal information. Please note that once we share your information with third party, that information becomes subject to the other third party’s privacy practices. 
+  * **Compelled Disclosures:** we will share your information, solely to the extent needed to comply with any applicable law or permitted by it, regulation, legal process or governmental request (e.g., pursuant to law enforcement inquiries, subpoenas or court orders), or when we believe, in good faith, it is required in order to enforce our policies (including our policies and agreements) including investigations of potential violations thereof or to detect, prevent, or take action regarding illegal activities or other wrongdoing, suspected fraud or security issues. In addition, we will share your information, solely to the extent needed to establish or exercise our rights to defend against legal claims or to prevent harm to the rights, property or safety of us, our users, yourself or any third party or for the purpose of collaborating with law enforcement agencies or in case we find it necessary in order to enforce intellectual property or other legal rights. 
+  * **Business Transfers:** we may share Personal Information, in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, consolidation or asset sale). In the event of the above, our affiliated companies or acquiring company will assume the rights and obligations as described in this Privacy Policy. 
+  * **Corporate Affiliates:** We may also disclose your information to our corporate affiliates in order to help provide, understand, and improve the Product and our affiliates' services, this means we may also internally combine information we have on you. 
 
-When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us. 
 
-In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information. 
 
-## Notification of Privacy Statement Changes
+We may share aggregate or anonymous Non-Personal Information with third party service provider partners (i.e., Google Analytics, Amazon, search feed providers, customer service, marketing assistance, ad tracking, service functionality and support, etc.) ("Service Providers") and other third parties in accordance with the terms of this Policy. We may store Non-Personal and Personal Information on our servers or our cloud servers, use or share Non-Personal Information in any of the above circumstances, as well as for the purpose of providing and improving our Product. We do not share any Personal Information with Service Providers or any third party thereof, unless indicated otherwise in our Privacy Policy. 
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+## COOKIES AND OTHER TECHNOLOGIES
+
+We and our trusted partners use cookies and other technologies (e.g. web beacons, pixels, etc.) in our related Browsing Products, including when you visit our site or access our Browsing Products. Like many other vendors, we gather some information automatically, such as your usage data, by ourselves or by using third party service and store it in log files. 
+
+A "cookie" is a small piece of information that a website assigns to your device while you are viewing a website. Cookies are very helpful and can be used for various different purposes. These purposes include improving the Product, allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and other information that is used on the webpages that you visit, making the interaction between you and our Browsing Products quicker and easier and customize and improve the Product. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/). You may disable and remove some cookies through your device or browser settings. However, if you choose to disable cookies, some features of our Browsing Products may not operate properly and your online experience may be limited. You may control how your browser responds to cookies by adjusting the privacy and security settings of your web browser. Our Service Providers may also use cookies, scripts or web beacons for the purpose of tracking and analyzing your use, this information does not include Personal Information. To learn more how Google uses data from our use of Google Analytics Cookie we recommend you review Google’s policies located at: [www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners). We also encourage you to review the Google Analytics' currently available opt-outs for the web tool available at: <https://tools.google.com/dlpage/gaoptout/>. 
+
+## LINKS TO THIRD PARTY CONTENT
+
+Our Product may include links to other third party content (e.g., Amazon, Facebook, YouTube etc.), including Service Provider’s content whose privacy practices may differ from those of Browsing Product. Our service may also be linked to sites or services operated by our affiliates or third parties, and may carry advertisements or offer content, functionality, games, or applications developed and maintained by third parties including, any online store. Please note that these features are provided by us only as a suggestion. Browsing Product is not responsible for the privacy practices of any such third parties, and once you leave the Product via a link, enable a third-party service, you should check the applicable privacy policy of the third-party site. Your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## FOR HOW LONG WE RETAIN THE INFORMATION WE COLLECT?
+
+We may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion. Please note that unless you instruct us otherwise (as detailed below) we retain the information we collect for as long as needed to provide the Browsing Products and to comply with our legal obligations, resolve disputes and enforce our agreements. 
+
+## YOUR CHOICES AND CONTROLS
+
+We provide you with the ability to exercise certain choices and controls in connection with our treatment of your information. Depending on your relationship with us, these choices and controls may include: 
+
+  * Requesting access to the Personal Information collected about you that we hold;
+  * Correcting, updating or deleting the information associated with you that we hold;
+  * Opting-out of targeted advertising, if applicable. In addition, even after providing your consent to this Privacy Policy, you are entitled to change your mind. If you do, you may opt out of the data collection, sharing process and targeted advertising services related to our Browsing Product. Note that once you opt out, part of the service provided by us might no longer be available and some features may not work if you revoke the data transfer. You may opt out of certain third parties’ cookies and browser-enabled, interest-based advertising at the Network Advertising Initiative’s ("NAI") website- NAI consumer opt-out and the Digital Advertising Alliance’s ("DAA") website- DAA opt-out page. Our Service Providers may also provide ways for you to opt out from or limit their collection of information from and about you, such as detailed above or as follows: <https://aim.yahoo.com/aim/us/en/optout/>
+
+
+
+We value your privacy and control over your Personal Information, and therefore you may, at any time, make such request (to access, change, update or remove your Personal Information) by contacting us at: supportimali.media. In the event you make such request, note that we may require certain information from you in order to verify your identity and locate your data and that the process of locating and deleting the data may take reasonable time and effort. Data privacy and related laws in your jurisdiction may provide you with different or additional rights related to the data we collect from you, which may also apply. 
+
+## HOW DO WE SAFEGUARD AND TRANSFER YOUR INFORMATION?
+
+We take great care in implementing and maintaining the security of the Browsing Products and your information. We employ industry standard procedures and policies to ensure the safety of our users’ information, and prevent unauthorized use of any such information. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Browsing Products, and we make no warranty, express, implied or otherwise, that we will prevent such access. We may adopt what we believe is appropriate data collection, storage and processing practices and security measures to protect against unauthorized access to such data. If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to abuse our Browsing Products or acted in an inappropriate manner, please contact us directly at supportimali.media. 
+
+## MINORS
+
+You represent and warrant that you are at least 13 years of age and of legal competence to enter into these Agreement. If you are under 18, please be sure to read the Agreement with your parents or legal guardians. We do not use the Product to knowingly solicit data from or market to children under the age of thirteen (13). We request that such individuals do not provide Personal Information through our services. If you become aware or have any reason to believe that a child under the age of 13 has shared any information with us, please contact us at: supportimali.media and we take reasonable steps to ensure that such information is deleted from our files. 
+
+## TRANSFER OF DATA
+
+We may process or store Personal Information both within the United States and internationally, therefore you hereby accept and agree that by accessing and using the Browsing Product or our services from outside the United States, your information may be transferred to, stored, and processed in the United States. 
+
+## DO NOT TRACK DISCLOSURE
+
+The Browsing Product or our services does not respond to Do Not Track signals. For more information about Do Not Track signals, please see: [https://www.allaboutdnt.com](https://www.allaboutdnt.com/). 
+
+## AMENDMENTS
+
+We reserve the right to periodically amend or revise the Privacy Policy from time to time, at our sole discretion; Any changes to the Privacy Policy will become effective immediately upon the display of the revised Privacy Policy. The most recent version of the Privacy Policy will always be posted. If we do make any changes, the updated date at the top of the Privacy Policy will be reflected in the "Last Modified" heading. Your continued use of the Browsing Product or our services, following the display of such modified Privacy Policy, constitutes your acknowledgement and consent of such amendments to the Privacy Policy and your agreement to be bound by the terms of such amendments. In the event of a material change we will make best efforts to send you a written notification. 
+
+## HOW TO CONTACT US
+
+If you have any general questions about the Browsing Products or the information that we collect about you and how we use it, please contact us at: supportimali.media. 
