@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sait.ca privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625183509id_/http%3A//www.sait.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sait.ca privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212010644id_/http%3A//www.sait.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SAIT, Calgary, Alberta
 
@@ -6,7 +6,7 @@
 
 SAIT complies with new federal legislation for the sending of electronic messages. Canada's anti-spam legislation (CASL) regulates the sending of commercial electronic messages, including email, text, social media, advertising and cellphone communications that encourage participation in a commercial activity.
 
-Learn more about Canada's anti-spam legislation on our [FAQ](http://www.sait.ca/privacy-policy/canadian-antispam-legislation-and-sait) page.
+Learn more about Canada's anti-spam legislation on our [FAQ](http://www.sait.ca/privacy-policy/canadian-anti-spam-legislation) page.
 
 ## Personal information
 
