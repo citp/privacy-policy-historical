@@ -1,26 +1,94 @@
-> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121193020id_/http%3A//www.tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212033456id_/http%3A//tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Tone Deaf
+# Seventh Street Media Privacy Policy - Tone Deaf
 
-**Website Visitors**  
-Like most website operators, ToneDeaf.com.au collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. ToneDeaf.com.au’s purpose in collecting non-personally identifying information is to better understand how ToneDeaf.com.au’s visitors use its website. From time to time, ToneDeaf.com.au may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Tone Deaf, The Brag, J Play, The Industry Observer and Don’t Bore Us are all brands and publications under Seventh Street Media.
 
-ToneDeaf.com.au also collects potentially personally-identifying information like Internet Protocol (IP) addresses. ToneDeaf.com.au does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+In the course of our activities Seventh Street Media Pty Ltd (Seventh Street Media, we, our, us) will collect, store, use, transfer and disclose personal information. We respect your privacy and are committed to protecting the personal information that you provide to us. This statement explains our policies and practices regarding the use, collection, storage and disclosure of your personal information by Seventh Street Media.
 
-**Gathering of Personally-Identifying Information**  
-Certain visitors to ToneDeaf.com.au’s websites choose to interact with ToneDeaf.com.au in ways that require ToneDeaf.com.au to gather personally-identifying information. The amount and type of information that ToneDeaf.com.au gathers depends on the nature of the interaction. For example, we ask visitors who comment to provide a username and email address. In each case, ToneDeaf.com.au collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with ToneDeaf.com.au. ToneDeaf.com.au does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+## Personal information
 
-**Aggregated Statistics**  
-ToneDeaf.com.au may collect statistics about the behavior of visitors to its websites. For instance, ToneDeaf.com.au may reveal how many visits a particular section got, or say which articles are most popular. However, ToneDeaf.com.au does not disclose personally-identifying information other than as described below.
+Personal information is information or an opinion about an identified individual, or an individual who is reasonably identifiable whether the information or opinion is true or not and whether the information is recorded in a material form or not.
 
-**Protection of Certain Personally-Identifying Information**  
-ToneDeaf.com.au discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on ToneDeaf.com.au’s behalf or to provide services available at ToneDeaf.com.au’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using ToneDeaf.com.au’s websites, you consent to the transfer of such information to them. ToneDeaf.com.au will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, ToneDeaf.com.au discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when ToneDeaf.com.au believes in good faith that disclosure is reasonably necessary to protect the property or rights of ToneDeaf.com.au, third parties, or the public at large. If you are a registered user of a ToneDeaf.com.au website and have supplied your email address, ToneDeaf.com.au may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with ToneDeaf.com.au and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. ToneDeaf.com.au takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
+## Types of personal information we collect and hold
 
-**Cookies**  
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. ToneDeaf.com.au uses cookies to help ToneDeaf.com.au identify and track visitors, their usage of ToneDeaf.com.au website, and their website access preferences. ToneDeaf.com.au visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using ToneDeaf.com.au’s websites, with the drawback that certain features of ToneDeaf.com.au’s websites may not function properly without the aid of cookies.
+Seventh Street Media collects and holds personal information about individuals for the provision of our products and services and purposes connected to those products and services.
 
-**Privacy Policy Changes**  
-Although most changes are likely to be minor, ToneDeaf.com.au may change its Privacy Policy from time to time, and in ToneDeaf.com.au’s sole discretion. ToneDeaf.com.au encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Consistent with the provision or our products and services to you, the types of personal information Seventh Street Media may collect and hold about you include but are not limited to your name, address, telephone number, email address and financial information.
 
-**Complaints/Concerns  
-**If you believe there has been a breach of your privacy, or that there is a privacy issue or question you’d like answered please direct your enquiry to our Privacy Officer, Nicholas Jones: [nicholas@outlawed.com.au](mailto:nicholas@outlawed.com.au) . We take all complaints seriously and will act in a prompt manner to rectify problems.
+## How we collect and hold personal information
+
+We may collect personal information directly from you in the course of providing our products and services from our website.
+
+We collect your personal information when you register with us as a member or a subscriber, complete a survey, enter a competition, log a helpdesk request, visit any of our sites or when you initiate contact with us.
+
+Even if you initially choose to subscribe to receive communications from us, you may also unsubscribe or resubscribe at a later stage.
+
+For each visitor to our website, our server automatically recognises and stores the visitor’s IP address. In addition, our website uses cookies. Most web browsers are set by default to accept cookies. However, if you do not wish to receive any cookies you may set your browser to either prompt or refuse cookies. Please note that rejecting cookies will restrict the functionality of the website as a whole. We also use cookies for tracking the statistics of our website. This allows us to better understand our users and improve the layout and functionality of our website.
+
+Personal information is held securely, is subject to various security protections and is held only for as long as the information remains relevant to the purpose for which it was collected.
+
+We take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, pass word access and secure servers. However, you acknowledge that the information you provide to us is at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control.
+
+You acknowledge that we are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose your personal information to in accordance with this policy or any applicable laws). The collection and use of your information by such third parties may be subject to separate privacy and security policies.
+
+If you suspect any misuse or loss of, or unauthorised access to, your personal information, please contact our helpdesk immediately.
+
+## Purposes for which we hold, use and disclose information
+
+We hold use and disclose personal information.
+
+The purposes for which we hold, use and disclose information include:
+
+a) to communicate with you and provide you with the services you have requested;  
+b) to enable your access to members-only features or services;  
+c) to send marketing and promotional material that you have opted in to receive;  
+d) to provide you with news and information about our products and services;  
+e) to personalise and customise your experience;  
+f) to conduct competitions;  
+g) to verify your identity;  
+h) to investigate any complaints about or made by you;  
+i) to investigate breaches of our terms and conditions or other unlawful behaviour;  
+j) other purposes as specified at the time of you supplying information to us;  
+k) as required or permitted by any law (including the Privacy Act).
+
+We may disclose personal information, and you consent to us disclosing your personal information, to third parties:
+
+l) engaged by us to perform functions or provide products and services on our behalf;  
+m) that are our agents, business partners or joint venture entities or partners;  
+n) that sponsor or promote any competition that we conduct or promote;  
+o) that are authorised by you to receive information held by us;  
+p) if we have reason to suspect that you have committed a breach of our terms and conditions, or have otherwise been engaged in any unlawful activity;  
+q) as part of a sale (or proposed sale) of all or part of our business; and/or  
+r) as required or permitted by any law (including the Privacy Act).
+
+## Access and correction
+
+Seventh Street Media will take all reasonable steps to ensure any personal data we collect, use or disclose is up to date and accurate.
+
+If you believe personal information we hold about you is not up to date or accurate, you may ask us to correct it.
+
+You may ask us to provide you with details of the personal information we hold about you, and copies of that information. We will respond to your request and attempt to provide you with the data within 30 days of receipt of your request.
+
+If we provide you with copies of the information you have requested, we may charge you a reasonable fee to cover the administrative costs of providing you with that information.
+
+Please direct all request for access and correction to:
+
+Privacy Officer  
+Seventh Street Media  
+Level 2, 9-13 Bibby Street  
+Chiswick, NSW, 2046
+
+## Overseas disclosure
+
+Seventh Street Media may, in the course of providing products and services to you, disclose personal information to overseas entities. You agree that where personal information is disclosed to the countries above, the Australian Privacy Principles will not apply to that information.
+
+## Changes to this policy
+
+We will review and update this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how we collect, hold, store and use personal information.
+
+## Complaints
+
+If you consider a breach of the Australian Privacy Principles has occurred, you may direct your query Seventh Street Media’s Privacy Officer and we will attempt to resolve your complaint.
+
+If you do not consider our response satisfactory, you may contact the Australian Privacy Commissioner at its website www.oaic.giv.au or by telephone on 1300 363 992.
