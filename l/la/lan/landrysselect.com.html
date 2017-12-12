@@ -1,9 +1,7 @@
-<!--The following is the downloaded HTML source of the landrysselect.com privacy policy that was archived on 2017-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622141511id_/http%3A//www.landrysselect.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the landrysselect.com privacy policy that was archived on 2017-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171212174742id_/https%3A//www.landrysselect.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
-	Privacy Policy | Landry's Select Club
-</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head id="ctl00_Head1">
    	    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Script/jquery/js/jquery-1.7.1.min.js"></script>
    	<link href="Script/jquery/css/jquery.alerts.css" rel="Stylesheet" type="text/css" media="screen">
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
@@ -24,7 +22,27 @@
 //            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 //            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 //            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-//        })();
+        //        })();
+
+        $(document).ready(function () {
+            //// bind a click event to the 'skip' link
+            //$(".skip").click(function (event) {
+
+            //    // strip the leading hash and declare
+            //    // the content we're skipping to
+            //    var skipTo = "#" + this.href.split('#')[1];
+
+            //    // Setting 'tabindex' to -1 takes an element out of normal 
+            //    // tab flow but allows it to be focused via javascript
+            //    $(skipTo).attr('tabindex', -1).on('blur focusout', function () {
+
+            //        // when focus leaves this element, 
+            //        // remove the tabindex attribute
+            //        $(this).removeAttr('tabindex');
+
+            //    }).focus(); // focus on the content container
+            //});
+        });
 
         function validateFormBeforeSubmit() {
             var username = $('#ctl00_txtUserName').val();
@@ -168,13 +186,17 @@
             $("#loading-div-background").css({ opacity: 0.8 });
         });
         function ShowProgressAnimation() {
-            $("#loading-div-background").show();
-            $("#loading-div").show();
+            //$("#loading-div-background").show();
+            //$("#loading-div").show();
         }
         function ShowProgressAnimation_submit() {
             $("#wait").attr("src", "../images/wait2.gif");
             $("#loading-div-background").show();
             $("#loading-div").show();
+        }
+
+        function setFocus() {
+            document.getElementById("hiddenfield").focus();
         }
    </script> 
    
@@ -204,11 +226,32 @@
         cursor: pointer; 
         cursor: hand;
     }
+
+    .skip {
+  position: absolute;
+  top: -1000px;
+  left: -1000px;
+  height: 1px;
+  width: 1px;
+  text-align: left;
+  overflow: hidden;
+}
+
+a.skip:active, 
+a.skip:focus, 
+a.skip:hover {
+  left: 0; 
+  top: 0;
+  width: auto; 
+  height: auto; 
+  overflow: visible; 
+  background-color: yellow;
+}
 </style>
    
 
 <!-- Google Analytics -->
-<script>
+<script type="text/javascript">
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() {
             (i[r].q = i[r].q || []).push(arguments)
@@ -222,48 +265,50 @@
 </script>
 <!-- End Google Analytics -->   
    
-</head>
-<body>
+<title>
+	Privacy Policy | Landry's Select Club®
+</title></head>
+<body onload="setFocus()">
 
 
 
-<form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYCAgYPZBYCAgEPZBYCAgIPD2QWAh4Hb25jbGljawUddGhpcy5vbmNsaWNrID0gJ3JldHVybiBmYWxzZSdkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRFjdGwwMCRjaGtSZW1lbWJlcmX/jZsewzWQ9O4DeJhr5DQzdmIf">
+<a href="#main" class="sr-only">Skip to content</a>
+
+<form name="aspnetForm" method="post" action="./PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYCAgUPZBYCAgEPZBYCAgIPD2QWAh4Hb25jbGljawUddGhpcy5vbmNsaWNrID0gJ3JldHVybiBmYWxzZSdkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRFjdGwwMCRjaGtSZW1lbWJlcmkAGCJCJ/Rb0iMUcqsr/nsl6Czm1BfErI6tBY7QQOY2">
 
 
-<script src="/ScriptResource.axd?d=XOYuaxLmxwpKMbk1qNH3lPQBCrdnG5qIl6UYMbSteKtsoXYh3rJGfh8w95dohwj40X7WRhdzRoSnpXla9s-RosQX8utbX4aY3OD6TCIIuVDbZsTbKJ8YH4Hb1Vh7ZnhJBglpgFOBQ1vJ5hXDq5x8MqsUrNo1&amp;t=ffffffffbcb9b94a" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=ESi0w2U686QJG5XTkmL09YBLQGWW03-9b9ZaiZInV0fi-cSqi5Wye2_YOdh69e1nyNFycTDd1ZB09yuaV47GNc37hl475Ei8KQNux9eaLIppTgCOi3uvkZq_vhzcXhYCPnQMZk85mVigIJ-egO3kP34OGHQ1&amp;t=5f915bbd" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=pddXlpj0O5oNwy0sKX_gyH1BDofnBUO2W1oz6BXVNB79USLNBDKLF9EvD2e5iNUrQfUhyhS4pdDFZxZkN0W_hKnS62hZYCc94u51KfxJug2qCKlRUszQ1-EaH0fyfmItJiKHB1vvWpK8VEbf0H-FbUiUyLs1&amp;t=5f915bbd" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=kZbV0vHgq6eTbpy02fiB2LvRrW_ShtXANjFi0Z_svUk22X83fQ1R1CB-nDBfuvPb_VoI2HOnN0A209-Dy4_AG7YMETpyYDI5h70x4rmW5pnQ157_-nlk19TM-K2U3-GSIbx3RW9Bz5GYYTA5q_7zgIkcoAFBLEzrCeJ1UAWaRcIsq1tN0&amp;t=5f915bbd" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=_uTlcCSInOikYYHHzVU2vdwXkYU0GLlwj11Nes7P6jEG5Pt21LlpRyKdrIRM0iWTCcWySTtvxhbQhkNz6r8bufN5FhTwHVML2u8iIDJLq2el2rf7Zw3Kg5F7xwuJWZ_rfYNc9W-M-gA_1eYltxG2c2j4Di01&amp;t=5f915bbd" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=LY8Ik-DmZf1-ix2SH6TXuXPvVq9d9D1TJSzE0fzPKwWUQkYk6RX3f9MqHcBhYTwc3794AI840DfsN4Qp9xcsRFqkI2I26W75E1Cutt1PlVF36G0Jhtg1dkol6DtElv-yrAwfTHiMciyJ6Z0ZNAKFGUD2ZeQ1&amp;t=5f915bbd" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=zrGIORdp8RPSThDmnhGEKOAuypnZgGQrhkdsdnSm0lbDoN8dhkdmbTvxzxhTzjY4fgLJBRtZ5mCTDiHndPT9aV9LhRLtiMasajnvGpbd1QTdpTOF7GXA2GCLAux7FF5Xy-UWERsEMdUtetmpQDZwoSBoZNja1cw46rXTsw6Ey3GYjimP0&amp;t=5f915bbd" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=f2moiylbdN2HZ2l9lbaDcBQobO0NQi_x0Vul0XLrlJ95rccEZ1cNngcHMnRhc-dbzrWO4VIo0j1iuam5GGJrBWh36Iws9CwqSQHdYiKooqxscWisA8daoe7unq3qzXWfjxiG3Kcma5HDs8lUPy8zGJOsm9jFh6bSFoq_WUB1sJob5fA-0&amp;t=5f915bbd" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=1FA56PTEF73tOER2dpUwUEL6J2xLIi3Zti4YIUoR5mUqdUorobQon34RdCiCULj0QEecGheO0fe8MzcUbv0EEZOGziqynWEvzffQqhXJs5UxYYsjxM_Q3a5Ble8HYGJFi6CXE2Z2qDLLJjmAvAxJ81Z3Akhvsi0l056q9fNX0ld84J3k0&amp;t=5f915bbd" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=tigQifGMsbtEGLy5H_zhBkCVkJpfZ4FZFfUWZ4Q1OLgc-P7QuZ-FUcHtAXxvThI9qmhKRu1ha9IBIrdZaN4QiQlEtTHC8Gasc3Kg8XDMggV7abtCqs-xm3B8i4sFjQjB_oZws_ATMu8-Oe70e5bsrXSzqbut4YemzgCDTxuJ2U9UnKEG0&amp;t=5f915bbd" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=D2yvSRnrR4Kd1wC9xLr3D1QoWUMLDkc2jKExp2pWkRiYonShqfAUkLteWN6xy4J-X843JUTfLWZcvSjnNM3qVhE439WBNxI8nVjuozrblTUlEtY826rfwYm60mAWYW1LKgptvChH4wxPSWMaVowgtcBB8FWX8bdF4AiLq6w8n-dSG-X8O_xKE7Ow0GnDCV1O0&amp;t=2a48f442" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7650BFE2">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCgKI9NHvAgKy3rXFCQLp87+mBQL32/PyCwKB7cvWBQLnrI+ZDwKa3qqsBwKEjJ+1CwKEnq/uAQKbsZe/CorN/jPjU3yHND4XRPv8bZkzsvR7">
-<div style="display:none;" id="redirectdialog"><h1><b>Welcome to the GN Select Program!</b></h1><p><b>You will be redirected to the GN Select program website in 5 seconds. If you are not redirected please click on the link below.</b></p></div>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAnE0D8ThtYVRY1/0yIosPL8VObE2QJzVIoekTeS4BtjAnvTfQFo37NM0uA0gnex9odBWxEv9PjgdAX1N1zCBkXwSRZVUtO1aEx/UVNm/L2iDZHLBILrEqhW0bV8L7StTYEI0kxOG3uKxY8kV9JVYLqAJWQ+RINWYLZFgXPeZxgFA8Sieha2rbgFIN/sb+CJ4oiRx+bUf+auT6Br7HLBfp3f8N8xNYq6guaEKurGEGySEw==">
+
+  <div style="display: none;"><input type="text" id="hiddenfield"></div>
+    
 
 <div id="outer">
 	<!-- BEGIN TOP LOGO AND PROMO AREA -->
 	<div id="top">
-
-		<h1>
+		<div style="margin: 0;">
 		    <a href="/default.aspx" id="logo">
 		        <span class="ir">
 		            
-		            <img style="padding-left: 1em;padding-top: 10px;" src="/images/LSC Horizontal white.png" alt="Landry's Select Club">
+		            <img style="padding-left: 1em;padding-top: 10px;" src="/images/LSC Horizontal white.png" alt="Landry's Select Club®">
 		        </span>
 		    </a>
-	    </h1>
+	    </div>
 
 		<div id="toppromo" style="text-align:right;">
 			
 		    <!-- BEGIN SEARCH FORM -->
 		    <div id="searchform">
 			    <p>Find the Nearest Location</p>
-			    
+			    <label for="txtZipCode" class="sr-only">Enter Zip Code:</label>
 			    <input type="text" name="txtZipCode" id="txtZipCode" value="Enter Zip Code..." onkeydown="if ((event.which &amp;&amp; event.which == 13) || 
                                 (event.keyCode &amp;&amp; event.keyCode == 13))
                                 {
@@ -300,7 +345,7 @@
 			</ul>
 		</li> 
         
-		<li><a id="showModalPopupClientButton" href="#"><span>Join Now</span></a><a onclick="return hideHomeFrame();" id="ctl00_lnkJoinClubMenu" href="javascript:__doPostBack('ctl00$lnkJoinClubMenu','')" style="display: none;"></a></li>
+		<li><a id="lnkJoin" href="/Join.aspx"><span>Join Now</span></a></li>
 		
 		<li><a href="/LocationMap.aspx"><span>Locations</span></a></li>
 		<!--<li> <a href="/SpecialOffers.aspx" class="gold"><span class="gold">Special Offers</span></a> </li>-->
@@ -323,7 +368,6 @@
          <div id="popup_block" class="popup_block">
                 <div id="popup" class="popup">
                     
-                
                 
 
 
@@ -349,10 +393,10 @@
                         <p>When you use our website certain information about your online activity is 
                             collected. We use this information to determine our website users’ preferences, 
                             to design initiatives to meet those preferences, to eliminate online hassles, 
-                            and to generally make your online Landry’s Select Club experience more 
+                            and to generally make your online Landry's Select Club® experience more 
                             satisfying. Very infrequently, we may initiate a program, service or survey that 
                             requests your name, birthday, e-mail address, city of residence, zip code, or 
-                            information about what you like and do not like about the Landry’s Select Club 
+                            information about what you like and do not like about the Landry's Select Club® 
                             program. We recognize that the loyalty of our customers depends upon our 
                             relationships with them and we strongly support the rights of customers to 
                             maintain privacy of personal data. 
@@ -365,7 +409,7 @@
                             visiting our website. That is why, consistent with the Federal Children's Online 
                             Privacy Protection act of 1998 (COPPA), personally identifiable information from 
                             children, we have no intention of collection of any personally identifiable 
-                            information from individuals under 16 years of age. If a child under 16 years of 
+                            information from individuals under 13 years of age. If a child under 13 years of 
                             age has provided us with personally identifiable information, a parent or 
                             guardian of that child can contact us at the e-mail address or phone number 
                             listed in the Contact Us section of the website if they would like this 
@@ -498,7 +542,7 @@
  
 
 			<div class="module">
-				<h4 class="modulehead" style="text-align:center">Access Your Account</h4>
+				<div class="modulehead" style="text-align:center; font-weight: bold;">Access Your Account</div>
 				<div class="modulepad">
 					<div class="clear">
 					    <div class="alert" style="text-align:center;">
@@ -562,7 +606,8 @@
 			            <div class="darkbuttonpad">
 			            
 			             
-			            <a onclick="return hideHomeFrame();" id="ctl00_lnkJoinClub" class="smallButton" href="javascript:__doPostBack('ctl00$lnkJoinClub','')"><font color="White">Join Now</font></a>
+			            
+                            <a id="ctl00_lnkJoinClub" class="smallButton" href="javascript:__doPostBack('ctl00$lnkJoinClub','')"><font color="White">Join Now</font></a>
 			            </div>		        
                     </div>                
 
@@ -572,13 +617,13 @@
 
  
  			<!--<div style="margin: 20px 13px;"><a href="https://bluefinnye.eventbrite.com" target="_blank"><img src="/images/sidebar/BLFNYE.jpg" alt="Click Here To Buy Tickets For The Blue Fin New Years Eve Event In Times Square" style="height:auto;width:242px;border-width:0px;" /></a></div>-->
-			<div style="margin: 20px 13px;"><img src="/images/sidebar/BRGuest.JPG" alt="BR Guest Joing LSC Sprint 2017" style="height:auto;width:242px;border-width:0px;"></div>	
+			<div style="margin: 20px 13px;"><img src="/images/sidebar/BRGuest.JPG" alt="BR Guest Joing LSC Sprint 2017" style="height:auto;width:242px;border-width:0px;"></div>		
 			<div style="margin: 20px 13px;"><a href="https://shop.landrysinc.com/" target="_blank"><img src="/images/sidebar/LSCRetail.jpg" alt="Landry's Retail" style="height:auto;width:242px;border-width:0px;"></a></div>
 			<div class="module">
 				
-				<h4 class="modulehead">
+				<div class="modulehead" style="font-weight:bold">
                     <span id="ctl00_lblAdHeading">Select Life Magazine</span>
-                </h4>
+                </div>
                 <div class="moduleadpad">
                 <div class="adTxtBgAdjust">
                 
@@ -591,10 +636,10 @@
                 
                 
                 
-                <a id="adSideNav" href="http://www.bluetoad.com/view/landry-s-inc/select-life/winter-2017" target="_top">
-		                    <img src="/images/sidebar/winter17.png" alt="Select Life Magazine" style="height:259px;width:200px;border-width:0px;">
+                <a id="adSideNav" href="https://www.bluetoad.com/view/landry-s-inc/select-life/fall-17" target="_top">
+		                    <img src="/images/sidebar/Fall17.JPG" alt="Select Life Magazine" style="height:259px;width:200px;border-width:0px;">
 		                </a>
-		                    <h4 id="ctl00_lblTextHeading" style="color:#fbf9d4; font-size:14px;"></h4>
+		                    <div id="ctl00_lblTextHeading" style="color:#fbf9d4; font-size:14px;"></div>
 		                    <hr>
 		                    <span id="ctl00_lblTextBody" style="font-size: 14px;">The Official Lifestyle Magazine of Landry's Inc. and the Golden Nugget</span>
 		                    <div style="padding-top:5px; font-size: 12px;"><a id="ctl00_hlBody"></a></div>
@@ -629,12 +674,12 @@
     <!--<div style="background-color: #ce4425;">-->
     <div>
     <div style="text-align: center; margin-left: auto; margin-right: auto;">
-        <!--<a href="SummerSweeps.html"  target="_blank" style="outline: 0;">-->
-            <img src="/images/Summer2016.JPG" style="border: none;" alt="Summer Splash Sweeps">
+        <a href="http://www.landrysinc.com/landrysselectsweeps/summer-sweepstakes/register.asp" target="_blank" style="outline: 0;">
+            <img src="/images/LSCSummerSweepstakes2017.jpg" style="border: none;" alt="Summer Splash Sweeps" width="900px">
             <!--<map name="planetmap">
 	      <area shape="rect" coords="34,475,241,512" href="SummerSweeps.html" target="_blank" style="outline: 0;" alt="Get Details">
 	    </map>-->
-        <!--</a>-->
+        </a>
     </div>
     </div>
     
@@ -645,7 +690,7 @@
 
 <div id="ctl00_pnlJoinClub" align="center" style="display:none;">
 	
-    <table cellpadding="0" cellspacing="0" style="border-color:Black" title="Welcome Landry's Select Club">
+    <table cellpadding="0" cellspacing="0" style="border-color:Black" title="Welcome Landry's Select Club®">
         <tbody><tr style="border-color:Black">
             <td align="center" style="border-color:Black">              
                    
@@ -670,7 +715,7 @@
 
 <div id="ctl00_pnlJoinClubMenu" align="center" style="display:none;">
 	
-    <table cellpadding="0" cellspacing="0" style="border-color:Black" title="Welcome Landry's Select Club">
+    <table cellpadding="0" cellspacing="0" style="border-color:Black" title="Welcome Landry's Select Club®">
         <tbody><tr style="border-color:Black">
             <td align="center" style="border-color:Black">              
                 <img src="/images/HaveACard.gif" id="Img1" onclick="window.location.href = '/ExistingAccount/default.aspx'" alt="Register a New Card" onmouseover="" style="cursor: pointer;">                               
@@ -692,19 +737,6 @@
 
 <!------------ Code for Join Club popup ----------------->
 
-
-
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_lnkCancel","PopupControlID":"ctl00_pnlJoinClub","dynamicServicePath":"/PrivacyPolicy.aspx","id":"ctl00_joinClubPopup"}, null, null, $get("ctl00_lnkJoinClub"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_lnkCancelMenu","PopupControlID":"ctl00_pnlJoinClubMenu","dynamicServicePath":"/PrivacyPolicy.aspx","id":"modalPopupBehaviorMenu"}, null, null, $get("ctl00_lnkJoinClubMenu"));
-});
-//]]>
-</script>
 </form>
 
 <!--<script type="text/javascript">
