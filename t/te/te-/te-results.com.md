@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the te-results.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608083856id_/http%3A//te-results.com/te-results_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the te-results.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212175838id_/http%3A//te-results.com/te-results_privacy_policy.php) for the most accurate reproduction.*
 
-# Traffic Exchange Results - Privacy Policy
+# TE-Results - Traffic Exchange Results - Privacy Policy
 
 PC Support Services Ltd (Pete Tyson) operates the http://te-results.com website, which provides the SERVICE.
 
@@ -36,6 +36,18 @@ We may employ third-party companies and individuals due to the following reasons
 
 
 We want to inform our Service users that these third parties may have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+**Advertising community**
+
+If you attempt to abuse our service, we will share your details and the details of the attempted abuse with the owners/administrators of other advertising sites. For example, abuse may include but is not limited to: 
+
+  * Setting up multiple accounts
+  * Advertising content in violation of our terms
+  * Providing false information in your profile
+  * Attempting to cheat the surf timer or bot checks
+  * Attempting to use automated software to earn credits.
+
+
 
 **Security**
 
