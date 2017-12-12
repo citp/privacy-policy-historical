@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doublerobotics.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619130534id_/http%3A//www.doublerobotics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doublerobotics.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212022736id_/https%3A//www.doublerobotics.com/privacy.html) for the most accurate reproduction.*
 
 # Double Robotics - Telepresence Robot for Telecommuters
 
