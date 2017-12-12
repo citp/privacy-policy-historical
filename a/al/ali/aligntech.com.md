@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aligntech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091535id_/http%3A//www.aligntech.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aligntech.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212041129id_/http%3A//www.aligntech.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ Last updated December 7, 2016
 
 ## INTRODUCTION
 
-Your privacy is very important to Align Technology, Inc. and its affiliates (“Align”, "we", "us" and "our"). This Privacy Statement explains how we collect, protect, use and share your Personal Information (i.e., information about an identified or identifiable natural person). 
+Your privacy is very important to Align Technology, Inc. and its affiliates (“Align”, "we", "us" and "our"). This Privacy Statement explains how we collect, protect, use and share your Personal Information (i.e., information about an identified or identifiable natural person).
 
 Align designs, manufacturers and markets the Invisalign® system and iTero® intra-oral scanners and OrthoCAD services and the My Invisalign Smile app, which enables users to track and share progress whilst undergoing Invisalign treatment by uploading images, sharing stories, creating appointment reminders and receiving notifications (the "App"). The following discloses how we collect, use and share the information we gather on our websites and our App (collectively, the "Sites").
 
@@ -39,11 +39,11 @@ Back to Top
 
 We collect Personal Information of customers, patients (former, potential and current), patients' parents/guardians, physicians, and website visitors when you register to become a member of our Sites or via on-line forms or when you download and use the App, including for example, when you sign up to receive news alerts from us or to undergo a smile assessment. Such information may include your name, address, telephone number, email address, date of birth or age, gender, income information, credit card and other financial information related to payments for services, dental records, physician information, photographs and other information you choose to provide. In addition, when visiting our Sites we may collect sensitive data about you such as health information regarding your teeth, including images of your teeth.
 
-We will notify you of such purposes at the time that we request to collect Personal Information, including sensitive data, from you and will endeavour to only collect the information that is strictly necessary to fulfil those purposes. 
+We will notify you of such purposes at the time that we request to collect Personal Information, including sensitive data, from you and will endeavour to only collect the information that is strictly necessary to fulfil those purposes.
 
 Where we collect health data via our Sites, we will ask for your explicit consent to the collection of sensitive data and acceptance of the terms of this Privacy Statement.
 
-We will also collect information about your use of our Sites as described in the section "Cookies and Advertisements" below. 
+We will also collect information about your use of our Sites as described in the section "Cookies and Advertisements" below.
 
 On occasions you may choose to provide us with Personal Information about other people so that, for example, we can contact them with information about us. You must only share their Personal Information with us if you have obtained their consent and permission to do so.
 
@@ -51,7 +51,7 @@ Back to Top
 
 ## What do we do with the information we collect?
 
-We use your Personal Information for a variety of business purposes, including: 
+We use your Personal Information for a variety of business purposes, including:
 
   * To set up and otherwise manage your member account in our Sites.
   * To allow you to use, purchase, book and/or download products and services such as, for example, the purchase of cleaning supplies.
@@ -73,17 +73,17 @@ We partner with other businesses to assist us in our marketing, communications, 
 
 In addition, any information we collect, including Personal Information, may be disclosed as part of any potential or actual purchase, reorganization, merger, acquisition, debt financing, sale of company assets, or similar transaction, as well as in the event of insolvency, bankruptcy or receivership, in which case Personal Information could be transferred to third parties as one of our business assets.
 
-We may also disclose your Personal Information: if we believe that doing so is required by law, court order or legal process; under the discovery process in litigation; to enforce our legal rights, policies or contracts; to collect amounts owed to Align; when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity; or if in good faith we believe that disclosure is otherwise necessary or advisable necessary. 
+We may also disclose your Personal Information: if we believe that doing so is required by law, court order or legal process; under the discovery process in litigation; to enforce our legal rights, policies or contracts; to collect amounts owed to Align; when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity; or if in good faith we believe that disclosure is otherwise necessary or advisable necessary.
 
 Back to Top
 
 ## COOKIES AND ADVERTISING
 
-Like many websites, our Sites use cookies. Additionally, we engage in interest-based advertising to provide you ads that are tailored to your interests. Please refer to [Cookies & Ads](https://web.archive.org/cookies) for further information. 
+Like many websites, our Sites use cookies. Additionally, we engage in interest-based advertising to provide you ads that are tailored to your interests. Please refer to [Cookies & Ads](https://web.archive.org/cookies) for further information.
 
 Back to Top
 
-## Online Tracking 
+## Online Tracking
 
 Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. Align does not recognize or respond to browser-initiated DNT signals.
 
@@ -109,7 +109,7 @@ Back to Top
 
 We may send you information about us from time to time if you have given us your consent (where required).
 
-Align provides you the opportunity to request to stop receiving electronic communications from either Align or our partners. If you do not want to receive communications from us, please tell us when we collect your information or write us any time at [remove@aligntech.com](mailto:%20remove@aligntech.com) and _make sure to include your country location._ You may also use the convenient unsubscribe feature included within emails. Please allow us enough time to process your request. 
+Align provides you the opportunity to request to stop receiving electronic communications from either Align or our partners. If you do not want to receive communications from us, please tell us when we collect your information or write us any time at [remove@aligntech.com](mailto:%20remove@aligntech.com) and _make sure to include your country location._ You may also use the convenient unsubscribe feature included within emails. Please allow us enough time to process your request.
 
 Keep in mind, any such request does not apply to necessary communications, such as responding to an inquiry, and is revoked if you later request information from us, for example, if you sign up to receive news alerts from us.
 
@@ -121,7 +121,7 @@ If you are a user of Facebook, Twitter or other social media sites with public a
 
 By posting or otherwise making available any content about your Invisalign experience on a public social media platform, and responding “yes” if we ask for your permission to re-post content on our owned channels, such as Facebook ((<http://facebook.com/invisalign>), Pinterest (<http://pinterest.com/Invisalign>), Google+ (<http://google.com/+Invisalign>), YouTube (<http://youtube.com/invisalign> & <http://youtube.com/invisalignteen>), Twitter (<http://twitter.com/invisalign>), Instagram (<http://instagram.com/invisalign> & <http://instagram.com/invisalignteen>) Tumblr (<http://invisalignteen.tumblr.com/>), and others, you represent and warrant that you are thirteen (13) years of age or older and that you agree to the terms and conditions listed on our page on those websites.
 
-If a parent, guardian, or anyone else becomes aware of user generated content shared from an individual under the age of thirteen (13), please email us at [InvisalignTakedown@GoldPR.com](https://web.archive.org/web/20170606091535id_/http%3A//www.aligntech.com/InvisalignTakedown@GoldPR.com).
+If a parent, guardian, or anyone else becomes aware of user generated content shared from an individual under the age of thirteen (13), please email us at [InvisalignTakedown@GoldPR.com](https://web.archive.org/web/20171212041129id_/http%3A//www.aligntech.com/InvisalignTakedown@GoldPR.com).
 
 Back to Top
 
@@ -164,20 +164,20 @@ If you have any questions about this privacy statement, the practices of an Alig
 ### Global Headquarters
 
 Align Technology, Inc.  
-Attention: Privacy Office   
-2560 Orchard Parkway  
-San Jose, CA 95131  
+Attention: Privacy Office  
+2820 Orchard Parkway  
+San Jose, CA 95134  
 [Privacy@aligntech.com](mailto:%20privacy@aligntech.com)
 
 ### EU Headquarters
 
 Align Technology B.V  
-Attention: Privacy Office   
+Attention: Privacy Office  
 Arlandaweg 161  
-1043 HS Amsterdam   
+1043 HS Amsterdam  
 The Netherlands  
 [Privacy@aligntech.com](mailto:%20privacy@aligntech.com)
 
-You may also contact the Align local entity that is responsible for the use of your Personal Information. Details are available [here](http://www.invisalign.com/SiteCollectionImages/Align_Technology_Operations_2015.pdf). 
+You may also contact the Align local entity that is responsible for the use of your Personal Information. Details are available [here](http://www.invisalign.com/SiteCollectionImages/Align_Technology_Operations_2015.pdf).
 
 Back to Top
