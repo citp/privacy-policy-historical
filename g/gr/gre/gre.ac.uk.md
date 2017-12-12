@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610110758id_/https%3A//www.gre.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212121809id_/https%3A//www.gre.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies | University of Greenwich
 
@@ -51,6 +51,6 @@ To monitor our website use, our web servers collect anonymous information such a
 
 By using any page on our website, or our services, you are agreeing to us collecting your personal information.
 
-We always process personal data in accordance with the Data Protection Act 1998. To find out more, visit our [information compliance](http://www2.gre.ac.uk/about/governance/information-compliance) pages. To find out how you can amend any errors in the personal information held about you, please e-mail [compliance@gre.ac.uk](mailto:compliance@gre.ac.uk).
+We always process personal data in accordance with the Data Protection Act 1998. To find out more, visit our [information compliance](https://www.gre.ac.uk/about-us/governance/information-compliance) pages. To find out how you can amend any errors in the personal information held about you, please e-mail [compliance@gre.ac.uk](mailto:compliance@gre.ac.uk).
 
 This privacy statement only applies to this website – not to websites we provide links to.
