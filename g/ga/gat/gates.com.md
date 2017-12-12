@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gates.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628003829id_/http%3A//www.gates.com/utility/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gates.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212235242id_/http%3A//www.gates.com/utility/privacy-policy) for the most accurate reproduction.*
 
 # Gates Privacy Policy | Gates Corporation
 
