@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpondo.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623175145id_/http%3A//vpondo.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpondo.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212230807id_/http%3A//vpondo.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy - Vpondo.com
 
