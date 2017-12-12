@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627032123id_/http%3A//www.iata.org/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212174947id_/http%3A//www.iata.org/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # IATA - Privacy Policy
 
-(Updated 9 July 2013) 
+(Updated April 2017) 
 
 IATA respects your privacy and is committed to protecting it. IATA provides this Privacy Policy to inform you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. IATA recognizes the need to protect the personally identifiable information you share with us, which mainly consists of any information by which you can be identified, such as name, address and telephone number. 
 
@@ -20,13 +20,9 @@ This Privacy Statement covers personal information and non-personal data collect
 > 
 > On some IATA websites, you can order products or services, participate in surveys, request information, subscribe to marketing or support materials, register yourself or your IATA products, or apply for a job or internship at IATA or otherwise be required to provide personal information for other purposes. The types of personal information you provide to us on these pages may include name, address, phone number, e-mail address, user IDs and passwords, billing and transaction information, credit card information, contact preferences, educational and employment background, and job interest data. To personalize our websites, services or communications and improve our products and services, we may also ask you to provide us with information regarding your personal or professional interests, demographics, and experiences with our products or services. Providing this additional information is optional. 
 > 
-> **b)“Non-personal information”** is data about usage and service operation that is not associated with a specific personal identity. IATA may collect and analyse non-personal information visitors’ domains to evaluate how visitors use the IATA websites or otherwise analyze this data for trends and statistics purposes. Non-personal data we collect may include the pages visited on the IATA websites, unique [URLs ](https://web.archive.org/Pages/privacy-definitions.aspx)visited within IATA websites, browser type and [IP address](https://web.archive.org/Pages/privacy-definitions.aspx), but the individual visitor’s personal information remains anonymous. 
+> **b)“Non-personal information”** is data about usage and service operation that is not associated with a specific personal identity. IATA may collect and analyse non-personal information visitors’ domains to evaluate how visitors use the IATA websites or otherwise analyze this data for trends and statistics purposes. Non-personal data we collect may include the pages visited on the IATA websites, unique URLs visited within IATA websites, browser type and IP address, but the individual visitor’s personal information remains anonymous. 
 > 
-> Most non-personal data is collected via cookies or other analysis technologies. On most IATA websites, we use [cookies](https://web.archive.org/Pages/privacy-definitions.aspx), [web beacons](https://web.archive.org/Pages/privacy-definitions.aspx) and other technologies for data analysis and personalization services so that we can better serve you with customized information when you return to our site. We also use cookies and web beacons to help us measure the effectiveness of our web communication and marketing in order to improve our site, products, offers and marketing strategy. 
-> 
-> IATA also places ads on third party websites that may use cookies. We collect certain non-personal information about your browsing activity if you access the IATA websites via an ad on a third party website. This information is used to analyze the performance of IATA’s ad campaigns. We use the Google AdWords [free conversion tracking](https://support.google.com/adwords/answer/1722022?hl=en) feature for this purpose. 
-> 
-> Cookies are identifiers which a website can send to your browser to keep on your computer to facilitate your next visit to the IATA websites. To learn more, read IATA use of [cookies, web beacons and third party ads](https://web.archive.org/Pages/privacy-definitions.aspx). You can set your browser to notify you when you are sent a cookie, giving you the option to decide whether or not to accept it. If you do not wish to allow your session visitation information to be aggregated and analyzed by our web analytics service, you can opt-out in accordance with the procedure set forth in Section 9, “Your privacy preferences and opting out”. 
+> Most non-personal data is collected via cookies. You can read more about cookies and how to change cookies settings on our [Cookies help page.](https://web.archive.org/Pages/cookies.aspx)
 
 ### 3\. Collected information
 
@@ -78,7 +74,7 @@ You can make or change your choices at the data collection point or through IATA
 
 > **Online** : You can make your choice regarding these communications by using the IATA customer registration tools, as applicable, to set your privacy preferences (available in the English language only). 
 
-**Offline:** Please specify your privacy preferences by writing to IATA at [imc@iata.org](mailto:imc@iata.org). Be sure to provide your name, e-mail and postal address in all correspondence. 
+**Offline:** Please specify your privacy preferences by writing to IATA at [privacy@iata.org](mailto:privacy@privacy@iata.org). Be sure to provide your name, e-mail and postal address in all correspondence. 
 
 > **Subscription services**  
 To opt-out of receiving communications you have expressly requested (such as e-mail newsletters, updates, etc.), use any of the following methods: 
@@ -95,7 +91,7 @@ PO Box 113
 Montreal - H4Z 1M1  
 Quebec - Canada  
 Fax: +1 514 874 9632   
-E-mail: [imc@iata.org](mailto:imc@iata.org)
+E-mail: [privacy@iata.org](mailto:privacy@iata.org)
 
 ### 10\. Your information and third-party companies
 
