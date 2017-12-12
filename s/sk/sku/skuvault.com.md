@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skuvault.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114543id_/http%3A//www.skuvault.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skuvault.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212224356id_/http%3A//www.skuvault.com/resources/privacy-policy) for the most accurate reproduction.*
 
 # SkuVault Warehouse Management System · Privacy Policy
 
@@ -17,6 +17,10 @@ We take your privacy very seriously. None of the personally identifiable informa
 ### OTHER INFORMATION
 
 By submitting personal information to us or using our site, you agree that we may collect and use such personal information in accordance with our privacy policy or as permitted by law. If you do not agree with these terms, do not provide any personal information to us. If you refuse or withdraw consent, or do not provide us with any necessary personal information, we may not be able to provide you with products or service.
+
+### GATHERING TECHNICAL INFORMATION TO DIAGNOSE ERRORS
+
+While SkuVault strives to avoid errors with respect to the operation of our app, sometimes errors do occur. SkuVault tracks the use of our app in order to identify and diagnose errors so that SkuVault team can take steps to remedy them and possibly avoid them altogether. As part of this process, SkuVault collects non-personally identifiable technical information relating to the devices used by users to launch and operate the app – such as the type of device used (e.g., mobile, tablet, etc.), the operating system for device (e.g., Android, iOS, etc.), the device’s brand, and the device’s manufacturer, etc. Our goal in collecting such information is to provider users of our app with better service and a quality experience.
 
 ### REMOVAL FROM OUR DATABASE
 
