@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the foxtrot.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142701id_/http%3A//www.foxtrot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxtrot.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212064438id_/http%3A//www.foxtrot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FoxTrot
 
 THE FOXTROT.COM PRIVACY POLICY
 
-Updated 7-17-2014
+Updated 12-7-2017
 
 Note: This privacy policy is subject to change, so we encourage you to review it periodically.
 
@@ -16,11 +16,13 @@ Currently, this information is limited to:
 
 2\. Your Google Ads cookie, assuming your browser allows cookies. You don’t share it with us, per se, but because we use Google as our ad provider, you’re sharing it with them. Cookies are small text files advertisers and websites frequently place on your device to let them save information about you. In the case of the Google Ads cookie, it uses this information to serve advertising it believes would be of interest to a particular user. If this is a concern and you’d like more information, we encourage you to visit www.google.com/settings/ads. If you’d like to clear your device’s saved cookies or block them altogether in the future, consult your browser’s help menu for instructions.
 
-3\. Your e-mail address. But only if you choose to e-mail us for some reason. How is it used? To allow us to write back to you if necessary. This is sort of obvious, but we thought it important to assure you that we aren’t going to sell this information or add you to some mailing list. If you are under 13 years of age, please do not e-mail us, but rather ask a parent to do so on your behalf or alternatively you may write to us yourself via traditional postal mail using the mailing address information found on our Contact Us page.
+3\. Your e-mail address. But only if you choose to sign up for our mailing list or e-mail us for some reason. How is it used? To allow us to write back to you or to send you relevant news. This is sort of obvious, but we thought it important to assure you that we aren’t going to sell this information or add you to some third-party mailing list. If you are under 13 years of age, please do not e-mail us or sign up for our mailing list. If you are under 13 and need to contact us, ask a parent to do so on your behalf or alternatively you may write to us yourself via traditional postal mail using the mailing address information found on our Contact Us page.
+
+4\. Should you visit our Shopify-hosted store (store.foxtrot.com), more information may be collected and shared with us. For details about that, we encourage you to read Shopify’s privacy policy at https://www.shopify.com/legal/privacy.
 
 And that’s really it as far as the personal information we might collect from a visitor. Now for a few words about links:
 
-FoxTrot.com contains numerous links to outside sites we think might be of use or interest to at least a few of our readers. These sites may have privacy policies very different from ours, so we recommend users familiarize themselves with those policies as well, should they choose to visit these sites.
+FoxTrot.com contains links to outside sites we think might be of use or interest to at least a few of our readers. These sites may have privacy policies very different from ours, so we recommend users familiarize themselves with those policies as well, should they choose to visit these sites.
 
 This is especially true with social media sites. We currently feature links to Bill Amend’s public social media accounts on Twitter and Facebook. These links are not meant as endorsements of those sites or services, nor as encouragements for our visitors to join them, nor as signs of approval as to the quality or content of Bill’s occasional blatherings, but simply as helpful links for users of those sites or services to locate or identify Bill’s accounts. Social media sites tend to allow for the sharing of a great deal of personal information, so we recommend that if you choose to visit one of these sites, you review the service’s terms and privacy policies with utmost care upon arrival.
 
@@ -50,3 +52,8 @@ Privacy Compliance
 FoxTrot Labs, LLC  
 P.O. Box 30209  
 Kansas City, MO 64112
+
+* * *
+
+  
+
