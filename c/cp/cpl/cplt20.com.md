@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cplt20.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614144436id_/http%3A//www.cplt20.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cplt20.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212173719id_/http%3A//cplt20.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy CPL T20
 
