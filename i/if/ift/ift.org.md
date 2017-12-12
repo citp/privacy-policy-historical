@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ift.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611150626id_/https%3A//www.ift.org/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ift.org privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212153405id_/https%3A//www.ift.org/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - IFT.org
 
