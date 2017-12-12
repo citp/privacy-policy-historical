@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangatail.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515133517id_/http%3A//www.mangatail.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangatail.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212063919id_/http%3A//www.mangatail.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MangaTail
 
