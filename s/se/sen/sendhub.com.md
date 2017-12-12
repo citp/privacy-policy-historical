@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendhub.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629010839id_/http%3A//www.sendhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendhub.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212105103id_/http%3A//www.sendhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SendHub
 
@@ -47,4 +47,4 @@ InfoReach may also need to share Personal Information if our ownership status ch
 
 Despite any precautions we take, the Internet is not a 100% secure environment, and we therefore cannot ensure or warrant the security of information you transmit to InfoReach. You acknowledge that you provide such information at your own risk. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Emails, instant messages, and similar means of communication with other users are not encrypted, and we strongly advise you not to communicate any confidential information through these means. Although we attempt to block the upload of certain file types known to pose a security risk, we recommend that you scan user-uploaded attachments with a virus checker before opening them.
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. If you have any questions about the policy, please contact: [support@sendhub.com](mailto:support@sendhub.com).
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. If you have any questions about the policy, please contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d6a5a3a6a6b9a4a296a5b3b8b2bea3b4f8b5b9bb).
