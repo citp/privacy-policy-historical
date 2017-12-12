@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnelkit.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611200444id_/http%3A//funnelkit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnelkit.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212200854id_/http%3A//funnelkit.com/privacy-policy) for the most accurate reproduction.*
 
 # Take Conversions Seriously - funnelKit GO — funnelKit GO
 
