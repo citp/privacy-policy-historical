@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the law.ac.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611204206id_/http%3A//www.law.ac.uk/about/cookies-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the law.ac.uk privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212211923id_/http%3A//www.law.ac.uk/about/cookies-and-privacy-policy) for the most accurate reproduction.*
 
 # Cookie & Privacy Policy | University of Law
 
@@ -242,6 +242,8 @@ Then you register for the secure sections of our website you will need to provid
 Any personal data we collect during registration is designed to allow us to personalise the site for you and give you access to the right kinds of information.
 
 If you register, request further information or contact us we may keep a record of that correspondence and incorporate the information it contains into our database(s).
+
+Please be aware that when you receive a call from The University of Law it may be monitored and recorded. This is to be used internally for record-keeping, training and quality-assurance purposes.
 
 ##### Internet security
 
