@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetypinggame.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014556id_/http%3A//www.freetypinggame.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetypinggame.net privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212175020id_/http%3A//www.freetypinggame.net/privacy.asp) for the most accurate reproduction.*
 
 # FreeTypingGame.net - Free typing games online, fun and lesson based keyboarding games including home row!
 
@@ -13,7 +13,7 @@ Your privacy on the Internet is of the utmost importance to us. At FreeTypingGam
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at freetypinggame@(At)hotmail.com . REMOVE THE (At). Or contact us via our [contact form.](https://web.archive.org/web/20170606014556id_/http%3A//www.freetypinggame.net/contactus.asp)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at freetypinggame@(At)hotmail.com . REMOVE THE (At). Or contact us via our [contact form.](https://web.archive.org/web/20171212175020id_/http%3A//www.freetypinggame.net/contactus.asp)
 
 **Cookies and Web Beacons**  
 FreeTypingGame.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
