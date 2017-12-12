@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funapps.io privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604022007id_/http%3A//www.funapps.io/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funapps.io privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212060658id_/http%3A//www.funapps.io/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - funapps.io - The Apps Designed for Your Entertainment
 
@@ -92,7 +92,7 @@ We will not distribute, sell or lease your personal information to any third par
 
 #### You can ask privacy questions:
 
-If you have any questions or concerns about our privacy policies, please feel free to contact us by email at **re.down8@gmail.com** describing your detailled query. We will try to take the right step as soon as possible.
+If you have any questions or concerns about our privacy policies, please feel free to contact us by email at **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)** describing your detailled query. We will try to take the right step as soon as possible.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write an email to us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
