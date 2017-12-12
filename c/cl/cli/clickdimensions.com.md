@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickdimensions.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622150053id_/http%3A//clickdimensions.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickdimensions.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212150552id_/http%3A//clickdimensions.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ClickDimensions
 
@@ -51,9 +51,9 @@ Each email sent from ClickDimensions using our email marketing solution provides
 
 ### Privacy Shield
 
-ClickDimensions is certified under the EU-U.S. Privacy Shield framework set forth by the U.S. Department of Commerce and the European Union. We hereby certify that we adhere to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles govern.  To view a description of how ClickDimensions complies with these Privacy Shield Principles, please visit <http://clickdimensions.com/about/privacy-shield/>. For more information on the EU-U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website at <https://www.privacyshield.gov/welcome>.
+ClickDimensions complies with the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively.  ClickDimensions has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To view a description of how ClickDimensions complies with these Privacy Shield Principles, please visit <http://clickdimensions.com/about/privacy-shield/>.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>_._
 
-ClickDimensions has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to JAMS International, an alternative dispute resolution provider headquartered in London with additional locations in Amsterdam, Milan, New York and Rome. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim> for more information and to file a complaint.
+ClickDimensions has further committed to refer unresolved Privacy Shield complaints to JAMS International, an alternative dispute resolution provider headquartered in London with additional locations in Amsterdam, Milan, New York and Rome. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit  <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim> for more information and to file a complaint.
 
 ### Updates
 
@@ -72,3 +72,5 @@ Or by mail:
 ****5901 Peachtree Dunwoody Road, NE  
 Suite B500  
 Atlanta, GA 30328**
+
+11/1/2017
