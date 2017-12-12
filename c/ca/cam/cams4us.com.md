@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cams4us.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518061840id_/http%3A//www.cams4us.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cams4us.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212174310id_/http%3A//www.cams4us.com/privacy.php) for the most accurate reproduction.*
 
 # Cams4Us - live porn webcam site privacy page
 
