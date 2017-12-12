@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursites123.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523075228id_/http%3A//www.yoursites123.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursites123.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212011219id_/http%3A//www.yoursites123.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
