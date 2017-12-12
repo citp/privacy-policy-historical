@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620073009id_/http%3A//site24.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212184728id_/http%3A//site24.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
 
 # Way2SMS - Privacy Policy
 
