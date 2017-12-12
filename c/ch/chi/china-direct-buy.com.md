@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the china-direct-buy.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611174559id_/http%3A//www.china-direct-buy.com/v/4/doc/privacyPolicy/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the china-direct-buy.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212174351id_/http%3A//www.china-direct-buy.com/v/4/doc/privacyPolicy/Privacy_Policy.html) for the most accurate reproduction.*
 
 # China-Direct-Buy.com - Buy Direct from China
 
