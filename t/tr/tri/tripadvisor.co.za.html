@@ -1,41 +1,39 @@
-<!--The following is the downloaded HTML source of the tripadvisor.co.za privacy policy that was archived on 2017-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170531122527id_/https%3A//tripadvisor.mediaroom.com/za-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripadvisor.co.za privacy policy that was archived on 2017-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171212043803id_/https%3A//tripadvisor.mediaroom.com/za-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <!-- begin spin_special_output(head_start) -->
-
-		<style type="text/css">
-			.wd_featurebox_icon {
-				display: inline;
-			}
-			.wd_featurebox_icon img {
-				vertical-align: middle;
-			}
-			div.wd_featurebox_group div.wd_tabs_wrapper {
-				border: none;
-				border-bottom: 1px solid #E1E1E1;
-				padding: 0 0 5px 0;
-			}
-			div.wd_featurebox_group div.wd_featurebox {
-				border: none;
-				padding: 8px 0 0 0;
-			}
-			div.wd_featurebox_group li.wd_tab {
-				float: none;
-				color: #666666;
-			}
-			div.wd_featurebox_group li.wd_tab-active {
-				border: none;
-				background-color: transparent;
-				color: #000000;
-				font-weight: bold;
-			}
-			div.wd_featurebox_group li.wd_tab-inactive {
-				cursor: auto;
-			}
-		</style>
-	
-		<style type="text/css">
+<style type="text/css" wd_script_id="featureboxes_style">
+		.wd_featurebox_icon {
+			display: inline;
+		}
+		.wd_featurebox_icon img {
+			vertical-align: middle;
+		}
+		div.wd_featurebox_group div.wd_tabs_wrapper {
+			border: none;
+			border-bottom: 1px solid #E1E1E1;
+			padding: 0 0 5px 0;
+		}
+		div.wd_featurebox_group div.wd_featurebox {
+			border: none;
+			padding: 8px 0 0 0;
+		}
+		div.wd_featurebox_group li.wd_tab {
+			float: none;
+			color: #666666;
+		}
+		div.wd_featurebox_group li.wd_tab-active {
+			border: none;
+			background-color: transparent;
+			color: #000000;
+			font-weight: bold;
+		}
+		div.wd_featurebox_group li.wd_tab-inactive {
+			cursor: auto;
+		}
+	</style>
+<style type="text/css" wd_script_id="search_form_style">
 		.wd_search_form .wd_input_datepicker {
 			margin-right: 2px;
 		}
@@ -43,43 +41,42 @@
 			margin-left: 20px;
 		}
 		</style>
-		<script type="text/javascript" async="" defer="" src="//stats.drivetheweb.com/piwik.js"></script><script type="text/javascript" src="js/jquery-webdriver.js"></script>
-<script type="text/javascript" src="js/webdriver.js"></script>
+<script type="text/javascript" async="" defer="" src="//stats.drivetheweb.com/piwik.js"></script><script type="text/javascript" src="js/jquery-webdriver.js" wd_script_id="jquery-webdriver.js"></script>
+<script type="text/javascript" src="js/webdriver.js" wd_script_id="webdriver.js"></script>
+<script type="text/javascript" wd_script_id="search_form_script">
+			function wd_toggle_search_form(link, advanced) {
+				var $ = webDriver.jQuery;
+				var $container = $(link).closest(".wd_search_form_container");
+				var basic_form = $container.find(".wd_search_form_basic");
+				var basic_query = basic_form.find('input[name="query"]');
+				var advanced_form = $container.find(".wd_search_form_advanced");
+				var advanced_query = advanced_form.find('input[name="query"]');
 
-			<script type="text/javascript">
-				function wd_toggle_search_form(link, advanced) {
-					var $ = webDriver.jQuery;
-					var $container = $(link).closest(".wd_search_form_container");
-					var basic_form = $container.find(".wd_search_form_basic");
-					var basic_query = basic_form.find('input[name="query"]');
-					var advanced_form = $container.find(".wd_search_form_advanced");
-					var advanced_query = advanced_form.find('input[name="query"]');
-
-					if (advanced) {
-						advanced_query.val(basic_query.val());
-						advanced_form.show();
-						basic_form.hide();
-					} else {
-						basic_query.val(advanced_query.val());
-						basic_form.show();
-						advanced_form.hide();
-					}
+				if (advanced) {
+					advanced_query.val(basic_query.val());
+					advanced_form.show();
+					basic_form.hide();
+				} else {
+					basic_query.val(advanced_query.val());
+					basic_form.show();
+					advanced_form.hide();
 				}
+			}
 
-				function wd_toggle_search_type_checkboxes(radio) {
-					var $ = webDriver.jQuery;
-					var $radio = $(radio);
-					var all = $radio.val() == "All" ? $radio.is(":checked") : !$radio.is(":checked");
-					var $checkboxes = $radio.closest(".wd_form_field").find(".wd_search_type_checkbox");
-					$checkboxes.find('input[type="checkbox"]').prop("disabled", all);
-					$checkboxes.toggle(!all);
-				}
+			function wd_toggle_search_type_checkboxes(radio) {
+				var $ = webDriver.jQuery;
+				var $radio = $(radio);
+				var all = $radio.val() == "All" ? $radio.is(":checked") : !$radio.is(":checked");
+				var $checkboxes = $radio.closest(".wd_form_field").find(".wd_search_type_checkbox");
+				$checkboxes.find('input[type="checkbox"]').prop("disabled", all);
+				$checkboxes.toggle(!all);
+			}
 
-				webDriver.jQuery(function ($) {
-					$('.wd_search_type_radio input[type="radio"]').each(function() {wd_toggle_search_type_checkboxes(this);});
-				});
-			</script>
-		
+			webDriver.jQuery(function ($) {
+				$('.wd_search_type_radio input[type="radio"]').each(function() {wd_toggle_search_type_checkboxes(this);});
+			});
+		</script>
+
 <!-- end spin_special_output(head_start) -->
 
 	<meta charset="utf-8">
@@ -100,10 +97,10 @@
 	<script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
 	<script type="text/javascript" src="js/jquery.dropdown.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/wdcontent.css">
-	<link rel="alternate" href="https://tripadvisor.mediaroom.com/press-releases?pagetemplate=rss" type="application/rss+xml" title="Media Center | Press Releases">	<style>.flag{background-position: 0px -562px;}</style></head>
+	<link rel="alternate" href="https://tripadvisor.mediaroom.com/press-releases?pagetemplate=rss" type="application/rss+xml" title="Media Center | Press Releases">	<style>.flag{background-position: 0px -562px;}</style>
+</head>
 
-
-<body class=" wd_pageid_34336 wd_item_page wd_item_32163" style="">
+<body class="wd_pageid_34336 wd_item_page wd_item_32163" style="">
 
 <div class="topbar">
 	<div class=" widthLimit">
@@ -137,6 +134,7 @@
 	<div class="nav pad-20">
 <p><a href="US-press-releases" target="_self">Press Releases</a></p>
 <p><a href="our-brand" target="_self">Our Brand</a></p>
+<p><a href="https://tripadvisor.mediaroom.com/ZA-testimonials" target="_self">Testimonials</a></p>
 </div><!--/nav-->
 	</div><!--/leftNav-->
 	
@@ -535,8 +533,8 @@ $(document).ready(function() {
 	$('.wd_featureboxes_middle .wd_featurebox p.more').each(function(){
 		$(this).parent().parent().prepend(this);
 	});
-	$('.wd_news_releases-teaser .item').each(function(){
-		$(this).children('.item_date').insertAfter($(this).children('.item_name'));
+	$('.wd_newsfeed_releases-teaser .item').each(function(){
+		$(this).children('.wd_date').insertAfter($(this).children('.wd_title'));
 	});
 });
 </script>
@@ -544,7 +542,7 @@ $(document).ready(function() {
 
 
 <!-- begin spin_special_output(body_end) -->
-
+<script wd_script_id="piwik_tracking_code"></script>
 <!-- Piwik Tracking Code -->
 <script type="text/javascript">
   var _paq = _paq || [];
