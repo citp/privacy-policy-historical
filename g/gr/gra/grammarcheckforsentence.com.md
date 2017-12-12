@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grammarcheckforsentence.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622175850id_/http%3A//www.grammarcheckforsentence.com/gcfs-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarcheckforsentence.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212220540id_/http%3A//www.grammarcheckforsentence.com/gcfs-privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
