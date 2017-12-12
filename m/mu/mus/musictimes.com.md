@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musictimes.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523195820id_/http%3A//www.musictimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musictimes.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212140256id_/http%3A//www.musictimes.com/privacypolicy) for the most accurate reproduction.*
 
 # Music Times
 
@@ -53,6 +53,10 @@ By visiting the Site, whether as a registered user or otherwise, you acknowledge
 This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, "Third Party Advertising Service Providers") to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site ("Targeting Services"). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you.
 
 These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to Other Information about you.
+
+If you would like more information about the information collection practices of a particular third-party advertising service provider, or if you would like more information on how to opt out of a third-party advertising service provider’s information collection practices, go to [http://www.aboutads.info](http://www.aboutads.info/), or for apps, at <http://www.aboutads.info/appchoices>.  
+Additionally, some of our third-party advertising service providers are members of the Network Advertising Initiative ("NAI"). You can obtain more information about these third-party advertising service providers' information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI's website at <http://www.networkadvertising.org/managing/opt_out.asp>.  
+Please note that one of our third-party advertising service providers is DoubleClick. You can opt out of the use of cookies by DoubleClick by visiting <http://www.google.com/settings/ads>.
 
 **c. Use of Information.**
 
