@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dealsaver.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013426id_/http%3A//dealsaver.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsaver.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212062028id_/http%3A//dealsaver.com/privacy_policy.html) for the most accurate reproduction.*
 
 # dealsaver® Privacy Policy
 
 Effective Date: 11-15-12
 
-To view the previous Privacy Policy, [click here](https://web.archive.org/web/20170606013426id_/http%3A//dealsaver.com/privacy_policy_legacy.html).
+To view the previous Privacy Policy, [click here](https://web.archive.org/web/20171212062028id_/http%3A//dealsaver.com/privacy_policy_legacy.html).
 
 dealsaver.com ("dealsaver.com", "we", "our") has a firm commitment to privacy. We take your privacy concerns seriously and want to make reasonable efforts to address them as we strive to offer our Site visitors a high quality, interactive and personalized experience. This Privacy Policy explains our position on information gathering and how we intend to use and share any information we collect. This Privacy Policy applies only to information collected by dealsaver.com and does not apply to information obtained or used by The McClatchy Company’s individual newspapers or its affiliates through other means. Capitalized terms that are not defined in this Privacy Policy shall have the meanings set forth in the Terms of Service.
 
