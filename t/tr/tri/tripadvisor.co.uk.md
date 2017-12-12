@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.co.uk privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531122619id_/https%3A//tripadvisor.mediaroom.com/uk-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.co.uk privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212043859id_/https%3A//tripadvisor.mediaroom.com/uk-privacy-policy) for the most accurate reproduction.*
 
 # UK Press Center | Resources
 
