@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedomworks.org privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621194317id_/http%3A//www.freedomworks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomworks.org privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212230228id_/http%3A//www.freedomworks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FreedomWorks
 
