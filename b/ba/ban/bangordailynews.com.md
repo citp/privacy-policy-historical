@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangordailynews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163649id_/http%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangordailynews.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212222034id_/https%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Bangor Daily News — BDN Maine
 
@@ -26,7 +26,8 @@ Overall, the use of cookies helps to give you a more personalized experience at 
 
 **May I decline to accept a cookie?**
 
-You may decline to accept cookies sent by the site by selecting an option on your browser to reject cookies. However, you will not be able to access certain features if your computer or device does not accept cookies from us. In such cases, we ask that you register and provide us with basic information on our registration page, or sign in if previously registered. Cookies enable our server to know that you are a registered user and will eliminate the need for you to login each time you access one of our sites.
+You may decline to accept cookies sent by the site by selecting an option on your browser to reject cookies. However, you will not be able to access certain features if your computer or device does not accept cookies from us. In such cases, we ask that you register and provide us with basic information on our registration page, or sign in if previously registered. Cookies enable our server to know that you are a registered user and will eliminate the need for you to login each time you access one of our sites.  
+
 
 **What happens with the information collected in a cookie?**
 
@@ -48,7 +49,8 @@ Bangor Daily News logs  IP addresses (the location of your computer on the Inte
 
 **Use of Personal Information**
 
-We believe in protecting your privacy, and will not share personal information (excepting your screen name or registered name) with third parties outside of Bangor Daily News except as described in this Privacy Policy. 
+We believe in protecting your privacy, and will not share personal information (excepting your screen name or registered name) with third parties outside of Bangor Daily News except as described in this Privacy Policy.   
+
 
 We may use your personal information, such as your e-mail address or mailing address, to contact you regarding products and/or services that may be of interest to you, to respond to an inquiry from you regarding the information that we have collected or respond to your comments and suggestions.
 
