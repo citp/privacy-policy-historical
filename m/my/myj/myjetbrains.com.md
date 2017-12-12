@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myjetbrains.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615200718id_/https%3A//www.jetbrains.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjetbrains.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212123120id_/https%3A//www.jetbrains.com/company/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | JetBrains
+# Privacy Policy - JetBrains
 
 #### Last updated: 14th March 2016
 
-This Policy may be amended from time to time. The respective latest version of the policy at the point of time of the purchase/registration of a **JetBrains Software Product** (whichever occurs later) shall apply. The data controller is JetBrains s.r.o., Praha 4, Na hřebenech II 1718/10, PSČ 147 00, Česká republika
+This Policy may be amended from time to time. The respective latest version of the policy at the point of time of the purchase/registration of a **JetBrains Software Product** (whichever occurs later) shall apply. The data controller is JetBrains s.r.o., Praha 4, Na hřebenech II 1718/10, PSČ 140 00, Česká republika
 
 In this Privacy Policy, we describe the type of data, including personal data (collectively, “data”), that we collect from you when you use our Website (listed under JetBrains WebSite) and certain JetBrains products and services as described in this Privacy Policy (collectively, our “services”) and how we use and disclose that data. The following definitions will be used throughout this Privacy Policy.
 
@@ -137,7 +137,6 @@ Generally our Website uses cookies to distinguish you from other users of our We
   * Identify you as being logged in to our Website and to authenticate you
   * Make sure you connect to the right service on our Website when we make any changes to the way the Website works
   * For security purposes
-  * Make sure you connect to the right service on our Website when we make any changes to the way the Website works
 
 
 
