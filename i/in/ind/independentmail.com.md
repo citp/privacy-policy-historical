@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427140024id_/http%3A//static.independentmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212062339id_/http%3A//static.independentmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Anderson Independent-Mail
 
