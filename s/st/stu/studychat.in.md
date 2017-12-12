@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studychat.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081031id_/http%3A//www.studychat.in/p/blog-page_5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studychat.in privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212072150id_/http%3A//www.studychat.in/p/blog-page_5.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
