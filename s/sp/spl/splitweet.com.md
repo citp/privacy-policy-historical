@@ -1,105 +1,125 @@
-> *The following text is extracted and transformed from the splitweet.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121055543id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splitweet.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212122156id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
-**Effective date:** February 4, 2015
+**PRIVACY**
 
-  * Introduction
-  * About this Privacy Policy
-  * Personal Information we may collect and use
-  * System and device information
-  * Cookies and related technologies
-  * When we may share personal information
-  * Children
-  * Security
-  * Information storage and international transfers
-  * Email preferences
-  * Your rights
-  * Contacting us
+* * *
+
+**Last Modified:**  November 15, 2017
+
+  * [Introduction](https://hootsuite.com/legal/privacy#introduction)
+  * [Hootsuite Data and Customer Content](https://hootsuite.com/legal/privacy#hootsuite-data)
+  * [About this Privacy Policy](https://hootsuite.com/legal/privacy#about)
+  * [Hootsuite Data we receive or collect](https://hootsuite.com/legal/privacy#receive-collect)
+  * [How we use Hootsuite Data](https://hootsuite.com/legal/privacy#how)
+  * [Customer Content we process for our customers](https://hootsuite.com/legal/privacy#customer-content)
+  * [Consent](https://hootsuite.com/legal/privacy#consent)
+  * [Cookies and related technologies](https://hootsuite.com/legal/privacy#cookies)
+  * [When we may share personal information](https://hootsuite.com/legal/privacy#info-sharing)
+  * [Children](https://hootsuite.com/legal/privacy#children)
+  * [Security](https://hootsuite.com/legal/privacy#security)
+  * [Information storage and international transfers](https://hootsuite.com/legal/privacy#information-storage)
+  * [Email preferences](https://hootsuite.com/legal/privacy#email)
+  * [Your rights](https://hootsuite.com/legal/privacy#rights)
+  * [Contacting us](https://hootsuite.com/legal/privacy#contact)
 
 
 
 ## Introduction
 
-Hootsuite Media Inc. and its affiliates (“ _Hootsuite_ ”) are committed to protecting the privacy of all individuals who:
+Hootsuite Inc. and its affiliates (“ _Hootsuite_ ”) are committed to protecting the privacy of all individuals who:
 
-  * visit Hootsuite’s website located at [hootsuite.com](http://www.hootsuite.com/), which includes all subdomains, present and future (the “ _Website_ ”);
-  * use the mobile applications that Hootsuite makes available from time to time (the "Applications");
-  * use the Hootsuite services including Hootsuite Free, Pro, Enterprise, Ow.ly and other Hootsuite products and services (the "Platforms"); and
-  * purchase Hootsuite-branded and other items from the Hootsuite Shop located at shop.hootsuite.com and other domains (the “Shop”).
+  * visit any websites or mobile sites offered by Hootsuite, including without limitation [hootsuite.com](http://www.hootsuite.com/), and including all subdomains, present and future (the “ _Website_ ”);
+  * use the mobile applications that Hootsuite makes available from time to time (the " _Applications_ ");
+  * use the Services including Hootsuite Free, Pro, Professional, Team, Business, Enterprise, Ow.ly, Amplify, Academy, Insights, Campaigns and other Hootsuite products and services (the " _Platforms_ "); and
+  * purchase Hootsuite-branded and other items from the Hootsuite Shop located at shop.hootsuite.com and other domains (the “ _Shop_ ”). When we talk about “Personal Information”, we mean information relating to you or other identifiable individuals.
 
 
 
-To make this policy easier to read, we call the Website, the Applications, the Platforms, and the Shop together the " _Services_ ". 
+To make this policy easier to read, we call the Website, the Applications, the Platforms, and the Shop together the " _Services_ ". When we talk about “Personal Information”, we mean information relating to you or other identifiable individuals.
 
-It is Hootsuite’s policy to respect your privacy and the privacy of all users of the Services. This Privacy Policy has been established to help you understand our commitment to protecting your privacy and personal data, and the steps we take to ensure it. By visiting and/or using any of the Services, you agree to be bound by the terms of the present Privacy Policy (the “ _Privacy Policy_ ”). Where the present Privacy Policy refers to “Hootsuite”, it may refer to the Services or to Hootsuite Media Inc., depending on the context.
+It is Hootsuite’s policy to respect your privacy and the privacy of all users of the Services. This Privacy Policy has been established to help you understand our commitment to protecting your privacy and personal data, and the steps we take to ensure it. By visiting and/or using any of the Services, you agree to be bound by the terms of the present Privacy Policy (the “ _Privacy Policy_ ”). Where the present Privacy Policy refers to “Hootsuite”, it may refer to the Services or to Hootsuite Inc., depending on the context.
 
-Hootsuite reserves the right, at any time, to modify or replace the Privacy Policy. The most recent version of the Privacy Policy is available at [hootsuite.com/legal/privacy](https://web.archive.org/legal/privacy). Please check the Privacy Policy periodically for changes, though we will also notify you via email or other direct electronic communication method of any changes that, in our sole discretion, materially impact your use of the Services or the treatment of your Personal Information. Your use of the Services following the posting of any changes to the Privacy Policy constitutes acceptance of those changes.
+Hootsuite reserves the right, at any time, to modify or replace the Privacy Policy. The most recent version of the Privacy Policy is available at [hootsuite.com/legal/privacy](https://hootsuite.com/legal/privacy). Please check the Privacy Policy periodically for changes, though we will also notify you via email or other direct electronic communication method of any changes that, in our sole discretion, materially impact your use of the Services or the treatment of your Personal Information. Your use of the Services following the posting of any changes to the Privacy Policy constitutes acceptance of those changes.
 
-Hootsuite’s Privacy Policy forms part of its wider terms of service (collectively the “Terms”). If you are a visitor to the Website or if you are a Hootsuite Free or Hootsuite Pro user, these terms of service are available at [ https://hootsuite.com/legal/terms](https://web.archive.org/legal/terms). If you are a Hootsuite Enterprise user, these terms of service are available at [https://hootsuite.com/legal/enterpriseterms](https://web.archive.org/legal/enterprise-terms) (collectively the “ _Terms_ ”). If you make a purchase on the Shop, these terms of service are available at [shop.hootsuite.com/pages/terms-and-conditions](http://shop.hootsuite.com/pages/terms-and-conditions). Both the Terms and the Privacy Policy apply to your use of the Services. Unless otherwise indicated, all defined terms in this Privacy Policy shall have the same meaning as in the Terms.
+Hootsuite’s Privacy Policy forms part of its wider terms of service. If you are a Hootsuite Enterprise user, these terms of service are available at [https://hootsuite.com/legal/enterprise-terms](https://www.google.com/url?q=https%3A%2F%2Fhootsuite.com%2Flegal%2Fenterprise-terms&sa=D&sntz=1&usg=AFQjCNG5x6D-1DdDGoimSZ8TkP6XR5CJ0A), and/or are subject to a negotiated agreement governing your access to and use of Hootsuite Enterprise Services. If you use or access any other websites, mobile sites, mobile applications, products or services offered by Hootsuite Inc., these terms of service are available at [https://hootsuite.com/legal/terms](https://www.google.com/url?q=https%3A%2F%2Fhootsuite.com%2Flegal%2Fterms&sa=D&sntz=1&usg=AFQjCNFp5A8iEjiqr5B1Z5ZDbLDsCfeCZA). Additional terms may apply to other Services purchased. To make this policy easier to read, any applicable Hootsuite terms of service are referred to as the “ _Terms_ ”. Both the Terms and the Privacy Policy apply to your use of the Services. 
+
+## Hootsuite Data and Customer Content
+
+We collect Personal Information (such as registration and account information) from our customers and users of the Services for our own purposes, such as to provide and administer the Services (“ _Hootsuite Data_ ”).  We’re the data controller in respect of this information. Hootsuite Data is also referred to as “Customer Information” in our Terms with our Enterprise Customers.
+
+We also process Personal Information on behalf of our customers as their data processor, such as content generated, requested or published via the Platforms in accordance with the instructions our customers give us through the Services (including, for example, the information our customers monitor or collect from social media sites like Twitter and Facebook through the Services) (“ _Customer Content_ ”). Our customers control how their Customer Content is collected and used by them. In legal terms this means that our customers are the data controller of their Customer Content. Accordingly, we only use Customer Content to provide the Services to our customers in accordance with the lawful instructions they give us through the Services.
 
 ## About this Privacy Policy
 
-This Privacy Policy covers the treatment of personally identifiable information (“ _Personal Information_ ”) and other non-identifiable information gathered by Hootsuite when you are using or accessing the Services.
+This Privacy Policy describes how and when Hootsuite collects, uses and shares Hootsuite Data when you use the Services. Hootsuite receives your information through our Website, Platforms, Applications and Shop.
 
-This Privacy Policy does not apply to the practices of any third-party services such as Facebook or Twitter that you elect to access through the Platforms (the “ _Supported Platforms_ ”) or to any applications developed by third parties that Hootsuite does not own or control (“ _Third-Party Apps_ ”) or to any third parties who use the Hootsuite Application Programming Interface (API) to perform any function related to the Platforms. As an example, the Privacy Policy does not cover any information or other content you can view via the Services on Supported Platforms (but which was not posted there using the Services) or information you provide to Third-Party Apps accessed via the Services. While we attempt to facilitate access only to those Supported Platforms and Third-Party Apps that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of any Supported Platforms or Third-Party Apps. We encourage you to carefully review the privacy policies of any Supported Platforms or Third-Party Apps you access via the Services.
+Whilst most of this Privacy Policy relates to Hootsuite Data, we also provide some information about how our customers choose to collect and use Customer Content through the Services.  
 
-## Personal information we may collect and use 
+The Services by their nature allow our customers to connect their accounts through the APIs of our various Supported Platforms (such as Twitter, Facebook…) and any applications developed by third parties that Hootsuite does not own or control (“ _Third-Party Apps_ ”) that our customers choose to access.  This Privacy Policy does not cover any information or other content you can view via the Services on Supported Platforms (but which was not posted there using the Services) or information you provide to Third-Party Apps accessed via the Services. While we attempt to facilitate access only to those Supported Platforms and Third-Party Apps that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of any Supported Platforms or Third-Party Apps. We encourage you to carefully review the privacy policies of any Supported Platforms or Third-Party Apps you access via the Services..
 
- _i)                 __Registration and Logged-in Users_
+## Hootsuite Data we receive or collect 
 
-When you first register for a Hootsuite account we collect some personal information about you such as:
+When you first register for a Hootsuite account, and when you use the Services, we collect some Personal Information about you such as:
 
-  * your full name, username, and email address
-  * your password, in connection with your account and your log-in facility
+  * your full name, username, and email address and other contact details
   * the geographic area where you use your computer and mobile devices
   * a unique Hootsuite user ID (an alphanumeric string) which is assigned to you upon registration
   * other optional information as part of your account profile 
-
-
-
-Alternatively, you may register for a Hootsuite account using Supported Platforms such as Facebook, or Twitter and other third-party services such as OpenID. When you register with a Supported Platform or when you link a Supported Platform to your Hootsuite account, we may access other information related to your social profiles. When that occurs, a prompt will inform you of the details that will be accessible by Hootsuite.
-
-When creating a Hootsuite Pro account, we collect your credit card or PayPal information, billing address, and such other information as is required to complete a commercial transaction on our site.
-
-As a registered user of Hootsuite, we may also collect the following: 
-
-  * information you post in the form of messages, conversations, or contributions to discussions exchanged over the Supported Platforms
-  * images or other files that you may publish via our Ow.ly services
+  * your IP Address and, when applicable, timestamp related to your consent and confirmation of consent
+  * other information submitted by you or your organizational representatives via various methods (phone, email, online forms, surveys, in-person meetings, etc)
+  * your billing address and any necessary other information to complete any financial transaction, and when making purchases through the Services, we may also collect your credit card or PayPal information
+  * user generated content (such as messages, posts, comments, pages, profiles, images, feeds or communications exchanged on the Supported Platforms)
+  * images or other files that you may publish via our Services (including the Ow.ly services)
   * information we may receive relating to communications you send us, such as queries or comments concerning our Services
-  * information relating to your real time location, but only where you enable your computer or mobile device to send us location information or when posting through the Supported Platforms
+  * information relating to an individual’s real time location
 
 
 
-Hootsuite uses the collected information for the following general purposes:
+Hootsuite also automatically collects and receives certain information from your computer or mobile device, including the activities you perform on our Website, the Platforms, and the Applications, the type of hardware and software you are using (for example, your operating system or browser), and information obtained from cookies (see “Cookies and Related Technologies” below). For example, each time you visit the Website or otherwise use the Services, we automatically collect your IP address, browser and device type, access times, the web page from which you came, the regions from which you navigate the web page, and the web page(s) you access (as applicable).
 
-  * to identify you when you log in to your account
-  * to enable us to provide the Services to you
-  * to verify transactions you make and for billing, security, and authentication (including security tokens for communication with installed Third-Party Apps)
-  * to analyze the Website, or the other Services and information about our visitors, including research into our user demographics and user behaviour in order to improve our content and Services
-  * to contact you about your account and provide support
-  * to share aggregate (non-identifiable) statistics about users of our Services to prospective advertisers and partners
-  * to keep you informed of information about our Services we think you may find useful or which you have requested from us, provided you have indicated you would like to be contacted for these purposes
+## How we use Hootsuite Data
+
+Hootsuite uses Hootsuite Data for the following general purposes: 
+
+  * to identify you when you login to your account
+  * to enable us to operate the Services and provide them to you
+  * to verify your transactions and for purchase confirmation, billing, security, and authentication (including security tokens for communication with installed Third-Party Apps)
+  * to analyze the Website or the other Services and information about our visitors and users, including research into our user demographics and user behaviour in order to improve our content and Services
+  * to contact you about your account and provide customer service support, including responding to your comments and questions
+  * to share aggregate (non-identifiable) statistics about users of the Services to prospective advertisers and partners
+  * to keep you informed about the Services, features, surveys, newsletters, offers, contests and events we think you may find useful or which you have requested from us
+  * to sell or market Hootsuite products and services to you
+  * to better understand your needs and the needs of users in the aggregate, diagnose problems, analyze trends, improve the features and usability of the Services, and better understand and market to our customers and users
+  * to keep the Services safe and secure
 
 
 
-By submitting information to Hootsuite when registering, you consent to the use of your information for these purposes. 
+We also use non-identifiable information gathered for statistical purposes to keep track of the number of visits to the Services with a view to introducing improvements and improving usability of the Services. We may share this type of statistical data so that our partners also understand how often people use the Services, so that they, too, may provide you with an optimal experience.
 
- _ii)                ___Collection of Personal Information Submitted Voluntarily (Enterprise and Pro users)__  
+## Customer Content we process for our customers
 
-For Hootsuite Enterprise and Pro users only, Hootsuite may gather Personal Information about organizational representatives via various methods (phone, email, online forms, in-person meetings) but only if such Personal Information is submitted voluntarily. Hootsuite may use such Personal Information for sales, marketing, and support of the Services. This Personal Information is never shared with third parties. 
+Hootsuite is a social media management tool. By its nature, Services enable our customers to bring together their social networks and integrate with hundreds of business applications that they already use, all in one place.
 
- _iii)                 _Collection of Personal Information when Placing an Order on the Shop__
+Services help our customers manage social media campaigns, marketing and advertising; engaging audiences; scheduling and publishing messages; and analyze the results.
 
-When you place an order for an item from the Shop, as part of the buying and selling process, Hootsuite collects Personal Information that you give us, such as your name, address, phone number, email address, and credit card information. We use this information to process and fulfill your order, verify your credit card, complete the transaction, or return a purchase. By submitting information to Hootsuite when placing an order on the Shop, you consent to the use of your information for these purposes. We do not use this information for secondary marketing purposes without your consent.
+In particular, the various Services allow our customers to instantly connect to other third party services, including “Supported Platforms” such as Twitter, Facebook, etc.  When our customers link a Supported Platform or a third party service (such as OpenID) to their Hootsuite account or when they register with a Supported Platform through their Hootsuite account, our customers can choose to instantly collect, process, share and access such third party services and Supported Platform via their Hootsuite account (subject to the terms of the license agreements with the Supported Platforms and other third party services).
 
-## System and device information
+In this way, our customers can obtain, use and analyze public Personal Information from Supported Platforms and third party services of their choosing, and also create, input, submit, post, transmit, store, view or display Personal Information through the functionality in the Services. Such information can include Personal Information of all types, including but not limited to the following categories:
 
-Hootsuite automatically collects and receives certain information from your computer or mobile device, including the activities you perform on our Website, the Platforms, and the Applications, the type of hardware and software you are using (for example, your operating system or browser), and information obtained from cookies (see “Cookies and Related Technologies” below). For example, each time you visit the Website or otherwise use the Services, we automatically collect your IP address, browser and device type, access times, the web page from which you came, the regions from which you navigate the web page, and the web page(s) you access (as applicable) (collectively referred to as “ _traffic data_ ”). We may link this traffic data to your unique Hootsuite user ID to better understand your needs and the needs of users in the aggregate, diagnose problems, analyze trends, provide services, improve the features and usability of our Services, and better understand and market to our customers and website users.
+  * user generated content (such as messages, posts, comments, pages, profiles, images, feeds or communications exchanged on the Supported Platforms)
+  * contact details (such as name, email address, telephone number)
+  * additional individual information (such as age, gender, employer, profession, geographic location, education information, financial status, habits and preferences)
+  * information relating to individual’s real time location 
 
-Hootsuite also makes use of non-identifiable information gathered for statistical purposes to keep track of the number of visits to the Services and Website pages with a view to introducing improvements and improve usability of our Services. This also includes where Hootsuite tracks certain metrics such as clicks on URLs that have been shortened via use of the Ow.ly service. We may share this type of statistical data so that our partners also understand how often people use our Services, so that they, too, may provide you with an optimal experience. Your IP address and other relevant non-identifiable information may be used in order to trace any fraudulent or criminal activity or any activity in violation of the Terms. 
 
-## Cookies and related technologies 
+
+## Consent
+
+By using any of the Services, or submitting or collecting any Personal Information via the Services, you consent to the collection, transfer, storage disclosure, and use of your Personal Information in the manner set out in this Privacy Policy. If you do not consent to the use of your Personal Information in these ways, please stop using the Services.
+
+## Cookies and related technologies
 
 Hootsuite uses tracking technology (“ _cookies_ ”) on the Website, in the Applications, and in the Platforms, including mobile application identifiers and a unique Hootsuite user ID to help us recognize you across different Services, to monitor usage and web traffic routing for the Services, and to customize and improve the Services. By visiting the Website or using the Services you agree to the use of cookies in your browser and HTML-based emails. Cookies are small text files placed on your device when you visit a web site, in order to track use of the site and to improve your user experience.
 
@@ -109,23 +129,23 @@ The Services use “session cookies”, which improve your user experience by st
 
 ### Performance and Remarketing Cookies
 
-Partners who help us serve advertising on and off the Website and analytics companies may also put cookies on your device. We use several third-party vendors to help deliver ads for relevant Hootsuite products and services to you when you visit certain pages on our Website and then visit certain third-party sites. Below is information about one such vendor. Please note that this Privacy Policy covers only our use of cookies and does not include use of cookies by any third parties.
+Partners who help us serve advertising on and off the Website and analytics companies may also put cookies on your device. We use several third-party vendors to help deliver ads for relevant Hootsuite products and services to you when you visit certain pages on our Website and then visit certain third-party sites. We may share with third-party ad partners a cryptographic hash of a common account identifier (such as an email address), to help us measure and tailor ads and services provided to you. Below is information about one such vendor. Please note that this Privacy Policy covers only our use of cookies and does not include use of cookies by any third parties.
 
- _i)                 __Google Analytics_  
+_i)                 _ _Google Analytics_  
 
 Hootsuite uses a specific cookie in order to facilitate the use of Google Universal Analytics for users logged-in to the Applications or the Platforms (“Logged-In User). If you are a Logged-In User, Hootsuite may use your Hootsuite user ID in combination with Google Universal Analytics and Google Analytics to track and analyze the pages of the Services you visit.  We do this only to better understand how you use the Website and the other Services, with a view to offering improvements for all Hootsuite users; and to tailor our business and marketing activities accordingly, both generally and specifically to you. Google Analytics cookies do not provide Hootsuite with any Personal Information.
 
 [Learn more about privacy at Google and to opt-out of this feature by installing the Google Analytics Opt-out Browser Add-on](http://www.google.com/analytics/learn/privacy.html).
 
- _ii)                __Google Display Advertising_
+_ii)                _ _Google Display Advertising_
 
 Additionally, Hootsuite uses Google Analytics code that allows for certain forms of display advertising and other advanced features. Subject to change, the Google Display Advertising features Hootsuite currently uses are Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting.
 
 These features are used to advertise online; to allow third-party vendors, including Google, to show you advertising across the Internet; to allow Hootsuite and third-party vendors, including Google, to use first-party cookies (such as the Google Analytics cookie) and third-party cookies together to inform, optimize, and serve ads based on your past visits to the Website and to report how ad impressions, uses of ad services, and interactions with these ad impressions and ad services are related to visits to the Website. Data from Google's interest-based advertising or third-party audience data (such as age, gender, and interests) is also combined with Google Analytics to better understand the needs of Hootsuite users and to improve the Services.
 
-You may opt out of such display advertising at any time by visiting your [Google Ads Settings page](https://www.google.com/settings/ads) or by installing and running the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) .
+You may opt out of such display advertising at any time by visiting your [Google Ads Settings page](https://www.google.com/settings/ads) or by installing and running the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) .
 
-Hootsuite uses other third-party performance and remarketing cookies, and further information on those third-party cookies can be obtained by [contacting us](mailto:legal@hootsuite.com).
+Hootsuite uses other third-party performance and remarketing cookies, and further information on those third-party cookies can be obtained by [contacting us](mailto:privacy@hootsuite.com).
 
 Hootsuite may also use related technologies including web beacons, bugs, pixels, and software tokens in order to facilitate your use of the Services. Most notably, the Services use software tokens (stored securely on Hootsuite-controlled servers) in order to facilitate the logging in to and the functioning of both the Supported Platforms and Third-Party Apps.
 
@@ -133,9 +153,9 @@ Most computer and some mobile web browsers automatically accept cookies but, if 
 
 ## When we may share Personal Information
 
-Except as provided in the next paragraphs and elsewhere in this Privacy Policy, Hootsuite does not divulge any Personal Information gathered via the Services to third parties.
+Except as provided in this Privacy Policy, Hootsuite does not divulge any Personal Information gathered via the Services (including Customer Content) to third parties.
 
-Notwithstanding anything in the Privacy Policy to the contrary, we may share any information we have collected about you or that you have submitted:
+Notwithstanding anything in the Privacy Policy to the contrary, we may share any information we have collected about you or Customer Content:
 
 (1) when you explicitly consent to the disclosure of such information to a third party when connecting to a third-party service that asks you if you consent to such sharing;
 
@@ -149,7 +169,7 @@ Notwithstanding anything in the Privacy Policy to the contrary, we may share any
 
 (6) if we are acquired by or merged with another entity (in which case we will require such entity to assume our obligations under this Privacy Policy or inform you that you are covered by a new privacy policy); and
 
-(7) if this information is not private, is aggregated or is otherwise non-personal information, such as your public user profile information and related public data (such as Tweets, likes, etc.) or the number of users who clicked on a particular link (even if only one did so).
+(7) if this information is not private, is aggregated or is otherwise non-Personal Information, such as your public user profile information and related public data (such as Tweets, likes, etc.) or the number of users who clicked on a particular link (even if only one did so).
 
 Subject to obligations consistent with this Privacy Policy, we may also disclose information to our affiliates, agents, contractors, and service providers in order to facilitate the functioning of the Services or to perform tasks that are integral to the Services, such as processing transactions, fulfilling requests for information, or providing support services or other tasks, from time to time. Information may also be transferred from Hootsuite to the third parties in control of the Supported Platforms, but only to the extent required in order for the Services to function properly.
 
@@ -161,7 +181,7 @@ Protecting the safety of children when they use the Internet is very important t
 
 We use industry best practices to keep any information collected and/or transmitted to the Supported Platforms or Third-Party Apps secure. This includes the use of HTTPS with TLS (Transport Layer Security), which encrypts all transmitted data, and OAuth 2.0 protocols for authentication and data transfer to Supported Platforms and Third-Party Apps.
 
-Certain Personal Information, most notably Hootsuite log-in details, is encrypted during transmission using TLS. Once validated within our system, passwords are deleted from our system. In addition, Hootsuite uses third-party vendors and hosting partners such as [Amazon](http://aws.amazon.com/) to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. These vendors have been selected for their high standards of both physical and technological security, including ISO and SSAE16 certifications.
+Certain Personal Information, most notably Hootsuite log-in details, is encrypted during transmission using TLS. Once validated within our system, passwords are deleted from our system. In addition, Hootsuite uses third-party vendors and hosting partners such as [Amazon](http://aws.amazon.com/) to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. These vendors have been selected for their high standards of both physical and technological security, including ISO and SSAE16 certifications.
 
 When payments are processed via credit card, Hootsuite uses third-party vendors that are PCI-DSS Compliant. At no point does Hootsuite have access to your credit card information.
 
@@ -171,30 +191,45 @@ If you are a Logged-in User, it is advisable that you log out of your account at
 
 ## Information storage and international transfers
 
-Hootsuite aligns itself with the Safe Harbor privacy principles as set forth by the U.S. Department of Commerce regarding the collection, storage, use, transfer and other processing of Personal Data transferred from the European Economic Area (“EEA”) or Switzerland to the United States. While Hootsuite itself is not certified by the US Department of Commerce, the information that you submit via the Services is hosted on secure servers by Amazon Web Services (for Services other than the Shop) or by Shopify (for the Shop) located in the United States that are certified under the Safe Harbor Scheme for transfers of Personal Information outside the European Economic Area.   Safe Harbor is an EU-recognized program that provides a way for US businesses to demonstrate that they provide adequate protection for personal information transferred to it according to EU data protection standards. Further information on Safe Harbor is available from [the US Department of Commerce's website](http://export.gov/safeharbor/).
+Hootsuite Inc., the entity which provides the Services, is a Canadian company with its head-office located in Vancouver, British Columbia. For the purposes of EU data protection law, Canada is considered a country which provides adequate protections for Personal Information, as confirmed by the European Commission in  _Commission Decision 2002/2/EC_.
+
+The Services are mainly provided from our offices in Canada. However, by the very nature of the Services, the data that is viewed, collected, stored or posted on or through the Services also needs to flow from wherever you are located in the world, to where our Supported Platforms are storing the same data (i.e. in most cases, in the United States). In addition, Hootsuite uses third-party service providers (such as managed hosting providers, card processors, CRM systems, sub-processors of Customer Content and technology partners) to provide the necessary hardware, software, networking, storage and other services that we use to operate the Services. These third party providers may process, or store, the same Customer Content on servers outside of the EEA, including in Canada or the US.
+
+By using any of the Services, or submitting or collecting any Personal Information via the Services, you authorize Hootsuite and its authorized service partners to use and process Customer Content and Hootsuite Data (including any Personal Information) in these countries. Please be aware that the privacy protections and the rights of authorities and Government agencies to access your Personal Information in some of these countries may not be equivalent to those in your country.
+
+### For our customers with a principal location in the EU:
+
+If you primarily use the Services within the EU, we will process Customer Content (which may include Personal Information) as a data processor on your behalf. Under EU law, you are considered to be the data controller of the Customer Content, and as such you are responsible for complying with applicable data protection laws in respect of the processing of Customer Content and the lawful instructions you give us.
+
+To facilitate the lawful transfer by you of your Customer Content (as a data controller) through the Services to outside the EEA, Hootsuite is offering its EU customers a data processing agreement as an addendum to their existing Hootsuite agreement (“ _Data Processing Addendum_ ”). This incorporates the European Commission’s Standard Contractual Clauses (processors) of 2010 (also known as “model processor clauses” or "SCC 2010”).
+
+Please note that the Data Processing Addendum only applies to the extent there is not another legal basis in place to validate the transfer of Personal Information to outside the EEA.
+
+The Data Processing Addendum and some FAQs are available to all of our Customers.  If you would like to incorporate the Data Processing Addendum into your existing agreement with Hootsuite, please [email us](mailto:hootsuite-dpa@hootsuite.com) and we will promptly send you Hootsuite’s Data Processing Addendum for you to complete, sign and return to us.
+
+If you have any questions, please feel free to [contact us](mailto:privacy@hootsuite.com).
 
 ## Email preferences
 
-Hootsuite uses email as the primary mode of communications with our users. We want to respect your privacy by only sending emails of interest to you. You can manage your email preferences, such as opting-out or unsubscribing from emails sent by Hootsuite, by adjusting your preferences in your account settings. You may also opt out or unsubscribe from any future email communications from within a link provided in each email correspondence that we send you.
+You may opt out of marketing communications sent by Hootsuite by managing your email preferences on our [Preferences Management page](https://socialbusiness.hootsuite.com/preferences-management.html), or by following the unsubscribe instructions included in each marketing email.
 
 ## Your rights
 
-You can [contact us](mailto:legal@hootsuite.com) to obtain a copy of the Personal Information held about you by us. This may be subject to a fee not exceeding any prescribed fee permitted by applicable law. You can also ask us to correct and, where relevant, erase that information. Please note that certain Personal Information may need to be retained by Hootsuite for a period of time following cancellation of your account where this is necessary for our legitimate business purposes or required or authorized by applicable law. As mentioned above you have a right to change your email preferences at any time.
+You can [contact us](mailto:privacy@hootsuite.com) to obtain a copy of the Personal Information held about you by us. This may be subject to a fee not exceeding any prescribed fee permitted by applicable law. You can also ask us to correct and, where relevant, erase that information. Please note that certain Personal Information may need to be retained by Hootsuite for a period of time following cancellation of your account where this is necessary for our legitimate business purposes or required or authorized by applicable law. As mentioned above you have a right to change your email preferences at any time.
 
 You should be aware that Hootsuite acts as a conduit between our users and the various Supported Platforms and Third-Party Apps. In several instances, the content published via Hootsuite will not be in Hootsuite’s custody or control, and any content that has been shared by you through any Supported Platform or Third-Party Apps via the Services may continue to be available to third parties and the public at large, as this content is now under the control of the operators of the Supported Platforms and/or the Third-Party Apps.
 
-## Contacting us
-
 If you have any questions about this Privacy Policy, please contact:
 
-[General Counsel, Hootsuite Legal Services](mailto:legal@hootsuite.com)
+[Hootsuite Legal Services](mailto:privacy@hootsuite.com)
 
 or:
 
-General Counsel, Hootsuite Legal Services  
-c/o Hootsuite Media Inc.  
+Hootsuite Legal Services  
+c/o Hootsuite Inc.  
 5 East 8th Avenue  
 Vancouver, BC V5T 1R6  
-Canada 
+Canada   
 
-© Hootsuite Media 2015
+
+© Hootsuite Inc. 2017
