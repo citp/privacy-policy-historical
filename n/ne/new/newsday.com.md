@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630005834id_/http%3A//www.newsday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212194443id_/http%3A//www.newsday.com/privacy) for the most accurate reproduction.*
 
 # Newsday LLC Privacy Policy | Newsday
-
-[Services](https://web.archive.org/services)
 
 Newsday LLC (“Newsday” or “we”) strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience on the website that linked you to this Policy (the “site”). We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number or other information about you that could potentially identify you) subject to the terms of this Policy. Please note this Policy applies only to information collected by Newsday through the site and does not impact information collected or used by Newsday or its Affiliates (defined below) through other means. 
 
