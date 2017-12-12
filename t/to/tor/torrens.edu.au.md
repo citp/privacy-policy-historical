@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrens.edu.au privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613130157id_/https%3A//www.torrens.edu.au/policies-and-forms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrens.edu.au privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212041718id_/http%3A//www.torrens.edu.au/policies-and-forms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Torrens University
 
@@ -93,12 +93,6 @@ Read More
 **Revisions to the Privacy Statement**
 
 The University reserves the right to revise this Privacy Statement or any part of it from time to time. Please review this Privacy Statement periodically for changes.
-
-Read More
-
-**Contact us**
-
-If you have any questions or concerns about the University’s Privacy Statement or its implementation, please [contact us](https://web.archive.org/contact-us) or call +61 8 8113 7888.
 
 Read More
 
@@ -220,4 +214,11 @@ Your continued use of our website, services or provision of further personal inf
 
 ### Contact us
 
-If you have any questions or concerns about the University’s Privacy Statement or its implementation, please [contact us](https://web.archive.org/contact-us) or call +61 8 8113 7888.
+All privacy enquiries and complaints should be directed in writing to the Privacy Officer using the [Access to Personal Information form](https://laureate-au.blackboard.com/bbcswebdav/xid-7823931_1). Torrens University will respond to a complaint within a reasonable period of time. The contact details for Torrens University are:
+
+Privacy Officer  
+Torrens University Australia  
+Level 24, 680 George Street  
+Sydney NSW 2000  
+[www.torrens.edu.au](http://www.torrens.edu.au/)  
+[privacy@torrens.edu.au](mailto:privacy@torrens.edu.au)
