@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the thesimpledollar.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614204219id_/http%3A//www.thesimpledollar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesimpledollar.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212151540id_/https%3A//www.thesimpledollar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Simple Dollar
 
-This is just a standard, boring, boilerplate privacy policy, virtually identical to any other website on the planet. Legal agreements require me to have such wonderfully exciting legalese, so just bear with me here.
+At The Simple Dollar, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit TheSimpleDollar.com, and how we safeguard your information.
 
-The privacy of our visitors to TheSimpleDollar.com is important to us.
+**Log Files:** As with most other websites, we collect and use the data contained in log files. The information in the log files includes your internet protocol (IP) address, your internet service provider (ISP), the browser you used to visit our site, the time you visited our site, and which pages you visited throughout our site.
 
-At TheSimpleDollar.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit TheSimpleDollar.com, and how we safeguard your information. We never sell your personal information to third parties.
+**Cookies:** We use cookies to give you the best experience possible on our webiste. For more information on cookies, visit: <http://www.allaboutcookies.org/>.
 
-**Log Files** As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+_Essential cookies:_ Essential cookies are necessary for you to navigate and move around the site, and don’t store any information that could be used for advertising purposes. Without essential cookies, our website wouldn’t function properly.
 
-**Cookies and Web Beacons** We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+_Customization cookies:_ These cookies store information, such as your personal preferences, and use that to tailor an experience that’s unique to you. This could include only showing you a pop-up once in your visit, saving your language preferences, or allowing you to automatically log-in to some of our features.
 
-We also use third party advertisements on TheSimpleDollar.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+_Analytics cookies:_ Analytics cookies capture anonymous data so that we can see trends and improve our website experience. These allow us to test different designs, and help us to identify breakage if a part of our site isn’t working.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+_Ad cookies:_ Some of our third party advertisers may also use cookies or web beacons when they advertise on our site. These will send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, information on whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-Please note that The Simple Dollar has financial relationships with some of the merchants mentioned here.  The Simple Dollar may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the said merchant.
+**_By continuing to use our site, you are agreeing to the placement of cookies on your device. You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you interact with our site as well as other websites._**
