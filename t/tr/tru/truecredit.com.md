@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154623id_/http%3A//www.truecredit.com/privacy-policy.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213085325id_/http%3A//www.truecredit.com/privacy-policy.html%23privacy) for the most accurate reproduction.*
 
 # Understand Your Credit Report | TrueCredit
 
@@ -70,7 +70,7 @@ TrueCredit may amend this Privacy Statement at any time, and without advance not
 
 In the event of an acquisition of all or part of TrueCredit by another company, or in the event that TrueCredit were to sell or dispose of all or a part of the business, the acquirer would have access to the information maintained by the TrueCredit business, which could include your personal information, subject to applicable law. The acquirer's privacy policy might be different than TrueCredit's privacy policy, or the acquirer might choose to amend TrueCredit's privacy policy. You will be notified by email if, as a result of such acquisition, TrueCredit's privacy policy is materially changed or if the acquirer's privacy policy is materially different than TrueCredit's privacy policy. In connection with such notice, you will be given an opportunity to inform the acquirer that you do not consent to the use or disclosure by the acquirer of your personal information in accordance with such new or revised privacy policy. 
 
-If you would like at any time to review our then-current Privacy Statement, please visit [http://www.TrueCredit.com/privacy](https://web.archive.org/web/20170605143448id_/http://www.truecredit.com/privacy-policy.html#privacy)
+If you would like at any time to review our then-current Privacy Statement, please visit [http://www.TrueCredit.com/privacy](https://web.archive.org/web/20171213085325id_/http://www.truecredit.com/privacy-policy.html#privacy)
 
 ###  The Use of Cookies 
 
