@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3resource.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610041345id_/https%3A//www.w3resource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3resource.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213230454id_/https%3A//www.w3resource.com/privacy.php) for the most accurate reproduction.*
 
 # About privacy policy of w3resource
 
