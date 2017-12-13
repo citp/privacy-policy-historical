@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiiudaily.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614141904id_/http%3A//nintendotoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiiudaily.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213223756id_/http%3A//nintendotoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NintendoToday
 
