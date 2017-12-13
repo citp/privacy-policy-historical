@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthcreationsnetwork.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209215239id_/http%3A//www.wealthcreationsnetwork.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthcreationsnetwork.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213173830id_/http%3A//wealthcreationsnetwork.com/privacypolicy.php) for the most accurate reproduction.*
 
 # WCN A Magnetic Lead Generation, Social Viral Marketing, and Training System
 
