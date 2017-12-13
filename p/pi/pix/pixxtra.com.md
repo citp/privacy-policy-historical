@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixxtra.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613091233id_/http%3A//www.xxxblackbook.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixxtra.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213212031id_/http%3A//www.xxxblackbook.com/main/privacy_policy) for the most accurate reproduction.*
 
 # XXX BlackBook - Adult Dating Website - Find Sexy Singles, Men, Women, Couples For Local Sex, Dating, Online Dating
 
