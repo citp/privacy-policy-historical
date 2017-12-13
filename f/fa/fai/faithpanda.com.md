@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithpanda.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044916id_/http%3A//www.faithpanda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithpanda.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213124656id_/http%3A//www.faithpanda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • FaithPanda
 
@@ -73,6 +73,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at support@faithpanda.com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on October 17, 2016
