@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseshare.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152759id_/http%3A//baseshare.com/site/page/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseshare.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213022027id_/http%3A//baseshare.com/site/page/view/privacy) for the most accurate reproduction.*
 
 # BaseShare - Privacy Policy
 
@@ -13,6 +13,8 @@ Any Content uploaded by you to BaseShare becomes published Content and is not co
 BaseShare uses IP addresses to measure, analyze, and identify usage and trends, administer the website and collect information for its databases.
 
 A cookie is a piece of data stored on your hard drive containing information about you. Cookies identify you for our database, but provide no information other than that which you have already provided BaseShare. You may reject or delete the cookie, however, you may not be able to access your uploaded files if you have not already created an account. Cookies also can enable BaseShare to track and target your interests to enhance your experience on our website.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 ## User Information
 
