@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escortsmeet.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610022425id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escortsmeet.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213053653id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
 # Legal Agreement
 
