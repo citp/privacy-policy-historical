@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the financialpolicycouncil.org privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327222433id_/http%3A//www.financialpolicycouncil.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialpolicycouncil.org privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213060957id_/http%3A//www.financialpolicycouncil.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Financial Policy Council
+# Privacy Policy | Financial Policy Council New York
 
 ## Security Policy
 
