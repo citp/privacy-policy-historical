@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pichunter.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622193504id_/http%3A//www.pichunter.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pichunter.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213235239id_/http%3A//www.pichunter.com/terms/privacy) for the most accurate reproduction.*
 
 # Pichunter
 
