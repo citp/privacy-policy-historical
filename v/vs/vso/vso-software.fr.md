@@ -1,45 +1,14 @@
-> *The following text is extracted and transformed from the vso-software.fr privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106232333id_/http%3A//www.vso-software.fr/legal_disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vso-software.fr privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213095144id_/http%3A//www.vso-software.fr/legal_disclaimer.php) for the most accurate reproduction.*
 
-# VSO-Software CD and DVD burning software
+# Legal Disclaimer
 
-By visiting this web site, you confirm that you have read this disclaimer and that you totally agree to the following general usage conditions. If not, please cancel your visit immediately. 
-
-NOTICE SPECIFIC TO DOCUMENTS AVAILABLE ON THIS WEB SITE
-
-VSO-Software permits visitors and customers to use the web site document (logos, slogans, screen shots, copyrighted designs, or content) for private use and with their origin clearly mentioned. The use of such document for any other purpose is expressly prohibited by law, and may result in severe penalties.
-
-EDITOR RESPONSIBILITY
-
-The editor can not be held liable for user damage, either express or implied, linked to using any part of this web site.
-
-The user is responsible for all damage, direct or indirect, material or immaterial done by his/her own fault to VSO-Software and/or to any third party using this web site and related services. The user can be fined to pay indemnity to VSO-Software for any damages caused.
-
-VSO-Software can not be held responsible for facts independent of VSO-Software, such as but not limited to network access break, hijacking, and/or data loss.  
+By visiting this web site, you confirm that you have read this disclaimer and that you totally agree to the following general usage conditions. If not, please cancel your visit immediately. NOTICE SPECIFIC TO DOCUMENTS AVAILABLE ON THIS WEB SITE VSO-Software permits visitors and customers to use the web site document (logos, slogans, screen shots, copyrighted designs, or content) for private use and with their origin clearly mentioned. The use of such document for any other purpose is expressly prohibited by law, and may result in severe penalties. EDITOR RESPONSIBILITY The editor can not be held liable for user damage, either express or implied, linked to using any part of this web site. The user is responsible for all damage, direct or indirect, material or immaterial done by his/her own fault to VSO-Software and/or to any third party using this web site and related services. The user can be fined to pay indemnity to VSO-Software for any damages caused. VSO-Software can not be held responsible for facts independent of VSO-Software, such as but not limited to network access break, hijacking, and/or data loss.  
 VSO-Software cannot be held as liable for any use not in compliance with these general usage conditions.  
 VSO-Software cannot be held responsible for any content and/or policies of any linked web sites, in particular advertiser links.  
-VSO-Software can not be held responsible in any way for any judicial proceedings brought against the user either directly or indirectly from using any VSO-Software services/products 
+VSO-Software can not be held responsible in any way for any judicial proceedings brought against the user either directly or indirectly from using any VSO-Software services/products PRIVACY POLICY 
 
-PRIVACY POLICY 
+We are aware of the growing concern of Internet users regarding the widespread distribution of their personal information, and we take great measures to protect our customers' and visitors' privacy. We do not request, collect or store personal information if you browse our Web site. If you contact us regarding one of our products, we never sell, trade, or otherwise share any of your private information with any other company or organization. We also do not send you e-mail or postal mail unrelated to the product you are interested. A cookie is a piece of data stored on your hard drive that reference information about you on our servers. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use cookies to provide an enhanced browsing experience on our web site. If you reject the cookie, you may have trouble accessing some features on our web site. This web site may contain links to other sites. VSO Software SARL is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, ensure that any information submitted on our site will be kept confidential. If you have any questions or concerns, please contact us using the form in our support section. 
 
-We are aware of the growing concern of Internet users regarding the widespread distribution of their personal information, and we take great measures to protect our customers' and visitors' privacy. We do not request, collect or store personal information if you browse our Web site. 
-
-If you contact us regarding one of our products, we never sell, trade, or otherwise share any of your private information with any other company or organization. We also do not send you e-mail or postal mail unrelated to the product you are interested.
-
-A cookie is a piece of data stored on your hard drive that reference information about you on our servers. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use cookies to provide an enhanced browsing experience on our web site. If you reject the cookie, you may have trouble accessing some features on our web site.
-
-This web site may contain links to other sites. VSO Software SARL is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, ensure that any information submitted on our site will be kept confidential. If you have any questions or concerns, please contact us using the form in our support section.
-
-Personal information is held by VSO-Software in a client file. You can access to your personal data information, ask for modification, rectification and/or deletion (article 34 of the French law “Informatique et Liberté”) by contacting: [info@vsosoftware.fr](mailto:info@vsosoftware.fr)
-
-COPYRIGHT
-
-VSO-Software products may only be used to create backup copies or private copies/fair use copies (if allowed by your national laws) and for no other purpose. By downloading our software you agree to use it only as permitted.  
+Personal information is held by VSO-Software in a client file. You can access to your personal data information, ask for modification, rectification and/or deletion (article 34 of the French law “Informatique et Liberté”) by contacting: info(at)vsosoftware.fr COPYRIGHT VSO-Software products may only be used to create backup copies or private copies/fair use copies (if allowed by your national laws) and for no other purpose. By downloading our software you agree to use it only as permitted.  
 VSO-Software cannot be held responsible for the fraudulent use of any of its software and/or services.  
-The customer/user will be held solely responsible for any acts; such as copyright infringement. VSO-Software reminds you that you have to respect any national copyright act, such as DMCA, EUCD, TRIPs agreements or others.
-
-The usage of our software is granted to everyone with the limit of reasonable trial time, or unlimited time for registered users.
-
-VSO-Software can modify these conditions without prior notice and at its sole discretion.  
-
+The customer/user will be held solely responsible for any acts; such as copyright infringement. VSO-Software reminds you that you have to respect any national copyright act, such as DMCA, EUCD, TRIPs agreements or others. The usage of our software is granted to everyone with the limit of reasonable trial time, or unlimited time for registered users. VSO-Software can modify these conditions without prior notice and at its sole discretion.
