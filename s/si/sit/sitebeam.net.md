@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitebeam.net privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624110118id_/http%3A//silktide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitebeam.net privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213230213id_/http%3A//silktide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -21,7 +21,7 @@ We measure visitors to our website using Google Analytics. This records what pag
 
 The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better.
 
-You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html "Google Analytics' privacy policy") or [opt out if you wish](https://tools.google.com/dlpage/gaoptout "How to opt out of google analytics").
+You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html "Google Analytics' privacy policy") or [opt out if you wish](https://tools.google.com/dlpage/gaoptout "How to opt out of Google Analytics").
 
 ## Facebook, Twitter and other social networks
 
