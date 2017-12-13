@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pick34.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626232632id_/http%3A//www.pick34.com/info.php%3FR%3DP34%26L%3D%26H%3D1%26P%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pick34.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213204157id_/http%3A//pick34.com/info.php%3FR%3DP34%26L%3D%26H%3D1%26P%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Statement - - - Pick34.com - Pick34.com - Lottery Software 4 Winners
 
