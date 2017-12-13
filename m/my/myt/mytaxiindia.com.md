@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytaxiindia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104644id_/http%3A//www.mytaxiindia.com/privacy-and-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytaxiindia.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213233750id_/http%3A//www.mytaxiindia.com/privacy-and-policy.php) for the most accurate reproduction.*
 
 # myTaxiIndia
 
@@ -73,3 +73,5 @@ If you believe that any information we are holding on you is incorrect or incomp
 **Address :** 25B, GROUND FLOOR, TOWER B, SPAZE I-Tech PARK, SECTOR-49, SOHNA ROAD, GURGAON(INDIA)-122001  
 **Telephone No. :** +91-124-4225722  
 **E-Mail ID :** booking@mytaxiindia.com
+
+﻿ 
