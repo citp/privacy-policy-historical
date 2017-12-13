@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikicfp.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531181122id_/http%3A//www.wikicfp.com/cfp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikicfp.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213051728id_/http%3A//wikicfp.com/cfp/privacy.jsp) for the most accurate reproduction.*
 
 # WikiCFP : Call For Papers of Conferences, Workshops and Journals
 
