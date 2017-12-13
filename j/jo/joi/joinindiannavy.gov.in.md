@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joinindiannavy.gov.in privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508212523id_/http%3A//www.joinindiannavy.gov.in/en/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinindiannavy.gov.in privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213213051id_/https%3A//www.joinindiannavy.gov.in/en/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Join Indian Navy
 
