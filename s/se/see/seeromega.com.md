@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seeromega.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629174017id_/http%3A//seeromega.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeromega.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213062541id_/http%3A//seeromega.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SeerOmega
 
@@ -137,3 +137,5 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 **Contacting Us**
 
 If there are any questions regarding this privacy policy, you may contact us using the information below. theseeromega@gmail.com
+
+__
