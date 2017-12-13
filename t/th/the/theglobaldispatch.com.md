@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theglobaldispatch.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630062014id_/http%3A//www.theglobaldispatch.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theglobaldispatch.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213155334id_/http%3A//www.theglobaldispatch.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | The Global Dispatch
 
@@ -59,4 +59,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact The Global Dispatch using the information below:
 
-theglobaldispatch@gmail.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
