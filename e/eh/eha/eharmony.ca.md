@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.ca privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502163721id_/http%3A//www.eharmony.ca/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.ca privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213235602id_/https%3A//www.eharmony.ca/privacy/statement) for the most accurate reproduction.*
 
 # eHarmony Canada | Read Privacy Policy For Our Dating Site
 
@@ -26,7 +26,7 @@ The types of information that we collect fall under two general categories: pers
   * _Online Survey Data._ We may periodically conduct voluntary member surveys. We encourage our members to participate in such surveys because they provide us with important information regarding the improvement of our services. You may also volunteer for certain surveys that we may offer to our users, and any additional rules regarding the conduct of such surveys will be disclosed to you prior to your participation. We do not link the survey responses to any PII, and all responses are anonymous. 
   * _Information Regarding Your Friends._ We encourage you to refer a friend to our Singles service by sending us a friend’s name and email address. We will keep this information in our database, and send that person a one-time e-mail containing your name and inviting them to visit our site. This e-mail will also include instructions on how to remove their information from our database. You agree that you will not abuse this feature by entering names and addresses of those who would not be interested in eHarmony’s services. For some of our services, you may also give gift memberships to your friends, in which case we will use your friends’ e-mail address that you provide in order to deliver the gift.
   * _Public Forums._ Our Advice blog contains posts which are relevant to dating and relationships and is available to our users and visitors. Any information that is disclosed in the comments section of any Advice post becomes public information and you should exercise caution when deciding to disclose any PII. Please consult the community guidelines for each eHarmony discussion board when posting comments on them for other specific information. To request removal of your personal information from our blog, contact us at [ehadvicealerts@eHarmony.com](mailto:ehadvicealerts@eHarmony.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so. 
-  * _Use for Research._ In addition to the uses outlined above, by using our site, you agree to allow us to anonymously use the information from you and your experiences to continue our research into successful relationships. This research, conducted by psychologists and behavior research scientists, may be published in academic journals. However, all of your responses will be kept anonymous, and no PII will be published. You can find out more about the standards we follow in conducting scientific research by clicking [here](http://www.hhs.gov/ohrp/humansubjects/guidance/belmont.html).
+  * _Use for Research._ In addition to the uses outlined above, by using our site, you agree to allow us to anonymously use the information from you and your experiences to continue our research into successful relationships. This research, conducted by psychologists and behavior research scientists, may be published in academic journals. However, all of your responses will be kept anonymous, and no PII will be published. You can find out more about the standards we follow in conducting scientific research by clicking [here](https://www.hhs.gov/ohrp/humansubjects/guidance/belmont.html).
 
 
 
@@ -51,7 +51,7 @@ The types of information that we collect fall under two general categories: pers
 
 ## Third-Party Advertising
 
-We may use third-party advertising agencies or other service providers to serve ads on our website on behalf of eHarmony or third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and web beacons to measure advertising effectiveness. Any information that these third parties collect via cookies and web beacons is completely anonymous. Some of these third-party advertising agencies may be members of the Network Advertising Initiative, which offers you the option to opt out of ad targeting from its member agencies by following the procedures listed [here](http://www.networkadvertising.org/managing/opt_out.asp).
+We may use third-party advertising agencies or other service providers to serve ads on our website on behalf of eHarmony or third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and web beacons to measure advertising effectiveness. Any information that these third parties collect via cookies and web beacons is completely anonymous. Some of these third-party advertising agencies may be members of the Network Advertising Initiative, which offers you the option to opt out of ad targeting from its member agencies by following the procedures listed [here](https://www.networkadvertising.org/managing/opt_out.asp).
 
 We will only share your information with third parties in the ways defined in this privacy statement.
 
@@ -76,7 +76,7 @@ You may use the following options for removing your information, including an un
 eHarmony, Inc.  
 P.O. Box 241810  
 Los Angeles, CA 90024 USA
-  3. For the eHarmony Singles service, select our [Help link](http://help-singles.eharmony.ca/app/answers/list_popular/?) from your account home page and search our [FAQ's](http://help-singles.eharmony.ca/app/home) to find the answer you are looking for, or [send us an e-mail](https://help-singles.eharmony.ca/app/answers/detail/a_id/1543/kw/contact/r_id/166) and our Customer Care agents will be happy to assist you; or
+  3. For the eHarmony Singles service, select our [Help link](https://help-singles.eharmony.ca/app/answers/list_popular/?) from your account home page and search our [FAQ's](https://help-singles.eharmony.ca/app/home) to find the answer you are looking for, or [send us an e-mail](https://help-singles.eharmony.ca/app/answers/detail/a_id/1543/kw/contact/r_id/166) and our Customer Care agents will be happy to assist you; or
   4. For any services that allow you to control which e-mails you receive, go to the e-mail settings page from your account home page, and un-check the undesired promotions.
 
 
@@ -85,7 +85,7 @@ Los Angeles, CA 90024 USA
 
 eHarmony provides users the following options for changing and modifying information previously submitted, , including deletion of your personal information. 
 
-  1. For the eHarmony Singles service, select our [Help link](http://help-singles.eharmony.ca/app/answers/list_popular/?) from your account home page and search our [FAQ's](http://help-singles.eharmony.ca/app/home) to find the answer you are looking for, or [send us an e-mail](https://help-singles.eharmony.ca/app/answers/detail/a_id/1543/kw/contact/r_id/166) and our Customer Care agents will be happy to assist you;
+  1. For the eHarmony Singles service, select our [Help link](https://help-singles.eharmony.ca/app/answers/list_popular/?) from your account home page and search our [FAQ's](https://help-singles.eharmony.ca/app/home) to find the answer you are looking for, or [send us an e-mail](https://help-singles.eharmony.ca/app/answers/detail/a_id/1543/kw/contact/r_id/166) and our Customer Care agents will be happy to assist you;
   2. For any services where you have an account page, you may change your credit card (if applicable), e-mail address, password and other information from the account settings or preferences page; or
   3. You can send mail to the postal address listed above, providing us with your account information and letting us know which information you wish to update.
 
