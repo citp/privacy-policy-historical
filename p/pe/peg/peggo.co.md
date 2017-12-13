@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peggo.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123431id_/http%3A//peggo.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peggo.co privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214001137id_/http%3A//peggo.tv/privacy) for the most accurate reproduction.*
 
 # Peggo Privacy Policy
 
@@ -18,4 +18,4 @@ Peggo stores your preferences in cookies. While these cookies improve your exper
 
 Cookies may be stored by third parties via third party content embedded in Peggo, like multimedia players and advertisements. Peggo has no control over the cookies stored by third parties.
 
-If you have any questions about this Privcy Policy document, don't hesitate to [contact us](mailto:team@peggo.co).
+If you have any questions about this Privcy Policy document, don't hesitate to [contact us](mailto:support@peggo.co).
