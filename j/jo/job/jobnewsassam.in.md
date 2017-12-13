@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobnewsassam.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023807id_/http%3A//www.jobnewsassam.in/p/blog-page_28.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobnewsassam.in privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213103322id_/http%3A//www.jobnewsassam.in/p/blog-page_28.html) for the most accurate reproduction.*
 
 # Privacy policy | Job News Assam
 
