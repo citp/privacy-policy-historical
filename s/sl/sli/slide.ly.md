@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slide.ly privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163436id_/http%3A//slide.ly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slide.ly privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214001709id_/http%3A//slide.ly/privacy-policy) for the most accurate reproduction.*
 
-# Create & Share Beautiful Videos, Slideshows and Photo Collages
+# Slidely - The #1 Visual Content Creation Platform, Maker of Promo
 
 _Your privacy is important to us_. We highly value and respect the privacy of the personal information we obtain from you by using our Site and/or Services (as such terms are defined in the Terms of Service) (" _Personal Information_ ") and we have created this privacy policy (the " _Privacy Policy_ ") to inform you about how we collect, use and share your Personal Information, and our privacy practices in general.
 
@@ -54,7 +54,7 @@ We use industry standard security measures to protect your Personal Information 
 
 ## Cookies
 
-You acknowledge and agree that we may use cookies on the Site. A cookie is a piece of text that can be entered into the memory of your hard drive and can store information about your use of our Site (the " _Cookies_ "). The Cookies will help us make our services more convenient, personalized and more secure. In addition, Cookies may allow us to keep track and retrieve information about any user who acts in contradiction to our Privacy Policy. We may also work with third parties who use Cookies and other technologies to aid in their presentation of directed advertising and reporting of aggregate site usage statistics for our websites. These statistics are not linked to personally identifiable information. If you would rather not have Cookies on your computer, you can usually set your browser to deny some but not all Cookies. You can also delete Cookies from your computer at your sole discretion.
+The Site uses various types of cookies which help us administer and operate it, as further described in our [Cookies Policy](http://slide.ly/promo/cookies-policy)
 
 ## Other Websites, Services and Communities
 
