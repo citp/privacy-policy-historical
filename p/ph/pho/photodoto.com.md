@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photodoto.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045756id_/http%3A//photodoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodoto.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214001732id_/http%3A//photodoto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Photodoto
 
@@ -29,6 +29,8 @@ Clickbank
 Amazon
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://photodoto.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
 http://photodoto.com has no access to or control over these cookies that are used by third-party advertisers.
 
@@ -85,9 +87,9 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Mediamorph LLC
 
-2 Tower Center Blvd  
-19th Fl Suite 1901  
-East Brunswick NJ 08816
+200 Centennial Ave  
+Suite 200  
+Piscataway NJ 08854
 
 contact@photodoto.com
 
