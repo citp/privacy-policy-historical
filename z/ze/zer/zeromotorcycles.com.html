@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the zeromotorcycles.com privacy policy that was archived on 2017-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170613063741id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zeromotorcycles.com privacy policy that was archived on 2017-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171213115701id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
 <link rel="shortcut icon" href="http://www.zeromotorcycles.com/favicon.ico?v=3">
 
 
-<link href="/css/zero.css?m=582169c2" rel="stylesheet" type="text/css">
+<link href="/css/zero.css?m=59fa0748" rel="stylesheet" type="text/css">
+<link href="http://fast.fonts.com/cssapi/77851ce5-5492-4f53-a20e-16aec153e8b4.css" rel="stylesheet" type="text/css">
+<link href="/cosmic-assets/css/site.min.css?m=5a1e030d" rel="stylesheet" type="text/css">
 
 <style type="text/css">
 .js .hide-if-js,.no-js .hide-if-no-js{display:none;}
@@ -31,23 +33,17 @@ table#legal-wrapper {
 	padding-right:10px;
 }	
 
+
 </style>
-<!--[if lte IE 8]>
-<style type="text/css">
-#menu-wrapper .sliding-menu {background: url(/images/menu/slider-background-shadow.png) left bottom repeat-x; padding:0 0 6px 0;}
-</style>
-<![endif]-->
 
 
-<script src="https://secure.quantserve.com/aquant.js?a=p-76oN8RjYcdQ5c" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.min_15075.js"></script>
-<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/zero-common_11863.js"></script>
-<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.hoverIntent.min_15058.js"></script>
-<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/dropdown-menu_17151.js"></script>
-<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.popupwindow_15058.js"></script>
-<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.cookie_12581.js"></script>
-<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.validate.min_15073.js"></script>
-<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/inquiry-form-validate_15073.js"></script>
-<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/countrydata_13551.js"></script>
+<script src="https://secure.quantserve.com/aquant.js?a=p-76oN8RjYcdQ5c" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.min_895323ed.js"></script>
+<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/zero-common_fab9d9d5.js"></script>
+<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.hoverIntent.min_95a69e05.js"></script>
+<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/dropdown-menu_fc425537.js"></script>
+<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.popupwindow_64fcfa69.js"></script>
+<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.cookie_d5528dde.js"></script>
+<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/vendor/modernizr.min_e2ee49e3.js"></script>
 			
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -59,138 +55,15 @@ function countryChangeEvent(action,label) {
 function setPrefSiteCookie(site) {
 	$.cookie('zm_ps', site, { expires: 30, path: '/' });
 }
-function countryChangeClick(id,action) {
-	var sc = id.substring(id.length-2);
-	countryChangeEvent(action,zm_site_country+' => '+ sc);
-	if(sc=='il') {
-		if(action=='bottom_flag_link') {
-			$('#footer-country-menu1').hide();
-		}
-		return;
-	}
-	setPrefSiteCookie(sc);
-}
-(function($){
-inquiry_form_options={
-		validator_options:{
-		groups:{
-			footercb:'cb_newsletter cb_demo cb_buy cb_other'
-		},
-		errorPlacement:function(error,elem) {
-			if($(elem).hasClass('footer-checkbox')) {
-				var e=$('<div>').append(error);
-				$('#footer-newsletter input[name="cb_other"]').parent().append(e);
-			} else {
-				error.insertAfter(elem);
-			}
-		}
-	}
-};
-$.validator.addMethod('footer-checkbox',
-	function() {
-		return $('#footer-newsletter .footer-checkbox:checked').length > 0;
-	},
-	"Please specify a request"
-);
-
-initializeFooterForm = function() {
-	var inquiry_controls=["phone","city","00N7000000215xx","description","00N7000000215rM"];
-	var showControls = function() {
-		$('#footer-newsletter .address-form tr').not('.inquiry-detail').slice(1).show();
-		updateInquiryTypeFast();
-		$('#footer-newsletter .privacy').show();
-	};
-	var hideControls = function() {
-		$('#footer-newsletter .address-form tr').slice(1).hide();
-		$('#footer-newsletter .privacy').hide();
-	};
-	var openForm = function() {
-		$('#footer-newsletter .initial-prompt').fadeOut();
-		if($(this).hasClass('open')) {
-			return;
-		}
-		showControls();
-		var h = $('#footer-newsletter-content').outerHeight();
-		$(this).animate({
-			height:h
-		},{
-			duration:1000,
-			complete:function() {
-				$(this).addClass('open');
-				$(this).css({height:'auto'});
-			}
-		});
-	};
-	var closeForm = function() {
-		$('#footer-newsletter').css({height:$('#footer-newsletter-content').innerHeight()});
-		$('#footer-newsletter').animate({
-			height:42
-		},{
-			duration:1000,
-			complete:function() {
-				$('#footer-newsletter').removeClass('open');
-				hideControls();
-			}
-		});
+function countryChangeClick(el,action) {
+	var cc=$(el).attr('data-zm-cc');
+	if(typeof cc == 'undefined') {
 		return false;
-	};
-	var updateInquiryTypeFast = function() {
-		if($('.inquiry-toggle:checked').length == 0) {
-			$('#footer-newsletter .address-form tr.inquiry-detail div').hide();
-			$('#footer-newsletter .address-form tr.inquiry-detail').hide();
-		} else {
-			$('#footer-newsletter .address-form tr.inquiry-detail').show();
-			$('#footer-newsletter .address-form tr.inquiry-detail div').show();
-		}
 	}
-	var updateInquiryType = function() {
-		if($('.inquiry-toggle:checked').length == 0) {
-			$('#footer-newsletter .address-form tr.inquiry-detail div').slideUp({
-				duration:500,
-				complete:function() {
-					$('#footer-newsletter .address-form tr.inquiry-detail').hide();
-				}
-			});
-		} else {
-			$('#footer-newsletter .address-form tr.inquiry-detail').show();
-			$('#footer-newsletter .address-form tr.inquiry-detail div').slideDown({
-				duration:500
-			});
-		}
-	}
-	var p;
-	if($('#footer-newsletter input[name="email"]').val() == '') {
-		p=$('#footer-newsletter input[name="email"]').parent();
-		p.css({position:'relative'});
-		p.append('<div class="initial-prompt">-- Start Here --<\/div>');
-	}
-	$('#footer-newsletter').append('<a class="close-link" href="#"><\/a>');
-	$('#footer-newsletter .inquiry-toggle').change(updateInquiryType);
-	$('#footer-newsletter .close-link').click(closeForm);
-	$('#address_formfooter').append('<input type="hidden" name="jstatus" value="-1" />');
-	$('#address_formfooter').submit(function() {
-		$('#address_formfooter input[name="jstatus"]').val($('#address_formfooter .footer-checkbox:checked').length);
-	});
-	for(i=0;i<inquiry_controls.length;i++) {
-		$('#footer-newsletter [name="'+inquiry_controls[i]+'"]').parentsUntil('tr').last().parent().addClass('inquiry-detail');
-	}
-	if(!$('#footer-newsletter .process-ok').length) {
-		$('#footer-newsletter').click(openForm);
-		$('#footer-newsletter .initial-prompt').click(function(){
-				$('#footer-newsletter input[name="email"]').focus()
-		});
-		$('#footer-newsletter').focusin(openForm);
-	}
-	if($('#footer-newsletter .process-error').length) {
-		showControls();
-		$('#footer-newsletter').addClass('open');
-		$('#footer-newsletter').css({height:'auto'});
-	} else {
-		hideControls();
-	}
+	countryChangeEvent(action,zm_site_country+' => '+ cc);
+	setPrefSiteCookie(cc);
+	return true;
 }
-})(jQuery);
-
 (function($){
 $(document).ready(function() {
 	var windowProfiles={
@@ -200,30 +73,12 @@ $(document).ready(function() {
 		internationalContactWindow:{center:1,width:950,height:700,status:0,scrollbars:1,toolbar:0,resizable:1},
 		inquiryWindow:{center:1,width:580,height:750,status:0,scrollbars:1,toolbar:0,resizable:1} // no comma for the last one! IE7 problems!!
 	};
-	$('.footer-country-link').click(function(e){
-		countryChangeClick($(this).attr('id'),'bottom_flag_link');
-	});
-initializeFooterForm();
+$('.js--selectCountry--list a').click(function(e) {
+	if(!countryChangeClick(this,'bottom_flag_link')) {
+		$('.js--selectCountry--list .selectCountry__close').click();
+	}
+});
 	$('.popupwindow').popupwindow(windowProfiles);
-	var $menuWrapper=$('#menu-wrapper');
-	if (zmc.isMobile()){
-		$('.ddmGalleryVideo',$menuWrapper).each(function(){
-			var href=$(this).attr('href');
-			var parts=href.split('-');
-			if (parts.length>1){
-				$(this).attr('href',href.replace(/(gallery\/)?album(\.php)?/,'zero-'+parts[1]));
-			}
-		});
-	}
-	$('.ddm-menu',$menuWrapper).dropdownMenu({menuWrapper:'menu-wrapper',hoverDelay:0});
-
-	var toggleCountryMenu=function() {
-		$('#footer-country-menu1').slideToggle(750);
-		return false;
-	}
-	$('#footer-country-menu1').append('<a class="close-link" href="#"><\/a>');
-	$('#footer-country-menu1 .close-link').click(toggleCountryMenu);
-	$('#footer-country-select a.flag').click(toggleCountryMenu);
 });
 })(jQuery);
 /* ]]> */
@@ -237,7 +92,7 @@ initializeFooterForm();
 
 
 
-</head><body class="main-canvas">
+</head><body class="zm-lang-en zm-site-us main-canvas">
 <div id="js-no-js" class="js">
 <script type="text/javascript">
 (function(){
@@ -248,92 +103,122 @@ initializeFooterForm();
 })();
 </script>
 
-<div id="menu-wrapper" class="en">
-	<div id="menu">
-	<table>
-	<tbody><tr>
-	<td style="width:210px;"><div style="margin: 8px 0 8px 20px;"><a href="/"><img src="http://cdn.zeromotorcycles.net/images/blank_11196.gif" alt="" style="background: url(/static/images/menu/logo-rb.png) no-repeat; width:170px; height:42px; vertical-align:bottom;"></a></div></td>
+<header class="js--nav nav">
+  <div class="nav__container">
 
-	<td style="width:478px;">
-	<table>
-	<tbody><tr>		
-	<td id="motorcycles-menu" class="ddm-menu">
-		<a class="rollover-menu" href="/motorcycles/">Motorcycles</a>
-		<div class="sliding-menu">
-			<ul>
-			<li class="l-1"><a class="lower" href="/zero-s/">Zero S</a></li>
-			<li class="l-2"><a class="lower" href="/zero-s/sr.php">Zero SR</a></li>
-			<li class="l-3"><a class="lower" href="/zero-ds/">Zero DS</a></li>
-			<li class="l-4"><a class="lower" href="/zero-ds/dsr.php">Zero DSR</a></li>
-			<li class="l-5"><a class="lower" href="/zero-fx/">Zero FX</a></li>
-			<li class="l-6"><a class="lower" href="/zero-fxs/">Zero FXS</a></li>
-			<li class="l-7"><a class="lower" href="/2016/">2016 Models</a></li>
-			</ul>
-		</div>
-	</td>
+    <div class="nav__logoModelsContainer">
+      <a class="nav__logo" href="/" title="Home">
+        <svg viewBox="0 0 143 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <defs>
+            <path id="a" d="M2.543 2.602V.112h-2.5v2.49h2.5z"></path>
+          </defs>
+          <g fill="none" fill-rule="evenodd">
+            <path d="M5.12.595L.303 6.317l18.16-.004L0 28.118h28.688l4.798-5.72h-18.03S29.316 6.07 33.846.594H5.12zm96.035 27.525h-9.11l-8.432-10.9h-6.027v10.9H69.54V.594h20.798c7.063 0 9.55 4.24 9.55 8.32 0 4.082-2.477 7.34-7.37 8.088l8.637 11.116zm-23.57-16.622h9.245c2.298 0 5.33.238 5.33-2.583 0-2.82-3.032-2.6-5.33-2.6h-9.244v5.183zm55.817-8.84C131.86 1.38 128.345 0 120.028 0s-11.832 1.38-13.374 2.657c-1.54 1.28-4.358 4.856-4.366 11.7.008 6.842 2.826 10.422 4.366 11.7 1.542 1.278 5.057 2.655 13.374 2.655s11.832-1.377 13.374-2.656c1.538-1.277 4.358-4.857 4.364-11.698-.006-6.845-2.826-10.422-4.364-11.7m-13.374 19.936c-5.623 0-9.99-1.117-9.996-8.236.007-7.122 4.373-8.24 9.996-8.24 5.62 0 9.986 1.118 9.996 8.24-.01 7.12-4.377 8.236-9.996 8.236M43.62.59c-6.13 0-9.487 5.094-9.487 13.765 0 8.67 3.357 13.764 9.488 13.764l22-.01v-5.72l-18.24-.01c-4.01 0-4.2-2.45-4.4-5.18l18.08-.01v-5.72H42.98c.2-2.72.39-5.18 4.4-5.18h18.24V.59l-22-.004zm16.52 38.947h-1.654l-1.53-1.976H55.86v1.98H54.4v-4.99h3.775c1.282 0 1.734.77 1.734 1.51s-.45 1.34-1.34 1.47l1.57 2.01zm-4.28-3.01h1.678c.417 0 .968.047.968-.475 0-.523-.55-.47-.968-.47H55.86v.946zm-24.71-.947v3.957h-1.517V35.58h-1.998v-1.035h5.517v1.036m73.564 3.96v-4.99h1.46v3.96h3.525v1.04m-27.15-5l-1.33 1.64-1.34-1.64h-1.79l2.39 3.02v1.98h1.46v-1.98l2.39-3.01M2.98 36.3L0 34.5v5.037h1.46v-2.48l1.525.91 1.525-.91v2.48h1.46V34.5m114.605.043c-1.113 0-1.722.926-1.722 2.5 0 1.574.61 2.494 1.722 2.494h3.992v-1.034h-3.31c-.73 0-.764-.448-.8-.942h3.283v-1.03h-3.282c.035-.49.07-.94.798-.94h3.31v-1.04h-3.99zm-74.557.395c-.277-.233-.91-.48-2.41-.48-1.498 0-2.133.247-2.41.48-.28.228-.786.873-.786 2.107 0 1.234.507 1.878.786 2.11.277.228.912.477 2.41.477 1.5 0 2.133-.25 2.41-.478.277-.23.786-.875.788-2.11-.002-1.233-.51-1.878-.788-2.106m-2.41 3.592c-1.013 0-1.8-.202-1.8-1.485 0-1.285.787-1.487 1.8-1.487 1.012 0 1.8.202 1.8 1.487 0 1.283-.788 1.485-1.8 1.485m-24.125-3.592c-.278-.233-.91-.48-2.41-.48s-2.133.247-2.412.48c-.27.228-.78.873-.78 2.107 0 1.234.51 1.878.79 2.11.28.228.92.477 2.41.477 1.5 0 2.14-.25 2.41-.478.28-.23.79-.875.79-2.11 0-1.233-.51-1.878-.78-2.106m-2.41 3.592c-1.01 0-1.8-.202-1.8-1.485.01-1.285.79-1.487 1.81-1.487s1.8.202 1.8 1.487c0 1.283-.79 1.485-1.803 1.485m53.5-4.06c-.936 0-1.72.22-2.27.637-.57.434-.87 1.08-.87 1.857 0 1.685 1.14 2.65 3.13 2.65 1.625 0 2.55-.535 2.927-1.684l-1.67-.152c-.21.537-.627.786-1.306.786-.7 0-1.443-.4-1.443-1.533 0-.92.55-1.48 1.468-1.48.6 0 1.01.25 1.248.77l1.73-.15c-.34-1.13-1.3-1.69-2.94-1.69m25.55 0c-.934 0-1.72.22-2.27.64-.57.44-.872 1.08-.872 1.86 0 1.69 1.145 2.65 3.137 2.65.87 0 1.54-.15 2.03-.47.43-.273.72-.67.89-1.203l-1.66-.152c-.21.54-.623.79-1.303.79-.7 0-1.447-.4-1.447-1.53 0-.928.546-1.483 1.463-1.483.606 0 1.01.25 1.25.77l1.73-.15c-.34-1.14-1.302-1.694-2.937-1.694m39.29 2.02c-.205-.007-.546-.02-.773-.03-1.116-.063-1.31-.213-1.31-.503 0-.226.19-.49 1.096-.49.535 0 .893.095 1.13.305.04.04.074.085.1.14l1.68-.18c-.01-.03-.026-.06-.04-.08-.345-.714-1.313-1.095-2.796-1.095-1.28 0-2.805.26-2.805 1.494 0 .832.71 1.24 2.3 1.32.16.01.28.012.39.014.13 0 .28.006.5.02.86.067 1.24.17 1.24.61 0 .407-.47.65-1.26.65-.883 0-1.242-.29-1.39-.54-.026-.03-.043-.074-.055-.12l-1.88.18.01.03c.25.9 1.285 1.34 3.15 1.34 2.088 0 3.06-.55 3.06-1.734 0-1.02-1.273-1.29-2.342-1.334" fill="#FFF"></path>
+            <g transform="translate(140.293 36.935)">
+              <mask id="b" fill="#fff">
+                <use xlink:href="#a"></use>
+              </mask>
+              <path d="M1.293.38C.753.38.31.817.31 1.356c0 .54.442.978.983.978.54 0 .982-.44.982-.978 0-.54-.44-.978-.982-.978zm0 2.222c-.69 0-1.25-.558-1.25-1.245S.603.112 1.293.112s1.25.56 1.25 1.245c0 .687-.56 1.245-1.25 1.245zm.643-.725H1.59l-.318-.412h-.23v.412H.74V.837h.786c.266 0 .362.16.362.315 0 .154-.093.278-.28.306l.328.42zm-.893-.628h.35c.087 0 .202.01.202-.1s-.115-.1-.202-.1h-.35v.19z" fill="#FFF" mask="url(#b)"></path>
+            </g>
+          </g>
+        </svg>
+      </a>
+      <button class="js--nav--modelsTrigger nav__modelsBtn">Models</button>
+    </div>
 
-	<td id="experience-menu" class="ddm-menu">
-		<a class="rollover-menu" href="/customers/">Experience</a>
-		<div class="sliding-menu">
-			<ul>
-			<li class="l-1" style="padding-left:125px;"><a class="lower" href="/demo-rides/">Demo Rides</a></li>
-			<li class="l-2"><a class="lower" href="/the-thrill/">The Thrill</a></li>
-			<li class="l-3"><a class="lower" href="/customers/">Customer Videos</a></li>
-			<li class="l-4"><a class="lower" href="/gallery/">Gallery</a></li>
-			<li class="l-5"><a class="lower" href="/news.php">News</a></li>
-			<li class="l-6"><a class="lower" href="/events.php">Events</a></li>
-			<li class="l-7"><a class="lower" href="/10-years/">10th anniversary</a></li>
-			</ul>
-		</div>
-	</td>
+    <a class="js--nav--hamburger nav__hamburgerLink">
+      <div class="nav__hamburger"></div>
+    </a>
 
-	<td id="going-electric-menu" class="ddm-menu">
-		<a class="rollover-menu" href="/advantages/">Going Electric</a>
-		<div class="sliding-menu">
-			<ul>
-			<li class="l-1" style="padding-left:205px;"><a class="lower" href="/charging/">Charging</a></li>
-			<li class="l-2"><a class="lower" href="/incentives/">Incentives</a></li>
-			<li class="l-3"><a class="lower" href="/advantages/">Advantages</a></li>
-			<li class="l-4"><a class="lower" href="/technology/">Technology</a></li>
-			<li class="l-5"><a class="lower" href="/environment/">Environment</a></li>
-			<li class="l-6"><a class="lower" href="/range/">Range</a></li>
-			</ul>
-		</div>
-	</td>
+    <nav class="js--nav--links nav__links">
+      <div class="nav__linksInner">		<div class="js--nav--hasDropdown nav__linkContainer">
+          <a class="nav__link" href="/advantages/">Going Electric</a>
+          <nav class="js--nav--dropdown nav__dropdown">            <a class="nav__dropdownLink" href="/charging/">Charging</a>            <a class="nav__dropdownLink" href="/advantages/">Advantages</a>            <a class="nav__dropdownLink" href="/technology/">Technology</a>            <a class="nav__dropdownLink" href="/environment/">Environment</a>            <a class="nav__dropdownLink" href="/range/">Range</a>          </nav>
+        </div>
+        <div class="nav__linkContainer">
+          <a class="nav__link" href="/locator/">Find a Dealer</a>
+        </div>
+        <div class="nav__linkContainer">
+          <a class="nav__link" href="/demo-rides/">Test Ride</a>
+        </div>
+      </div>
+    </nav>
 
-	<td id="buy-menu" class="ddm-menu">
-		<a class="rollover-menu" href="/shop/index.php?cPath=1&amp;myCountry=223">Buy</a>
-		<div class="sliding-menu">
-			<ul>
-			<li class="l-1" style="padding-left:265px;"><a class="lower" href="/promo/">Promotions</a></li>
-			<li class="l-2"><a class="lower" href="/locator/">Dealers</a></li>
-			<li class="l-3"><a class="lower" href="/consumer_financing.php">Financing</a></li>
-			<li class="l-4"><a class="lower" href="/incentives/">Incentives</a></li>
-			<li class="l-5"><a class="lower" href="/shop/index.php?main_page=index&amp;myCountry=223">Accessories/Apparel</a></li>
-			<li class="l-6"><a class="lower" href="/shop/index.php?cPath=1&amp;myCountry=223">Motorcycles</a></li>
-			</ul>
-		</div>
-	</td>
-	</tr>
-	</tbody></table>
-	</td>
+  </div>
+</header>
 
-	<td style="vertical-align:middle; width:290px;text-align:right;">
-	<div id="menu-links">
-	<a href="/locator/">Find a Dealer</a>
-	<a href="/demo-rides/">Schedule a Demo</a>
-	</div>
-	</td>
-	</tr>
-	</tbody></table>
-	</div>
-</div>
+<nav class="js--nav--models nav__models">
+  <div class="nav__modelsContainer">
+    <div class="nav__modelsInner">
+      <div class="flex flex-wrap justify-center fl w-100 w-50-l mb3 ph2">
+        <div class="fl w-100 ph2">
+          <a href="/zero-s/" class="nav__modelsItemLink">
+            <figure class="ma0">
+              <img src="http://cdn.zeromotorcycles.net/images/menu/zero-s_a7d22154.jpg" alt="Zero S | SR">
+              <figcaption>
+                <h4 class="mt0 mb1">Zero S | SR</h4>
+                <p class="gray f6 fw4 ma0">Naked Street</p>
+              </figcaption>
+            </figure>
+          </a>
 
-<div id="outer-wrapper">
+        </div>
+      </div>
+
+      <div class="flex flex-wrap justify-center fl w-100 w-50-l mb3 ph2">
+        <div class="fl w-100 ph2">
+          <a href="/zero-ds/" class="nav__modelsItemLink">
+            <figure class="ma0">
+              <img src="http://cdn.zeromotorcycles.net/images/menu/zero-ds_647feb3a.jpg" alt="Zero DS | DSR">
+              <figcaption>
+                <h4 class="mt0 mb1">Zero DS | DSR</h4>
+                <p class="gray f6 fw4 ma0">Powerful Versatility</p>
+              </figcaption>
+            </figure>
+          </a>
+
+        </div>
+      </div>
+
+      <div class="flex flex-wrap justify-center fl w-100 w-50-l mb3 ph2">
+        <div class="fl w-100 ph2">
+          <a href="/zero-fx/" class="nav__modelsItemLink">
+            <figure class="ma0">
+              <img src="http://cdn.zeromotorcycles.net/images/menu/zero-fx_b6cf7a1a.jpg" alt="Zero FX">
+              <figcaption>
+                <h4 class="mt0 mb1">Zero FX</h4>
+                <p class="gray f6 fw4 ma0">Lean and Mean</p>
+              </figcaption>
+            </figure>
+          </a>
+
+        </div>
+      </div>
+
+      <div class="flex flex-wrap justify-center fl w-100 w-50-l ph2">
+        <div class="fl w-100 ph2">
+          <a href="/zero-fxs/" class="nav__modelsItemLink">
+            <figure class="ma0">
+              <img src="http://cdn.zeromotorcycles.net/images/menu/zero-fxs_3c63944d.jpg" alt="Zero FXS">
+              <figcaption>
+                <h4 class="mt0 mb1">Zero FXS</h4>
+                <p class="gray f6 fw4 ma0">Stealthy Supermoto</p>
+              </figcaption>
+            </figure>
+          </a>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</nav>
+<div class="nav__parkspace"></div>
+<div id="outer-wrapper" class="content-outer zm-old-content relative z-1">
 <div id="outer-wrapper-overlay">
 <div id="border-wrapper">
 <div id="content-wrapper">
-<div id="inner-wrapper">
+<div id="inner-wrapper" class="tachyons-old-compat">
 
 <div class="main-content" id="top-of-page">          
 <table id="legal-wrapper">
@@ -558,499 +443,164 @@ This page describes the most recent updates to our Privacy Policy. We will updat
 </div>
 </div>
 </div>
-<div id="footer-links-outer">
-	<table id="footer-links" class="footer-4-col">
-		<tbody><tr>
 
-<td class="footer-links">
-	<h3>About</h3>
-	<a class="bottom-link" href="/company/">Who We Are</a>
-	<a class="bottom-link" href="/company/employment.php">Employment</a>
-	<a class="bottom-link" href="/media-center/">Media Center</a>
-	<a class="bottom-link" href="/news.php">News</a>
-	<a class="bottom-link" href="/high-res-photos/">High Res Images</a>
-</td>
-
-<td class="footer-links">
-	<h3>Interact</h3>
-	<a class="bottom-link" href="/contact.php">Contact Us</a>
-	<a class="bottom-link" href="/locator/">Find a Dealer</a>
-	<a class="bottom-link" href="/events.php">Events</a>
-	<a class="bottom-link" href="/owner-resources/">Owners</a>
-</td>
-
-<td class="footer-links">
-	<h3>Commercial</h3>
-	<a class="bottom-link" href="/fleet/">Fleet Programs</a>
-	<a class="bottom-link" href="/company/dealer/">Become a Dealer</a>
-</td>
-
-<td class="footer-links">
-	<h3>Purchase</h3>
-	<a class="bottom-link" href="/consumer_financing.php">Financing</a>
-	<a class="bottom-link" href="/incentives/">Incentives</a>
-	<a class="bottom-link" href="/shop/index.php?main_page=index&amp;myCountry=223">Shop</a>
-	<a class="bottom-link" href="/promo/">Promotions</a>
-</td>
-			<td>
-				<div class="footer-right">
-					<div id="footer-newsletter"><div id="footer-newsletter-content" class="hide-if-no-js">
-<div class="signup-title">Newsletter / Demo ride</div>
-<div class="">
-<div class="inquiry-main">
-
-<div class="top-text">
-
-</div>
-<form id="address_formfooter" class="address-form" name="address_formfooter" action="/legal/privacy-policy.php" method="post">
-<input type="hidden" name="posted" value="true">
-<input type="hidden" name="jscv" value="17330">
-
-<table style="width:100%;">
-
-<tbody><tr>
-	<td><div class="inquiry-label-column"><label>Email<span class="req-mark heads-up">*</span>:</label></div></td>
-	<td><div class="inquiry-input-column">	<input maxlength="100" name="email" size="20" type="text" value="" class="required email">
-</div></td>
-</tr>
-<tr>
-	<td><div class="inquiry-label-column"><label>First Name<span class="req-mark heads-up">*</span>:</label></div></td>
-	<td><div class="inquiry-input-column">	<input maxlength="40" name="first_name" size="20" type="text" value="" class="required text">
-</div></td>
-</tr>
-<tr>
-	<td><div class="inquiry-label-column"><label>Last Name:</label></div></td>
-	<td><div class="inquiry-input-column">	<input maxlength="80" name="last_name" size="20" type="text" value="" class="text">
-</div></td>
-</tr>
-<tr>
-	<td><div class="inquiry-label-column"><label>Country<span class="req-mark heads-up">*</span>:</label></div></td>
-	<td><div class="inquiry-input-column">	<select name="country" class="required country select">
-		<option value="">-- Select country --</option>
-				<option value="AX">Aaland Islands</option>
-		<option value="AF">Afghanistan</option>
-		<option value="AL">Albania</option>
-		<option value="DZ">Algeria</option>
-		<option value="AS">American Samoa</option>
-		<option value="AD">Andorra</option>
-		<option value="AO">Angola</option>
-		<option value="AI">Anguilla</option>
-		<option value="AQ">Antarctica</option>
-		<option value="AG">Antigua and Barbuda</option>
-		<option value="AR">Argentina</option>
-		<option value="AM">Armenia</option>
-		<option value="AW">Aruba</option>
-		<option value="AU">Australia</option>
-		<option value="AT">Austria</option>
-		<option value="AZ">Azerbaijan</option>
-		<option value="BS">Bahamas</option>
-		<option value="BH">Bahrain</option>
-		<option value="BD">Bangladesh</option>
-		<option value="BB">Barbados</option>
-		<option value="BY">Belarus</option>
-		<option value="BE">Belgium</option>
-		<option value="BZ">Belize</option>
-		<option value="BJ">Benin</option>
-		<option value="BM">Bermuda</option>
-		<option value="BT">Bhutan</option>
-		<option value="BO">Bolivia</option>
-		<option value="BA">Bosnia and Herzegowina</option>
-		<option value="BW">Botswana</option>
-		<option value="BV">Bouvet Island</option>
-		<option value="BR">Brazil</option>
-		<option value="IO">British Indian Ocean Territory</option>
-		<option value="BN">Brunei Darussalam</option>
-		<option value="BG">Bulgaria</option>
-		<option value="BF">Burkina Faso</option>
-		<option value="BI">Burundi</option>
-		<option value="KH">Cambodia</option>
-		<option value="CM">Cameroon</option>
-		<option value="CA">Canada</option>
-		<option value="CV">Cape Verde</option>
-		<option value="KY">Cayman Islands</option>
-		<option value="CF">Central African Republic</option>
-		<option value="TD">Chad</option>
-		<option value="CL">Chile</option>
-		<option value="CN">China</option>
-		<option value="CX">Christmas Island</option>
-		<option value="CC">Cocos Islands</option>
-		<option value="CO">Colombia</option>
-		<option value="KM">Comoros</option>
-		<option value="CG">Congo</option>
-		<option value="CK">Cook Islands</option>
-		<option value="CR">Costa Rica</option>
-		<option value="CI">Cote D'Ivoire</option>
-		<option value="HR">Croatia</option>
-		<option value="CU">Cuba</option>
-		<option value="CY">Cyprus</option>
-		<option value="CZ">Czech Republic</option>
-		<option value="DK">Denmark</option>
-		<option value="DJ">Djibouti</option>
-		<option value="DM">Dominica</option>
-		<option value="DO">Dominican Republic</option>
-		<option value="TL">East Timor</option>
-		<option value="EC">Ecuador</option>
-		<option value="EG">Egypt</option>
-		<option value="SV">El Salvador</option>
-		<option value="GQ">Equatorial Guinea</option>
-		<option value="ER">Eritrea</option>
-		<option value="EE">Estonia</option>
-		<option value="ET">Ethiopia</option>
-		<option value="FK">Falkland Islands</option>
-		<option value="FO">Faroe Islands</option>
-		<option value="FJ">Fiji</option>
-		<option value="FI">Finland</option>
-		<option value="FR">France</option>
-		<option value="GF">French Guiana</option>
-		<option value="PF">French Polynesia</option>
-		<option value="TF">French Southern Territories</option>
-		<option value="GA">Gabon</option>
-		<option value="GM">Gambia</option>
-		<option value="GE">Georgia</option>
-		<option value="DE">Germany</option>
-		<option value="GH">Ghana</option>
-		<option value="GI">Gibraltar</option>
-		<option value="GR">Greece</option>
-		<option value="GL">Greenland</option>
-		<option value="GD">Grenada</option>
-		<option value="GP">Guadeloupe</option>
-		<option value="GU">Guam</option>
-		<option value="GT">Guatemala</option>
-		<option value="GN">Guinea</option>
-		<option value="GW">Guinea-bissau</option>
-		<option value="GY">Guyana</option>
-		<option value="HT">Haiti</option>
-		<option value="HM">Heard and Mc Donald Islands</option>
-		<option value="HN">Honduras</option>
-		<option value="HK">Hong Kong</option>
-		<option value="HU">Hungary</option>
-		<option value="IS">Iceland</option>
-		<option value="IN">India</option>
-		<option value="ID">Indonesia</option>
-		<option value="IR">Iran</option>
-		<option value="IQ">Iraq</option>
-		<option value="IE">Ireland</option>
-		<option value="IL">Israel</option>
-		<option value="IT">Italy</option>
-		<option value="JM">Jamaica</option>
-		<option value="JP">Japan</option>
-		<option value="JO">Jordan</option>
-		<option value="KZ">Kazakhstan</option>
-		<option value="KE">Kenya</option>
-		<option value="KI">Kiribati</option>
-		<option value="KP">North Korea</option>
-		<option value="KR">Republic of Korea</option>
-		<option value="KW">Kuwait</option>
-		<option value="KG">Kyrgyzstan</option>
-		<option value="LA">Laos</option>
-		<option value="LV">Latvia</option>
-		<option value="LB">Lebanon</option>
-		<option value="LS">Lesotho</option>
-		<option value="LR">Liberia</option>
-		<option value="LY">Libya</option>
-		<option value="LI">Liechtenstein</option>
-		<option value="LT">Lithuania</option>
-		<option value="LU">Luxembourg</option>
-		<option value="MO">Macau</option>
-		<option value="MK">Macedonia</option>
-		<option value="MG">Madagascar</option>
-		<option value="MW">Malawi</option>
-		<option value="MY">Malaysia</option>
-		<option value="MV">Maldives</option>
-		<option value="ML">Mali</option>
-		<option value="MT">Malta</option>
-		<option value="MH">Marshall Islands</option>
-		<option value="MQ">Martinique</option>
-		<option value="MR">Mauritania</option>
-		<option value="MU">Mauritius</option>
-		<option value="YT">Mayotte</option>
-		<option value="MX">Mexico</option>
-		<option value="FM">Micronesia</option>
-		<option value="MD">Moldova</option>
-		<option value="MC">Monaco</option>
-		<option value="MN">Mongolia</option>
-		<option value="MS">Montserrat</option>
-		<option value="MA">Morocco</option>
-		<option value="MZ">Mozambique</option>
-		<option value="MM">Myanmar</option>
-		<option value="NA">Namibia</option>
-		<option value="NR">Nauru</option>
-		<option value="NP">Nepal</option>
-		<option value="NL">Netherlands</option>
-		<option value="AN">Netherlands Antilles</option>
-		<option value="NC">New Caledonia</option>
-		<option value="NZ">New Zealand</option>
-		<option value="NI">Nicaragua</option>
-		<option value="NE">Niger</option>
-		<option value="NG">Nigeria</option>
-		<option value="NU">Niue</option>
-		<option value="NF">Norfolk Island</option>
-		<option value="MP">Northern Mariana Islands</option>
-		<option value="NO">Norway</option>
-		<option value="OM">Oman</option>
-		<option value="PK">Pakistan</option>
-		<option value="PW">Palau</option>
-		<option value="PA">Panama</option>
-		<option value="PG">Papua New Guinea</option>
-		<option value="PY">Paraguay</option>
-		<option value="PE">Peru</option>
-		<option value="PH">Philippines</option>
-		<option value="PN">Pitcairn</option>
-		<option value="PL">Poland</option>
-		<option value="PT">Portugal</option>
-		<option value="PR">Puerto Rico</option>
-		<option value="QA">Qatar</option>
-		<option value="RE">Reunion</option>
-		<option value="RO">Romania</option>
-		<option value="RU">Russian Federation</option>
-		<option value="RW">Rwanda</option>
-		<option value="KN">Saint Kitts and Nevis</option>
-		<option value="LC">Saint Lucia</option>
-		<option value="VC">Saint Vincent and the Grenadines</option>
-		<option value="WS">Samoa</option>
-		<option value="SM">San Marino</option>
-		<option value="ST">Sao Tome and Principe</option>
-		<option value="SA">Saudi Arabia</option>
-		<option value="SN">Senegal</option>
-		<option value="SC">Seychelles</option>
-		<option value="SL">Sierra Leone</option>
-		<option value="SG">Singapore</option>
-		<option value="SK">Slovakia</option>
-		<option value="SI">Slovenia</option>
-		<option value="SB">Solomon Islands</option>
-		<option value="SO">Somalia</option>
-		<option value="ZA">South Africa</option>
-		<option value="ES">Spain</option>
-		<option value="LK">Sri Lanka</option>
-		<option value="SH">St. Helena</option>
-		<option value="PM">St. Pierre and Miquelon</option>
-		<option value="SD">Sudan</option>
-		<option value="SR">Suriname</option>
-		<option value="SJ">Svalbard and Jan Mayen Islands</option>
-		<option value="SZ">Swaziland</option>
-		<option value="SE">Sweden</option>
-		<option value="CH">Switzerland</option>
-		<option value="SY">Syrian Arab Republic</option>
-		<option value="TW">Taiwan</option>
-		<option value="TJ">Tajikistan</option>
-		<option value="TZ">Tanzania</option>
-		<option value="TH">Thailand</option>
-		<option value="TG">Togo</option>
-		<option value="TK">Tokelau</option>
-		<option value="TO">Tonga</option>
-		<option value="TT">Trinidad and Tobago</option>
-		<option value="TN">Tunisia</option>
-		<option value="TR">Turkey</option>
-		<option value="TM">Turkmenistan</option>
-		<option value="TC">Turks and Caicos Islands</option>
-		<option value="TV">Tuvalu</option>
-		<option value="UG">Uganda</option>
-		<option value="UA">Ukraine</option>
-		<option value="AE">United Arab Emirates</option>
-		<option value="GB">United Kingdom</option>
-		<option value="US" selected="selected">United States</option>
-		<option value="UM">United States Minor Outlying Islands</option>
-		<option value="UY">Uruguay</option>
-		<option value="UZ">Uzbekistan</option>
-		<option value="VU">Vanuatu</option>
-		<option value="VA">Vatican City</option>
-		<option value="VE">Venezuela</option>
-		<option value="VN">Viet Nam</option>
-		<option value="VG">British Virgin Islands</option>
-		<option value="VI">U.S. Virgin Islands</option>
-		<option value="WF">Wallis and Futuna Islands</option>
-		<option value="EH">Western Sahara</option>
-		<option value="YE">Yemen</option>
-		<option value="ZR">Zaire</option>
-		<option value="ZM">Zambia</option>
-		<option value="ZW">Zimbabwe</option>
-	</select>
-	<div class="update_country inquiry-country-update hide-if-js">
-	<input name="update_country" class="submit" type="submit" value="Update">
-	</div></div></td>
-</tr>
-<tr>
-	<td><div class="inquiry-label-column"><label>State<span class="req-mark heads-up state-field state-list-display">*</span>:</label>
-</div></td>
-	<td><div class="inquiry-input-column"><div class="state_area">
-		<input maxlength="100" name="state" size="20" type="text" value="" class="state-field state-display hidden">
-		<select name="state_list" class="state-field state-list-display required">
-			<option value="">-- Select state --</option>
-			<option value="AL">Alabama</option>
-			<option value="AK">Alaska</option>
-			<option value="AZ">Arizona</option>
-			<option value="AR">Arkansas</option>
-			<option value="CA">California</option>
-			<option value="CO">Colorado</option>
-			<option value="CT">Connecticut</option>
-			<option value="DE">Delaware</option>
-			<option value="DC">District of Columbia</option>
-			<option value="FL">Florida</option>
-			<option value="GA">Georgia</option>
-			<option value="HI">Hawaii</option>
-			<option value="ID">Idaho</option>
-			<option value="IL">Illinois</option>
-			<option value="IN">Indiana</option>
-			<option value="IA">Iowa</option>
-			<option value="KS">Kansas</option>
-			<option value="KY">Kentucky</option>
-			<option value="LA">Louisiana</option>
-			<option value="ME">Maine</option>
-			<option value="MD">Maryland</option>
-			<option value="MA">Massachusetts</option>
-			<option value="MI">Michigan</option>
-			<option value="MN">Minnesota</option>
-			<option value="MS">Mississippi</option>
-			<option value="MO">Missouri</option>
-			<option value="MT">Montana</option>
-			<option value="NE">Nebraska</option>
-			<option value="NV">Nevada</option>
-			<option value="NH">New Hampshire</option>
-			<option value="NJ">New Jersey</option>
-			<option value="NM">New Mexico</option>
-			<option value="NY">New York</option>
-			<option value="NC">North Carolina</option>
-			<option value="ND">North Dakota</option>
-			<option value="OH">Ohio</option>
-			<option value="OK">Oklahoma</option>
-			<option value="OR">Oregon</option>
-			<option value="PA">Pennsylvania</option>
-			<option value="RI">Rhode Island</option>
-			<option value="SC">South Carolina</option>
-			<option value="SD">South Dakota</option>
-			<option value="TN">Tennessee</option>
-			<option value="TX">Texas</option>
-			<option value="UT">Utah</option>
-			<option value="VT">Vermont</option>
-			<option value="VA">Virginia</option>
-			<option value="WA">Washington</option>
-			<option value="WV">West Virginia</option>
-			<option value="WI">Wisconsin</option>
-			<option value="WY">Wyoming</option>
-		</select>
-	</div>
-</div></td>
-</tr>
-<tr>
-	<td><div class="inquiry-label-column"><label>Postal Code<span class="req-mark heads-up">*</span>:</label></div></td>
-	<td><div class="inquiry-input-column">	<input maxlength="40" name="zip" size="20" type="text" value="" class="required text">
-</div></td>
-</tr>
-<tr class="footer-checkbox">
-	<td colspan="2"><div class="inquiry-label-column"></div><div class="inquiry-input-column"><input type="checkbox" name="cb_newsletter" value="1" checked="" class="footer-checkbox"> Sign me up for the newsletter</div></td>
-</tr>
-<tr class="footer-checkbox">
-	<td colspan="2"><div class="inquiry-label-column"></div><div class="inquiry-input-column"><input type="checkbox" name="cb_demo" value="1" class="footer-checkbox inquiry-toggle"> I would like a demo ride</div></td>
-</tr>
-<tr class="footer-checkbox">
-	<td colspan="2"><div class="inquiry-label-column"></div><div class="inquiry-input-column"><input type="checkbox" name="cb_buy" value="1" class="footer-checkbox inquiry-toggle"> I would like to purchase a motorcycle</div></td>
-</tr>
-<tr>
-	<td colspan="2"><div class="inquiry-label-column"></div><div class="inquiry-input-column"><input type="checkbox" name="cb_other" value="1" class="footer-checkbox inquiry-toggle"> I have other questions</div></td>
-</tr>
-<tr>
-	<td><div class="inquiry-label-column"><label>Phone:</label></div></td>
-	<td><div class="inquiry-input-column">	<input maxlength="20" name="phone" size="20" type="text" value="" class="text">
-</div></td>
-</tr>
-<tr>
-	<td><div class="inquiry-label-column"><label>City:</label></div></td>
-	<td><div class="inquiry-input-column">	<input maxlength="100" name="city" size="20" type="text" value="" class="text">
-</div></td>
-</tr>
-<tr>
-	<td><div class="inquiry-label-column">Product Interest:</div></td>
-	<td><div class="inquiry-input-column">		<select name="00N7000000215xx" title="Product Interest">
-		<option value="All Products">All Products</option>
-		<option value="Zero S">Zero S</option>
-		<option value="Zero SR">Zero SR</option>
-		<option value="Zero DS">Zero DS</option>
-		<option value="Zero DSR">Zero DSR</option>
-		<option value="Zero FX">Zero FX</option>
-		<option value="Zero FXS">Zero FXS</option>
-	    </select></div></td>
-</tr>
-<tr>
-	<td><div class="inquiry-label-column"><label>Do you have any additional questions or requests?:</label></div></td>
-	<td><div class="inquiry-input-column"><textarea cols="30" rows="3" name="description"></textarea></div></td>
-</tr>
-<tr>
-	<td><div class="inquiry-label-column">How did you hear about us? (optional):</div></td>
-	<td><div class="inquiry-input-column">		<select name="00N70000002IdJJ" title="How did you hear about us? (optional)">
-		<option value="None">&nbsp;</option>
-		<option value="Online">Online</option>
-		<option value="Magazine / Newspaper">Magazine / Newspaper</option>
-		<option value="Event">Event</option>
-		<option value="Friend">Friend</option>
-		<option value="Television">Television</option>
-		<option value="Other">Other</option>
-	    </select></div></td>
-</tr>
-<tr>
-	<td><div class="inquiry-label-column"></div></td>
-	<td><div class="inquiry-input-column">
-	
-
-<input type="hidden" name="formfooter" value="true">
-    <input name="submit" class="submit" type="submit" value="Submit">
-    </div></td>
-</tr>
-	
-</tbody></table>
-</form>
-
-
-
-</div>
-<div class="privacy">If you enter a question in the form above, your information will be shared with the nearest authorized Zero Motorcycles dealer to ensure a quick and informative answer.</div>
-</div>
-</div>
-<div class="hide-if-js"><div class="signup-button">&nbsp;<span style="color:#FFC600">»</span>&nbsp;<a href="/newsletter/subscribe/" class="bottom-link">Sign-up for the Newsletter</a></div>
-<div class="signup-button">&nbsp;<span style="color:#FFC600">»</span>&nbsp;<a href="/demo-rides/" class="bottom-link">Schedule a Demo</a></div></div></div>
-					<div id="footer-addthis-area">						<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
-						<a class="addthis_button_email"></a>
-						<a class="addthis_button_facebook"></a>
-						<a class="addthis_button_twitter"></a>
-						<a class="addthis_button_compact"></a>
-						</div>
-						<script type="text/javascript">var addthis_config = {"data_track_clickback":false};</script>
-						<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=zeromotorcycles"></script>					</div>
+<footer id="zm-main-footer" class="white w-100 border-box bg-near-black">
+	<div class="w-100 ph2 ph4-m pv4 pv5-m bg-dark-gray cf">
+		<div class="w-100 mw8 center flex flex-wrap justify-between">
+			<div class="footer__column">
+				<h4 class="mt0">About</h4>
+				<ul class="f6 tracked ttu list mv0 pl0">
+				<li class="mb3"><a href="/company/" class="condensed link dim silver">Who We Are</a></li>
+				<li class="mb3"><a href="/company/employment.php" class="condensed link dim silver">Employment</a></li>
+				<li class="mb3"><a href="/media-center/" class="condensed link dim silver">Media Center</a></li>
+				<li class="mb3"><a href="/news.php" class="condensed link dim silver">News</a></li>
+				<li class="mb3"><a href="/high-res-photos/" class="condensed link dim silver">High Res Images</a></li>
+				</ul>
+			</div>
+			<div class="footer__column">
+				<h4 class="mt0">Interact</h4>
+				<ul class="f6 tracked ttu list mv0 pl0">
+				<li class="mb3"><a href="/contact.php" class="condensed link dim silver">Contact Us</a></li>
+				<li class="mb3"><a href="/locator/" class="condensed link dim silver">Find a Dealer</a></li>
+				<li class="mb3"><a href="/events.php" class="condensed link dim silver">Events</a></li>
+				<li class="mb3"><a href="/owner-resources/" class="condensed link dim silver">Owners</a></li>
+				</ul>
+			</div>
+			<div class="footer__column">
+				<h4 class="mt0">Commercial</h4>
+				<ul class="f6 tracked ttu list mv0 pl0">
+				<li class="mb3"><a href="/fleet/" class="condensed link dim silver">Fleet Programs</a></li>
+				<li class="mb3"><a href="/company/dealer/" class="condensed link dim silver">Become a Dealer</a></li>
+				</ul>
+			</div>
+			<div class="footer__column">
+				<h4 class="mt0">Purchase</h4>
+				<ul class="f6 tracked ttu list mv0 pl0">
+				<li class="mb3"><a href="/consumer_financing.php" class="condensed link dim silver">Financing</a></li>
+				<li class="mb3"><a href="/incentives/" class="condensed link dim silver">Incentives</a></li>
+				<li class="mb3"><a href="/shop/index.php?main_page=index&amp;myCountry=223" class="condensed link dim silver">Shop</a></li>
+				<li class="mb3"><a href="/promo/" class="condensed link dim silver">Promotions</a></li>
+				</ul>
+			</div>
+			<div class="footer__column--ctas">
+				<div class="db mb3">
+		  			<a href="/demo-rides/" class="btn--cta ">
+	<span class="btn__text">Schedule a Demo</span>
+	<svg class="btn__icon" data-icon="chevronRight" viewBox="0 0 32 32">
+	<path d="M12 1 L26 16 L12 31 L8 27 L18 16 L8 5 z"></path>
+	</svg>
+</a>
 				</div>
-			</td>
-		</tr>
-	</tbody></table>
+				<div class="db">
+		  			<a href="/newsletter/subscribe/" class="btn--cta ">
+	<span class="btn__text">Newsletter signup</span>
+	<svg class="btn__icon" data-icon="chevronRight" viewBox="0 0 32 32">
+	<path d="M12 1 L26 16 L12 31 L8 27 L18 16 L8 5 z"></path>
+	</svg>
+</a>
+				</div>
+			</div>
+		</div>
+	</div>
+<div class="f7 gray w-100 center ph3 ph4-ns bg-near-black cf">
+	<div class="w-100 mw8 center flex flex-wrap justify-between">
+	<div class="relative mv1-m pt3 pb2 pb3-m">
+		<button class="js--selectCountry--trigger selectCountry">
+			<span class="selectCountry__itemFlag">
+				<img src="http://cdn.zeromotorcycles.net/images/flags/site-select/us_2171e216.png" alt="United States">
+			</span>
+			Select Country
+		</button>
+		<div class="js--selectCountry--list selectCountry__list">			<div class="mb2 pb2 bb b--moon-gray">
+			<h6 class="ttu condensed db mt0 mb1">North America</h6>
+			<a class="near-black link dim db" data-zm-cc="ca" href="/ca/">
+				<span class="selectCountry__itemFlag">
+					<img src="http://cdn.zeromotorcycles.net/images/flags/site-select/ca_e20a5138.png" alt="Canada (English)">
+				</span>
+				Canada (English)
+			</a>
+			<a class="near-black link dim db" data-zm-cc="qc" href="/qc/">
+				<span class="selectCountry__itemFlag">
+					<img src="http://cdn.zeromotorcycles.net/images/flags/site-select/ca_e20a5138.png" alt="Canada (Français)">
+				</span>
+				Canada (Français)
+			</a>
+			<a class="near-black link dim db" data-zm-cc="us" href="/">
+				<span class="selectCountry__itemFlag">
+					<img src="http://cdn.zeromotorcycles.net/images/flags/site-select/us_2171e216.png" alt="United States">
+				</span>
+				United States
+			</a>
+			</div>
+			<div class="mb2 pb2 bb b--moon-gray">
+			<h6 class="ttu condensed db mt0 mb1">Europe</h6>
+			<a class="near-black link dim db" data-zm-cc="de" href="/de/">
+				<span class="selectCountry__itemFlag">
+					<img src="http://cdn.zeromotorcycles.net/images/flags/site-select/de_e2227152.png" alt="Deutschland">
+				</span>
+				Deutschland
+			</a>
+			<a class="near-black link dim db" data-zm-cc="es" href="/es/">
+				<span class="selectCountry__itemFlag">
+					<img src="http://cdn.zeromotorcycles.net/images/flags/site-select/es_28c7e07b.png" alt="España">
+				</span>
+				España
+			</a>
+			<a class="near-black link dim db" data-zm-cc="fr" href="/fr/">
+				<span class="selectCountry__itemFlag">
+					<img src="http://cdn.zeromotorcycles.net/images/flags/site-select/fr_59029685.png" alt="France">
+				</span>
+				France
+			</a>
+			<a class="near-black link dim db" data-zm-cc="it" href="/it/">
+				<span class="selectCountry__itemFlag">
+					<img src="http://cdn.zeromotorcycles.net/images/flags/site-select/it_b8242dd6.png" alt="Italia">
+				</span>
+				Italia
+			</a>
+			<a class="near-black link dim db" data-zm-cc="nl" href="/nl/">
+				<span class="selectCountry__itemFlag">
+					<img src="http://cdn.zeromotorcycles.net/images/flags/site-select/nl_1cf2f5a0.png" alt="Nederland">
+				</span>
+				Nederland
+			</a>
+			<a class="near-black link dim db" data-zm-cc="eu" href="/eu/">
+				<span class="selectCountry__itemFlag">
+					<img src="http://cdn.zeromotorcycles.net/images/flags/site-select/eu_2ef35b01.png" alt="Other EU (English)">
+				</span>
+				Other EU (English)
+			</a>
+			</div>
+			<div>
+			<h6 class="ttu condensed db mt0 mb1">Middle East</h6>
+			<a class="near-black link dim db" target="_blank" href="http://www.zeromotorcycles.co.il/zero/index.html">
+				<span class="selectCountry__itemFlag">
+					<img src="http://cdn.zeromotorcycles.net/images/flags/site-select/il_5497e2fc.png" alt="Israel">
+				</span>
+				Israel
+			</a>
+			</div>
+			<button class="js--selectCountry--trigger selectCountry__close">×</button>
+		</div>
+	</div>		<div class="pv3">
+			<span class="mv1 dib"><a class="gray link dim" href="/contact.php">Contact</a>: <a href="tel:+18887869376" class="gray link dim">(888) RUN-ZERO</a></span>
+			<span class="ph2">|</span>
+			<span class="mv1 dib"><a class="gray link dim" href="/company/employment.php">Employment</a></span>
+			<span class="ph2">|</span>
+			<span class="mv1 dib"><a class="gray link dim" href="/legal/privacy-policy.php">Privacy Policy - Terms of Service</a></span>
+			<span class="ph2">|</span>
+			
+			<span class="mv1 dib">2017 Copyright Zero Motorcycles, Inc. All rights reserved</span>
+		</div>
+	</div>
 </div>
-<div id="footer-outer">
-	<div id="footer-content">	<div id="footer-country-select">
-		<a class="flag bottom-link" href="#"><img src="http://cdn.zeromotorcycles.net/images/flags/usa_11226.jpg" alt=""> Select Country</a>
-		<div id="footer-country-menu1">
-		<div id="footer-country-menu2"><div class="footer-region">North America</div>
-<a class="footer-country-link" href="/ca/" id="footer-ca"><img src="http://cdn.zeromotorcycles.net/images/flags/canada_11226.jpg" alt="">Canada (English)</a>
-<a class="footer-country-link" href="/qc/" id="footer-qc"><img src="http://cdn.zeromotorcycles.net/images/flags/canada_11226.jpg" alt="">Canada (Français)</a>
-<a class="footer-country-link" href="/" id="footer-us"><img src="http://cdn.zeromotorcycles.net/images/flags/usa_11226.jpg" alt="">United States</a>
-<div class="footer-region-sep"></div>
-<div class="footer-region">Europe</div>
-<a class="footer-country-link" href="/de/" id="footer-de"><img src="http://cdn.zeromotorcycles.net/images/flags/germany_11226.jpg" alt="">Deutschland</a>
-<a class="footer-country-link" href="/es/" id="footer-es"><img src="http://cdn.zeromotorcycles.net/images/flags/spain_11226.jpg" alt="">España</a>
-<a class="footer-country-link" href="/fr/" id="footer-fr"><img src="http://cdn.zeromotorcycles.net/images/flags/france_11226.jpg" alt="">France</a>
-<a class="footer-country-link" href="/it/" id="footer-it"><img src="http://cdn.zeromotorcycles.net/images/flags/italy_11226.jpg" alt="">Italia</a>
-<a class="footer-country-link" href="/nl/" id="footer-nl"><img src="http://cdn.zeromotorcycles.net/images/flags/netherlands_11679.jpg" alt="">Nederland</a>
-<a class="footer-country-link" href="/eu/" id="footer-eu"><img src="http://cdn.zeromotorcycles.net/images/flags/eu_11226.jpg" alt="">Other EU (English)</a>
-<div class="footer-region-sep"></div>
-<div class="footer-region">Pacific</div>
-<a class="footer-country-link" href="/au/" id="footer-au"><img src="http://cdn.zeromotorcycles.net/images/flags/australia_11226.jpg" alt="">Australia</a>
-<div class="footer-region-sep"></div>
-<div class="footer-region">Middle East</div>
-<a class="footer-country-link" target="_blank" href="http://www.zeromotorcycles.co.il/zero/index.html" id="footer-il"><img src="http://cdn.zeromotorcycles.net/images/flags/israel_17275.jpg" alt="">Israel</a>
-		</div>
-		</div>
-	</div><a class="bottom-link" href="/contact.php">Contact</a>: (888) RUN-ZERO
-&nbsp;&nbsp;|&nbsp;&nbsp;<a class="bottom-link" href="/company/employment.php">Employment</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;<a class="bottom-link" href="/legal/privacy-policy.php">Privacy Policy - Terms of Service</a>
+</footer>
+</div>
 
-&nbsp;&nbsp;|&nbsp;&nbsp; ©2017 Copyright Zero Motorcycles, Inc. All rights reserved	</div>
-</div>
-</div>
+
+
+<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/vendor.min_764fc7e7.js"></script>
+<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/site.min_f1996c38.js"></script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
