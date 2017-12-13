@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlespicejar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111514id_/http%3A//littlespicejar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlespicejar.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213102940id_/http%3A//littlespicejar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Little Spice Jar
 
@@ -8,7 +8,7 @@ Should we ask you to provide certain information by which you can be identified 
 
 <company name> may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from date.
 
-**What we collect**
+ **What we collect**
 
 We may collect the following information:
 
@@ -18,7 +18,7 @@ We may collect the following information:
 
 
 
-**What we do with the information we gather**
+ **What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -28,11 +28,11 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-**Security**
+ **Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**How we use cookies**
+ **How we use cookies**
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -42,15 +42,15 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Advertising**
+ **Advertising**
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
-**Links to other websites**
+ **Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**Controlling your personal information**
+ **Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
