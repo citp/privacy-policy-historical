@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackfriday.info privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610065523id_/https%3A//blackfriday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackfriday.info privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213234326id_/https%3A//blackfriday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for BlackFriday.com
 
