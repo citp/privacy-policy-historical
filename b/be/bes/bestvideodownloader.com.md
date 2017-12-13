@@ -1,108 +1,100 @@
-> *The following text is extracted and transformed from the bestvideodownloader.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429015113id_/http%3A//www.bestvideodownloader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestvideodownloader.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213053653id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# YouTube Downloader Privacy Policy | Best Video Downloader
+# Legal Agreement
 
-Alactro LLC ("Best Video Downloader") respects the privacy of its users and non-users. This privacy policy discloses any information we obtain and how we use it. Best Video Downloader also goes to great lengths to ensure that the information and content that users add to our system is secure and only accessible to intended users. Best Video Downloader may modify this policy from time to time, and the changes will be posted here. 
+**GoDaddy Respects Your Privacy**
 
-###  INFORMATION DISCLOSURES
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Best Video Downloader reserves the rights to disclose personally-identifiable information in the following cases: 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-  1. To respond to subpoenas, court orders, or legal processes. Or to establish and exercise our legal rights to defend against legal claims; 
-  2. If Alactro LLC ("Best Video Downloader") is acquired by or merged with another company, we might transfer your personal and non-personal information to that company. When this happens, Best Video Downloader will notify you before any information is transferred.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
+**Information Collection and Use**
 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you use Best Video Downloader services or visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-###  NO ERROR-FREE PERFORMANCE
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Best Video Downloader does not guarantee error-free performance. Best Video Downloader will always try its best to protect its user and data privacy; however, it may not catch all unintended privacy issues. Best Video Downloader is not responsible for any damages, including incidental, consequential, or punitive damages, relating to the practices described in this policy. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-###  Third party links
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-###  California Online Privacy Protection Act Compliance
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+**Security**
 
-Childrens Online Privacy Protection Act Compliance 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+**Updating Your Information**
 
-###  Online Privacy Policy Only
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-###  What information do we collect?
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-We may collect contact information from you when you register on our site or enter a contest.   
-When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously. 
+      iii.      You may call us at: (480) 505-8800
 
-###  What do we use your information for?
+       iv.      You may fax us at: (480) 505-8844
 
-Any of the information we collect from you may be used in one of the following ways by Best Video Downloader or our strategic affiliates or partners. We exercise the greatest precaution and prudence when sharing user information with our strategic affiliates and partners.
+**Sending Emails**
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails about our service
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
+**Compliance with Laws and Law Enforcement**
 
-The email address you provide for order processing may be used to send you information and updates pertaining to your user account, in addition to receiving occasional company news, updates, related product or service information, etc.  
-**Note:** If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-###  How do we protect your information?
+**Third Party Service Providers**
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-###  BROWSER COOKIES
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. Nearly all usage data we collect is not personally indentifiable or private. 
+**Supplementation of Information**
 
-###  ACCEPTANCE
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-This privacy policy is incorporated into and subject to Best Video Downloader's [Terms of Service](https://web.archive.org/terms). Use of Best Video Downloader's services is subject to your compliance with those terms and conditions, which constitute a legal agreement between you and Best Video Downloader Technology, Inc. THE USE OF THIS WEB SITE AND Best Video Downloader APPLICATIONS CONSTITUTES THE ACCEPTANCE OF BOTH TERMS OF SERVICE AND PRIVACY POLICY AGREEMENTS. If you do not agree with the terms and conditions of either document, please discontinue using any of Best Video Downloader's services.
+**Contests/Surveys**
 
-###  Contacting Us
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-<http://www.bestvideodownloader.com/contactus>
+**Tell-A-Friend**
 
-Alactro LLC ("Best Video Downloader")  
-2885 Sanford Ave SW #18327  
-Grandville, MI 49418
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-[terms@bestvideodownloader.com](mailto:terms@bestvideodownloader.com)
+**What Happens to my Personal Information if I Opt Out?**
 
-###  Yontoo Layers Information Collection and Transfer
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-To provide services to the User, Best Video Downloader requires Yontoo Layers software to be installed. Yontoo is a browser plugin platform that enables application developers to build browser applications such as Best Video Downloader.
+**Transfer of Data Abroad**
 
-When you install Yontoo Layers a set of non-personally identifiable values are stored on your computer and transferred back and stored on Yontoo’s servers. This set of data consists of a randomly generated value that identifies the Yontoo Plug-in associated with each of your Yontoo supported browsers, and a randomly generated value representing your computer. These non-personally identifiable values enable Yontoo to provide you with the services and Layer Apps that you have selected to enable.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-Once you have installed Yontoo Layers, each time you load or refresh a page in one of the Yontoo supported browsers, a request will be made to a Yontoo owned server to determine whether or not you have enabled any Services for the domain you are currently browsing. To determine this, the request made by Yontoo Layers will collect and pass back the following non-personally identifiable information: The unique identifier representing the Yontoo Layers plug-in installed in your browser and the URL representing the domain and page you are currently browsing. This data is used for the sole purpose of determining whether or not you have enabled any Layer Apps for the given domain and page. This Web usage information is never stored on Yontoo’s servers.
+**Changes in Our Practices**
 
-If you utilize one of the Layer Apps that runs on the Facebook domain, Yontoo may also collect your Facebook username and user ID. This information will be stored in a cookie on your computer, and passed back as part of the aforementioned request. The sole purpose of this additional information is to provide you with a more personalized experience while utilizing Facebook related Layer Apps. This information will be stored on Yontoo’s servers and is correlated with the above-mentioned Yontoo plug-in identifier.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-No information from children under age 13. If you are under age 13, please do not attempt to register for Yontoo Layers or provide any personal information about yourself to Yontoo. If Yontoo learns that they have collected personal information from a child under age 13, they will delete that information as quickly as possible. If you believe that Yontoo might have any information from a child under age 13, please contact Yontoo through its support page (http://www.yontoo.com/Support.aspx).
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-Parental participation: Yontoo strongly recommends that minors ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe internet use practices. 
+**Contacting Our Site**
 
-This information collection, transfer and storage as described in this section, is required for Yontoo Layers functionality. If you do not wish for any of this information to be collected or potentially shared as described in the following section (Yontoo Layers Information Sharing), you should not use the Yontoo Software or Services.
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-###  Yontoo Layers Information Sharing
+* * *
 
-Yontoo may collect and analyze your usage patterns such as which sites you visit, that are not personally identifiable. These non-personally identifiable data are used to improve Yontoo’s services, and may be shared with third parties.
-
-Yontoo Layers may engage with third party analytics providers, such as Google Analytics, to provide Yontoo with data to improve its software and services. Any information, such as URL visited, that Yontoo provides to one of these third parties is not personally identifiable.
-
-Yontoo reserves the right to track and use aggregate information about users of Yontoo Layers, such as operating system, browser type and locality, for a variety of purposes. Such aggregate information does not identify individual consumers. We may share such aggregate and related demographic information with third parties.
-
-###  Yontoo Layers Privacy Policy
-
-Yontoo respects the privacy of its users and non-users. Yontoo goes to great lengths to ensure that the information collected by Yontoo Layers is secure and only accessible by intended users. Yontoo may modify this policy from time to time, and the changes will be posted on the Yontoo website (http://www.yontoo.com/PrivacyPolicy.aspx). 
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
