@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebooks-share.net privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428140424id_/http%3A//www.ebooks-share.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks-share.net privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213031006id_/http%3A//www.books-share.com/privacy-policy) for the most accurate reproduction.*
 
-# eBooks-share.net - Privacy Policy
+# Books-share.com - Privacy Policy
 
 **What information do we collect?**
 
