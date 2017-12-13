@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playgames3d.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613161734id_/http%3A//www.playgames3d.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgames3d.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213233419id_/http%3A//www.playgames3d.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -62,9 +62,9 @@ c)    Combination of Personal Data
 
 5.2    Users with a personal profile on the Websites may review, update, or delete personal data collected by us by clicking on the appropriate link in the personal profile. 
 
-5.3    In general, if you wish to have access to your personal data to correct or delete the information that we have collected about you, please send an email to playgamesnetwork@gmail.com, detailing your request and the data you have provided to us along with a copy of your passport (to prevent misuse of requests for information). 
+5.3    In general, if you wish to have access to your personal data to correct or delete the information that we have collected about you, please send an email to [[email protected]](http://www.playgames3d.com/cdn-cgi/l/email-protection), detailing your request and the data you have provided to us along with a copy of your passport (to prevent misuse of requests for information). 
 
-5.4    Parents of users under the age of 16: If you wish to have access to your child's personal data to view, correct, or delete the information that we have collected about your child, please send an email to playgamesnetwork@gmail.com, detailing your request along with a copy of your passport (to prevent misuse of requests for information). 
+5.4    Parents of users under the age of 16: If you wish to have access to your child's personal data to view, correct, or delete the information that we have collected about your child, please send an email to [[email protected]](http://www.playgames3d.com/cdn-cgi/l/email-protection), detailing your request along with a copy of your passport (to prevent misuse of requests for information). 
 
 6.  Security 
 
@@ -86,4 +86,4 @@ c)    Combination of Personal Data
 
 7.5    We also have Terms of Use that are applicable to your use of the Websites. In the case of a contradiction between the Terms of Use and this Privacy Policy, this Privacy Policy prevails. 
 
-If you have any additional questions or requests, you may send an email to  **playgamesnetwork@gmail.com**
+If you have any additional questions or requests, you may send an email to  **[[email protected]](http://www.playgames3d.com/cdn-cgi/l/email-protection)**
