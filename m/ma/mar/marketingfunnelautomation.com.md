@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingfunnelautomation.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610235418id_/http%3A//marketingfunnelautomation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingfunnelautomation.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213192834id_/http%3A//marketingfunnelautomation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,7 +65,7 @@ MarketingFunnelAutomation.com is dedicated to ensuring compliance with the Can
 
 To ensure compliance with the Can-Spam Act, MarketingFunnelAutomation.com has implemented the following guidelines for email delivery:
 
-  * All emails sent to you by MarketingFunnelAutomation.com will clearly identify MarketingFunnelAutomation.com as the sender. FROM / SENDER: someone@MarketingFunnelAutomation.com or someone@sixfigurefunnelformula.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @MarketingFunnelAutomation.com or @SixFigureFunnelFormula.com).
+  * All emails sent to you by MarketingFunnelAutomation.com will clearly identify MarketingFunnelAutomation.com as the sender. FROM / SENDER: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) (NOTE: The actual sender will alter from department to department, but all from addresses will end with @MarketingFunnelAutomation.com or @SixFigureFunnelFormula.com).
   * The Subject Line of any email you receive will always accurately describe the subject matter of the email.
   * Any email from MarketingFunnelAutomation.com will include the ability to unsubscribe from future email messages.
   * Unsubscribing will ensure the customer is removed from ALL lists at MarketingFunnelAutomation.com; this excludes customer service emails regarding the processing and status of a current product.
