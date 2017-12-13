@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcci.tv privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624032920id_/http%3A//www.bcci.tv/about/2017/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcci.tv privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213011931id_/http%3A//www.bcci.tv/about/2017/privacy-policy) for the most accurate reproduction.*
 
 # The Board Of Control For Cricket In India
 
