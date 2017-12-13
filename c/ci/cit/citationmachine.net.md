@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citationmachine.net privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627204119id_/http%3A//www.chegg.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citationmachine.net privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213133035id_/http%3A//www.chegg.com/privacypolicy) for the most accurate reproduction.*
 
 # Chegg.com
 
