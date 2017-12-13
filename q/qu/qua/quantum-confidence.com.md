@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantum-confidence.com privacy policy that was archived on 2017-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170109032934id_/http%3A//quantum-confidence.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantum-confidence.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213153150id_/http%3A//quantum-confidence.com/privacy.htm) for the most accurate reproduction.*
 
 # Quantum Confidence With The Morry MethodTh
 
