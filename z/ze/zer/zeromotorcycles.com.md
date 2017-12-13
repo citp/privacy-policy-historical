@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeromotorcycles.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613063741id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeromotorcycles.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213115701id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy || ZERO MOTORCYCLES
 
@@ -8,15 +8,15 @@
 
 [Terms of Sale](https://web.archive.org/legal/terms-of-sale.php)
 
-[UK Terms and Conditions](https://web.archive.org/web/20170613063741id_/http%3A//www.zeromotorcycles.com/legal/terms-and-conditions.php)
+[UK Terms and Conditions](https://web.archive.org/web/20171213115701id_/http%3A//www.zeromotorcycles.com/legal/terms-and-conditions.php)
 
-[French Terms and Conditions](https://web.archive.org/web/20170613063741id_/http%3A//www.zeromotorcycles.com/legal/french-terms-and-conditions.php)
+[French Terms and Conditions](https://web.archive.org/web/20171213115701id_/http%3A//www.zeromotorcycles.com/legal/french-terms-and-conditions.php)
 
-[Spanish Terms and Conditions](https://web.archive.org/web/20170613063741id_/http%3A//www.zeromotorcycles.com/legal/spanish-terms-and-conditions.php)
+[Spanish Terms and Conditions](https://web.archive.org/web/20171213115701id_/http%3A//www.zeromotorcycles.com/legal/spanish-terms-and-conditions.php)
 
-[German Terms and Conditions](https://web.archive.org/web/20170613063741id_/http%3A//www.zeromotorcycles.com/legal/german-terms-and-conditions.php)
+[German Terms and Conditions](https://web.archive.org/web/20171213115701id_/http%3A//www.zeromotorcycles.com/legal/german-terms-and-conditions.php)
 
-[Italian Terms and Conditions](https://web.archive.org/web/20170613063741id_/http%3A//www.zeromotorcycles.com/legal/italian-terms-and-conditions.php)
+[Italian Terms and Conditions](https://web.archive.org/web/20171213115701id_/http%3A//www.zeromotorcycles.com/legal/italian-terms-and-conditions.php)
 
 | 
 
