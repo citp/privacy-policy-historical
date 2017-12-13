@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreammanifesto.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627092324id_/http%3A//www.dreammanifesto.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammanifesto.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213141231id_/http%3A//www.dreammanifesto.com/privacy-statement) for the most accurate reproduction.*
 
 # Inspire3 Ltd - Privacy Policy
 
@@ -10,7 +10,8 @@ Your privacy is important to us. That's why we've created this simplified privac
 
   * We are Inspire3 Ltd, with our homepage at [www.inspire3.com](http://www.inspire3.com/).
   * Our address is 20-22 Wenlock Road, London, N1 7GU, United Kingdom.
-  * You can reach our support team at [ awesome@inspire3.com](mailto:awesome@inspire3.com), or call us in the UK on (+44) 7092 17 18 19.
+  * You can reach our support team at [ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e9889e8c9a86848ca980879a99809b8cdac78a8684), or call us in the UK on (+44) 207 183 2674.
+  * We are registered as a limited company in the UK. Our company number is 06609964.
   * "We", "us" and "our" on this page refer to Inspire3 Ltd.
 
 
@@ -46,7 +47,7 @@ Your privacy is important to us. That's why we've created this simplified privac
 ### What We Do With Your Information
 
   * We will use the information you provide to help complete the service you have asked of us.
-  * For email subscriptions, we will use this data to send you the information you requested - such as our regular newsletter.
+  * For email subscriptions, we will use this data to send you the information you requested, and subscribe you to our regular newsletter.
   * For purchases, we will use this data to complete the order - such as sending out download links, or physically mailing out a product.
   * If you have provided your telephone number to us, we may call you to check on your progress, and maybe offer additional coaching.
   * If you have provided your mailing address, we may send you extra material that we deem relevant.
