@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeextension.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614101746id_/http%3A//www.lifeextension.com/Legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeextension.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213110327id_/http%3A//www.lifeextension.com/Legal/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Life Extension
 
