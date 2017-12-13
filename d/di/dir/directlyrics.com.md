@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directlyrics.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624052656id_/https%3A//www.directlyrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directlyrics.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213231437id_/http%3A//www.directlyrics.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Directlyrics
 
 This website Directlyrics.com (Directlyrics) provides a content service to you (the “Service(s)”), subject to the following Privacy Policy, which may be updated from time to time without notice to you. Your use of the Service constitutes acceptance of this Privacy Policy and creates a binding legal agreement, so read them carefully. This Privacy Policy applies only to information that you provide to us through Directlyrics, and when you access, download, purchase or use any information, services, products or content appearing on Directlyrics. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on Directlyrics. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to this Site and its affiliates thereto.
 
