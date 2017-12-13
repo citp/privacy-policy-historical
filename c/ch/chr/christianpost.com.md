@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianpost.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627210736id_/http%3A//www.christianpost.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianpost.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213233948id_/http%3A//www.christianpost.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Christian news, Christian Post
 
@@ -6,7 +6,7 @@
 
 Last updated on April 15 2015
 
-This page describes the terms and conditions that govern your use of The Christian Post digital properties, including [www.ChristianPost.com](http://www.christianpost.com/), mobile sites and applications, offered by The Christian Post and certain of its subsidiaries (“CP”, “us” or “we”).
+This page describes the terms and conditions that govern your use of The Christian Post digital properties, including [www.ChristianPost.com](https://www.christianpost.com/), mobile sites and applications, offered by The Christian Post and certain of its subsidiaries (“CP”, “us” or “we”).
 
 #### INFORMATION THAT WE GATHER
 
@@ -113,7 +113,7 @@ We reserve the right to disclose your opt-out information to third parties so th
 
 #### How to Access, Correct or Update Your Information
 
-You may review and update your The Christian Post account information and access your transaction history in the CP Friend area. There are a number of things you can do in the CP Friend area to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the registration process. If you do not remember your password, you can reset your password here. If you need further assistance, please contact us at <http://www.christianpost.com/aboutus/contactus.html>.
+You may review and update your The Christian Post account information and access your transaction history in the CP Friend area. There are a number of things you can do in the CP Friend area to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the registration process. If you do not remember your password, you can reset your password here. If you need further assistance, please contact us at <https://www.christianpost.com/aboutus/contactus.html>.
 
 #### Compliance With Legal Process
 
