@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etoro.es privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617122328id_/https%3A//www.etoro.com/en/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoro.es privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213231734id_/https%3A//www.etoro.com/en/customer-service/privacy) for the most accurate reproduction.*
 
 # eToro Social Trading Privacy Policy | eToro
 
