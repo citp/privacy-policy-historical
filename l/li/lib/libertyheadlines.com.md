@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertyheadlines.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613164359id_/http%3A//www.libertyheadlines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertyheadlines.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213110534id_/http%3A//www.libertyheadlines.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Liberty Headlines
 
@@ -39,3 +39,6 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, Liberty Headlines may change its Privacy Policy from time to time, and in Liberty Headlines' sole discretion. Liberty Headlines encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a LibertyHeadlines.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+[ Click here for reuse options!  
+Copyright 2016 Liberty Headlines](https://repubhub.icopyright.net/freePost.act?tag=3.20278?icx_id=589)
