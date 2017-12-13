@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareator.net privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420143619id_/http%3A//shareator.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareator.net privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213054723id_/http%3A//shareator.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GameBase
 
