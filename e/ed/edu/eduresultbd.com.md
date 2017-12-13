@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduresultbd.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623155020id_/http%3A//eduresultbd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduresultbd.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214002346id_/http%3A//eduresultbd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |eduresultbd.com
 
