@@ -1,69 +1,100 @@
-> *The following text is extracted and transformed from the graspr.com privacy policy that was archived on 2008-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080925183515id_/http%3A//www.graspr.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graspr.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213053653id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Graspr.com - How-to Videos – Privacy Policy
+# Legal Agreement
 
-At Graspr, we take your privacy seriously. This Privacy Policy applies to all of the products, services and website, located at the URL: [http://www.graspr.com/PrivacyPolicy/](https://web.archive.org/PrivacyPolicy/) (the “Site”) offered by Graspr Inc. or its subsidiaries or affiliated companies.   
-**Information we collect:**   
-We offer a number of services that do not require you to register for an account or provide any personal information to us, for instance, you can watch videos on Graspr without having a Graspr account.  To use certain other services on Graspr, however, for example, uploading videos, posting comments or watching restricted videos, we require you to have a Graspr account. In order to provide a full range of services, we may collect the following types of information:
+**GoDaddy Respects Your Privacy**
 
-  * **Information you provide when registering for a Graspr account or completing a profile** \- When you sign up for a [Graspr account](http://www.google.com/privacy_faq.html#account) or other Graspr service or promotion that requires registration, we ask you for personal information such as your email address, username and account password. We may combine the information you submit when registering for your account with information from your use of other Graspr services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. In addition, if you complete a profile on the Site, we may also collect personal information such as your first and last name, state of residence, hobbies, preferences and any other contact information that you voluntarily transmit with your communication to us. 
-  * **Graspr cookies** **and web beacons** \- When you visit the Site, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Graspr features and services may not function properly if your cookies are disabled. We may record information about your usage, such as when you use Graspr services, channels, groups, and favorites you subscribe to, the contacts you communicate with, and the frequency and size of data transfers, as well as information you display or click on in Graspr (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account. We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track which emails are opened by recipients. 
-  * **Log information** \- When you use Graspr services, our servers automatically record information that your browser sends whenever you visit a website. These [server logs](http://www.google.com/privacy_faq.html#serverlogs) may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
-  * **User communications** \- When you send email or other communication to Graspr, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
-  * **Affiliated sites** \- We offer some of our services in connection with, and/or link to, other web sites. Personal information that you provide to those sites may be sent to Graspr in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices, and we encourage you to read their privacy policies. 
-  * **Links** \- Graspr may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our customized content and advertising. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**How we use your Personal Information:**   
-Graspr only processes personal information for the purposes described in this Privacy Policy and/or privacy notices that may be posted that are only relevant to the functionality offered by certain specific services. In addition to the above, such purposes include: 
+**Information Collection and Use**
 
-  * Operating, maintaining, and providing to you features and functionality of our products and services to users; 
-  * Ensuring the technical functioning of our network;  
-  * Protecting your account from unauthorized access and verifying your authority to enter the Site; 
-  * Developing new services; 
-  * Using cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests; and
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-  * Improving the quality and design of the Site and services to create new features, promotions, functionality, and services by storing, tracking, and analyzing user preferences and trends. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Site changes or for customer service purposes). 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Graspr processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.   
-**Information sharing**   
-Graspr only shares personal information with other companies or individuals outside of Graspr in the following limited circumstances: 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. 
-  * We will also disclose your personally identifiable information (a) only if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an ongoing investigation of a governmental authority, (b) enforce the Graspr [Terms of Service](http://www.google.com/terms_of_service.html) agreement, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Graspr, its users or the public as required or permitted by law. 
-  * We may share with third parties certain pieces of [aggregated, non-personal information](http://www.google.com/privacy_faq.html#aggregatedinfo), such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. 
+**Security**
 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
+**Updating Your Information**
 
-We will not sell your personally identifiable information to any company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Graspr participates or to a purchaser or acquirer of all or substantially all of Graspr’s assets to which this Site relate. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**Children's Privacy**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Graspr recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children’s online activities and interests.  The Site is not intended for children under the age of 13.  Graspr does not target its services or this Site to children under 13.  Graspr does not knowingly collect personally identifiable information from children under the age of 13. 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Chat Rooms, Journals, WebLogs, Message Boards, Playback and Profile Pages, Videos and Public Forums**  
-Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others.  
-Your account name (not your email address) is displayed to other users when you upload videos or send messages through this Site and other users can contact you through messages and comments. Any videos that you submit to the Site may be redistributed through the Internet and other media channels, and may be viewed by the general public. 
+      iii.      You may call us at: (480) 505-8800
 
-**Invitations and Other Communications to Non-Members**
+       iv.      You may fax us at: (480) 505-8844
 
-**Graspr users are encouraged to invite friends to join the Site and register for the services by sending e-mail invitations via an automated invitation system or other delivery method, online or offline.   Graspr stores the e-mail addresses or other user data that users provide so that the respondents may be added to the inviter’s list of friends on its personal page.  Graspr does not sell these e-mail addresses or other user information or use them to send any other communications other than invitations.  Invitees may contact Graspr to request the removal of their e-mail address from our database.**   
-**Information security**   
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.   
-We restrict access to personal information to Graspr employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.   
-**Data integrity**   
-Graspr processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.   
-**Changes to this Privacy Policy**   
-Graspr reserves the right to change the terms of this Privacy Policy at any time and will post notice of the updated Privacy Policy on the Site located at http://www.graspr.com/html/privacy.php so you are always aware of what personally identifiable information we may collect and how we may use this information. Graspr may also send registered users of the Site e-mail notifications notifying such users of any changes to the Privacy Policy.  Graspr encourages you to review this Privacy Policy regularly for any changes.  Your continued use of the Site and/or continued provision of personally identifiable information to use will be subject to the terms of then then-current Privacy Policy.
+**Sending Emails**
 
-**Correcting/Updating Personally Identifiable Information**  
-Graspr provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us in your user account and/or profile, but you should understand that this does not give you the ability to delete any content and/or material that you have posted to the Site, including, without limitation, blogs, videos, audio and/or pictures, that is posted in areas other than your user profile.  Once we have deleted or removed your user profile, you agree that Graspr shall not be responsible for any personally identifiable information that was not included within your deleted and/or removed user profile that remains on the Site.  If you wish to review or correct any information you have provided to us, you may access your account and review, correct and delete your personally identifiable information.  
-If you have any questions about this Privacy Policy, please feel free to [contact us](http://www.graspr.com/Contact/) through our website or write to us at Graspr, Inc., ATTN: Privacy Advocacy, 779 E Evelyn Ave, Ste D Mountain View, CA 94041.   
-This Privacy Policy was last updated: September 25, 2007   
-This Privacy Policy is effective as of: September 25, 2007
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
