@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmfreshtoyou.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092657id_/http%3A//www.farmfreshtoyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmfreshtoyou.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213013352id_/http%3A//www.farmfreshtoyou.com/privacy-policy) for the most accurate reproduction.*
 
 # Farm Fresh To You - Privacy Policy
 
@@ -32,7 +32,7 @@ The Company does share non-personally identifiable information (such as anonymou
 
 The Company may release personally identifiable information and/or non-personally identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena or search warrant. 
 
-The Company also reserves the right to disclose personally identifiable information and/or non-personally identifiable information that the Company believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20170606092657id_/http%3A//www.farmfreshtoyou.com/terms-of-use.html), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of its Website and to protect the rights, property or personal safety of the Company, our users or others.
+The Company also reserves the right to disclose personally identifiable information and/or non-personally identifiable information that the Company believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/Terms-Of-Use), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of its Website and to protect the rights, property or personal safety of the Company, our users or others.
 
 ### YOUR CHOICES
 
