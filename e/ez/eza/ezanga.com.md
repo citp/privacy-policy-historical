@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezanga.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612205819id_/http%3A//www.ezanga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezanga.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213161145id_/http%3A//www.ezanga.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eZanga.com, Inc.
 
