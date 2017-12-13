@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a2zbookmarks.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613172627id_/http%3A//www.a2zbookmarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2zbookmarks.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213210147id_/http%3A//www.a2zbookmarks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › A2zbookmarks.com : Fast Social Bookmarking & Blogging Service | Easily Submit Article That You Like In The Web | Browse Entire Internet Source of Latest & Breaking News
 
