@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1byone.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219175939id_/https%3A//www.1byone.com/Privacy-Policy-a-59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1byone.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213051844id_/https%3A//www.1byone.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -82,6 +82,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 [www.1byone.com](http://www.1byone.com/)
 
-[service@1byone.com](mailto:service@1byone.com)
+_ushelp@_[ _1byone.com_](mailto:service@1byone.com)
 
-(001) 909 391 3888
+phone: (001) 909 391 3888
+
+(001) 909 923 8883  
+
