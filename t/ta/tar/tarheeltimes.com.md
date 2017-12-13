@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tarheeltimes.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628114437id_/http%3A//www.tarheeltimes.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tarheeltimes.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213142442id_/http%3A//www.tarheeltimes.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Tar Heel Times
 
