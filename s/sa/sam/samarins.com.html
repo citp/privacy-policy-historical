@@ -1,34 +1,157 @@
-<!--The following is the downloaded HTML source of the samarins.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606142226id_/http%3A//www.samarins.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samarins.com privacy policy that was archived on 2017-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171213090203id_/http%3A//www.samarins.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="theme-color" content="#0e3078">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="manifest" href="manifest.json">
 <title>Samarins.com Privacy Policy</title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
- 
 <link rel="stylesheet" href="css/foundation.css" type="text/css" media="screen">
 <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
 <link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
 <link rel="stylesheet" href="css/flickr-widget.css" type="text/css" media="screen">
 <link rel="stylesheet" type="text/css" href="style/page.css">
-
 <style>
-@media only screen and (max-width: 479px) and (min-width: 30px){
-	#top-ad {height:102px;} 
-	#logo { display:none;}
-	nav.left navigation {height: 20px;}
+/* Menu Bar */
+.topmenu {
+	height:40px;
+	margin-bottom:4px;
+	background-color:#0e3078;
+}
+/*Strip the ul of padding and list styling*/
+.topmenu ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	position: absolute;
+	z-index: 99;
+}
+/*Create a horizontal list with spacing*/
+.topmenu li {
+	display:inline-block;
+	float: left;
+	margin-right: 1px;
+}
+/*Style for menu links*/
+ul#menu > li > a {
+	font-size:13px;
+	text-transform:uppercase;
+	padding: 0 25px;
+}
+.topmenu li a {
+	display:block;
+	min-width:140px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #fff;
+	background: #0e3078;
+	text-decoration: none;
+}
+/*Hover state for top level links*/
+.topmenu li:hover a {
+	background: #157be0;
+	color:#fff;
+}
+/*Style for dropdown links*/
+.topmenu li:hover ul a {
+	background: #0d3241;
+	color: #fff;
+	height: 40px;
+	line-height: 40px;
+}
+/*Hover state for dropdown links*/
+.topmenu li:hover ul a:hover {
+	background: #fc7100;
+	color: #fff;
+}
+/*Hide dropdown links until they are needed*/
+.topmenu li ul {
+	display: none;
+}
+/*Make dropdown links vertical*/
+.topmenu li ul li {
+	display: block;
+	float: none;
+}
+/*Prevent text wrapping*/
+.topmenu li ul li a {
+	width: auto;
+	min-width: 260px;
+	padding: 0 10px;
+	font-size:17px;
+}
+/*Display the dropdown on hover*/
+.topmenu ul li a:hover + .hidden, .hidden:hover {
+	display: block;
+}
+/*Style 'show menu' label button and hide it by default*/
+.show-menu {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	color: #fff;
+	background: #0e3078;
+	text-align: center;
+	padding: 0 0 0 0;
+	vertical-align:text-bottom;
+	display: none;
+}
+/*Hide checkbox*/
+input[type=checkbox] {
+	display: none;
+}
+/*Show menu when invisible checkbox is checked*/
+input[type=checkbox]:checked ~ #menu {
+ display: block;
+}
+/*Responsive Styles*/
+@media screen and (max-width : 1199px) {
+/*Make dropdown links appear inline*/
+ .topmenu ul {
+	position: static;
+	display: none;
+}
+/*Create vertical spacing*/
+    .topmenu li {
+	margin-bottom: 1px;
+}
+/*Make all menu links full width*/
+   .topmenu ul li, .topmenu li a {
+	width: 100%;
+}
+/*Display 'show menu' link*/
+  .show-menu {
+	display:block;
+}
+.topmenu {
+	height:40px;
+}
+}
+ @media screen and (max-width : 1199px) {
+.header, .logo, #logo {
+	display:none;
+}
+}
+@media screen and (max-width : 500px) {
+.header, .logo, #logo {
+	display:none;
+}
+header.clearfix, .inner-header, #top-ad {
+	height:106px;
+	padding:0 !important;
+	margin:0;
+}
+}
 </style>
 <!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
-<style>
-fieldset {
-	border: none !important;
-}
-</style>
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+ 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-10930498-8']);
@@ -41,7 +164,6 @@ fieldset {
   })();
 
 </script>
-
 </head>
 <body>
 
@@ -52,12 +174,13 @@ fieldset {
       <h1><a href="index.html"><img alt="Logo" src="images/logo.gif"></a></h1>
     </div>
     <div id="top-ad" class="ads-728x90 right"> 
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- ATF-responsive -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3307255031105703" data-ad-slot="4442313574" data-ad-format="auto"></ins>
-<script>
+      <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+      <!-- ATF-responsive --> 
+      <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3307255031105703" data-ad-slot="4442313574" data-ad-format="auto"></ins> 
+      <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div></div>
+</script></div>
+  </div>
 </header>
 <!-- End Header --> 
 
@@ -137,37 +260,11 @@ fieldset {
     <!-- Sidebar -->
     <aside id="sidebar" class="four column pull-right">
       <ul class="no-bullet">
-        <li class="widget tabs-widget clearfix">
-          <ul class="tab-links no-bullet clearfix">
-            <li class="active"><a href="#popular-tab">Popular</a></li>
-            <li><a href="#recent-tab">Recent</a></li>
-          </ul>
-          <div id="popular-tab">
-            <ul>
-              <li> <a href="buying/"><img src="icon/icon-buying-guide.jpg" alt="Used car buying guide"></a>
-                <h3><a href="buying">Step by step used car buying guide.   Do's and Don't's </a></h3>
-              </li>
-              <li> <a href="check/simplecheck.html"><img src="icon/icon_checking_car.jpg" alt="Used car checklist"></a>
-                <h3 class="post-title"><a href="check/simplecheck.html">How to inspect a used car. Illustrated checklist</a></h3>
-              </li>
-              <li> <a href="maintenance/simple.html"><img alt="Car care" src="icon/icon-maintenance-checklist.jpg"></a>
-                <h3><a href="maintenance/simple.html">Simple car maintenance checklist</a></h3>
-              </li>
-              <li> <a href="maintenance/interior.html"><img alt="Car care" src="icon/icon-interior-care.jpg"></a>
-                <h3><a href="maintenance/interior.html">How to clean the interior of your car</a></h3>
-              </li>
-            </ul>
-          </div>
-          <div id="recent-tab">
-           
-          </div>
-        </li>
         <li class="widget widget_ads_big clearfix">
           <div class="clearfix"> 
-            <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 336x228-ATF -->
-<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-3307255031105703" data-ad-slot="8722689579"></ins>
-<script>
+            <!-- ATF-in-desktop-responsive --> 
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3307255031105703" data-ad-slot="4766618205" data-ad-format="auto"></ins> 
+            <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script> </div>
         </li>
@@ -193,7 +290,6 @@ fieldset {
             <p> <a href="http://www.samarins.com/maintenance/extend-life-of-your-car.html">TOP 10 CAR MAINTENANCE TIPS</a><br>
               <a href="http://www.samarins.com/maintenance/simple.html">ILLUSTRATED MAINTENANCE CHECKLIST</a><br>
               <a href="http://www.samarins.com/diagnose">WHY A CAR WON'T START</a><br>
-               
               <a href="http://www.samarins.com/glossary">AUTOMOTIVE GLOSSARY</a><br>
               <a href="http://www.samarins.com/maintenance">MORE »</a> </p>
           </div>
@@ -217,46 +313,27 @@ fieldset {
           </div>
         </li>
         <li class="widget four column">
-          <h3 class="widget-title">New: Follow us</h3>
-          <!-- Place this tag where you want the badge to render -->
-          <div class="g-plus" data-href="//plus.google.com/110345632050800519725" data-rel="publisher"></div>
           
-          <!-- Place this tag after the last badge tag. --> 
-          <script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script><br>
-          <div style="text-align:center">Samarins.com is mobile-friendly! You can access it from your iPad or smartphone.</div>
         </li>
       </ul>
       <div id="back-to-top" class="right"> <a href="#top">Back to Top</a> </div>
+      <div class="copyright clearfix">
+        <ul class="no-bullet inline-list">
+          <li><a href="http://www.samarins.com/">Home</a></li>
+          <li><a href="http://www.samarins.com/privacy.html">Privacy Policy</a></li>
+          <li><a href="http://www.samarins.com/contact3.php">Contact</a>
+          </li><li>© 2017 Samarins.com</li>
+        </ul>
+      </div>
     </footer>
     <!-- End Footer --> 
     
   </section>
   <!-- End Inner Container --> 
-  <!-- Top Menu -->
-  <nav id="top-menu" class="clearfix">
-    <ul class="no-bullet inline-list m0">
-      <li><a href="http://www.samarins.com/">Home</a></li>
-      <li><a href="http://www.samarins.com/privacy.html">Privacy Policy</a></li>
-      <li><a href="http://www.samarins.com/contact3.php">About us</a></li>
-      <li><a href="http://www.samarins.com/news">Blog</a></li>
-      <li><a href="http://www.samarins.com/contact3.php">Contact</a></li>
-    </ul>
-  </nav>
-  <!-- End Top Menu --> 
   
 </section>
 <!-- End Container --> 
-<!-- Top Slider --> 
-<script type="text/javascript" src="http://www.samarins.com/js/jquery.min.js"></script> 
-<!-- Top Menu --> 
-<script type="text/javascript" src="http://www.samarins.com/js/jquery.superfish.js"></script> 
-<script type="text/javascript" src="http://www.samarins.com/js/jquery.masonry.min.js"></script> 
-<script type="text/javascript" src="http://www.samarins.com/js/script.js"></script>
+<!-- Top Slider -->
+
 
 </body></html>
