@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheerid.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620074311id_/https%3A//www.sheerid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheerid.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213180721id_/https%3A//www.sheerid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,6 +32,8 @@ This website contains links to other sites. We are not responsible for the conte
 
 In the event a dispute arises between you and us, all claims will be resolved by binding arbitration at the request of either side. IF EITHER YOU OR WE CHOOSE ARBITRATION, NEITHER YOU NOR WE HAVE THE RIGHT TO LITIGATE THE CLAIM IN COURT OR TO HAVE A JURY TRIAL AND CLAIMS CANNOT BE BROUGHT AS A CLASS ACTION. All rights and obligations under this policy will be interpreted, governed, and enforced under the laws of Oregon, without giving effect to its choice or conflicts of law provisions.
 
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
 We do not knowingly market our products and services to children under the age of 13.
 
 If any provision of this policy is held to be invalid or unenforceable, then that provision will be omitted or reduced in scale from this agreement, and all remaining provisions will remain in effect and enforceable according to their terms.
@@ -60,4 +62,4 @@ SheerID is located at 2451 Willamette St., Eugene, Oregon, 97405, USA
 
 SheerID is committed to the Géant Data Protection Code of Conduct, available at: <http://www.geant.net/uri/dataprotection-code-of-conduct/v1>.
 
-This privacy policy is effective April 13, 2017.
+This privacy policy is effective November 20, 2017.
