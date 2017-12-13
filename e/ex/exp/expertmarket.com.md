@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertmarket.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607023555id_/http%3A//www2.expertmarket.com/privacy__cookies_policy_b2b_us__0316/eae1b/3ecbb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertmarket.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213232807id_/http%3A//www2.expertmarket.com/privacy__cookies_policy_b2b_us__0316/eae1b/3ecbb) for the most accurate reproduction.*
 
 # MVF Global Ltd
 
