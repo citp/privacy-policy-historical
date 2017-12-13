@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the selectfashion.co.uk privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614113348id_/http%3A//www.selectfashion.co.uk/landing-privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectfashion.co.uk privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213122015id_/http%3A//www.selectfashion.co.uk/landing-privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Information | Select Fashion
 
 Your bag has been updated...
-
-## Privacy Policy
 
 Select is committed to protecting the privacy of our customers and will not disclose any information except those who are involved in the fulfilment of your order,  
 including the process of arranging item(s) being sent to you. We will do everything necessary to ensure you have peace of mind in knowing that your information is kept private.
