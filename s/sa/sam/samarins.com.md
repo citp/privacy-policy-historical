@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samarins.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142226id_/http%3A//www.samarins.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samarins.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213090203id_/http%3A//www.samarins.com/privacy.html) for the most accurate reproduction.*
 
 # Samarins.com Privacy Policy
 
@@ -17,7 +17,7 @@ We don't collect any of your personal information unless you contact us through 
 
 We use this non-personal aggregate information to know where the visitor to our website come from and what technology they use; this helps us adjust our website design and other parameters to serve you better. For example, if our visitors use a specific browser, such as Internet Explorer 6, we test our design with the same browser to make sure our pages render correctly.  
 However, we do not track or record information about individuals and their visits.   
-If you contact us using our [Contact form](https://web.archive.org/web/20170606142226id_/http%3A//www.samarins.com/contact3.php), we might use the information you provide to respond to your question or suggestion. We don't send regular newsletters and we do not share, sell or rent this information to any third parties, unless, of course, this will be required by law. 
+If you contact us using our [Contact form](https://web.archive.org/web/20171213090203id_/http%3A//www.samarins.com/contact3.php), we might use the information you provide to respond to your question or suggestion. We don't send regular newsletters and we do not share, sell or rent this information to any third parties, unless, of course, this will be required by law. 
 
 ## Links to Third Parties 
 
@@ -35,4 +35,4 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 ## How can you contact us
 
-You can contact us using our [Contact form](https://web.archive.org/web/20170606142226id_/http%3A//www.samarins.com/contact3.php). 
+You can contact us using our [Contact form](https://web.archive.org/web/20171213090203id_/http%3A//www.samarins.com/contact3.php). 
