@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackster.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234135id_/https%3A//www.hackster.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackster.io privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213201233id_/https%3A//www.hackster.io/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Hackster.io
 
@@ -61,7 +61,7 @@ Because we want to be able to focus on building a great product, we have outsour
   *  **New Relic:** they analyze our servers' performance.
   *  **Sendgrid:** they power our emails.
   *  **Google Analytics:** they store data about traffic and visitors, which allows us to better understand how our site is being used and thus figure out how we could make it better.
-  *  **Mixpanel:** similar to Google Analytics but allows us to track specific events. We use it to fine tune the user experience, and specifically to make it easier to accomplish actions on Hackster.
+  *  **Keen:** similar to Google Analytics but allows us to track specific events. We use it to fine tune the user experience, and specifically to make it easier to accomplish actions on Hackster.
   *  **Mailchimp:** we send newsletters through them.
   *  **Uservoice:** they power the help and feedback widget in the bottom right corner.
   *  **Gravatar:** they create unique avatars for everyone who hasn't uploaded one.
@@ -71,11 +71,11 @@ Because we want to be able to focus on building a great product, we have outsour
 
 ## Data processor
 
-Hackster, Inc. is the data processor. The business address of Hackster, Inc. is:
+Hackster.io is the data processor. The business address of Hackster.io is:
 
-Hackster, Inc.  
-620 Folsom street, suite 100  
-San Francisco, CA 94107  
+Hackster.io  
+531 Howard street, 2 FL  
+San Francisco, CA 94105  
 USA
 
 * * *
