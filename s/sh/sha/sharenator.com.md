@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharenator.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523092720id_/http%3A//www.sharenator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharenator.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213021617id_/http%3A//www.sharenator.com/privacy.html) for the most accurate reproduction.*
 
 # Sharenator - It's Human Nature To Share
 
