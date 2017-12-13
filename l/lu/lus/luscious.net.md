@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luscious.net privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201142304id_/http%3A//luscious.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luscious.net privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213235021id_/https%3A//luscious.net/privacy) for the most accurate reproduction.*
 
-# | Luscious Hentai and Erotica
+# | Luscious
 
 ## What information do we collect?
 
