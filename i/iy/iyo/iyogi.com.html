@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iyogi.com privacy policy that was archived on 2016-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161126200936id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iyogi.com privacy policy that was archived on 2017-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171213044213id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style=""><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -29,7 +29,7 @@
 <link rel="stylesheet" type="text/css" href="/etc/designs/iyogimainsite/clientlibs/css/reviews-new.css" media="all">
 
 <!-- Added for TnT start -->
-<script src="https://connect.facebook.net/en_US/all.js?hash=ab13305d4cf29d5d1fb62ddd0a969300&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script id="LR1" type="text/javascript" async="" src="https://platform.twitter.com/js/tfw/hub/client.js"></script><script src="https://connect.facebook.net/en_US/all.js?hash=7bfe9a1513fbd8fafd63f60d24e299ee&amp;ua=modern_es6" async="" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 var demdex_seg = '';	//	this variable needs to be globally available on the page for SC and T&T calls
 function aam_tnt_cb() {
     if (typeof (arguments[0].stuff) != "undefined" && arguments[0].stuff != "") {
@@ -62,7 +62,7 @@ function aam_tnt_cb() {
 <script src="/etc/designs/iyogimainsite/clientlibs/js/jquery.cookie.js"></script>
 <!--Adobe AudienceManager API Call-->
 <script type="text/JavaScript" src="http://iyogi.demdex.net/event?d_stuff=1&amp;d_dst=1&amp;d_rtbd=json&amp;d_cts=1&amp;d_cb=aam_tnt_cb"></script>
-<script src="/etc/designs/iyogimainsite/clientlibs/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style><meta property="fb:app_id" content="224229974253687"><script type="text/javascript" async="" src="https://web.archive.org/web/20150917212225/http://platform.twitter.com/widgets.js"></script><script async="" src="https://web.archive.org/web/20150917212141/http://apis.google.com/js/plusone.js">{lang: 'en-US'}</script></head><body style=""><iframe id="twttrHubFrameSecure" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" name="twttrHubFrameSecure" src="https://platform.twitter.com/widgets/hub.86c71f88b184f2d5cb2f57cd5a1066ce.html" style="position: absolute; top: -9999em; width: 10px; height: 10px;"></iframe><div class="mboxDefault" style="visibility: visible; display: block;"></div><div id="mboxMarker-default-iyogi_onClick-0" style="visibility:hidden;display:none">&nbsp;</div> 
+<script src="/etc/designs/iyogimainsite/clientlibs/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style><meta property="fb:app_id" content="224229974253687"><script type="text/javascript" async="" src="https://web.archive.org/web/20140915122122/http://platform.twitter.com/widgets.js"></script><script async="" src="https://web.archive.org/web/20140915122232/http://apis.google.com/js/plusone.js">{lang: 'en-US'}</script></head><body data-twttr-rendered="true" style=""><div class="mboxDefault" style="visibility: visible; display: block;"></div><div id="mboxMarker-default-iyogi_onClick-0" style="visibility:hidden;display:none">&nbsp;</div> 
 <script asynctype="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
 
 <script>
@@ -245,32 +245,58 @@ window._S_T ||
 </script><!-- <meta name="google-site-verification" content="CCbGdlz-4_Ek4rTjQ9IjOm-BXQ1jBDz063gAq488-m0" /> -->
 
 <script type="text/javascript">
-var visit=readCookie("iyogi-com");
+    // For Home Page
+    var visit=readCookie("iyogi-com");
 
-    //alert(visit);
+    // alert(visit);
+
+     jQuery(document).ready(function(){ 
+         jQuery.get("/.IPLigenceServlet.sjson?dpc=true",function(data,status){
+             var CountryCodeN = data.CountryCode;
+             if(CountryCodeN=="IN")
+                {
+                    document.getElementById("homeTfn").innerHTML = "<span>Call US:<strong> 1-877-770-0329</strong> ;     UK :<strong> 800-640-7063 </strong></span><br>";
+                }
+             if(CountryCodeN=="CA")
+                {
+             		 document.getElementById("homeTfn").innerHTML = "<span><strong>Call For Tech Support</strong> <strong><a href=\"callto:+1 8002373901\">1 800 237 3901.</a></strong>  </span><br>";
+                }
+             if(CountryCodeN=="US")
+                {
+                    document.getElementById("homeTfn").innerHTML = "<span>Call US:<strong> 1-877-770-0329</strong> ;     UK :<strong> 800-640-7063 </strong></span><br>";
+                }
+
+
+
+
+         });
+       });
 
 if (visit==null){
 jQuery(document).ready(function(){ 
        jQuery.ajaxSetup({ cache: false });
               jQuery.get("/.IPLigenceServlet.sjson?dpc=true",function(data,status){
                   document.getElementById("chatNow").style.display='none';
+                     jQuery("#call_now").html("");
+
+
             var CountryCode = data.CountryCode;
             var screenWidth = jQuery(window).width();
+
                   //document.getElementById("chatNow").style.display='none';
                   //document.getElementById("pk_pop_up").style.display='';  
                   //createCookie('iyogi-com','1','1');
                   //alert(CountryCode);
-
+                  //jQuery("#call_now").html("<span><strong> Call Now</strong> <strong>1 877-770-0329</strong>  </span><br>");
                   //alert(h);  
                   if(screenWidth>768){
                       //document.getElementById("pk_pop_up").style.display=''; 
                       //document.getElementById("chatNow").style.display='none';	
-                      document.getElementById("call_now").style.display=''
+                      //document.getElementById("call_now").style.display=''
                       //document.getElementById("pk_pop_up").style.display='';
-                      jQuery("#call_now").html("<span><strong> Call Now</strong> <strong>1 877-770-0329</strong>  </span><br>");
+                      //jQuery("#call_now").html("<span><strong> Call Now</strong> <strong>1 877-770-0329</strong>  </span><br>");
                       //
                     //createCookie('iyogi-com','1','1');
-
 
                 if(CountryCode=="US")
                 {
@@ -278,13 +304,35 @@ jQuery(document).ready(function(){
 
                     //document.getElementById("call_now").style.display=''
                     //document.getElementById("pk_pop_up").style.display='';
-                    //jQuery("#call_now").html("<span>For Great Tech Support Call Now 1 877-770-0329  </span><br>");
+                    jQuery("#call_now").html("<span>Call Now US: 1-877-770-0329; UK :800-640-7063 </span><br>");
                     //document.getElementById("chatNow").style.display='none';
+                    call_now
                     //createCookie('iyogi-com','1','1');
                 }
+                 if(CountryCode=="CA")
+                {
+                    //document.getElementById("pk_pop_up").style.display=''; 
+
+                    //document.getElementById("call_now").style.display=''
+                    //document.getElementById("pk_pop_up").style.display='';
+                    jQuery("#call_now").html("<span> <strong> 1 877-770-0329 </strong> </span><br>");
+                    //document.getElementById("chatNow").style.display='none';
+                    //createCookie('iyogi-com','1','1');
+                }     
+                else
+                      if(CountryCode=="GB")
+                {
+                    //document.getElementById("pk_pop_up").style.display=''; 
+
+                    //document.getElementById("call_now").style.display=''
+                    //document.getElementById("pk_pop_up").style.display='';
+                    jQuery("#call_now").html("<span> Call Now <strong> 877-770-0329 </strong> </span><br>");
+                    //document.getElementById("chatNow").style.display='none';
+                    //createCookie('iyogi-com','1','1');
+                }     
                 else
                 {
-                    document.getElementById("pk_pop_up").style.display='none';
+                     document.getElementById("pk_pop_up").style.display='none';
                 }
 
 			}
@@ -1053,7 +1101,7 @@ jQuery(document).ready(function(){
 			</p>
 			
             <div class="day_ago_box">
-			10 months ago    
+			1 years ago    
 			       <!--  <div class="day_ago_box2"> <a href="javascript:void(0);">
 			        <span class="icon1"></span></a> <a href="javascript:void(0);">
 			        <span class="icon2"></span></a>
@@ -1085,56 +1133,7 @@ jQuery(document).ready(function(){
   <div class="blog_box_inner_left">
           
 			  	 
- 
 
-		    <h2><a target="_blank" href="http://www.iyogiblog.com/">Blog</a></h2>
-            <div class="closediv"></div> <!-- RESPONSIVE MOBILE & TABLET -->
-            <div class="accordion_data">
-              <div class="blog_img">
-                <img alt="Not Available" src="/content/dam/iyogimainsite/iyogicom/dummy_blog_img.png"> 
-               <span></span> </div>
-              <div class="blog_box_inner_right">
-			
-		        <h2>24 Ways IFTTT Can Automate IoT in the Home and Office</h2>
-                <p id="blogdesc">If you love technologies that make your life easier (who<a rel="nofollow" href="http://www.iyogiblog.com/enterprise-solutions/24-ways-ifttt-automate-iot-home-office.html" style="font-size:15px; color:#fff"> Read More</a></p>
-				
-                <script>
-
-                    jQuery(document).ready(function(){ 
-                        var descblog1 = '<img width="400" height="390" src="http://www.iyogiblog.com/wp-content/uploads/2015/04/Smart-home-control.jpg" class="attachment- wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" />If you love technologies that make your life easier (who';
-                        var descblogurl1 = 'http://www.iyogiblog.com/enterprise-solutions/24-ways-ifttt-automate-iot-home-office.html';
-                        descblog1 = descblog1.replace(/(<([^>]+)>)/ig,"");
-                        jQuery("#blogdesc").html(descblog1+'<a rel="nofollow" href="'+descblogurl1+'" style="font-size:15px; color:#fff"> Read More</a>');
-
-                    });    
-
-                </script>    
-                
-                <div class="aug_box">
-                  <div class="aug_box_left">Apr 26th, 2016</div>
-                  <div class="aug_box_right">
-                   <!--  <div class="aug_box2"> <a href="javascript:void(0);"><span class="icon1"></span></a> <a href="javascript:void(0);"><span class="icon2"></span></a>
-                     </div>
-                 -->    <span style="float:right; display:block; padding-top:3px;">by mohit.gupta</span> </div>
-                </div>
-				   <ul>
-			
-			
-		   
-		   
-		   	   <li><a target="_blank" href="http://www.iyogiblog.com/technology-today/google-hangouts-the-best-way-to-communicate-with-friends-online.html">Google Hangouts: The Best Way to Communicate with Friends Online</a></li>
-				               					  
-		   
-		   
-		   	   <li><a target="_blank" href="http://www.iyogiblog.com/alerts/iyogi-security-alert-ransomware-gets-nastier-than-ever.html">iYogi Security Alert: Ransomware Gets Nastier than Ever!</a></li>
-				               					  
-		   
-		   
-		   	   <li><a target="_blank" href="http://www.iyogiblog.com/alerts/iyogi-scam-alert-government-grant-scams-are-the-newest-type-of-phone-scam.html">iYogi Scam Alert: Government Grant Scams Are the Newest Type of Phone Scam</a></li>
-				               					  
-		   
-		  </ul></div></div>
-	
  </div>
   </div>
 
@@ -1391,7 +1390,7 @@ Read more : <a href="http://t.co/1cEGbVyjlU" target="_blank" title="http://bit.l
                                 }
                             </style>
                         </li>
-                        <li><div class="twitter_like"><div><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-follow-button twitter-follow-button-rendered" style="position: absolute; visibility: hidden; width: 0px; height: 0px;" title="Twitter Follow Button" src="https://platform.twitter.com/widgets/follow_button.3476cd70032ff6b94ecc9ea63ab78a8b.en.html#_=1580470027707&amp;dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=iYogi&amp;show_count=true&amp;show_screen_name=true&amp;size=m" data-screen-name="iYogi"></iframe></div></div></li>
+                        <li><div class="twitter_like"><div><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/follow_button.1410542722.html#_=1580401831620&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=false&amp;show_count=true&amp;show_screen_name=false&amp;size=m" class="twitter-follow-button twitter-follow-button" title="Twitter Follow Button" data-twttr-rendered="true" style="width: 158px; height: 20px;"></iframe></div></div></li>
                         <li><div class="google_like"></div></li>
                         <li>
                             <!--<div class="g-plusone" data-size="medium" width="100px"></div>-->
@@ -1582,7 +1581,7 @@ jQuery(document).ready(function(){
                              			'subSection1': 'home:en-us:Privacy Policy',
                              			'subSection2': 'home:en-us:Privacy Policy',
                              			'UserType': 'Non Customer',
-                                        'referralUrl': 'null' 
+                                        'referralUrl': 'http://www.iyogi.com/support/software/communication/yahoo-messenger.html' 
                              
                           },
                           componentPath:'iyogimainsite/components/page/basepage'}">
@@ -1842,7 +1841,7 @@ CQ_Analytics.CCM.addListener("storesinitialize", function(e) {
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //-->
 </script>
-<noscript><img src="http://somni.iyogi.com/b/ss/iyogi.comiyogiprod/1/H.25--NS/1479140203520?cdp=2&amp;gn=content%3Aiyogi-com%3Aen%3Aprivacy" height="1" width="1" border="0" alt=""/></noscript>
+<noscript><img src="http://somni.iyogi.com/b/ss/iyogi.comiyogiprod/1/H.25--NS/1489224179740?cdp=2&amp;gn=content%3Aiyogi-com%3Aen%3Aprivacy" height="1" width="1" border="0" alt=""/></noscript>
 <span data-tracking="{event:'pageView', values:{}, componentPath:'foundation/components/page'}"></span>
 
 
@@ -1906,4 +1905,4 @@ _atrk_opts = { atrk_acct:"Nmtnl1ao9rD0O7", domain:"iyogi.com",dynamic: true};
 <!-- End Alexa Certify Javascript -->  
 
 
-</section><div id="fb-root"><script async="" src="https://web.archive.org/web/20150917204821/http://connect.facebook.net/en_US/all.js" gapi_processed="true"></script></div></body></html>
+</section><div id="fb-root"><script async="" src="https://web.archive.org/web/20140915122241/http://connect.facebook.net/en_US/all.js" gapi_processed="true"></script></div></body></html>
