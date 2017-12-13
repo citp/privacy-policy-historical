@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailydisclosure.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610080611id_/http%3A//www.dailydisclosure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydisclosure.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213014801id_/http%3A//dailydisclosure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DailyDisclosure
 
@@ -76,6 +76,9 @@ There may be times in which we allow third party vendors to access the cookies p
 We do allow third party vendors to use cookies, web beacons, and other reasonable tracking tools, in order to collect information from the website. This is managed in the same way that third party vendors do for other websites online. These third party vendors are only allowed to use the information collected for measurement, analytics and targeted advertisement services.
 
 As well as third party vendors we may also contain links to third party websites in order to provide you with even more content that we think you may enjoy. We do not own or control these third party websites and so our privacy policy does not govern the content on these sites. Please ensure you read through any third party website’s own privacy policy and terms before accessing their content. We cannot be held responsible for any content or policies of third party websites.
+
+**Opt-Out**  
+We partner with third party advertisers to serve and display advertising on the Services. These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://optout.networkadvertising.org/#!/). To serve and display advertising relevant to your location, the Services may also track your device’s precise geolocation by responding to beacons or inaudible signals sent to your device’s microphone. If you do not want the location of your device to be tracked by the Services, please opt-out using your device settings.
 
 **Questions or concerns?**
 
