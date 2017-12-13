@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igofx.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613234239id_/http%3A//igofx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igofx.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213092720id_/http%3A//igofx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – IGOFX
 
@@ -52,4 +52,4 @@ Except as described in this privacy policy, IGOFX will not use your personal inf
 
 Selling of information is strictly prohibited for our company staff, affiliates and other third parties, any act discovered may bring to the regulatory punishment.
 
-Should you have any inquiries or concerns regarding the privacy of your information at IGOFX, please write to us at [account@igofx.com](mailto:account@igofx.com)
+Should you have any inquiries or concerns regarding the privacy of your information at IGOFX, please write to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9efffdfdf1ebf0eadef7f9f1f8e6b0fdf1f3)
