@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u-s-history.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511130528id_/http%3A//www.u-s-history.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u-s-history.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213143429id_/http%3A//www.u-s-history.com/privacy.html) for the most accurate reproduction.*
 
 # u-s-history.com | Privacy Policy
 
