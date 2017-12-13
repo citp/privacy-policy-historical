@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesurveybureau.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309044535id_/http%3A//www.onlinesurveybureau.com/OSBT/Privacy-Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesurveybureau.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213055549id_/http%3A//www.onlinesurveybureau.com/OSBT/Privacy-Policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
