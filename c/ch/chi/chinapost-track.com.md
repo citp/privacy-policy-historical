@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinapost-track.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314131611id_/http%3A//chinapost-track.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinapost-track.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213171407id_/https%3A//chinapost-track.com/privacy-policy) for the most accurate reproduction.*
 
 # ChinaPost-Track.com - Privacy Policy.
 
