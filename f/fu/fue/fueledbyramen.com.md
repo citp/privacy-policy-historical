@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fueledbyramen.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629144852id_/http%3A//www.fueledbyramen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fueledbyramen.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213200911id_/http%3A//www.fueledbyramen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Fueled By Ramen
 
@@ -88,7 +88,7 @@ We ask that you not send us, and you not disclose, any sensitive Personal Inform
 
 **OTHER INFORMATION**
 
- **Other Information We May Collect**
+**Other Information We May Collect**
 
 We and our third-party service providers may collect Other Information (defined above), such as: 
 
