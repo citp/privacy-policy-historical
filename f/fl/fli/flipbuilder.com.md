@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipbuilder.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611085401id_/https%3A//www.flipbuilder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipbuilder.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213222121id_/https%3A//www.flipbuilder.com/privacy.html) for the most accurate reproduction.*
 
 # FlipBuilder Privacy Policy: we will not sell, share, or rent user information.[FlipBuilder.com]
 
@@ -19,7 +19,7 @@ Credit Card information provided by you customer is used by MyCommerce, which ha
 
 ## 2\. Newsletter Information
 
-If you subscribed our [FlipBuilder Newsletter](https://web.archive.org/web/20170611085401id_/https%3A//www.flipbuilder.com/newsletter/newsletter.html) (it will be used to inform you of our products news and promotion only), your information will  **not**  be sold, rented or leased to a third-party, and you can remove your name and email from the list at any time.
+If you subscribed our [FlipBuilder Newsletter](https://web.archive.org/web/20171213222121id_/https%3A//www.flipbuilder.com/newsletter/newsletter.html) (it will be used to inform you of our products news and promotion only), your information will  **not**  be sold, rented or leased to a third-party, and you can remove your name and email from the list at any time.
 
 3\. Contact Information
 
@@ -27,11 +27,11 @@ When you contact FlipBuilder.com, we may keep a record of your communication to 
 
 **Sharing Information**
 
-We do not sell Registration Information, nor any Newsletter or Contact Information with any third party for marketing purposes, unless such disclosure is necessary for the purposes set forth in this Policy, by law or a policy or notice contained or associated with a specific TechSmith product or service.
+We do not sell Registration Information, nor any Newsletter or Contact Information with any third party for marketing purposes, unless such disclosure is necessary for the purposes set forth in this Policy, by law or a policy or notice contained or associated with a specific Flipbuilder product or service.
 
-**Use of Remarketing with Google Analytics**
+**Cookie and Remarketing**
 
-FlipBuilder.com collects cookies on our Web site to capture information about page visits. This information is anonymous and we uses this information only internally - to deliver the most effective content to our visitors. Information from the cookies is used to gauge page popularity, analyze traffic patterns on our site and guide development of other improvements to our site. 
+In order to better understand what services are valuable to our customers, we use "cookies". A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification card and may record passwords, preferences and purchases. Cookies let the web page server know that you have returned to this site. FlipBuilder.com collects cookies on our Web site to capture information about page visits. This information is anonymous and we uses this information only internally - to deliver the most effective content to our visitors. Information from the cookies is used to gauge page popularity, analyze traffic patterns on our site and guide development of other improvements to our site. 
 
 FlipBuilder uses analytics data and the DoubleClick cookie to serve ads based on a user's prior visits to our website.  Site visitors may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html "Google advertising opt-out page") or they may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout "Google Analytics opt-out page").
 
