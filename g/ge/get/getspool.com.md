@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getspool.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613185723id_/http%3A//blog.getspool.com/privacy-policy-spool) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getspool.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213213236id_/http%3A//blog.getspool.com/privacy-policy-spool) for the most accurate reproduction.*
 
 # Privacy Policy of Spool | GetSpool 2017 - Jailbreak Tweaks, iOS News
 
