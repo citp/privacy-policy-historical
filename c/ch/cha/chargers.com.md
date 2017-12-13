@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the chargers.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610115406id_/http%3A//www.chargers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargers.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213203958id_/http%3A//www.chargers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Los Angeles Chargers
 
-### **San Diego Chargers Privacy Policy**
+### **Los Angeles Chargers Privacy Policy**
 
 Effective Date:  02/03/2016
 
-The San Diego Chargers organization (“we,” “our,” “us”) respects your privacy and values your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our websites, mobile applications and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by NFL Enterprises LLC, the National Football League, or other members of the NFL Family (collectively, “NFL,” ) or the other member clubs (the "Member Clubs").
+The Los Angeles Chargers organization (“we,” “our,” “us”) respects your privacy and values your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our websites, mobile applications and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by NFL Enterprises LLC, the National Football League, or other members of the NFL Family (collectively, “NFL,” ) or the other member clubs (the "Member Clubs").
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
@@ -233,7 +233,7 @@ We will retain your information for as long as your account is active or as need
 
 
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [webmaster@chargers.nfl.com](mailto:webmaster@chargers.nfl.com) or write us at 4020 Murphy Canyon Rd, San Diego, CA 92123.
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [webmaster@chargers.nfl.com](mailto:webmaster@chargers.nfl.com) or write us at 3333 Susan St., Costa Mesa, CA 92626.
 
 In some cases, third parties may be able to collect information about a user’s online activities over time and across different websites when he or she uses our Services.
 
@@ -253,9 +253,9 @@ Please note that the Services are directed towards users who reside in the Unite
 
 If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [webmaster@chargers.nfl.com](mailto:webmaster@chargers.nfl.com) or by regular mail at
 
-San Diego Chargers,  
+Los Angeles Chargers  
 Attn: Website Privacy Policy  
-4020 Murphy Canyon Rd  
-San Diego, CA 92123
+3333 Susan Street  
+Costa Mesa, CA 92626
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=1c2d20ff-1fdb-4a61-938b-81d828f4bf50 "TRUSTe Privacy Certification")
