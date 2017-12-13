@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favim.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619184600id_/http%3A//favim.com/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favim.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213072659id_/http%3A//favim.com/faq/privacy.html) for the most accurate reproduction.*
 
 # Most inspiring images and photos
 
