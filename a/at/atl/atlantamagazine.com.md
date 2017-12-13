@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantamagazine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123002id_/http%3A//www.atlantamagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantamagazine.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213053349id_/http%3A//www.atlantamagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Atlanta Magazine
 
@@ -182,4 +182,4 @@ All feedback, comments, requests for technical support, notices of copyright inf
 
 This “Website” is the website through which you accessed these Terms of Use set forth below:
 
-[www.atlantamagazine.com](http://www.atlantamagazine.com/) – Atlanta Magazine – mscafidi@atlantamagazine.com
+[www.atlantamagazine.com](http://www.atlantamagazine.com/) – Atlanta Magazine – [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
