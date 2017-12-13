@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judge.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041430id_/https%3A//judge.me/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judge.me privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213130720id_/http%3A//judge.me/pages/privacy_policy) for the most accurate reproduction.*
 
 # Judge.me Product Reviews
 
