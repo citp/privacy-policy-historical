@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tulane.edu privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231402id_/http%3A//tulane.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tulane.edu privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213142444id_/https%3A//tulane.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Tulane University
 
@@ -14,4 +14,4 @@ E-mail addresses appearing on Tulane sites are published for the sole purpose of
 
 Students wishing to suppress directory information in the Global Address List should visit the Registrar's Office, 110 Gibson Hall, to complete the necessary form. The "Request to prevent disclosure of directory information" form must be submitted in person along with a picture ID, which is copied and filed with the disclosure form in accordance with Family Educational Rights and Privacy Act (FERPA) guidelines.
 
-Tulane reserves the right to take photos of university students, faculty and staff on campus. These photos may be used in university publications, marketing materials, or on university websites.
+By entering the Tulane University Campus, you understand that you may be photographed, filmed or videotaped, and you authorize Tulane the unqualified right to take pictures and/or recordings of you and grant the perpetual right to take your likeness, image, photo without compensation, for broadcast or use in any medium.
