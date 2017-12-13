@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whisperedinspirations.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124144938id_/http%3A//whisperedinspirations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whisperedinspirations.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213071421id_/http%3A//whisperedinspirations.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Whispered Inspirations
 
@@ -20,7 +20,7 @@ For Prize Winners: As stated above, blog owner is not responsible to send out y
 
 All images taken by blog owner of Whispered Inspirations are under an All Rights Reserved license. They are copywrited property.  All content and text produced by blog author fall under the same category. Please do not download, copy, reproduce, redistribute or publish any of this material without the consent of Nancy Polanco, owner of Whispered Inspirations. Legal action will be taken against violators. 
 
-Copyright © 2007-2015  
+Copyright © 2007-2017  
 All Rights Reserved
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
@@ -139,7 +139,3 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://whisperedinspirations.com
 
 Nancy Polanco
-
-### About [ ](http://whisperedinspirations.com/author/admin/)
-
-Nancy Polanco is a freelance journalist and editor of lifestyle blog Whispered Inspirations. A social media junkie, travel-lover with insatiable wanderlust and an aficionado for fun gadgets, good eats and entertainment. You can find her on Twitter and everywhere else under @WhispersInspire.
