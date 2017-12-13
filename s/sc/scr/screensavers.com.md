@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screensavers.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607125322id_/http%3A//www.screensavers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screensavers.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213055336id_/http%3A//www.screensavers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ScreenSavers.com
 
