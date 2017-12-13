@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphacoders.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529200601id_/https%3A//alphacoders.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphacoders.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213230330id_/https%3A//alphacoders.com/site/privacy) for the most accurate reproduction.*
 
 # Alpha Coders Privacy Policy
 
@@ -41,8 +41,6 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 
   * Google Adsense
-  * OpenX
-  * RevContent
   * Advertisers that participate in Google's Ad Exchange
 
 
