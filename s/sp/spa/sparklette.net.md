@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparklette.net privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613062954id_/http%3A//sparklette.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparklette.net privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213220947id_/http%3A//sparklette.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sparklette MagazineSparklette Magazine
 
@@ -56,4 +56,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-If you require any more information or have any questions about our Privacy Policy, please feel free to contact us by email at [support@sparklette.net](mailto:support@sparklette.net).
+If you require any more information or have any questions about our Privacy Policy, please feel free to contact us by email at [support@sparklette.net](https://web.archive.org/cdn-cgi/l/email-protection#e4c2c7d5d5d1dfc2c7d5d5d3dfc2c7d5d5d6dfc2c7d5d5d6dfc2c7d5d5d5dfc2c7d5d5d0dfc2c7d5d5d2dfc2c7d4d2d0dfc2c7d5d5d1dfc2c7d5d5d6dfc2c7d4ddd3dfc2c7d5d5d0dfc2c7d5d4d3dfc2c7d5d4dcdfc2c7d5d4d5dfc2c7d5d5d2dfc2c7d5d5d2dfc2c7d5d4d5dfc2c7d4d0d2dfc2c7d5d5d4dfc2c7d5d4d5dfc2c7d5d5d2df).
