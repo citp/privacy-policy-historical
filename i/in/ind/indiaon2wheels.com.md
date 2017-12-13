@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiaon2wheels.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610072819id_/http%3A//www.indiaon2wheels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaon2wheels.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213051633id_/http%3A//www.indiaon2wheels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indiaon2wheels, India's first online motorcycle magazine
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@indiaon2wheels.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At www.indiaon2wheels.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.indiaon2wheels.com and how it is used.
 
