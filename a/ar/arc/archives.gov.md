@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archives.gov privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527221315id_/https%3A//www.archives.gov/global-pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archives.gov privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213175904id_/https%3A//www.archives.gov/global-pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Use Policies | National Archives
 
@@ -6,7 +6,7 @@ _Last revised: May 23, 2017_
 
 ## Privacy Statement
 
-We take protecting your personal privacy seriously. This page describes our policies and procedures on the collection, use, and disclosure of your information. Visit our [Privacy Office page](https://web.archive.org/privacy/index.html) to view the National Archives' privacy documentation, including Privacy Impact Assessments (PIAs) and System of Records Notices (SORNs).
+We take protecting your personal privacy seriously. This page describes our policies and procedures on the collection, use, and disclosure of your information. Visit our [Privacy Office page](https://web.archive.org/privacy/) to view the National Archives' privacy documentation, including Privacy Impact Assessments (PIAs) and System of Records Notices (SORNs).
 
 ### What information is collected?
 
@@ -64,19 +64,19 @@ On occasion, the National Archives will embed media in its sites. For example, e
 
 Where possible, we embed the media in a way that minimizes the use of cookies. Third party hosts of the embedded media do not collect personally identifiable information (PII) on behalf of NARA. Any PII they collect on their own behalf is not shared with NARA.
 
-Some of the media embedded from a third party site is from NARA’s archival collections and is available through the [Online Catalog](https://web.archive.org/research/catalog/) or on archives.gov. Media from select current public programs is available on archives.gov. Embedded videos are captioned or a transcript will be provided on request.
+Some of the media embedded from a third party site is from NARA’s archival collections and is available through the [National Archives Catalog](https://web.archive.org/research/catalog/) or on archives.gov. Media from select current public programs is available on archives.gov. Embedded videos are captioned or a transcript will be provided on request.
 
 #### Third-party Websites
 
 The National Archives has a presence on several [social media platforms](https://web.archive.org/social-media/). Each of these sites provides visitors with a unique way to interact with the National Archives and helps us to open our collections to the public. The National Archives official presence on a social media platform is marked by the use of a NARA [logo or seal](https://web.archive.org/about/regulations/regulations.html).
 
-The essential information shared on these third party sites is available on archives.gov. In almost every case, the documents and records displayed on a third party are available in the [Online Catalog](https://web.archive.org/research/catalog/).
+The essential information shared on these third party sites is available on archives.gov. In almost every case, the documents and records displayed on a third party are available in the [National Archives Catalog](https://web.archive.org/research/catalog/).
 
-The National Archives does not collect personally identifiable information through these social media platforms, as outlined in [Privacy Impact Assessments](https://web.archive.org/privacy/privacy-impact-assessments/index.html). When a visitor shares PII, such as a Social Security number, we will, to the extent of our ability, remove the PII from the third party website in accordance with our comment and posting policies. The removed information will be retained and disposed of in accordance with the applicable records schedule. Access to this information is restricted to NARA employees who manage NARA’s presence on third party sites or who need access to the information to carry out their official duties. The information is secured as outlined in NARA’s internal management policy on the handling of personally identifiable information.
+The National Archives does not collect personally identifiable information through these social media platforms, as outlined in [Privacy Impact Assessments](https://web.archive.org/privacy/privacy-impact-assessments/). When a visitor shares PII, such as a Social Security number, we will, to the extent of our ability, remove the PII from the third party website in accordance with our comment and posting policies. The removed information will be retained and disposed of in accordance with the applicable records schedule. Access to this information is restricted to NARA employees who manage NARA’s presence on third party sites or who need access to the information to carry out their official duties. The information is secured as outlined in NARA’s internal management policy on the handling of personally identifiable information.
 
 The third party site may retain back up files or other files that contain the removed PII. NARA has no control over the third party’s use of this information and makes no representations regarding the third party’s responsibilities.
 
-In addition, the National Archives in conjunction with the [National Archives Foundation](https://web.archive.org/global-pages/exit-internal.html?link=http://www.archivesfoundation.org/) has a number of educational websites hosted by third parties, including [Docs Teach](http://docsteach.org/). These sites have their own privacy policies and allow visitors to log in, create profiles, and save information in those profiles. This information is only accessible by National Archives employees and contractors who manage these sites.
+In addition, the National Archives in conjunction with the [National Archives Foundation](http://www.archivesfoundation.org/) has a number of educational websites hosted by third parties, including [Docs Teach](http://docsteach.org/). These sites have their own privacy policies and allow visitors to log in, create profiles, and save information in those profiles. This information is only accessible by National Archives employees and contractors who manage these sites.
 
 #### Mobile Apps
 
@@ -119,8 +119,6 @@ When you voluntarily register for a user account on one of our websites, we ask 
 
 If there are any issues related to your user account, we may use your email address and username to contact you about the issues involved.
 
-#### 
-
 #### Email Newsletters
 
 The National Archives uses [email newsletters](https://web.archive.org/publications/email-newsletters) as a way to communicate with readers about news and events, publications and programs, and share information about the holdings of the National Archives. A complete list of email newsletters published by the National Archives is located on archives.gov.
@@ -149,9 +147,9 @@ Generally, materials produced by Federal agencies are in the public domain and m
 
 However, not all materials appearing on this website are in the public domain.
 
-Some materials, particularly items in the holdings of the National Archives of the United States may have been donated or obtained from individuals or organizations and  [may be subject to restrictions](http://test-www.archives.gov/global-pages/privacy.html#restrictions) on use.
+Some materials, particularly items in the holdings of the National Archives of the United States may have been donated or obtained from individuals or organizations and may be subject to restrictions on use.
 
-  * If you have copyright information about an item you've seen on our website, including items in the [Online Catalog](https://web.archive.org/research/catalog/), or if you are the copyright owner and believe our website has not properly attributed your work to you or has used it without permission, we want to hear from you. Please email [copyright@nara.gov](mailto:copyright@nara.gov) with your contact information and a link to the relevant content.
+  * If you have copyright information about an item you've seen on our website, including items in the [National Archives Catalog](https://web.archive.org/research/catalog/), or if you are the copyright owner and believe our website has not properly attributed your work to you or has used it without permission, we want to hear from you. Please email [copyright@nara.gov](mailto:copyright@nara.gov) with your contact information and a link to the relevant content.
 
 
 
