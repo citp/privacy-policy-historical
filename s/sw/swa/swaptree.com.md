@@ -1,102 +1,100 @@
-> *The following text is extracted and transformed from the swaptree.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019032244id_/http%3A//support.swap.com/hc/en-us/articles/203331185-Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swaptree.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213053653id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy policy – Swap.com Support
+# Legal Agreement
 
-LAST UPDATED: 7 May, 2015
+**GoDaddy Respects Your Privacy**
 
-## NETCYCLER INC. / SWAP.COM PRIVACY POLICY
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-### I. Introduction
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Netcycler, Inc. (“we, “us) is committed to protecting and respecting your privacy. This Privacy Policy (together with our [terms of use](https://web.archive.org/entries/21819031) and any other documents referred to in it) applies to swap.com (the “Service”) and sets out the basis on which any personal data we collect from you, or that you provide to us, will be handled by us. In this Privacy Policy, the term “personal data” means information that relates to an identified or identifiable natural person. This Privacy Policy tells you about the ways in which we protect your privacy and personal data we process about you.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We wish to remind you that this Privacy Policy applies to personal data that we process when you use the Service. It does not apply to any links to third parties’ websites and/or services, such as third-party applications, that you may encounter when you use the Service. We encourage you to carefully familiarize yourself with privacy policies applicable to any websites and/or services operated by third parties. Please be aware that we are not responsible for the privacy practices of any third parties.
+**Information Collection and Use**
 
-### II. Information We May Collect From You
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-(i) Data You Provide to the Service
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may collect the following information from our registered (signed up) users (“Registered Users”) that may, in certain circumstances, constitute personal data:
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-  * Password;
-  * Name;
-  * E-mail address;
-  * Phone number;
-  * Address;
-  * Date of birth; and
-  * Gender.
-  * Paypal account email address
-  * Current and past items
-  * Trading history
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-If you use a third party service, such as Facebook Connect, for signing into the Service, we may collect personal data, such as your user ID, name, and e-mail address, that are available in accordance with the terms of service and the privacy settings of the third party service you use for signing into the Service. You may control the types of personal data available in the public profile of such third party services by adjusting the privacy settings available therein. Moreover, if you contact us, a record of this correspondence may be kept.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-(ii) Data Collected Automatically
+**Security**
 
-The Service may automatically collect the following information from that in certain circumstances may constitute personal data:
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-  * The logging technology used in the Service automatically collects the URL of the site from which you came and the site to which you are going when you leave the Service. We also collect the Internet Protocol (IP) address of the device you use to access the Service, information about the operating system of your device, as well as the name of your Internet service provider.
-  * We may place a “cookie” on the hard drive of the device that you use to access the Service. Cookies are text files that are saved on the hard drive of your device by means of your browser, enabling us to recognize your browser for purposes such as saving your preferences and directing relevant content to you. Most of the currently available browsers give you the option of managing cookies by, for example, disabling them entirely, accepting them individually, and deleting saved cookies from your hard drive. We would like to remind you that if you completely disable cookies on your browser, you might not be able to use some features of the Service.
-  * Google Analytics is an element of the Service. By using cookies, Google Analytics collects and stores data such as time of visit, pages visited, time spent on each page of the website, the Internet Protocol address, and the type of operating system used in the devices used to access the Service. By using a browser plugin <http://www.google.com/ads/preferences/plugin/> provided by Google, you can opt out of Google Analytics.
+**Updating Your Information**
 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Moreover, details of transactions you carry out through the Service, the fulfillment of your orders, details of your visits to this site including, but not limited to, traffic data, location data, weblogs and other communication data may also be collected.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-### III. How We Disclose Data
+      iii.      You may call us at: (480) 505-8800
 
-We do not sell, lease, rent or otherwise disclose the personal data relating to our Registered Users to third parties unless otherwise stated below.
+       iv.      You may fax us at: (480) 505-8844
 
-The personal data collected in the Service may be disclosed in the following manner:
+**Sending Emails**
 
-a) Personal data you provide to the Service:
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-We may disclose personal data you provide to the Service with the following categories of third parties:
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-  * To service providers, such as payment processors and data storage service providers, which enable us to provide the Service to you;
-  * To public authorities, such as law enforcement, if we are legally required to so or if we need to protect our rights or the rights of third parties; and
-  * To our subsidiaries and affiliates; or a subsequent owner, co-owner or operator of the Service and their advisors in connection with a corporate merger, consolidation, restructuring, or the sale of substantially all of our stock and/or assets or other corporate reorganization, in accordance with this Privacy Policy.
+**Compliance with Laws and Law Enforcement**
 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
+**Third Party Service Providers**
 
-b) Data collected automatically:
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-The data collected automatically in the Service may be disclosed to the following categories of third parties:
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-  * To service providers, such as data analysis companies;
-  * To public authorities, such as law enforcement, if we are legally required to do so or if we need to protect our rights or the rights of third parties; and
-  * To our subsidiaries and affiliates; or a subsequent owner, co-owner or operator of the Service and their advisors in connection with a corporate merger, consolidation, restructuring, or the sale of substantially all of our stock and/or assets or other corporate reorganization, in accordance with this Privacy Policy.
+**Supplementation of Information**
 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
+**Contests/Surveys**
 
-Moreover, we may disclose information to third parties in an aggregate format that does not constitute personal data and does not allow the identification of individual Registered Users.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-### IV. Your Rights
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-You have the following rights with respect to the personal data we hold about you:
+**Tell-A-Friend**
 
-  * The right to know what data we hold about you: If you would like to know what personal data we hold about you, please contact us at . We seek to swiftly respond to your inquiry. We may charge a small processing fee if less than twelve (12) months has passed since your last inquiry relating to personal data we hold about you.
-  * The right to have incomplete, incorrect, outdated, or unnecessary personal data corrected, deleted, or updated. The easiest way to correct, delete, or update the personal data you have provided to the Service is to log in to the Service and enter the necessary changes in the account settings of the Service. If you have additional questions regarding the correction, deletion, or updating of the personal data we hold about you, please contact us at .
-  * The right to opt out of receiving electronic direct marketing communications from us: All electronic direct marketing communications that you may receive from us, such as e-mail messages and SMS-messages, give you an option of not receiving such communications from us in the future. If you have any additional questions about electronic direct marketing received from us, please contact us at .
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
+**What Happens to my Personal Information if I Opt Out?**
 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-### V. Data Security
+**Transfer of Data Abroad**
 
-All information you provide to us is stored on our or our hosting providers' secure servers. Please note that the Service is hosted in cloud servers in the US, in European Union or in another location. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of this site, you are responsible for keeping this password confidential. Please do not share your password with anyone.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect personal data about you, we cannot guarantee the security of your data transmitted to the Service; any transmission is at your own risk.
+**Changes in Our Practices**
 
-### VI. Children’s Privacy
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-This Service is not directed to children under 13. We do not knowingly collect personal data from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal data without their consent, he or she should contact us at . If we become aware that a child under 13 has provided us with personal data, we will delete such information from our files.
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-### VII. Changes to the Privacy Policy
+**Contacting Our Site**
 
-From time to time we may change this Privacy Policy. You can tell when changes have been made to the Privacy Policy by referring to the “Last Updated” legend on top of this page. If we materially change the ways in which we use and disclose personal data, we will post a notice in the Service and send an e-mail to our registered (signed up) users. Your continued use of the Service following any changes to this Privacy Policy constitutes your acceptance of any such changes made.
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-### VIII. Questions or Concerns?
+* * *
 
-Should you have any questions regarding this Privacy Policy, your privacy as it relates to the use of the Service, or the protection of the personal data we hold about you, please contact us via e-mail at  or by mail at Netcycler Inc., 3 Timber Court, Bolingbrook, IL 60440. We seek to swiftly resolve any concerns you may have.
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
