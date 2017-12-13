@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muih.edu privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614052717id_/http%3A//www.muih.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muih.edu privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213033303id_/http%3A//muih.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MUIH
 
