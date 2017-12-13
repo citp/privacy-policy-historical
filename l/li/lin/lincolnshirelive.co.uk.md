@@ -1,85 +1,71 @@
-> *The following text is extracted and transformed from the lincolnshirelive.co.uk privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613205751id_/http%3A//www.lincolnshirelive.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincolnshirelive.co.uk privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213210405id_/http%3A//www.lincolnshirelive.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Lincolnshire Live | Privacy Policy
+# Lincolnshire Live privacy policy
 
-Effective from 1 January 2013
+**IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR LIMITED HERE ON THIS WEB SITE**
 
-This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use this Site.
+We are committed to:
 
-**Collection Of Personal Information**
+protecting the personal information you give us telling you how we use the information we gather about you getting your consent to our disclosure of your personal information.
 
-We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms, submit comments to the Site, participate in message boards, blogs and other such user generated content facilities or send emails or text messages to us. Please do not submit your personal information to us if you do not wish us to collect it. 
+Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. TRINITY MIRROR is part of Trinity Mirror Plc and when we refer to "we" in this policy we mean the activities of the Trinity Mirror Group.
 
-**Use of Cookies**
+ **WHY WE COLLECT INFORMATION ABOUT YOU**
 
-In addition to personal information you provide, we may also collect information about you automatically when you visit the Site or access content in our electronic communications with you.
+We want to offer you a service which you want to use. We may use information about you to help us customise our site to improve its usefulness to you. It can also help us to choose services we think will interest you.
 
-The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site or within electronic communications. A cookie is a small text file that is placed on your computer’s hard drive by your browser. Cookies allow us to identify your computer and find out details about your visit and browsing habits so that we can offer you a more personalised experience and manage, monitor and improve services.
+Information about you helps us sell space to advertisers of products and services relevant to you so that we can continue to fund the site through advertising and you can continue to use the site for free.
 
-Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to use some of the core features of the Site. **CLICK HERE** for instructions on controlling cookies in the most recent version of Windows Explorer (Users of other browsers should contact their manufacturer for instructions).
+In addition to the services we provide on this web site we want to offer you goods and services provided by us and others (with your consent) which are of interest to you.
 
-The information collected by cookies and web beacons is not personally identifiable, it only includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
+We compile anonymous records of user trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties.
 
-Display advertising on the Site is provided by our advertising partners. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). For more information about this type of online behavioural advertising please visit **<http://www.youronlinechoices.com/uk/>**
+ **WHAT INFORMATION DO WE COLLECT FROM YOU?**
 
-For more detail on our cookies, and on trusted 3rd party companies using cookies on our Site please **click here**
+We may collect information from you when you fill in an online registration form for any of our web site services, (e.g., chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.
 
-You can learn more about cookies and how to reject cookies using different types of browser by visiting **[www.allaboutcookies.org](http://www.allaboutcookies.org/)**
+We collect information about your use of our sites' web site services through "cookies". For more information on "cookies" please see our Cookie Policy which forms part of this Privacy Policy.
 
-Separate tools are also available for managing local shared objects or ‘Flash cookies’ from the **[Adobe website](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)**. These cookies may be used to manage the effective delivery of services using video or other flash related content. 
+Where it is lawful, we may monitor emails you send and receive.
 
-  
+ **YOUR CONSENT**
 
+We will not make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities without your consent. When you give us any personal information we may want to use you will be given an opportunity to refuse consent for various uses of your information.
 
-For more information on how cookies are used on this site please **[click here](https://web.archive.org/faq.html)**
+If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or no longer want us to pass your information to third parties, please notify us by email.
 
- **VisualDNA**
+ **HOW WE ENSURE PRIVACY IS MAINTAINED**
 
-VisualDNA's patented image-based profiling tool allows users to take control of their online experience, by providing access to advertisements, content and recommendations localised and personalised to them from across the web. We believe that individuals should be in control of their data, and our ultimate goal is to enable users to decide what information they choose to share and how they would like to benefit. To learn more about how we collect and use information for online advertising, please visit: **<http://visualdna.com/privacy-policy>**
+We endeavour to ensure that your data is stored securely and to prevent unauthorised access. We have security measures in place to protect your information which we monitor regularly. Unfortunately, despite our measures, because of the nature of the Internet, we cannot guarantee that your information will remain at all times 100% secure. The continuing efforts of hackers to defeat even the newest of security systems means that we can never make this promise.
 
-**Use Of Your Information**
+Please be aware that if you disclose information on chat areas, your Profile page, forums or other public services it may be possible for other people to use this information. We are not responsible for the disclosure of any information you post in this way.
 
-By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation): • Verifying your identity (for example when you return to the Site);  
-• Personalising your visits to the Site to improve the services provided to you;  
-• Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting;  
-• customer service and support;  
-• Enabling you to share our content with others e.g. using our Email a friend and Share this article functionality;  
-• Communicating (and personalising such communication) with you;  
-• Conducting market research; and/or  
-• carrying out technical and statistical analysis to measure the performance of our services and the Site.
+Our policy is to comply with the Data Protection Act 1998 and the Regulation of Investigatory Powers Act 2000 and all other legislation which governs the maintenance of privacy in your information.
 
-**Sharing Your Personal Information**
+Our web site provides a number of links to web sites not operated by us or by companies associated with us. We take no responsibility for the use of any information about you which is collected as a result of your use of these web sites and this privacy policy does not extend to any web site operated by anybody other than us.
 
-We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer.
+ **DISCLOSING YOUR INFORMATION TO THIRD PARTIES**
 
-Subject to your consent, we may supply personal information about you to selected third parties so that they may contact you with information and offers which may be of interest to you.
+The personal information you give us is only disclosed to other businesses if we have your permission. In particular, even where we have your consent we will only disclose your financial, credit card or bank details to our agents and/or third party suppliers of products or services on a need to know basis including, for example, in relation to the fulfilment of any e-commerce transactions.
 
-We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information. 
+We may disclose details about use of our web sites to other businesses e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified.
 
-We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
+We may forward your personal details to the Police or another regulatory body if we are asked to do so or wish to do so in order to comply with the law or in relation to any suspected misuse by you of our web site or any of our web site services.
 
-**Message Boards, Blogs and Other Public Forums**
+We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies.
 
-The Site makes message boards, blogs and other such user generated content facilities available to users of the Site and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Site becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Site's Terms and House Rules.
+Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein.
 
-**Email A Friend And Share This Article Facilities**
+ **REALMEDIA AD SERVING TECHNOLOGY**
 
-When you use these facilities and provide us with personal data (e.g. the name and email address) of a third party, please ensure that you have their consent before giving us their details. Keeping Your Personal Information Secure.
+We use ad serving technology to display the ads on our web pages. We use the cookie feature of this technology to anonymously manage and report on the effectiveness of the ads that you see. No personal data such as your name, address or email address are used during this process.
 
-We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England.
+If you do not wish this to happen, you can either click here to obtain opt-out details or you can use the cookie preference settings in your browser to manage this process.
 
-**Accessing Your Personal Information**
+More information on this can be found in the "Help" section of the browser that you are using.
 
-If you wish to review or receive copies of the personal information we hold about you, change your marketing preferences or have any other queries about this privacy policy, please write to us (including full details of your request) at the following address:
+ **OMNITURE ANALYTICS**
 
-Local World Limited  
-Northcliffe House  
-2 Derry Street  
-London  
-W8 5TT
+TRINITY MIRROR engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. TRINITY MIRROR controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of TRINITY MIRROR is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to TRINITY MIRROR may be reassociated by TRINITY MIRROR with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture.
 
-We may charge a small administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information.
-
-**Changes to this Privacy Policy**
-
-If we change this privacy policy, we will post the revised privacy policy here with an updated effective date. If we make significant changes to the privacy policy, we may also notify you by other means such as sending an email or posting a notice on our home page.
+Further information regarding Omniture's privacy statement can be found by clicking here.
