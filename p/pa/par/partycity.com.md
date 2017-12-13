@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partycity.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627001208id_/http%3A//www.partycity.com/category/company/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partycity.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213031203id_/http%3A//www.partycity.com/category/company/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Party City
 
