@@ -1,52 +1,39 @@
-> *The following text is extracted and transformed from the lolz4u.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114220042id_/http%3A//lolz4u.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolz4u.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213165117id_/http%3A//lolz4u.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LoLz4u.com
+# Privacy Policy - Best LOL Videos - Lolz4U.com
 
-| 
+Automattic Inc (" **Automattic** ") operates Automattic.com and may operate other websites. It is Automattic's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-www.lolz4u.com respects the privacy concerns of the users of its Internet Sites ("Sites"), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.
+### Website Visitors
 
-**Use of Information**
+Like most website operators, Automattic collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Automattic's purpose in collecting non-personally identifying information is to better understand how Automattic's visitors use its website. From time to time, Automattic may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-As a general policy, no personally identifiable information, such as your name or address, is automatically collected from your visit to www.lolz4u.com. However, certain non-personal information is recorded by the standard operation of lolzgags’s Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience. For example, it may be used to tailor content and advertising to your interests.
+Automattic also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Automattic.com blogs/sites. Automattic only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-In special cases,  www.lolz4u.com  may disclose user information when there is reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to, or interference (either intentionally or unintentionally) with,  www.lolz4u.com ’s rights or property, other  www.lolz4u.com  web site users, or anyone else that could be harmed by such activities.
+### Gathering of Personally-Identifying Information
 
-**Security**
+Certain visitors to Automattic's websites choose to interact with Automattic in ways that require Automattic to gather personally-identifying information. The amount and type of information that Automattic gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [ Automattic.com](http://%20automattic.com/) to provide a username and email address. Those who engage in transactions with Automattic are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Automattic collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Automattic. Automattic does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-Security for all personally identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information,  www.lolz4u.com  cannot ensure or warrant the security of any information you transmit to us or from our online forms, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+### Aggregated Statistics
 
-**Use of Cookies**
+Automattic may collect statistics about the behavior of visitors to its websites. Automattic may display this information publicly or provide it to others. However, Automattic does not disclose personally-identifying information other than as described below.
 
-Cookies are pieces of information that a website transfers to an individual’s computer hard drive for record keeping purposes. Cookies are used to track visits to our Sites and to personalize the Sites for new and current subscribers. Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. (Note: you will need to consult the help area of your browser application for instructions.) If you choose to disable your cookies setting or refuse to accept a cookie, some parts of  www.lolz4u.com ’s web sites may not function properly.
+### Protection of Certain Personally-Identifying Information
 
-**Use of IP Addresses**
+Automattic discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Automattic's behalf or to provide services available at Automattic's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Automattic's websites, you consent to the transfer of such information to them. Automattic will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Automattic discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Automattic believes in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties or the public at large. If you are a registered user of an Automattic website and have supplied your email address, Automattic may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Automattic and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Automattic takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-An IP address is a number that’s automatically assigned to your computer by your Internet provider whenever you surf the Web. When you request pages from lolzgags Sites, our servers log your IP address. www.lolz4u.com collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our Site. We may use your IP addresses in cooperation with your Internet provider to identify you if we deem it necessary to enforce compliance with our Terms of Use or to protect our service, Sites, customers, or others.
+### Cookies
 
-**Links to Other Sites**
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Automattic uses cookies to help Automattic identify and track visitors, their usage of Automattic website, and their website access preferences. Automattic visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Automattic's websites, with the drawback that certain features of Automattic's websites may not function properly without the aid of cookies.
 
-www.lolz4u.com is not responsible for the content or practices of third party websites that may be linked to our Sites. Our Sites may link to websites operated by other companies; we are not responsible for the privacy practices of such websites. Visitors to these web sites should refer to each web site’s respective privacy policies and practices.
+### Business Transfers
 
-**Third Party Cookies**
+If Automattic, or substantially all of its assets, were acquired, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Automattic may continue to use your personal information as set forth in this policy.
 
-In the course of serving advertisements to our sites, our third-party advertisers may place or recognize a unique "cookie" on your browser.
+### Ads
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit the Network Advertising Initiative or Self-Regulatory Program for Online Behavioral Advertising.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Automattic and does not cover the use of cookies by any advertisers.
 
-Google, as a third party vendor, uses cookies to serve ads on our websites. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+### Privacy Policy Changes
 
-**Contact Us**
-
-If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can email us at lolz4u420@gmail.com
-
-Information provided by you via general email inquiries to  www.lolz4u.com  such as your email address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties.
-
-**Your Acceptance of These Terms**
-
-By using  www.lolz4u.com , you signify your acceptance of the  www.lolz4u.com’s  Privacy Policy. If you do not agree to this policy, please do not use our Sites.  www.lolz4u.com  reserves the right to modify, alter or otherwise update this policy at any time. We encourage visitors to review this policy from time to time. Your continued use of the  www.lolz4u.com following the posting of changes to these terms indicates your acceptance of these changes
-
-The Ultimate destination for free sharing and viewing of the funniest pictures, fails, iPhone Autocorrects, wallpapers, movies scenes, comics online. Kill your boredom and have a fun time at www.lolz4u.com . Updated Daily.
-
-|   
----|---|---
+Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time, and in Automattic's sole discretion. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Automattic.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
