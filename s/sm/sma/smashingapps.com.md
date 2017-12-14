@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashingapps.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617070804id_/http%3A//www.smashingapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashingapps.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214205522id_/http%3A//www.smashingapps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SmashingApps.com
 
