@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planbook.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182457id_/https%3A//www.planbook.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planbook.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214104120id_/https%3A//planbook.com/help/privacy.html) for the most accurate reproduction.*
 
 # Planbook.com Privacy Policy
 
