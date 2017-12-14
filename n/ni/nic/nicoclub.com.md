@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicoclub.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616044948id_/http%3A//www.nicoclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicoclub.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214213312id_/http%3A//www.nicoclub.com/privacy-policy) for the most accurate reproduction.*
 
 # NICOclub.com Privacy Policy
 
@@ -8,16 +8,10 @@ All information is copyrighted by NICOclub, with all rights reserved. The materi
 
 NICOclub respects your privacy and we are committed to protecting it. This privacy statement is to inform you of our privacy policy, practices, and the information collected online and how that information is used.
 
-Certain non-personal information associated with normal web browsing and usage that does not identify a specific personal identity may be collected as you navigate NICOclub. Types of non-personal information may include pages visited, browser type, ip address, and cookies (cookies store information) which may be collected by 3rd parties including advertisers. NICOclub uses such information in order to determine traffic statistics and to improve the content of our Web pages and advertisement relevancy.
+We use third-party advertising companies to serve ads and collect information when you visit our website. These companies will NOT have access to or use any personally identifiable information (including your name, address, email address or telephone number) but will use other non-personal information about your visits to this and other websites in order to provide advertisements on this website, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://networkadvertising.org/consumer/opt_out.asp
 
-NICOclub does NOT EVER share your information with anyone. Upon registration, we ask that you submit certain information such as your name, e-mail address, birthday, and location. This information is ONLY used to verify you as a “real” user, contact you with relevant information, and to provide a more personalized experience within our community. This information MAY be visible to someone conducting a search engine inquiry. This is fairly common for most all forums. Again, your information will not be disclosed or sold/rented/leased to anyone.
-
-From time to time, we may send out a newsletter or update regarding the site via email. This is infrequent (usually once or twice annually).
-
-NICOclub may provide links to third-party websites for your convenience and information. We do not control those sites or their privacy practices, which may differ from our practice.
-
-As with most free resource sites, we have advertising on the forums. To bring you offers that are of interest to Nissan enthusiasts, we have relationships with other companies that place ads on our Web pages. As a result of your visit to our site, 3rd party ad server companies may collect information such as your domain type, your IP address, cookies and clickstream information. This is fairly common to most websites.
+NICOclub does NOT EVER share your information with anyone. Upon registration, we ask that you submit certain information such as your name, e-mail address, birthday, and location. This information is ONLY used to verify you as a “real” user. NICOclub may occasionally provide links to third-party websites. We do not control those sites or their privacy practices, which may differ from our practice.
 
 By using this website you agree to the terms of use and gathering of this information, including cookies.
 
-If you feel that this site is not following its stated information policy, you may contact us via e-mail at webmaster@nicoclub.com.
+If you feel that this site is not following its stated information policy, you may contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
