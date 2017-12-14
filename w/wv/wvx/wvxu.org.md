@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wvxu.org privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213041308id_/http%3A//www.cinradio.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvxu.org privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214030915id_/http%3A//www.cinradio.org/privacy) for the most accurate reproduction.*
 
 # Cincinnati Public Radio
 
 ### Privacy Policy and Terms of Use:
 
-You have come to this page from a website or digital service produced by Cincinnati Public Radio (CPR). We recognize the importance of privacy to visitors to any CPR website, and we want every user (you) to know how we collect and use information about you when you visit our websites. This privacy policy explains what type of information is collected from you when you visit this and other CPR websites, and how we may use that information. 
+You have come to this page from a website or digital service produced by Cincinnati Public Radio (CPR). We recognize the importance of privacy to visitors to any CPR website, and we want you to know how we collect and use information about you when you visit our websites. This privacy policy explains what type of information is collected from you when you visit this and other CPR websites, and how we may use that information. 
 
 **Contents**  
 Information we automatically gather when you visit CPR websites  
@@ -28,11 +28,11 @@ We record data for each visitor who accesses our sites using Google Analytics. T
 
   * The date of the visit 
   * The time and length of the visit 
-  * The path taken through the Web site 
+  * The path taken through the website 
   * The browser being used 
   * A list of files downloaded or viewed 
   * The amount of time spent listening to audio files 
-  * The Internet Protocol Address (IP Address) of the machine accessing our Web site* 
+  * The Internet Protocol Address (IP Address) of the machine accessing our website* 
   * Any errors encountered 
 
 
@@ -47,17 +47,17 @@ We may track your visit to sections of our websites in order for some site featu
 CPR does not collect personally identifying information from CPR websites unless you choose to provide that information to us. You must be at least eighteen (18) years of age to submit any User Materials or personally-identifying information; participate in any online contests; and/or place an order on the Online Store. If you are between the ages of 13 and 18, you may browse the CPR Digital Services or register for email newsletters or other features of the CPR Digital Services with the consent of your parent(s) or guardian(s), so long as you do not submit any User Materials. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible. 
 
 **Name and contact information**  
-CPR may ask visitors (you) to provide certain personal information when you: register for access to audio streaming, register for a contest; sign up for an e-mail list; request information; purchase products or services; contribute material that may be used on the Web site; participate in a discussion board or chat; or use a CPR form to become a member of CPR. You will also have the opportunity to request future e-mail contact from CPR regarding its programs and Web sites. CPR tells you whether a specific piece of information is required at the time it is requested. 
+CPR may ask visitors (you) to provide certain personal information when you: register for access to audio streaming; register for a contest; sign up for an e-mail list; request information; purchase products or services; contribute material that may be used on the website; participate in a discussion board or chat; or use a CPR form to become a member of CPR. You will also have the opportunity to request future e-mail contact from CPR regarding its programs and websites. CPR tells you whether a specific piece of information is required at the time it is requested. 
 
 This information may be used by CPR to: verify your identity; manage CPR's members and donors; manage a contest; gather your editorial comments and feedback; contact you for additional information or administrative purposes; provide attribution for any submitted content of yours published by CPR, and fulfill your order or request. CPR will contact you only if necessary for the purposes above.
 
-CPR uses shared lists to maximize the benefits it can provide through other non-profit arts organizations and through qualified associations. If you are a member and allow it, a member's name and address may be exchanged for consideration with select organizations. These organizations may attempt to contact you to promote a product or service that they offer. Such contacts from third parties will only be made with CPR 's consent, and CPR will only grant its consent when CPR considers the offer to be of potential interest and benefit to our members.
+CPR uses shared lists to maximize the benefits it can provide through other non-profit arts organizations and through qualified associations. If you are a member and allow it, your name and address may be exchanged for consideration with other local non-profit organizations. These organizations may attempt to contact you to promote a product or service that they offer. Such contacts from other local non-profits will only be made with CPR's consent, and CPR will only grant its consent when CPR considers the offer to be of potential interest and benefit to our members. Phone numbers, email addresses and giving histories are never shared.
 
 CPR will not share, exchange, rent, or sell any of its lists to political parties or candidates for political office.
 
 If you do not want your name and contact information to be used in this way, you may indicate this at the time you provide the information. If you decide after you have provided this information that you do not want CPR to share your information with any company or organization, you may also notify us by e-mailing [memberservices@cinradio.org](mailto:memberservices@cinradio.org). CPR cannot remove your name from any third party's list; you will have to contact them directly. 
 
-The Direct Marketing Association (DMA) offers a Mail Preference Service that is designed to assist consumers in decreasing the amount of nonprofit or commercial mail they receive at home. For more information about this service, visit the DMA Web site at: [www.the-dma.org](http://www.the-dma.org/) and click on "Consumer Help". 
+The Direct Marketing Association (DMA) offers a Mail Preference Service that is designed to assist consumers in decreasing the amount of nonprofit or commercial mail they receive at home. For more information about this service, visit the DMA website at: [www.the-dma.org](http://www.the-dma.org/) and click on "Consumer Help". 
 
 **Demographic and profile information**  
 CPR occasionally conducts online surveys, sometimes in association with a contest or other offer. These surveys may ask you for demographic information such as ZIP code, age, education, or income level. This information is used in an aggregate form to help us understand our audiences and improve our services. Demographic and profile information may be shared with selected third-party organizations, only on an aggregate basis, to describe the nature of our online audiences.
@@ -69,10 +69,10 @@ CPR occasionally conducts online surveys, sometimes in association with a contes
 You must be 18 or over to engage in money-related transactions on a CPR site. When you do so, you will be asked for a credit card number. All financial transactions take place only on secure servers, and electronic communication of credit-card information is sent only in a secured or encrypted format. Your credit card information is not saved on internal systems. This information is not made available to any third party and is considered completely confidential. The CPR website does not store credit card information for the purpose of "personalizing" the website.
 
 **Special note for CPR members**  
-If you use CPR 's secure online form to become a member or make a contribution to CPR, your name, complete contact information, and all contributions will be passed directly to the CPR Membership Department. Your membership information will be protected in full compliance with the CPR Member Lists Policy.
+If you use CPR 's secure online form to become a member or make a contribution to CPR, your name, complete contact information, and all contributions is only accessible by members of the CPR Membership Department. Your membership information will be protected in full compliance with the CPR Member Lists Policy.
 
 **Contact CPR**  
-If you have any questions about this privacy policy or any practices on the CPR sites, please send an e-mail to us at [webmaster@CPR.org](mailto:webmaster@CPR.org) or send a letter by regular mail to: Webmaster, CPR, 1223 Central Parkway, Cincinnati OH, 45214. CPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically.
+If you have any questions about this privacy policy or any practices on the CPR sites, please send an e-mail to us at [webmaster@cinradio.org](mailto:webmaster@cinradio.org) or send a letter by regular mail to: Webmaster, CPR, 1223 Central Parkway, Cincinnati OH, 45214. CPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically.
 
 **Consent**   
 Your use of the CPR website constitutes consent to any policy then in effect.
@@ -88,7 +88,7 @@ Your use of Cincinnati Public Radio Social Media Sites is acceptance of this Pol
 
 2\. As a guest posting content to any Cincinnati Public Radio Social Media Site on the internet, you agree to the following guidelines: 
 
-  * a. Keep the conversation civil, courteous and constructive. We encourage all viewpoints and ideas but ask that comments be respectful of others’ views. No profane, offensive, harassing or inflammatory language please.
+  * Keep the conversation civil, courteous and constructive. We encourage all viewpoints and ideas but ask that comments be respectful of others’ views. No profane, offensive, harassing or inflammatory language please.
   * Honor the copyrights and trademarks of others by not posting or uploading any material that infringes on the copyright, trademark, patent, or intellectual property rights of others.
   * Do not post, upload or link to unsolicited or unauthorized advertising or promotional materials.
   * Do not post, upload or link to content that contains any product, service or political endorsements.
@@ -136,7 +136,7 @@ You may not reproduce, distribute, republish, upload, transmit, display, prepare
 
 Cincinnati Public Radio will share links to its online news stories and multimedia content when asked for permission, but reserves the right to decline based on an evaluation of the request. It is Cincinnati Public Radio policy to not share or sell photographs / video to any non-partner organization. CPR will consider exceptions to this policy for non-commercial usage on a case by case basis.
 
-Individuals may copy, download one copy on a single computer, and print a limited amount of content, for your personal, non-commercial use only, provided that (a) you include without modification all copyright and other proprietary notices contained in the content, (b) you do not modify the content, (c) you do not use the content in a manner that suggests CPR promotes or endorses your, or any third party's, causes, ideas, web sites, products or services, and (d) you do not use the content in any way that is unlawful or harmful to any other person or entity. In addition, you may use widgets and tools on the NPR Services that allow selected User Materials to appear on your personal, noncommercial web site, weblog or other application, subject to the conditions in the preceding sentence.
+Individuals may copy, download one copy on a single computer, and print a limited amount of content, for your personal, non-commercial use only, provided that (a) you include without modification all copyright and other proprietary notices contained in the content, (b) you do not modify the content, (c) you do not use the content in a manner that suggests CPR promotes or endorses your, or any third party's, causes, ideas, websites, products or services, and (d) you do not use the content in any way that is unlawful or harmful to any other person or entity. In addition, you may use widgets and tools on the NPR Services that allow selected User Materials to appear on your personal, noncommercial website, weblog or other application, subject to the conditions in the preceding sentence.
 
 No quotes, photographs, or other content from any material on the CPR Digital Services may be used in any media (commercial or  non-commercial) without prior permission and attribution to Cincinnati Public Radio, WVXU, WGUC or WMUB.
 
