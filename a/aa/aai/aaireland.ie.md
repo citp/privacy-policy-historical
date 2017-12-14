@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaireland.ie privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624010637id_/https%3A//www.theaa.ie/aa/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaireland.ie privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214215631id_/http%3A//www.theaa.ie/aa/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AA Ireland | Data Protection & Privacy Policy | AA Ireland
 
@@ -20,7 +20,7 @@ Our Product Providers may subscribe to industry databases for fraud prevention p
 
 Examples of how we may personalise information might include preparing an insurance quote for you, or notifying you when we will be delivering certain products in your area. We make outbound phone calls for a number of reasons relating to our many products, including breakdown cover and insurance. We are fully committed to the regulations set out by the Central Bank of Ireland and other relevant legislation and follow strict processes to ensure we comply with them.
 
-Third parties may deliver some of our products to you or provide all or part of the service requested by you. In these instances, whilst the information you provide will be disclosed to them, it will only be used for the administration of the service provided (including for example verification of any quote given to you and claims processing), underwriting and pricing purposes as appropriate, testing, and to maintain management information for business analysis.
+Third parties may deliver some of our products to you or provide all or part of the service requested by you. In these instances, whilst the information you provide will be disclosed to them, it will only be used for the administration of the service provided (including for example verification of any quote given to you and claims processing), underwriting and pricing purposes as appropriate, testing, for the purpose of generating independent reviews, and to maintain management information for business analysis.
 
 When you enter a contest or other promotional feature, we may ask for your name, address, phone numbers and email address so we can administer the contest and notify winners. Occasionally, we may also use the information we collect to notify you by post, phone, mobile phone, email and SMS about new or existing AA Group services, products and special offers we think you'll find valuable.
 
@@ -28,7 +28,7 @@ We ask for your home, mobile telephone number, and email address to enable us to
 
 Generally by providing the requested data you consent to The AA using that data for administrative purposes and for informing you of other products and services by letter, SMS, phone and/or email. We may also use the information we collect to occasionally notify you about important functionality changes to the website.
 
-Based on the information you share with us, individualised offers may be shown to you on theAA.ie website, in mobile apps or on third-party websites, including social media channels. To target our marketing activities, we may share limited information, (for example email address and phone number with third parties (including social media channels), so that they can provide us with an anonymous demographic profile of users on their platform. The AA does not sell, trade or rent your information, and only aggregated, anonymised data is periodically transmitted to external services to help us improve your AA experience.
+Based on the information you share with us, individualised offers may be shown to you on theAA.ie website, in mobile apps or on third-party websites, including social media channels. To target our marketing activities, we may share limited information, (for example email address and phone number with third parties (including social media channels), so that they can provide us with an anonymous demographic profile of users on their platform. The AA does not sell, trade or rent your information, and except in the case of generating independent reviews, only aggregated, anonymised data is periodically transmitted to external services to help us improve your AA experience.
 
 ## Access to myAA
 
@@ -46,15 +46,17 @@ We may collect technical information in relation to your usage. This may include
 
 We may use your information to:
 
-  * Provide live traffic and travel updatesInform you of new products, offers or services
-  * Provide rescue servicesUnderstand your interests based on in-app behaviours to improve our products and services
+  * Provide live traffic and travel updates
+  * Inform you of new products, offers or services
+  * Provide rescue services
+  * Understand your interests based on in-app behaviours to improve our products and services
   * Provide you with vehicle reminders
 
 
 
 The AA does not sell, trade or rent your information. We will only share your information with third parties if we have your consent to do so or when they are providing a service for us. For example, a third party developer or an analytics company. Such third parties will only use that information in accordance with our instructions and not for their own purposes. Only aggregated, anonymised data is periodically transmitted to external services to help us improve the AA App and our service.
 
-When you use the AA App we may invite you to share content via email or via a social network. If you choose to share content then please be aware that the privacy and cookies policies of such third party sites govern the information you submit to them and we encourage you to read them.
+When you use the AA App we may invite you to share content via email or via a social network. If you choose to share content then please be aware that the privacy and cookies policies of such third party sites govern the information you submit to them and we encourage you to read them. 
 
 ## Opt Out
 
@@ -118,7 +120,7 @@ Here are the main types of cookies and what they do:
 
 
 
-For example, for remarketing purposes, we use DoubleClick Cookies. These cookies are provided by our online advertising agency. They help us tailor the advertisements you see on third party sites by understanding what interests you on our sites, such as the pages you view. We don’t combine this information with other personal information you provide with us. These cookies expire 30 days from when you last click on the advertisement.We limit advertising to certain sections of the website. These services are provided by our carefully selected and monitored partners, and we are committed to ensuring any information is used appropriately.
+For example, for remarketing purposes, we use DoubleClick Cookies. These cookies are provided by our online advertising agency. They help us tailor the advertisements you see on third party sites by understanding what interests you on our sites, such as the pages you view. We don’t combine this information with other personal information you provide with us. These cookies expire 30 days from when you last click on the advertisement. We limit advertising to certain sections of the website. These services are provided by our carefully selected and monitored partners, and we are committed to ensuring any information is used appropriately.
 
 ### Links to other sites
 
