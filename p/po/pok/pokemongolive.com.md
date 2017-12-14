@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pokemongolive.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623121015id_/https%3A//www.nianticlabs.com/privacy/pokemongo/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemongolive.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214070354id_/https%3A//www.nianticlabs.com/privacy/pokemongo/en) for the most accurate reproduction.*
 
 # Pokémon GO Privacy Policy - Niantic
 
-**Last Updated: December 21, 2016**
+**Last Updated: November 1, 2017**
 
 Protecting your privacy (or the privacy of your authorized child) is really important to Niantic, Inc. (“ **Niantic** ,” “ **we** ,” “ **our** ,” or “ **us** ”.) With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use, and disclosure of information that we receive through our Pokémon GO video game services, which are accessible via our mobile device application (the “ **App** ”). To make this Privacy Policy easier to read, our services, the App, and our website located at [http://pokemongo.nianticlabs.com](http://pokemongo.nianticlabs.com/) and [http://www.pokemongolive.com](http://www.pokemongolive.com/) (the “ **Site** ”) are collectively called the “ **Services**.” This Privacy Policy does not apply to any third party websites, services, or applications, even if they are accessible through any of our Services.
 
@@ -50,9 +50,9 @@ c. Information Related to Use of the Services.
 
 Our servers automatically record certain information about how a person uses our Services (we refer to this information as “ **Log Data** ”), including both Account holders and non-Account holders (either, a “ **User** ”). Log Data may include information such as a User’s Internet Protocol (IP) address, user agent, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services that a User clicked on, and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize, and enhance our Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s Log Data and other information to generate aggregate, non-identifying information about how our Services are used and use such aggregated information to understand and improve our Services and to administer use of the Services. If we engage a third party to analyze the Log Data, we will ensure that such third party is bound by contractual terms requiring it to process such Log Data in accordance with relevant European data protection laws (including, without limitation, the Data Protection Directive).
 
-d. Information Sent by Your Mobile Device.
+d. Device Information.
 
-We collect certain information that your (or your authorized child’s) mobile device sends when you (or your authorized child) use our Services, like a device identifier, user settings, and the operating system of your (or your authorized child’s) device, as well as information about your use of our Services while using the mobile device. We may use this information to provide the Services and to improve and personalize our Services for you (or your authorized child).
+We collect certain information about your (or your authorized child’s) mobile device when you (or your authorized child) use our Services, like a device identifier, user settings, the operating system of your (or your authorized child’s) device, information about other applications installed on your (or your authorized child’s) device as well as information about your use of our Services while using the mobile device. We may use this information to provide the Services and to improve and personalize our Services for you (or your authorized child).
 
 e. Location Information.
 
