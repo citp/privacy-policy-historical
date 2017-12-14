@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asendiausa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142004id_/http%3A//www.asendiausa.com/data-protection-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asendiausa.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214093401id_/http%3A//www.asendiausa.com/data-protection-policy) for the most accurate reproduction.*
 
 # US :: Data Protection & Cookie Policy
 
