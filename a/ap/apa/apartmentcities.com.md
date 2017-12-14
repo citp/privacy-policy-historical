@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the apartmentcities.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613221256id_/http%3A//www.apartmentcities.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentcities.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214190734id_/http%3A//www.apartmentcities.com/privacy.asp) for the most accurate reproduction.*
 
 # Apartments for Rent - PRIVACY POLICY by ApartmentCities.com
 
+## **Privacy Policy**
+
+  
 ApartmentCities.com respects the privacy of its users. In this document we explain how we use information you supply us via the ApartmentCities.com Web site. 
 
 **Information we Collect**  
