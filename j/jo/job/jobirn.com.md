@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608053618id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214111519id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Jobs2Careers
 
-Last update on: November 2, 2015
+Last update on: July 12, 2017
 
 Jobs-to-Careers.com and Jobs2Careers.com ("Jobs2Careers" or "we") is a website owned by InsidersReferral.com Inc. We know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose personally identifiable information (referred to as "personal information" in this Privacy Policy.
 
 By registering with Jobs2Careers and/or using our site at www.Jobs2Careers.com ("the Site") or any other site that is operated by Jobs2Careers and displays a link to this Privacy Policy, you are accepting the policies and practices described in this Privacy Policy. Each time you visit the Site or provide us with information you agree that you are consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described in this Privacy Policy. 
-
-InsidersReferral.com Inc. has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Site, [www.jobs2careers.com](https://web.archive.org/). 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). [ ](https://privacy.truste.com/privacy-seal/InsidersReferral-com,-Inc-/validation?rid=cb3b8e6c-6a3f-41ea-9bb5-f34f1297e0ce "TRUSTe online privacy certification")
 
 ####  Information Collection 
 
