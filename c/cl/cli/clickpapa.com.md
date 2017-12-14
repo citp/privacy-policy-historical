@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickpapa.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614013643id_/http%3A//clickpapa.com/pages/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpapa.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214122336id_/http%3A//clickpapa.com/pages/support/privacy) for the most accurate reproduction.*
 
 # ClickPapa.com - Buy and Sell Traffic - Privacy
 
@@ -59,3 +59,59 @@ H-6640 Csongrád, Dózsa György square 18.
 Tax ID: HU24299125 
 
 General info: info@clickpapa.com 
+
+## Latest News
+
+## 
+
+2017-11-27
+
+Advertiser deposit bonus on the week (Cyber Monday) 
+
+Dear Advertiser, We would like to make your week more happy on cyber monday. We offer 10% deposit bonus till the end of this week (12/03/2017). And we guarantee filtered traffic like: nocookie traffic, popunders in iFrame, or browsers without javascript and if you want You can now optimise Your traffic to referers, zones, subids, etc., To get this 10% You only have to leave a note "10%" in the optional note box at your deposit via wire, paxum or paypal. 
+
+## 
+
+2017-08-15
+
+The European Summit 2017 
+
+Dear friends, Meet us at The European Summit in Prague, between 14 - 17 September 2017. Schedule a meeting with Matt or with me! See you there, Balint
+
+## 
+
+2017-08-15
+
+Profile Verification 
+
+Dear Users, Do not forget, to fill out your profile here: http://clickpapa.com/profile in order, to get your account verified.
+
+## Upcoming Events
+
+## Past Events
+
+##  2016-03-31 
+
+The Phoenix Forum - Phoenix, AZ, USA - 2016. 03.31-04.03
+
+##  2016-03-21 
+
+The Phoenix Forum 2016
+
+##  2016-02-29 
+
+The European Summit - Sitges, ES - 2016 02.29-03.03
+
+##  2015-09-22 
+
+The European Summit Fall 2015 - Prague, Sep 22 - 25, 2015
+
+##  2015-09-18 
+
+Webmaster Access - Amsterdam, Sep 18 - 21, 2015
+
+##  2015-03-25 
+
+The Phoenix Forum 2015 - Phoenix, March 25 - 29 2015
+
+more
