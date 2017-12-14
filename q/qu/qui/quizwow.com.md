@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizwow.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630025909id_/http%3A//www.quizwow.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizwow.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214221432id_/http%3A//www.quizwow.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Quizwow
 
