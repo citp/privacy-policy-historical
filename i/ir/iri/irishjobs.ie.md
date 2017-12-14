@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114237id_/http%3A//www.irishjobs.ie/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214215128id_/http%3A//www.irishjobs.ie/about/privacy) for the most accurate reproduction.*
 
 # IrishJobs.ie for jobs in Ireland. Search IrishJobs.ie for jobs in Ireland, Dublin, Cork and Galway.
 
@@ -50,6 +50,7 @@ We use information held about you in the following ways:
   * to provide registered Customers of the Website with the information that you submit to the Website in response to a Job Specification. Submission of information by you to a particular Job Specification is treated by us to be permission to forward to that information to the Customer or Customers that have posted that Job Specification only;
   * if you choose to be a registered user of the Website, we will display details of the personal information about you that you submit to the Website for registered Customers of the Website, so that Customers are able to evaluate whether you are a suitable candidate for a vacant position (whether or not a Job Specification); you will be able to control the type of personal information about you which will be displayed in this way through your user account;
   * to ensure that content from the Website is presented in the most effective manner for you and for your computer;
+  * as a registered user of the Website you may opt to receive Job Alerts by email. To facilitate your ease of use of the Website across multiple devices, Job Alerts by email include a personalised link which will recognize you when you visit the Website by clicking on a link in the email. This makes it easy for you to apply for jobs as your name, email address, and link to your last used CV will automatically be populated in the Job application form. As Job Alert emails are personalised to you, it is important that you do not share these email links with other people or post them on social media. You are responsible for maintaining the security of these personal Job Alert email links. Sharing personalised Job Alerts could result in a somebody inadvertently applying for a job in your name
   * to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
   * to ensure we present the most relevant job and employer opportunities and to you to use anonymized data for statistical purposes and make such analysis available to third parties;
   * to allow you to participate in interactive features of our service, when you choose to do so; and
@@ -129,7 +130,7 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 For more information about how our cookies work view our [cookies policy](https://web.archive.org/about/cookie-policy).
 
-For information on how to control your cookies go to [www.allaboutcookies.org](http://www.allaboutcookies.org/ "visit all about cookes website").
+For information on how to control your cookies go to [www.allaboutcookies.org](https://www.allaboutcookies.org/ "visit all about cookes website").
 
 ## Access to Information and Updating, Verifying and Deleting Personal Data
 
