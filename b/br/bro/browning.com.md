@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browning.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627165312id_/http%3A//www.browning.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browning.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214153400id_/http%3A//www.browning.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ We store names, addresses, and, if provided, phone numbers and e-mail addresses 
 
 **eBlast**  is e-mailed to you only if you subscribe to the service online. You may unsubscribe to eBlast at any time by following the instructions on any e-mail sent from eBlast.
 
-* **Purchase Confirmation**  is available for specific Browning firearms and gun safe products and is not required to validate any implied or written warranty requirements. You may confirm your purchase by filling out a form on the Browning Coinfirm Your Purchase Survey Site.  [ Click here for information on how to confirm your purchase.](https://web.archive.org/support.html). Confirming your purchase enables us to collect personal contact information (as noted above), product data (model, date of purchase, intended use, etc.), as well as demographic and lifestyle information on Browning product owners. We study this marketing information to better serve your needs and interests.
+* **Purchase Confirmation**  is available for specific Browning firearms and gun safe products and is not required to validate any implied or written warranty requirements. You may confirm your purchase by filling out a form on the Browning Coinfirm Your Purchase Survey Site.  [ Click here for information on how to confirm your purchase.](http://www.browning.com/support.html). Confirming your purchase enables us to collect personal contact information (as noted above), product data (model, date of purchase, intended use, etc.), as well as demographic and lifestyle information on Browning product owners. We study this marketing information to better serve your needs and interests.
 
 We consider information on firearms and other product purchases (such as model, serial number, purchase date, price paid, etc.) strictly confidential and proprietary. This information is never shared with any third party except to contract with a specialized research agency to organize and quantify this information for our internal marketing analysis or at the specific written request of the Federal government through firearm trace requests or when otherwise required by law.
 
