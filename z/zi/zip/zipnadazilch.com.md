@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipnadazilch.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605121627id_/http%3A//www.zipnadazilch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipnadazilch.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214153053id_/http%3A//www.zipnadazilch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « The ZipNadaZilch Network
 
