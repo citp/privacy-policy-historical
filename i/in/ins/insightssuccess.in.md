@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insightssuccess.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101229id_/http%3A//insightssuccess.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightssuccess.in privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214215438id_/http%3A//insightssuccess.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Insights Success
 
@@ -8,28 +8,10 @@
 
 **Web browser cookies:** Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-  * __To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.
-
-
-
-  
-
-
-  * __To personalize user experience: we may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-
-
-
-  
-
-
-  * __To run a promotion contest survey or other Site featureto send Users information they agreed to receive about topics we think will be of interest to them.
-
-
-
-  
-
-
-  * __To send periodic emails: we may use the email address to send them information and updates pertaining to their order. If user decides to opt-in to our mailing list they will receive emails that may include company news updates related product or service information etc. If at any time the user would like to unsubscribe from receiving future emails we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  * To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To personalize user experience: we may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  *  To run a promotion contest survey or other Site featureto send Users information they agreed to receive about topics we think will be of interest to them.
+  * To send periodic emails: we may use the email address to send them information and updates pertaining to their order. If user decides to opt-in to our mailing list they will receive emails that may include company news updates related product or service information etc. If at any time the user would like to unsubscribe from receiving future emails we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
