@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crack2games.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095052id_/http%3A//crack2games.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crack2games.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214091808id_/http%3A//crack2games.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Crack2Games
 
@@ -129,4 +129,4 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 and we will promptly remove you from **ALL** correspondence.
 
-(Visited 851 times, 1 visits today)
+(Visited 985 times, 1 visits today)
