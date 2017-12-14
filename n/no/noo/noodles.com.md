@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603071738id_/http%3A//www.noodles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214054434id_/http%3A//www.noodles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Noodles & Company
 
@@ -125,7 +125,7 @@ The Site is located and directed to individuals in the United States.  If you a
 
 If you choose to use the Site outside of the United States, you understand and consent to the transfer of your personal information to, and the collection, processing and storage of your personal information in, the United States and other countries. The laws in the U.S. regarding personal information may be different than the laws of your state or country.
 
-If you have an account with Noodles on or through the Site, you may review and change your information by logging into your account and editing your profile, via email by contacting us at [thecavalry@noodles.com](mailto:thecavalry@noodles.com) by calling 720-214-1900, or Need Help within the app. Please note that we may not be able to delete your personal information without also deleting your user account. We may not accommodate a request to change or delete your personal information if we believe doing so would violate any law or legal requirement, or cause the information to be incorrect.
+If you have an account with Noodles on or through the Site, you may review and change your information by logging into your account and editing your profile, via email by contacting us at [guestrelations@noodles.com](mailto:guestrelations@noodles.com) by calling 720-214-1900, or Need Help within the app. Please note that we may not be able to delete your personal information without also deleting your user account. We may not accommodate a request to change or delete your personal information if we believe doing so would violate any law or legal requirement, or cause the information to be incorrect.
 
 You may opt-out of receiving future e-mail marketing messages and e-mail newsletters from Noodles at any time, by using the “unsubscribe” link found on each of our email communications.
 
