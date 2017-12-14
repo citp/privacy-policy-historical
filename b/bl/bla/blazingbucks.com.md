@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blazingbucks.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523113732id_/http%3A//www.gammae.com/blazingbucks/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blazingbucks.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214224503id_/http%3A//www.gammae.com/blazingbucks/privacy.php) for the most accurate reproduction.*
 
 # Blazing Bucks Affiliate Network program | Privacy
 
