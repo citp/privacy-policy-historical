@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddinginspirasi.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526173015id_/http%3A//www.weddinginspirasi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddinginspirasi.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214133608id_/http%3A//www.weddinginspirasi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Wedding Inspirasi | Wedding Inspirasi
 
@@ -6,15 +6,15 @@ Important: Your access to and use of the www.WeddingInspirasi.com website (the �
 
 ### Privacy Policy for Wedding Inspirasi
 
-At [http://www.weddinginspirasi.com](https://web.archive.org/web/20170526173015id_/http://www.weddinginspirasi.com/ "Wedding Inspirasi"), the privacy of our visitors is important to us. This privacy policy document outlines the types of personal information received and collected on this website and how they are used. We will never sell your personal information to third parties.
+At [http://www.weddinginspirasi.com](https://web.archive.org/web/20171214133608id_/http%3A// "Wedding Inspirasi"), the privacy of our visitors is important to us. This privacy policy document outlines the types of personal information received and collected on this website and how they are used. We will never sell your personal information to third parties.
 
 ### Limitation of Liability
 
-In using [http://www.weddinginspirasi.com](https://web.archive.org/web/20170526173015id_/http://www.weddinginspirasi.com/ "Wedding Inspirasi"), the user agrees that Wedding Inspirasi shall not be liable for any damage, loss or injury directly or indirectly resulting from the use of this website.
+In using [http://www.weddinginspirasi.com](https://web.archive.org/web/20171214133608id_/http%3A// "Wedding Inspirasi"), the user agrees that Wedding Inspirasi shall not be liable for any damage, loss or injury directly or indirectly resulting from the use of this website.
 
 ### External Links
 
-[Wedding Inspirasi](https://web.archive.org/web/20170526173015id_/http://www.weddinginspirasi.com/ "Wedding Inspirasi") will include links to external websites which provide additional information deemed useful to our readers. This should not be understood to be an endorsement of the linked website — including the website owners’ views, products or services. Wedding Inspirasi is not responsible for the content and privacy policies of external sites.
+[Wedding Inspirasi](https://web.archive.org/web/20171214133608id_/http%3A// "Wedding Inspirasi") will include links to external websites which provide additional information deemed useful to our readers. This should not be understood to be an endorsement of the linked website — including the website owners’ views, products or services. Wedding Inspirasi is not responsible for the content and privacy policies of external sites.
 
 ### Sponsored Posts and Ads
 
@@ -32,11 +32,11 @@ Our advertising partners may use cookies and web beacons on our site. Our advert
 
 ### DoubleClick DART Cookie
 
-Google, as a third party vendor, uses cookies to serve ads on [http://www.weddinginspirasi.com](https://web.archive.org/web/20170526173015id_/http://www.weddinginspirasi.com/ "Wedding Inspirasi").  
-Google’s use of the DART cookie enables it to serve ads to users based on their visit to [http://www.weddinginspirasi.com](https://web.archive.org/web/20170526173015id_/http://www.weddinginspirasi.com/ "Wedding Inspirasi") and other sites on the Internet.  
+Google, as a third party vendor, uses cookies to serve ads on [http://www.weddinginspirasi.com](https://web.archive.org/web/20171214133608id_/http%3A// "Wedding Inspirasi").  
+Google’s use of the DART cookie enables it to serve ads to users based on their visit to [http://www.weddinginspirasi.com](https://web.archive.org/web/20171214133608id_/http%3A// "Wedding Inspirasi") and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on [http://www.weddinginspirasi.com](https://web.archive.org/web/20170526173015id_/http://www.weddinginspirasi.com/ "Wedding Inspirasi") send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on [http://www.weddinginspirasi.com](https://web.archive.org/web/20171214133608id_/http%3A// "Wedding Inspirasi") send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 We do not have access to or control over these cookies that are used by third-party advertisers.
 
