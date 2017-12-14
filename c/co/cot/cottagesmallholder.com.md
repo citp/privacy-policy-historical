@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottagesmallholder.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502202951id_/http%3A//www.cottagesmallholder.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottagesmallholder.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214043107id_/http%3A//www.cottagesmallholder.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Cottage Smallholder
 
