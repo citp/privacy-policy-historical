@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the series-cravings.me privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041336id_/http%3A//series-cravings.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the series-cravings.me privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214182949id_/http%3A//series-cravings.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Series Cravings Streaming
+# Privacy Policy • Series-Cravings
 
 We at Series-Cravings are aware of how much you care for the personal information you use and share. , and we appreciate your trust that we will handle it with care and sensibility. We assure you that we do not collect personal information from you unless you provide it to us and will never provide or sell personal information to entities that are outside of the Series-Cravings community.  
 By visiting Series-Cravings , you are accepting the practices described in this Privacy Policy.
@@ -19,7 +19,7 @@ Our Commitment to Data Security
 Your personal data and information’s will be kept secured. Only approved staff of this site (who have consented to keep data secure and classified) have admittance to this data. All messages and pamphlets from this site permit you to withdraw of further mailings.
 
 How to Contact Us  
-If you have any questions or concerns about the Series-Cravings Privacy Policy or its implementation you may contact us at contact@series-cravings.me.
+If you have any questions or concerns about the Series-Cravings Privacy Policy or its implementation you may contact us at contact@series-cravings.tv.
 
 Updates & Effective Date  
 We may update this privacy notice from time to time. We will notify you about material changes in the way we treat personal information by placing a notice on our site.  
