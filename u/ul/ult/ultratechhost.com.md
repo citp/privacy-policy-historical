@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultratechhost.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518113924id_/http%3A//www.ultratechhost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultratechhost.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214172119id_/http%3A//www.ultratechhost.com/privacy.php) for the most accurate reproduction.*
 
 # UltratechHost - Privacy Policy
 
