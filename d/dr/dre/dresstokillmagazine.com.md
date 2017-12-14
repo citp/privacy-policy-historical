@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dresstokillmagazine.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506182615id_/http%3A//dresstokillmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresstokillmagazine.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214114412id_/http%3A//dresstokillmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · Dress To Kill - Canadian Fashion Magazine
 
