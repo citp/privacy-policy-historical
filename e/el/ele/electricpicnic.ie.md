@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the electricpicnic.ie privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527172654id_/https%3A//www.electricpicnic.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricpicnic.ie privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214215242id_/https%3A//www.electricpicnic.ie/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Electric Picnic
 
-The websites [www.electricpicnic.ie](http://www.electricpicnic.ie/) (it being "the Website") is owned and operated by EP Republic Ltd ("our", "us" and "we") We're a company registered in Ireland with registration number 467070. Our registered office is 3Arena, North Wall Quay, Dublin 1, Ireland. and our VAT number is IE 9699990W. Our postal address is EP Republic Ltd, C/o Festival Republic, 35 Bow Street, Covent Garden, London, WC2E 7AU. [enquiries@festivalrepublic.com](mailto:enquiries@festivalrepublic.com) is our email address.
+The websites [www.electricpicnic.ie](https://www.electricpicnic.ie/) (it being "the Website") is owned and operated by EP Republic Ltd ("our", "us" and "we") We're a company registered in Ireland with registration number 467070. Our registered office is 3Arena, North Wall Quay, Dublin 1, Ireland. and our VAT number is IE 9699990W. Our postal address is EP Republic Ltd, C/o Festival Republic, 35 Bow Street, Covent Garden, London, WC2E 7AU. [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f5a514e4a564d565a4c7f595a4c4b56495e534d5a4f4a5d53565c115c5052) is our email address.
 
 ### 1\. INTRODUCTION
 
@@ -60,4 +60,4 @@ Public Forums
 
 9.1 This Privacy Statement is subject to change at any time. We encourage you to review the Privacy Statement regularly for any changes. We will use Personal Data in accordance with the Privacy Statement under which that Personal Data was collected.  
 9.2 This Privacy Statement is part of the Website Terms of Use (the “Terms”) and all defined terms shall have the same meaning as those in the Terms.  
-We welcome your questions and comments about privacy issues and the design of the Website. Should you have any comments or a complaint about how we are using your Personal Data, please email [enquiries@festivalrepublic.com](mailto:enquiries@festivalrepublic.com)
+We welcome your questions and comments about privacy issues and the design of the Website. Should you have any comments or a complaint about how we are using your Personal Data, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#83e6edf2f6eaf1eae6f0c3e5e6f0f7eaf5e2eff1e6f3f6e1efeae0ade0ecee)
