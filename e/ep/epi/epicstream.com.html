@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the epicstream.com privacy policy that was archived on 2017-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170610050535id_/http%3A//epicstream.com/cms/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epicstream.com privacy policy that was archived on 2017-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171214035335id_/http%3A//epicstream.com/cms/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US" class="no-js"><!--<![endif]--><head>
                     <!-- New ad network [END]-->
@@ -12,8 +12,7 @@
             </script>
 
             <script id="tyche" src="//cdn.intergi.com/hera/tyche.js" type="text/javascript"></script>
-        
-        <meta charset="utf-8">
+                <meta charset="utf-8">
         <link rel="icon" type="image/png" href="http://epicstream.com/assets/images/favicon.ico">
         <meta property="fb:pages" content="707028496023855">
         <meta property="fb:app_id" content="916383221767526">        
@@ -39,7 +38,7 @@
             #med_rect_atf img {display: inline-block;}
             #med_rect_atf_1 img {display: inline-block;}
             .playwire_report_ad_link {display: block !important; text-align: center;}
-            
+
             .fb-comments iframe{background: transparent;}.hiddenAds{display: table;}.showAds{display: table;}
             /*.mobile-ad-top #report_ad_leaderboard_atf{display:none !important}*/
             @media (max-width:1023px){header {display:none;}}
@@ -56,176 +55,176 @@
         </style>
         </noscript>
         <script type="text/javascript">
-            window.onresize = function () {
-                $('.fb-comments.fb_iframe_widget.fb_iframe_widget_fluid span').css('width', '100%');
-                $('.fb-comments.fb_iframe_widget.fb_iframe_widget_fluid span iframe').css('width', '100%');
-            }
-            // funtion to load more data in Home.
-            var callcount = 1;
-            function fun_loadmoreData(controller)
-            {
-                stop = true;
-                $('.load-more i').css('display', '');
-                $.ajax({
-                    url: 'http://epicstream.com/' + controller + '/loadmore',
-                    data: 'pageno=' + callcount,
-                    type: 'POST',
-                    success: function (data)
-                    {
-                        if (data == '0')
+                window.onresize = function () {
+                    $('.fb-comments.fb_iframe_widget.fb_iframe_widget_fluid span').css('width', '100%');
+                    $('.fb-comments.fb_iframe_widget.fb_iframe_widget_fluid span iframe').css('width', '100%');
+                }
+                // funtion to load more data in Home.
+                var callcount = 1;
+                function fun_loadmoreData(controller)
+                {
+                    stop = true;
+                    $('.load-more i').css('display', '');
+                    $.ajax({
+                        url: 'http://epicstream.com/' + controller + '/loadmore',
+                        data: 'pageno=' + callcount,
+                        type: 'POST',
+                        success: function (data)
                         {
-                            $('#showloadmore').css('display', 'none');
-                        } else
-                        {
-                            $("#loadmoredata").append(data);
-                            $('.load-more i').css('display', 'none');
+                            if (data == '0')
+                            {
+                                $('#showloadmore').css('display', 'none');
+                            } else
+                            {
+                                $("#loadmoredata").append(data);
+                                $('.load-more i').css('display', 'none');
+                            }
+                            stop = false;
                         }
-                        stop = false;
-                    }
 
-                });
-                callcount++;
-            }
+                    });
+                    callcount++;
+                }
 
-            function fun_loadmoreHomeData(controller)
-            {
-                stop = true;
-                $('.load-more i').css('display', '');
-                $.ajax({
-                    url: 'http://epicstream.com/' + controller + '/loadmore',
-                    data: 'pageno=' + callcount,
-                    type: 'POST',
-                    success: function (data)
-                    {
-                        if (data == '0')
+                function fun_loadmoreHomeData(controller)
+                {
+                    stop = true;
+                    $('.load-more i').css('display', '');
+                    $.ajax({
+                        url: 'http://epicstream.com/' + controller + '/loadmore',
+                        data: 'pageno=' + callcount,
+                        type: 'POST',
+                        success: function (data)
                         {
-                            $('#showloadmore').css('display', 'none');
-                        } else
-                        {
-                            $("#homeloadmoredata").append(data);
-                            $('.load-more i').css('display', 'none');
+                            if (data == '0')
+                            {
+                                $('#showloadmore').css('display', 'none');
+                            } else
+                            {
+                                $("#homeloadmoredata").append(data);
+                                $('.load-more i').css('display', 'none');
+                            }
+                            stop = false;
                         }
-                        stop = false;
-                    }
 
-                });
-                callcount++;
-            }
+                    });
+                    callcount++;
+                }
 
 
-            function fun_loadmoreCategory(cate_id)
-            {
-                stop = true;
-                $('.load-more i').css('display', '');
-                $.ajax({
-                    url: 'http://epicstream.com/reviewcategory/loadmore/',
-                    data: 'pageno=' + callcount + '&cate_id=' + cate_id,
-                    type: 'POST',
-                    success: function (data)
-                    {
-                        if (data == '0')
+                function fun_loadmoreCategory(cate_id)
+                {
+                    stop = true;
+                    $('.load-more i').css('display', '');
+                    $.ajax({
+                        url: 'http://epicstream.com/reviewcategory/loadmore/',
+                        data: 'pageno=' + callcount + '&cate_id=' + cate_id,
+                        type: 'POST',
+                        success: function (data)
                         {
-                            $('#showloadmore').css('display', 'none');
-                        } else
-                        {
-                            $("#loadmoredata").append(data);
-                            $('.load-more i').css('display', 'none');
+                            if (data == '0')
+                            {
+                                $('#showloadmore').css('display', 'none');
+                            } else
+                            {
+                                $("#loadmoredata").append(data);
+                                $('.load-more i').css('display', 'none');
+                            }
                         }
-                    }
 
-                });
-                callcount++;
-            }
+                    });
+                    callcount++;
+                }
 
-            function fun_loadMoreQuizCatData(cate_id)
-            {
-                stop = true;
-                $('.load-more i').css('display', '');
-                $.ajax({
-                    url: 'http://epicstream.com/quizcategory/loadmore',
-                    data: 'pageno=' + callcount + '&cate_id=' + cate_id,
-                    type: 'POST',
-                    success: function (data)
-                    {
-                        if (data == '0')
+                function fun_loadMoreQuizCatData(cate_id)
+                {
+                    stop = true;
+                    $('.load-more i').css('display', '');
+                    $.ajax({
+                        url: 'http://epicstream.com/quizcategory/loadmore',
+                        data: 'pageno=' + callcount + '&cate_id=' + cate_id,
+                        type: 'POST',
+                        success: function (data)
                         {
-                            $('#showloadmore').css('display', 'none');
-                        } else
-                        {
-                            $("#loadmoredata").append(data);
-                            $('.load-more i').css('display', 'none');
+                            if (data == '0')
+                            {
+                                $('#showloadmore').css('display', 'none');
+                            } else
+                            {
+                                $("#loadmoredata").append(data);
+                                $('.load-more i').css('display', 'none');
+                            }
+                            stop = false;
                         }
-                        stop = false;
-                    }
 
-                });
-                callcount++;
-            }
+                    });
+                    callcount++;
+                }
 
-            function fun_loadmoresearchData(search_string)
-            {
-                stop = true;
-                $('.load-more i').css('display', '');
-                $.ajax({
-                    url: 'http://epicstream.com/search/loadmore',
-                    data: 'pageno=' + callcount + '&search_string=' + search_string,
-                    type: 'POST',
-                    success: function (data)
-                    {
-                        if (data == '0')
+                function fun_loadmoresearchData(search_string)
+                {
+                    stop = true;
+                    $('.load-more i').css('display', '');
+                    $.ajax({
+                        url: 'http://epicstream.com/search/loadmore',
+                        data: 'pageno=' + callcount + '&search_string=' + search_string,
+                        type: 'POST',
+                        success: function (data)
                         {
-                            $('#showloadmore').css('display', 'none');
-                        } else
-                        {
-                            $("#loadmoredata").append(data);
-                            $('.load-more i').css('display', 'none');
+                            if (data == '0')
+                            {
+                                $('#showloadmore').css('display', 'none');
+                            } else
+                            {
+                                $("#loadmoredata").append(data);
+                                $('.load-more i').css('display', 'none');
+                            }
+                            stop = false;
                         }
-                        stop = false;
-                    }
 
-                });
-                callcount++;
-            }
+                    });
+                    callcount++;
+                }
 
-            // function to next quiz question.....
-            function fun_quizNextquestion(result_id)
-            {
-                var frmobj = document.frm_runquiz;
-                frmobj.result_id.value = result_id;
-                frmobj.submit();
-            }
-            function fun_quizTriviaNextQuestion(result_id)
-            {
-                var frmobj = document.frm_runquiz;
-                frmobj.result_id.value = result_id;
-                frmobj.submit();
-            }
-            jQuery(document).ready(function (e) {
-                $('header').show();
-                $('#showSearch').click(function (e) {
-                    $(".search-box").css("display", "block");
-                    $(".search-box").removeClass("slideOutRight");
-                    $(".search-box").addClass("slideInRight");
-                    $(".search-box input[type='text']").focus();
-                    e.preventDefault();
+                // function to next quiz question.....
+                function fun_quizNextquestion(result_id)
+                {
+                    var frmobj = document.frm_runquiz;
+                    frmobj.result_id.value = result_id;
+                    frmobj.submit();
+                }
+                function fun_quizTriviaNextQuestion(result_id)
+                {
+                    var frmobj = document.frm_runquiz;
+                    frmobj.result_id.value = result_id;
+                    frmobj.submit();
+                }
+                jQuery(document).ready(function (e) {
+                    $('header').show();
+                    $('#showSearch').click(function (e) {
+                        $(".search-box").css("display", "block");
+                        $(".search-box").removeClass("slideOutRight");
+                        $(".search-box").addClass("slideInRight");
+                        $(".search-box input[type='text']").focus();
+                        e.preventDefault();
+                    });
+                    $('.search-box input').focusout(function (e) {
+                        $(".search-box").addClass("slideOutRight");
+                        $(".search-box").removeClass("slideInRight");
+                    });
                 });
-                $('.search-box input').focusout(function (e) {
-                    $(".search-box").addClass("slideOutRight");
-                    $(".search-box").removeClass("slideInRight");
-                });
-            });
-            // Ended funtion to load more data in Home.
+                // Ended funtion to load more data in Home.
         </script>
         <!-- Common Js for facebook PlugIn [End]-->
         <script>!function (d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
-                if (!d.getElementById(id)) {
-                    js = d.createElement(s);
-                    js.id = id;
-                    js.src = p + '://platform.twitter.com/widgets.js';
-                    fjs.parentNode.insertBefore(js, fjs);
-                }
-            }(document, 'script', 'twitter-wjs');
+                    var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                    if (!d.getElementById(id)) {
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = p + '://platform.twitter.com/widgets.js';
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }
+                }(document, 'script', 'twitter-wjs');
         </script>
 
         <script>
@@ -240,15 +239,15 @@
 </script>
         <!-- New ad network [START]-->
         <script type="text/javascript">
-            window._taboola = window._taboola || [];
-            _taboola.push({article: 'auto'});
-            !function (e, f, u) {
-                e.async = 1;
-                e.src = u;
-                f.parentNode.insertBefore(e, f);
-            }(document.createElement('script'),
-                    document.getElementsByTagName('script')[0],
-                    'http://cdn.taboola.com/libtrc/epicstream/loader.js');
+                window._taboola = window._taboola || [];
+                _taboola.push({article: 'auto'});
+                !function (e, f, u) {
+                    e.async = 1;
+                    e.src = u;
+                    f.parentNode.insertBefore(e, f);
+                }(document.createElement('script'),
+                        document.getElementsByTagName('script')[0],
+                        'http://cdn.taboola.com/libtrc/epicstream/loader.js');
         </script>
 
     </head>
@@ -256,15 +255,15 @@
 
                         <div id="fb-root"></div>
         <script>
-            (function (d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id))
-                    return;
-                js = d.createElement(s);
-                js.id = id;
-                js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=916383221767526";
-                fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));
+                (function (d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id))
+                        return;
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=916383221767526";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));
         </script>
                 <header style="z-index: 99999;">
             <div class="container">
@@ -288,6 +287,7 @@
                                                                                         <li><a href="http://epicstream.com/reviewcategory/14">TV Show Reviews</a></li>
                                                                                         <li><a href="http://epicstream.com/reviewcategory/11">Book Reviews</a></li>
                                                                                         <li><a href="http://epicstream.com/reviewcategory/16">Product Reviews</a></li>
+                                                                                        <li><a href="http://epicstream.com/reviewcategory/17">Comics &amp; Manga Reviews</a></li>
                                                                             </ul>
                             </li>
                             <li><a href="http://epicstream.com/features">Features</a></li>
@@ -350,6 +350,7 @@
                                 <div data-pw-mobi="leaderboard_atf"></div>
                             </div>
                         
+
                     </div>
                 </div>
             </div>
@@ -404,11 +405,14 @@ You may consult this listing to find the privacy policy for each of the advertis
 		    <div class="right" id="secondary">
         <!-- Top Sidebar Ads  -->
         <div class="side-ads" id="top-right-sidebar-ads-block">
-                                        <div class="sidebar-ad-holder">
-                    <div data-pw-desk="med_rect_atf"></div>
-                    <div data-pw-mobi="med_rect_atf"></div>
-                </div>
-                    </div>
+            
+
+            <div class="sidebar-ad-holder">
+                <div data-pw-desk="med_rect_atf"></div>
+                <div data-pw-mobi="med_rect_atf"></div>
+            </div>
+
+        </div>
         <!-- Top Sidebar Ads  -->
         
 
@@ -417,26 +421,28 @@ You may consult this listing to find the privacy policy for each of the advertis
                     <h2>News</h2>
                     <ul id="list-view">
                                                     <li>
-                                <a href="http://epicstream.com/news/The-First-Trailer-For-Marvels-Black-Panther-Rocks" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/newscover/70x70/1497061792blackpanz.png"></a>
-                                <a href="http://epicstream.com/news/The-First-Trailer-For-Marvels-Black-Panther-Rocks" class="slist-title">The First Trailer For Marvel's Black Panther Rocks!</a>
+                                <a href="http://epicstream.com/news/Executive-Producer-Marc-Guggenheim-Talks-Trollhunters-Season-2-The-Fate-of-AAARRRGGHH-The-New-Trilogy-and-More" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/newscover/70x70/1513218742Trollhunters-season-2-banner.jpg"></a>
+                                <a href="http://epicstream.com/news/Executive-Producer-Marc-Guggenheim-Talks-Trollhunters-Season-2-The-Fate-of-AAARRRGGHH-The-New-Trilogy-and-More" class="slist-title">Executive Producer Marc Guggenheim Talks Trollhunters Season 2, The Fate of AAARRRGGHH!!!, The New Trilogy, and More!</a>
                             </li>
                                                     <li>
-                                <a href="http://epicstream.com/news/Joel-Edgerton-Wants-To-Play-Uncle-Owen-Again-In-Obi-Wan-Kenobi-Spin-Off" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/newscover/70x70/1496972463Uncle_Owen_Star_Wars_Revenge_of_the_Sith.png"></a>
-                                <a href="http://epicstream.com/news/Joel-Edgerton-Wants-To-Play-Uncle-Owen-Again-In-Obi-Wan-Kenobi-Spin-Off" class="slist-title">Joel Edgerton Wants To Play Uncle Owen Again In Obi-Wan Kenobi Spin-Off </a>
+                                <a href="http://epicstream.com/news/Star-Wars-The-Last-Jedi-Director-Explains-The-Value-Of-Reys-Connection-To-Kylo-Ren" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/newscover/70x70/1513211430Rey_and_Ren_Star_Wars_The_Last_Jedi.png"></a>
+                                <a href="http://epicstream.com/news/Star-Wars-The-Last-Jedi-Director-Explains-The-Value-Of-Reys-Connection-To-Kylo-Ren" class="slist-title">Star Wars: The Last Jedi Director Explains The Value Of Rey’s Connection To Kylo Ren </a>
                             </li>
                                                     <li>
-                                <a href="http://epicstream.com/news/Looking-For-Leia-Documentary-Tribute-To-Carrie-Fisher-And--Women-In-Love-With-Star-Wars" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/newscover/70x70/1496970753Star_Wars_The_Last_Jedi_Vanity_Fair_Leia_Carrie_Fisher_small.png"></a>
-                                <a href="http://epicstream.com/news/Looking-For-Leia-Documentary-Tribute-To-Carrie-Fisher-And--Women-In-Love-With-Star-Wars" class="slist-title"> Looking For Leia Documentary Tribute To Carrie Fisher And  Women In Love With Star Wars  </a>
+                                <a href="http://epicstream.com/news/Rian-Johnson-Wants-More-Women-Directors-And-Filmmakers-Of-Color-In-The-Star-Wars-Franchise" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/newscover/70x70/1513209715Star_Wars_The_last_Jedi_finn_and_rose.png"></a>
+                                <a href="http://epicstream.com/news/Rian-Johnson-Wants-More-Women-Directors-And-Filmmakers-Of-Color-In-The-Star-Wars-Franchise" class="slist-title">Rian Johnson Wants More Women Directors And Filmmakers Of Color In The Star Wars Franchise </a>
                             </li>
                         	               
                     </ul>                             
                 </div>
             
-                            <div class="sidebar-ad-holder">
-                    <div data-pw-desk="med_rect_btf"></div>
-                    <div data-pw-mobi="med_rect_btf"></div>
-                </div>
-            
+
+            <div class="sidebar-ad-holder">
+                <div data-pw-desk="med_rect_btf"></div>
+                <div data-pw-mobi="med_rect_btf"></div>
+            </div>
+
+
 
 
             <!-- Review -->
@@ -446,16 +452,16 @@ You may consult this listing to find the privacy policy for each of the advertis
                     <h2>Features</h2>
                     <ul id="list-view">
                                                     <li>
-                                <a href="http://epicstream.com/features/15-Comic-Book-Easter-Eggs-in-the-Wonder-Woman-Movie-You-May-Have-Missed" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/featurescover/70x70/wonderwoman2000.jpg"></a>
-                                <a href="http://epicstream.com/features/15-Comic-Book-Easter-Eggs-in-the-Wonder-Woman-Movie-You-May-Have-Missed" class="slist-title">15 Comic Book Easter Eggs in the Wonder Woman Movie You May Have Missed</a>
+                                <a href="http://epicstream.com/features/Everything-We-Know-About-The-Last-Jedis-New-Characters-So-Far" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/featurescover/70x70/tljncover.jpg"></a>
+                                <a href="http://epicstream.com/features/Everything-We-Know-About-The-Last-Jedis-New-Characters-So-Far" class="slist-title">Everything We Know About The Last Jedi’s New Characters So Far</a>
                             </li>
                                                     <li>
-                                <a href="http://epicstream.com/features/12-Best-Moments-From-Wonder-Woman" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/featurescover/70x70/wwmcover.jpg"></a>
-                                <a href="http://epicstream.com/features/12-Best-Moments-From-Wonder-Woman" class="slist-title">12 Best Moments From Wonder Woman</a>
+                                <a href="http://epicstream.com/features/8-Most-Badass-Things-Thanos-Has-Ever-Done-In-The-Comics" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/featurescover/70x70/thbacover.jpg"></a>
+                                <a href="http://epicstream.com/features/8-Most-Badass-Things-Thanos-Has-Ever-Done-In-The-Comics" class="slist-title">8 Most Badass Things Thanos Has Ever Done In The Comics</a>
                             </li>
                                                     <li>
-                                <a href="http://epicstream.com/features/The-Best-Arrowverse-Season-Finales-So-Far" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/featurescover/70x70/Arrowversee.jpg"></a>
-                                <a href="http://epicstream.com/features/The-Best-Arrowverse-Season-Finales-So-Far" class="slist-title">The Best Arrowverse Season Finales So Far</a>
+                                <a href="http://epicstream.com/features/Top-25-Magic-The-Gathering-Sideboard-Cards-To-Beat-Storm-In-Modern" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/featurescover/70x70/grapeshot.jpg"></a>
+                                <a href="http://epicstream.com/features/Top-25-Magic-The-Gathering-Sideboard-Cards-To-Beat-Storm-In-Modern" class="slist-title">Top 25 Magic: The Gathering Sideboard Cards To Beat Storm In Modern</a>
                             </li>
                         	
                     </ul>                             
@@ -467,16 +473,16 @@ You may consult this listing to find the privacy policy for each of the advertis
                     <h2>Videos</h2>
                     <ul id="list-view">
                                                     <li>
-                                <a href="http://epicstream.com/videos/New-Video-Explains-The-Science-Behind-Yondus-Yaka-Arrow" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/videoscover/70x70/1496969246Guardians_stills_9.jpg"></a>
-                                <a href="http://epicstream.com/videos/New-Video-Explains-The-Science-Behind-Yondus-Yaka-Arrow" class="slist-title">New Video Explains The Science Behind Yondu’s Yaka Arrow </a>
+                                <a href="http://epicstream.com/videos/Ralph-McQuarries-Concept-Art-Brought-To-Life-By-Impressive-Star-Wars-Fan-Trailer" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/videoscover/70x70/1513207798star_wars_ralph_mcquarie.png"></a>
+                                <a href="http://epicstream.com/videos/Ralph-McQuarries-Concept-Art-Brought-To-Life-By-Impressive-Star-Wars-Fan-Trailer" class="slist-title">Ralph McQuarrie’s Concept Art Brought To Life By Impressive Star Wars Fan Trailer </a>
                             </li>
                                                     <li>
-                                <a href="http://epicstream.com/videos/Watch-James-Corden-And-Ben-Kingsley-Bring-Mary-Poppins-To-Crosswalk-Musical" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/videoscover/70x70/149685517507_-_Mary_Poppins_James_Corden.jpg"></a>
-                                <a href="http://epicstream.com/videos/Watch-James-Corden-And-Ben-Kingsley-Bring-Mary-Poppins-To-Crosswalk-Musical" class="slist-title">Watch James Corden And Ben Kingsley Bring Mary Poppins To Crosswalk Musical</a>
+                                <a href="http://epicstream.com/videos/Watch-Star-Wars-Themes-Performed-On-Calculators" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/videoscover/70x70/151320159213_-_Star_Wars,_Calculators.jpg"></a>
+                                <a href="http://epicstream.com/videos/Watch-Star-Wars-Themes-Performed-On-Calculators" class="slist-title">Watch: Star Wars Themes Performed On Calculators</a>
                             </li>
                                                     <li>
-                                <a href="http://epicstream.com/videos/Wisecrack-Delves-Into-The-Philosophy-Of-Logan" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/videoscover/70x70/149676694508_-_Logan.jpg"></a>
-                                <a href="http://epicstream.com/videos/Wisecrack-Delves-Into-The-Philosophy-Of-Logan" class="slist-title">Wisecrack Delves Into The Philosophy Of Logan</a>
+                                <a href="http://epicstream.com/videos/Watch-A-Sentient-Weapon-Overrun-A-Hackers-Technologically-Enhanced-Body-in-This-Cyberpunk-Short-Film-Breaker" class="slist-img"><img src="http://cdn.epicstream.com/assets/uploads/videoscover/70x70/1513185091breakero3.jpg"></a>
+                                <a href="http://epicstream.com/videos/Watch-A-Sentient-Weapon-Overrun-A-Hackers-Technologically-Enhanced-Body-in-This-Cyberpunk-Short-Film-Breaker" class="slist-title">Watch A Sentient Weapon Overrun A Hacker's Technologically-Enhanced Body in This Cyberpunk Short Film 'Breaker'</a>
                             </li>
                                                          
                     </ul>                             
@@ -494,11 +500,13 @@ You may consult this listing to find the privacy policy for each of the advertis
 </section>
 <div class="ads-block hiddenAds" style="margin-top: 15px;">
 
-            <div class="ad-holder">
+    
+        <div class="ad-holder">
             <div data-pw-desk="leaderboard_btf"></div>
             <div data-fixed="true" data-pw-mobi="leaderboard_btf"></div>
         </div>
-    </div>
+    
+</div>
 
 <footer>
                 <div class="facebook-page-widget customwidget" style="z-index: 1000">
@@ -543,6 +551,7 @@ You may consult this listing to find the privacy policy for each of the advertis
         </div> 
     </div>
 </footer>
+
 <!--<script>
     jQuery(document).ready(function () {
             jQuery('header nav').meanmenu({meanScreenWidth: "1023"});   
