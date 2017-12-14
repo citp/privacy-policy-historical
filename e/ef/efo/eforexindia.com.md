@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eforexindia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033416id_/http%3A//eforexindia.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eforexindia.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214094600id_/https%3A//www.eforexindia.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Welcome To Eforex India
+# Privacy Policy - Welcome To Eforex India
 
 As a leading financial internet site, eforexindia.com is committed to protecting the personal information that you submit to us. As a consequence, we guarantee never to deliberately disclose individually identifiable information about you to any outside source without your express consent.
 
