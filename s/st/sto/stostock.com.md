@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stostock.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306000329id_/http%3A//www.stostock.com/Privocypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stostock.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214164104id_/http%3A//stostock.com/Privocypolicy.asp) for the most accurate reproduction.*
 
 # Privocy policy-Stock garment
 
