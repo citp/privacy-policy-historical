@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ezwholesaler.com privacy policy that was archived on 2017-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170614021807id_/http%3A//www.ezwholesaler.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ezwholesaler.com privacy policy that was archived on 2017-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171214190821id_/http%3A//www.ezwholesaler.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script src="//paypal.adtag.where.com/merchant.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -44,7 +44,7 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?7.59.0.2416"></script>
+<script type="text/javascript" src="/a/j/volusion.js?7.80.0.3107"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -67,10 +67,26 @@ var Config_CDN_URL = '/'
     } (jQuery));
 </script>
 <link type="text/css" rel="stylesheet" href="/a/contentbuilder/assets/default/content.css">
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.59.0.2416"></script>
+<script type="text/javascript" src="../../a/j/paypal-rest-default-buttons.js"></script>
+
+
+<script type="text/javascript" src="/a/j/soft_add.js"></script>
+<link type="text/css" rel="stylesheet" href="/a/c/soft_add.css">
+<script type="text/javascript">
+	var global_Config_EnableDisplayOptionProducts = 'True';
+	var global_Config_ForceSecureShoppingCartPage = true;
+	var global_PageText_OtherItemsAdded = '(All other items have been added to the cart)';
+	var Config_EnableSoftAddToCart = false;
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.80.0.3107"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
+</script>
+
+<script>
+    var reCaptchaPreloaded = false;
+    var reCaptchaInit;
 </script>
 
 
@@ -221,16 +237,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <select name="mfg" onChange="DropDown_ShopBy_Manufacturer_onChange(this.options[mfg.selectedIndex].value)">
 <option value="" selected>Shop By Brand</option>
 <option value="%A0"> </option>
-<option value="%A0Handy+Gourmet"> Handy Gourmet</option>
-<option value="%A0Ideaworks+"> Ideaworks </option>
-<option value="%A0Ideaworks+%2D+Bty%2FFash"> Ideaworks - Bty/Fash</option>
-<option value="%A0Ideaworks+%2D+Elec%2FTech"> Ideaworks - Elec/Tech</option>
-<option value="%A0Ideaworks+%2D+Hardware"> Ideaworks - Hardware</option>
-<option value="%A0Ideaworks+%2D+Housewares"> Ideaworks - Housewares</option>
-<option value="%A0Ideaworks+%2D+Outdoors"> Ideaworks - Outdoors</option>
-<option value="%A0North+American+Health%2BWellness"> North American Health+Wellness</option>
-<option value="%A0Pet+Parade"> Pet Parade</option>
-<option value="%A0U%2ES%2E+Patrol"> U.S. Patrol</option>
 <option value="3COM">3COM</option>
 <option value="3M">3M</option>
 <option value="3P+PACIFIC">3P PACIFIC</option>
@@ -284,24 +290,21 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="BTC">BTC</option>
 <option value="BUFFALO">BUFFALO</option>
 <option value="CABLES+UNLIMITED">CABLES UNLIMITED</option>
-<option value="Camaro+Classic+Script">Camaro Classic Script</option>
-<option value="Camaro+Emblem">Camaro Emblem</option>
 <option value="Canada+Green">Canada Green</option>
 <option value="CANON">CANON</option>
 <option value="CASIO">CASIO</option>
 <option value="CHENBRO">CHENBRO</option>
 <option value="CHERRY">CHERRY</option>
-<option value="Chevrolet+Bowtie">Chevrolet Bowtie</option>
 <option value="CHIEF">CHIEF</option>
 <option value="CHUMBO+PUBLISHING">CHUMBO PUBLISHING</option>
 <option value="CISCO">CISCO</option>
-<option value="Coca+Cola">Coca Cola</option>
 <option value="COMPAQ">COMPAQ</option>
 <option value="CONSUMABLES">CONSUMABLES</option>
 <option value="COR">COR</option>
 <option value="CORSAIR">CORSAIR</option>
 <option value="CRAFTS">CRAFTS</option>
 <option value="CREATIVE+LABS">CREATIVE LABS</option>
+<option value="creative+outdoor+distributor">creative outdoor distributor</option>
 <option value="DEFENSE%5FSPRAY">DEFENSE_SPRAY</option>
 <option value="DEFENSE%5FSPRAY%5FATHLETIC">DEFENSE_SPRAY_ATHLETIC</option>
 <option value="DEFENSE%5FSPRAY%5FHOME">DEFENSE_SPRAY_HOME</option>
@@ -313,7 +316,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="DELPHI">DELPHI</option>
 <option value="DELTA">DELTA</option>
 <option value="DENON">DENON</option>
-<option value="Detroit+Pistons">Detroit Pistons</option>
 <option value="DIGI+POWER">DIGI POWER</option>
 <option value="DIGITAL+CONCEPTS">DIGITAL CONCEPTS</option>
 <option value="DIREC+TV">DIREC TV</option>
@@ -366,8 +368,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="FELLOWES">FELLOWES</option>
 <option value="FIC">FIC</option>
 <option value="FLEECE%5FSCARF">FLEECE_SCARF</option>
-<option value="Ford">Ford</option>
-<option value="Ford+Mustang">Ford Mustang</option>
 <option value="FORTRON">FORTRON</option>
 <option value="FSP">FSP</option>
 <option value="FUJITSU">FUJITSU</option>
@@ -401,7 +401,7 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Ideaworks">Ideaworks</option>
 <option value="Ideaworks+%2D+Bty%2FFash">Ideaworks - Bty/Fash</option>
 <option value="Ideaworks+%2D+Elec%2FTech">Ideaworks - Elec/Tech</option>
-<option value="Ideaworks+%2D+Hardware+">Ideaworks - Hardware </option>
+<option value="Ideaworks+%2D+Hardware">Ideaworks - Hardware</option>
 <option value="Ideaworks+%2D+Housewares">Ideaworks - Housewares</option>
 <option value="Ideaworks+%2D+Outdoors">Ideaworks - Outdoors</option>
 <option value="IEC">IEC</option>
@@ -462,7 +462,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="MITSUMI">MITSUMI</option>
 <option value="MONSTER">MONSTER</option>
 <option value="MONSTER+CABLE">MONSTER CABLE</option>
-<option value="Mopar">Mopar</option>
 <option value="MOTOROLA">MOTOROLA</option>
 <option value="MPC">MPC</option>
 <option value="MRI+UK+LTD">MRI UK LTD</option>
@@ -475,7 +474,7 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="NEWISYS">NEWISYS</option>
 <option value="NEXXTECH">NEXXTECH</option>
 <option value="NIAGARA">NIAGARA</option>
-<option value="North+American+Health%2BWellness">North American Health+Wellness</option>
+<option value="North+American+Health+and+Wellness">North American Health and Wellness</option>
 <option value="North+American+Healthcare">North American Healthcare</option>
 <option value="NOVA">NOVA</option>
 <option value="Old+Modern+Handicrafts">Old Modern Handicrafts</option>
@@ -770,6 +769,25 @@ wsc.type = 'text/javascript';wsc.async = true;var ssc = document.getElementsByTa
 
 
 <script type="text/javascript">function store_init(event){} AttachEvent(window, 'load', store_init);</script>
+
+  <script>
+     if (document.getElementsByName("MailingList")[0]) {
+        var emailSubscribeForm = document.getElementsByName("MailingList")[0];
+        disableSubscribeSubmit = function() {
+          emailSubscribeButton.removeAttribute("type");
+        }
+        forwardToMailingList = function(e) {
+            var subscribeEmail = emailSubscribeForm.querySelector("input").value;
+          sessionStorage.setItem("subEmailAddress", subscribeEmail);
+          emailSubscribeForm.submit();
+        }
+
+        if (emailSubscribeForm.querySelector("button")) {
+            var emailSubscribeButton = emailSubscribeForm.querySelector("button");
+            emailSubscribeButton.addEventListener("click", forwardToMailingList);
+        }
+    }
+  </script>
 
 
 </body></html>
