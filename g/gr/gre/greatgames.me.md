@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatgames.me privacy policy that was archived on 2017-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170307190402id_/http%3A//greatgames.me/page.php%3Fid%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatgames.me privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214041436id_/http%3A//greatgames.me/page.php%3Fid%3Dprivacy.html) for the most accurate reproduction.*
 
 # Great Games - Privacy Policy
 
