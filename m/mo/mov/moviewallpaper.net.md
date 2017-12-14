@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the moviewallpaper.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630050540id_/http%3A//corp.ign.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviewallpaper.net privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214223302id_/http%3A//corp.ign.com/policies/privacy) for the most accurate reproduction.*
 
 # ZIFF DAVIS, LLC PRIVACY POLICY » Ziff Davis » Leaders in Tech, Gaming, Healthcare & Shopping
 
-Effective April 7, 2017
+Effective October 13, 2017
+
+[Version Française](http://www.ziffdavis.com/privacy-policy-f/)
 
 Note: The Ziff Davis Privacy Policy has been updated. Please review the updated privacy policy carefully before using the Ziff Davis Services. By using any of the Ziff Davis Services, you consent to the terms of the updated Privacy Policy.
 
@@ -15,16 +17,16 @@ This Privacy Policy covers information collected through these websites and mobi
   * [Ziff Davis](http://www.ziffdavis.com/)
   * [PCMag](http://www.pcmag.com/), [PCMag UK](http://uk.pcmag.com/), [PCMag Australia](http://au.pcmag.com/)
   * [Toolbox.com](http://www.toolbox.com/), [Inside CRM](http://www.insidecrm.com/), [Inside-Erp](http://www.inside-erp.com/), [IT Management](http://www.itmanagement.com/), [IT Security](http://www.itsecurity.com/), [VoIP-News](http://www.voip-news.com/)
-  * [IGN](http://www.ign.com/), [IGN Canada](http://ca.ign.com/), [IGN UK](http://uk.ign.com/), [IGN Australia](http://au.ign.com/), [IGN Mobile](http://m.ign.com/)
+  * [IGN](http://www.ign.com/), [IGN Canada](http://ca.ign.com/), [IGN UK](http://uk.ign.com/), [IGN Australia](http://au.ign.com/)
   * [ExtremeTech](http://www.extremetech.com/)
   * [emedia.com](http://www.emedia.com/), [emedia.co.uk](http://www.emedia.co.uk/)
   * [Computer Shopper](http://www.computershopper.com/)
   * [Salesify](http://www.salesify.com/), [B2BSignals](http://www.b2bsignals.com/)
-  * [AskMen](http://www.askmen.com/), [AskMen Canada](http://ca.askmen.com/), [AskMen UK](http://uk.askmen.com/), [AskMen Australia](http://au.askmen.com/), [AskMen Mobile](http://www.m.askmen.com/)
+  * [AskMen](http://www.askmen.com/), [AskMen Canada](http://ca.askmen.com/), [AskMen UK](http://uk.askmen.com/), [AskMen Australia](http://au.askmen.com/)
   * [Geek](http://www.geek.com/)
   * [LogicBuy](http://www.logicbuy.com/), [TechBargains](http://www.techbargains.com/)
   * [Offers.com](http://www.offers.com/), [CouponCodes.com](http://www.couponcodes.com/)
-  * [Ookla](http://www.ookla.com/), [Speedtest.net](http://www.speedtest.net/), [Speedtest Custom](http://www.speedtestcustom.com/), [Pingtest.net](http://www.pingtest.net/)
+  * [Ookla](http://www.ookla.com/), [Speedtest.net](http://www.speedtest.net/), [Speedtest Custom](http://www.speedtestcustom.com/)
 
 
 
@@ -77,7 +79,7 @@ We may collect Personal Information from you or from other sources. **“Persona
   * Demographic information such as gender, job information and company information;
   * Age and/or date of birth;
   * User name and password; and
-  * Geolocation data.
+  * Location data that describes the precise geographic location of your device (“Precise Location Data”).
 
 
 
@@ -86,6 +88,7 @@ We do not intentionally collect data such as financial information or data conce
 We also collect other kinds of information from you or other sources, which we refer to as **“Other Information”** in this Privacy Policy. The type of information we collect may change as technologies evolve. Other Information may include, but is not limited to, information such as:
 
   * Areas or topics of interest;
+  * Content of messages or comments posted by you or other users (e.g., text, photos, videos, and links) to the Services, including on forums or content;
   * Browsing history, including the websites or other services you visited before and after visiting the Services;
   * Device type, settings and software used;
   * Device identification ( **“ID”** ), which is a distinctive number associated with a smartphone or similar handheld device, but is different than a hardware serial number;
@@ -95,6 +98,7 @@ We also collect other kinds of information from you or other sources, which we r
   * Log files, which may include IP addresses, browser type, ISP referring/exit pages, operating system, date/time stamps and/or clickstream data, including any clicks on customized links;
   * Web Beacons, which are electronic files that allow a website to count users who have visited that page or to access certain cookies;
   * Pixel Tags, also known as clear GIFs, beacons, spotlight tags or web bugs, are a method for passing information from the user’s computer to a third party website;
+  * Non-precise information about the approximate physical location (for example, at the city or zip code level) of a user’s computer or device derived from the IP address of such computer or device (“GeoIP Data”);
   * Local Shared Objects, such as Flash cookies, and Local Storage, such as HTML5;
   * Mobile analytics to understand the functionality of our mobile applications and software on your phone; and
   * Information collected through the use of cookies, eTags, Javascript, pixel tags, device ID tracking, anonymous identifiers and other technologies, including information collected using such methods and technologies about (i) your visits to, and interaction and engagement with, the Services and ads on third party websites, applications, platforms and other media channels, and (ii) your interaction with emails including the content and ads (collectively, **“Online Data”** ).
@@ -105,7 +109,7 @@ We may also supplement the Personal Information and Other Information we collect
 
 **All of the above information is referred to collectively as “User Information”.**
 
-Please note that Ziff Davis is not responsible for the information you volunteer about yourself in the discussions in certain public areas of the site, such as forums, blogs, wikis, chat rooms, private messages, message boards or other publicly accessible interaction, or information that you choose to make public in your member profile or other areas that allow users to upload or post content. We discourage users from posting Personal Information in this fashion, and any Personal Information you post to these areas is not covered by this Privacy Policy. You can change your publicly available information at any time via your profile page or to request removal of your Personal Information from these areas. Please see our section on How you can change or control what is collected in this Privacy Policy. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
+Please note that Ziff Davis is not responsible for the information you volunteer about yourself in the discussions in certain public areas of the site, such as forums, blogs, wikis, chat rooms, private messages, message boards or other publicly accessible interaction, or information that you choose to make public in your member profile or other areas that allow users to upload or post content. We discourage users from posting Personal Information in this fashion. You can change your publicly available information at any time via your profile page or to request removal of your Personal Information from these areas. Please see our section on How you can change or control what is collected in this Privacy Policy. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
 
 2\. How we collect and use information.
 
@@ -139,7 +143,7 @@ Ziff Davis displays ads on both the Services and on third party websites, applic
 
 **The specific providers we use for OBA are subject to change.** For a list of some of the applicable providers, [click here](http://preferences-mgr.truste.com/?type=ziffdavispop&pid=ziffdavis01&aid=ziffdavis01). For information about how to opt out of tracking methods for these entities and others, [click here](http://www.aboutads.info/choices/). For more details about OBA and opting out, click here.
 
-Online Data is aggregated with the other information and data we collect as described in this Privacy Policy and/or similar data collected by partners to create groups of users and certain general-interest categories or segments that we have inferred based on (a) demographic or interest data, and a general geographic location derived from your IP address or mobile device, (b) the pages you view and links you click when viewing an email or using the Services and those of our partners, and/or (c) the search terms you enter when using certain search services. We use this information to get a more accurate picture of audience interests in order to serve ads we believe are more relevant to your interests. We store page views, clicks and search terms used for ad personalization targeting separately from your Personal Information.
+Online Data is aggregated with the other information and data we collect as described in this Privacy Policy and/or similar data collected by partners to create groups of users and certain general-interest categories or segments that we have inferred based on (a) demographic or interest data and GeoIP Data, (b) the pages you view and links you click when viewing an email or using the Services and those of our partners, and/or (c) the search terms you enter when using certain search services. We use this information to get a more accurate picture of audience interests in order to serve ads we believe are more relevant to your interests. We store page views, clicks and search terms used for ad personalization targeting separately from your Personal Information.
 
 We may also sell or transfer Online Data to certain third parties such as advertisers who will use this data to serve ads that they believe are relevant to your interests, and who agree to maintain the confidentiality of this information. Some of these third parties may combine the Online Data with their own data about you to form a more detailed picture.
 
@@ -169,7 +173,7 @@ Ziff Davis and some of our advertisers use third party advertising service compa
 
 _Updating Your Registration Information._  Upon request, Ziff Davis will provide you with information about whether we hold any of your Personal Information. You can also view, correct, delete or change the information collected during user registration at any time at the profile page for that membership, app or website. Please allow five to ten business days for corrections or changes to be publicly displayed or implemented throughout our systems. If you have any trouble accessing, correcting or deleting any of your information, or would like to make a request about whether Ziff Davis holds any of your Personal Information, please contact the website directly by clicking on the appropriate link below (which should lead to a “Contact Us” page or support email) or contact us at [ZDLegal1@ziffdavis.com](mailto:ZDLegal1@ziffdavis.com)  **(must include “Privacy Policy” in the subject line)**  and we will respond to your request within a reasonable timeframe.
 
-  * [AskMen](http://mediakit.askmen.com/contact-us/)
+  * [AskMen](http://www.askmen.com/mediakit)
   * [B2BSignals](http://www.b2bsignals.com/contact-us/)
   * [ComputerShopper](http://www.computershopper.com/contact)
   * [CouponCodes.com](http://www.couponcodes.com/)
@@ -182,7 +186,6 @@ _Updating Your Registration Information._  Upon request, Ziff Davis will provid
   * [Offers.com](mailto:support@offers.com)
   * [Ookla](http://www.ookla.com/contact)
   * [PCMag](http://www.pcmag.com/article2/0,2817,17,00.asp)
-  * [Pingtest.net](http://www.pingtest.net/contact.php)
   * [Salesify](http://www.salesify.com/)
   * [Speedtest](https://support.speedtest.net/hc/en-us)
   * [Techbargains.com](http://www.techbargains.com/contact-us)
@@ -191,13 +194,13 @@ _Updating Your Registration Information._  Upon request, Ziff Davis will provid
 
 
 
-_Location Based Services_. You may opt-out of location-based services at any time by editing the appropriate setting at the device level (which is usually located in the Settings are of your device) or by emailing us at [ZDLegal1@ziffdavis.com](mailto:ZDLegal1@ziffdavis.com)  **and include “Privacy Policy”  in the subject line.**
+_Location Based Services_. You may opt-out of having your Precise Location Data collected by Ziff Davis at any time by editing the appropriate setting on your mobile device (which is usually located in the Settings are of your device) or by emailing us at [ZDLegal1@ziffdavis.com](mailto:ZDLegal1@ziffdavis.com)  **and include “Privacy Policy”  in the subject line.**
 
 _OBA_. Ziff Davis is a member of the Digital Advertising Alliance ( **“DAA”** ) in the U.S., E.U. and Canada and uses third party assurance platforms to comply with the DAA principles. Online ads on the Services using Online Data are delivered with the DAA Ad Marker Icon [](http://youradchoices.com/), which helps users understand how their data is being used and provides choices for users who want more control. This icon is also on each of our web pages and applications where Online Data is collected that will be used for OBA purposes.
 
 The DAA Ad Marker Icon [](http://youradchoices.com/) provides information (and links to other information) on online behavioral ads, who is collecting and using your Online Data, how you can opt out and more. If you would prefer that we not collect Online Data that may be used to help determine which advertisements to serve you, opt out by clicking this icon [](http://youradchoices.com/), which can be found on most of our webpages and mobile applications.
 
-    * European Union and Switzerland residents should visit the European DAA by [clicking here](http://www.youronlinechoices.eu/).
+  *     * European Union and Switzerland residents should visit the European DAA by [clicking here](http://www.youronlinechoices.eu/).
     * Canadian residents should visit the DAA of Canada by [clicking here.](http://youradchoices.ca/choices)
     * U.S. residents and residents of all other countries or territories not listed above can [click here](http://www.aboutads.info/) for the DAA site to learn more about the use of cookies, your opt-out choices, and more.
 
@@ -224,13 +227,7 @@ Please note that we may use data collected by a third party operator/licensee of
 
 Ziff Davis privacy practices described in this Privacy Policy comply with the Asia-Pacific Economic Cooperation (“ **APEC** ”) Cross Border Privacy Rules System. To learn more about this program, please click [here](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx).
 
-Ziff Davis, LLC and its U.S. subsidiaries IGN Entertainment, Inc., emedia Communications, LLC, SaleBuild, Inc. d/b/a Salesify and B2BSignals, Offers.com, LLC and Ookla, LLC participate in and have certified its compliance with the E.U.-U.S. Privacy Shield Framework. Ziff Davis is committed to subjecting all personal data received from European Union (E.U.) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, please visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list). Ziff Davis is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequent transfers to a third party acting as an agent on its behalf. Ziff Davis complies with the Privacy Shield principles for all onward transfers of personal data from the E.U., including the onward transfer liability provisions. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Ziff Davis is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Ziff Davis may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If you are a European individual with a privacy related complaint, concern or question about Ziff Davis’ privacy practices, please contact us by writing to [ZDLegal1@ziffdavis.com](mailto:ZDLegal1@ziffdavis.com)  **(must include “Privacy Policy” in the subject line)**  and we will respond within 45 days of receiving your request. Under certain conditions, more fully described on the Privacy Shield website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-Ziff Davis complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Ziff Davis has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Ziff Davis’ certification, please click [here](http://www.export.gov/safeharbor/).
-
-7\. How this Privacy Policy can change.
-
-Some or all User Information maintained by Ziff Davis may be subject to transfer to another company in the event of a change of ownership of Ziff Davis or sale of any part of Ziff Davis. You will be notified via email and/or a prominent notice on our websites in the event of any change in ownership along with a material change of the uses of your Personal Information.
+Ziff Davis, LLC and its U.S. subsidiaries IGN Entertainment, Inc., emedia Communications, LLC, SaleBuild, Inc. d/b/a Salesify and B2BSignals, Offers.com, LLC and Ookla, LLC participate in and have certified its compliance with the E.U.-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Ziff Davis is committed to subjecting all personal data received from European Union (E.U.) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, please visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list). Ziff Davis is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequent transfers to a third party acting as an agent on its behalf. Ziff Davis complies with the Privacy Shield principles for all onward transfers of personal data from the E.U. and Switzerland, including the onward transfer liability provisions. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Ziff Davis is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Ziff Davis may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If you are a European individual with a privacy related complaint, concern or question about Ziff Davis’ privacy practices, please contact us by writing to [ZDLegal1@ziffdavis.com](mailto:ZDLegal1@ziffdavis.com)  **(must include “Privacy Policy” in the subject line)**  and we will respond within 45 days of receiving your request. Under certain conditions, more fully described on the Privacy Shield website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 We may change this Privacy Policy from time to time, and all changes will be effective at the time we post them. If we believe there is a significant change to this Privacy Policy or our data collection and use practices, we will indicate on our websites that our Privacy Policy has changed prior to the change becoming effective. The then-posted version of the Privacy Policy supersedes all prior versions. Your continued access to or use of any of the Services shall be deemed your acceptance of the Privacy Policy.
 
@@ -273,11 +270,11 @@ Ookla
 
 Ookla is a Ziff Davis company and operator of Speedtest.net, Speedtest Custom and Pingtest.net, as well as the Speedtest applications. Speedtest by Ookla is also offered on multiple devices, products and platforms, such as an extension on your web browser or as an application in certain products such as routers.
 
-When conducting a test through Speedtest on any device or platform, we collect the test results, approximate location of the server and user machine (using publicly available information and if made available by your mobile device) and other information including the IP address, the ISP, college or organization that operates the network you test, and network, hardware and device identifiers such as your SSID or IMEI (if the test is conducted on a smartphone). If you install the Speedtest extension on your web browser, in addition to allowing you to run a test of your internet speed, the extension uses our Web Speed feature, which measures the load time for a particular website and allows you to measure how long it takes for a particular website to load. Through the Web Speed feature, we collect page load metrics for the websites you visit, including page URLs, load times, and the approximate location of your device (using publicly available information), but Web Speed does not collect IP addresses. We also combine this information with recent Speedtest information from the same device. You can opt out of the Web Speed feature at any time by adjusting the settings on your web browser.
+When conducting a test through Speedtest on any device or platform, we collect: (a) the test results; (b) non-precise information about the approximate physical location of your computer or device derived from the IP address of such computer or device **(“GeoIP Data”)** , and/or location data that describes the precise geographic location of your device **(“Precise Location Data”)** (if your mobile device settings allow it); and (c) other information, including, but not limited to, the IP address, the ISP, college or organization that operates the network you test, and network, hardware and device identifiers such as your SSID or IMEI (if the test is conducted on a smartphone). If you install Speedtest on your smartphone or other mobile device, Ookla may collect your Precise Location Data, both while you are running a test and when the application is not actively in use but is running in the background on your device. To turn off the background scanning feature of the Speedtest application, go to the settings or coverage maps features within the Speedtest application and switch the background scanning feature to “Off.” If your smartphone or mobile device settings do not allow transmittal of Precise Location Data, certain features may not be available or their functions may be limited. 
 
-Except as otherwise described herein, the information we gather from all tests run through Ookla’s brands is collected anonymously and then aggregated to provide performance data to users on the Ookla websites and/or to third parties to whom we license the information. We do so with the express intent of providing a neutral and unbiased monitoring and reporting resource for users around the world. The only Speedtest results we do not license to third parties are those from instances of Speedtest Custom which have a paid subscription; in such instances, the Speedtest results are owned by the subscriber and would be subject to that subscriber’s privacy policy.
+Except as otherwise described herein, the information we gather from all tests run through Ookla’s brands is collected anonymously and then aggregated to provide performance data to users on the Ookla websites and/or to third parties to whom we license the information. We do so with the express intent of providing a neutral and unbiased monitoring and reporting resource for users around the world. The only Speedtest results we do not license to third parties are those test results from instances of Speedtest Custom which have a paid subscription– in such instances, the Speedtest results are owned by the subscriber and are subject to that subscriber’s privacy policy. 
 
-Information collected from tests run through Speedtest may not be anonymous as follows: Ookla may use publicly-available data collected through the Web Speed feature of the Speedtest extension on your web browser to ascertain your approximate location (if your browser settings allow it). In most cases, the IP addresses collected when you run a test on Speedtest.net, the Speedtest applications, or through the Speedtest feature of the browser extension are masked or partially hidden, but in some cases we provide the full IP address to the company licensing the information. For some ISPs and mobile carriers, Ookla will provide full IP addresses and/or network, hardware or device identifiers, for such ISP or mobile carrier’s customers upon request. Ookla may also provide full IP addresses and/or network, hardware and device identifiers, to equipment manufacturers and core network, or wholesale, providers on a case-by-case basis for network research purposes. In the cases in which we provide the full IP address, and network, hardware and device identifiers, it is because the company, typically an ISP or mobile carrier, owns those IP addresses, and/or network, hardware or device identifiers and provides them to their customers when their customers enter into a service contract. Ookla may also collection geolocation information during a test, but it does not link such information to any Personal Information.
+Information collected through Speedtest may not be anonymous as follows: In most cases, the IP addresses collected when you run a test on Speedtest.net, the Speedtest applications, or through the Speedtest feature of the browser extension are masked or partially hidden, but in some cases we provide the full IP address to the company licensing the information. For some ISPs and mobile carriers, Ookla will provide full IP addresses and/or network, hardware or device identifiers, for such ISP or mobile carrier’s customers upon request. Ookla may also provide full IP addresses and/or network, hardware and device identifiers, to equipment manufacturers and core network, or wholesale, providers on a case-by-case basis for network research purposes. Ookla may also collect GeoIP Data and/or Precise Location Data, and such data may also be licensed and/or transferred to third parties.
 
 For more information concerning your use of Ookla’s websites and services (including Speedtest, Speedtest Custom and Pingtest), please visit the [Ookla Terms of Use page](http://www.ookla.com/terms). The [Ookla Terms of Use page](http://www.ookla.com/terms) is incorporated by reference into this Privacy Policy.
 
