@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avante.biz privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607225414id_/http%3A//avante.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avante.biz privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214082714id_/http%3A//avante.biz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Adorable Wallpapers
+# Privacy policy – Adorable Wallpapers
 
 The owners and operators of avante.biz take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
