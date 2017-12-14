@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lefthandedtoons.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613214859id_/http%3A//www.lefthandedtoons.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lefthandedtoons.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214183141id_/http%3A//www.lefthandedtoons.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Left-Handed Toons (by right-handed people)
 
