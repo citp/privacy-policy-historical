@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tads.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627205315id_/http%3A//www.tads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tads.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214153322id_/http%3A//www.tads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TADS
 
 #### The TADS Privacy Policy describes how we use and protect your customer information. We believe that protecting your privacy is an integral part of the customer service we provide to you.
 
-##### In addition to our policy, we have multiple certifications and audits completed each year, including SSAE-16 Audit, PCI Certification, extensive server testing and strict internal rules for our employees including Red Flags readiness.
+##### In addition to our policy, we have multiple certifications and audits completed each year, including SOC 2 Type II, PCI Certification, extensive server testing and strict internal rules for our employees including Red Flags readiness.
 
 TADS uses your information to provide the service with your school. School information is used only to provide the service. We never sell your information.
 
