@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incimages.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228204733id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incimages.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214160730id_/https%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Inc.com
 
@@ -113,3 +113,7 @@ If we decide to request information from children, we will require verifiable pa
   * To protect the security or integrity of the site, take precautions against liability, respond to a validly executed subpoena or warrant from law enforcement, or if permitted under other provisions of law.
 
 
+
+**Location**
+
+_Inc._ is published by Mansueto Ventures and is headquartered at 7 World Trade Center, New York, New York 10007-2195
