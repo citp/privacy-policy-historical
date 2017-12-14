@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twoplustwo.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629185515id_/http%3A//www.twoplustwo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twoplustwo.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214202316id_/https%3A//www.twoplustwo.com/privacy.php) for the most accurate reproduction.*
 
 # Two Plus Two Forums Privacy Policy
 
-This privacy policy applies to the Two Plus Two Service (as defined in the [Terms of Service](https://web.archive.org/web/20170629185515id_/http%3A//www.twoplustwo.com/terms.php)).  This policy was created to disclose to you what type of information we may collect, how we may collect and utilize it, and with whom we may share it with.  We will also provide you with additional information that should help you protect your security both while using the Service and navigating to other web links.  Please take the time to read the privacy policy as you have options regarding the information collected and how it is used.
+This privacy policy applies to the Two Plus Two Service (as defined in the [Terms of Service](https://web.archive.org/web/20171214202316id_/https%3A//www.twoplustwo.com/terms.php)).  This policy was created to disclose to you what type of information we may collect, how we may collect and utilize it, and with whom we may share it with.  We will also provide you with additional information that should help you protect your security both while using the Service and navigating to other web links.  Please take the time to read the privacy policy as you have options regarding the information collected and how it is used.
 
 We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it.
 
@@ -119,7 +119,7 @@ RETURN TO TOP
 
 ## LINKS TO OTHER WEBSITES
 
-While using the Service you may choose options or links that direct you to our sites of affiliates, subsidiaries, or advertisers.  Upon using such links, we may no longer have control of cookies or other solicitations for information on those sites.  You should review the privacy policy of any website that you visit from a link on our website before you continue use of that website including, but not limited to, disclosing your personal information.  Please refer to the “Links” section of our [Terms of Service ](https://web.archive.org/web/20170629185515id_/http%3A//www.twoplustwo.com/terms.php)for additional information. 
+While using the Service you may choose options or links that direct you to our sites of affiliates, subsidiaries, or advertisers.  Upon using such links, we may no longer have control of cookies or other solicitations for information on those sites.  You should review the privacy policy of any website that you visit from a link on our website before you continue use of that website including, but not limited to, disclosing your personal information.  Please refer to the “Links” section of our [Terms of Service ](https://web.archive.org/web/20171214202316id_/https%3A//www.twoplustwo.com/terms.php)for additional information. 
 
 RETURN TO TOP
 
