@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ribbet.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627165117id_/http%3A//www.ribbet.com/privacy.rbt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ribbet.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214165839id_/http%3A//www.ribbet.com/privacy.rbt) for the most accurate reproduction.*
 
 # Ribbet.com - Privacy Policy
 
@@ -35,7 +35,7 @@ No, your passwords are never revealed to Ribbet. You can also revoke Ribbet's ac
 
 #### How do I unsubscribe from the Ribbet newsletter?
 
-Should you no longer wish to receive our emails, you may click on the unsubscribe link within each message received, and/or contact us [here](http://local.mywebsite.com/feedback).
+Should you no longer wish to receive our emails, you may click on the unsubscribe link within each message received, and/or contact us [here](https://web.archive.org/feedback).
 
 #### Will this privacy policy change?
 
