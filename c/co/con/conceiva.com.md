@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conceiva.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613184843id_/http%3A//www.conceiva.com/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceiva.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214111259id_/http%3A//www.conceiva.com/support/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - Conceiva
 
