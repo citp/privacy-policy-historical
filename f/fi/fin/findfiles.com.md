@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findfiles.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601221947id_/http%3A//findfiles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findfiles.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214160522id_/http%3A//www.findfiles.com/privacy.php) for the most accurate reproduction.*
 
 # FindFiles.com - Privacy Statement
 
@@ -34,10 +34,10 @@ Even when enabled, GetRight will not use this service for all downloads. GetRigh
 
 
 
-If you find a file you believe should be removed, please contact us via [contact form](https://web.archive.org/web/20170601221947id_/http%3A//findfiles.com/contact.php?subj=removemir) including the file name and/or URL and why it should be excluded. 
+If you find a file you believe should be removed, please contact us via [contact form](https://web.archive.org/web/20171214160522id_/http%3A//www.findfiles.com/contact.php?subj=removemir) including the file name and/or URL and why it should be excluded. 
 
 The information in the database may be used for aggregate statistics for things like the Top Downloads on the FindFiles.com website. 
 
-If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20170601221947id_/http%3A//findfiles.com/contact.php).
+If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20171214160522id_/http%3A//www.findfiles.com/contact.php).
 
 * Several other download managers use the FindFiles.com service. Notably, [Lightning Download](http://www.lightningdownload.com/)™, and the resurected Go!Zilla™.
