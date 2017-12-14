@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the seashepherd.org privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615014635id_/http%3A//www.seashepherd.org/support-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seashepherd.org privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214093709id_/http%3A//www.seashepherd.org/support-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Sea Shepherd Conservation Society - Privacy Policy | Support Us
 
 ##  [ Privacy Policy](http://www.seashepherd.org/support-us/privacy-policy.html)
 
 **Use of Text and Images**  
-If you would like to publish information or images that you find on our website, please send your request to [webmanager@seashepherd.org](mailto:webmanager@seashepherd.org). Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.
+If you would like to publish information or images that you find on our website, please send your request to [[email protected]](http://www.seashepherd.org/cdn-cgi/l/email-protection#fe899b9c939f909f999b8cbe8d9b9f8d969b8e969b8c9ad0918c99). Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.
 
  **Website Privacy Policy**  
 We have created this statement to demonstrate our firm commitment to your privacy. We do not collect personally identifying information about you when you visit our site, unless you choose to provide such information to us. Providing such information is strictly voluntary. This policy is your guide to how we will handle information we learn about you from your visit to our Website.
@@ -32,4 +32,4 @@ For children under 13 who visit our site, special rules apply. We do not request
 Our site provides users the opportunity to opt-out of receiving communications from us through a special online form. You may choose to receive only specific communications or none at all. You may also update your contact information previously provided to us through another online form. You can not remove yourself from our database, but you can prevent unwanted communication.
 
  **Questions about our policies**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us at: [webmanager@seashepherd.org](mailto:webmanager@seashepherd.org).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us at: [[email protected]](http://www.seashepherd.org/cdn-cgi/l/email-protection#d9aebcbbb4b8b7b8bebcab99aabcb8aab1bca9b1bcabbdf7b6abbe).
