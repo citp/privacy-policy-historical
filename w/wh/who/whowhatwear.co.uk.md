@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whowhatwear.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629080404id_/http%3A//www.whowhatwear.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whowhatwear.co.uk privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214033507id_/http%3A//www.whowhatwear.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WhoWhatWear UK
 
@@ -254,7 +254,7 @@ The Site may permit you to submit ideas, photographs, user profiles, writings, m
 
 ****(b) Name and Likeness****
 
-We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Content you submit to the Site, please review our [**Terms and Conditions of Service**](https://web.archive.org/web/20170629080404id_/http%3A/terms-conditions "Terms and Conditions of Service").
+We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Content you submit to the Site, please review our [**Terms and Conditions of Service**](https://web.archive.org/web/20171214033507id_/http%3A/terms-conditions "Terms and Conditions of Service").
 
 ****5. Ads and Information About You****
 
