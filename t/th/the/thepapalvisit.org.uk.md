@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepapalvisit.org.uk privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519003423id_/http%3A//www.thepapalvisit.org.uk/Papal-Visit-2010/Contact-and-Legal-Documents/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepapalvisit.org.uk privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214161338id_/http%3A//thepapalvisit.org.uk/Papal-Visit-2010/Contact-and-Legal-Documents/Privacy-Policy) for the most accurate reproduction.*
 
 # Article-Privacy Policy / Contact and Legal Documents / Papal Visit 2010 / Home - The Visit
 
