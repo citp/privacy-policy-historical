@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketfuel.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630125429id_/https%3A//rocketfuel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketfuel.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214033627id_/https%3A//rocketfuel.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Rocket Fuel
 
