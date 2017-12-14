@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the osell.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151039id_/http%3A//osell.com/Help/Getting-Started-p1/Privacy-Policy-p204.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osell.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214060230id_/http%3A//osell.com/Help/Getting-Started-p1/Privacy-Policy-p204.html) for the most accurate reproduction.*
 
 # China Manufacturers, Wholesalers, Suppliers Directory, B2B Marketplace-OSELL.com.
 
-_OSell.com_ is electronic commerce platforms are predominantly used by business entities to facilitate electronic commerce and such business use does not generally involve the collection of personal information of individuals. OSell recognizes the importance of privacy as well as the importance of maintaining the confidentiality of personal information. This Privacy Policy applies to all products and services provided by us and sets out how we may collect, use and disclose information in relation to users of the Site.
+_OSell_ is electronic commerce platforms are predominantly used by business entities to facilitate electronic commerce and such business use does not generally involve the collection of personal information of individuals. OSell recognizes the importance of privacy as well as the importance of maintaining the confidentiality of personal information. This Privacy Policy applies to all products and services provided by us and sets out how we may collect, use and disclose information in relation to users of the Site.
 
 You may use our services and products via a mobile device either through mobile applications or mobile optimized WebSite. This Privacy Policy also applies to such use of our services and products.
 
