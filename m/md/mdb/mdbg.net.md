@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdbg.net privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702060235id_/https%3A//www.mdbg.net/chindict/chindict.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdbg.net privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214075919id_/https%3A//www.mdbg.net/chinese/dictionary%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # MDBG English to Chinese dictionary
 
@@ -28,4 +28,4 @@ Our website may contain links to other websites of interest. However, once you h
 
 [](http://www.facebook.com/pages/MDBG/56716356738)
 
-Tip: Need to type pinyin with tonemarks? Try the 'Type Pinyin' item from the menu.
+Tip: In the character dictionary, entering multiple pinyin syllables will result in multiple searches on one result page.
