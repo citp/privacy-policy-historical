@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailybruin.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629160834id_/http%3A//dailybruin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailybruin.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214221255id_/https%3A//dailybruin.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Daily Bruin
 
@@ -24,7 +24,7 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 ### Ads
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by the Daily Bruin and does not cover the use of cookies by any advertisers.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by the Daily Bruin and does not cover the use of cookies or tracking pixels by any advertisers.
 
 ### Privacy Policy Changes
 
