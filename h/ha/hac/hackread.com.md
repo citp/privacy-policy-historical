@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hackread.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627113920id_/https%3A//www.hackread.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackread.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214080944id_/https%3A//www.hackread.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - HackRead
 
 This privacy policy sets out how [**HackRead**](http://hackread.com/ "HackRead") uses and protects any information that you give when you use this website.
 
-[**HackRead**](http://hackread.com/ "HackRead") is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+[ **HackRead**](http://hackread.com/ "HackRead") is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from September 2012.
 
@@ -38,8 +38,8 @@ Cookies are text files containing small amounts of information which are downloa
 
 You can find more information about cookies at:
 
-  * **[www.allaboutcookies.org](http://www.allaboutcookies.org/)**
-  * **[www.youronlinechoices.eu](http://www.youronlinechoices.eu/)**
+  *  **[www.allaboutcookies.org](http://www.allaboutcookies.org/)**
+  *  **[www.youronlinechoices.eu](http://www.youronlinechoices.eu/)**
   * For a video about cookies visit **[a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies/)**
 
 
