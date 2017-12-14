@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydspharmacy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081312id_/http%3A//www.lloydspharmacy.com/en/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydspharmacy.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214150327id_/http%3A//www.lloydspharmacy.com/en/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LloydsPharmacy
 
@@ -20,7 +20,7 @@ As a provider of services to the National Health Service, Lloyds Pharmacy Limite
 
 The publication scheme is a complete guide to the information routinely made available to the public by Lloyds Pharmacy Limited. It is a description of the classes of information about our pharmacists and pharmacies which we make publicly available.
 
-[ _Please click here for our Publication Scheme Guide to Information which is made under the Freedom of Information Act 2000._](https://web.archive.org/wcsstore7.00.00.610/LloydsPharmacy/Attachment/Customer%20Service%20Info/Lloyds%20Pharmacy%20Publication%20Scheme%20Guide%20to%20Information%20\(England\).pdf)[ _Please click here for our Publication Scheme which is made under the Freedom of Information (Scotland) Act 2002._](http://www.itspublicknowledge.info/YourRights/YourRights.aspx)
+[ _Please click here for our Publication Scheme Guide to Information which is made under the Freedom of Information Act 2000._](https://web.archive.org/wcsstore7.00.00.648/LloydsPharmacy/Attachment/Customer%20Service%20Info/Lloyds%20Pharmacy%20Publication%20Scheme%20Guide%20to%20Information%20\(England\).pdf)[ _Please click here for our Publication Scheme which is made under the Freedom of Information (Scotland) Act 2002._](http://www.itspublicknowledge.info/YourRights/YourRights.aspx)
 
 ###### The Information We Collect
 
