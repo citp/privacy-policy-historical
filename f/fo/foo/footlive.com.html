@@ -1,21 +1,21 @@
-<!--The following is the downloaded HTML source of the footlive.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606125610id_/http%3A//www.footlive.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footlive.com privacy policy that was archived on 2017-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171214040630id_/http%3A//www.footlive.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="UTF-8">
     <title>Privacy Policy - Footlive.com</title>
 	
-	<meta name="robots" content="noindex,follow">
-    <meta name="description" content="Privacy Policy - Footlive.com.">
+	    <meta name="description" content="Privacy Policy - Footlive.com.">
 		
+				<meta name="keywords" content="">	
 			<meta property="og:site_name" content="footlive.com">
-    <meta property="og:url" content="http://www.footlive.com/privacy-policy/">
+    <meta property="og:url" content="http://www.footlive.com/privacy-policy">
     <meta property="og:title" content="Privacy Policy - Footlive.com">
         <meta property="og:description" content="Privacy Policy - Footlive.com.">
     	
     <link rel="stylesheet" href="/css/reset.css?v1">
-    <link rel="stylesheet" href="/css/style21.css">
-    <link rel="stylesheet" href="/css/flags.css">
+	
+	 <link rel="stylesheet" href="/css/style27.css">    <link rel="stylesheet" href="/css/flags.css">
 	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
@@ -34,7 +34,7 @@
 	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
 	
-    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>	
+    <script id="facebook-jssdk" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.10&amp;appId=137281078174"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>	
     <script type="text/javascript" src="/js/cookie.js"></script>
     <script type="text/javascript" src="/js/jplayer.js"></script>
     <script type="text/javascript" src="/js/pikaday.js"></script>
@@ -53,8 +53,8 @@
     var update={},game={},comp={},order=[],currentDate,addMinutes,api_error=0;
 	var myIP=false;
 	
-    var currentTime=1496753772000;
-var currentMessage="ef85b59d03e5fd2f40784a6cd5ad690d5a3ddad9";var cetDifference=120;
+    var currentTime=1513224391000;
+var currentMessage="76ff7500a64d1d5f7f154be8624c7b40450a64be";var cetDifference=120;
 var rootDir="/";
     
 	var timeZone=60;//+gmt minutes    
@@ -354,7 +354,7 @@ var rootDir="/";
 				}).done(function(r){
 					$("#container").html(r);
 				}).always(processPopup);
-			},30000);
+			},60000);
 		}
 	}
     function processFeed(){
@@ -403,7 +403,7 @@ var rootDir="/";
 			var dt=new Date(((window.addMinutesToTime*60)+parseInt(gm["utcDate"]))*1000);
 			gm["displayTime"]=dateFormat[dt.getHours()]+":"+dateFormat[dt.getMinutes()];
 			gm["displayDate"]=dt.getFullYear()+"-"+dateFormat[dt.getMonth()+1]+"-"+dateFormat[dt.getDate()];
-			gm["displayFullHour"]=dateFormat[dt.getDate()]+"/"+dateFormat[dt.getMonth()+1]+"/"+(dt.getFullYear().toString().slice(-2))+" "+gm["displayTime"];
+			gm["displayFullHour"]=dateFormat[dt.getDate()]+"."+dateFormat[dt.getMonth()+1]+"."+(dt.getFullYear().toString().slice(-2))+" "+gm["displayTime"];
 		if(requestAction[0]=="date" && gm["displayDate"]!=userDateKey){
 				$(this).remove();
 		}else if(requestAction[0]=="default" && gm["displayDate"]!=userDateKey && statusIsLive[gm["status"]]!==1){
@@ -590,6 +590,7 @@ var rootDir="/";
      	else{
 			hideCompetition(id);
      	}
+		ga('send', 'event', 'checkboxClicked', '', '');
     }
 	    
     function hideCompetition(id)
@@ -1014,7 +1015,7 @@ function processNews(){
 
    
 var requestAction=["privacy-policy"];
-var utcTimestamp=1496753772000;
+var utcTimestamp=1513224391000;
 var todaysDate="";
 
 	$(document).ready(function(){
@@ -1072,11 +1073,16 @@ var todaysDate="";
 	
 			loadUpdateTimeoutId=setTimeout(function(){
 				 loadUpdates();
+				 //loadTest();
 			},5000);
 
 			prepareThePlayer();
 			
 		}
+		function loadTest(){
+				console.log('loadTest');
+		}
+		
 		$("#container").show();
 		$("img.lazy").unveil(300);
 			
@@ -1100,10 +1106,17 @@ var todaysDate="";
 
 	  
  </script>
+</head><body itemscope="" itemtype="http://schema.org/WebPage"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10&appId=137281078174';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 
-</head>
-<body itemscope="" itemtype="http://schema.org/WebPage">
+
     <div class="page">
 		<header>
 						<div>
@@ -1138,38 +1151,28 @@ var todaysDate="";
 				<!--<a href="youth/" id="youth" class="">Youth</a>-->
 				<a href="/team/" id="teams" class="" title="Football teams">Teams</a>
 				<a href="/competition/" id="competitions" class="" title="Football competitions">Competitions</a>
-								<a rel="nofollow" href="http://betway.com/?s=bw41514&amp;mid=18535" id="betting" target="_blank">Betting</a>
-				<a href="/video/" id="video" class="" title="Football Highlights">Video</a>
-				<a href="/soccer-news/" id="news" class="" title="Soccer News">News</a>
-				<a href="/partners/" id="partners">Links</a>
+												<a href="/partners/" id="partners">Links</a>
 				<a href="/contact/" id="contact">Contact</a>
 			</div>
 		</nav>
 		
 		<div class="ads">
 			<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-			<!-- seo-footlive.com -->
-			<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2677083954013733" data-ad-slot="4685393360" data-ad-format="auto"></ins>
+			<!-- responsive-footlive.com-header -->
+			<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2677083954013733" data-ad-slot="1389104228" data-ad-format="auto"></ins>
 			<script>
 			(adsbygoogle = window.adsbygoogle || []).push({});
 			</script>
 		</div>
-		<div class="breadcrumb"> <ol itemprop="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
-	<li style="display:inline-block;" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-	<a itemprop="item" href="http://www.footlive.com">
-	<span itemprop="name">Foot Live</span></a>
-	<meta itemprop="position" content="1">
-	</li> 
-	
-› <li style="display:inline-block;" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-			<a itemprop="item" href="http://www.footlive.com/privacy-policy/"> 
-			<span itemprop="name">Privacy Policy</span></a>
-			<meta itemprop="position" content="2">
-			</li> 
-			
+		<div class="breadcrumb p_left"> <ol itemprop="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList"><li style="display:inline-block;" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="http://www.footlive.com"><span itemprop="name">Foot Live</span></a><meta itemprop="position" content="1"></li>
+› <li style="display:inline-block;" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="http://www.footlive.com/privacy-policy/"><span itemprop="name">Privacy Policy</span></a><meta itemprop="position" content="2"></li>
 </ol>
-</div>
+</div><h1 class="p_right"></h1>		<div class="p_clear"></div>
+		
 		<section class="left">
+		
+		<br>
+
 				<ul>
 			<li class="lfl"><a href="/livescore/england/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag uk"></div></div>England</a></li>
 			<li class="lfl"><a href="/livescore/italy/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag it"></div></div>Italy</a></li>
@@ -1305,34 +1308,22 @@ var todaysDate="";
 		</ul>
 
 		<br><br><br>
-
-				<script type="text/javascript">
-		<!--//<![CDATA[
-		   document.MAX_ct0 ='';
-		   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
-		   var m3_r = Math.floor(Math.random()*99999999999);
-		   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-		   document.write ("zoneid=276918");document.write("&amp;nodis=1");
-		   document.write ('&amp;cb=' + m3_r);
-		   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-		   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-		   document.write ("&amp;loc=" + escape(window.location).substring(0,1600));
-		   if (document.context) document.write ("&context=" + escape(document.context));
-		   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
-			   document.write ("&amp;ct0=" + escape(document.MAX_ct0));
-		   }
-		   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-		   document.write ("'></scr"+"ipt>");
-		//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=276918&amp;nodis=1&amp;cb=59423858356&amp;exclude=undefined&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20170606125610id_/http%3A//www.footlive.com/privacy-policy/"></script>
-
-						</section>
+				
+		<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- responsive-footlive.com-left -->
+		<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2677083954013733" data-ad-slot="6996654120" data-ad-format="auto"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		
+								</section>
 
 		<section class="center">
 			<div id="moosh"></div>
 			<div class="horaire">
 			<div id="timezonePicker"></div>
 			</div>
-						<div style="clear:left;"></div>
+						<div style="clear:left;margin-bottom:2px;"></div>
 						
 			
 			
@@ -1417,6 +1408,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 </p>
 
 				
+				
+				
+				
 			</div>
 			
 		</section>
@@ -1425,15 +1419,15 @@ If there are any questions regarding this privacy policy you may contact us usin
 				<div class="social">
 	<div class="social_light">
 		<div class="social_light_arrow_box">
-			<a class="d-facebook" href="https://www.facebook.com/sharer.php?u=http://www.footlive.com/privacy-policy/" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;">
+			<a class="d-facebook" href="https://www.facebook.com/sharer.php?u=http://www.footlive.com/privacy-policy" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;">
 			</a>
 		</div>
 		<div class="social_light_arrow_box">
-			<a class="d-twitter" href="https://twitter.com/intent/tweet?url=http://www.footlive.com/privacy-policy/&amp;text=" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;">
+			<a class="d-twitter" href="https://twitter.com/intent/tweet?url=http://www.footlive.com/privacy-policy&amp;text=" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;">
 						</a>
 		</div>
 		<div class="social_light_arrow_box">
-			<a class="d-google" href="https://plus.google.com/share?url=http://www.footlive.com/privacy-policy/" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;">
+			<a class="d-google" href="https://plus.google.com/share?url=http://www.footlive.com/privacy-policy" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;">
 			</a>
 		</div>	
 		<div class="leftclear"></div>
@@ -1445,18 +1439,23 @@ If there are any questions regarding this privacy policy you may contact us usin
 			<div class="top20 ads300600">
 				
 				<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-				<!-- footlive.com-seo-3600-600 -->
-				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2677083954013733" data-ad-slot="9857296166" data-ad-format="auto"></ins>
+				<!-- responsive-footlive.com-right -->
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2677083954013733" data-ad-slot="4363763684" data-ad-format="auto"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
-				</script>				
+				</script>
+				
 		
 			</div>
-			<div id="customiseContainer" style="" class="top20">
+			<div id="customiseContainer" style="width:100%;" class="top20">
 			
 			</div>
 			<div class="top20">
 							</div>
+			
+			
+			<div class="fb-page" data-href="https://www.facebook.com/footlivecom-273524129735805/" data-tabs="timeline" data-width="160" data-height="120" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/footlivecom-273524129735805/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/footlivecom-273524129735805/">footlive.com</a></blockquote></div>
+			
 			
 						
 			
@@ -1477,30 +1476,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 <div id="bob"></div> 	
 <div id="jquery_jplayer_1" style="display:none;"></div>    
 
-<style>
-			#top {
-				bottom:60px;
-			}
-			</style>
-			<script src="/cookies/cookiechoices.js"></script>
-			<style>
-				a#cookieChoiceDismiss {
-			  background-color: #303030;
-			  border: 1px solid rgba(0,0,0,.1);
-			  -moz-border-radius: 2px;
-			  -webkit-border-radius:2px;
-			  border-radius: 2px;
-			  color: #fff;
-			  cursor: pointer;
-			  padding: 0px 8px;
-			  text-decoration: none;
-			  white-space: nowrap;
-			}	
-		</style>
-		<script>
-		 document.addEventListener('DOMContentLoaded', function(event) {
-		  cookieChoices.showCookieConsentBar('This website uses cookies to enhance your browsing experience. By continuing to browse the site you are agreeing to accept our use of cookies.','OK','Cookies Policy.','http://www.footlive.com/privacy-policy/');
-		 });
-		 </script>
 
-<div id="cookieChoiceInfo" style="position: fixed; width: 100%; height: auto; background-color: rgb(238, 238, 238); margin: 0px; left: 0px; bottom: 0px; padding: 4px; z-index: 1000; text-align: center; font-size: 14px;"><div id="ffezfze" style="width: 1000px; background-color: rgb(238, 238, 238); margin: 0px auto; left: 0px; top: 0px; padding: 4px; z-index: 1000; text-align: center; font-size: 14px;"><span>This website uses cookies to enhance your browsing experience. By continuing to browse the site you are agreeing to accept our use of cookies.</span><a id="enSavoirPlus" href="http://www.footlive.com/privacy-policy/" style="margin-left: 8px;">Cookies Policy.</a><a id="cookieChoiceDismiss" href="#" style="margin-left: 24px;">OK</a></div></div></body></html>
+
+</body></html>
