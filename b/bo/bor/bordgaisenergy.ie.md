@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bordgaisenergy.ie privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122110026id_/https%3A//www.bordgaisenergy.ie/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bordgaisenergy.ie privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214215028id_/https%3A//www.bordgaisenergy.ie/terms-and-privacy) for the most accurate reproduction.*
 
 # Bord Gáis Energy - Terms, Privacy & Cookies
 
@@ -69,7 +69,7 @@ Where possible, we will attempt to contact you by email when we discontinue any 
 
 ##### 7.Closing Your Gas or Electricity Account or Changing the Gas or Electricity Supply Address for your Online Account
 
-If you wish to close your gas or electricity account or change your Gas or Electricity Supply Address for your account if you are moving house, you must call our Customer Contact Centre on 1850 632 632 with a final meter reading and if at all possible, the name of the incoming customer.
+If you wish to close your gas or electricity account or change your Gas or Electricity Supply Address for your account if you are moving house, you must [contact us](https://web.archive.org/contact-us/home/gas/) with a final meter reading and if at all possible, the name of the incoming customer.
 
 For further information please see the General Terms & Conditions of our website, our disclaimer and privacy policy, our data protection notice for Domestic Customers and our data protection notice for SME Customers.
 
