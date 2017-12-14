@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527120627id_/http%3A//www.frontporch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214125110id_/http%3A//www.frontporch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Telecom Subscriber Engagement Solutions
 
@@ -42,7 +42,7 @@ Front Porch, Inc. has put in place reasonable physical, administrative and techn
 
 #### Website Publisher’s Choice
 
-As the owner or the webmaster of a domain, you can determine if Internet provider messages to their subscribers can be served alongside your content. To learn more or activate that choice, [click here](https://web.archive.org/web/20170527120627id_/http://www.frontporch.com/publishers-choice "Website Publisher’s Choice").
+As the owner or the webmaster of a domain, you can determine if Internet provider messages to their subscribers can be served alongside your content. To learn more or activate that choice, [click here](https://web.archive.org/web/20171214125110id_/http://www.frontporch.com/publishers-choice "Website Publisher’s Choice").
 
 #### Changes to this Policy
 
