@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sterlingoptical.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608093342id_/http%3A//www.sterlingoptical.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sterlingoptical.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214121937id_/http%3A//www.sterlingoptical.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sterling Optical
 
@@ -8,7 +8,7 @@ PLEASE REVIEW IT CAREFULLY.
 
 **Effective April 14, 2003:**
 
-The privacy of your medical information is important to us. You may be aware that the US government regulators established privacy rule (“HIPPA”) governing protected health information. This notice tells you about how it may be used, and about certain rights that you have.
+The privacy of your [www.onlinepharmacytabs.com](http://www.onlinepharmacytabs.com/) medical information is important to us. You may be aware that the US government regulators established privacy rule (“HIPPA”) governing protected health information. This notice tells you about how it may be used, and about certain rights that you have.
 
 **_Your Rights:_** Although the records containing your medical information are the physical property of New York Vision, the information belongs to you. By law, you have the right to:
 
