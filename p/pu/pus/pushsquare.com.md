@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushsquare.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090025id_/http%3A//www.pushsquare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushsquare.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214063427id_/http%3A//www.pushsquare.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Push Square
 
@@ -53,7 +53,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [help@pushsquare.com](mailto:help@pushsquare.com).
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](http://www.pushsquare.com/cdn-cgi/l/email-protection#345c515844744441475c4745415546511a575b59).
 
 
 
