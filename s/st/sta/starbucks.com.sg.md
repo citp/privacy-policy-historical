@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the starbucks.com.sg privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630212219id_/http%3A//www.starbucks.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.com.sg privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214170907id_/http%3A//www.starbucks.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Starbucks Coffee Company
 
-**Last updated [22 January 2015]**
+## Privacy Policy
+
+  
+
+
+**Last updated [31 July 2017]**
 
 This privacy policy ("Policy") describes how Starbucks Coffee Singapore Pte. Ltd. and its parent and other affiliated companies ("Starbucks") collect, use and disclose personal information of customers through our websites and online services, including [www.starbucks.com.sg](http://www.starbucks.com.sg/), mobile applications, and other Starbucks owned or operated websites and online services that link to this Policy (collectively, the "Sites"), through our programs and in our physical stores ("Services"). This Policy does not apply to websites and services that display or link to different privacy statements. Websites and services co-branded with other partners may display or link to a joint privacy statement or separate privacy statements of our partners in addition to our Policy. By accessing the Sites or utilising the Services, you hereby consent to the use of your information, including your personal information, in the manner described in this Policy. Without limiting the generality of the foregoing, you authorise Starbucks to transmit your information outside of Singapore in the manner and for the purposes described in this Policy.
 
@@ -44,27 +49,27 @@ Starbucks may use information about you for purposes described in this Policy or
 
 ·  To create personalized promotions by combining your personal information with non personal information about you, such as the amounts and types of purchases you make or any benefits you receive through our programs. 
 
-·  To communicate with you by post, telephone, email and SMS about your orders or purchases, your services, accounts and program participation, a contest or sweepstakes you have entered, and your requests for information. 
+·  To communicate with you by post, telephone, email, SMS and/or through your Starbucks Card account and/or your Starbucks Singapore mobile app (including but not limited to any in-app messaging services)  about your orders or purchases, your services, accounts and program participation, a contest or sweepstakes you have entered, and your requests for information. 
 
-·  To communicate with you by post, telephone, email and SMS about our brands, products, events or other promotional purposes, including co-branded offers and affiliate and partner offers. 
+·  To communicate with you by post, telephone, email, SMS, and/or through your Starbucks Card account and/or your Starbucks Singapore mobile app (including but not limited to any in-app messaging services) about our brands, products, events or other promotional purposes, including co-branded offers and affiliate and partner offers. 
 
 ·  For internal operations, including troubleshooting, data analysis, testing, research and service improvement. 
 
-If you have registered as a member, the information you have provided us may be used to send you marketing promotions/offers and exclusive member events by post, telephone, email and/or SMS about our brands, products, events or other promotional purposes, including co-branded offers and affiliate and partner offers. Please refer to the section " **What Choices Does Starbucks Offer About Personal Information?"** below for information on how to opt-in or opt-out.
+If you have registered as a member, the information you have provided us may be used to send you marketing promotions/offers and exclusive member events by post, telephone, email, SMS and/or through your Starbucks Card account and/or your Starbucks Singapore mobile app (including but not limited to any in-app messaging services) about our brands, products, events or other promotional purposes, including co-branded offers and affiliate and partner offers. Please refer to the section " **What Choices Does Starbucks Offer About Personal Information?"** below for information on how to opt-in or opt-out.
 
 **Does Starbucks Share Personal Information with Third Parties?**
 
 Starbucks may share or disclose your personal information in limited ways:
 
-·  With others with your consent. 
-
 ·  With our parent and other affiliated entities. 
 
-·  With agents, vendors or services providers who provide support services to us (such as credit card processors or other payment services providers, mailing houses or website hosts) and who help us market our products and services (such as email vendors). These third parties may use information about you to perform their functions on our behalf. 
+·  With agents, vendors or services providers who provide support services to us (such as credit card processors or other payment services providers, mailing houses or website hosts) and/or other third parties who help us market our products and services and assist us by communicating (directly or indirectly) with our customers (such as email vendors and social media and engagement platforms). These third parties may use information about you to perform their functions on our behalf. 
 
 ·  If you participate in any blog or other online forum on our Sites, any personal information that you post on our Sites may be shared with other forum participants and Site visitors. 
 
 ·  In the event of a merger, acquisition, financing, or sale of assets or any other situation involving the transfer of some or all of our business assets, Starbucks may disclose personal information to those involved in the negotiation or transfer.
+
+·  With others with your consent
 
 Starbucks may also provide and/or transfer any data that it collects from you to its parent, subsidiary, associated and affiliated companies, or to any agent, contractor or third party service provider located outside of Singapore which provides administrative, data processing, computer or other services to Starbucks, to enable Starbucks to carry out the purposes permitted under this Policy. 
 
