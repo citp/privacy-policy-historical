@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enjoyengland.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609183535id_/https%3A//www.visitengland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjoyengland.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214015735id_/https%3A//www.visitengland.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VisitEngland
 
