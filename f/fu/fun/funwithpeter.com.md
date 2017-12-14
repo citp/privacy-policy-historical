@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funwithpeter.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613082323id_/http%3A//www.funwithpeter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funwithpeter.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214110033id_/http%3A//www.funwithpeter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ It is very important that you read and understand our Privacy Policy. If you do 
 
 We may update this Privacy Policy from time to time. We will advise you that changes have been made by posting a notice on our website or otherwise. Your use of the Funwithpeter, LLC. Service constitutes your acceptance of the terms of our Privacy Policy, as may be amended or revised by us, and you are advised to consult our Privacy Policy regularly for any changes (revisions will be reflected by the “last update” notation below).
 
-If you have any questions regarding Funwithpeter, LLC. ’s policies or practices relating to privacy, please direct them to privacy@funwithpeter.com
+If you have any questions regarding Funwithpeter, LLC. ’s policies or practices relating to privacy, please direct them to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This Privacy Policy was last updated on November 24, 2008.Collection and Use of Information
 
