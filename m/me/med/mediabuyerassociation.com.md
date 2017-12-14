@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediabuyerassociation.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614060003id_/http%3A//mediabuyerassociation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediabuyerassociation.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214091115id_/http%3A//mediabuyerassociation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Media Buyer Association - Join The Fastest Growing Network And Resource Hub For Media Buyers
 
