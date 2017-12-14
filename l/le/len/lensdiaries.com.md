@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lensdiaries.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614002633id_/http%3A//www.lensdiaries.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lensdiaries.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214181652id_/http%3A//www.lensdiaries.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Lens Diaries™
 
