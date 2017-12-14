@@ -1,213 +1,66 @@
-> *The following text is extracted and transformed from the geisinger.org privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507015828id_/http%3A//www.geisinger.org/tc/npp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geisinger.org privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214040527id_/https%3A//www.geisinger.org/en/about-geisinger/Corporate/corporate-policies/website-privacy-policy) for the most accurate reproduction.*
 
-# Notice of Privacy Practice
+# Geisinger Privacy Policy
 
-Notice of Privacy Practice
+Maintaining your trust is important to us. We take your privacy seriously, and we have created this privacy policy (this “ _ **Privacy Policy**_ ”) to disclose our information gathering, distribution, storage, and destruction practices for the personally identifiable information (“ ** _PII_** ”) we collect on Geisinger.org and its related websites (collectively, the “ _ **Site**_ ”). In addition to this Privacy Policy, you should review the Site’s Terms of Use.
 
-#### GEISINGER HEALTH SYSTEM NOTICE OF PRIVACY PRACTICES  
+This Privacy Policy only addresses the use and disclosure of information we collect from you as a result of your use of the Site. You should be aware that when you are on the Site, you can be directed to other websites that are beyond our control, and we are not responsible for the privacy practices of third parties or the content of such linked websites. You should read the posted privacy policy of any website you access.
 
+**PLEASE NOTE!** Geisinger’s Notice of [Privacy Practices](https://web.archive.org/about-geisinger/corporate/corporate-policies/hipaa/notice-of-privacy-practices-ghs) is a separate document that governs how medical information about you may be used and disclosed by Geisinger. 
 
-THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.  
-If you have any questions about this Notice of Privacy Practices ("Notice"), you may ask a member of the staff where you receive health care services. You may also contact our Privacy Officer at (570) 271-7360.  
+## Our Site Security
 
+The Site has security measures in place to reasonably protect against the loss, misuse, and alteration of the information under our control. Firewalls are in place to prevent unauthorized access to our systems. A firewall controls traffic between the Internet and our internal network and protects your information stored within our systems from outsiders. Systems are monitored for suspicious activity to prevent any breaches in security. Any data provided by you sits behind this firewall.
 
-We value your trust. We will strive to continue to maintain the privacy of your protected health information. We are required by law to maintain the privacy of your protected health information and to provide you with this Notice of our legal duties and privacy practices with respect to your protected health information. We are also required to abide by the terms of our Notice.  
+PLEASE NOTE THAT, BY ITS VERY NATURE, A WEBSITE CANNOT BE ABSOLUTELY PROTECTED AGAINST INTENTIONAL OR MALICIOUS INTRUSION ATTEMPTS. FURTHERMORE, GEISINGER DOES NOT CONTROL THE DEVICES OR COMPUTERS OR THE INTERNET OVER WHICH YOU MAY CHOOSE TO SEND CONFIDENTIAL PII AND CANNOT, THEREFORE, PREVENT SUCH INTERCEPTIONS OF COMPROMISES TO YOUR INFORMATION WHILE IN TRANSIT TO GEISINGER. BEYOND OUR REASONABLE CARE TO SAFEGUARD YOUR INFORMATION WHILE IN TRANSIT, GEISINGER CANNOT AND DOES NOT GUARANTEE THE ABSOLUTE SECURITY OF ELECTRONIC COMMUNICATIONS OR TRANSMISSIONS SINCE ANY TRANSMISSION MADE OVER THE INTERNET BY ANY ORGANIZATION OR ANY INDIVIDUAL RUNS THE RISK OF INTERCEPTION.
 
+## Types of Information We Collect
 
-We may change this Notice at any time. If we make material changes in our policies regarding our use or disclosure of your protected health information, changes in your rights, our legal duties or our privacy practices, we will promptly revise and distribute our changed Notice. Our changed Notice will be effective for all of your protected health information that we have as of the effective date of such changed Notice.  
+We collect non-PII of the sort that web browsers and servers typically make available, such as the browser type, language preference, and the date of time of each user request. We do not collect PII unless you choose to provide it. You are generally not required to submit any PII to use the Site.   
+In addition, we may gather technical information such as:
 
+  * **Computer's IP (Internet Protocol) address or browser type:** Our Web server automatically collects the IP address of the computers that access the Site. An IP address is a number that is assigned to your computer when you access the Internet. It is not truly personally identifiable information because many different individuals can access the Internet via the same computer. To help diagnose problems with our servers, collect site usage statistics, and administer our web site, traffic between Geisinger and the Internet at times will be recorded for analysis (technical and physical). Our Privacy Policy would apply to this recorded information.
+  * **Pixel tracking:** A tracking pixel is a piece of code embedded on a web page of a website that collects information about a user’s engagement on that page. Tracking pixels may include a command to create cookies that can follow a user across different websites, including non-Geisinger sites.
+  * **Cookies:** A cookie is a small text file that can be stored on a user's browser (on any type of device). Geisinger utilizes cookies in conjunction with certain applications (for example with our web security application) to allow you to easily move through secured pages once you have logged on. At times we may use cookies to know that you have accessed an online course or to administer certain surveys, for example, to allow a user to reply to a survey only once. Our cookie contains a unique random identifier that enables anonymous tracking activity from a browser.
+  * **Aggregated Statistics:** We may collect statistics about the behavior of users on the Site. For instance, we may monitor the most popular forums on the Site. We may display this information publicly or provide it to others.
 
-You may obtain a copy of the most current Notice by visiting our website at [www.geisinger.org](http://www.geisinger.org/), or by calling or writing to our Privacy Officer to request that a copy be sent to you in the mail, or asking for our most current Notice when you come in for an appointment. The address for our Privacy Officer is provided on the last page of this Notice.  
 
 
-#### USES AND DISCLOSURES WE ARE PERMITTED OR REQUIRED TO MAKE  
+## How We Use the Information We Collect
 
+We may collect and use information in the following way:
 
-The following is a description of the types of uses and discloses of your protected health information that we are permitted or required to make. Not every use or disclosure possible is listed, but all of the ways that we are permitted to use and disclose your protected health information will fall within one of these general categories.  
+  * To optimize your web experience
+  * To improve customer service
+  * To conduct surveys, research, and analysis 
+  * To promote events
+  * To establish and manage your accounts
+  * To operate, evaluate, and improve Geisinger’s operations
 
 
- **Treatment**  
-We will use and disclose your protected health information to provide your health care and any related services. This includes disclosure of your protected health information to doctors, hospitals, pharmacies and other third parties who are involved in your care. For example, we will disclose your protected health information to another physician to whom you have been referred, or a home health agency that will be caring for you.  
 
+The above list is not comprehensive and may change without notice.
 
- **Payment  
-** We will use and disclose your protected health information so that we may bill and payment may be collected for the health care services you receive. This includes activities such as communicating your protected health information to an insurance company.  
+## How Your Information Is Shared
 
+If you participate on the Site by writing posts or responses, or importing a blog or other content, you should be aware that any information you choose to disclose using these services can be read, collected, and used by other users of the Site. We are not responsible for the information you choose to submit to the Site and any forums therein. Your contributions may be searchable on the Site and some content on the Site may be public and searchable on the Internet.
 
- **Health Care Operations**  
-We will use and disclose your protected health care information as necessary for health care operations. For instance, we serve the region by participating in medical education programs. We may disclose your protected health information to the students and faculty of such programs. We may call your name in our waiting room when your doctor or other provider is ready to see you.  
+**Please note:** Information you have shared with others or that others have copied may also remain visible after you have closed your account or deleted the information from your own profile. In addition, you may not be able to access, correct, or eliminate any information about you that other Site users copied or exported out of the Site, because this information may not be in Geisinger’s control.
 
+## Third Party Information Sharing
 
- **Appointment Reminders**  
-We may call you on the telephone to remind you of an upcoming appointment. We may send you an appointment reminder in the mail.  
+As a routine part of some business processes, we may share some information from the Site with third parties. We may disclose information to such affiliated third parties that perform services for us in the processing of the Site and/or the services made available thereon. While these vendors are contractually obligated to keep your information secure and private, we cannot guarantee the effectiveness of third party privacy policies and safety measures. 
 
+  * **Service providers.** We may engage trusted third-party companies and individuals to facilitate or provide services on our behalf or to perform Site-related services and analysis. Such engagement will be only to the extent necessary and we require that such third parties will comply with the principles of this privacy policy.
+  * **Legal orders.** We may disclose user data if required by any applicable law or government agency to comply with a legal order. We may also disclose or use user data in order to defend or enforce our legal rights and in accordance to any applicable law.
+  * **Corporate transfers.** We may disclose, share or transfer user data in connection with a merger, acquisition, reorganization or sale of our assets.
 
- **Treatment Alternatives/Other Health-Related Benefits and Services  
-** We may contact you to provide you with information about treatment alternatives or other health-related benefits and services that may be of interest to you.  
 
 
- **Fund Raising  
-** We may use or disclose your demographic information and dates on which health care is provided to you for purposes of our fundraising.  
+## How Long Do We Keep Your Information? (Data Retention)
 
+We may retain collected user data for an indefinite period of time. We have reasonable security measures in place to help protect PII that we collect and retain. However, no system can be completely secure, and we make no guarantees as to the safety or security of any information transmitted through our services.
 
- **Hospital Directory  
-** Unless you tell us not to, we will include certain information about you in the hospital directory if you are admitted to the hospital. This information may include your name, location in the hospital, your general condition and your religious affiliation.  
+## Changes to this Privacy Policy
 
-
-This information may also be released to people who ask for you by name such as your relatives, friends and the media. Your religious affiliation may be given to clergy even if they don't ask for you by name.  
-
-
- **Individuals Involved in Your Care  
-** We may release your protected health information to those people who you indicate you would like to involve in your care, such as family members and friends.  
-
-
- **As Required By Law**  
-We will disclose your protected health information when we are required to do so by local, state or federal law.
-
- **To Avert a Serious Threat to Health or Safety  
-** We may use or disclose your protected health information to prevent a serious threat to your health and safety, or the health and safety of others.  
-
-
- **Organ and Tissue Donation  
-** We may release the protected health information of organ donors to organizations that assist with such donations.  
-
-
- **Military and Veterans  
-** If you are or were a member of the military, we may release your protected health information subject to applicable law, rule, regulation and our policies.  
-
-
- **Workers' Compensation  
-** We may release your protected health information for purposes of handling your workers� compensation claims.  
-
-
- **Public Health Activities  
-** We may disclose your protected health information to public health entities as authorized by law. Such disclosures include (but are not limited to) reports of births and deaths, and child or elder abuse and neglect.  
-
-
- **Health Oversight Activities**  
-We may disclose your protected health information to agencies of the government for activities authorized by law. These activities include monitoring health care systems and participation in government programs.  
-
-
- **Lawsuits and Disputes  
-** If you are involved in a lawsuit or other dispute, we may disclose your protected health information in response to documents such as a court order, or when certain other requirements are met.  
-
-
- **Law Enforcement**  
-We may release your protected health information if asked to do so by a law enforcement official for reasons including (but not limited to) identifying or locating a suspect, witness or missing person or investigating criminal activity.  
-
-
- **Coroners, Medical Examiners and Funeral Directors  
-** We may release certain protected health information to a coroner or medical examiner. We may also release certain protected health information about deceased patients to funeral directors so that they may carry out their duties.  
-
-
- **Inmates  
-** If you are an inmate of a correctional institution or under the custody of a law enforcement official, we may release your protected health information to the respective correctional institution or law enforcement official in accord with applicable law, rule, regulation and our policies.  
-
-
- **Business Associates**  
-Some of the services we provide are performed through contractual relationships with outside parties or business associates. These services may include (but are not limited to) financial, auditing and legal. We ask our business associates to sign an agreement in an effort to make sure that all protected health information is appropriately safeguarded.  
-
-
- **Research**  
-We may use or release your protected health information for certain research purposes when such research is approved by the Institutional Research Review Board, as appropriate.  
-
-
-YOU HAVE RIGHTS REGARDING YOUR PROTECTED HEALTH INFORMATION.  
-
-
- **Your Right to Inspect and Copy  
-** You have the right to inspect and receive a copy of your protected health information that may be used to make decisions about your care. To do so, you must complete the appropriate Authorization form and present it to Health Information Management Department. We have provided the address for Medical Reports on the last page of this Notice. You will be charged a fee for photocopying.  
-
-
-We may deny your request to inspect and receive a copy of your protected health information in very limited circumstances. If you are so denied in some cases, you may request that such denial be reviewed. We will comply with the outcome of such review.  
-
-
- **Your Right to Amend  
-** If you feel that protected health information that we have about you is incorrect or incomplete, you may ask us to amend or change such incorrect information. You have the right to request an amendment for so long as your protected health information is kept by or for us. Please contact our Privacy Officer at (570) 271-7360 to make such a request.  
-
-
- **Your Right to an Accounting of Disclosures  
-** You have the right to request an accounting of disclosures. This is a list of disclosures that we made of your protected health information to entities outside of Geisinger Health System*. Please contact our Privacy Officer at (570) 271-7360 to make such a request.  
-
-
- **Your Right to Request Restrictions  
-** You have the right to request limitations on the protected health information we use or disclose about you for treatment, payment and health care operations. We are not required to agree to your request, and generally, we will not accept requests for such limitations.  
-
-
- **Your Right to Request Confidential Communications**  
-You have the right to make a reasonable request that we communicate with you regarding your protected health information in a certain way or at a certain location. Such reasonable requests may be limited to, when appropriate, how information as to payment for services we provide to you will be handled. We may require you to make this request in writing to the manager of your care site.  
-
-
- **Your Right to a Paper Copy of this Notice**  
-You have a right to obtain a paper copy of this Notice. You may ask us to give you a copy of this Notice at any time. You may obtain a paper copy of this Notice at the registration desk at your next appointment.  
-
-
-#### CHANGES TO THIS NOTICE  
-
-
-We reserve the right to change this Notice. We reserve the right to make the revised or changed Notice effective for protected health information we already have as well as any protected health information we receive in the future. We will post a current copy of this Notice in our hospitals and clinics. On the first page of the Notice, in the top right corner, you will find the effective date of that Notice.  
-
-
-#### COMPLAINTS  
-
-
-If you believe your privacy rights have been violated, you may file a complaint with our Privacy Officer or the Secretary of Health and Human Services. We have provided both addresses on the last page of this Notice. To file a complaint with our Privacy Officer, please call (570) 271-7360.  
-
-
-GEISINGER HEALTH SYSTEM VALUES YOUR RIGHT TO PRIVACY. YOU WILL NOT BE PENALIZED FOR FILING A COMPLAINT.  
-
-
-#### OTHER USES OF MEDICAL INFORMATION  
-
-
-Other uses and disclosures of your protected health information not covered by the categories included in this Notice or applicable laws, rules or regulations will be made only with your written permission or authorization.  
-
-
-If you provide us with such written permission, you may revoke it at any time. If you do so, we will not use or disclose your protected health information for the purpose that was stated in your authorization.  
-
-
-We are not able to take back any uses or disclosures that we already made with your authorization.  
-
-
-We are required to retain your protected health information regarding the care and treatment that we provided to you.  
-
-
-#### Addresses
-
- **The address for our Privacy Officer is:  
-** System Privacy Office  
-MC 17-00  
-100 North Academy Avenue  
-Danville, PA 17822  
-
-
- **The address for Health Information Management Department is:**  
-Health Information Management Department  
-Medical Reports MC 13-11  
-100 North Academy Avenue  
-Danville, PA 17822  
-
-
- **The address for the Department of Health and Human Services is:**  
-The U.S. Department of Health and Human Services  
-200 Independence Avenue, S.W.  
-Washington, D.C. 20201
-
-#### Footnote
-
-*Geisinger Health System is a registered trademark. Although Geisinger Health System Foundation does not provide medical care of any type or employ physicians, it is the corporate parent of Geisinger Medical Center, Geisinger Clinic and Geisinger Wyoming Valley Medical Center, each of which is an individual corporate entity legally separate and distinct from Geisinger Health System Foundation. The below listed separate corporate entities are among those that are participating in an organized health care arrangement. The legally separate corporate parent, Geisinger Health System Foundation, is also participating in such organized health care arrangement. These separate legal entities may share protected health information with each other as necessary to carry out treatment, payment or health care operations relating to the organized health care arrangement unless otherwise limited by law, rule or regulation.
-
-Geisinger Clinic (all sites)| International Shared Services, Inc.  
----|---  
-Geisinger Medical Center| Geisinger System Services  
-Geisinger Wyoming Valley Medical Center| Geisinger Assurance Company, Ltd  
-Geisinger Community Health Services| Geisinger Medical Management Corporation  
-Marworth| Geisinger Health Plan  
-Geisinger Insurance Corporation - Risk Retention Group | Geisinger Indemnity Insurance Company  
-      | Geisinger Quality Options, Inc.  
-  
-  
-This Notice of Privacy Practices applies to all entities except Marworth, Geisinger Health Plan, Geisinger Indemnity Insurance Company, and Geisinger  Quality Options, Inc. To request the Notice of Privacy Practices for Marworth, Geisinger Health Plan, or Geisinger Indemnity Insurance Company, please contact our Privacy Officer at (570) 271-7360.
-
-Unless we provide you with a different Notice of Privacy Practices and except as provided above, this Notice of Privacy Practices will apply to all entities that we may purchase or affiliate with in the future.  
-
+We reserve the right to change, modify, add or remove portions of this Privacy Policy at any time and without prior notice. Please check the Site regularly for updates to this Privacy Policy.
