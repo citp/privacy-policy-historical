@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claseek.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614034524id_/http%3A//global.claseek.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claseek.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214095735id_/http%3A//global.claseek.com/page/privacy) for the most accurate reproduction.*
 
 # Claseek™ Global - Claseek™ Global
 
