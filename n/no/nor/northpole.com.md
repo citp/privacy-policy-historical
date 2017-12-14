@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northpole.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612033832id_/http%3A//northpole.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northpole.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214090159id_/http%3A//www.northpole.com/privacy.asp) for the most accurate reproduction.*
 
 # Visit with Santa Claus at Christmas at the North Pole
 
@@ -27,6 +27,7 @@ If you have any questions about this privacy statement, the practices of this si
 
   
 Northpole Productions, LLC   
-1325 Williams Drive   
-Marietta, GA 30066   
+1300 Ridenour Blvd NW   
+Suite 210   
+Kennesaw, GA 30152   
 United States of America 
