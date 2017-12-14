@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626185914id_/http%3A//www.vax.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214205030id_/http%3A//www.vax.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # VAX Ltd Privacy Policy & Data Handling Terms
 
@@ -11,7 +11,7 @@ By placing an order on this site, you consent to the collection, use and transfe
   1. This website is controlled by Vax Limited (Registered in England No. 1341840) and the terms of use are set out in its legal notice. 
 
 Registered Office address:  
-Vax Limited, Quillgold House, Kingswood Road, Hampton Lovett, Droitwich, Worcestershire WR9 0QH
+Vax Limited, Unit 302, Pointon Way, Stonebridge Cross, Hampton Lovett, Droitwich Spa, Worcestershire, WR9 0LW, United Kingdom.
 
 
 
