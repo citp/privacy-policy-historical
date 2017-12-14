@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidworks.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628114212id_/http%3A//www.solidworks.com/sw/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidworks.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214193807id_/http%3A//www.solidworks.com/sw/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | SOLIDWORKS
 
