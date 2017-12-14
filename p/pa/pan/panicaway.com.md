@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panicaway.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613141323id_/https%3A//www.panicaway.com/word/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panicaway.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214043623id_/http%3A//www.panicaway.com/word/privacy) for the most accurate reproduction.*
 
 # Privacy – Panic Away
 
@@ -62,7 +62,7 @@ The term “personally identifiable information” means individually identifiab
 
 (1) A first and last name. (2) A home or other physical address, including street name and name of a city or town. (3) An e-mail address. (4) A telephone number. (5) A social security number. (6) Any other identifier that permits the physical or online contacting of a specific individual. (7) Information concerning a user that the Web site or online service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, if any, and a description of the categories of personal information shared. To make such a request, please send an email to Privacy@PrivacyRequest.com  and please include the phrase “California Privacy Request” in the subject line, the domain name of the Web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, if any, and a description of the categories of personal information shared. To make such a request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and please include the phrase “California Privacy Request” in the subject line, the domain name of the Web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
 
 “Cookies” and How Our Company Uses Them. A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
 
