@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aratext.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611171717id_/http%3A//aratext.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aratext.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214172743id_/http%3A//aratext.com/privacy) for the most accurate reproduction.*
 
 # Bulk SMS | Lagos | Nigeria | Send Text Messages Worldwide | Aratext.com
 
