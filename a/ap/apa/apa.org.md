@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apa.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629143646id_/http%3A//www.apa.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apa.org privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214041731id_/http%3A//www.apa.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Website Security
 
@@ -55,11 +55,15 @@ Cookies contain data about the user’s activities on the website, and can be us
 
 Cookies may be either "persistent" or "session" cookies. A persistent cookie will remain valid until its set expiration date (unless deleted by the user). A session cookie will expire at the end of the user session, when the Web browser is closed.
 
+##### Google Analytics Advertising Features APA has Implemented
+
+APA uses the certain Google Analytics Advertising Features, which contain cookies. Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. APA follows the Google Analytics policy requirements found at <https://support.google.com/analytics/answer/2700409>, which are incorporated herein by reference. The specific Google Analytics Advertising Features that APA uses include only the following: Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting, and Integrated Services that require google analytics to collect data via advertising cookies and identifiers.  APA does not use the Google remarketing features.  You can opt out of the foregoing Google Analytics Advertising Features by following the instructions at this link: <https://tools.google.com/dlpage/gaoptout/>
+
 ##### How APA uses cookies
 
 Cookies do not contain any information that personally identifies the user, but information that we store about the user may be linked by us to the information stored in and obtained from cookies.
 
-APA websites use the information we obtain from people’s use of our website through cookies for the following purposes:
+APA websites use the information we obtain from people’s use of our website through cookies (such as the Google Analytics cookie) for the following purposes:
 
   * To recognize the user’s computer when the user visits the website.
   * To track some user actions during website navigation.
@@ -67,12 +71,13 @@ APA websites use the information we obtain from people’s use of our website th
   * To analyze the use of the website.
   * To administer the website.
   * To report click-through data to our advertisers.
+  * To share website user information with our third party vendors.
 
 
 
 ##### Third-party cookies
 
-When users visit APA websites third-party cookies may be sent to their computers by APA’s advertisers or service providers.
+When users visit APA websites third-party cookies (such as Google advertising cookies) may be sent to their computers by APA’s advertisers or service providers.
 
 They may use the information obtained from these cookies:
 
@@ -175,9 +180,11 @@ We communicate with our members on a regular basis via email. For example, we ma
 
 However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communications from us, such as messages or updates from us regarding new services and products offered on the Sites or if you do not want us to share your personal information with third parties. For emails, you may opt-out by clicking on the "unsubscribe" link within the text of an email. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. If you have elected to receive notices to your mobile device via text message, you may opt-out by replying “STOP” to such mobile message. You may receive a confirmatory text message in response to your “STOP” request and you hereby consent to receipt of such confirmation.
 
+As noted above, to opt out of the Google Analytics advertising features outlined above, follow the instructions at this link: <https://tools.google.com/dlpage/gaoptout>.
+
 ## Changes in Our Privacy Policy
 
-APA reserves the right to make changes to our Privacy Policy at any time and for any reason without prior notice. Any changes to our Privacy Policy will be posted on this page so that you are always aware of our policies. We may also contact you by email with changes. Additionally, we will updated the “last updated” date below.
+APA reserves the right to make changes to our Privacy Policy at any time and for any reason without prior notice. Any changes to our Privacy Policy will be posted on this page so that you are always aware of our policies. We may also contact you by email with changes. Additionally, we will update the “last updated” date below.
 
 ## Website Security
 
@@ -199,7 +206,11 @@ Please email any problems or questions to [Customer Service](mailto:customerserv
 
 California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding the APA’s disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at [Customer Service](mailto:customerservice@apa.org).
 
-  
-Effective Date: Aug. 26, 2013
+For users of this website located in the European Union (“EU”), APA follows the Google EU User Consent Policy found at this link: <http://www.google.com/about/company/user-consent-policy.html>. By voluntarily using this website, EU users consent to APA’s data collection, sharing, and usage as described above, as well consent to APA’s storing and accessing of cookies as described above. Any EU user not consenting to such uses by of data and cookies by APA should not use this website.
 
-Last Updated: Aug. 26, 2013
+## EU User Consent
+
+For users of this website located in the European Union (“EU”), APA follows the Google EU User Consent Policy found at this link: <http://www.google.com/about/company/user-consent-policy.html>. By voluntarily using this website, EU users consent to APA’s data collection, sharing, and usage as described above, as well consent to APA’s storing and accessing of cookies as described above. Any EU user not consenting to such uses by of data and cookies by APA should not use this website.
+
+**Effective Date: Aug. 26, 2013     
+** **Last Updated: Sept. 5, 2017**
