@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the q3host.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614020046id_/http%3A//www.q3host.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the q3host.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214175724id_/http%3A//q3host.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
