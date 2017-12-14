@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genesys.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142048id_/http%3A//www.genesys.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genesys.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214064918id_/http%3A//www.genesys.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Genesys
 
@@ -7,6 +7,10 @@ At Genesys Telecommunications Laboratories, Inc. ("Genesys"), we are committed t
 ### Acceptance
 
 Genesys Telecommunications Laboratories, Inc. and its subsidiaries and affiliates ("Genesys", “we”, “us”, “our”) provide this Site subject to this Privacy Policy. By accessing and using the Site, you accept and agree to this PRIVACY POLICY. If you do not agree to this privacy policy, please do not use the Site.
+
+### Privacy Shield Framework
+
+If you are located in the European Economic Area (“EEA”) or Switzerland, Genesys and its controlled United States subsidiaries have certified to the EU-U.S. Privacy Shield and U.S.-Swiss Privacy Shield Frameworks for the transfer of Personal Information from the EEA or Switzerland to the United States, as described in our [Privacy Shield Privacy Notice](https://web.archive.org/about/legal/privacy/privacy-shield-privacy-notice). To learn more about the EU-U.S. or U.S.-Swiss Privacy Shield Framework and to view our certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).
 
 ### Information We Collect about You
 
@@ -57,9 +61,9 @@ When you provide personal information to us, we will not share that information 
 
 ### Access to Your Information
 
-We make good faith efforts to provide you with access so you can edit or update your personal information. You may have the ability to view or edit some of your personal information online. Profiles created on our sites may be kept at different locations for different services; so you may have to review and update the information in multiple locations. You may review and update this information or request deletions of any and all of your personal information at any time by contacting [legal@genesys.com](mailto:legal@genesys.com).
+We make good faith efforts to provide you with access so you can edit or update your personal information. You may have the ability to view or edit some of your personal information online. Profiles created on our sites may be kept at different locations for different services; so you may have to review and update the information in multiple locations. You may review and update this information or request deletions of any and all of your personal information at any time by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3b575e5c5a577b5c5e555e48424815585456).
 
-**Note to California Residents:** California Civil Code Section 1798.83 allows California residents to request information regarding disclosure of personal information to third parties for the third parties' direct marketing purposes. To make a request, please contact [legal@genesys.com](mailto:legal@genesys.com).
+**Note to California Residents:** California Civil Code Section 1798.83 allows California residents to request information regarding disclosure of personal information to third parties for the third parties' direct marketing purposes. To make a request, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b6dad3d1d7daf6d1d3d8d3c5cfc598d5d9db).
 
 ### Security of Your Information
 
@@ -91,9 +95,9 @@ Genesys may update and make changes to the Privacy Policy at any time. When we d
 
 ### Contact information
 
-If you have any questions about the Privacy Policy, please contact us at [legal@genesys.com](mailto:legal@genesys.com).
+If you have any questions about the Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4f232a282e230f282a212a3c363c612c2022).
 
-Last updated: April 22, 2016
+Last updated: July 25, 2017
 
 ### Corporate Headquarters
 
