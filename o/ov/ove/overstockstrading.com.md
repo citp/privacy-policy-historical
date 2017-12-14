@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overstockstrading.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219112924id_/http%3A//overstockstrading.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overstockstrading.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214181113id_/http%3A//overstockstrading.com/policy.asp) for the most accurate reproduction.*
 
 # Welcome
 
