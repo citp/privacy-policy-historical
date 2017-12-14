@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggertheme9.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608044114id_/http%3A//www.bloggertheme9.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggertheme9.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214024945id_/http%3A//www.bloggertheme9.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Bloggertheme9
 
@@ -21,4 +21,4 @@ This Web site contains links to other sites. Please be aware that we are not res
 The contents of this statement may be altered at any time, at our discretion.
 
 **Contact Information**  
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.bloggertheme9.com/p/contact.html).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.bloggertheme9.com/p/contact.html). 
