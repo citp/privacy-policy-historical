@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lilemma.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619182835id_/http%3A//lilemma.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilemma.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214222710id_/http%3A//www.lilemma.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Lil Emma : The Official Website of the Sexy Teen Nextdoor!
 
-Privacy Policy for TR Financial Resources Inc   
+Privacy Policy   
 
 
 Adults Only Service   
@@ -20,13 +20,13 @@ Your name, physical address, phone number and password are considered confidenti
 Information We Collect From You   
 
 
-During sign up we require that you provide us with certain information which may include Account Data (i.e., your name, physical address, email address, phone number, username, and password), Financial Data (i.e., credit card/billing information) along with Demographic Information. Demographic Information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history.    
+During sign up we require that you provide us with certain information which may include Account Data (i.e., your name, physical address, email address, phone number, username, and password), along with Demographic Information. Demographic Information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history.    
 
 
 How is this Information Used?   
 
 
-Financial Data will only be shared with third party processors as necessary to initiate and complete any orders placed by your account.
+Your Data will only be shared with third party processors as necessary to initiate and complete any orders placed by your account.
 
 We may use cookies and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Sites according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in. 
 
@@ -36,7 +36,7 @@ We may also share the aggregate Demographic Information with third parties for t
 You Are Responsible For Information You Provide to Third Parties   
 
 
-We process credit card transactions via industry standard encryption through third party processors, which processors only use your information for that purpose. Financial Data is considered private information and will not be shared by us with third parties except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third party. Financial or other Data provided by you to any companies or websites advertising on the Sites or in response to emails sent to you by the Sites are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third partys terms and conditions and privacy policy.    
+We process credit card transactions via industry standard encryption through third party processors, which processors only use your information for that purpose. Your Data is considered private information and will not be shared by us with third parties except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third party. Financial or other Data provided by you to any companies or websites advertising on the Sites or in response to emails sent to you by the Sites are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third partys terms and conditions and privacy policy.    
 
 
 Advertisements   
