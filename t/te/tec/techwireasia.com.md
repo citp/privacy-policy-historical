@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwireasia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121634id_/http%3A//techwireasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwireasia.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214200900id_/http%3A//techwireasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech Wire Asia
 
@@ -6,7 +6,7 @@
 
 At Tech Wire Asia we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
 
-Tech Wire Asia is a Hybrid News Limited venture. For a summary of our activities visit [www.hybridnewsgroup.com](http://www.hybridnewsgroup.com/)
+Tech Wire Asia is a Hybrid News Limited venture. For a summary of our activities visit [hybrid.co](http://www.hybrid.co/)
 
 At Hybrid News Limited, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites.
 
