@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juju.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609203042id_/http%3A//juju.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juju.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214120756id_/http%3A//www.juju.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Juju
 
