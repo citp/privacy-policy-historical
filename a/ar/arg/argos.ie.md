@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the argos.ie privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624053232id_/http%3A//www.argos.ie/static/StaticDisplay/includeName/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argos.ie privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214230629id_/http%3A//www.argos.ie/static/StaticDisplay/includeName/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Argos - www.argos.ie
 
@@ -288,7 +288,7 @@ By email: [privacy@sainsburys.co.uk](mailto:privacy@sainsburys.co.uk)
 By post: Data Protection Officer, 33 Holborn, London, EC1N 2HT 
 
 Or if your enquiry relates to Sainsbury's Bank:   
-By email: [privacy@sainsburysbank.co.uk](https://web.archive.org/web/20170624053232id_/http%3A//www.argos.ie/static/StaticDisplay/includeName/privacy@sainsburysbank.co.uk)   
+By email: [privacy@sainsburysbank.co.uk](https://web.archive.org/web/20171214230629id_/http%3A//www.argos.ie/static/StaticDisplay/includeName/privacy@sainsburysbank.co.uk)   
 By post: Data Protection Officer, Sainsbury's Bank, 3 Lochside Avenue, Edinburgh Park, Edinburgh EH12 9DJ 
 
 Or for Argos Financial Services:   
