@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kawapaper.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523144650id_/http%3A//www.kawapaper.com/policy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kawapaper.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214055251id_/http%3A//www.kawapaper.com/policy-en.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.kawapaper.com
 
@@ -9,7 +9,7 @@ If you require any more information or have any questions about our privacy poli
 At www.kawapaper.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.kawapaper.com and how it is used. 
 
 **Log Files**  
-Like many other Web sites, www.kawapaper.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, www.kawapaper.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**  
 www.kawapaper.com does not use cookies. 
