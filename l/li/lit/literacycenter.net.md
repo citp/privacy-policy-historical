@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the literacycenter.net privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613185505id_/http%3A//literacycenter.net/about_us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literacycenter.net privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214022143id_/http%3A//www.literacycenter.net/about_us/privacy-policy.php) for the most accurate reproduction.*
 
 # LiteracyCenter.Net - Contact
 
@@ -30,4 +30,4 @@ Literacy Center Education Network reserves the right to amend this Privacy Polic
 
 **Contacting the Literacy Center Education Network**
 
-If you have any questions about the use, amendment, or deletion of personal information that you have provided to us, please contact us at [privacy@literacycenter.net](mailto:privacy@literacycenter.net).
+If you have any questions about the use, amendment, or deletion of personal information that you have provided to us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0f7f7d66796e6c764f63667b6a7d6e6c766c6a617b6a7d21616a7b).
