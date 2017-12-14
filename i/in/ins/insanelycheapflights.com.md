@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the insanelycheapflights.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110419id_/http%3A//www.insanelycheapflights.com/travel/ICF/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanelycheapflights.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214035413id_/http%3A//www.insanelycheapflights.com/travel/ICF/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  * PRIVACY POLICY / YOUR PRIVACY RIGHTS
+  * Privacy Policy / Your Privacy Rights
   * Personal Information
   * How We May Collect Personal Information
-  * OTHER Information
-  * THIRD PARTY SERVICES
+  * Other Information
+  * Third Party Services
   * Third Party Advertisers
   * Security
-  * CHOICES AND ACCESS
-  * your CALIFORNIA and canadian privacy rights
-  * RETENTION PERIOD
-  * use of the Services by MINORS
-  * CROSS-BORDER TRANSFER
-  * SENSITIVE INFORMATION
-  * UPDATES TO THIS PRIVACY POLICY
-  * CONTACTING US
+  * Choices and Access
+  * Your California and Canadian Privacy Rights
+  * Retention Period
+  * Use of the Services by Minors
+  * Cross-border Transfer
+  * Sensitive Information
+  * Updates to This Privacy Policy
+  * Contacting Us
 
 
 
@@ -182,16 +182,12 @@ We may change this Privacy Policy. The "Last Updated" legend at the top of this 
 
 CONTACTING US 
 
-If you have any questions about this Privacy Policy, please contact us via email at [ tlc@onetravel.com](mailto:tlc@onetravel.com) or write to us at: 
+If you have any questions about this Privacy Policy, please contact us via email at [ feedback@insanelycheapflights.com](mailto:feedback@insanelycheapflights.com) or write to us at: 
 
-OneTravel.com 
+Insanelycheapflights c/o OneTravel  
+DBA of WK Travel, Inc.  
+1050 East Flamingo Road, Suite S-302  
+Las Vegas, NV 89119
 
-c/o WK Travel .
-
-1050 East Flamingo Road, Suite S302 
-
-Las Vegas, NV 89119 
-
-Attn: Customer Service/Privacy
-
+Attn: Customer Service/Privacy  
 Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us. 
