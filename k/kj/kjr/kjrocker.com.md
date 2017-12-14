@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kjrocker.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613192547id_/http%3A//www.kjrocker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kjrocker.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214132251id_/http%3A//www.kjrocker.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
 
 When accessing our Website, Kj Rocker F.Z.E will learn certain information about you during your visit.
 
@@ -32,7 +32,7 @@ Kj Rocker F.Z.E will not obtain personally-identifying information about you whe
 
 We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
-**  
+ **  
 A Special Note About Children**
 
 Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
@@ -51,9 +51,9 @@ For site security purposes and to ensure that this service remains available to 
 
 We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-**  
+ **  
 Contact**
 
 If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
