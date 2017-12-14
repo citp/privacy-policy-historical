@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacity.org privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527064926id_/http%3A//disclaimer.lacity.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacity.org privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214055646id_/http%3A//disclaimer.lacity.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
