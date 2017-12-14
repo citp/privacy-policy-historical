@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercuryminds.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330152719id_/http%3A//www.mercuryminds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercuryminds.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214203640id_/http%3A//www.mercuryminds.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - MercuryMinds Technologies - Mercuryminds.com
+# Privacy policy - MercuryMinds Technologies - MercuryMinds
 
 MercuryMinds Technologies Pvt Ltd has created this privacy statement in order to demonstrate our firm commitment to privacy. We respect the purpose for which our site visitors gave us information. We will not sell, rent, or loan our subscriber or customer lists to third parties for e-mail marketing and any other purposes. While we sell advertising in our e-mail publications to other companies, we never allow third parties for any other use of these subscriber lists. We will send our periodicals only to those who requested clients.
 
