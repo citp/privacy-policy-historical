@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westmonster.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630235650id_/http%3A//www.westmonster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westmonster.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214115630id_/http%3A//www.westmonster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Westmonster
 
@@ -65,7 +65,7 @@ We may also use your data, or permit selected third parties to use your data, to
 
 If you are a registered we may contact you via telephone, email and SMS with information about Westmonster Limited. If you are a new registered supporter, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please advise us by emailing admin@westmonster.com
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please advise us by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Disclosure of your information**
 
@@ -88,4 +88,4 @@ The Act gives you the right to access information held about you. Your right of 
 
 **Changes to our privacy policy**
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Contact questions, comments and requests regarding this privacy policy are welcomed and should be addressed to admin@westmonster.com
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Contact questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
