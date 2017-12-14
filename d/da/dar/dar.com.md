@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dar.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613205435id_/http%3A//dar.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dar.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214180525id_/http%3A//www.dar.com/privacypolicy) for the most accurate reproduction.*
 
 # Dar Al-Handasah - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 We may collect and process the following data about you:
 
-  * **Information you give us.** You may give us information about you by filling in forms on [our site](https://web.archive.org/web/20170613205435id_/) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for a product, participate in discussion boards or other social media functions on our site and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.
+  * **Information you give us.** You may give us information about you by filling in forms on [our site](https://web.archive.org/web/20171214180525id_/) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for a product, participate in discussion boards or other social media functions on our site and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.
   * **Information we collect about you.** With regard to each of your visits to our site we may automatically collect the following information: 
     * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
     * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
@@ -16,7 +16,7 @@ We may collect and process the following data about you:
 
 #### Cookies
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see [our cookie policy](https://web.archive.org/web/20170613205435id_/cookiepolicy).
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see [our cookie policy](https://web.archive.org/web/20171214180525id_/cookiepolicy).
 
 Uses made of the information
 
@@ -53,7 +53,7 @@ We may share your information with selected third parties including:
 We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If we, or substantially all of our assets, are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use](https://web.archive.org/web/20170613205435id_/legal) and other agreements; or to protect our rights, property, or safety, our affiliates, partners customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we, or substantially all of our assets, are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use](https://web.archive.org/web/20171214180525id_/legal) and other agreements; or to protect our rights, property, or safety, our affiliates, partners customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
