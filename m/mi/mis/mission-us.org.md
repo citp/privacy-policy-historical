@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mission-us.org privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620182501id_/http%3A//www.wnet.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mission-us.org privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214091407id_/http%3A//www.wnet.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WNET
 
