@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eircom.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191209id_/https%3A//www.eir.ie/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eircom.net privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214215259id_/https%3A//www.eir.ie/privacystatement) for the most accurate reproduction.*
 
 # eir Privacy Statement
 
@@ -15,6 +15,8 @@ Credit card details are transmitted by eir in an encrypted form to provide extr
 If you are a new Customer on or after 30th of November 2016 or if you are an existing Customer who enters into a new contract with eir on or after 30th of November 2016 please note if you allow your account to fall into arrears by not paying your bills in full and on time, information on your payment performance may be shared with other service providers of landline, broadband and mobile services through the provision of the information to a database operated by the service providers called Credit Insights.
 
 Other providers of services who also supply information on payment performance of their customers to the Credit Insights database may check this information when you apply for their services in the future to help them assess your credit worthiness. The information shared with Credit Insights includes name, address, date of birth, account details to include account history and balance owed, and will be held on the database for 6 years from the date of the notification of the arrears.
+
+Where you apply to us for post-pay services, we may make searches about you on the Credit Insights database to help us to decide whether to accept your application.
 
 ### How we collect information:
 
@@ -38,11 +40,11 @@ The eir website creates a "cookie" when you first register online. A cookie is a
 
 ### How to disable cookies:
 
-If you do not want a cookie to be created on your PC, web browsers such as Netscape and Internet Explorer provide the option to disable them. Please bear in mind that some personalised services on eir.ie, or from other non-eir websites, may not be available if you choose to disable cookies. You can find out more about cookies on [www.cookiecentral.com](http://www.cookiecentral.com/).
+If you do not want a cookie to be created on your PC, web browsers such as Netscape and Internet Explorer provide the option to disable them. Please bear in mind that some personalised services on eir.ie, or from other non-eir websites, may not be available if you choose to disable cookies. You can find out more about cookies on [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 ### Contact us:
 
-If you have any additional questions about our privacy policy or how we collect and use your personal data, please [Contact Us](http://www.eir.ie/group/contactus/).
+If you have any additional questions about our privacy policy or how we collect and use your personal data, please [Contact Us](https://www.eir.ie/group/contactus/).
 
 ### Update information:
 
