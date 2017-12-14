@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jffun.net privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509064150id_/http%3A//jffun.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jffun.net privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214185058id_/http%3A//jffun.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Just for Fun
 
