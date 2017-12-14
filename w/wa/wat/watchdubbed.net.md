@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchdubbed.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063526id_/http%3A//watchdubbed.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchdubbed.net privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214201954id_/http%3A//watchdubbed.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WatchDubbed
 
@@ -16,4 +16,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 We never collect or maintain information from those who we actually know are under 13 years of age. Such information will be deleted if we become aware that a child under 13 has provided us with personal information.
 
-Should you have any questions or concerns regarding our privacy policies, please use the contact email provided on the website to bring to our attention your concern. Contact: copyright.privacy.watchdubbed [AT] yahoo [DOT] ca
+Should you have any questions or concerns regarding our privacy policies, please use the contact email provided on the website to bring to our attention your concern. Contact: copyright.privacy [AT] watchdubbed [DOT] net
