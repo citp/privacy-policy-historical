@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074255id_/http%3A//www.jobs.ie/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214215227id_/http%3A//www.jobs.ie/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs.ie - Jobs in Ireland. Irish Jobs.
 
@@ -22,9 +22,9 @@ User Feedback and Complaints
 
 ABOUT OUR PRIVACY POLICY 
 
-Our website JOBS.IE which includes any webpage containing this domain name, including any page that is enabled for use by a mobile device or any webpage redirected from another domain name (e.g. alljobs.ie, counciljobs.ie, cvdatabase.ie, cvfinder.ie, cvsearch.ie, dentaljobs.ie, employedemployee.ie, employment.ie, floristjobs.ie, fundaccounting.ie, fundaccountingjobs.ie, golfclubjobs.ie, governmentjobs.ie, hotrecruit.ie, infojobs.ie, job.ie, jobsni.ie, locumjobs.ie, lotsofjobs.ie, lovelyjobs.ie, monsterjobs.ie, mortgagejobs.ie, perfectjobs.ie, salary.ie, sweetjobs.ie, unemployment.ie, wages.ie, okrecruit.com) (the **“Website”** ) and the services provided on the Website (for a more complete description of the services see our [Terms and Conditions](http://www.jobs.ie/TermsOfUse.html) ) (the “ **Jobs.ie Service** ”) are operated by Jobs.ie Ltd., First Floor, Malt House, South Block, Grand Canal Quay, Dublin 2, Ireland (" **we** ", “ **us** ” and “ **our** ”). The Website and the Jobs.ie Service help people find, advertise, apply for or express interest in vacancies, and provide employment, consultant or contractor related information. 
+Our website JOBS.IE which includes any webpage containing this domain name, including any page that is enabled for use by a mobile device or any webpage redirected from another domain name (e.g. alljobs.ie, counciljobs.ie, cvdatabase.ie, cvfinder.ie, cvsearch.ie, dentaljobs.ie, employedemployee.ie, employment.ie, floristjobs.ie, fundaccounting.ie, fundaccountingjobs.ie, golfclubjobs.ie, governmentjobs.ie, hotrecruit.ie, infojobs.ie, job.ie, jobsni.ie, locumjobs.ie, lotsofjobs.ie, lovelyjobs.ie, monsterjobs.ie, mortgagejobs.ie, perfectjobs.ie, salary.ie, sweetjobs.ie, unemployment.ie, wages.ie, okrecruit.com) (the **“Website”** ) and the services provided on the Website (for a more complete description of the services see our [Terms and Conditions](https://www.jobs.ie/TermsOfUse.html) ) (the “ **Jobs.ie Service** ”) are operated by Jobs.ie Ltd., First Floor, Malt House, South Block, Grand Canal Quay, Dublin 2, Ireland (" **we** ", “ **us** ” and “ **our** ”). The Website and the Jobs.ie Service help people find, advertise, apply for or express interest in vacancies, and provide employment, consultant or contractor related information. 
 
-This policy, our [Terms and Conditions](http://www.jobs.ie/TermsOfUse.html) and any other documents referred to in either of them set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. If you are a Customer (i.e. a recruiter) then the Jobs.ie Customer Terms also form part of your agreement with us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+This policy, our [Terms and Conditions](https://www.jobs.ie/TermsOfUse.html) and any other documents referred to in either of them set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. If you are a Customer (i.e. a recruiter) then the Jobs.ie Customer Terms also form part of your agreement with us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
 **_Return to top_**
 
@@ -80,7 +80,7 @@ If you provide personal information to us you understand and agree that we may d
     * if you have indicated at registration, or at any time during your time as a user of the Website, that you are happy to receive information or promotions from selected third parties about goods and services which may be of interest to you, you consent to us sending you such offers or information. You may opt out of receiving such offers or change your preferences at any time by accessing the “Email notifications” tab on the "Your Account" page of the Website or alternatively, if you have problems doing this, you can [contact us](mailto:info@jobs.ie);
     * any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries;
     * to the prospective seller or buyer of any business or assets related to the Website or all or part of Jobs.ie Limited;
-    * to a third party if we are under a duty to disclose or share your personal data with that third party in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](http://www.jobs.ie/TermsOfUse.html) and other agreements, or to protect the rights, property, or safety of Jobs.ie Limited, our customers, or others. This includes exchanging information with third parties for the purposes of fraud protection and credit risk reduction.
+    * to a third party if we are under a duty to disclose or share your personal data with that third party in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](https://www.jobs.ie/TermsOfUse.html) and other agreements, or to protect the rights, property, or safety of Jobs.ie Limited, our customers, or others. This includes exchanging information with third parties for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -134,7 +134,7 @@ For the same reason, we may obtain information about your general internet usage
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Website.
 
-For information on how to control your cookies go to [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+For information on how to control your cookies go to [www.allaboutcookies.org](https://www.allaboutcookies.org/). 
 
 **_Return to top_**
 
