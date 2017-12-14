@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drtuberonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074718id_/http%3A//drtuberonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drtuberonline.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214134834id_/http%3A//drtuberonline.com/privacy) for the most accurate reproduction.*
 
-# Live Sexcams: XXX Adult Shows, Free Porn Chat - DrTuber Free HD Live Sex Cams
+# Live Sexcams: XXX Adult Shows - Free Porn Chat - DrTuber Free HD Live Sex Cams
 
 ## LAST REVISION: SEPTEMBER 19, 2013
 
