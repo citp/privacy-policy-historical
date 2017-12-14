@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerpyx.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612075733id_/http%3A//www.powerpyx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerpyx.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214234639id_/http%3A//www.powerpyx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ Cookies and Web Beacons
 We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features.
 
 Leaving Comments  
-When leaving a comment below a post your IP (internet protocol) address will be stored on our server. Furthermore, you must enter an email address to leave a comment. A log file with the email address you entered will be stored on our server and can only be seen by the admin. This is done strictly for spam prevention purposes. If you would like one of your comments removed please contact mail [at] powerpyx.com with the email address you used for submitting your comment.
+When leaving a comment below a post your IP (internet protocol) address will be stored on our server. Furthermore, you must enter an email address to leave a comment. A log file with the email address you entered will be stored on our server and can only be seen by the admin and moderation team. This is done strictly for spam prevention purposes. If you would like one of your comments removed please contact mail [at] powerpyx.com with the email address you used for submitting your comment.
 
 Contact Form Submissions  
 When submitting a message through our contact form you must enter a valid email address. We will use this info to reply to you. A log file with your IP (internet protocol) address will also be created automatically.
@@ -22,6 +22,8 @@ We use third party advertisements on PowerPyx.com to support our site.  Some of
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into accounts.
 
+Furthermore, we are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  **mail [at] powerpyx.com**.
 
-_Last update: November 22, 2016._
+_Last update: October 21, 2017._
