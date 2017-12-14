@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rare.us privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625130440id_/http%3A//rare.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rare.us privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214023551id_/http%3A//rare.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rare
 
