@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypertracker.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613060806id_/http%3A//www.hypertracker.com/web/ModMain/DisplayPrivatePolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypertracker.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214022255id_/http%3A//www.hypertracker.com/web/ModMain/DisplayPrivatePolicy) for the most accurate reproduction.*
 
 # HyperTracker.com
 
