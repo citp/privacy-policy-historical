@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopsafe.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219023032id_/http%3A//www.shopsafe.com.au/customer_service/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopsafe.com.au privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214202128id_/http%3A//www.shopsafe.com.au/customer_service/privacy.htm) for the most accurate reproduction.*
 
 # ShopSafe Privacy Policy
 
