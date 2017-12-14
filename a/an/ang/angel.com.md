@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142048id_/http%3A//www.genesys.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angel.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214064918id_/http%3A//www.genesys.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Genesys
 
@@ -7,6 +7,10 @@ At Genesys Telecommunications Laboratories, Inc. ("Genesys"), we are committed t
 ### Acceptance
 
 Genesys Telecommunications Laboratories, Inc. and its subsidiaries and affiliates ("Genesys", “we”, “us”, “our”) provide this Site subject to this Privacy Policy. By accessing and using the Site, you accept and agree to this PRIVACY POLICY. If you do not agree to this privacy policy, please do not use the Site.
+
+### Privacy Shield Framework
+
+If you are located in the European Economic Area (“EEA”) or Switzerland, Genesys and its controlled United States subsidiaries have certified to the EU-U.S. Privacy Shield and U.S.-Swiss Privacy Shield Frameworks for the transfer of Personal Information from the EEA or Switzerland to the United States, as described in our [Privacy Shield Privacy Notice](https://web.archive.org/about/legal/privacy/privacy-shield-privacy-notice). To learn more about the EU-U.S. or U.S.-Swiss Privacy Shield Framework and to view our certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).
 
 ### Information We Collect about You
 
@@ -93,7 +97,7 @@ Genesys may update and make changes to the Privacy Policy at any time. When we d
 
 If you have any questions about the Privacy Policy, please contact us at [legal@genesys.com](mailto:legal@genesys.com).
 
-Last updated: April 22, 2016
+Last updated: July 25, 2017
 
 ### Corporate Headquarters
 
