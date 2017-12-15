@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youshare.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614095334id_/http%3A//www.epicfail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youshare.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215114755id_/http%3A//www.epicfail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - EPIC FAIL .COM : #1 Source for Epic Fail and Fail Pictures, Fail Videos, and Fail Stories
 
@@ -6,7 +6,7 @@ EPIC FAILTM
 
 PRIVACY POLICY
 
-Combo Ventures, LLC (“Combo Ventures” or “Company”) considers the privacy of the users of [http://www.epicfail.com](http://www.epicfail.com/) (the “Website”) to be of utmost importance and works to protect it. Combo Ventures recognizes that you may be concerned about Combo Ventures’ collection, use, and disclosure of the personally identifiable information (“Personal Information”) that is collected when you use the Website and the services offered on the Website (the “Services”). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website and the Services you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at comboventures@gmail.com
+Combo Ventures, LLC (“Combo Ventures” or “Company”) considers the privacy of the users of [http://www.epicfail.com](http://www.epicfail.com/) (the “Website”) to be of utmost importance and works to protect it. Combo Ventures recognizes that you may be concerned about Combo Ventures’ collection, use, and disclosure of the personally identifiable information (“Personal Information”) that is collected when you use the Website and the services offered on the Website (the “Services”). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website and the Services you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Combo Ventures collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the Website and the Services. Combo Ventures also collects other profile data including but not limited to: political influences, gender, age, and occupation in order to assist users in properly utilizing the Services.
 
@@ -20,7 +20,7 @@ From time to time, Combo Ventures or a partner, may sponsor a promotion, sweepst
 
 COMMUNICATIONS TO NON-USERS
 
-Website users can invite family, friends or acquaintances to join the Services by sending invitation emails via our automated invitation system, including, but not limited to, using RSS Feeds. Combo Ventures stores the email addresses that members provide so that the respondents may be added to the user’s list of the user sending the invitations. Recipients of invitations from the Website may contact Combo Ventures to request the removal of their information from our database. You may prevent Combo Ventures email invitations and other messages from being sent to any email address you control by sending a single email requesting such invitations and messages to be blocked to mailthefail@gmail.com. Please note that the email must come from the account you wish to block.
+Website users can invite family, friends or acquaintances to join the Services by sending invitation emails via our automated invitation system, including, but not limited to, using RSS Feeds. Combo Ventures stores the email addresses that members provide so that the respondents may be added to the user’s list of the user sending the invitations. Recipients of invitations from the Website may contact Combo Ventures to request the removal of their information from our database. You may prevent Combo Ventures email invitations and other messages from being sent to any email address you control by sending a single email requesting such invitations and messages to be blocked to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please note that the email must come from the account you wish to block.
 
 USE OF COOKIES
 
@@ -40,7 +40,7 @@ Ads appearing on this Website may be delivered to users by Combo Ventures or one
 
 SECURITY
 
-Combo Ventures user accounts are secured by user-created passwords. Combo Ventures takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to only those individuals who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on Combo Ventures, please contact us at mailthefail@gmail.com.
+Combo Ventures user accounts are secured by user-created passwords. Combo Ventures takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to only those individuals who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on Combo Ventures, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 SHARING AND DISCLOSURE OF COLLECTED INFORMATION
 
@@ -56,13 +56,13 @@ We do not collect or solicit information from, approve applications for, or main
 
 CHANGES
 
-If you would like to change, update, or delete your personal information at any time, please send us an email to mailthefail@gmail.com
+If you would like to change, update, or delete your personal information at any time, please send us an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ********
 
 COMMUNICATIONS
 
-We may send you messages and updates about Combo Ventures, our Services, affiliates, promotions, etc. If you prefer not to receive non-transaction information, please send us an email at mailthefail@gmail.com
+We may send you messages and updates about Combo Ventures, our Services, affiliates, promotions, etc. If you prefer not to receive non-transaction information, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 All contents of the Services and any other service provided hereunder are © 2012 Combo Ventures, LLC or its licensors. Photographs and illustrations are copyrighted by their respective owners, as noted in the credits.
 
