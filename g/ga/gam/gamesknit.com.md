@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesknit.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080857id_/http%3A//www.gamesknit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesknit.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215150559id_/http%3A//www.gamesknit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GamesKnit
 
