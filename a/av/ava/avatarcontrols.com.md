@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the avatarcontrols.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610075908id_/http%3A//avatarcontrols.com/index.php%3Fac%3Darticle%26at%3Dlist%26tid%3D70) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avatarcontrols.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215085223id_/http%3A//avatarcontrols.com/index.php%3Fac%3Darticle%26at%3Dlist%26tid%3D70) for the most accurate reproduction.*
 
-# Privacy Policy-Privacy Policy-Avatar Controls | Smart Home Security and Automation Solution Provider | Home Video Surveillance | Avatar VapeNut | SmartSafe | Smarthome Kit | Smart Camera | Home Automation | OEM/ODM
+# Privacy Policy-Privacy Policy-Alexa enabled device,smart voice product and smart home plug-Avatar Controls
 
 **Overview**
 
-Avatar Controls is aware of the need to address Internet privacy issues and we believe you should be aware of how we intend to treat any information about you that we might receive on the Internet as a result of your visit to the Site.
+Avatarcontrols is aware of the need to address Internet privacy issues and we believe you should be aware of how we intend to treat any information about you that we might receive on the Internet as a result of your visit to the Site.
 
-**Information About Avatar Controls On-Line Visitors**
+**Information About Avatarcontrols On-Line Visitors**
 
-You can visit Avatar Controls on the Site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors.
+You can visit Avatarcontrols on the Site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors.
 
 In general, we gather information about users of the Site collectively in order to determine, for example, which areas users access more frequently and which materials users access the most.
 
@@ -26,10 +26,10 @@ Many sites use a technology called "cookies," where a website sends an element o
 
 **Website Links**
 
-Avatar Controls's Site may contain links to other websites such as Avatar Controls distributors and sales representatives.
+Avatarcontrols's Site may contain links to other websites such as Avatarcontrols distributors and sales representatives.
 
-While Avatar Controls tries to link only to sites that share its high standards and respect for privacy, Avatar Controls cannot take responsibility for the content or the privacy practices employed by other sites.
+While Avatarcontrols tries to link only to sites that share its high standards and respect for privacy, Avatarcontrols cannot take responsibility for the content or the privacy practices employed by other sites.
 
 **Changes**
 
-If at any time Avatar Controls changes its privacy commitment, Avatar Controls will post those changes here so that you will know what information Avatar Controls gathers and how Avatar Controls might use that information.
+If at any time Avatarcontrols changes its privacy commitment, Avatarcontrols will post those changes here so that you will know what information Avatarcontrols gathers and how Avatarcontrols might use that information.
