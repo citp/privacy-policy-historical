@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615201819id_/https%3A//www.ielts.org/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215201050id_/https%3A//www.ielts.org/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -36,11 +36,11 @@ In the case of individuals who have completed an assessment service provided by,
 **We collect your Personal information to allow us to:**
 
   * share the relevant information from your IELTS application or test with educational institutions, IELTS test centres, governments (including visa processing authorities), or professional bodies and commercial organisations that recognise IELTS scores;
-  * forward any enquiries you have to the other joint owners of the IELTS test (The British Council, IDP Education and Cambridge English Language Assessment) in accordance with your expressed preference (e.g. when you make a general enquiry about IELTS or about sitting an IELTS test);
-  * share any relevant information from your IELTS application or test with the other joint owners of the IELTS test (The British Council, IDP Education and Cambridge English Language Assessment) for purposes such as administering the IELTS test, reviewing IELTS test results for statistical and fraud detection purposes, or accommodating changes in your preference as to test centre location;
+  * forward any enquiries you have to the other joint owners of the IELTS test (The British Council, IDP Education and Cambridge Assessment English) in accordance with your expressed preference (e.g. when you make a general enquiry about IELTS or about sitting an IELTS test);
+  * share any relevant information from your IELTS application or test with the other joint owners of the IELTS test (The British Council, IDP Education and Cambridge Assessment English) for purposes such as administering the IELTS test, reviewing IELTS test results for statistical and fraud detection purposes, or accommodating changes in your preference as to test centre location;
   * share the relevant information from your IELTS application or test with regulatory authorities for verification purposes, to protect the IELTS test and its stakeholders or where legally required;
   * inform you of and provide you with information on the services we provide (including events and opportunities to participate in projects/programs);
-  * use your information in an anonymous form, for informational, research, statistical and training purposes for the development of Cambridge English Language Assessment examinations;
+  * use your information in an anonymous form, for informational, research, statistical and training purposes for the development of Cambridge Assessment English examinations;
   * manage our internal business operations; and
   * respond to your questions.
 
@@ -53,7 +53,7 @@ In the case of individuals who have completed an assessment service provided by,
 
   * The British Council’s is found at: <http://www.britishcouncil.org/privacy-cookies/data-protection>
   * IDP Education and IELTS Australia’s is found at: <https://www.idp.com/global/footerlinks/privacypolicy>
-  * Cambridge English Language Assessment’s is found at: <http://www.cambridgeenglish.org/footer/data-protection>
+  * Cambridge Assessment English’s is found at: <http://www.cambridgeenglish.org/footer/data-protection>
 
 
 
@@ -61,7 +61,7 @@ In the case of individuals who have completed an assessment service provided by,
 
   1. APP means the Australian Privacy Principles in Schedule 1 of the Privacy Act.
   2. IELTS refers to the International English Language Testing System.
-  3. IELTS Owners refers to The British Council, IDP Education (through its subsidiary IELTS Australia Pty Ltd) and Cambridge English Language Assessment who together own the IELTS test. The British Council and Cambridge English Language Assessment are United Kingdom based entities. IDP Education is an Australian based entity.
+  3. IELTS Owners refers to The British Council, IDP Education (through its subsidiary IELTS Australia Pty Ltd) and Cambridge Assessment English who together own the IELTS test. The British Council and Cambridge Assessment English are United Kingdom based entities. IDP Education is an Australian based entity.
   4. IDP Education refers to IDP Education Limited (ACN 117 676 463). IELTS Australia refers to IELTS Australia Pty Ltd (ACN 008 664 766) which is a subsidiary of IDP Education.
   5. Personal Information means information or an opinion [CS1] [SG2] about an identified individual, or an individual who is reasonably identifiable, whether the information or opinion [CS3] is true or not, and whether the information or opinion is recorded in a material form or not.
   6. Privacy Act means the Australian Privacy Act 1988 (Cth).
