@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chalo.pk privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616012029id_/http%3A//www.chalo.pk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalo.pk privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215053251id_/http%3A//www.chalo.pk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CHALO.PK
 
@@ -18,13 +18,13 @@ When you enter Chalo, we collect your browser type and IP address. This informat
 
 You post User Content (as defined in the Chalo Terms of Use) on the Site at your own risk. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
 
-Any improper collection or misuse of information provided on Chalo is a violation of the Chalo Terms of Service and should be reported to privacy@chalo.pk.
+Any improper collection or misuse of information provided on Chalo is a violation of the Chalo Terms of Service and should be reported to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-If you choose to use our invitation service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Chalo stores this information to send this one-time email, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at privacy@chalo.pk to request that we remove this information from our database.
+If you choose to use our invitation service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Chalo stores this information to send this one-time email, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to request that we remove this information from our database.
 
 Children Under Age 13
 
-Chalo does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for Chalo or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on Chalo. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at privacy@chalo.pk.
+Chalo does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for Chalo or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on Chalo. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Children Between the Ages of 13 and 18
 
@@ -56,4 +56,4 @@ Your use of Chalo, and any disputes arising from it, is subject to this Privacy 
 
 Contacting the Web Site
 
-If you have any questions about this privacy policy, please contact us at privacy@chalo.pk.
+If you have any questions about this privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
