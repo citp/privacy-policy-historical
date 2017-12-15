@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoisentry.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505152242id_/http%3A//www.whoisentry.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoisentry.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215230317id_/http%3A//www.whoisentry.com/privacy.html) for the most accurate reproduction.*
 
 # Whois entry - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This is the web site of WhoisEntry.com.
 
-We can be reached via e-mail at [contact@whoisentry.com](mailto:contact@whoisentry.com "Contact email")
+We can be reached via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#45262a2b3124263105322d2a2c36202b31373c6b262a28 "Contact email")
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
