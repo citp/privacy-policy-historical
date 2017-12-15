@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the screengeek.net privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621221451id_/http%3A//www.screengeek.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screengeek.net privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215134219id_/http%3A//www.screengeek.net/privacy) for the most accurate reproduction.*
 
-# Privacy - ScreenGeek.net
+# Privacy - ScreenGeek
 
 ScreenGeek.net maintains a firm commitment to you, our readers, privacy. 
 
-The following policy dictates our information gathering and dissemination practices for this website, ScreenGeek.net. Please be sure to continue to check this page occasionally, as we will continue to update this policy as is needed. If you do not agree with our policies and practices, your choice is not to use ScreenGeek.net. By accessing or using ScreenGeek.net, you agree to this privacy policy. We welcome any and all questions, comments, and suggestions. Please contact us [here](https://web.archive.org/web/20170621221451id_/http://www.screengeek.net/privacy/frank@screengeek.net) with any questions. 
+The following policy dictates our information gathering and dissemination practices for this website, ScreenGeek.net. Please be sure to continue to check this page occasionally, as we will continue to update this policy as is needed. If you do not agree with our policies and practices, your choice is not to use ScreenGeek.net. By accessing or using ScreenGeek.net, you agree to this privacy policy. We welcome any and all questions, comments, and suggestions. Please contact us [here](https://web.archive.org/web/20171215134219id_/http://www.screengeek.net/privacy/frank@screengeek.net) with any questions. 
 
 This policy applies to information we collect on ScreenGeek.Net and via e-mail and other electronic messages between you and ScreenGeek.net. It does not apply to information collected by any third party (including our affiliates), including through any application or content (including advertising) that may link to or be accessible from the Website.
 
