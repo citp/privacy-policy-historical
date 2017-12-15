@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jencorp.net privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129201756id_/http%3A//www.jencorp.net/en/etc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jencorp.net privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215080629id_/http%3A//www.jencorp.net/en/etc/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Auction & Search | JEN
 
