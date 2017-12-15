@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalsos.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615200618id_/https%3A//www.internationalsos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalsos.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215195856id_/https%3A//www.internationalsos.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
@@ -181,8 +181,5 @@ If you receive services from International SOS through an  employer or through 
 
 ### 12\. Changes to this Statement
 
-International SOS reserves the right to change this policy at any time by notifying users through its website of the existence of a new privacy statement prior to the change becoming effective. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights. We encourage you to periodically review this page for the latest information on our privacy practices.
+International SOS reserves the right to change this policy at any time by notifying users through its website of the existence of a new privacy statement prior to the change becoming effective. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights. We encourage you to periodically review this page for the latest information on our privacy practices.  
 
- Updated: 10 March 2017
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=b87ce291-dfc9-42f6-b864-143a9c337b53)
