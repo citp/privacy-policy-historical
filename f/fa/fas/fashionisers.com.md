@@ -1,105 +1,129 @@
-> *The following text is extracted and transformed from the fashionisers.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615191356id_/http%3A//www.fashionisers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionisers.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215113359id_/http%3A//www.fashionisers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fashionisers
 
-## **Privacy Policy and User License Agreement**
+This Privacy Policy (this “Privacy Policy”) was last modified on August 28, 2017.
 
-The Fashionisers, which is the owner of the website [www.fashionisers.com](http://fashionisers.com/) (the “Site”), takes your privacy very seriously. Therefore, make sure to read the website’s “User License Agreement” and the “Privacy Policy” before using the Site.
+Fashionisers.com (“Website”) , and its affiliated companies, knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Fashionisers.com when you use the Website, any mobile versions of the Website, any applications published by Fashionisers.com that you download from the Website or from a third-party, and other related services (the “Service”), how the information will be used and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. To the extent that any terms of the Privacy Policy conflict with the terms of an existing written (including electronic) agreement between you and the Fashionisers.com regarding the use of specific areas of the Website or specific services (collectively, the “Other Agreements”), the terms of such Other Agreements shall govern.
 
-By using the Site, you agree to be legally bound by the User License Agreement. Otherwise, if you don’t want to be bound by this User License Agreement, please do not access fashionisers.com.
+ _Information We Collect_
 
-The Fashionisers may change this User License Agreement and the Privacy Policy at any time by posting the changes made online. Please come to review the User License Agreement constantly to be aware of the changes made.
+User-Provided Information: You provide us information about yourself, such as your name and email address, when/ if you register with the Service. Also, you may provide information when you participate in sweepstakes and contests, message boards and chat rooms, leave a comment on the Website, or respond to one of our surveys (all such information and material, “User Content”). If you correspond with us by email, we may retain the content of your email messages, your email address, and our responses.
 
-###  **What Information the Site Collects**
+Cookies Information: When you visit the Website, we may or may not send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer, mobile, or other device (“Local Device Storage”) that uniquely identifies your browser or device and allows Fashionisers.com to help you log in faster and enhance your navigation through the Website. A cookie does not collect personal information about you from which your individual identity can be established. Fashionisers.com uses both session cookies and persistent cookies. A persistent cookie remains in your Local Device Storage after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser’s or Local Device Storage’s directions. A session cookie is temporary and disappears after you close your browser. You can set your web browser to refuse all cookies or to indicate when a cookie is being sent. Therefore, some features of the Service may not function properly or at all if the ability to accept all cookies is disabled. Other cookies collect information about your browsing habits in order to help us and advertisers make suggestions relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertisers. For example, we use third parties to provide you with more personalized advertisements when visiting other websites. You can change the settings on your browser or Local Device Storage to prevent cookies being stored on your Local Device Storage without your explicit consent. Your browser “help” section will normally provide details on how to manage the cookie settings.
 
-####  **Information you provide directly to us:**
+Social Networking: If you choose to access, visit and/or use any third-party social networking service(s) that may be integrated with the Service, we may receive personally identifiable information and other information about you and your computer, mobile, and other device that you have made available to those services, including information about your contacts on those services. For example, some social networking services allow you to push content from our Service to your contacts or to pull information about your contacts so you can connect with them on or through our Service. Some social networking services also will facilitate your registration for our Service or enhance or personalize your experience on our Service. Your decision to use a social networking service in connection with our Service is voluntary. However, you should make sure you are comfortable with the information your third-party social networking services may make available to our Service by visiting those services’ privacy policies and/or modifying your privacy settings directly with those services. We reserve the right to use, transfer, assign, share, and provide access to all personally identifiable information and other information about you and your computer, mobile, or other device that we receive through third-party social networking services in the same ways described in this Privacy Policy as all of your other information.
 
-There is no need to provide any personal information directly to us before using the Site. However, when you use certain Site functions, such as you leave a comment, subscribe for our newsletter, access certain content and features, or directly contact the Site, you may be required to provide some personal information, including:
+Log File Information: Log file information is automatically reported by your browser each time you access a web page. When you register with or view our Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed and other such information.
 
-• contact information, such as name, surname, email address, postal address, country, gender, and phone number;
+Information Storage: Your information may be transferred to, and maintained on, servers and databases located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as your jurisdiction. Be advised that Fashionisers.com may transfer your information to and from any state, province, country or other governmental jurisdiction, and process it in the United States or elsewhere. Your consent to the Fashionisers.com’s Privacy Policy followed by your submission of information represents your agreement to any such transfer.
 
-• username and password;
+Clear Gifs Information: When you use the Service, we may employ clear gifs (“Web Beacons”), which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Fashionisers.com account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing and make us better for our users.
 
-• information posted on the community discussions;
+New Technology: As we adopt additional technology, we may also gather information through other means and there may be other technologies present that behave in a similar way, but are protected by confidentiality.
 
-• correspondence you send directly to us.
+ _How We Use Your Information_
 
-####  **Tracking information automatically collected as you navigate through the Site:**
+We use the information you submit (including any personal information) to operate, maintain, and provide to you the features and functionality of the Service or otherwise in connection with our business in relation to the Service. By using the Service you consent to this use and any other use of information identified in this Privacy Policy. For example, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.
 
-We use Google Analytics to collect information about you and your behavior on the Site to diagnose certain problems with the servers, to analyze trends and to improve our Service. When you visit the Site, certain information that may be automatically collected from you includes:
+Any information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post on message boards, in chat areas, or leave a comment to an article) becomes available to the public. You should be aware that even if you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
 
-• your computer’s, mobile’s or other device’s Internet Protocol (IP) address;
+By providing Fashionisers.com your email address, you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service or special offers. If you do not want to receive such email messages, you may opt out by sending an email message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with the word “Opt Out Email – Fashionisers.com” in the subject field. Opting out may prevent you from receiving email messages regarding updates, improvements or offers.
 
-• your geographical location, the date and time you visited our website, as well as time of visits;
+Fashionisers.com may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security and personalizing advertisements and promotions.
 
-• your browser type and operating system;
+Fashionisers.com reserves the right, but has no obligation, to monitor the User Content you post on the Website. Fashionisers.com has the right to remove any such User Content for any reason or no reason, including, without limitation, if in its sole opinion, such User Content violates, or may violate, any applicable law or our Terms of Use, which are incorporated herein by reference, or to protect or defend Fashionisers.com’s rights or property or those of any third party. Fashionisers.com also reserves the right to remove User Content upon the request of any third party.
 
-• the web pages and types of advertisement you were browsing while on the Site;
+We use cookies, clear gifs and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of the Service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web Fashionisers.com or ISP; and (f) help you efficiently access your information after you sign in to the Website.
 
-• activities carried out while browsing community discussions;
+If you do not wish to receive future commercial messages from us, simply follow the unsubscribe instructions contained within the message you receive. Note that you may continue to receive certain communications from us, such as transactional or relationship messages, and/or messages about your account profile.
 
-• information collected through HTML cookies, Flash cookies, and similar technologies.
+We may also allow access to our database by third parties that provide us with services, such as technical maintenance, market research, community and forums management, auction services, and shopping, personal/job search and other classified ads functionality, but only for the purpose of and to the extent necessary to provide those services. If you choose to purchase merchandise, products and/or services on or through features on the Service, we may forward your information to third parties for services such as credit card or other payment processing, order fulfillment, credit pre-authorization, and address verification. There are also times when you provide information about yourself to us in areas of the Service that may be managed or participated in by third parties. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While we may seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, we do not bear any responsibility for any actions or policies of third parties.
 
-####  **Information collected from other sources:**
+We reserve the right to access, use, and share with others your personally identifiable information for purposes of health, safety and other matters in the public interest.
 
-We may also access information about you from third-party sources and platforms, such as social networking sites (Facebook or Twitter), databases, online marketing firms and targeting firms.
+In addition, we reserve the right to use the information we collect about your computer, mobile or other device (including its geographic location), which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, analyze trends, track users’ movements around the Service, and to otherwise administer the Service. Geographic location information about you and/or your computer, mobile, or other device may specifically be used to show you content and sponsored messaging based on geographic location.
 
-###  **How we use the collected information**
+We reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any lawful business purpose, such as analyzing usage trends and seeking compatible advertisers, sponsors, clients, and customers.
 
-Fashionisers.com will never sell, share or rent your personal information to any third parties. The personal information collected from you may be used for the following purposes:
+In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by us, our parent or any subsidiary or affiliated entity are sold, assigned, transferred, or acquired by another company, the information from and/or about our Service users may be among the transferred assets.
 
-• Email communications:
+We reserve the right to identify you from information you provide to us and/or to merge or co-mingle anonymous or non-personally identifiable data about you, your offline and online behavior, and/or your computer, mobile or other device (including its geographic location), with the information you provide to use and/or other personally identifiable data for any lawful business purpose.
 
-We may use your e-mail address to reply to your personal messages or for promotional messages, editorial updates, information about your account, or changes made to the Site.
+ _How We Share Your Information_
 
-• Advertising:
+Personally Identifiable Information: Except as described in this Privacy Policy, Fashionisers.com will not rent or sell your personally identifiable information to others.
 
-There are various ad types displayed on the Site and we may use demographic data or information about your interests or online activities to display targeted advertising for certain products or services that you are interested in.
+Fashionisers.com may share your personally identifiable information or information about your computer, mobile or other device with our affiliates and third parties solely for the purpose of providing services to you. We may store personal information in locations outside the direct control of Fashionisers.com (for example, on servers or databases co-located with hosting providers).
 
-• Statistical Analysis:
+As we develop our business, we may buy or sell assets or business offerings. Customer, email and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers or dissolution.
 
-We may use the data that we collect to analyze the Site’s functionality, how it is used, when, where and by whom in order to increase our Site’s functionality and display better performance.
+Except as otherwise described in this Privacy Policy, Fashionisers.com will not disclose personal information to any third party unless required to do so by law, regulation or subpoena or if we believe that such action is necessary to: (a) conform to the law, comply with legal process served on us or our affiliates or investigate, prevent or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies or to protect the security or integrity of our Website; and (c) to exercise or protect the rights, property or personal safety of Fashionisers.com, our users or others. Please note we may not provide notice prior to disclosure in such cases.
 
-• Enforcement
+Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Fashionisers.com services.
 
-We may use the information we collect to prevent any illegal activities and protect our rights and the rights of other users.
+Fashionisers.com allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
 
-###  **Third Party Websites and Advertising**
+Fashionisers.com does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Fashionisers.com to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
 
-On Fashionisers.com you may find third party websites, advertising and other content that link to the services or products of our partners, suppliers, sponsors, advertisers and other parties. Some of the ads may be served by Google.
+You should consult the respective privacy policies of these third-party ad servers or ad networks. This Privacy Policy does not apply to, and we cannot control the activities of, such advertisers.
 
-The Site doesn’t control the content or links published and isn’t responsible for the practices employed by the websites linked to or from the Site. These sites and services may have their own privacy policies and user agreements. Browsing their websites or having any interactions with their products and services is subject to their own terms and conditions.
+ _How We Protect Your Information_
 
-The ads appearing on the Site may be delivered by advertising partners, who may set cookies. With the help of these cookies they can recognize your computer each time they send you an online advertisement. This privacy policy doesn’t cover the use of cookies by third party adversities.
+Fashionisers.com uses reasonable technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Fashionisers.com and you do so at your own risk. Once we receive your transmission of information, Fashionisers.com makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-###  **Cookie Consent Policy**
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Fashionisers.com, at all times.
 
-• We use cookies to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of the Site with our social media, advertising and analytics partners.
+ _Compromise of Personal Information_
 
-• Third party vendors, including Google, and other ad networks use cookies to serve ads based on a user’s prior visits to the Site.
+In the event that personal information is compromised as a result of a breach of security, Fashionisers.com will take commercially reasonable measures to promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy or as otherwise required by applicable law.
 
-• Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to the Site and/or other sites on the Internet.
+ _Your Choices About Your Personal Information_
 
-• Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). You can also check <http://www.aboutads.info/> on how to opt out of third-party vendor’s use of cookies for interest-based advertising.
+You may, of course, decline to submit personally identifiable information to Fashionisers.com, in which case Fashionisers.com may not be able to provide certain services to you.
 
-###  **Children under 13**
+ _Children’s Privacy_
 
-The Site isn’t intended for children, especially those under age 13. We do not knowingly collect information from children under 13. If we learn that we have collected any personal information from children under 13, we will immediately delete that information from our database.
+Protecting the privacy of young children is especially important. For that reason, Fashionisers.com does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number or email address. No one under age 13 is allowed to provide any personal information to Fashionisers.com. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-###  **Disclaimer**
+ _Third Parties_
 
-We do our best to provide you with the most accurate information on the Internet. However, we are NOT LIABLE for any losses or damages that may occur through your use of the information, services or products through the Site or any of the affiliated websites.
+Fashionisers.com expects its partners, advertisers, and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates, and other content providers accessible through our Website, may have their own privacy and data collection policies and practices.
 
-Fashionisers.com cannot make any representation or warranty about the information collected on the Site. Postings on this site may have some errors and inaccurate information. However, the information is selected maximum carefully.
+You should also be aware that if you voluntarily disclose information (including personally identifiable information) on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and outside the scope of this Privacy Policy.
 
-All the images that appear on the Site are copyrighted by their respective owners. We may link to other sites or mention the copyright owners of the images; however, we take no control or responsibility for the source.
+Fashionisers.com is not responsible for the practices employed by websites linked to or from the Website nor the information or content contained therein. It follows that the Fashionisers.com accepts no responsibility for events experienced by you if you visit a third party site by clicking through from the Website. Please remember that when you use a link to go from the Website to another website, this Privacy Policy is no longer in effect. User browsing and interaction on any other website, including those that have a link on our Website, is subject to that other website’s own rules and policies. Please read over those rules and policies before proceeding.
 
-Fashionisers.com claims no credit for images unless noted. If you own the rights to any image that appears on the Site and do not wish them to appear on Fashionisers.com, please, [contact us](http://fashionisers.com/contact-us/), and they will be immediately removed.
+ _Third Party Advertisements and Technologies:_
 
-###  **Warning**
+We use third-party advertising companies to serve advertisements when you visit the Website as is explained in detail in the Terms of Use. In the course of advertisements being served to you, a unique third-party cookie or other advertising technology may be placed on your browser. This advertising technology uses information derived from your visits to the Website to target advertising within this Website or on other websites. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you (sometimes called “online behavioral advertising” or “interest-based advertising” or “OBA”). We may also use web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons would enable us to recognize a browser’s cookie when a browser visits this Website, to learn which banner ads bring users to our Website and to deliver more relevant advertising.
 
-It is our goal to provide you with high quality, original content and we don’t spare efforts for our postings. Please note, we don’t allow using any information from Fashionisers.com without making any notable changes with the content of the article(s). Be sure to add a link to the original source from your website when using our articles as sources for your postings.
+In addition, our advertisers or other third parties may use other third-party advertising technology to target advertising on the Website and other websites. We do not control the data collection and use practices of these other third parties. You should read the privacy notices of the websites you visit in order to determine what companies may be collecting information on those websites.
 
-###  **Questions and Suggestions**
+ _OBA Opt Out_
 
-Should you have any questions about this privacy policy, feel free to [contact us](http://fashionisers.com/contact-us/).
+If you would like to “opt-out” of being served OBA on the Website by our third-party advertising companies, click on the AdChoices icon below and select the companies whose OBA technology you would like to block on the Website.
+
+You may also “opt-out” of other third party programs using OBA technology on your web browser: (a) for users targeted in the United States by visiting <http://www.aboutads.info/choices>; (b) for users targeted in Europe by visiting [http://www.youronlinechoices.com](http://www.youronlinechoices.com/), selecting the country where you are located; (c) for users targeted in Australia by visiting [http://youronlinechoices.com.au](http://youronlinechoices.com.au/), and selecting “Your Ad Choices” or “Your Choices” as applicable, and (d) for users targeted in Canada by visiting <http://youradchoices.ca/choices>.
+
+For more information about online advertising, please visit: (a) <http://aboutads.info/consumers> regarding United States online choices; (b) [http://youronlinechoices.com](http://youronlinechoices.com/) regarding European online choices; (c) [http://youronlinechoices.com.au](http://youronlinechoices.com.au/) regarding Australian online choices; and/or (d) [http://youradchoices.ca](http://youradchoices.ca/) regarding Canadian online choices.
+
+ _Notification Procedures_
+
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice or through conspicuous posting of such notice on the Website, as determined by Fashionisers.com in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+
+ _Changes to Our Privacy Policy_
+
+We reserve the right to change this Privacy Policy at any time. Please check this page periodically for changes. Your continued use of the Website following the posting of changes to this Privacy Policy will constitute acceptance of those changes. Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.
+
+ _How to Contact Fashionisers.com_
+
+If you have any questions about this Privacy Policy, the practices of the Website, or your dealings with the Website (including your choices regarding cookies), please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or send mail to:
+
+KVD BRAND, Inc.
+
+4821 Lankershim Blvd, F-345
+
+North Hollywood, CA 91601
+
+Attn: Intellectual Property Agent
