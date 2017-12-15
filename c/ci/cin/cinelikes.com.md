@@ -1,50 +1,48 @@
-> *The following text is extracted and transformed from the cinelikes.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503161044id_/http%3A//cinelikes.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinelikes.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215065542id_/http%3A//www.cinelikes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - cinelikes
+# Privacy Policy – Cinelikes
 
-This Privacy Policy applies to Cinelikes.com
+This Privacy Policy governs the manner in which  Cinelikes collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.Cinelikes.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Cinelikes.
 
-Cinelikes.com recognizes the importance of maintaining your privacy, we value your privacy and appreciate your trust in us. This Policy describes how we treat user information we collect on http://www.cinelikes.com. By visiting and/or using our website, you agree to this Privacy Policy.
+**Personal Identification Information :**
 
-**Information we collect**
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**Contact information.** We might collect your personal information like name and email, if you choose to filling out the Contact Us form and submitting it to us through our website.
+**Non-Personal Identification Information :**
 
-**Information you post.** We collect information you post in a public space on our website or on a third-party social media site belonging to cinelikes.com.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**Other information.** If you use our website, we may collect information about your IP address and the browser you’re using. We might look at what site you came from, duration of time spent on our website, pages accessed or what site you visit when you leave us. We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running.
+**Web browser cookies :**
 
-**We collect information in different ways**
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**We collect information directly from you.** We collect information if you post a comment on our websites or ask us a question through email or contact us form.
+**How we use collected information ?**
 
-**We collect information from you passively.** We use tracking tools like Google Analytics, Google Webmaster,  browser cookies for collecting information about your usage of our website.
+Cinelikes may collect and use Users personal information for the following purposes:  
+– To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+– To improve our Site  
+We may use feedback you provide to improve our products and services.  
+– To send periodic emails  
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.  
+**How we protect your information?**
 
-**We get information about you from third parties.** For example, if you use an integrated social media feature on our websites. The third-party social media site will give us certain information about you. This could include your name and email address.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-**Use of your personal information**
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-**We use information to respond to your requests or questions.** We might use information you provide us, through our contact us form, to contact you in response to your requests or questions.
+**Sharing your personal information :**
 
-**We use information to improve our products and services.** We might use your information to customize your experience with us. This could include displaying content based upon your preferences.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-**We use information to look at site trends and customer interests.** We may use your information to make our website better. We may combine information we get from you with information about you we get from third parties.
+**Google Adsense :**
 
-**Sharing of information  
-**
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
-**We may share information with third parties who perform services on our behalf.** We may share information with vendors who help us manage different areas of our website, like Hosting/Search Engine Optimization etc.
+**Changes to this privacy policy :**
 
-**We may share information with our business partners.** This includes a third party who provide or sponsor for a News Article/Gallery/Video on our website. Our partners use the information we give them as described in their privacy policies.
+Cinelikes has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**We may share information if we think we have to in order to comply with the law or to protect ourselves.** We will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud.
+**Your acceptance of these terms :**
 
-**We may share information with any successor to all or part of our business.** For example, if part of our business is sold we may share the information as part of that transaction.
-
-**Third party sites**
-
-If you click on one of the links to third party websites, you may be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites.
-
-**Updates to this policy**
-
-From time to time we may change our privacy practices. Please check our site periodically for updates.
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
