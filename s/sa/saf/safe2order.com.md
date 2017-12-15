@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safe2order.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320175650id_/http%3A//safe2order.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safe2order.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215053102id_/http%3A//safe2order.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Safe2Order - Product Showcase, Ditgital Download And Customer Care Center - Privacy Policy - James Jackson's Safe2Order.Com ::: Internet Marketing, eCommerce, Affiliate Training And Support Center
 
