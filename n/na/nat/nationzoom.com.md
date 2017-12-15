@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationzoom.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615130644id_/http%3A//nationzoom.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationzoom.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215143537id_/http%3A//nationzoom.com/privacy_policy.html) for the most accurate reproduction.*
 
 # NationZoom
 
