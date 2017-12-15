@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the alberta.ca privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215180543id_/http%3A//www.alberta.ca/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alberta.ca privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215180505id_/https%3A//www.alberta.ca/privacystatement.aspx) for the most accurate reproduction.*
 
-# Privacy | Using Alberta.ca
+# Privacy | alberta.ca
+
+The Government of Alberta is committed to ensuring your privacy while you visit this site. 
 
 ## Collection of information
 
