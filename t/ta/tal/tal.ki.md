@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tal.ki privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526184142id_/http%3A//talkiforum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tal.ki privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215200304id_/http%3A//talkiforum.com/privacy) for the most accurate reproduction.*
 
 # Talki Embeddable Forums - Privacy Policy
 
