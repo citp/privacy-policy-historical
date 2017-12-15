@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairpoint.net privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627192646id_/https%3A//www.fairpoint.com/home/residential/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairpoint.net privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215185544id_/http%3A//www.fairpoint.com/home/residential/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Legal & Regulatory | FairPoint Communications
 
