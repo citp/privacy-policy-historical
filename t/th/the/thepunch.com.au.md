@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepunch.com.au privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615213845id_/https%3A//preferences.news.com.au) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepunch.com.au privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215141011id_/https%3A//preferences.news.com.au) for the most accurate reproduction.*
 
 # Privacy Policy | News Corp Australia
 
@@ -17,9 +17,9 @@
 
 ### 1\. INTRODUCTION
 
-This Privacy Policy applies to each company listed in Section 9 below (“Company”, “us” or “we”). It explains how we collect, use and disclose information about you.
+This Privacy Policy applies to each company listed in Section 9 below ("Company", "us" or "we"). It explains how we collect, use and disclose information about you.
 
-This Privacy Policy applies to information which identifies you, or from which you can reasonably be identified, such as your full name or name and postal address ("personal information"). This Policy describes how we handle the personal information we collect when we provide our services. Our services include: home delivery subscription, digital services subscription, advertising, websites, mobile sites, applications (“apps”), and widgets, competitions and customer surveys (collectively, “Company Services”).
+This Privacy Policy applies to information which identifies you, or from which you can reasonably be identified, such as your full name or name and postal address ("personal information"). This Policy describes how we handle the personal information we collect when we provide our services. Our services include: home delivery subscription, digital services subscription, advertising, websites, mobile sites, applications ("apps"), and widgets, competitions and customer surveys (collectively, "Company Services").
 
 This Privacy Policy does not apply to personal information collected by our journalists and photographers for the purpose of gathering news. We handle the information we collect in the course of journalism in accordance with the Australian Press Council Privacy Standards, which can be found at: <http://www.presscouncil.org.au/privacy-principles>.
 
@@ -104,11 +104,13 @@ We use the information we collect about you for the following additional purpose
 
 By logging in with or connecting your Company Services account with a social media profile, you authorise us to share your personal information with the social media service provider, other users and your friends or followers. You understand that the social media service provider may handle this information in accordance with its own privacy policy. If you do not want your personal information shared in this way, please do not connect your social media profile with your Company Services account and do not participate in social sharing on Company Services.
 
-**To provide co-branded services and features.** We may offer co-branded services, such as competitions or other promotions together with a third party (“Co-Branded Services”). When this happens, we may share the information you submit in connection with the Co-Branded Service with the third party, or with our service providers who assist us to host Co Branded Services. The third party’s use of your information will be governed by their own privacy policy. We will obtain your consent to share your personal information with the third party. If you do not provide this consent, you may not be able to access that co-branded service.
+**To provide co-branded services and features.** We may offer co-branded services, such as competitions or other promotions together with a third party ("Co-Branded Services"). When this happens, we may share the information you submit in connection with the Co-Branded Service with the third party, or with our service providers who assist us to host Co Branded Services. The third party’s use of your information will be governed by their own privacy policy. We will obtain your consent to share your personal information with the third party. If you do not provide this consent, you may not be able to access that co-branded service.
 
  **To deliver relevant advertisements and content.** Company and our advertisers may use the information we collect about you to provide you with relevant advertisements and content when you use Company Services. We may also use your personal information so that relevant advertising can be provided to you when you use services or visit websites of other organisations.
 
-We may combine information that we hold about you with information about you that we collect from other trusted businesses with whom you also have a relationship or from public sources. We may also share information we hold about you with those trusted businesses so that they can do the same thing. We and those trusted businesses do this in order to enable the development of consumer insights about you so that each of us can serve you better. This includes being able to better understand your preferences and interests, personalise your experience, enhance the products and services you receive, and to tell you about products and services. Where those insights are provided to others for their own marketing purposes, such insights do not contain any information that identifies you. We may also use third party service providers to undertake the process of creating these consumer insights.
+We may combine information that we hold about you with information about you that we collect from other trusted businesses with whom you also have a relationship or from public sources and we may associate your browser and/or device with other browsers or devices you use. We may also share information we hold about you with those trusted businesses so that they can do the same thing.
+
+We and those trusted businesses do this in order to enable the development of consumer insights about you so that each of us can serve you better. This includes being able to better understand your preferences and interests, personalise your experience, enhance the products and services you receive, and to tell you about products and services. Where those insights are provided to others for their own marketing purposes, such insights do not contain any information that identifies you. We may also use third party service providers to undertake the process of creating these consumer insights.
 
 For more information about this, please see our [Data Usage Policy](https://web.archive.org/data). In Section 6, below, we provide information about how to choose what advertisements you see when using the Company Services.
 
@@ -134,7 +136,7 @@ For more information about this, please see our [Data Usage Policy](https://web.
 
 We use reasonable measures to safeguard the personal information we hold about you from loss, theft and unauthorised use, disclosure or modification, including:
 
- **System security** We take reasonable steps to prevent unauthorised access to our online and computerised systems by using measures such as firewalls, data encryption, virus detection methods, and password restricted access. 
+ **System security** We take reasonable steps to prevent unauthorised access to our online and computerised systems by using measures such as firewalls, data encryption, virus detection methods, and password restricted access.
 
 **Property security** At our business premises, we may engage security personnel and use ID cards to restrict access to those premises.
 
@@ -156,7 +158,7 @@ If you have linked any of your social media profiles to your account for any Com
 
 ### 7\. OTHER IMPORTANT INFORMATION FOR YOU
 
-**Updates to Privacy Policy.** We may modify this Privacy Policy at any time. The date at the top of this Privacy Policy tells you when it was last updated. Any changes to this Privacy Policy become effective when we publish it online. If you do not agree with changes to this Privacy Policy, you may be able to terminate your account with us. 
+**Updates to Privacy Policy.** We may modify this Privacy Policy at any time. The date at the top of this Privacy Policy tells you when it was last updated. Any changes to this Privacy Policy become effective when we publish it online. If you do not agree with changes to this Privacy Policy, you may be able to terminate your account with us.
 
 **Location of Data.** Some Company Services are hosted in and managed outside of Australia, including in the United Kingdom, the United States of America and Singapore. In dealing with Us, you consent to this practice, understanding that your personal information may be accessible from or transmitted outside Australia.
 
@@ -207,4 +209,4 @@ Telephone:  | [+61 2 9288 3000](tel:+61292883000)
 
 
 
-**Last updated: 9 May 2017**
+**Last updated: 20 November 2017**
