@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbosouthasia.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616121952id_/http%3A//www.hbosouthasia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbosouthasia.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215092920id_/http%3A//www.hbosouthasia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of HBO Southasia - English Movie Timings.
 
@@ -82,7 +82,7 @@ If you:
 > 
 > you may contact our Data Protection Officer/Grievance Officer at:
 > 
-> Email: | dpo@hboasia.com  
+> Email: | [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 > ---|---  
 > Address: | Data Protection Officer/Grievance Officer  
 >  Home Box Office (Singapore) Pte Ltd  
