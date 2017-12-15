@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linear.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615060122id_/http%3A//www.linear.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linear.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215225612id_/http%3A//www.linear.com/privacy.php) for the most accurate reproduction.*
 
 # Linear Technology -
 
