@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flagcounter.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619005929id_/http%3A//flagcounter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagcounter.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215115755id_/http%3A//flagcounter.com/privacy.html) for the most accurate reproduction.*
 
 # Flag Counter » Privacy Policy
 
