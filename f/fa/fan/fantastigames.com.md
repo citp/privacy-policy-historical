@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantastigames.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610074129id_/http%3A//fantastigames.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantastigames.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215105554id_/http%3A//www.fantastigames.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - FantastiGames
 
@@ -46,7 +46,7 @@ You should be aware that some jurisdictions prohibit the downloading of “adwar
 
 **Children's Privacy**
 
-Protecting the privacy of the very young is especially important. We operate our website in compliance with the Children's Online Privacy Protection Act (COPPA). FantastiGames never knowingly collects or maintains information at or on our Site from those we actually know are under 13, and no part of the Site is directed at or structured to attract anyone under 13. If you become aware that your child has provided us with Personal Information without your consent, please contact us at [privacy@FantastiGames.com](https://web.archive.org/web/20170610074129id_/http%3A//fantastigames.com/privacy@FantastiGames.com). 
+Protecting the privacy of the very young is especially important. We operate our website in compliance with the Children's Online Privacy Protection Act (COPPA). FantastiGames never knowingly collects or maintains information at or on our Site from those we actually know are under 13, and no part of the Site is directed at or structured to attract anyone under 13. If you become aware that your child has provided us with Personal Information without your consent, please contact us at [privacy@FantastiGames.com](https://web.archive.org/web/20171215105554id_/http%3A//www.fantastigames.com/privacy@FantastiGames.com). 
 
 **Security**
 
