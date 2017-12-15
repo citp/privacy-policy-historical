@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electrostub.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614111856id_/http%3A//www.electrostub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electrostub.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215034340id_/http%3A//www.electrostub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ElectroStub
 
