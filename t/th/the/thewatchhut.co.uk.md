@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewatchhut.co.uk privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610104849id_/http%3A//www.thewatchhut.co.uk/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewatchhut.co.uk privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215154900id_/http%3A//www.thewatchhut.co.uk/security-and-privacy) for the most accurate reproduction.*
 
 # Security & Privacy
 
