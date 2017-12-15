@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehackingnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133439id_/http%3A//www.ehackingnews.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehackingnews.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215051929id_/http%3A//www.ehackingnews.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy - E Hacking News
 
@@ -20,7 +20,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 E hacking News collects and uses Users personal information for the following purposes:
 
-  *  _\- To improve our Site_  
+  * _\- To improve our Site_  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
   * _\- To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
@@ -62,9 +62,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[E hacking News](http://www.ehackingnews.com/)  
-[http://www.ehackingnews.com](http://www.ehackingnews.com/)
-
-email: breakthesecurity.com[at]gmail[dot]com
+http://www.ehackingnews.com/p/contact-us.html 
 
 This document was last updated on February 07, 2012
