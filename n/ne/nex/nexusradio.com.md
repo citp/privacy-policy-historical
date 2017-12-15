@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexusradio.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616190922id_/http%3A//www.nexusradio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexusradio.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215110037id_/http%3A//www.nexusradio.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
