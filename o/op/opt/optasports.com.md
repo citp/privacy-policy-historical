@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optasports.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616115819id_/http%3A//optasports.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optasports.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215223759id_/http%3A//www.optasports.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Opta Privacy Policy
 
