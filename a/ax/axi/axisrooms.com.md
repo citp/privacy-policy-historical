@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axisrooms.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608103548id_/http%3A//www.axisrooms.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axisrooms.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215080550id_/http%3A//www.axisrooms.com/privacy-policy.php) for the most accurate reproduction.*
 
 # None
 
