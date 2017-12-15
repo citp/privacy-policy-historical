@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiglamour.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616144137id_/http%3A//news.indiglamour.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiglamour.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215155008id_/http%3A//news.indiglamour.com/privacy) for the most accurate reproduction.*
 
 # Privacy – news.indiglamour.com
 
