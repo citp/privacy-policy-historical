@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funmunch.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614210151id_/http%3A//www.funmunch.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funmunch.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215101852id_/http%3A//www.funmunch.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Funmunch.com
 
