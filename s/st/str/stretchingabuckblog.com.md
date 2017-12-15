@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stretchingabuckblog.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620043032id_/http%3A//www.stretchingabuckblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stretchingabuckblog.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215073230id_/http%3A//www.stretchingabuckblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stretching a Buck | Stretching a Buck
 
