@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easysimplemoneymaker.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515221653id_/http%3A//easysimplemoneymaker.com/content.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easysimplemoneymaker.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215145426id_/http%3A//easysimplemoneymaker.com/content.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Easy Simple Money Maker
 
