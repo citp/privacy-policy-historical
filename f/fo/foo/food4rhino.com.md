@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the food4rhino.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607102030id_/http%3A//food4rhino.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the food4rhino.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215060049id_/http%3A//www.food4rhino.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Food4Rhino
 
@@ -119,11 +119,11 @@ We take certain measures to enhance the security of our Site and Service, includ
 
 **_12.   Your California Online Privacy Rights_**
 
-Food4Rhino permits residents of California to use its services.  Therefore, it is the intention of food4Rhino to comply with the  _California Business and Professions Code_  §§ 22575-22579.  If you are a California resident, you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.  Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes.  In summary, you must presume that we collect electronic information from all visitors.  You may contact us at [4FQ.RYY3Q4@F3GULnPFFO@](https://web.archive.org/web/20170607102030id_/http%3A//food4rhino.com/4FQ.RYY3Q4@F3GULnPFFO:FKRGS4@) with any questions.
+Food4Rhino permits residents of California to use its services.  Therefore, it is the intention of food4Rhino to comply with the  _California Business and Professions Code_  §§ 22575-22579.  If you are a California resident, you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.  Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes.  In summary, you must presume that we collect electronic information from all visitors.  You may contact us at [4FQ.RYY3Q4@F3GULnPFFO@](https://web.archive.org/web/20171215060049id_/http%3A//www.food4rhino.com/4FQ.RYY3Q4@F3GULnPFFO:FKRGS4@) with any questions.
 
 **_13.   Your European Privacy Rights_**
 
-Food4Rhino is located within the European Union and follows Directive 95/46/EC of the European Union.  If you have any questions about your privacy or wish to exercise any of your rights under the Directive, please contact us at [4FQ.RYY3Q4@F3GULnPFFO@](https://web.archive.org/web/20170607102030id_/http%3A//food4rhino.com/4FQ.RYY3Q4@F3GULnPFFO:FKRGS4@).
+Food4Rhino is located within the European Union and follows Directive 95/46/EC of the European Union.  If you have any questions about your privacy or wish to exercise any of your rights under the Directive, please contact us at [4FQ.RYY3Q4@F3GULnPFFO@](https://web.archive.org/web/20171215060049id_/http%3A//www.food4rhino.com/4FQ.RYY3Q4@F3GULnPFFO:FKRGS4@).
 
 **_14.   International Transfer_**
 
