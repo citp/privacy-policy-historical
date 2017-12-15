@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fox5dc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112808id_/http%3A//www.fox5dc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox5dc.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215110528id_/http%3A//www.fox5dc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WTTG
 
 **_Fox Television Stations Privacy Policy_**
 
-Effective August 6, 2015
+Effective  September 7, 2017
 
 Table of Contents:
 
@@ -22,7 +22,7 @@ Table of Contents:
 
 Fox Television Stations, LLC, and certain of its affiliated entities (collectively, “FTS” or “we”) operate a group of news and entertainment websites (each an “FTS Website”) on behalf of their owned and operated television stations. FTS wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as FTS Websites, mobile sites, applications (“apps”), and widgets (collectively, the “FTS Services”). By using FTS Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Company Affiliates”) is available at [http://www.21cf.com](http://www.21cf.com/).
 
-As set forth in our [Terms of Service](http://www.fox5dc.com/terms-of-service), the FTS Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
+As set forth in our [Terms of Service](http://www.my9nj.com/terms-of-service), the FTS Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
 This Privacy Policy applies to all users, including both those who use the FTS Services without being registered with or subscribing to an FTS Service and those who have registered with or subscribed to an FTS Service. This Privacy Policy applies to FTS’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally FTS’s practices for handling non-personal information (for example, interests, demographics and services usage).
 
@@ -62,7 +62,9 @@ We may also use the information we collect from and about you for these addition
 
  **To deliver relevant advertisements.** FTS and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use FTS Services or another service, including, without limitation, precise geolocation data accessed or collected pursuant to this privacy policy. For mobile applications, you may be able to opt-out of the use of precise data for location-based tracking by using the settings available on your mobile device; however, opting-out may impair or disable the FTS Services. For all FTS Services, ads may be selected for you based on more general information, such as location that can be inferred from IP addresses.
 
-As noted above, third-party advertising networks and advertisers may use cookies, mobile advertising identifiers and similar technologies to collect and track information such as demographic information, inferred interests, web browsing and app usage, and aggregated information and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see [http://www.aboutads.info](http://www.aboutads.info/). If you would like to opt-out of such advertising networks’ and services’ advertising practices, go to <http://www.aboutads.info/choices> to opt-out in desktop and mobile web browsers. You may download the AppChoices app at[ ](http://www.aboutads.info/appchoices)<http://www.aboutads.info/appchoices> to opt-out in mobile apps.
+As noted above, third-party advertising networks and advertisers may use cookies, mobile advertising identifiers and similar technologies to collect and track information such as demographic information, inferred interests, web browsing and app usage, and aggregated information and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see [http://www.aboutads.info](http://www.aboutads.info/). If you would like to opt-out of such advertising networks’ and services’ advertising practices, go to <http://www.aboutads.info/choices> to opt-out in desktop and mobile web browsers. You may download the AppChoices app at <http://www.aboutads.info/appchoices> to opt-out in mobile apps.
+
+We may also use advertising services provided by social media services such as Facebook.  If you are a member of a social media service, that service may collect information from you about the content that you view on our site, using with cookies that your social media service has stored on your computer.   If you have questions about your social media service’s information and privacy practices, you should consult the consumer disclosures on the social media service’s website.
 
  **To contact you.** FTS may periodically send promotional materials or notifications related to the FTS Services. If you want to stop receiving promotional materials, you can follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the FTS Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
 
