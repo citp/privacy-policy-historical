@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dontpaniconline.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214115054id_/http%3A//dontpaniconline.com/user_actions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dontpaniconline.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215183525id_/http%3A//dontpaniconline.com/user_actions/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Don't Panic
 
@@ -75,5 +75,3 @@ Your information is securely stored.
 
   
 
-
-[](https://web.archive.org/win/1450/win-a-minirig-speaker- "WIN A Minirig Speaker! ")
