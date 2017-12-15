@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navyfederal.org privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626224212id_/https%3A//www.navyfederal.org/pdf/publications/NFCU_198_PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navyfederal.org privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215154627id_/https%3A//www.navyfederal.org/pdf/publications/NFCU_198_PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
@@ -14,22 +14,21 @@ FACTS WHAT                          DOES NAVY FEDERAL DO
      What?             • account balances and payment history
                        • account transactions and checking account information
                        When you are no longer our Member, we continue to share your information as described in this notice.
-                       All financial companies need to share members’ personal information to run their everyday businesses. In
-     How?              the section below, we list the reasons financial companies can share their members’ personal information,
+                       All financial companies need to share members' personal information to run their everyday businesses. In
+     How?              the section below, we list the reasons financial companies can share their members' personal information,
                        whether Navy Federal chooses to share, and whether you can limit this sharing.
                                 Reasons we can share your                                       Does Navy        Can you limit
                                      personal information                                    Federal share? this sharing?
- For our everyday business purposes–such as to process your transactions,
+ For our everyday business purposes-such as to process your transactions,
  maintain your account(s), respond to court orders and legal investigations, or report                Yes                 No
  to credit bureaus
- For our marketing purposes–to offer our products and services to you                                 Yes                 No
+ For our marketing purposes-to offer our products and services to you                                 Yes                 No
  For joint marketing with other financial companies                                                   Yes                 No
- For our affiliates’ everyday business purposes–information about your transactions
-                                                                                                      Yes                 No
- and experiences
- For our affiliates’ everyday business purposes–information about                                     No          We don’t share
+ For our affiliates' everyday business purposes-information about your transactions
+ and experiences                                                                                      Yes                 No
+ For our affiliates' everyday business purposes-information about                                     No          We don't share
  your creditworthiness
- For nonaffiliates to market to you                                                                   No          We don’t share
+ For nonaffiliates to market to you                                                                   No          We don't share
   Questions? Call toll-free 1-888-842-6328 or go to navyfederal.org.
 © 2017 Navy Federal NFCU 198 (6-17)
 
@@ -51,8 +50,8 @@ information?                   • pay your bills or apply for a loan
                                • use your credit or debit card
                                We also collect your personal information from others, such as credit bureaus,
                                affiliates, or other companies.
-Why can’t I limit all sharing? Federal law gives you the right to limit only:
-                               • sharing for affiliates’ everyday business purposes–information about
+Why can't I limit all sharing? Federal law gives you the right to limit only:
+                               • sharing for affiliates' everyday business purposes-information about
                                   your creditworthiness
                                • affiliates from using your information to market to you
                                • sharing for nonaffiliates to market to you
