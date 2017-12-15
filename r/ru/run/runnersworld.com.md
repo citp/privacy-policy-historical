@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnersworld.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107212044id_/http%3A//www.rodaleinc.com/customer-care/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersworld.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215141449id_/http%3A//www.rodaleinc.com/customer-care/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rodale Inc
 
