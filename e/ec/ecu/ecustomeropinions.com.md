@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecustomeropinions.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630044124id_/http%3A//www.maruedr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecustomeropinions.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215012126id_/http%3A//www.maruedr.com/privacy) for the most accurate reproduction.*
 
 # Maru/edr Privacy Policy
 
