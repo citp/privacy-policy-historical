@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mass.edu privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625053745id_/http%3A//www.mass.edu/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mass.edu privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215085124id_/http%3A//www.mass.edu/legal/privacy.asp) for the most accurate reproduction.*
 
 # Massachusetts Department of Higher Education
 
-[Home](http://www.mass.edu/) > [Legal Disclaimers](https://web.archive.org/web/20170625053745id_/http%3A//www.mass.edu/legal/privacy.asp) > Privacy Policy
+[Home](http://www.mass.edu/) > [Legal Disclaimers](https://web.archive.org/web/20171215085124id_/http%3A//www.mass.edu/legal/privacy.asp) > Privacy Policy
 
 Welcome to the Massachusetts Board of Higher Education (MBHE) Web site. Your privacy is one of our top priorities. The following policy applies only to the use of the Massachusetts Board of Higher Education Web site. Other Web sites operated by state agencies have different policies. We strongly suggest that you read the privacy policies for each Commonwealth Web site that you visit, and any external site that you visit through a link appearing at this site. 
 
