@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrwiki.org privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614220956id_/http%3A//www.hrwiki.org/wiki/HRWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrwiki.org privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215030237id_/http%3A//www.hrwiki.org/wiki/HRWiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # HRWiki:Privacy policy - Homestar Runner Wiki
 
