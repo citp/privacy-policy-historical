@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralandroid.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614092927id_/http%3A//www.viralandroid.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralandroid.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216002848id_/http%3A//www.viralandroid.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Viral Android – Tutorials, Examples, UX/UI Design
 
