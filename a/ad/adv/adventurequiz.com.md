@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventurequiz.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622011701id_/http%3A//adventurequiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventurequiz.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215060948id_/http%3A//www.adventurequiz.com/privacy-policy) for the most accurate reproduction.*
 
 # AdventureQuiz - Privacy Policy
 
