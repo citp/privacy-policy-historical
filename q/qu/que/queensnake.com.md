@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the queensnake.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605163256id_/https%3A//queensnake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queensnake.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215112544id_/http%3A//queensnake.com/privacy) for the most accurate reproduction.*
 
 # Queensnake.com - Privacy
 
 **Preamble and General Principles**
 
 The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site. If you do not agree with our information practices, please do not access or use our Site. By accessing and using our Site, you signify your assent to this Privacy Policy.  
-This Privacy Policy describes how d/b/a queensnake.com collects information from all Users (Visitors: who access some parts of our websites but do not have accounts and Members: who pay fees to gain access to the website), what we do with the information we collect. We request that you read this Privacy Policy carefully. 
+This Privacy Policy describes how d/b/a Queensnake.com collects information from all Users (Visitors: who access some parts of our websites but do not have accounts and Members: who pay fees to gain access to the website), what we do with the information we collect. We request that you read this Privacy Policy carefully. 
 
 **Revisions to this Policy**
 
-queensnake.com reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. The user should periodically check for any modifications of this Policy by re-visiting this web page and using the "refresh" button on the user's browser. 
+Queensnake.com reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. The user should periodically check for any modifications of this Policy by re-visiting this web page and using the "refresh" button on the user's browser. 
 
 **Personal Information**
 
-queensnake.com collects information from Users who access the various parts of our website. We use this information to provide a customized experience as you use our website and do not share this information with third parties. However, we may disclose personal information collected when we believe that such disclosure is required by law. 
+Queensnake.com collects information from Users who access the various parts of our website. We use this information to provide a customized experience as you use our website and do not share this information with third parties. However, we may disclose personal information collected when we believe that such disclosure is required by law. 
 
 **Registration**
 
-Members are asked to provide certain personal information when they sign up for our website including name, address, telephone number, billing information (such as a credit card number). The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is collected by our credit card processors/billing companies, and is not shared with third parties, unless specifically stated otherwise or in special circumstances. You may read the privacy policies on their websites at www.IPSP.com. 
+Members are asked to provide certain personal information when they sign up for our website including name, address, telephone number, billing information (such as a credit card number). The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is collected by our credit card processors/billing companies, and is not shared with third parties, unless specifically stated otherwise or in special circumstances. 
 
 **Email Inquiries**
 
