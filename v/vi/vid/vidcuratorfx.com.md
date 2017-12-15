@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidcuratorfx.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605204307id_/http%3A//vidcuratorfx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidcuratorfx.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215223229id_/http%3A//vidcuratorfx.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
