@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the theforce.net privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616133032id_/http%3A//www.theforce.net/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theforce.net privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215151032id_/http%3A//theforce.net/privacypolicy.asp) for the most accurate reproduction.*
 
 # TheForce.net: Privacy Policy
-
-[](http://www.officialpix.com/estore/categories.asp?partner=tfn)   
-[](http://www.entertainmentearth.com/starwars.asp?id=TH-303020150)
-
-Upcoming Birthdays  
-(next 10 days)
-
-[](http://www.501st.com/)
-
-[](http://www.rebellegion.com/)
-
-[](http://www.thedentedhelmet.com/)
-
-[](http://mandalorianmercs.org/)
-
-[](http://www.astromech.net/)
-
-[](http://www.r2kt.com/)
 
 This site is owned and operated by TF.N, LLC. Your privacy on the Internet is of the utmost importance to us. At Theforce.net, we want to make your experience online satisfying and safe.
 
