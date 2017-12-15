@@ -1,0 +1,17 @@
+> *The following text is extracted and transformed from the allcustomercarenumbers.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215163826id_/http%3A//allcustomercarenumbers.com/StaticPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+
+# Privacy Policy of allcustomercarenumbers.com
+
+The Privacy Policy is described the information we collect from users that helps us not only provide the Service but also to personalize and continually improve each user's experience with the Service. Here are the types of information we gather: 
+
+**Information We Collect**   
+The information we collect from users helps us not only provide the Service but also to personalize and continually improve each user's experience with the Service.   
+Registering with us enables you to take advantage of some of our advanced features. When you register with us, we ask you for Personal Information that can be used to contact or identify you, such as your email address. This enables us or the company you are inquiring about to respond to you directly. We will always obtain your express consent before sharing your Personal Information with any such company. 
+
+**Automatic Information and Tracking Tools**   
+Like many other websites, we and our vendors also collect information through cookies and other automated means. Information of this sort includes: Technical information about your browser and mobile device:   
+This information is used in the aggregate to help us optimize the Service for common browsers and devices. Usage information, such as the pages you request, searches you conduct and the features you interact with: This behavioral information is collected and used in individualized and aggregate forms to generate statistics about how and by what demographic the Service is being used and to target advertising and communications but is never shared in any form that could be reasonably used to identify you personally.   
+IP address, cookies, tokens and device identifiers: These are alphanumeric identifiers that help us to distinguish between unique browsers and devices in order to avoid showing you the same information twice, keep you logged into the Service, prevent duplicate actions, prevent duplicate coupon redemptions and improve your experience. The information we collect from cookies may include your IP address, browser and device characteristics, referring URLs, and a record of your interactions with our Service. Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. We will respect your choices relating to on-line tracking, whether you choose to reject individual cookies or set your web browser to reject cookies and other tracking technology. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Service or certain areas or features of the Service.   
+If you have any questions about this Policy, please [ **Click Here**](https://web.archive.org/web/20171215163826id_/http%3A//allcustomercarenumbers.com/StaticPages/Contact_Us.aspx) to contact us. 
+
+**Third Party ad Networks** You agree and accept that third party ad networks that is serving ads on allcustomercarenumbers.com. That may be reading and placing cookies on your browsers, or using web beacons to collect information as a result of ad serving
