@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binaryoptionstradingitm.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614080223id_/http%3A//www.binaryoptionstradingitm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binaryoptionstradingitm.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215204327id_/http%3A//www.binaryoptionstradingitm.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Binary Options Trading Signals
 
@@ -24,4 +24,4 @@ Our site has security measures in place to protect against the loss, misuse and 
 If at some point in the future, there is a change to our privacy policy that will affect your personal information, we will notify you by email of the relevant changes.
 
 **Contacting the Website**  
-If you have any questions about this Privacy Statement, the practises of this site or your dealings with this website, please email our Customer Care Department at info@binaryoptionstradingitm.com
+If you have any questions about this Privacy Statement, the practises of this site or your dealings with this website, please email our Customer Care Department at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
