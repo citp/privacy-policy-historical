@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adagio.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531050032id_/http%3A//www.adagio.com/pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adagio.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215223515id_/http%3A//www.adagio.com/pages/privacy_policy.html) for the most accurate reproduction.*
 
 # Adagio Teas - Privacy Policy
-
-## What personal information we collect & how we use it
 
 #### Order
 
@@ -11,10 +9,6 @@ To complete an order, our visitors must share with us contact information (name,
 #### Newsletter
 
 We invite visitors to subscribe to our TeaMuse newsletter, and ask for e-mail contact information to assist in its distribution. All customers receive updates of new TeaMuse issues automatically. Should you wish to not receive these, you may easily opt-out. Please see Choice/Opt-Out section for more info.
-
-#### Tea Timer Program
-
-We also invite visitors to download our exclusive Tea Timer program, and ask for contact information (name and e-mail address), as well as info on the trial of our tea, and a list of favorite tea vendors. This info is used for internal analysis and is never shared with others.
 
 #### Tea-of-the-Month Club
 
@@ -31,6 +25,10 @@ We invite our customers to submit reviews of the products they have purchased ea
 #### Tell-A-Friend
 
 We invite our customers to mail friends an introductory free $5 gift-certificate. This is meant to encourage a visit to our store. To facilitate this, we ask for the name and e-mail address of the recipient. This information is used to electronically mail a unique certificate code, keep track and assure an accurate credit of five dollars at the time of the purchase. This information is not traded or shared with any third parties.
+
+#### Live Help
+
+To make shopping with us more enjoyable, we offer the benefits of a 'live help' feature. This allows a visitor to chat in real time with our customer representatives. The only information requested during a 'live chat' session is a visitor's first name. This information is used to visually differentiate the comments made by both parties, and is not stored, nor used in conjunction with any other personal information gathered by this site. The software that make 'live help' possible is the property of Live Person, Inc. Please be aware that Adagio Teas is not responsible for the privacy practices of this company.
 
 #### Special Offers
 
@@ -50,9 +48,15 @@ Logs are the information created and stored by the server and include such data 
 
 ## With whom this information is shared
 
-Adagio Teas is the sole owner of the information collected on this site. We do not sell or rent this information to any third party. The only two companies with whom some information is shared are UPS and Verisign.
+Adagio Teas is the sole owner of the information collected on this site. We do not sell or rent this information to any third party. The only companies with whom some information is shared are USPS, UPS, Fedex, DHL, Asendia and PayPal.
 
-We use UPS to ship orders, and Verisign gateways to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+We use USPS, Fedex and UPS to ship orders, and PayPal gateway to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+
+We may also share this information with third party service providers to serve online personalized messages and offers on our behalf. You can always opt out of these by unchecking the "email marketing" box in your account page.
+
+## Card-linked offers
+
+By registering a payment card (e.g., debit card or credit card) in connection with transaction monitoring, you authorize Adagio Teas to share your payment card information with the applicable payment network(s) (such as MasterCard, VISA, and American Express) so they know you enrolled, in addition to Linkable Networks, which acts as our service provider in making available offers linked to your payment card. You authorize the applicable payment network(s) and Linkable Networks to monitor transactions on your registered card(s) to identify qualifying purchases in order to determine whether you have qualified for or earned an offer linked to your payment card, and for MasterCard, VISA, and American Express to share such transaction details with Linkable Networks and Adagio to enable my offer(s). For additional information regarding Linkable Networks' privacy practices, please see [Linkable Networks Privacy Policy](https://www.mylinkables.com/privacypolicy/). You may opt-out of transaction monitoring on specific card(s) you have registered by visiting your account page.
 
 ## How you may affect the collection, use and distribution of your information
 
@@ -62,7 +66,7 @@ If your personal information changes or if you no longer desire our service, we 
 
 #### Choice/Opt-out
 
-We respect your privacy and give you an opportunity to opt-out of receiving our periodic announcements of sales, promotions and newsletter publication. This may be accomplished with a visit to your [account page](https://www.adagio.com/account/communications.html). We will happily assist you in this task. Simply drop us a note at [info@adagio.com](mailto:info@adagio.com).
+We respect your privacy and give you an opportunity to opt-out of receiving our periodic announcements of sales, promotions and newsletter publication, as well as email marketing. This may be accomplished with a visit to your [account page](https://www.adagio.com/account/communications.html). We will happily assist you in this task. Simply drop us a note at [info@adagio.com](mailto:info@adagio.com).
 
 ## What security procedures are in place to protect the loss, misuse or alteration of your personal information.
 
