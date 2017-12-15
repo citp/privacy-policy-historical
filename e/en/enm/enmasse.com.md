@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enmasse.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625013519id_/http%3A//enmasse.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enmasse.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215135855id_/http%3A//www.enmasse.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - En Masse Entertainment
 
