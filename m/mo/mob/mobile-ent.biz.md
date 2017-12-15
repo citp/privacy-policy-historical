@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobile-ent.biz privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630094853id_/http%3A//www.newbaymedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile-ent.biz privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215113258id_/http%3A//www.newbaymedia.com/privacy-policy) for the most accurate reproduction.*
 
 # NewBay Media Privacy Policy | NewBay Media
 
