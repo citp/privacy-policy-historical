@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronosconsulting.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093218id_/http%3A//chronosconsulting.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronosconsulting.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215110835id_/http%3A//www.chronosconsulting.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chronos Consulting
 
@@ -30,7 +30,7 @@ We may cancel or terminate any of your submitted CV and shared profiles, info at
 
 ## **Legal Notice**
 
-Chronos Consulting authorizes you to view, print and copy information published on this website under condition that the material may be used internally only for informational and non-commercial purposes. The Chronos Consulting, Coberon, Coberon Chronos Group, Costa Del Jobs logos, brands and any corporate names are registered trademarks of Chronos Systems Kft. and/or Chronos Systems Inc., Coberon Consulting Ltd., Chronos Consulting SL.
+Chronos Consulting authorizes you to view, print and copy information published on this website under condition that the material may be used internally only for informational and non-commercial purposes. The Chronos Consulting, Coberon, Coberon Chronos Group, Costa Del Jobs logos, brands and any corporate names are registered trademarks of Chronos Systems and/or Chronos Consulting.
 
 **Change of Terms & Conditions (T&C) or Privacy Policy**
 
