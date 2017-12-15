@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zunal.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605073350id_/http%3A//www.zunal.com/xabout.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zunal.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215091202id_/http%3A//zunal.com/xabout.php%23privacy) for the most accurate reproduction.*
 
 # Welcome to Zunal.Com
 
