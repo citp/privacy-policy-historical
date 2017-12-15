@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bongino.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628233525id_/http%3A//www.bongino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongino.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215152321id_/http%3A//www.bongino.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Dan Bongino
 
@@ -53,7 +53,7 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 **Your Access to and Control Over Information**
 
-You may opt out of any future contacts from us at any time by contacting us via the email address given on our website: [campaign@bongino.com](mailto:campaign@bongino.com)
+You may opt out of any future contacts from us at any time by contacting us via the email address given on our website:
 
 **Links to Other Websites**
 
@@ -79,4 +79,4 @@ By using the website, you signify your acceptance of this policy. If you do not 
 
 If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact us at:
 
-[campaign@bongino.com](mailto:campaign@bongino.com)
+[info@bongino.com](mailto:info@bongino.com)
