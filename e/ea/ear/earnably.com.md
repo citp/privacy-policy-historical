@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the earnably.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213155315id_/http%3A//earnably.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnably.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215123607id_/http%3A//earnably.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Earnably
 
 **Last updated: March 27, 2016**
 
-Forma Creative, LTD. ("us", "we", or "our") operates the http://earnably.com website (the "Service"). 
+Forma Creative, LTD. ("us", "we", or "our") operates the //earnably.com website (the "Service"). 
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. 
 
 We will not use or share your information with anyone except as described in this Privacy Policy. 
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://earnably.com/terms](https://web.archive.org/terms)
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [//earnably.com/terms](https://web.archive.org/terms)
 
 ## Information Collection And Use #
 
@@ -36,7 +36,7 @@ For further information about our use of cookies, please refer to our [Cookie Po
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet. 
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [//www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
 ## Service Providers #
 
