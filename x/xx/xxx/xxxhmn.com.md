@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxhmn.com privacy policy that was archived on 2017-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170106024336id_/http%3A//www.xxxhmn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxhmn.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215031429id_/http%3A//xxxhmn.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,4 +62,4 @@ Contact Information
 
 If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please contact us by sending an e-mail. Please provide us with your password, user name and account number so we can service you quicker. 
 
-For www.xxxhmn.com and its related sites, please [contact us](https://web.archive.org/web/20170106024336id_/http%3A//www.xxxhmn.com/support.html).
+For www.xxxhmn.com and its related sites, please [contact us](https://web.archive.org/web/20171215031429id_/http%3A//xxxhmn.com/support.html).
