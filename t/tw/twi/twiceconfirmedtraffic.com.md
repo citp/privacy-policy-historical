@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twiceconfirmedtraffic.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204105453id_/http%3A//www.twiceconfirmedtraffic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiceconfirmedtraffic.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215155558id_/http%3A//www.twiceconfirmedtraffic.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
