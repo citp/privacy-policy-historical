@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1stbrowser.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613135038id_/http%3A//1stbrowser.com/Corporate/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stbrowser.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215095357id_/http%3A//1stbrowser.com/Corporate/Privacy) for the most accurate reproduction.*
 
 # Privacy ∴ 1stBrowser
 
