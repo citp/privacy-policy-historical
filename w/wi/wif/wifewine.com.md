@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wifewine.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624051516id_/http%3A//wifewine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wifewine.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215075632id_/http%3A//wifewine.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Wife Wine
 
@@ -73,6 +73,9 @@ We have no control over, and assume no responsibility for the content, privacy p
 Our Service does not address anyone under the age of 13 (“Children”).
 
 We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
+
+**3rd Party Advertising**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://optout.networkadvertising.org/#!/).
 
 **Changes To This Privacy Policy**
 
