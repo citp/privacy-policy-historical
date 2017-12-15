@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byrdie.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141600id_/http%3A//www.byrdie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byrdie.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215105136id_/http%3A//www.byrdie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Byrdie
 
@@ -8,7 +8,7 @@ Effective Date: This Privacy Policy was last revised on May 8, 2017.
 
 **Introduction**
 
-Welcome!  You have arrived at a web site that is provided by Clique Media, Inc. (“ **Clique** ” or “ **we** ,” “ **our** ” or “ **us** ”).  This “ **Privacy Policy** ” governs your use of [www.whowhatwear.com](http://www.whowhatwear.com/), [www.mydomaine.com](http://www.mydomaine.com/ "www.domainehome.com") and [www.byrdie.com](http://www.byrdie.com/) (including, without limitation, both mobile and online versions of our web sites, and also applies to your use of all features, applications, content, downloads and other services that we make available through these web sites and/or that post a link to this Privacy Policy (collectively, referred to herein as the “ **Site** ”), regardless of how you access or use the Site, whether via personal computers, mobile devices or otherwise.  This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Service (unless otherwise stated below).
+Welcome!  You have arrived at a web site that is provided by Clique Brands, Inc. (“ **Clique** ” or “ **we** ,” “ **our** ” or “ **us** ”).  This “ **Privacy Policy** ” governs your use of [www.whowhatwear.com](http://www.whowhatwear.com/), [www.mydomaine.com](http://www.mydomaine.com/ "www.domainehome.com") and [www.byrdie.com](http://www.byrdie.com/) (including, without limitation, both mobile and online versions of our web sites, and also applies to your use of all features, applications, content, downloads and other services that we make available through these web sites and/or that post a link to this Privacy Policy (collectively, referred to herein as the “ **Site** ”), regardless of how you access or use the Site, whether via personal computers, mobile devices or otherwise.  This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Service (unless otherwise stated below).
 
 **To the extent we provide you notice on our Site of different or additional privacy policies or practices ( _e.g._ , at the point of our collection), those additional terms shall govern such data collection and use.**
 
@@ -242,7 +242,7 @@ The Site may permit you to submit ideas, photographs, user profiles, writings, m
 
 ****(b) Name and Likeness****
 
-We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Content you submit to the Site, please review our [**Terms and Conditions of Service**](https://web.archive.org/web/20170606141600id_/http%3A/terms-conditions "Terms and Conditions of Service").
+We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Content you submit to the Site, please review our [**Terms and Conditions of Service**](https://web.archive.org/web/20171215105136id_/http%3A/terms-conditions "Terms and Conditions of Service").
 
 ****5. Ads and Information About You****
 
