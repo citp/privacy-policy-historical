@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolhost.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525053004id_/http%3A//www11.poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolhost.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215084350id_/http%3A//www.poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.*
 
 # Office Pool Manager - privacy - PoolHost.com
 
