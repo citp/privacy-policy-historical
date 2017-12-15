@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the positivewordsresearch.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523062438id_/http%3A//positivewordsresearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivewordsresearch.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215115121id_/http%3A//positivewordsresearch.com/privacy.html) for the most accurate reproduction.*
 
 # positivewordsresearch.com | Privacy Policy
 
