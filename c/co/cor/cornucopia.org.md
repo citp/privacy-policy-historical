@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cornucopia.org privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210111108id_/https%3A//www.cornucopia.org/cornucopias-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornucopia.org privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215180119id_/https%3A//www.cornucopia.org/cornucopias-privacy-policy) for the most accurate reproduction.*
 
 # Cornucopia’s Privacy Policy - Cornucopia Institute
 
@@ -6,7 +6,7 @@ The Cornucopia Institute values your privacy. This Privacy Policy describes how 
 
 **Protecting Donor Information**
 
-Cornucopia uses electronic security systems to protect records containing personal identifying information that donors provide when giving a gift, whether online or off. This information is stored in a secure database that a limited number of staff have access to. We use this information to send donors eNews, action alerts, hardcopy newsletters, membership renewals and appeals, and other relevant communications throughout the year. If you would like to review your donor information or change your communications preferences, please email us at cultivate@cornucopia.org. Due to the controversial nature of our work, we never publish, share, sell, or otherwise distribute donor information, unless required to do so by law.
+Cornucopia uses electronic security systems to protect records containing personal identifying information that donors provide when giving a gift, whether online or off. This information is stored in a secure database that a limited number of staff have access to. We use this information to send donors eNews, action alerts, hardcopy newsletters, membership renewals and appeals, and other relevant communications throughout the year. If you would like to review your donor information or change your communications preferences, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Due to the controversial nature of our work, we never publish, share, sell, or otherwise distribute donor information, unless required to do so by law.
 
 **Online Giving**
 
@@ -28,7 +28,7 @@ In addition, Cornucopia may share information with business partners in order to
 
 **E-mail Communications**
 
-Cornucopia sends out bi-weekly eNews, periodic action alerts, and other mission and development related communications via email to interested parties. These communications are intended to be relevant. If you wish to unsubscribe, all group emails offer an easy unsubscribe option at the bottom of the message. In the unlikely event that you have unsubscribed and are still receiving emails, please contact us at cultivate@cornucopia.org or call us on 608-625-2000 to be manually removed from future email communications.
+Cornucopia sends out bi-weekly eNews, periodic action alerts, and other mission and development related communications via email to interested parties. These communications are intended to be relevant. If you wish to unsubscribe, all group emails offer an easy unsubscribe option at the bottom of the message. In the unlikely event that you have unsubscribed and are still receiving emails, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or call us on 608-625-2000 to be manually removed from future email communications.
 
 **Links**
 
@@ -58,6 +58,6 @@ The Cornucopia Institute
 P.O. Box 126  
 Cornucopia, WI 54827  
 Phone: 608-625-2000  
-Email: [cultivate@corncuopia.org](mailto:cultivate@corncuopia.org)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c3a0b6afb7aab5a2b7a683a0acb1ada0b6acb3aaa2edacb1a4)
 
 In the event that this Privacy Policy changes, Cornucopia will post updates on this page.
