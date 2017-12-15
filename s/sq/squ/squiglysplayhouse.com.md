@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the squiglysplayhouse.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103547id_/http%3A//squiglysplayhouse.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiglysplayhouse.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215045339id_/http%3A//www.squiglysplayhouse.com/Privacy.html) for the most accurate reproduction.*
 
-# Squigly's Playhouse
+# Privacy Policy Squigly's Playhouse
 
 In keeping with the Children's Online Privacy Protection Act (COPPA), we would like you to know how we handle the information we learn about you from your visit to Squigly's Playhouse. More information about COPPA can be found at the FTC's [Children's Privacy page](https://www.ftc.gov/consumer-protection/childrens-privacy). The information we gather depends upon what you do when visiting our site.
 
@@ -16,7 +16,7 @@ This information is used to measure the number of visitors to the different sect
 
 If a visitor arrives as a result of clicking on one of our ads on another web site, that fact is recorded in order to gauge the effectiveness of our ads.
 
-  2. If you send us e-mail via the [Write to Squigly](https://web.archive.org/web/20170606103547id_/http%3A//squiglysplayhouse.com/WriteToSquigly/index.php) form we record the following information (all fields are optional):
+  2. If you send us e-mail via the [Write to Squigly](https://web.archive.org/web/20171215045339id_/http%3A//www.squiglysplayhouse.com/WriteToSquigly/index.php) form we record the following information (all fields are optional):
 
 > Your **first name** is only recorded to personalize any respone and is then discarded. You are never required to enter your last name.
 > 
