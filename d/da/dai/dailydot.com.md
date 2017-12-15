@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629162509id_/https%3A//www.dailydot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215073718id_/https%3A//www.dailydot.com/privacy-policy) for the most accurate reproduction.*
 
 # The Daily Dot Privacy Policy | The Daily Dot
 
@@ -38,7 +38,7 @@ We take commercially reasonable steps to protect the Personal Information and th
 
 ## **Accessing and modifying account information**
 
-You may update the information that is stored in your user account in by visiting [your account](https://www.dailydot.com/accounts/profile/) or by emailing us at [info@thedailydot.com](mailto:info@thedailydot.com)
+You may update the information that is stored in your user account in by visiting [your account](https://www.dailydot.com/accounts/profile/) or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aac3c4ccc5eadec2cfcecbc3c6d3cec5de84c9c5c7)
 
 ### **Your choices**
 
@@ -58,7 +58,7 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 
 ## **How to contact us**
 
-If you have questions about this Privacy Policy, please email us at [support@thedailydot.com](mailto:support@thedailydot.com?Subject=PRIVACY%20POLICY), “PRIVACY POLICY” in the subject line, or mail us at the following address:
+If you have questions about this Privacy Policy, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bac9cfcacad5c8cefaced2dfdedbd3d6c3ded5ce94d9d5d785e9cfd8d0dfd9ce87eae8f3ecfbf9e39f888aeaf5f6f3f9e3), “PRIVACY POLICY” in the subject line, or mail us at the following address:
 
 The Daily Dot, LLC  
 3112 Windsor Road, Suite A391  
