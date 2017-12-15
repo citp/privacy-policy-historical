@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612141122id_/https%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215214846id_/https%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
 
 # Privacy Policy - dianomi - intelligent customer acquisition
 
@@ -18,7 +18,7 @@ We (and, if appropriate, our advertising partners) may also use your personal in
 
 When you submit your personal information on the Website, you are giving your consent to the collection, use and disclosure of such information as set forth in this Privacy Policy. 
 
-If you don't want to receive information on other products and services, please contact us via email: [sales@dianomi.com](mailto:sales@dianomi.com) or write to us: dianomi ltd, 10 Greycoat Place, London SW1P 1SB. 
+If you don't want to receive information on other products and services, please contact us via email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d5e4c41485e6d49444c43424044034e4240) or write to us: dianomi ltd, 10 Greycoat Place, London SW1P 1SB. 
 
 **2\. Disclosure of Personal Information**
 
@@ -51,15 +51,15 @@ Dianomi may also use third parties to serve ads on the Website. These third part
 
 **5\. Correction or Deletion of Personal Information**
 
-To inquire about personal information that this Website has collected about you, to correct factual errors, or to request that we delete any personal Information we have on you in our files, email us at _[customerservices@dianomi.com](mailto:customerservices@dianomi.com)_ and we will make a reasonable effort to comply with your request. You can also update your information if it changes. 
+To inquire about personal information that this Website has collected about you, to correct factual errors, or to request that we delete any personal Information we have on you in our files, email us at _[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#99faeceaedf6f4fcebeafcebeff0fafcead9fdf0f8f7f6f4f0b7faf6f4)_ and we will make a reasonable effort to comply with your request. You can also update your information if it changes. 
 
 **6\. Children under 13**
 
-This Website is not designed for children under the age of thirteen (13) and Dianomi does not intend to collect any personal information from children under the age of thirteen (13). However, if children who are under thirteen (13) provide personal information to us, their parents or legal guardian can request we delete this information from our files by sending us an email at _[customerservices@dianomi.com](mailto:customerservices@dianomi.com)_. We will use all reasonable efforts to delete children's information from our files. 
+This Website is not designed for children under the age of thirteen (13) and Dianomi does not intend to collect any personal information from children under the age of thirteen (13). However, if children who are under thirteen (13) provide personal information to us, their parents or legal guardian can request we delete this information from our files by sending us an email at _[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#45263036312a282037362037332c26203605212c242b2a282c6b262a28)_. We will use all reasonable efforts to delete children's information from our files. 
 
 **7\. Security**
 
-We have put in place various security measures in accordance with industry standards to protect the security of your personal information both online and offline. If you have any questions about security you can email us at _[customerservices@dianomi.com](mailto:customerservices@dianomi.com)_. 
+We have put in place various security measures in accordance with industry standards to protect the security of your personal information both online and offline. If you have any questions about security you can email us at _[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#65061016110a080017160017130c06001625010c040b0a080c4b060a08)_. 
 
 **8\. Call Recording**
 
@@ -67,7 +67,7 @@ Calls to and from dianomi may be recorded for quality and training purposes.
 
 **9\. How to contact us**
 
-If you have any questions or comments on this Privacy Policy please contact us at _[customerservices@dianomi.com](mailto:customerservices@dianomi.com)_. 
+If you have any questions or comments on this Privacy Policy please contact us at _[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#781b0d0b0c17151d0a0b1d0a0e111b1d0b381c111916171511561b1715)_. 
 
 Dianomi Ltd   
 10 Greycoat Place   
