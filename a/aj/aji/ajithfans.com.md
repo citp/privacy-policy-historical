@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajithfans.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608185504id_/http%3A//ajithfans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajithfans.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215135340id_/http%3A//www.ajithfans.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Ajithfans - Actor Ajith Kumar E-Fans Association
 
@@ -24,4 +24,4 @@ Ajithfans may use the information to give you very customized experience and del
 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you’re online.
 
-In case of any concern about your privacy, please write to us at [ admin@ajithfans.com](mailto:adminr@ajithfans.com), we will respond to you immediately.
+In case of any concern about your privacy, please write to us at [ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ea8b8e87838498aa8b80839e828c8b8499c4898587), we will respond to you immediately.
