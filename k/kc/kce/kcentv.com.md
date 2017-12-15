@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcentv.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630112006id_/http%3A//www.kcentv.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcentv.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215151926id_/http%3A//www.kcentv.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | KCENTV.com
 
