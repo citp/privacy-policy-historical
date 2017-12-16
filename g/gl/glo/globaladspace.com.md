@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globaladspace.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627231619id_/http%3A//www.globaladspace.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaladspace.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216200348id_/http%3A//globaladspace.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Globaladspace | Ad Network | Faq's
+# Globaladspace | Ad Network
 
 Global Ad Space is The Global Audience Platform enabling advertisers and marketers across the world to communicate with their audiences and helping publishers to grow their revenues with better optimization and campaign planning. We are headquartered in US, with an office in Washington, USA. We provide this privacy policy so that we may inform you about how our ad optimization technology, including our Ad Network Platform for online advertisers including Real-Time Bidding Service (collectively, the “Service”) gathers and processes information on behalf of (i) advertisers, agencies and ad networks, and any other media-buying clients (collectively “Demand Partners”); and (ii) website owners, mobile application owners, ad networks, ad exchanges, sell-side platforms and any other suppliers of advertising inventory for sale (collectively “Supply Partners”); wherein Demand Partners and Supply Partners in (i) and (ii) above together are “Clients”.
 
