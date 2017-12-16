@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualnewspaper.it privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620080121id_/http%3A//www.miles33.com/news/privacy-cookies/5607/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualnewspaper.it privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216015936id_/http%3A//www.miles33.com/news/privacy-cookies/5607/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Miles33 - Miles33
 
