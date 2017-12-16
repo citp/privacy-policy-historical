@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630012118id_/http%3A//www.eddiebauer.com/company-info/company-info-privacy-and-security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216140138id_/http%3A//www.eddiebauer.com/company-info/company-info-privacy-and-security.jsp) for the most accurate reproduction.*
 
 # Privacy And Security | Company Information | Eddie Bauer
 
@@ -84,13 +84,19 @@ If you receive a suspicious email appearing to come from Eddie Bauer, such as on
 You should not respond directly to suspicious email. And do not click on or open any hyperlink embedded in the suspicious email.
 
 There are a few common features of fraudulent emails that can help you identify them as spam. The two most frequent are:  
-a) receiving an email that contains mistakes such as misspelled words or grammatical errors, and  
-b) receiving an email that asks for your confidential information or asks you to take immediate action on your account.  
+
+
+  1. receiving an email that contains mistakes such as misspelled words or grammatical errors, and
+  2. receiving an email that asks for your confidential information or asks you to take immediate action on your account.
+
 
 
 We encourage all of our customers to protect themselves and their information:  
-a) do not share your credentials or account information with any third party, and  
-b) make sure that your system is properly patched, running anti-virus and a personal firewall.  
+
+
+  1. do not share your credentials or account information with any third party, and
+  2. make sure that your system is properly patched, running anti-virus and a personal firewall.
+
 
 
 If you have already provided information in response to a suspicious email that appeared to have been sent by Eddie Bauer, you may report the suspicious email by forwarding it to[abuse@eddiebauer.com.](mailto:abuse@eddiebauer.com).  
