@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kralagario.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616223611id_/http%3A//kralagario.com/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kralagario.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216014053id_/http%3A//kralagario.com/privacy.txt) for the most accurate reproduction.*
 
 # 
 
