@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the royalyouth.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026195227id_/http%3A//royalyouth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalyouth.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216142108id_/http%3A//royalyouth.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Royal Youth
+# PRIVACY POLICY
 
 ## Privacy Policy
 
-Your privacy is important to [us](http://royalyouth.com/2012/04/how-to-deactivate-facebook-timeline-2/). To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Your privacy is important to [us](http://royalyouth.com/how-to-deactivate-facebook-timeline-2.html). To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-[Google](http://royalyouth.com/2012/12/twitter-reaches-200-million-monthly-active-users/) Adsense and the DoubleClick DART Cookie  
-[Google](http://royalyouth.com/2012/12/twitter-reaches-200-million-monthly-active-users/), as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+[Google](http://royalyouth.com/twitter-reaches-200-million-monthly-active-users.html) Adsense and the DoubleClick DART Cookie  
+[Google](http://royalyouth.com/twitter-reaches-200-million-monthly-active-users.html), as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
@@ -21,4 +21,4 @@ We have included links on this site for your use and reference. We are not respo
 
 Contact Information
 
-Concerns or questions about this privacy policy can be directed to http://royalyouth.com/contact-[us](http://royalyouth.com/2012/04/how-to-deactivate-facebook-timeline-2/)/ for further clarification.
+Concerns or questions about this privacy policy can be directed to http://royalyouth.com/contact-[us](http://royalyouth.com/how-to-deactivate-facebook-timeline-2.html)/ for further clarification.
