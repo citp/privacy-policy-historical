@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edudemic.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611144158id_/http%3A//www.edudemic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edudemic.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216022230id_/http%3A//www.edudemic.com/privacy) for the most accurate reproduction.*
 
 # Terms & Privacy Policy | Edudemic
 
