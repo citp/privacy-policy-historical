@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brilliantmaps.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620102439id_/http%3A//brilliantmaps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantmaps.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216144444id_/http%3A//brilliantmaps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For BrilliantMaps.com - Brilliant Maps
 
-This privacy policy has been compiled by BrilliantMaps.com to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. 
+This privacy policy has been compiled by BrilliantMaps.com (owned by Brilliant British Ltd, Company number 10490224 (Registered in England and Wales), Registered office address: 2nd Floor 167-169 Great Portland Street, London, United Kingdom, W1W 5PF.) to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. 
 
 Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
