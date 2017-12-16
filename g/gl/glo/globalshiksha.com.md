@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalshiksha.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141536id_/http%3A//www.globalshiksha.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalshiksha.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216161456id_/http%3A//www.globalshiksha.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policies of globalshiksha.com
+# Privacy Policy | Globalshiksha.com
 
 Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. 
 
