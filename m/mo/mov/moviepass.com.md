@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviepass.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606233602id_/https%3A//www.moviepass.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviepass.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216103626id_/https%3A//www.moviepass.com/content/privacy) for the most accurate reproduction.*
 
 # MoviePass - Privacy Policy
 
@@ -62,12 +62,11 @@ As we update and expand our services, we may make changes to this policy. You sh
 
 ### CONTACT
 
-If you have questions concerning your account, please contact Customer Service. If you have questions concerning this Privacy Policy, including the treatment of the personal information associated with your account, please contact: support@MoviePass.com.
+If you have questions concerning your account, please contact Customer Service. If you have questions concerning this Privacy Policy, including the treatment of the personal information associated with your account, please open a customer support ticket [here](https://moviepass.zendesk.com/hc/en-us/requests/new).
 
 MoviePass®  
-175 Varick Street, Suite 609  
+175 Varick Street  
 New York, NY 10014  
-877-646-2892   
 www.moviepass.com
 
 Last updated: February 4, 2014
