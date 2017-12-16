@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cedato.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609212038id_/https%3A//cedato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedato.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216012122id_/https%3A//cedato.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cedato
 
@@ -22,9 +22,7 @@ We collect and aggregate device information (such as hardware model, operating s
 
 **Log information**
 
-When you use our services or view ads and content, we may collect and store certain information in server logs. This may include but not limited to:
-
-, video play events, information such as crashes, system activity, browser type, browser language, the date and time of your request and referral URL and Cookies that may uniquely identify your browser.
+When you use our services or view ads and content, we may collect and store certain information in server logs. This may include but not limited to: Video play events, information such as crashes, system activity, browser type, browser language, the date and time of your request and referral URL and Cookies that may uniquely identify your browser.
 
 **Location information**
 
