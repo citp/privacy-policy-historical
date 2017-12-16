@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waridtel.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609095635id_/http%3A//www.waridtel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waridtel.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216231456id_/http%3A//www.waridtel.com/privacy-policy) for the most accurate reproduction.*
 
 # Warid Telecom :: Privacy Policy
 
