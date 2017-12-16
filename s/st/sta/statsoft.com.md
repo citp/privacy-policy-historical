@@ -1,148 +1,166 @@
-> *The following text is extracted and transformed from the statsoft.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612211828id_/http%3A//www.quest.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statsoft.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216011227id_/https%3A//www.tibco.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Quest Software
+# TIBCO Web Site Privacy Policy | TIBCO Software
 
-**Information We Collect**
+TIBCO Software Inc. ("TIBCO" "we" or "us") is committed to protecting our users' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Websites [www.tibco.com](https://www.tibco.com/), [www.tibcommunity.com](https://community.tibco.com/), [jaspersoft.com](https://www.jaspersoft.com/), and [www.tibbr.com](http://www.tibbr.com/), (our "Sites"); our hosted services TIBCO® Reward, TIBCO® Geoanalytics, TIBCO® Cloud MDM, TIBCO® Clarity, TIBCO Formvine, TIBCO Nimbus™ Service, TIBCO Nimbus™ Maps, TIBCO Spotfire® Cloud, TIBCO® Mashery, TIBCO® Cloud Integration (as accessed via TIBCO® Cloud), TIBCO® Simplr, and TIBCO® Cloud Compute Grid (our "Services"); and our mobile applications tibbr®, TIBCO® Nimbus Storyboard Player, TIBCO JasperMobile™ and TIBCO Spotfire® Analytics (our "Mobile Apps"); collectively our "Offerings". Please read this Privacy Policy ("Policy") carefully to understand how we will use and protect your personal information. The Policy also describes the choices available to you regarding how you can access and update this information. Changes to this Policy will be announced on the home page of our Sites and Mobile Apps so please check back periodically.
 
-We may ask you to provide Personal Information when you:
+### EU-U.S. Privacy Shield
 
-  * Use This Website;
-  * Register our products or for an account on This Website;
-  * Download a software trial or update;
-  * Contact us, including for sales or technical support;
-  * Participate in a marketing/sales promotion or an online survey;
-  * Subscribe to our newsletters, promotional emails or other materials;
-  * Request information about our products, quotes, downloads or white papers;
-  * Apply for credit or financing; or
-  * Register for a webinar.
+TIBCO participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce's Privacy Shield List](https://www.privacyshield.gov/list).
 
+TIBCO is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf in certain circumstances. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, TIBCO is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Personal Information we request may include your email address, name, home address, billing information and telephone number. We may also collect demographic information, such as your business or company information, age, gender, interests, preferences, and geographic location. Forms that you choose to complete will indicate whether information requested is mandatory or voluntary.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-We may collect information about your visits to This Website, including the pages you view, the links and advertisements you click, search terms you enter, and other actions you take in connection with This Website. We may also collect certain information when you visit This Website or third-party websites, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our sites if you click on a link on our sites. We may also collect information when you open email messages from us or click on links within those email messages.
+TIBCO acknowledges that under Privacy Shield there exists a right to access your personal information. Please see our "Services" section below for further detail regarding access.
 
-We may combine the information we collect as a result of your interactions with us with information obtained through other sources within our affiliated and subsidiary companies for various reasons including to offer you a more consistent and personalized experience in your interactions with us. We may also supplement the information we collect with information obtained from other sources.
+This Policy will explain the following regarding use of our Site:
 
- **How We Use Personal Information**
+  1. What information do we collect from you?
+  2. With whom do we share your information?
+  3. How may you update, correct, or delete your Personal Information?
+  4. What security precautions are in place to protect against the loss, misuse, or alteration of your information?
+  5. "Cookies" and other Tracking Technologies
+  6. Children, Parental Consent, and Privacy
+  7. You should carefully review privacy policies of any third party sites accessible from our Site.
+  8. Contacting us about privacy questions or concerns
+  9. Privacy Policy changes
 
-We use your Personal Information to:
 
-  * Deliver the products and support or carry out the transactions you have requested;
-  * Send communications to you, such as your transaction status (for example, order confirmations), information about products and services available from our portfolio and from our affiliated and subsidiary companies, event announcements, important product notices including those announcing changes to our terms or policies, information about particular programs in which you have chosen to participate, promotional offers and surveys;
-  * Advertise and market our software product lines by delivering targeted advertisements on This Website and other sites,;
-  * Administer, customize, personalize, analyze and improve our products, services (including the content and advertisements on This Website), technologies, communications and relationship with you;
-  * Enforce our conditions of sale, website terms and/or separate contracts (if applicable) with you;
-  * Prevent fraud and other prohibited or illegal activities;
-  * Protect the security or integrity of This Website, our business, or our products or services; or
-  * Otherwise, as disclosed to you at the point of collection or as required or permitted by law.
 
+## 1\. What information do we collect from you?
 
+In order to better provide you with services, we collect two types of information about its visitors: Personal Information and Non-Personal Information. Our primary goal in collecting information from you is to provide you with a smooth and efficient experience while using our Offerings.
 
-Personal Information collected may be stored and processed in the United States or any other country in which the entities represented by our affiliated and subsidiary companies or Business Partners maintain facilities. We ensure that such storage and processing is subject to appropriate levels of protection to safeguard your Personal Information.
+### Personal Information
 
- **Disclosing Personal Information**
+Personal Information refers to the specifics of who you are, such as your name, address, telephone number, email address and any other information needed to provide a service to you while using our Offerings. We gather certain information automatically and store it in log files. We log your Internet Protocol ("IP") address to give us an idea of which part of our website you visit and how long you spend there. We may combine this automatically collected information with other information we collect about you to improve services, marketing, analytics, or site functionality.
 
-We may share Personal Information with our affiliated and subsidiary companies or Business Partners to carry out transactions you request, to make our business more responsive to your needs, to provide you with information about our products and services, or for research and analysis. We may also disclose Personal Information in connection with legal orders from law enforcement or other government bodies; as required by law or regulation; to protect our rights as well as those of our affiliated and subsidiary companies, our customers, the public, or others; to combat fraud or criminal activity; or with your consent.
+When you download and use our Mobile Apps, we automatically collect information regarding your device system and performance information, such as operating system version, operation system type, hardware usage statistics, and app version. We may also access the device file storage for photos, microphone, camera, and contacts. You can opt out of this at the device level.
 
-In addition, we may share Personal Information with Business Partners that help us or our affiliated and subsidiary companies carry out transactions you request, customize, analyze and/or improve our communications or business relationship with you. Such Business Partners may include a payment processor to bill you for services and an email service provider to send out emails on our behalf. These communications may include requests relating to our products or services. We will only share Personal Information with Business Partners who share our commitment to protecting your Personal Information. Except as described above, we will not disclose Personal Information to third parties for their own marketing purposes unless you have provided consent.
+TIBCO collects Personal Information when you register with TIBCO for a TIBCO account as a customer, potential customer, or guest user, when you use certain TIBCO products or services, when you register to attend a seminar or participate in an online forum, blog, or a voluntary survey, when you ask to be included in an email or other mailing list (see "Choice/Opt-Out" below), when you submit an entry for promotions, or when you submit your Personal Information to TIBCO for any other reason. We use the Personal Information that we collect to send you information that you have requested, respond to an inquiry, or to facilitate the features in our Offerings as described in this Policy. From time to time, TIBCO receives Personal Information from business partners and vendors. TIBCO only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Policy.
 
-We may share information with a purchaser of all or part of the companies or products comprising our portfolio, including our affiliated and subsidiary companies.
+When using our Mobile Apps, we will provide you the option to add your location in conjunction with some features of the Mobile App such as adding your location to a post. We ask you to opt into providing us with your geo-location data each time you provide it. If you no longer wish to allow us to track your geo-location information in the Mobile App, you may turn this off at the device level.
 
-We may aggregate or de-identify information so that it does not identify you and share that and other non-Personal Information with third parties for any purpose.
+### Services
 
- **Selecting Your Communications Preferences and Opting Out of Marketing**
+TIBCO collects information on behalf of our Clients and has no direct relationship with the individuals whose personal data it possesses. The use of this data will be limited to the purpose of providing the service for which our Clients have engaged TIBCO. If you are a customer of one of our Clients and would no longer like to be contacted by them, please contact the Client that you interact with directly. We may transfer Personal Information to companies that help us provide our services. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients. If you are a customer of one of our Clients and would like to correct, amend, or delete inaccurate data, direct your inquiry to our Client (the data controller). If the Client requests TIBCO to remove the data, we will respond to that request in 30 days. TIBCO will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Clients. TIBCO will also retain this Personal Information as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-You may choose to receive or not receive marketing communications from us by indicating your preferences.  If you would prefer not to receive future marketing communications, or wish to change or modify information previously provided or delete inaccuracies, please contact us at [listmaster@quest.com](mailto:listmaster@quest.com). Upon receipt of your request, your information will be updated as soon as possible, but no later than ten (10) days after our receipt of your request. We will respond to all requests for access to your Personal Information within 30 days. We will retain your Personal Information for as long as your account is active or as needed to provide you services and as necessary to comply with our legal, regulatory or compliance obligations. Even if you opt out of receiving marketing communications, we may still communicate with you in connection with servicing your account, fulfilling your request, or administering any promotion or any program in which you may have elected to participate.
+### Social Media Widgets
 
- **Collection and Use of Children's Personal Information**
+Our Sites include Social Media Features or interactive mini-programs. These Features may collect your IP address, which page you are visiting on our Sites, and may set a cookie to enable the Features to function properly. Social Media Features are either hosted by a third party or hosted directly on our Sites. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-We take children's privacy seriously. We do not knowingly collect Personal Information from children under the age of 13 through This Website. If you are under 13 years of age, please do not submit any Personal Information through This Website without the express consent and participation of a parent or guardian.
+### Blogs & Testimonials
 
- **Cookies and Web Beacons**
+If you comment on the blog, you should be aware that any Personal Information you submit there can be read, collected, or used by other users of the blog, and could be used to send you unsolicited messages. We are not responsible for the Personal Information you choose to submit in the blog. To request removal of your Personal Information from our blog or community forum, contact us at [tibcommunity@tibco.com](mailto:tibcommunity@tibco.com). In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
 
- **How We Use Cookies**
+We display personal testimonials and other endorsements of satisfied customers on our Sites. With your consent, we may post your testimonials along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@tibco.com](mailto:privacy@tibco.com).
 
-This Website uses "cookies" to enable you to sign in to our services and to help personalize your online experience. A cookie is a piece of text that is placed on your computer's hard drive. Depending on the settings you have selected, your browser adds the text to your device as a small file. You can change the browser settings as described below; many browsers are set to accept cookies by default. We use cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to enter the same information repeatedly.
+Access to certain TIBCO Offerings require a login and a password. The use of those Offerings, and the information or programs downloadable from those Sites, may be governed by a written agreement between your employer and TIBCO. Unless you request deletion of your Personal Information as specified below, your Personal Information may be retained by TIBCO to verify compliance with the agreement, log software licenses granted, to track software downloaded from those pages, or track usage of other applications available on those pages.
 
-You have the ability to accept or decline cookies. Many web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of This Website and services that depend on cookies. The Help portion of your web browser, most likely found on the toolbar, typically tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+### Referral Services
 
- **Targeted Display Advertising**
+If you choose to use our referral service to tell your contacts about our Offerings or invite a colleague into your network, we will ask you for your contact's name and email address. We will automatically send your contact a one-time email inviting him or her to visit us. TIBCO does not store this information and uses it for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-We also work with advertising and personalization Business Partners that use cookies to help us display personalized content and appropriate advertising during your visits to This Website and other websites. Cookies placed by these Business Partners also assist us with measuring the performance of our advertising campaigns.
+### Single Sign-On
 
-For more information regarding the privacy and data collection practices of third parties that use cookies for advertising from This Website, including information on how to opt out of such cookies please use the following links.
+You can log into our Sites using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you with the option to share with us certain personal information, such as your name and email address, to pre-populate our sign-up form. Services like Facebook Connect give you the option to post information to your social media profile page to share with others within your network about your activities on our Sites.
 
- **Adobe:** Information regarding the privacy and data collection practices for Omniture.com (offered by Adobe) is located at <http://www.omniture.com/en/privacy/policy>.
+### Data Retention
 
- **Google & DoubleClick: ** Information regarding the privacy and data collection practices for DoubleClick (offered by Google) is located at <http://www.google.com/privacy/privacy-policy.html>.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Non-Personal Information: Non-Personal Information refers to information that does not by itself identify a specific individual. We gather certain information about you based upon the pages that you access in our offerings using various tracking technologies. This information is compiled and analyzed on both a non-aggregated and an aggregated basis. (See "Cookies" section below)
 
- **ELOQUA:** Information regarding the privacy and data collection practices for Eloqua is located at <http://www.eloqua.com/trust/Privacy_Policy.html>.
+### Communications
 
- **Marketo:** Information regarding the privacy and data collection practices for Marketo is located at <http://www.marketo.com/privacy.php>.
+#### Special Offers and Updates
 
- **Facebook:** Information regarding the privacy and data collection practices for Facebook is located at <https://www.facebook.com/policy.php>.
+We will occasionally send you information on products, services, special deals, and promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see "Choice and Opt-out."
 
- **RocketFuel:** Information regarding the privacy and data collection practices for RocketFuel is located at <http://rocketfuel.com/privacy-policy>.
+#### Newsletters
 
- **Quantcast:** Information regarding the privacy and data collection practices for Quantcast is located at [https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy](https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/).
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
 
- **Chango:** Information regarding the privacy and data collection practices for Chango is located at <http://www.chango.com/privacy/policy/>.
+#### Push Notifications
 
- **Spiceworks:** Information regarding the privacy and data collection practices for Spiceworks is located at <http://www.spiceworks.com/privacy/>.
+When you sign up to use our Mobile Apps, we will ask you if you wish to receive push notifications which we use to keep you updated on the activity that occurs within the Mobile App. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
 
- **AppNexus:** Information regarding the privacy and data collection practices for AppNexus is located at <http://www.appnexus.com/privacy-policy>.
+#### Service-Related Announcements
 
- **MediaMath:** Information regarding the privacy and data collection practices for MediaMath is located at <http://www.mediamath.com/privacy-policy/>.
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
 
- **theTradeDesk:** Information regarding the privacy and data collection practices for theTradeDesk is located at <http://www.thetradedesk.com/privacy-policy/>.
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. Please see "Choice and Opt-out."
 
- **LeadLander:**  Information regarding the privacy and data collection practices for LeadLander is located at <https://www.leadlander.com/privacy.html>https://www.leadlander.com/privacy.html
+#### Customer Service
 
-Similarly, third parties use cookies to deliver advertising for companies other than those within our portfolio to you on the Internet, based on your visits to This Website and other websites, and to measure the effectiveness of those advertising campaigns. These cookies can be effective whether you are on This Website or another website. These cookies assist the third parties in identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the website from which you came before arriving at a web page.
+Based upon the Personal Information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
- **“Do Not Track” Signals**
+## 2\. With whom do we share your information?
 
-Please note that while you may have the opportunity to opt out of targeted advertising through links on the advertisements themselves and you may be able to control the use of cookies through your web browser as described in the “How We Use Cookies” section above, some web browsers also may give you the ability to enable a “do not track” setting.  This setting sends a special signal to the websites you encounter while web browsing. This “do not track” signal is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled still have the ability to accept cookies. Our system does not respond to web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Statement. For more information about “do not track,” visit [www.allaboutdnt.com](https://allaboutdnt.com/).
+Because TIBCO is a global company, your Personal Information may be shared with other TIBCO offices or subsidiaries around the world to provide the services that you have requested. All such entities are governed by this Privacy Policy or are bound by the appropriate confidentiality and data transfer agreements.
 
- **Targeted Email Marketing**
+TIBCO will share your personal information with third parties only in ways that are described in this privacy policy. We do not sell your Personal Information to third parties. Your personal information is never shared outside TIBCO without your permission, except under conditions explained below. Inside TIBCO, data is stored in controlled servers with limited access. Your information may be stored and processed in the United States or any other country where TIBCO, its subsidiaries, affiliates, or agents are located.
 
-Some marketing you receive, including email marketing, may also be personalized based on your visits to This Website and your browsing and purchase history. In addition, when you click on some links in email marketing you receive, our email service provider may place a cookie on your browser. This cookie would be linked to your email address and used to gather information about the products and services you view on This Website. Information gathered may be used to personalize and customize future email marketing messages you receive. You may opt out of this use by clicking on the unsubscribe link provided in every personalized email marketing message you receive sent from or on behalf of us.
+TIBCO may send your Personal Information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of TIBCO to provide a product or service to you such as a marketing partner, mapping service provider or Web analytics company (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners. We will also disclose your Personal Information if required to do so by law, to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our offerings. We reserve the right to disclose your Personal Information when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Offerings. If TIBCO is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Offerings of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
 
- **How We Use Web Beacons**
+### Choice/Opt-out
 
-We, or our Business Partners, may use web beacons on This Website, in our email messages, in our advertisements on other websites, or in our advertisements in others' email messages. Similarly, third parties whose content or advertisements appear on This Website may also place web beacons in their ads or emails for purposes of measuring the effectiveness of the content, advertisements or email messages.
+We provide you the opportunity to 'opt-out' of having your Personal Information used for certain purposes, when we ask for this information.
 
-A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or email message. Web beacons help us measure the effectiveness of This Website and our advertising in various ways. For example, web beacons may count the number of individuals who visit This Website from a particular advertisement or who make a purchase from This Website after viewing a particular advertisement or they may tell us when a web page is viewed and provide a description of the page where the web beacon is placed. Web beacons may also measure the effectiveness of our email campaigns, by counting the number of individuals who open or act upon an email message, determining when an email message is opened and determining how many times an email message is forwarded.
+#### Newsletters
 
-The information we collect through web beacons may include some limited Personal Information, and web beacons allow us to recognize users by accessing our cookies. We may also combine the information that we collect through web beacons with other information we have collected from you. We use all of this information to better tailor our marketing to you and may use this information for other purposes, such as to enable a shopping cart, customize content on This Website and undertake internal research.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@tibco.com.](mailto:privacy@tibco.com)
 
-We prohibit web beacons on This Website from being used by third parties to access Personal Information. We may allow Business Partners to compile individual information or aggregated statistics from the use of web beacons on This Website to determine the effectiveness of online marketing and to develop statistics on how often clicking on an advertisement results in a purchase or other action on the advertiser's site. Aggregate information is anonymous and may include demographic and usage information. No Personal Information about you is shared with Business Partners for this research.
+#### Push Notifications
 
-You can make some web beacons unusable by rejecting cookies in your web browser.
+If you wish to no longer receive the push notifications you have opted into, you may turn them off at the device level.
 
- **How We Secure Personal Information**
+#### Advertising
 
-We are committed to protecting the security of Personal Information. We use a variety of security technologies and procedures to help protect Personal Information from unauthorized access, use and disclosure. When you provide us with sensitive Personal Information (such as financial information) we encrypt that information via SSL. While we strive to protect your Personal Information, we cannot ensure or guarantee that the Personal Information or private communications you transmit to us will always remain confidential, and you do so at your own risk. If you have any questions regarding security you can contact us at [webmaster@quest.com](mailto:webmaster@quest.com).
+We partner with third parties to either display advertising on our Sites or to manage our advertising on other sites. These parties may use technologies such as cookies to gather information about your activities on our Sites and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here (or if you are located in the European Union, click here). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
- **Social Media Features**
+## 3\. How may you update, correct, or delete your Personal Information?
 
-This Website includes social media features, including Facebook “Like” button and Twitter “Follow” button. These features may collect your IP address, which page you are visiting on This Website, and may set a cookie to enable the Feature to function properly. Social media features are either hosted by a third party or hosted directly on This Website. Your interactions with these features are governed by the privacy policy of the company providing it.
+If your Personal Information changes, or if you no longer desire our service, you may correct, update, amend, or delete/remove it by emailing us at [privacy@tibco.com](mailto:privacy@tibco.com). We will respond to your request within 30 days.
 
- **Public Forums**
+## 4\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?
 
-This Website offers publicly-accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blog or community forum, contact us at [webmaster@quest.com](mailto:webmaster@quest.com). In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
+We employ industry-recognized information technology to protect the security of the information you submit to us, both during transmission and once we receive it. The importance of security for all Personal Information associated with our users is of utmost concern to us. Our secure servers protect this information using password protection and advanced encryption, and we may use firewall technology for additional protection. When you enter sensitive information (such as a credit card number, login information for our Services, or Geo-Location information) on our Offerings, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
- **Links to Third-Party Websites and Services**
+Furthermore, all of the user data we collect is protected against unauthorized access by physical security means.
 
-This Website may contain links to third-party sites. We cannot control and are not responsible for the privacy practices of such third-party sites. We encourage users to be aware when they leave This Website, and to read the privacy statements of each website they visit. This Privacy Statement applies only to This Website.
+We also encourage our partners and service providers to adopt and follow stringent consumer privacy policies. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Offerings, you can contact us at [privacy@tibco.com](mailto:privacy@tibco.com).
 
- **Effective Date and Notification of Changes to our Privacy Statement**
+## 5\. "Cookies" and other Tracking Technologies
 
-This Privacy Statement is effective as of June 16, 2015. We reserve the right to change this Privacy Statement at any time. If we materially change this Privacy Statement, we will either notify you by email (sent to the e-mail address specified in your account) or post a prominent notice on This Website. Changes are effective as of the date we post them on the privacy statement page of This Website. We encourage you to periodically review this Privacy Statement.
+We use cookies for the limited purposes of enhancing your visit to our Offerings and to enable us to track and target the interests of our users. A cookie cannot be read by a website or mobile application other than the one that set the cookie. No other company will have access to our cookies. A cookie cannot retrieve any other data from your hard drive or device, pass on a computer virus, or capture your email address. Our cookies are not tied to Personal Information.
 
- **Contact Us**
+Most browsers and devices are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you have received a cookie, or alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features on our Site if you choose not to accept cookies. Some of the third party web-monitoring providers use cookies and other tracking technologies on our Sites.
 
-If you have questions or concerns regarding this Privacy Statement, please contact us at [webmaster@quest.com](mailto:webmaster@quest.com) or via postal mail at 4 Polaris Way, Aliso Viejo, CA 92656. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [listmaster@quest.com](mailto:listmaster@quest.com). If you would like to request to view, edit or delete your private information, or if you have a complaint or concern about a violation of your privacy rights, contact us at [privacy@quest.com](mailto:privacy@quest.com). We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, and for other necessary business purposes.
+TIBCO and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-Page last updated: 06/01/2017
+### Mobile Analytics
+
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personal information you submit within the mobile application.
+
+## 6\. Children, Parental Consent, and Privacy
+
+The Children's Online Privacy Protection Act took effect on April 21, 2000, and imposes certain requirements on Web sites directed toward children under the age of 13 that collect information on those children, or on Web sites that know they are collecting Personal Information on children under the age of 13. Our Offerings are not directed toward children under age 13. We do not knowingly collect information from anyone under age 13. If we find out that we have collected information from a child under age 13, we will delete that information immediately.
+
+## 7\. You should carefully review privacy policies of any third party sites accessible from our Sites
+
+Other sites accessible through our Sites have their own privacy policies and data collection, use and disclosure practices. Please consult each site's privacy policy. We are not responsible for the policies or practices of third parties. Please be aware that our Sites may contain links to other sites on the Internet that are owned and operated by third parties. This Privacy Policy does not cover the information practices of those Web sites linked to our Sites. These other sites may send their own cookies to users, collect data, or solicit Personal Information. We cannot control this collection of information. You should contact these sites directly if you have any questions about their use of the information that they collect.
+
+## 8\. Contacting us about privacy questions or concerns
+
+If you have any questions about this Privacy Policy, the practices of our offerings, or your dealings with our offerings, please contact us by sending an email to [privacy@tibco.com](mailto:privacy@tibco.com) or you can write to us at:
+
+TIBCO Software Inc.  
+Attention: Legal Department/Privacy Committee  
+3303 Hillview Avenue  
+Palo Alto, CA 94304
+
+## 9\. Privacy Policy changes
+
+This Privacy Policy was last changed on April 3, 2017. If we make changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. Any change, modification, addition, or removal of portions of this Policy that are changes in a material way will be announced on the homepage(s) of our Offerings prior to the change becoming effective. Please be sure to check this page before proceeding to use our Offerings.
