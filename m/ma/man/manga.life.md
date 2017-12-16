@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manga.life privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619124204id_/http%3A//mangalife.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manga.life privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216220943id_/http%3A//mangalife.us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
