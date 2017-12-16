@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504110031id_/https%3A//cosmosmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216145458id_/http%3A//cosmosmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cosmos
 
