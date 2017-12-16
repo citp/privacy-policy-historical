@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webseasoning.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425065534id_/http%3A//webseasoning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webseasoning.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216015122id_/http%3A//webseasoning.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Web Seasoning
 
@@ -13,6 +13,9 @@ Web Seasoning is not responsible for the content of external Internet sites. Yo
 **Visitor Tracking**  : Web Seasoning makes use of analytical softwares such as Google Analytics for statistical purposes. For the purpose of stats your IP (Internet Protocol) Address, browser, screen resolution, operating system are captured. We at Web Seasoning use this information only for statistical purpose and do not share it with any third party.
 
 **User Comments**  : Web Seasoning allows users to comment on the site. However we hold all rights to accept or reject any comments based on our discretion. While commenting on Web Seasoning please refrain from using content that is not suitable. Remember The Risks Whenever You Use The Internet .
+
+Ads by Google   
+
 
 While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to Web Seasoning and you are solely responsible for maintaining the secrecy of any passwords or other account information.
 
