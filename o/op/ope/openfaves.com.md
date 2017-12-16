@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openfaves.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161452id_/http%3A//www.openfaves.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openfaves.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216055932id_/http%3A//www.openfaves.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Bookmarking Service & Directory Submission | Submit Link, Submit Website, Submit URL & Submit Latest News
 
