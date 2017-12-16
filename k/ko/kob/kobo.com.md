@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kobo.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630065517id_/https%3A//www.kobo.com/privacypolicy%3Fstyle%3Donestore%26store%3DUS%26language%3Den-US%26culture%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobo.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216015508id_/https%3A//www.kobo.com/privacypolicy%3Fstyle%3Donestore%26store%3DUS%26language%3Den-US%26culture%3Den-US) for the most accurate reproduction.*
 
 # Privacy Policy
 
