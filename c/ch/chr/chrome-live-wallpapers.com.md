@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrome-live-wallpapers.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623043546id_/http%3A//chrome-live-wallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrome-live-wallpapers.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216192210id_/http%3A//chrome-live-wallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy – chrome-live-wallpapers.com
 
