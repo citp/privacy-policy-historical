@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620112431id_/http%3A//www.idg.co.uk/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216050320id_/http%3A//www.idg.co.uk/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # IDG UK : Privacy Policy
 
