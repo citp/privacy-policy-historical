@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvlicensing.co.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvlicensing.co.uk privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies) for the most accurate reproduction.*
 
 # Official TV Licensing website - TV Licensing privacy and security policies
 
@@ -6,7 +6,7 @@
 
 We (TV Licensing) are committed to safeguarding personal information that you provide to us. This commitment extends to our TV Licensing contractors and subcontractors. Whenever you provide (or someone acting on your behalf provides) us with your personal information, we are legally obliged to use it in line with all laws concerning the protection of such information, including the Data Protection Act 1998 (these laws are referred to collectively in this Privacy Policy as the "data protection laws").
 
-[Back to top](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
+[Back to top](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
 
 **A summary of our approach to privacy and data about you**
 
@@ -47,18 +47,18 @@ In addition to the information you provide us directly, we may record the follow
   * We may also collect information from other parts of the BBC and third parties to help us provide better communications to our customers – for example, to understand whether a TV is being used at an address, whether a property is occupied, or whether there has been a change of address.
   * We may also receive data from other parts of the BBC to help us check if you are using BBC iPlayer and to keep the TV Licensing database accurate and up to date. We may contact you if our records suggest you may need a TV Licence.
   * Information about any access restrictions to a particular property.
-  * Where necessary, we may collect information (such as statements of evidence) relevant to any investigation or prosecution related to a TV Licence offence.
+  * Where necessary, we may collect information (such as records of interview) relevant to any investigation or prosecution related to a TV Licence offence.
   * Information to improve your experience when we communicate with you, such as whether you require letters in braille, or are disabled, or do not speak English very well. We may also capture information like this for analysis purposes to help us improve our service and help us meet our obligations under the Equality Act 2010.
   * Your responses to any Customer Research surveys carried out on our behalf (these will be anonymous unless we tell you otherwise).
-  * Information about your Internet Protocol (IP) address (via the TV Licensing website). Refer to [section 9](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#9) for more details.
+  * Information about your Internet Protocol (IP) address (via the TV Licensing website). Refer to [section 9](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#9) for more details.
 
 
 
-Cookies (via the TV Licensing website) may collect other information. Find out more about cookies in [section 4](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4).
+Cookies (via the TV Licensing website) may collect other information. Find out more about cookies in [section 4](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4).
 
 We will only hold your personal information for as long as it is necessary to do so having regard to the purposes for which it was collected.
 
-[Back to top](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
+[Back to top](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
 
 _* In general we do not store card details, but for payment or savings card customers who make a payment via the call centre, your debit or credit card details will be stored on our secure system until your card expires. We will not process any payments without further instruction from you._
 
@@ -68,7 +68,7 @@ Cookies do lots of different jobs, like letting you navigate between pages effic
 
 Some websites will also use cookies to enable them to target their advertising messages, based for example, on your location and/or browsing habits.
 
-Cookies may be set by the website you are visiting (‘first party cookies’) or they may be set by other websites who run content on the page you are viewing (‘third party cookies’). You can learn more about the [different types of cookies in Section 4.5](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.5).
+Cookies may be set by the website you are visiting (‘first party cookies’) or they may be set by other websites who run content on the page you are viewing (‘third party cookies’). You can learn more about the [different types of cookies in Section 4.5](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.5).
 
 ####  4.1. What is in a cookie?
 
@@ -78,7 +78,7 @@ A cookie is a simple text file that is stored on your computer or mobile device 
 
 Depending on the web browser that you use to access our website, you may have the ability to accept or decline cookies locally within your browser. Options include accepting all cookies automatically, notifying you when a cookie is downloaded, or not receiving cookies at any time. These options may be found in the ‘preferences’ section of your web browser. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. You may find the [www.aboutcookies.org](http://www.aboutcookies.org/) website useful for information on how to change cookie settings in a range of commonly used browsers. If you set your computer to reject cookies, you can still browse www.tvlicensing.co.uk. However, certain functions will not be available to you, including paying for your TV Licence and updating your details.
 
-[How can I control cookies?](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.8)
+[How can I control cookies?](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.8)
 
 ####  4.3. Related links
 
@@ -96,7 +96,7 @@ Depending on the web browser that you use to access our website, you may have th
 
 #####  4.5.1. First Party Cookies
 
-First party cookies are set by the website, or domain, you are visiting (e.g. tvlicensing.co.uk) and only that website can retrieve the information stored in those cookies. You can tell if a cookie is a first party cookie if the host domain for a cookie is the same as the one in the browser. [Find out how to view cookies in your browser](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.8).
+First party cookies are set by the website, or domain, you are visiting (e.g. tvlicensing.co.uk) and only that website can retrieve the information stored in those cookies. You can tell if a cookie is a first party cookie if the host domain for a cookie is the same as the one in the browser. [Find out how to view cookies in your browser](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.8).
 
 #####  4.5.2. Third Party Cookies
 
@@ -106,7 +106,7 @@ Third party cookies are set by an organisation other than TV Licensing. For exam
 
 We use a range of channels (including television, radio and online) in order to raise awareness, explain the law relating to TV Licensing, provide information about ways to pay and deter evaders.
 
-Where online communications are used (for example, banners displayed on other websites by third parties acting on behalf of TV Licensing), a cookie will be sent to your browser from the other website and stored on your computer. These cookies are used for analytical purposes in order to monitor the interaction between, and effectiveness of, our online communications, letters and emails.  We will ensure that cookies set by third parties on behalf of TV Licensing comply with the TV Licensing Privacy Policy and we will not collect personal data during this process. [Find out more in section 4.6 How does TV Licensing use cookies?](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.6)
+Where online communications are used (for example, banners displayed on other websites by third parties acting on behalf of TV Licensing), a cookie will be sent to your browser from the other website and stored on your computer. These cookies are used for analytical purposes in order to monitor the interaction between, and effectiveness of, our online communications, letters and emails.  We will ensure that cookies set by third parties on behalf of TV Licensing comply with the TV Licensing Privacy Policy and we will not collect personal data during this process. [Find out more in section 4.6 How does TV Licensing use cookies?](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.6)
 
 It is the responsibility of third party websites themselves to provide information about non-TV Licensing cookies that may be served from their site. We therefore recommend that you check the cookies policy of any external sites if you would like to know more about their use of cookies. If the host domain for a cookie is different to the one in the browser bar when it was downloaded, then it is a third party cookie.
 
@@ -132,7 +132,7 @@ TV Licensing uses web beacons in emails to tell us if the email has been opened.
 
 As a web beacon forms part of a web page, it is not possible to ‘opt-out’ as such but you can render some of them ineffective by not downloading images in your email.
 
-[How can I view and control different types of cookies?](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.8)
+[How can I view and control different types of cookies?](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.8)
 
 ####  4.6. How does TV Licensing use cookies?
 
@@ -140,11 +140,11 @@ As a web beacon forms part of a web page, it is not possible to ‘opt-out’ as
 
 Cookies enable us to identify your device and track its unique interaction with the TV Licensing website; we don’t use cookies to communicate with you as an individual or to create a personal profile of you. We use cookies that are **strictly necessary** to enable you to move around the site or to provide certain features you have requested - for instance, to pay for your TV Licence or update your details. We also use cookies to help us to measure and improve the **performance** of our website to provide you with a better user experience and measure the effectiveness of our online communications, letters and emails. Finally, we may also use **advertising** cookies in order to present more relevant advertisements on other websites to customers who’ve previously visited the TV Licensing website and who may not have completed a transaction, and then analyse the results.
 
-The [next section (4.7)](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.7) explains these categories of cookie and provides a list of the cookies set by the TV Licensing website along with an explanation of what each of those cookies is used for.
+The [next section (4.7)](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.7) explains these categories of cookie and provides a list of the cookies set by the TV Licensing website along with an explanation of what each of those cookies is used for.
 
 #####  4.6.2.
 
-If you wish to control what cookies are set on your device through the TV Licensing website, then you can find out how to do this in [Section 4.8 How can I view and control cookies?](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.8)
+If you wish to control what cookies are set on your device through the TV Licensing website, then you can find out how to do this in [Section 4.8 How can I view and control cookies?](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.8)
 
 ####  4.7. Categories of cookies used on the TV Licensing website
 
@@ -209,7 +209,7 @@ Find out more about [Amazon’s cookie policy](https://www.amazon.co.uk/gp/help/
   
 ####  4.8. How can I view and control cookies?
 
-If you’d like to view cookies that have been stored on your computer or mobile device you should be able to do so through your browser settings - find out more in sections [4.8.1](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.8.1) and [4.8.2](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.8.2). If you don’t want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
+If you’d like to view cookies that have been stored on your computer or mobile device you should be able to do so through your browser settings - find out more in sections [4.8.1](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.8.1) and [4.8.2](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#4.8.2). If you don’t want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
 
 If you set your computer to reject cookies, you can still browse tvlicensing.co.uk but certain functions will not be available to you. For example, you won’t be able to pay for your TV licence or update your details.
 
@@ -248,7 +248,7 @@ Our online media partner applies this tag to specific pages on the TV Licensing 
 
 Find out more about [Amazon’s cookie policy and how to control them](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909150).  
   
-[Back to top](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
+[Back to top](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
 
 ####  5.1. Summary
 
@@ -264,8 +264,8 @@ We may use the information we have collected for any of the following purposes:
     * enforcing relevant laws;
     * validating and processing refund applications; and
     * performing any other function relevant to TV Licensing;
-  * To communicate with you from time to time about matters relating to your TV Licence. This may be via post, telephone, email, text message or a visit to your property from a TV Licensing enquiry officer. Please refer to [5.4](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.4)-[5.6](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.6) for further details on [how we manage emails and text messages](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.4). We may communicate with you by phone using an automated recorded message: if you are contacted this way then you can unsubscribe at any time and can always choose to speak to a real person if you need to;
-  * To discuss with you, investigate, or otherwise process any complaint, freedom of information request, subject access request (refer to [section 8 regarding the holding of personal information](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#8)) or other correspondence you have initiated with us;
+  * To communicate with you from time to time about matters relating to your TV Licence. This may be via post, telephone, email, text message or a visit to your property from a TV Licensing enquiry officer. Please refer to [5.4](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.4)-[5.6](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.6) for further details on [how we manage emails and text messages](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.4). We may communicate with you by phone using an automated recorded message: if you are contacted this way then you can unsubscribe at any time and can always choose to speak to a real person if you need to;
+  * To discuss with you, investigate, or otherwise process any complaint, freedom of information request, subject access request (refer to [section 8 regarding the holding of personal information](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#8)) or other correspondence you have initiated with us;
   * For training purposes so that we can continuously improve our customer service standards (e.g. by monitoring calls you make to us);
   * To invite you to participate in surveys, which may be automated, about TV Licensing services (participation is always voluntary) and process the results; and
   * For other purposes relating to TV licensing (for example, confirming that no TV Licence is needed at your premises or that your property is currently unoccupied).
@@ -302,7 +302,7 @@ There are a number of different emails you may receive from TV Licensing.
 When paying for your licence, you can choose to have an online version of it sent to you via a link in an email. We'll then send you an email for you to log in to your licence online. You can then save your licence to your device, or print a copy.
 
   2. **Receiving your TV Licence renewal reminders and other important information by email**
-    1. If you pay for your licence via the TV Licensing website tvlicensing.co.uk, you are required to provide a valid email address. We may then email you other messages regarding your TV Licence, including reminders that your licence is about to expire. If you would prefer to receive these messages by post rather than email, you can [change your communication preferences via one of the methods described in section 5.5](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5).
+    1. If you pay for your licence via the TV Licensing website tvlicensing.co.uk, you are required to provide a valid email address. We may then email you other messages regarding your TV Licence, including reminders that your licence is about to expire. If you would prefer to receive these messages by post rather than email, you can [change your communication preferences via one of the methods described in section 5.5](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5).
     2. Whether or not you paid for your licence via the TV Licensing website, you can change the way you receive messages from TV Licensing (including choosing to receive messages via email) by [updating your details](https://web.archive.org/cs/update/multiple-changes/index.app) or by contacting us by phone, email or post.
     3. If you provide your email address to us when writing to us, we will take this as an indication that you are happy for us to send you email communications relating to TV Licensing. You can unsubscribe at any time as explained in section 5.5. 
 
@@ -323,9 +323,9 @@ You may also receive texts if you pay for your TV Licence by cash instalments, w
 
 ####  5.5. How do I stop receiving emails and/or text messages?
 
-There are a number of ways in which you can stop (i.e. unsubscribe from) receiving emails and/or text messages from TV Licensing (refer to [5.5.1](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.1)-[5.5.3](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.3).). When you unsubscribe from either text message and/or email communications, we will record your decision and will not use your email address or mobile phone number for such messages unless you decide to subscribe to such communications again (refer to [5.6](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.6)).
+There are a number of ways in which you can stop (i.e. unsubscribe from) receiving emails and/or text messages from TV Licensing (refer to [5.5.1](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.1)-[5.5.3](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.3).). When you unsubscribe from either text message and/or email communications, we will record your decision and will not use your email address or mobile phone number for such messages unless you decide to subscribe to such communications again (refer to [5.6](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.6)).
 
-You can unsubscribe from email contact at any point (refer to [5.5.3](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.3)). However, if you do so less than a month before your current TV Licence expires, the changes may not come into effect in time to receive a renewal reminder by post, so you may still receive your reminder by email while our systems are being updated.
+You can unsubscribe from email contact at any point (refer to [5.5.3](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.3)). However, if you do so less than a month before your current TV Licence expires, the changes may not come into effect in time to receive a renewal reminder by post, so you may still receive your reminder by email while our systems are being updated.
 
 Market Research emails that you have consented to receive can be stopped by unsubscribing from them.
 
@@ -339,13 +339,13 @@ You can [unsubscribe from receiving emails and/or text messages](https://web.arc
 
 #####  5.5.3. Unsubscribe via the instructions contained in the emails/texts themselves.
 
-You may unsubscribe at any time by following the instructions included within any email or text message that we send to you. Please note that a minority of texts and emails (e.g. receipts for electronic payment) will not contain unsubscribe instructions. If the text or email you receive does not contain an unsubscribe link, you are still able to unsubscribe by using the methods set out at [5.5.1](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.1)-[5.5.2](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.2).
+You may unsubscribe at any time by following the instructions included within any email or text message that we send to you. Please note that a minority of texts and emails (e.g. receipts for electronic payment) will not contain unsubscribe instructions. If the text or email you receive does not contain an unsubscribe link, you are still able to unsubscribe by using the methods set out at [5.5.1](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.1)-[5.5.2](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.2).
 
 ####  5.6. How do I start receiving emails and/or text messages if I’ve previously asked for those messages to be stopped?
 
-If you want to start receiving text messages again simply contact us using the methods described in [5.5.2](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.2). To start receiving emails again, [update your details on the website](https://web.archive.org/cs/update/multiple-changes/index.app) or contact us using the methods described in [5.5.2](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.2).
+If you want to start receiving text messages again simply contact us using the methods described in [5.5.2](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.2). To start receiving emails again, [update your details on the website](https://web.archive.org/cs/update/multiple-changes/index.app) or contact us using the methods described in [5.5.2](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#5.5.2).
 
-[Back to top](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
+[Back to top](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
 
 ####  6.1. If you are the licence holder
 
@@ -357,13 +357,13 @@ If you are not the licence holder but are authorised to update details on the li
 
 Please contact us for full details on who is authorised to update another person’s account details on their behalf.
 
-[Back to top](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
+[Back to top](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
 
 Whilst we make every effort to ensure our records are up to date, **we need your help** to ensure your information is correctly recorded in our systems. Please inform us of any change to your details as soon as you can either by [updating your details using our website](https://web.archive.org/cs/update/multiple-changes/index.app), phoning us on 0300 790 6131*, or sending a letter to TV Licensing, Darlington DL98 1TL.
 
 If you are experiencing any difficulties in updating your information, please contact the TV Licensing Senior Policy Advisor, BBC TV Licensing Management Team, 1st Floor, The Lighthouse, BBC Media Village, 201 Wood Lane, London W12 7TQ.
 
-[Back to top](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
+[Back to top](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
 
 Under the [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents) you have the right to request copies of the personal information we hold about you and to have any inaccuracies corrected. This is known as a Subject Access Request or SAR. The process for making a SAR is to complete the relevant application form and provide two pieces of approved identification together with payment for a £10 fee.
 
@@ -375,7 +375,7 @@ By post to the Data Protection Manager, TV Licensing, Darlington, DL98 1TL.
 
 We will respond within 40 calendar days of receipt of a valid SAR.
 
-[Back to top](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
+[Back to top](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
 
 ####  9.1. Links to other websites
 
@@ -385,11 +385,11 @@ The TV Licensing website may contain links and references to other websites. Ple
 
 Technical information is gathered about you without you actively providing it through the use of Internet Protocol (IP) addresses. An IP address is a number assigned to your computer by your Internet Service Provider (ISP), so you can access the Internet. In most cases an IP address is dynamic (changing from time to time as you connect to the Internet), rather than static (unique to a particular user's computer). We log the IP address of any user visiting the website, but this data is not used to develop a personal profile of you.
 
-[Back to top](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
+[Back to top](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
 
 We may amend this Privacy Policy from time to time. New versions will be posted on the TV Licensing website. If material changes are made to the Privacy Policy, we will notify you by placing a prominent notice on our website.
 
-[Back to top](https://web.archive.org/web/20170609073336id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
+[Back to top](https://web.archive.org/web/20171216071957id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies#top)
 
 If you have any questions, comments or complaints about this Privacy Policy please contact the TV Licensing Senior Policy Advisor at BBC TV Licensing Management Team, First floor, The Lighthouse, BBC Media Village, 201 Wood Lane, London  W12 7TQ, or by emailing [enquiries@tvlicensing.co.uk](mailto:enquiries@tvlicensing.co.uk?subject=TV%20Licensing%20Privacy%20Policy%20Query).
 
