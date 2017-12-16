@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icom.museum privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615165317id_/http%3A//icom.museum/footer/icom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icom.museum privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216022850id_/http%3A//icom.museum/footer/icom-privacy-policy) for the most accurate reproduction.*
 
 # ICOM Privacy Policy- ICOM
 
