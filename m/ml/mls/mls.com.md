@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mls.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627082909id_/http%3A//www.mls.com/Home/PrivacyPolicy.mvc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mls.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216042012id_/http%3A//www.mls.com/Home/PrivacyPolicy.mvc) for the most accurate reproduction.*
 
 # Privacy Policy
 
