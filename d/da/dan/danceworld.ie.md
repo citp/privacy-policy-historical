@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danceworld.ie privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224180914id_/http%3A//www.danceworld.ie/section/Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danceworld.ie privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216114244id_/http%3A//www.danceworld.ie/section/Policy) for the most accurate reproduction.*
 
 # Policy | Danceworld
 
@@ -79,8 +79,8 @@ Also, please note that Dance World is not responsible for the content or privacy
 
 Customers who are unhappy with a purchase for any reason may return them for an exchange or refund provided that they are still in their original condition, in their original packaging and are returned within 30 days. 
 
-A dedicated customer service team is located at our head office in Dublin to handle any problems that you may experience when using the site or to take orders over the phone. Our customer service lines are open from 9.30am- 5.30 pm Monday to Friday. Customer service can be contacted via email ([ **support@danceworld.ie**](mailto:support@danceworld.ie)) or by phone (Ireland: (01 497 6128, UK and Rest of World: 00 353 1 497 6128). 
+There is no refund or exchange on tights or socks for hygiene reasons, this does not affect your statutory rights. 
 
-We are also pleased to provide a mail-order hotline for customers in the Republic of Ireland.
+Regardless of the presence of original tags and whether the item was worn or not, refunds will not be issued for items that we determine cannot be resold. We may make such a determination based on a variety of factors including, but not limited to, the appearance, smell, and/or general condition of the item when it is returned to us.
 
-The number is **1 850 543 198**
+A dedicated customer service team is located at our head office in Dublin to handle any problems that you may experience when using the site or to take orders over the phone. Our customer service lines are open from 9.30am- 5.30 pm Monday to Friday. Customer service can be contacted via email ([ **team@danceworld.ie**](mailto:team@danceworld.ie)) or by phone (Ireland: (01 497 6128, UK and Rest of World: 00 353 1 497 6128). 
