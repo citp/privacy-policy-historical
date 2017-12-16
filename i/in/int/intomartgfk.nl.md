@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the intomartgfk.nl privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615200423id_/http%3A//www.gfk.com/nl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intomartgfk.nl privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216155052id_/http%3A//www.gfk.com/nl/privacy) for the most accurate reproduction.*
 
 # Privacy | GfK Netherlands
 
 Effective date: October 5, 2012  
-Last revised: January 6, 2017
+Last revised: August 23, 2017
 
 GfK respects the privacy of visitors to its websites. This privacy policy ("Privacy Policy") explains how we collect, use, disclose and protect personal data (“Personal Data”) submitted through this website.
 
@@ -16,7 +16,7 @@ This website uses cookies and other technologies to enhance users’ experiences
 This website uses etracker technology (www.etracker.de) to collect visitor behavior data. The data is collected anonymously to be used for marketing and optimization purposes. All visitor data is saved using an anonymous user ID to aggregate a usage profile. Cookies may be used for this purpose. Cookies are small text files that are stored in the visitor’s local browser cache. Using such cookies it is possible to recognize the visitor’s browser. The data collected via etracker technology will not be used to determine the personal identity of the website visitor or compiled with personal data pertaining to the user of the pseudonym unless agreed to separately by the person concerned. The collection and storage of data may be refused at any time with respect to subsequent services.  
 [Refuse data collection](http://www.etracker.com/privacy?et=DXErNm&languageId=2)
 
-Parts of this website use Hubspot [(www.hubspot.com)](http://www.hubspot.com/) to personalize your web experience. Hubspot utilizes log files which are used to help GfK for the operation of the service, to maintain quality of the service, and to provide general, anonymous statistics regarding use of the GfK website. Only if you voluntarily give us personally identifiable information such as name, email address, address, and phone number in order to do business with us, this data may be linked to automatically-collected data. Cookies are also used help you personalize your online experience. Please refer **to HubSpot’s detailed cookie policy** for more information. You have the ability to decline cookies by visiting:<http://we-online.sites.hubspot.com/opt-out>
+HubSpot: Parts of this website use HubSpot [(www.hubspot.com)](http://www.hubspot.com/) to personalize your web experience. Hubspot utilizes log files which are used to help GfK for the operation of the service, to maintain quality of the service, and to provide general, anonymous statistics regarding use of the GfK website. Only if you voluntarily give us personally identifiable information such as name, email address, address, and phone number in order to do business with us, this data may be linked to automatically-collected data. HubSpot also uses cookies to help ersonalize your online experience. Please refer **to HubSpot’s detailed cookie policy** for more information. You have the ability to decline cookies by visiting:<http://we-online.sites.hubspot.com/opt-out>
 
 **Personal data we collect**  
 Through this website, GfK may collect information that can specifically identify you, such as your name, address, telephone number and e-mail address when you voluntarily submit it to us.
@@ -26,8 +26,10 @@ Through this website, GfK may collect information that can specifically identify
 
   * to respond to requests you may make of us, including to provide services that you have requested and participate in activities that you have joined 
   * to contact you and/or provide you with general information as well as information about our products and services from time to time 
-  * improve your browsing experience by personalizing the Website and to improve the Subscription Service 
-send you marketing communications relating to our business which we think may be of interest to you 
+  * To continuously improve and enhance our services, we may send you marketing communications via email relating to our business which may be of interest to you. You can choose the types of communications you want to receive at any time by updating your email preferences. You may also unsubscribe at any time. 
+    * Consent: We will not use your personal data for advertising purposes unless you have freely given your explicit and prior consent.
+    * However, for existing customers, we may use your email address that we obtained from you in the context of our existing customer relationship to provide you with marketing materials relating to similar products or services that you have previously requested, used or participated in. You may, however, object to such use at the time of collection and each time a message is sent. To opt-out of email marketing, follow the instructions within the email that you receive.
+    * Under no circumstances will we advertise to participants in market research projects.
   * to share with agents, contractors or partners of GfK in connection with services that these individuals or entities perform for, or with, our firm. These agents, contractors or partners are restricted from using Personal Data in any way other than to provide services for GfK. We may, for example, provide Personal Data to agents, contractors or partners for hosting our databases, for data processing services, or to send you information that you requested, but those parties cannot use your Personal Data for their own purposes unrelated to the work they are doing for us 
   * to respond to duly authorized information requests of governmental authorities or where required by law 
   * to investigate suspected fraudulent activity in connection with the website or violation of another party’s rights 
@@ -63,7 +65,7 @@ GfK’s legal entities outside the European Union have entered into intra-compan
 
 By using this website, you consent to the transfer, storage, use and disclosure of your personal data among our affiliated companies and non-affiliated service providers, wherever located. GfK’s service providers are contractually bound to respect the confidentiality of your personal data. 
 
-Our Marketing partner, HubSpot, Inc., based in Boston, MA, USA, is participating in and has certified its compliance with the EU-US Privacy Shield Framework.
+Our Marketing partner, HubSpot, Inc., based in Boston, MA, USA, is participating in and has certified its compliance with the EU-US Privacy Shield Framework ([www.privacyshield.gov/welcome](http://www.privacyshield.gov/welcome)).
 
 **Changes to this policy**  
 We reserve the right, at our discretion, to modify our privacy practices and update and make changes to this privacy policy at any time. For this reason, we encourage you to refer to this privacy policy on an ongoing basis. This privacy policy is current as of the "last revised” date which appears at the top of this page. We will treat personal data in a manner consistent with the privacy policy under which it was collected, unless we have your consent to treat it differently. By using this website following any privacy policy change, you freely and specifically give us your consent to collect, use, transfer and disclose your personal data in the manner specified in such then-current privacy policy. 
