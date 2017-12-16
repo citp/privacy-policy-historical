@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-that-is-interesting.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617145639id_/http%3A//all-that-is-interesting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-that-is-interesting.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216215446id_/http%3A//all-that-is-interesting.com/privacy-policy) for the most accurate reproduction.*
 
 # All That Is Interesting's Privacy Policy
 
@@ -41,4 +41,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us an email at pbhnetwork@gmail.com.
+Should you have other questions or concerns about these privacy policies, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
