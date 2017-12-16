@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621075451id_/https%3A//www.freshbooks.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216060538id_/https%3A//www.freshbooks.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FreshBooks
 
@@ -90,7 +90,7 @@ The complexity and connected nature of the system requires that this history exi
 
 When a customer chooses to close an account we will remove your information from our marketing and billing systems. This will ensure that there are not further mailings or billings directed towards the canceled user.
 
-As we continue to refine FreshBooks we will establish a method for the complete removal of all user information from the system without breaking accepted accounting principles for other connected FreshBooks accounts. This document will evolve as these new methods are defined and tested for permanent account deletion. Users wishing to be notified when this development is complete can indicate their wishes via [help@freshbooks.com](mailto:help@freshbooks.com) or 1.866.303.6061.
+As we continue to refine FreshBooks we will establish a method for the complete removal of all user information from the system without breaking accepted accounting principles for other connected FreshBooks accounts. This document will evolve as these new methods are defined and tested for permanent account deletion. Users wishing to be notified when this development is complete can indicate their wishes via [help@freshbooks.com](mailto:help@freshbooks.com) or [1.866.303.6061](https://web.archive.org/web/20171216060538id_/https%3A//www.freshbooks.com/policies/18663036061).
 
 ### Data Retention
 
