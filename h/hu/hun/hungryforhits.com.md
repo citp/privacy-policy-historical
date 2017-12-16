@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungryforhits.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612132917id_/https%3A//hungryforhits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryforhits.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217004319id_/https%3A//hungryforhits.com/privacy.php) for the most accurate reproduction.*
 
 # Hungry For Hits
 
