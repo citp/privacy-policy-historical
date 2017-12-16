@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the djmwanga.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611113745id_/http%3A//www.djmwanga.com/p/blog-page_4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djmwanga.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216234056id_/http%3A//www.djmwanga.com/p/blog-page_4.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY ~ DJ Mwanga
+# PRIVACY POLICY - DJ Mwanga
 
 **If you require any more information or have any questions about our privacy policy, please feel free to contact   by email at djmwanga@gmail.com.
 
@@ -38,5 +38,3 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
 **
-
-USI SAHAU KULIKE
