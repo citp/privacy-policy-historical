@@ -1,113 +1,246 @@
-> *The following text is extracted and transformed from the theintercept.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625025349id_/https%3A//theintercept.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theintercept.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216095330id_/https%3A//theintercept.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — The Intercept
 
-_Effective Date: November 4, 2015_
+_Effective Date: September 29, 2017_
 
-Welcome to  _The Intercept_ , a service of First Look Media Works, Inc. This Privacy Policy describes the types of information that we collect through our website and the related mobile and tablet applications (the “Services”) and what we do with that information.
+Welcome to  _The Intercept_ , a service of First Look Media Works, Inc. ( **“First Look,”** **“we,”** **“our”** or **“us”** ). At _The Intercept_ , we believe in protecting the privacy of our readers. We seek to be fully transparent with users about our data practices and their privacy implications. We encourage to review our Privacy Philosophy and our Donor Privacy Practices, but this Privacy Policy officially governs our information practices and procedures whenever you visit use the Services (defined below) in any way.
 
-Our Services are designed to permit you to access our content without registering or providing personally identifying information. However, as described in more detail below, if you wish to post comments to any of our Services, you’ll need to provide your username and email address.
+This Privacy Policy describes the circumstances under which we collect, use, and share information about you through your use of _The Intercept_ website available at https://theintercept.com/ and related mobile applications (the **“Services”** ). This Privacy Policy does not apply to any information collected outside of the Services, including offline or through other means (for example, via telephone or through mail), unless otherwise stated below. To the extent there is a conflict between this Privacy Policy and our Privacy Philosophy or Donor Privacy Practices, this Privacy Policy will control.
 
-This Privacy Policy applies only to information collected online through the _  Intercept_ website and the related mobile and tablet applications and does not apply to any information that you may provide to us, or that we may collect, offline or through other means (for example, via telephone or through the mail).
+By using the Services, you agree to our collection, use, and disclosure practices, and other activities as described in this Privacy Policy and our Terms of Service. If you do not agree, discontinue use of the Services. If you have any questions about this Privacy Policy, please contact us.
 
-If you have any questions about this Privacy Policy, please [contact us](mailto:privacy@firstlook.org).
+**_1\. COLLECTION AND USE OF YOUR INFORMATION_**
 
-**_PROTECTING THE PRIVACY OF CHILDREN_**
+This policy applies to both **“personally identifying information”** , which is information that identifies you personally (whether alone or in combination), and **“Usage information”** , which is information generated automatically as you navigate through our Services, such as your IP address, device type, operating system, browser information, screen resolution, and browsing history.
 
-Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. Our Services are not directed at children under the age of 13 and we won’t knowingly allow anyone under the age of 13 to provide us any personally identifying information. If you’re under 13, please don’t attempt to post comments on our Services or provide any information about yourself.
+Importantly, we do not control the data collection, use and sharing practices of third parties whose features or content may appear on our Services. The Services include content from and hyperlinks to websites, locations, platforms, or services operated by third parties. Those third parties may independently collect, use and/share your information through those features or content or through Tracking Technologies (defined below) on our Service without first obtaining your consent. The information collected and stored by third parties remains subject to their policies and practices, including whether they share information with us or others, the types of information shared, and your choices on what is visible to others on third party services. We are not responsible for and make no representations regarding the policies or business practices of any third parties and encourage you to familiarize yourself with and consult their privacy policies and terms of use.
 
-**_TYPES OF INFORMATION WE COLLECT_**
+Additionally, if you leave our Services, including through a hyperlink on the Services to a third party service, or access our content hosted on a third party service outside of the Services, you should be aware that third parties may continue to collect information about you. If you choose to click on any links outside of our Services, you do so at your own risk.
 
-The information we gather falls into two categories: (1) information voluntarily supplied by visitors to the Services, for example, when they post comments, sign up to receive our email newsletters, or contact one of the journalists whose work appears on our Services; and (2) tracking information gathered as visitors navigate through our Services, review our email newsletters and other email messages, or “like” our content through Facebook or share our content through Facebook, Twitter, LinkedIn, Google+ or other social media platforms and services we use (“Social Media Services”). This information may be collected directly by us or it may be collected by third-party service providers on our behalf. Third parties whose sites or services are linked to from our Services or from the Social Media Services may be gathering information as well, through processes we don’t control.
+A list of these third parties used in connection with the Services, which may be updated from time to time, is available [here](https://theintercept.com/third-party-table/). This list may not be exhaustive, and will change over time – we encourage you to check back periodically to see the most current list.
 
-_Information You Voluntarily Supply_
+Below are the circumstances under which we will collect data from you on the Services, and how we will use and share that data. There may be other circumstances under which we will collect data from you, and in such circumstances, we will disclose to you at the time of collection how we will use and share your data.
 
-We may collect and store information that you voluntarily supply to us while on our Services. This may include personally identifying information if you choose to provide it. In accessing and using our Services, you may have the opportunity to voluntarily submit some or all of the following types of information:
+**_Newsletters._**
 
-  * Contact information, such as your username and email address;
-  * Information you include in correspondence you send to First Look or one of the journalists whose work appears on our Services; and
-  * Information you include in comments you post on any of our Services.
+If you sign-up for our newsletter, we and our Service Providers (defined below) will collect (1) your email address and (2) Usage information relating to your receipt and viewership of any newsletters through Tracking Technologies (defined below). We and our Service Providers may use this information to:
+
+  * Send newsletters to your email address;
+  * Send technical notices, updates, security alerts, and policy changes to your email address;
+  * Understand how users engage with our newsletters and help us improve content in our newsletters and on the Services;
+  * Prevent and address fraud, breach of policies or terms, and threats or harm;
+  * Fulfill any other purpose disclosed to you at the time you provide the information;and
+  * Use for the maintenance and improvement of the Services.
 
 
 
-You are not required to provide information about yourself to access our site. However, if you wish to post comments on our site, you will have to provide your username and email address. (Keep in mind that any information you choose to include in comments posted to any of our Services can be seen, collected, and used by anyone who has access to that Service.)
+**_Donations and Membership._**
 
-If you wish to receive our email newsletter, you must provide us your email address. Once we start sending out email newsletters, we’ll use your email address to send you the email newsletters you have requested.
+If you donate to _The Intercept_ , we and our Service Providers will collect your first and last name, zip code, postal address, email address, donation amount, reason for donating, billing information, and payment card information. We and our Service Providers may use this information to:
 
-_Information That Is Automatically Collected_
+  * Facilitate your transaction, including processing and storing your payment card information;
+  * Send technical notices, updates, security alerts, and policy changes to your email address;
+  * Send newsletters, reports, stories, event invites, event discounts, and thank you letters to your email address;
+  * Send exclusive products and thank you letters to your mailing address;
+  * Provide you access to our in-person and online events and membership only content;
+  * If you give $1,000 or more in a given year, publish your name on our Services and in our annual report. We do this because we believe it is important as a news organization to be transparent about our sources of funding. This disclosure threshold is also in keeping with standards set by certain of our third party donor partners. If you do not wish to have your name published, we invite you to donate at a level below $1,000;
+  * Make your donation information visible to select agents, affiliates, and staff. We keep both of these groups as small as possible and strive to control access within our organization and in the relationships we establish;
+  * Use for the maintenance and improvement of the Services;
+  * Prevent and address fraud, breach of policies or terms, and threats or harm; and
+  * Fulfill any other purpose disclosed to you at the time you provide the information.
 
-We use a service called CloudFlare to accelerate the delivery of our web pages, images, and other content.
 
-CloudFlare says it collects cookies and information “similar to an Apache access log,” which typically includes IP address and information about the web addresses you visit. CloudFlare’s privacy policy is [here](https://www.cloudflare.com/security-policy).
 
-On some pages within our Services, we may use online video playback software from a company called JW Player to embed video. JW Player may collect information including but not limited to IP address, browser type, operating system, the web address of the _Intercept_ page on which content is embedded, the web address of the page that referred you to that page, information about the embedded video displayed, when and how long the video was played, and which advertising message(s) were inserted into the video. JW Player’s privacy policy can be found [here](http://www.jwplayer.com/privacy/).
+**_Comments_**.
 
-On some pages within our Services, we may embed content from Twitter. Twitter may collect information including but not limited to IP address, browser type, operating system, the web address of the _Intercept_ page on which the content is embedded, your location (potentially derived from IP address), and cookie information. Twitter’s privacy policy can be found [here](https://twitter.com/privacy).
+If you leave a comment on any story, feature, or document on the Services, we and our Service Providers will collect your name, email address and comment content, as well as Usage information, including through Tracking Technologies. We and our Service Providers may use this information to:
 
-On some pages within our Services, we may embed content from DocumentCloud. DocumentCloud collects information including but not limited to IP address, browser type, operating system, the web address of the _Intercept_ page on which the content is embedded, and date and time of access. DocumentCloud stores documents using Amazon Web Services. DocumentCloud’s privacy policy can be found [here](https://www.documentcloud.org/privacy). The Amazon Web Services privacy policy can be found [here](http://aws.amazon.com/privacy/).
+  * Post, display, and maintain your comment;
+  * Send technical notices, updates, security alerts, and policy changes to your email address;
+  * Understand how users engage with our content and help us improve content on the Services;
+  * Contact you for the purposes of newsgathering;
+  * Use for the maintenance and improvement of the Services;
+  * Prevent and address fraud, breach of policies or terms, and threats or harm; and
+  * Fulfill any other purpose disclosed to you at the time you provide the information.
 
-On some pages within our Services, we may embed content from SoundCloud. SoundCloud collects information including but not limited to IP address, the web address of the _Intercept_ page on which the content is embedded, the time and duration of your use of SoundCloud, browser type, operating system, and cookies. SoundCloud’s cookies include those used by Google Analytics. SoundCloud’s privacy policy can be found [here](https://soundcloud.com/pages/privacy). Google’s privacy policy can be found [here](https://www.google.com/intl/en/policies/privacy/). Google’s opt-out page can be found [here](https://tools.google.com/dlpage/gaoptout).
 
-On some pages within our Services, we may embed content from Panoply. Panoply may collect information including but not limited to IP address, browser type, operating system, the web address of the Intercept page on which the content is embedded, your location (potentially derived from IP address), and cookie information. Panoply’s privacy policy can be found [here](http://www.panoply.fm/privacy-policy).
 
-On some pages within our Services, we may embed content from Vimeo. Vimeo collects information including but not limited to IP address, browser type, browser language, access times, and cookies. Vimeo’s cookies include those used for ad targeting and for analytics. Vimeo’s privacy policy can be found [here](https://vimeo.com/privacy).
+Keep in mind that any information you choose to include in comments can be seen, collected, and used by the public and your browsing activity and comments may also be collected by third parties using Tracking Technologies as described in more detail in this Privacy Policy.
 
-If you post a comment on our Services and include your email address, we may include an “avatar” image obtained from the online service Gravatar. Gravatar and the company that owns the service, Automattic Inc., collect information including but not limited to IP address, browser type, browser language, the web address of the _Intercept_ page on which you left a comment, and the date and time of each visitor request. The privacy policy governing Gravatar can be found [here](http://automattic.com/privacy/).
+**_Social Media Sharing_**.
 
-You may interact with content on our Services through social media sharing tools provided by Facebook, Twitter, Google, LinkedIn, and other social media platforms and services we use. We do not control the information that these Social Media Services collect when you use their sharing tools, nor do we control how these companies use any information they collect. We encourage you to review their privacy policies before sharing our content using these social media sharing tools. Facebook’s privacy policy can be found [here](http://www.facebook.com/about/privacy/); Twitter’s privacy policy can be found [here](https://twitter.com/privacy); LinkedIn’s privacy policy can be found [here](http://www.linkedin.com/legal/privacy-policy); Google’s privacy policy can be found [here](https://www.google.com/intl/en/policies/privacy/). Other social media privacy policies can be found at those respective sites. If you’d prefer that these Social Media Services not collect information about the content you share, we’d suggest that you not use their social media sharing tools.
+If you like or share any stories, features, or documents through a third party social media service sharing tool available on the Services, we and our Service Providers will collect, including but not limited to through the use of Tracking Technologies, information about you in connection with your post, which may include both personally identifying information and Usage information. We and our Service Providers may use this information to:
 
-We use a service called Bitly to provide shortened uniform resource locators (URLs: the “addresses” of individual web pages) so our content can be shared more easily, particularly through social media services. Bitly collects information as our shortened URLs are shared and clicked on and makes some of that information available to us.
+  * Display and manage your post on our Services;
+  * Understand how users engage with our content and help us improve content on the Services;
+  * Use for the maintenance and improvement of the Services;
+  * Prevent and address fraud, breach of policies or terms, and threats or harm; and
+  * Fulfill any other purpose disclosed to you at the time you provide the information.
 
-The information Bitly collects may include, among other things: (1) the IP address and geographic location of each device accessing our shortened URLs; (2) the websites or services where our shortened URLs are shared; (3) the time and date of each click on a shortened URL; and (4) information about how and, in some cases, by whom a shortened URL is shared on social media services, such as Facebook, Twitter, Google+, and LinkedIn. Bitly uses this information to provide statistics that help us understand how our audience reads and shares our content. Bitly may collect additional information, particularly from users with Bitly accounts who access our shortened URLs while logged in to their Bitly accounts, and it may use that information and share it with third parties, including the social media services through which our shortened URLs are shared, processes that we don’t control. We encourage you to review Bitly’s privacy policy before you share our content. Bitly’s privacy policy can be found [here](https://bitly.com/pages/privacy). If you’d prefer that Bitly not collect information about the shortened URLs you share, you can copy the full URL of the story you want to share from the location bar in your browser and share the story by pasting the URL into an email.
 
-You may also ask Bitly not to place cookies on your web browser when you are logged in to your Bitly account. To opt out, go to Bitly’s privacy policy and click on the opt-out link under the heading “Information Collected Using Cookies.”
 
-We also may collect and store, and our service providers may collect and store, information that doesn’t identify you personally that is generated automatically as you navigate through our Services. For example, we and our service providers may collect limited information about the devices you use to access our Services, including the type of device you’re using (computer, mobile phone, tablet, etc.), the operating system running on that device, the type and version of browser software you’re using, the resolution of your computer monitor or other device display, the screen colors available on your device, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers and other devices connected to the Internet to identify your device so that data such as the web pages you want to view can be transmitted to you.) We use this information to make our Services as useful and visually appealing as we can for as many users as possible. We may also use IP address information for systems administration and troubleshooting purposes, to help us manage the comments our users post, and to derive a rough estimate of your geographic location by country, city or town, and perhaps ZIP code.
+The third party social media service that you interact with will also collect information associated with your post, including through Tracking Technologies.
 
-We may use “cookies,” a standard feature found in browser software, to enhance your experience on our Services. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. We also may use web beacons (sometimes referred to as “clear GIFs” or “pixel tags”) to collect non-personally identifying information about how our visitors use our site and how they interact with our email newsletters and with our stories that appear on other websites. By showing how and when visitors use our Services and review our news stories, cookies and web beacons help us deliver more relevant content to users, identify how many unique users visit our site or various pages within our site, and track user interests, trends and patterns. For example, we may use these technologies to collect information about the time visitors spend on each page of our Services, the number of visits made to each page or section of our Services, whether they open the email newsletters we send them, and whether they click on particular links contained in these emails.
+**_Videos and Podcasts_**.
 
-We use audience measurement service Parse.ly to help understand our visitor traffic, how our stories spread, and how they can be promoted to a larger audience. [Parse.ly](http://parse.ly/) may, on our behalf, collect anonymous data about your visits, including the web pages you view, the date and time of your visit, your browser, and your device type. Parse.ly may also correlate this information with your prior and future visits to the site. Parse.ly accomplishes this tracking through “web bugs” (as defined below), cookies, and navigational data like uniform resource locators (URLs). Web bugs are elements, such as Javascript code or images, included on one company’s web pages but sourced from a second company’s web servers, thus allowing the user to be tracked by the second company through cookies or other means.
+If you to watch any videos or listen to any podcasts through a third party video or podcast tool available on the Services, we and our Service Providers will collect, including but not limited to through the use of Tracking Technologies, information about you in connection with your use of the third party tool, which may include both personally identifying information and Usage information. We and our Service Providers may use this information to:
 
-We proxy all connections to Parse.ly through our own servers so that visitors to _The Intercept_ do not expose to Parse.ly their IP addresses or Parse.ly tracking information from sites other than _The Intercept_ , including identification codes contained in Parse.ly cookies placed by other sites. We transmit information to Parse.ly servers using the encrypted HTTPS protocol, helping to prevent interception in transit. Furthermore, Parse.ly has agreed not to log IP addresses of visitors to _The Intercept_ in the event it is ever able to access such data; not to infer or store geolocation data of visitors to _The Intercept_ ; and not to set or allow any receipt of Parse.ly cookies associated with visits to websites other than _The Intercept_ in connection with visits to _The Intercept_. Parse.ly’s privacy policy, which does not necessarily reflect these representations specific to _The Intercept_ , is available [here](https://www.parsely.com/privacy-policy/).
+  * Manage that content on the Services;
+  * Understand how users engage with our content and help us improve content on the Services, including any videos and podcasts we develop;
+  * Use for the maintenance and improvement of the Services;
+  * Prevent and address fraud, breach of policies or terms, and threats or harm; and
+  * Fulfill any other purpose disclosed to you at the time you provide the information.
 
-Visitors to _The Intercept_ who do not wish to be tracked by Parse.ly may opt out by sending a “Do Not Track” HTTP header, which can be enabled as a setting in some web browsers.
 
-We may also use our own web analytics software called Piwik to gather this sort of information. Piwik runs on First Look’s servers and is not associated with a third-party analytics provider. Visitors to _The Intercept_ who do not wish to be tracked by Piwik may opt out by sending a “Do Not Track” HTTP header, which can be enabled as a setting in some web browsers. Alternatively, they may opt out by [clicking here](https://firstlook.org/theintercept/piwik-opt-out/).
 
-We also may use cookies to determine that a visitor to our site has previously posted comments on the site and to record the type of device that a visitor has used to access the site. The help function on most web browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. However, if you don’t accept cookies, you won’t receive the benefits that cookies provide to other users of our site. For example, when you post a comment on one of our Services, we use cookies to save your username and email address to make it easier for you to post comments on return visits.
+The third party video or podcast service with which you interact will also collect Usage information, including through Tracking Technologies. Please note that when our content is hosted on a third party video or podcast services, we cannot limit access by third parties to your information. If you choose to access our content outside of our Services, you do so at your own risk.
 
-**_HOW WE USE COLLECTED INFORMATION_**
+**_Documents._**
 
-_Generally_
+On some pages within our Services, we may embed content from third party document services. If you view any content through a third party document service tool, we and Service Providers will collect your personally identifiable information and Usage information (including through Tracking Technologies). We and our Service Providers may use this information to:
 
-We use the information we collect from visitors to our Services to communicate with our users, to better understand and serve our audience, and to heighten user engagement with our Services. For example, we use the information we gather to send you email newsletters and other communications, to deliver our content to our users, to recognize users who have previously posted comments on our Services, to measure site traffic, to measure user interests and traffic patterns, and to improve our Services and the services and features we offer.
+  * Manage the content on the Services;
+  * Understand how users engage with our content and help us improve content on the Services;
+  * Use for the maintenance and improvement of the Services;
+  * Prevent and address fraud, breach of policies or terms, and threats or harm; and
+  * Fulfill any other purpose disclosed to you at the time you provide the information.
 
-In addition, we may use your personal information to contact you via email for customer service purposes; to inform you of important changes or additions to our Services; and to tell you about other products and services offered by First Look Media Works, Inc. or its affiliates, and products and services of selected others that we think may be of interest to you.
 
-_Email Addresses_
 
-If you provide us your email address, we may email you with information about our website or other products or services offered by First Look Media Works, Inc. or its affiliates, and products and services of selected others that we think may be of interest to you.
+The third party document service with which you interact will also collect information your Usage Information, including through Tracking Technologies. Please note that when our content is hosted on a third party video or podcast services, we cannot limit access by third parties to your information. If you choose to access our content outside of our Services, you do so at your own risk.
 
-We also may use your email address to contact you from time to time for customer service purposes, or to send you administrative notices or other information about our Services.
+**_Data Analytics._**
 
-In addition, if you provide us your email address to subscribe to our newsletter, we’ll use your email address to send you the newsletter you requested.
+On some pages within our Services, we and our Service Providers may collect information about how you navigate the Services. If you access or view these pages, we and our Service Providers will collect your Usage information through Tracking Technologies. We and our Service Providers may use this information to:
 
-**_DISCLOSURE TO THIRD PARTIES_**
+  * Monitor and analyse trends, usage, and activities;
+  * Improve the Services and other First Look websites, applications, marketing efforts, products and services;
+  * Use for the maintenance and improvement of the Services;
+  * Prevent and address fraud, breach of policies or terms, and threats or harm; and
+  * Fulfill any other purpose disclosed to you at the time you provide the information.
 
-To help us understand how users are using our Services and to help us improve our Services, we may deploy our own analytics engine in addition to engaging Parse.ly to collect aggregate information on our audience and how our audience uses our Services (for example, information on traffic to various pages within our Services). This information does not identify individual users. Parse.ly may receive from us copies of data from cookies and web bugs placed by us on our site to collect non-personally identifying tracking information about our visitors, and then use that data to provide us with statistical reports on website activity.
 
-When we send you email newsletters and other communications, the content of those communications comes from First Look, but we may use a service provider to send the emails on our behalf. Our service provider uses your name and email address to send these emails, but is contractually prohibited from using this information for any purpose other than sending these emails on our behalf.
 
-We also may occasionally release information about our visitors if required to do so by law or if, in our judgment, such disclosure is reasonably necessary to comply with legal process, to enforce our [Terms of Use](https://firstlook.org/theintercept/terms-use), or to protect the rights, property, or personal safety of visitors to our Services, our employees, or others. If we receive a request to disclose information that identifies you personally, and if we believe that the circumstances of the request permit us to do so (and that we would otherwise be required to comply with that request), we will attempt to notify you of the request at the email address associated in our records with the comment that is the subject of the request. You may then challenge the request if you wish to do so. If you do not promptly challenge the disclosure request and notify us that you have done so, if your challenge to the disclosure request is rejected, or if, in our judgment, circumstances warrant, we may comply with the request. In addition, if we believe it appropriate to do so under the circumstances, we will independently object to requests for access to information about users of our site. In the unlikely event that we sell some or all of our assets, or one or more of our Services is acquired by another company, information about our visitors may be among the transferred assets.
+**_Accelerated Delivery of Services._**
 
-**_USING OUR SECUREDROP SERVERS_**
+On some pages within our Services, we may use services to accelerate the delivery of our web pages, images, and other content. If you access or view these pages, we and our Service Providers will collect your Usage information through Tracking Technologies. We and our Service Providers may use this information to:
 
-_The Intercept_  is serious about protecting our sources. Messages and files you send us using our SecureDrop servers will be encrypted. To learn more about using SecureDrop, [click here](https://firstlook.org/theintercept/securedrop).
+  * Manage, deliver, and improve the functionality of the Services and content therein;
+  * Use for the maintenance and improvement of the Services;
+  * Prevent and address fraud, breach of policies or terms, and threats or harm; and
+  * Fulfill any other purpose disclosed to you at the time you provide the information.
 
-**_TRANSFER AND STORAGE OF INFORMATION_**
 
-The information that we collect through these Services is stored within databases that we control (or databases hosted on our behalf) on servers maintained in protected environments. However, no physical or electronic security system is impenetrable. We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us or our third-party service providers over the Internet. Our databases are located within the United States. If you access our site from outside the United States, by providing data to us, you consent to transfer of that data to and storage of that data in the United States.
 
-**_CHANGES TO THIS PRIVACY POLICY_**
+**_Shortened URLS._**
 
-The Internet remains an evolving medium. If we need to change this Privacy Policy in the future, we will post the revised Privacy Policy on our Services and update the “Effective Date,” above, to reflect the date of the changes. By continuing to use our Services after we post such changes, you agree to the terms of this Privacy Policy, as modified.
+On some pages within our Services, we may provide shortened uniform resource locators (URLs: the “addresses” of individual web pages) operated by third parties in order that our content can be shared more easily. If you click on one of these links, we and our Service Providers will collect your Usage information through Tracking Technologies. We and our Service Providers may use this information to:
+
+  * Monitor and analyse trends, usage, and activities;
+  * Improve the Services and other First Look websites, applications, marketing efforts, products and services;
+  * Use for the maintenance and improvement of the Services;
+  * Prevent and address fraud, breach of policies or terms, and threats or harm; and
+  * Fulfill any other purpose disclosed to you at the time you provide the information.
+
+
+
+The third party link operator with which you interact will also collect your Usage information, including through Tracking Technologies.
+
+**_Careers._**
+
+If you click on a job posting listed on our Services, you will be directed to a third party service’s website, and we and our Services Providers will collect (including through Tracking Technologies) your first name, last name, email address, phone number resume, cover letter, LinkedIn profile, and website, as well as your Usage information. We and our Service Providers may use this information to:
+
+  * Evaluate and process your job application;
+  * Monitor and analyse trends, usage, and activities;
+  * Improve the Services and other First Look websites, applications, marketing efforts, products and services;
+  * Use for the maintenance and improvement of the Services;
+  * Prevent and address fraud, breach of policies or terms, and threats or harm; and
+  * Fulfill any other purpose disclosed to you at the time you provide the information.
+
+
+
+**_Email._**
+
+If you choose to email us, we and our Service Providers will collect information (including through Tracking Technologies) associated with your email, including any personally identifying information and Usage information. Do not share any confidential information with us through this medium. If you want to share confidential information, you must use [Secure Communications (defined below) as set out here](https://theintercept.com/source/). We and our Service Providers may use any non-personally identifying information from your emails in accordance with the broad rights you grant us in Section 5 of our Terms of Service. In addition, we and our Service Providers may use this information to:
+
+  * Respond to your email and address your requests;
+  * Improve the Services and other First Look websites, applications, marketing efforts, products and services;
+  * Send technical notices, updates, security alerts, and policy changes to your email address;
+  * Prevent and address fraud, breach of policies or terms, and threats or harm; and
+  * Fulfill any other purpose disclosed to you at the time you provide the information.
+
+
+
+**_2\. COLLECTION AND USE OF YOUR INFORMATION FROM OTHER SOURCES_**
+
+We and our Service Providers may obtain information about you from other sources. This data is not subject to our Privacy Policy. We are not responsible for the accuracy of any information provided by third parties or third party policies or practices.
+
+**_3\. DISCLOSURE OF INFORMATION_**
+
+Our agents, vendors, consultants, and other service providers (collectively **“Service Providers”** ) may receive or be given access to your information in connection with their work on our behalf. These Service Providers are prohibited from using your personally identifying information or Usage information for any purpose other than to provide this assistance.
+
+Further, with respect to all data collected as set forth in Section 1 above, we may share your information with third parties as set forth in Section 1 above and also for the following purposes:
+
+  * To investigate, prevent, or take action regarding illegal activities, intellectual property infringement, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of the Terms of Service;
+  * To comply with the law, or respond to subpoenas, court orders, or other legal process, in which case we will notify you and cooperate with you to submit any lawful objections to such disclosure and/or to seek an appropriate protective order limiting disclosure of the information to that strictly required by law;
+  * In connection with, or during negotiations of, any proposed or actual merger, purchase, sale or any other type of acquisition or business combination of all or any portion of our assets, or transfer of all or a portion of our business to another business; and
+  * To fulfill any other purpose disclosed to you at the time you provide the information.
+
+
+
+Donor information is also shared with our third party donor partners for purposes of those third parties providing advice, technology, and assistance to us for _The Intercept_ membership program. We are not responsible for the policies, practices, or security of our third party donor partners.
+
+If you use a third party video service in connection with the Services, you understand that the information such third party video service collects comes directly from you, and not us or our Service Providers, and that the third party video service may disclose the information its collects to other third parties. We are not responsible for such third party collection, use, and sharing.
+
+**_4\. TRACKING TECHNOLOGIES ON THE SERVICES_**
+
+By default, we endeavor to treat all visitors as if they have activated “Do Not Track,” a setting in web browsers that communicates to all servers that the visitor does not want information about them tracked. However, we and our Service Providers may collect and store your Usage information in log files as well as through the use of cookies, web beacons (also known as “tracking pixels”), embedded scripts, and other tracking technologies now and hereafter developed ( **“Tracking Technologies”** ). We do not affirmatively monitor or take action with respect to “Do Not Track” signals or other mechanisms that contradict your consent. For more information on “Do Not Track,” visit http://www.allaboutdnt.com. The Tracking Technologies on our Services may include, without limitation:
+
+**Cookies**. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. A cookie may be a session ID cookie or tracking cookie. Session cookies make it easier for you to navigate the Services and expire when you close your browser. Tracking cookies help in understanding how you use Services, and remain longer. Cookies may remain on your hard drive for an extended period of time. You may generally disable or remove cookies by tools available as part of most commercial browsers, and in some instances blocked in the future by selecting certain settings. If you use your browser’s method of blocking or removing cookies, some features and functionalities of the Services may not work.
+
+**Web Beacons (“Tracking Pixels”)**. Web beacons are small graphic images, also known as “internet tags” or “clear gifs,” embedded in web pages and email messages. Web beacons may be used to provide information about how our visitors use our Services and how they interact with our email newsletters and with our stories that appear on other websites.
+
+**Embedded Scripts**. An embedded script is programming code designed to collect information about your interactions with the Services. It is temporarily downloaded onto your device from our web server or a third party with whom we work, is active only while you are connected to the Services, and deleted or deactivated thereafter.
+
+Third parties may also collect information from you using Tracking Technologies, and we are not responsible for and make no representations regarding their collection practices.
+
+**_5\. YOUR CHOICES_**
+
+**Accessing and Changing Your Information**. You may access, update, or remove any personally identifying information or Usage information we have collected about you through the Services, [by sending an email to us here](mailto:privacy@firstlook.org). If such information has been collected by third parties through your use of our Services, you will need to contact those third parties about how to obtain access and or removal of such information. We may require additional information from you to allow us to confirm your identity.
+
+However, we will not remove your name from our published lists if you give $1,000 or more in a given year on our Services. We also may not remove your personally identifying information if it is published in any story, feature, or document on our Services to the extent your information was publicly posted in a Comment or obtained from sources outside of the Services.
+
+That being said, any California residents under the age of eighteen (18) who have posted content or information on the Services, can request that such information be removed from the Services by [sending an e-mail to us here](mailto:privacy@firstlook.org). Requests must state that the user personally posted such content or information and detail where the content or information is posted. We will make reasonable good faith efforts to remove the post from prospective public view.
+
+**Opting-Out of Collection, Use and Sharing.** You can opt-out of certain data collection, use, and sharing, as specified below: However, please note that once we have shared your information, we will not be able to retrieve it. Also, the amount of time it will take to complete your request may vary based on the complexity of your request, and we may need to continue sharing your information in some instances.
+
+To opt-out of receiving emails, follow the instructions as provided in any emails you receive to click on the unsubscribe link, or contact us [here](mailto:privacy@firstlook.org) with the word UNSUBSCRIBE in the subject field of the email.
+
+To opt-out of the use of Tracking Technologies on the Services by certain of our analytics Service Providers, please visit our [list of third party opt-outs](https://theintercept.com/third-party-table/), which may be updated from time to time, available here. We are not responsible for the effectiveness of any third party opt-outs. Additionally, you can limit the use of Tracking Technologies as explained in Section 4 above.
+
+To opt-out of any specific use or sharing of your information, please [email us here](mailto:privacy@firstlook.org) or send us a letter to First Look Media Works, Inc., 114 Fifth Ave, 18th Floor, New York, NY 10011. In your opt-out request, you must specify the kinds of use and/or sharing by us from which you want to opt out. We will try, but cannot guarantee that we will honor all requests. Also, please note that we cannot control or opt you out of collection, use and/or sharing by third parties. Depending on the scope of your opt-out, certain features or content on the Services may no longer be accessible to you.
+
+We may require additional information from you to allow us to confirm your identity.
+
+**_6\. YOUR CALIFORNIA PRIVACY RIGHTS_**
+
+California’s “Shine the Light” law permits customers in California to request certain details about how certain types of their information are shared with third parties and, in some cases, affiliates, for those third parties’ and affiliates’ own direct marketing purposes. Under the law, a business should either provide California customers certain information upon request or permit California customers to opt-in to, or opt-out of, this type of sharing.
+
+We do not share personal information as defined by California’s “Shine the Light” law with third parties and/or affiliates for such third parties’ and affiliates’ own direct marketing purposes. If you are a California resident and wish to obtain information about our compliance with this law, please email us [here](mailto:privacy@firstlook.org) or send us a letter to First Look Media Works, Inc., 114 Fifth Ave, 18th Floor, New York, NY 10011. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that we are not required to respond to requests made by means other than through the provided email address or mail address.
+
+**_7\. CHILDREN_**
+
+Our Services are not directed at children under the age of 13 and we do not knowingly collect personal information as defined by the U.S. Children’s Privacy Protection Act (“COPPA”) in a manner that is not permitted by COPPA. If you are a parent or guardian and believe we have collected information in a manner not permitted by COPPA, please email us [here](http://privacy@firstlook.org/) or send us a letter to First Look Media Works, Inc., 114 Fifth Ave, 18th Floor, New York, NY 10011, and we will remove such data to the extent required by COPPA.
+
+**_8\. DATA SECURITY_**
+
+We employ practices designed to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. However, no physical or electronic security system is impenetrable. We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted over the internet.
+
+**_9\. TRANSFER OF INFORMATION_**
+
+Our databases are located within the United States. If you access our Services from outside the United States, you consent to transfer, processing, and storage of that data in the United States.
+
+**_10\. CHANGES TO THIS PRIVACY POLICY_**
+
+We reserve the right to revise and/or reissue this Privacy Policy at any time. If we change this Privacy Policy in the future, we will post the revised Privacy Policy on our Services and update the “Effective Date,” above, to reflect the date of the changes. Any changes will be effective immediately upon posting of the revised Privacy Policy. By continuing to use our Services after we post such changes, you agree to the terms of this Privacy Policy, as modified.
