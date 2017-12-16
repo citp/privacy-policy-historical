@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171411id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216222613id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | VIA Rail
 
@@ -12,7 +12,7 @@ _Personal Information_
 
 Personal information is information that makes it possible to identify you, such as your name, mailing address, email address, telephone number, fax number, credit card number, information contained in your resume and your personal opinions. This information is collected primarily when you perform one of the following actions:
 
-  * Provide information voluntarily on our Website or to our personnel, for example, when you create a traveller profile, when buying a train ticket online, by telephone or from a ticket office, when creating a VIA Preference profile or when signing up for one of our electronic newsletters;
+  * Provide information voluntarily on our Website or to our personnel, for example, when you create a traveller profile, when buying a train ticket online, by telephone or from a ticket office, when creating a VIA Préférence profile or when signing up for one of our electronic newsletters;
   * When responding to the surveys sent to you; 
   * When making comments on our Website, on our social media accounts or by email;
   * When applying for a job with VIA online, whether by email or by mail;
@@ -42,7 +42,7 @@ By using the VIA Website without deleting or disabling cookie files or preventin
 
 ###  Use of personal information
 
-Certain personal information is required when you purchase train tickets, contact our customer service, take part in surveys or contests, or apply for a job at VIA. Credit card numbers are used exclusively for processing payments, and not for any other purpose.
+Certain personal information is required when you purchase train tickets, contact our customer service, take part in surveys or contests, create a VIA Rail or VIA Préférence profile or apply for a job at VIA. Credit card numbers are used exclusively for processing payments, and not for any other purpose.
 
 We inform you when personal information is required for a transaction, a contest or survey, or for any other VIA service. Only the requested information marked with an asterisk must be provided; the rest of the information is not mandatory.
 
@@ -57,11 +57,11 @@ Furthermore, under the Act, VIA has an obligation to inform the Privacy Commissi
 
 ###  Communications
 
-As a business entity, VIA Rail sends commercial electronic messages as part of its marketing strategy and customer service. When you purchase a product or book your travel using a VIA Rail profile, you may provide us with your express consent to be added or not to our email list which will be used to contact you occasionally with commercial electronic messages such as offers and promotions. When you purchase a product or book your travel without using a VIA Rail profile or using a VIA Rail profile but without providing us with your express consent, you provide VIA Rail with your implied consent to be added to our email list.
+As a business entity, VIA Rail sends commercial electronic messages as part of its marketing strategy and customer service. When you purchase a product, book your travel using a VIA Rail or VIA Préférence profile, you may provide us with your express consent to be added or not to our email list which will be used to contact you occasionally with commercial electronic messages such as offers and promotions. When you purchase a product or book your travel without using a VIA Rail profile or using a VIA Rail profile but without providing us with your express consent, you provide VIA Rail with your implied consent to be added to our email list.
 
 If you do not want to receive commercial electronic messages from us, you may withdraw your consent at any time by simply changing your profile information or by following the instructions on how to unsubscribe contained in every email sent by VIA Rail. If you later change your mind, it is just as simple to opt back in.
 
-Please note that operational emails are not commercial electronic messages and provide relevant information that must be communicated to you including, but not limited to, emails containing information on purchases made or emails containing travel related information, for instance delayed trains. Consequently, VIA Rail will continue to send such messages as appropriate.
+Please note that operational emails are not commercial electronic messages and provide relevant information that must be communicated to you including, but not limited to, emails containing information on purchases made, emails concerning any changes to the VIA Préférence program itself or emails containing travel related information, for instance delayed trains. Consequently, VIA Rail will continue to send such messages as appropriate.
 
 ###  Links to external Web sites
 
@@ -80,7 +80,7 @@ VIA has thirty (30) days in which to respond to your request in writing. No fees
 
 ###  Revisions to VIA's privacy policy
 
-By using this site, you accept this policy. This policy may be amended by VIA from time to time without notice, in particular to take into account changes in VIA's activities and technological developments. We therefore advise you to consult this page periodically.
+By using the VIA Rail and VIA Préférence websites,you accept this policy. This policy may be amended by VIA from time to time without notice, in particular to take into account changes in VIA's activities and technological developments. We therefore advise you to consult this page periodically.
 
 ###  Do you have any questions or suggestions?
 
