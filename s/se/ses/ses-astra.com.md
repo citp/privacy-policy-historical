@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330013700id_/https%3A//www.ses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216024017id_/https%3A//www.ses.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SES
 
@@ -33,7 +33,7 @@ As part of the services offered to you through our site, the personal informatio
 
 Except as set out in this Privacy policy, we will not disclose any personally identifiable information without your permission unless we are legally required to do so, in order to protect the legitimate interest of the company or to protect your vital interests.
 
-If at any time you wish us to stop using your personal information for any or all of the aforementioned purposes, please let us know time by sending an e-mail to [info@ses.com](mailto:%20info@ses.com). We will cease the use of your information for such purposes as soon as it is reasonably possible to do so.
+If at any time you wish us to stop using your personal information for any or all of the aforementioned purposes, please let us know time by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2a0a43444c456a594f5904494547). We will cease the use of your information for such purposes as soon as it is reasonably possible to do so.
 
 ### The use of cookies
 
@@ -60,11 +60,11 @@ We use cookies on all our websites and applications. Any browser loading these s
 You can control and/or delete cookies as you wish – for details, see <http://www.allaboutcookies.org/> You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
 
 **Contact**  
-For more information on our privacy policy and use of cookies you can contact the SES Data Protection Officer at the following email address: [dataprotection-officer@ses.com](mailto:dataprotection-officer@ses.com)
+For more information on our privacy policy and use of cookies you can contact the SES Data Protection Officer at the following email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f09491849180829f84959384999f9edd9f969699939582b0839583de939f9d)
 
 ### Keeping our records accurate and data retention
 
-We aim to keep our information about you as accurate as possible. You will have a right of access to the data collected and a right of rectification of the data in cases where such data is inaccurate and incomplete. Please contact us at [info@ses.com](mailto:info@ses.com).
+We aim to keep our information about you as accurate as possible. You will have a right of access to the data collected and a right of rectification of the data in cases where such data is inaccurate and incomplete. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#80e9eee6efc0f3e5f3aee3efed).
 
 All data related information shall not be held for longer than necessary with regard to the purpose of the data processing, observing the legal periods of limitation.
 
