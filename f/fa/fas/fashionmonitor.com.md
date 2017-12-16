@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionmonitor.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104431id_/http%3A//www.centaurmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmonitor.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216124647id_/http%3A//www.centaurmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy
 
@@ -108,7 +108,7 @@ If you want to delete any cookies that are already on your computer, please refe
 
 Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site. To find out more about cookies please visit: www.allaboutcookies.org or see www.youronlinechoices.eu which contains further information about behavioural advertising and online privacy.
 
-####  6.2 Use of Web Beacons.
+#### 6.2 Use of Web Beacons.
 
 Some of our Web pages may contain electronic images known as Web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign.
 
