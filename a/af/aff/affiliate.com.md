@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the affiliate.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511135312id_/http%3A//www.affiliate.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliate.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216084308id_/http%3A//www.affiliate.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Affliate
+# Affiliate
 
-As of May 9, 2017 
+As of May 26, 2017 
 
 This privacy policy (the "Privacy Policy") outlines important information regarding you, the service user ("you" or "your") and the use and disclosure of your information collected via this Website and sub sites or the microsites of the registrant of the domain of the Website (the "Company", "us", "we" or "our"), and each of its affiliates and related websites or that our business partners or affiliates operate (the "Website"). We are providing you with this Privacy Policy to help you make an informed decision as to whether to use or continue using the Website. By using the Website, you consent to the processing of your information as set forth in this Privacy Policy. 
 
@@ -50,7 +50,13 @@ This Privacy Policy applies to the information that we collect or receive from y
 
 2.2(b) Solicited Email. We only send email to individuals who have agreed on the Website to receive email from us or to individuals who have agreed on Third Party websites to receive email from Third Parties such as the Company. We do not send unsolicited email messages. As a result, legislation requiring certain formatting for unsolicited email do not apply to our email messages. 
 
-2.3 Targeted Advertising. We use your Individual Information to target advertising to you. When you use the Internet, we use Technology Information (see also Section 2.6) to associate you with your Individual Information, and we attempt to show advertising for products and services in which you have expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. We may, at our discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers to you. 
+2.3 Targeted Advertising. 
+
+Affiliate.com may use Individual Information to target advertising to an individual. When an individual is using the Internet, Affiliate.com may use Technology Information (see also Section 2.5 below) to associate an individual with that person's Individual Information, and Affiliate.com attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. Affiliate.com may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers. 
+
+If you prefer that we do not share this information, you may opt-out by emailing us at legal@affiliate.com, or write to us at Customer Care, 1490 W. 121st Avenue, Westminster, CO 80234. Please include your email address and phone number in the body of your email or letter, and include "Opt-out" in the subject line. 
+
+Should Affiliate.com engage in interest-based advertising, it will endeavor to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA) (http:///aboutads.info) 
 
 2.4 Direct Mail and Telemarketing. We use your Individual Information to advertise, directly or indirectly, to you using direct mail marketing or telemarketing using telephones and cell phones. 
 
