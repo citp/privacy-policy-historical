@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 14dayz.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715040620id_/http%3A//www.14dayz.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 14dayz.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216075558id_/http%3A//www.14dayz.com/en/privacy.php) for the most accurate reproduction.*
 
 # 14Dayz.com - Time Tracking Made Simple
 
@@ -8,7 +8,7 @@
 
 ##### Introduction
 
-**Brains4All is committed to protecting the privacy of visitors to our website, as well as our account holders and clients. In general Brains4All treats your contact information as private and confidential. Brains4All will not give, sell, rent, exchange or otherwise provide your information with anyone else without your prior consent (except when compelled by law — see below).**
+**Brains4All is committed to protecting the privacy of visitors to our website, as well as our account holders and clients. In general Brains4All treats your contact information as private and confidential. Brains4All will not give, sell, rent, exchange or otherwise provide your information with anyone else without your prior consent (except when compelled by law � see below).**
 
 ##### Website Policy
 
@@ -34,7 +34,7 @@ Brains4All will never share or use personal information provided in the course o
 
 A minimum amount of information will be exchanged with our payment providers necessary to fulfill your order or subscription. 
 
-Information provided to us in the course of placing an order may be retained for use in future communications. This information will not be sold, rented, shared or otherwise provided to anyone else without your prior consent (to procure payment or except when compelled by law — see below).
+Information provided to us in the course of placing an order may be retained for use in future communications. This information will not be sold, rented, shared or otherwise provided to anyone else without your prior consent (to procure payment or except when compelled by law � see below).
 
 ##### Compelled Disclosure
 
