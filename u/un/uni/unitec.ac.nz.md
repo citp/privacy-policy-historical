@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the unitec.ac.nz privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614165544id_/http%3A//www.unitec.ac.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitec.ac.nz privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217000033id_/http%3A//www.unitec.ac.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Unitec
+# Privacy Policy | Unitec
 
 Thanks for visiting our website. We take the privacy of our web visitors seriously and aim to collect and maintain personal information in accordance with the Privacy Act 1993 (NZ) and industry best practice.
 
 Unitec may use the personal information submitted by you via this website to process your application or enrolment, to assist with provision of services, to keep in touch with graduates or to send you information about Unitec programmes.
 
-You have the right to access and correct personal information about you which has been collected by Unitec, in accordance with Unitec’s [Privacy of Information Policy and Procedures](http://www.unitec.ac.nz/sites/default/files/public/documents/Privacy%20of%20Information%20Policy%20and%20Procedures.pdf "Privacy of Information Policy and Procedures").
+You have the right to access and correct personal information about you which has been collected by Unitec, in accordance with Unitec’s [Privacy Policy and Privacy Procedures](http://www.unitec.ac.nz/current-students/services-and-facilities/complaints-and-appeals/unitec-policies "Privacy of Information Policy and Procedures").
 
 ## Cookies and third party services
 
@@ -20,7 +20,7 @@ We may also share customer information with third parties to perform services on
 
 ## Using our site
 
-While you may provide information to us, we also track the use of our website by site visitors. We don’t attempt to identify individuals as part of regular business practice, however the information recorded by our web server logs may be used by us or other government agencies in the event of an investigation.
+While you may provide information to us, we also track the use of our website by site visitors. We don’t attempt to identify individuals as part of regular business practice. However, the information recorded by our web server logs may be used by us or other government agencies in the event of an investigation.
 
 When people visit our website we record your visit to our web server and by using tools such as Google Analytics. The information collected includes:
 
@@ -34,9 +34,9 @@ When people visit our website we record your visit to our web server and by usin
 
 ## Enrolment
 
-Unitec collects and holds personal information about students to comply with various statutes, including the Education Act, the Public Finance Act and the Inland Revenue Act, and to enable Unitec to make decisions in relation to your tertiary study at Unitec.
+Unitec collects and holds personal information about students to comply with various statutes, including the Education Act, the Public Finance Act and the Crown Entities Act, and to enable Unitec to make decisions in relation to your tertiary study at Unitec.
 
-Personal information collected from you during the enrolment process may be disclosed to academic and administration staff where relevant to their duties, and also where relevant to other agencies such as the Ministry of Education, Tertiary Education Commission, New Zealand Qualifications Authority, StudyLink, Ministry of Foreign Affairs and Trade, Career Services, tribal trusts and scholarship providers, Ministry of Immigration, Industry Training Organisations, Industry Licensing and Registration bodies, other tertiary institutions, previous secondary schools and providers of work experience for students in courses with a practical component.
+Personal information collected from you during the enrolment process may be disclosed to academic and administration staff where relevant to their duties, and also where relevant to other agencies such as the Ministry of Education, Tertiary Education Commission, New Zealand Qualifications Authority, StudyLink, Ministry of Foreign Affairs and Trade, Career Services, iwi trusts and scholarship providers, Ministry of Immigration, Industry Training Organisations, Industry Licensing and Registration bodies, other tertiary institutions, previous secondary schools and providers of work experience for students in courses with a practical component.
 
 Your name, date of birth and residency as entered on any enrolment form will also be included in the National Student Index, and will be used in an Authorised Information Matching programme with the New Zealand Birth Register. For more information please visit the [Ministry of Education website](http://www.minedu.govt.nz/NZEducation/EducationPolicies/Schools/SchoolOperations/NationalStudentNumber/InformationForParentsAndStudents/GuideForStudentsAndParents.aspx "Ministry of Education").
 
