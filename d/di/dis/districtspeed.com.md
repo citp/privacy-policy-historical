@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the districtspeed.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627204506id_/http%3A//districtspeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the districtspeed.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216184506id_/http%3A//districtspeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – District Speed
 
@@ -50,7 +50,7 @@ We respect your privacy and give you an opportunity to opt-out of receiving anno
 
 – Web page: districtspeed.com
 
-– Email: fb@districtspeed.com
+– Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Changes to this Statement
 
@@ -64,6 +64,6 @@ DistrictSpeed
 
 Email Address:
 
-fb@districtspeed.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Effective as of May 01, 2014
