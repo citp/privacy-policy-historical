@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickstartsite.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226235504id_/http%3A//www.firestartersystemsllc.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickstartsite.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216081653id_/http%3A//www.firestartersystemsllc.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Firestarter Systems
 
