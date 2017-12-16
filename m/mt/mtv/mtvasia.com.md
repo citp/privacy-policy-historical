@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020930id_/http%3A//www.mtvasia.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216014254id_/http%3A//www.mtvasia.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | MTV Asia
 
 ### **MTV Asia Website Privacy Policy**
 
@@ -151,3 +151,6 @@ Singapore 556741
  **d. Other:**  Please review our Terms of Use Agreement which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
+
+
+
