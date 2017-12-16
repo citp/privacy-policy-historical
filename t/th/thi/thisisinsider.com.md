@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thisisinsider.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130955id_/http%3A//www.thisisinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisinsider.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216180306id_/http%3A//www.thisisinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Business Insider
 
-Effective Date: August 10, 2016. 
+Effective Date: May 30, 2017. 
 
 **1\. Overview**
 
@@ -79,6 +79,8 @@ Email Communications: Business Insider may use the information that you submit t
 Sites Analysis: Business Insider uses the information collected through third-party sources to learn and analyze how the Sites are used. We use this information to enhance the Sites by making improvements based on the data collected. 
 
 Advertising: Display Ads are delivered from our adserver Google's DoubleClick. We may use third-party advertising companies to collect data and/or serve ads when you visit our Sites. These companies may use information (not including your name, address, email address, telephone number, or any PII) about your visits to this and other Web sites in order to deliver targeted ads to you, your location, and your interests. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [http://networkadvertising.org](http://networkadvertising.org/). We also use third-party ad platforms (such as Google AdSense, Google Ad Exchange, and The Rubicon Project) to deliver ads on our Sites and in our mobile apps. No PII is exchanged with any type of advertising message on Business Insider. We also use a Data Management Platform (DMP) from Krux to store our anonymous data. To learn moure about Krux's privacy policy please visit http://www.krux.com/krux_privacy/. 
+
+Third Party Service Providers. We may share your PII with third party service providers to provide you with the Business Insider products that we offer you through our Sites. You expressly consent to the sharing of your PII with our contractors and other service providers for the sole purpose of providing services to you. 
 
 **5\. How We Share Information Collected**
 
