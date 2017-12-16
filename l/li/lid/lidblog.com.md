@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lidblog.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630150512id_/http%3A//lidblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lidblog.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216122947id_/http%3A//lidblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Lid
 
@@ -66,6 +66,6 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please feel free to [contact us](http://lidblog.com/contact/) by email.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please feel free to [contact us](https://lidblog.com/contact/) by email.
 
 Here you can create the content that will be used within the module.
