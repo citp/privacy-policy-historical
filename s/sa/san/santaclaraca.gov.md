@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the santaclaraca.gov privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622191836id_/http%3A//santaclaraca.gov/government/about-santa-clara/policies/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santaclaraca.gov privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216102559id_/http%3A//santaclaraca.gov/government/about-santa-clara/policies/policies) for the most accurate reproduction.*
 
-# City of Santa Clara : Privacy Policy
+# Privacy Policy | City of Santa Clara
 
 [Government](https://web.archive.org/government) » [About Santa Clara](https://web.archive.org/government/about-santa-clara) » [Policies](https://web.archive.org/government/about-santa-clara/policies)
 
