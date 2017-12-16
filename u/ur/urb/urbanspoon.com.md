@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanspoon.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301070709id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanspoon.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216012304id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zomato
 
@@ -73,7 +73,7 @@ We use the information we collect from and about you for a variety of purposes, 
   * Process and respond to your queries
   * Understand our users (what they do on our Services, what features they like, how they use them, etc.), improve the content and features of our Services (such as by personalizing content to your interests), process and complete your transactions, and make special offers.
   * Administer our Services and diagnose technical problems.
-  * Send you communications that you have requested or that may be of interest to you.
+  * Send you communications that you have requested or that may be of interest to you by way of emails, or courier, or registered post, or telephone calls, or any other mode of communication. We may also share your preferences or the Services availed by you with your network followers on Zomato for marketing and other promotional activities of our Services.
   * Send you questions from other users that you may be able to answer if you have registered with Zomato.
   * Enable us to show you ads that are relevant to you.
   * Generate and review reports and data about, and to conduct research on, our user base and Service usage patterns.
