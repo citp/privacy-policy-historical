@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dietlast.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621040132id_/http%3A//www.dietlast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietlast.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216093428id_/http%3A//www.dietlast.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DietLast.com
+# Privacy Policy | DietLast
 
 **_CORTEX MEDIA GROUP LTD_** ** _PRIVACY POLICY_**
 
