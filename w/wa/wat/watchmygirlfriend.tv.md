@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchmygirlfriend.tv privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608153405id_/http%3A//watchmygirlfriend.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchmygirlfriend.tv privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216100202id_/http%3A//www.watchmygirlfriend.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
