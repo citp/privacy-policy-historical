@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the whitney.org privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621061410id_/http%3A//whitney.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitney.org privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216231616id_/http%3A//www.whitney.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Whitney Museum of American Art
 
-##  Introduction 
+## Introduction
 
 The Whitney Museum of American Art (also herein referred to as “WMAA” or the “Museum”) is committed to protecting the privacy of its online guests, customers, members, donors, and friends. We understand that maintaining privacy on the Museum’s websites (whitney.org, artport.whitney.org, library.whitney.org, shopwhitney.org, and exhibition-specific websites, herein referred to as “the Website” or “the Site”) is very important, and that informing our visitors about the types of information we collect and how we use it is crucial to the Museum’s mission.
 
-##  ACCEPTANCE OF TERMS 
+## Acceptance of Terms
 
 By using any of the Museum website(s), you signify your acceptance without limitation or qualification of our Privacy Policy. If you do not agree to this policy, please do not use the Website.
 
@@ -14,7 +14,7 @@ Please note that the Museum may revise this Privacy Policy at any time, without 
 
 Certain provisions of this Privacy Policy may be superseded by expressly designated legal notices or terms located on particular pages on the Website. 
 
-##  TYPES OF INFORMATION COLLECTED 
+## Types of Information Collected
 
 The Museum does not collect any personal information about individuals, such as names, contact information (including postal or email addresses), or other personally identifying data (the “Personal Information”) except when such information is knowingly provided. Personal information might be obtained from online transactions such as purchases, subscriptions, registrations, or membership pledges. Additionally, personal information may be transmitted as part of a form submission or in connection with other activities, services, or resources available on our website.
 
@@ -44,7 +44,7 @@ If you are concerned about the use of cookies, the Museum suggests that you expl
 
 We also allow third-party companies to collect certain non-personally identifiable information (e.g., the type of browser and/or operating system you use, time and date, and information relating to the content you are viewing) on our behalf when you visit our digital properties.  These companies may use such non-personally identifiable information in order to provide advertisements about our exhibits, events, programs, goods and services likely to be of greater interest to you on other digital properties.  These companies typically use a cookie, a web beacon or other technology to collect this information.  To learn more about this targeted advertising practice or to opt-out of this type of advertising via cookies, you can visit <http://www.aboutads.info/choices/> or <http://www.networkadvertising.org/choices/> if located in the United States or Canada or <http://www.youronlinechoices.eu/> if located in Europe.
 
-##  HOW INFORMATION IS USED 
+## How Information is Used
 
 Any Personal Information provided to the Museum is maintained and accessible only by the Museum and will not be made available to third parties except as permitted by the Terms and Conditions and this Privacy Policy.
 
@@ -62,25 +62,25 @@ We may contract with third parties who use Cookies to collect information on our
  **Opt-Out  **  
 If for any reason you do not wish to receive further email from the Museum, please follow the instructions for unsubscribing included within the body of the message that was sent to you, or e-mail a message containing your name and address to [memberinfo@whitney.org](mailto:memberinfo@whitney.org).
 
-##  WITH WHOM INFORMATION IS SHARED 
+## With Whom Information is Shared
 
 The Museum may share your Personal Information, as collected under the circumstances outlined above, with other reputable organizations, such as other non-profits, art institutions, or companies.  The Museum has teamed up with reputable third-party vendors in order to provide certain services to its online users as described above.
 
-##  SECURITY 
+## Security
 
 The Museum protects all personal and non-personally identifiable information that it receives via the Internet against unauthorized access. In addition, the Museum’s website uses Secure Sockets Layer (SSL) encryption to process purchases made through its online store and ticketing systems. By using this technology, online customers can be confident that their personal information is protected from interception by any third party. Sensitive credit card information is not permanently stored on any WMAA web server and, though your order information is retained for our records, this information is never shared with other companies or persons.
 
 What is a secure connection? When a secure connection is established between your browser and a website, any data that is transferred over the connection is encrypted to prevent it from being viewed by a third party. Secure Sockets Layer (SSL) encryption, the standard for most browsers and servers, makes it very difficult for anyone to intercept or decode messages exchanged over this type of secure connection.  Browsers such as Google Chrome, Safari, Firefox and Internet Explorer display an image of a locked padlock in their status bar when connected to a secure site. Secure transactions are also indicated when the prefix in the location bar of your browser switches from http:// to https://. If you do not see the padlock at the bottom of your browser’s window, if the padlock is unlocked, or if the protocol in the location bar is not listed as https://, then any data exchanged with the website is potentially visible to others. Depending on your browser, you may be able to view authentication information about a secure page by double-clicking on the locked padlock in the status bar. For more information on how your software establishes a secure connection, see the help files for your particular browser.
 
-##  LINKS TO OTHER SITES 
+## Links to Other Sites
 
 Users may find content on the Museum’s site that links to the sites and services of our partners, sponsors, or other third parties. In many cases, these links represent cooperative projects or are established with persons or entities that have a significant connection to or relationship with our site. Although every effort is made to ensure that any referrals are to reputable and relevant sources, the Museum does not control the content or links that appear on these sites. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies, or no policy at all. The Museum maintains a policy against the nonconsensual collection or sharing of Personal Information and encourages visitors to review the privacy policies of any sites they visit to ensure their Personal Information is being protected.
 
-##  CHILDREN 
+## Children
 
 The Museum does not knowingly collect personal information from children under thirteen years of age. Children should always ask parents/ guardians for permission before providing personal information to any website or purchasing any products or services online. The WMAA urges all parents/ guardians to participate in their children’s exploration of the Internet and to teach them about protecting their personal information while online.
 
-##  POLICY CHANGES 
+## Policy Changes
 
 Occasional changes may be made to this document as new services and content are added to our site or to reflect changes in the Museum’s policies. Visitors to the Museum’s website are encouraged to check this document periodically to stay informed of current Museum privacy guidelines.
 
