@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616012323id_/http%3A//www.tibco.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216011227id_/https%3A//www.tibco.com/company/privacy) for the most accurate reproduction.*
 
 # TIBCO Web Site Privacy Policy | TIBCO Software
 
