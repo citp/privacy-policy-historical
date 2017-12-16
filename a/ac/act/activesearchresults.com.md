@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activesearchresults.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518220640id_/http%3A//www.activesearchresults.com/help/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activesearchresults.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216195927id_/http%3A//www.activesearchresults.com/help/privacypolicy.php) for the most accurate reproduction.*
 
 # Active Search Results - Privacy Policy
 
