@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628200003id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216110830id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Truth About Cars
 
@@ -68,39 +68,40 @@ VerticalScope may at any time, without notice to you and in its sole discretion,
 
 If you have questions or suggestions about this privacy statement, or your own personal information, please [contact us](https://web.archive.org/contact/).
 
-### Avoidable Contact Articles
-
 ### Staff
 
   * #### Editors
 
+  * [Tim Healey](https://web.archive.org/about/)  
+Managing Editor 
   * [Steph Willems](https://web.archive.org/about/)  
 Associate Editor 
-  * [Timothy Cain](https://web.archive.org/about/)  
-Sales Analysis 
-  * [Mark Stevenson](https://web.archive.org/about/)  
-Editor-at-large 
+  * [Matt Posky](https://web.archive.org/about/)  
+Staff Writer and Multimedia 
   * [Jack Baruth](https://web.archive.org/about/)  
 Editor-at-Large 
+  * [Mark Stevenson](https://web.archive.org/about/)  
+Editor-at-Large 
   * [Murilee Martin](https://web.archive.org/about/)  
-Junkyard Find Editor 
+Junkyard Finds Warlord 
   * [Sajeev Mehta](https://web.archive.org/about/)  
 Piston Slap Editor
 
 
   * #### Contributors
 
+  * Timothy Cain, Canada 
   * Matthew Guy, Canada 
-  * Seth Parks, United States 
   * Ronnie Schreiber, United States 
   * Bozi Tatarevic, United States 
   * Chris Tonn, United States 
-  * Corey Lewis, United States
+  * Corey Lewis, United States 
+  * Mark Baruth, United States
 
 
   * #### Moderators
 
   * Adam Tonge, United States 
-  * Kyree Williams, United States
+  * Corey Lewis, United States
 
 
