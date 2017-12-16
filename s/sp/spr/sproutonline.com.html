@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the sproutonline.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606064643id_/http%3A//www.sproutonline.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sproutonline.com privacy policy that was archived on 2017-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171216141914id_/http%3A//www.sproutonline.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head profile="http://www.w3.org/1999/xhtml/vocab "><link type="text/css" rel="stylesheet" href="https://web.archive.org/sites/sprout/themes/sprout_twig/js/libs/pdk/style/default.css" media="screen">
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMDUlJRGwIBUVNbBQYG"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMDUlJRGwIBUVNbBQYG"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta name="format-detection" content="telephone=no">
 
@@ -24,9 +24,9 @@
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://www.sproutonline.com/privacy-policy">
 <meta property="og:title" content="Privacy Policy">
-<meta property="og:updated_time" content="2016-06-21T13:54:52+00:00">
+<meta property="og:updated_time" content="2017-10-11T02:07:45+00:00">
 <meta property="article:published_time" content="2015-06-12T22:59:53+00:00">
-<meta property="article:modified_time" content="2016-06-21T13:54:52+00:00">
+<meta property="article:modified_time" content="2017-10-11T02:07:45+00:00">
 
 
 
@@ -35,9 +35,9 @@
 
 
     <script src="http://www.sproutonline.com/sites/sprout/files/js/js_JLxuxbhhrFRy-sBnijHkR0TGGHgiukMPv94zvDWgQ3g.js"></script>
-<script src="http://www.sproutonline.com/sites/sprout/files/js/js_nDSlY05apRBZnqqJhZDbdb3g0dQZYy1ys8Alt_VPIkc.js"></script>
-<script src="http://www.sproutonline.com/sites/sprout/files/js/js_FsfLPoUCciDFzMEQ0A30H-D7rKt1loHU6On5IqU7m9E.js"></script>
-<script src="http://www.sproutonline.com/sites/sprout/files/js/js_A4YrvNzUDoshi86vK7S_GaXpDIYj4Ud0tCIpAXz62gE.js"></script>
+<script src="http://www.sproutonline.com/sites/sprout/files/js/js_HaXZshazpB18E6qxpOJAeI-Wh487TDrvVdH7aVuQQq4.js"></script>
+<script src="http://www.sproutonline.com/sites/sprout/files/js/js_w7CQxzl8RRj9rXiZaM8XUPc1DiMboa57ZPjS3bGsxfs.js"></script>
+<script src="http://www.sproutonline.com/sites/sprout/files/js/js_jd5t2RaQjvm1Wb6SKxdoE5Ix2cOQqlqC_V8AYRcse2c.js"></script>
 <script>
 var dart_url = "http://ad.doubleclick.net";
 var tile = 1;
@@ -47,13 +47,13 @@ Drupal.DART.settings.loadLastTags = {};
 </script>
 <script src="http://www.sproutonline.com/sites/sprout/files/js/js_G2SFKAq42rsqEK8eyMYoLG_ENdQ63n3ATKm9h2t6jPc.js"></script>
 <script>
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sprout_twig","theme_token":"8o3htpM9_JW4YjfdR8zhuwWYzizK1xIEpFcFA6UCn9o","js":{"profiles\/publisher\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/publisher\/modules\/contrib\/environment_indicator\/tinycon.min.js":1,"profiles\/publisher\/modules\/contrib\/fb\/fb.js":1,"profiles\/publisher\/modules\/contrib\/environment_indicator\/environment_indicator.js":1,"profiles\/publisher\/modules\/contrib\/environment_indicator\/color.js":1,"profiles\/publisher\/modules\/custom\/tve_mvpd\/js\/tve_mvpd.js":1,"profiles\/publisher\/modules\/contrib\/fb\/fb_stream.js":1,"sites\/sprout\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/sprout\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/sprout\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/publisher\/modules\/contrib\/devel\/devel_krumo_path.js":1,"profiles\/publisher\/modules\/contrib\/dart\/js\/dart.js":1,"0":1,"sites\/sprout\/themes\/sprout_twig\/js\/libs.js":1,"sites\/sprout\/themes\/sprout_twig\/js\/sprout.js":1,"misc\/ajax.js":1,"profiles\/publisher\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"1":1,"misc\/progress.js":1,"sites\/sprout\/modules\/contrib\/colorbox_node\/colorbox_node.js":1},"jquery_version":"1.8","css":{"modules\/system\/system.base.css":1,"profiles\/publisher\/modules\/contrib\/media_theplatform_mpx\/css\/media_theplatform_mpx.css":1,"sites\/sprout\/modules\/contrib\/colorbox_node\/colorbox_node.css":1,"profiles\/publisher\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/publisher\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/publisher\/modules\/contrib\/environment_indicator\/environment_indicator.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/publisher\/modules\/contrib\/views\/css\/views.css":1,"sites\/sprout\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/publisher\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/publisher\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/sprout\/themes\/sprout_twig\/system-menus.css":1,"sites\/sprout\/themes\/sprout_twig\/css\/sprout.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"DART":{"bgAdVars":[],"ajax_jquery_plugin":null},"urlIsAjaxTrusted":{"\/privacy-policy":true},"colorbox_node":{"width":"600px","height":"600px"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sprout_twig","theme_token":"Aea1gm8_JMV82Bqb3alRNJBSjD5D8CWPKdzPA_5O-uM","js":{"profiles\/publisher\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/publisher\/modules\/contrib\/environment_indicator\/tinycon.min.js":1,"profiles\/publisher\/modules\/contrib\/environment_indicator\/environment_indicator.js":1,"profiles\/publisher\/modules\/contrib\/environment_indicator\/color.js":1,"profiles\/publisher\/modules\/custom\/tve_mvpd\/js\/tve_mvpd.js":1,"sites\/sprout\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/sprout\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/sprout\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/publisher\/modules\/contrib\/devel\/devel_krumo_path.js":1,"profiles\/publisher\/modules\/contrib\/dart\/js\/dart.js":1,"0":1,"sites\/sprout\/themes\/sprout_twig\/js\/libs.js":1,"sites\/sprout\/themes\/sprout_twig\/js\/sprout.js":1,"profiles\/publisher\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/publisher\/modules\/custom\/tve_adobe_pass\/lib\/swfobject.min.js":1,"profiles\/publisher\/modules\/custom\/tve_adobe_pass\/js\/tve_adobe_pass.js":1,"misc\/ajax.js":1,"profiles\/publisher\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"1":1,"misc\/progress.js":1,"sites\/sprout\/modules\/contrib\/colorbox_node\/colorbox_node.js":1},"jquery_version":"1.8","css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/overrides\/contrib\/media_theplatform_mpx\/css\/media_theplatform_mpx.css":1,"sites\/sprout\/modules\/contrib\/colorbox_node\/colorbox_node.css":1,"profiles\/publisher\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/publisher\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/publisher\/modules\/contrib\/environment_indicator\/environment_indicator.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/publisher\/modules\/contrib\/views\/css\/views.css":1,"sites\/sprout\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/publisher\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/publisher\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/sprout\/themes\/sprout_twig\/system-menus.css":1,"sites\/sprout\/themes\/sprout_twig\/css\/sprout.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"DART":{"bgAdVars":[],"ajax_jquery_plugin":null},"better_exposed_filters":{"views":{"current_announcements":{"displays":{"block":{"filters":[]}}}}},"urlIsAjaxTrusted":{"\/privacy-policy":true},"colorbox_node":{"width":"600px","height":"600px"},"adobeAnalytics":{"accountName":"nbcusproutdev"},"adobePass":{"adobePassAccessEnablerMode":"flash","adobePassAccessEnablerLoc":"http:\/\/entitlement.auth.adobe.com\/entitlement\/AccessEnabler.swf","adobePassTimeoutLength":"30000","adobePassFlashVer":"10.1.13","adobePassRequestorId":"sprout","adobePassResourceId":"sprout","errorMessages":{"authorized_err":"Your TV subscription does not include this channel. Please contact your TV Provider about upgrading your service to get access.","internal_err":"We had a problem reaching your TV provider. Please try again.","generic_err":"Your TV subscription does not include this channel."}}});
 </script>
 
     <link rel="stylesheet" href="http://www.sproutonline.com/sites/sprout/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all">
 <link rel="stylesheet" href="http://www.sproutonline.com/sites/sprout/files/css/css_Qrt036Fzy5ysw-K1lMPOGWjT0F3tgagGviMfPxv9O-s.css" media="all">
 <link rel="stylesheet" href="http://www.sproutonline.com/sites/sprout/files/css/css_JE2KQ2g7JHttc3D9-cLxjJ8dda93tf-DNr2TkH1-bFg.css" media="all">
-<link rel="stylesheet" href="http://www.sproutonline.com/sites/sprout/files/css/css_UE8qhvt1yUj9yK16elZp-teTBTp9BYjSdUEeX7zHZ6E.css" media="all">
+<link rel="stylesheet" href="http://www.sproutonline.com/sites/sprout/files/css/css_3YfBLtf1KM8VM_9TgSswlWctDoP1t3_iW87uLy2zilE.css" media="all">
 
 
     
@@ -66,7 +66,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
     <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
     <script src="/sites/sprout/themes/sprout_twig/js/libs/pdk/tpPdkController.js"></script>
-    <script src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
 
     <!-- OAO Advertisement tags -->
     
@@ -74,104 +73,70 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
 <body class="">
     
-    <script>
-var versaTag = {};
-versaTag.id = "1927";
-versaTag.sync = 0;
-versaTag.dispType = "js";
-versaTag.ptcl = "HTTP";
-versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe";
-//VersaTag activity parameters include all conversion parameters including custom parameters and Predefined parameters. Syntax: "ParamName1":"ParamValue1", "ParamName2":"ParamValue2". ParamValue can be empty.
-versaTag.activityParams = {};
-//Static retargeting tags parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty.
-versaTag.retargetParams = {};
-//Dynamic retargeting tags parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty.
-versaTag.dynamicRetargetParams = {};
-//Third party tags conditional parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty.
-versaTag.conditionalParams = {};
-</script>
-<script id="ebOneTagUrlId" src="http://ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
-<noscript>
-   <iframe src="http://bs.serving-sys.com/BurstingPipe?
-		cn=ot&amp;
-		onetagid=1927&amp;
-		ns=1&amp;
-		activityValues=$$
-		Value=[Value]&amp;
-		OrderID=[OrderID]&amp;
-		ProductID=[ProductID]&amp;
-		ProductInfo=[ProductInfo]&amp;
-		Quantity=[Quantity]&amp;$$&amp;
-		retargetingValues=$$&amp;
-		dynamicRetargetingValues=$$&amp;
-		acp=$$$$&amp;"		
-		style="display:none;width:0px;height:0px">
-	</iframe>
-</noscript>
     <a id="top"></a>
-    <header>
+<header>
 
-        <div class="container">
-            <a href="/" class="logo show-small"><img src="/sites/sprout/themes/sprout_twig/images/common/logo-sprout-blue.png" alt="Sprout"></a>
+    <div class="container">
+        <a href="/" class="logo show-small"><img src="/sites/sprout/themes/sprout_twig/images/common/logo-sprout-blue.png" alt="Sprout"></a>
 
-            <button id="toggle-menu" class="show-small button">
-                <span></span>
-                <span></span>
-                <span></span>
-            </button>
+        <button id="toggle-menu" class="show-small button">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+    </div>
+
+    <div class="panel">
+
+                   <nav id="nav-site">
+                <div class="container">
+                    <ul>
+                        <li><a href="/shows" class="button"><i class="icon icon-show"></i>Shows</a></li>
+                        <li><a href="/games" class="button"><i class="icon icon-game"></i>Games</a></li>
+                        <li><a href="/watch" class="button"><i class="icon icon-watch"></i>Watch</a></li>
+                    </ul>
+                    <a href="/" class="logo hide-small"><img src="/sites/sprout/themes/sprout_twig/images/common/logo-sprout.png" alt="Sprout"></a>                </div>
+            </nav>
+                <nav id="nav-utility">
+            <div class="container">
+                <ul class="programming">
+                    <li><a href="/tv-schedule">TV Schedule</a></li>
+
+                    <li class="hide-small"><a href="/" id="toggle-channel">Find Your Channel</a></li>
+                    <li class="show-small"><a href="/channelfinder">Find Your Channel</a></li>
+
+                </ul>
+                <ul class="site-actions">
+                    <li><a href="/send-to-sprout"><i class="icon icon-sprout"></i> Send to Sprout</a></li>
+                    <li class="js-user js-anonymous u-hidden">
+                        <a class="show-small" href="/user">Parent Login</a>
+                        <a class="login-cta hide-small" href="/user" data-component="loginCta">Parent Login</a>
+                    </li>
+                    <li class="js-user js-authenticated u-hidden"><a href="/user">
+                        My Account
+                    </a></li>
+                    <li class="js-user js-authenticated u-hidden"><a href="/user/logout" id="link-logout">Logout</a></li>
+                    <li>
+                        <button class="button" id="toggle-search"><i class="icon icon-search"></i><span class="show-small">Search</span></button>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <div id="search" class="fx-slide">
+            <span class="close"><i class="icon icon-close"></i></span>
+            <div class="search container">
+                <form class="search-form">
+                    <input id="search-header" name="search-header" class="search-input" type="text" placeholder="Search">
+                    <button class="button icon icon-search search-button"></button>
+                </form>
+
+            </div>
         </div>
 
-        <div class="panel">
-
-                           <nav id="nav-site">
-                    <div class="container">
-                        <ul>
-                            <li><a href="/shows" class="button"><i class="icon icon-show"></i>Shows</a></li>
-                            <li><a href="/games" class="button"><i class="icon icon-game"></i>Games</a></li>
-                            <li><a href="/watch" class="button"><i class="icon icon-watch"></i>Watch</a></li>
-                        </ul>
-                        <a href="/" class="logo hide-small"><img src="/sites/sprout/themes/sprout_twig/images/common/logo-sprout.png" alt="Sprout"></a>                    </div>
-                </nav>
-                        <nav id="nav-utility">
-                <div class="container">
-                    <ul class="programming">
-                        <li><a href="/tv-schedule">TV Schedule</a></li>
-
-                        <li class="hide-small"><a href="/" id="toggle-channel">Find Your Channel</a></li>
-                        <li class="show-small"><a href="/channelfinder">Find Your Channel</a></li>
-
-                    </ul>
-                    <ul class="site-actions">
-                        <li><a href="/send-to-sprout"><i class="icon icon-sprout"></i> Send to Sprout</a></li>
-                        <li class="js-user js-anonymous u-hidden">
-                            <a class="show-small" href="/user">Parent Login</a>
-                            <a class="login-cta hide-small" href="/user" data-component="loginCta">Parent Login</a>
-                        </li>
-                        <li class="js-user js-authenticated u-hidden"><a href="/user">
-                            My Account
-                        </a></li>
-                        <li class="js-user js-authenticated u-hidden"><a href="/user/logout" id="link-logout">Logout</a></li>
-                        <li>
-                            <button class="button" id="toggle-search"><i class="icon icon-search"></i><span class="show-small">Search</span></button>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
-
-            <div id="search" class="fx-slide">
-                <span class="close"><i class="icon icon-close"></i></span>
-                <div class="search container">
-                    <form class="search-form">
-                        <input id="search-header" name="search-header" class="search-input" type="text" placeholder="Search">
-                        <button class="button icon icon-search search-button"></button>
-                    </form>
-
-                </div>
-            </div>
-
-            <div id="channel-finder" class="channel-finder fx-slide" data-component="channelFinder">
-                <span class="close"><i class="icon icon-close"></i></span>
-                <div class="container u-clearfix">
+        <div id="channel-finder" class="channel-finder fx-slide" data-component="channelFinder">
+            <span class="close"><i class="icon icon-close"></i></span>
+            <div class="container u-clearfix">
     <div class="zip">
         <h4>Find Sprout on TV!</h4>
         <div class="field-item">
@@ -195,13 +160,13 @@ versaTag.conditionalParams = {};
         <button id="channel-finder-reload" class="cta cta-primary"><i class="icon icon-arrow-reload"></i>Again</button>
     </div>
 
-</div>            </div>
+</div>        </div>
 
-                
+            
 
-                        <section class="fx-slide login hide-mobile">
-                <span class="close"><i class="icon icon-close"></i></span>
-                <form novalidate="novalidate" data-component="login" action="/privacy-policy" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="container login-padding">
+                <section class="fx-slide login hide-mobile">
+            <span class="close"><i class="icon icon-close"></i></span>
+            <form novalidate="novalidate" data-component="login" action="/privacy-policy" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="container login-padding">
     <h3>Welcome, Parents!</h3>
     <p>You must have a sprout account to Send to Sprout.</p>
 
@@ -243,16 +208,22 @@ versaTag.conditionalParams = {};
             <a id="create-account-link" class="cta cta-primary" href="/user/register">CREATE AN ACCOUNT</a>
         </div>
     </div>
+
+
     <!-- These element children always should be printed on forms -->
     <input type="hidden" name="redirect" value="node/10016">
 
-    <input type="hidden" name="form_build_id" value="form-s8j6945zuM-aAEh5yH0ROG-Uc0fD0IMd-zhw-g39Lko">
+    <input type="hidden" name="form_build_id" value="form-HNcUxyfnUnCn1U5hKRR1P3VQwHMFFeNHfR8cbuuUqJg">
 
     <input type="hidden" name="form_id" value="user_login_block">
 
 </div>
+<div class="container store-link">
+    <span class="ad-label">ADVERTISEMENT</span>
+    <a href="https://www.shopsprout.com/">Visit the Sprout Shop</a>
+</div>
 </div></form>
-                <form class="forgot-password" novalidate="" data-component="forgotPassword">
+            <form class="forgot-password" novalidate="" data-component="forgotPassword">
     <div class="container login-padding">
         <div class="request">
             <h3>Password Reset</h3>
@@ -276,43 +247,46 @@ versaTag.conditionalParams = {};
             <p>Further instructions have been sent to your e-mail address.</p>
         </div>
     </div>
-</form>            </section>
-                    </div>
-             <!-- DTM TEMPLATE GLOBAL (RUNS FIRST ON EACH PAGE) -->
-       
-        <script type="text/javascript"> 
-          
-    var digitalData={};
-    digitalData = {
-        'page':{
-            'pageInfo':{
-                'pageName':'Sprout:Privacy Policy'
-            },
-            
-            'categorysubCategory1':'',
-            'charactername':'',
-            'gamedifficulty':'', 
-            'partnername':'Original',
-            'gametype':'',
-            'gamename':'',
-            'category':{
-                'site':'',
-                'subCategory2':'',
-                'subCategory3':'',
-                'pageType':'',
-                'network':'',
-                'showname':'',
-           
-                    
-  
-            }
-            
-                
-        }
-    };
+</form>        </section>
+            </div>
+         <!-- DTM TEMPLATE GLOBAL (RUNS FIRST ON EACH PAGE) -->
+        <div class="alert-messages" data-component="announcement" data-options="{'cookie': 'announcement'}">
+    </div>
 
-        </script>
-    </header>
+
+    <script type="text/javascript"> 
+      
+var digitalData={};
+digitalData = {
+    'page':{
+        'pageInfo':{
+            'pageName':'Sprout:Privacy Policy'
+        },
+        
+        'categorysubCategory1':'',
+        'charactername':'',
+        'gamedifficulty':'', 
+        'partnername':'Original',
+        'gametype':'',
+        'gamename':'',
+        'category':{
+            'site':'',
+            'subCategory2':'',
+            'subCategory3':'',
+            'pageType':'',
+            'network':'',
+            'showname':'',
+       
+                
+
+        }
+        
+            
+    }
+};
+
+    </script>
+</header>
 
  <main class="footer-page">
     <section class="header">
@@ -322,40 +296,163 @@ versaTag.conditionalParams = {};
     </section>
     <section id="page-content" class="richtext">
        <div class="container">
-           <h2 id="PrivacyPolicy(Utility/Sub-NavLink)-ElectronicMaterials"><strong>Sprout Online Services Privacy Policy</strong></h2>
-<p>Sprout, an entity of Children’s Network, LLC (“Sprout”), is the first multi-platform service (on-air, on-demand, and online) devoted to preschool children and their parents (references to “parents” also means “legal guardians”), 24 hours a day, 7 days a week. Sprout is available online at <a href="http://www.sproutonline.com/" rel="nofollow">www.SproutOnline.com</a>&nbsp;(“SproutOnline.com” or “Website”) and through applications (“Apps”) (collectively the “Online Services”) Sprout makes available on mobile devices or other platforms, providing parents and their children the opportunity to engage in shared moments of learning and laughing together. Our fun, educational, and interactive Online Services offer programming schedules, original preschooler age-appropriate games, and user-friendly tools that let parents and their children interact with their favorite Sprout characters. The Online Services also offer content and activities designed for parents to help them learn and be inspired. This Privacy Policy applies to the Online Services, and does not apply to other Sprout products or services. The Online Services are directed to, and intended for, residents of the United States. We are committed to respecting and protecting the privacy of users of this Website, including complying with the Children's Online Privacy Protection Act of 1998 (“COPPA”) when applicable, as discussed in more detail below.&nbsp;</p>
+           <h2 id="PrivacyPolicy(Utility/Sub-NavLink)-ElectronicMaterials">Privacy Policy - New</h2>
+<p class="p1"><em>Last Updated: 10/10/17</em></p>
+<p class="p1"><em>Hi there! We made some recent changes to the Sprout Privacy Policy because, as the newest member of the NBCUniversal family, we decided we should look and feel like the rest of the crew. So what’s new, you ask? For starters, you’ll notice the NBCUniversal overall policy contains new children’s sections for Sprout and our new Universal Kids site, including descriptions of when and how we may collect data from kids. We also added updated contact information in case you want to reach out to us. Our goal is to make the sections directed towards kids both easy to read and understand, and we think we’ve done a great job. And we hope you do too!</em></p>
+<p class="p1">This Privacy Policy describes the privacy practices of NBCUniversal Media LLC including our affiliate companies ("NBCUniversal", "we", "our" or "us"). You can find information about NBCUniversal, including our affiliates,&nbsp;<a href="http://www.nbcuniversal.com/business" rel="nofollow">here.</a></p>
+<p>This Privacy Policy explains how we collect, use, disclose, and transfer information about users who interact with us including (but not limited to) via our websites, downloadable applications, such as games, interactive TV and Mobile Apps (as defined below) that link to this policy ("online services"). This policy only applies to those online services that link to this policy. This policy also tells you how we use tracking technologies, cookies and browsing data we collect from your use of our online services, the measures we take to protect the security of the information you provide to us through our online services, and how you can contact us if you have any questions regarding our online services (including if you want to unsubscribe from our services or update your contact details). Information about how NBCUniversal processes your information outside our online services (e.g. working for NBCUniversal or visiting NBCUniversal premises) is available by contacting&nbsp;<a href="mailto:privacy@nbcuni.com" rel="nofollow">privacy@nbcuni.com.</a></p>
+<ol>
+<li><a href="#scopeandconsent" rel="nofollow">SCOPE AND CONSENT</a></li>
+<li><a href="#information" rel="nofollow">TYPES OF INFORMATION WE COLLECT</a></li>
+<li><a href="#collection" rel="nofollow">HOW WE COLLECT YOUR INFORMATION</a></li>
+<li><a href="#usage" rel="nofollow">HOW WE USE YOUR INFORMATION</a></li>
+<li><a href="#sharing" rel="nofollow">HOW WE SHARE YOUR INFORMATION</a></li>
+<li><a href="#children" rel="nofollow">CHILDREN</a></li>
+<li><a href="#protection" rel="nofollow">HOW WE PROTECT YOUR INFORMATION</a></li>
+<li><a href="#rights" rel="nofollow">YOUR RIGHTS AND CHOICES</a></li>
+<li><a href="#usagelocation" rel="nofollow">WHERE YOUR INFORMATION WILL BE USED</a></li>
+<li><a href="#cookies" rel="nofollow">COOKIES AND OTHER TECHNOLOGIES</a></li>
+<li><a href="#mobileapps" rel="nofollow">MOBILE APPS</a></li>
+<li><a href="#workingatnbcu" rel="nofollow">APPLYING TO WORK AT NBCUNIVERSAL</a></li>
+<li><a href="#california" rel="nofollow">IMPORTANT INFORMATION FOR CALIFORNIAN RESIDENTS</a></li>
+<li><a href="#onlineservices" rel="nofollow">LINKS TO OTHER ONLINE SERVICES</a></li>
+<li><a href="#updates" rel="nofollow">UPDATES TO OUR PRIVACY POLICY</a></li>
+<li><a href="#contactus" rel="nofollow">CONTACT US</a></li>
+</ol>
 <p>&nbsp;</p>
-<p><strong>Children’s Privacy&nbsp;</strong></p>
-<p>Sprout does not condition a child’s participation in any Online Service on the disclosure of more information than is reasonably necessary to participate in the activity.</p>
-<p>Neither Sprout nor the service providers who provide support for the internal operations of the Online Services collect personal contact information (<em>e.g.</em>, full name, email address, home address, or phone number) or any geolocation information from children under the age of 13. Sprout and its service providers may collect information that is reasonably necessary to support the internal operations of the Online Services (see section below on “Cookies and Other Technologies”). In the event that we have knowledge that a child under the age of 13 has submitted any personal information to us via the Online Services, we may use the email address provided by the child for the sole purpose of responding to the child’s question or carrying out his or her request on a one-time-only basis. We will not use the email address provided by the child for any other purpose, and we will delete it from our records once the question has been answered or the request has been fulfilled. If we become aware that we have unknowingly collected personal contact information other than an email address from a child under the age of 13, we will delete the information immediately. Features on the Online Services that are open to non-registered users, such as games, electronic postcards, or certain materials that can be submitted to Sprout, collect only non-personal information, such as a first name, age, hometown, and home state. Sprout may provide non-registered users and registered users with the opportunity to send a link to material on the Online Services to friends and family electronically. To do so, Sprout may ask for the sender’s first name, recipient’s first name, and recipient’s email address. Recipient email addresses are used only to send the electronic materials to complete the sender’s request, and are deleted after the request is fulfilled.&nbsp;</p>
-<p>In the event that you believe we have inadvertently collected personal information from your child, you can review such personal information collected from your child through the Online Services, have such information deleted, and refuse to allow further collection or use of such information. Parents can agree to the collection of personal information from their child and the use of such information without agreeing to the disclosure of such information to third parties. Parents generally have a right to opt out of having personal information collected from their child disclosed to third parties. In the event that you believe we have collected personal information from your child, please contact us at the email address provided below and a Sprout representative will guide you through the necessary procedures.&nbsp;</p>
-<p>California minors under 18 years old may request the removal of any information that they posted to NBCUniversal sites by contacting&nbsp;<a href="mailto:privacy@nbcuni.com" rel="nofollow">privacy@nbcuni.com</a>. Upon such request, NBCUniversal will anonymize, or remove from public view, any content posted by a minor to one of its websites, unless required by law to retain such content or information.</p>
+<div>
+<h3><a name="scopeandconsent" rel="nofollow"></a>SCOPE AND CONSENT</h3>
+<p>When you use our online services, you are contracting with NBCUniversal. If you reside outside of the United States, NBCUniversal is your data controller. By using our online services, you expressly consent to our collection, use, disclosure, and retention of your information as described in this Privacy Policy.</p>
+<h3><a name="information" rel="nofollow"></a>TYPES OF INFORMATION WE COLLECT</h3>
+<p>Our goal is to collect and use information to deliver effective and personalized services, which take your interests and preferences into account, as well as for our legitimate business needs and interests.</p>
+<p>There are two main types of information we collect about users of our online services that include (but are not limited to) the following:</p>
+<ul>
+<li><em>Information that directly identifies you:</em>&nbsp;this includes, for example, information that you provide to us such as your name, home address, telephone number, email address, payment information (including your credit card number), and/or photos or video footage of you; and</li>
+<li><em>Information that relates to you, but on its own does not identify you:&nbsp;</em>such as information about your Internet connection, the equipment you use to access our online services, and information relating to your usage of those services.&nbsp;<br><br>The main categories of information we collect about our online services users include (but are not limited to) the following:</li>
+<li><em>Contact/Registration information:&nbsp;</em>for example, your telephone number or email address, if you have subscribed to a service such as program updates; name, age, gender, or interests if you register for an account on one of our online services; delivery address if you buy a product or service through an online service; or your age, location, or delivery address if you choose to enter a competition or sweepstakes offered through our online services.</li>
+<li><em>Transaction information:&nbsp;</em>when you order products or services through our online services, you may provide information such as your credit/debit card details and other information related to that transaction.</li>
+<li><em>Information that you provide on message boards and other user forums:</em>including your username, images, or videos. Please use caution when posting to messages boards or other forums, as information posted to these portions of our online services is public information.</li>
+<li><em>Information about your equipment and about your interactions with the NBCUniversal and other online services:&nbsp;</em>for example, your Internet protocol or IP address; pages, content, or advertising that you visit within online services (including online services not provided by NBCUniversal); or the type and version of your device’s operating system or web browser, your device ID, and in some instances, your device’s location.</li>
+<li><em>Information that is collected from social networks and publicly available data:&nbsp;</em>if you visit our online services on a device through which you also interact with social networks or if you interact with us through a social media function such as a plug-in (for example, a Facebook "like" button) then you may be permitting us to have ongoing access to some information from your social network profile (such as your name, email address, your friend list, photo, age, gender, location, birthday, social networking ID, current city, and the people/sites you follow ). If you don’t want a social network to collect the information about you as described above, or you don’t want a social network to share it with us and other third parties, please review the privacy settings and instructions of the applicable social network before you visit and use our online services.</li>
+<li><em>Information that is collected from Consumer Data Resellers:&nbsp;</em>we may collect information about you from consumer data resellers, including but not limited to, demographic and other generally available information, or advertiser information, including purchasing data and membership in loyalty programs.</li>
+<li><em>Information About Your Video Viewing Behavior:&nbsp;</em>information about your video viewing behavior on our online services (e.g., content viewed and information about the advertisements within the content you have been shown or may have clicked on, etc.).</li>
+</ul>
+<h3><a name="collection" rel="nofollow"></a>HOW WE COLLECT YOUR INFORMATION</h3>
+<p>The methods we use to collect information about you are as follows:</p>
+<ul>
+<li><em>Directly from you, when you provide it to us:</em>&nbsp;for example, when you request products or services from us, when you register with us, respond to surveys, apply for a job, contact us or otherwise interact with us. To protect your privacy, please remember to log out from our online services that you access from public or shared devices.</li>
+<li><em>Automatically, when you use our online services:&nbsp;</em>information collected through the use of Cookies and Other Technologies, and when you download our Mobile Apps. Please see our&nbsp;<a href="http://www.nbcuniversal.com/privacy/cookies" rel="nofollow">Cookies and Tracking Technologies</a>, and&nbsp;<a href="http://www.nbcuniversal.com/privacy/mobile-apps" rel="nofollow">Mobile Apps</a>&nbsp;pages for further information, including your choices in relation to the use of these technologies.</li>
+<li><em>From third parties:</em>&nbsp;including social networks, other online services, publicly available records, our service providers, and from consumer data resellers.</li>
+</ul>
+<h3><a name="usage" rel="nofollow"></a>HOW WE USE YOUR INFORMATION</h3>
+<p>We (and our service providers) use information to:</p>
+<ul>
+<li>enter you into sweepstakes, contests or promotions where requested;</li>
+<li>create an online services account if you have requested one;</li>
+<li>personalize the services offered by us or our affiliates, including providing personalized advertising on some online services (see options for opting out of personalized advertising&nbsp;<a href="https://www.nbcuniversal.com/privacy/cookies/#your_cookie_choices_and_how_to_opt_out" rel="nofollow">here</a>);</li>
+<li>respond to your inquiries, requests, and comments;</li>
+<li>allow you to participate in the interactive features of our online services, where you choose to do so;</li>
+<li>provide technical support for our online services;</li>
+<li>prevent fraud or potentially illegal activities (including copyright infringement) on our online services;</li>
+<li>protect the safety of users and others on our online services;</li>
+<li>enforce our online services' terms of service;</li>
+<li>understand how our online services are used so that we can continuously improve them, and the services we provide to you;</li>
+<li>send you newsletters and information about products, services and promotions relating to us and/or our business partners or other organizations that we work with, in accordance with your communication preferences.</li>
+<li>send you service-related communications, including announcements and administrative messages;</li>
+<li>create anonymous and, where legally permissible, personally identifiable user and consumer profiles, and audience segments that can be used for targeted advertising and marketing, and subject to legal restrictions (including consent where necessary) we may also use technology (such as Facebook Custom Audiences) to deliver advertising to you on other sites and in Mobile Apps based on the email address or other information you provide to us or through the use of information we receive from third parties, including Consumer Data Resellers. Please see&nbsp;<a href="https://www.nbcuniversal.com/privacy/full-privacy-policy#your_rights_and_choices" rel="nofollow">Your Rights and Choices&nbsp;</a>for further information about how you can control these updates;</li>
+<li>if you use our online services to send gifts we use the contact information (e.g., email addresses) that you provide to send the gift to your requested recipients, provide other communications relating to those sorts of transactions, as well as any further communications as may be authorized by the recipients; and implement any related social networking features you have activated. Note that we may combine all the information we collect or receive about you for any of the foregoing purposes.</li>
+</ul>
+<h3><a name="sharing" rel="nofollow"></a>HOW WE SHARE YOUR INFORMATION</h3>
+<p>Information sharing within NBCUniversal and among NBCUniversal affiliates.</p>
+<ul>
+<li>Your information may be shared with NBCUniversal affiliates, and used to help us better tailor our services, products and advertising to you.&nbsp;<br>Information sharing with third parties – e.g. service providers, advertisers, consumer data resellers, social networks:</li>
+<li><em>Service providers that we have retained to perform certain business-related functions on our behalf:&nbsp;</em>for example service providers who offer services including research and analytics; hosting websites, fulfilling transactions, maintaining databases, administering contests, providing technology services and platforms, and processing payments. These parties are provided only with the information about you that they need to perform their functions and can only use and disclose that information as is necessary to perform the services on our behalf, or to comply with legal requirements. We take steps to ensure that third party service providers will take appropriate steps to protect your information.</li>
+<li><em>Social Networks:&nbsp;</em>You may interact with certain features of our online services that cause information to be published to your social networks. For example, you may click on a Facebook "like" button, which publishes to your Facebook account that you "like" one of our TV shows or movies. On pages of our online services that contain social network functionality, the social network providing the functionality may be able to collect information about you, even if you don’t use that functionality. For example, if a page within our online services contains a Facebook "like" button, Facebook may be able to collect data about your visit to that page, even if you don’t click on the "like" button. To control this sharing of information, please review the privacy policy of the relevant social network and/or log out of it before you use our online services.</li>
+<li><em>For Mobile Apps:&nbsp;</em>In&nbsp;<a href="https://www.nbcuniversal.com/privacy/mobile-apps/#optouts" rel="nofollow">Mobile Apps</a>, information about you and about how you use our mobile apps may be shared with technology providers, carriers, analytics providers, and/or other mobile apps either operated by us or third parties. Please see our Mobile Apps&nbsp;<a href="https://www.nbcuniversal.com/privacy/mobile-apps" rel="nofollow">section</a>&nbsp;for additional detail.</li>
+<li><em>Advertisers, Advertising Networks and Consumer Data Resellers:&nbsp;</em>Some online services, including Mobile Apps, may be supported with advertising, and collect data to help our online services serve ads. This helps keep the cost of online services low or free. We work with advertisers and third-party advertising networks and consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you. These third parties may receive information about how you interact with content and advertising provided in our online services. These third parties may view, edit or set their own tracking technologies/cookies, which will allow them to collect information about you. For information about your choices relating to the transfer of information via such technologies see our&nbsp;<a href="https://www.nbcuniversal.com/privacy/cookies/" rel="nofollow">Cookies and Tracking Technologies</a>&nbsp;section.</li>
+<li><em>Sharing of Video Viewing Behavior:&nbsp;</em>we may share information (and you agree to this sharing) about the video content you view on our online services with video measurement services such as Nielsen TV Ratings, analytics providers and advertising companies, and third party social media sites. This sharing shall continue for two years or until you withdraw your consent. Information that may be passed to video measurement services such as Nielsen TV Ratings, analytics providers and advertising companies may be via cookies and tracking technologies. For information about your choices relating to transfer of information via such technologies see&nbsp;<a href="https://www.nbcuniversal.com/privacy/cookies/" rel="nofollow">Cookies and Tracking Technologies</a>&nbsp;section.<br>To opt out of video measurement services by Nielsen TV Ratings specifically please click&nbsp;<a href="http://www.nielsen.com/digitalprivacy#choice" rel="nofollow">here</a>&nbsp;<br><br>Information sharing with other parties:&nbsp;<br><br>In addition, we may disclose your information to law enforcement agencies, government/regulatory bodies, and content protection organizations to:</li>
+<li>Protect our legal rights, privacy or safety, and that of our subsidiaries, affiliates, employees, agents, contractors, or other individuals;</li>
+<li>Protect the safety and security of visitors to our online services or other properties;</li>
+<li>Protect against fraud or other illegal activity or for risk management purposes;</li>
+<li>Respond to inquiries or requests from government, regulatory, law enforcement, or public authorities;</li>
+<li>Permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages that we may sustain;</li>
+<li>Comply with the law including with subpoenas, search warrants, court orders, and other legal process; or</li>
+<li>Enforce applicable terms of service.&nbsp;<br><em>Sale or transfer of all or part of our business or assets</em><br><br>We reserve the right to transfer the information described in this Privacy Policy in the event we sell or transfer all or a part of our business or assets so that the buyer can continue to offer you the online services. We will make commercially reasonable efforts to provide you with reasonable notice of such transfer, or as otherwise required by law. If you do not want your information to be processed following such a transfer, you should contact the subsequent owner of the business.</li>
+</ul>
+<h3><a name="children" rel="nofollow"></a>CHILDREN</h3>
+<p>Most of our online services are intended for users of all ages. This section outlines NBCUniversal's information practices in the United States with respect to personal information (as defined by the Children’s Online Privacy Act ("COPPA")) collected on online services directed to children under the age of 13, such as Sprout and Universal Kids, or from children who we have actual knowledge are under the age of 13 (“child” or "children"). For more information about COPPA see&nbsp;<a href="https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy" rel="nofollow">here</a>.</p>
+<p>Please see the other sections of this Privacy Policy for our information practices regarding online services (or portions of such services) that are directed to parents, users over the age of 13, or general audiences.</p>
+<p>If we knowingly collect personal information on a child-directed service or from a user we have actual knowledge is a child, we will retain that information only so long as reasonably necessary to 1) fulfill the request or allow the child to participate in the activity, 2) ensure the security of our users and our online services, and/or 3) as required by law. If we learn we have collected personal information from a child in a manner inconsistent with COPPA's requirements, we will either delete that personal information or seek parental consent. Collection and Use of Personal Information from Children</p>
+<p><em>Collection and Use of Personal Information from Children</em></p>
+<p>If an online service seeks to collect personal information from a child that is not subject to an exception under COPPA, we will first ask for a parent or guardian’s consent to that collection as required by law.</p>
+<p>Our online services directed to children may collect the following information from children for the purposes described:</p>
+<ul>
+<li><em>Registration Information:</em>&nbsp;Children may be able to register with an online service to view content, participate in contests, play games and more. We may ask the child to provide a screen name (that does not include the child’s name) and password. We may also request information for notification purposes, such as a parent or guardian’s email address, the child’s first name and gender, and birth date.</li>
+<li><em>Email Address for One-Time Response:</em>&nbsp;We may ask for a child's email address or other online contact information in order to respond to a question or request from a child. We will delete this information after responding to the question or request. If an online service allows children to create accounts by providing name and email address, we will first seek parental consent as required by COPPA.</li>
+<li><em>Email Address for Newsletters or Other Ongoing Communications:&nbsp;</em>Our online services may offer ongoing communications to our users, such as newsletters or show updates. In such circumstances, we may collect a child’s email address or other online contact information, along with a parent’s email address. We will notify the parent via email about the collection and use of the child's information and provide the parent an opportunity to prevent further contact with the child.</li>
+<li><em>Content:</em>&nbsp;We may allow children to submit content to us. If a child includes personal information in such content, we will take reasonable measures to delete the personal information or first seek parental consent.</li>
+<li><em>Contests and Sweepstakes Entry Information:&nbsp;</em>Our online services may feature contests or sweepstakes and seek information necessary for a child to participate in such contest, including the child’s first name and parent’s email address to notify the parent (as required by law). If the child wins the contest, we may contact the parent via email to request information for prize fulfillment.</li>
+<li>Information to Obtain Parental Consent: We may ask a child for a parent’s or guardian’s email address or other permissible contact information in order to request consent. If we do not receive parental consent within a reasonable time, we will delete the contact information and any other related information collected from the child. We may conduct other methods of parental consent permitted by COPPA, including obtaining a credit card number and charging a fee (which may be nominal), asking a parent to speak to a customer service representative by phone or video, or requiring submission of a signed consent form.</li>
+<li><em>Persistent Identifiers:</em>&nbsp;Our online services may automatically collect persistent identifiers for internal operations, including to provide and improve our online services, conduct analytics, authenticate users, personalize content, maintain the security and integrity of the service, and to ensure legal or regulatory compliance. Specifically, we may collect Internet protocol or IP address, pages and content visited, the type and version of operating system or web browser, device ID. We, or our third party service providers, may collect this information using HTTP cookies, flash cookies, HTML5 and Flash local storage, web beacons/GIFs, embedded scripts, and ETags/cache browsers ("Cookies"). The third-party operators who collect persistent identifiers on our online services directed to children are available here.</li>
+</ul>
+<p><em>Disclosure of Personal Information from Children</em></p>
+<p>We may share or disclose personal information collected from children in the following circumstances:</p>
+<ul>
+<li>With our service providers in order for them to perform service on our behalf;</li>
+<li>As permitted or required by law, including in response to a court order or a subpoena.</li>
+<li>To protect the safety of a child, to prevent a crime, or to facilitate a public safety investigation;</li>
+<li>To take precautions against liability; or</li>
+<li>To protect the security or integrity of our online services.</li>
+</ul>
+<p>In addition, personal information collected from a child may be shared or publicly posted if we first obtain parental consent.</p>
+<p><em>Parental Controls</em>&nbsp;<br>Parents or guardians may contact&nbsp;<a href="mailto:privacy@nbcuni.com" rel="nofollow">privacy@nbcuni.com</a>&nbsp;to review personal information provided by his or her child, have such information deleted, and/or refuse to allow further collection or use of such information. You may send mail inquiries to: Chief Privacy</p>
+<p>To protect children’s privacy and security, we will take reasonable steps to help verify a parent’s identity before granting access to any personal information.</p>
+<p><em>Minors Under 18</em><br>Minors under 18 years old may request the removal of any information that they posted to NBCUniversal sites by contacting&nbsp;<a href="mailto:privacy@nbcuni.com" rel="nofollow">privacy@nbcuni.com</a>. Upon such request, NBCUniversal will anonymize, or remove from public view, any content posted by a minor to one of its websites, unless required by law to retain such content or information.</p>
+<p>For certain websites covered by this Privacy Policy and involved in e-commerce, you may only be able to use that site and any related services if you are 18 years of age or older, or the age of majority in your jurisdiction of residence, whichever is older. If you are under the age of 18 or the age of majority in your jurisdiction of residence, you may only use that site and any related services with the involvement of a parent or legal guardian.</p>
 <p>&nbsp;</p>
-<p><strong>Collection and Use of Information</strong></p>
-<p>We or our service providers who provide support for the internal operations of our Online Services may collect personal contact and other information about you, your family, or your friends that you voluntarily provide on the Online Services. We use this information for various purposes, including to enhance your experience with the Online Services, and to provide you with the services or products you requested. Areas of the Online Services that require a user to complete a registration process before using those areas are solely directed to parents that are at least 18 years of age. To register, parents must enter their birth date to confirm that they are at least 18 years old. Parents must also create a unique account name and password and provide personal information including the parent’s full name, parent’s email address, and parent’s home address.</p>
-<p>Sprout uses the information collected during the registration process to provide parents access to parent-directed features and activities, which may include customizing a user’s own web page and uploading photographs or videos. We also use this information to communicate with you and carry out your requests, including providing you with promotional emails or postal mail about Sprout and third parties. By changing the settings on the “My Account” page, users may opt out of receiving promotional communications from Sprout.</p>
-<p>If you have submitted your child’s first name and birth date as part of your account information, your child’s first name, birth date, age, hometown, and home state may be announced during Sprout television programming or on the Online Services, and you may receive a birthday message to share with your child via email, the Online Service, or postal mail. The child’s first name and birth date information that you provide on the registration page will not be shared with third parties for any other purpose.</p>
-<p>Registered users may be given the opportunity to upload materials to Sprout for display on parts of the Online Services accessible to all users. When a registered user uploads such materials, such as a photograph, video, or artwork (“image”), we request that the registered user also post information which may include the corresponding child’s first name, age, hometown, and home state (“image label”). We may use images and image labels on the Online Services, or in Sprout television programming or Sprout promotional materials. Some Apps may ask for access to the phone library on your mobile device to enable you to upload images to Sprout. Should you choose to restrict this access, you may deny permission to your photo library or later change the privacy settings on your device.</p>
-<p>Users of the Online Services, including non-registered users, may also be given the opportunity to send messages to Sprout, such as birthday wishes or messages to Sprout characters, and are also requested to provide image label information in connection with such messages. However, only registered users may upload and submit images in connection with such messages. We may use images and image labels on the Online Services, or in Sprout television programming or Sprout promotional materials.</p>
-<p>Some of the Online Services allow parents to post information about the Online Service to a third-party social media service, such as Facebook or Twitter. Sprout does not receive any information about you from the social media service, nor does Sprout provide any information about you to the social media service. If you choose to use these features, your actions are governed by the privacy policy of the social media service. Please review each provider’s governing policies before using their service.</p>
-<p>Sprout also makes certain video programming available to authenticated consumers through the Online Services. In order to access full episodes of Sprout shows through our Online Services, you may be required to provide the username and password associated with your video service provider account.&nbsp; This information is used by your video service provider to authenticate your credentials and verify your eligibility to access this content. Sprout does not receive any information about you beyond that which is necessary to ensure your access to the appropriate content.<br> <br> <strong><em>Electronic Materials<br> </em></strong>Sprout may provide registered users with the opportunity to send electronic materials created or posted on the Online Services (such as electronic postcards featuring links, artwork, or digital works) or a link to materials on the Online Services to friends and family electronically. In order to send these materials, Sprout may request that you enter your first name, child’s first name and age, and/or first name and email address of the intended recipient of the electronic materials. Recipient email addresses are used only to send the electronic materials to complete your request, and are deleted after your request is fulfilled.&nbsp;</p>
-<p><br> <strong><em>Newsletters and Sprout Announcements<br> </em></strong>Sprout may use the registered user’s email address or postal mail address to provide the registered users with newsletters, birthday messages, and other special announcements from Sprout. Registered users can choose to cancel their receipt of these features by visiting the “My Account” page, or through the “unsubscribe” link at the end of each email sent to users.</p>
-<p><br> <strong><em>Contests and Sweepstakes<br> </em></strong>Sprout may offer registered users the opportunity to enter contests and sweepstakes on the Online Services. We may request that a registered user provide his/her child’s first name, age, hometown, home state, and the registered user’s email address. The information collected will be used to conduct the contest or sweepstakes, to notify the winner, and, such winner’s child’s first name, age, hometown, and home state may be announced on SproutOnline.com or other Sprout website and in Sprout television programming or promotional materials. Sprout may also offer contests and sweepstakes sponsored by third parties. In the event that Sprout will share personal information about a registered user with a third-party sponsor of a contest or sweepstakes, Sprout will provide notice in the entry process that entry information may be shared. Use and disclosure of such entry information with third-party sponsors is governed by the privacy policies of those third parties, and is not the responsibility of Sprout.&nbsp;</p>
-<p><br> <strong><em>Apps and In-App Purchases<br> </em></strong>Sprout offers a number of fun and educational Apps that are available for both Apple iOS- and Android-based devices. Some of these Apps also include in-app purchase features. When you download or purchase an app, or make an in-app purchase, you do so through a third-party online store which is governed by its own privacy policy and terms of use. To prevent unauthorized in-app purchases, parents can restrict or disable this feature by changing the settings on their mobile device or their account settings for the third-party online store. Parents should not share their account passwords with their children.&nbsp;</p>
-<p><br> <strong><em>Cookies and Other Technologies<br> </em></strong>Sprout or our service providers may place, view, and/or use “cookies” or other technologies to collect information for various reasons on behalf of Sprout, including to enhance users’ experience with the Online Services and to provide certain functions on the Online Services. A cookie is a small text file that is placed on your computer that collects information about your use of this Website, such as the pages visited, the date and the time of a visit, etc. Any information collected by the cookies or other technologies used by Sprout cannot be used to identify you, nor will such information be associated with personal information. [Sprout makes reasonable efforts to limit its designated service providers’ use of cookies or other technologies in the same manner as set forth in this paragraph.] Most browsers are set to accept cookies by default. If you prefer, you can usually set your browser to disable cookies, or to alert you when cookies are being sent. The help function on most browsers contains instructions on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, it is possible that some parts of this Website, such as the game areas, will not function properly if you disable cookies.</p>
-<p>In serving the advertisements that you see on this Website, Sprout or our service provider may place or recognize a unique cookie on your computer. Information about your visits to this Website is used to serve the advertisements. For more information about DoubleClick, a Google company, who assists Sprout with display of advertisements on this Website, including its use of cookies, as well as its instructions on how to “opt out” of its use of cookies,&nbsp;please&nbsp;<a href="http://www.google.com/privacy/ads/" rel="nofollow">click here</a>.<br> <br> <strong>Disclosure of Information</strong></p>
-<p>Sprout may disclose your personal information and other information that we collect about and from you to third parties if we believe in good faith that such disclosure is reasonably necessary to: (a) respond to judicial process or to the extent permitted by law; (b) take precautions against liability; (c) protect the security or integrity of this Website, including to enforce the terms of use of this Website, or (d) protect the safety of others. Sprout may also disclose this information to third parties if you permit us to do so. Sprout may also disclose this information to provide you with the services or products requested by you, including allowing a purchaser of a Sprout division, or Sprout as a whole, to use your personal information to continue to serve you. For registered users, Sprout may also share your personal information with carefully selected third parties interested in serving you, and you may instruct us at any time not to share this information with such third parties by visiting the “My Account” page. Use and disclosure of your information by the third parties is governed by the privacy policies of those third parties, and is not the responsibility of Sprout.</p>
-<p>We may use or disclose on the Online Services, in Sprout’s television programming, or Sprout promotional materials the contents of any material that you submit, post, upload, or otherwise make available on the Online Services (such as your photos posted to the public galleries). In addition, Sprout may disclose information to its service providers who have agreed to not use or disclose the information for any other purpose and whose role is to provide support for the internal operations of the Online Services (e.g., to conduct contests and sweepstakes or to provide email newsletters). Sprout may share non-personal, aggregate information about our users with third parties, such as advertisers, content providers, and business partners.&nbsp;<br> <br> <strong>Security</strong></p>
-<p>Our Online Services have established and maintain reasonable procedures to protect the confidentiality, security, and integrity of personal information collected through the Online Services. However, please note that no system can be guaranteed to be 100% secure.<br> <br> <strong>Links to Third Party Sites</strong></p>
-<p>Sprout may use “bumper” pages or similar notifications in the Online Services to clarify when users are linking to an advertiser’s or other third party’s site. These other sites are governed by their own privacy policies, which may be substantially different from ours. Visitors to other sites or services should review the privacy policies and information collection practices of those sites or services. Use and disclosure of information by third parties is governed by the privacy policies of those third parties, and is not the responsibility of Sprout.&nbsp;</p>
-<p><strong>IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS&nbsp;</strong></p>
-<p>Residents of the State of California may request a list of all third parties to which our online service has disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes. &nbsp;If you are a California resident and want such a list, please contact us at Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US. For all requests, you must put the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. &nbsp;In the body of your request, please provide enough information for us to determine if this applies to you. &nbsp;You need to attest to the fact that you are a California resident and provide a current California address for our response. &nbsp;Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.</p>
-<p><strong><em>Do Not Track</em></strong></p>
-<p>California Business &amp; Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how NBCUniversal responds to “Do Not Track” browser settings. NBCUniversal does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.</p>
-<p><strong>Questions, Comments, &amp; Concerns?</strong></p>
-<p>Parents, if you have any questions, comments or concerns regarding this Privacy Policy, please contact us at:<br> <br> <strong>Sprout</strong><br> PO Box 288<br> Fort Washington, Pa 19034<br> <a href="mailto:info@sproutonline.com" rel="nofollow">info@SproutOnline.com<br> <br> </a><strong>Changes to Privacy Policy</strong></p>
-<p>This Privacy Policy is subject to change. Please review this Privacy Policy so you will always know what information is collected and how it is used. Changes to this Privacy Policy will be effective upon posting.&nbsp;</p>
-<p><em>Last Updated: July 1, 2013.</em></p>
+<h3><a name="protection" rel="nofollow"></a>HOW WE PROTECT YOUR INFORMATION</h3>
+<p>We maintain procedural, technical, and physical safeguards for our online services to help protect against loss, misuse or unauthorized access, disclosure, alteration, or destruction of the information you provide via our online services. We also ask the service providers that help us deliver our online services to do the same. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop, or improve our online services. Unfortunately, no transmission of data is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. Therefore, any transmission of information to us is made at your own risk. If you believe that your interaction with us is no longer secure, please notify us using the contact details below.</p>
+<p><em>Usernames &amp; Passwords</em><br>It is important that you protect and maintain the security of any account you create and that you notify us immediately of any unauthorized use of any NBCUniversal account. Do not disclose your password to anyone else.</p>
+<p>&nbsp;</p>
+<h3><a name="rights" rel="nofollow"></a>YOUR RIGHTS AND CHOICES</h3>
+<p><em>Communication Preferences and Opt-outs</em><br>If you have subscribed to one or more of our email newsletters or are receiving them from us and you don’t want them anymore, you can unsubscribe. Select the “unsubscribe” link at the bottom of any message, by other means provided to unsubscribe, or using the contact details below, to unsubscribe from marketing and promotional emails and associated marketing delivered to you on third party services based on your subscription data. However, you cannot unsubscribe from some service related messages.</p>
+<p><em>Mobile Apps</em><br>For additional information about your choices in relation to Mobile Apps including information on how to opt out of targeted advertising and video measurement see the&nbsp;<a href="https://www.nbcuniversal.com/privacy/mobile-apps/#optouts" rel="nofollow">Mobile Apps</a>&nbsp;section.</p>
+<p><em>Advertising/Cookies and Similar Technologies</em><br>For more information about your choices for cookies and similar technology ("Cookies and Tracking Technology"), including where such technology is used to provide targeted or other advertising on our online services, please see our&nbsp;<a href="https://www.nbcuniversal.com/privacy/cookies/#your_cookie_choices_and_how_to_opt_out" rel="nofollow">Cookies and Tracking Technologies</a>&nbsp;policy.</p>
+<p><em>Access and Correction</em><br>In addition to the functionality provided to you via our online services (such as using "account settings" for registered users), where legally required we provide online visitors with access to their information and the ability to review, update and correct it. Some access requests may be subject to a small fee. To help preserve your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to your information. Please contact <a href="mailto:privacy@nbcuni.com">privacy@nbcuni.com</a> for more information about exercising these rights.</p>
+<p><em>Data Retention and Deletion</em><br>We will retain your data for as long as you use our online services and for a reasonable time thereafter. If you’d like to delete, modify or update the data that you provided via our online services please use the settings on our online services or contact us at&nbsp;<a href="mailto:privacy@nbcuni.com" rel="nofollow">privacy@nbcuni.com</a>&nbsp;and we will respond within a reasonable time. Please note that some or all of this data may be required in order for our online services to function properly, and we may be required, by law, to retain certain information.</p>
+<p><em>Opt-out of Video Measurement by Nielsen</em><br>To opt out of video measurement services by Nielsen TV Ratings specifically please click&nbsp;<a href="http://www.nielsen.com/digitalprivacy#choice" rel="nofollow">here</a>.</p>
+<p>&nbsp;</p>
+<h3><a name="usagelocation" rel="nofollow"></a>WHERE YOUR INFORMATION WILL BE USED</h3>
+<p>NBCUniversal is based in the United States and may from time to time transfer your information to other countries and make it accessible to any of our affiliates and third party service providers internationally. Where the transfer of information is to a country that does not provide an adequate level of information protection, NBCUniversal has taken steps to ensure that your information receives an appropriate level of protection.</p>
+<p>If you are located outside of the United States, please be aware that information we collect may be transferred to, and processed, stored and used in the United States. Under United States law, your information may be subject to access requests from governments, courts, or law enforcement in the United States.</p>
+<p>By using our online services and providing your information to us, you understand and agree that your information may be sent to other countries including those which do not provide an equivalent level of information protection as the European Economic Area (EEA).</p>
+<p>&nbsp;</p>
+<h3><a name="cookies" rel="nofollow"></a>COOKIES AND OTHER TECHNOLOGIES</h3>
+<p>For more information about the use of Cookies and Other Technology on our online services (including your opt-out choices) please see the&nbsp;<a href="https://www.nbcuniversal.com/privacy/cookies" rel="nofollow">Cookies and Tracking Technologies</a>&nbsp;policy. Through our Cookies and Tracking Technologies policy, we provide opt-out choices. The effect of an opt-out will be to stop targeted advertising, but it will still allow the collection of usage data for certain purposes (e.g., research, analytics, and internal online services operation purposes).</p>
+<p>&nbsp;</p>
+<h3><a name="mobileapps" rel="nofollow"></a>MOBILE APPS</h3>
+<p>For more information about our information collection and use practices with respect to online services that are mobile applications ("Mobile Apps") see the&nbsp;<a href="https://www.nbcuniversal.com/privacy/mobile-apps" rel="nofollow">Mobile Apps</a>&nbsp;policy.</p>
+<p>&nbsp;</p>
+<h3><a name="workingatnbcu" rel="nofollow"></a>APPLYING TO WORK AT NBCUNIVERSAL</h3>
+<p>When you apply to work at NBCUniversal your information will be collected and used in accordance with the&nbsp;<a href="http://www.nbcunicareers.com/candidate-privacy-statement" rel="nofollow">Candidate Privacy Statement.</a></p>
+<p>&nbsp;</p>
+<h3><a name="california" rel="nofollow"></a>IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS</h3>
+<p>Residents of the State of California may request a list of all third parties to which our online service has disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and want such a list, please contact us at Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US. For all requests, you must put the statement "Your California Privacy Rights" in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide enough information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.</p>
+<p><em>Do Not Track</em><br>California Business &amp; Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how NBCUniversal responds to “Do Not Track” browser settings. NBCUniversal does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.</p>
+<p>&nbsp;</p>
+<h3><a name="onlineservices" rel="nofollow"></a>LINKS TO OTHER ONLINE SERVICES</h3>
+<p>Our online services may contain links to third party websites/services for your convenience and/or information (for example, to sites which are provided by our third party vendors). If you access other online services using the links provided, you may leave NBCUniversal’s online services. When you access these other sites, even ones that may contain the NBCUniversal logo, please understand that the operators of these websites may collect information from you which will be used by them in accordance with their privacy policies and Terms of Use, which may differ from ours. We do not endorse or control the policies or practices of third party websites that we do not control or operate.</p>
+<p>You should always carefully read the privacy policy of any website you access in order to understand their specific privacy and information usage practices.</p>
+<p>&nbsp;</p>
+<h3><a name="updates" rel="nofollow"></a>UPDATES TO OUR PRIVACY POLICY</h3>
+<p>From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make material revisions to the way we collect or use your information so that we are using it for purposes or sharing data with third parties that you have not consented to, we will provide you with notice of those changes and may do so by either: (1) announcing the change on the home page of our websites or (2) taking other actions as we deem appropriate under the circumstances, including without limitation, posting the revised version of this Privacy Policy online. You agree that we may notify you about material changes in the way we treat information by placing a notice on our online services. You should check our online services frequently for updates.</p>
+<p>You can determine when this Privacy Policy was last revised by referring to the "Last Updated" or similar legend at the top of this page. Any changes to this Privacy Policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through this site. By continuing to use this online service following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue to use our online services.</p>
+<p>&nbsp;</p>
+<h3><a name="contact" rel="nofollow"></a>CONTACT US</h3>
+<p>For any queries or complaints in relation to this Privacy Policy or NBCUniversal’s privacy practices please contact us at&nbsp;<a href="mailto:privacy@nbcuni.com" rel="nofollow">privacy@nbcuni.com</a>&nbsp;or Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US.</p>
+<p>For enquiries from outside of the US please contact us at&nbsp;<a href="mailto:privacy@nbcuni.com" rel="nofollow">privacy@nbcuni.com</a>&nbsp;or Chief Privacy Officer, Legal Department, Central Saint Giles, St Giles High Street, London, WC2H 8NU, UK.</p>
+</div>
+<p class="p1">&nbsp;</p>
        </div>
     </section>
 </main>
@@ -367,39 +464,31 @@ versaTag.conditionalParams = {};
                     <img src="/sites/sprout/themes/sprout_twig/images/common/logo-sprout.png" alt="Sprout">
                 </a>
                 <p>
-                    Sprout, the 24-hour preschool TV network where kids are Free To Grow™
+                    Sprout, the preschool block on Universal Kids, where kids are Free To Grow™
                 </p>
             </div>
             <div class="footer-primary footer-row">
                 <ul>
                     <li><a href="/about">About Sprout</a></li>
                     <li><a href="/aboutshows">About Shows</a></li>
-                    <li><a href="https://www.sproutviewercircle.com/">Join our Viewer Circle</a></li>
-                    <li><a href="http://www.nbcumv.com/programming/sprout">Press Room</a></li>
+                    <li><a href="https://universalkidsclub.com/">Join our Viewer Circle</a></li>
+                    <li><a href="https://www.nbcumv.com/programming/universal-kids">Press Room</a></li>
                     <li><a href="/contact-us">Contact Us</a></li>
                     <li><a href="/faq">FAQ</a></li>
                 </ul>
             </div>
             <div class="footer-secondary footer-row">
                 <ul>
-                    <li><a class="privacy-policy" href="/privacy-policy">Privacy Policy</a></li>
+                    <li><a href="/privacy-policy#children">Privacy Policy</a></li>
                     <li><a href="/sitemap">Site Map</a></li>
                     <li><a href="/terms-of-use">Terms of Use</a></li>
                     <li><a href="/faq#closedcaptioning">Closed Captioning</a></li>
                     <li><a href="/content/independent-programming-report">Independent Programming Report</a></li>
-                    
-                    
-<!--
-  Ghostery Inc tag
-  cid: 908
-  pid: 8519
--->
-<a id="_bapw-link" href="http://info.evidon.com/pub_info/8519?v=1" target="_blank" style="color:#69A5DD !important;font:9pt Arial !important;text-decoration:none !important"><img src="https://cdn.betrad.com/pub/icon1.png" id="_bapw-icon" style="border:0 !important;display:inline !important;vertical-align:middle !important"><span style="vertical-align:middle !important">AdChoices</span></a><script>/*<![CDATA[*/(function(){function f(n){var r=new Image;r.src=o+"l.betrad.com/pub/p.gif?pid="+e+"&ocid="+t+"&i"+n+"=1&mb="+(a?"2":"0")+"&r="+Math.random()}var e=8519,t=908,n=!1,r=document,i=r.getElementById("_bapw-link"),s=r.location.protocol=="https:",o=(s?"https":"http")+"://",u=window._bap_p_overrides,a=u&&u.hasOwnProperty(e)&&u[e].mobile;i.onclick=function(){return f("c"),!0},f("i")})();/*]]>*/</script>
                 </ul>
                 <p>© 2005-2017, Children’s Network, LLC. <span>A Division of NBC Universal</span></p>
             </div>
             <div id="footer-animated-character">
-                <a class="character fx-sparks-side" href="#top" data-component="backToTop" data-options=""><img src="http://www.sproutonline.com/sites/sprout/files/Kody_kick_jumper_1.png" alt="Back to the top"></a>
+                <a class="character fx-sparks-side" href="#top" data-component="backToTop" data-options=""><img src="http://www.sproutonline.com/sites/sprout/files/floogals-space_1.png" alt="Back to the top"></a>
             </div>
         </div>
     </footer>
@@ -438,21 +527,7 @@ versaTag.conditionalParams = {};
     <!-- Removing Catalyst
         -->
 
-    <div id="fb-root" class="fb_module"></div>
-<script type="text/javascript">
-  jQuery.extend(Drupal.settings, {"fb":{"base_url":"http:\/\/www.sproutonline.com","ajax_event_url":"http:\/\/www.sproutonline.com\/fb\/ajax","is_anonymous":true,"fb_init_settings":{"xfbml":false,"status":false,"oauth":true,"cookie":true,"channelUrl":"http:\/\/www.sproutonline.com\/fb\/channel"},"test_login_status":true,"get_login_status":true,"controls":"","js_sdk_url":"http:\/\/connect.facebook.net\/en_US\/all.js"}});
-
-if (typeof(FB) == 'undefined') {
-  var e = document.createElement('script');
-  e.async = true;
-  e.src = Drupal.settings.fb.js_sdk_url;
-  document.getElementById('fb-root').appendChild(e);
-}
-
-
-
-</script>
-<script src="http://www.sproutonline.com/sites/sprout/files/js/js_i9vmPUk0XJsOx2xBhvY2zNKPpKpJfvpixS-TyIfKzAI.js"></script>
+    <script src="http://www.sproutonline.com/sites/sprout/files/js/js_rTIFBcU4Jsg92ZvGcthDhToJTzOKrg_x7StrM7C3Frs.js"></script>
 
     <script>
         Sprout.timestamp = "1478196128784";
@@ -502,6 +577,6 @@ window.__gwtStatsEvent && window.__gwtStatsEvent({moduleName:"PDK", sessionId:wi
         <script type="text/javascript">_satellite.pageBottom();</script>
 
 
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"eff0a73d16","applicationID":"11529271","transactionName":"M1BbMhdRDBVWARJbWgoabBQMH00QVhBJRUITGlESCFxNFUcQCUdBS1FWBRdfDRIYCwhWUBwbSQ4V","queueTime":0,"applicationTime":58,"atts":"HxdYRF9LHxs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"eff0a73d16","applicationID":"11529271","transactionName":"M1BbMhdRDBVWARJbWgoabBQMH00QVhBJRUITGlESCFxNFUcQCUdBS1FWBRdfDRIYCwhWUBwbSQ4V","queueTime":0,"applicationTime":26,"atts":"HxdYRF9LHxs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
