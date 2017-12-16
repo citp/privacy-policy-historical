@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616194221id_/https%3A//www.stlouisfed.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216193842id_/https%3A//www.stlouisfed.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | St. Louis Fed
 
