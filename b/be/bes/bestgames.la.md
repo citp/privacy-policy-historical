@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestgames.la privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613154223id_/http%3A//bestgames.la/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestgames.la privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216060053id_/http%3A//bestgames.la/privacy) for the most accurate reproduction.*
 
 # Bestgames.la- Best Free Online Games
 
