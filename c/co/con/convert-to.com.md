@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convert-to.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603132104id_/http%3A//convert-to.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert-to.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216205252id_/http%3A//convert-to.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at convert-to.com
 
