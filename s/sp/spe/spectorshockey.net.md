@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spectorshockey.net privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321053856id_/http%3A//spectorshockey.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectorshockey.net privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216081903id_/http%3A//www.spectorshockey.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Spectors Hockey
 
 **PRIVACY POLICY**
 
-This Privacy Policy governs the manner in which [http://spectorshockey.net](http://spectorshockey.net/) collects, uses, maintains and discloses information collected from users (each, a “User”) of the _[http://spectorshockey.net](http://spectorshockey.net/)_  website (“Site”). This privacy policy applies to the Site and all products and services offered by [http://spectorshockey.net](http://spectorshockey.net/). 
+This Privacy Policy governs the manner in which [https://spectorshockey.net](https://spectorshockey.net/) collects, uses, maintains and discloses information collected from users (each, a “User”) of the _[https://spectorshockey.net](https://spectorshockey.net/)_  website (“Site”). This privacy policy applies to the Site and all products and services offered by [https://spectorshockey.net](https://spectorshockey.net/). 
 
 **Personal identification information**
 
@@ -20,7 +20,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-[http://spectorshockey.net](http://spectorshockey.net/) may collect and use Users personal information for the following purposes:
+[https://spectorshockey.net](https://spectorshockey.net/) may collect and use Users personal information for the following purposes:
 
   * _To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
