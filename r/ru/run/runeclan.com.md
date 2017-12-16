@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runeclan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180109id_/http%3A//www.runeclan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runeclan.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216075008id_/http%3A//www.runeclan.com/privacy) for the most accurate reproduction.*
 
 # RuneClan - RuneScape XP Tracking
 
