@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the never.no privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420173512id_/http%3A//never.no/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the never.no privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216112135id_/http%3A//never.no/privacy-policy) for the most accurate reproduction.*
 
 # never.no | Privacy Policy
 
