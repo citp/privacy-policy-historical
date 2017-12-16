@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justbeenpaid.net privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102164235id_/http%3A//justbeenpaid.net/%3Fa%3Dcust%26page%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justbeenpaid.net privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216042831id_/http%3A//www.justbeenpaid.net/%3Fa%3Dcust%26page%3Dpp) for the most accurate reproduction.*
 
 # JustBeenPaid.Net | JUST INVEST FOR A JUST PROFIT
 
