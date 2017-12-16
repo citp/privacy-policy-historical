@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomorrowoman.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614170544id_/http%3A//tomorrowoman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomorrowoman.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216231038id_/http%3A//tomorrowoman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TomorroWoman
 
@@ -52,6 +52,9 @@ However, non-personally identifiable visitor information may be provided to othe
 **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Opt-Out**  
+We partner with third party advertisers to serve and display advertising on the Services. These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://optout.networkadvertising.org/#!/). To serve and display advertising relevant to your location, the Services may also track your device’s precise geolocation by responding to beacons or inaudible signals sent to your device’s microphone. If you do not want the location of your device to be tracked by the Services, please opt-out using your device settings.
 
 **Google**
 
