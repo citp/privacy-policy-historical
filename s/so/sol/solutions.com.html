@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the solutions.com privacy policy that was archived on 2017-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170615091924id_/http%3A//solutions.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solutions.com privacy policy that was archived on 2017-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171216223656id_/http%3A//solutions.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head id="header">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge, 10, 9">
@@ -16,6 +16,15 @@
 	<!--do not add code unless approved by both the business and IT teams-->
 
 <meta name="p:domain_verify" content="2dec026d47e621bf521537c242104c04">
+
+<style>
+#tab-navigate {
+    width: 129px;
+    overflow: hidden;
+    height: 58px;
+    display: none !important;
+}
+</style>
 
 <!--hooklogic-->
 <script type="text/javascript">
@@ -62,8 +71,43 @@ if(window.location.href.indexOf("/content.jsp?pageName=EmailSignupResp") == -1 &
 				}
 			});
 		</script>
-	<script type="text/javascript" src="/js/ocpsdk/aggregator/script_source.jsp?gkey=sG_1781535520697490396&amp;hash=-1980911159394373078"></script>
+	<script type="text/javascript" src="/js/ocpsdk/aggregator/script_source.jsp?gkey=sG_3854475322241934006&amp;hash=-2741296526274323890"></script>
 
+<script type="text/javascript">
+
+
+    /* Add to wish list and keep track variant value */
+    function addToWishList(theForm, addToType, prefix) {
+    if (variantValidate(prefix)) {
+    /* Add to wish list */
+    setAddTo(theForm, addToType);
+    } else {
+    // error msg displayed from variantValidate function
+    }
+    }
+
+    $(document).ready(function() {
+    /* To limit max chars and allow only numeric chars for html5:number inputs consistently in all browsers
+    and prevent conflict, should apply inputlimiter() before numeric() */
+    //$("input[name=quantity]").inputlimiter({limit: 2, limitTextShow: false, boxId: 'ignore', boxAttach: false});
+    //$("input[name=quantity]").numeric();
+    $(".js_tabs").tabs();
+
+    /* Handle tab selecting */
+    $(".js_tabs").on("tabsactivate", function(event, ui) {
+    if (ui.newTab.index() == 3) {
+    //ensure sizeguide is showing for current scope
+    setSizeChartTabContent(60830);
+    }
+    window.setTimeout(function() {
+    /* Recalculate page height to fully cover the tab content */
+    initPageHeight();
+    }, 1000);
+    });
+    });
+
+
+</script>
 <meta name="keywords" content="Privacy and Security">
 	<meta name="description" content="Privacy and Security">
 	
@@ -129,25 +173,22 @@ if(window.location.href.indexOf("/content.jsp?pageName=EmailSignupResp") == -1 &
         <div id="universal-header">
             <div id="universalTabWrapper">
                 <ul id="universalTabs" class="fl">
-                    <li class="n-0" id="css_apl">
+                    <li class="n-0 hide" id="css_apl">
                                     <!-- Drapers -->
                                     <a href="http://appleseeds.blair.com/switch_tabs.jsp?nh=0"><img src="http://solutions.blair.com/assets/images/navigation/tabs/tab_apl_link.png" border="0" alt="Appleseeds"></a><img class="hoverArrow" src="http://solutions.blair.com/assets/images/background/header_tab_arrow.png" border="0" alt=""></li>
-                                <li class="n-0" id="css_tog">
+                                <li class="n-0 hide" id="css_tog">
                                     <!-- Drapers -->
                                     <a href="http://togshop.blair.com/switch_tabs.jsp?nh=0"><img src="http://solutions.blair.com/assets/images/navigation/tabs/tab_tog_link.png" border="0" alt="TOG Shop"></a><img class="hoverArrow" src="http://solutions.blair.com/assets/images/background/header_tab_arrow.png" border="0" alt=""></li>
-                                <li class="n-0" id="css_wts">
+                                <li class="n-0 hide" id="css_wts">
                                     <!-- Drapers -->
                                     <a href="http://wintersilks.blair.com/switch_tabs.jsp?nh=0"><img src="http://solutions.blair.com/assets/images/navigation/tabs/tab_wts_link.png" border="0" alt="WinterSilks"></a><img class="hoverArrow" src="http://solutions.blair.com/assets/images/background/header_tab_arrow.png" border="0" alt=""></li>
-                                <li class="n-0" id="css_nt">
+                                <li class="n-0 hide" id="css_nt">
                                     <!-- Drapers -->
                                     <a href="http://normthompson.blair.com/switch_tabs.jsp?nh=0"><img src="http://solutions.blair.com/assets/images/navigation/tabs/tab_nt_link.png" border="0" alt="Norm Thompson"></a><img class="hoverArrow" src="http://solutions.blair.com/assets/images/background/header_tab_arrow.png" border="0" alt=""></li>
-                                <li class="n-0" id="css_sah">
+                                <li class="n-0 hide" id="css_sah">
                                     <!-- Drapers -->
                                     <a href="http://sahalie.blair.com/switch_tabs.jsp?nh=0"><img src="http://solutions.blair.com/assets/images/navigation/tabs/tab_sah_link.png" border="0" alt="Sahalie"></a><img class="hoverArrow" src="http://solutions.blair.com/assets/images/background/header_tab_arrow.png" border="0" alt=""></li>
-                                <li class="n-0" id="css_lns">
-                                    <!-- Drapers -->
-                                    <a href="http://linensource.blair.com/switch_tabs.jsp?nh=0"><img src="http://solutions.blair.com/assets/images/navigation/tabs/tab_lns_link.png" border="0" alt="linensource"></a><img class="hoverArrow" src="http://solutions.blair.com/assets/images/background/header_tab_arrow.png" border="0" alt=""></li>
-                                <li class="n-0" id="css_out">
+                                <li class="n-0 hide" id="css_out">
                                     <!-- Drapers -->
                                     <a href="http://outlet.blair.com/switch_tabs.jsp?nh=0"><img src="http://solutions.blair.com/assets/images/navigation/tabs/tab_out_link.png" border="0" alt="Outlet"></a><img class="hoverArrow" src="http://solutions.blair.com/assets/images/background/header_tab_arrow.png" border="0" alt=""></li>
                                 <li class="n-1 hide" id="css_bla">
@@ -168,6 +209,11 @@ if(window.location.href.indexOf("/content.jsp?pageName=EmailSignupResp") == -1 &
                                 <li class="n-1 hide" id="css_out">
                                     <!-- Drapers -->
                                     <a href="http://outlet.blair.com/switch_tabs.jsp?nh=1"><img src="http://solutions.blair.com/assets/images/navigation/tabs/tab_out_link.png" border="0" alt="Outlet"></a><img class="hoverArrow" src="http://solutions.blair.com/assets/images/background/header_tab_arrow.png" border="0" alt=""></li>
+                                <li class="selected n-2" id="css_sol">
+                                    <img src="http://solutions.blair.com/assets/images/navigation/tabs/tab_sol.png" border="0" alt="Solutions"><img class="hoverArrow" src="http://solutions.blair.com/assets/images/background/header_tab_arrow.png" border="0" alt=""></li>
+                                <li class="n-3 hide" id="css_lns">
+                                    <!-- Drapers -->
+                                    <a href="http://linensource.blair.com/switch_tabs.jsp?nh=3"><img src="http://solutions.blair.com/assets/images/navigation/tabs/tab_lns_link.png" border="0" alt="linensource"></a><img class="hoverArrow" src="http://solutions.blair.com/assets/images/background/header_tab_arrow.png" border="0" alt=""></li>
                                 </ul>
                 <!-- /universalTabs -->
                 <div id="tab-navigate" class="fl">
@@ -192,7 +238,7 @@ if(window.location.href.indexOf("/content.jsp?pageName=EmailSignupResp") == -1 &
 </style>
 <div id="brandMask"><!-- --></div>
 <div class="closed">
-   <a id="showBrandPanel" href="#shop13"><img src="http://appleseeds.blair.com/assets/chk/header/brand-layer-link-11.png" width="149" height="55" alt="One shopping bag, Eleven brands"></a>
+   <a id="showBrandPanel" href="#shop13"><img src="http://appleseeds.blair.com/assets/chk/header/brand-layer-link-10.png" width="149" height="55" alt="One shopping bag, Ten brands"></a>
 </div>
 
 
@@ -275,7 +321,7 @@ if(window.location.href.indexOf("/content.jsp?pageName=EmailSignupResp") == -1 &
   padding-top:8px;
 }
 #brand-panel .shop-links-row-1 {
-  margin-left:20px;
+  margin-left:90px;
 margin-top: 15px;
 }
 #brand-panel .shop-links-row-2 {
@@ -363,7 +409,7 @@ margin-top: 15px;
 <div id="brand-panel">
 <!-- BEGIN: main content -->
 
-<div id="callout" onclick="$('#showBrandPanel').click();"><img src="http://appleseeds.blair.com/assets/chk/header/brand-layer-callout-11.png"></div>
+<div id="callout" onclick="$('#showBrandPanel').click();"><img src="http://appleseeds.blair.com/assets/chk/header/brand-layer-callout-10.png"></div>
 
 <div class="head">
   <div class="copy">Shop your favorite stores and discover new ones<br><br>
@@ -398,11 +444,6 @@ margin-top: 15px;
 <img class="greybrand grey-sah" src="http://appleseeds.blair.com/assets/chk/header/sah-grey.jpg" alt="Sahalie">
 <img class="colrbrand colr-sah hide" src="http://appleseeds.blair.com/assets/chk/header/sah-colr.jpg" alt="Sahalie">
 </a><img border="0" alt="" src="http://appleseeds.blair.com/assets/images/background/header_tab_arrow.png" class="hoverArrowTopRow"></li>
-
-		<li id="layer-lns"><a href="javascript:site.gotoSite('lns');">
-<img class="greybrand grey-lns" src="http://appleseeds.blair.com/assets/chk/header/lns-grey.jpg" alt="linensource">
-<img class="colrbrand colr-lns hide" src="http://appleseeds.blair.com/assets/chk/header/lns-colr.jpg" alt="linensource">
-</a><img border="0" alt="" src="http://appleseeds.blair.com/assets/images/background/header_tab_arrow.png" class="hoverArrow"></li>
 
 	</ul>
 
@@ -530,9 +571,9 @@ Close Window
 <div class="clr"><!-- --></div></div>
                 <div id="header-container" class="fr">
                         <script type="text/javascript">
-                        var siteList = {"nt":"http://normthompson.blair.com/switch_tabs.jsp","wts":"http://wintersilks.blair.com/switch_tabs.jsp","tog":"http://togshop.blair.com/switch_tabs.jsp","gv":"http://goldviolin.blair.com/switch_tabs.jsp","bf":"http://bedfordfair.blair.com/switch_tabs.jsp","sah":"http://sahalie.blair.com/switch_tabs.jsp","hab":"http://haband.blair.com/switch_tabs.jsp","opt":"http://oldpueblotraders.blair.com/switch_tabs.jsp","bla":"http://www.blair.com/switch_tabs.jsp","apl":"http://appleseeds.blair.com/switch_tabs.jsp","out":"http://outlet.blair.com/switch_tabs.jsp","lns":"http://linensource.blair.com/switch_tabs.jsp"};
-                        var neighborhoodCount = 1;
-                        var currentNeighborhood = 0;
+                        var siteList = {"nt":"http://normthompson.blair.com/switch_tabs.jsp","wts":"http://wintersilks.blair.com/switch_tabs.jsp","tog":"http://togshop.blair.com/switch_tabs.jsp","sol":"http://solutions.blair.com/switch_tabs.jsp","sah":"http://sahalie.blair.com/switch_tabs.jsp","bla":"http://www.blair.com/switch_tabs.jsp","bf":"http://bedfordfair.blair.com/switch_tabs.jsp","gv":"http://goldviolin.blair.com/switch_tabs.jsp","hab":"http://haband.blair.com/switch_tabs.jsp","apl":"http://appleseeds.blair.com/switch_tabs.jsp","opt":"http://oldpueblotraders.blair.com/switch_tabs.jsp","lns":"http://linensource.blair.com/switch_tabs.jsp","out":"http://outlet.blair.com/switch_tabs.jsp"};
+                        var neighborhoodCount = 3;
+                        var currentNeighborhood = 2;
 
                         $(document).ready(function () {
                             $('#universalTabs li').hover(
@@ -1026,48 +1067,7 @@ $(document).ready(function() {
 				</div>
 			</div>
 		<div class="content">
-		<table valign="top" border="0">
-	<tbody><tr valign="top">
-		<td width="30%" valign="top">
-			<table valign="top" border="0">
-				<tbody><tr valign="top">
-					<td valign="top">
-							<h1>Customer Service</h1>
-			<ul style="list-style: none; padding:0; margin:0;">
-
-			<li><a href="/custserv/custserv.jsp" id="#global-font-changer" style="text-decoration:none">Customer Service</a></li>
-
-			<li><a href="/custserv/custserv.jsp?pageName=About" id="#global-font-changer" style="text-decoration:none">About Us</a></li>
-
-			<li><a href="/custserv/custserv.jsp?pageName=OrderingandPayment" id="#global-font-changer" style="text-decoration:none">Ordering and Payment</a></li>
-
-			<li><a href="/custserv/custserv.jsp?pageName=Shipping" id="#global-font-changer" style="text-decoration:none">Shipping Information</a></li>
-
-			<!---<li><a href="/custserv/custserv.jsp?pageName=Sizing" id="#global-font-changer" style="text-decoration:none">Sizing</a></li> -->
-
-			<li><a href="/custserv/custserv.jsp?pageName=Returns" id="#global-font-changer" style="text-decoration:none">Returns and Exchanges</a></li>
-
-			<li><a href="/custserv/custserv.jsp?pageName=Guarantee" id="#global-font-changer" style="text-decoration:none">Our Guarantee</a></li>
-
-			<li><a href="/custserv/custserv.jsp?pageName=Privacy" id="#global-font-changer" style="text-decoration:none"><b>Privacy and Security</b></a></li>
-
-			<li><a href="/custserv/custserv.jsp?pageName=Terms" id="#global-font-changer" style="text-decoration:none">Terms of Use</a></li>
-
-			<li><a href="/custserv/custserv.jsp?pageName=FAQ" id="#global-font-changer" style="text-decoration:none">FAQs</a></li>
-
-			<li><a href="http://solutions.blair.com/custserv/custserv.jsp?pageName=ContactUs" id="#global-font-changer" style="text-decoration:none">Contact Us</a></li>
-			</ul>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td valign="top">
-			<table width="100%" valign="top">
-				<tbody><tr>
-					<td valign="top">
-<h1>Privacy Policy</h1>
-<!-- Remove this notice after 30 days -->
-<h1>Please Note This Policy Has Changed</h1>
+		<h1>Privacy Policy</h1>
 
   <p><b>SOLUTIONS.COM<br>
     Online Privacy Policy</b><br><br>
@@ -1082,7 +1082,7 @@ $(document).ready(function() {
   PLEASE READ THIS PRIVACY POLICY. BY ACCESSING OR USING THIS SITE YOU ARE  CONSENTING TO THE COLLECTION, USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION  AS SET FORTH IN THIS PRIVACY POLICY.</p><br>
 <p>If you do not consent to the  collection, use and disclosure of your personal information as set forth in  this Privacy Policy, please do not use this Site.</p><br>
 <p><b>This Privacy Policy is Part of Our  Terms of Use</b><br>
-  This Privacy Policy is incorporated by reference and is part of the Solutions Terms  of Use ("Terms of Use") governing your use of this Site. Our Terms of Use  contain the terms on which you may purchase products and services through this  Site. Please read our Terms of Use, if you have not already done so. You may  access the current version of the Terms of Use at any time by clicking on the  link marked "Terms of Use" at the bottom of each page of this Site.</p><br>
+  This Privacy Policy is incorporated by reference and is part of the Solutions Terms of Use ("Terms of Use") governing your use of this Site. Our Terms of Use  contain the terms on which you may purchase products and services through this  Site. Please read our Terms of Use, if you have not already done so. You may  access the current version of the Terms of Use at any time by clicking on the  link marked "Terms of Use" at the bottom of each page of this Site.</p><br>
 <p><b>This Privacy Policy May Change</b><br>
   We reserve the right to update or modify this Privacy Policy, at any time and  without prior notice, by posting the revised version of this Privacy Policy on  this Site. These changes will only apply to personal information we collect  after we have posted the revised Privacy Policy. Your use of this Site  following any such change constitutes your agreement that all personal  information collected from or about you through this Site after the revised  Privacy Policy is posted will be subject to the terms of the revised Privacy  Policy. For this reason, it is important to review this Privacy Policy  regularly. If we modify this Privacy Policy, we will provide a notice at the  top of this Privacy Policy for at least 30 days after the new effective date.</p><br>
 <p>You may access the current version  of this Privacy Policy at any time by clicking on the link marked "Privacy  Policy" at the bottom of each page of this Site. For your convenience, we post  the effective date of this Privacy Policy at the top of this page, so that you  can see whether this Privacy Policy has changed since your last visit.</p><br>
@@ -1155,17 +1155,17 @@ We reserve the right to disclose  your personal information as described in any 
   <b>In General</b><br>
   We respect your right to make choices about the ways we collect, use and  disclose your personal information. In most cases, we will ask you to indicate  your choices at the time we collect your personal information. We will also  include an "opt-out" link in newsletters or promotional emails we send you so  that you can inform us that you do not wish to receive such communications from  us in the future. If you have created an account or a personal profile on this  Site, you may be able to update some or all of your privacy choices by changing  the settings on your account settings or profile page.</p><br>
 <p><b><a name="optOut">Direct  Marketing</a></b><br>
-  We want to communicate with you only if you want to hear from us. You have the  choice to be excluded from our offers and promotions and to be excluded from  sharing personal information with our affiliates or <a href="#marketingPartners">Marketing Partners</a>. If you choose not to receive  information from us or do not want us to share your personal information with  our affiliates or <a href="#marketingPartners">Marketing Partners</a>, please let us know by calling us  at 1-877-718-7902 or  by sending us an email at <a href="mailto:CustomerService@Solutions.com">CustomerService@Solutions.com</a> Please  be sure to include your email address, full name, and specifically what  information you do not want to receive, such as "no phone offers", "no mail  offers", "no email offers", or "no sharing of information with Marketing  Partners." DO NOT include your Social Security number or account number in the  email. We will respond to reasonable requests within a reasonable time and, in  any event, within the time period required by law. </p><br>
+  We want to communicate with you only if you want to hear from us. You have the  choice to be excluded from our offers and promotions and to be excluded from  sharing personal information with our affiliates or <a href="#marketingPartners">Marketing Partners</a>. If you choose not to receive  information from us or do not want us to share your personal information with  our affiliates or <a href="#marketingPartners">Marketing Partners</a>, please let us know by calling us  at 1-800-342-9988 or  by sending us an email at <a href="mailto:CustomerService@solutions.com">CustomerService@solutions.com</a> Please  be sure to include your email address, full name, and specifically what  information you do not want to receive, such as "no phone offers", "no mail  offers", "no email offers", or "no sharing of information with Marketing  Partners." DO NOT include your Social Security number or account number in the  email. We will respond to reasonable requests within a reasonable time and, in  any event, within the time period required by law. </p><br>
 <p>Even if you ask us not to share or  use your personal information for direct marketing purposes, we may still use  your personal information, when you purchase from us online or through our  catalogs to contact you via phone, email or mail to address questions specific  to your order, even if you have opted to not receive marketing communications.</p><br>
 <p><b>How Can You Update or Correct Your  Personal Information?</b><br>
-  If you wish to update or correct your personal information, please let us know  by calling us at 1-877-718-7902 or  by sending us an email at <a href="mailto:CustomerService@Solutions.com">CustomerService@Solutions.com</a>. Please be sure to include your email address, full name,  and specifically what information you would like to update or correct. If you  contact us by email, DO NOT include your Social Security number or account  number.</p><br>
+  If you wish to update or correct your personal information, please let us know  by calling us at 1-800-342-9988 or  by sending us an email at <a href="mailto:CustomerService@solutions.com">CustomerService@solutions.com</a>. Please be sure to include your email address, full name,  and specifically what information you would like to update or correct. If you  contact us by email, DO NOT include your Social Security number or account  number.</p><br>
 <p><b>Information Collected by Third Party  Advertising and Marketing Consultants</b><br>
   If you do not wish to receive our advertising or marketing consultants' cookies  or similar technologies, you may "opt-out" at either the <a href="http://www.networkadvertising.org/" target="_new">Network  Advertising Initiative website</a> or <a href="http://www.aboutads.info/" target="_new">Digital Advertising Alliance website</a>.</p><br>
 <p>We also participate in the Adobe Marketing Cloud Device Co-op to better understand how you use our website and apps across the various devices you use, and to deliver tailored promotions. If you do not wish to participate, you may "opt-out" at <a href="https://cross-device-privacy.adobe.com/" target="_new">Adobe Marketing Cloud Device Co-op Privacy Control.</a></p><br>
 <p><b>Do Not Track</b><br>
   Do Not Track signals your opt-out preference with an HTTP header that requests  that we disable tracking you on our Site and across sites. At this time, we do  not respond to browser "do not track" signals. </p><br>
 <p><b>Protecting Children</b><br>
-  Our website is not focused on marketing or attracting minors and we do not  knowingly collect personal information about anyone under the age of 18. Anyone  under the age of 18 should not use this Site. Our goal is to comply with  applicable laws and regulations relating to collection and use of information  from children, including the federal Children's Online Privacy Protection Act.  If you believe that we have received information from a child, please notify us  immediately by calling us at 1-877-718-7902 or by sending us an email at <a href="mailto:CustomerService@Solutions.com">CustomerService@Solutions.com</a> and we will remove that information from our database.</p><br>
+  Our website is not focused on marketing or attracting minors and we do not  knowingly collect personal information about anyone under the age of 18. Anyone  under the age of 18 should not use this Site. Our goal is to comply with  applicable laws and regulations relating to collection and use of information  from children, including the federal Children's Online Privacy Protection Act.  If you believe that we have received information from a child, please notify us  immediately by calling us at 1-800-342-9988 or by sending us an email at <a href="mailto:CustomerService@solutions.com">CustomerService@solutions.com</a> and we will remove that information from our database.</p><br>
   <br>
 <p><b>SECURITY AND CONFIDENTIALITY</b><br>
   <br>
@@ -1182,33 +1182,20 @@ We reserve the right to disclose  your personal information as described in any 
 <p><b>Interpretation</b><br>
   As used in this Privacy Policy, the word "including" means "including, without  limitation."</p><br>
 <p><b>Contact Us</b><br>
-  If you have questions about this policy or our privacy practices, please email  us at <a href="mailto:CustomerService@Solutions.com">CustomerService@Solutions.com</a> and write "Privacy" in the subject line or write us at:<br><br>
+  If you have questions about this policy or our privacy practices, please email  us at <a href="mailto:CustomerService@solutions.com">CustomerService@solutions.com</a> and write "Privacy" in the subject line or write us at:<br><br>
   Solutions<br>
-  PO Box 126<br>
-  Jessup, PA 18434</p><br>
-
-
+  220 Hickory St.<br>
+  Warren, PA 16366</p><br></div>
 	<div class="clr"></div>	
-
+</div>
 <script type="text/javascript">
     
     ensi.pageName = 'Solutions:Customer Service:Privacy';
-</script>
+</script></div>
 			<div class="clr"><!-- --></div>
 		
 			<div class="footer"><div class="footerBanner">
-    <script type="text/javascript">
-if(window.location.href.indexOf("/content.jsp?pageName=EmailSignupResp") == -1 && window.location.href.indexOf("/user/login.jsp") == -1 && window.location.href.indexOf("pageName=EmailSignup")  == -1 && window.location.href.indexOf("/user/reset_password.jsp")  == -1){
-
-     googletag.cmd.push(function() {
-     googletag.defineSlot('/7349846/OrchardBrands/Solutions_728x90',[728,90],'Solutions_728x90').setTargeting('pos',['atf']).addService(googletag.pubads());
-     googletag.pubads().enableSingleRequest();
-     googletag.pubads().collapseEmptyDivs();  //Optional: This function collapses ad slots if there is no ad to display.
-     googletag.enableServices();});
-}
-</script>
-
-<style>
+    <style>
 .footerBanner {
 margin-bottom:20px;
 }
@@ -1216,37 +1203,7 @@ margin-bottom:20px;
 text-align:center;
 color:#CCC;
 }
-</style>
-
-<script type="text/javascript">
-if(window.location.href.indexOf("/content.jsp?pageName=EmailSignupResp") == -1 && window.location.href.indexOf("/user/login.jsp") == -1 && window.location.href.indexOf("pageName=EmailSignup")  == -1 && window.location.href.indexOf("/user/reset_password.jsp")  == -1){
-
-var googleTagCall = function(sel, id, opt_text) {
-    var selNode = $(sel)[0];
-    if (selNode) {
-        var container = document.createElement('div');
-        container.id = id;
-
-        var script = document.createElement('script');
-        script.type = 'text/javascript';
-        script.text = 'googletag.cmd.push(function() { googletag.display("' + id + '"); });';
-        script.setAttribute('defer', 'defer');
-
-        container.appendChild(script);
-        selNode.appendChild(container);
-
-    }
-}
-
-googleTagCall('div.footerBanner', 'Solutions_728x90', '', true);
-
-if(document.getElementById("google_ads_iframe_/7349846/OrchardBrands/Solutions_728x90_0__container__")){
-   var theDiv = document.getElementById("Solutions_728x90");
-   var content = document.createTextNode("Advertisement");
-   theDiv.appendChild(content);
-}
-}
-</script><div id="Solutions_728x90"><script type="text/javascript" defer="defer">googletag.cmd.push(function() { googletag.display("Solutions_728x90"); });</script></div><div class="clr"></div>
+</style><div class="clr"></div>
 </div>
 <div class="clr"></div>
 <script>
@@ -1269,31 +1226,7 @@ if(document.getElementById("google_ads_iframe_/7349846/OrchardBrands/Solutions_7
             <div class="clr"><!-- --></div>
 		<br>
 		<div class="fl contentArea">
-			<table id="Table_01" width="320" height="45" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td>
-			<img src="/assets/apl/Branding/AS_social-media_left_01.png" width="119" height="45" alt=""></td>
-		<td>
-			<a href="https://www.facebook.com/SolutionsCatalog" target="blank"><img src="/assets/apl/Branding/AS_social-media_left_02.png" width="41" height="45" alt="Join us on Facebook" border="0"></a></td>
-		<td>
-			<a href="https://twitter.com/solutionsdeals" target="blank"><img src="/assets/apl/Branding/AS_social-media_left_03.png" width="43" height="45" alt="Follow us on Twitter" border="0"></a></td>
-		<td>
-			<a href="http://pinterest.com/ShopSolutions/" target="blank"><img src="/assets/apl/Branding/AS_social-media_left_04.png" width="43" height="45" alt="Follow us on Pinterest" border="0"></a></td>
-		<td>
-			<a href="https://plus.google.com/109629407112798944453" target="blank"><img src="/assets/apl/Branding/AS_social-media_left_05.png" width="39" height="45" alt="Follow us on Google+" border="0"></a></td>
-		<td>
-			<img src="/assets/apl/Branding/AS_social-media_left_06.png" width="35" height="45" alt=""></td>
-	</tr>
-    <tr>
-    <td style="font-family: Verdana, Geneva, sans-serif; font-size: 14px; color: #999; font-weight: bold;"></td>
-  <td colspan="2"><a href="https://www.youtube.com/user/SolutionsCatalog" target="blank"><img src="http://appleseeds.blair.com/assets/sol/Footer/YouTubesmall.jpg" width="72" border="0"></a></td></tr>
-<!--
-<tr><td colspan="6">
-<br><br><span style="font-size:12px;">
-Pre-approved credit acceptance is no longer offered on the web. To accept your pre-approved credit offer, please call 1-800-342-9988</span>
-</td></tr>
--->
-</tbody></table></div>
+			<!-- Empty Space --></div>
 		<div class="clr"><!-- --></div>
 	</div>
 	<div class="managed-content">
@@ -1305,17 +1238,13 @@ Pre-approved credit acceptance is no longer offered on the web. To accept your p
 
 <div class="footer-section usa">
 	<p><a href="/custserv/custserv.jsp">Customer Service</a></p>
-	<span>1-877-718-7901</span><br>
+	<span>1-800-342-9988</span><br>
 	<a href="/custserv/custserv.jsp?pageName=ContactUs">Email Us</a><br>
-    <a href="/user/login.jsp?dest=%2Fuser%2Fmain.jsp">Access My Account</a><br>
-	  <a href="/custserv/custserv.jsp?pageName=Shipping">Shipping &amp; Delivery </a><br>
-<a href="/international/context_chooser.jsp">International Shipping</a><br>
-	  <a href="/checkout/order_status.jsp">Check Order Status</a><br>
-	  <a href="/custserv/custserv.jsp?pageName=OrderingandPayment">Ordering &amp; Payment</a><br>
-	  <a href="/custserv/custserv.jsp?pageName=Returns">Returns &amp; Exchanges</a><br>
-          <a href="/custserv/custserv.jsp?pageName=Accessibility">Accessibility Policy</a><br>
-          <a href="/custserv/custserv.jsp?pageName=CATransparency">California Transparency in Supply Chains Act</a><br>
-	<a href="/custserv/sitemap.jsp">Site Map</a><br>
+	<a href="/custserv/custserv.jsp?pageName=Shipping">Shipping &amp; Delivery</a><br>
+	<a href="/custserv/custserv.jsp?pageName=OrderingandPayment">Ordering &amp; Payment</a><br>
+	<a href="/custserv/custserv.jsp?pageName=Returns">Returns &amp; Exchanges</a><br>
+
+        
 	<!---new chat container-->   
 <div id="OBFooterContainer">
     <div id="OBFooterLink">
@@ -1328,48 +1257,38 @@ Pre-approved credit acceptance is no longer offered on the web. To accept your p
 
 <div class="footer-section international">
   <p><a href="/custserv/custserv.jsp">Customer Service</a></p>
-  <a href="mailto:international@blair.com">Email Us</a><br>
-international@blair.com<br>
-<a href="/international/context_chooser.jsp">International Shipping</a><br>
-  <a href="/custserv/sitemap.jsp">Site Map</a><br>  
+	<span>1-800-342-9988</span><br>
+	<a href="/custserv/custserv.jsp?pageName=ContactUs">Email Us</a><br>
+	<a href="/custserv/custserv.jsp?pageName=Shipping">Shipping &amp; Delivery</a><br>
+	<a href="/custserv/custserv.jsp?pageName=OrderingandPayment">Ordering &amp; Payment</a><br>
+	<a href="/custserv/custserv.jsp?pageName=Returns">Returns &amp; Exchanges</a><br>
 </div>
 
 <div class="footer-section usa">
 	<p>Shop with Confidence</p>
-    <a href="/custserv/custserv.jsp?pageName=About">Our Story </a><br>
-	<a href="/custserv/custserv.jsp?pageName=Shipping">Shipping &amp; Delivery </a><br>
-
 	<a href="/custserv/custserv.jsp?pageName=Privacy">Privacy Policy</a><br>
 	<a href="/custserv/custserv.jsp?pageName=Terms">Terms of Use</a><br>
-	<!-- <a href="#">Career Opportunities</a><br/> -->
-	<!-- <a href="#">Our Stores</a><br/> -->
-	<!-- <a href="#">Credit Card</a><br/> -->
+        <a href="/custserv/custserv.jsp?pageName=Accessibility">Accessibility Policy</a><br>
+        <a href="/custserv/custserv.jsp?pageName=CATransparency">California Transparency in Supply Chains Act</a><br>
 
- 
        
-	<!-- <a href="#">Place Catalog Order</a><br/> -->
 	</div>
+
 <div class="footer-section international">
 	<p>Shop with Confidence</p>
-    <a href="/custserv/custserv.jsp?pageName=About">About Us</a><br>
-    <a href="/custserv/custserv.jsp?pageName=Sizing">Size Charts</a><br>
 	<a href="/custserv/custserv.jsp?pageName=Privacy">Privacy Policy</a><br>
 	<a href="/custserv/custserv.jsp?pageName=Terms">Terms of Use</a><br>
-<br><br>
+        <a href="/custserv/custserv.jsp?pageName=Accessibility">Accessibility Policy</a><br>
+        <a href="/custserv/custserv.jsp?pageName=CATransparency">California Transparency in Supply Chains Act</a><br>
 </div>
 
 <div class="footer-section usa">
 	<p>Shopping Services</p>
-  <a href="/user/login.jsp?dest=%2Fuser%2Fmain.jsp">Access My Account</a><br>
+    <a href="/user/login.jsp?dest=%2Fuser%2Fmain.jsp">Access My Account</a><br>
     <a href="/checkout/order_status.jsp">Check Order Status</a><br>
-    <a href="https://d.comenity.net/solutions/" target="_blank">Manage Credit Card Account</a><br> 
-<a class="openAjaxLayer" data-layerwidth="500" href="http://solutions.blair.com/content.jsp?pageName=GiftCardBalance">
-    Check Gift Card Balance
-</a><br>
-<!--
-<a href="http://solutions.blair.com/content.jsp?pageName=VIPplus">VIP Plus Loyalty Program</a><br/>
--->
-<p></p>
+    <a href="/custserv/custserv.jsp?pageName=Sizing">Sizing</a><br>
+    <a href="/custserv/sitemap.jsp">Site Map</a><br>
+
 </div>
 
 
@@ -1436,49 +1355,6 @@ jQuery(document).ready(function() {
 	</div><!-- /footerBottomBar -->
 </div><!-- /footerBottomBarWrapper -->
 
-<script type="text/javascript">   	
-	 //---------------------------------------------------------//
-	 // Borderfree International Visitor Welcome Mat
-	 //---------------------------------------------------------//	 
-  
-	 function wlcme51func(url) {
-         var wlcme51 = document.createElement("script");
-         wlcme51.src = url;
-         wlcme51.type = "text/javascript";
-         document.getElementsByTagName("head")[0].appendChild(wlcme51);
-	 }
-	  
-	 // Drop / Check for cookie to ensure visitor only sees Welcome Mat once per session
-	 function isWelcome() {
-         var c_name = 'wlcme';
-         if (document.cookie.length > 0) {
-                 c_start = document.cookie.indexOf(c_name + "=");
-                 if (c_start != -1) {
-                         c_start = c_start + c_name.length + 1;
-                         c_end = document.cookie.indexOf(";", c_start);
-                         if (c_end == -1) c_end = document.cookie.length;
-                         return unescape(document.cookie.substring(c_start, c_end));
-                 }
-         }
-         return "";
-	 }
-	  
-	 // If first page view per session, launch the Welcome Mat
-	 $(document).ready(function() {
-		 var countryCodeFromSession = 'US';
-         var merchantID = '4186';
-         var url = 'https://embassy.fiftyone.com';
-         var urlWelcome = "/welcome/welcome.srv?merchId=XXXX&countryId=YY&setCookie=Y";
-         url = url + urlWelcome;
-         url = url.replace('XXXX', merchantID);
-         url = url.replace('YY', countryCodeFromSession);         
-         if (!isWelcome()) {
-            wlcme51func(url);            
-         }
-		 
-	 });
-
-	</script>
 <!-- footer_nav Ends -->
 
 <script>
@@ -1492,7 +1368,7 @@ jQuery(document).ready(function() {
     });
 </script></div>
 		
-		
+		</div>
 		
 		<div class="site_tags"><!-- General Tracking tag -->
 
@@ -1568,12 +1444,12 @@ jQuery(document).ready(function() {
     }
 </script>
 </div>
-		
+		</div>
 		<script src="/js/persistent_cart.jsp" language="JavaScript" type="text/javascript"></script><script type="text/javascript">
 		    
 			        createCookie('LAST_PV', 'http%3A%2F%2Fsolutions.blair.com%2Fcustserv%2Fcustserv.jsp%3FpageName%3DPrivacy', jsDomain);
 			    
-			        createCookie('LAST_NH', '0', jsDomain);
+			        createCookie('LAST_NH', '2', jsDomain);
 		    
 		        createCookie('CLEAR_INFO_COOKIE', 'true', jsDomain);
 		    
@@ -1624,4 +1500,4 @@ jQuery(document).ready(function() {
            
         });
     	</script>
-    </td></tr></tbody></table></td></tr></tbody></table></div></div></div></div></div></body></html>
+    </body></html>
