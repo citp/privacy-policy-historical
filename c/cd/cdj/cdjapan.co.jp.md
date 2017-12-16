@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdjapan.co.jp privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621214009id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdjapan.co.jp privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216113213id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.*
 
 # CDJapan : Privacy Policy
 
