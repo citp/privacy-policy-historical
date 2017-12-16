@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the theinfiniteactuary.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606060547id_/http%3A//www.theinfiniteactuary.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theinfiniteactuary.com privacy policy that was archived on 2017-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171216220307id_/http%3A//www.theinfiniteactuary.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=980">
   <title>Privacy Policy - The Infinite Actuary</title>
-  <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.gstatic.com/firebasejs/4.1.1/firebase.js"></script>
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.gstatic.com/firebasejs/4.6.0/firebase.js"></script>
 
 <script type="text/javascript">
 // Initialize Firebase
@@ -21,9 +21,10 @@ var config = {
 firebase.initializeApp(config);
 
 
+
 function logoutHook() {
   firebase.auth().signOut();
-}
+  }
 </script>
   
   
@@ -35,12 +36,144 @@ function logoutHook() {
 <script type="text/javascript" src="/js/sessions.js?v=1477871751"></script>
 <script type="text/javascript" src="/js/user.preferences.js?v=1477871751"></script>
 <script type="text/javascript" src="/js/registration.js?v=1477871751"></script>
+<script type="text/javascript">
+
+
+var currentFbUID = null;
+var uref = null;
+var listeningFirebaseRefs2 = [];
+
+
+function cleanupLessonUiFb() {
+  for (var k in listeningFirebaseRefs2) {
+    if (listeningFirebaseRefs2[k]) {
+      if (listeningFirebaseRefs2[k] != 'undefined') {
+        listeningFirebaseRefs2[k].handle.off();
+      }
+    }
+  }
+  listeningFirebaseRefs2 = [];
+}
+
+
+function initLessonRootFb() {
+  lesson_fbapp.auth().onAuthStateChanged(function(user) {
+    // ignore token refresh events.
+    if (user && currentFbUID === user.uid) {
+      return;
+    }
+    cleanupLessonUiFb();
+    if (user) {
+      currentFbUID = user.uid;
+      uref = lesson_fbapp.database().ref('users');
+      initLessonUserInfoFb();
+    }
+    else {
+      currentFbUID = null;
+      console.log('.....fb unauth');
+    }
+    
+  });
+}
+
+function initLessonUserInfoFb() {
+  if (!currentFbUID) {
+    return;
+  }
+  var hh = 'uservideoroot';
+
+  if (!listeningFirebaseRefs2[hh]) {
+    var uui2 = uref.child(currentFbUID).child('videos');
+    listeningFirebaseRefs2[hh] = {name: hh,  handle: uui2};
+    uui2.on('child_added', updateWtCountFb);
+    uui2.on('child_removed', updateWtCountFb);
+  }
+}
+
+function updateWtCountFb(snap) {
+  pullLessonInfoFb(snap.key);
+}
+
+
+function pullLessonInfoFb(lid) {
+  var mk = '_' + lid;
+  if (!listeningFirebaseRefs2[mk]) {
+    if ($('#lesson-anchor-views-' + lid).length) {
+      var cc = uref.child(currentFbUID).child('videos').child(lid);
+      cc.on('value', updateWtCountFbUi);
+      listeningFirebaseRefs2[mk] = {name: mk, handle: cc};
+    }
+    else {
+      listeningFirebaseRefs2[mk] = 'undefined';
+    } 
+      
+  }
+}
+
+function updateWtCountFbUi(snap) {
+  var lid = snap.key;
+  var clearAnchor = false;
+  
+  if (!snap.val() || !snap.val()['watchedCount']) {
+    $('#lesson-anchor-views-' + lid).html('0 views');
+    clearAnchor = true;
+  }
+  else {
+    var ctr = Number(snap.val()['watchedCount']);
+    $('#lesson-anchor-views-' + lid).html(+ ctr + ' view' + (ctr == 1 ? '' : 's'));
+    clearAnchor = ctr == 0;
+  }
+
+  var cuedLid = lessonOffset['t' + tabOffset];
+  if (cuedLid == lid) {
+  console.log('in cue event ' + lid + ',' + cuedLid);
+    setBlockTitleAndTime(cuedLid);
+  }   
+
+  // TODO test - firebase hook UI local all headers update
+  if (window['refreshVideoCounterHeaders2']) {
+    refreshVideoCounterHeaders2(-1, lid, true);
+  }
+  if (clearAnchor) {
+    jQuery('#lesson-anchor-check-holder-' + lid).removeClass('check');
+  }
+  
+}
+
+
+$(window).on('load', function() {
+
+      return;
+      
+  initLessonRootFb();
+
+  });
+
+
+$(window).on('unload', function() {
+  cleanupLessonUiFb();
+
+  // TODO change this call from the flashcards popup 
+  // that is don't log out from that window close since 
+  // still need the session here  
+  //fbOut();  
+});
+
+
+function uResult2(err) {
+//if (err) {
+//    console.log('udpate error: ' + err.code);
+//} 
+}
+
+</script>
+
 
 <!--[if IE]><script type="text/javascript" src="/js/ie.js?v=1477871751"></script><![endif]-->
 
 <style type="text/css" media="screen"> @import url(/css/smoothness-1.9/jquery-ui-1.9.2.custom.css); </style>
-<link media="all" rel="stylesheet" type="text/css" href="/css/all.css?v=1490788329">
-<link media="all" rel="stylesheet" type="text/css" href="/css/rider.css?v=1495077945">
+<link media="all" rel="stylesheet" type="text/css" href="/css/all.css?v=1497964523">
+<link media="all" rel="stylesheet" type="text/css" href="/css/rider.css?v=1510423127">
 <link media="all" rel="stylesheet" type="text/css" href="/css/msg.css?v=1477871751">
 <link media="all" rel="stylesheet" type="text/css" href="/css/cart.css?v=1477871751">
 
@@ -111,7 +244,7 @@ function logoutHook() {
               <li><a href="/exams/1">P</a></li>
               <li><a href="/exams/2">FM</a></li>
               <li><a href="/exams/3">MFE</a></li>
-              <li><a href="/exams/35">S</a></li>
+              <li><a href="/exams/35">MAS-I</a></li>
               <li><a href="/exams/4">C</a></li>
               <li><a href="/exams/6">Exam 5</a></li>
               <li><a href="/exams/8">Exam 6</a></li>
@@ -128,7 +261,7 @@ function logoutHook() {
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FSA</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 260px;">
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 286px;">
             <ul>
               <li><a href="/exams/17">ILA LP</a></li>
               <li><a href="/exams/13">ILA LFV - U</a></li>
@@ -137,6 +270,7 @@ function logoutHook() {
               <li><a href="/exams/26">ERM</a></li>
               <li><a href="/exams/12">QFI - Core</a></li>
               <li><a href="/exams/38">QFI - Adv</a></li>
+              <li><a href="/exams/40">QFI - IRM</a></li>
               <li><a href="/exams/19">GH - Core</a></li>
               <li><a href="/exams/15">GH - Adv</a></li>
               <li><a href="/exams/32">GH - Specialty</a></li>
@@ -195,7 +329,7 @@ function logoutHook() {
               <li><a href="/lessons/1">P</a></li>
               <li><a href="/lessons/2">FM</a></li>
               <li><a href="/lessons/3">MFE</a></li>
-              <li><a href="/lessons/35">S</a></li>
+              <li><a href="/lessons/35">MAS-I</a></li>
               <li><a href="/lessons/4">C</a></li>
               <li><a href="/lessons/6">Exam 5</a></li>
               <li><a href="/lessons/8">Exam 6</a></li>
@@ -212,7 +346,7 @@ function logoutHook() {
           </div>
         </li>
         <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FSA</span></a>
-          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 260px;">
+          <div class="drop-frame drop-area same-height-left same-height-right" style="height: 286px;">
             <ul>
               <li><a href="/lessons/17">ILA LP</a></li>
               <li><a href="/lessons/13">ILA LFV - U</a></li>
@@ -221,6 +355,7 @@ function logoutHook() {
               <li><a href="/lessons/26">ERM</a></li>
               <li><a href="/lessons/12">QFI - Core</a></li>
               <li><a href="/lessons/38">QFI - Adv</a></li>
+              <li><a href="/lessons/40">QFI - IRM</a></li>
               <li><a href="/lessons/19">GH - Core</a></li>
               <li><a href="/lessons/15">GH - Adv</a></li>
               <li><a href="/lessons/32">GH - Specialty</a></li>
@@ -615,4 +750,4 @@ Updated 8/12/2014
 
 
 
-<iframe id="font-resize-frame-975" class="font-resize-helper" style="width: 100em; height: 10px; position: absolute; border-width: 0px; top: -9999px; left: -9999px;"></iframe></body></html>
+<iframe id="font-resize-frame-332" class="font-resize-helper" style="width: 100em; height: 10px; position: absolute; border-width: 0px; top: -9999px; left: -9999px;"></iframe></body></html>
