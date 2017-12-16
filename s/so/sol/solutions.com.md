@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solutions.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615091924id_/http%3A//solutions.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutions.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216223656id_/http%3A//solutions.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security | Solutions
 
@@ -120,12 +120,12 @@ We reserve the right to disclose your personal information as described in any c
 We respect your right to make choices about the ways we collect, use and disclose your personal information. In most cases, we will ask you to indicate your choices at the time we collect your personal information. We will also include an "opt-out" link in newsletters or promotional emails we send you so that you can inform us that you do not wish to receive such communications from us in the future. If you have created an account or a personal profile on this Site, you may be able to update some or all of your privacy choices by changing the settings on your account settings or profile page.
 
 **Direct Marketing**  
-We want to communicate with you only if you want to hear from us. You have the choice to be excluded from our offers and promotions and to be excluded from sharing personal information with our affiliates or Marketing Partners. If you choose not to receive information from us or do not want us to share your personal information with our affiliates or Marketing Partners, please let us know by calling us at 1-877-718-7902 or by sending us an email at [CustomerService@Solutions.com](mailto:CustomerService@Solutions.com) Please be sure to include your email address, full name, and specifically what information you do not want to receive, such as "no phone offers", "no mail offers", "no email offers", or "no sharing of information with Marketing Partners." DO NOT include your Social Security number or account number in the email. We will respond to reasonable requests within a reasonable time and, in any event, within the time period required by law. 
+We want to communicate with you only if you want to hear from us. You have the choice to be excluded from our offers and promotions and to be excluded from sharing personal information with our affiliates or Marketing Partners. If you choose not to receive information from us or do not want us to share your personal information with our affiliates or Marketing Partners, please let us know by calling us at 1-800-342-9988 or by sending us an email at [CustomerService@solutions.com](mailto:CustomerService@solutions.com) Please be sure to include your email address, full name, and specifically what information you do not want to receive, such as "no phone offers", "no mail offers", "no email offers", or "no sharing of information with Marketing Partners." DO NOT include your Social Security number or account number in the email. We will respond to reasonable requests within a reasonable time and, in any event, within the time period required by law. 
 
 Even if you ask us not to share or use your personal information for direct marketing purposes, we may still use your personal information, when you purchase from us online or through our catalogs to contact you via phone, email or mail to address questions specific to your order, even if you have opted to not receive marketing communications.
 
 **How Can You Update or Correct Your Personal Information?**  
-If you wish to update or correct your personal information, please let us know by calling us at 1-877-718-7902 or by sending us an email at [CustomerService@Solutions.com](mailto:CustomerService@Solutions.com). Please be sure to include your email address, full name, and specifically what information you would like to update or correct. If you contact us by email, DO NOT include your Social Security number or account number.
+If you wish to update or correct your personal information, please let us know by calling us at 1-800-342-9988 or by sending us an email at [CustomerService@solutions.com](mailto:CustomerService@solutions.com). Please be sure to include your email address, full name, and specifically what information you would like to update or correct. If you contact us by email, DO NOT include your Social Security number or account number.
 
 **Information Collected by Third Party Advertising and Marketing Consultants**  
 If you do not wish to receive our advertising or marketing consultants' cookies or similar technologies, you may "opt-out" at either the [Network Advertising Initiative website](http://www.networkadvertising.org/) or [Digital Advertising Alliance website](http://www.aboutads.info/).
@@ -136,7 +136,7 @@ We also participate in the Adobe Marketing Cloud Device Co-op to better understa
 Do Not Track signals your opt-out preference with an HTTP header that requests that we disable tracking you on our Site and across sites. At this time, we do not respond to browser "do not track" signals. 
 
 **Protecting Children**  
-Our website is not focused on marketing or attracting minors and we do not knowingly collect personal information about anyone under the age of 18. Anyone under the age of 18 should not use this Site. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the federal Children's Online Privacy Protection Act. If you believe that we have received information from a child, please notify us immediately by calling us at 1-877-718-7902 or by sending us an email at [CustomerService@Solutions.com](mailto:CustomerService@Solutions.com) and we will remove that information from our database.
+Our website is not focused on marketing or attracting minors and we do not knowingly collect personal information about anyone under the age of 18. Anyone under the age of 18 should not use this Site. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the federal Children's Online Privacy Protection Act. If you believe that we have received information from a child, please notify us immediately by calling us at 1-800-342-9988 or by sending us an email at [CustomerService@solutions.com](mailto:CustomerService@solutions.com) and we will remove that information from our database.
 
  **SECURITY AND CONFIDENTIALITY**
 
@@ -162,11 +162,11 @@ As used in this Privacy Policy, the word "including" means "including, without l
 
 
 **Contact Us**  
-If you have questions about this policy or our privacy practices, please email us at [CustomerService@Solutions.com](mailto:CustomerService@Solutions.com) and write "Privacy" in the subject line or write us at:
+If you have questions about this policy or our privacy practices, please email us at [CustomerService@solutions.com](mailto:CustomerService@solutions.com) and write "Privacy" in the subject line or write us at:
 
 Solutions  
-PO Box 126  
-Jessup, PA 18434
+220 Hickory St.  
+Warren, PA 16366
 
   
 
