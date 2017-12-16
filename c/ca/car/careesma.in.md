@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careesma.in privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621082719id_/http%3A//www.careesma.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careesma.in privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216062653id_/https%3A//www.careesma.in/privacy) for the most accurate reproduction.*
 
 # Careesma.in - Finding a job has never been so easy!
 
