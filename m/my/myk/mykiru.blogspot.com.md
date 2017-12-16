@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mykiru.blogspot.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627154119id_/http%3A//www.mykiru.ph/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mykiru.blogspot.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216084241id_/http%3A//www.mykiru.ph/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
