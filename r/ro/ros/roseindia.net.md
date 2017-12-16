@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roseindia.net privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623170842id_/http%3A//www.roseindia.net/sitemap/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roseindia.net privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216110408id_/https%3A//roseindia.net/sitemap/privacypolicy.shtml) for the most accurate reproduction.*
 
 # RoseIndia.net Privacy Policy
 
@@ -13,3 +13,5 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 
 Advertisements
+
+**We have 1000s of tutorials on our website. Search Tutorials tutorials on our website.**
