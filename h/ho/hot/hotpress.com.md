@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpress.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616194348id_/http%3A//www.hotpress.com/1278227.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpress.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216074704id_/http%3A//www.hotpress.com/1278227.html) for the most accurate reproduction.*
 
 # Hotpress Privacy Policy | Music | News | Hot Press
 
