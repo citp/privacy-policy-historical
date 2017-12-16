@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hacknplan.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621043830id_/http%3A//hacknplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hacknplan.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216162407id_/http%3A//hacknplan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HacknPlan
 
@@ -40,11 +40,21 @@ The Website Owner shall treat the data of the users in an adequate and responsib
 
 **5\. THIRD PARTY SERVICES**
 
-Besides from the Website Owner, under some circumstances other people, either from our own organization of the company or external subcontractors (such as lawyers, marketing agencies, computer specialists, administration, courier companies, auditors or communication agencies) may access the data in order to provide properly the services to the user.
+Besides from the Website Owner and under some circumstances, other people, either from our own organization of the company or external subcontractors (such as lawyers, marketing agencies, computer specialists, administration, courier companies, auditors or communication agencies) may access the data in order to provide properly the services to the user.
 
 **6\. RIGHTS**
 
 You can exercise the rights of access, rectification, erasure and opposition by sending a written communication to which you must attach a copy of your national identity card or passport or any other valid document that identifies you, the petition you exercise, your address for the purposes of notifications, date and your signature, along with the documents that support your petition, as the case may be, to the address C\ Concepción Arenal 1, 3ºG 28924 Alcorcón, Madrid (España), or send an email to contact(at)hacknplan.com.
+
+**7.  GOOGLE DATA POLICY**
+
+The Website can, with prior consent of the User, retrieve Google data to provide authentication and integrations by using the OAuth2 authorization protocol. This includes the following scenarios:
+
+  * Registration and authentication on the Website by using a Google account, accessing basic account data and email address.
+  * Integration with Google Drive via API for attachments.
+  * Integration with Google Calendar via API to reference external events.
+
+
 
 [Leer en Español](http://hacknplan.com/politica-privacidad/)
 
