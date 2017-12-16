@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tractorbynet.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619121622id_/http%3A//www.tractorbynet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractorbynet.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216140101id_/http%3A//www.tractorbynet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Compact tractor forums, news, reviews, information.
 
