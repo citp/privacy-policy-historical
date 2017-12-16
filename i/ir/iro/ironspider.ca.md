@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ironspider.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021019id_/http%3A//www.ironspider.ca/contact/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironspider.ca privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216021736id_/http%3A//www.ironspider.ca/contact/privacy-policy.htm) for the most accurate reproduction.*
 
 # IronSpider.ca Privacy Policy
 
-As a courtesy to all visitors, this page outlines everything you need to know about how any personally identifiable information (that you give by consent) or any generic information (collected automatically) is potentially retrieved and handled from any and all visits to [IronSpider.ca](https://web.archive.org/web/20170606021019id_/http%3A//www.ironspider.ca/index.htm "Internal link").
+As a courtesy to all visitors, this page outlines everything you need to know about how any personally identifiable information (that you give by consent) or any generic information (collected automatically) is potentially retrieved and handled from any and all visits to [IronSpider.ca](https://web.archive.org/web/20171216021736id_/http%3A//www.ironspider.ca/index.htm "Internal link").
 
 ## Overview
 
@@ -36,7 +36,7 @@ These are:
 
 ## Web Server Log Files
 
-IronSpider.ca is hosted at [Lunarpages](http://www.lunarpages.com/id/littlegiant "More information about Lunarpages...") and, like most professional web hosts, the web servers at Lunarpages makes use of log files. The information collected by the log files is taken from the standard HTTP headers sent by all major web browsers. Every time you visit a web page at this site, one or more entries will be entered into the web server's log files depending on how many web files ([HTML](https://web.archive.org/web/20170606021019id_/http%3A//www.ironspider.ca/basic_html/index.htm "Internal link"), [CSS](https://web.archive.org/web/20170606021019id_/http%3A//www.ironspider.ca/adv/basic_css/whatiscss.htm "Internal link"), Javascript, [graphics files](https://web.archive.org/web/20170606021019id_/http%3A//www.ironspider.ca/graphics/essentials.htm "Internal link")) are associated with web page you visited. This information contains no personally identifiable information and typically includes: 
+IronSpider.ca is hosted at [Lunarpages](http://www.lunarpages.com/id/littlegiant "More information about Lunarpages...") and, like most professional web hosts, the web servers at Lunarpages makes use of log files. The information collected by the log files is taken from the standard HTTP headers sent by all major web browsers. Every time you visit a web page at this site, one or more entries will be entered into the web server's log files depending on how many web files ([HTML](https://web.archive.org/web/20171216021736id_/http%3A//www.ironspider.ca/basic_html/index.htm "Internal link"), [CSS](https://web.archive.org/web/20171216021736id_/http%3A//www.ironspider.ca/adv/basic_css/whatiscss.htm "Internal link"), Javascript, [graphics files](https://web.archive.org/web/20171216021736id_/http%3A//www.ironspider.ca/graphics/essentials.htm "Internal link")) are associated with web page you visited. This information contains no personally identifiable information and typically includes: 
 
   * Your IP address
   * The date and time you visited the web page
@@ -85,8 +85,8 @@ All major web browsers provide a means to control the setting of cookies in the 
 
 Some examples of accessing cookie control in web browsers:
 
-For [Internet Explorer](https://web.archive.org/web/20170606021019id_/http%3A//www.ironspider.ca/browsers/ie7.htm "Internal link"), click on Tools » Internet Options » Privacy » Advanced  
-For [Firefox](https://web.archive.org/web/20170606021019id_/http%3A//www.ironspider.ca/browsers/firefox.htm "Internal link"), click on Tools » Options » Privacy
+For [Internet Explorer](https://web.archive.org/web/20171216021736id_/http%3A//www.ironspider.ca/browsers/ie7.htm "Internal link"), click on Tools » Internet Options » Privacy » Advanced  
+For [Firefox](https://web.archive.org/web/20171216021736id_/http%3A//www.ironspider.ca/browsers/firefox.htm "Internal link"), click on Tools » Options » Privacy
 
 Be advised that completely disabling the setting of cookies in your web browser can ultimately result in some inconvenience as you browse the internet. For example, when visiting a website that requires a username and password —such as a forum— you'll have to manually type this information in each and every time. The popular 'Remember Me' option will no longer work because this typically relies on cookies being enabled in your web browser.
 
@@ -106,15 +106,15 @@ Here are the privacy policies of various business partners and external web anal
 
 ## Who's in Charge Here
 
-My name is Robert Darrell (although I prefer Rob). I own the domain name IronSpider.ca and I handcoded this website entirely from scratch —including all the free website templates and all the MySpace layouts. I am fully in charge of all maintenance and all updates here at this site. I currently reside in Montreal, Canada. I can be contacted [here](https://web.archive.org/web/20170606021019id_/http%3A//www.ironspider.ca/contact/index.htm "Internal link").
+My name is Robert Darrell (although I prefer Rob). I own the domain name IronSpider.ca and I handcoded this website entirely from scratch —including all the free website templates and all the MySpace layouts. I am fully in charge of all maintenance and all updates here at this site. I currently reside in Montreal, Canada. I can be contacted [here](https://web.archive.org/web/20171216021736id_/http%3A//www.ironspider.ca/contact/index.htm "Internal link").
 
 _Best regards,  
 Rob Darrell  
-Proprietor and webmaster of [ironspider.ca](https://web.archive.org/web/20170606021019id_/http%3A//www.ironspider.ca/index.htm "Internal link")_
+Proprietor and webmaster of [ironspider.ca](https://web.archive.org/web/20171216021736id_/http%3A//www.ironspider.ca/index.htm "Internal link")_
 
 See also: 
 
-  * [Conventions Used on this Website](https://web.archive.org/web/20170606021019id_/http%3A//www.ironspider.ca/contact/conventions.htm "Internal link")
+  * [Conventions Used on this Website](https://web.archive.org/web/20171216021736id_/http%3A//www.ironspider.ca/contact/conventions.htm "Internal link")
 
   
 
