@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonmomfilm.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626191017id_/http%3A//cs.cf-mail.com/udsl-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonmomfilm.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216021408id_/http%3A//cs.cf-mail.com/udsl-privacy.html) for the most accurate reproduction.*
 
 # CF-Mail.com - ConvertFamily.com Support Page > Policy
 
