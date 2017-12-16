@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteleaks.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613061208id_/http%3A//www.siteleaks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteleaks.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216170325id_/http%3A//www.siteleaks.com/privacy) for the most accurate reproduction.*
 
 # siteleaks.com | Privacy Policy
 
@@ -126,5 +126,5 @@ If there are any questions regarding this privacy policy or you wish to unsubscr
 siteleaks.com 
 
 Email:  
-info@siteleaks.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 
