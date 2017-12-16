@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynameguide.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508074140id_/http%3A//www.babynameguide.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynameguide.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216134839id_/http%3A//www.babynameguide.com/policy.html) for the most accurate reproduction.*
 
 # Baby Name Guide - Privacy Policy
 
