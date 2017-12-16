@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elearningtags.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616232038id_/http%3A//elearningtags.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elearningtags.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216084940id_/http%3A//elearningtags.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | e-Learning Bookmarking Service - e-Learning Tags
 
@@ -73,4 +73,4 @@ This policy was last modified on June 10, 2013
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 e-Learning Tags  
-info@elearningtags.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
