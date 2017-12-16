@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolwale.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135052id_/http%3A//www.toolwale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolwale.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216121348id_/http%3A//www.toolwale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Toolwale.com
 
