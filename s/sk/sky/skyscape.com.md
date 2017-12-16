@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628194203id_/http%3A//www.skyscape.com/index/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216123443id_/http%3A//www.skyscape.com/index/privacy.aspx) for the most accurate reproduction.*
 
 # Skyscape Privacy Policy
 
