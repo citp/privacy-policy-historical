@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasswire.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310142453id_/https%3A//www.glasswire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasswire.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216171317id_/https%3A//www.glasswire.com/privacy) for the most accurate reproduction.*
 
 # GlassWire Privacy Policy
 
@@ -76,8 +76,12 @@ Sometimes, at our discretion, we may include or offer third party products or se
 
 We use a billing company called Cleverbridge to bill our paid desktop software version. We do not collect any credit card information or store it on our own servers. If you do not buy our software you will not use Cleverbridge at all, but if you do buy our software you can review Cleverbridge's privacy policy here. Cleverbridge is based in Germany but also has offices in the United States and Japan.
 
+**VirusTotal**
+
+GlassWire includes the VirusTotal API which is turned off by default. Learn more about VirusTotal <https://support.virustotal.com/hc/en-us> VirusTotal checks suspicious samples with several antivirus solutions and helps antivirus labs by forwarding them the malware they fail to detect. Please review the VirusTotal Terms of Service and Privacy Policy before using the VirusTotal API setting within GlassWire. 
+
 **Consent**
 
 By using our site or software, you consent to our online privacy policy and software [license agreement/EULA](https://web.archive.org/license/).
 
-_Last Updated: February 10, 2017 – Changed PC to "Device" along with other minor description changes to prepare for our mobile app release._
+_Last Updated: December 1, 2017 – Changed PC to "Device" along with other minor description changes to prepare for our mobile app release._
