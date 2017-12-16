@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blabbermouth.net privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620232628id_/http%3A//www.blabbermouth.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blabbermouth.net privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216202013id_/http%3A//www.blabbermouth.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blabbermouth.net
 
@@ -23,7 +23,7 @@ Cookies are tiny text files that may be saved on your computer that we can read 
   
 Third Party Cookies and Web Beacons and Information Used for Advertising
 
-Pages viewed on this Site may contain embedded links to files hosted and/or served by third parties such as YouTube® or links to third party web pages and/or web sites ( collectively ALinks@). They may also display third party advertising (AThird Party Ads@) served by third party Ad Server companies (“Ad Servers”) that We allow to serve ads (AThird Party Ads@). These Ad Servers may use cookies or web beacons ( clear electronic images that can recognize certain types of information on your computer, such as cookies) or similar technologies to collect and/or store certain non-personally identifiable information when you visit the Site, as well as during your visits to third party Web sites you may click through to from our Site, in order to provide advertisements about goods and services likely to be of interest to you.
+Pages viewed on this Site may contain embedded links to files hosted and/or served by third parties such as YouTube® or links to third party web pages and/or web sites ( collectively [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)). They may also display third party advertising (AThird Party [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)) served by third party Ad Server companies (“Ad Servers”) that We allow to serve ads (AThird Party [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)). These Ad Servers may use cookies or web beacons ( clear electronic images that can recognize certain types of information on your computer, such as cookies) or similar technologies to collect and/or store certain non-personally identifiable information when you visit the Site, as well as during your visits to third party Web sites you may click through to from our Site, in order to provide advertisements about goods and services likely to be of interest to you.
 
 When you click on any Links or Third Party Ads displayed on this Site that take you away from the Site, you will view any resulting content on a web page not controlled, maintained or operated by us. This Privacy Policy does not apply to information provided by You or collected at third parties’ web pages. We recommend You contact the owners of such third party web pages or Third Party Ads providers for further information on their privacy practices.
 
@@ -69,7 +69,7 @@ Our TOS provides for us to obtain certain rights in the information and material
 
 How to Contact BLABBERMOUTH.NET 
 
-If you have any questions regarding this Policy, please contact us by e-mail at blabbermouthinbox@gmail.com. You may also contact us by writing to:
+If you have any questions regarding this Policy, please contact us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You may also contact us by writing to:
 
 BLABBERMOUTH.NET   
 P.O. Box 8200   
