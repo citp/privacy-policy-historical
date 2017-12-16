@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axill.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613195843id_/http%3A//www.axill.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axill.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216041352id_/http%3A//axill.com/privacy.aspx) for the most accurate reproduction.*
 
 # Axill :: A Leader In Digital Advertising Network ::
 
