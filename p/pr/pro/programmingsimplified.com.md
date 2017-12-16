@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the programmingsimplified.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626182530id_/http%3A//www.programmingsimplified.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programmingsimplified.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216133346id_/http%3A//www.programmingsimplified.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Programming Simplified
 
@@ -18,6 +18,6 @@ We use [Google adsense](https://www.google.com/adsense/) on our website to serve
 Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website.  
 Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to our website and/or other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html).  
-(Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).) 
+(Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 We use Amazon affiliate program to serve links and banners on our websites.
