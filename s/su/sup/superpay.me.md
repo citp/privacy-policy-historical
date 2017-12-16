@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superpay.me privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628202935id_/http%3A//superpay.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superpay.me privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216154414id_/http%3A//www.superpay.me/privacy) for the most accurate reproduction.*
 
 # SuperPay.Me - Privacy Policy
 
