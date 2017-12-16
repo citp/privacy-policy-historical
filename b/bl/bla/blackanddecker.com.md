@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611170451id_/http%3A//www.blackanddecker.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216123451id_/http%3A//www.blackanddecker.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy for U.S. Websites**
 
-**Scope**.  This Privacy Policy applies to personal information collected online, used and disclosed by Stanley Black & Decker, Inc.’s affiliates including but not limited to Black+Decker, Bostitch, CRAFTSMAN, DEWALT, ELCO, Emglo, hilmor, Irwin, InnerSpace, Lenox, Lista, Mac Tools, Porter-Cable, Powers, Proto, Stanley, Stanley FatMax and Vidmar (collectively referred to as “Stanley Black & Decker”) in connection with its U.S.-based websites, microsites, mobile sites or mobile apps that expressly adopt, display or link to this Privacy Policy (collectively referred to as our “Sites”).  It also applies to personal information we collect, use and disclose in connection with Stanley Black & Decker pages on social media sites, such as Facebook®, Twitter®, Google Plus® or others (collectively referred to as our “Social Media Pages”). 
+**Scope**.  This Privacy Policy applies to personal information collected online, used and disclosed by Stanley Black & Decker, Inc.’s affiliates including but not limited to Black+Decker, Bostitch, CRAFTSMAN, DEWALT, ELCO, Emglo, hilmor, IRWIN, InnerSpace, LENOX, Lista, Mac Tools, PORTER-CABLE, Powers, Proto, Stanley, Stanley FatMax and Vidmar (collectively referred to as “Stanley Black & Decker”) in connection with its U.S.-based websites, microsites, mobile sites or mobile apps that expressly adopt, display or link to this Privacy Policy (collectively referred to as our “Sites”).  It also applies to personal information we collect, use and disclose in connection with Stanley Black & Decker pages on social media sites, such as Facebook®, Twitter®, Google Plus® or others (collectively referred to as our “Social Media Pages”). 
 
 **NOTE:  **Stanley Black & Decker licenses the use of its trademarks to unrelated third parties which operate websites independently from Stanley Black & Decker.  This Privacy Policy **does not cover** the websites of these third parties.  These third parties have separate and independent privacy policies which we recommend you read carefully.
 
@@ -106,7 +106,7 @@ It is also possible that we will be able to continue collecting this information
   * _Email_.  Our emails may use your IP Address to determine the postal code where you are located when you open the email.  This allows us to tailor content to you, such as a map of nearby stores carrying our products.  The specificity of the location can vary depending on the device used to open our emails.
 
 
-  * _Bluetooth® Enabled Products and Sites_.  This section applies to additional personal information that may be collected, used, and disclosed related to our Bluetooth® enabled products and related Sites (collectively our “Bluetooth® Enabled Products and Sites”).  If you access our Bluetooth® Enabled Products and Sites through a mobile device, we may collect and use your mobile device’s location services and Bluetooth® capabilities to identify the date, time and location of your mobile device when it was last in Bluetooth® range of a registered, Bluetooth® Enabled Product.  This is done to assist you in locating a registered Bluetooth® Enabled product.  We may also collect location information about your registered Bluetooth® Enabled product as sent to us via other users’ mobile devices, and location information about other users’ registered Bluetooth® Enabled products as sent to us via your mobile device.  (Bluetooth® is a registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Stanley Black & Decker is under license).
+  * _Bluetooth® Enabled Products and Sites_.  This section applies to additional personal information that may be collected, used, and disclosed related to our Bluetooth® enabled products and related Sites (collectively our “Bluetooth® Enabled Products and Sites”).  If you access our Bluetooth® Enabled Products and Sites through a mobile device, we may collect and use your mobile device’s location services and Bluetooth® capabilities to identify the date, time and location of your mobile device when it was last in Bluetooth® range of a registered, Bluetooth® Enabled Product.  This is done to assist you in locating a registered Bluetooth® Enabled product.  We may also collect location information about your registered Bluetooth® Enabled product as sent to us via other users’ mobile devices, and location information about other users’ registered Bluetooth® Enabled products as sent to us via your mobile device.  (Bluetooth® is a registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Stanley Black & Decker is under license).
 
 
 
@@ -201,14 +201,15 @@ For information about opt out programs that these third party advertising compan
 We do not sell, rent, or trade your personal information to unrelated third parties except as set forth below.  We may share your personal information with the following:
 
   * our affiliates and brands so that they can provide information to you about their products, which includes the affiliates listed under “Scope” above and those specified at <http://www.stanleyblackanddecker.com/contact/contact-us>. 
-  * our affiliates and third party service providers in order to perform tasks on our behalf such as the following: 
+  * our affiliates, licensees and third party service providers in order to perform tasks on our behalf such as the following: 
     * facilitating your purchase
-    * assisting in servicing our products
+    * assisting in servicing products
+    * product registrations
+    * responding to your requests and providing product information
     * helping you exchange products
-    * providing and improving our communications with you
-    * responding to requests to our investor relations
+    * providing and improving communications with you
+    * responding to investor relations requests
     * cloud based and hosting services
-    * our licensees (USA only)
     * as required to cooperate with a subpoena, search warrant or other legally valid inquiry, court order or other legal process, or as required or permitted by law 
     * to protect the rights, property or safety of our Sites, our users or others, including where necessary for the establishment, exercise or defense of legal claims. 
 
@@ -252,4 +253,4 @@ We may make changes to this Privacy Policy at any time, so please review it peri
 
 If you have questions or concerns with respect to our Privacy Policy, please contact the Privacy Policy Manager by sending an email to [PrivacyPolicyManager@sbdinc.com](mailto:PrivacyPolicyManager@sbdinc.com) and include your question.  Or if you prefer to contact the Privacy Policy Manager via U.S. mail, please use the following postal address:  Stanley Black & Decker, Inc., 701 E. Joppa Road, MS TW230, Towson, Maryland 21286, USA, Attn: R. Weyand.
 
-Effective as of:  March 13, 2017
+Effective as of:  July 6, 2017
