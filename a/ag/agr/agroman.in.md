@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agroman.in privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627160937id_/http%3A//agroman.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agroman.in privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216234310id_/http%3A//agroman.in/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - agroman
 
