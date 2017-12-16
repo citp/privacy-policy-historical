@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localfuckbook.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402004804id_/http%3A//localfuckbook.com/notices/privacy.php%3Fsite%3Dlocalfuckbook.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localfuckbook.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216012449id_/http%3A//localfuckbook.com/notices/privacy.php%3Fsite%3Dlocalfuckbook.com) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -42,7 +42,7 @@ The Site also offers all Members and Users a procedure for "Opting-Out" if the M
 
 **5\. DISCLOSURE**
 
-localfuckbook.com will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to enforce any of our rights and terms and conditions or identify, contact or bring legal action against someone who may be violating the localfuckbook.com [Terms and Conditions](https://web.archive.org/web/20170402004804id_/http%3A//localfuckbook.com/notices/terms.php?co=ar&site=localfuckbook.com) .  
+localfuckbook.com will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to enforce any of our rights and terms and conditions or identify, contact or bring legal action against someone who may be violating the localfuckbook.com [Terms and Conditions](https://web.archive.org/web/20171216012449id_/http%3A//localfuckbook.com/notices/terms.php?co=ar&site=localfuckbook.com) .  
 No personal information will be shared with any third parties without the customer's permission. 
 
 **6\. REVISIONS TO THIS PRIVACY POLICY**
