@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chetanasforum.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619081006id_/http%3A//www.chetanasforum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chetanasforum.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216054043id_/http%3A//www.chetanasforum.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ChetanaSforum
 
