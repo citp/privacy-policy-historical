@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htek.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424112104id_/http%3A//www.htek.com/site.php%3Fmid%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htek.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217233827id_/http%3A//www.htek.com/site.php%3Fmid%3D32) for the most accurate reproduction.*
 
 # Privacy-Htek
 
