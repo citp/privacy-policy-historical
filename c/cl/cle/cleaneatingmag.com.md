@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleaneatingmag.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608063444id_/http%3A//www.activeinterestmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleaneatingmag.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217213333id_/http%3A//www.activeinterestmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Active Interest Media
 
@@ -65,6 +65,8 @@ You can direct your opt-out request to specific brands or to ‘all brands.’
 
 You may receive email marketing messages from us about our own or other companies’ offerings. To opt-out of a partner marketing email program, you may follow the instructions at the bottom of any email we send you as part of the program.
 
+You may withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice. To withdraw your consent, simply contact us by writing to the Active Interest Media, Inc., 5720 Flatiron Pkwy, Boulder, CO 80301, USA Attn: Data Department, or by e-mailing us at privacy@aimmedia.com and advising which of your personal information you no longer wish us to collect, use and/or disclose. We will the inform you of the implications of withdrawing consent to collect, use and/or disclose that personal information, including without limitation the fact that once such consent is withdrawn you may not be able to use certain or all of the features of the Site, applications or services, and/or may not be able to receive products and services from us. Should you nonetheless still desire that consent be withdrawn, we will accede to your request.
+
 We may work with data providers to target advertising to you personally, through online and offline methods including email, display media and direct mail. This advertising may be directed to you because you visited or logged in to our website. When we generate this advertising, data we collect from you through online cookies and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit the DAA’s consumer choice page at http://www.aboutads.info/choices/.
 
 **Premium Accounts**
@@ -103,7 +105,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 Active Interest Media | Attn: Circulation Department  
 5720 Flatiron Pkwy  
 Boulder, CO 80301  
-admin@aimmedia.com / 310.356.4100
+privacy@aimmedia.com / 310.356.4100
 
 **Privacy Policy Customer Pledge**  
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
