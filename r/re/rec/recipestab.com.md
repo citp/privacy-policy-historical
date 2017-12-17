@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipestab.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155010id_/http%3A//recipestab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipestab.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218001658id_/http%3A//recipestab.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy Recipestab
 
@@ -62,4 +62,4 @@ If you feel that we have not followed our Privacy Policy, please let us know. Al
 
 Tightrope Interactive 588 Sutter St #551, San Francisco, CA 94108
 
-Alternatively, if you would like, contact us via e-mail at webmaster@recipestab.com 
+Alternatively, if you would like, contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
