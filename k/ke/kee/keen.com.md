@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122132058id_/http%3A//www.ingenio.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217050908id_/http%3A//www.ingenio.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Ingenio Privacy Policy
 
@@ -239,7 +239,7 @@ _Communicating with Us_
 
 . If you have any questions or concerns regarding our privacy policy please contact us at: 
 
-Email address: [privacy@ingenio.com](mailto:privacy@ingenio.com)  
+Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#49393b203f282a300920272e2c272026672a2624)  
 Telephone number: 877.529.1193  
 Mailing address:
 
