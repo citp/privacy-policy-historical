@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621144938id_/http%3A//www.irishrail.ie/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217220841id_/http%3A//www.irishrail.ie/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
-  * [Iarnród Éireann Irish Rail Website Policy](http://www.irishrail.ie/legal/privacy-statement#cookiepolicy)
-  * [Iarnród Éireann Irish Rail App Policy](http://www.irishrail.ie/legal/privacy-statement#Iarnr%C3%B3d%20%C3%89ireann%20Irish%20Rail%20Official%20Apps)
+  * [Iarnród Éireann Irish Rail Cookie Policy](http://www.irishrail.ie/legal/privacy-statement#cookiepolicy)
+  * [Iarnród Éireann Irish Rail App Policy](http://www.irishrail.ie/legal/privacy-statement#app)
   * [Tripstoremember.ie Policy](http://www.irishrail.ie/legal/privacy-statement#tripstoremember.ie)
 
 
@@ -14,7 +14,7 @@ The CIÉ Group of Companies (CIÉ) respects your privacy and is committed to pro
 
 ### Sites Covered by this Privacy Statement
 
-This Privacy Statement applies to all CIÉ (Córas Iompair Éireann) Group of Companies owned websites and domains, and our wholly owned subsidiaries i.e. Bus Éireann - Irish Bus, Bus Átha Cliath - Dublin Bus, CIÉ Tours International and Iarnród Éireann - Irish Rail.
+This Privacy Statement applies to all CIÉ (Córas Iompair Éireann) Group of Companies owned websites and domains, and our wholly owned subsidiaries ie Bus Éireann - Irish Bus, Bus Átha Cliath - Dublin Bus, CIÉ Tours International and Iarnród Éireann - Irish Rail.
 
 ### Links to Non-CIÉ Websites
 
@@ -46,7 +46,7 @@ CIÉ uses your personal information to provide you with products or services and
 
 Credit card information is used only for payment processing and fraud prevention. Credit card information and sensitive personal data are not used for any other purpose by our financial services providers or CIÉ and will not be kept longer than necessary for providing the services, unless you ask us to retain your credit card information for future purchases.
 
-Personal data given to CIÉ may be transferred across state and country borders for the purposes of data consolidation, storage and simplified customer information management. Whenever your personal information or financial information is transferred across state and country borders CIÉ will ensure that the information is transferred in accordance with this Privacy Policy and as permitted by the [Data Protection Acts of Ireland](http://www.dataprotection.ie/viewdoc.asp?DocID=4).
+Personal data given to CIÉ may be transferred across state and country borders for the purposes of data consolidation, storage and simplified customer information management. Whenever your personal information or financial information is transferred across state and country borders CIÉ will ensure that the information is transferred in accordance with this Privacy Policy and as permitted by the [Data Protection Acts of Ireland](https://www.dataprotection.ie/docs/Home/4.htm).
 
 Non-personal data is aggregated for reporting about CIÉ website usability, performance and effectiveness. It is used to improve the customer experience, usability and website content.
 
@@ -70,12 +70,11 @@ To opt-out of receiving communications you have expressly requested (such as e-m
 
   * Select the e-mail "opt-out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication
   * Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions
-  * Write to the Digital Channels Department - be sure to provide your name, e-mail and postal address, and relevant information about your CIÉ registrations.
+  * Write to the Digital Channels Department - be sure to provide your name, e-mail and postal address, and relevant information about your CIÉ registrations
 
 
 
-###   
-Access To and Accuracy of your Information
+### Access To and Accuracy of your Information
 
 CIÉ strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain customer data accuracy. We will provide you with access to your information, including making reasonable effort to provide you with online access and the opportunity to change your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. Certain areas of CIÉ websites may limit access to specific individuals through the use of passwords and other personal identifiers.
 
@@ -101,7 +100,7 @@ Connolly Station
 Dublin 1  
 Ireland
 
-E - Mail digital[@irishrail.ie](mailto:online@irishrail.ie)
+E-mail: [digital@irishrail.ie](mailto:digital@irishrail.ie)
 
 **Revision: October 2004**
 
@@ -119,7 +118,7 @@ We may update our Cookies Policy to reflect any changes in technology or data pr
 
 Cookies are small text files sent from a website that a website can use in order to recognise visitors who revisit a site so as to facilitate their ongoing access to and use of the site. Cookies enable usage behaviour to be tracked and aggregate data to be compiled that would facilitate more targeted advertising and improved content. Typically, cookies involve the assigning of a unique number to the visitor. One simple way to prevent the use of cookies it to activate the facility which is available in most web browsers that enables the user to deny or accept cookies. However, visitors should realise that certain cookies may be necessary in order to provide the visitor with certain features such as the customised delivery of certain information.
 
-More information about cookies can be found on [www.aboutcookies.org](http://www.aboutcookies.org/) & [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+More information about cookies can be found on [www.aboutcookies.org](http://www.aboutcookies.org/) and [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 ### Cookies on Iarnród Éireann Irish Rail websites
 
@@ -128,7 +127,7 @@ Iarnród Éireann set the following types of cookies on your device when you vis
 **Strictly necessary cookies**  
 These cookies enable services you have specifically asked for. These include session cookies that allow users to stay logged in while navigating through the website and carry out essential tasks such as adding items to a shopping basket when purchasing tickets on our website.
 
-These cookies don’t usually contain any personally identifiable information and are typically set by Iarnród Éireann Irish Rail to provide specific services such as ecommerce transactions.
+These cookies don’t usually contain any personally identifiable information and are typically set by Iarnród Éireann Irish Rail to provide specific services such as e-commerce transactions.
 
 **Performance and analytics cookies**  
 These cookies are used to collect statistical information about visitors of the website and the pages they view. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and used anonymously. Iarnród Éireann Irish Rail set Google Analytics cookies to gather this statistical information.
@@ -147,9 +146,9 @@ We do not control the use of these cookies and cannot access them due to the way
 
 One simple way to prevent the use of cookies is to activate the facility which is available in most web browsers that enables the user to deny or accept cookies. However, visitors should realise that certain cookies may be necessary in order to provide the visitor with certain features such as the purchase of tickets.
 
-For more information on how to manage cookies, including opt-out of performance cookies please visit: <http://www.whatarecookies.com/> 
+Click the link for more information on how to [manage cookies](http://www.whatarecookies.com/%20), including opt-out of performance cookies.
 
-For more information on how to opt out of Google Analytics please visit: <https://tools.google.com/dlpage/gaoptout?hl=en-GB>
+Click the link for more information on how to opt out of [Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
 
 ## Iarnród Éireann Irish Rail Official Apps
 
@@ -161,7 +160,7 @@ At all times if you no longer wish for the app to use any of the features below,
 
  **Network Communication -** This is necessary because the app needs to connect with our servers when queries are run which returns results to the smartphone on real-time and static train information. We are using live data because it is not possible to operate an offline version given the nature of the rail environment. There is also a check whether an internet connection is available.
 
- **Your Location** \- The app features an option to show stations nearby using Maps & Geo-tagging, so we need to know where the user is for this to work. Raw coordinates are sent to our servers to get a list of stations in the vicinity. The position is only used once and is not stored permanently.
+ **Your Location** \- The app features an option to show stations nearby using Maps and Geo-tagging, so we need to know where the user is for this to work. Raw coordinates are sent to our servers to get a list of stations in the vicinity. The position is only used once and is not stored permanently.
 
  **Your personal information -** This permission allows the app to read and write data to the device's calendar. The user can save trips to his calendar, so we need to be able to store the events. We use the reading permission to get a list of all calendars available as there may be more than one, so the user can choose which calendar the trip will be saved in. We do not read or manipulate any existing calendar entries.
 
