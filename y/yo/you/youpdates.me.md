@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youpdates.me privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612010016id_/http%3A//youpdates.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youpdates.me privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217152319id_/http%3A//telly-news.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | YoUpdates
+# Privacy Policy | Telly News
 
 YoUpdates cares about how your personal data is employed and shared, and we get your privacy critically. Be sure to study the next terms To find out more about our privacy policy. By registering to and developing account at YoUpdates.me that you are accepting the methods outlined During this Privacy Plan.
 
