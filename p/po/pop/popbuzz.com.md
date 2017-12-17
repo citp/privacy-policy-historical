@@ -1,62 +1,114 @@
-> *The following text is extracted and transformed from the popbuzz.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305190320id_/http%3A//help.apexmail.net/e/info2/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popbuzz.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217040404id_/http%3A//www.popbuzz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - PopBuzz
 
-If you have questions or concerns regarding this statement, you should first contact our **Privacy Coordinator** by e-mail, phone or postal mail: 
+**Privacy Policy – Radio, Television, Sales**
 
-[**privacy@apexmail.com**](mailto:privacy@apexmail.com)  
-**604-852-1590**
+**About this Policy**
 
-ApexMail.Net  
-204- 34314 Marshall Road  
-Abbotsford, BC  
-Canada V2S 1L9 
+**We are Global!**
 
-**Personal Information**   
-ApexMail.Net has access to information about members from the registration form and from upgrades to the Professional service.
+We are part of “This is Global Limited” and we are obsessive about respecting the privacy of our listeners and customers.
 
-From the site's registration form, we obtain the user's name and e-mail address. This information is used for system administration and for contacting the user when necessary. Contact is made for reasons relating to customer support, account upgrades, new feature announcements, virus alerts, and maintenance disruptions to the mail service.
+This policy explains how we will collect information about you through interaction with us over the radio, on the TV, our charity activities or through any sales channel and what we will use it for. 
 
-From time to time, selected and consenting users may be asked to complete online surveys, either relating to customer service or on behalf of advertisers. Demographic information collected by surveys may be shared with advertisers, but on an aggregate basis only. 
+Any personal information you provide about yourself to us, may be shared across our “This is Global” Group but will only be used in accordance with this Privacy Policy.
 
-**Financial Information**   
-Financial information that is collected for Professional upgrades is used to bill the user for products and services only. We share financial information with third party intermediaries (credit card companies and banks) when processing credit card payments; these intermediaries do not store, retain or use the information we give them. During upgrades, members have the choice of sending their credit card information through a secure server or a non-secure server. Information submitted through the secure server is encrypted for protection.
+Firstly, please be aware that we do not aim to collect any personal information from individuals under the age of 13.
 
-**Updating Personal Information**   
-Members can correct or update their personal information at any time by contacting us via e-mail or by telephone.
+Please note, this Privacy Policy does not apply to websites or text services operated by third parties, who will have their own Policies covering the use of your personal information, or to those webpages which relate to Global Talent and Publishing which have separate Privacy and Cookie Policies.
 
-Member accounts are closed after ninety days of account inactivity, at which point personal information is erased from the system. 
+  1. **1.      ****How we will get in touch with you**
 
-**IP Addresses**   
-We collect IP addresses for system administration and to share aggregate information with our advertisers. The originator's account name and IP address are inserted onto the header of a message when it is transmitted in or out of the system; this information is used to track the source of a message in cases of system abuse. 
 
-**Children**   
-Users must be 13 years of age or older to open an ApexMail account. If ApexMail learns that a user under 13 is publicly posting or sharing personally identifiable information, it will protect the child by closing the account in question and by deleting any personal information we may have inadvertently collected from the child.
 
-**Partner Sites**   
-Members who sign up for e-mail through one of our co-branded partner sites have the same privacy protection as ApexMail members. The personal and Professional upgrade information gathered from these members is collected by ApexMail, and not by our co-branded partners. We do not share any personally identifiable information with our partners.
+When we first collect your personal information, we will tell you that we want to keep in contact with you to keep you informed about things that we believe you will be interested in.
 
-**Banner Advertising**   
-This site, ApexMail, uses the services of Engage for the serving and/or targeting of ads, promotions, and other marketing messages. To do this, Engage collects anonymous data about your visit to this and other web sites, typically by using cookies. To learn more about Engage, including your ability to opt out of the Engage system, follow this URL: <http://www.engage.com/privacy>.
+You have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you. You can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us. You can also do this by contacting us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com).
 
-**Cookies**   
-Cookies are currently used by ApexMail only for our own statistical purposes, to aid us in the areas of site design, feature upgrades, service troubleshooting etc.; however, the functionality of the mail service is not affected in any way if the user's browser is configured to reject cookies. Cookies may also be used by third parties that provide value-added services to subscribers of the upgrade service; in this case, cookies are used to store user name and password for smooth integration between the mail service and the value-added service.
+**2 Collection of Information**
 
-Advertisements appearing on our site may contain cookies. Cookies received with banner advertisements are collected by our advertising company (see above); we do not have access to this information, nor are we responsible for it.
+We collect personal information from you through your interaction via our websites, text services or other media such as giving your information to one of our roaming “street teams”. This may occur when you participate in, or sign up to, any of  This is Global’s services, such as competitions, research panels, or if you use any of our apps, register an account with one of our websites.
 
-**Security**   
-We have security procedures in place to protect the member information we collect from loss, misuse or alteration. All member information is password-protected and limited to authorized personnel only. Our personnel are made aware of the privacy practices of the site through our in-house privacy policy, which is circulated to all employees twice yearly. Web security is reviewed once a month.
+The information we collect will vary depending on the service you request but could include name, address, phone number, email address, user name, password, age, gender, date of birth, household composition, comments, competition answers. We may also ask for additional information depending on the nature of the service provided. We will not normally collect any sensitive personal information from you, and in any event, will request your express consent to do so.
 
-When our upgrade order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry, SSL (Secure Sockets Layer). While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked or open when you are just 'surfing'.
+We may obtain additional information about you from 3rd parties data brokers and from social media links.
 
-**Links to Other Sites**   
-This Web site contains links to other sites. Please note that when you click on one of these links, you are going to another Web site. We encourage you to read the privacy statements of these linked sites, as their privacy policy may differ from ours.
+**Our Apps**
 
-**Legal Issues**   
-ApexMail.Net will not disclose any personally identifiable information, such as e-mail address, name, phone number or postal address, without prior consent of the user; however, such information will be divulged if the law requires it, or to protect the rights or property of ApexMail.Net. The company will only disclose member information on an aggregate basis and under confidentiality agreements with partners, advertisers and third parties. 
+If you use any of our apps, we will collect the following information:
 
-**Changes to Privacy Practices**   
-Members will be notified by e-mail in the event that ApexMail.Net changes its privacy practices. Any questions about the privacy policy, the practices of this site, or dealings with this site may be directed to our **privacy coordinator**.
+(i)            your location – upon your first use you will be prompted for permission for us to use your location (which you may decline) in order to offer you relevant services (we cannot offer relevant services if you do not permit us to detect and use your location); and
 
-_©2002[ApexMail.net Inc.](http://www.apexmail.net/) All rights reserved.  
-Logos & trade names are trademarks of their respective owners._
+(ii)          your device - if you access our services from a device such as a mobile telephone running an application, we will uniquely identify each instance of the application, but we will not be able to personally identify you from this information.
+
+**Cookies  
+**We also collect certain information through the use of “cookies” and other similar automated means. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. For more information about cookies and how they are used, please read our cookie policy[JG1] .
+
+  
+**3\. Use of Information**
+
+We will use your personal information for a number of purposes including the following:
+
+  * provide, administer and communicate with you about our services and promotions (e.g. to enable you to log in to your account and/or enter competitions on one of our websites).
+  * contact you about joining our online research panel, which will include keeping a record of your views and any other content you may provide.
+  * analyze and improve the services we offer
+  * create statistics, profiles and marketing opportunities, and analyse information to formulate opinions. To do these things, we might use information about you from other organisations.
+  * help prevent fraud and loss.
+  * train our staff.
+  * get in touch with you about products, events, promotions and services that we or our 3rd party partners are offering. This could be by email, phone, text, or another form of electronic communication. We will only do so if you have not told us that you do not want to hear from us or our 3rd party partners
+
+
+
+If you are a registered user of one of our websites, then these communications may be personalized for you, based on your browsing preferences.
+
+If you call into one of our broadcasts and make rude or offensive remarks, we will keep a record to block further live calls from you.
+
+  
+**4\. Sharing Information**
+
+We will not sell, trade, rent or otherwise pass on your personal information to others, including any personal information that we collect through the use of cookies, except as described here or with your prior consent.
+
+We may share personal information with service providers who perform functions and services on our behalf. Such third parties will be provided with personal information necessary to perform the services on our behalf but are not authorized to use such information for any other purposes.
+
+If you sign up for one of our partnered services, such as online dating, you will be providing your information directly to our 3rd party partner and you should read their privacy policy to fully understand how your personal information might be used.  They may share certain information with us (but not sensitive personal information or financial information) which we will only use for the reasons set out in this Policy.
+
+Only where you have agreed to receive marketing communications from third parties, will we pass on your personal information for this purpose.
+
+We may disclose your personal information when you enter a competition (for example to the competition sponsors or to provide winners with their prize).
+
+We will always ask for your consent before we publish any material provided by you or information about you.
+
+We may carry out research or analysis, which contains your personal information, via our sites and share "pooled" responses to questions with our partner organizations.
+
+We may also disclose personal information about you to comply with applicable laws and when requested to do so by law enforcement agencies or government bodies.
+
+We reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Policy. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.
+
+  
+**5\. Use of Aggregate Information**
+
+We may share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers and other third parties.  However, it will not be possible to identify you from this information. For example, we might report to potential advertisers that a certain percentage of our users are interested in its products, based on information requests. Some of this information may be collected using cookies as described above and in our cookie policy.
+
+  
+**6\. Data Transfers**
+
+We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your personal information to other countries, we will protect the information as described in this Privacy Policy.
+
+  
+**7\. Your Rights**
+
+If you are registered for an account with one of our websites you may update your personal information at any time via the "My Details" page for web users, where registration is available on the site. You can access the "My Details Page" from most pages on the website if you are logged-on. If you are a text message user of one of our services then, where appropriate, the text messages you receive from us will alert you to options for un-subscription and/or change of details – please follow these messages.
+
+You have certain rights to the personal information we process about you.   
+You may request access to the personal information we hold about you. If you would like to submit a request please contact us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com).
+
+  
+**8\. Changes to our Privacy Policy**
+
+We reserve the right to change our Privacy Policy and all changes will be posted here. Where the changes are significant, we may also choose to email all registered users of our websites with the new Privacy Policy.
+
+  
+**9\. Contact Us**
+
+If you have any questions or comments about this Privacy Policy or if you would like to exercise your rights, please contact us at: [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com)
