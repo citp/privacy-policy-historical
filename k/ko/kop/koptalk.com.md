@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koptalk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115626id_/http%3A//www.koptalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koptalk.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217174900id_/http%3A//www.koptalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - KopTalk - Liverpool FC News
 
@@ -28,7 +28,6 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
   * [Google](http://www.google.com/ads/preferences/)
   * [Amazon](http://www.amazon.co.uk/gp/help/customer/display.html?ie=UTF8&*Version*=1&*entries*=0&nodeId=201149560)
-  * [Clickio](http://legal.clickio.com/PrivacyPolicy/)
 
 
 
