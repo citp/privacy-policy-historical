@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exposureschool.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617061050id_/http%3A//exposureschool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exposureschool.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217190847id_/http%3A//exposureschool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Exposure School
 
