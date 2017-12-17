@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the researchpanelasia.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426203722id_/https%3A//www.d8aspring.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchpanelasia.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217095007id_/https%3A//www.d8aspring.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | dataSpring
 
@@ -65,7 +65,7 @@ Questions about our Privacy Policy may be emailed to us at [contact@d8aspring.co
 
 ## Additional Information & Policies
 
-Whether you are a client, prospect, visitor to our website, a user of our our mobile app, and/ or a survey respondent, the following additional documentation may apply to your use of our Services:
+Whether you are a client, prospect, visitor to our website, a user of our mobile app, and/ or a survey respondent, the following additional documentation may apply to your use of our Services:
 
   * dataSpring Terms of Use: <https://www.d8aspring.com/static/terms>
   * surveyon Website Privacy Policy: <https://www.surveyon.com/static/privacy>
