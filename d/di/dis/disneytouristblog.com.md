@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneytouristblog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125945id_/http%3A//www.disneytouristblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneytouristblog.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217192056id_/http%3A//www.disneytouristblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Disney Tourist Blog
 
