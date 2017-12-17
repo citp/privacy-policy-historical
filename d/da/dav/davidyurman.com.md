@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidyurman.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627042642id_/http%3A//www.davidyurman.com/david-yurman/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidyurman.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217203208id_/http%3A//www.davidyurman.com/david-yurman/privacy-policy.html) for the most accurate reproduction.*
 
 # Online Privacy Notice
 
