@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taurusdirectory.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617102519id_/http%3A//taurusdirectory.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taurusdirectory.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217020111id_/http%3A//taurusdirectory.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
