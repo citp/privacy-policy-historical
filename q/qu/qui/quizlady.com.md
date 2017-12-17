@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizlady.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616221808id_/http%3A//quizlady.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizlady.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217172118id_/http%3A//quizlady.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | QuizLady
 
