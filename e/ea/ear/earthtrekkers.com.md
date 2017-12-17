@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the earthtrekkers.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614152440id_/http%3A//www.earthtrekkers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthtrekkers.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217221047id_/http%3A//www.earthtrekkers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Earth Trekkers
+# Privacy Policy | Earth Trekkers
 
 ### Privacy Policy
 
 Your privacy is important to Earth Trekkers. This privacy statement provides information about the personal information that we collect and the ways in which we use that personal information. By visiting our website, you are accepting the practices described in this Privacy Policy.
 
-This Privacy Policy forms part of our [Terms and Conditions of Use](http://www.earthtrekkers.com/terms-of-use/) document.
+This Privacy Policy forms part of our [Terms and Conditions of Use](https://www.earthtrekkers.com/terms-of-use/) document.
 
 #### Collection of your Information
 
@@ -38,4 +38,4 @@ You can disable the use of cookies by changing the setting in your web browser.
 
 If you have any questions about this Privacy Policy, contact us at info@earthtrekkers.com.
 
-_Last Updated November 11, 2016_
+_Last Updated November 27, 2017_
