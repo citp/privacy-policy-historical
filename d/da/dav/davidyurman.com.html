@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the davidyurman.com privacy policy that was archived on 2017-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627042642id_/http%3A//www.davidyurman.com/david-yurman/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the davidyurman.com privacy policy that was archived on 2017-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171217203208id_/http%3A//www.davidyurman.com/david-yurman/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xmlns:fb="http://ogp.me/ns/fb#" class=" js no-touch svg"><head>
 
@@ -7,6 +7,23 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta name="google-site-verification" content="8x7RhWhXUaND9yxKNWKnhi3LaBi9epE2cS6mmdg-LxU">
+<!--<div class="parbase clientcontext"><script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/shared.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/lodash/modern.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.js"></script>
+<script type="text/javascript">
+    $CQ(function() {
+        CQ_Analytics.SegmentMgr.loadSegments("\/etc\/segmentation");
+        CQ_Analytics.ClientContextUtils.init("\/etc\/clientcontext\/default", "\/content\/david\u002Dyurman\/en_us\/david\u002Dyurman\/privacy\u002Dpolicy");
+
+        
+    });
+</script>
+</div>
+-->
 
 
 
@@ -18,7 +35,7 @@
 <title>Online Privacy Notice</title>
 
 <!-- sdesktop favicon -->
-<link rel="shortcut icon" href="/etc/designs/davidyurman/clientlibs/base/images/favicon.ico" type="image/x-icon">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/dtagent_ICA23bjprstvx_6000500121015.js" data-dtconfig="rid=RID_-1506604855|rpid=1202676393|domain=davidyurman.com|lab=1|bandwidth=300|tp=500,50,0,1|reportUrl=/dynaTraceMonitor|agentUri=/dtagent_ICA23bjprstvx_6000500121015.js"></script><link rel="shortcut icon" href="/etc/designs/davidyurman/clientlibs/base/images/favicon.ico" type="image/x-icon">
 <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
 <link rel="apple-touch-icon-precomposed" href="/etc/designs/davidyurman/clientlibs/base/images/apple-touch-icon-precomposed.png">
 <!-- For the iPad mini and the first- and second-generation iPad on iOS â¤ 6: -->
@@ -44,8 +61,8 @@
 ">
 
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-var dataLayer = {"page":{"section":"Our Company","timestamp":"2017/06/26 21:27:46","name":"Our Company/Online Privacy Notice","language":"en","type":"Services"}};
+<script type="text/javascript">
+var dataLayer = {"page":{"section":"Our Company","timestamp":"2017/12/16 18:01:28","name":"Our Company/Online Privacy Notice","language":"en","type":"Services"}};
 
 dataLayer.authentication = {"loggedin":"false"};
 
@@ -70,6 +87,7 @@ dataLayer.authentication = {"loggedin":"false"};
 
   ga('create', 'UA-43193054-1', 'auto');
   ga('require', 'linkid');
+  ga('require', 'ecommerce');
   ga('send', 'pageview');
 
 </script></div>
@@ -129,17 +147,34 @@ dataLayer.authentication = {"loggedin":"false"};
   ]);
 </script>
 <script type="text/javascript" src="/etc/designs/davidyurman/clientlibs/basefooter/js/vendor/EasyLink/mp_linkcode.js"></script>
-    <script>
-        MP.SrcUrl= decodeURIComponent ('mp_js_orgin_url'); MP.oSite=decodeURIComponent('mp_js_origin_baseUrl'); MP.tSite=decodeURIComponent('mp_js_translated_baseUrl'); MP.init();
-            window.onload = function() {
-                    var langlinks = document.querySelectorAll(".langLink"); for (var i = 0; i < langlinks.length; i++) {
-                    langlinks.item(i).onclick = function() {
-                    var lang = this.getAttribute("data-lang");
-                    var url = this.getAttribute('data-href'); MP.switchLanguage(MP.tSite==url?MP.oSite:url, lang, true); return false;
-                    }
-            } 
+<!-- mp_snippet_begins -->
+<script>
+MP.UrlLang='mp_js_current_lang';
+MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');
+MP.oSite=decodeURIComponent('mp_js_origin_baseUrl');
+MP.tSite=decodeURIComponent('mp_js_translated_baseUrl');
+MP.init();
+var mp_langLink = function() {
+    var langlinks = document.querySelectorAll('.langLink');
+    for (var i = 0; i < langlinks.length; i++) {
+        langlinks.item(i).onclick = function() {
+            MP.init();
+            var lang = this.getAttribute('data-lang');
+            var url = this.getAttribute('data-href');
+            var tSite = MP.tSite.replace(/(https?:\/\/|\/?$)/g,'');
+            url = url.replace(/(https?:\/\/|\/?$)/g,'');
+            MP.switchLanguage(tSite.search(url)!=-1?MP.oSite:url, lang, true);
+            return false;
         }
-    </script>
+    }
+};
+if(window.addEventListener){
+	window.addEventListener('load',mp_langLink,false);
+}else if(window.attachEvent){
+	window.attachEvent('onload',mp_langLink);
+}
+</script>
+<!-- mp_snippet_ends -->
 
 
 <!--  cq:includeClientLib categories="cq.foundation-main"/ -->
@@ -176,6 +211,9 @@ dataLayer.authentication = {"loggedin":"false"};
     <script type="text/javascript" src="//nexus.ensighten.com/davidyurman/dev/Bootstrap.js"></script>
 
 
+<!-- Including Zmag script--> 
+<script src="http://api.viewer.zmags.com/viewer/viewer.js" type="text/javascript"></script>
+
 <!-- Including the UV API script-->
 <script>
 !function(){function n(){function n(n){p.level=n}function e(n,e){p.info(n,"event emitted"),e=c(e||{}),e.meta=e.meta||{},e.meta.type=n,u.push(e),r(),v.listeners=f(v.listeners,function(n){return!n.disposed})}function o(n,e,o){function r(){return p.info("Replaying events"),t(function(){s(v.events,function(t){c.disposed||l(n,t.meta.type)&&e.call(o,t)})}),f}function i(){return p.info("Disposing event handler"),c.disposed=!0,f}p.info("Attaching event handler for",n);var c={type:n,callback:e,disposed:!1,context:o||window};v.listeners.push(c);var f={replay:r,dispose:i};return f}function t(n){p.info("Calling event handlers"),a++;try{n()}catch(n){p.error("UV API Error",n.stack)}a--,r()}function r(){if(0===u.length&&p.info("No more events to process"),u.length>0&&a>0&&p.info("Event will be processed later"),u.length>0&&0===a){p.info("Processing event");var n=u.shift();v.events.push(n),t(function(){s(v.listeners,function(e){if(!e.disposed&&l(e.type,n.meta.type))try{e.callback.call(e.context,n)}catch(n){p.error("Error emitting UV event",n.stack)}})})}}function i(n,e,o){var t=v.on(n,function(){e.apply(o||window,arguments),t.dispose()});return t}function s(n,e){for(var o=n.length,t=0;t<o;t++)e(n[t],t)}function c(n){var e={};for(var o in n)n.hasOwnProperty(o)&&(e[o]=n[o]);return e}function l(n,e){return"string"==typeof n?n===e:n.test(e)}function f(n,e){for(var o=n.length,t=[],r=0;r<o;r++)e(n[r])&&t.push(n[r]);return t}var u=[],a=0,p={info:function(){p.level>n.INFO||console&&console.info&&console.info.apply(console,arguments)},error:function(){p.level>n.ERROR||console&&console.error&&console.error.apply(console,arguments)}};n.ALL=0,n.INFO=1,n.ERROR=2,n.OFF=3,n(n.ERROR);var v={on:o,emit:e,once:i,events:[],listeners:[],logLevel:n};return v}"object"==typeof module&&module.exports?module.exports=n:window&&void 0===window.uv&&(window.uv=n())}();
@@ -185,7 +223,7 @@ dataLayer.authentication = {"loggedin":"false"};
 <!-- <script src='//dd6zx4ibq538k.cloudfront.net/smartserve-4894.js' async defer></script> -->
 
 <!-- Including the smartserve.js script  for Stage-->
-<script src="//dd6zx4ibq538k.cloudfront.net/smartserve-4895.js" async="" defer=""></script>
+<script src="//dd6zx4ibq538k.cloudfront.net/smartserve-4894.js" async="" defer=""></script>
 
 
     <!-- Open Graph tags https://developers.facebook.com/docs/reference/opengraph/ -->
@@ -225,12 +263,13 @@ dataLayer.authentication = {"loggedin":"false"};
 		<div class="mobilenavigation parbase mobileHeaderNavigation">
 
 <!-- cq:includeClientLib categories="cq.shared"/-->
+
 <script type="text/javascript">
 function logout() {
-	/*$('<form action="/content/david-yurman.commerce.logout.html?resource=\/content\/david\u002Dyurman\/en_us.html"></form>').appendTo('body').submit();*/
-	
-	var origin = window.location.origin;
-	window.location.href = origin + '/content/david-yurman.commerce.logout.html?resource=\x2Fuser\x2Flogin.html';
+  /*$('<form action="/content/david-yurman.commerce.logout.html?resource=\/content\/david\u002Dyurman\/en_us.html"></form>').appendTo('body').submit();*/
+  
+  var origin = window.location.origin;
+  window.location.href = origin + '/content/david-yurman.commerce.logout.html?resource=\x2Fuser\x2Flogin.html';
 }
 </script>
 
@@ -239,1037 +278,1432 @@ function logout() {
         <form id="frm-search" method="GET" action="/search.html">
           <div class="frm-search-txt">
             <input type="text" placeholder="Search" name="keyword" title="search" id="mobileSearchBox">
-			<div id="mobileSearchResults"></div>
+      <div id="mobileSearchResults"></div>
           </div>
           <input type="submit" value="Submit" id="mobileSearchBtn">
         </form>
-		<ul class="menu-main">
-		    
-		       
-		           <li class="menu-parent menu-closed" data-active-group="category">
-		              <div class="menu-parent-title" data-target="/products/women.html">
+    <ul class="menu-main">
+        
+           
+               <li class="menu-parent menu-closed" data-active-group="category">
+                  <div class="menu-parent-title" data-target="/products/women.html">
                     Women
                     <span class="expandCollapseIcon"></span>
                   </div>
-		              <div class="menu-child-content">
-		                
-			                <ul class="menu-child-groups">
-			                    
-			                      <li data-open="category">Categories</li>
-			                    
-			                    
-			                      <li data-open="collection">Collections</li>
-			                    
-			                    
-			                      <li data-open="shops">DY Shops</li>
-			                   
-			                </ul>
-			             
-		                 <ul data-group="category" class="menu-child-items">
-		                    
-		                        <li class="categoryLink" data-target="/products/women/new-designs.html">
-                                  
-                                   <a href="/products/women/new-designs.html">New Designs</a>
-                                   
+                  <div class="menu-child-content">
+                    
+                      <ul class="menu-child-groups">
+                          
+                            <li data-open="category">Categories</li>
+                          
+                          
+                            <li data-open="collection">Collections</li>
+                          
+                          
+                            <li data-open="shops">DY Shops</li>
+                         
+                      </ul>
+                   
+
+                     <ul data-group="category" class="menu-child-items">
+
+                        <!-- Category Landing page title section -->
+                        
+                        
+                           <li class="menu-landing-pageLink " data-target="/products/women.html">Discover Women's</li>
+                         
+                        
+                        
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/women/new-designs.html">New Designs</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                              <li class="categoryLink menu-child-link">
+                                <span class="categoryExpandCollapseIcon subcategoryHeader"></span>
+                                <a href="#" class="subcategoryHeader">Earrings</a>
+
+                                  <ul class="paddingLeft0">
+                                      <li class="menu-landing-pageLink" data-target="/products/women/earrings.html">View All</li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/earrings/chandelier.html?section=0" class="cppLink">Chandelier </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/earrings/drop.html?section=0" class="cppLink">Drop </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/earrings/hoop.html?section=0" class="cppLink">Hoop </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/earrings/stud.html?section=0" class="cppLink">Stud </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                  </ul>
+                              </li>
+                            
+                            
+                                                         
+                       
+
+                          
+                            
+                              <li class="categoryLink menu-child-link">
+                                <span class="categoryExpandCollapseIcon subcategoryHeader"></span>
+                                <a href="#" class="subcategoryHeader">Bracelets</a>
+
+                                  <ul class="paddingLeft0">
+                                      <li class="menu-landing-pageLink" data-target="/products/women/bracelets.html">View All</li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/bracelets/bangle.html?section=0" class="cppLink">Bangle </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/bracelets/bead.html?section=0" class="cppLink">Bead </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/bracelets/chain.html?section=0" class="cppLink">Chain </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/bracelets/cuff.html?section=0" class="cppLink">Cuff </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/bracelets/linked.html?section=0" class="cppLink">Linked </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                  </ul>
+                              </li>
+                            
+                            
+                                                         
+                       
+
+                          
+                            
+                              <li class="categoryLink menu-child-link">
+                                <span class="categoryExpandCollapseIcon subcategoryHeader"></span>
+                                <a href="#" class="subcategoryHeader">Necklaces &amp; Chains</a>
+
+                                  <ul class="paddingLeft0">
+                                      <li class="menu-landing-pageLink" data-target="/products/women/necklaces-and-chains.html">View All</li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/necklaces-and-chains/amulets.html?section=0" class="cppLink">Amulets </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/necklaces-and-chains/bead.html?section=0" class="cppLink">Bead </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/necklaces-and-chains/chain.html?section=0" class="cppLink">Chain </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/necklaces-and-chains/chain-with-station.html?section=0" class="cppLink">Chain with Station </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/necklaces-and-chains/collar.html?section=0" class="cppLink">Collar </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/necklaces-and-chains/pearls.html?section=0" class="cppLink">Pearls </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/necklaces-and-chains/enhancer.html?section=0" class="cppLink">Pendant </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/necklaces-and-chains/pendant.html?section=0" class="cppLink">Pendant Necklace </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/necklaces-and-chains/lariat.html?section=0" class="cppLink">Y Necklace </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                  </ul>
+                              </li>
+                            
+                            
+                                                         
+                       
+
+                          
+                            
+                              <li class="categoryLink menu-child-link">
+                                <span class="categoryExpandCollapseIcon subcategoryHeader"></span>
+                                <a href="#" class="subcategoryHeader">Rings &amp; Bands</a>
+
+                                  <ul class="paddingLeft0">
+                                      <li class="menu-landing-pageLink" data-target="/products/women/rings.html">View All</li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/rings/band.html?section=0" class="cppLink">Band </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/rings/statement.html?section=0" class="cppLink">Statement </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/rings/petite.html?section=0" class="cppLink">Petite </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/rings/signet-pinky.html?section=0" class="cppLink">Signet </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/women/rings/wedding-bands.html?section=0" class="cppLink">Wedding Bands </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                  </ul>
+                              </li>
+                            
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/women/watches.html">Watches</li>
+                            
+                                                         
+                       
+                   </ul>
+                   <ul data-group="collection" class="menu-child-items">
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/albion.html">Albion®</a>
+                                 
                                </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/women/earrings.html">
-                                  
-                                     <span class="categoryExpandCollapseIcon"></span>
-                                  
-                                   <a href="/products/women/earrings.html">Earrings</a>
-                                   
-                                       <ul>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/earrings/chandelier.html?section=0">Chandelier </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/earrings/drop.html?section=0">Drop </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/earrings/hoop.html?section=0">Hoop </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/earrings/stud.html?section=0">Stud </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                       </ul>
-                                   
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/barrels.html">Barrels</a>
+                                 
                                </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/women/bracelets.html">
-                                  
-                                     <span class="categoryExpandCollapseIcon"></span>
-                                  
-                                   <a href="/products/women/bracelets.html">Bracelets</a>
-                                   
-                                       <ul>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/bracelets/bangle.html?section=0">Bangle </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/bracelets/bead.html?section=0">Bead </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/bracelets/chain.html?section=0">Chain </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/bracelets/cuff.html?section=0">Cuff </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/bracelets/linked.html?section=0">Linked </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                       </ul>
-                                   
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/belmont.html">Belmont®</a>
+                                 
                                </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/women/necklaces-and-chains.html">
-                                  
-                                     <span class="categoryExpandCollapseIcon"></span>
-                                  
-                                   <a href="/products/women/necklaces-and-chains.html">Necklaces &amp; Chains</a>
-                                   
-                                       <ul>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/necklaces-and-chains/bead.html?section=0">Bead </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/necklaces-and-chains/chain.html?section=0">Chain </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/necklaces-and-chains/chain-with-station.html?section=0">Chain with Station </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/necklaces-and-chains/collar.html?section=0">Collar </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/necklaces-and-chains/pearls.html?section=0">Pearls </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/necklaces-and-chains/enhancer.html?section=0">Pendant </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/necklaces-and-chains/pendant.html?section=0">Pendant Necklace </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/necklaces-and-chains/lariat.html?section=0">Y Necklace </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                       </ul>
-                                   
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/bijoux.html">Bijoux</a>
+                                 
                                </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/women/rings.html">
-                                  
-                                     <span class="categoryExpandCollapseIcon"></span>
-                                  
-                                   <a href="/products/women/rings.html">Rings</a>
-                                   
-                                       <ul>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/rings/band.html?section=0">Band </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/rings/statement.html?section=0">Statement </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/rings/petite.html?section=0">Petite </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/rings/signet-pinky.html?section=0">Signet </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/women/rings/wedding-bands.html?section=0">Wedding Bands </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                       </ul>
-                                   
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/cable.html">Cable</a>
+                                 
                                </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/women/watches.html">
-                                  
-                                   <a href="/products/women/watches.html">Watches</a>
-                                   
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/cable-buckle-collection.html">Cable Buckle®</a>
+                                 
                                </li>
-		                   
-		               </ul>
-		               <ul data-group="collection" class="menu-child-items">
-	                       
-	                           <li><a href="/products/women/collections/albion.html">Albion®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/cable-collectible.html">Cable Collectibles®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/belmont.html">Belmont®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/cable-wrap.html">Cable Wrap</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/bijoux.html">Bijoux</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/chain.html">Chain</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/cable.html">Cable</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/chatelaine.html">Chatelaine®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/cable-buckle-collection.html">Cable Buckle® Collection</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/confetti.html">Confetti</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/cable-collectible.html">Cable Collectibles®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/continuance.html">Continuance®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/cable-wrap.html">Cable Wrap</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/crossover.html">Crossover®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/chain.html">Chain</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/dy-bel-aire.html">DY Bel Aire</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/chatelaine.html">Chatelaine®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/logo.html">DY Signature</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/confetti.html">Confetti</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/guilin.html">Guilin</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/continuance.html">Continuance</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/the-hampton-cable-collection.html">Hampton Cable Collection®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/crossover.html">The Crossover® Collection</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/helena.html">Helena</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/logo.html">DY Signature</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/labyrinth.html">Labyrinth®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/guilin.html">Guilin</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/midnight-ice.html">Midnight Ice®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/the-hampton-cable-collection.html">Hampton Cable Collection®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/mobile.html">Mobile</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/helena.html">Helena</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/mustique.html">Mustique</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/labyrinth.html">Labyrinth®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/oceanica.html">Oceanica</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/midnight-ice.html">Midnight Ice®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/osetra.html">Osetra®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/mobile.html">Mobile</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/pave-flex.html">Pave Flex</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/mustique.html">Mustique</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/pearl-classics.html">Pearl Classics</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/oceanica.html">Oceanica</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/petite-pave.html">Petite Pavé</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/osetra.html">Osetra®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/pinky-rings.html">Pinky Rings</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/pave-flex.html">Pavéflex</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/pure-form.html">Pure Form</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/pearl-classics.html">Pearl Classics</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/renaissance.html">DY Renaissance®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/petite-pave.html">Petite Pavé</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/sculpted-cable.html">Sculpted Cable</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/pinky-rings.html">Pinky Rings</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/solari.html">Solari</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/pure-form.html">Pure Form®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/starburst.html">Starburst</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/renaissance.html">DY Renaissance®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/stax.html">Stax</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/sculpted-cable.html">Sculpted Cable</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/supernova.html">Supernova</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/solari.html">Solari</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/tempo.html">Tempo</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/starburst.html">Starburst</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/venetian-quatrefoil.html">Venetian Quatrefoil®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/stax.html">Stax</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/wheaton.html">Wheaton®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/supernova.html">Supernova</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/willow.html">Willow</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/tempo.html">Tempo</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/wisteria.html">Wisteria</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/venetian-quatrefoil.html">Venetian Quatrefoil®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/x-collection.html">X Collection</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/wheaton.html">Wheaton®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/wellesley-link.html">Wellesley Link</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/willow.html">Willow</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/women/collections/book-collection.html">The Book Collection</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/women/collections/wisteria.html">Wisteria</a>
-	                               
-                               </li>
-	                       
-	                           <li><a href="/products/women/collections/x-collection.html">X Collection</a>
-	                               
-                               </li>
-	                       
-	                           <li><a href="/products/women/collections/Continuance.html">Continuance™</a>
-	                               
-                               </li>
-	                       
-		               </ul>
-		               <ul data-group="shops" class="menu-child-items">
-	                       
-	                           <li><a href="/products/women/dy-shops/gold.html">The Gold Shop</a>
-	                               
-	                           </li>
-	                       
-	                           <li><a href="/products/women/dy-shops/silver.html">The Silver Shop</a>
-	                               
-	                           </li>
-	                       
-	                           <li><a href="/products/women/dy-shops/pearl.html">The Pearl Shop</a>
-	                               
-	                           </li>
-	                       
-	                           <li><a href="/products/women/dy-shops/jewelry-under-500.html">Jewelry Under $500</a>
-	                               
-	                           </li>
-	                       
-	                           <li><a href="/products/women/dy-shops/jewelry-under-1000.html">Jewelry Under $1000</a>
-	                               
-	                           </li>
-	                       
-		               </ul>
-		             <div class="scroll-fade"></div>
-		           </div>
-		         </li>
-		       
-		   
-		       
-		           <li class="menu-parent menu-closed" data-active-group="category">
-		              <div class="menu-parent-title" data-target="/products/men.html">
+                         
+                   </ul>
+                   <ul data-group="shops" class="menu-child-items">
+                         
+                             <li class="sub-category-li"><a href="#" data-target="/products/women/dy-shops/gold.html" class="cppLink">Gold Shop</a>
+                                 
+                             </li>
+                         
+                             <li class="sub-category-li"><a href="#" data-target="/products/women/dy-shops/silver.html" class="cppLink">Silver Shop</a>
+                                 
+                             </li>
+                         
+                             <li class="sub-category-li"><a href="#" data-target="/products/women/dy-shops/pearl.html" class="cppLink">Pearl Shop</a>
+                                 
+                             </li>
+                         
+                             <li class="sub-category-li"><a href="#" data-target="/products/women/dy-shops/jewelry-under-500.html" class="cppLink">Jewelry Under $500</a>
+                                 
+                             </li>
+                         
+                             <li class="sub-category-li"><a href="#" data-target="/products/women/dy-shops/jewelry-under-1000.html" class="cppLink">Jewelry Under $1000</a>
+                                 
+                             </li>
+                         
+                             <li class="sub-category-li"><a href="#" data-target="/products/women/dy-shops/dy-bel-aire-shop.html" class="cppLink">The DY Bel Aire Shop</a>
+                                 
+                             </li>
+                         
+                             <li class="sub-category-li"><a href="#" data-target="/products/women/dy-shops/transformative-designs.html" class="cppLink">Transformative Designs</a>
+                                 
+                             </li>
+                         
+                             <li class="sub-category-li"><a href="#" data-target="/products/women/dy-shops/gold-and-black.html" class="cppLink">Gold and Black Shop</a>
+                                 
+                             </li>
+                         
+                             <li class="sub-category-li"><a href="#" data-target="/products/women/dy-shops/stacked-bracelets.html" class="cppLink">Stacked Bracelets</a>
+                                 
+                             </li>
+                         
+                             <li class="sub-category-li"><a href="#" data-target="/products/women/dy-shops/statement-rings.html" class="cppLink">Statement Rings</a>
+                                 
+                             </li>
+                         
+                   </ul>
+                 <div class="scroll-fade"></div>
+               </div>
+             </li>
+           
+       
+           
+               <li class="menu-parent menu-closed" data-active-group="category">
+                  <div class="menu-parent-title" data-target="/products/men.html">
                     Men
                     <span class="expandCollapseIcon"></span>
                   </div>
-		              <div class="menu-child-content">
-		                
-			                <ul class="menu-child-groups">
-			                    
-			                      <li data-open="category">Categories</li>
-			                    
-			                    
-			                      <li data-open="collection">Collections</li>
-			                    
-			                    
-			                      <li data-open="shops">DY Shops</li>
-			                   
-			                </ul>
-			             
-		                 <ul data-group="category" class="menu-child-items">
-		                    
-		                        <li class="categoryLink" data-target="/products/men/new-designs.html">
-                                  
-                                   <a href="/products/men/new-designs.html">New Designs</a>
-                                   
+                  <div class="menu-child-content">
+                    
+                      <ul class="menu-child-groups">
+                          
+                            <li data-open="category">Categories</li>
+                          
+                          
+                            <li data-open="collection">Collections</li>
+                          
+                          
+                            <li data-open="shops">DY Shops</li>
+                         
+                      </ul>
+                   
+
+                     <ul data-group="category" class="menu-child-items">
+
+                        <!-- Category Landing page title section -->
+                        
+                        
+                           <li class="menu-landing-pageLink " data-target="/products/men.html">Discover Men's</li>
+                         
+                        
+                        
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/men/new-designs.html">New Designs</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                              <li class="categoryLink menu-child-link">
+                                <span class="categoryExpandCollapseIcon subcategoryHeader"></span>
+                                <a href="#" class="subcategoryHeader">Bracelets</a>
+
+                                  <ul class="paddingLeft0">
+                                      <li class="menu-landing-pageLink" data-target="/products/men/bracelets.html">View All</li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/bracelets/bead.html?section=0" class="cppLink">Bead </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/bracelets/cuff.html?section=0" class="cppLink">Cuff </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/bracelets/chain.html?section=0" class="cppLink">Chain </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/bracelets/leather.html?section=0" class="cppLink">Leather </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/bracelets/rubber-and-cord.html?section=0" class="cppLink">Rubber and Cord </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                  </ul>
+                              </li>
+                            
+                            
+                                                         
+                       
+
+                          
+                            
+                              <li class="categoryLink menu-child-link">
+                                <span class="categoryExpandCollapseIcon subcategoryHeader"></span>
+                                <a href="#" class="subcategoryHeader">Chains &amp; Pendants</a>
+
+                                  <ul class="paddingLeft0">
+                                      <li class="menu-landing-pageLink" data-target="/products/men/necklaces-and-tags.html">View All</li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/necklaces-and-tags/amulets.html?section=0" class="cppLink">Amulets </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/necklaces-and-tags/bead.html?section=0" class="cppLink">Bead </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/necklaces-and-tags/chain.html?section=0" class="cppLink">Chain </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/necklaces-and-tags/pendants.html?section=0" class="cppLink">Pendants </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/necklaces-and-tags/tags.html?section=0" class="cppLink">Tags </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                  </ul>
+                              </li>
+                            
+                            
+                                                         
+                       
+
+                          
+                            
+                              <li class="categoryLink menu-child-link">
+                                <span class="categoryExpandCollapseIcon subcategoryHeader"></span>
+                                <a href="#" class="subcategoryHeader">Rings &amp; Bands</a>
+
+                                  <ul class="paddingLeft0">
+                                      <li class="menu-landing-pageLink" data-target="/products/men/rings.html">View All</li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/rings/band.html?section=0" class="cppLink">Band </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/rings/signet.html?section=0" class="cppLink">Signet </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/rings/wedding-bands.html?section=0" class="cppLink">Wedding Bands </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                  </ul>
+                              </li>
+                            
+                            
+                                                         
+                       
+
+                          
+                            
+                              <li class="categoryLink menu-child-link">
+                                <span class="categoryExpandCollapseIcon subcategoryHeader"></span>
+                                <a href="#" class="subcategoryHeader">Accessories</a>
+
+                                  <ul class="paddingLeft0">
+                                      <li class="menu-landing-pageLink" data-target="/products/men/accessories.html">View All</li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/accessories/belt-buckle.html?section=0" class="cppLink">Belt Buckle </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/accessories/cufflinks-and-studsets.html?section=0" class="cppLink">Cufflinks and Studsets </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/accessories/keychain.html?section=0" class="cppLink">Keychain </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/accessories/knife.html?section=0" class="cppLink">Knife </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/men/accessories/money-clip.html?section=0" class="cppLink">Money Clip </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                  </ul>
+                              </li>
+                            
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/men/watches.html">Watches</li>
+                            
+                                                         
+                       
+                   </ul>
+                   <ul data-group="collection" class="menu-child-items">
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/anvil.html">Anvil</a>
+                                 
                                </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/men/bracelets.html">
-                                  
-                                     <span class="categoryExpandCollapseIcon"></span>
-                                  
-                                   <a href="/products/men/bracelets.html">Bracelets</a>
-                                   
-                                       <ul>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/bracelets/bead.html?section=0">Bead </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/bracelets/cuff.html?section=0">Cuff </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/bracelets/chain.html?section=0">Chain </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/bracelets/leather.html?section=0">Leather </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/bracelets/rubber-and-cord.html?section=0">Rubber and Cord </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                       </ul>
-                                   
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/armory.html">Armory®</a>
+                                 
                                </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/men/necklaces-and-tags.html">
-                                  
-                                     <span class="categoryExpandCollapseIcon"></span>
-                                  
-                                   <a href="/products/men/necklaces-and-tags.html">Chains &amp; Pendants</a>
-                                   
-                                       <ul>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/necklaces-and-tags/chain.html?section=0">Chain </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/necklaces-and-tags/bead.html?section=0">Bead </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/necklaces-and-tags/pendants.html?section=0">Pendants </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                       </ul>
-                                   
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/cable-classic.html">Cable Classics Collection®</a>
+                                 
                                </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/men/rings.html">
-                                  
-                                     <span class="categoryExpandCollapseIcon"></span>
-                                  
-                                   <a href="/products/men/rings.html">Rings</a>
-                                   
-                                       <ul>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/rings/band.html?section=0">Band </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/rings/signet.html?section=0">Signet </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/rings/wedding-bands.html?section=0">Wedding Bands </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                       </ul>
-                                   
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/the-chain-collection.html">Chain</a>
+                                 
                                </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/men/accessories.html">
-                                  
-                                     <span class="categoryExpandCollapseIcon"></span>
-                                  
-                                   <a href="/products/men/accessories.html">Accessories</a>
-                                   
-                                       <ul>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/accessories/belt-buckle.html?section=0">Belt Buckle </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/accessories/cufflinks-and-studsets.html?section=0">Cufflinks and Studsets </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/accessories/keychain.html?section=0">Keychain </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/accessories/knife.html?section=0">Knife </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/men/accessories/money-clip.html?section=0">Money Clip </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                       </ul>
-                                   
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/chevron.html">Chevron</a>
+                                 
                                </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/men/watches.html">
-                                  
-                                   <a href="/products/men/watches.html">Watches</a>
-                                   
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/amulets.html">David Yurman Amulets Collection</a>
+                                 
                                </li>
-		                   
-		               </ul>
-		               <ul data-group="collection" class="menu-child-items">
-	                       
-	                           <li><a href="/products/men/collections/anvil.html">Anvil</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/exotic-stone.html">Exotic Stone</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/armory.html">Armory®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/forged-carbon.html">Forged Carbon</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/cable-classic.html">Cable Classics Collection®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/fortune.html">DY Fortune</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/the-chain-collection.html">Chain</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/graphic-cable.html">Graphic Cable</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/chevron.html">Chevron</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/hex.html">Hex</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/amulets.html">David Yurman Amulets Collection</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/knife-edge.html">Knife Edge</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/exotic-stone.html">Exotic Stone</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/maritime.html">Maritime®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/forged-carbon.html">Forged Carbon</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/meteorite.html">Meteorite</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/fortune.html">DY Fortune</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/modern-cable.html">Modern Cable</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/frontier.html">Frontier</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/naturals.html">Naturals Collection®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/graphic-cable.html">Graphic Cable</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/pave.html">Pavé</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/knife-edge.html">Knife Edge</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/petrvs.html">Petrvs®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/maritime.html">Maritime®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/shipwreck.html">Shipwreck</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/meteorite.html">Meteorite</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/skull.html">Skull</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/modern-cable.html">Modern Cable</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/southwest.html">Southwest</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/naturals.html">Naturals Collection®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/spiritual-beads.html">Spiritual Beads</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/pave.html">Pavé</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/streamline.html">Streamline®</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/petrvs.html">Petrvs®</a>
-	                               
+                         
+                             <li class="sub-category-li"><a class="cppLink" href="#" data-target="/products/men/collections/waves.html">Waves</a>
+                                 
                                </li>
-	                       
-	                           <li><a href="/products/men/collections/skull.html">Skull</a>
-	                               
-                               </li>
-	                       
-	                           <li><a href="/products/men/collections/spiritual-beads.html">Spiritual Beads</a>
-	                               
-                               </li>
-	                       
-	                           <li><a href="/products/men/collections/streamline.html">Streamline®</a>
-	                               
-                               </li>
-	                       
-	                           <li><a href="/products/men/collections/waves.html">Waves</a>
-	                               
-                               </li>
-	                       
-		               </ul>
-		               <ul data-group="shops" class="menu-child-items">
-	                       
-	                           <li><a href="/products/men/dy-shops/jewelry-under-500.html">Jewelry Under $500</a>
-	                               
-	                           </li>
-	                       
-	                           <li><a href="/products/men/dy-shops/jewelry-under-1000.html">Jewelry Under $1000</a>
-	                               
-	                           </li>
-	                       
-		               </ul>
-		             <div class="scroll-fade"></div>
-		           </div>
-		         </li>
-		       
-		   
-		       
-		           <li class="menu-parent menu-closed" data-active-group="category">
-		              <div class="menu-parent-title" data-target="/products/gifts.html">
+                         
+                   </ul>
+                   <ul data-group="shops" class="menu-child-items">
+                         
+                             <li class="sub-category-li"><a href="#" data-target="/products/men/dy-shops/jewelry-under-500.html" class="cppLink">Jewelry Under $500</a>
+                                 
+                             </li>
+                         
+                             <li class="sub-category-li"><a href="#" data-target="/products/men/dy-shops/jewelry-under-1000.html" class="cppLink">Jewelry Under $1000</a>
+                                 
+                             </li>
+                         
+                             <li class="sub-category-li"><a href="#" data-target="/products/men/dy-shops/mens-iconics.html" class="cppLink">David Yurman Iconics</a>
+                                 
+                             </li>
+                         
+                   </ul>
+                 <div class="scroll-fade"></div>
+               </div>
+             </li>
+           
+       
+           
+               <li class="menu-parent menu-closed" data-active-group="category">
+                  <div class="menu-parent-title" data-target="/products/gifts.html">
                     Gifts
                     <span class="expandCollapseIcon"></span>
                   </div>
-		              <div class="menu-child-content">
-		                
-		                 <ul data-group="category" class="menu-child-items">
-		                    
-		                        <li class="categoryLink" data-target="/products/gifts/for-her.html">
-                                  
-                                   <a href="/products/gifts/for-her.html">For Her</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/gifts/for-him.html">
-                                  
-                                   <a href="/products/gifts/for-him.html">For Him</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/gifts/for-kids.html">
-                                  
-                                     <span class="categoryExpandCollapseIcon"></span>
-                                  
-                                   <a href="/products/gifts/for-kids.html">For Kids</a>
-                                   
-                                       <ul>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/gifts/for-kids/for-girls.html?section=0">For Girls </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                               <li>
-                                                   
-                                                       
-                                                       
-                                                           <a href="/products/gifts/for-kids/for-boys.html?section=0">For Boys </a>
-                                                       
-                                                   
-                                               </li>
-                                           
-                                       </ul>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/gifts/for-home.html">
-                                  
-                                   <a href="/products/gifts/for-home.html">For Home</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/gifts/gift-card-gc00000.html">
-                                  
-                                   <a href="/products/gifts/gift-card-gc00000.html">Gift Card</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/gifts/graduation-gift-guide.html">
-                                  
-                                   <a href="/products/gifts/graduation-gift-guide.html">Graduation Gift Guide</a>
-                                   
-                               </li>
-		                   
-		               </ul>
-		               <ul data-group="collection" class="menu-child-items">
-	                       
-		               </ul>
-		               <ul data-group="shops" class="menu-child-items">
-	                       
-		               </ul>
-		             <div class="scroll-fade"></div>
-		           </div>
-		         </li>
-		       
-		   
-		       
-		           <li class="menu-parent menu-closed" data-active-group="category">
-		              <div class="menu-parent-title" data-target="/products/wedding.html">
+                  <div class="menu-child-content">
+                    
+
+                     <ul data-group="category" class="menu-child-items">
+
+                        <!-- Category Landing page title section -->
+                        
+                        
+                           <li class="menu-landing-pageLink " data-target="/products/gifts.html">Discover Gifts</li>
+                         
+                        
+                        
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/gifts/holiday-gift-guide-for-her-2017.html">Gift Guide for Her</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/gifts/holiday-gift-guide-for-him-2017.html">Gift Guide for Him</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/gifts/for-kids.html">For Kids</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/gifts/for-home.html">For Home</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/gifts/gift-card-gc00000.html">Gift Card</li>
+                            
+                                                         
+                       
+                   </ul>
+                   <ul data-group="collection" class="menu-child-items">
+                         
+                   </ul>
+                   <ul data-group="shops" class="menu-child-items">
+                         
+                   </ul>
+                 <div class="scroll-fade"></div>
+               </div>
+             </li>
+           
+       
+           
+               <li class="menu-parent menu-closed" data-active-group="category">
+                  <div class="menu-parent-title" data-target="/products/wedding.html">
                     Engagement
                     <span class="expandCollapseIcon"></span>
                   </div>
-		              <div class="menu-child-content">
-		                
-		                 <ul data-group="category" class="menu-child-items">
-		                    
-		                        <li class="categoryLink" data-target="/products/wedding/engagement-rings.html">
-                                  
-                                   <a href="/products/wedding/engagement-rings.html">Engagement Rings</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/wedding/wedding-bands.html">
-                                  
-                                   <a href="/products/wedding/wedding-bands.html">Wedding Bands</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/wedding/wedding-gifts.html">
-                                  
-                                   <a href="/products/wedding/wedding-gifts.html">Wedding Gifts</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/wedding/wedding-jewelry.html">
-                                  
-                                   <a href="/products/wedding/wedding-jewelry.html">Wedding Jewelry</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/wedding/diamonds-and-artistry.html">
-                                  
-                                   <a href="/products/wedding/diamonds-and-artistry.html">Diamonds &amp; Artistry</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/products/wedding/book-an-appointment.html">
-                                  
-                                   <a href="/products/wedding/book-an-appointment.html">Book an Appointment</a>
-                                   
-                               </li>
-		                   
-		               </ul>
-		               <ul data-group="collection" class="menu-child-items">
-	                       
-		               </ul>
-		               <ul data-group="shops" class="menu-child-items">
-	                       
-		               </ul>
-		             <div class="scroll-fade"></div>
-		           </div>
-		         </li>
-		       
-		   
-		       
-		           <li class="menu-parent menu-closed" data-active-group="category">
-		              <div class="menu-parent-title" data-target="/world-of-yurman.html">
+                  <div class="menu-child-content">
+                    
+
+                     <ul data-group="category" class="menu-child-items">
+
+                        <!-- Category Landing page title section -->
+                        
+                        
+                           <li class="menu-landing-pageLink " data-target="/products/wedding.html">Discover Engagement</li>
+                         
+                        
+                        
+
+                          
+                            
+                              <li class="categoryLink menu-child-link">
+                                <span class="categoryExpandCollapseIcon subcategoryHeader"></span>
+                                <a href="#" class="subcategoryHeader">Engagement Rings</a>
+
+                                  <ul class="paddingLeft0">
+                                      <li class="menu-landing-pageLink" data-target="/products/wedding/engagement-rings.html">View All</li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/engagement-rings/dy-crossover-engagement-rings.html?section=0" class="cppLink">Crossover </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/engagement-rings/dy-capri-engagement-rings.html?section=0" class="cppLink">Capri </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/engagement-rings/dy-wisteria-engagement-rings.html?section=0" class="cppLink">Wisteria </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/engagement-rings/dy-eden-engagement-rings.html?section=0" class="cppLink">Eden </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/engagement-rings/dy-unity-engagement-rings.html?section=0" class="cppLink">Unity </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/engagement-rings/dy-lanai-engagement-rings.html?section=0" class="cppLink">Lanai </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/engagement-rings/dy-astor-engagement-rings.html?section=0" class="cppLink">Astor </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/engagement-rings/dy-delaunay-engagement-rings.html?section=0" class="cppLink">Delaunay </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                  </ul>
+                              </li>
+                            
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/wedding/bands-for-her.html">Bands For Her</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/wedding/bands-for-him.html">Bands for Him</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                              <li class="categoryLink menu-child-link">
+                                <span class="categoryExpandCollapseIcon subcategoryHeader"></span>
+                                <a href="#" class="subcategoryHeader">Wedding Gifts</a>
+
+                                  <ul class="paddingLeft0">
+                                      <li class="menu-landing-pageLink" data-target="/products/wedding/wedding-gifts.html">View All</li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/wedding-gifts/the-bride.html?section=0" class="cppLink">The Bride </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/wedding-gifts/the-groom.html?section=0" class="cppLink">The Groom </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/wedding-gifts/the-couple.html?section=0" class="cppLink">The Couple </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/wedding-gifts/the-groomsmen.html?section=0" class="cppLink">The Groomsmen </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/wedding-gifts/the-bridesmaids.html?section=0" class="cppLink">The Bridesmaids </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/wedding-gifts/the-moms.html?section=0" class="cppLink">The Moms </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                      <li class="sub-category-li">
+                                        
+                                          
+                                          
+                                             <a href="#" data-target="/products/wedding/wedding-gifts/the-flower-girl.html?section=0" class="cppLink">The Flower Girl </a>
+                                          
+                                        
+                                      </li>
+                                    
+                                  </ul>
+                              </li>
+                            
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/wedding/wedding-day-jewelry-for-her.html">Wedding Day Jewelry For Her</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/wedding/wedding-day-jewelry-for-him.html">Wedding Day Jewelry For Him</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/wedding/diamonds-and-artistry.html">Diamonds &amp; Artistry</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/products/wedding/book-an-appointment.html">Book an Appointment</li>
+                            
+                                                         
+                       
+                   </ul>
+                   <ul data-group="collection" class="menu-child-items">
+                         
+                   </ul>
+                   <ul data-group="shops" class="menu-child-items">
+                         
+                   </ul>
+                 <div class="scroll-fade"></div>
+               </div>
+             </li>
+           
+       
+           
+               <li class="menu-parent menu-closed" data-active-group="category">
+                  <div class="menu-parent-title" data-target="/world-of-yurman.html">
                     World of Yurman
                     <span class="expandCollapseIcon"></span>
                   </div>
-		              <div class="menu-child-content">
-		                
-		                 <ul data-group="category" class="menu-child-items">
-		                    
-		                        <li class="categoryLink" data-target="/world-of-yurman/pearl.html">
-                                  
-                                   <a href="/world-of-yurman/pearl.html">Pearls</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/world-of-yurman/spring-2017.html">
-                                  
-                                   <a href="/world-of-yurman/spring-2017.html">2017 Spring Campaign</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/world-of-yurman/young-artists.html">
-                                  
-                                   <a href="/world-of-yurman/young-artists.html">The David Yurman Young Artist Prize</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/world-of-yurman/when-art-meets-design.html">
-                                  
-                                   <a href="/world-of-yurman/when-art-meets-design.html">Milan Fashion Week</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/world-of-yurman/heritage.html">
-                                  
-                                   <a href="/world-of-yurman/heritage.html">Heritage</a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/world-of-yurman/high-jewelry.html">
-                                  
-                                   <a href="/world-of-yurman/high-jewelry.html">High Jewelry </a>
-                                   
-                               </li>
-		                   
-		                        <li class="categoryLink" data-target="/world-of-yurman/films.html">
-                                  
-                                   <a href="/world-of-yurman/films.html">Films</a>
-                                   
-                               </li>
-		                   
-		               </ul>
-		               <ul data-group="collection" class="menu-child-items">
-	                       
-		               </ul>
-		               <ul data-group="shops" class="menu-child-items">
-	                       
-		               </ul>
-		             <div class="scroll-fade"></div>
-		           </div>
-		         </li>
-		       
-		   
-		</ul>
-		<ul class="menu-extra">
-          <li class="findstore"><a href="/store.html" class="icon-location">Stores</a></li>
-        
-            
-                <li class="register"><a href="/user/login.html" class="icon-user">Register / Login</a></li>
-            
-            
-        
-        
-        
+                  <div class="menu-child-content">
+                    
 
+                     <ul data-group="category" class="menu-child-items">
 
+                        <!-- Category Landing page title section -->
+                        
+                        
+                           <li class="menu-landing-pageLink " data-target="/world-of-yurman.html">Discover World of Yurman</li>
+                         
+                        
+                        
 
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/world-of-yurman/david-yurman-cable.html">David Yurman Cable Book</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/world-of-yurman/fall-campaign-2017.html">Fall Collections</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/world-of-yurman/pure-form.html">Pure Form</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/world-of-yurman/david-yurman-iconics.html">David Yurman Iconics</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/world-of-yurman/hex-collection.html">Hex Collection</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/world-of-yurman/dy-bel-aire.html">DY Bel Aire</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/world-of-yurman/heritage.html">Heritage</li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/world-of-yurman/high-jewelry.html">High Jewelry </li>
+                            
+                                                         
+                       
+
+                          
+                            
+                            
+                              <li class="menu-landing-pageLink" data-target="/world-of-yurman/films.html">Films</li>
+                            
+                                                         
+                       
+                   </ul>
+                   <ul data-group="collection" class="menu-child-items">
+                         
+                   </ul>
+                   <ul data-group="shops" class="menu-child-items">
+                         
+                   </ul>
+                 <div class="scroll-fade"></div>
+               </div>
+             </li>
+           
+       
     </ul>
+    <ul class="menu-extra">
+      <li class="findstore"><a href="/store.html" class="icon-location">Find a Store</a></li>
+      
+          
+            <li class="register"><a href="/user/login.html" class="icon-user">Register/Login</a></li>
+          
+          
+      
+      
+      
+
+
+
+	<li class="languages">
+<!--mp_global_switch_begins-->
+<a mporgnav="" class="user-locale" href="#" onclick="return chooser();function chooser(){var script=document.createElement('SCRIPT');script.src='https://davidyurman.mpeasylink.com/mpel/mpel_chooser.js';document.body.appendChild(script);return false;}" title="Global Switch">Choose Language</a>
+<!--mp_global_switch_ends-->
+	</li>
+
+      
+    </ul>
+    
+
+
+
+
+
+    
+    
+        <ul class="menu-contactus hide">
+          <li><h3 class="headerTxt">Contact Customer Service</h3></li><li>
+            
+                
+                    
+                    
+                    
+                    
+                    
+                      </li><li class="contactNum"><a href="tel:1-888-398-7626">1-888-DYURMAN (1-888-398-7626)</a></li>
+                    
+                    
+                
+            
+                
+                    
+                    
+                      <li class="chat-with-us"><div id="lpButtonDiv-customerservice"></div></li>
+                    
+                    
+                    
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                    
+                    
+                    
+                        <li class="emailUs"><a href="/assistance/email.html">EMAIL US</a></li>
+                    
+                
+            
+        </ul>
+    
+
+
   </div>
 </nav></div>
 
@@ -1297,7 +1731,13 @@ function logout() {
 		<div id="header-inner">
 			<div id="menu-toggle-container">
 				<a href="#nav-mobile" id="menu-toggle"><span>Main Menu</span></a>
+                <div class="mobile-search">
+                    <a href="javascript:void(0)">
+                        <span class="icon-search"></span>
+                    </a>
+                </div>
 			</div>
+            
 			<div id="logo">
 				<div class="logo">
 
@@ -1315,35 +1755,10 @@ function logout() {
 
 <input type="hidden" id="baseStoreId" value="dy">
 <ul id="quick-links">
-	
 
-
-
-	<li class="quick-link-languages pnav-top">
-		<!--mp_global_switch_begins-->
-		<a class="user-locale icon-globe" onclick="return chooser(); function chooser(){MP.SrcUrl=unescape('mp_js_orgin_url'); MP.UrlLang='mp_js_current_lang'; MP.oSite=decodeURIComponent('mp_js_origin_baseUrl');MP.tSite=decodeURIComponent('mp_js_translated_baseUrl'); MP.init();var script=document.createElement('SCRIPT'); script.src='https://davidyurman.mpeasylink.com/mpel/mpel_chooser.js'; document.body.appendChild(script);return false;}" href="#" mporgnav="true">Language</a>
-		<!--mp_global_switch_ends-->
-	</li>
-
-	
-	<li class="quick-link-newsletter ql-drop">
-		<a class="icon-mail" href="/email-signup.html">Sign Up&nbsp;</a>
-		<div class="ql-drop-container">
-			<div class="ql-drop-content dbtip">
-				<h4 class="signup-title">Sign up to receive our emails</h4>
-                    	<form id="newsletter-add" class="field-container field-text">
-							<input type="hidden" name="PAGESOURCE" value="header">
-	        				<input type="hidden" id="emailUrl" value="/email-signup.html">
-								<div class="field-container field-text">
-									<input type="text" id="emailIdText" name="email" placeholder="Email Address" title="Email Address">
-		        				</div>	
-							<input class="btn" type="submit" value="Submit" id="newsletter-add-btn">
-						</form>
-			</div>
-		</div>
-	</li>
-	<li class="quick-link-store ql-drop"><a class="icon-location" href="/store.html">Find a Store</a>
-		<div class="parbase storeflyout">
+	<!-- Find a Store -->
+    <li class="quick-link-store"><a class="" href="/store.html">Find a Store</a>
+    <!-- <div class="parbase storeflyout">
 
 
 
@@ -1361,11 +1776,34 @@ function logout() {
         </form>
     </div>
 </div></div>
+ -->
+    </li>
 
+    <!-- Store Services - TODO - Href URL TBD. Working example of line num 31 given as hyperlink test. -->
+    <li class="">
+    	<a class="" href="/services/store-services.html">Store Services</a> 
+    </li>
+	
+	<li class="quick-link-newsletter ql-drop">
+		<a class="" href="/email-signup.html">Sign Up&nbsp;</a>
+		<div class="ql-drop-container">
+			<div class="ql-drop-content dbtip">
+				<h4 class="signup-title">Sign up to receive our emails</h4>
+                    	<form id="newsletter-add" class="field-container field-text">
+							<input type="hidden" name="PAGESOURCE" value="header">
+	        				<input type="hidden" id="emailUrl" value="/email-signup.html">
+								<div class="field-container field-text">
+									<input type="text" id="emailIdText" name="email" placeholder="Email Address" title="Email Address">
+		        				</div>	
+							<input class="btn" type="submit" value="Submit" id="newsletter-add-btn">
+						</form>
+			</div>
+		</div>
 	</li>
+
 	
 		
-			<li class="quick-link-login ql-drop" title="Sign in"><a class="icon-user" href="/user/login.html">Register/Login</a></li>
+			<li class="quick-link-login ql-drop" title="Sign in"><a class="" href="/user/login.html">Register/Login</a></li>
 		
 		
 	
@@ -1396,12 +1834,15 @@ function logout() {
 
 <div id="shop-bag-container">
 
-	<div class="mobile-search">
-		<a href="javascript:void(0)">
-			<span class="icon-search"></span>
-		</a>
+	<div class="mobile-findStore">
+        <a href="/store.html">
+            <span class="icon-findStore"></span>
+        </a>
+    </div>
+	<div class="shop-bag-icon-cont">
+		<div class="common-icon-shop-bag-shape-1 icon-shop-bag-shape-1"></div>
+		<div class="icon-shop-bag-label-text common-icon-shop-bag-2x"></div>
 	</div>
-
 	<div class="shop-bag-label">
 		<a href="/user/shopping-bag.html">
 		    <span class="shop-bag-label-text">
@@ -1518,28 +1959,110 @@ function logout() {
         
           <li id="nav-Women" class="pnav-top has-children"><a href="/products/women.html">Women</a>
             <div class="pnav-sub nav-drop">
-              <div class="nav-drop-container">
+            
+            
+          	
+          		<div class="nav-drop-container nav-drop-2column_container">
+          	
+          	
+          	
+            
+              
                 <div class="subnav-wrapper">
-                    <label class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">Shop Women</label>
+                    <label wrapper-value="0" class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">Shop Women</label>
+                    
+					
                     <ul>
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/new-designs.html">New Designs</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/new-designs.html">New Designs</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/earrings.html">Earrings</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/earrings.html">Earrings</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/bracelets.html">Bracelets</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/bracelets.html">Bracelets</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/necklaces-and-chains.html">Necklaces &amp; Chains</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/necklaces-and-chains.html">Necklaces &amp; Chains</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/rings.html">Rings</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/rings.html">Rings &amp; Bands</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/watches.html">Watches</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/watches.html">Watches</a></li>
+							
+                        
+                         
+                        
                       
-                    </ul>
-                </div>
+					  
+					  
+					  
+					  
+						</ul>
+					   </div>
+					  
+					  
+					  
+                   
+
+                <!-- Column 2 section START -->
+				
+                <div id="nav-col-2-wrap">
+                  <div class="megamenu-col-2">
+                    <div class="subnav-wrapper mega-nav-col-2">                                     	
+                  	<label class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">DY Shops</label>
+            	 		<ul>
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/gifts/holiday-gift-guide-for-her-2017.html">Gift Guide for Her</a></li> 
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/fall-campaign-2017.html">Fall Collections</a></li> 
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/dy-shops/gold.html">Gold Shop</a></li> 
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/dy-shops/silver.html">Silver Shop</a></li> 
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/dy-shops/holiday-lustrous-pearls.html">Lustrous Pearls</a></li> 
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/david-yurman-iconics.html">David Yurman Iconics</a></li> 
+                  			 
+                  		</ul>           	 	
+                    </div>
+                  </div>
+                </div> 
+				 
+				<!-- Column 2 section END -->
+
                 <div class="header-promo-wrapper">
                   
-                  	<div class="meganavpromo_4c7f meganavpromo">
+                    <div class="meganavpromo_6b16 meganavpromo">
 
 
 
@@ -1566,24 +2089,24 @@ function logout() {
 
 <div class="right-mega-nav">
 	
-        	<div class="title-text-mega title-text-italic letter-spacing-0 font-type-didot track-0 font-size-15pt">Featured Collection</div>
+        	<div class="title-text-mega title-text-italic letter-spacing-0 font-type-didot track-0 font-size-15pt">Holiday Gift Guide</div>
 	
 
 
-    <a href="/products/women/collections/albion.html"><img class="img-mega" src="//s7d2.scene7.com/is/image/DavidYurman/meganav%2D20170515%2Dwomen?$mktg$" alt=""></a>
+    <a href="/products/gifts/holiday-gift-guide-for-her-2017.html"><img class="img-mega" src="//img.davidyurman.com/is/image/DavidYurman/MEGANAV%2DWOMENS%2D20171115?$mktg$" alt=""></a>
 
     <div class="promo-box-mega">
         <div class="auto-center">
             
-            	<div class="promo-text-header font-type-didot track-0 font-size-36pt">Vibrant Tones</div>
+            	<div class="promo-text-header font-type-didot track-0 font-size-25pt">Vibrant Gestures</div>
             
 
             
-            	<p class="font-type-minion-regular track-100 font-size-17pt">The Albion<sup>®</sup> collection features vibrant<br>gemstones set in precious metals with pavéd diamonds.<br></p>
+            	<p class="font-type-minion-regular track-100 font-size-17pt">Color her style this holiday with vibrant gemstone rings set in precious metals. </p>
 			
 
 			
-                <a href="/products/women/collections/albion.html" class="border">SHOP NOW</a>
+                <a href="/products/gifts/holiday-gift-guide-for-her-2017.html" class="border">SHOP NOW</a>
 			
 
         </div> 		
@@ -1603,28 +2126,106 @@ function logout() {
         
           <li id="nav-Men" class="pnav-top has-children"><a href="/products/men.html">Men</a>
             <div class="pnav-sub nav-drop">
-              <div class="nav-drop-container">
+            
+            
+          	
+          		<div class="nav-drop-container nav-drop-2column_container">
+          	
+          	
+          	
+            
+              
                 <div class="subnav-wrapper">
-                    <label class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">Shop Men</label>
+                    <label wrapper-value="0" class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">Shop Men</label>
+                    
+					
                     <ul>
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/new-designs.html">New Designs</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/new-designs.html">New Designs</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/bracelets.html">Bracelets</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/bracelets.html">Bracelets</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/necklaces-and-tags.html">Chains &amp; Pendants</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/necklaces-and-tags.html">Chains &amp; Pendants</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/rings.html">Rings</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/rings.html">Rings &amp; Bands</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/accessories.html">Accessories</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/accessories.html">Accessories</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/watches.html">Watches</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/watches.html">Watches</a></li>
+							
+                        
+                         
+                        
                       
-                    </ul>
-                </div>
+					  
+					  
+					  
+					  
+						</ul>
+					   </div>
+					  
+					  
+					  
+                   
+
+                <!-- Column 2 section START -->
+				
+                <div id="nav-col-2-wrap">
+                  <div class="megamenu-col-2">
+                    <div class="subnav-wrapper mega-nav-col-2">                                     	
+                  	<label class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">DY Shops</label>
+            	 		<ul>
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/gifts/holiday-gift-guide-for-him-2017.html">Gift Guide for Him</a></li> 
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/dy-shops/mens-iconics.html">David Yurman Iconics</a></li> 
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/hex-collection.html">Hex Collection</a></li> 
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/anvil.html">Anvil Collection</a></li> 
+                  			 
+                  		</ul>           	 	
+                    </div>
+                  </div>
+                </div> 
+				 
+				<!-- Column 2 section END -->
+
                 <div class="header-promo-wrapper">
                   
-                  	<div class="meganavpromo_3c95 meganavpromo">
+                    <div class="meganavpromo_e375 meganavpromo">
 
 
 
@@ -1651,24 +2252,24 @@ function logout() {
 
 <div class="right-mega-nav">
 	
-        	<div class="title-text-mega title-text-italic letter-spacing-0 font-type-didot track-0 font-size-15pt">Featured Jewelry Collection</div>
+        	<div class="title-text-mega title-text-italic letter-spacing-0 font-type-didot track-0 font-size-15pt">Holiday Gift Guide</div>
 	
 
 
-    <a href="/products/men/necklaces-and-tags.html"><img class="img-mega" src="//s7d2.scene7.com/is/image/DavidYurman/meganav%2D20170419%2Dmens?$mktg$" alt=""></a>
+    <a href="/products/gifts/holiday-gift-guide-for-him-2017.html"><img class="img-mega" src="//img.davidyurman.com/is/image/DavidYurman/MEGANAV%2DMENS%2D20171115?$mktg$" alt=""></a>
 
     <div class="promo-box-mega">
         <div class="auto-center">
             
-            	<div class="promo-text-header font-type-didot track-0 font-size-36pt">Distinctive Style</div>
+            	<div class="promo-text-header font-type-didot track-0 font-size-25pt">Unique Touch</div>
             
 
             
-            	<p class="font-type-minion-regular track-100 font-size-17pt">Tags crafted in unique materials are gifts he’ll cherish.</p>
+            	<p class="font-type-minion-regular track-100 font-size-17pt">Masculine designs with unconventional details that he can wear every day. </p>
 			
 
 			
-                <a href="/products/men/necklaces-and-tags.html" class="border">SHOP NOW </a>
+                <a href="/products/gifts/holiday-gift-guide-for-him-2017.html" class="border">SHOP NOW</a>
 			
 
         </div> 		
@@ -1688,28 +2289,111 @@ function logout() {
         
           <li id="nav-Engagement" class="pnav-top has-children"><a href="/products/wedding.html">Engagement</a>
             <div class="pnav-sub nav-drop">
-              <div class="nav-drop-container">
+            
+            
+          	
+          	
+          		<div class="nav-drop-container">
+          	
+          	
+            
+              
                 <div class="subnav-wrapper">
-                    <label class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">Engagement</label>
+                    <label wrapper-value="0" class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">Engagement</label>
+                    
+					
                     <ul>
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/engagement-rings.html">Engagement Rings</a></li> 
+                      	
+                      	
+                        
+							
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/engagement-rings.html">Engagement Rings</a></li>
+							
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/wedding-bands.html">Wedding Bands</a></li> 
+                      	
+                      	
+                        
+							
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/bands-for-her.html">Bands For Her</a></li>
+							
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/wedding-gifts.html">Wedding Gifts</a></li> 
+                      	
+                      	
+                        
+							
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/bands-for-him.html">Bands for Him</a></li>
+							
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/wedding-jewelry.html">Wedding Jewelry</a></li> 
+                      	
+                      	
+                        
+							
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/wedding-gifts.html">Wedding Gifts</a></li>
+							
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/diamonds-and-artistry.html">Diamonds &amp; Artistry</a></li> 
+                      	
+                      	
+                        
+							
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/wedding-day-jewelry-for-her.html">Wedding Day Jewelry For Her</a></li>
+							
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/book-an-appointment.html">Book an Appointment</a></li> 
+                      	
+                      	
+                        
+							
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/wedding-day-jewelry-for-him.html">Wedding Day Jewelry For Him</a></li>
+							
+                         
+                        
                       
-                    </ul>
-                </div>
+                      	
+                      	
+                        
+							
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/diamonds-and-artistry.html">Diamonds &amp; Artistry</a></li>
+							
+                         
+                        
+                      
+                      	
+                      	
+                        
+							
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/wedding/book-an-appointment.html">Book an Appointment</a></li>
+							
+                         
+                        
+                      
+					  
+					  
+					  
+					  
+						</ul>
+					   </div>
+					  
+					  
+					  
+                   
+
+                <!-- Column 2 section START -->
+				 
+				<!-- Column 2 section END -->
+
                 <div class="header-promo-wrapper">
                   
-                  	<div class="meganavpromo_2b83 meganavpromo">
+                    <div class="meganavpromo_2b83 meganavpromo">
 
 
 
@@ -1740,12 +2424,12 @@ function logout() {
 	
 
 
-    <a href="/products/wedding/engagement-rings.html"><img class="img-mega" src="//s7d2.scene7.com/is/image/DavidYurman/nav%5Fengagement37?$mktg$" alt=""></a>
+    <a href="/products/wedding/engagement-rings.html"><img class="img-mega" src="//img.davidyurman.com/is/image/DavidYurman/MEGANAV%2DENGAGEMENT%5F201171214?$mktg$" alt=""></a>
 
     <div class="promo-box-mega">
         <div class="auto-center">
             
-            	<div class="promo-text-header font-type-didot track-0 font-size-36pt">Beyond Perfect</div>
+            	<div class="promo-text-header font-type-didot track-0 font-size-25pt">Beyond Perfect</div>
             
 
             
@@ -1773,28 +2457,98 @@ function logout() {
         
           <li id="nav-Gifts" class="pnav-top has-children"><a href="/products/gifts.html">Gifts</a>
             <div class="pnav-sub nav-drop">
-              <div class="nav-drop-container">
+            
+            
+          	
+          		<div class="nav-drop-container nav-drop-2column_container">
+          	
+          	
+          	
+            
+              
                 <div class="subnav-wrapper">
-                    <label class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">Shop Gifts</label>
+                    <label wrapper-value="0" class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">Shop Gifts</label>
+                    
+					
                     <ul>
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/gifts/for-her.html">For Her</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/gifts/holiday-gift-guide-for-her-2017.html">Gift Guide for Her</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/gifts/for-him.html">For Him</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/gifts/holiday-gift-guide-for-him-2017.html">Gift Guide for Him</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/gifts/for-kids.html">For Kids</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/gifts/for-kids.html">For Kids</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/gifts/for-home.html">For Home</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/gifts/for-home.html">For Home</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/gifts/gift-card-gc00000.html">Gift Card</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/gifts/gift-card-gc00000.html">Gift Card</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/gifts/graduation-gift-guide.html">Graduation Gift Guide</a></li> 
-                      
-                    </ul>
-                </div>
+					  
+					  
+					  
+					  
+						</ul>
+					   </div>
+					  
+					  
+					  
+                   
+
+                <!-- Column 2 section START -->
+				
+                <div id="nav-col-2-wrap">
+                  <div class="megamenu-col-2">
+                    <div class="subnav-wrapper mega-nav-col-2">                                     	
+                  	<label class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">DY Shops</label>
+            	 		<ul>
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/dy-shops/holiday-under-1000.html">Under $1,000 for Her</a></li> 
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/dy-shops/holiday-under-1000.html">Under $1,000 for Him</a></li> 
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/women/dy-shops/holiday-under-500.html">Under $500 for Her</a></li> 
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/products/men/dy-shops/holiday-under-500.html">Under $500 for Him</a></li> 
+                  			 
+                  		</ul>           	 	
+                    </div>
+                  </div>
+                </div> 
+				 
+				<!-- Column 2 section END -->
+
                 <div class="header-promo-wrapper">
                   
-                  	<div class="meganavpromo_b97 meganavpromo">
+                    <div class="meganavpromo_a9f5 meganavpromo">
 
 
 
@@ -1821,24 +2575,24 @@ function logout() {
 
 <div class="right-mega-nav">
 	
-        	<div class="title-text-mega title-text-italic letter-spacing-0 font-type-didot track-0 font-size-15pt">Graduation Gifts</div>
+        	<div class="title-text-mega title-text-italic letter-spacing-0 font-type-didot track-0 font-size-15pt">Just In</div>
 	
 
 
-    <a href="/world-of-yurman/newsfeed/graduation-2017.html"><img class="img-mega" src="//s7d2.scene7.com/is/image/DavidYurman/meganav%2D20140428%2Dgraduation?$mktg$" alt=""></a>
+    <a href="/products/women/collections/renaissance/renaissance-bracelet-in-aluminum-10mm-b11995-al.html"><img class="img-mega" src="//img.davidyurman.com/is/image/DavidYurman/MEGANAV%2DGIFTS%5FWOY2%2D20171115?$mktg$" alt=""></a>
 
     <div class="promo-box-mega">
         <div class="auto-center">
             
-            	<div class="promo-text-header font-type-didot track-0 font-size-36pt">Colorful Keepsakes</div>
+            	<div class="promo-text-header font-type-didot track-0 font-size-25pt">Online Exclusive</div>
             
 
             
-            	<p class="font-type-minion-regular track-100 font-size-17pt">Multi-colored stone rings pair perfectly<br>with a bright future. Honor your graduate<br>with an extraordinary Albion<sup>®</sup> ring<br>from David Yurman.<br></p>
+            	<p class="font-type-minion-regular track-100 font-size-17pt">Crafted in white for the holidays, the Aluminum Renaissance bracelet is available exclusively online for a limited time.</p>
 			
 
 			
-                <a href="/world-of-yurman/newsfeed/graduation-2017.html" class="border">SHOP NOW</a>
+                <a href="/products/women/collections/renaissance/renaissance-bracelet-in-aluminum-10mm-b11995-al.html" class="border">SHOP NOW</a>
 			
 
         </div> 		
@@ -1858,30 +2612,126 @@ function logout() {
         
           <li id="nav-World of Yurman" class="pnav-top has-children"><a href="/world-of-yurman.html">World of Yurman</a>
             <div class="pnav-sub nav-drop">
-              <div class="nav-drop-container">
+            
+            
+          	
+          		<div class="nav-drop-container nav-drop-2column_container">
+          	
+          	
+          	
+            
+              
                 <div class="subnav-wrapper">
-                    <label class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">World Of Yurman</label>
+                    <label wrapper-value="0" class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">World Of Yurman</label>
+                    
+					
                     <ul>
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/pearl.html">Pearls</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/david-yurman-cable.html">David Yurman Cable Book</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/spring-2017.html">2017 Spring Campaign</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/fall-campaign-2017.html">Fall Collections</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/young-artists.html">The David Yurman Young Artist Prize</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/pure-form.html">Pure Form</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/when-art-meets-design.html">Milan Fashion Week</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/david-yurman-iconics.html">David Yurman Iconics</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/heritage.html">Heritage</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/hex-collection.html">Hex Collection</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/high-jewelry.html">High Jewelry </a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/dy-bel-aire.html">DY Bel Aire</a></li>
+							
+                        
+                         
+                        
                       
-                        <li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/films.html">Films</a></li> 
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/heritage.html">Heritage</a></li>
+							
+                        
+                         
+                        
                       
-                    </ul>
-                </div>
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/high-jewelry.html">High Jewelry </a></li>
+							
+                        
+                         
+                        
+                      
+                      	
+                      	
+                        	<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/films.html">Films</a></li>
+							
+                        
+                         
+                        
+                      
+					  
+					  
+					  
+					  
+						</ul>
+					   </div>
+					  
+					  
+					  
+                   
+
+                <!-- Column 2 section START -->
+				
+                <div id="nav-col-2-wrap">
+                  <div class="megamenu-col-2">
+                    <div class="subnav-wrapper mega-nav-col-2">                                     	
+                  	<label class="subnav-title title-text-italic font-type-didot track-0 font-size-15pt">Catalogs</label>
+            	 		<ul>
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/david-yurman-catalogs/holiday-mailer-2017.html">Holiday Mailer</a></li> 
+                  			
+                    		<li><a class="font-type-minion-regular track-100 font-size-15pt" href="/world-of-yurman/david-yurman-catalogs/fall-mailer-2017.html">Fall Mailer 2017</a></li> 
+                  			 
+                  		</ul>           	 	
+                    </div>
+                  </div>
+                </div> 
+				 
+				<!-- Column 2 section END -->
+
                 <div class="header-promo-wrapper">
                   
-                  	<div class="meganavpromo_a0ed meganavpromo">
+                    <div class="meganavpromo_6b16 meganavpromo">
 
 
 
@@ -1908,24 +2758,24 @@ function logout() {
 
 <div class="right-mega-nav">
 	
-        	<div class="title-text-mega title-text-italic letter-spacing-0 font-type-didot track-0 font-size-15pt">Featured Story </div>
+        	<div class="title-text-mega title-text-italic letter-spacing-0 font-type-didot track-0 font-size-15pt">Holiday Gift Guide</div>
 	
 
 
-    <a href="/world-of-yurman/young-artists.html"><img class="img-mega" src="//s7d2.scene7.com/is/image/DavidYurman/meganav%2D20170515%2Dwoy?$mktg$" alt=""></a>
+    <a href="/products/gifts/holiday-gift-guide-for-her-2017.html"><img class="img-mega" src="//img.davidyurman.com/is/image/DavidYurman/MEGANAV%2DWOMENS%2D20171115?$mktg$" alt=""></a>
 
     <div class="promo-box-mega">
         <div class="auto-center">
             
-            	<div class="promo-text-header font-type-didot track-0 font-size-36pt">The David Yurman Young Artist Prize</div>
+            	<div class="promo-text-header font-type-didot track-0 font-size-25pt">Vibrant Gestures</div>
             
 
             
-            	<p class="font-type-minion-regular track-100 font-size-17pt">A competition to foster the next<br>generation of young artists.<br></p>
+            	<p class="font-type-minion-regular track-100 font-size-17pt">Color her style this holiday with vibrant gemstone rings set in precious metals. </p>
 			
 
 			
-                <a href="/world-of-yurman/young-artists.html" class="border">EXPLORE</a>
+                <a href="/products/gifts/holiday-gift-guide-for-her-2017.html" class="border">SHOP NOW</a>
 			
 
         </div> 		
@@ -1976,6 +2826,7 @@ function logout() {
         <div id="results"></div>
         <!-- <div class="search-icon"><a class="search-btn" id="search-input-btn"></a></div> -->
         <button type="submit" class="search-input-btn" id="search-input-btn"><span class="icon-search"></span></button>
+        <input name=":cq_csrf_token" value="" type="hidden" disabled="disabled">
         <!-- <input class="search-submit icon-search" type="submit" value="Submit" > -->
     </form>
 </div>
@@ -2011,9 +2862,27 @@ function logout() {
 
 
 
+    <div class="persistent-promo-desktop pp-box-color pp-box-color-white persistent-promo-white"> 
+    	<span class="promo-headline font-type-minion-regular track-100 font-size-10pt persistent-promo-black"></span>
+		<span class="promo-headline font-type-minion-regular track-100 font-size-15pt persistent-promo-black"> Exclusive Gift With Purchase, Complimentary Gift Packaging &amp; Complimentary 2-Day Shipping</span>
+		<span><a class="promo-headline persistent-promo-link font-type-minion-regular track-100 font-size-13pt persistent-promo-black" href="/world-of-yurman/gwp-2017.html">See more</a></span>
+    </div>
 
+
+
+    <div class="persistent-promo-tablet pp-box-color white"> 
+    	<span class="promo-headline font-type-minion-regular track-100 font-size-10pt persistent-promo-black"></span>
+		<span class="promo-headline font-type-minion-regular track-100 font-size-15pt persistent-promo-black">  Exclusive Gift With Purchase, Complimentary Gift Packaging &amp; Complimentary 2-Day Shipping</span>
+		<span><a class="promo-headline persistent-promo-link  font-type-minion-regular track-100 font-size-13pt persistent-promo-black" href="/world-of-yurman/gwp-2017.html">See more</a></span>
+    </div>
     
 
+
+    <div class="persistent-promo-mobile pp-box-color white"> 
+    	<span class="promo-headline font-type-minion-regular track-100 font-size-10pt persistent-promo-black"></span>
+		<span class="promo-headline font-type-minion-regular track-100 font-size-10pt persistent-promo-black">   Exclusive Gift With Purchase, Complimentary Gift Packaging &amp; Complimentary 2-Day Shipping</span>
+		<span><a class="promo-headline persistent-promo-link font-type-minion-regular track-100 font-size-10pt persistent-promo-black" href="/world-of-yurman/gwp-2017.html">See more</a></span>
+    </div>
 </div>
 
 
@@ -2502,308 +3371,7 @@ function logout() {
 
 	<footer id="footer">
 		<div id="footer-inner">
-			
-				
-				
-				
-					
-						<div class="group-closed footer-group">
 
-
-
-
-
-    
-    
-        <h3 class="icon-plus-circled">Contact Us</h3>
-        <ul class="footer-group-content footer-links">
-            
-                
-                    
-                    
-                      <li><div id="lpButtonDiv-footer"></div></li>
-                    
-                    
-                    
-                    
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                      <li><a href="tel:1-888-398-7626">1-888-DYURMAN (1-888-398-7626)</a></li>
-                    
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/assistance/email.html">EMAIL US</a></li>
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/store.html">FIND A STORE</a></li>
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                      <li><a href="mailto:wedding@davidyurman.com">WEDDING SPECIALIST</a></li>
-                    
-                    
-                    
-                
-            
-        </ul>
-    
-</div>
-
-                        <div id="lpButtonDiv-footer-mobile"></div>
-					
-				
-			
-			
-				
-				
-				
-					
-						<div class="group-closed footer-group">
-
-
-
-
-
-    
-    
-        <h3 class="icon-plus-circled">Assistance</h3>
-        <ul class="footer-group-content footer-links">
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/assistance/track-orders.html">Track Your Order</a></li>
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/assistance/shipping.html">Shipping</a></li>
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/assistance/return-and-exchange.html">Returns &amp; Exchanges</a></li>
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/assistance/faq.html">FAQs</a></li>
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/services/care-and-repair.html">Care &amp; Repair</a></li>
-                    
-                
-            
-        </ul>
-    
-</div>
-
-					
-				
-			
-			
-				
-				
-				
-					
-						<div class="group-closed footer-group">
-
-
-
-
-
-    
-    
-        <h3 class="icon-plus-circled">Services</h3>
-        <ul class="footer-group-content footer-links">
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/assistance/size-guide.html">Size Charts</a></li>
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/services/customer-care.html">Customer Care</a></li>
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/products/gifts/gift-card-gc00000.html">Gift Cards</a></li>
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/services/request-catalog.html">Request a Catalog</a></li>
-                    
-                
-            
-        </ul>
-    
-</div>
-
-					
-				
-			
-			
-				
-				
-				
-					
-						<div class="group-closed footer-group">
-
-
-
-
-
-    
-    
-        <h3 class="icon-plus-circled">Our Company</h3>
-        <ul class="footer-group-content footer-links">
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/david-yurman/about-us.html">About Us</a></li>
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/world-of-yurman.html">World of Yurman</a></li>
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/david-yurman/terms.html">Terms &amp; Conditions</a></li>
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/david-yurman/privacy-policy.html">Privacy Notice</a></li>
-                    
-                
-            
-                
-                    
-                    
-                    
-                    
-                    
-                    
-                        <li><a href="/david-yurman/california-privacy-rights.html">California Privacy Rights</a></li>
-                    
-                
-            
-        </ul>
-    
-</div>
-
-					
-				
-			
 			<div class="section-menu"></div>
 
 			
@@ -2832,48 +3400,107 @@ function logout() {
 				
 				
 			
-			
+
 			<div class="footer-group" id="footer-group-social">
-				<h3>Follow Us</h3>
+				<!-- <h3>Follow Us</h3> -->
 				
 
 
 
 
     
-        <div class="footer-links-title"><li>Women</li></div>
+        <!-- <div class="footer-links-title"><li>Women:</li></div> -->
     
 <ul class="social-list">
-
-<li><a href="https://www.facebook.com/DavidYurman" class="icon-facebook-squared"><span>Facebook</span></a></li>
-<li><a href="https://twitter.com/DavidYurman" class="icon-twitter"><span>Twitter</span></a></li>
-<li><a href="https://pinterest.com/davidyurman" class="icon-pinterest-circled"><span>Pinterest</span></a></li>
-<li><a href="https://instagram.com/davidyurman" class="icon-instagram"><span>Instagram</span></a></li>
-<li><a href="http://www.youtube.com/davidyurmanvideo" class="icon-youtube"><span>YouTube</span></a></li>
-<li><a href="https://plus.google.com/+davidyurman/posts" class="icon-gplus"><span>Google+</span></a></li>
-
+<li class="footer-links-title"><div class="iconLabels">Women:</div></li>
+<li><a href="https://instagram.com/davidyurman" class="icon-instagram-round"><span>Instagram</span></a></li>
+<li><a href="https://www.facebook.com/DavidYurman" class="icon-facebook-round"><span>Facebook</span></a></li>
+<li><a href="https://pinterest.com/davidyurman" class="icon-pinterest-round"><span>Pinterest</span></a></li>
+<li><a href="https://twitter.com/DavidYurman" class="icon-twitter-round"><span>Twitter</span></a></li>
+<li><a href="http://www.youtube.com/davidyurmanvideo" class="icon-youtube-round"><span>YouTube</span></a></li>
+<!-- <li><a href="https://plus.google.com/+davidyurman/posts" class="icon-gplus"><span>Google+</span></a></li> -->
+<li class="footer-links-title separator-line"> <div class="iconLabels">|</div> </li>
+<li class="footer-links-title mobile_footertitle"><br></li>	
+<li class="footer-links-title menLabel"><div class="iconLabels">Men:</div></li>
+<li><a href="https://instagram.com/davidyurmanmen/" class="icon-instagram-round"><span></span></a></li>
+<li><a href="http://www.youtube.com/davidyurmanvideo" class="icon-youtube-round"><span></span></a></li>
 </ul>
 
 
 	<div class="footer-links-title">
-		<li>Men</li>
+		<!-- <li>Men:</li> -->
 	</div>
-	<ul class="social-list">
+	<!-- <ul class="social-list"> -->
+		<!-- <li class="footer-links-title">Men:</li> -->
 <!--		
 		
 		 --->
-		
-			<li><a href="https://instagram.com/davidyurmanmen/" class="icon-instagram"><span></span></a></li>
-		
+		<!-- 
+			<li><a href="https://instagram.com/davidyurmanmen/"
+				class="icon-instagram"><span></span></a></li>
+		 -->
 <!--		
+			<li><a href="http://www.youtube.com/davidyurmanvideo" class="icon-youtube"><span></span></a></li>
 		
---->	</ul>
+		
+--->	
 
 			</div>
+
+			<hr class="h-ruler">
+
+			
+				
+				
+				
+					
+						<div class="section-menu">
+
+
+
+	<!-- <h2>Our Company</h2> -->
+
+	<ul>
+
+		<!-- <li class="active">Online Privacy Notice</li> -->
+
+		<li><a href="/david-yurman/about-us.html">About Us</a></li>
+
+		<li><a href="/store.html">Find a Store</a></li>
+
+		<li><a href="/services/store-services.html">Our Store Services</a></li>
+
+		<li><a href="/services/customer-service.html">Customer Care</a></li>
+
+		<li><a href="/products/gifts/gift-card-gc00000.html">Gift Cards</a></li>
+
+		<li><a href="/david-yurman/terms.html">Terms &amp; Conditions</a></li>
+
+		<li><a href="/david-yurman/privacy-policy.html">Privacy Notice</a></li>
+
+		<li><a href="/david-yurman/california-privacy-rights.html">California Privacy Rights</a></li>
+
+		<li class="languages">
+		<!--mp_global_switch_begins-->
+		<a class="user-locale icon-plus-circled" onclick="return chooser(); function chooser(){MP.SrcUrl=unescape('mp_js_orgin_url'); MP.UrlLang='mp_js_current_lang'; MP.oSite=decodeURIComponent('mp_js_origin_baseUrl');MP.tSite=decodeURIComponent('mp_js_translated_baseUrl'); MP.init();var script=document.createElement('SCRIPT'); script.src='https://davidyurman.mpeasylink.com/mpel/mpel_chooser.js'; document.body.appendChild(script);return false;}" href="#" mporgnav="true">Change Language</a>
+		<!--mp_global_switch_ends-->
+		</li>
+
+	</ul>
+
+</div>
+
+                        <div id="lpButtonDiv-footer-mobile"></div>
+					
+				
+			
+			
 		</div>
 	</footer>
   <div class="activity-indicator"></div>
 </div>
+
+
 
 <div class="dy-insider-subscribe-modal modal modal-white mfp-hide">
     <span class="h1">Be A David Yurman Insider</span>
@@ -2936,11 +3563,7 @@ function logout() {
         <option value="BF"> Burkina Faso</option>	
         <option value="BI"> Burundi</option>	
         <option value="KH"> Cambodia</option>	
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
         <option value="CM"> Cameroon</option>	        	
-=======
-        <option value="CM"> Cameroon</option>		
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 19dbe31a6ee4d91412f98899a5037b2386d730d9
         <option value="CV"> Cape Verde</option>	
         <option value="KY"> Cayman Islands</option>	
         <option value="CF"> Central Africa Republic</option>	
@@ -3127,11 +3750,7 @@ function logout() {
         <option value="UG"> Uganda</option>	
         <option value="UA"> Ukraine</option>	
         <option value="AE"> United Arab Emirates</option>	
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
         <option value="GB"> United Kingdom</option>	        	
-=======
-        <option value="GB"> United Kingdom</option>		
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 19dbe31a6ee4d91412f98899a5037b2386d730d9
         <option value="UM"> United States Minor Outlying Islands</option>	
         <option value="UY"> Uruguay</option>	
         <option value="UZ"> Uzbekistan</option>	
@@ -3193,8 +3812,8 @@ function logout() {
   })();
 </script>
 <!--mp_easylink_begins-->
-<script type="text/javascript" id="mpelid" src="//davidyurman.mpeasylink.com/mpel/mpel.js" async="async"></script>
- <!--mp_easylink_ends-->
+<script type="text/javascript" id="mpelid" src="//davidyurman.mpeasylink.com/mpel/mpel.js" async=""></script>
+<!--mp_easylink_ends-->
     <div class="servicecomponents cloudservices"><div class="cloudservice sitecatalyst"></div>
 
 </div>
