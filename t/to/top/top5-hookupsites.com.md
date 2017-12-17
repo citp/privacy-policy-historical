@@ -1,74 +1,62 @@
-> *The following text is extracted and transformed from the top5-hookupsites.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618164004id_/http%3A//top5-hookupsites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top5-hookupsites.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218004747id_/http%3A//www.top5-hookupsites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top 5 Hookup sites
 
-At top5-hookupsites.com we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by top5-hookupsites.com. Top5-hookupsites.com adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
+We (“ **Company** ” or “ **us** ” or “ **our** ”) adhere to the practices detailed in this Privacy Policy (“ **Privacy Policy** “) in respect of your access and use of our website: [http://www.top5-hookupsites.com](http://www.top5-hookupsites.com/) ( **“Site” or “Website”** ) and the Service provided (as defined in our [Terms of Service](http://www.top5-hookupsites.com/terms-and-conditions/)). We have designed this Privacy Policy so that you can clearly understand our privacy practices, including how or why we collect, share and use our users’ data. We recommend you to read this Privacy Policy carefully prior to accessing or using our Service. This Privacy Policy is part of our [Terms of Service](http://www.top5-hookupsites.com/terms-and-conditions/) (collectively “ **Terms** ”) and constitutes a legally binding agreement between you and us. Definitions herein shall have the same meaning as defined therein.
 
-## Information and how we use it
+By using or accessing the Site and Service, you hereby agree to the terms of this Privacy Policy. Any use or continued use of the Service constitutes your agreement and consent to this Privacy Policy and any amendments therein. You accept the terms of this Privacy Policy by simply using the Service or the Site. If you do not agree to be bound by these terms, you are prohibited from accessing, viewing or using the Site or the Service. We reserve the right, at our discretion, to revise or update these this Privacy Policy at any time. Such changes shall be effective upon publication of the amended Terms (the last revision will be reflected in the “Last Modified” heading). Your continued use of the Service thereafter constitutes you consent to such changes and you agree to be bound by them. Please make sure to review our Privacy Policy periodically.
 
-We offer a number of services that do not require you to register for an account or provide any personal information to us. In order to provide our full range of services, we may collect the following types of information:
+You represent and warrant that you are at least 18 years of age, we do not use the Services to knowingly solicit data from or market to children under the age of 18. We reserve the right to request proof age in order to verify that minors under the age of eighteen (18) are not using the Services. In the event that we become aware that a user under the age of 18 has shared any information, we will discard such information. If you become aware or have any reason to believe that a child under the age of eighteen (18) has shared any information with us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-  * **Information you provide** – When you submit some forms we will ask you for personal information (such as your name, email address and an account password).
-  * **Cookies** – When you visit top5-hookupsites.com, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can set your browser to refuse all cookies or to indicate when a cookie is being sent. However, some top5-hookupsites.com features and services may not function properly if your cookies are disabled.
+**_Data Collection_**
 
+We may collect information from you automatically during your access or use of the Service or when you voluntarily choose to provide us with information, all as detailed below.
 
+We collect solely non-identifiable aggregated information (“ **Non-Personal Information** “) such as: technical information transmitted by your device, your aggregated use of the Service, statistics, type of browser, language and the time and date you access and use the Service, Website navigation, duration and clickstream, statistical browsing information, approximate geographical location, IP address, etc. Please note, we consider this data to be Non-Personal Information, however, in some countries and jurisdictions some of this data, such as IP address, might be considered as identifying and “Personal Information”.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+In addition, if you contact us you will voluntarily provide us with identifying or personal information, such as your name, email address or other contact details (“ **Personal Information** ”). We do not use this information except to reply to your compliant or requirement, we further do not combine Personal Information you may provide voluntarily with the Non – Personal Information.
 
-  * **Log information** – When you usetop5-hookupsites.com services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-  * **User communications** – When you send email or other communication to top5-hookupsites.com, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-  * **Links** – top5-hookupsites.com may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising.
-  * **Other sites** – This Privacy Policy applies to web sites and services that are owned and operated by top5-hookupsites.com. We do not exercise control over the sites displayed as search results or links from within our various services.
+**_Purpose of Use_**
 
+We use information solely to provide the Service, the Non-Personal Information is used to track users’ movements around in order to ensure that our Site and Content are presented as effectively as possible, and according to users’ preferences as well as to perform research, analytics or for statistical purposes. The Personal Information voluntary provided by you is used solely to correspond with you and comply with your requests.
 
+**_Third Party Content and Sites_**
 
-Top5-hookupsites.com only processes personal information for the purposes described in the applicable Privacy Policy for specific services. In addition to the above, such purposes include:
+The Service and Content include links to the Service Provider Sites (all as defined and detailed in the [Terms of Service](http://www.top5-hookupsites.com/terms-and-conditions/)). These Service Providers and their applicable sites and content contain privacy practices that may differ from ours. We are not, and won’t be held responsible to such privacy practices. Thus, we recommend you to carefully review the applicable third-party privacy policy once you leave our Site via any link directing to Third Parties’ Sites.
 
-  * Providing our products and services to users, including the display of customized content and advertising;
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our network;
-  * Developing new services.
+**_Cookie Policy_**
 
+We use Cookies and other technologies (e.g. web beacons, pixels, etc.), as we gather some information automatically, by ourselves or by using third party service providers (i.e., Google Analytics). “ **Cookies** ” are small text files that are placed on your device by a web server when you access our Service, for more information about cookies please review: [www.allaboutcookies.org](http://www.allaboutcookies.org/). You are able to disable some cookies through your device or browser settings. Please note that, if you choose to disable cookies, some features of our Services may not operate properly. Third parties (i.e., Google Analytics) may use cookies, scripts or web beacons for the purpose of tracking and analyzing your use. Additional information with respect to Google’s use of the data from our use of Google Analytics Cookies, is available in Google’s policies located at: [www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners). We also recommend you to read about Google Analytics’ currently available opt-outs available at: [ ](https://tools.google.com/dlpage/gaoptout/)<https://tools.google.com/dlpage/gaoptout/>.
 
+**_Sharing Data with Third Parties_**
 
-We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
+The data we collect may be used or shared in any of the above circumstances, as well as **_(i)_** for the purpose of providing and improving our Services; **_(ii)_** internally within the Company to conduct business and marketing analysis; **_(iii)_** we may disclose your information to third parties subject to your consent; **_(iv)_** we may share your information in order to comply with any applicable law, regulation, legal process or governmental request; **_(v)_** we may share your information for the purpose of enforcing our agreements and policies as well as to establish, exercise or defend our rights; **_(vi)_** we may share your information in order to prevent third party infringements, including intellectual property and privacy rights; and **(vii)** we may share the data other third parties, including without limitations the Service Providers, ad networks, advertising companies, media and other interested parties.
 
-## Choices for personal information
+In addition, we may share your information with a parent company, subsidiaries, joint ventures, or other companies under common control solely if and when applicable or necessary for the purposes described in this Privacy Policy including in any corporate transaction event. We may share information, in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, consolidation or asset sale), provided however, that our affiliated companies or acquiring company will assume the rights and obligations as described in this Privacy Policy;
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+**_ _** ** _Data Retention and Security_**
 
-If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent.
+We retain the information we collect solely for as long as required to fulfil the purposes for which it was collected.  However, in some circumstances we may retain the information we collect for longer periods, for example, when we are required to do so in accordance with legal, tax and accounting requirements, or if we reasonably believe, at our discretion, that we need to obtain an accurate record of your correspondence or any dealing with us, for example, in the event of any complaints. We use high security techniques to prevent your information from being accessed without authorization, improperly used or disclosed, unlawfully destructed or accidental loss. However, although we make best efforts we can’t provide 100% security and we cannot be held responsible for unauthorized or unintended access that is beyond our control. If you believe that your privacy was treated not in accordance with this Privacy Policy, or you have reasonable concern with that any person attempted to abuse our Service, please contact us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-You can decline to submit personal information to any of our services, in which case top5-hookupsites.com may not be able to provide those services to you.
+**_Users Rights_**
 
-## Information sharing
+Even after you have provided your consent to this Privacy Policy, you may change your mind. If you do, you may easily opt out of the data collection related to our Service by changing your browser settings and disabling or blocking cookies. You may also contact us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Further, as we use third party retargeting services, you may also opt-out directly from third party retargeting cookies or other ad-technology trackers through self-regulator services like the Network Advertising Initiative’s (“ **NAI** ”) website – [NAI consumer opt-out page](http://www.networkadvertising.org/choices/) or the Digital Advertising Alliance’s (“ **DAA** ”) website – [DAA opt-out page](http://www.aboutads.info/).
 
-Top5-hookupsites.com only shares personal information with other companies or individuals outside of top5-hookupsites.com in the following limited circumstances:
+**_Transfer of Data_**
 
-  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Top5-hookupsites.com, its users or the public as required or permitted by law.
+We may store or process your information in the United States or in other countries. If you are a resident of the European Economic Area (“ **EEA** “) we will take appropriate measures to ensure that your information receives an adequate level of data protection upon its transfer outside of the EEA. If you are a resident of a jurisdiction where transfer of your data requires your consent, then your consent to this Privacy Policy includes your express consent for such transfer of your Personal Information.
 
+**_Do Not Track Disclosure_**
 
+The Website or our Services does not respond to Do Not Track signals. For more information about Do Not Track signals, please see: <http://www.allaboutdnt.com/>_._
 
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
+**_Contact Us_**
 
-## Information security
+If you have any questions in relation to this Privacy Policy or you wish to exercise any of your rights, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fc919d8e97998895929bbc8b9586999f90959f97d29f9391)
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
-
-## Data integrity
-
-Top5-hookupsites.com processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
-
-## Accessing and updating personal information
-
-When you use top5-hookupsites.com services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required.
-
-## Enforcement
-
-Top5-hookupsites.com regularly reviews its compliance with this Policy. When we receive complaints, it is top5-hookupsites.com’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between top5-hookupsites.com and an individual.
-
-## Changes to this policy
-
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes).
+Wiseclicks technologies LTD  
+Merchants Court,  
+2-12 Lord Street,  
+Liverpool,  
+L2 1TS  
+United Kingdom
