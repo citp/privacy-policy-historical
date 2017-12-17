@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverfinderpro.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617185053id_/http%3A//driverfinderpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverfinderpro.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217195833id_/http%3A//driverfinderpro.com/privacy.php) for the most accurate reproduction.*
 
 # DriverFinder - Privacy Policy
 
@@ -56,7 +56,7 @@ For Product Registration instances, data is collected by:
 E-mail: customersupport[at]safecart[dot]com 
 
 For general inquiries, data is collected by:  
-DriverFinder at the [DriverFinder Contact Us form](https://web.archive.org/web/20170617185053id_/http%3A//driverfinderpro.com/contact.php).  
+DriverFinder at the [DriverFinder Contact Us form](https://web.archive.org/web/20171217195833id_/http%3A//driverfinderpro.com/contact.php).  
 548 Market Street  
 San Francisco, CA 94104  
 E-mail: info[at]driverfinderpro[dot]com 
