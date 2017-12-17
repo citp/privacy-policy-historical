@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search-privacy.biz privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309183221id_/http%3A//www.search-privacy.biz/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search-privacy.biz privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217164513id_/http%3A//www.search-privacy.biz/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # web.archive.org
 
@@ -62,8 +62,8 @@ Occasionally, at our discretion, we may include or offer third-party products or
 
 ### Uninstalling web.archive.org
 
-You can uninstall SearchPrivacy by following the instructions [here](https://web.archive.org/web/20170309183221id_/http%3A//www.search-privacy.biz/uninstall.html).
+You can uninstall SearchPrivacy by following the instructions [here](https://web.archive.org/web/20171217164513id_/http%3A//www.search-privacy.biz/uninstall.html).
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us at contact [at] web.archive.org
+If there are any questions regarding this privacy policy you may contact us at [contact@firstgatemobile.com](mailto:contact@firstgatemobile.com)
