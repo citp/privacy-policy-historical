@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrityinsider.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630060704id_/http%3A//celebrityinsider.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrityinsider.org privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217183200id_/http%3A//celebrityinsider.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Celebrity Insider
 
@@ -127,7 +127,7 @@ We agree to the following provisions:
 
 
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at unsubscribe@celebrityinsider.org and we will promptly remove you from all correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from all correspondence.
 
 **UPDATES TO OUR PRIVACY POLICY  
 **We may revise this Privacy Policy at any time without notice to reflect any changes in the law or technology, or changes in our practices regarding information collection and use.  If we make modifications to the way we collect or use your personal identifiable information or sharing data with third parties that you have not consented to, we will provide you with notice of those changes by announcing the change on the home page of this Site.
