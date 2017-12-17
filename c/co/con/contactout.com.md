@@ -1,37 +1,39 @@
-> *The following text is extracted and transformed from the contactout.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618070550id_/http%3A//contactout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactout.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217225437id_/http%3A//contactout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ContactOut
 
+Contactout Limited ("us", "we", or "our") operates the website https://contactout.com and the Contactout Chrome Extension (together, the “Service”). This page informs you of our policies regarding the collection, use and disclosure of Information in connection with the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
+
+Our Services aggregates personal information such as email addresses from publicly available sources on the internet. If you do not want your personal information to be included as part of our Service, you may opt out by contacting us at support@contactout.com
+
 _Information gathered from visitors_
 
-In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit.
+Log data: we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics. In addition, we may use third party services such as Google Analytics that collect, monitor and analyze Log Data. 
 
-Where registration is required, the visitor’s email and a username will be stored on the server.
+User data: we may ask for certain information such as an e-mail address when you register for an account. When you use the Contactout Chrome Extension to find email addresses we may collect the social media profile url, name, and social media profile information of the person you are requesting an email for. We use this information to match to our database and return an email address to you. 
 
-_How the Information is used_
+Cookies: cookies are files with small amounts of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive. We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
-The information is used to enhance the visitor’s experience when using the website to display personalized content and possibly advertising.
+_Marketing and promotions_
 
-Email may be sent to inform you of news of our services or offers by us or our affiliates.
+We may use your email to contact you with newsletters, marketing or promotional materials. If you do not want to receive such email messages, you will be given the option to opt out or change your preferences.
 
-Email addresses will not be sold, rented or leased to 3rd parties.
+_Sharing of your information_
+
+We will not rent or sell the personal information of users of our Service. In future we may sell or divest the company. Your Personal Information such as customer names and email addresses and other user information related to the Service may be among the items sold or otherwise transferred in the event of a company sale.
+
+_Security_
+
+The security of your Personal Information is important to us, we strive to use commercially acceptable means to protect your Personal Information. However we can not warrant the security of any information you transmit to us or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose information seems likely to have been compromised, and take other steps in accordance with any applicable laws and regulations.
 
 _Visitor Options_
 
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in Email that you receive.
+If at any time you wish to remove information collected by the Service about you, you may opt out by contacting us at support@contactout.com. You can stop receiving promotional email communications from us by clicking on the unsubscribe link provided in such communications.
 
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
+_How to contact us_
 
-_Cookies_
+Please contact us at support@contactout.com if you have any questions regarding our privacy policy
 
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
+_Changes to our privacy policy_
 
-Third-party advertising companies may also use cookies for tracking purposes.
-
-_Google Ads_
-
-Google, as a third party vendor, uses cookies to serve ads. We sometimes use Google Remarketing Dynamic Ads. This feature uses the Teracent cookie; users may opt out of the Teracent cookie by visiting their opt-out page.
-
-Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
-
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy; here’s a link to their opt-out page.
+This Privacy Policy is effective as of 1 January 2017 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
