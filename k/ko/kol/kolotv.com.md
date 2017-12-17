@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kolotv.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055519id_/http%3A//www.kolotv.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kolotv.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217052339id_/http%3A//www.kolotv.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-Posted: Wed 6:30 AM, Jun 20, 2012  | 
+Posted: Wed 1:24 PM, Mar 04, 2015  | 
 
 Updated: Thu 1:10 PM, May 11, 2017 
 
