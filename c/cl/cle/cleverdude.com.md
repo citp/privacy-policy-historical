@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cleverdude.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221943id_/http%3A//www.cleverdude.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverdude.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217043609id_/http%3A//www.cleverdude.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Clever Dude Personal Finance & Money
+# Privacy Policy - Clever Dude Personal Finance & Money
 
 This statement of our Terms of Service, outlines our **disclaimer** and **privacy policy**. By use of this website you agree to these terms.
 
@@ -10,7 +10,7 @@ The authors of Clever Dude are not professional financial advisory or investment
 
 Clever Dude is not responsible for the investment decisions you make. You should consult with a professional financial adviser before making any investment decisions. Be prudent and cautious. Do your own research, and only invest in what you understand!
 
-This website also offers advertising by third parties. Clever Dude does not endorse or guarantee these services, and therefore we assume no responsibility for their accuracy or legitimacy.
+This website also offers advertising by third parties.Â Clever Dude does not endorse or guarantee these services, and therefore we assume no responsibility for their accuracy or legitimacy.
 
 In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from third party advertising, content written, suggestions made on individual securities, loss of profits arising out of, or in connection with, the use of this website.
 
@@ -22,9 +22,9 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 Google, as a third party advertisement vendor, uses Double-Click DART cookies to serve ads on this site. The use of DART cookies by Google, enables them to serve adverts to visitors that are based on their visits to this website, as well as other sites on the Internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL [AdSense Network Privacy](http://www.google.com/privacy_ads.html). Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL [AdSense Network Privacy](http://www.google.com/privacy_ads.html). Tracking of users through the DART cookie mechanisms are subject to Googleâ€™s own privacy policies.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Clever Dude has no access or control over these cookies that may be used by third party advertisers.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies,Â Clever Dude has no access or control over these cookies that may be used by third party advertisers.
 
 ### Google Analytics
 
@@ -32,7 +32,7 @@ When visiting the Clever Dude website, the IP address used to access the site ma
 
 ### Collection of Personal Information
 
-At the Clever Dude website you have the option to post comments on this blog, subscribe to comments, or subscribe to a  newsletter. Your personal information such as name, email address, website URL, and IP address, may be collected. This information is only used to facilitate commenting, and for us to correspond with you by email to receive our newsletters.
+At theÂ Clever Dude website you have the option to post comments on this blog, subscribe to comments, or subscribe to aÂ  newsletter. Your personal information such as name, email address, website URL, and IP address, may be collected. This information is only used to facilitate commenting, and for us to correspond with you by email to receive our newsletters.
 
 Your personal information will _**never**_ be shared or distributed with any other parties. You may also unsubscribe from the Clever Dude website at any time, at which point all personal information will be permanently removed.
 
@@ -50,7 +50,7 @@ This Disclaimer is entirely written by Clever Dude, and is under all rights rese
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding this Disclaimer or Privacy Policy then please [contact us](http://www.cleverdude.com/contact/ "Contact").
+If you have any questions regarding this Disclaimer or Privacy Policy then please [contact us](https://www.cleverdude.com/contact/ "Contact").
 
 ### Feeling Clever? Join our newsletter!
 
