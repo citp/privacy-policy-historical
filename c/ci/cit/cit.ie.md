@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cit.ie privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602051423id_/http%3A//www.cit.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cit.ie privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217223559id_/http%3A//www.cit.ie/privacy) for the most accurate reproduction.*
 
 # CIT - Cork Institute of Technology - Privacy
 
-Cork Institute of Technology respects the rights of its users and does not, as a general rule, collect personal information of any kind.
+## Cork Institute of Technology respects the rights of its users and does not, as a general rule, collect personal information of any kind.
 
 Where a user voluntarily provides personal information in response to a questionnaire or survey the data will be used for research or analysis purposes only.
 
-For general web browsing no personal information is revealed to us, although certain statistical information is available to us via our internet service provider. This information may include
+**For general web browsing no personal information is revealed to us, although certain statistical information is available to us via our internet service  and analytics providers. This information may include:**
 
   * The logical address of the server you are using
 
