@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundaymail.co.uk privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214010257id_/http%3A//www.dailyrecord.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundaymail.co.uk privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217173615id_/http%3A//www.dailyrecord.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Daily Record & Sunday Mail - Scottish News, Sport, Politics and Celeb gossip
 
@@ -28,7 +28,7 @@ We compile anonymous records of user trends which we may make use of ourselves, 
 
 We may collect information from you when you fill in an online registration form for any of our web site services, (e.g., chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.
 
-We collect information about your use of our sites' web site services through "cookies". For more information on "cookies" please see our [Cookie Policy](http://cms1a.dailyrecord.co.uk:8080/cookie-policy/) which forms part of this Privacy Policy.
+We collect information about your use of our sites' web site services through "cookies". For more information on "cookies" please see our [Cookie Policy](https://web.archive.org/cookie-policy/) which forms part of this Privacy Policy.
 
 Where it is lawful, we may monitor emails you send and receive.
 
