@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pknic.net.pk privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520203358id_/http%3A//www.pknic.net.pk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pknic.net.pk privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217060022id_/http%3A//pknic.net.pk/privacy.html) for the most accurate reproduction.*
 
 # PKNIC - .pk Registry Provider
 
