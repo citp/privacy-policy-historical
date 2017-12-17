@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thebrofessional.net privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616074140id_/http%3A//www.thebrofessional.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrofessional.net privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217032054id_/http%3A//thebrofessional.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - the Brofessional
 
 All images on TheBrofessional.net are either submitted to TheBrofessional.net by email or are readily available in various places on the Internet and believed to be in public domain. Images posted are believed to be posted within our rights according to the U.S. Copyright Fair Use Act (title 17, U.S. Code.) TheBrofessional.net respects the intellectual property rights of others and expects its users to do the same. It is TheBrofessional.net’s policy, in appropriate circumstances and at its discretion, to disable and/or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights or other intellectual property rights of others.  
-If you are a copyright owner of a photo that appears on TheBrofessional.net please email us at info@TheBrofessional.net with a link to the photo and we will remove it immediately.
+If you are a copyright owner of a photo that appears on TheBrofessional.net please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with a link to the photo and we will remove it immediately.
 
 **Log Files**  
 Like many other Web sites, TheBrofessional.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
