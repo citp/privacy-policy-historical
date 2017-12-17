@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webicy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102404id_/http%3A//www.webicy.com/announcements/11011-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webicy.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217025727id_/http%3A//www.webicy.com/announcements/11011-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
