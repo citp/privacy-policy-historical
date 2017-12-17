@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewiggles.com.au privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616225052id_/http%3A//thewiggles.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewiggles.com.au privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217122026id_/http%3A//thewiggles.com.au/privacy-policy) for the most accurate reproduction.*
 
 # The Wiggles
 
