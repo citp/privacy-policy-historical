@@ -1,66 +1,25 @@
-> *The following text is extracted and transformed from the downtownhost.com privacy policy that was archived on 2001-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010624174133id_/http%3A//www.downtownhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downtownhost.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217232018id_/http%3A//downtownhost.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Downtownhost Privacy Policy
+# Privacy Policy - Downtown Host
 
-**Privacy Policy**
+We at Downtown Host Inc. (“Downtown Host”, and sometimes also referred to in this policy as “we”, “us”, or “our”) are committed to maintaining the privacy and security of the Personal Information of all our employees, customers as well as visitors to our website - www.downtownhost.com or our client or support portals at my.downtownhost.com and support.downtownhost.com (collectively, the “Sites”). As a part of that commitment, Downtown Host has implemented this Privacy Policy to apply to the Sites so that you know what information about you we collect, why we collect it, how we use that information, and the choices we offer, including how to access and update information. Your privacy matters to us, so please do take the time to get to know our practices – and if you have any questions, our contact email addresses are provided at the end of this document. 
 
-Because protecting your privacy is very important to Downtownhost, we operate our website under the following guidelines to safeguard your personally identifiable information:
+## How We Collect Your Personal Information
 
-Downtownhost’s policies and procedures for handling customer information have been created with the understanding that Internet technologies are still evolving and that Internet business methods are continuing to evolve to meet the needs and opportunities of the changing technologies. As a result, Downtownhost’s policies and procedures are subject to change.
+When you visit our Sites and submit a request to receive information concerning our services you will be asked to provide personal information (such as name, email address, telephone number and mailing address) for the purpose of administering your request and contacting you.
 
-  *   *   *   *   *   *   *   * 
+In addition, all customers or visitors to our Sites have the option to register for our newsletter and special offers subscription (referred to in this paragraph as our “Newsletter”) by entering their e-mail address along with their first and last name. Upon completing your Newsletter subscription, You consent to our occasionally informing you about our special hosting offers and company news by way of e-mail to your subscribed email address. If you no longer wish to receive our newsletters or special offers e-mails, you can unsubscribe at any time by using the link ‘unsubscribe’ on the newsletter or special offer e-mail. After receiving the unsubscribe request, we will delete your email address from the distribution list, thus preventing you from receiving any further newsletters or special offer e-mails from us. We use a 3rd party provider called “MailChimp” to store your subscribed email addresses along with your first and last name (if you chose to provide that information during the sign-up). Therefore, by providing your email address and name to us for the purpose of receiving our Newsletter, you automatically agree to all of MailChimp’s legal policies located at https://mailchimp.com/legal/
 
+We request information from you on our order form. To order a service from us, you must provide certain contact (ex. your name and address) and financial (ex. credit card number) information.
 
-##### **What Personal Information does Downtownhost collect?**
+Finally, we may collect information voluntarily provided by you, via the Sites or otherwise, for the purposes of customer support and feedback.
 
-In the course of serving its customers, Downtownhost acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. Some of this information - such as the customer's name, address, telephone number, and credit card data - is provided to Downtownhost by its customers in order to establish service. Other information - such as the customer's account status, choice of services, and customer logs - is created and maintained by Downtownhost in the normal course of providing service. Downtownhost also uses cookies, which are small pieces of information that a web site can store in a designated file on a user's computer for various reasons. In addition, Downtownhost may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.
+## When We Disclose Your Personal Information
 
-U.S. tax law may require that we collect social security numbers or federal tax identification numbers from active resellers who earn commissions. You have the option of refusing to provide this information, but doing so may affect the amount, if any, that Downtownhost must withhold from your compensation for tax purposes.
+Except as provided in this Privacy Policy, Downtown Host does not disclose, give, rent or sell your personal information collected through the Sites’ to any third party other than its paying agent and support agents. Access to your personal information is restricted to Downtown Host employees, representatives or agents. 
 
-##### **Data Security**
+Agents appointed by Downtown Host to assist with or operate the Sites or administer the Sites’ support and marketing programs will have access to your personal information for these purposes. Such agents are required by Downtown Host to comply with the provisions of this Privacy Policy and are prohibited from disclosing personal information to third parties except as required by law. 
 
-Downtownhost will protect the confidentiality of its customers' information, account information and personal communications to the fullest extent possible and consistent with the law and the legitimate interests of Downtownhost, its partners, its employees and other customers of Downtownhost’s services. To protect the loss, misuse, and alteration of information that is collected from customers, Downtownhost has appropriate physical, electronic, and managerial procedures in place. 
+Downtown Host reserves the right to co-operate fully with local, provincial, state, and federal officials in any investigation relating to any personal information (including private electronic communications transmitted on the Sites) or any purported unlawful activities. 
 
-##### **How is customer information used?**
-
-Downtownhost may share customer information with selected partners, for example, to provide customers with information about products which might be of interest to the customer or to enable the customer to take advantage of special partner programs. Downtownhost may also use customer information to provide its customers with system information or information about new or upgraded products.
-
-##### **Modification of customer information.**
-
-Customers may modify their personal information by sending an e-mail to [admin@downtownhost.com](mailto:admin@downtownhost.com).
-
-Domain name customers, who have registered a domain name with Downtownhost and wish to change the Technical Contact from Downtownhost to another company, may send a request to [registrations@downtownhost.com](mailto:registrations@downtownhost.com). It is important to note that customer domain name registration information is made publicly available in the registry of domain names.
-
-##### **Will Downtownhost ever send me direct mailings?**
-
-From time to time, Downtownhost may send its customers information about various products and services that may be of interest. We will not send you information of this type without specifically allowing you to "opt out" of such mailings. You can opt out by sending an e-mail to [support@downtownhost.com](mailto:support@downtownhost.com).
-
-In addition, if you are a Downtownhost reseller, Downtownhost and/or its partners and advertisers may from time to time send you newsletters, promotional material, and other mailings. You can opt out by sending an e-mail to  
-[support@downtownhost.com](mailto:support@downtownhost.com). 
-
-##### **How do I protect my Personal Information in public forums?**
-
-Downtownhost may offer interactive forums, such as message boards and chat. Downtownhost users should be aware that when they voluntarily disclose Personal Information to other users or to third parties on the Downtownhost system, through e-mail, or outside of the Downtownhost system, that information can be collected and used by others and may result in unsolicited messages from other members or third parties. While Downtownhost strives to protect your Personal Information, Downtownhost cannot guarantee the security of any information that you transmit to Downtownhost, and you are solely responsible for maintaining the secrecy of any passwords or other account information.
-
-##### **What about privacy on sites that Downtownhost links to?**
-
-Downtownhost may provide links to its partners and other Internet sites. These sites have separate data and privacy practices independent of Downtownhost, and Downtownhost disclaims any responsibility or liability for their policies or actions.
-
-##### **Disclosure of customer information and communications**
-
-Downtownhost will not otherwise disclose its customers' personal and account information unless Downtownhost has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Downtownhost, Downtownhost’s customers, or others, or where Downtownhost has a good faith belief that the law requires such disclosure.
-
-Downtownhost also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that Downtownhost stores or transmits for its customers. The circumstances under which Downtownhost will disclose such electronic customer communications are when:
-
-  1. it is necessary in order to provide service to the customer;
-
-  2. it is necessary to protect the legitimate interests of Downtownhost and its customers;
-
-  3. it is required to cooperate with interception orders, warrants, or other legal process that Downtownhost determines in its sole discretion to be valid and enforceable; and
-
-  4. it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by Downtownhost and appear to pertain to the commission of a crime.
-
-
-
-
-Downtownhost disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Downtownhost will, however, review, delete or block access to communications that may harm Downtownhost, its customers or third parties. The grounds on which Downtownhost may take such action include, but are not limited to, actual or potential violations of Downtownhost’s Acceptable Use Policy.
+Downtown Host reserves the right to disclose and/or transfer personal information to a third party in the event of a proposed or actual sale, merger or other transfer of the assets or shares of Downtown Host, an affiliate or division thereof, provided that the third party agrees to adhere to the principles expressed in this Privacy Policy and the personal information does not constitute all or substantially all of the assets being transferred. 
