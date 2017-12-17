@@ -1,59 +1,116 @@
-> *The following text is extracted and transformed from the vegetariantimes.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628104015id_/http%3A//www.vegetariantimes.com/article/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegetariantimes.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217213333id_/http%3A//www.activeinterestmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Vegetarian Times
+# Privacy Policy – Active Interest Media
 
-Thank you for visiting VegetarianTimes.com, an Active Interest Media site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Active Interest Media site.
+**What information do we collect?**  
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or magazine, respond to a survey or fill out a form.
 
-**The Information We Collect**
+Any data we request that is not required will be specified as voluntary or optional.
 
-At some Active Interest Media sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, location, phone number or credit card information. You may, however, use our sites without registering, although some content and/or sections may become inaccessible. When using AIM mobile applications registration and/or login may be required to access the materials.
 
-There are cases where Active Interest Media may ask you for personally-identifiable information such as your name, mailing address, and email address. Examples include, but are not limited to, online shopping transactions, signing up for an email newsletter, registering on our Sites, or participating in sweepstakes. Active Interest Media will not collect any personally-identifiable information about you unless you provide it to us voluntarily. Active Interest Media may store and process that information to better understand your needs and how we can improve our products and services; use that information to contact you for informational and promotional purposes; use and disclose that information to third parties to the extent necessary to provide you with products or services you have ordered.
+Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
-At some other Active Interest Media sites, you can submit information about other people. For example, you might submit a person’s name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient’s name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient’s name, address, e-mail address, and telephone number.
+**What do we use your information for?**  
+Any of the information we collect from you may be used in one of the following ways:
 
-At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site’s activities and offerings.
+**; To personalize your experience**  
+(your information helps us to better respond to your individual needs)
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows ’95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+**; To improve our website**  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-**How We Use the Information**
+**; To improve customer service**  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you.
+**; To process transactions**  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
+**; To send periodic messages via email and postal mail**  
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. We may also send promotional messages to an email or postal mail address that our cookies associate with you when you browse our sites.
 
-We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-If you choose to submit content for publication (e.g., a “letter to our editors”), we may publish your screen name and other information you have provided to us.
+**; To administer a contest, promotion, survey or other site feature**
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
+Notwithstanding any other provision, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content through web, mobile or other media channels. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please visit <http://www.aboutads.info/choices> or <http://www.networkadvertising/choices>.
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
+**How do we protect your information?**  
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or enter, submit, or access your personal information.
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request.
+These security measures may include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology via HTTPS urls to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities.
 
-Agents and contractors of Active Interest Media who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Active Interest Media.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data. Collection of Information by Third-Party Sites and Sponsors Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites’ privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-Active Interest Media sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Active Interest Media has no control over the third-party sponsors’ use of this information. The Active Interest Media site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information.
+**Do we use cookies?**  
+Yes (cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers’ systems to recognize your browser and capture and remember certain information. We use cookies for our own purposes on the sites and our partners may also use cookies on our sites to fulfill purposes that we specify that we believe are consistent with this privacy policy.
 
-Active Interest Media sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. Our privacy policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
+**Do we disclose any information to outside parties?**  
+We do not sell, rent, loan, or give your email address or other personal information to anybody without your express permission. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may provide third-party vendors with encrypted (i.e. hashed) data that is not identifiable via personal information such as email, phone, address, etc. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Cookies**
+From time to time, our sponsors wish to contact our subscribers and customers who have indicated an interest in their products, services or events. Before we disclose your personally identifiable data to a third party for their own business purposes (such as a survey or a sweepstake), we will first obtain your consent, for example via email, click-through, an online opportunity to opt-out or otherwise. If you register for or access products, services or events offered by these vendors, you choose to share your name and contact details directly with those vendors so that they may contact you. For example, if you register for a vendor-branded (or co-branded with us) resource, we will collect your registration information on behalf of that vendor for its own use. When you register for an in-person or online event, we will provide your registration information to the sponsor(s) of such event. If you want to know how a vendor or advertiser will use data about you, we urge you to check that vendor’s or advertiser’s privacy policy.
 
-To enhance your experience with our sites, many of our web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+**How Can You Opt Out of Use and Disclosure of Your Information?**  
+Active Interest Media will only use your personal information for the purposes described in this Privacy Policy or as subsequently authorized by you. You can avoid having your personal information disclosed to sponsors in the following ways: a) do not provide us with personal information; b) do not access or request content; c) turn on cookie and/or ad blocking via your browser; or d) email us at privacy@aimmedia.com to request that we opt-out your email address from Active Interest Media emails. Active Interest Media has a number of brands and products and we allow you to opt-out selectively. If you wish to remove your email address only from a specific brand, please use the opt-out mechanism provided in emails you receive from such brand, make use of a provided “private account” option option to prevent search and follow capabilities, or contact the brand directly.
 
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
+To opt-out of postal mail promotions from Active Interest Media, please mail an opt-out request to us at:
 
-We may also use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These “web beacons” may be used to deliver cookies that conform to our cookie policy.
+**Active Interest Media | Attn: Circulation Department  
+**5720 Flatiron Pkwy  
+Boulder, CO 80301
 
-**Our Commitment to Security**
+You can direct your opt-out request to specific brands or to ‘all brands.’
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+You may receive email marketing messages from us about our own or other companies’ offerings. To opt-out of a partner marketing email program, you may follow the instructions at the bottom of any email we send you as part of the program.
 
-**How to Contact Us**
+You may withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice. To withdraw your consent, simply contact us by writing to the Active Interest Media, Inc., 5720 Flatiron Pkwy, Boulder, CO 80301, USA Attn: Data Department, or by e-mailing us at privacy@aimmedia.com and advising which of your personal information you no longer wish us to collect, use and/or disclose. We will the inform you of the implications of withdrawing consent to collect, use and/or disclose that personal information, including without limitation the fact that once such consent is withdrawn you may not be able to use certain or all of the features of the Site, applications or services, and/or may not be able to receive products and services from us. Should you nonetheless still desire that consent be withdrawn, we will accede to your request.
 
-If you have any questions or concerns about the Active Interest Media online policy for this site or its implementation please contact us at the following address:
+We may work with data providers to target advertising to you personally, through online and offline methods including email, display media and direct mail. This advertising may be directed to you because you visited or logged in to our website. When we generate this advertising, data we collect from you through online cookies and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit the DAA’s consumer choice page at http://www.aboutads.info/choices/.
 
-Active Interest Media 300 N. Continental Blvd., Suite 650 El Segundo, CA 90245
+**Premium Accounts**
+
+  * Information may be collected in order to process your payments (e.g., for subscriptions);
+  * We may offer the ability to sign up for a premium account that allows you to visit the Site without, or with limited, advertisements (a “ **Premium Account** ”). If you use a Premium Account, we will not use personal information about you for advertising purposes.
+  * If you choose to use an account, you are responsible for keeping your login credentials for access to certain parts of the site (e.g., user names and passwords) confidential. Do not give your credentials to anyone else.
+  * Notice that we may share personal information with service providers, subcontractors, partners, vendors, consultants, and others that help us with any of the purposes noted above or otherwise in this Policy
+
+
+
+**Third party links**  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**  
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by logging into their control panel and going to the ‘Edit Profile’ page.
+
+**Childrens Online Privacy Protection Act Compliance**  
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**CAN-SPAM Compliance**  
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+**Your Consent  
+**By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**  
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
+
+This policy was last modified on September 23, 2016.
+
+**Contacting Us**  
+If there are any questions regarding this privacy policy you may contact us using the information below.  
+Active Interest Media | Attn: Circulation Department  
+5720 Flatiron Pkwy  
+Boulder, CO 80301  
+privacy@aimmedia.com / 310.356.4100
+
+**Privacy Policy Customer Pledge**  
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act  
+Trust Guard Privacy Requirements
