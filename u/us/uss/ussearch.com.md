@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ussearch.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630055211id_/http%3A//www.peopleconnect.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussearch.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217072456id_/http%3A//www.peopleconnect.us/privacy) for the most accurate reproduction.*
 
 # PeopleConnect Privacy Policy
 
@@ -7,7 +7,7 @@
  _Update Effective:_
      _June 29, 2017 for new users_
  __
-     _August 1, 2017 for existing users_
+     _September 1, 2017 for existing users_
 
 Our Privacy Policy has been updated,[ click here](https://web.archive.org/2017-06-29-summary-of-changes) for a summary of changes. To view the previous version of the Privacy Policy,[ click here.](https://web.archive.org/2017-02-14-privacy)
 
@@ -124,13 +124,7 @@ We may also allow other unaffiliated companies, called third-party ad servers or
 
 We have no control over these parties' privacy policies or information collection and use practices.
 
-If you would like to learn more about targeted advertising served by ad networks and your ability to opt out from receiving such advertising from ad networks, click the links below:
-
-  * [NAI](http://optout.networkadvertising.org/#!/)
-  * [DAA](http://optout.aboutads.info/#!/)
-  * [Evidon](https://www.evidon.com/resources/global-opt-out/)
-
-
+If you would like to learn more about targeted advertising served by ad networks and your ability to opt out from receiving such advertising from ad networks, click here.
 
 d. Contests and Sweepstakes
 
@@ -166,36 +160,7 @@ In connection with the Intelius and US Search Services, public records are avail
 
 As a courtesy, we enable you to opt out your personal information from the Intelius and US Search databases. What this means is that your name as it appears in a particular record and the associated identifying information such as your address and phone number will be suppressed if you request this in the manner described below. However, please note that any time your identifying information appears in a public record or in a publicly or commercially available manner, in a way that is different from the particular record you opted out, it may again appear in our databases. For example, if your address or area code changes, your new information (including other associated identifying information) may again appear unless you opt out the new record. Similarly, if the way in which your name or address appears in a record differs from a record you opted out (e.g., "Michael" instead of "Mike," or "1212 Second AVE NE" instead of "1212 - 2nd Avenue Northeast"), we may include the differing record. Please also note that there may be more than one record in our databases associated with your personal information. Opting out one particular record will not opt out other record(s). An opt-out will apply from the processing date forward; any report purchased prior to your opt-out will still be available to the purchaser thereof in accordance with the terms of the applicable Services. There are many other companies offering public records search services, and your request that we opt out your information from our databases will not prevent your information from appearing on these other services.
 
-There are several ways to remove your information from our databases. The quickest and simplest way to have your information removed from the Intelius and US Search databases is to send us a request online.
-
-  * A copy of a government-issued ID with any photo or ID number crossed out. Examples: driver's license, U.S. passport, U.S. military ID card, state-issued ID card, or employee ID card from a state agency; or
-  * [A notarized **Identity Verification Form**](https://www.intelius.com/docs/notaryverificationform.pdf).
-
-
-
-We will only use this information to process your opt-out request.
-
-Online
-
-If you opt-out online, please be sure to include your email address so that we can notify you both when your request is received and when we've completed your opt-out.
-
-[Intelius Online Opt-Out Form](https://www.intelius.com/optout)
-
-Mail or Fax
-
-If you submit your opt-out request via postal mail, in addition to your proof of identity, please include the following so we can accurately identify your records:
-
-  * Name
-  * Date of Birth
-  * Address
-
-
-
-Here is the contact information for submitting your request:
-
-P.O. Box 4145  
-Bellevue, WA 98009-4145  
-425-974-6194
+There are several ways to remove your information from our databases, click here for your options.
 
 Your information will be removed from our database in approximately 7-14 days. Opt-out requests must be submitted to us individually by the subject of a particular record. Bulk opt-out requests will not be fulfilled.
 
