@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the robtex.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171637id_/https%3A//www.robtex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robtex.net privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217121222id_/https%3A//www.robtex.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Robtex
+# Privacy Policy
+
+  
+
 
 At robtex.com, we take privacy seriously and believe in the general right for internet anonymousity. Founded in 1989, we have been around long enough to know that privacy is important and something that should not be taken lightly. However, in order for our users to get the best experience possible, some anonymous information is collected, but only when deemed necessary for the site’s functionality. The information listed below is to be considered accurate until informed otherwise: 
 
@@ -15,3 +18,6 @@ At robtex.com, we take privacy seriously and believe in the general right for in
 At robtex.com, we always seek to ensure the highest level of privacy for our users and constantly seek new technological solutions to further improve our service. We welcome any and all feedback on this or any other matter. Please do not hesitate to contact us. We appreciate your feedback! 
 
 This privacy policy is to be considered accurate until notified otherwise. It was last updated on the 29th of October, 2011. 
+
+  
+
