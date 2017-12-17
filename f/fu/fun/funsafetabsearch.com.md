@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funsafetabsearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060056id_/http%3A//funsafetabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funsafetabsearch.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217124428id_/http%3A//funsafetabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
 
 # FunSafeTab | Privacy Policy
 
