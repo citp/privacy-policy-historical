@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanese-escort-girls.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618010531id_/http%3A//japanese-escort-girls.com/company/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanese-escort-girls.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217011515id_/http%3A//japanese-escort-girls.com/company/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Japanese Escort Girls Club
 
@@ -45,7 +45,7 @@ The correction and deletion of personal information
     * To correct or delete own personal information, if the incorrect information is held on us.
   * If you want to these claims, please contact:  
 Contact:Japanese Escort Girls Club  
-e-mail :front@japanese-escort-girls.com
+e-mail :info@japanese-escort-girls.com
 
 
 
