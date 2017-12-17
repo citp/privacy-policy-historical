@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpegmini.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061150id_/http%3A//www.jpegmini.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpegmini.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217144324id_/http%3A//www.jpegmini.com/main/privacy) for the most accurate reproduction.*
 
 # JPEGmini | Privacy Policy
 
