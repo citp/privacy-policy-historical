@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levinpic.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616023257id_/http%3A//www.levinpic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levinpic.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217171053id_/http%3A//www.levinpic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - levinpic.com
 
