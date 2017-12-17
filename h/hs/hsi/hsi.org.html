@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hsi.org privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606053318id_/http%3A//www.hsi.org/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hsi.org privacy policy that was archived on 2017-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171217034211id_/http%3A//www.hsi.org/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '3314:0';
-CONVIO.pageSessionID = '27DC9F2B18AE7ACC4E3ED47E2B80133E.app357b';
+CONVIO.pageSessionID = '08DD3EE8D32AFB7E8CA4E76EEE6A288F.app329b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1496727198999"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1513482130823"></script>
 <script type="text/javascript">
 
 
@@ -105,27 +105,31 @@ deleteCookie("CONVIO.referrer");
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="http://www.hsi.org/assets/js/newsroom/fancybox-2-1-5.js"></script>
 <script src="http://www.hsi.org/assets/js/newsroom/jquery-fletcher.js?x=060220161110"></script>
-<script>    
+<script>
 //We want our own version of jQuery to use for the Newsroom, because we can't be sure what version will be available on a particular page-->
 var jQuery_newsroom = jQuery.noConflict(true); //return references to jQuery and $ to their previous values
 
 (function($) {
     $(function() {
-        //Find A tags with class "newsroom-link" and fletcherize 'em (enable them to launch the newsroom) 
+        //Find A tags with class "newsroom-link" and fletcherize 'em (enable them to launch the newsroom)
         $('a.newsroom-link').fletcherize();
-        
+
         //Bind fancybox trigger to those newsroom links
         $(".fancybox-newsroom").fancybox({
             openEffect : 'none',
             closeEffect : 'none',
             type: 'iframe',
             autoSize : false,
-            beforeLoad : function() {         
-                this.width  = parseInt(this.element.data('fancybox-width'));  
+            beforeLoad : function() {
+                this.width  = parseInt(this.element.data('fancybox-width'));
                 this.height = parseInt(this.element.data('fancybox-height'));
             },
             afterLoad : function() {
-                setParentUrl(this);                    
+                setParentUrl(this);
+                //CMK06272017: We need to set the parent url each time the Newsroom iframe changes content inside it.
+                $('.fancybox-iframe').load(function() {
+                    setParentUrl(this);
+                });
             },
             helpers : {
                 title : {
@@ -134,28 +138,36 @@ var jQuery_newsroom = jQuery.noConflict(true); //return references to jQuery and
                 overlay: {
                     locked: true
                 }
-            },    
+            },
             keys : {
                 close: null
             },
             iframe: {
-              preload: true 
-           }               
-        }); 
+              preload: true
+           }
+        });
     });
 
     function setParentUrl(element) {
-        var receiver = element.content[0].contentWindow;
-        try {
-            receiver.postMessage(window.location.href, 'http://newsroom.humanesociety.org');
-            console.log("Message posted to " + element.content[0]);            
-        } catch(e) {
-            console.log("Failed to post message to " + element.content[0]);
+        var receiver;
+
+        if (typeof element.contentWindow !== "undefined") {
+          receiver = element.contentWindow;
+        } else {
+          receiver = element.content[0].contentWindow;
         }
-    }    
+
+        try {
+            receiver.postMessage(window.location.href, 'https://newsroom.humanesociety.org');
+            console.log("Posted message to Newsroom iframe.");
+        } catch(e) {
+            console.log("Failed to post message to Newsroom iframe.");
+        }
+    }
 })(jQuery_newsroom); //Pass jQuery_newsroom in to document.ready so we can use $ inside.
 </script>
 <!--END Newsroom Code-->
+
 
 <!--End Newsroom head code--> 
 
@@ -521,6 +533,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
   
+
+<script>
+function FormData(formName) {
+  //CMK09182017 Do nothing. This is necessary to override a conflict between
+	//Convio's form.js file and Facebook's fbevents.js file.
+	//Both use an object named FormData
+  console.log("FormData() called.");
+}
+</script>
+
 
 <style>
     #top_resources label {
@@ -1662,13 +1684,13 @@ KBC Bank NV - IBAN: BE23 7340 4167 9491 - BIC: KREDBEBB.
 
   
 
-<!-- Item 804650551 has expired or is not published.-->
+<!-- Item 833309931 has expired or is not published.-->
 
 
 
 
 
 
-<!-- 10.12.0.45:8901 -->
+<!-- 10.12.0.43:8900 -->
 
 </body></html>
