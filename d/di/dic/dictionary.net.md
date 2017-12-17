@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dictionary.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111658id_/http%3A//www.dictionary.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dictionary.net privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217033228id_/http%3A//www.dictionary.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Dictionary.net
 
@@ -14,7 +14,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalize your experience (your information helps us to better respond to your individual needs).
+  * To personalize your experience (your information helps us to better respond to your individual needs). 
   * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you). 
   * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs). 
   * To administer a contest, promotion, survey, or other site feature.
