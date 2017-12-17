@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenchat.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163707id_/http%3A//www.teenchat.com/other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenchat.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217021727id_/http%3A//www.teenchat.com/other/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TeenChat.com
 
@@ -64,7 +64,7 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 ## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Wishbone Media, Inc. http://teenchat.com/ Wishbone Media, Inc. 3470 E Russell Rd, #265 Las Vegas, NV 89120 dan@teenchat.com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Wishbone Media, Inc. http://teenchat.com/ Wishbone Media, Inc. 3470 E Russell Rd, #265 Las Vegas, NV 89120 [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on April 24, 2012
 
