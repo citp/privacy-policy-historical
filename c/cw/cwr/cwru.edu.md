@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwru.edu privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628154244id_/http%3A//case.edu/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwru.edu privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218002334id_/http%3A//case.edu/privacy-statement/index.html) for the most accurate reproduction.*
 
 # Web Privacy Statement | Case Western Reserve University
 
@@ -12,11 +12,11 @@ By using this website, you agree to abide by this Privacy Statement, the univers
 
 ### What information do we collect?
 
-The university may collect some identifiable information about how visitors access and use websites affiliated with the case.edu domain. This information includes IP address, browser, geolocation, device type and more. Cookies may be used to facilitate the navigation of this site, but these cookies do not contain personally identifiable information.
+The university may collect some identifiable information about how visitors access and use websites affiliated with the case.edu domain. This information includes IP address, browser, geolocation, device type and more. Cookies may be used to facilitate the navigation of this site, but these cookies do not contain information that alone can identify individuals.
 
-The generic information collected by Case Western Reserve is based on IP address, which is the location of a computer or network. Case Western Reserve does not link IP addresses to email addresses in any reports compiled by the university. Case Western Reserve will not associate an IP address and/or web usage data with any other university information that could specifically identify a visitor, unless required to do so by law.
+The generic information collected by Case Western Reserve is based on IP address, which is the location of a computer or network. For admission and recruiting purposes, some IP addresses and cookies may be collected and stored; when used in conjunction with a third-party system, individuals' information may be identified. This information will not be used beyond admissions offices, unless required to do so by law. In most other instances, Case Western Reserve will not associate an IP address and/or web usage data with any other university information that could specifically identify a visitor, unless required to do so by law.
 
-Some webpages within case.edu may also collect personal data through forms, surveys, event registration, newsletter subscriptions, etc. This information helps Case Western Reserve communicate with individuals who have expressed interest in receiving information from the university, such as registering for an event, submitting an application, etc. 
+Some webpages within case.edu may also collect personal data through forms, surveys, event registration, newsletter subscriptions, etc. This information helps Case Western Reserve communicate with individuals who have expressed interest in receiving information from the university, such as registering for an event, submitting an application, etc.
 
 ### What do we use your information for?
 
