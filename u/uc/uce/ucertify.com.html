@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ucertify.com privacy policy that was archived on 2017-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170612204444id_/http%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ucertify.com privacy policy that was archived on 2017-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171217161849id_/http%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -24,25 +24,32 @@
     <link rel="apple-touch-icon" sizes="72x72" href="http://www.ucertify.com/images/ucertify-apple-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="http://www.ucertify.com/images/ucertify-apple-114x114.png">
 	<link rel="apple-touch-startup-image" href="http://www.ucertify.com/images/startup.png">
-	<link rel="icon" type="image/png" href="http://www.ucertify.com/images/uc-icon.png">	<link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/css/bootstrap.min.css?20170612" rel="stylesheet" type="text/css">
-    <link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/style.min.css?20170612" rel="stylesheet">
+	<link rel="icon" type="image/png" href="http://www.ucertify.com/images/uc-icon.png">
+	<link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/css/bootstrap.min.css?16122017" rel="stylesheet" type="text/css">
+    <link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/style.min.css?16122017" rel="stylesheet">
 	<link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/css/animate.css" rel="stylesheet" type="text/css">
-	<link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/font-awesome/css/font-awesome.min.css?20170612" rel="stylesheet" type="text/css">
+	<link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/font-awesome/css/font-awesome.min.css?16122017" rel="stylesheet" type="text/css">
+
 			<!-- Included CSS Files -->
 	    <link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/css/plugins/iCheck/custom.css" rel="stylesheet" type="text/css">
 		<link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
 	            		<!--[if lt IE 9]>
-			<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/html5shiv.min.js?20170612"></script>
-			<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/respond.min.js?20170612"></script>
+			<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/html5shiv.min.js?16122017"></script>
+			<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/respond.min.js?16122017"></script>
 	    <![endif]-->
-	    		<link rel="stylesheet" type="text/css" href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/css/component.min.css">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/jquery-1.10.2.min.js?20170612"></script>
+	    	
+	<link rel="stylesheet" type="text/css" href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/css/component.min.css">
+	
+	<script type="text/javascript" async="" src="https://www.google-analytics.com/ga.js"></script><script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/jquery-1.10.2.min.js?16122017"></script>
 	<!-- Grab Google CDN's jQuery. fall back to local if necessary -->
 	<script>
 	!window.jQuery && document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"><\/script>');
 	$.fn.hasAttr = function(name) {
 	   return this.attr(name) !== undefined;
 	}
+	$.fn.hasScrollBar = function() {
+        return this.get(0).scrollHeight > this.innerHeight();
+    }
 	var is_modernizr = 1;
 	var baseUrl = "http://www.ucertify.com/";
 	var themeUrl = "http://www.ucertify.com/layout/themes/bootstrap3-2016/";
@@ -50,21 +57,34 @@
 	var course_url = '//d168k6362c5a3y.cloudfront.net/images/';
 	var isTouchable = 0;
 	var isiPad = 0;
+	var isIEEleven = false;
+	var isIE = false;
 	var __isExecOnReady__ = true;
+	var tabindex = {
+		"n" : -1,
+		"z" : 0,
+		"p" : 1
+	};
+	var UCINFO = {
+		isIphone:0,
+	}
 	   var startTime = new Date();        //Start the clock!
    var _gaq = _gaq || [];
    	  _gaq.push(['_setAccount', 'UA-86319-5']);
     
   var trackview=false;
+
 	</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	
 	<style></style>
-</head><body style="padding-top:45px;" topmargin="0" leftmargin="0" onload="" class=" " onbeforeunload="activate(2);" preprel="uc-prep-body">
+</head>
+<body style="padding-top:45px;background-color: transparent;" topmargin="0" leftmargin="0" onload="" class="settings_themes  " onbeforeunload="activate(2);" preprel="uc-prep-body">
 		<!-- File Name: 'error.tpl' -->
-<div id="errmsg" class="alert alert-warning nm alert-dismissible pt-md pb-md h">
+<div aria-live="assertive" id="errmsg" class="alert alert-warning nm alert-dismissible pt-md pb-md h" role="alert">
 	<button type="button" class="close" onclick="javascript:showmsg('','',1);">×</button>
 	<span class="msg"></span>
-</div>			<!-- File Name: 'prepengine-header-top.tpl' -->
+</div>
+		<!-- File Name: 'prepengine-header-top.tpl' -->
 <div id="mainbar">
 	<div id="top">
 		<header class="navbar navbar-default navbar-fixed-top fixed-top nmb" role="banner" id="titlebar" data-spy="affix" data-offset-top="80">
@@ -79,7 +99,7 @@
 					<li>
 								            										</li></ul>
 	            </div>
-	            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#small_screen_nav">
+	            <button aria-hidden="true" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#small_screen_nav">
 	             <span class="icon-bar"></span>
 	             <span class="icon-bar"></span>
 	             <span class="icon-bar"></span>
@@ -87,14 +107,21 @@
 	        </div>
 			<div class="container np">
 			  				  		<!-- File Name: 'pe-menubar.tpl' -->
+<style>
+	.max-77{max-width:77%;}
+	.max-65{max-width:65%!important;}
+	.visible{display:block;}
+	#courses_list_menu .dropdown-backdrop{z-index:0}
+	#toolbar_container_preview {left:195px;bottom:4px;}
+	#save_msg_show {left:660px;bottom:10px;}
+</style>
 <nav class="navbar-collapse bs-navbar-collapse collapse relative container np" role="navigation">
-					<div class="pull-left mr" style="height:44px;" aria-hidden="true">
+					<div class="pull-left mr" style="height: 44px;width: 145px;text-align: center;" aria-hidden="true">
 												<a tabindex="-1" href="http://www.ucertify.com/" target="_parent"><img onerror="this.style.display='none'" class="logo-v" src="http://www.ucertify.com/layout/themes/bootstrap3-2016/images/logo/logo.gif" alt="uCertify Logo" style="display: none;"></a>
 									</div>
 		<ul class="nav navbar-nav navbar-right nm nav_height pull-right font-body">
-		<input type="hidden" id="class_key_input_hidden">
+				<input type="hidden" id="class_key_input_hidden">
 				  			<!-- File Name: 'pe-menubar-cart_menu.tpl' -->
-<style>.shopcart{max-height:44px;}</style>
 <li class="dropdown shopcart" tabindex="0">
 	<a tabindex="-1" href="#" rel="tooltip" data-placement="bottom" title="Shopping Cart" class="dropdown-toggle cart-menu height-cart" data-toggle="dropdown"><span class="icomoon-cart-2 s4 m"></span><span class="text-large" id="total_cart_item"><span class="sr-only">Shopping Cart</span> 0 <span class="sr-only">Item</span></span> <b class="caret"></b></a>
 	<ul class="dropdown-menu nm search-bar-menu span3" id="cart-container">
@@ -104,7 +131,8 @@
 		  </div>
 	  </li>
 	</ul>
-</li>		  												<li class="show_login_modal" id="show_login_modal" accesskey="L" tabindex="0"><a tabindex="-1" href="javascript:;" style="padding-left:10px;padding-right:10px;"><span class="text-small">Hello Guest</span><span class="text-large">Login or Signup</span></a>				
+</li>
+		  												<li class="show_login_modal" id="show_login_modal" accesskey="L" tabindex="0"><a tabindex="-1" href="javascript:;" style="padding-left:10px;padding-right:10px;"><span class="text-small">Hello Guest</span><span class="text-large">Login or Signup</span></a>				
 					<!-- File Name: 'get-modalbox-ajax.tpl' -->
 <script>
 $(document).ready(function(){
@@ -131,6 +159,7 @@ $(document).ready(function(){
 	});
 });
 </script>
+
 				</li> 
 						  <li class="dropdown feedback" tabindex="0">
 		<a tabindex="-1" href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="text-small">Feedback &amp;</span><span class="text-large">Support</span> <b class="caret"></b></a>
@@ -146,7 +175,7 @@ $(document).ready(function(){
 <div class="col-xs-12 hidden-sm hidden-md hidden-lg nav-xl">
 	<nav id="small_screen_nav" class="navbar-collapse collapse" role="navigation">
         <ul class="nav navbar-nav" role="menubar" id="courses_list_menu">
-			                            <li class="dropdown">
+						                            <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" id="testprep_advisor_menu">Title Advisor<span class="caret"></span></a>
                     <!-- File Name: 'pe-menubar-courses.tpl' -->
 <ul class="dropdown-menu nm">
@@ -158,7 +187,8 @@ $(document).ready(function(){
 	<li><a href="http://www.ucertify.com/courses/updated.html" id="course" >Updated Courses</a></li>
 	<li><a href="http://www.ucertify.com/courses/new.html" >New Courses </a></li>
 	<li><a href="http://www.ucertify.com/features/" >Features</a></li> -->
-</ul>                </li>
+</ul>
+                </li>
                                                             <li class="nav-divider"></li>
                                         <li class="show_login_modal" id="show_login_modal_small">
                     	<a href="javascript:;" style="padding-left:10px;padding-right:10px;"><span class="text-small">Hello Guest</span><span class="text-large">Login or Signup</span></a>
@@ -170,11 +200,11 @@ $(document).ready(function(){
 $(document).ready(function(){
 		$(document).keyup(function(evt) {
 		var _this = $(':focus');
-		// @saquib : commented because focus is applied twice it has been managed by toc_ajax.pl
-		// if(_this.closest('li').hasClass('toc_chapters','toc_sections')){
-		// 	$('.toc_chapters a').removeClass('dotted-border');
-		// 	_this.addClass('dotted-border');
-		// }
+		/*@saquib : commented because focus is applied twice it has been managed by toc_ajax.pl
+		if(_this.closest('li').hasClass('toc_chapters','toc_sections')){
+			$('.toc_chapters a').removeClass('dotted-border');
+			_this.addClass('dotted-border');
+		}*/
 		if(evt.keyCode==32 && (_this.is(':checkbox') || _this.hasClass('set_bit')) )_this.click();
 		if(evt.keyCode==13 && $('.grid-dropdown.active').length==0){
 			if(_this.hasClass('drop-btn')){_this.click()}
@@ -215,40 +245,111 @@ $(document).ready(function(){
 		$(this).css({outline:0});
 	});
 	});
+
+function showBrowseMenu() {
+	if($('body').css('overflow-y')!='hidden') {
+		$('body').css('overflow-y', 'hidden');
+	} else {
+		$('body').css('overflow-y', 'auto');
+	}  
+	$("#top_menubar").toggleClass('hide');
+	$(".Exam-menu").toggleClass('browse-menu');	
+}
+
 function detectIE() {
- var ua = window.navigator.userAgent;
- var msie = ua.indexOf('MSIE ');
- if (msie > 0) {
-   return true;
- }
- var trident = ua.indexOf('Trident/');
- if (trident > 0) {
-   var rv = ua.indexOf('rv:');
-   return true;
- }
- return false;
+	var ua = window.navigator.userAgent;
+	var msie = ua.indexOf('MSIE ');
+	if (msie > 0) {
+		return true;
+	}
+	var trident = ua.indexOf('Trident/');
+	if (trident > 0) {
+		var rv = ua.indexOf('rv:');
+		return true;
+	}
+	return false;
 }
 </script>
-<style>
-.max-77{max-width:77%;}
-.max-65{max-width:65%!important;}
-.visible{display:block;}
-#courses_list_menu .dropdown-backdrop{z-index:0}
-</style>
-
 			  				</div>
 		</header>
 	</div>
 </div>
+<div id="instructor_evaluation_div" is_loaded="0"></div>
 <!--File Name:pe-scroll_top.tpl-->
-<div class="scroll_outer back-to-top" rel="tooltip" title="Back to top">
+<div class="scroll_outer back-to-top min_pos" rel="tooltip" title="Back to top" tabindex="0">
 	<div class="scroll_inner mt-md">
 		<span class="icomoon-arrow-up s5"></span>
+        <span class="sr-only">Scroll to top button</span>
 	</div>
-</div>									<div class="container page_wrapper">
+</div>			<!-- File Name: 'pe-content-formatting.tpl' -->
+<script>
+// default setting
+var oldB = 100, 
+    oldCMode = "whi", 
+    expireTime = 1*30, 
+    colorSel = "#main-page",
+    oldFF = 'open sans, Helvetica, Arial, Times New Roman, sans-serif',
+    headFF = '.whi h1, .whi h2, .whi h3, .whi h4, .whi h5, .whi h6',
+    setting = "_settings_",
+    audioState = 'disable';
+/** sbs:showbookmarksetting
+  * bs:bookmark setting
+  * cbs:close bookmark setting
+  * bfs:book font size
+  * bcm: book color mode
+  * setCMode:set Color mode
+  * bb:book brightness
+  * bbr:book brightness range */
+$(document).ready(function() {
+    $('#container,#cbs').on('click', function() {
+        $("#bs").hide();
+    });
+    $("body").on('click', '.settings_tab a', function() {
+        ($(this).parent().attr('id') == 'font_settings_tab') ? $("#restore_default").removeAttr('disabled') : $("#restore_default").attr('disabled','true');
+    });
+    $("body").on('click', '.increase, .decrease', function() {
+        var sel = $(this).parent().find("input");
+        var a = parseInt(sel.val());
+        if(a >= parseInt(sel.attr("min")) && a <= parseInt(sel.attr("max"))) { 
+            $(this).hasClass("icomoon-plus") ? sel.val(a+1).change() : sel.val(a-1).change();
+        }
+    });
+    if($.cookie(setting + "fontfamily") != null) {
+        oldFF = $.cookie(setting + "fontfamily");
+        $(headFF).css('font-family', oldFF);
+        setFontFamily(oldFF, setting);
+    }   
+    if($.cookie(setting + "color") != null) {
+        oldCMode = $.cookie(setting + "color");
+        setCMode(oldCMode, setting);
+    }
+    if($.cookie(setting + "audio") != null) {
+        audioState = $.cookie(setting + "audio");
+        setAudioButton(audioState, setting);
+    }
+    $("body").on("change", '#ffr', function() {
+        setFontFamily("", setting)
+    });
+    $("body").on('click', '.c_mode .btn', function() {
+        $(this).hasClass("active") ? $(this).removeClass("active") : $(".c_mode .btn").removeClass("active"), $(this).addClass("active");
+        setCMode($(this).attr("id"), setting);
+    });
+    if($("#manage_settg").length > 0){
+        $("nav .font-body ul #sbs").css("display", "none");
+    }
+});
+</script>
+<style>
+    #main-page, #main-page li {
+        font-size: unset;
+    }
+</style>
+
+							<div class="container page_wrapper">
 			<div id="container" class="row  animated fadeInLeft">
-				<div class="col-md-12 col-sm-12 col-xs-12 pt-xl npl npr whi" aria-live="assertive" role="main" id="main-page" style="">
+				<div class="col-md-12 col-sm-12 col-xs-12 pt-xl npl npr whi" aria-live="assertive" aria-atomic="true" role="main" id="main-page" mode="" style="">
 					<!-- File Name: 'pe-notice.tpl' -->
+
 	<!-- File Name: 'pe-open_test_session.tpl' -->
 <script>
 	$('#terminate_test').on('click',function(){
@@ -265,55 +366,18 @@ function detectIE() {
 			}
 		});
 	});
-</script>	<!-- File Name: 'pe-profile_update_warning.tpl' -->
+</script>
+	<!-- File Name: 'pe-profile_update_warning.tpl' -->
 	<!-- File Name: 'contactus_new.tpl' -->
-<style>
-body
-{
-	background:#fff!important;
-}
-.page_wrapper
-{
-	font-family:'Open Sans', sans-serif!important;
-}
-#content h2{margin-top:20px}
-.compare
-{
-	background-color: #F1F1F1;
-	border: 2px solid #FFFFFF;
-	color: #666666;
-	font-size: 12px;
-	font-weight: normal;
-	padding: 10px;
-	text-align: left;
-}
-#main-page
-{
-	-webkit-box-shadow: none;
-	-moz-box-shadow: none;
-	box-shadow: none;
-}
-.slevel_heading
-{
-	font-size:26px;
-	margin:13px 0;
-	font-family:'Open Sans', sans-serif!important;
-	font-weight:400!important;
-}
-section:nth-child(odd)
-{
-	background-color:#F2F2F2;
-}
-</style>
-
-<section class="pt-md pb-lg">
+<script>var i=0;var page = "contactus"</script>
+<section class="container pt-md">
 	<div class="container cpt nh header_top h1">
 		Privacy Policy
 		
 	</div>
 </section>
-<section class="pb-xl pt-md">
-	<div class="container">
+<section class="container pt-md pb-md">
+	<div class="container text-justify support_id">
 		<h3>Our Commitment:</h3>
 
 <p>We are committed to protect your privacy. We assure you that the personal information you provide to uCertify over the Internet is treated with utmost care to ensure safety, security and confidentiality.</p>
@@ -337,8 +401,153 @@ section:nth-child(odd)
 <p>Any material changes in the way uCertify uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices to legal@uCertify.com. Please refer the privacy policy in your subject line. uCertify will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.</p>	
 	</div>
 </section>
+<!-- FileName : copyright_info.tpl -->
+<style>
+.footerRights {
+  background: #f5f5f5 !important;
+  color: #333 !important;
+  font-size: 14px !important;
+  clear: both;
+}
+.footerRights .container {
+  background: #f5f5f5 !important;
+}
+.social-icons span:hover {
+  opacity: 0.6;
+}
+.footer-bar {
+  font-size: 13px;
+  border-top: 1px solid #ccc;
+  color: #555;
+}
+.footer_menu a {
+  color: #555;
+}
+.footer_menu a:hover {
+  color: #777;
+}
+.social-icons .icomoon-google-plus,.social-icons .icomoon-instagram, .social-icons .icomoon-blogger, .social-icons .icomoon-twitter, .social-icons .icomoon-facebook, .social-icons .icomoon-linkedin, .social-icons .icomoon-youtube {
+  color: #fff;
+  padding: 8px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+.social-icons .icomoon-twitter {	
+  background-color: #1dcaff;
+}
+.social-icons .icomoon-facebook {
+  background-color: #3b5998;
+}
+.social-icons .icomoon-linkedin {
+  background-color: #287bbc;
+}
+.social-icons .icomoon-youtube {
+  background-color: #bb0000;
+  padding: 7px 8px;	
+}
+.social-icons .icomoon-google-plus {
+  background-color: #D44326;	
+}
+.social-icons .icomoon-blogger{
+  background-color: #F89659;
+}
+.social-icons .icomoon-instagram{
+  background: #f09433; 
+  background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+  background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+  background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+}
+.social-icons ul li {
+  padding: 0 4px;
+}
+</style>
+<div id="footerRights" class=" footerRights">
+	<section class="bottom-divider np">
+		<div class="container" style="min-height:280px">
+			<div class="col-md-5 col-sm-12 col-xs-12 pt-lg">
+				<div><a href="http://www.ucertify.com/"><img src="http://www.ucertify.com/layout/themes/bootstrap3-2016/images/logo/logo.gif" alt="uCertify"></a></div>
+				<p class="text-justify">
+					uCertify provides courses, simulator, labs, test prep kits for IT certifications including Microsoft, Oracle, Cisco, CompTIA, CIW, PMI, ISC2, Linux, Zend, Google, IC3 , Adobe and many more.
+				</p>
+				<div class="mt-md">
+					© 2002-2017 <a href="http://www.ucertify.com/" target="blank"><b>uCertify</b></a>.
+					 All Rights Reserved
+				</div>
+				<div class="mt-md">
+					<div class="pull-left pr-md mt"><a href="https://itunes.apple.com/us/app/ucertify/id1130631062?mt=8" target="_blank"><img src="//s3.amazonaws.com/ucertify_website_asset/images/app_store.png" alt="app_store"></a></div>
+					<div class="pull-left pr-md mt"><a href="https://play.google.com/store/apps/details?id=com.pegoldnative" target="_blank"><img src="//s3.amazonaws.com/ucertify_website_asset/images/google_play.png" alt="google_play"></a></div>
+				</div>
+			</div>
+			<div class="col-md-7 col-sm-12 col-xs-12 pt-lg">
+				<div class="col-md-4 col-sm-4 col-md-offset-1 np">
+					<h3>Know Us</h3>
+					<ul class="list-unstyled">
+						<li class="mt-sm"><a href="http://www.ucertify.com/about/about.html" target="_blank">About us</a></li>
+						<li class="mt-sm"><a href="http://www.ucertify.com/about/career_page.html" target="_blank">Careers</a></li>
+						<li class="mt-sm"><a href="http://www.ucertify.com/about/partners.html" target="_blank">Partners</a></li>
+						<li class="mt-sm"><a href="http://www.ucertify.com/about/sitemap.html" target="_blank">Sitemap</a></li>
+						<li class="mt-sm"><a href="http://www.ucertify.com/about/contactus.html" target="_blank">Contact us</a></li>
+						<li class="mt-sm"><a href="http://www.ucertify.com/about/terms.html" target="_blank">Terms &amp; Conditions</a></li>
+						<li class="mt-sm"><a href="http://www.ucertify.com/about/privacy.html" target="_blank">Privacy Statement</a></li>
+					</ul>
+				</div>
+				<div class="col-lg-7 col-md-7 col-sm-7 social-icons np">
+					<div class="pb-sm">
+						<h3>Subscribe To Our Newsletter</h3>
+						<form name="newsletter-form" id="newsletter-form" method="post" autocomplete="off">
+							<div class="input-group subscribe_email-group">
+						      <input type="email" name="subscribe_email" aria-label="Email" id="subscribe_email" class="form-control" placeholder="Email">
+						      <span class="input-group-btn">
+						      	<button name="subscribe_btn" id="subscribe_btn" class="btn btn-secondary btn-inverse" type="button" onclick="return subscribe_newsletter()">Subscribe</button>
+						      </span>
+						    </div>
+						</form>
+					</div>
+					<h3 class="pb-md">Follow Us</h3>
+					<ul class="list-inline">
+						<li class="mb-xl"><a href="https://www.facebook.com/Certifications" aria-label="connect with us through facebook" target="_blank" rel="tooltip" data-original-title="facebook"><span class="icomoon-facebook s3 text-grey"></span></a></li>
+						<li class="mb-xl"><a href="https://twitter.com/uCertify" aria-label="connect with us through twitter" target="_blank" rel="tooltip" data-original-title="twitter"><span class="icomoon-twitter s3 text-grey"></span></a></li>
+						<li class="mb-xl"><a href="https://www.youtube.com/channel/UCsem74kC-T1la_3ngKE1S9w" aria-label="connect with us through youtube" target="_blank" rel="tooltip" data-original-title="youtube"><span class="icomoon-youtube s3 text-grey"></span></a></li>
+						<li class="mb-xl"><a href="https://www.linkedin.com/company/383839" aria-label="connect with us through linkedin" target="_blank" rel="tooltip" data-original-title="linkedin"><span class="icomoon-linkedin s3 text-grey"></span></a></li>
+						<li class="mb-xl"><a href="https://plus.google.com/u/0/107164712829241902159" aria-label="connect with us through google plus" target="_blank" rel="tooltip" data-original-title="google plus"><span class="icomoon-google-plus s3 text-grey"></span></a></li>
+						<li class="mb-xl"><a href="http://www.ucertify.com/blog/" aria-label="connect with us through blog" target="_blank" rel="tooltip" data-original-title="blog"><span class="icomoon-blogger s3 text-grey"></span></a></li>
+						<li class="mb-xl"><a href="https://www.instagram.com/ucertify/" aria-label="connect with us through instagram" target="_blank" rel="tooltip" data-original-title="instagram"><span class="icomoon-instagram s3 text-grey"></span></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
 <script>
-$("#main-page").removeClass('whi p-xl r-md');
+function subscribe_newsletter(){
+	if(validateForm('subscribe_email')){
+		var email = $('#subscribe_email').val();
+		activate(1);
+		$.get("http://www.ucertify.com/pe-setdata.php?func=subscribe_to_newletter&ajax=1&email=" + email + "&stop_email=0",function(res){
+			if(res == 1) {
+				msg = "Thank you for subscribing to our newsletter. You've been successfully subscribed.";
+				showmsg(msg);
+			}
+			else if(res == -1) {
+				msg = "You've already subscribed to our newsletter.";
+				showmsg(msg);
+			}
+			else {
+				msg = "Some problem occurred. Please try again after some time." ;
+				showmsg(msg);
+			}
+			$('#subscribe_email').val('');
+			activate(0);	
+		});		
+	}
+	else {
+		return false;
+	}
+}
+</script>
+<script>
+$("#main-page").removeClass('whi p-xl r-md').addClass('nm np');
 $(".page_wrapper").removeClass("container");
 $(".page_wrapper").addClass("container-fluid");
 $('head').append('<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" />');
@@ -348,6 +557,7 @@ $('head').append('<link href="//fonts.googleapis.com/css?family=Open+Sans:400,30
 		</div>				<!--  	class="page_wrapper"	-->	
 								<!-- File Name: 'prepengine-footer-bar.tpl' -->
      
+
 			<!-- File Name: 'prepengine-footer.tpl' -->
 <!-- File Name: 'pe-keyboard-shotcut-model.tpl' -->
 <div id="modal-keyboard-shortcut" class="modal keyboard" tabindex="-1" role="dialog" aria-hidden="true">
@@ -468,7 +678,7 @@ $('head').append('<link href="//fonts.googleapis.com/css?family=Open+Sans:400,30
 											<tr><td>Next</td><td>N</td></tr>
 											<tr><td>Device Tab</td><td>D</td></tr>
 											<tr><td>Exercise Tab</td><td>X</td></tr>
-											<tr><td>Evidance Tab</td><td>V</td></tr>
+											<tr><td>Evidence Tab</td><td>V</td></tr>
 											<tr><td>Answer Tab</td><td>A</td></tr>
 											<tr><td>Device Selection</td><td>Up &amp; Down arrow key</td></tr>
 											<tr><td>Device Actions</td><td>Tab+Enter (After selecting device)</td></tr>
@@ -551,29 +761,26 @@ $(document).ready(function(){
 	});
 });
 </script>
-<style>
-	#modal-keyboard-shortcut .modal-body table td{letter-spacing: 0.3px;word-break: break-all;padding: 9px 10px 0px;}
-	#modal-keyboard-shortcut table tbody tr:last-child td{padding-bottom: 9px;}
-	#modal-keyboard-shortcut .panel-heading, #modal-keyboard-shortcut .panel-body {padding:0;}
-	#modal-keyboard-shortcut .panel-heading a{padding: 0px 10px 1px;display:block;}
-	#modal-keyboard-shortcut .panel-heading span.caret{float: right;margin: 17px 13px 0 0;}
-	#modal-keyboard-shortcut .modal-body table tr td:first-child {width:45%}
-	#modal-keyboard-shortcut .panel-default > .panel-heading{background: transparent;box-shadow: inset 1.5px 1.5px 4px #f5f5f5;}
-</style>
+
 <!-- File Name: 'ga-tracking-code-footer.tpl' -->
 <script type="text/javascript">
 if(trackview == false)
 {
 _gaq.push(['_trackPageview']);
 }
-  (function() {
+(function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = 'https://www.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+})();
 </script>
-<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/prepengine-footer.min.js?20170612"></script><script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/bootstrap.min.js?20170612"></script>
+
+<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/prepengine-footer.min.js?16122017"></script><script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/bootstrap.min.js?16122017"></script>
 <script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/plugins/newtheme-plugins.min.js"></script>
 <script>
-		</script>		
+		</script>
+
+		
+
 </body></html>
