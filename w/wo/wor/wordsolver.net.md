@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordsolver.net privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622172803id_/http%3A//wordsolver.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordsolver.net privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217100720id_/http%3A//wordsolver.net/privacypolicy) for the most accurate reproduction.*
 
-# WordSolver.net | Turn Letters into Words with our scrabble solver!
+# WordSolver | Turn Letters into Words with our scrabble solver!
 
 Log files are maintained (and retained for a few days) and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers. 
 
