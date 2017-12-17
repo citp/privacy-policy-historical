@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservativeintel.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617061119id_/http%3A//conservativeintel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservativeintel.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217172108id_/http%3A//conservativeintel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Conservative Intelligence Briefing
 
