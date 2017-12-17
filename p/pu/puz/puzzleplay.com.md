@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the puzzleplay.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175036id_/http%3A//www.puzzleplay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzleplay.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217171407id_/http%3A//www.puzzleplay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Ideal Internet, Inc. we appreciate our relationship with you, respect that your information is yours, and is committed to safeguarding your privacy when you're using [puzzleplay.com](http://www.puzzleplay.com/). The following describes our collection of and use of any information that we may collect from you. 
+Square Media LLC. we appreciate our relationship with you, respect that your information is yours, and is committed to safeguarding your privacy when you're using [puzzleplay.com](http://www.puzzleplay.com/). The following describes our collection of and use of any information that we may collect from you. 
 
 For each visitor to [puzzleplay.com](http://www.puzzleplay.com/), our web server does not recognize any information regarding the visitor's physical address, phone number, or e-mail address. We only collect information that you voluntarily provide to us.   
 
@@ -12,10 +12,6 @@ A cookie is a small amount of data that is sent to your computer's hard drive th
 
 **Advertising**  
 We use third-party advertising companies to serve ads when you visit [puzzleplay.com](http://www.puzzleplay.com/). These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [http://www.networkadvertising.org/managing/opt_out...](http://www.networkadvertising.org/managing/opt_out.asp) To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/)
-
-**Questions**  
-If you have any questions, please take a look at our [contact us](https://web.archive.org/contact-us) page.   
-
 
 **We may amend this Privacy Policy.**  
 If in the future this Privacy Policy is amended or updated, you will be subject to this Privacy Policy as amended or updated. We will not notify you of any amendments or updates to this Privacy Policy. It is your responsibility to check this Privacy Policy often for any changes hereto. 
