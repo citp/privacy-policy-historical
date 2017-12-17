@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630041758id_/http%3A//www.blurb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217031118id_/http%3A//www.blurb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Book publishing services | Blurb Books | Blurb
 
@@ -24,17 +24,15 @@ Please read this Privacy Policy carefully. By accessing and using our Website an
 
  **By accessing or using our Website or Services or otherwise providing Personal Information to us, you consent to the processing, transfer and storage of information in and to the United States for these purposes. Please be aware that countries, which are located outside the EEA, may not offer the same level of data protection as countries located in the EEA, although our collection, storage and use of your Personal Information will continue to be governed by this Privacy Policy.**
 
-Blurb participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Blurb is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+Blurb, Inc. complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Blurb, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
-Blurb is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Blurb complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Blurb is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Blurb complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Swiss individuals, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Blurb is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Blurb may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-Blurb complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Blurb has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Blurb’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
 You may revoke your consent at any time by contacting Blurb (address below) or by deleting the Personal Information you have submitted through our Website or Services.
 
