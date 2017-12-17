@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucertify.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612204444id_/http%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucertify.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217161849id_/http%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy -uCertify
 
