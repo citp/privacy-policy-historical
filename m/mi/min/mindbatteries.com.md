@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindbatteries.com privacy policy that was archived on 2017-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170104191743id_/http%3A//mindbatteries.com/homes/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindbatteries.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217200255id_/http%3A//mindbatteries.com/homes/privacy) for the most accurate reproduction.*
 
 # Privacy
 
