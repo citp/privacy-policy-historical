@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverireland.ie privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610065016id_/http%3A//www.discoverireland.ie/Info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverireland.ie privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217231214id_/http%3A//www.discoverireland.ie/Info/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Discover Ireland
 
@@ -6,7 +6,7 @@
 
 Last updated 07/03/13
 
-This Privacy and Cookies Policy (the "Policy"), refers to the website, [www.discoverireland.ie](http://www.discoverireland.ie/) (the "Website"). The Website is operated by the National Tourism Development Authority, also known as Fáilte Ireland, ("we" or "the Authority"), whose principal place of business is at 88-95 Amiens Street, Dublin 1.
+This Privacy and Cookies Policy (the "Policy"), refers to the website, [www.discoverireland.ie](https://web.archive.org/) (the "Website"). The Website is operated by the National Tourism Development Authority, also known as Fáilte Ireland, ("we" or "the Authority"), whose principal place of business is at 88-95 Amiens Street, Dublin 1.
 
 This Policy (together with our Terms of Use and any other documents referred to in such Terms of Use) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. 
 
