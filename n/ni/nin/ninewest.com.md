@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the ninewest.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613163658id_/http%3A//www.ninewest.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninewest.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217154452id_/http%3A//www.ninewest.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Shoes for Women | Handbags for Women | Nine West
-
-Nine West Privacy Policy
-
-Last revised and effective as of March 13 , 2017.
+# Privacy Policy | Nine West
 
 This ninewest.com website is a service of Nine West Holdings, Inc. for its Nine West brand (“Nine West”).
 
 This Privacy Policy applies to information that may be collected by or on behalf of Nine West, such as in Nine West’s stores, online at ninewest.com, through Nine West mobile applications and to customer service representatives. Our Privacy Policy tells you the types of information we collect, how we use this information, and when we share it with third parties or our affiliated brands and affiliated companies.
 
-The information on this website and our Privacy Policy are subject to change from time to time. We will post at the top of this Privacy Policy the date that modifications were last made, which should alert you to any changes since your last visit to the website. Any material changes to our Privacy Policy and practices will be reflected on this page. Please read and refer to this Privacy Policy from time to time so that you are aware of our current privacy practices. Your continued use of the website after the posted effective date constitutes your agreement to the then revised Privacy Policy. By doing business with Nine West and by accessing and using our website or by providing personal information online or at one of our store locations, you consent to the collection and use of this information by Nine West as described in this Privacy Policy.
-
-.
+The information on this website and our Privacy Policy are subject to change from time to time. We will post at the top of this Privacy Policy the date that modifications were last made, which should alert you to any changes since your last visit to the website. Any material changes to our Privacy Policy and practices will be reflected on this page. Please read and refer to this Privacy Policy from time to time so that you are aware of our current privacy practices. Your continued use of the website after the posted effective date constitutes your agreement to the then revised Privacy Policy. By doing business with Nine West and by accessing and using our website or by providing personal information online or at one of our store locations, you consent to the collection and use of this information by Nine West as described in this Privacy Policy. 
 
 Nine West may collect and store two types of information: “personal information” and “automatic information.” 
 
@@ -26,11 +20,9 @@ is information that we may collect automatically whenever you interact with this
 
 We may associate automatic information with your personal information. In the event of such association, such automatic information will be considered personal information. 
 
-.
-
 Nine West collects data that you provide to us in the following ways: (i) on ninewest.com; (ii) by downloading and using the Nine West mobile application; (iii) through transactions, email registrations, participation in loyalty programs, sweepstakes, contests, quizzes and surveys, or online memberships; (iv) by communicating with our sales associates in our company-owned Nine West stores and outlets; (v) through phone, mail and fax interactions or paper registrations that you submit to Nine West; and (vi) from information collected about you by our affiliated brands and shared with Nine West. For information about Nine West’s affiliated brands, please click here.
 
-Nine West also collects data that we obtain from third parties. We occasionally obtain email addresses of active Nine West store customers who requested emails regarding fashion on other websites. Nine West also may obtain publicly accessible customer demographics and information about you from commercially available databases and sources. 
+NNine West also collects data that we obtain from third parties. We occasionally obtain email addresses of active Nine West store customers who requested emails regarding fashion on other websites. Nine West also may obtain publicly accessible customer demographics and information about you from commercially available databases and sources. 
 
 Nine West also collects automatic information through the use of cookies or pixel tags (also known as web beacons). 
 
@@ -45,7 +37,7 @@ Nine West also uses third party internet analytics firms, such as Google Analyti
 We may also collect geolocation data based on your then current location, ncluding that of any mobile devices you may have used to access our website, to provide location-based services. We may also work with third party vendors to use wi-fi networks to analyze the physical traffic patterns of anonymous users of mobile phone or other devices near and in our stores as a means to measuring the effectiveness of our store displays or promotions. 
 
 Nine West may use the information it collects in order to: 
-  * Confirm, process and fulfill sales transactions
+  * confirm, process and fulfill sales transactions
   * contact you about your order and respond to your inquiries
   * update and maintain your information in our databases
   * enable you to participate in our sweepstakes, contests and loyalty programs
@@ -83,7 +75,7 @@ We may also use and/or disclose to others information about your demographics an
 
 From time to time, we may partner with one or more co-sponsor(s) to conduct a contest, sweepstakes or other promotional event. In those situations, each of the participating co-sponsor(s) and the websites of each participating co-sponsor(s) may collect or receive personal information from you and will have the right to use your personal information in accordance with their own respective privacy policies. 
 
-We may disclose personal information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our [Terms and Conditions of Use](http://www.ninewest.com/Terms/TERMS,default,pg.html) or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our website, or anyone else who could be harmed by such activities. 
+We may disclose personal information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our [Terms and condition of use](http://www.ninewest.com/Terms/TERMS,default,pg.html)[Terms and condition of use](http://www.ninewest.com/on/demandware.store/Sites-ninewest-Site/default/mPage-Show?cid=TERMS). or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our website, or anyone else who could be harmed by such activities. 
 
 We may also disclose personal information when we reasonably believe that the law requires it. We might sell or buy subsidiaries, or business units. In such transactions, personally identifiable information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy policy unless subsequent consent otherwise has been obtained from you. Also, in the event that assets of Nine West are sold, personal information collected through this website or other means may be one of the transferred assets. Accordingly, we reserve the right to assign our rights and duties under this Privacy Policy to any third party at any time without notice to you, and such assignment rights shall include the ability to make an assignment in connection with any sale, merger, acquisition, divestiture or liquidation of all or part of our business or assets related to the website, all or substantially all of our other business or assets, or as part of any reorganization or restructuring of our business or assets. 
 
@@ -97,19 +89,13 @@ While this site is a general audience website we do not intentionally collect pe
 
 While you are using this website, you may be linked or directed to other third party sites outside of the website that are beyond our control. Each of these third parties may have a privacy policy different from ours. For example, you might click on a link or banner ad or place orders for delivery outside the United States (see “International” below) that will take you off the website. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. 
 
-Please review the privacy policies of these sites. We are not responsible for any actions or policies of such third parties. For more information, please read our [Terms of Use and Conditions of Service](http://www.ninewest.com/Terms/TERMS,default,pg.html). 
-
-.
+Please review the privacy policies of these sites. We are not responsible for any actions or policies of such third parties. For more information, please read our [Terms of Use and Conditions of Service](http://www.ninewest.com/Terms/TERMS,default,pg.html)[Terms of Use and Conditions of Service](http://www.ninewest.com/on/demandware.store/Sites-ninewest-Site/default/mPage-Show?cid=TERMS). 
 
 You may also seek to place an order on our site for shipment to a country outside the United States. When you click on our international shipping menu, select another country and indicate you would like to have an order shipped to that country, you will be redirected to a checkout page hosted by a third party (Borderfree, Inc.) with whom we have partnered to process and fulfill such orders internationally. Borderfree will present you with its terms and conditions and process your personal information under its own privacy policy. Once you place your order, you will be prompted to confirm whether you would like to receive marketing and other communications from Nine West. If you agree that Borderfree may share your data with Nine West, we will handle and use your information to supply you with such communications and as otherwise allowed in this Privacy Policy. 
 
 This ninewest.com website at present is hosted on servers located in the United States, although we reserve the right to host the website on servers located in other countries. By using this website, you consent to the personal information collected by us being transferred to, and being stored and handled in, countries (including the United States) that may be outside of your country of residence‚ and which may have different data protection rules than in your country of residence. 
 
-.
-
 Nine West customers living in the State of California may request and obtain once a year, free of charge, information regarding our disclosure of personal information to third parties for their direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information shared and the names and addresses of those third parties with which we shared your information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please contact us using the contact information indicated below in this Privacy Policy. 
-
-.
 
 If you are a user under 18 years of age and reside in California, you may request and obtain removal of, content or information that you have posted on the website. You may send us any such requests by one of the methods noted below under “How do I contact Nine West?” We will review the request and respond promptly. You should be aware that a request to remove content or information posted by you on the website does not ensure or require complete or comprehensive removal of such content or information from our databases. 
 
