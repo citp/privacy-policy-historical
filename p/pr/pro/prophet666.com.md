@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the prophet666.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622012200id_/http%3A//www.prophet666.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prophet666.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217110918id_/http%3A//www.prophet666.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Prophet666
+# Privacy Policy
 
-Privacy Policy for http://www.prophet666.com/ 
-
+Privacy Policy for http://www.prophet666.com/   
+  
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at prophetvcn@gmail.com. 
 
 At http://www.prophet666.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.prophet666.com/ and how it is used. 
