@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeinlofi.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616061836id_/http%3A//lifeinlofi.com/more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinlofi.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217202648id_/http%3A//lifeinlofi.com/more/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,6 +32,6 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 #### Website May Be Linked to Other Websites
 
-_Life In Lo-Fi_ creates links to third party websites. We are not responsible for the content or privacy practices employed by websites that are linked from our website.
+ _Life In Lo-Fi_ creates links to third party websites. We are not responsible for the content or privacy practices employed by websites that are linked from our website.
 
 ~~~~
