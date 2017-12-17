@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrolinedirect.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610160144id_/http%3A//www.metrolinedirect.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrolinedirect.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217183824id_/http%3A//www.metrolinedirect.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,11 +28,13 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into a token system to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file in the Yahoo! Store shopping system for more than 30 days.
+We also incorporate the Payment Card Industry Data Security Standard (PCI DSS). It is a set of security requirements that are followed to ensure the security of cardholder data and help prevent fraud, credit card hacking and many other security issues. 
 
- **Do we use cookies?**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file in our system.  In addition, financial information is not kept in the Yahoo! Store shopping system for more than 30 days.
+
+**Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
@@ -58,13 +60,13 @@ This online privacy policy applies only to information collected through our web
 
  **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our online privacy policy.
 
  **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 04/30/2013.
+This policy was last modified on 07/05/2017.
 
  **Contacting Us**
 
