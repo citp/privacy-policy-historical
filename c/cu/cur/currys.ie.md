@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currys.ie privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616203555id_/http%3A//www.currys.ie/content/privacypolicy/932) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currys.ie privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217095749id_/http%3A//www.currys.ie/content/privacypolicy/932) for the most accurate reproduction.*
 
 # Currys | Washing Machines | TVs | Cameras | Laptops
 
