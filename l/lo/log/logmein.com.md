@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the logmein.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614064252id_/https%3A//secure.logmein.com/home/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logmein.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217062650id_/https%3A//www.logmeininc.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LogMeIn
 
-**LogMeIn Privacy Policy**
-
-**Last Updated on May 1, 2017**
+Last Updated on May 1, 2017
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=fba27947-4f34-42a8-8c55-a11247ed7413)
 
@@ -16,9 +14,11 @@ If you have any questions about this privacy policy or our practices, please [co
 
 **EU-U.S. and Swiss Privacy Shield**
 
+[](https://privacy.truste.com/privacy-seal/validation?rid=fba27947-4f34-42a8-8c55-a11247ed7413)
+
 LogMeIn has self-certified to the EU-U.S. Privacy Shield and Swiss Privacy Shield with respect to Customer Data. For more information, see our [Privacy Shield Notice](https://secure.logmein.com/home/en/policies/privacy-shield).
 
-**_Contents:_**
+**Contents:**
 
   1. **Information We Collect and Receive**
   2. **How We Use the Information We Collect and Receive**
@@ -69,7 +69,7 @@ Some specific examples of how we use the information:
 
 LogMeIn also collects and stores meeting attendee information in order to fulfill our obligation to our customers and provide the Services. With their consent, we may also directly provide product and other LogMeIn related information to attendees. LogMeIn will retain your information for as long as your account with us is active, to comply with our legal obligations, to resolve disputes, and enforce our agreements.
 
-If you wish to cancel your account or for us to stop providing you services, or if we hold personal information about you and you want it to be removed from our database or inactivated, please _contact us_ here.
+If you wish to cancel your account or for us to stop providing you services, or if we hold personal information about you and you want it to be removed from our database or inactivated, please contact us here.
 
 **3\. Analytics, Cookies and Other Web Site Technologies**
 
