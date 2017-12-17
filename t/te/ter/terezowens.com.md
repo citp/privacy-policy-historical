@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terezowens.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604032915id_/http%3A//terezowens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terezowens.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217154836id_/http%3A//terezowens.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Terez Owens - #1 Sports Gossip Blog
 
