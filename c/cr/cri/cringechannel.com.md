@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cringechannel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164728id_/http%3A//cringechannel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cringechannel.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217051907id_/http%3A//cringechannel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Cringe Channel
 
