@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616151341id_/http%3A//www.hairboutique.com/static/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217171217id_/http%3A//www.hairboutique.com/static/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # HairBoutique Privacy Policy
 
@@ -51,9 +51,3 @@ HairBoutique.com
 Carrollton, TX 75007  
 webmaster@hairboutique.com  
 
-
-| 
-
-| **Daily Hair Tip**  
----  
-There are different types of conditioners including pre-shampoo, rinse-out, leave-in and deep conditioning. Olive oil and other volume enhancing products may help strip hair color. When in doubt, ask your stylist.
