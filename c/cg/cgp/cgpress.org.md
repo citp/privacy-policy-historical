@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgpress.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044537id_/http%3A//cgpress.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgpress.org privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217074504id_/http%3A//cgpress.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - CGPress
 
@@ -22,9 +22,9 @@
 
 Welcome to the CGPress Website located at http://cgpress.org/ (the “Website”) which includes all subdomains present and future. We hope you enjoy your visit and / or use of the Website. By visiting and / or using the Website, you agree to be bound by the terms of the present agreement, known as the Privacy Policy (the “Policy”). 
 
-CGPress is owned and operated by Delicate Machines Graphics Inc. (“DMGI”), a duly-incorporated business located in Nova Scotia, Canada. Where the present Policy refers to “CGPress”, it may refer to CGPress (and / or its agents or representatives) or DMGI (and / or its officers, directors, employees, agents or representatives) or both, depending on the context. In the present Policy, CGPress may be referred to as “we” or “us” and Website visitors may be referred to as “you” or “your”, whether individually or collectively. 
+CGPress is owned and operated by Paul Roberts, located in Canterbury, UK. Where the present Policy refers to “CGPress”, it may refer to CGPress (and / or its agents or representatives) or Paul Roberts (and / or its officers, directors, employees, agents or representatives) or both, depending on the context. In the present Policy, CGPress may be referred to as “we” or “us” and Website visitors may be referred to as “you” or “your”, whether individually or collectively. 
 
-The Policy was last modified on July 16, 2014. CGPress reserves the right, at any time and without prior notice, to modify or replace any of the Policy. Any changes to the Policy can be found at this URL. It is your responsibility to check the Policy periodically for changes. Your use of the Website following the posting of any changes to the Policy constitutes acceptance of those changes.
+The Policy was last modified on October 09, 2017. CGPress reserves the right, at any time and without prior notice, to modify or replace any of the Policy. Any changes to the Policy can be found at this URL. It is your responsibility to check the Policy periodically for changes. Your use of the Website following the posting of any changes to the Policy constitutes acceptance of those changes.
 
 The Policy should be read in conjunction with the [Terms and Conditions](http://cgpress.org/terms_and_conditions), as both these documents govern your use of the Website.
 
@@ -102,6 +102,6 @@ CGPress, and / or its respective officers, directors, owners, officials, partner
 
 ### 12\. Comments, Questions and Requests
 
-For any comments, questions, requests to view, modify or delete your personal information held by CGPress, or other subjects related to our Privacy Policy or privacy practices please contact our Privacy Officer at the following email address: [privacy@cgpress.org](mailto:privacy@cgpress.org), or by mail at 10 Benview Drive, Dartmouth, Nova Scotia, Canada, B2Y 1W5.
+For any comments, questions, requests to view, modify or delete your personal information held by CGPress, or other subjects related to our Privacy Policy or privacy practices please contact our Privacy Officer at the following email address: [privacy@cgpress.org](mailto:privacy@cgpress.org), or by mail at 21 Hollow Lane, Canterbury, Kent, UK,CT1 3SB.
 
-© CGPress 2014
+© CGPress 2017
