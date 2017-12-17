@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solutioninn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155409id_/http%3A//www.solutioninn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutioninn.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217125621id_/http%3A//www.solutioninn.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Solution Inn
+# Privacy Policy - Solution Inn | Solutioninn.com
 
 Solution Inn's privacy policy states the rules and practices regarding the information users provide to the website. Solution Inn respects the privacy of site users and it is advisable that all users read the privacy policy terms carefully. 
 
