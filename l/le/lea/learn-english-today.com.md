@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learn-english-today.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616233803id_/http%3A//www.learn-english-today.com/cookie-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn-english-today.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217185058id_/http%3A//learn-english-today.com/cookie-policy.html) for the most accurate reproduction.*
 
-# Cookie policy | Learn-English-Today
+# Cookie policy information | Learn-English-Today
 
 No personal information concerning visitors is collected by this website. However, our advertising and statistic partners sometimes place small data files called cookies on your device.
 
