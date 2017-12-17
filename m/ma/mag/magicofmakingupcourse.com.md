@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicofmakingupcourse.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608022411id_/http%3A//magicofmakingupcourse.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicofmakingupcourse.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217224056id_/http%3A//magicofmakingupcourse.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Magic of Making Up
 
