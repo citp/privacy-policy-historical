@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollarstorecrafts.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614062546id_/http%3A//dollarstorecrafts.com/about-2/mailing-list/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarstorecrafts.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217141750id_/http%3A//dollarstorecrafts.com/about-2/mailing-list/privacy) for the most accurate reproduction.*
 
 # Privacy – Dollar Store Crafts
 
@@ -67,5 +67,5 @@ http://dollarstorecrafts.com
 1748 SE 12th Ave  
 Portland, OR 97214  
 USA  
-heather@dollarstorecrafts.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 
