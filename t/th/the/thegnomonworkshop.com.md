@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegnomonworkshop.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403020427id_/https%3A//thegnomonworkshop.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegnomonworkshop.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217232326id_/https%3A//www.thegnomonworkshop.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | The Gnomon Workshop
 
