@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albany.edu privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630045713id_/http%3A//wiki.albany.edu/x/IR7-AQ) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albany.edu privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217231318id_/http%3A//wiki.albany.edu/x/IR7-AQ) for the most accurate reproduction.*
 
 # Internet Privacy Policy - askIT - University at Albany
 
