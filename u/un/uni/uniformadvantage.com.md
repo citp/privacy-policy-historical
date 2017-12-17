@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniformadvantage.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124004414id_/http%3A//www.uniformadvantage.com/pages/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniformadvantage.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217234225id_/http%3A//www.uniformadvantage.com/pages/misc/privacy.asp) for the most accurate reproduction.*
 
 # At times Uniform Advantage may be required by law or litigation to disclose your personal information. Uniform Advantage may also disclose information about you if it determines that for national security, law enforcement, or other issues of public importance, disclosure is necessary.
 
