@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wab.edu privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617131000id_/http%3A//www.wab.edu/fs/pages/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wab.edu privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217185538id_/http%3A//www.wab.edu/fs/pages/7) for the most accurate reproduction.*
 
 # Privacy Policy - Western Academy of Beijing
 
