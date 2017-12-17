@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltipsfinder.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629060205id_/http%3A//alltipsfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltipsfinder.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217172625id_/http%3A//alltipsfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | all tips finder
 
@@ -67,4 +67,4 @@ The owner of this blog reserves the right to Edit or Delete any comment submitte
 
 If you have any questions regarding this Privacy policy you may contact us, details given below
 
-[www.alltipsfinder.com](http://www.alltipsfinder.com/)
+[www.alltipsfinder.com](http://alltipsfinder.com/)
