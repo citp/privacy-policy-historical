@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsi.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053318id_/http%3A//www.hsi.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsi.org privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217034211id_/http%3A//www.hsi.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Humane Society International
 
