@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herald.ie privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630204123id_/http%3A//www.herald.ie/service/privacy-and-cookie-policy-29050448.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald.ie privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217221506id_/http%3A//www.herald.ie/service/privacy-and-cookie-policy-29050448.html) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Herald.ie
 
