@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trading-point.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608144334id_/http%3A//trading-point.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trading-point.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217114425id_/http%3A//www.trading-point.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
