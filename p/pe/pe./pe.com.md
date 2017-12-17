@@ -1,75 +1,267 @@
-> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210200915id_/http%3A//www.freedom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217183914id_/http%3A//www.pe.com/privacy-policy) for the most accurate reproduction.*
 
-# Freedom Communications, Inc. - Privacy Policy
+# Privacy Policy – Press Enterprise
 
-[en Español](https://web.archive.org/web/20151210200915id_/http%3A//www.freedom.com/privacidad.html)
+## Digital First Media
 
-Freedom Communications, Inc. (“Freedom”) has agreed to sell the assets of the Lima News, Sedalia Democrat, Jacksonville Journal Courier and Alton Telegraph (the “Properties”) to an affiliate of Ohio Community Media, an Ohio-based publisher of community newspapers. This affiliate, called Testor FCI Acquisition, LLC (“Publisher”), plans to continue the Properties’ operations uninterrupted after the sale to provide readers with high quality local news services. 
+Digital First Media, a business name of MediaNews Group, offers news reporting and third party advertising and directory opportunities through its more than 800 multi-platform products which include web, mobile, tablet and print.
 
-As part of this sale, Freedom will be transferring to Publisher customer data collected from users of the Properties’ websites. Customer data transferred to Publisher will be held and maintained by Publisher pursuant to Publisher’s respective privacy policies, which can be found at the following: [http://lima.ohcommedia.com](http://lima.ohcommedia.com/), [http://sedalia.ohcommedia.com](http://sedalia.ohcommedia.com/), [http://jacksonville.ohcommedia.com](http://jacksonville.ohcommedia.com/) and [http://alton.ohcommedia.com](http://alton.ohcommedia.com/). Please do not register or submit information to any of the Properties’ websites if you do not want your customer data transferred to Publisher. 
+## Privacy Policy
 
-This is the Privacy Policy for all Web sites owned or operated by Freedom Communications, Inc. ("Freedom" "we" or "our"), including, without limitation the Web sites listed [here](https://web.archive.org/web/20151210200915id_/http%3A//www.freedom.com/ppsites.html) (collectively, the "Site"). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the [User Agreement](https://web.archive.org/web/20151210200915id_/http%3A//www.freedom.com/eula.html) posted on the Site.
+PLEASE NOTE THAT OUR PRIVACY POLICY/TERMS OF USE ARE CHANGED PERIODICALLY AND HAVE CHANGED EFFECTIVE AS OF OCTOBER 12, 2011.
 
-**Managing Information Preferences**
+Digital First Media is committed to protecting your personal privacy. We provide this notice to explain the type of information we collect on web sites including SMS/Text Alerts and Mobile Web owned by the Digital First Media (www.digitalfirstmedia.com) and how we use this information. Our Privacy Policy/Terms of Use are available for you to review on the home page of every Digital First Media web site (“Policy”).
 
-We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or if you wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at: 
+As used in this Policy, the term “Digital First Media” includes all of its subsidiaries and affiliates and successors as well as their officers, directors, shareholders, members, agents, servants, and employees, including the entity operating this web site including SMS/Text Alerts and Mobile Web (the “Web Site”). This Policy also governs your use of the Web Site and any content made available from or through any web site owned and operated by Digital First Media and any comments or content you may post on any Digital First Media web site (the “Web Site”).
 
-17666 Fitch  
-Irvine , CA 92614  
-E-mail: [pp@freedom.com](mailto:pp@freedom.com)
+By visiting our Web Site or using the services offered on or through our Web Site, you agree to the terms of this Policy, as they may be amended from time to time. As we update and expand our Web Site and services, our Policy may change so check back to this page from time to time. Our Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Web Site, such as by phone, by mail or through other offline and print media. This Policy does not apply to information collected about you by anyone except us and only applies to the Web Site to which this policy is linked.
 
-If you would like to correct, update, or change your personal information with us please contact us the same way.
+Our Web Site(s) are intended for users who are located in the United States of America. Our Policy shall be interpreted under the laws of the United States.
 
-**What Types Of Information Do We Collect?**
+### A. Purpose
 
-We collect information that may personally identify you (such as your name, address, telephone number, email address, billing information, or other data which can be reasonably linked to such information) only if you choose to share such information with us. For example, we may collect personal information from you when you register on the Site, subscribe to one of our services, enter sweepstakes, contests or other promotions, and at other times. We also collect credit card information in connection with any purchase you make on or through the Site. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Site or other services.
+In order to make your visits to our Web Site and use of the services available on or through our Web Site as worthwhile as possible, we may ask you for personal information and we may collect certain information from your computer each time you visit us. “Personal Information” includes, for example, your name; home address; business address; e-mail address; telephone, wireless or fax number; short message service or text message address or other wireless device address; instant messaging address; credit card and other payment information; demographic information and other information that may identify you as an individual or allow online or offline contact with you as an individual. From time to time, other information, such as your age, gender, education and subscription information may also be requested. Our Policy explains, in general, what Personal Information and other information is collected on our Web Site, how the information is used, and with whom we may share such information.
 
-We may automatically collect non-personal information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the Web browser used to visit the Site, the time the Site is visited, which Web pages were visited on the Site, a unique mobile device identifier (in connection with the use of the Sites or related services from mobile devices) and other anonymous Site usage data.
+### B. What Information is collected on Our Web Sites?
 
-We also use cookies (a small file containing a string of characters that uniquely identifies your Web browser) and Web beacons (an electronic file placed within a Web site that monitors usage). We use cookies and Web beacons to improve the quality of the Site. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Certain of our Service Providers (defined below) may use cookies and Web beacons in connection with the services they perform on our behalf, including, without limitation, ad serving. 
+#### 1\. User Provided Information
 
-**How Do We Use The Information We Collect?**
+We collect two types of personally identifying information from users: personal data (such as names and contact details) and aggregated data (such as information about traffic patterns on the Web Sites, for example, how many users log onto the Web Site on a daily basis). We collect personal information from users of our Web Site, for example, through such users” activities, transactions and completion of online forms on our Web Site. Such information may be collected, for example, when users register or subscribe for accounts or features on our Web Site, make online purchases, enter sweepstakes and contests, complete surveys, contribute to a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on or through our Web Site, submit a comment or question to us using a “contact us” or similar feature on our Web Site, send us an e-mail, or in any other way submit information to us via our Web Site. You may be able to send information about our products and services to your friends and family members through our Web Site by clicking on an “E-mail to Friend” or similar button on our Web Site or in an e-mail that we have sent you. In some of these cases (unless you simply forward our e-mail on your own), you may provide the name and e-mail address of your friend or family member to us. Such information will be treated in accordance with our Policy and applicable law. You may also be able to send an online card to a friend or family member, or send them a gift or gift certificate. If so, you may be required to provide us with your friend’s or family member’s Personal Information. Such information will be treated in accordance with our Policy and applicable law.
 
-We will not sell, share, or rent personal information to third parties, and we will not otherwise disclose personal information to third parties, without your permission, except as disclosed in this Privacy Policy.
+#### 2\. Web Site Usage Information
 
-We use personal information and non-personal information for internal purposes, including: 
+##### (i) Cookies
 
-  * enhancing your experience at the Site;
-  * performing administration and technical support for the Site; 
-  * enabling you to enter sweepstakes, contests and other promotions;
-  * enabling you to use certain services and features available on or through the Site;
-  * creating aggregate information about demographics and usage patterns; 
-  * inviting our promotional vendors and advertisers—with your permission—to call to your attention special offers, products and services that may be of interest to you; and 
-  * enabling purchases of goods and services.
+We may use “cookies” to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a web server when you visit it and are stored on your computer’s hard drive for record keeping purposes. Cookies track where you travel on our Web Site and what you look at and purchase. They may store the information in your shopping cart, and/or your username and password. A cookie may enable us to relate your use of our Web Sites to other information about you, including your Personal Information. These purposes serve to improve and personalize your experience on our Web Sites. You may occasionally get cookies from our advertisers, which is standard in the internet industry. We do not control these cookies, and these cookies are not subject to our Policy. Most web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web Site or certain areas or features of our Web Site.
+
+##### (ii) Clear GIFs
+
+We may use “clear GIFs” (a/k/a “web beacons” or “pixel tags”) or similar technologies, on our Web Site and in our communications with you to enable us to know whether you have visited a web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an e-mail or other type of message, which is retrieved from a remote site on the internet enabling the verification of an individual’s viewing or receipt of a web page or message. A clear GIF may enable us to relate your viewing or receipt of a web page or message to other information about you, including your Personal Information.
+
+##### (iii) IP Address and Clickstream Data
+
+Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or Web Site registrations, is collected through various methods. For example, our server may automatically collect data about your server’s internet address when you visit us. This information, known as an Internet Protocol Address, or IP Address, is a number that is automatically assigned to your computer by your internet service provider whenever you”re on the internet. When you request pages from our Web Site, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another web site or a search engine); the pages you visit on our Web Site; the web site you visit after our Web Site; the ads you see; the ads you click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on our Web Site or a referral site; and other web usage activity and data logged by our web servers. We use this information for internal system administration, to help diagnose problems with our server, and to administer our Web Site. Such information may also be used to gather broad demographic information, such as country of origin and internet service provider. We may also link this information with your Personal Information when we feel that it is necessary to enforce compliance with our rules and policies or Terms of Use or to protect our Web Site, customers or others.
+
+Any or all of these activities with regard to Web Site usage information may be performed on our behalf by our services providers.
+
+### C. How is the Personal Information Used?
+
+We use both personal and aggregated information we collect for multiple purposes. The Personal Information may be used to improve the content of the Web Site, to customize the content and/or layout of the Web Site for each individual user, and to notify users about updates to the Web Site or promotional offers or opportunities that we believe will be of interest to you. We will use the Personal Information you provide to our Web Site, for example, to respond to your requests and to provide you with our product and service offerings. For example, we will process your orders, respond to your requests and inquiries and provide you with the services and features offered on or through our Web Site. We may also use your Personal Information to maintain our internal record keeping. We may also report information about your account to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report. We may match information collected from you through different means or at different times, including both Personal Information and Web Site usage information, and use such information along with information obtained from other sources, including third parties. In addition, we may send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you. You may opt-out of receiving such notices from us, at any time, by following the instructions in the Right to Opt-Out section below.
+
+We may analyze user behavior as a measure of interest in, and use of, our Web Site and e-mails, both on an individual basis and in the aggregate. We may also use information provided to us on an anonymous aggregated basis for purposes of analyzing traffic and usage patterns. In addition, we may use information you provide us through e-mails, Q & A, and in response to polls for editorial purposes, and may use your name and any stories you provide us in articles published online and in our print publications. Please be advised that any such submissions may be used by us for any lawful purpose. If you provide us with personal anecdotes, they may be attributed to you and we may include your user name and any personal information that you provide in an open forum on this Web Site, to facilitate such attribution. We can edit, rewrite, use, and reuse the content, including your name, likeness, photograph, and biographical information you provide, in any way and any media whether now known or invented in the future, with or without attribution, including publication in our newspaper, and in trade media, and advertising and promotions.
+
+### D. Do we Share Personal Information and Web Site Usage Information with Others?
+
+##### (i) Public Forums
+
+When you contribute to a public area or feature of our Web Site, such as a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on or through our Web Site, the information that you submit will be made available to the general public and will not be considered “Personal Information” for purposes of this Policy.
+
+Any comment or content you provide on the Web Site is subject to this Policy, including the Terms of Use set forth below.
+
+##### (ii) Third Party Offers
+
+We reserve the right to make our customer lists available to companies or other entities not affiliated with the Digital First Media that have goods, services and offers that we believe might be of interest to you. We may compile these lists from customer orders placed both offline and online or that customers allow us to collect by providing us with Personal Information. We may, from time to time, provide your Personal Information to these entities so that they may send you these offers. Customers have the option of having their names and identifying information removed from those DFM lists (subject to certain exceptions and limitations in applicable laws) by:
+
+1\. By Email: Send an email to unsubscribe@digitalfirstmedia.com. Be sure to include your name and clear instructions on what you would like us to do.
+
+2\. Send us your request via the mail. Be sure to include your name and clear instructions on what you would like us to do. Send to: Digital First Media, Online Policy, 101 West Colfax Ave. 11th Floor. Denver, CO 80202
+
+Customers should contact the non-DFM companies or entities that have been provided Personal Information by DFM to request that those third-party companies and entities remove the customers Personal Information.
+
+##### (iii) Co-sponsored Contests, Sweepstakes and Offerings
+
+Some of our contests, sweepstakes and other offerings may be co-sponsored by another company. In those situations, the information we obtain from you in connection with such contest, sweepstakes or offering may be shared with our co-sponsor. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. If you do not wish for the information we obtain from you to be shared with our co-sponsor, then do not enter such contest, sweepstake or other offering or otherwise provide to us any Personal Information in connection with such contest, sweepstake or other offering. We are not responsible for how our co-sponsors may use your information.
+
+##### (iv) Service Providers
+
+We may use third parties to help operate our Web Site and deliver our products and services, and may share your Personal Information with our affiliates, service providers and other third parties that provide products or services for or through this Web Site or for our business (such as web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf). Unless otherwise stated, these companies do not have any right to use the Personal Information we provide to them beyond what is necessary for them to assist us. In accordance with section D (i) above, information in forums, information submitted for sweepstakes or other offerings (including submitted video and pictures), become publicly available and may be used by us for any lawful purpose. We may share personal information with third parties, including, without limitation, vendors or other service providers, affiliates and partners.  
+When you conduct e-commerce with one of the e-commerce affiliates or service providers to which the Web Site may be linked, certain personal information such as your e-mail and home address may be collected by the service provider’s server and made available to us. We do not, however, transfer credit card information you may provide to that service provider.
+
+##### (v) Aggregate Statistics
+
+We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Web Site and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
+
+##### (vi) Our Right to Disclose Information Including Legally Compelled Disclosures
+
+We have the right, at our sole discretion, to disclose information posted on our Web Site and any other information you provide us including Personal Information, to third parties, including law enforcement personnel and in response to a subpoena or other lawful process potentially compelling disclosure of information without an obligation to provide prior notice to you. We are not obligated to contest any subpoenas or other requests for such information. You agree to all the terms and conditions of our Policy, including our right to disclose information provided as described herein as a condition of submitting a comment or content.
+
+Such disclosure may be made, at our sole discretion, when we have reason to believe that someone has committed, or will commit, unlawful acts or acts that endanger the health or safety of another; is causing injury to, or interference with, our rights or property, other users of the Web Site, or anyone else that could be harmed by such activities. In some situations, we may share the information you provide us, including your Personal Information, on a confidential basis, with third parties who perform a particular service on our behalf, such as sending e-mails.
+
+##### (vii) Business Transfer
+
+In the event that Digital First Media or any of its subsidiaries or affiliates, or substantially all of the assets of Digital First Media or any of its subsidiaries or affiliates, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, all information, including Personal Information may be one of the transferred assets. For purposes of this policy, an “affiliate” of Digital First Media or its subsidiaries is an entity that is under the control of, or under common control with, that entity (and for these purposes, a company controlling twenty 20% percent or more of the voting stock of another entity shall be deemed to control such entity).
+
+##### (viii) Third Party Ad Servers
+
+We may use third party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read the privacy policies of these third party ad servers if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer web site at www.networkadvertising.org/consumer/.
+
+Yahoo! is an ad network partner that displays ads on our Web Site. To improve your ad experience on our Web Site and elsewhere on the internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. To learn more about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you, see:  
+http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html.  
+Yahoo! is a member of the Network Advertising Initiative. See http://www.networkadvertising.org.
+
+##### (ix) Mobile Device Identifiers
+
+Certain mobile service providers uniquely identify mobile devices and DFM and its third-party service providers may receive such device information if you access a DFM Web Site through mobile devices. We may require collection of mobile phone numbers and text information due to certain features of our Web site and we may associate that phone number to mobile device identification information. Some mobile phone service providers operate systems that pinpoint the physical location of devices that use their services. Depending on the provider, DFM or its third-party service providers may receive this information.
+
+### E. Right to Opt-Out
+
+You have the right to “opt-out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Web Site, you may have the opportunity to elect to, or not to: (1) receive correspondence from us, or (2) have your Personal Information shared with other entities affiliated or unaffiliated with the Digital First Media for their marketing purposes. You may also make this request by calling (215) 867-2130 or by sending an e-mail to unsubscribe@digitalfirstmedia.com and indicating that you “opt-out” and do not want to receive any marketing correspondence from us or from affiliated and unaffiliated entities. In this e-mail, please indicate whether you would like to opt-out of (i) receiving any correspondence from us or from entities affiliated with us or unaffiliated third parties for their marketing purposes; or (ii) (selectively identify opt-out options, e.g., receipt of promotional correspondence, e-newsletters or correspondence, sharing of Personal Information with entities affiliated with you for their marketing purposes, sharing of Personal Information with unaffiliated third parties for their marketing purposes, etc.) You may also opt-out of the promotional e-mails by clicking on an opt-out link within the e-mail you.
+
+Please understand that if you opt-out of receiving correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will apply as of the date that is ten (10) business days after our receipt of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to the expiration of this ten (10) business day period to process such request. In these cases, please contact that entity directly.
+
+As noted in section D (ii) above, Customers should contact the non-DFM companies or entities that have been provided Personal Information by DFM to request that those third-party companies and entities remove the customers Personal Information.
+
+*Message and Data Rates May Apply. 3 msgs/day. For help, text HELP to the short code 22700, email support@insequent.com, or call 888-988-9683. You may cancel the mobile subscription at any time by texting STOP to the short code 22700. Customer Support: support@insequent.com or 888-988-9683.
+
+### F. Security
+
+#### 1\. General
+
+No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of the Journal Register Company to intercept or access transmissions or private communications unlawfully, including in the case of your contacting us by e-mail or a “contact us” or similar feature on our Web Site. Accordingly, though the Digital First Media may take reasonable steps to protect the security and integrity of all Personal Information provided to this Web Site, due to the inherent nature of the internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. Any such transmission is done at your own risk.
+
+You may be able to create an account on our Web Site with a username and password. If so, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Web Site by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee or agent. You agree to (a) immediately notify Digital First Media of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify Digital First Media when you desire to cancel your account on this Web Site. We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision.
+
+We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
+
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail or by other means as required by law. You consent to our use of e-mail as a means of such notification.
+
+#### 2\. Phishing
+
+With identity theft a continuing problem, it has become increasingly common for unauthorized individuals to send e-mail messages to consumers, purporting to represent a legitimate company such as a bank or on-line merchant, requesting that the consumer provide personal, often sensitive information. Sometimes, the domain name of the e-mail address from which the e-mail appears to have been sent, and the domain name of the web site requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information may be collected by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as “phishing.”
+
+If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your Web Site password or credit card information) via e-mail or to a web site that does not seem to be affiliated with our Web Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at privacy@digitalfirstmedia.com
+
+### G. Children
+
+Digital First Media does not knowingly collect personally identifiable information from children under the age of 13. Children ages 13 to 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on Digital First Media sites. No one under age 13 is authorized to provide any Personal Information or use our public discussion areas, forums and chat rooms. Digital First Media does not knowingly collect Personal Information from children under the age of 13.
+
+### H. Third Party “Linked-To” Web Sites
+
+When you are on our Web Site you may have the opportunity to visit, or link to, other web sites not operated by Digital First Media, including other web sites operated by our affiliates, by service vendors, or by unaffiliated third parties. These web sites may collect personal information about you. Digital First Media does not control web sites that are operated by these entities and is not responsible for the information practices of these web sites. Our Policy does not address the information practices of those other web sites. The privacy policies of web sites operated by other affiliates of Digital First Media are located on those web sites.
+
+### I. Miscellaneous
+
+##### (i) Consent to Processing
+
+We control and operate our Web Site from our offices in the United States of America. By providing Personal Information to this Web Site, you understand and consent to such collection, maintenance, processing and transfer of such information. We do not represent that materials on the Web Site are appropriate or available for use in other locations. Persons who choose to access the Web Site from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable. All parties to this Policy waive their respective rights to a trial by jury.
+
+##### (ii) Changes to this Policy
+
+Digital First Media reserves the right to change or update this Policy, or any other of their policies or practices, at any time, and will notify users of this Web Site by posting such changed or updated Policy on this page. Any changes or updates will be effective immediately upon posting to this Web Site.
+
+##### (iii) Contact Us
+
+If you have any questions or comments regarding our privacy practices, you may contact us at privacy@digitalfirstmedia.com.
+
+##### (iv) More Information
+
+Want more information? Check out these helpful links:
+
+Electronic Frontier Foundation: http://www.eff.org/ a civil liberties organization working to protect your rights online.
+
+Electronic Privacy Information Center: http://epic.org/ established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure.
+
+Privacy Issues Page from the Center for Democracy and Technology (CDT): http://www.cdt.org/.
+
+## Terms of Use
+
+Following are the terms and conditions that govern your use of this Site (“Terms of Use”).
+
+Using this site tells us that you have read and agreed to our Terms of Use detailed below and Privacy Policy, above (available at http://www.digitalfirstmedia.com/). Please read the following sections carefully. If you do not agree with these terms, please exit this Web Site or any site affiliated with this Web Site. These Terms of Use and Policy apply to all web sites owned and operated by Digital First Media or its subsidiaries or affiliates. Digital First Media reserves the right to terminate Membership (defined below) and deny access to the Site to any person who violates these Terms of Use.
+
+### Future Changes
+
+Digital First Media may change these Terms of Use, including our Policy, upon notice, which may be given by posting such notice on the Web Site. However, in some cases, if in the reasonable view of Digital First Media, a change to the Terms of Use or to our Policy constitutes a material change, such a change will not take effect until 14 days after notice is provided, during which time you may notify us that you do not accept the change. Your continued use of the Web Site after such 14 day period will mean that you accept any such change. Although we may choose to notify you of changes by email or by other means, you agree that notice of changes to the Terms of Use and Policy posted on the Web Site constitutes reasonable and sufficient notice.
+
+### Intellectual Property Rights
+
+All information, content, services and software displayed on, transmitted through or used in connection with Digital First Media sites, including, but not limited to, news articles, reviews, directories, guides, text, photographs, images, illustrations, audio clips, video, html, source and object code, trademarks, logos and the like, as well as its selection and arrangement (together, the “Content), is owned by Digital First Media and its affiliated companies or the third party credited as the owner of the Content. You may use the Content online only, and solely for your personal, non-commercial use. If you operate a web site and wish to link to any of the sites owned and operated by Digital First Media, you may do so provided you agree to cease such link upon request from Digital First Media and that you do not state or imply any sponsorship of your site by Digital First Media (for example, by using our stylized trademark or logo). No other use is permitted without prior written permission of Digital First Media. The permitted use described in this Paragraph is contingent on your compliance at all times with these Terms of Use.
+
+You may not, for example, republish any portion of the Content on any internet, intranet or extranet site or incorporate the Content in any database, compilation, archive or cache. You may not distribute any Content to others, whether or not for payment or other consideration, and you may not modify, copy, frame, cache, reproduce, sell, publish, transmit, display or otherwise use any portion of the Content. You may not scrape or otherwise copy our Content without written permission. You agree not to decompile, reverse engineer or disassemble any software or other products or processes accessible through the Web Site, or insert any code or product or manipulate the Content of Digital First Media or the Web Site in any way that affects the user’s experience, and not to use any data mining, data gathering or extraction method. In certain cases, you may be able to obtain a license to use individual stories that appear on the Web Site or affiliated Digital First Media Web Sites through online functionality we have specifically designated. For example, email a story to a friend or purchase a photograph.
+
+### Copyright Complaints
+
+Digital First Media respects the intellectual property of others and holds no claim to copyrights of Content that is owned by a third party or is in the public domain. If you believe your work has been copied in a way that constitutes copyright infringement or you are aware of any infringing material on any of Digital First Media Web Sites, please provide to Digital First Media Copyright and Intellectual Property Agent the following information:
+
+  * an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;  
+a description of the copyrighted work or other intellectual property interest that is the subject of your claim;
+  * a description of where the material is located on the Web Site;  
+your address, telephone number, and e-mail address;
+  * a statement by you that you have a good faith belief that access to the relevant material through the Site is inappropriate;
+  * a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or other intellectual property owner or authorized to act on the copyright or other intellectual property owner’s behalf.
 
 
 
-We may use aggregate information to measure general Site usage patterns and characteristics of our user base, and we may include such aggregate information about our audience in reports to our commercial vendors. We may also disclose aggregated user statistics (for example, a certain percentage of our users live in a certain area) without your permission in order to describe our audience to existing and prospective advertisers or other third parties. However, this aggregate information does not reference names, phone numbers, e-mail addresses, or other personal information, and it is not traceable to a specific recipient or user e-mail address. 
+### Membership, Registration, Termination and Passwords
 
-We also may share personal information with entities controlling, controlled by, or under common control with Freedom. In the event that Freedom is merged, or in the event of a transfer of our assets, we may disclose or transfer your personal information and non-personal information in connection with such transaction. 
+To use certain features of certain services provided by Digital First Media, you must register on the form(s) provided. Once registered you will become a “Member” and will be considered to have “Membership” in the Web Site. If you become a Member of the Digital First Media Web Site, or any of its affiliated Web Sites or services, you accept responsibility for all activities that occur under your account and password, and agree not to sell, transfer or assign your Membership or any Membership rights.
 
-From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours ("Service Providers"). For example, we may contract with Service Providers to provide certain services including credit card processing, advertising, promotions, analytics tools, data management, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of your information in order to protect your personal information from unauthorized access, destruction, use, modification, or disclosure. 
+When registering, you agree to provide true, accurate, current and complete information about yourself as prompted by the Web Site”s registration form and to maintain and promptly update the information you provide to keep it true, accurate, current and complete. We reserve the right to terminate your Membership at any time for any reason and without notice. In the event of termination, you are no longer authorized to access the part of the Web Site affected by such cancellation or termination. The restrictions imposed on you with respect to material downloaded from any portion of the Web Site, and the disclaimers and limitations of liabilities set forth in these Terms of Use, shall survive.
 
-We may work with third-party advertising companies which may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you on the Site and on third-party Web sites. From the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons or pixel tags. Our Privacy Policy does not cover any use of information that a third-party advertisement serving company may collect from you. For more information about ad cookies and companies that provide users the ability to "opt-out" of the collection of information from such cookies, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+You are responsible for maintaining the confidentiality of your password and for restricting access to your computer so others outside your household may not access Digital First Media using your name in whole or in part without your permission. If you believe someone has accessed your member name and/or password without your authorization, e-mail us immediately. Digital First Media cannot and will not be liable for any loss or damage arising from your failure to protect your password or account information. License to Digital First Media
 
-Although unlikely, in certain instances we may disclose your personal information when we have reason to believe it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Freedom or its affiliates, or to others. We may also disclose your personal information when we believe the law or legal process requires such disclosure. Please note that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your personal information to be shared or transferred to third parties without your permission. 
+By posting a message, uploading a file, providing information to, communicating with, or otherwise placing any material on our Web Sites, you are granting Digital First Media, an irrevocable, royalty-free, perpetual, non-exclusive, unrestricted right and license to use, copy, sublicense, modify, display, archive, store, distribute, reproduce and create derivative works from such information, in any form, media, software or technology or any kind now existing or developed in the future. Without limiting the generality of the previous term, you authorize Digital First Media and its affiliates to share the information across all Digital First Media locations, other Digital First Media Web Sites and to use your name and any other information in connection with its use of the material you provide. All such rights are granted without the requirement for additional compensation of any sort to you and without further permission required.
 
-**Security**
+### Interactive Features
 
-We use encryption and authentication tools to protect the security of personal information that you share with us. However, no data transmission over the Internet (or, with respect to our mobile services, over cellular phone networks) can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Site, and you do so at your own risk.
+Services offered by Digital First Media or any of its affiliates on any of its Web Sites may include a variety of features, such as message boards, photo galleries, comments and other interactive features which will allow feedback to Digital First Media and real-time interaction between users (collectively “Services”). These features are provided to give users an interesting and stimulating forum to express their opinions and share ideas and information. Digital First Media cannot and does not monitor all of the material posted or transmitted by users and third party information providers.
 
-**Links To Third-Party Web Sites**
+It is a condition of your use of these Services that you generally exercise your best judgment and specifically do not:
 
-The Site may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. You should always read the privacy policy of a linked Web site before disclosing any personal information on such site.
+  * Restrict or inhibit any other user(s) from using and enjoying the Web Site.
+  * Post any material that contains vulgar, profane, abusive, hateful or racist language or expressions, text, photographs or illustrations in poor taste, or attacks of a personal, racial or religious nature.
+  * Post any material that is threatening, false, defamatory, misleading, fraudulent, unfair, and inaccurate, contains gross exaggeration or unsubstantiated claims, violates the privacy rights of any party, is unreasonably harmful or offensive to any individual, community, association, business or group.
+  * Violate any right of Digital First Media or any of its subsidiaries or affiliates.
+  * Post any material that discriminates, or refers to such matters in any manner prohibited by law.
+  * Disrupt, interfere with or otherwise harms or violates the security of Digital First Media, the Web Site or any services, resources, passwords, servers or networks through Digital First Media or affiliated or linked sites.
+  * Post any material that contains or links to viruses or other harmful, disruptive or destructive files.
+  * Use or attempt to use another’s identity, account, password, service or system except as expressly permitted by the Terms of Use.
+  * Post any material that includes copyrighted or other proprietary material of any kind without express permission of the owner of the material.
+  * Post any material that includes advertisements, promotions, or offers to trade any goods or services, except in areas specifically designated for such purpose, if available.
+  * Post any material that violates or encourages the violation of any municipal, state, federal or international law, rule or regulation. Digital First Media reserves the right to delete any communications at any time, for any reason or in its discretion, but has no obligation to review or remove any such content. Digital First Media also reserves the right to disclose any information as necessary to satisfy any law, regulation or governmental request, or to refuse to post or to remove any information or materials, in whole or in part, that in Digital First Media’s sole discretion are objectionable or in violation of these Terms of Use.
 
-**Discussion Board, Forums and Other User Generated Content**
 
-Our online chat areas, bulletin boards, social networks, mobile messaging services, other public forums and user-generated content (i.e., photos, videos) can be a useful way for you to express yourself to other online users. When you post messages or otherwise use these features, the information that you provide (including personal information) may be publicly available to, collected by, and used by third parties. We are not responsible for the content of such messages or images posted by users or such disclosures of personal information.
 
-**Children's Privacy Statement**
+### Responsibility for the Content You Submit
 
-We do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records.
+You are fully responsible for any content you submit on our Web Site (which includes posting a message, uploading a file, providing information to, communicating with, or otherwise placing any material on the Web Site). You also understand that we are not responsible for any content you may submit on the Web Site. You also understand and certify that you have the permission of others who may have contributed to or are featured or depicted in any content you submit on the Web Site. If there are any individuals under the age of 18 in any photographs, videos, or images in the content you intend to submit on the Web Site you must obtain and you certify that you have obtained the permission of the parent or legal guardian of any such individual before submitting such content.
 
-**Policy Changes**
+### E-Commerce and Transactions on our Web Sites
 
-If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.
+Digital First Media may allow you to engage in a transaction involving the purchase of a product or service such as a newspaper subscription, a print or online advertisement, a print of a photograph, a photograph product or other tangible goods and services. To serve you most efficiently, credit card transactions and order fulfillment are often handled by a third party. These third parties may have separate privacy and data collection practices, so please be sure to read these as well. If you’re concerned about online credit card safety, in most cases a telephone number will be provided so that you can call to place your order by phone. Digital First Media cannot take responsibility for the success or security of transactions undertaken or processed by third parties. Digital First Media is not responsible for the quality, accuracy, timeliness, reliability or any other aspect of these third-party products and services. You agree to release Digital First Media, Digital First Media and its affiliates from any damages that you incur, and agree not to assert any claims against them, arising from your purchase or use of any products or services made available by third parties through Digital First Media.
+
+### Links
+
+Links to or from other Internet sites may be included at times as a convenience to the user. These sites have not necessarily been reviewed by Digital First Media and are maintained by third parties over which Digital First Media exercises no control. Accordingly, Digital First Media expressly disclaims any responsibility for the content, the accuracy of the information, the quality of products or services provided by or advertised on, and / or software downloaded from these third-party web sites. Moreover, these links do not imply an endorsement of any third party, web site, or products or services provided by any third party, and Digital First Media takes no responsibility for them.
+
+### Mobile
+
+The Web Site may include certain features and services that may be available via your mobile phone, including, without limitation: (a) the ability to upload to the Web Site via your mobile phone (Mobile Uploads), (b) the ability to receive and reply to messages and to send content and messages using text messaging (Mobile Text), and (c) the ability to access the Web Site from your mobile phone (Mobile Web) (collectively, the “Mobile Services”). We generally do not charge for Mobile Services. Your carrier’s normal messaging, data and other rates and fees will, however, still apply. Your carrier may prohibit or restrict certain Mobile Services and certain Mobile Services may be incompatible with your carrier or mobile device. You should check with your carrier to find out what plans are available and how much they cost. By using the Mobile Services you agree that we may communicate with you regarding the Web Site and our partners by SMS/MMS, text message or other electronic means to your mobile device and that certain information about your usage of the Mobile Services will be communicated to us.
+
+You agree that in connection with the Mobile Services for which you are registered for, we may send communications to your mobile device regarding us or other parties. Further, we may collect information related to your use of the Mobile Services. If you have registered for Mobile Services, you agree to notify us of any changes to your mobile number and update your account on the Web Site to reflect this change.
+
+### Disclaimer and Limitation of Liability
+
+ALL CONTENT OF THIS WEB SITE, INCLUDING ANY SOFTWARE, IS PROVIDED “AS IS” AND WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESSED OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, DIGITAL FIRST MEDIA, ITS SUBSIDIARIES, AFFILIATES, AND THEIR AGENTS AND ALL PREDECESSORS, SUCCESSORS, AND ASSIGNS DISCLAIM ALL WARRANTIES AND REPRESENTATIONS, EXPRESSED OR IMPLIED, RELATING TO ANY CONTENT AVAILABLE ON THE SITE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES AND REPRESENTATIONS OF NONINFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS, TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT, SYSTEM INTEGRATION, OR DATA ACCURACY. DIGITAL FIRST MEDIA, ITS SUBSIDIARIES AND AFFILIATES DO NOT WARRANT OR REPRESENT THAT ANY CONTENT OF THIS WEB SITE (INCLUDING ANY SOFTWARE) OR ANY DATA ON THIS WEB SITE IS ACCURATE, ERROR-FREE, COMPLETE, OR CURRENT, THAT USE OF SUCH CONTENT OR DATA WILL BE UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, OR THAT THIS WEB SITE, ITS CONTENT OR DATA, AND THE SERVERS ON WHICH THE WEB SITE AND CONTENT ARE AVAILABLE, ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. MOREOVER, DIGITAL FIRST MEDIA AND ITS SUBSIDIARIES AND AFFILIATES DISCLAIM ANY OBLIGATION TO MAINTAIN THIS WEB SITE OR KEEP IT OPERATIONAL. APPLICABLE LAW MAY NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES, SO THESE EXCLUSIONS MAY NOT APPLY TO YOU IN WHOLE OR IN PART. YOU ASSUME THE SOLE RISK OF MAKING USE OF THIS WEB SITE AND THE CONTENT IT PROVIDES. ALL SERVICES ARE PROVIDED FOR INFORMATIONAL PURPOSES ONLY, AND ARE NOT INTENDED FOR TRADING OR INVESTING PURPOSES, OR FOR COMMERCIAL USE. STOCK AND MUTUAL FUND QUOTES, AND RELATED FINANCIAL NEWS STORIES MAY BE DELAYED AT LEAST 20 MINUTES, AS MAY BE REQUIRED BY THE STOCK EXCHANGES AND/OR THE FINANCIAL INFORMATION SERVICES. THE SITE SHOULD NOT BE USED IN ANY HIGH RISK ACTIVITIES WHERE DAMAGE OR INJURY TO PERSONS, PROPERTY, ENVIRONMENT, FINANCES OR BUSINESS MAY RESULT IF AN ERROR OCCURS. YOU EXPRESSLY ASSUME ALL RISK FOR SUCH USE. IN NO EVENT, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, SHALL DIGITAL FIRST MEDIA, ITS SUBSIDIARIES OR AFFILIATES, INCLUDING ALL PREDECESSORS, SUCCESSORS, AND ASSIGNS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES INCLUDING, WITHOUT LIMITATION, DAMAGES RELATED TO UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA, THE CONTENT OR ANY ERRORS OR OMISSIONS IN THE CONTENT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR THOSE THAT RESULT FROM THE USE OF, OR THE INABILITY TO USE, ANY MATERIALS, PRODUCTS OR SERVICES, OR THIRD PARTY MATERIALS, PRODUCTS OR SERVICES MADE AVAILABLE THROUGH THE WEB SITE. YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT DIGITAL FIRST MEDIA AND ITS SUBSIDIARIES AND AFFILIATES ARE NOT LIABLE FOR ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF ANY USER.
+
+### Use of Company Directories
+
+The information contained in the Company Directories is provided for business lookup purposes and is not to be used for marketing or telemarketing applications. This information may not be copied or redistributed and is provided “AS IS” without warranty of any kind. In no event will Digital First Media or its suppliers be liable in any way with regard to such Information.
+
+### Choice of law and venue
+
+The Privacy Policy and Terms of Use and the relationship between you and Digital First Media shall be governed by the laws of the Commonwealth of Pennsylvania without regard to its conflict of law provisions. You and Digital First Media agree to submit to the personal and exclusive jurisdiction of the courts located within Bucks County, Pennsylvania.
+
+### Termination
+
+Digital First Media reserves the right in its sole discretion to terminate or restrict your use of the Web Site, or any part of the Web Site, without notice, for any or no reason, and without liability to you or any third party. The Terms of Use relating to Intellectual Property Rights, Disclaimer and Limitation of Liability, and Choice of Law and Venue shall survive termination.
+
+### Miscellaneous
+
+This agreement constitutes the entire agreement between Digital First Media and you with respect to the subject matter contained in this agreement and supersedes all previous and contemporaneous agreements, proposals and communications, written and oral. You also may be subject to additional terms and conditions that may apply when you use specific services on this Web Site, or the products or services of a third party that are provided through this Web Site.
+
+Digital First Media  
+101 W. Colfax Ave.  
+11th Floor  
+Denver, CO 80202-5177  
+Copyright © 2017
