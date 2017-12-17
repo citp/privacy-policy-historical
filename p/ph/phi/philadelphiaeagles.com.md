@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philadelphiaeagles.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615201858id_/http%3A//www.philadelphiaeagles.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philadelphiaeagles.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217112239id_/http%3A//www.philadelphiaeagles.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Philadelphia Eagles | Privacy Policy
 
@@ -10,7 +10,7 @@ Effective Date: 11/05/2014
 
 Philadelphia Eagles, LLC  ( “Philadephia Eagles”, “we,” “our,” “us”) respects your privacy and values your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our websites [**www.philadephiaeagles.com**](http://www.philadephiaeagles.com/), [**www.lincolnfinancialfield.com,www.flyeaglesfly.com**](http://www.lincolnfinancialfield.com%2Cwww.flyeaglesfly.com/) and online services such as our Eagles Official Mobile and Philadelphia Eagles for iPad mobile applications that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the National Football League (“NFL”) or the other member clubs (the "Member Clubs").
 
-If you have questions or concerns about our privacy policy or practices please contact us at webteam@philadelphiaeagles.com. ****
+If you have questions or concerns about our privacy policy or practices please contact us at digital@philadelphiaeagles.com. ****
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
@@ -152,15 +152,15 @@ We may amend this Privacy Policy at any time. Your continued use of the Services
 
 You may choose to receive promotional emails, newsletters, and similar communications from us.  You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive. You may opt-out from text alert, by replying to the alert with “STOP” or by emailing us at the email address listed below. You may opt-out from receiving push notifications by turning them off at the device level. Please note that opt-out requests may take some time to be effective.  Your opt-out request will not apply to messages that you request or that are not commercial in nature.  For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
 
-If your information changes, or if you no longer desire to use the Services, you may request that we update delete inaccuracies, or remove certain information by signing into your account and making the required changes, by emailing our Customer Support at webteam@philadelphiaeagles.com, or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request within 20 business days.
+If your information changes, or if you no longer desire to use the Services, you may request that we update delete inaccuracies, or remove certain information by signing into your account and making the required changes, by emailing our Customer Support at digital@philadelphiaeagles.com, or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request within 20 business days.
 
 You may opt-out of location based services at any time by editing the setting at the device level.)
 
 We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-You may request removal of your Personal Information from our publicly accessible blogs or community forums by sending an email to [ **webteam@philadelphiaeagles.com**](mailto:webteam@philadelphiaeagles.com).  But please be aware that in some cases we may not be able to remove your Personal Information despite your request.
+You may request removal of your Personal Information from our publicly accessible blogs or community forums by sending an email to [ **digital@philadelphiaeagles.com**](mailto:digital@philadelphiaeagles.com).  But please be aware that in some cases we may not be able to remove your Personal Information despite your request.
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to webteam@philadelphiaeagles.com or write us at Philadelphia Eagles LLC, NovaCare Complex, One NovaCare Way, Philadelphia, PA 19145. 
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to digital@philadelphiaeagles.com or write us at Philadelphia Eagles LLC, NovaCare Complex, One NovaCare Way, Philadelphia, PA 19145. 
 
 In some cases, third parties may be able to collect information about a user’s online activities over time and across different websites when he or she uses our Services.
 
@@ -168,7 +168,7 @@ Some web browsers may transmit “do-not-track” signals to the websites with w
 
 Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States.  While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy.
 
-If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at webmail@philadelphiaeagles.com or by regular mail at
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at digital@philadelphiaeagles.com or by regular mail at
 
 Philadelphia Eagles LLC  
 NovaCare Complex  
