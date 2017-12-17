@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidxhtml.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609081516id_/http%3A//rapidxhtml.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidxhtml.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217021112id_/http%3A//rapidxhtml.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Non Disclosure for PSD to HTML & PSD to Wordpress Theme - RapidxHTML
 
