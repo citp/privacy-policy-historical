@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the english-for-students.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212002152id_/http%3A//www.english-for-students.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-for-students.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217223918id_/http%3A//www.english-for-students.com/privacy.html) for the most accurate reproduction.*
 
 # english-for-students.com | Privacy Policy
 
@@ -131,5 +131,5 @@ USA
 english-for-students.com 
 
 Email:  
-contact@english-for-students.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 
