@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookofmormonbroadway.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918134136id_/http%3A//bookofmormonbroadway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookofmormonbroadway.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217192029id_/http%3A//bookofmormonbroadway.com/privacy-policy) for the most accurate reproduction.*
 
 # The Book of Mormon on Broadway | Official Site | Privacy Policy
 
