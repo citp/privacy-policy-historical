@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the emel.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530194444id_/http%3A//emel.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emel.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217140042id_/http%3A//www.emel.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | emel - the muslim lifestyle magazine
 
 #### 1\. emel magazine’s commitment to privacy 
 
-This is a legal document which sets out how emel magazine handles data which identifies you. You should read it in conjunction with the emel magazine [Terms and Conditions](https://web.archive.org/web/20170530194444id_/http%3A//emel.com/terms_and_conditions), of which this Privacy Policy forms part.
+This is a legal document which sets out how emel magazine handles data which identifies you. You should read it in conjunction with the emel magazine [Terms and Conditions](https://web.archive.org/web/20171217140042id_/http%3A//www.emel.com/terms_and_conditions), of which this Privacy Policy forms part.
 
 At emel magazine, we believe strongly in protecting the privacy of our users’ personal information. This statement describes the privacy practices we apply for the emel magazine Service either through subscription or through emel.com. As part of that, it also expresses our approach to complying with the data protection laws which apply in the United Kingdom. If we change this Privacy Policy we will post the changes on this page and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times.
 
 At emel.com we collect different types of information about our users for three main reasons: 
 
-1\. To help us to monitor and improve the services we offer.   
+1\. To help us to monitor and improve [replica cartier watches](http://www.cheapswiss.org/swiss-made-ladies-men-iwc.html) the services we offer.   
 2\. To provide personalised services unique to individual users.   
 3\. To use anonymous details about our users to sell appropriate advertising space on the site. This might mean showing an advertiser how many users we have on the site; it does not mean sharing an individual's details with an advertiser. Where we collect registration information from an individual, we will never share that individual's information with a third party, including an advertiser, without that user's explicit permission.   
 If you have questions or concerns regarding this statement please contact us by email at [info@emel.com](mailto:info@emel.com).
