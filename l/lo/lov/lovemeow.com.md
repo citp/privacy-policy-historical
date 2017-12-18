@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovemeow.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605120902id_/http%3A//www.lovemeow.com/st/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovemeow.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218014236id_/http%3A//www.lovemeow.com/st/Privacy_Policy) for the most accurate reproduction.*
 
 # Love Meow
 
