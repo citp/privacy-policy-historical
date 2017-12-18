@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangaspoil.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134704id_/http%3A//mangaspoil.com/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangaspoil.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218035524id_/http%3A//mangaspoil.com/news/privacy-policy) for the most accurate reproduction.*
 
 # Manga Spoiler Privacy Policy at Manga Spoil
 
