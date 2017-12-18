@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618162646id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218042922id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
 
 # ZingerBug.com Privacy Policy
 
