@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openx.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630190535id_/https%3A//www.openx.com/de_en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openx.org privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218230725id_/https%3A//www.openx.com/de_en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy DE-EN | OpenX
 
