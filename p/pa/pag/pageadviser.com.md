@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the pageadviser.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028132430id_/http%3A//pageadviser.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageadviser.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218024921id_/http%3A//pageadviser.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PageAdviser
 
 __Last updated: November 30, 2015
 
-PageAdviser.com ("us", "we", or "our") operates the http://PageAdviser.com website (the "Service").
+PageAdviser.com ("us", "we", or "our") operates the https://PageAdviser.com website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://PageAdviser.com
+**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://PageAdviser.com
 
 **Information Collection And Use**
 
@@ -36,7 +36,7 @@ If you do not accept cookies, you may not be able to use some features of our Se
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](https://www.google.com/ads/preferences/ "Google Ads Settings") web page.
 
 **Do Not Track Disclosure**
 
