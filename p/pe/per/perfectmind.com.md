@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectmind.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626215735id_/http%3A//www.perfectmind.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectmind.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218095440id_/http%3A//www.perfectmind.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PerfectMind Inc
 
