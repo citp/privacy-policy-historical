@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thehansindia.com privacy policy that was archived on 2017-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170608082816id_/http%3A//www.thehansindia.com/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thehansindia.com privacy policy that was archived on 2017-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171218183413id_/http%3A//www.thehansindia.com/pages/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
 <!--<meta charset="utf-8">-->
@@ -11,6 +11,13 @@
 <meta name="robots" content="index,follow">
 <meta name="yandex-verification" content="48f0c5f8ecf1b391">
 <meta property="fb:pages" content="554726491214353">
+<!-- Start Alexa Certify Javascript -->
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="//static.clmbtech.com/ctn/commons/js/colombia_v2.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">
+_atrk_opts = { atrk_acct:"tFbup1IWh910/9", domain:"thehansindia.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=tFbup1IWh910/9" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
 <title>PRIVACY POLICY - THE HANS INDIA</title>
 <link rel="icon" href=" /assets/images/favicon.ico">
 <!--[if IE 8]><html class="ie8"><![endif]-->
@@ -21,10 +28,12 @@
 <link href="http://www.thehansindia.com/assets/css/fonts.css?v=16" rel="stylesheet" type="text/css">
 <link href="http://www.thehansindia.com/assets/css/font-awesome.css?v=16" rel="stylesheet">
 <!-- Plugins -->
-<link rel="stylesheet" type="text/css" href="http://www.thehansindia.com/assets/css/theme.css?v=17" id="color-style">
+<link rel="stylesheet" type="text/css" href="http://www.thehansindia.com/assets/css/theme.css?v=22" id="color-style">
 <link rel="stylesheet" type="text/css" href="http://www.thehansindia.com/assets/css/owl.carousel.css?v=16" id="color-style">
 <link href="http://thehansindia.com/admin/public/template2/Styles/jquery-ui.css?v=16" rel="stylesheet" media="screen">
   <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+<link href="http://www.thehansindia.com/assets/css/sumoselect.min.css" rel="stylesheet">
+
 <!-- Animation -->
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -35,15 +44,15 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
-	<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="//static.clmbtech.com/ctn/commons/js/colombia_v2.js"></script><script src="http://www.thehansindia.com/assets/js/jquery-1.10.2.min.js?v=16"></script> 
+	<script src="http://www.thehansindia.com/assets/js/jquery-1.10.2.min.js?v=16"></script> 
 
-	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<script>
 	  (adsbygoogle = window.adsbygoogle || []).push({
 		google_ad_client: "ca-pub-3776126485030538",
 		enable_page_level_ads: true
 	  });
-	</script>
+	</script> -->
 
 	
 	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async"></script>
@@ -82,8 +91,54 @@
 		}
 		
 	</script>
+<script type="text/javascript">
+$(document).ready(function(){
+	window.testSelAll = $(".selAll").SumoSelect({okCancelInMulti:true, selectAll:true });
+	
+		var filter = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+	$("#news_submit").on('click',function(){
 
+		$("#success").html("");
+		$("#already").html("");
+		$("#failure").html("");
+		if($("#news_email").val()=="" || !filter.test($("#news_email").val())){
+			alert("Please enter valid email id");
+			return false;
+		}
+		var email=$("#news_email").val();
+		var category=[];
+		$('.selAll option:selected').each(function(){
+			category.push($(this).val());
+		});
+		if(category==''){
+			alert("Please select the desired category");
+			return false;
+		}
+		$.ajax({
+				url 			: 'http://www.thehansindia.com/home/insert_newsletter',
+				type			: 'POST',
+				data			: {"email":email,"category_ids":category},
+				success			: function(data){
+										if(data=="success"){
+											$("#success").html("Subscribed to Newsletter successfully.");
+										}else if(data=="already"){
+											$("#already").html("Already subscribed to Newsletter, you may change categories from <a href='http://www.thehansindia.com/home/manage_subscription' style='font-weight:bold;color:#0198da' >Manage Subscription</a> section.");
+										}else{
+											$("#failure").html("Error in subscription.");
+										}
+									}	
+		});
+	});
+})
+</script>
 	<!-- script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script -->
+<script>
+var unruly = window.unruly || {};
+unruly.native = unruly.native || {};
+unruly.native.siteId = 1088116
+</script>
+<script src="//video.unrulymedia.com/native/native-loader.js"></script>
+
 </head>
 
 <body class="body">
@@ -107,7 +162,7 @@
   <div class="top-bar">
     <div class="container">
       <div class="row">
-        <div class="col-sm-4 theam-text-default date-location hidden-xs">Thu Jun 08, 2017 Hyderabad, India</div>
+        <div class="col-sm-4 theam-text-default date-location hidden-xs">Tue Dec 19, 2017 Hyderabad, India</div>
         <div class="col-sm-8 col-xs-12">
           <div class="search-panel">
 		 <form method="post" action="http://www.thehansindia.com/home/search">
@@ -139,14 +194,15 @@
 			<div id="logo"><a href="#" class="mobile-nav hidden-md hidden-lg" id="mobile-nav"><i class="fa fa-bars"></i></a> <a href="http://www.thehansindia.com/"><img class="border-none" src="http://www.thehansindia.com/assets/images/hans_logo.png" alt="Logo"></a></div>
 			<div class="add pull-right hidden-sm hidden-xs">
 			
-			<a target="_blank" href="http://www.thehansindia.com/posts/index/Big-Story/2017-05-30/Telangana-Formation-Day-History-of-the-statehood-movement/303331"><img src="http://www.thehansindia.com/assets/images/telangana_formation.jpg" alt="Horoscope"></a>
-
+<a target="_blank" href="http://www.thehansindia.com/home/tag/World-Telugu-Conference"><img src="http://www.thehansindia.com/assets/images/wtc.jpg" alt="Personality Development"></a>
 			</div>
 
 			<ul class="list-unstyled quick-nav pull-right">
-			<li class=""><a target="_blank" href="http://hmtvlive.com">News in <br>Telugu</a> </li>
-			<li class=""><a href="http://www.thehansindia.com/gallery">Image<br>Gallery </a> </li>
-            <li class=""><a href="http://www.thehansindia.com/home/trending_now">Trending <br>Now</a> </li>
+			<li class=""><a target="_blank" href="http://www.thehansindia.com/pages/breaking_news">Latest<br>News</a> </li>
+			<!--<li class=""><a href="http://www.thehansindia.com/category/index/Civil-Services/11267" >Civil<br/>Services</a> </li>-->
+			<li class=""><a href="http://www.thehansindia.com/category/subcategory/Young-Hans/5">Young<br>Hans</a> </li>
+            <li class=""><a href="http://www.thehansindia.com/category/subcategory/News-Analysis/11260">News<br>Analysis</a> </li>
+			<!-- <li class="" ><a href="http://www.thehansindia.com/home/tag/SPYder" >Spyder<br/>Updates</a> </li>-->
             <li class=""><a href="http://www.thehansindia.com/home/todays_news_page">Today's <br>Newspaper</a></li>
 			</ul>
         </div>
@@ -594,7 +650,41 @@
         <div class="col-sm-4 pnone">
            <div class="col-sm-12">
               <div class="fullwidth pull-left google-ad">
-                <div class="add-panel mt-md-10  hidden-xs"><div class="heading theam-bg-three col-xs-12"><h4 class="text-uppercase">Tabloids</h4></div>
+                <div class="add-panel mt-md-10  hidden-xs"><h6 style="text-align: center;">- - - A D V E R T I S E M E N T - - -</h6><div align="center">
+<script data-cfasync="false" type="text/javascript" src="//www.increaserev.com/ads/336x280_responsive.js"></script></div> </div>
+              </div>
+            </div><div class="col-sm-12">
+              <div class="fullwidth pull-left google-ad">
+                <div class="add-panel mt-md-10  hidden-xs"><h6 style="text-align: center;">- - - A D V E R T I S E M E N T - - -</h6><div align="center">
+<script data-cfasync="false" type="text/javascript" src="//www.increaserev.com/ads/336x280_responsive.js"></script></div> </div>
+              </div>
+            </div><div class="col-sm-12 mt-xs-10 mt-sm-10 mt-md-10 col-xs-12"><div style="border:1px solid #dcdcdc;float:left;padding-bottom:5px;">
+					<div class="heading theam-bg-three col-xs-12">
+					<h4 class="mnone text-uppercase mt-md-10">Subscribe to our Newsletter</h4>
+					</div>
+					<span id="success" style="color:green;"></span>
+					<span id="failure" style="color:red;"></span>
+					<span id="already" style="color:green;"></span>
+					<div class="col-xs-12 col-sm-12 mt-md-10">
+					
+						<input type="text" class="form-control" name="email" id="news_email" placeholder="Email">
+					</div>
+					<div class="col-xs-12 col-sm-12 mt-md-10">
+					<select multiple="multiple" placeholder="Select Categories" class="selAll form-control">	<option readonly="readonly" selected="selected" value="0">Top Stories</option><option value="2">Business</option><option value="4">Sports</option><option value="5">Young Hans</option><option value="26">National</option><option value="32">Cinema</option><option value="95">Andhra Pradesh</option><option value="99">Life Style</option><option value="11178">Crime</option><option value="11195">Telangana</option></select>
+					</div>
+					<div class="col-xs-12 mt-md-10">
+					<a href="http://www.thehansindia.com/home/manage_subscription" class="pull-left" style="font-weight:bold;color:#0198da">Manage Subscription</a>
+					<a href="javascript:void(0);" id="news_submit" class="btn  pull-right btn-primary">Submit</a>
+					</div></div>
+			  	</div><div class="col-sm-12">
+              <div class="fullwidth pull-left google-ad">
+                <div class="add-panel mt-md-10  hidden-xs"><div id="div-clmb-ctn-300526-1" style="float:left;min-height:2px;width:100%;" data-slot="300526" data-position="1" data-section="0" data-ua="d" class="colombia"></div>
+
+<script language="JavaScript">
+var zflag_nid="3344"; var zflag_cid="18/3"; var zflag_sid="2"; var zflag_width="336"; var zflag_height="280"; var zflag_sz="39"; 
+</script>
+<script language="JavaScript" src="http://xp2.zedo.com/jsc/xp2/fo.js"></script>
+<div class="heading theam-bg-three col-xs-12"><h4 class="text-uppercase">Tabloids</h4></div>
 <select style="width:100%" width="100%&quot;" name="Andhra" id="Andhra">
     <option value="http://www.thehansindia.com/category/subcategory/Hyderabad-Tab/11175" selected="selected">Hyderabad</option>
     <option value="http://www.thehansindia.com/category/subcategory/Amaravati-Tab/11196">Amaravati</option>
@@ -607,74 +697,7 @@
  var urlmenu = document.getElementById( 'Andhra' );
  urlmenu.onchange = function() {
       window.open( this.options[ this.selectedIndex ].value );
- };</script> <div style="clear:both;height:15px;"></div><script data-cfasync="false" type="text/javascript" src="//www.increaserev.com/ads/300x600_responsive.js"></script><div style="clear:both;height:15px;"></div><a href="http://www.amazon.in/How-Win-at-Life-Nageshwar/dp/1482889722/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1496661880&amp;sr=1-1" target="_blank"><img src="http://thehansindia.com/assets/images/howtowinlife_small.jpg"></a> </div>
-              </div>
-            </div><div class="col-sm-12 mt-xs-10 mt-sm-10 mt-md-10 col-xs-12"><div class="heading theam-bg-three col-xs-12">
-				  <h4 class="text-uppercase">Most Popular</h4>
-				</div>
-				<div class="clearfix-one"></div><div class="media media-sm divider-media"> 
-				<a class="pull-left" href="http://www.thehansindia.com/posts/index/Cinema/2017-05-30/Veteran-Director-Dasari-Narayana-Rao-no-more/303370"> <img style="width:75px;" src="http://www.thehansindia.com/assets//THUMB_110x66/7236_dasari.jpg" alt=""> </a>
-				  <div class="media-body"> <span class="small text-danger">Cinema</span>
-					<div class="clearfix-one"></div>
-					<a href="http://www.thehansindia.com/posts/index/Cinema/2017-05-30/Veteran-Director-Dasari-Narayana-Rao-no-more/303370" class="media-heading">Veteran Director Dasari Narayana Rao no more</a> </div>
-				</div><div class="media media-sm divider-media"> 
-				<a class="pull-left" href="http://www.thehansindia.com/posts/index/Cinema/2017-05-28/New-name-surfaces-for-Prabhas-marriage/302861"> <img style="width:75px;" src="http://www.thehansindia.com/assets//THUMB_110x66/4697_Prabhas Baahubali.jpg" alt=""> </a>
-				  <div class="media-body"> <span class="small text-danger">Cinema</span>
-					<div class="clearfix-one"></div>
-					<a href="http://www.thehansindia.com/posts/index/Cinema/2017-05-28/New-name-surfaces-for-Prabhas-marriage/302861" class="media-heading">New name surfaces for Prabhas' marriage</a> </div>
-				</div><div class="media media-sm divider-media"> 
-				<a class="pull-left" href="http://www.thehansindia.com/posts/index/Telangana/2017-06-06/5-Simple-tips-to-identify-Plastic-Rice/304884"> <img style="width:75px;" src="http://www.thehansindia.com/assets//THUMB_110x66/5841_Plastic_Rice.jpg" alt=""> </a>
-				  <div class="media-body"> <span class="small text-danger">Telangana</span>
-					<div class="clearfix-one"></div>
-					<a href="http://www.thehansindia.com/posts/index/Telangana/2017-06-06/5-Simple-tips-to-identify-Plastic-Rice/304884" class="media-heading">5 Simple tips to identify Plastic Rice</a> </div>
-				</div><div class="media media-sm divider-media"> 
-				<a class="pull-left" href="http://www.thehansindia.com/posts/index/Telangana/2017-06-02/TSPSC-to-issue-15-notifications-today--/303983"> <img style="width:75px;" src="http://www.thehansindia.com/assets//THUMB_110x66/9834_TSPSC.jpg" alt=""> </a>
-				  <div class="media-body"> <span class="small text-danger">Telangana</span>
-					<div class="clearfix-one"></div>
-					<a href="http://www.thehansindia.com/posts/index/Telangana/2017-06-02/TSPSC-to-issue-15-notifications-today--/303983" class="media-heading">TSPSC to issue 15 notifications today  </a> </div>
-				</div><div class="media media-sm divider-media"> 
-				<a class="pull-left" href="http://www.thehansindia.com/posts/index/Cinema/2017-05-30/Twitterati-reacts-on-Dasaris-Death/303372"> <img style="width:75px;" src="http://www.thehansindia.com/assets//THUMB_110x66/9381_dasari.jpg" alt=""> </a>
-				  <div class="media-body"> <span class="small text-danger">Cinema</span>
-					<div class="clearfix-one"></div>
-					<a href="http://www.thehansindia.com/posts/index/Cinema/2017-05-30/Twitterati-reacts-on-Dasaris-Death/303372" class="media-heading">Twitterati reacts on Dasari's Death</a> </div>
-				</div><div class="media media-sm divider-media"> 
-				<a class="pull-left" href="http://www.thehansindia.com/posts/index/Big-Story/2017-05-30/Telangana-Formation-Day-History-of-the-statehood-movement/303331"> <img style="width:75px;" src="http://www.thehansindia.com/assets//THUMB_110x66/6043_7881_Telangana-Formation-Day.jpg" alt=""> </a>
-				  <div class="media-body"> <span class="small text-danger">Big Story</span>
-					<div class="clearfix-one"></div>
-					<a href="http://www.thehansindia.com/posts/index/Big-Story/2017-05-30/Telangana-Formation-Day-History-of-the-statehood-movement/303331" class="media-heading">Telangana Formation Day: History of the statehood movement</a> </div>
-				</div><div class="media media-sm divider-media"> 
-				<a class="pull-left" href="http://www.thehansindia.com/posts/index/News-Analysis/2017-06-03/When-governments-dream-of-electric-cars-/304218"> <img style="width:75px;" src="http://www.thehansindia.com/assets//THUMB_110x66/3049_governments.jpg" alt=""> </a>
-				  <div class="media-body"> <span class="small text-danger">News Analysis</span>
-					<div class="clearfix-one"></div>
-					<a href="http://www.thehansindia.com/posts/index/News-Analysis/2017-06-03/When-governments-dream-of-electric-cars-/304218" class="media-heading">When governments dream of electric cars </a> </div>
-				</div><div class="media media-sm divider-media"> 
-				<a class="pull-left" href="http://www.thehansindia.com/posts/index/Cinema/2017-05-28/Mahesh-Babus-double-treat-to-the-audience/302858"> <img style="width:75px;" src="http://www.thehansindia.com/assets//THUMB_110x66/2597_Mahesh.jpg" alt=""> </a>
-				  <div class="media-body"> <span class="small text-danger">Cinema</span>
-					<div class="clearfix-one"></div>
-					<a href="http://www.thehansindia.com/posts/index/Cinema/2017-05-28/Mahesh-Babus-double-treat-to-the-audience/302858" class="media-heading">Mahesh Babu's double treat to the audience?</a> </div>
-				</div><div class="media media-sm divider-media"> 
-				<a class="pull-left" href="http://www.thehansindia.com/posts/index/Education-&amp;-Careers/2017-05-25/US-H1B-Visa-Huge-opportunity-for-Indian-IT/302337"> <img style="width:75px;" src="http://www.thehansindia.com/assets//THUMB_110x66/8642_US.jpg" alt=""> </a>
-				  <div class="media-body"> <span class="small text-danger">Education &amp; Careers</span>
-					<div class="clearfix-one"></div>
-					<a href="http://www.thehansindia.com/posts/index/Education-&amp;-Careers/2017-05-25/US-H1B-Visa-Huge-opportunity-for-Indian-IT/302337" class="media-heading">US H1B Visa: Huge opportunity for Indian IT</a> </div>
-				</div><div class="media media-sm divider-media"> 
-				<a class="pull-left" href="http://www.thehansindia.com/posts/index/Telangana/2017-05-30/More-skeletons-likely-to-tumble-Kukatpally-land-scam/303187"> <img style="width:75px;" src="http://www.thehansindia.com/assets//THUMB_110x66/9728_Kukatpally_Land_Scam.jpg" alt=""> </a>
-				  <div class="media-body"> <span class="small text-danger">Telangana</span>
-					<div class="clearfix-one"></div>
-					<a href="http://www.thehansindia.com/posts/index/Telangana/2017-05-30/More-skeletons-likely-to-tumble-Kukatpally-land-scam/303187" class="media-heading">More skeletons likely to tumble: Kukatpally land scam</a> </div>
-				</div><div class="media media-sm divider-media"> 
-				<a class="pull-left" href="http://www.thehansindia.com/posts/index/Cinema/2017-06-02/Prabhas-or-JrNTR-for-Rajamoulis-next-film--/304065"> <img style="width:75px;" src="http://www.thehansindia.com/assets//THUMB_110x66/6190_ntr.jpg" alt=""> </a>
-				  <div class="media-body"> <span class="small text-danger">Cinema</span>
-					<div class="clearfix-one"></div>
-					<a href="http://www.thehansindia.com/posts/index/Cinema/2017-06-02/Prabhas-or-JrNTR-for-Rajamoulis-next-film--/304065" class="media-heading">Prabhas or Jr.NTR for Rajamouli's next film?  </a> </div>
-				</div><div class="media media-sm divider-media"> 
-				<a class="pull-left" href="http://www.thehansindia.com/posts/index/Cinema/2017-05-30/Jr-NTRs-Jai-Lava-Kusa-three-roles-revealed/303342"> <img style="width:75px;" src="http://www.thehansindia.com/assets//THUMB_110x66/3041_Jai.jpg" alt=""> </a>
-				  <div class="media-body"> <span class="small text-danger">Cinema</span>
-					<div class="clearfix-one"></div>
-					<a href="http://www.thehansindia.com/posts/index/Cinema/2017-05-30/Jr-NTRs-Jai-Lava-Kusa-three-roles-revealed/303342" class="media-heading">Jr NTR's Jai Lava Kusa three roles revealed!</a> </div>
-				</div></div><div class="col-sm-12">
-              <div class="fullwidth pull-left google-ad">
-                <div class="add-panel mt-md-10  hidden-xs"><br><br><div style="position:relative; height:100px; width:336px; border:1px solid grey; background:url(http://thehansindia.com/assets/horoscope/horoscope.jpg) 0 0 no-repeat;">
+ };</script><br><br><br><br><div style="position:relative; height:100px; width:336px; border:1px solid grey; background:url(http://thehansindia.com/assets/horoscope/horoscope.jpg) 0 0 no-repeat;">
 <div style="margin-top:-27px" class="heading theam-bg-three col-xs-12"><h4 class="text-uppercase">Weekly Horoscope</h4></div><center><p padding:20px="">
 <a style="position:absolute; top:5px; left:9px; width:43px; height:46px;" title="" alt="" href="http://www.thehansindia.com/posts/index/Horoscope/2017-03-25/Horoscope/288948/#aries" target="_self"></a>
 <a style="position:absolute; top:6px; left:56px; width:43px; height:44px;" title="" alt="" href="http://www.thehansindia.com/posts/index/Horoscope/2017-03-25/Horoscope/288948/#capricon" target="_self"></a>
@@ -689,9 +712,7 @@
 <a style="position:absolute; top:52px; left:154px; width:41px; height:42px;" title="" alt="" href="http://www.thehansindia.com/posts/index/Horoscope/2017-03-25/Horoscope/288948/#scorpio" target="_self"></a>
 <a style="position:absolute; top:51px; left:200px; width:44px; height:42px;" title="" alt="" href="http://www.thehansindia.com/posts/index/Horoscope/2017-03-25/Horoscope/288948/#scorpio" target="_self"></a>
 <a style="position:absolute; top:49px; left:248px; width:43px; height:43px;" title="" alt="" href="http://www.thehansindia.com/posts/index/Horoscope/2017-03-25/Horoscope/288948/#sagittarius" target="_self"></a>
-</p></center></div><p></p>
-<div style="clear:both;height:10px;"></div>
-<div data-crowdynews-widget="TheHansIndia_article-engager"><script src="//widget.crowdynews.com/TheHansIndia_article-engager.js" async="true"></script></div> </div>
+</p></center></div><p></p> </div>
               </div>
             </div>        </div>
         </div>
@@ -747,11 +768,12 @@
   </div>
 </div>
 
+
 		<!--  Sticky -->
 <!-- EZOIC_REMOVE_BEGIN -->
-<script data-cfasync="false" type="text/javascript" src="//www.increaserev.com/ads/sticky_responsive.js"></script>
-<div id="zd0a682e0-29e3-4bee-bab9-822a6ec30a77" style="display:none"></div>
-<script>!function(a,n,e,t,r){tagsync=e;var c=window[a];if(tagsync){var d=document.createElement("script");d.src="http://3344.tm.zedo.com/v1/f8230a31-7266-4ae3-8594-42199675e8e3/atm.js",d.async=!0;var i=document.getElementById(n);if(null==i||"undefined"==i)return;i.parentNode.appendChild(d,i),d.onload=d.onreadystatechange=function(){var a=new zTagManager(n);a.initTagManager(n,c,this.aync,t,r)}}else document.write("<script src='http://3344.tm.zedo.com/v1/f8230a31-7266-4ae3-8594-42199675e8e3/tm.js?data="+a+"'><"+"/script>")}("datalayer","zd0a682e0-29e3-4bee-bab9-822a6ec30a77",true, 1 , 1);</script><script src="http://3344.tm.zedo.com/v1/f8230a31-7266-4ae3-8594-42199675e8e3/atm.js" async=""></script>
+<script data-cfasync="false" type="text/javascript" src="//www.increaserev.com/ads/sticky_160x600.js"></script>
+<!-- <div id="zd0a682e0-29e3-4bee-bab9-822a6ec30a77" style='display:none' ></div>
+<script>!function(a,n,e,t,r){tagsync=e;var c=window[a];if(tagsync){var d=document.createElement("script");d.src="http://3344.tm.zedo.com/v1/f8230a31-7266-4ae3-8594-42199675e8e3/atm.js",d.async=!0;var i=document.getElementById(n);if(null==i||"undefined"==i)return;i.parentNode.appendChild(d,i),d.onload=d.onreadystatechange=function(){var a=new zTagManager(n);a.initTagManager(n,c,this.aync,t,r)}}else document.write("<script src='http://3344.tm.zedo.com/v1/f8230a31-7266-4ae3-8594-42199675e8e3/tm.js?data="+a+"'><"+"/script>")}("datalayer","zd0a682e0-29e3-4bee-bab9-822a6ec30a77",true, 1 , 1);</script> -->
 <!-- EZOIC_REMOVE_END -->		
 
 
@@ -785,6 +807,7 @@
 	<!-- End comScore Tag -->
 	<script type="text/javascript">
 	 $(document).ready(function () {
+	 	
 		 $("#owl-demo").owlCarousel({
 			autoPlay : 3000,
 			stopOnHover : true,
@@ -809,9 +832,26 @@
 		} else {
 			$('#div-clmb-ctn-209033-1').addClass('colombia');
 		}
+	
 
-		
-	});
+ $( "#list" ).autocomplete({
+      source: "http://www.thehansindia.com/home/All_authors_auto",
+      minLength: 2,
+     select: function( event, ui ) {
+        $( "#project" ).val( ui.item.author_name );
+        $( "#project-id" ).val( ui.item.id );
+       /* $( "#project-description" ).html( ui.item.desc );
+        $( "#project-icon" ).attr( "src", "images/" + ui.item.icon );*/
+ 
+        return false;
+      }
+
+    }).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+        return $( "<li></li>" ).data( "ui-autocomplete-item", item 
+        	).append('<div class="widget_author_name"><a href="http://www.thehansindia.com/home/authors_posts/'+ item.author_name.replace(/\s/g, "-") +'/'+ item.id +'" class="col-md-12" style="    padding-top:7px; padding-bottom: 7px; border-bottom: 1px solid #dcdcdc;">'+item.author_name+'</a></div>'
+        	).appendTo( ul );
+   };	
+   });
 	</script>
 	<!-- Include all compiled plugins (below), or include individual files as needed --> 
 	<script src="http://www.thehansindia.com/assets/js/bootstrap.min.js?v=16"></script> 
@@ -819,8 +859,10 @@
 	<script src="http://www.thehansindia.com/assets/js/slick.js?v=16"></script> 
 	<script src="http://www.thehansindia.com/assets/js/theme.js?v=16"></script>
 	<script src="http://www.thehansindia.com/assets/js/owl.carousel.js?v=16"></script>	
+	<script src="http://www.thehansindia.com/assets/js/jquery.sumoselect.min.js"></script>
 <script type="text/javascript" src="http://thehansindia.com/admin/public/template2/Js/jquery-ui.js?v=16"></script>
-<script id="dsq-count-scr" src="//hansindia.disqus.com/count.js" async=""></script>
+
+
 
 
 </body></html>
