@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeresultalert.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611041711id_/http%3A//freeresultalert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeresultalert.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218174915id_/http%3A//freeresultalert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : FreeResultAlert.com
 
