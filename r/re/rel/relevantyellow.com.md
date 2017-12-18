@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevantyellow.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531025855id_/http%3A//www.relevantyellow.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantyellow.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218154604id_/http%3A//www.relevantyellow.com/Privacy) for the most accurate reproduction.*
 
 # RelevantYellow verified business directory. Get a free optimized local business profile page.
 
@@ -48,7 +48,7 @@ We may also disclose your personal information:
 
 Business profile information including business name, address, email address, phone number is displayed to users publically in connection with our service. As part of our website and other services, you may receive email and other communication from Relevant Yellow and other users relating to your business and/or the products and services you offer.
 
-We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at info@relevantads.com.
+We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Cookies and Other Tracking Technologies**
 
@@ -70,7 +70,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can contact us at info@relevantads.com
+If you have any questions about security on our Web site, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Additional Policy Information**
 
@@ -78,7 +78,7 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 _Correcting and Updating Your Personal Information_
 
-To review and update your personal information to ensure it is accurate, contact us at info@relevantads.com.
+To review and update your personal information to ensure it is accurate, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 _Notification of Privacy Statement Changes_
 
@@ -91,5 +91,5 @@ You can contact us about this privacy statement by writing or email us at the ad
 Relevant Ads, Inc   
 10175 Slater Av, Suite 100  
 Santa Ana, CA, United States 92704  
-Email: info@localsplash.com   
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)   
 Phone: 877-635-6225 
