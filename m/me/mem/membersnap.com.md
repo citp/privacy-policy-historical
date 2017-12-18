@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membersnap.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530135138id_/http%3A//www.membersnap.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membersnap.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218025342id_/http%3A//www.membersnap.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Member Snap | Privacy Policy
 
