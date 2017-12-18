@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055104id_/http%3A//www.mysanantonio.com/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218204052id_/http%3A//www.mysanantonio.com/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | mySanAntonio.com | SA Express-News - San Antonio Express-News
 
