@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runwaytv.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620203151id_/http%3A//www.runwaytv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runwaytv.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218235833id_/http%3A//www.runwaytv.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - RUNWAY TV®
+# PRIVACY POLICY | RUNWAY TV®
 
 Runway Beauty, Inc. values the privacy of our customers and takes reasonable measures to safeguard that information from unauthorized use. The following is a detailed explanation of our privacy policy with regard to the Validated web site and our related services. Your information is never shared for any reason .
 
