@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realbeer.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616192032id_/http%3A//www.realbeer.com/shared/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbeer.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218050130id_/http%3A//www.realbeer.com/shared/privacy/index.php) for the most accurate reproduction.*
 
 # Realbeer.com: Privacy Statement
 
