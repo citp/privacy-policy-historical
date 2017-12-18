@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the wetheunicorns.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526091807id_/http%3A//www.wetheunicorns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetheunicorns.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218185126id_/http%3A//www.wetheunicorns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - We The Unicorns
-
-**Privacy Policy  
-**
-
-**About this Policy**
 
 **We are Global!**
 
@@ -25,7 +20,7 @@ Please note, this Privacy Policy does not apply to websites or text services ope
 
 When we first collect your personal information, we will tell you that we want to keep in contact with you to keep you informed about things that we believe you will be interested in.
 
-You have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you. You can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us. You can also do this by contacting us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com).
+You have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you. You can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us. You can also do this by contacting us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com).
 
 **2 Collection of Information**
 
@@ -33,7 +28,7 @@ We collect personal information from you through your interaction via our websit
 
 The information we collect will vary depending on the service you request but could include name, address, phone number, email address, user name, password, age, gender, date of birth, household composition, comments, competition answers. We may also ask for additional information depending on the nature of the service provided. We will not normally collect any sensitive personal information from you, and in any event, will request your express consent to do so.
 
-We may obtain additional information about you from 3rd parties data brokers and from social media links.
+We may obtain additional information about you from 3rd parties data brokers and from social media links.
 
 **Our Apps**
 
@@ -45,7 +40,7 @@ If you use any of our apps, we will collect the following information:
 
 
 **Cookies  
-**We also collect certain information through the use of “cookies” and other similar automated means. Cookies are small pieces of information that are stored by your browser on your computer’s hard drive. For more information about cookies and how they are used, please read our cookie policy.
+** We also collect certain information through the use of “cookies” and other similar automated means. Cookies are small pieces of information that are stored by your browser on your computer’s hard drive. For more information about cookies and how they are used, please read our cookie policy.
 
   3. **Use of Information**
 
@@ -59,7 +54,7 @@ We will use your personal information for a number of purposes including the fol
   * create statistics, profiles and marketing opportunities, and analyse information to formulate opinions. To do these things, we might use information about you from other organisations.
   * help prevent fraud and loss.
   * train our staff.
-  * get in touch with you about products, events, promotions and services that we or our 3rd party partners are offering. This could be by email, phone, text, or another form of electronic communication. We will only do so if you have not told us that you do not want to hear from us or our 3rd party partners
+  * get in touch with you about products, events, promotions and services that we or our 3rd party partners are offering. This could be by email, phone, text, or another form of electronic communication. We will only do so if you have not told us that you do not want to hear from us or our 3rd party partners
 
 
 
@@ -75,7 +70,7 @@ We will not sell, trade, rent or otherwise pass on your personal information to 
 
 We may share personal information with service providers who perform functions and services on our behalf. Such third parties will be provided with personal information necessary to perform the services on our behalf but are not authorized to use such information for any other purposes.
 
-If you sign up for one of our partnered services, such as online dating, you will be providing your information directly to our 3rd party partner and you should read their privacy policy to fully understand how your personal information might be used. They may share certain information with us (but not sensitive personal information or financial information) which we will only use for the reasons set out in this Policy.
+If you sign up for one of our partnered services, such as online dating, you will be providing your information directly to our 3rd party partner and you should read their privacy policy to fully understand how your personal information might be used. They may share certain information with us (but not sensitive personal information or financial information) which we will only use for the reasons set out in this Policy.
 
 Only where you have agreed to receive marketing communications from third parties, will we pass on your personal information for this purpose.
 
@@ -108,7 +103,7 @@ We may transfer the personal information we collect about you to countries other
 If you are registered for an account with one of our websites you may update your personal information at any time via the “My Details” page for web users, where registration is available on the site. You can access the “My Details Page” from most pages on the website if you are logged-on. If you are a text message user of one of our services then, where appropriate, the text messages you receive from us will alert you to options for un-subscription and/or change of details – please follow these messages.
 
 You have certain rights to the personal information we process about you.  
-You may request access to the personal information we hold about you. If you would like to submit a request please contact us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com).
+You may request access to the personal information we hold about you. If you would like to submit a request please contact us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com).
 
   8. **Changes to our Privacy Policy**
 
@@ -120,4 +115,4 @@ We reserve the right to change our Privacy Policy and all changes will be posted
 
 
 
-If you have any questions or comments about this Privacy Policy or if you would like to exercise your rights, please contact us at: [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com)
+If you have any questions or comments about this Privacy Policy or if you would like to exercise your rights, please contact us at: [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com)
