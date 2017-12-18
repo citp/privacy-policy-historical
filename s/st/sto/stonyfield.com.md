@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stonyfield.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618181305id_/http%3A//www.stonyfield.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stonyfield.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218060945id_/http%3A//www.stonyfield.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Stonyfield
 
 **PLEASE READ CAREFULLY**
 
