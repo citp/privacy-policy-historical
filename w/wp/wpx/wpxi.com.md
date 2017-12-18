@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175122id_/http%3A//www.wpxi.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218083515id_/http%3A//www.wpxi.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | WPXI
-
-Updated: Jan 11, 2016 - 4:02 PM
 
 **Privacy Policy**  
 Last Updated: _August 4, 2014_
