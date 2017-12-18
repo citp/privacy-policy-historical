@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guestblogging.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622120203id_/http%3A//guestblogging.com/public/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guestblogging.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218225357id_/http%3A//guestblogging.com/public/privacy-policy) for the most accurate reproduction.*
 
 # GuestBlogging.com Privacy Policy - Guest Blogging Public
 
