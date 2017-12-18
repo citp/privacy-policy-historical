@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the celebrityborn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155156id_/http%3A//www.celebrityborn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrityborn.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218153047id_/http%3A//www.celebrityborn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Serves to Build and Multiply Trust
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@celebrityborn.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at team@celebrityborn.com.
 
 At www.CelebrityBorn.Com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.CelebrityBorn.Com and how it is used.
 
