@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercheats.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610194729id_/http%3A//www.videogamernetwork.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercheats.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218234318id_/http%3A//www.videogamernetwork.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
