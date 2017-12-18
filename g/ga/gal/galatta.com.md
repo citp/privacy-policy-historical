@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galatta.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515111342id_/http%3A//www.galatta.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galatta.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218050215id_/http%3A//www.galatta.com/privacy) for the most accurate reproduction.*
 
 # Galatta.com - Privacy
 
