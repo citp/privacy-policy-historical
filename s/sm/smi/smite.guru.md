@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smite.guru privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124417id_/http%3A//smite.guru/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smite.guru privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218192252id_/http%3A//smite.guru/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SmiteGuru
 
@@ -70,6 +70,6 @@ We do not specifically market to children under 13.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Email: hello@egn.io
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Last Edited on 2015-12-28
