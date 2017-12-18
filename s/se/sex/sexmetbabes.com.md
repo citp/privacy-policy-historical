@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sexmetbabes.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629084032id_/http%3A//www.sexmetbabes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexmetbabes.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218043032id_/http%3A//www.sexmetbabes.com/privacy) for the most accurate reproduction.*
 
-# Erotica Tube
+# Erotica Tube / Hot Babes, Babe Sex Video
 
-Effective Date: Thursday 29th of June 2017 10:40:32 AM  
+Effective Date: Monday 18th of December 2017 05:30:32 AM  
 Sites Covered: www.sexmetbabes.com 
 
 Pursuant to our [Terms of Use](http://www.sexmetbabes.com/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
