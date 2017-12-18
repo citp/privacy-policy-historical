@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlocal.ie privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618060701id_/http%3A//about.yourlocal.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlocal.ie privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218102117id_/http%3A//about.yourlocal.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yourlocal.ie
 
