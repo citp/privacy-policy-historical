@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsiduous.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105629id_/http%3A//adsiduous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsiduous.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218181235id_/http%3A//adsiduous.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adsiduous.com
 
@@ -35,4 +35,5 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER THE PRIVACY OF ADSIDUOUS DATA OR 
 You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to Adsiduous with regard to: (a) the purposes for which such third party’s personal data has been collected; (b) the intended recipients or categories of recipients of the third party’s personal data; (c) which of the third party’s data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English.  
 
 
-CONTACT US For more information or if you have questions or concerns regarding this Privacy Policy, please email us at info@adsiduous.com.
+CONTACT US For more information or if you have questions or concerns regarding this Privacy Policy, please email us at info@adsiduous.com.  
+[](https://tagtoday.net/)
