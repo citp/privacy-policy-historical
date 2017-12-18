@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youthnoise.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603134814id_/http%3A//www.youthnoise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthnoise.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218135749id_/http%3A//www.youthnoise.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Digital Marketing Agency | Youth Noise | SEO Company
+# Privacy Policy - Youth Noise
 
 **Privacy Policy**
 
