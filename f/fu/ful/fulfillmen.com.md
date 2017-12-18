@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fulfillmen.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617130303id_/http%3A//www.fulfillmen.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulfillmen.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218065309id_/http%3A//www.fulfillmen.com/pp.html) for the most accurate reproduction.*
 
-# Best warehouse management privacy policy
+# Order Fulfillment Services in China Privacy Policies
 
 ## Privacy Policy
 
