@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachbunnyswimwear.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610145731id_/http%3A//www.beachbunnyswimwear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachbunnyswimwear.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218214033id_/http%3A//www.beachbunnyswimwear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
