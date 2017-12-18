@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdpri.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124101559id_/http%3A//www.geartalknet.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdpri.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218033945id_/http%3A//www.geartalknet.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
