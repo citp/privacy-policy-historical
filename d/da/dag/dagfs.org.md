@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dagfs.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120948id_/http%3A//members.dagfs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dagfs.org privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218021721id_/http%3A//members.dagfs.com/privacy) for the most accurate reproduction.*
 
 # Porn movies, videos and galleries | DaGFs
 
