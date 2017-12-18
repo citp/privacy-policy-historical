@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creepybasement.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617061429id_/http%3A//www.creepybasement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creepybasement.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218041648id_/http%3A//www.creepybasement.com/privacy-policy) for the most accurate reproduction.*
 
 # CreepyBasement.com
 
