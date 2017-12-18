@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yournewswire.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629234555id_/http%3A//yournewswire.com/website-terms-of-use/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yournewswire.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218190735id_/http%3A//yournewswire.com/website-terms-of-use/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Your News Wire
 
-Protecting your private information is our priority. This Statement of Privacy applies to the YourNewsWire.com and The People’s Voice, Inc and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to The People’s Voice, Inc include YourNewsWire.com and The People’s Voice. The People’s Voice website is a breaking news, entertainment, and politics site. By using the The People’s Voice website, you consent to the data practices described in this statement.
+Protecting your private information is our priority. This Statement of Privacy applies to YourNewsWire.com and The People’s Voice, Inc and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to The People’s Voice, Inc include YourNewsWire.com and The People’s Voice. The People’s Voice website is a breaking news, entertainment, and politics site. By using the The People’s Voice website, you consent to the data practices described in this statement.
 
   **Collection of your Personal Information**  
 The People’s Voice may collect personally identifiable information, such as your name. The People’s Voice may also collect anonymous demographic information, which is not unique to you, such as your age, gender, household income and political affiliation. We may gather additional personal or non-personal information in the future.
@@ -41,8 +41,8 @@ The People’s Voice does not knowingly collect personally identifiable informat
 
   **Opt-Out & Unsubscribe **  
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from The People’s Voice by contacting us here:  
-– Web page: [http://yournewswire.com/contact/ ](http://yournewswire.com/contact/)  
-– Email: [sean@yournewswire.com](mailto:sean@thepeoplesvoice.tv)  
+– Web page: <http://yournewswire.com/contact/>  
+– Email: [contact@yournewswire.com](mailto:contact@yournewswire.com)  
 – Phone: (424) 666-1274
 
   **Changes to this Statement**  
@@ -52,13 +52,15 @@ The People’s Voice will occasionally update this Statement of Privacy to refle
 The People’s Voice welcomes your questions or comments regarding this Statement of Privacy. If you believe that The People’s Voice has not adhered to this Statement, please contact The People’s Voice at:
 
   The People’s Voice, Inc  
-450 North Rossmore Avenue  
-Los Angeles, California 90004
+137 N. Larchmont Blvd  
+Suite 118  
+Los Angeles  
+CA 90004
 
   Email Address:  
-sean@yournewswire.com
+contact@yournewswire.com
 
   Telephone number:  
 (424) 666-1274
 
-  _Effective as of August 04, 2014_
+  _Effective as of September 7, 2017_
