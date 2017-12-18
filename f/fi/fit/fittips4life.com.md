@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fittips4life.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618232757id_/http%3A//fittips4life.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fittips4life.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218103405id_/http%3A//fittips4life.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FitTips4Life
 
