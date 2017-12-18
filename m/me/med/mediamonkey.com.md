@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediamonkey.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162508id_/http%3A//www.mediamonkey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediamonkey.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218093918id_/http%3A//www.mediamonkey.com/privacy) for the most accurate reproduction.*
 
 # MediaMonkey » Privacy
 
@@ -6,7 +6,7 @@ The privacy of MediaMonkey users and visitors to mediamonkey.com is important to
 
 We store the e-mail addresses of those who sign up as members of our Forum, Wiki, eSupport application or Mailing List, for the sole purpose of providing these respective services. We will only communicate with your e-mail address inasmuch as you've agreed to, and you may at any point to halt e-mail-based communication. Note that Forums and Wiki content are available to any visitor to this site. Any information disclosed within a Forum or the Wiki is publicly available and you should therefore exercise caution when posting any personal information.
 
-The store on mediamonkey.com is run by Element 5 and SWReg's transaction processing servers. The store collects personal information for transactional purposes. For a complete explanation of how such personal information is handled see the [Element 5](http://www.element5.com/privacy.html) and [SWReg](https://usd.swreg.org/privacy.htm) Privacy Policies.
+The store on mediamonkey.com is run by Element 5 and SWReg's transaction processing servers. The store collects personal information for transactional purposes. For a complete explanation of how such personal information is handled see the [Element 5](http://cs.mycommerce.com/privacy-policy/mycommerce/mcus/) and [SWReg](https://usd.swreg.org/privacy.htm) Privacy Policies.
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser used to visit our site, the time you visited our site and which pages you visited throughout our site. This information is used for the purposes of optimizing our site.
 
