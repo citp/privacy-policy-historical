@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nts.org.pk privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618051850id_/http%3A//nts.org.pk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nts.org.pk privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218111402id_/http%3A//nts.org.pk/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Security | NTS
 
