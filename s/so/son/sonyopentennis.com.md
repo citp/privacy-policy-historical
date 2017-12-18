@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonyopentennis.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133700id_/http%3A//www.miamiopen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyopentennis.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218083726id_/http%3A//www.miamiopen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ IMG Worldwide may share the personal information we collect from and about you:
   * With our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership;
   * With our service providers, vendors, and consultants who need access to the information to perform services for us;
   * With event sponsors and other partners, including but not limited to AGT GmbH International, Appy Entertainment GmbH, Appy Entertainment LLC and their respective affiliates and subsidiaries, where necessary to provide you with the Services and for their own business purposes, including for the purpose of sending you promotional communications;
-  * As necessary if we believe that there has been a violation of the IMG Worldwide Terms of Service [INSERT hyperlink]or of our rights or the rights of any third party;
+  * As necessary if we believe that there has been a violation of the IMG Worldwide Terms of Service or of our rights or the rights of any third party;
   * To respond to judicial process or provide information to law enforcement or regulatory agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law;
   * In connection with any merger, sale of assets, financing, bankruptcy, or reorganization of our business; and
   * With your consent.
