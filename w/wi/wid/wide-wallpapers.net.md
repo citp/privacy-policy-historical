@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wide-wallpapers.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629134444id_/http%3A//wide-wallpapers.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wide-wallpapers.net privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218204930id_/http%3A//wide-wallpapers.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy widescreen wallpaper | Wide-Wallpapers.NET
 
@@ -28,7 +28,7 @@ While browsing Wide-Wallpapers.Net, a small number of text files referred to as 
 
 Wide-Wallpapers.Net serves ads provided by a range of third-party advertising networks. The practices of our advertising partners are not directly covered by WallpapersWide.com’s privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date
 
-> [\- Google AdSense](https://www.google.com/adsense/)
+> [– Google AdSense](https://www.google.com/adsense/)
 
 ### Sharing/Selling of Data
 
