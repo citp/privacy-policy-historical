@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartown.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627195828id_/http%3A//www.glu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartown.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218230035id_/http%3A//www.glu.com/privacy) for the most accurate reproduction.*
 
 # Glu | The Leader in 3D Freemium Mobile Gaming
 
@@ -118,3 +118,5 @@ Privacy Policy Administrator
 Glu Mobile Inc.  
 500 Howard Street, Suite 300  
 San Francisco, CA 94105-2209.
+
+### [For The Swift Life supplemental privacy policy, click here](http://www.glu.com/privacy/theswiftlife). 
