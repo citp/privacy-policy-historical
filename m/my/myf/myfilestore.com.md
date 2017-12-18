@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfilestore.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612032157id_/http%3A//myfilestore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfilestore.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218163126id_/http%3A//myfilestore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
