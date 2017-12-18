@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolexpert.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629014059id_/http%3A//www.poolexpert.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolexpert.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218192037id_/http%3A//www.poolexpert.com/privacy.aspx) for the most accurate reproduction.*
 
 # Fantasy NHL Hockey and MLB Baseball Pool Manager | PoolExpert.com
 
@@ -16,7 +16,7 @@ Under some circumstances (for example if you create a hockey pool on PoolExpert)
 
 Collecting this data allows us to quickly and easily contact you. For example, we may need to notify you of technical issues, or if you win a prize using one of our sites (eg. PoolExpert). If you like, we can also keep you informed of new products and services being offered by PoolExpert, but we will always give you the choice of whether you wish to receive this type of information or not.
 
-PoolExpert would like to make it clear that none of our advertisers, clients, or partners have access to your personal data. In addition, PoolExpert will never disclose your personal data to any outside party without your knowledge and consent except under the most exceptional circumstances such as: police authorities force us to by law/warrant; it is required for PoolExpert to protect ourselves against actions taken against us which threaten our rights and/or property, or those of our visitors, clients, partners, advertisers, or retailers.
+PoolExpert would like to make it clear that none of our advertisers, clients, or partners have access to your personal data, unless you have specifically consented to it. In addition, PoolExpert will never disclose your personal data to any outside party without your knowledge and consent except under the most exceptional circumstances such as: police authorities force us to by law/warrant; it is required for PoolExpert to protect ourselves against actions taken against us which threaten our rights and/or property, or those of our visitors, clients, partners, advertisers, or retailers.
 
 Our sites provides users the opportunity to opt-out of receiving promotional/marketing information from us by sending email to [support@poolexpert.com](mailto:support@poolexpert.com)
 
@@ -27,6 +27,10 @@ PoolExpert' Web sites contain links to other sites. Clicking on any of these lin
 ## Public Forums
 
 PoolExpert's Web sites may contain forums, message boards, and/or news groups. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose any personal information. PoolExpert is not responsible for privacy breakdowns which occur on public forums.
+
+## Third Party Advertising
+
+We may use third-party advertising companies to collect data and/or serve ads when you visit our Web site. These companies may use information but not personal informational ( your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies may also use non-cookie technologies to recognize your computer or device and/or to collect and record information about your web surfing activity including your activities on or off this Web site. Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://networkadvertising.org/>
 
 ## Children
 
