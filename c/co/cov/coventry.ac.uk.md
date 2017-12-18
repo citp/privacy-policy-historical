@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coventry.ac.uk privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621201728id_/http%3A//www.coventry.ac.uk/legal-documents/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventry.ac.uk privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218014029id_/http%3A//www.coventry.ac.uk/legal-documents/cookie-policy) for the most accurate reproduction.*
 
 # Coventry University | Cookie Policy
 
