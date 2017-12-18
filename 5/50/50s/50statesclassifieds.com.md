@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50statesclassifieds.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623214134id_/http%3A//www.50statesclassifieds.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50statesclassifieds.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218060359id_/http%3A//www.50statesclassifieds.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # USA Business Classifieds - Online newspaper classified ads Online Business Classifieds
 
@@ -11,25 +11,25 @@ In**](http://www.50statesclassifieds.com/signinform.php)
   
 |   
 ---  
-|  |  | **[Featured](https://web.archive.org/web/20170623214134id_/http%3A//www.50statesclassifieds.com/FeaturedMembers.php)**  
+|  |  | **[Featured](https://web.archive.org/web/20171218060359id_/http%3A//www.50statesclassifieds.com/FeaturedMembers.php)**  
 ---  
   
-[ Attorney  
-](https://web.archive.org/web/20170623214134id_/http%3A//www.50statesclassifieds.com/store.php?id=31011)  
+[ THC_T_Shirts  
+](https://web.archive.org/web/20171218060359id_/http%3A//www.50statesclassifieds.com/store.php?id=45862)  
   
 |   **Latest Ads**  
 ---  
-| [ Metallic Leggings, Shiny Leggings a must! ](http://www.50statesclassifieds.com/ad.php?id=197823)  
+| [ Sequin Shorts, Dance Shorts ](http://www.50statesclassifieds.com/ad.php?id=198332)  
 ---  
-[ Sexy Halter Dress for Summer Fun ](http://www.50statesclassifieds.com/ad.php?id=197822)  
-[ Striped Sundress in two colors ](http://www.50statesclassifieds.com/ad.php?id=197821)  
-[ Sundresses are perfect for summer ](http://www.50statesclassifieds.com/ad.php?id=197820)  
-[ Floral Design Tights For Spring ](http://www.50statesclassifieds.com/ad.php?id=197819)  
-[ Womens eBook Store ](http://www.50statesclassifieds.com/ad.php?id=197802)  
-[ Womens eBook Store ](http://www.50statesclassifieds.com/ad.php?id=197801)  
-[ Womens eBook Store ](http://www.50statesclassifieds.com/ad.php?id=197800)  
-[ Womens eBook Store ](http://www.50statesclassifieds.com/ad.php?id=197799)  
-[ Womens eBook Store ](http://www.50statesclassifieds.com/ad.php?id=197798)  
+[ Spike Bra, Dance Bra ](http://www.50statesclassifieds.com/ad.php?id=198331)  
+[ Sequin Tube Top / Sequin Skirt ](http://www.50statesclassifieds.com/ad.php?id=198330)  
+[ Fashions, Wedding Jewelry, Floral Arrangements. Health & Beauty Products On Sale! ](http://www.50statesclassifieds.com/ad.php?id=198291)  
+[ Sales Representitive, Mobile APP Platform Sales ](http://www.50statesclassifieds.com/ad.php?id=198204)  
+[ Now Hiring! NJ Area Managers, B2B Sales and Recruiters ](http://www.50statesclassifieds.com/ad.php?id=198122)  
+[ Outdoor Wood Furnace ](http://www.50statesclassifieds.com/ad.php?id=198119)  
+[ Become an Independent Broker for David Allen Capital ](http://www.50statesclassifieds.com/ad.php?id=198010)  
+[ Best-Credit-Report-Reviews ](http://www.50statesclassifieds.com/ad.php?id=197856)  
+[ Best-Weight-Loss-eBook-Reviews ](http://www.50statesclassifieds.com/ad.php?id=197855)  
    
 |  Privacy Policy for 50StatesClassifieds.com  
 ---  
