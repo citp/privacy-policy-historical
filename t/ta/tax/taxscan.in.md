@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxscan.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050107id_/http%3A//www.taxscan.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxscan.in privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218022848id_/http%3A//www.taxscan.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Taxscan
 
