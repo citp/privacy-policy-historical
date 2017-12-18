@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nknews.org privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128121801id_/https%3A//www.nknews.org/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nknews.org privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218025051id_/https%3A//www.nknews.org/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 ### **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-news@nknews.org  
-pro@nknews.org
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on May 03, 2013
