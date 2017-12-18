@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pppl.gov privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628123853id_/http%3A//www.pppl.gov/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pppl.gov privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218130724id_/http%3A//www.pppl.gov/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Princeton Plasma Physics Lab
 
