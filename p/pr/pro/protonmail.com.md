@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protonmail.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520044602id_/https%3A//protonmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protonmail.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218034812id_/https%3A//protonmail.com/privacy-policy) for the most accurate reproduction.*
 
 # ProtonMail - Privacy Policy
 
@@ -17,6 +17,10 @@ Under Swiss law, the technical means for lawful interceptions of customer commun
 Any emails provided to ProtonMail through either our waiting list, optional email verification, or optional notification/recovery email setting in your account, are considered personal data as defined and protection by the Swiss Federal Data Protection Act (DPA).
 
 Such data will only be used to contact you with important notifications about ProtonMail, to send you an invitation link to create your ProtonMail account, to verify your ProtonMail account, or to send you password recovery links if you enable the option.
+
+In order to maintain the integrity of the service, ProtonMail must take measures to avoid creation of accounts by spammers. This is because if spammers use ProtonMail to send messages, ProtonMail’s IP addresses can become blocked by major mail providers such as Gmail, Yahoo, Outlook, etc.
+
+In order to prevent the creation of accounts by spam bots or human spammers, ProtonMail uses a variety of human verification methods. You may be asked to verify using either reCaptcha, Email, or SMS. IP addresses, email addresses, and phone numbers provided are saved for a short period of time in order to send you a verification code and to determine if you are a spammer. If this data is saved for a longer period of time, it is always saved as a cryptographic hash, which ensures that the raw values cannot be deciphered by us. [Learn More](https://web.archive.org/support/knowledge-base/human-verification/)
 
 ### Data Collection
 
@@ -52,7 +56,15 @@ When a ProtonMail account is closed, data is immediately deleted from production
 
 ### Data Disclosure
 
-We will only disclose the limited user data we possess if we receive an enforceable court order from either the Cantonal Courts of Geneva or the Swiss Federal Supreme Court. If a request is made for encrypted message content that ProtonMail does not possess the ability to decrypt, the fully encrypted message content may be turned over. If permitted by law, ProtonMail will always contact a user first before any data disclosure. Under Swiss law, it is obligatory to notify the target of a data request, although such notification may come from the authorities and not from the Company.
+We will only disclose the limited user data we possess if we receive notice from the Geneva Public Prosecutor's office or the Swiss Federal Police regarding a court order that is coming from the two authorities we are legally obligated to recognize: the Cantonal Courts of Geneva or the Swiss Federal Supreme Court. While we may comply with electronically delivered notices (see exceptions below), the disclosed data can only be used in court after we have received an original copy of the court order by registered post or in person, and provide a formal response.
+
+If a request is made for encrypted message content that ProtonMail does not possess the ability to decrypt, the fully encrypted message content may be turned over. If permitted by law, ProtonMail will always contact a user first before any data disclosure. Under Swiss law, it is obligatory to notify the target of a data request, although such notification may come from the authorities and not from the Company.
+
+ProtonMail may from time to time, contest court orders if there is a public interest in doing so. In such situations, the Company will not comply with the court order until all legal or other remedies have been exhausted. Therefore, not all court orders described in our Transparency Report will lead to data disclosure.
+
+### Affiliated Services
+
+For legal and security reasons, the ProtonVPN service is operated by a separate legal entity: ProtonVPN AG (Switzerland). Use of ProtonVPN is governed by the Terms and Conditions and Privacy Policy of ProtonVPN AG (protonvpn.com).
 
 ### Modifications to Privacy Policy
 
