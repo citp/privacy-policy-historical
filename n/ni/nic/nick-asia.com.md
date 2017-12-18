@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nick-asia.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209102608id_/http%3A//www.nick-asia.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nick-asia.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218064354id_/http%3A//www.nick-asia.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Nickelodeon | Privacy Policy
 
