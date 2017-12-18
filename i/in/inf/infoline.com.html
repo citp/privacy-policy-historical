@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the infoline.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606022957id_/http%3A//infoline.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infoline.com privacy policy that was archived on 2017-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171218210955id_/http%3A//infoline.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us"><head>
     <meta charset="utf-8">
@@ -41,7 +41,7 @@
     
     <link type="text/css" rel="stylesheet" href="/content/css/all.css">
     
-    <link type="text/css" rel="stylesheet" href="/content/css/style.css?v8.3">
+    <link type="text/css" rel="stylesheet" href="/content/css/style.css?v8.1">
     <link type="text/css" rel="stylesheet" href="/content/css/media.css?v8">
     <link type="text/css" rel="stylesheet" href="/content/css/bootstrap-select.css">
     <link type="text/css" rel="stylesheet" href="/content/css/bootstrap-imageupload.min.css">
@@ -82,6 +82,7 @@
 
 </head>
 <body>
+    <input name="__RequestVerificationToken" type="hidden" value="7J2jI1EEojP8KYNswwBqh26rAgW0jhMK_EilnOIwfj1eZRiOwTu65oskXpWgbnWf_np75rf3zDY7b0G2x8LdthSlfkliFaUxzDziOl9ZtnQ1">
     <input type="hidden" id="City" value="Ahmedabad">
     <input type="hidden" id="nurl">
     <div id="page">
@@ -510,6 +511,14 @@
                                         <div class="error-msg" id="v_SignupPassword"></div>
                                     </div>
                                     <div class="form-group">
+                                        <input class="form-control" id="Captcha" name="Captcha" type="text" autocomplete="off" placeholder="Enter the code given below">
+                                        <div class="error-msg" id="v_SignupCaptcha"></div>
+                                    </div>
+                                    <div class="form-group">
+                                        <img style="float:left;" src="/captcha.ashx" id="imgCaptcha">
+                                    </div>
+                                    <div class="form-group">&nbsp;</div>
+                                    <div class="form-group">
                                         <label class="control control--checkbox normaltext">
                                             I agree to Infoline's <a href="/terms-of-use" target="_blank">terms &amp; conditions</a> and <a href="/privacy-policy" target="_blank">privacy policy</a>.
                                             <input id="agreeterms" name="agreeterms" type="checkbox" checked="">
@@ -577,6 +586,14 @@
                                         Don't have password ? <a onclick="getpwd()" style="font-size:11px; cursor:pointer;">Get Password</a>
                                     </div>
                                     <div class="form-group">
+                                        <input class="form-control" id="CaptchaLogin" name="CaptchaLogin" type="text" autocomplete="off" placeholder="Enter the code given below">
+                                        <div class="error-msg" id="v_SigninCaptcha"></div>
+                                    </div>
+                                    <div class="form-group">
+                                        <img style="float:left;" src="/captcha.ashx" id="imgCaptchaLogin">
+                                    </div>
+                                    <div class="form-group">&nbsp;</div>
+                                    <div class="form-group">
                                         <label class="control control--checkbox normaltext">
                                             Keep me signed in
                                             <input id="SigninRemember" name="SigninRemember" type="checkbox">
@@ -624,6 +641,14 @@
                                             <input class="form-control" id="fpwdemail" name="fpwdemail" type="text" autocomplete="off" placeholder="Email/Mobile">
                                             <div class="error-msg" id="v_fpwdemail"></div>
                                         </div>
+                                        <div class="form-group">
+                                            <input class="form-control" id="CaptchaFPW" name="CaptchaFPW" type="text" autocomplete="off" placeholder="Enter the code given below">
+                                            <div class="error-msg" id="v_fpwCaptcha"></div>
+                                        </div>
+                                        <div class="form-group">
+                                            <img style="float:left;" src="/captcha.ashx" id="imgCaptchaFPW">
+                                        </div>
+                                        <div class="form-group">&nbsp;</div>
                                         <div class="submit_button">
                                             <div id="fpwdSubmit" class="btnCol"><input type="submit" class="btn btn-primary btn-lg red-btn" value="Submit">&nbsp;<a href="#signinform" class="post_btn cat-pop-link" style="font-size:11px;">Signin</a></div>
                                         </div>
@@ -667,7 +692,7 @@
     
     <script type="text/javascript" src="/Content/Scripts/bootstrap-imageupload.min.js"></script>
     <script type="text/javascript" src="/content/js/jquery.bootstrap-responsive-tabs.min.js"></script>
-    <script type="text/javascript" src="/content/js/general.js?v=8.2"></script>
+    <script type="text/javascript" src="/content/js/general.js?v=9"></script>
     <script type="text/javascript" src="/content/js/all1.js?v=8"></script>
     
     <script type="text/javascript" src="/content/js/oms.js"></script>
@@ -766,7 +791,7 @@
                     return false;
                 }
             }
-            
+
             if ($("#TUYNEmail").val() != "") {
 
                 if (!validateEmail($("#TUYNEmail").val())) {
@@ -807,8 +832,9 @@
             }
 
             var Param = "FName=" + $("#TUYNFName").val() + "&Mobile=" + $("#TUYNPhone").val() + "&Email=" + $("#TUYNEmail").val() + "&Message=" + $("#TUYNMessage").val() + "&Area=" + $("#TUYNArea").val() + "&NeedFor=&Webids=";
+            Param += "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
             $.ajax({
-                type: "GET",
+                type: "POST",
                 url: "/Ahmedabad/Ajax-YP/YourNeed",
                 data: Param,
                 success: function (result) {
@@ -866,8 +892,9 @@
             $("#resendotptuyn").hide();
             $("#otptuynfootertext").hide();
             var Param = "Id=" + inserttuynsmsrow + "&OTP=" + $("#OTPTUYN").val();
+            Param += "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
             $.ajax({
-                type: "GET",
+                type: "POST",
                 url: "/Ahmedabad/Ajax-YP/ValidateOTPYN",
                 data: Param,
                 success: function (result) {
@@ -894,8 +921,9 @@
         //otp resend
         function resendotptuyn() {
             var Param = "Id=" + inserttuynsmsrow + "&Phone=" + $("#TUYNPhone").val();
+            Param += "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
             $.ajax({
-                type: "GET",
+                type: "POST",
                 url: "/Ahmedabad/Ajax-YP/ResendOTPYN",
                 data: Param,
                 success: function (result) {
@@ -963,8 +991,9 @@
                 $("#SigninSubmitFail").html("");
                 $("#SigninSubmitFail").hide();
                 var Param = "m=" + $("#SigninEmail").val();
+                Param += "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
                 $.ajax({
-                    type: "GET",
+                    type: "POST",
                     url: "/Ahmedabad/Ajax-YP/NUP",
                     data: Param,
                     success: function (result) {
@@ -987,8 +1016,9 @@
                     return false;
                 $(".signuploading").removeClass("hide");
                 var Param = "EmailMobile=" + $("#SignupEmail").val();
+                Param += "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
                 $.ajax({
-                    type: "GET",
+                    type: "POST",
                     url: "/Ahmedabad/Ajax-YP/CheckUserExist",
                     data: Param,
                     success: function (result) {
@@ -1055,6 +1085,7 @@
         function clearsignupform() {
             document.getElementById("v_Submit").innerHTML = "";
             document.getElementById("v_SignupPassword").innerHTML = "";
+            document.getElementById("v_SignupCaptcha").innerHTML = "";
             document.getElementById("v_SignupEmail").innerHTML = "";
             document.getElementById("v_SignupName").innerHTML = "";
             document.getElementById("v_SignupEmail").innerHTML = "";
@@ -1064,7 +1095,9 @@
             $("#SignupName").val("");
             $("#SignupEmail").val("");
             $("#SignupPassword").val("");
+            $("#Captcha").val("");
             //$("#agreeterms").attr('checked', false);
+            $("#imgCaptcha").attr("src", "/captcha.ashx?ab=" + (new Date()).getTime());
 
             insertSignuprow = "";
             $("#signupformfield").show();
@@ -1078,6 +1111,9 @@
             //$("#signupsubmitbtn").attr('disabled', !this.checked);
         }
         function clearsigninform() {
+            document.getElementById("v_SigninCaptcha").innerHTML = "";
+            $("#CaptchaLogin").val("");
+            $("#imgCaptchaLogin").attr("src", "/captcha.ashx?ab=" + (new Date()).getTime());
             $(".getpassword").addClass("hide");
             document.getElementById("v_SigninEmail").innerHTML = "";
             document.getElementById("v_SigninPassword").innerHTML = "";
@@ -1088,7 +1124,10 @@
             $("#SigninRemember").attr('checked', false);
         }
         function clearfpwdform() {
+            document.getElementById("v_fpwCaptcha").innerHTML = "";
+            $("#CaptchaFPW").val("");
 
+            $("#imgCaptchaFPW").attr("src", "/captcha.ashx?ab=" + (new Date()).getTime());
             insertfpwdrow = "";
             $("#fpwdformfield").show();
             $("#fpwdemail").val("");
@@ -1168,10 +1207,9 @@
                 alert("Enter 10 digit number !!")
                 return false;
             }
-
-            var Param = "phone=" + $(".getappno").val();
+            var Param = "phone=" + $(".getappno").val() + "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
             $.ajax({
-                type: "GET",
+                type: "POST",
                 url: "/Ahmedabad/Ajax-YP/getappsms",
                 data: Param,
                 success: function (result) {
@@ -1196,6 +1234,7 @@
             document.getElementById("v_SignupPassword").innerHTML = "";
             document.getElementById("v_SignupEmail").innerHTML = "";
             document.getElementById("v_SignupName").innerHTML = "";
+            document.getElementById("v_SignupCaptcha").innerHTML = "";
 
 
             if ($("#SignupName").val() == "") {
@@ -1228,14 +1267,20 @@
                 $("#SignupPassword").focus();
                 return false;
             }
+            if ($("#Captcha").val() == "") {
+                document.getElementById("v_SignupCaptcha").innerHTML = "Required";
+                $("#Captcha").focus();
+                return false;
+            }
 
             if (!$('#agreeterms').prop('checked')) {
                 document.getElementById("v_Submit").innerHTML = "Click to agree the Terms of Service";
                 return false;
             }
-            var Param = "Name=" + $("#SignupName").val() + "&EmailMobile=" + $("#SignupEmail").val() + "&Password=" + $("#SignupPassword").val();
+            var Param = "Name=" + $("#SignupName").val() + "&EmailMobile=" + $("#SignupEmail").val() + "&Password=" + $("#SignupPassword").val() + "&Captcha=" + $("#Captcha").val();
+            Param += "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
             $.ajax({
-                type: "GET",
+                type: "POST",
                 url: "/Ahmedabad/Ajax-YP/Signup",
                 data: Param,
                 success: function (result) {
@@ -1296,8 +1341,9 @@
             $("#resendotpsignup").hide();
             $("#otpsignupfootertext").hide();
             var Param = "t=" + insertSignuprow + "&OTP=" + $("#OTPsignup").val() + "&EmailMobile=" + $("#SignupEmail").val();
+            Param += "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
             $.ajax({
-                type: "GET",
+                type: "POST",
                 url: "/Ahmedabad/Ajax-YP/ValidateOTPSignup",
                 data: Param,
                 success: function (result) {
@@ -1322,8 +1368,9 @@
         //otp resend
         function resendotpSignup() {
             var Param = "t=" + insertSignuprow + "&EmailMobile=" + $("#SignupEmail").val();
+            Param += "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
             $.ajax({
-                type: "GET",
+                type: "POST",
                 url: "/Ahmedabad/Ajax-YP/ResendOTPSignup",
                 data: Param,
                 success: function (result) {
@@ -1343,6 +1390,7 @@
 
             document.getElementById("v_SigninEmail").innerHTML = "";
             document.getElementById("v_SigninPassword").innerHTML = "";
+            document.getElementById("v_SigninCaptcha").innerHTML = "";
 
             if ($("#SigninEmail").val() == "") {
                 document.getElementById("v_SigninEmail").innerHTML = "Required";
@@ -1388,14 +1436,26 @@
                 checked=1;
 
 
-            var Param = "EmailMobile=" + $("#SigninEmail").val() + "&Password=" + $("#SigninPassword").val() + "&Remember=" + checked;
+            if ($("#CaptchaLogin").val() == "") {
+                document.getElementById("v_SigninCaptcha").innerHTML = "Required";
+                $("#CaptchaLogin").focus();
+                return false;
+            }
+
+
+            var Param = "EmailMobile=" + $("#SigninEmail").val() + "&Password=" + $("#SigninPassword").val() + "&Remember=" + checked + "&Captcha=" + $("#CaptchaLogin").val();
+            Param += "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
             $.ajax({
-                type: "GET",
+                type: "POST",
                 url: "/Ahmedabad/Ajax-YP/Signin",
                 data: Param,
                 success: function (result) {
                     $("#SigninSubmitFail").hide();
                     $("#SigninSubmitFail").html("");
+                    if (result.indexOf("invalid") > -1) {
+                        $("#SigninSubmitFail").show();
+                        $("#SigninSubmitFail").html("Invalid Captcha");
+                    }
                     if (result == "success")
                         location.reload();
                     if (result.indexOf("fail") > -1)
@@ -1421,8 +1481,9 @@
                 return;
             }
             var Param = "EmailMobile=" + $("#SigninEmail").val();
+            Param += "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
             $.ajax({
-                type: "GET",
+                type: "POST",
                 url: "/Ahmedabad/Ajax-YP/SendPwd",
                 data: Param,
                 success: function (result) {
@@ -1445,6 +1506,7 @@
 function fpwd() {
 
             document.getElementById("v_fpwdemail").innerHTML = "";
+            document.getElementById("v_fpwCaptcha").innerHTML = "";
 
             if ($("#fpwdemail").val() == "") {
                 document.getElementById("v_fpwdemail").innerHTML = "Required";
@@ -1473,15 +1535,24 @@ function fpwd() {
                     return false;
                 }
             }
-
-            var Param = "EmailMobile=" + $("#fpwdemail").val();
+            if ($("#CaptchaFPW").val() == "") {
+                document.getElementById("v_fpwCaptcha").innerHTML = "Required";
+                $("#CaptchaFPW").focus();
+                return false;
+            }
+            var Param = "EmailMobile=" + $("#fpwdemail").val() + "&Captcha=" + $("#CaptchaFPW").val();
+            Param += "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
             $.ajax({
-                type: "GET",
+                type: "POST",
                 url: "/Ahmedabad/Ajax-YP/FPWD",
                 data: Param,
                 success: function (result) {
                     $("#fpwdSubmitFail").html("");
                     $("#fpwdSubmitFail").hide();
+                    if (result.toString().indexOf("invcaptcha") > -1) {
+                        document.getElementById("v_fpwCaptcha").innerHTML = "Invalid Captcha";
+                        return false;
+                    }
                     if (result.toString().indexOf("Invalid") > -1) {
                         document.getElementById("v_fpwdemail").innerHTML = result;
                         $("#fpwdemail").focus();
@@ -1542,8 +1613,9 @@ function fpwd() {
             $("#resendotpfpwd").hide();
             $("#otpfpwdfootertext").hide();
             var Param = "EmailMobile=" + $("#fpwdemail").val() + "&OTP=" + $("#OTPfpwd").val();
+            Param += "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
             $.ajax({
-                type: "GET",
+                type: "POST",
                 url: "/Ahmedabad/Ajax-YP/ValidateOTPfpwd",
                 data: Param,
                 success: function (result) {
@@ -1567,8 +1639,9 @@ function fpwd() {
         //otp resend
         function resendotpfpwd() {
             var Param = "EmailMobile=" + $("#fpwdemail").val();
+            Param += "&__RequestVerificationToken=" + $('input[name="__RequestVerificationToken"]').val();
             $.ajax({
-                type: "GET",
+                type: "POST",
                 url: "/Ahmedabad/Ajax-YP/ResendOTPFPWD",
                 data: Param,
                 success: function (result) {
@@ -1631,4 +1704,4 @@ function fpwd() {
     </noscript>
 
 
-<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1000; top: 0px; left: 0px; display: none;"></ul></body></html>
