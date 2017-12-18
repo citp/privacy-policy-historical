@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628115003id_/http%3A//www.jjhuddle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218013602id_/http%3A//www.jjhuddle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JJHuddle.com
 
