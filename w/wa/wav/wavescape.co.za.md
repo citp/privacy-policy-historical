@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wavescape.co.za privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206064223id_/http%3A//www.wavescape.co.za/wavescape-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavescape.co.za privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218225219id_/https%3A//www.wavescape.co.za/wavescape-privacy-policy.html) for the most accurate reproduction.*
 
 # Wavescape Privacy Policy
 
@@ -18,7 +18,7 @@ PII, as used in US privacy law and global information security, is information t
 
  **WHAT PERSONAL INFORMATION DO WE COLLECT FROM THE PEOPLE THAT VISIT OUR WEBSITE?**
 
-** ** When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience and to receive subscription services.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience and to receive subscription services.
 
  **WHEN DO WE COLLECT INFORMATION?**
 
@@ -29,7 +29,7 @@ PII, as used in US privacy law and global information security, is information t
 
 **HOW DO WE USE YOUR INFORMATION?**
 
-** ** We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
   * To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
   * To improve our website in order to better serve you.
@@ -59,15 +59,15 @@ PII, as used in US privacy law and global information security, is information t
 
 **THIRD-PARTY DISCLOSURE - NB**
 
-** ** We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
  **THIRD-PARTY LINKS**
 
-** ** We do not include or offer third-party products or services on our website.
+We do not include or offer third-party products or services on our website.
 
-  **GOOGLE**
+**GOOGLE**
 
-  * Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+  * Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. [https://support.google.com/adwordspolicy/answer/1316548?hl=en](http://support.google.com/adwordspolicy/answer/1316548?hl=en)
   * We use Google AdSense Advertising on our website.
   * Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
@@ -85,11 +85,11 @@ We have implemented the following:
 
 **OPTING OUT**
 
-** ** Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-  **CALIFORNIA ONLINE PRIVACY PROTECTION ACT**
+**CALIFORNIA ONLINE PRIVACY PROTECTION ACT**
 
-** ** CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
 
 [ ](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf) **ACCORDING TO CALOPPA WE AGREE TO THE FOLLOWING:**
 
@@ -103,13 +103,13 @@ We have implemented the following:
 
 **HOW DOES OUR SITE HANDLE DO NOT TRACK SIGNALS?**
 
-** ** We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-  **DOES OUR SITE ALLOW THIRD-PARTY BEHAVIORAL TRACKING?**
+**DOES OUR SITE ALLOW THIRD-PARTY BEHAVIORAL TRACKING?**
 
-** ** It's also important to note that we allow third-party behavioral tracking
+It's also important to note that we allow third-party behavioral tracking
 
-  **COPPA (CHILDREN ONLINE PRIVACY PROTECTION ACT)**
+**COPPA (CHILDREN ONLINE PRIVACY PROTECTION ACT)**
 
   * When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
   * We do not specifically market to children under 13.
@@ -127,7 +127,7 @@ We have implemented the following:
 
 **CAN SPAM ACT**
 
-** ** The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
 We collect your email address in order to:
 
@@ -150,11 +150,9 @@ If at any time you would like to unsubscribe from receiving future emails
 and we will promptly remove you from ALL correspondence.
 
 **Contact Us**  
+ 
+
 If there are any questions regarding this privacy policy you may contact us using the information below.  
 www.wavescape.co.za  
-66 Albert Road  
-Woodstock, western cape 7295  
-south africa  
-[paul@wavescape.co.za](mailto:paul@wavescape.co.za)
+[paul@wavescape.co.za](mailto:paul@wavescape.co.za)  
 
-Last Edited on 2016-06-15
