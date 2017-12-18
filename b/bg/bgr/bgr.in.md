@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bgr.in privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625212603id_/http%3A//www.bgr.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgr.in privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218052806id_/http%3A//www.bgr.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Latest Tech News, Video & Photo Reviews at BGR India
+# Privacy Policy | BGR India
 
 The Company and its subsidiaries respect your privacy. This Privacy Policy lists the manner your data is collected and used by the site/service, and you are requested to read it carefully. By accessing the services provided by the site service oncars.in, You agree to the collection and use of your data by the site/service oncars.in in the manner provided in this Privacy Policy.
 
@@ -202,8 +202,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If we decide to make changes in our email practices, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we decide to change our email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 India Webportal Private Limited  
-JV Mail.com Media Corporation and Zee Entertainment Enterprises Ltd  
-8th floor, Vishwaroop IT Park,  
-Opp. Vashi Railway Station, Sector 30A, Vashi,  
-Navi Mumbai-400703, Maharashtra,India  
-Main Vashi Office: +91-22-40130272
+Marathon Futurex,  
+20th Floor,NM Joshi Marg,  
+Lower Parel East,  
+Mumbai-400013, Maharashtra, India
