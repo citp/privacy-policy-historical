@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616222426id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218055856id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
 
 # Luxury Watch Exchange | Auction Sell Buy Trade | privacy
 
