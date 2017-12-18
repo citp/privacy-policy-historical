@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzavoo.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613212358id_/http%3A//buzzavoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzavoo.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218085538id_/http%3A//buzzavoo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – BuzzAvoo
+# Privacy Policy | BuzzAvoo.
 
 This privacy policy sets out how BuzzAvoo uses and protects any information that you give us when you use this website.  
 BuzzAvoo is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
