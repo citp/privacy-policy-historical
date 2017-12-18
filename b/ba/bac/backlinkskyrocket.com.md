@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinkskyrocket.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603203317id_/http%3A//mikulabeutl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinkskyrocket.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218081910id_/http%3A//mikulabeutl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mikula Beutl
 
@@ -177,3 +177,5 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 **•** Follow the instructions at the bottom of each email.
 
 and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
