@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the john-pearce.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626174347id_/http%3A//john-pearce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the john-pearce.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218051357id_/http%3A//john-pearce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — John Pearce
 
