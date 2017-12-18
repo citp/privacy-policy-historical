@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the political.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426015716id_/http%3A//political.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the political.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218085408id_/http%3A//political.com/Home/Privacy) for the most accurate reproduction.*
 
 # 
 
