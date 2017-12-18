@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypornprofile.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619130847id_/http%3A//mypornprofile.com/misc/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypornprofile.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218063421id_/http%3A//mypornprofile.com/misc/page/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyPornProfile
 
