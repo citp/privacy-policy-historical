@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datalounge.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128194403id_/https%3A//www.datalounge.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datalounge.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218215037id_/https%3A//www.datalounge.com/terms) for the most accurate reproduction.*
 
 # the Data Lounge - Gay Celebrity Gossip, Gay Politics, Gay News and Pointless Bitchery since 1995.
 
