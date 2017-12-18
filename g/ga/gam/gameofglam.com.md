@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameofglam.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610140525id_/http%3A//gameofglam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameofglam.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218171908id_/http%3A//gameofglam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Game Of Glam
 
@@ -24,3 +24,5 @@ Google’s use of the DoubleClick cookie enables it and its partners to serve ad
 You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (or by visiting aboutads.info.)  
 Third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads.  
 Links to other websites Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+_if you would like more information about this practice and to know your choices about not having this information used by these companies,  [click here](http://www.networkadvertising.org/choices/)._
