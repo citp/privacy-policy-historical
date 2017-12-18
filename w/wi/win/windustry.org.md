@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windustry.org privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531062440id_/http%3A//www.windustry.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windustry.org privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218021523id_/http%3A//www.windustry.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Windustry
 
