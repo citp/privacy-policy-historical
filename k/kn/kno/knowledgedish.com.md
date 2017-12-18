@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knowledgedish.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618231551id_/http%3A//knowledgedish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgedish.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218065114id_/http%3A//knowledgedish.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Knowledge Dish
+# Privacy Policy | Knowledge Dish.
 
 This privacy policy sets out how Knowledge Dish uses and protects any information that you give us when you use this website.  
 Knowledge Dish is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
