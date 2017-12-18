@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trucksuvidha.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022217id_/http%3A//trucksuvidha.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trucksuvidha.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218214747id_/http%3A//trucksuvidha.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy, Load/Cargo/Freight, Truck/Lorry, TruckSuvidha
 
@@ -33,7 +33,7 @@ We value the trust you place on us. That's why we insist upon the highest standa
     * Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
   * ### Posting Your Information to Public Areas of [trucksuvidha.com](http://trucksuvidha.com/ "India's freight and truck matching portal. Book truck load online.")
 
-    * Please remember that if you post any of your personal information in public areas of [trucksuvidha.com](http://trucksuvidha.com/ "India's freight and truck matching portal. Book truck load online."),, such as in online forums or chat rooms, or in the searchable database, such information may be collected and used by others over whom Sarvodaya Infotech Pvt. Ltd. has no control. We cannot control the use made by third parties of information you post or otherwise make available in public areas ofSarvodaya Infotech Pvt. Ltd..
+    * Please remember that if you post any of your personal information in public areas of [trucksuvidha.com](http://trucksuvidha.com/ "India's freight and truck matching portal. Book truck load online."),, such as in online forums or chat rooms, or in the searchable database, such information may be collected and used by others over whom Sarvodaya Infotech Pvt. Ltd. has no control. We cannot control the use made by third parties of information you post or otherwise make available in public areas of Sarvodaya Infotech Pvt. Ltd..
   * ### Controlling and Managing your personal information
 
     * We retain all the information we gather about you in an effort to make your repeat use with us more efficient, practical and relevant until you change or remove your personal data as described below. You may have access to review, correct, update, or delete your account profile information at any time. Simply log into your account, go to your profile, and make the necessary changes. Before providing you with a copy of your personal information or correcting, updating or deleting such information, we reserve the right to verify and authenticate your identity and the personal information to which you have requested access. Access to or correction, updating or deletion of your personal information may be denied or limited by Sarvodaya Infotech Pvt. Ltd. if it would violate another person(s) rights and/or as otherwise permitted by applicable law.
@@ -47,7 +47,7 @@ We value the trust you place on us. That's why we insist upon the highest standa
 
 ### Grievance Officer 
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20170606022217id_/http%3A//trucksuvidha.com/ContactUs.aspx "Get in touch with TruckSuvidha") using the information below or drop us a mail with subject line-PRIVACY POLICY:
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20171218214747id_/http%3A//trucksuvidha.com/ContactUs.aspx "Get in touch with TruckSuvidha") using the information below or drop us a mail with subject line-PRIVACY POLICY:
 
 **Sarvodaya Infotech Pvt. Ltd.**  
 **Address:** 2nd Floor, Kamla Nagar, Jagadhri Road, Near Telephone Exchange, Yamunanagar, Haryana, India,135001   
