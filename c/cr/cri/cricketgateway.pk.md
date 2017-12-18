@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cricketgateway.pk privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616070317id_/http%3A//cricketgateway.pk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketgateway.pk privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218194551id_/http%3A//www.cricketgateway.pk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Cricketgateway.pk
+# Privacy Policy
 
 ## Privacy 
 
