@@ -1,16 +1,21 @@
-<!--The following is the downloaded HTML source of the galatta.com privacy policy that was archived on 2017-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170515111342id_/http%3A//www.galatta.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the galatta.com privacy policy that was archived on 2017-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171218050215id_/http%3A//www.galatta.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <!-- Define Charset -->
 <meta charset="utf-8">
 <!-- Responsive Metatag -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+ <meta property="fb:pages" content="1536057456674151">
 <!-- Basic -->
 <title>Galatta.com - Privacy</title>
+ <meta property="fb:pages" content="1536057456674151">
+
+
 			<meta itemprop="name" content="Galatta.com - Privacy">
   <meta itemprop="description" content="The latest news, movie reviews and previews, music, trailers and photos, event videos and pictures, exclusive interviews with stars from South Indian movies. Galatta.com is the one stop shop for all your movie masala.">
   <meta itemprop="image" content="http://d1ydle56j7f53e.cloudfront.net/templates/frontend/2016/images/galatta-logo.jpg">
+  <meta property="fb:pages" content="1536057456674151">
   <meta property="fb:app_id" content="219504488107828"> 
   <meta property="og:type" content="article"> 
   <meta property="og:url" content="http://www.galatta.com/privacy/"> 
@@ -43,6 +48,72 @@ var THUMB_NAME = '';var List_NAME = '';var HTACCESS = '1';var LANG_NAME = '';</s
 <!-- Google Analytics starts  -->
 
 <script>
+
+// Cookie Code Starts
+
+
+
+ function checkCookies() {      
+
+    var currDate = new Date();     
+
+    console.log("Month ==> "+currDate.getMonth());    
+
+    var currTime = currDate.getTime(); 
+
+    var currMonth = currDate.getMonth();
+
+    //~ var currDay = currDate.getDate();
+
+    if (document.cookie) {
+
+      var browserCookie = document.cookie;             
+
+      var cookievalue = "";                       
+
+      if (browserCookie.match(/galamonthstamp/ig)) {
+
+        var count = (browserCookie.match(/galamonthstamp/ig) || []).length;           
+
+		if (count == 1) {		   
+
+          var arr = browserCookie.match(/galamonthstamp=(\d+)/);                               
+
+          if (arr != null) { 					
+
+            cookievalue = arr[1];                                                        
+
+                  console.log("currMonth3 => "+cookievalue+' '+currMonth);
+            if (cookievalue != currMonth) {
+			  document.cookie = "galamonthstamp="+currMonth;              
+
+              location.reload(true);               
+
+            }
+          }  
+	    }
+
+      } else {
+		   console.log("currMonth2 => "+currMonth);
+          document.cookie = "galamonthstamp="+currMonth; 
+
+          location.reload(true);
+      }         
+
+     } else {
+		  console.log("currMonth1 => "+currMonth);
+          document.cookie = "galamonthstamp="+currMonth;       
+		  location.reload(true);
+    }
+
+  }
+
+ checkCookies();
+
+
+
+// Cookie Code Ends
+
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -339,6 +410,8 @@ _atrk_opts = { atrk_acct:"JDx4m1a8FRh2fn", domain:"galatta.com",dynamic: true};
 	else if(LANG_NAME == 'kannada')
 	{
 		GA_googleAddSlot("ca-pub-4598819753511212", "LeaderboardKannada");
+		GA_googleAddSlot("ca-pub-4598819753511212", "Background_Left_Kannada");
+		GA_googleAddSlot("ca-pub-4598819753511212", "Background_Right_Kannada");
 		GA_googleAddSlot("ca-pub-4598819753511212", "BackgroundLeftKannada");
 		GA_googleAddSlot("ca-pub-4598819753511212", "BackgroundRightKannada");
 		GA_googleAddSlot("ca-pub-4598819753511212", "BackgroundLeftKannadaChannel");
@@ -815,6 +888,58 @@ _atrk_opts = { atrk_acct:"JDx4m1a8FRh2fn", domain:"galatta.com",dynamic: true};
 
 
 <span id="bg_channel_left"></span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1485,6 +1610,7 @@ else
 
          
 <!-- End Sidebar Ads-->
+
                       </div>
           <!--End sidebar-->
         </div>
@@ -1580,10 +1706,14 @@ else
 				<div class="footer-widget contact-widget">
 				  <h4><a href="#"><img class="lazy" data-original="http://d1ydle56j7f53e.cloudfront.net/templates/frontend/2016/images/galatta-footer-logo.jpg" alt="Footer Logo"></a></h4>
 				  <p>Galatta is your news, entertainment, music fashion website. We provide you with the latest breaking news and videos straight from the entertainment industry.</p>
-				  <ul>
+
+                                                                    
+                                  <ul>
 					<li><span><strong>Contact us:</strong></span> <a href="mailto:webmaster@galatta.com" class="h-lts-cls">webmaster@galatta.com</a><br>
-					<span><strong>Galatta.com</strong></span> is a part of <a class="h-lts-cls" target="_blank" href="http://www.dotcominfoway.com/">Dot Com Infoway</a></li>
+					<span><strong>Galatta.com</strong></span> is a part of RITZ Media Group</li>
 				  </ul>
+
+
 				</div>
 				<!-- Start Subscribe & Social Links Widget -->
 				<div class="footer-widget social-widget">
@@ -1631,6 +1761,22 @@ else
            </script><span id="imagescontainer2"><script language="javascript" type="text/javascript" src="http://www.galatta.com/newbannerads/js.php?language=1&amp;ads_size=bgright&amp;ads=1"></script></span>
 
 <span id="bg_channel_right"></span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1759,14 +1905,14 @@ else
 		
 		
 		
-	
-		           
+		
+		                 
+                
+           
               
               
 	   
-	              
-	
-         
+	             
 		<!-- Go to www.addthis.com/dashboard to customize your tools -->
 	
 
@@ -1834,6 +1980,40 @@ else
         }
 })();
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
