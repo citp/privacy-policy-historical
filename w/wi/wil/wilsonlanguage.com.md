@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilsonlanguage.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065133id_/http%3A//www.wilsonlanguage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilsonlanguage.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218081003id_/http%3A//www.wilsonlanguage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wilson Language Training
 
@@ -16,8 +16,8 @@ We are committed to respecting your privacy. We appreciate the trust you place i
   6. How We Safeguard Information
   7. How to Remove Your Information from our Databases
   8. Privacy Protection for Children
-  9. Participation in Online Discussions
-  10. Links to Other Websites
+  9. Participation in Online Discussions and Recorded Sessions
+  10. Links to Other Websites and Social Networking
   11. Required Disclosures
   12. Changes to Privacy Policy
   13. Complete Agreement
@@ -40,7 +40,7 @@ We allow you to decide whether you wish to provide us with Personally Identifiab
 
 Some means for gathering personal data include our Online Registration Application for professional learning, Online Employment Application, and our Material Order Form. Users who wish to register for a professional learning program offered by WLT may be asked to provide Personally Identifiable Information, including, but not limited to, first and last name, and birth date. The data obtained through the Application Form is used internally at WLT, and possibly by an associated college or university, for the purpose of providing course credits.
 
-Please note that, on occasion, Wilson Language Training Corporation (WLT) receives inquiries as to whether an individual is certified in Wilson or has otherwise participated in Wilson Professional Learning. Our policy is to not disclose personal information with regard to participants in our programs. WLT will, however, unless specifically requested in writing otherwise, share information regarding the Wilson® credentials and the level of participation in our professional learning programs by a named individual.
+Please note that, on occasion, Wilson Language Training Corporation (WLT) receives inquiries as to whether an individual is certified in Wilson or has otherwise participated in Wilson Professional Learning. Our policy is to not disclose personal information with regard to participants in our programs. WLT will, however, unless specifically requested in writing otherwise, share information regarding the Wilson® credentials and the level of participation in our professional learning programs by a named individual.
 
 When you provide information on our Material Order Form to make a purchase, the transactional information that you provide is transmitted in a safe, encrypted format. WLT uses SSL (Secure Socket Layer) technology, an industry-standard protocol used to establish secure communications between a web server and a client. To maintain your security, your encrypted credit card information is sent to the credit card authority and approval status is sent back to us.
 
@@ -106,17 +106,21 @@ Our Site is not directed at children, and we will not accept or request personal
 
 Back to Top
 
-## 9\. Participation in Online Discussions
+## 9\. Participation in Online Discussions and Recorded Sessions
 
 If we have a “chat” or “forum” feature on the Site, you may decide to participate in an online discussion. Please keep in mind that any information you provide while participating in an online chat or forum will be available to all participants. These participants, and their transferees, may use Personally Identifiable Information, and other information you disclose in this manner, to contact you and for other purposes. Accordingly, if we choose to provide such features on our Site, we ask that you participate prudently, as this Privacy Policy will not cover the information you disclose in online discussions on our Site.
 
+If you participate in any WLT recorded session, please know that WLT may use the recording only for educational purposes. When a session will be recorded, WLT will notify you and you will have the option not to be included in the recording.
+
 Back to Top
 
-## 10\. Links to Other Websites
+## 10\. Links to Other Websites and Social Networking
 
 To give you access to other helpful information, we may provide links to other sites. We provide these links as a convenience, and WLT does not endorse the content or services offered by, or the privacy policies in place on, these other sites.
 
 Our privacy policy covers only information we collect on our Site. Other sites to which we link may have privacy policies that differ considerably from our Privacy Policy. We have structured our Site to make it reasonably clear when you leave our Site and enter another website. We encourage you to review the privacy policies of each site you visit through our links, to ensure you are comfortable with these policies. We are not responsible for the conduct or policies of these third parties.
+
+WLT may use social networking platforms, such as Facebook, to communicate with our customers. Also, some tools on our Site allow you to share content from our Site through a third party social network. We do not control these social media platforms or your profiles on these services, nor do we establish privacy rules on these sites for how your personal information will be collected or used. If you use these social networking websites or the tools associated with them, please be aware that third party social networking services have their own privacy policies, and we advise you to read them.
 
 Back to Top
 
@@ -124,7 +128,7 @@ Back to Top
 
 There are two exceptions to our Privacy Policy. First, we may disclose Personally Identifiable Information as may be required in legal proceedings, or in response to a subpoena, court order, or administrative order compelling disclosure. Second, in cases involving a threat of imminent harm to you or others, we may release such information to prevent or mitigate the threat. In any such case, we will seek to limit the scope of disclosure, and will disclose only such information as is reasonably required to fulfill the purpose of the disclosure.
 
-As previously stated, upon request by a third party, and without otherwise disclosing Personally Identifiable Information, we may share information regarding certification and level of participation in our professional learning programs unless we receive a written request from the participant to not share this information.
+As previously stated, upon request by a third party, and without otherwise disclosing Personally Identifiable Information, we may share information regarding certification and level of participation in our professional learning programs unless we receive a written request from the participant to not share this information.
 
 Back to Top
 
@@ -158,5 +162,5 @@ Oxford, MA 01540
 
 Back to Top
 
-Effective: November 1, 2007; revised February 2010; revised March 2013, April 2015.   
+Effective: November 1, 2007; revised February 2010; revised March 2013, April 2015, September 2017.   
 © 2007, 2015 Wilson Language Training Corporation. All rights reserved.
