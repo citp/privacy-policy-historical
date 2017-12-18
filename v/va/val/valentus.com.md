@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valentus.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618171035id_/http%3A//valentus.com/corp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valentus.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218051240id_/http%3A//www.valentus.com/corp/privacyPolicy) for the most accurate reproduction.*
 
 # Valentus :: Privacy Policy
 
