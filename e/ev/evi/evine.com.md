@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evine.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522221036id_/http%3A//m.evine.com/h5/r/www.evine.com/p/help/evine-live/privacy%3Fcm_re%3Dgft-_-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evine.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218225046id_/https%3A//www.evine.com/p/help/evine-live/privacy%3Fcm_re%3Dgft-_-privacy) for the most accurate reproduction.*
 
 # Evine | Be Good to Yourself | Shop online. Anywhere. Anytime.
 
