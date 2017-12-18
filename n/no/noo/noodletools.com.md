@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610131032id_/http%3A//www.noodletools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218183456id_/http%3A//www.noodletools.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NoodleTools
 
 ## NoodleTools, Inc. Privacy Policy
 
- _Last updated: September 2015_
+ _Last updated: June 19,  2017_
 
 ### Our Commitment to Privacy
 
@@ -69,7 +69,7 @@ For any Individual subscribing personally to NoodleTools (i.e. not through a sch
 ### One-Time, Limited Access to Personal Information for Specific Educational Purposes
 
 Under the “Limited Exceptions to COPPA’s Verifiable Parental Consent Requirement,” when a student working in NoodleTools uses the function to e-mail their work to themselves or another person, the e-mail address is used in a one-time manner according with that purposes, and is NOT stored by NoodleTools.  
-Similarly, if a student e-mails NoodleTools directly for help through our “Have a Question?” service, that e-mail address is used only on a one-time basis to respond to the student from a secure email service that is separate from, and not connected to, the NoodleTools platform and the student’s NoodleTools folders.
+Similarly, if a student e-mails NoodleTools directly for help through our “Have a Question?” service, that e-mail address is used only on a one-time basis to respond to the student from a secure email service that is separate from, and not connected to, the NoodleTools platform and the student’s NoodleTools account.
 
 ### Third-Party Integrations on NoodleTools
 
@@ -88,9 +88,11 @@ Certain information is stored by NoodleTools using session and persistent cookie
 
 NoodleTools maintains a security program that is designed to protect the security, privacy, confidentiality and integrity of the student personal information against risks such as unauthorized access or use, or unintended or inappropriate disclosure. This includes use of SSL and secure firewalls. Our site has minimal collection of personal information, and minimal integration with services that could cause any unintended transference of personal information. If you have any questions about the security at our website, you can contact us via the [NoodleTools Help Desk](http://noodle.to/helpdesk).
 
-### Data Retention and Destruction
+### Data Retention, Destruction, Correction
 
 To the extent allowed by applicable law, NoodleTools may retain personally identifiable information provided by you after the termination of your relationship with us. If a K12 Site requests that NoodleTools delete or destroy personally identifiable student information after the termination of its relationship with us, we will take commercially reasonable efforts to do so within 60 days; provided, however, that NoodleTools may retain aggregated and anonymized data in its sole discretion.
+
+If a parent, student, principal, or teaching staff member would like to make corrections to data that has been collected they can either submit a request to the [NoodleTools Help Desk](http://noodle.to/helpdesk) or submit a letter to the following address: NoodleTools, Inc., PO Box 60214, Palo Alto, CA 94306.
 
 ### Terms of Service
 
