@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lauraingraham.com privacy policy that was archived on 2017-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170608124354id_/http%3A//www.lauraingraham.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lauraingraham.com privacy policy that was archived on 2017-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171218111610id_/http%3A//www.lauraingraham.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <link rel="P3Pv1" href="/w3c/p3p.xml">
@@ -78,6 +78,19 @@ flowplayer.conf = {
 <script language="JavaScript" type="text/javascript" src="/pg/jsp/common/utils/js/slidercontrol.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js?load=effects"></script>
 <script type="text/javascript" src="/pg/jsp/common/utils/js/flashembed.min.js"></script>
+<script type="text/javascript">
+var gRecaptchaOnloadCallback = function() {
+  var verifyCallback = function(response) {
+    if(jQuery('[name=recaptchaSuccess]')){
+      jQuery('[name=recaptchaSuccess]').val('true');
+    }
+  };
+  grecaptcha.render('recaptcha_container', {
+    'sitekey' : '6LdiUf4SAAAAAADBhObI9HOV4eJmGftBVxt2Q6Uq',
+    'callback' : verifyCallback
+  });
+};
+</script>
 <script>
   (function() {
     var cx = '016640766149288926899:wz6fe79qosw';
@@ -221,6 +234,11 @@ function openInNewTab(url) {
 				</li>
 				
 				
+				<li class="cell" onclick="openInNewTab('/billionaire')">
+					<a href="/billionaire">Book Tour</a>
+				</li>
+				
+				
 				<li class="cell" onclick="openInNewTab('/membership')">
 					<a href="/membership">Laura 365</a>
 				</li>
@@ -316,7 +334,7 @@ function openInNewTab(url) {
 					<br><br class="smBR">
 					<b>Disputes.</b> LauraIngraham.com Privacy Policy disputes are handled by its customer service team with the highest concern for your privacy.
 					<br><br class="smBR">
-					<b>LauraIngraham.com Links.</b> LauraIngraham.com may contain links to websites not owned or controlled by LauraIngraham.com. LauraIngraham.com is not responsible for the privacy policies or practices of any such sites. For other Terms of Service applicable to this site, please review the <a href="/pg/jsp/help/general/termsconditions.jsp;jsessionid=40ABF35D51AA9AD6E1699ADC7CE16171" class="linksSmall">Terms of Service Agreement</a>.
+					<b>LauraIngraham.com Links.</b> LauraIngraham.com may contain links to websites not owned or controlled by LauraIngraham.com. LauraIngraham.com is not responsible for the privacy policies or practices of any such sites. For other Terms of Service applicable to this site, please review the <a href="/pg/jsp/help/general/termsconditions.jsp" class="linksSmall">Terms of Service Agreement</a>.
 					<br><br class="smBR">	
 					<b>A Special Note about Children.</b> Children are not eligible to use our services and LauraIngraham.com asks that minors (under the age of 18) do not submit any personal information to LauraIngraham.com. If you are a minor, you can use this service only in conjunction with your parents or guardians.
 					<br><br class="smBR">	
