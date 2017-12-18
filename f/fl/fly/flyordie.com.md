@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609225541id_/http%3A//www.flyordie.com/privacy.html%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218224657id_/http%3A//www.flyordie.com/privacy.html%23cookies) for the most accurate reproduction.*
 
 # Privacy Statment - FlyOrDie.com
 
 ## Privacy Statement
 
-[FlyOrDie](https://web.archive.org/web/20170609225541id_/http%3A//) is committed to protecting your personal information when you are using FlyOrDie's services. This Privacy Policy relates to our use of any personal information you provide to us through the FlyOrDie.com websites.   
+[FlyOrDie](https://web.archive.org/web/20171218224657id_/http%3A//) is committed to protecting your personal information when you are using FlyOrDie's services. This Privacy Policy relates to our use of any personal information you provide to us through the FlyOrDie.com websites.   
 Any comments about this document, or FlyOrDie's policy, please write to: [privacy@flyordie.com](mailto:privacy@flyordie.com)
 
 Registration
