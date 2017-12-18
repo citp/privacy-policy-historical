@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531204421id_/http%3A//fora.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219003704id_/http%3A//fora.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FORA.tv
 
@@ -66,4 +66,4 @@
 >  This Site is not directed to children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at Privacy@fora.tv. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
 > 
 > **Contacting Us**  
->  If you have any questions about this Privacy Policy, please contact us at Privacy@fora.tv or at: FORA.tv Privacy Policy, 75 Arkansas Street, San Francisco, CA 94107 
+>  If you have any questions about this Privacy Policy, please contact us at Privacy@fora.tv or at: FORA.tv Privacy Policy, 1400 65th Street Suite 200, Emeryville, CA 94608 
