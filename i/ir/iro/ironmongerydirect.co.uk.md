@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironmongerydirect.co.uk privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523023927id_/http%3A//www.ironmongerydirect.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmongerydirect.co.uk privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218043319id_/https%3A//www.ironmongerydirect.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IronmongeryDirect
 
@@ -14,9 +14,27 @@ The information we collect is used to notify consumers about updates to our web 
 
 Please note that you are free to refuse cookies. However, for purely technical reasons this may prevent you from experiencing the full functionality of our web site. This is because anonymous cookies are commonly used to keep track of the contents of customers shopping baskets or trolleys during the checkout process. This facility ensures that the items added to (or removed from) your basket are accurately stated when you go to pay.
 
-We will give you the chance to refuse any marketing email from us. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
+We will give you the chance to refuse any marketing email from us. If you no longer wish to receive marketing information from IronmongeryDirect then please use the link named “Unsubscribe” located at the bottom of all of our marketing emails. Alternatively you may unsubscribe via speaking to one of our contact centre agents.
+
+We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
 
 The personal information that we hold will be held securely in accordance with our internal security policy and the law.
+
+**Contacting us**
+
+Contact us via the [enquiry form](https://www.ironmongerydirect.co.uk/contact) on the Ironmongery _Direct_ website
+
+Call us on 0808 168 28 28
+
+Email us at sales@ironmongerydirect.com
+
+Or write to us at:
+
+Ironmongery _Direct_ Limited  
+Scimitar Park  
+Courtauld Road  
+Basildon  
+SS13 1ND
 
 ### Cookies
 
