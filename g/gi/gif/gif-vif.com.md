@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gif-vif.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619125256id_/http%3A//www.gif-vif.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gif-vif.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218232844id_/http%3A//www.gif-vif.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | GIF-VIF - Handpicked And Best GIFs Over Internet
+# Privacy Policy - www.Gif-Vif.com
 
 This Privacy Policy describes the policies and procedures of GIF-VIF on the collection, use and disclosure of your information.
 
@@ -14,7 +14,7 @@ The information we gather enables us to personalize, improve and continue to ope
 
 User Content:
 
-Some features of the Services allow you to provide content to the Services. All content submitted by you to the Services may be retained by us indefinitely, even if and after your access to the Services is terminated. We may continue to disclose such content to third parties in a manner that does not reveal Personal Information, as described in this Privacy Policy. 
+Some features of the Services allow you to provide content to the Services. All content submitted by you to the Services may be retained by us indefinitely, even if and after your access to the Services is terminated. We may continue to disclose such content to third parties in a manner that does not reveal Personal Information, as described in this Privacy Policy.
 
 IP Address Information and Other Information Collected Automatically:
 
