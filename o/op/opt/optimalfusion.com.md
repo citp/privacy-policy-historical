@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimalfusion.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616113928id_/http%3A//www.optimalfusion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalfusion.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219042340id_/http%3A//www.optimalfusion.com/privacy) for the most accurate reproduction.*
 
 # Optimal Fusion Privacy Policy | Performance Driven Integrated Media
 
