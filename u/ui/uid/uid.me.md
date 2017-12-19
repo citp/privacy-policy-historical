@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uid.me privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120031145id_/https%3A//uid.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uid.me privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219092048id_/https%3A//uid.me/privacy) for the most accurate reproduction.*
 
 # 
 
