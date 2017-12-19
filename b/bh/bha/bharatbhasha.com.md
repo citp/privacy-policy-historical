@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatbhasha.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027235608id_/http%3A//www.bharatbhasha.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatbhasha.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219084433id_/http%3A//www.bharatbhasha.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for BharatBhasha.com
 
