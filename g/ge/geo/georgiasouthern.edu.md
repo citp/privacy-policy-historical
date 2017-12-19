@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgiasouthern.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125035id_/http%3A//www.georgiasouthern.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgiasouthern.edu privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219082552id_/http%3A//www.georgiasouthern.edu/privacy) for the most accurate reproduction.*
 
 # Online Privacy Statement | Georgia Southern University
 
