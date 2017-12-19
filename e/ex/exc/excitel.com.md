@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the excitel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070531id_/http%3A//www.excitel.com/excitel-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excitel.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219051549id_/http%3A//www.excitel.com/excitel-privacy-policy) for the most accurate reproduction.*
 
-# Excitel | Privacy Policy
+# Privacy Policy | Your Personal Information is Safe with Excitel
 
-This policy covers the way Excitel Broadband Pvt. Ltd. treats personal information that the Company receives and collects, including information related to Customer's past use of the Company's products and services. Personal information means information about Customers which identifies them like Customer’s name, address, e-mail address, phone number etc.
+This policy covers the way Excitel Broadband Pvt. Ltd. treats personal information that the Company receives and collects, including information related to Customer’s past use of the Company’s products and services. Personal information means information about Customers which identifies them like Customer’s name, address, e-mail address, phone number etc.
 
 ### Collection and General Use of Personal Information
 
