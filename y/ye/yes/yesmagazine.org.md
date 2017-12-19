@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630211701id_/http%3A//www.yesmagazine.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219182518id_/http%3A//www.yesmagazine.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — YES! Magazine
+
+[Click here for our donor privacy and transparency policies](http://www.yesmagazine.org/about/donor-privacy-and-transparency-policies). 
 
 ## What information do we gather about you?
 
