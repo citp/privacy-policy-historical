@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frameshow.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523175709id_/http%3A//www.frameshow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frameshow.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219204645id_/http%3A//www.frameshow.com/privacy.php) for the most accurate reproduction.*
 
 # Photo Frame Show: Digital Photo/Desktop Enhancement Software - Frame photos with ease!
 
