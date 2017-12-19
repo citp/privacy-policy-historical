@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 899games.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424131234id_/http%3A//www.899games.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 899games.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219085341id_/http%3A//www.899games.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Example Privacy Policy
 
