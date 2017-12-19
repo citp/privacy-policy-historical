@@ -1,88 +1,82 @@
-> *The following text is extracted and transformed from the abf.gov.au privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624051125id_/http%3A//www.border.gov.au/about/access-accountability/plans-policies-charters/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abf.gov.au privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219213435id_/http%3A//www.border.gov.au/website/web-privacy-statement) for the most accurate reproduction.*
 
-# Privacy policy
+# Web privacy statement
 
-This privacy policy explains how the Department manages the personal information it collects and the information flows associated with that personal information. The Department of Immigration and Border Protection includes the Australian Border Force.
+​The _Privacy Act 1988_ defines personal information as meaning information or an opinion about an identified individual, or an individual who is reasonably identifiable: whether the information or opinion is true or not; and whether the information or opinion is recorded in a material form or not. 
 
-This privacy policy is an overview, and does not provide details about all of our personal information management practices, procedures and systems. Part D of this policy provides other sources of information about our personal information management practices, procedures and systems.
+This website is managed by the Department. We take our obligation to protect your privacy seriously.
 
-## Our role
+The _Privacy Act 1988_ is the key law designed to protect your rights and prevent misuse of your personal information collected by government agencies such as this department.
 
-Our key objectives are to:
+Also, information received by us is protected from unauthorised use and disclosure by virtue of specific provisions in the _Migration Act 1958_ , _Crimes Act 1914_ , _Public Service Act 1999_ and the _Public Service Regulations 1999_.
 
-  * contribute to Australia’s future through managed migration
-  * protect refugees and contribute to humanitarian policy internationally
-  * contribute to Australia’s security through border management and traveller facilitation
-  * make fair and reasonable decisions for people entering or leaving Australia, ensuring compliance with Australia’s immigration laws and integrity in decision-making
-  * administer citizenship legislation and promote Australian citizenship.
+A breach of these laws might incur criminal and/or civil liability.
 
+We might collect personal information from you when you visit this site. You can generally visit this site without telling us who you are, unless you choose to provide such information.
 
+Our website contains links to other sites. We are not responsible for the content and the privacy practices of other websites and we encourage you to read each site's privacy policy.
 
-## Our obligations under the Privacy Act
+### Security of information
 
-This privacy policy sets out how we comply with our obligations under the _Privacy Act 1988_ (the Privacy Act). The Privacy Act sets out 13 Australian Privacy Principles (APPs) which regulate the collection, use, disclosure and storage of personal information and how individuals can access and correct personal information held about them. We are legally bound by the APPs.
+We operate under the [Protective Security Framework](http://www.protectivesecurity.gov.au/) (PSPF), published by the Attorney-General's Department, which provides direction on our information security management policies.
 
-The Privacy Act defines personal information as
+The PSPF ensures that:
 
-_information or an opinion about an identified individual, or an individual who is reasonably identifiable:_
-
-  * _whether the information or opinion is true or not; and_
-  * _whether the information or opinion is recorded in a material form or not._
-
-
-
-## Authority to collect, use and disclose information
-
-We are authorised under our portfolio legislation and the Privacy Act to collect, use and disclose a range of personal information.
-
-In understanding our authority to collect, use and disclose personal information under the Privacy Act, it is important to be aware that we are an enforcement body for the purposes of the Privacy Act.
-
-As an enforcement body, we can collect, use and disclose personal information (including sensitive information) where it is reasonably necessary for, or directly related to, one or more enforcement related activities conducted by or on behalf of us.
-
-### Enforcement
-
-Enforcement related activities include:
-
-  * detecting, preventing, investigating and prosecuting breaches of visa, immigration and citizenship law
-  * identifying and locating unlawful non-citizens and resolving their immigration status, including the removal of unlawful non-citizens from Australia
-  * preventing and reducing illegal migration, people smuggling and trafficking in persons
-  * identifying and assessing claims by non-citizens for protection in Australia, including managing the detention or release into the community of protection claimants
-  * assessing and enforcing compliance with visa and citizenship requirements
-  * identifying and assessing prior to arrival those entitled to lawfully enter Australia
-  * managing the entry and departure of people crossing the Australian border
-  * resolving the identity, health, national security and criminal history status of people applying to enter Australia
-  * collecting information to assess the identity, character and criminal history of applicants for Australian citizenship
-  * cooperation with other agencies, including information-sharing, for law enforcement and border security purposes, and the protection of public revenue.
+  * all official information is safeguarded to ensure its confidentiality, integrity, and availability by applying safeguards so that: 
+    * only authorised people, using approved processes, access information
+    * information is only used for its official purpose, retains its content integrity, and is available to satisfy operational requirements
+    * information is classified and labelled as required.
+  * all information created, stored, processed, or transmitted in or over government information and communication technology (ICT) systems is properly managed and protected throughout all phases of a system's life cycle, in accordance with the protocols and guidelines set out in the PSPF, which includes the Australian Government Information Security Manual, produced by the Australian Signals Directorate.
 
 
 
-### Sensitive information
+### Site visit data
 
-Sensitive information is a type of personal information and means:
+A record of each visit to our site is logged. Information is recorded for statistical purposes and is used by us to monitor the use of the site, discover what information is most and least accessed and to make the site more useful.
 
-  * information or an opinion about an individual’s
-    * racial or ethnic origin
-    * political opinions
-    * membership of a political association
-    * religious beliefs or affiliations
-    * philosophical beliefs
-    * membership of a professional or trade association
-    * membership of a trade union
-    * sexual orientation or practices
-    * criminal record
-  * health information about an individual
-  * genetic information about an individual that is not otherwise health information
-  * biometric information that is to be used for the purpose of automated biometric verification or biometric identification
-  * biometric templates.
+The information we log when you access our website includes:
+
+  * your IP or server address
+  * the date and time of your visit to the site
+  * the pages or files accessed by you
+  * your operating system
+  * your web browser version and type
+  * the time taken to transmit the information to you
+  * the previous internet address from which you were referred to our website.  
 
 
 
-## Outline of this policy
 
-[Part A - _Collection, use and disclosure of information_](https://web.archive.org/about/access-accountability/plans-policies-charters/policies/privacy/part-a) explains our general information handling practices and covers how and for what purpose we collect, use and disclose personal information, including disclosures outside Australia. This part also outlines the kind of personal information that we collect.
+The information we collect is analysed to show broken links on our website, bottlenecks, and other site problems. We use this information to maintain the site for efficient use.
 
-[Part B - _How we hold information_](https://web.archive.org/about/access-accountability/plans-policies-charters/policies/privacy/part-b) explains how and for what purpose we hold the personal information that we collect.
+We might also collect information about the IT device you use. This information could be used to identify you to assist us to carry out our functions and activities.
 
-[Part C - _Access, correction and complaints_](https://web.archive.org/about/access-accountability/plans-policies-charters/policies/privacy/part-c) explains how an individual can access and seek to correct their personal information. It also explains how an individual can complain about a breach of the Privacy Act, including the APPs, and how we will deal with such a complaint. 
+### Cookies
 
-[Part D - _Additional information_](https://web.archive.org/about/access-accountability/plans-policies-charters/policies/privacy/part-d) contains links to additional information about our personal information management practices, procedures and systems.
+We use cookies for maintaining contact with a user through a website session. An explanation of what cookies are and how they work can be found at the site of the [Privacy Commissioner](http://www.oaic.gov.au/). Cookies allow us to recognise the sequence of connections from browsers as they access our website.
+
+We use two cookie types - session cookies and persistent cookies.
+
+#### Session cookies
+
+These files are used only for the duration of a web browser session with our website. All cookies will be immediately removed when you end your internet session or shut down your computer. Our copy of your information will be automatically deleted twenty minutes after you have last used our system. 
+
+This information is only used to help you use our website systems more efficiently, not to track your movements through the internet, or to record your personal information.
+
+#### Persistent cookies
+
+These files stay in one of your browser subfolders until you delete them manually or your browser deletes them based on the duration period contained within the persistent cookie’s file (usually beyond the termination of the current session).
+
+No personal information is stored within cookies used by our website. No attempt will be made to identify anonymous users or their browsing activities unless we are legally compelled to do so.
+
+### Further information
+
+You can find more information on the [Privacy Commissioner's website](http://www.oaic.gov.au/).
+
+You can also view our [Privacy Policy](https://web.archive.org/about/access-accountability/plans-policies-charters/policies/privacy) for more information about how we manage the personal information we collect and the information flows associated with that personal information.
+
+If at any time you believe we have not adhered to the principles referred to in this privacy statement, contact us through our [online form.](https://web.archive.org/about/contact/provide-feedback/compliments-complaints-suggestions)
+
+The Privacy Officer will only respond to queries on privacy matters. Enquiries about other matters will not be answered.​​
+
+​​​​​​​​
