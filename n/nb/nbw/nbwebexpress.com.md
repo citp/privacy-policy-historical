@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nbwebexpress.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623060351id_/http%3A//www.newbalance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbwebexpress.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219010832id_/http%3A//www.newbalance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: February 15, 2017
+Last Updated: September 25, 2017
 
 Thank you for placing your trust in New Balance. You are very important to us and we want to provide you with a safe and secure online experience. This Privacy Policy describes how we collect and use your information and explains the choices that you have with regard to how we use your information. 
 
@@ -15,7 +15,7 @@ This Privacy Policy applies to the following services operated by New Balance At
 
 
 
-For the purpose of this Privacy Policy, the foregoing are referred to, collectively, as the "Service”. 
+For the purpose of this Privacy Policy, the foregoing are referred to, collectively, as the "Service”.
 
 This Privacy Policy applies whether you are a "Visitor" (which means that you simply browse the Service) or you are a "Member" (which means that you have registered or transacted with the Service or a component thereof). By accessing, viewing and/or using the Service and/or providing us with information through the Service, you are indicating your consent to be bound by this Privacy Policy. We suggest that you review this Privacy Policy periodically as we will update and change it from time to time. 
 
@@ -27,7 +27,7 @@ As is the case with most online services, every time you visit, access and/or us
 
   * The type of Internet browser you are using 
   * The type of computer operating system and device you are using to access the Service
-  * The domain name of your Internet service provider 
+  * The domain name of your Internet service provider
   * The Web page from which you came 
   * The pages and features you visit and access on our Service
   * RunIQ usage information (e.g., battery, screen and sensor usage)
@@ -69,6 +69,22 @@ If you are a RunIQ user, you may elect to install and use third party applicatio
 #### NB Hitclub
 
 If you have signed up to use the Zepp Baseball mobile application (the “Zepp App”) made available by Zepp, Inc. (“Zepp”) and choose to use the NB Hitclub feature included in the Zepp App (the “NB Hitclub”) to view the NB Hitclub leaderboards and/or be eligible for any prizes, Zepp will provide to us certain Personal Information that you have provided to Zepp when registering for the Zepp App, including but not limited to your name, email address, age and location. The data collection and use practices and policies of Zepp will be as established by the Zepp when you signed up for the Zepp App. New Balance will use your Personal Information provided to us by Zepp in accordance with this Privacy Policy. If you participate in and win or place in any challenges provided through the NB Hitclub, we may request additional Personal Information from you, such as your mailing address, which we will need to send you any prizes.
+
+#### NB Pace Setters
+
+If you elect to participate in the NB Pace Setters online community (“NB Pace Setters”), you will be asked to provide certain registration details, including your name, email address, age, gender and state of residence. You will also be required to create a username, which will be used to publicly identify you in NB Pace Setters. We will use your Personal Information that you provide when registering for and otherwise participating in NB Pace Setters to administer and manage NB Pace Setters, to send you various surveys administered through NB Pace Setters and for the other purposes described in this Privacy Policy.
+
+#### E-Gifting
+
+Gift Giver: If you choose to send a gift to someone and notify the recipient of the gift using the electronic gift service available on the Website (an “e-gift”), after you click the “Gift This” button, you will be asked to provide information about yourself, including your name, email address and phone number. This information will be shared with our e-gifting technology provider, SmartGift, Inc., for the purpose of administering the e-gifting services, including providing you a link to the gift and sending you updates via email and/or text message regarding the status of the gift after it is sent to the recipient. Once the gift recipient has accepted the gift, SmartGift will notify you via email and/or text message and you may complete the purchase on the Website. If you choose to enter the recipient’s email address into the applicable field during checkout, you represent and warrant that you have received consent from the gift recipient to provide such information to New Balance, including the recipient’s consent to receive the email notification of the gift, which information will be handled in accordance with this Privacy Policy.
+
+Gift Recipient: If a gift giver has elected to send you a New Balance gift using an e-gift notice, you will receive a link to the gift from the gift giver. If you open the link, you may customize the gift or swap it for a similarly priced item. After you “accept” the original gift or swapped item, you will be asked to provide information about yourself, including your name, email address, shipping information and phone number. This information will be shared with:
+
+  1. The gift giver via email and/or text message, in order for the gift giver to complete the purchase of the gift on the Website;
+  2. SmartGift, in order for SmartGift to administer the e-gifting services, including providing you updates via email and/or text message regarding the status of the gift after it is accepted; and 
+  3. New Balance, in order for New Balance to facilitate the purchase, and otherwise to use in accordance with the terms of this Privacy Policy.
+
+
 
 By using the Service or by providing us with Personal Information, you are consenting to this Privacy Policy and to our use of your Personal Information in accordance with this Privacy Policy. If you provide Personal Information to us through the Service, you acknowledge and agree that your Personal Information is stored on servers hosted in the United States of America and/or in other third countries. Your Personal Information is subject to the laws of the countries in which it is stored and used, and the privacy legislation of these countries may differ from those applicable to your country of residence. Under the applicable laws, the courts, organizations responsible for applying the legislation, regulatory agencies or safety authorities may under some circumstances be authorized to access your Personal Information. By giving us your Personal Information, you agree to allow it to be transferred to the United States of America, and third countries, and you acknowledge and agree that the country in which your Personal Information is stored and process may have a different legal regime for protecting Personal Information than that of your country of residence.
 
@@ -143,12 +159,13 @@ A cookie is a small removable data file stored by your Web browser on your compu
 
 Some examples of how we use cookies are to:
 
-  * Enable you to select products, place them in your shopping cart and make a purchase. 
-  * Recognize you when you come back to our site(s). 
-  * Alert you to new areas that may be of interest to you. 
-  * Customize content that may be helpful to you.
+     Enable you to select products, place them in your shopping cart and make a purchase. 
 
+     Recognize you when you come back to our site(s). 
 
+     Alert you to new areas that may be of interest to you. 
+
+     Customize content that may be helpful to you.
 
 Cookies do not contain any Personal Information and they do not give us access to your computer. 
 
@@ -188,7 +205,7 @@ Please note that if you decide to opt-out of all third-party transmissions of yo
 
 ## HOW CAN I ACCESS, UPDATE OR DELETE "MY ACCOUNT" INFORMATION?
 
-Accounts on the Site may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the Terms and Conditions, you will be responsible for all activity occurring through the use of your user name and password. 
+Accounts on the Site may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses and/or view past orders. To delete your account completely, please contact Customer Care toll-free at 1-800-595-9138 or email CustomerCare@newbalance.com. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the Terms and Conditions, you will be responsible for all activity occurring through the use of your user name and password. 
 
 ## What if I have more questions about the New Balance Privacy Policy?
 
