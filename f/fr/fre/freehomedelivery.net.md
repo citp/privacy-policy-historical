@@ -1,45 +1,45 @@
-> *The following text is extracted and transformed from the freehomedelivery.net privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619184803id_/http%3A//freehomedelivery.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehomedelivery.net privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219222906id_/http%3A//freehomedelivery.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy freehomedelivery.net -Free Home Delivery Biggest Educational Portal
 
 ## Privacy Policy
 
-Privacy Policy 
+Privacy Policy freehomedelivery.net
 
-[freehomedelivery.net](http://freehomedelivery.net/)  has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and usage practices.
+freehomedelivery.net  has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and usage practices.
 
 freehomedelivery.net  does not sell or rent your personal identification to third parties. freehomedelivery.net does provide your personal identification to selected, affiliated companies to allow them to perform services for members on our behalf.
 
-**Personal Messaging**
+ **Personal Messaging**
 
 It is the policy of our to send our members only the types of updates they elect to receive in addition to freehomedelivery.net customary business communications (address confirmation, renewal notifications, new product offerings, etc.) Further, it is our policy to remove members from any freehomedelivery.net mailing list to which they have subscribed upon request (members will continue to receive customary business communications from freehomedelivery.net). At any time, members can update their preferences .
 
 In addition, every subscribed email communication from freehomedelivery.net will contain clear and obvious instructions for how the member can remove himself or herself from that mailing list.
 
-**Membership Registration**
+ **Membership Registration**
 
 Demographic and profile data may be collected at our site. We use this data to tailor your experience at freehomedelivery.net, showing content that we think you might be interested in, and displaying the content according to your preferences. We do this in two ways. First, we analyze member’s information in aggregate – that is, we collect information about thousands of site visits and analyze it as a whole. This kind of study involves looking for trends among many visitors to freehomedelivery.net, rather than analyzing information about any individual member. Examples include researching which parts of the site are accessed most frequently, or determining which products are most attractive to our users. Second, we may use information gathered during your visit to help customize our communications with you.
 
 freehomedelivery.net may periodically conduct individual voluntary member surveys. We encourage our members to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer, and how we provide them to you. The responses we collect in online surveys are anonymous. In the end, we hope to tailor our communications with you to fit your needs – so that you receive more of what you want from us and less of what you don’t want.
 
-**Cookies**
+ **Cookies**
 
 Cookies are small pieces of information that are stored in a browser-related file on your computer’s hard drive when you use our Web site. We use cookies to improve the member experience, like allowing the member to login without typing the registered email address or registration number and password. We also use them to deliver information and fresh content specific to your interests. Cookies are widely used on most major Web sites.
 
-**IP Address**
+ **IP Address**
 
 Like most Internet sites, we use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to gather broad demographic information. This information is distributed to current and potential advertisers, but only in aggregate form. It does not contain information that identifies individual members.
 
-**Advertising and Third Party Links**
+ **Advertising and Third Party Links**
 
 Some Freehomedelivery.net advertisers and affiliate partners may request information directly from users, or link to sites that do so. freehomedelivery.net has no control over its advertisers’ privacy policies, and encourages users to review such policies prior to submitting any personal information to them.  
 freehomedelivery.net contains non-advertising links to a variety of third party sites to enhance the member experience. freehomedelivery.net has no control of either the content or privacy policies of such sites, nor should such links be considered an endorsement of these sites except where otherwise noted.
 
-**Updates to our information practices**
+ **Updates to our information practices**
 
 From time to time, we make changes to our information practices or alter the functionality of our Web site. We always update this statement accordingly, so we encourage you to periodically review this page for the latest information on privacy practices at freehomedelivery.net.
 
-**Abuse of Terms of Service**
+ **Abuse of Terms of Service**
 
 We may provide your personal information to the police or other investigating agencies to assist them in the investigation of any suspected violations of law. We also have the right to share your name and contact information with our attorneys in the event of serious violations of conduct.  
 Privacy policy FAQ’s  
@@ -81,45 +81,45 @@ freehomedelivery.net Affiliate Partners: The Affiliate Partner program is a veh
 Information not Directly Submitted by Users to freehomedelivery.net  
 Aggregate: This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered for all users to the site and is used for general management of the site.
 
-  1. **How does freehomedelivery.net share Information Obtained?**
+  1.  **How does freehomedelivery.net share Information Obtained?**
 
 
 
-**Information users submit to Freehomedelivery.net**
+ **Information users submit to Freehomedelivery.net**
 
-**Surveys & Contests:** Contact and other information collected for contests will be used to notify the winners and award prizes. Survey information collected will be used for purposes of monitoring or improving the use and satisfaction of this site.
+ **Surveys & Contests:** Contact and other information collected for contests will be used to notify the winners and award prizes. Survey information collected will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-**Freehomedelivery.net’s Affiliate Partners:**  Information submitted by the Affiliate Partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between freehomedelivery.net and the Affiliate Partner. Affiliate Partners may not view or access private information on freehomedelivery.net subscribers.
+ **Freehomedelivery.net’s Affiliate Partners:**  Information submitted by the Affiliate Partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between freehomedelivery.net and the Affiliate Partner. Affiliate Partners may not view or access private information on freehomedelivery.net subscribers.
 
-**Information that users do not submit to us**
+ **Information that users do not submit to us**
 
-**Aggregate:**  We use your server, IP address, and browser-type related information in the general administration of our website.
+ **Aggregate:**  We use your server, IP address, and browser-type related information in the general administration of our website.
 
-  2. **Links with other sites**
+  2.  **Links with other sites**
 
 
 
 This site contains links to other websites. Please be aware that freehomedelivery.net is not responsible for the privacy practices of other Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-  3. **Information on Use of Cookies**
+  3.  **Information on Use of Cookies**
 
 
 
 A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on freehomedelivery.net site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects a cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas on our site. We occasionally use cookies to anonymously track and target the interests of our users to enhance the experience on our site or for advertising tracking purposes. In addition, cookies may be used on our site to allow enhanced capabilities such as chat. We do not and will not use cookies to collect private information from any user!
 
-  4. **Info on Correcting/Updating or Removing Information**
+  4.  **Info on Correcting/Updating or Removing Information**
 
 
 
 Freehomedelivery.net gives users several options for modifying or removing their information from our database please visit the My Page or contact us.
 
-  5. **Changes in freehomedelivery.net Privacy Policy**
+  5.  **Changes in freehomedelivery.net Privacy Policy**
 
 
 
 If we change our privacy policy, we will prominently post a link to those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner, and we will then use information in accordance with the privacy policy under which the information was collected.
 
-  6. **What about Email Choice/Opt-out?**
+  6.  **What about Email Choice/Opt-out?**
 
 
 
@@ -127,7 +127,7 @@ Our users are given the opportunity to ‘opt-out’ of having information used 
 
 Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by following the instructions contained in the email or by logging-in and changing their email options in the My Page section of the site.
 
-  7. **How to contact Freehomedelivery.net?**
+  7.  **How to contact Freehomedelivery.net?**
 
 
 
