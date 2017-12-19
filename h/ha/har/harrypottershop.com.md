@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrypottershop.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630171133id_/http%3A//www.harrypottershop.com/text/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrypottershop.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219115252id_/http%3A//www.harrypottershop.com/text/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
