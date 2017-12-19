@@ -1,61 +1,81 @@
-> *The following text is extracted and transformed from the templateworld.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429072017id_/http%3A//www.templateworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templateworld.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219053041id_/https%3A//templateworld.com/privacy-policy) for the most accurate reproduction.*
 
-# TemplateWorld / Privacy Policy
+# Privacy Policy of Template World
 
-Templateworld.com is a professional website development company based in Hyderabad, Andhra Pradesh, INDIA and Bradenton, Florida, USA (Detailed address are on the Contact us Page).
+#### End User Privacy Policy
 
-Templateworld.com places a high emphasis on the privacy of its users and is committed to protect it in all respects.
+  * We have created this privacy policy to demonstrate our commitment to the privacy of the end user.
+  * Please read the following to learn more about our privacy policy and how we handle the personal information collected from our customers.
 
-With an objective to offer the most holistic and enriching experience of the internet to its users, templateworld.com offers a vast collection of professional web templates and related services. All templates are available for sale but you need to have a universally mandatory registration to surf the URL www.templateworld.com. In the process templateworld.com collects certain information about its users, such as:
 
-(a) The information supplied by users and
 
-(b) The information automatically tracked while surfing www.templateworld.com.
+#### WHAT THIS PRIVACY POLICY COVERS
 
-In order to become members or affiliates of templateworld.com, the users are required to provide certain mandatory information for registration which may include
+  * This privacy policy covers our treatment of personally identifiable information collected by us through a website owned and operated by us.
+  * This privacy policy does not apply to the practices of companies that are not in our direct subjection, or of persons not employed by us, including any third-party content contributors bound by contract and any third-party websites to which our websites may link.
 
-(a) Your Name
 
-(b) Postal Address
 
-(c) Phone Number
+#### COLLECTION AND USE OF PERSONAL INFORMATION
 
-(d) Email Address
+  * You may visit our websites without disclosing any personal information.
+  * However, we need certain personal information if you wish to purchase our products, register an Affiliate Account, receive our newsletter, or use certain services.
+  * If and where required, this information may include your contact information and/or your company contact information.
+  * We will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member's account, and to contact you regarding new products and services.
+  * By accessing our services and voluntarily providing us with the requested personal information, you consent to the collection and use of information in accordance with this privacy policy.
 
-The Information thus supplied by the users enables us to make necessary improvements to our website in order to provide the user, most user-friendly surfing experience and is used to fill your order and verification purpose only.
 
-With an objective to improve the surfing responsiveness of our website, we may use "cookies", or similar electronic tools to collect certain information in order to assign each visitor a random and unique number as User Identification. This helps us to better understand the user's individual interests while using the thus Identified Computer. Unless you voluntarily identify yourself, we would have no idea whatsoever of your identity despite assigning such a cookie to your computer. A cookie can contain only the personal information you choose to provide. A cookie is not capable of reading data off your hard disk drive. Our advertisers or affiliates may also assign their own cookies to your browser (in the event that you evince interest in their services), a process that we do not directly control.
 
-When you visit templateworld.com, our web servers automatically collect certain limited information regarding your computer's connection to the Internet which may include your IP address (a number that lets computers connected to the Internet understand where to send the information). However, your IP address does not in any way identify you personally. This information is used by us to deliver our web pages to you upon request, to customize our website as per the user's interests, to measure traffic to our website and to let advertisers understand the geographical reach of our website.
+#### COLLECTION AND USE OF NON-PERSONAL INFORMATION
 
-Templateworld.com includes links to other websites. All such linked sites are governed by their respective privacy policies, which are beyond our control. The moment, you leave our servers, the usage of any information provided by you is bound and governed by the privacy policy of the respective operator of the website you visit. That privacy policy may differ from ours. In the event that the linked website does not have a privacy policy, the onus is on you to contact the website directly for more information regarding the same.
+  * We automatically receive and record certain types of non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested.
+  * We may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services.
+  * However, we do not connect this non-personal data to any personal information collected from you.
+  * We also allow third party companies that are presenting advertisements on some of our pages to set and access their cookies on your computer.
+  * These cookies are not connected to any personal information in any way.
+  * Third party cookie usage is subject to their own privacy policies, and we assume no responsibility or liability for their use.
 
-In the event that we present the personal information thus collected to our advertisers or affiliates in the process of helping them understand our geographical reach and audience in order to confirm and support the advertising value on our website or to our affiliates in the process of third party processing of any information - the information is usually presented in an aggregated statistic format to advertisers and affiliates are bound by strict and non-negotiable non-disclosure agreements. When you use personal information of any kind in order to register with templateworld.com, we will contact you periodically to facilitate updates of such information, usually through the email route.
 
-All personal and user information gathered by templateworld.com is stored securely within the confines of the templateworld.com controlled database. The database in turn, is stored on servers built with highly secured hardware and software firewalls; any kind of access to the servers is password-protected and is strictly limited. However, despite all our security measures, we understand that no security system is impregnable. In this scenario, we cannot guarantee the security of our database, nor can we offer any guarantees that the personal information you provide us is non-interceptible while being transmitted over the public domain of internet. And, as you can understand, any personal information you might include in a posting to the forums or discussion areas is accessible to anyone over the internet.
 
-As all of us understand that the internet is an ever evolving medium, we would be bound to change this privacy policy from time to time in order to incorporate any necessary future changes. However, our use of any personal or user information we gather will always be consistent with the policy under which the information was primarily collected, regardless of the changes in the policy.
+#### INFORMATION SHARING AND DISCLOSURE
 
-We may use third-party advertising companies to incorporate advertisements on our website in the future. These companies may use information (not including your personal information) about your visits to our websites and other affiliates that may exist at that point of time. This may be done in order to provide advertisements about products and services which may be of interest to you.
+  * We may disclose your personal information to third parties who work on our behalf to provide products and services requested by you.
+  * We may share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information.
+  * We may otherwise disclose your personal information when:
+    * We have your express consent to share the information for a specified purpose;
+    * We need to respond to subpoenas, court orders or such other legal process;
+    * We need to protect the personal safety of the users of our websites or defend the rights or property that pertain to us;
+    * We find that your actions on our websites violate our Terms of Use document or any of our usage guidelines pertaining to corresponding products or services.
 
-All questions or clarifications regarding this Policy should be addressed to:
 
-legal@templateworld.com or by snail mail to
 
-#402, Concourse, 7-1-58
+#### CONSENT
 
-Greenlands Road, AP 500016
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to us.
+  * If you have provided personal information to us and cease to consent to its use or disclosure as outlined herein, please notify us.
 
-Ameerpet
 
-India
 
-OR
+#### SECURITY
 
-4283 Express Lane
+  * Unfortunately, no data transmission over the Internet can be considered 100% secure.
+  * However, your information stored with us is protected for your privacy and security.
+  * In the high security areas of our websites, as identified on the site, we use industry-standard SSL-encryption to protect data transmissions.
+  * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
+  * Further, we retain your personal information only as long as necessary to fulfill the purposes identified above or as required by governing law.
 
-Suite T4105
 
-Sarasota, FL 34238
 
-U.S.A
+#### CHANGES TO THIS PRIVACY POLICY
+
+  * We may at any time, without notice to you and in its sole discretion, amend this policy from time to time.
+  * Please review this policy periodically.
+  * Your continued use of our websites after any such amendments signifies your acceptance thereof.
+
+
+
+#### QUESTIONS AND SUGGESTIONS
+
+  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us.
+
+
