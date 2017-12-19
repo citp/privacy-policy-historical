@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinchat.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620153422id_/https%3A//www.spinchat.com/help/1030) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinchat.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219213218id_/https%3A//www.spinchat.com/help/1030) for the most accurate reproduction.*
 
 # Data protection regulation/privacy policy | Spinchat.com
 
