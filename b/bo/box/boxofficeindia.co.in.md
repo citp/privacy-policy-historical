@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxofficeindia.co.in privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608113444id_/http%3A//boxofficeindia.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficeindia.co.in privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219231554id_/http%3A//boxofficeindia.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Box Office India : India’s premier film trade magazine
 
