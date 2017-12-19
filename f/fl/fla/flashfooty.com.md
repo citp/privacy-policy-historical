@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashfooty.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525215242id_/http%3A//www.flashfooty.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashfooty.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219032753id_/http%3A//www.flashfooty.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Football Games: Privacy Policy
 
