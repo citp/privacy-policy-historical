@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonts101.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074510id_/http%3A//www.fonts101.com/c/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonts101.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219205853id_/http%3A//www.fonts101.com/c/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Fonts101.com
 
