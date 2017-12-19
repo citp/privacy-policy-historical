@@ -1,74 +1,70 @@
-> *The following text is extracted and transformed from the bestvaluevpn.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613105012id_/http%3A//bestvaluevpn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestvaluevpn.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219222717id_/http%3A//bestvaluevpn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Best VPN Reviews
+# Privacy Policy - Best VPN Reviews
 
-At bestvaluevpn.com we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by bestvaluevpn.com. Bestvaluevpn.com adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
+We (“ **Company** ” or “ **us** ” or “ **our** ”) have designed this Privacy Policy (“ **Privacy Policy** ”) with respect to our website: <http://bestvaluevpn.com/> (“ **Website** ”) and the Service provided therein. The Privacy Policy details our privacy practices, including how or why we collect, share and use our users’ data. This Privacy Policy constitutes a legally binding agreement between you and us and we recommend you to read this Privacy Policy carefully prior to accessing or using our Service. 
 
-## Information and how we use it
+BY ACCESSING THE WEBSITE, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY, ANY USE OR CONTINUED USE OF THE WEBSITE CONSTITUTES YOUR AGREEMENT AND CONSENT TO THIS PRIVACY POLICY AND ANY UPDATES OR MODIFICATIONS THEREIN. IF YOU DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY DO NOT REVIEW, ACCESS OR USE THE WEBSITE. WE RESERVE THE RIGHT TO REVISE OR UPDATE THIS PRIVACY POLICY AT ANY TIME, SUCH CHANGES SHALL BE EFFECTIVE UPON PUBLICATION AND YOUR CONTINUED USE OF THE SERVICE CONSTITUTES YOUR CONSENT TO SUCH CHANGES. 
 
-We offer a number of services that do not require you to register for an account or provide any personal information to us, such as our VPN lists. In order to provide our full range of services, we may collect the following types of information:
+**WHAT INFORMATION DO WE COLLECT?**
 
-  *  **Information you provide** – When you submit some forms we will ask you for personal information (such as your name, email address and an account password).
-  *  **Cookies** – When you visit bestvaluevpn.com, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can set your browser to refuse all cookies or to indicate when a cookie is being sent. However, some bestvaluevpn.com features and services may not function properly if your cookies are disabled.
+We collect solely non-identifiable aggregated information such as: information transmitted by your device, your aggregated use of the Website (i.e., click stream, navigation on the Website, etc.), statistics, language, time and date you access and use the Website, duration, IP address (which we consider non-personal information, nonetheless, some countries and jurisdictions consider IP address as identifying and “ **Personal Information** ”). Further, if you choose to contact us you will voluntarily provide us with identifying or personal information, such as your name, email address or other contact details, however, we will use this information solely to reply to your compliant or requirement. 
 
+ **WHY DO WE COLLECT THE INFORMATION?**
 
+We collect and use the information solely to: 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
-
-  *  **Log information** – When you use bestvaluevpn.com services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-  *  **User communications** – When you send email or other communication to bestvaluevpn.com, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-  *  **Links** – bestvaluevpn.com may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising.
-  *  **Other sites** – This Privacy Policy applies to web sites and services that are owned and operated by bestvaluevpn.com. We do not exercise control over the sites displayed as search results or links from within our various services.
-
-
-
-Bestvaluevpn.com only processes personal information for the purposes described in the applicable Privacy Policy for specific services. In addition to the above, such purposes include:
-
-  * Providing our products and services to users, including the display of customized content and advertising;
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our network;
-  * Developing new services.
+  1. provide the service; 
+  2. track users’ movements within the Website in order to ensure that our Website and Content are presented as effectively as possible, and according to users’ preferences;
+  3. analytics or for statistical purposes; and 
+  4. correspond with you and comply with your requests. 
 
 
 
-We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
+**SHARING INFORMATION**
 
-## Choices for personal information
+The data we collect may be shared for: 
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
-
-If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent.
-
-You can decline to submit personal information to any of our services, in which case bestvaluevpn.com may not be able to provide those services to you.
-
-## Information sharing
-
-Bestvaluevpn.com only shares personal information with other companies or individuals outside of bestvaluevpn.com in the following limited circumstances:
-
-  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of bestvaluevpn.com, its users or the public as required or permitted by law.
+  1. the purpose of providing and improving our Website and content; 
+  2. Internally within the Company;
+  3. The purpose of conducting business and marketing analysis; 
+  4. The purpose of complying with any applicable law, regulation, legal process or governmental request; 
+  5. The purpose of enforcing our agreements and policies as well as to establish, exercise or defend our rights;
+  6. To prevent third party infringements, including intellectual property and privacy rights; and
+  7. To share the data with third parties, including without limitations the service providers, ad networks, advertising companies, media and other interested parties.
 
 
 
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
+ **THIRD PARTY AND COOKIE POLICY**
 
-## Information security
+The Website contains links to third party service providers and their applicable sites. These service providers and their applicable sites and content contain privacy practices that may differ from ours therefore we recommend you to carefully review the applicable third-party privacy policy once you leave our Website as we do not take any responsibility or liability for such content and privacy practices. 
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+We also use cookies and other technologies (e.g. web beacons, pixels, etc.) which you are able to disable at any time through your device or browser settings. If you choose to disable cookies some features may not operate properly. Third parties such as Google Analytics use cookies, scripts or web beacons for the purpose of tracking and analyzing your use of our Website we recommend you review the Google’s [privacy policy](http://www.google.com/policies/privacy/partners) and [available opt-outs.](https://tools.google.com/dlpage/gaoptout/)
 
-## Data integrity
+**USERS RIGHTS**
 
-Bestvaluevpn.com processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+You may easily opt out of the data collection by disabling or blocking cookies or contacting us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection). You may also opt-out from third party retargeting  services through the  ** _Network Advertising Initiative’s_** (“ **NAI** ”) website – [NAI consumer opt-out page](http://www.networkadvertising.org/choices/) or the  ** _Digital Advertising Alliance’s_** (“ **DAA** ”) website – [DAA opt-out page](http://www.aboutads.info/).
 
-## Accessing and updating personal information
+ **DATA SECURITY**
 
-When you use bestvaluevpn.com services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required.
+We retain the information we collect for as long as needed to provide the service. We use high security techniques to prevent your information from being accessed without authorization, however, although we make best efforts we can’t provide 100% security and we cannot be held responsible for unauthorized or unintended access that is beyond our control. If you have reasonable concern regarding the security of data please contact us at:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection).
 
-## Enforcement
+ **AGE LIMITATION**
 
-Bestvaluevpn.com regularly reviews its compliance with this Policy. When we receive complaints, it is bestvaluevpn.com’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between bestvaluevpn.com and an individual.
+You represent and warrant that you are at least 13 years of age, and we reserve the right to request proof of age. We make best efforts to ensure minors don’t use our service and Website. In the event that we become aware that a user under the age of 13 has shared any information, we will discard such information. If you discover we collect data on minors please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-## Changes to this policy
+ **DATA TRANSFER**
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes).
+We store your information in the United States, hence, if you are a resident of a jurisdiction where transfer of your data requires your consent, then your consent to this Privacy Policy includes your express consent for such transfer of your Personal Information. Further, if you are a resident of the European Economic Area (“ **EEA** “) we will take appropriate measures to ensure that your information receives an adequate level of data protection upon its transfer outside of the EEA. 
+
+**DO NOT TRACK**
+
+We does not respond to Do Not Track signals as detailed herein: [http://www.allaboutdnt.com/](http://www.allaboutdnt.com/).
+
+ **CONTACT US**
+
+If you have any questions in relation to this Privacy Policy or you wish to exercise any of your rights, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+4283 Express Lane  
+Suite 721-859  
+Sarasota, FL 34249
