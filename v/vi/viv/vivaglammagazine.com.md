@@ -1,78 +1,143 @@
-> *The following text is extracted and transformed from the vivaglammagazine.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630040103id_/http%3A//vivaglammagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaglammagazine.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219061133id_/http%3A//vivaglammagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy - VIVA GLAM MAGAZINE
+# Privacy Policy - VIVA GLAM MAGAZINE
 
-Protecting your private information is our priority. This Statement of Privacy applies to the www.vivaglammagazine.com and Viva Glam Magazine and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Viva Glam Magazine include www.vivaglammagazine.com and VGM. The VGM website is a Online Magazine site. By using the VGM website, you consent to the data practices described in this statement.
+_This Privacy Policy (this “Privacy Policy”) was last modified on August 28, 2017._
 
-**Collection of your Personal Information**
+  * http://www.vivaglammagazine.com
+  * http://www.fashionisers.com
+  * http://katwalk411.com
+  * http://thenew-u.com
+  * http://upcomingbeauty.com
+  * http://www.beautytips.online
+  * http://www.hollywoodbug.com
+  * http://gossipfamily.com
+  * http://www.fashiontrendsmag.com
+  * http://recipegreen.com
+  * http://healthandbeauty.tips (collectively, “Website”)
 
-VGM may collect personally identifiable information, such as your name. If you purchase VGM’s products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. VGM may also collect anonymous demographic information, which is not unique to you, such as your age, gender and Country. We may gather additional personal or non-personal information in the future.
 
-Information about your computer hardware and software may be automatically collected by VGM. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the VGM website.
 
-VGM encourages you to review the privacy statements of websites you choose to link to from VGM so that you can understand how those websites collect, use and share your information. VGM is not responsible for the privacy statements or other content on websites outside of the VGM website.
+KVD Brand Inc, a California Corporation, and its affiliated companies (collectively, “ **KVD** ,” “we,” or “us”), knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by **KVD** when you use the Website, any mobile versions of the Website, any applications published by **KVD** that you download from the Website or from a third-party, and other related services (the “Service”), how the information will be used and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. To the extent that any terms of the Privacy Policy conflict with the terms of an existing written (including electronic) agreement between you and the **KVD** regarding the use of specific areas of the Website or specific services (collectively, the “Other Agreements”), the terms of such Other Agreements shall govern.
 
-Use of your Personal Information
+**Information We Collect**
 
-VGM collects and uses your personal information to operate its website(s) and deliver the services you have requested.
+**User-Provided Information:** You provide us information about yourself, such as your name and email address, when/ if you register with the Service. Also, you may provide information when you participate in sweepstakes and contests, message boards and chat rooms, leave a comment on the Website, or respond to one of our surveys (all such information and material, “User Content”). If you correspond with us by email, we may retain the content of your email messages, your email address, and our responses.
 
-VGM may also use your personally identifiable information to inform you of other products or services available from VGM and its affiliates. VGM may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+**Cookies Information:** When you visit the Website, we may or may not send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer, mobile, or other device (“Local Device Storage”) that uniquely identifies your browser or device and allows **KVD** to help you log in faster and enhance your navigation through the Website. A cookie does not collect personal information about you from which your individual identity can be established. **KVD** uses both session cookies and persistent cookies. A persistent cookie remains in your Local Device Storage after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser’s or Local Device Storage’s directions. A session cookie is temporary and disappears after you close your browser. You can set your web browser to refuse all cookies or to indicate when a cookie is being sent. Therefore, some features of the Service may not function properly or at all if the ability to accept all cookies is disabled. Other cookies collect information about your browsing habits in order to help us and advertisers make suggestions relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertisers. For example, we use third parties to provide you with more personalized advertisements when visiting other websites. You can change the settings on your browser or Local Device Storage to prevent cookies being stored on your Local Device Storage without your explicit consent. Your browser “help” section will normally provide details on how to manage the cookie settings.
 
-VGM does not sell, rent or lease its customer lists to third parties.
+**Social Networking:** If you choose to access, visit and/or use any third-party social networking service(s) that may be integrated with the Service, we may receive personally identifiable information and other information about you and your computer, mobile, and other device that you have made available to those services, including information about your contacts on those services. For example, some social networking services allow you to push content from our Service to your contacts or to pull information about your contacts so you can connect with them on or through our Service. Some social networking services also will facilitate your registration for our Service or enhance or personalize your experience on our Service. Your decision to use a social networking service in connection with our Service is voluntary. However, you should make sure you are comfortable with the information your third-party social networking services may make available to our Service by visiting those services’ privacy policies and/or modifying your privacy settings directly with those services. We reserve the right to use, transfer, assign, share, and provide access to all personally identifiable information and other information about you and your computer, mobile, or other device that we receive through third-party social networking services in the same ways described in this Privacy Policy as all of your other information.
 
-VGM may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. VGM may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to VGM, and they are required to maintain the confidentiality of your information.
+**Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you register with or view our Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed and other such information.
 
-VGM may keep track of the websites and pages our users visit within VGM, in order to determine what VGM services are the most popular. This data is used to deliver customized content and advertising within VGM to customers whose behavior indicates that they are interested in a particular subject area.
+**Information Storage:** Your information may be transferred to, and maintained on, servers and databases located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as your jurisdiction. Be advised that **KVD** may transfer your information to and from any state, province, country or other governmental jurisdiction, and process it in the United States or elsewhere. Your consent to the **KVD** ‘s Privacy Policy followed by your submission of information represents your agreement to any such transfer.
 
-VGM will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on VGM or the site; (b) protect and defend the rights or property of VGM; and, (c) act under exigent circumstances to protect the personal safety of users of VGM, or the public.
+**Clear Gifs Information:** When you use the Service, we may employ clear gifs (“Web Beacons”), which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your **KVD** account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing and make us better for our users.
 
-**Use of Cookies**
+**New Technology:** As we adopt additional technology, we may also gather information through other means and there may be other technologies present that behave in a similar way, but are protected by confidentiality.
 
-The VGM website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+**How We Use Your Information**
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize VGM pages, or register with VGM site or services, a cookie helps VGM to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same VGM website, the information you previously provided can be retrieved, so you can easily use the VGM features that you customized.
+We use the information you submit (including any personal information) to operate, maintain, and provide to you the features and functionality of the Service or otherwise in connection with our business in relation to the Service. By using the Service you consent to this use and any other use of information identified in this Privacy Policy. For example, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the VGM services or websites you visit.
+Any information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post on message boards, in chat areas, or leave a comment to an article) becomes available to the public. You should be aware that even if you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
 
-**3rd Party Companies**
+By providing **KVD** your email address, you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service or special offers. If you do not want to receive such email messages, you may opt out by sending an email message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with the word “Opt Out Email – KVDBrand” in the subject field. Opting out may prevent you from receiving email messages regarding updates, improvements or offers.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>  
-Security of your Personal Information
+**KVD** may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security and personalizing advertisements and promotions.
 
-To secure your personal information from unauthorized access, use or disclosure, VGM uses the following:
+**KVD** reserves the right, but has no obligation, to monitor the User Content you post on the Website. **KVD** has the right to remove any such User Content for any reason or no reason, including, without limitation, if in its sole opinion, such User Content violates, or may violate, any applicable law or our Terms of Use, which are incorporated herein by reference, or to protect or defend **KVD** ‘s rights or property or those of any third party. **KVD** also reserves the right to remove User Content upon the request of any third party.
 
-PCI Compliant
+We use cookies, clear gifs and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of the Service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web **KVD** or ISP; and (f) help you efficiently access your information after you sign in to the Website.
 
-Children Under Thirteen
+If you do not wish to receive future commercial messages from us, simply follow the unsubscribe instructions contained within the message you receive. Note that you may continue to receive certain communications from us, such as transactional or relationship messages, and/or messages about your account profile.
 
-VGM does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+We may also allow access to our database by third parties that provide us with services, such as technical maintenance, market research, community and forums management, auction services, and shopping, personal/job search and other classified ads functionality, but only for the purpose of and to the extent necessary to provide those services. If you choose to purchase merchandise, products and/or services on or through features on the Service, we may forward your information to third parties for services such as credit card or other payment processing, order fulfillment, credit pre-authorization, and address verification. There are also times when you provide information about yourself to us in areas of the Service that may be managed or participated in by third parties. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While we may seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, we do not bear any responsibility for any actions or policies of third parties.
 
-**Opt-Out & Unsubscribe**
+We reserve the right to access, use, and share with others your personally identifiable information for purposes of health, safety and other matters in the public interest.
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from VGM by contacting us here:
+In addition, we reserve the right to use the information we collect about your computer, mobile or other device (including its geographic location), which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, analyze trends, track users’ movements around the Service, and to otherwise administer the Service. Geographic location information about you and/or your computer, mobile, or other device may specifically be used to show you content and sponsored messaging based on geographic location.
 
-– Web page: _________________
+We reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any lawful business purpose, such as analyzing usage trends and seeking compatible advertisers, sponsors, clients, and customers.
 
-– Email: _________________
+In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by us, our parent or any subsidiary or affiliated entity are sold, assigned, transferred, or acquired by another company, the information from and/or about our Service users may be among the transferred assets.
 
-– Phone: _________________
+We reserve the right to identify you from information you provide to us and/or to merge or co-mingle anonymous or non-personally identifiable data about you, your offline and online behavior, and/or your computer, mobile or other device (including its geographic location), with the information you provide to use and/or other personally identifiable data for any lawful business purpose.
 
-Changes to this Statement
+**How We Share Your Information**
 
-VGM will occasionally update this Statement of Privacy to reflect company and customer feedback. VGM encourages you to periodically review this Statement to be informed of how VGM is protecting your information.
+**Personally Identifiable Information:** Except as described in this Privacy Policy, **KVD** will not rent or sell your personally identifiable information to others.
 
-**Contact Information**
+**KVD** may share your personally identifiable information or information about your computer, mobile or other device with our affiliates and third parties solely for the purpose of providing services to you. We may store personal information in locations outside the direct control of **KVD** (for example, on servers or databases co-located with hosting providers).
 
-VGM welcomes your questions or comments regarding this Statement of Privacy. If you believe that VGM has not adhered to this Statement, please contact VGM at:
+As we develop our business, we may buy or sell assets or business offerings. Customer, email and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers or dissolution.
 
-**VIVA GLAM MAGAZINE**
+Except as otherwise described in this Privacy Policy, **KVD** will not disclose personal information to any third party unless required to do so by law, regulation or subpoena or if we believe that such action is necessary to: (a) conform to the law, comply with legal process served on us or our affiliates or investigate, prevent or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies or to protect the security or integrity of our Website; and (c) to exercise or protect the rights, property or personal safety of **KVD** , our users or others. Please note we may not provide notice prior to disclosure in such cases.
 
-4821 Lankershim Blvd., F-345
+**Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain **KVD** services.
 
-North Hollywood, California 91601
+**KVD** allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
 
-Email Address: [info@vivaglammagazine.com ](mailto:info@vivaglammagazine.com%20)
+**KVD** does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks **KVD** to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
 
-Telephone number: 310-936-9894
+You should consult the respective privacy policies of these third-party ad servers or ad networks. This Privacy Policy does not apply to, and we cannot control the activities of, such advertisers.
 
-Effective as of June 04, 2012
+**How We Protect Your Information**
+
+**KVD** uses reasonable technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to **KVD** and you do so at your own risk. Once we receive your transmission of information, **KVD** makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from **KVD** , at all times.
+
+**Compromise of Personal Information**
+
+In the event that personal information is compromised as a result of a breach of security, **KVD** will take commercially reasonable measures to promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy or as otherwise required by applicable law.
+
+**Your Choices About Your Personal Information**
+
+You may, of course, decline to submit personally identifiable information to **KVD** , in which case **KVD** may not be able to provide certain services to you.
+
+**Children’s Privacy**
+
+Protecting the privacy of young children is especially important. For that reason, **KVD** does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number or email address. No one under age 13 is allowed to provide any personal information to **KVD**. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+**Third Parties**
+
+**KVD** expects its partners, advertisers, and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates, and other content providers accessible through our Website, may have their own privacy and data collection policies and practices.
+
+You should also be aware that if you voluntarily disclose information (including personally identifiable information) on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and outside the scope of this Privacy Policy.
+
+**KVD** is not responsible for the practices employed by websites linked to or from the Website nor the information or content contained therein. It follows that the **KVD** accepts no responsibility for events experienced by you if you visit a third party site by clicking through from the Website. Please remember that when you use a link to go from the Website to another website, this Privacy Policy is no longer in effect. User browsing and interaction on any other website, including those that have a link on our Website, is subject to that other website’s own rules and policies. Please read over those rules and policies before proceeding.
+
+**Third Party Advertisements and Technologies:**
+
+We use third-party advertising companies to serve advertisements when you visit the Website as is explained in detail in the Terms of Use. In the course of advertisements being served to you, a unique third-party cookie or other advertising technology may be placed on your browser. This advertising technology uses information derived from your visits to the Website to target advertising within this Website or on other websites. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you (sometimes called “online behavioral advertising” or “interest-based advertising” or “OBA”). We may also use web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons would enable us to recognize a browser’s cookie when a browser visits this Website, to learn which banner ads bring users to our Website and to deliver more relevant advertising.
+
+In addition, our advertisers or other third parties may use other third-party advertising technology to target advertising on the Website and other websites. We do not control the data collection and use practices of these other third parties. You should read the privacy notices of the websites you visit in order to determine what companies may be collecting information on those websites.
+
+**OBA Opt Out**
+
+If you would like to “opt-out” of being served OBA on the Website by our third-party advertising companies, click on the AdChoices icon below and select the companies whose OBA technology you would like to block on the Website.
+
+You may also “opt-out” of other third party programs using OBA technology on your web browser: (a) for users targeted in the United States by visiting <http://www.aboutads.info/choices>; (b) for users targeted in Europe by visiting [http://www.youronlinechoices.com](http://www.youronlinechoices.com/), selecting the country where you are located; (c) for users targeted in Australia by visiting [http://youronlinechoices.com.au](http://youronlinechoices.com.au/), and selecting “Your Ad Choices” or “Your Choices” as applicable, and (d) for users targeted in Canada by visiting <http://youradchoices.ca/choices>.
+
+For more information about online advertising, please visit: (a) http://aboutads.info/consumers regarding United States online choices; (b) [http://youronlinechoices.com](http://www.youronlinechoices.com/) regarding European online choices; (c) [http://youronlinechoices.com.au](http://www.youronlinechoices.com.au/) regarding Australian online choices; and/or (d) [http://youradchoices.ca](http://www.youradchoices.ca/) regarding Canadian online choices.
+
+**Notification Procedures**
+
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice or through conspicuous posting of such notice on the Website, as determined by **KVD** in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+
+**Changes to Our Privacy Policy**
+
+We reserve the right to change this Privacy Policy at any time. Please check this page periodically for changes. Your continued use of the Website following the posting of changes to this Privacy Policy will constitute acceptance of those changes. Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.
+
+**How to Contact KVD**
+
+If you have any questions about this Privacy Policy, the practices of the Website, or your dealings with the Website (including your choices regarding cookies), please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or send mail to:
+
+KVD Brand, Inc
+
+4821 Lankershim Blvd, F-345
+
+North Hollywood, CA 91601
+
+Attn: Intellectual Property Agent
