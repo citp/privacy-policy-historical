@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebodybuilding.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919083444id_/http%3A//www.rebodybuilding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebodybuilding.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219174201id_/http%3A//www.rebodybuilding.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReBodyBuilding
 
@@ -8,7 +8,7 @@ We are committed to protecting the privacy and security of the users of our site
 
 This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
 
-If you have any questions or concerns about our privacy policy, please send us an e-mail to: info@rebodybuilding.com.
+If you have any questions or concerns about our privacy policy, please send us an e-mail to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## Scope Of Privacy Policy
 
@@ -102,27 +102,27 @@ The DMCA provides a legal procedure by which you can request any Online Service 
 
 ## How to Write a Proper DMCA Notice
 
-A Proper DMCA Notice will notify Rebodybuilding.com of particular facts in a document signed under penalty of perjury. We refer to this as a â€œProper DMCA Notice.â€ To Write a Proper DMCA notice, please provide the following information:
+A Proper DMCA Notice will notify Rebodybuilding.com of particular facts in a document signed under penalty of perjury. We refer to this as a Ã¢â‚¬Å“Proper DMCA Notice.Ã¢â‚¬Â To Write a Proper DMCA notice, please provide the following information:
 
 Identify yourself as either:  
-The owner of a copyrighted work(s), or A person â€œauthorized to act on behalf of the owner of an exclusive right that is allegedly infringed.â€  
+The owner of a copyrighted work(s), or A person Ã¢â‚¬Å“authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.Ã¢â‚¬Â  
 State your contact information, including your TRUE NAME, street address, telephone number, and email address.  
 Identify the copyrighted work that you believe is being infringed, or if a large number of works are appearing at a single website, a representative list of the works.  
 Identify the material that you claim is infringing your copyrighted work, to which you are requesting that Rebodybuilding.com disable access over the World Wide Web.  
-Identify the location of the material on the World Wide Web by providing â€œinformation reasonably sufficient to permit Rebodybuilding.com to locate the material.â€  
-State that you have â€œa good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agents, or the law.â€ State that the information in the notice is accurate, under penalty of perjury. Sign the notice with either a physical or electronic signature.
+Identify the location of the material on the World Wide Web by providing Ã¢â‚¬Å“information reasonably sufficient to permit Rebodybuilding.com to locate the material.Ã¢â‚¬Â  
+State that you have Ã¢â‚¬Å“a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agents, or the law.Ã¢â‚¬Â State that the information in the notice is accurate, under penalty of perjury. Sign the notice with either a physical or electronic signature.
 
 ## Sending The Proper DMCA Notice to the Designated Agent
 
-To exercise your DMCA rights, you must send your Proper DMCA Notice to the following agent designated by Rebodybuilding.com (the â€œDesignated Agentâ€.) The contact information for Rebodybuilding.com's Designated Agent is:
+To exercise your DMCA rights, you must send your Proper DMCA Notice to the following agent designated by Rebodybuilding.com (the Ã¢â‚¬Å“Designated AgentÃ¢â‚¬Â.) The contact information for Rebodybuilding.com's Designated Agent is:
 
 Address: Friesenwall 29, Koeln, 50672 GERMANY
 
-Email: info@rebodybuilding.com
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## What We Do When We Receive A Proper DMCA Notice
 
-Rebodybuilding.com will follow the procedures provided in the DCMA, which prescribed a notice and takedown procedure, subject to the webmasterâ€™s right to submit a Counter-notification claiming lawful use of the disabled works.
+Rebodybuilding.com will follow the procedures provided in the DCMA, which prescribed a notice and takedown procedure, subject to the webmasterÃ¢â‚¬â„¢s right to submit a Counter-notification claiming lawful use of the disabled works.
 
 ## Notice and Takedown Procedure
 
@@ -146,16 +146,16 @@ State that access to your website was disabled due to operation of the notice an
 Identify the material that has been removed and designate its URL prior to removal.  
 State, under penalty of perjury:  
 Your name, address, and telephone number,  
-That you â€œhave a good faith belief that the material was removed or disabled as result of mistake or misidentification of the material,"  
-That you â€œconsent to the jurisdiction of the Federal District Court for the judicial district in which the address is located."
+That you Ã¢â‚¬Å“have a good faith belief that the material was removed or disabled as result of mistake or misidentification of the material,"  
+That you Ã¢â‚¬Å“consent to the jurisdiction of the Federal District Court for the judicial district in which the address is located."
 
 ## Sending the Counter-notification
 
-To exercise your DMCA rights, you must send your Counter-notification to the â€œDesignated Agentâ€ for Rebodybuilding.com, whose contact information is:
+To exercise your DMCA rights, you must send your Counter-notification to the Ã¢â‚¬Å“Designated AgentÃ¢â‚¬Â for Rebodybuilding.com, whose contact information is:
 
 Address: Friesenwall 29, Koeln, 50672 GERMANY
 
-Email: info@rebodybuilding.com
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## Repeat Infringers
 
