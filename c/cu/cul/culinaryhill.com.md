@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culinaryhill.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129144935id_/https%3A//www.culinaryhill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culinaryhill.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219171118id_/https%3A//www.culinaryhill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Culinary Hill
 
@@ -6,15 +6,15 @@ Effective Date: October 12, 2016 ** **
 
 Hey there, Meggan here. Just like you, we at Culinary Hill are concerned with how companies collect and use our information online, so it only seems fair we share how your information is collected, secured, and shared on this website. So, let’s get to it.
 
-**NOTICE CONCERNING CHILDREN.**
+ **NOTICE CONCERNING CHILDREN.**
 
 Any website “directed at children under 13” must undertake certain compliance steps pursuant to the Children’s Online Privacy Protection Act and “COPPA Rule.” This website is directed at adults, not children. Please contact us immediately if you have knowledge of a child under 13 using the website.
 
-**INTENDED AUDIENCE.**
+ **INTENDED AUDIENCE.**
 
 While everyone is welcome to visit and use the recipes and information on Culinary Hill, we do create content intended for an audience in the United States. Given this, our focus is on complying with the privacy laws of the United States.
 
-**PERSONAL INFORMATION COLLECTED.**
+ **PERSONAL INFORMATION COLLECTED.**
 
 A. Information Collection: You may browse the pages on this website without providing us with any personal information. However, if you decide to 1) contact us, 2) sign up for our newsletter; 3) comment on a post. or 4) download an offering from the website, we require you provide us with certain information that personally identifies you (“Personal Information”). This personal information consists of contact data such as your name and e-mail address (“Contact Data”).
 
@@ -40,11 +40,11 @@ E. Third Party Online Behavioral Tracking: We allow third party companies to ser
 
 F. California Minor Eraser Right: This website is restricted to users 18 or older. Nonetheless, you may contact us if you are a minor to request the removal of content you’ve posted to the website. Please note the removal of the content from this website does not ensure complete or comprehensive removal of the content from appearing elsewhere on the Internet.
 
-**COOKIES AND TRAFFIC DATA COLLECTED.**
+ **COOKIES AND TRAFFIC DATA COLLECTED.**
 
 We automatically track and collect the following categories of information when you visit our website: (1) IP addresses; (2) domain servers; (3) types of computers accessing the website; and (4) types of web browsers used to access the website (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes and for helping us improve your experience when using the website.
 
-**USE OF INFORMATION COLLECTED.**
+ **USE OF INFORMATION COLLECTED.**
 
 A. Our Use Of Information: We use Contact Data to send you information or our products or to contact you when necessary.
 
@@ -52,17 +52,17 @@ B. Sharing Personal Information: We share certain categories of information we c
 
 C. User Choice For Collection, Use, and Sharing Of Personal Information. You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the website; however, you will not be able to access and use those portions that require your Personal Information. If you do not wish to receive information and promotional material from us, you may select the appropriate “opt-out” option when you receive a communication from us. You may not opt-out of administrative communications.D. Sale of Information: Should we decide to sell all or part of Culinary Hill, Inc. or this website at some point in the future, your Personal Information will be included as an asset in the sale to a new owner.
 
-**SECURITY INFORMATION.**
+ **SECURITY INFORMATION.**
 
 Confidentiality and Security of Personal Information: Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce the legal documents applicable to the website. Your Personal Information is stored on secure servers that are not accessible by unaffiliated third parties.
 
-**AREAS BEYOND OUR CONTROL  
+ **AREAS BEYOND OUR CONTROL  
 **  
 A. Public Information: We make comment areas available to you in certain areas of the website. Please understand that any information disclosed in these areas becomes public information. We have no control over its use, and you should exercise caution when deciding to disclose any sensitive or Personal Information.
 
 B. Third Party Websites: The website contains links to other websites. We have no control over the terms and privacy policies of said sites. Please make sure to view the policies of those sites before proceeding.
 
-**CONTACT INFORMATION.**
+ **CONTACT INFORMATION.**
 
 If you have any questions about this Policy or our practices related to this website, please contact us using the Contact function on the website.
 
