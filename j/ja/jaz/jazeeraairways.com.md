@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the jazeeraairways.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609042541id_/http%3A//www.jazeeraairways.com/privacypolicy.aspx%3FLang%3DEn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazeeraairways.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220003405id_/http%3A//www.jazeeraairways.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Jazeera Airways
+# 
 
-  
+Privacy Policy  
+
+
 **What is Jazeera Privacy Policy?**
 
-Jazeera Airways strongly believes in the protection and privacy of your personal data, and Jazeera takes great care to insure compliance with this. This Privacy Policy explains how Jazeera collates, uses and protects information that we process about you. From time to time it may be necessary to update this policy. We will notify you of any such updates by posting them on Jazeera Airways web site. The Privacy does not cover any third party website that you may enter via our web site. 
+Jazeera Airways strongly believes in the protection and privacy of your personal data, and Jazeera takes great care to insure compliance with this. This Privacy Policy explains how Jazeera collates, uses and protects information that we process about you. From time to time it may be necessary to update this policy. We will notify you of any such updates by posting them on Jazeera Airways web site. The Privacy does not cover any third party website that you may enter via our web site.
 
-**
-
-What personal data do we collect?
-
-**
+ **What personal data do we collect?**
 
 When you make a booking with Jazeera Airways, we require you to provide us with certain personal data to allow us provide our services to you. The information we collect may include your payment card details, contact details (including name, address, email addresses and telephone numbers) and details of other passengers on the booking (when providing information about other passengers, please ensure that they have consented to this). We may also collect your contact details and preferences during any competitions or promotional activities that we carry out. Jazeera Airways does not collect any sensitive personal information. Any information received is stored safely in the United States and the United Kingdom. 
 
@@ -19,15 +17,13 @@ When you make a booking with Jazeera Airways, we require you to provide us with 
 
 Jazeera Airways uses your personal data for the purpose of allowing us to provide our services to you and to process your booking requests; this information is also used to communicate with you about Jazeera Airways offers. 
 
-**Providing third parties with personal data**
+**Providing third parties with personal data:**
 
-Jazeera Airways will not provide your personal data to any unrelated third parties, save for where we are required to do so by law; in order to administer your booking (including debiting your payment card); where it is necessary to safeguard the proper operation of our systems; where required to protect ourselves and our customers. Jazeera Airways may provide collated customer and traffic statistics to third parties but these statistics will not contain any information that can personally identify a customer. 
-
-Jazeera Airways may need to pass your data to selected third parties in order to facilitate associated transactions such as car and hotel bookings. 
+Jazeera Airways will not provide your personal data to any unrelated third parties, save for where we are required to do so by law; in order to administer your booking (including debiting your payment card); where it is necessary to safeguard the proper operation of our systems; where required to protect ourselves and our customers. Jazeera Airways may provide collated customer and traffic statistics to third parties but these statistics will not contain any information that can personally identify a customer. Jazeera Airways may need to pass your data to selected third parties in order to facilitate associated transactions such as car and hotel bookings. 
 
 **Note:**
 
-Though we are pleased to inform our customers of the offers and other deals, we leave you the choice of privacy; if you would like to have your personal data which we have retained for marketing purposes removed from our database, please visit the [unsubscribe](https://web.archive.org/web/20170609042541id_/http%3A//www.jazeeraairways.com/FreedomMail.aspx) page. 
+Though we are pleased to inform our customers of the offers and other deals, we leave you the choice of privacy; if you would like to have your personal data which we have retained for marketing purposes removed from our database, please visit the [unsubscribe](http://localhost:60845/FreedomMail.aspx) page. 
 
 **Information Security:**
 
@@ -39,4 +35,4 @@ If your browser supports SSL, please select the Secure Mode option when confirmi
 
 **Use of Cookies:**
 
- ****From time to time, Jazeera Airways may use 'Cookies'. Cookies are small pieces of information which can be stored on your computer's hard drive and on Jazeera Airways website, to provide you with a more personalized booking experience. You can, if you wish, delete these Cookies from your hard drive.
+From time to time, Jazeera Airways may use Cookies. Cookies are small pieces of information which can be stored on your computers hard drive and on Jazeera Airways website, to provide you with a more personalized booking experience. You can, if you wish, delete these Cookies from your hard drive. 
