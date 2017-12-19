@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditsafe.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628232023id_/http%3A//www.creditsafe.com/about-us/creditsafe-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditsafe.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219224247id_/http%3A//www.creditsafe.com/about-us/creditsafe-privacy-notice) for the most accurate reproduction.*
 
 # Creditsafe Privacy Notice
 
@@ -23,7 +23,7 @@ We collect this information in a way which does not identify anyone. We do not m
 
 ### Use of Cookies 
 
-Cookies are small files stored on your computer. Typically, they're used by websites to do things like maintain your preferences, identify your session, store items in shopping carts and for storing authentication status. These files cannot harm your computer, but they can potentially be used to track some of your browser activity, and in the hands of hackers, can give away some personal data. To find out further information on cookies and how you can deal with them effectively [click here](http://www2.creditsafeuk.com/about-us/cookie-policy/ "Cookie Policy").
+Cookies are small files stored on your computer. Typically, they're used by websites to do things like maintain your preferences, identify your session, store items in shopping carts and for storing authentication status. These files cannot harm your computer, but they can potentially be used to track some of your browser activity, and in the hands of hackers, can give away some personal data. To find out further information on cookies and how you can deal with them effectively click here.
 
 In order to understand user activity on our website we use Google Analytics to understand the number of visitors on the site, which pages are being viewed and if users came via a third party site.
 
