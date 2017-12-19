@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationworld.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055556id_/http%3A//www.educationworld.com/help/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationworld.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219213535id_/http%3A//educationworld.com/help/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Education World: Privacy Policy
 
@@ -8,4 +8,4 @@ Education World takes every step possible to protect your privacy at all times. 
 
 Some areas of the Education World Web site may use cookies to help you customize your experience at our site. These cookies do not track individual information for marketing purposes, and we will not contact you without your consent. A cookie stores useful information that lets us remember you when you return. Cookies from Education World can and will be read and processed only by Education World servers. If you choose to disable cookies in your browser, you can still access most of our Web site.
 
-Education World welcomes comments and questions regarding this privacy policy. Our staff is dedicated to protecting your personal information and makes every effort to keep that information secure. You may direct any questions about Education World's privacy policy to [webmaster@educationworld.com](mailto:webmaster@educationworld.com).
+Education World welcomes comments and questions regarding this privacy policy. Our staff is dedicated to protecting your personal information and makes every effort to keep that information secure. You may direct any questions about Education World's privacy policy to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#374052555a5644435245775253425456435e58594058455b531954585a).
