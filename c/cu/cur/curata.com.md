@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curata.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616230903id_/http%3A//www.curata.com/t/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curata.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219014019id_/http%3A//www.curata.com/t/privacy) for the most accurate reproduction.*
 
 # 
 
