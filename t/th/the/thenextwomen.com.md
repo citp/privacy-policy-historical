@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenextwomen.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509071620id_/http%3A//www.thenextwomen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenextwomen.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219043157id_/http%3A//www.thenextwomen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TheNextWomen
 
