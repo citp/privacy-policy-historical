@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolking.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630035021id_/http%3A//zam.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolking.net privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219210859id_/http%3A//zam.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | ZAM - The Largest Collection of Online Gaming Information
 
