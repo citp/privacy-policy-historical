@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecoast.net.nz privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621032920id_/http%3A//www.thecoast.net.nz/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoast.net.nz privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219212937id_/http%3A//www.thecoast.net.nz/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
