@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zwift.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306003923id_/https%3A//zwift.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zwift.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219093735id_/http%3A//www.zwift.com/p/privacy) for the most accurate reproduction.*
 
-# Zwift | Indoor Cycling. Outdone.
-
-### Privacy Policy
+# Zwift
 
 Last Updated: January 4, 2017
 
