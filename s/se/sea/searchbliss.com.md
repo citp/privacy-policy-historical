@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619142804id_/http%3A//www.searchbliss.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219012707id_/http%3A//www.searchbliss.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SearchBliss SEO Services - Privacy Policy
 
@@ -13,6 +13,3 @@ SearchBliss may collect information submitted to us through forms and emails ass
  **Use of cookies**
 
 A cookie is a small piece of data that is sent to your browser and stored on your computer's hard drive. A cookie can NOT read data off your hard disk or read other cookie files created by other web sites. Cookies are harmless to your computer, however, SearchBliss DOES NOT use "cookies".
-
-Copyright: SearchBliss 2015  
-An SEO Services & Marketing company based in Radnor, Delaware County, outside of Philadelphia, PA
