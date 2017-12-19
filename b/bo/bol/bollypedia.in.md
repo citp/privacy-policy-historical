@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollypedia.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155931id_/http%3A//www.bollypedia.in/bollywood/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollypedia.in privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219045501id_/http%3A//www.bollypedia.in/bollywood/Privacy-Policy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 Your privacy is important to us. We are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
-Our website titled Bollypedia with the web address www.bollypedia.in (hereinafter referred to as the 'Website') is owned and operated by Blizz Infotainment (hereinafter referred to as the 'Company') having its principal place of business in India.
+Our website titled Bollypedia with the web address www.bollypedia.in (hereinafter referred to as the 'Website') is owned and operated by Blizz Infotainment (hereinafter referred to as the 'Company').
 
 ###  Collecting Personal Information
 
