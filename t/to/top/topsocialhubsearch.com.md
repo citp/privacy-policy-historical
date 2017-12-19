@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsocialhubsearch.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615170033id_/http%3A//search.socialnewpagessearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsocialhubsearch.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219052516id_/http%3A//search.socialnewpagessearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
 
 # Social New Pages | Privacy Policy
 
