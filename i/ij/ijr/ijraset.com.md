@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ijraset.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611191857id_/http%3A//www.ijraset.com/privacy-policy.php%3FA1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijraset.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219072927id_/http%3A//www.ijraset.com/privacy-policy.php) for the most accurate reproduction.*
 
-# :: IJRASET - International Journal For Research in Applied Sciences and Engineering Technology
+# UGC Approved International Journal for Scientific, Engineering & Applied Science, Research & Technology – IJRASET
 
-|  | 
-
-Privacy Policy
+## Privacy Policy
 
 This Privacy Policy governs the manner in which IJRASET collects, uses, maintains and discloses information collected from users (each, a "User") of theÂ www.ijraset.comÂ website ("Site"). This privacy policy applies to the Site and all products and services offered by IJRASET. 
 
@@ -24,15 +22,15 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **IJRASET may collect and use Users personal information for the following purposes:**
 
-  * \- To improve customer service  
+  * To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * \- To personalize user experience  
+  * To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * \- To improve our Site  
+  * To improve our Site  
 We may use feedback you provide to improve our products and services.
-  * \- To process payments  
+  * To process payments  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * \- To send periodic emails  
+  * To send periodic emails  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
 
@@ -65,7 +63,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 **[www.ijraset.com](http://www.ijraset.com/)**  
 Corporate Office- INDIA IJRASET (ISSN: 2321-9653)- Elecose Building No: 1520 ,Sector-28,Faridabad-121006 Contact: 08813907089  
 08813907089  
-[ijraset@gmail.com](mailto:ijraset@gmail.com)  
-This document was last updated on September 28, 2014   
-  
----|---
+[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d44475f4c5e48596d4a404c4441034e4240)  
+This document was last updated on September 28, 2014 
