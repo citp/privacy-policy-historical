@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coachesconsole.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125835id_/http%3A//coachesconsole.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachesconsole.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219231548id_/http%3A//coachesconsole.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « The Coaches Console
+# Privacy Policy | The Coaches Console
 
 This site is owned and operated by Interface Advantage Systems Inc. (Herein referred to as IAS) Your privacy on the Internet is imperative to us; we want to make your on-line experience satisfying and safe.  **This is our pledge to you** : we will not sell, rent, or give your name or address to anyone. Ever. Period.
 
