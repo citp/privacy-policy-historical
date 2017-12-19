@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurporn1.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617002740id_/http%3A//amateurporn1.com/static/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurporn1.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219120451id_/http%3A//www.amateurporn1.com/static/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Amateur Porn 1
 
