@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naacp.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032151id_/http%3A//www.naacp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naacp.org privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219120717id_/https%3A//www.naacp.org/privacy-policy) for the most accurate reproduction.*
 
 # NAACP | Privacy Policy
 
-The National Association for the Advancement of Colored People (“NAACP” or “us” or “we”) values the protection of individual privacy. This document sets forth naacp’s online privacy policy (“privacy policy”) for the website www.naacp.org (“site”). By using the site, you the user (“you”) indicate that you have read and agree to be bound by this privacy policy. If you do not agree to this privacy policy, do not use the site in any manner. This privacy policy does not govern privacy practices associated with offline activities.
+The National Association for the Advancement of Colored People (“NAACP” or “us” or “we”) values the protection of individual privacy. This document sets forth NAACP’s online privacy policy (“privacy policy”) for the website www.naacp.org (“site”). By using the site, you the user (“you”) indicate that you have read and agree to be bound by this privacy policy. If you do not agree to this privacy policy, do not use the site in any manner. This privacy policy does not govern privacy practices associated with offline activities.
 
 Thank you for visiting the site. We are committed to the privacy of our visitors. We collect no personal information about you when you visit the site unless you choose to provide that information to us and we do not use personal information other than to process your request that required you to submit personal information. We do not make any visitor-provided information available to third parties.
 
@@ -23,9 +23,21 @@ If you do nothing during your visit but browse through the site, read pages, or 
 
 ### Information that you voluntarily provide:
 
+On certain pages of the NAACP website, we may ask you to voluntarily provide personal data such as your name, mailing address, email address, credit card information, telephone number and similar information.  That information is collected when you:
+
+Donate to the NAACP.
+
+Purchase an NAACP membership. 
+
+Sign to receive NAACP alerts.
+
+Sign NAACP petitions.
+
 If you provide us with personally identifiable information, for example, by sending an e-mail or by filling out a form and submitting it through the site, we use that information to respond to your message and to help us provide you with the information and services that you request. All uses of that information are described on the web page containing the form.
 
 Submitting voluntary information constitutes your consent to the use of the information for the stated purpose. When you click the “Submit” button on any of the web forms found on the site, you are indicating your voluntary consent for us to use of the information you submit for the purpose stated.
+
+If you no longer wish to receive emails from the NAACP, you can click the unsubscribe link located at the bottom of the NAACP email.  In addition, if you would like to review and/or update your personal information being collected by the NAACP, you may contact NAACP Web Developer and Graphic Artist Eric Oliver at [eoliver@naacpnet.org](mailto:eoliver@naacpnet.org) or (410) 580-5709.  
 
 ### Links to other sites:
 
@@ -37,7 +49,7 @@ The Site is a general audience site which is neither designed nor intended to co
 
 ### Security:
 
-We use commercially reasonable efforts to ensure that any information you give to us is stored and maintained in a secure environment.
+We use commercially reasonable efforts to ensure that any information you give to us is stored and maintained in secure servers and not publicly accessible.  The NAACP protects personal data by only allowing limited, authorized personnel to have access to such personal data.  The NAACP maintains an encrypted firewall to protect such personal data. The NAACP’s software provider has level one payment card industry compliance to ensure that online credit transactions are secure.   The NAACP has technical safeguards such as “firewalls, virus and intrusion detection, and authentication protocols.” However, despite our best security efforts, no data transmission or storage can be guaranteed to be 100% secure.  
 
 ### Cookies:
 
