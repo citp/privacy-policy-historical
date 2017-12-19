@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footyroom.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630031558id_/http%3A//footyroom.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footyroom.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219022948id_/http%3A//footyroom.com/privacy-policy.html) for the most accurate reproduction.*
 
 # FootyRoom Privacy Policy
 
@@ -10,7 +10,7 @@ This Privacy Policy describes how FootyRoom and its subsidiaries treat personal 
 
 * Non-Account Activity. You can watch videos on FootyRoom without having a FootyRoom Account.
 
-* Account-Related Activity. Certain other activities on FootyRoomâ€” like creating profile, get notification via email â€”require you to have a FootyRoom Account. We ask for some personal information when you create a FootyRoom Account, including your email address and a password, which is used to protect your account from unauthorized access.
+* Account-Related Activity. Certain other activities on FootyRoom— like creating profile, get notification via email —require you to have a FootyRoom Account. We ask for some personal information when you create a FootyRoom Account, including your email address and a password, which is used to protect your account from unauthorized access.
 
 * Usage Information. We may record information about your usage, such as when you use FootyRoom, the contacts you communicate with, the videos you watch. If you are logged in, we may associate that information with your account. We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track which emails are opened by recipients.
 
