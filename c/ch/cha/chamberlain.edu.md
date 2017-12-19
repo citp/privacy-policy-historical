@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011630id_/http%3A//www.chamberlain.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219045430id_/http%3A//www.chamberlain.edu/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-anchor-arrow checkmark location-pointer student team-1 team-2 shake-hands list-options gear graduation globe laptop checklist acropolis event savings respect-for-all work-study military external-scholarships grad-scholarships scholarships grants loans facebook google-plus instagram linkedin2 pinterest twitter youtube chevron-left chevron-down chevron-up chevron-right chevron-large-left chevron-large-down chevron-large-up chevron-large-right icon-user-highlighted icon-users icon-heart icon-quote-mark icon-briefcase icon-stethoscope search line-vertical straight-lines-path icon-user icon-bubble-speach icon-phone icon-search icon-caret close google-plus facebook instagram twitter youtube linkedin2 pinterest phone phone arrow-l-r blog_all-categories blog_campus-news blog_careers blog_nursing-today blog_tips-for-students
 
 Chamberlain University LLC websites 
 
