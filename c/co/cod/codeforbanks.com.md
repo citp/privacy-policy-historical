@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codeforbanks.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615010008id_/http%3A//www.codeforbanks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeforbanks.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220002721id_/http%3A//www.codeforbanks.com/privacy-policy) for the most accurate reproduction.*
 
-# Code for Banks Privacy Policy
+# Privacy Policy - codeforbanks.com
 
 As a user of www.codeforbanks.com website, you must agree to have read our privacy policy before sharing any personal information with us. We respect your privacy. Codeforbanks does not collect any personal information from its users. Visits are logged for aggregate statistics and diagnosis. The visitors are free to navigate through our website without providing any personal information. We do not sell, trade or otherwise transfer your personally identifiable information to outside parties. This does not include trusted third parties who assist us in operating our website, conducting our business or servicing you as long as those parties agree to keep this information confidential.
 
