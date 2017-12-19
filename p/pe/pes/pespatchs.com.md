@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pespatchs.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617180933id_/http%3A//www.pespatchs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pespatchs.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219021843id_/http%3A//www.pespatchs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,5 +23,5 @@ We have included links on this site for your use and reference. We are not respo
 Changes to this Privacy Statement  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the  **privacy  policy** of  **PESPatchs.Com**  then you may contact us at **admin@pespatchs.com  
+If you have any questions regarding the  **privacy  policy** of  **PESPatchs.Com**  then you may contact us at **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 **
