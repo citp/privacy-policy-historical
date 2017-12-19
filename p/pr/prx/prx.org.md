@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prx.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630122423id_/http%3A//www.prx.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prx.org privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219233202id_/http%3A//www.prx.org/privacy-policy) for the most accurate reproduction.*
 
 # PRX » Privacy Policy
 
