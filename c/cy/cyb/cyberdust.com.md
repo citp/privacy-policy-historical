@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberdust.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127212308id_/http%3A//usedust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberdust.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219165534id_/https%3A//www.usedust.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dust | A safer place to text
 
