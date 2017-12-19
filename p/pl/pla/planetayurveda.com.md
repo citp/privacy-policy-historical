@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetayurveda.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617102601id_/http%3A//www.planetayurveda.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetayurveda.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219222109id_/http%3A//www.planetayurveda.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Planet Ayurveda
 
