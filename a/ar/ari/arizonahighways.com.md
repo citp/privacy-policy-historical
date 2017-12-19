@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the arizonahighways.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610230648id_/https%3A//www.arizonahighways.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonahighways.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219221120id_/https%3A//www.arizonahighways.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Arizona Highways
 
-###  This is the Web site of  _Arizona Highways_  magazine. We are a division of the Arizona Department of Transportation, State of Arizona.
+### This is the Web site of  _Arizona Highways_  magazine. We are a division of the Arizona Department of Transportation, State of Arizona.
 
 Our postal address is 2039 West Lewis Avenue, Phoenix, AZ 85009. You may contact us by telephone at 602-712-2200, by fax at 602-254-4505, or by e-mail as noted below.
 
-  * [arizonahighways@emailcustomerservice.com](mailto:arizonahighways@emailcustomerservice.com): subscriptions, changes of address and back issue requests.
-  * [arizonahighwaysproducts@emailcustomerservice.com](mailto:arizonahighwaysproducts@emailcustomerservice.com): catalog request, questions regarding catalog products and customer service.
-  * [webmaster@arizonahighways.com](mailto:webmaster@arizonahighways.com): link requests, online technical questions or problems.
-  * [sales@arizonahighways.com](mailto:sales@arizonahighways.com): corporate and trade sales.
+  * [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f89b8d8b8c97959d8aa78b9d8a8e919b9db8998a918297969990919f908f99818bd691969e97): subscriptions, changes of address and back issue requests, catalog request, questions regarding catalog products and customer service.
+  * [[email protected]>[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c9aabcbabda6a4acbb96baacbbbfa0aaac89a8bba0b3a6a7a8a1a0aea1bea8b0bae7a0a7afa6): link requests, online technical questions or problems.
+  * [[email protected]>[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#284b5d5b5c47454d5a775b4d5a5e414b4d68495a415247464940414f405f49515b0641464e47): corporate and trade sales.
+
+
+  * **<http://www.azoca.gov/>: The Ombudsman-Citizens Aide helps citizens to resolve ongoing issues with State Agencies.**
 
 
 
