@@ -1,46 +1,199 @@
-> *The following text is extracted and transformed from the ourstartpage.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510095847id_/http%3A//ourstartpage.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourstartpage.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/%3Ffg%3D1) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Privacy & Terms – Google
 
-### Privacy Policy
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you [more relevant search results](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/more-relevant-search-results.html) and ads, to help you [connect with people](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/connect-with-people.html) or to make [sharing with others quicker and easier](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/sharing-with-others.html). As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
-At ourstartpage.com, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes the practices concerning the information collected by the APN family of companies consisting APN, LLC and IAC Search and Media Europe Limited (“APN”, "we", "us" and "our") and we provide this Privacy Policy so that our users ("you") will know what information is being collected about you and your activities on ourstartpage.com, how that information is being used, and with whom it is being shared. This Privacy Policy describes the online privacy practices applicable to the web pages within the Internet domain ourstartpage.com including all subdomains thereunder and specifically including any subdomain optimized for use on mobile devices ("Maniihome" or the "Site") and the various services ("Site Services") we provide on or through the Site. The Site and Site Services are controlled by APN, LLC for users in the North America and South America and by our Irish affiliate, IAC Search and Media Europe Limited, for users outside of North America and South America. 
+Our Privacy Policy explains: 
 
-By using the Site and Site Services you consent to our collection and use of your data as described in this Privacy Policy. As our privacy practices evolve, we will update this privacy policy. Any material changes in our privacy practices will be posted prominently on this page. 
-
-**What types of information do we collect when you use the Site and Site Services?**
-
-Each time you visit the Site, we collect the limited information that your browser makes available. This information includes: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited before clicking through to the Site; (c) your browser and platform type; (d) your browser language; and (e) the data in any undeleted "cookies" that your browser previously accepted from us (see "[How are cookies used on the Site?](http://content.mysearch.com/static/mys/documents/pp/en/privacy.html) " below). Additionally, when you enter a search query using the Site or Site Services, we will receive the query text and process it, together with the above data, to return a search results page to you. If you have modified your browser settings so that address-bar search queries and erroneous domain name system (DNS) requests are submitted to us, we may also receive any search query or misspelled URL that you enter into your browser's address bar. 
-
-If you access the Site through a mobile device we may collect additional information including: (i) the Internet Protocol (IP) address of your mobile device; (ii) one way hashed device ID; (iii) your mobile device language; (iv) your mobile device OS (operating system); (v) your mobile device make and model; (vi) a new session on the Site; (v) the duration you spend on the Site; (vi) your clicks on ads or links in connection with the Site. 
-
-If you access the Site through a Search Application, we may also collect information about that Search Application (eg. The specific release date and distribution source of your Search Application, a unique Search Application ID, Search Application partner ID, the ads you click on, and information contained in error log files or cookies, aggregate query or click data and erroneous domain name system requests). 
-
-Some of the foregoing information may be collected via a third party (e.g., comScore) pixel or web beacon and/or information stored in cookies. We do not link the information we store in these cookies to any personally identifiable information. 
-
-The Site and Site Services usually do not require registration or submission of an account name or email address in order to use them. However, we will collect your email address if you submit a help request to us via email. The amount of information that you choose to disclose to us is completely up to you. 
-
-**How may we use the information we collect?**
-
-We use the information that we collect to facilitate the delivery of relevant and/or targeted search results, improve the overall quality of your experience with the Site and Site Services, and to facilitate evaluation, improvement, and development of the Site Services. We aggregate query information for internal reporting purposes and optimization of advertising revenue. We count, track, and aggregate our visitors' activities in our analysis of general traffic flows at the Site (e.g., tracking where users come from, what pages they select within the Site, how they interact with search results, etc.). 
-
-If you choose to submit your name, email address, or other information, we may use such information to contact you to respond to a request from you, or in connection with legal proceedings, or if there has been a violation of our [Terms of Service](http://content.mysearch.com/static/mys/documents/tos/en/terms.html)  or this Privacy Policy. We do not associate your search queries or selected search results in any manner with your name, email address, or other information, unless required to do so by legal process. 
-
-**How are cookies used on the Site?**
-
-We use cookies and other technology such as pixel tags to track traffic flow and patterns of travel, to collect and store information in connection with the Site. Cookies are a standard Internet technology that allows us to store and retrieve information on a user's system. Our web server automatically asks a new user's browser whether it will accept our cookie file. Please see our Cookies Policy for further information about our use of these technologies. 
-
-If you would like to remove our cookies from your computer, you can delete them using your browser (consult your browser's "help" menu to learn how to delete cookies). If you would like to remove our cookies from your mobile device, you should consult your mobile device privacy and the browser tabs in the "Settings" menu to learn how to change the settings on your mobile device and clear cookies. 
-
-Major browsers provide users with various options when it comes to cookies. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones we use to collect search activity information about its users), or block specific cookies. To modify your cookie settings, please refer to the following support pages for each browser you use to access the Website: 
-
-  * Internet Explorer help:<http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies#ie=ie-11> 
-  * Firefox help:<http://kb.mozillazine.org/Cookies#Firefox> 
-  * Safari help:<http://support.apple.com/kb/PH5042> 
-  * Chrome help:<https://support.google.com/chrome/answer/95647?hl=en> 
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information.
 
 
 
-We do not use cookies to track your use of the Internet in any other way, or associate your name, email address, or personal information with your cookie data. We do not disclose cookie information to third parties, except as otherwise described in this Privacy Policy (see "[What information do we share with third parties?](http://content.mysearch.com/static/mys/documents/pp/en/privacy.html) " below). 
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://support.google.com/policies/troubleshooter/2990837?hl=en). 
 
-Use of cookies on our Site by third parties. We use third-party companies to serve advertisements when you visit the Site. These companies may use information about your visits to the Site in order to present advertisements about goods and services that may be of interest to you. In the course of serving advertisements on the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection with the Site. Our Privacy Policy does not cover any use of information that a third-party ad-serving company might collect from you. These companies have their own record-keeping and data-retention policies. If you would like to consider your options for limiting use of such information by advertising companies, or would like to learn more about this practice, please click here:[ http://www.networkadvertising.org/](http://www.networkadvertising.org/). We also use third party vendors to help us better understand our user demographics. These vendors may place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection with the Site to provide their services to us. 
+## Information we collect
+
+We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/ads-youll-find-most-useful.html), [the people who matter most to you online](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/the-people-who-matter-most.html), or which YouTube videos you might like. 
+
+We collect information in the following ways: 
+
+  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or [credit card](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/credit-card.html) to store with your account. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](https://support.google.com/accounts/answer/112783?hl=en), which may include your name and photo. 
+
+  * **Information we get from your use of our services.** We [collect information](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/collect-information.html) about the services that you use and how you use them, like when you watch a video on YouTube, visit a website that uses our advertising services, or [view and interact with our ads](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/view-and-interact-with-our-ads.html) and content. This information includes: 
+
+    * **[Device information](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-device)**
+
+We collect [device-specific information](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/device-specific-information.html) (such as your hardware model, operating system version, [unique device identifiers](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-unique-device-id), and mobile network information including phone number). Google may associate your [device identifiers](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/device-identifiers.html) or [phone number](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/phone-number.html) with your Google Account. 
+
+    * **Log information**
+
+When you use our services or view content provided by Google, we automatically collect and store certain information in [server logs](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This includes: 
+
+      * details of how you used our service, such as your search queries. 
+      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
+      * [Internet protocol address](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip). 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser or your Google Account.
+    * **Location information**
+
+When you use Google services, we [may collect and process information about your actual location](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/may-collect-and-process-information.html). We use various technologies to determine location, including IP address, GPS, [and other sensors](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/sensors.html) that may, for example, provide Google with information on nearby devices, [Wi-Fi access points and cell towers](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/wifi-access-points-and-cell-towers.html). 
+
+    * **Unique application numbers**
+
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
+
+    * **Local storage**
+
+We may collect and store information (including personal information) locally on your device using mechanisms such as [browser web storage](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-browser-storage) (including HTML 5) and [application data caches](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-application-data-cache). 
+
+    * **Cookies and similar technologies**
+
+We [and our partners](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/our-partners.html) use various technologies to collect and store information when you visit a Google service, and this may include using [cookies or similar technologies](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie) to identify your browser or device. We also use these technologies to collect and store information when you interact with services we offer to our partners, such as [advertising services](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/advertising-services.html) or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyze the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is [linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html).
+
+
+
+
+Information we collect when you are signed in to Google, in addition to information we obtain about you from partners, may be associated with your Google Account. When information is associated with your Google Account, we treat it as personal information. For more information about how you can access, manage or delete information that is associated with your Google Account, visit the Transparency and choice section of this policy. 
+
+## How we use information we collect
+
+We use the information we collect from all of our services to [provide](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/provide-services.html), [maintain](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/maintain-services.html), [protect](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/protect-services.html) and improve them, to [develop new ones](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/develop-new-ones.html), and to [protect Google and our users](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/protect-google-and-our-users.html). We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
+
+We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
+
+If you have a Google Account, we may display your Profile name, Profile photo, and actions you take on Google or on third-party applications connected to your Google Account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts. We will respect the choices you make to [limit sharing or visibility settings](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/limit-sharing-or-visibility-settings.html) in your Google Account. 
+
+When you contact Google, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
+
+We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel), to [improve your user experience](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/improve-your-user-experience.html) and the overall quality of our services. One of the products we use to do this on our own services is Google Analytics. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with [sensitive categories](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-categories), such as those based on race, religion, sexual orientation or health. 
+
+Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection. 
+
+We may [combine personal information from one service with information, including personal information, from other Google services](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/combine-personal-information.html) – for example . Depending on [your account settings](https://myaccount.google.com/?hl=en), [your activity on other sites and apps](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/your-activity-on-other-sites-and-apps.html) may be associated with your personal information in order to improve Google’s services and the ads delivered by Google. 
+
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
+
+Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
+
+## Transparency and choice
+
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
+
+  * [Review and update your Google activity controls](https://myaccount.google.com/privacy?hl=en#accounthistory) to decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services. You can also visit these [controls](https://myaccount.google.com/privacy?hl=en#toolsyoucanusenow) to manage whether certain activity is stored in a cookie or similar technology on your device when you use our services while signed-out of your account. 
+  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
+  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also visit that page to opt out of certain Google advertising services. 
+  * [Adjust](https://support.google.com/plus/answer/1355890?hl=en) how the Profile associated with your Google Account appears to others. 
+  * [Control](https://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with through your Google Account. 
+  * [Take information](https://www.dataliberation.org/) associated with your Google Account out of many of our services. 
+  * [Choose](https://plus.google.com/settings/endorsements?hl=en) whether your Profile name and Profile photo appear in shared endorsements that appear in ads.
+
+
+
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services [may not function properly](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/may-not-function-properly.html) if your cookies are disabled. For example, we may not remember your language preferences. 
+
+## Information you share
+
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on [sharing](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/sharing.html) and [removing your content](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/removing-your-content.html). 
+
+## Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with [access to your personal information](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/access-to-your-personal-information.html). If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. 
+
+We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+
+## Information we share
+
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies: 
+
+  * **With your consent**
+
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info). 
+
+  * **With domain administrators**
+
+If your Google Account is managed for you by a [domain administrator](https://support.google.com/a/answer/178897?hl=en) (for example, for G Suite users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+
+    * view statistics regarding your account, like statistics regarding applications you install. 
+    * change your account password. 
+    * suspend or terminate your account access. 
+    * access or retain information stored as part of your account. 
+    * receive your account information in order to satisfy applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/legal-process.html). 
+    * restrict your ability to delete or edit information or privacy settings.
+
+Please refer to your domain administrator’s privacy policy for more information. 
+
+  * **For external processing**
+
+We provide personal information to our [affiliates](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-affiliates) or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+
+  * **For legal reasons**
+
+We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+
+    * meet any applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/legal-process.html). 
+    * enforce applicable Terms of Service, including investigation of potential violations. 
+    * detect, prevent, or otherwise address fraud, security or technical issues. 
+    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+
+
+
+[non-personally identifiable information](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly [to show trends](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/example/to-show-trends.html) about the general use of our services. 
+
+If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
+
+## Information security
+
+We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+
+  * We encrypt many of our services [using SSL](https://support.google.com/websearch/answer/173733?hl=en). 
+  * We offer you [two step verification](https://www.google.com/intl/en/landing/2step/) when you access your Google Account, and a [Safe Browsing feature](https://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
+  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+
+
+## When this Privacy Policy applies
+
+Our Privacy Policy applies to all of the services offered by Google LLC and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
+
+## Compliance and cooperation with regulatory authorities
+
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/frameworks/), including the EU-US and Swiss-US Privacy Shield Frameworks. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+
+## Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+## Specific product practices
+
+The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
+
+  * [Chrome and Chrome OS](https://www.google.com/chrome/intl/en/privacy.html)
+  * [Play Books](https://play.google.com/books/intl/en/privacy.html)
+  * [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en)
+  * [Fiber](https://fiber.google.com/legal/privacy.html)
+  * [Project Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
+  * [G Suite for Education](https://www.google.com/work/apps/terms/education_privacy.html)
+  * [YouTube Kids](https://kids.youtube.com/privacynotice)
+  * [Google Accounts Managed with Family Link](https://families.google.com/familylink/privacy/child-policy/)
+
+
+
+For more information about some of our most popular services, you can visit the [Google Product Privacy Guide](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/technologies/product-privacy/). 
+
+Further useful privacy and security related materials can be found through Google’s [policies and principles pages](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/), including: 
+
+  * Information about our [technologies and principles](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/technologies/), which includes, among other things, more information on 
+    * [how Google uses cookies](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/technologies/cookies/). 
+    * technologies we use for [advertising](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/technologies/ads/). 
+    * how we [recognize patterns like faces](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/technologies/pattern-recognition/).
+  * A [page](https://web.archive.org/web/20171219135229id_/https%3A//www.google.com/intl/en/policies/privacy/partners/) that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products. 
+  * The [Privacy Checkup](https://myaccount.google.com/privacycheckup/1?hl=en) tool, which makes it easy to review your key privacy settings. 
+  * Google’s [safety center](https://www.google.com/intl/en/safetycenter/), which provides information on how to stay safe and secure online.
+
+
