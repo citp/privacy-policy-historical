@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theunlockr.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608015058id_/http%3A//theunlockr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theunlockr.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219231333id_/https%3A//theunlockr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy TheUnlockr
+# Privacy Policy
 
 This privacy policy sets out how Mobile Unlimited, Inc. uses and protects any information that you give while using TheUnlockr.com
 
