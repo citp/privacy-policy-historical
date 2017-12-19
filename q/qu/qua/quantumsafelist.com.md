@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantumsafelist.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630172802id_/http%3A//www.quantumsafelist.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantumsafelist.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219225720id_/http%3A//www.quantumsafelist.com/privacy.cfm) for the most accurate reproduction.*
 
 # 
 
