@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maebag.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617075647id_/http%3A//www.maebag.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maebag.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219064424id_/http%3A//www.maebag.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Online shopping from Kerala for popular Kerala brands, Malayalam books, dvds, Kerala Sarees, Churidar Materials, Christmas Gifts.
 
