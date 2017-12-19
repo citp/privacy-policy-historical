@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinylfg.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630133621id_/http%3A//planetdestiny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinylfg.net privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219221400id_/http%3A//planetdestiny.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PlanetDestiny.com
 
@@ -65,4 +65,4 @@ DestinyLFG.net does not sell or trade your user information in any way, shape o
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-**destinygamenews@gmail.com**
+**[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
