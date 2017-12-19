@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparxitsolutions.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111734id_/http%3A//sparxitsolutions.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparxitsolutions.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219070359id_/http%3A//www.sparxitsolutions.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - Sparx IT Solutions
 
@@ -50,4 +50,4 @@ A-2, Sector-63
 Noida, Uttar Pradesh  
 PO Box 201301, India  
 Phone: +91­ 120 4735100   
-Email: info@sparxitsolutions.com
+Email: [info@sparxitsolutions.com](mailto:%20info@sparxitsolutions.com)
