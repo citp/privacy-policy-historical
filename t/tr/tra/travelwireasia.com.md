@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the travelwireasia.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628173942id_/http%3A//travelwireasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelwireasia.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219221045id_/http%3A//travelwireasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Travel Wire Asia
 
-**Consumer Privacy at TravelWire Asia, a Hybrid News Limited venture**
+**Consumer Privacy at Travel Wire Asia, a Hybrid News Limited venture**
 
 At [TravelWireAsia.com](http://www.travelwireasia.com/privacy-policy/TravelWireAsia.com) we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
 
-For a summary of our activities visit [www.hybridnewsgroup.com](http://www.hybridnewsgroup.com/).
+For a summary of our activities visit [hybrid.co](http://www.hybrid.co/).
 
 At Hybrid News Limited, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites.
 
@@ -75,10 +75,10 @@ If you have any questions about this summary or our information practices, pleas
 
 Content Manager  
 Hybrid News Limited  
-9 The Coach House  
-Clifton, Bristol  
-BS8 4AY  
-United Kingdom
+Colston Tower  
+Colston St,  
+Bristol, United Kingdom  
+BS1 4UX
 
 **Cookies:**  
 A cookie is a small text file that is stored on a user’s computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.
