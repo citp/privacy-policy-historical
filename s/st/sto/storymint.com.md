@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storymint.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620161714id_/http%3A//www.storymint.com/content.php%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storymint.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219213714id_/http%3A//www.storymint.com/content.php%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Storymint.com :: Storymint.com Privacy Policy
 
