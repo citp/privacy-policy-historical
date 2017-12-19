@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothering.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622185840id_/http%3A//www.mothering.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothering.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219100714id_/http%3A//www.mothering.com/articles/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mothering
 
