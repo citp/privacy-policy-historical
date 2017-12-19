@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ksaprice.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629114511id_/http%3A//ksaprice.com/privacy/index) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksaprice.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219021556id_/http%3A//ksaprice.com/privacy/index) for the most accurate reproduction.*
 
-# Compare price in eXtra, Axiom, Souq, Sukar, Panda, Jarir, Wadi, Othaim in Saudi Arabia.
+# Compare price in eXtra, Axiom, Souq, Sukar, Panda, Jarir, Othaim in Saudi Arabia.
 
 ### Privacy Policy
 
@@ -49,3 +49,7 @@ We have in place appropriate technical and security measures to prevent unauthor
 ## Your rights
 
 If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. 
+
+## Disclaimer
+
+KSAPrice.com only acts as online price intelligence platform, all product names, trademarks, service marks, logos, brands, industrial models and designs featured or referred to within this site are the sole property of their respective owners and/or right holders. KSAprice.com acts as independent party and shall not be considered the representative, agent, employee, sponsor, joint venture partner or otherwise of such owners or right holders. 
