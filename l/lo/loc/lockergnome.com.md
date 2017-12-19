@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607032730id_/http%3A//lockergnome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219224127id_/http%3A//lockergnome.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - LockerGnome
+# Privacy Policy - The LockerGnome Daily Report
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
