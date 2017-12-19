@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napavalleyregister.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621012913id_/http%3A//napavalleyregister.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napavalleyregister.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219205616id_/http%3A//napavalleyregister.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | napavalleyregister.com
 
