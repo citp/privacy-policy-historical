@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deuscustoms.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616053016id_/http%3A//deuscustoms.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deuscustoms.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219220452id_/http%3A//deuscustoms.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Deus Ex MachinaDeus Ex Machina
 
