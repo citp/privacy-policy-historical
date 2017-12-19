@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the figment.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626111334id_/http%3A//figment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figment.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219123200id_/http%3A//figment.com/privacy) for the most accurate reproduction.*
 
 # Write yourself in. Figment
 
