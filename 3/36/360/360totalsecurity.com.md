@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 360totalsecurity.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615133610id_/https%3A//www.360totalsecurity.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 360totalsecurity.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219041044id_/https%3A//www.360totalsecurity.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 360 Total Security
+
+[**Driver Updater** and **Firewall** are available now! _Upgrade to Premium Today._](https://store.360totalsecurity.com/?utm_source=Mainpage&utm_medium=Banner&utm_campaign=Premium&utm_content=Firewall.EN)
 
 Qihu 360 Software Co. Ltd (" **360** "), a company based in [Hong Kong], is the developer of 360 online services (" **Services** ") and computer or mobile security software products (" **Software** "). We take the privacy of our customers seriously and are committed to safeguarding your privacy while you use our services. This policy (hereinafter the " **Privacy Policy** ") describes the types of information we collect when you use 360's Services and Software, how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the information you share with us.  **Should you have any questions, please contact our chief privacy executive at [support@360overseas.com]**. Our website may contain links to third party sites which are not subject to the Privacy Policy. 360 does not endorse and is not responsible for the privacy practices or content of those third party sites, and 360 encourages you to learn about the privacy policy of any third party site you may visit. 
 
