@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amarphonebook.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516064728id_/http%3A//amarphonebook.com/content/Privacy-Policy/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amarphonebook.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219062302id_/http%3A//www.amarphonebook.com/content/Privacy-Policy/2) for the most accurate reproduction.*
 
 # 
 
