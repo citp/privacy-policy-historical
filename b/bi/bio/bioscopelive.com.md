@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bioscopelive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042249id_/http%3A//www.bioscopelive.com/en/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioscopelive.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219191402id_/http%3A//www.bioscopelive.com/en/disclaimer) for the most accurate reproduction.*
 
 # Bioscope| Beta - Watch Bangla Movies Natoks Music Videos Songs
 
