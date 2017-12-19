@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funnyand.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622183806id_/http%3A//funnyand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyand.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219041544id_/http%3A//funnyand.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | FunnyAnd.com
 
 Your privacy is very important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
