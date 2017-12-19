@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dear-lover.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609152638id_/http%3A//www.dear-lover.com/Privacy-Policy-i176.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dear-lover.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219230828id_/http%3A//www.dear-lover.com/Privacy-Policy-i176.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.dear-lover.com
 
