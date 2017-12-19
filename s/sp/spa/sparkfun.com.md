@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkfun.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216163153id_/https%3A//www.sparkfun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkfun.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220003758id_/https%3A//www.sparkfun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SparkFun Electronics
 
@@ -81,7 +81,7 @@ PayPal is offered as a payment method. When using PayPal on sparkfun.com a user 
 
 ### Analytics
 
-SparkFun uses [Google Analytics](http://analytics.google.com/), [HubSpot](http://www.hubspot.com/), [DoubleClick](https://www.doubleclickbygoogle.com/solutions/digital-marketing/), and [CrazyEgg](https://www.crazyegg.com/) to track aggregate behavior of visitors on sparkfun.com.
+SparkFun uses [Google Analytics](http://analytics.google.com/), [HubSpot](http://www.hubspot.com/), [DoubleClick](https://www.doubleclickbygoogle.com/solutions/digital-marketing/), [Facebook](https://www.facebook.com/), and [CrazyEgg](https://www.crazyegg.com/) to track aggregate behavior of visitors on sparkfun.com.
 
 Google Universal Analytics is a service hosted on Google’s servers, and is our primary analytics tool. It is activated by a JavaScript snippet that loads on every page to send visitor behavioral information to Google. SparkFun uses this information to understand how visitors use our site. Sometimes SparkFun will run A/B tests, where Google Analytics will track cookies set on users to divide them into groups that get slightly different pages to see which perform better. Visitors who have Do Not Track enabled will not have any information sent to Google’s servers for use in analytics.
 
