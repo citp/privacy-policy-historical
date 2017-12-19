@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apk4now.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225062326id_/http%3A//www.apk4now.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apk4now.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219123228id_/http%3A//apk4now.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy APK4Now
 
