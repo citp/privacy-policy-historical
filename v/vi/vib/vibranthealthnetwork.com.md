@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vibranthealthnetwork.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618053403id_/http%3A//vibranthealthnetwork.com/more-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibranthealthnetwork.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219222501id_/http%3A//vibranthealthnetwork.com/more-information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ This children's privacy statement explains our practices with respect to the onl
 
 Your information is stored at the list server that delivers our content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive our material.
 
-All of the messaging or emails that are sent to you by us include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you.
+All of the messaging or emails that are sent to you by us include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communication that we send you.
 
 ### Disclaimer
 
