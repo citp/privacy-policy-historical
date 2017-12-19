@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dineshbakshi.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518184652id_/http%3A//www.dineshbakshi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dineshbakshi.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219081325id_/http%3A//dineshbakshi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
