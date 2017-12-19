@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silvergames.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503225117id_/http%3A//www.silvergames.com/site/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvergames.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219113222id_/http%3A//www.silvergames.com/en/site/3) for the most accurate reproduction.*
 
 # Privacy Policy
 
