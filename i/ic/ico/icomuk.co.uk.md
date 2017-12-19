@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icomuk.co.uk privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612221533id_/http%3A//icomuk.co.uk/categoryRender.asp%3FcategoryID%3D3549) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icomuk.co.uk privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219025526id_/http%3A//www.icomuk.co.uk/categoryRender.asp%3FcategoryID%3D3549) for the most accurate reproduction.*
 
 # Privacy Statement - Icom UK
 
