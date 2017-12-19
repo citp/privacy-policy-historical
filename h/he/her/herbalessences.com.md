@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the herbalessences.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630083338id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalessences.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219164514id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml) for the most accurate reproduction.*
 
 # P&G Privacy Notice
+
+P&G Privacy Notice
 
 P&G’s Global Consumer Privacy Policy applies to consumer information, including personal information, collected and used by [The Procter & Gamble Company](http://www.pg.com/en_US/index.shtml) and its affiliated companies and subsidiaries (“P&G”).
 
@@ -32,5 +34,20 @@ To read P&G’s full Global Consumer Privacy Policy [click here](http://www.pg.c
 
   * You can stop receiving promotional email or postal communications from P&G by following the instructions in those messages, or through this Privacy Notice. Please [click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to unsubscribe.
   * [Click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to access and update information you provide to P&G. 
+
+
+
+  * P&G is committed to working with consumers and data protection authorities to resolve any privacy concern.
+  * P&G complies with country data protection laws.
+
+
+
+  * P&G sites may include links to third party sites. P&G does not control these third party sites, and we encourage you to read the privacy policy of every site you visit.
+  * P&G sites may also have “plugins” (such as the Facebook “Like” button) to third-party sites or offer login (such as log in with Facebook) through a third-party account. Third-party plugins and login features, including their loading, operation and use, are governed by the privacy policy and terms of the third-party providing them.
+
+
+
+  * [Click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) (for country specific email and/or postal addresses).
+  * [Click here](http://www.pg.com/privacy/english/privacy_faq.shtml) to view answers to Frequently Asked Questions. 
 
 
