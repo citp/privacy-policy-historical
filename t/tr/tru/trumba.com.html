@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trumba.com privacy policy that was archived on 2017-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170620000730id_/http%3A//www.trumba.com/connect/about/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trumba.com privacy policy that was archived on 2017-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171219232902id_/http%3A//www.trumba.com/connect/about/privacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Trumba Privacy Policy
@@ -11,7 +11,7 @@
     <link rel="shortcut icon" href="../../favicon.ico"><link rel="icon" href="../../favicon.png" type="image/png">
     
     <!-- Styles -->
-    <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600" rel="stylesheet" type="text/css"><link href="../styles/basic.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="../styles/basic_print.css" media="print"><link href="../scripts/magnificpopup/magnific-popup.css" rel="stylesheet"><link href="../styles/Site.css?v=4" rel="stylesheet" type="text/css"><link href="../styles/SiteMediaQueries.css?v=4" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600" rel="stylesheet" type="text/css"><link href="../styles/basic.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="../styles/basic_print.css" media="print"><link href="../scripts/magnificpopup/magnific-popup.css" rel="stylesheet"><link href="../styles/Site.css?v=6" rel="stylesheet" type="text/css"><link href="../styles/SiteMediaQueries.css?v=6" rel="stylesheet" type="text/css">
     <!--[if lt IE 9]>
         <link href="../styles/unresponsive.css" rel="stylesheet" type="text/css" />
     <![endif]-->
@@ -48,15 +48,58 @@
 
 
 <script src="/ScriptResource.axd?d=hRc4yY2YEX-YQknS8khwupCnTyDXq45XwaVA-lfUlXy2ubjrFrhx6mw7DfCyW8EqDEJNwNqeJISlSSqfONjGo8SPUUshYvNIRcWEd7sjnbx7TWxd0&amp;t=ffffffffdd783992" type="text/javascript"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js" type="text/javascript"></script>
 <script src="../Scripts/Site.js" type="text/javascript"></script>
 <script src="//www.trumba.com/scripts/spuds.js" type="text/javascript"></script>
 <script src="../scripts/magnificpopup/jquery.magnific-popup.js" type="text/javascript"></script>
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3FDD98D9">        
         <div id="main-wrapper">
             
-<div id="main-header">
-    <div class="main-header-wrapper">
+<div id="main-header" class="with-promo">
+   	<div id="main-promo-header" class="promo-animate">
+		<div class="text">
+			Ask us about <span class="hilite">✔<!--heavy check mark--> <span id="promoFeatureText">room reservations</span></span>
+			<span class="buttonWrap"><a href="http://www.trumba.com/connect/eventcalendar/contact_sales.aspx" class="button">Contact Sales</a></span>
+		</div>
+		<div class="close" onclick="javascript: Trumba.closePromoBar(300, true);">×</div>
+	</div>
+	<script type="text/javascript">
+		var Trumba = (Trumba || {});
+
+		Trumba.promoBarWasClosed =
+			(Trumba.promoBarWasClosed ||
+				function () {
+					try {
+						var v = window.localStorage.getItem("trumbaPromoClosed");
+						return (v >= "2017-07");
+					} catch (e) {
+						return false;
+					}
+				}
+			);
+
+		Trumba.closePromoBar =
+			function (delay, remember) {
+				var bars = $(".promo-animate");
+				var header = $("#main-header");
+
+				$(bars).animate(
+					{ height: 0, padding: 0 }, delay, "linear",
+					function () { $(header).removeClass("with-promo"); }
+				);
+
+				if (remember)
+					window.localStorage.setItem("trumbaPromoClosed", "2017-07");
+			};
+
+		{	// Onload
+			var isHttps = (window.location.protocol.toLowerCase() === "https:");
+			if (isHttps || Trumba.promoBarWasClosed())
+				Trumba.closePromoBar(0, !isHttps);
+		}
+	</script>
+
+	<div class="main-header-wrapper">
         <div class="main-logo">
             <a href="http://www.trumba.com/connect/default.aspx"><img src="../images/template/logo_main.png" alt="Trumba, The Calendar Experts"></a>
             
@@ -77,7 +120,7 @@
             <div class="main-actions">
                 <div class="action-button free-trial">
                     
-                    <a href="https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9Z0hcAHBd91JHhKI-LtoqyQ!X" class="btn btn-success btn-free-trial btn-header">Free Trial</a>
+                    <a href="https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9UvudzD*frrbI-8mA1SPOSU!X" class="btn btn-success btn-free-trial btn-header">Free Trial</a>
                 </div>
                 <div class="action-button sign-in">
                     
@@ -189,7 +232,7 @@
   </div>
   <div class="simple-actions-button">
       
-    <a href="https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9Z0hcAHBd91JHhKI-LtoqyQ!X" class="btn btn-success btn-free-trial">Get Started Now</a>
+    <a href="https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9UvudzD*frrbI-8mA1SPOSU!X" class="btn btn-success btn-free-trial">Get Started Now</a>
   </div>
 </div>
         <div class="simple-actions-content connect">
@@ -226,9 +269,9 @@
                 <h4>Pricing</h4>
                 <ul>
                     <li><a href="http://www.trumba.com/connect/eventcalendar/pricing.aspx">Overview</a></li>
-                    <li><a href="https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9Z0hcAHBd91JHhKI-LtoqyQ!X">30-day Free Trial</a></li>
+                    <li><a href="https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9UvudzD*frrbI-8mA1SPOSU!X">30-day Free Trial</a></li>
                     <li><a href="http://www.trumba.com/connect/eventcalendar/contact_sales.aspx">Contact Sales</a></li>
-                    <li><a href="https://www.trumba.com/t.aspx?e=CgDoSA7qdkJUajYRRESZn5TFJtgVmXedsTTfM62bGe*Rn5EYTcPOoCZT1wW9dxhtybw!X">Purchase</a></li>
+                    <li><a href="https://www.trumba.com/t.aspx?e=CgDoSA7qdkJUajYRRESZn5TFJtgVmXedsTTfM62bGe*Rn5tse80KN8hCqlTOj-4s0SM!X">Purchase</a></li>
                 </ul>
             </div>
             <div class="main-footer-column resources">
