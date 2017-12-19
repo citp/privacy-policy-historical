@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localtraffictool.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209064438id_/http%3A//localtraffictool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localtraffictool.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219234955id_/http%3A//localtraffictool.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
