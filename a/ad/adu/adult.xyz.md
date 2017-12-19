@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adult.xyz privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617031418id_/https%3A//adult.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adult.xyz privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220002353id_/http%3A//adult.xyz/privacy) for the most accurate reproduction.*
 
 # Adult.xyz - Terms & Conditions
 
