@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wonderlictestsample.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618051024id_/http%3A//wonderlictestsample.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderlictestsample.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219222457id_/http%3A//wonderlictestsample.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wonderlic Test Sample
+# Privacy Policy | Wonderlic Test Sample
 
 Wonderlic Test Sample (“us”, “we”, or “our”) operates the http://wonderlictestsample.com/ website (the “Service”).
 
