@@ -1,29 +1,10 @@
-> *The following text is extracted and transformed from the firemountaingems.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020183544id_/http%3A//www.firemountaingems.com/customerservice/csdocs.asp%3Fdocid%3Dcstmrsrvcsftynd%23safeshopping) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firemountaingems.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219204736id_/http%3A//www.firemountaingems.com/customerservice/csdocs.asp%3Fdocid%3Dcstmrsrvcsftynd%23safeshopping) for the most accurate reproduction.*
 
 # Customer Service - Safety and Security - Fire Mountain Gems and Beads
 
-What exactly does Ironclad Guarantee mean?
-
-Simply put--if you don’t like an item, simply return it. No time limit. No restocking fee. No advance notice. No questions. No kiddin'! It's your choice: 100% refund, 100% replacement, 100% credit or 100% exchange.
-
-  * 100% Refund - Return any item for a 100% refund--a money-back, satisfaction guarantee.
-  * 100% Replacement - If for any reason you receive a damaged item, please contact us so we can promptly send you a replacement.
-  * 100% Credit - Many customers choose the convenience of returning the item for a credit when no exchange or replacement is needed. You will receive a 100% credit on your account for the cost of the item.
-  * 100% Exchange - Simply return the item and choose another. You will either receive a credit or be asked to pay the difference.
-
-
-
-We are happy to accept returns and there is no need to call for prior authorization on regular items (no returns on special orders). Just fill out the return form on the back of your invoice. All returns must be accompanied by a copy of the original invoice. All returned merchandise must be sent back in its original container/bag, in a completely unaltered state.
-
-Please note: Some products have a 60-day return policy, due to a limited shelf life.
-
-When returning items for exchange in the same category of products, you will receive the same quantity discount as your original order. All other items will be calculated as a new order. The quantity discount pricing will be based on the number of items placed on this new order. Please add $5.00 to cover the postage.
-
-Fire Mountain Gems and Beads is not responsible for postage on returned items. In the event that you return a large quantity of items for which you have received assortable or quantity discount pricing, we reserve the right to recalculate your order total based on the actual items you kept. We are unable to accept returns of books and videos that have been opened.
-
 Fire Mountain Gems and Beads is serious about privacy. How do we do this? Fire Mountain Gems and Beads uses a secure server (up to 256-bit SSL encryption) to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
 
-Shop with Confidence - Know that your information is protected when you shop at Fire Mountain Gems and Beads. You can now easily identify when you are on a secure, privacy protected page--the address bar will turn green. With advanced technology by VeriSign, the web's most trusted security provider, you can shop confidently knowing your personal information and transactions are protected. Please note this look may vary depending on the web browser you are using. Some browsers will display a padlock image to identify a secure page.
+Shop with Confidence - Know that your information is protected when you shop at Fire Mountain Gems and Beads. You can now easily identify when you are on a secure, privacy protected page--the address bar will turn green. With advanced technology by DigiCert, the web's most trusted security provider, you can shop confidently knowing your personal information and transactions are protected. Please note this look may vary depending on the web browser you are using. Some browsers will display a padlock image to identify a secure page.
 
 How we use information   
 Our site uses an order form allowing you to request information, products and services. Contact information (email address, telephone number, address, etc.) is also used to get in touch with you when necessary. Financial information (credit card number, credit card expiration date, billing address, etc.) is only used to bill you for products and services purchased at Fire Mountain Gems and Beads.
@@ -47,3 +28,5 @@ The only pop-up messages on our web site are for help desk related issues, and t
 
 Et Cetera   
 We are not responsible for typographical errors. Prices are subject to change without prior notice. To assure customers of continued excellence in service, Fire Mountain trainers may occasionally record and monitor calls. We are a 100% direct marketing company and have no sales showroom. Any letters, photographs or products sent to Fire Mountain become our property unless specifically stated otherwise in writing. We reserve the right to publish any such materials. Jewelry or objects shown in photographs used to show pertinent features of a product are for illustrative use only.
+
+To assure the highest level of customer service and satisfaction, Fire Mountain Gems and Beads records all of our telephone calls.
