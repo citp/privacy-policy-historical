@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-ebook-reader.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133325id_/http%3A//www.the-ebook-reader.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-ebook-reader.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219020137id_/http%3A//www.the-ebook-reader.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for The-eBook-Reader.com
 
