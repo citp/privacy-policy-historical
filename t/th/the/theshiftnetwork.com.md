@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshiftnetwork.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627123804id_/http%3A//theshiftnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshiftnetwork.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219151735id_/http%3A//theshiftnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Shift Network
 
