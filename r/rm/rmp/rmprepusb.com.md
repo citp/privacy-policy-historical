@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmprepusb.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121091541id_/http%3A//www.rmprepusb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmprepusb.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219214125id_/http%3A//www.rmprepusb.com/privacy.html) for the most accurate reproduction.*
 
 # rmprepusb.com | Privacy Policy
 
