@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excite.eu privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414005931id_/http%3A//info.excite.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excite.eu privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220220007id_/http%3A//info.excite.co.uk/privacy) for the most accurate reproduction.*
 
 # Excite UK
 
@@ -52,8 +52,8 @@ Changing contact details
 
 You can update or amend your contact details at any time from within the Excite Portal. If you have any questions about the use of your personal data or if you wish to know how you can inspect or correct other personal data we may hold please contact us at: 
 
-Excite Online Publishing Ltd   
-11/12 Hogan Place   
+Pearch Digital Ltd   
+12 Merrion Square   
 Dublin, 2   
 Irland   
 Email: Please send your message through our feedback form 
