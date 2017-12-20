@@ -1,16 +1,19 @@
-> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611080551id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220161247id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
 
 # Win free prizes and competitions online | OfferX
 
 ###  Privacy Policy 
 
+Last updated: October 2017 
+
 1\. **Marketing Punch Ltd** (United Kingdom)(“we”,”us”) is the registered owner of these prize draw service websites and owns all rights, including the sites’ respective IP, copyrights and trademarks. We are registered with the ICO office (The Information Commissioner's Office in the United Kingdom) as a Data Controller and Data Processor under the Trading Name Marketing Punch Ltd, with Registration Number Z1503626. 
 
 2\. This privacy policy applies to the following websites owned and operated by us (collectively to be called “the sites”:   
 www.offerx.co.uk   
+www.offerx.co.uk/gettestkeep  
 www.adailyquiz.co.uk  
-www.selectyourholiday.co.uk  
-www.offerx.co.uk/gettestkeep
+www.yourfreebiestyle.co.uk  
+www.freecashpotlottery.co.uk 
 
 3\. We are committed to protecting the security of the data that you provide us with and we will seek to ensure that your personal data, along with your consent usage permissions are handled and maintained in a secure and data-protection compliant environment at all times. 
 
@@ -23,7 +26,7 @@ www.offerx.co.uk/gettestkeep
 
 **Collection and Use of Your Personal Information**
 
-7\. We collect personal information when you visit our websites. ‘Personal information’ or ‘personal data’ means the information you provide during the registration process and any information you provide when entering prize draws, quizzes, surveys or competitions. Registration is required to participate in any of the branded surveys on the site, however merely browsing does not require registration.  
+7.We collect personal information when you visit our websites. ‘Personal information’ or ‘personal data’ means the information you provide during the registration process and any information you provide when entering prize draws, quizzes, surveys or competitions. Registration is required to participate in any of the branded surveys on the site, however merely browsing does not require registration.  
 8\. We may collect the following information on you:  
 a. Your name  
 b. Your title  
@@ -49,8 +52,8 @@ g. Facilitate communication between yourself and others
 h. For analysis purposes or to build data products. In these instances, the information is aggregated and wherever possible anonymised in line with the Information Commissioner’s code of practice. Again, these products are of a marketing nature.
 
 10\. We may process your personal data ourselves or through data processors that will process data on our behalf (in which case we will remain responsible for ensuring the data processor complies with this policy and all current data protection regulations).  
-11\. Depending on the consents that you set up at the time of registration and what personal information we hold about you, we may pass your personal information to Site Sponsors, Brand Partners or Data Partners (collectively third parties”) who may contact you by post, email, mobile, SMS and MMS text message for direct marketing purposes.  
-12\. Email and SMS data will only be released to third parties where you have given your positive consent (usually at the time of registration) allowing you to fully understand your registration preferences.  
+11\. Depending on the consents that you set up at the time of registration and what personal information we hold about you, we may pass your personal information to Site Sponsors, Brand Partners or Data Partners (collectively third parties”) who may contact you by post, email and telephone for direct marketing purposes.  
+12\. Email and Telephone data will only be released to third parties where you have given your positive consent (usually at the time of registration) allowing you to fully understand your registration preferences.  
 13\. You can change or update your communication preferences at any time here <http://www.offerx.co.uk/communication-preferences-login>  
 14\. Telephone data will only be released to carefully selected partners where it has been TPS’d (see section 45 below). Note : if you request a call from one of our sponsors or brand partners this will override the TPS.
 
@@ -59,8 +62,9 @@ h. For analysis purposes or to build data products. In these instances, the info
 15\. Our business is to match your profile to third companies that will have goods or services that will be of interest to you. It makes sense for us to ensure that you only receive offers that are relevant to you and fit within the context of your lifestyle and available purchasing power. For example, if you have provided your car insurance renewal data and have consented for third parties to contact you about one month before your renewal date, we will work with third party brand partners to send you a car insurance quote tailored to your needs – thus saving you time researching the entire market.   
 16\. The data that we provide our third parties may be added to the information that they already hold about you. So a car insurance company will check whether you have been a customer of theirs before. This is to ensure that they provide the right types of products, services and pricing to you.   
 17\. When first contacting you, they always will seek your appropriate opt in and consent.   
-18\. Data sharing in this way allows them to contact you in their own name about their products, services, promotions, offers and competitions, and/or to update their records for fraud prevention, debt tracing and anti-money laundering purposes.  
-19\. Our Brand Partners  
+18\. Data sharing in this way allows them to contact you in their own name about their products, services, promotions, offers and competitions, and/or to update their records for fraud prevention, debt tracing and anti-money laundering purposes.   
+19\. We will share your data with the Marketing Services Providers listed below, who will use it to create products and services to help organisations better understand the likely characteristics of their customers; communicate with them more effectively; and find others like them across a range of marketing channels. This may mean that you receive advertising that is more relevant to you via direct mail or when you visit a website. To understood more please click through to the websites of the companies below;  
+Experian Ltd. <http://www.experian.co.uk/marketing-services/about/marketing-data.html>   
 20\. Our Brand Partners, both sponsors of the site and particular surveys, may wish to contact you based on your profile, but will only do so subject to your consent and preferences. They operate within the following industry sectors:  
 
 
@@ -77,11 +81,11 @@ Retail  |  • Online retail
 • Home furnishings   
 • Home improvement   
 • Fashion and clothing   
-• Telecoms and utilities   
+• Telecoms and utilities (including Scottish Power)   
 Finance  |  • Pensions   
 • Loans, credit cards and mortgages   
 • Investments & savings   
-• Claims Companies (Including but not limited to LFS Claims)   
+• Claims Companies (Including but not limited to LFS Claims, Goldhill Limited, One-Stop-Law Ltd and Crystal Prospects Ltd)   
 Gambling  |  • Online Betting   
 • Online Casino   
 • Online Poker   
@@ -108,7 +112,6 @@ Lifestyle  |  • Health & Well-being (including but not limited to Optical Expr
 • Legal Services  
 • Educational institutions  
 • Compensation, Legal Services and Personal Injury   
-• Injury Compensation Services   
   
   
 **You are in Control**
@@ -117,7 +120,7 @@ Lifestyle  |  • Health & Well-being (including but not limited to Optical Expr
 • whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by third parties for direct marketing purposes;  
 • if you have previously agreed to us or others using your personal information for direct marketing purposes, you may change your mind at any time by going to the Preferences section of the website <http://www.offerx.co.uk/communication-preferences-login> or emailing our Data Protection Officer at datacompliance@marketingpunch.co.uk 
 
-**Branded Surveys on the Site**
+**Your Information and our Data Partners**
 
 22\. Your 'Registration Details' (and other details depending on which activities you chose to participate in on the Site) will be shared, by way of either single or multiple use data licences, with selected Data Partners who may then contact you by email, text message, telephone or post depending on the consents that you supplied us at the time of registration or subsequently.  
 23\. We usually only permit Data Partners to use these details to contact you for a pre-specified limited period And they, like us, are obliged to comply with all relevant data protection requirements regarding their holding and use of these details including screening (according to the method used to contact you) against the Telephone Preference Service (TPS) and Mailing Preference Service (MPS) prior to use. Your IP address (see 'Cookies' section 49-52 for more details) will not be shared with our Data Partners unless you participate in their Branded Survey (see below).  
@@ -145,21 +148,25 @@ All prize draws on the Site will be clearly marked as either being sponsored by 
 **Opting In / Opting Out**
 
 34\. We believe that you should be in control of the use of your data, that is why at all stages we offer you the option of Opting In or Out of receiving marketing communications from ourselves and our various partners.   
-35\. At registration stage: “I agree that [Site] registration page sponsors – listed here – may contact me with more interesting offers by post, email, telephone and SMS. I have agreed that third parties in the retail, personal finance, insurance, travel or lifestyle sectors may contact me by the following methods: post, telephone, email and/or SMS. I may opt-out of these messages below or at any time.””   
-36\. By ticking the opt-in box, you agree to our Terms and Conditions http://www.offerx.co.uk/documents/terms-and-conditions You acknowledge that you have read the [Site] Privacy Policy. You agree to receive information by post, telephone, email and/or SMS, and through social media platforms from [Site] and third parties in the Retail, Finance, Insurance, Travel or Lifestyle sectors in accordance with the [Site] Privacy Policy and Data Categories List. Your personal data may be made available for anti-fraud and tracing purposes.   
-37\. Every time you visit the website, use the service or provide us with information, you are accepting the policies, terms and conditions and practices described in the Privacy Policy at that time.   
-38\. You may change your preferences at any time via the **“How to Unsubscribe”** pages once you are registered.   
-39\. Third-party providers are able to send you communications via email, post, SMS or telephone only until such time as you exercise your right to opt out of receiving such communications. However please be aware that marketing campaigns are often planned well in advance, so your changes will be accepted immediately, but may not be effective immediately.  
-40\. In addition, Website Sponsors have their own privacy policies and some have their own opt-in statements. It is strongly recommended that you read and understand this information.   
+35\. 35. At registration stage you have the option to: “Agree to receive offers and updates by email, telephone and post from selected third party companies which we believe will be of interest. These companies are within these sectors - Retail, Finance,Insurance, Travel, Gambling or Lifestyle in accordance with the [Privacy Policy](http://www.offerx.co.uk/documents/privacy) and [Data Categories List](http://www.offerx.co.uk/documents/privacy#data-collection-notice) . Click the sectors to view the companies.  
+You can also unsubscribe in one click from these emails if they are not of interest.”  
+and  
+“I agree that OfferX registration page sponsors – Listed here – may contact me with more interesting offers by post, email, telephone and SMS. To enter without receiving offers click here”  
+These opt-ins are optional and only when you put a tick in the box will you consent to receive additional marketing communication. 
 
+36\. By selecting 100% Free register box “By registering and entering you agree to the terms and conditions of the [privacy statement](http://www.offerx.co.uk/documents/privacy) that govern how your information will be processed. You also consent to Marketing Punch owned sites www.offerx.co.uk, www.offerx.co.uk/gettestkeep, www.adailyquiz.co.uk, www.yourfreebiestyle.co.uk, www.freecashpotlottery.co.uk sending you emails updating you on offers and prizes. Our brand partners who run surveys on our sites, may wish to contact you by telephone, email, post and SMS subject to your opt-in and consent.”   
+37\. You may change your preferences at any time via the “How to Unsubscribe” pages once you are registered.   
+38\. Third-party providers are able to send you communications via email, post or telephone only until such time as you exercise your right to opt out of receiving such communications. However please be aware that marketing campaigns are often planned well in advance, so your changes will be accepted immediately, but may not be effective immediately.   
+39\. In addition, Website Sponsors have their own privacy policies and some have their own opt-in statements. It is strongly recommended that you read and understand this information. 
 
 **Opting Out – Additional Information**
 
-41\. You can unsubscribe or opt out from any communications from our scheme or any third-party brand at any time as indicated above, but you may also wish to consider the following for a more general Opt-Out. 
+40\. You can unsubscribe or opt out from any communications from our scheme or any third-party brand at any time as indicated above, but you may also wish to consider the following for a more general Opt-Out.   
+
 
 * **Opting Out – Postal Contact**
 
-You can withdraw your consent for postal marketing from anyone by adding your details to the Mail Preference Service. For more details please go to [www.mpsonline.org.uk](https://web.archive.org/web/20170611080551id_/http%3A//www.offerx.co.uk/documents/www.mpsonline.org.uk)
+You can withdraw your consent for postal marketing from anyone by adding your details to the Mail Preference Service. For more details please go to [www.mpsonline.org.uk](https://web.archive.org/web/20171220161247id_/http%3A//www.offerx.co.uk/documents/www.mpsonline.org.uk)
 
 *  **Opting Out – E-mail or SMS (text message) Contact**
 
@@ -175,11 +182,11 @@ You can configure your advertising preferences on social media such as Facebook,
 
 **Data Safety Outside the European Union**
 
-42\. You should be aware that some external data processors may be based outside the European Union, whose laws provide a different standard of protection than that provided under English law. We will not release your data to a non-EU country processor without performing proper due diligence as to the standards of data protection within the specified country and proof of compliance with the standards of the UK Data Protection Act 1998 and other relevant legislation. Such requirements will be part of a formal and legally binding Data Processing agreement.
+41\. You should be aware that some external data processors may be based outside the European Union, whose laws provide a different standard of protection than that provided under English law. We will not release your data to a non-EU country processor without performing proper due diligence as to the standards of data protection within the specified country and proof of compliance with the standards of the UK Data Protection Act 1998 and other relevant legislation. Such requirements will be part of a formal and legally binding Data Processing agreement.
 
 **Security and Storage of Your Personal Information**
 
-43\. We store all data collected in an encrypted environment and only for as long as is necessary However, despite our best efforts the Internet is not 100% secure and we cannot guarantee the security of any information you send to us via the Internet. We will not be responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
+42\. We store all data collected in an encrypted environment and only for as long as is necessary However, despite our best efforts the Internet is not 100% secure and we cannot guarantee the security of any information you send to us via the Internet. We will not be responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
 
 **Your Choices/Options in Relation to Personal Data**
 
@@ -197,10 +204,10 @@ h. opt out of any further contact by us or selected brand partners or sponsors
 
 **IP Address / Cookies**
 
-45\. We automatically collect your IP address and record the web page from which you originated if you are using the service’s website.   
-46\. Cookies are used to increase your security, not infringe on your privacy. Cookies are needed to monitor, facilitate, administer and optimise the website and service for users and to earmark any possible technical issues that may arise within the website or the service. We may use your IP address to help identify you, tend to any difficulties and to gather demographic and profile information. We also use the ‘cookies’ to collect information about your online activity on our website, such as the web pages you visit, the links you click, and the searches you conduct on our website.   
-47\. Most browsers automatically accept cookies, but you can modify your web browser setting to decline cookies. If you choose to do this, you may not be able to avail yourself of some or all of the functionalities that the website or the service may offer.   
-48\. The type of cookies that we use on our sites are:  
+44\. We automatically collect your IP address and record the web page from which you originated if you are using the service’s website.   
+45\. Cookies are used to increase your security, not infringe on your privacy. Cookies are needed to monitor, facilitate, administer and optimise the website and service for users and to earmark any possible technical issues that may arise within the website or the service. We may use your IP address to help identify you, tend to any difficulties and to gather demographic and profile information. We also use the ‘cookies’ to collect information about your online activity on our website, such as the web pages you visit, the links you click, and the searches you conduct on our website.   
+46\. Most browsers automatically accept cookies, but you can modify your web browser setting to decline cookies. If you choose to do this, you may not be able to avail yourself of some or all of the functionalities that the website or the service may offer.   
+47\. The type of cookies that we use on our sites are:  
 
 
 Cookie  |  Name  |  Purpose   
@@ -238,8 +245,8 @@ These cookies are essential for the operation of the OfferX website.
   
 **Access to your personal information**
 
-49\. You may request details of the personal information which we hold about you under the Data Protection Act 1998. A small fee of £10 will be payable. If you would like a copy of the information held on you please write to us at the address below, enclsing a cheque payable to Marketing Punch Ltd.  
-50\. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at address below. We will promptly endeavour to correct any information found to be incorrect.  
+48\. You may request details of the personal information which we hold about you under the Data Protection Act 1998. A small fee of £10 will be payable. If you would like a copy of the information held on you please write to us at the address below, enclosing a cheque payable to Marketing Punch Ltd.  
+49\. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at address below. We will promptly endeavour to correct any information found to be incorrect.  
 51\. If you have questions regarding this Privacy Policy, please contact us by following: Email - datacompliance@marketingpunch.co.uk or by post:
 
 **Marketing Punch Ltd,  
@@ -251,25 +258,17 @@ Tel: 01453 707400
 
 **Changes to this Policy**
 
-52\. We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 4th May 2017 and will be revised as needed to fully comply with updated technologies and legislation. 
+51\. We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 4th May 2017 and will be revised as needed to fully comply with updated technologies and legislation. 
 
 ###  Today's Daily Prize
 
 The next prize will be won in: 
 
-####  Win an iPod Alarm Clock 
+####  Win £30 Amazon vouchers 
 
 [ Enter Prize Draw](https://web.archive.org/daily-prize)
 
 ###  Free Prize Draws
-
-#### Money Prize Draws
-
-##### Win £300 worth of vouchers
-
-We know that every little helps which is why we're giving you the chance to win &pound;300 worth of shopping vouchers to spend. 
-
-[Enter Prize Draw](https://web.archive.org/in/registration/300-supermarket-vouchers)
 
 #### Motor & Travel Prize Draws
 
@@ -279,18 +278,26 @@ Are you dreaming of a holiday of a lifetime?
 
 [Enter Prize Draw](https://web.archive.org/in/registration/holiday-of-a-lifetime)
 
+#### Home & Lifestyle Prize Draws
+
+##### Win £500 to spend at River Island
+
+Treat yourself to a brand wardrobe with &pound;500. 
+
+[Enter Prize Draw](https://web.archive.org/in/registration/500-to-spend-at-river-island)
+
 #### Money Prize Draws
 
-##### Win £250 of Amazon Vouchers
+##### Win £300 worth of vouchers
 
-We&rsquo;ve all heard of Amazon - the leading international online retailer with a vast range of products available &ndash; in fact, almost everything you could possibly think of! 
+We know that every little helps which is why we're giving you the chance to win &pound;300 worth of shopping vouchers to spend. 
 
-[Enter Prize Draw](https://web.archive.org/in/registration/250-worth-of-amazon-vouchers)
+[Enter Prize Draw](https://web.archive.org/in/registration/300-supermarket-vouchers)
 
 #### Electronic & Gadgets Prize Draws
 
-##### Win GoPro Camera + accessories bundle
+##### Win a £200 GHD Bundle
 
-How would you like to win a GoPro Session Camera plus a bundle of accessories? 
+<span style="font-family: verdana, arial, helvetica, sans-serif;">Bag yourself some GHDs for a guaranteed Good Hair Day! 
 
-[Enter Prize Draw](https://web.archive.org/in/registration/gopro-camera--accessories-bundle)
+[Enter Prize Draw](https://web.archive.org/in/registration/200-ghd-bundle)
