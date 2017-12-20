@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatapps.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613184202id_/http%3A//greatapps.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatapps.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220195618id_/http%3A//greatapps.com/privacy_policy) for the most accurate reproduction.*
 
-# GreatApps.com | Great Apps | Market your app
+# GreatApps.com for App Marketing and App Reviews
 
 Thank you for visiting the GreatApps.com Web site (hereinafter “the Site” or “GreatApps.com”) and reviewing our Privacy Policy, effective October 4, 2011. We take your privacy very seriously and are committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you use GreatApps.com. 
 
