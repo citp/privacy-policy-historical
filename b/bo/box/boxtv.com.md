@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxtv.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054154id_/http%3A//www.boxtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxtv.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220083831id_/http%3A//www.boxtv.com/privacy-policy) for the most accurate reproduction.*
 
 # BoxTV - Privacy Policy
 
