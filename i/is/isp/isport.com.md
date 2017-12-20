@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isport.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628221624id_/http%3A//www.isport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isport.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220045904id_/http%3A//www.isport.com/privacy) for the most accurate reproduction.*
 
 # Privacy | iSport.com
 
@@ -16,7 +16,7 @@ You can also disable or delete similar data used by browser add-ons, such as Fla
 
 We use Google Analytics, a third-party tracking service that uses cookies to track non-personally identifiable information about our visitors. This is done in order to capture statistics on collective usage and volume. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to, or control over, these cookies. This privacy statement covers the use of cookies by [iSport.com](http://www.isport.com/) only and does not cover the use of cookies by any third-party service. 
 
-When you use the Site, you may set up a personal profile, form relationships, send messages, perform searches and queries, and transmit information through various channels. The Site may also collect information about you from other sources — such as blogs and instant-messaging services — as well as other users of the Site. We will list you in our publicly accessible member directory. If you do not want to be listed in our directory, contact us at [customerservice@isport.com](mailto:customerservice@isport.com). 
+When you use the Site, you may set up a personal profile, form relationships, send messages, perform searches and queries, and transmit information through various channels. The Site may also collect information about you from other sources — such as blogs and instant-messaging services — as well as other users of the Site. We will list you in our publicly accessible member directory. If you do not want to be listed in our directory, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f794828483989a9285849285819e9492b79e8487988583d994989a). 
 
 As more fully stated in the “Terms of Use” page, you submit content to the Site at your own risk. Please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you may choose to share your information. Therefore, we cannot and do not guarantee: (1) that the content you post on the Site will not be viewed by unauthorized persons; or (2) that those who view your content (whether authorized or not) will not misuse it. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of your content may remain viewable in cached and archived pages, or if other users have copied or stored your content. 
 
@@ -55,7 +55,7 @@ Furthermore, in certain situations described below, we will provide your persona
   * We may provide information to service providers to help us bring you the services we offer. For example, we may use third parties to host the Site, to send out email updates about the Site, to send you targeted advertising, or to remove repetitive information from our user lists. In connection with these offerings and business operations, our service providers may have access to your personal information for use in connection with these business activities. 
   * We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. Additionally, we may share account or other information when we believe it is necessary to comply with law, protect our interests or property, or prevent fraud or other illegal activity perpetrated through the Site or using our name. This may include sharing information with other companies, lawyers, or government agencies. 
   * We may offer products or services jointly with other companies and individuals using the Site. (Collectively, these may be referred to as the “Third-Party Providers.”) You understand and agree that if you use the Site to connect with a Third-Party Provider, we may share your information with the applicable Third-Party Provider to facilitate your transaction. 
-  * When you ask us to invite a friend to join iSport, we will send your friend a message on your behalf using your name. If you choose to use our referral service (called “Invite Friends” on the Site), we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. iSport stores this information for the purposes of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [customerservice@isport.com](mailto:customerservice@isport.com) to request that we remove this information from our database. 
+  * When you ask us to invite a friend to join iSport, we will send your friend a message on your behalf using your name. If you choose to use our referral service (called “Invite Friends” on the Site), we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. iSport stores this information for the purposes of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b8dbcdcbccd7d5ddcacbddcaced1dbddf8d1cbc8d7cacc96dbd7d5) to request that we remove this information from our database. 
 
 
 
@@ -77,7 +77,7 @@ You can review and modify most of your personal information at any time by acces
 
 ## Security
 
-The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and in storage of your data. However, no method of transmission over the Internet or method of electronic storage is 100-percent secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [customerservice@isport.com](mailto:customerservice@isport.com). 
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and in storage of your data. However, no method of transmission over the Internet or method of electronic storage is 100-percent secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [cus[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bfdccacccbd0d2dacdccdacdc9d6dcdaffd6cccfd0cdcb91dcd0d2). 
 
 ## Children Ages 13 through 17
 
@@ -85,7 +85,7 @@ Minors age 13 or older can use the Site only in conjunction with, and under the 
 
 ## Children under Age 13
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under age 13, please do not use this Site or send any information about yourself to us. This information includes your name, address, telephone number, or email address. In the event that we learn of collected personal information from a person under the age of 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a person under the age of 13, please contact us at [customerservice@isport.com](mailto:customerservice@isport.com). 
+We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under age 13, please do not use this Site or send any information about yourself to us. This information includes your name, address, telephone number, or email address. In the event that we learn of collected personal information from a person under the age of 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a person under the age of 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cdaeb8beb9a2a0a8bfbea8bfbba4aea88da4bebda2bfb9e3aea2a0). 
 
 ## Terms of Use, Notices and Revisions
 
@@ -93,7 +93,7 @@ Your use of the Site, and any disputes arising from it, is subject to this Priva
 
 ## Contacting the Site
 
-If you have any questions about this privacy policy, please contact us at [customerservice@isport.com](mailto:customerservice@isport.com) or by post mail: 
+If you have any questions about this privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#593a2c2a2d36343c2b2a3c2b2f303a3c19302a29362b2d773a3634) or by post mail: 
 
 iSport Customer Service
 
