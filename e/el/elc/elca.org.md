@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elca.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629231223id_/http%3A//www.elca.org/About/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elca.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220045739id_/http%3A//www.elca.org/About/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Evangelical Lutheran Church in America
 
