@@ -1,19 +1,12 @@
-> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074036id_/http%3A//uk.legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220153114id_/http%3A//uk.legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  * [Terms & Conditions](http://uk.legal.trustpilot.com/end-user-terms-and-conditions)
-  * [ PRIVACY POLICY (VERSION 6.0, FEBRUARY 2017)](http://uk.legal.trustpilot.com/end-user-privacy-terms)
-
-
 
 In this document, "Trustpilot", "we" "us" and "our" refer to Trustpilot A/S located at Pilestraede 58, 5th floor, 1112 Copenhagen, Denmark and its affiliates.
 
 When you write a review on Trustpilot or otherwise use our websites, including but not limited to [www.trustpilot.co.uk](http://www.trustpilot.co.uk/), or our applications (collectively referred to as the "Website"), you **accept** the processing of your personal data (the "Policy") as described in this Policy.
 
 We recommend that you **print** and **keep** this Policy.
-
-Close and return
 
 ### 1  Types of information we collect and what we use it for
 
@@ -36,7 +29,7 @@ We display your username (and other information you add to your profile) in conn
 When you write a review of a company on our Website, we also collect the information you include in your review, such as:
 
   * Which company you review,
-  * The type of buying or service experience the review concerns (see the definition of "Service Experience" in our [User Guidelines](http://uk.legal.trustpilot.com/user-guidelines)),
+  * The type of buying or service experience the review concerns (see the definition of "Service Experience" in our User Guidelines),
   * Your evaluation of your Service Experience with the company, e.g. the star rating you provide,
   * The date of your review and, if you update your review, the date on which it is edited,
   * A reference number or order ID (if you or the company provides one), and
@@ -91,7 +84,7 @@ We may use the information you provide to us to:
   * Facilitate our social sharing function, including giving you the option to connect members of your network who are both users of Trustpilot and users of one or more Social Networks.
   * Engage in various internal business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products and services, improving or modifying the Website or our services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
   * Comply with applicable legal requirements and legal process, requests from public and governmental authorities, relevant industry standards and our internal policies.
-  * Enforce our [Terms & Conditions](http://uk.legal.trustpilot.com/end-user-terms-and-conditions).
+  * Enforce our Terms & Conditions.
   * Protect our operations or those of any of our affiliates.
   * Protect our rights, privacy, safety or property and/or that of our affiliates, you or others.
   * Allow us to pursue available remedies or limit any damages that we may sustain.
@@ -169,7 +162,7 @@ In addition to the above, we may disclose your personal information to the follo
   * To Trustpilot subsidiaries and other companies within the Trustpilot group of companies.
   * To comply with laws or to respond to claims, legal process (including but not limited to subpoenas and court orders) and requests from public and government authorities.
   * To cooperate with regulatory bodies and government authorities, including but not limited to Trading Standards, The Competition and Markets Authority, and the Danish Consumer Ombudsman, in connection with investigations or case referrals.  
-  * To third parties in connection with enforcement of our [Terms & Conditions](http://uk.legal.trustpilot.com/end-user-terms-and-conditions).
+  * To third parties in connection with enforcement of our Terms & Conditions.
   * To third parties in order for us to protect our operations or those of our affiliates.
   * To third parties in order for us to pursue available remedies, or limit damages that we may sustain.
   * To third parties in order for us to investigate, prevent or take action regarding suspected or actual prohibited activities, including but not limited to fraud and misuse of our Website.
@@ -306,5 +299,3 @@ We may change this Policy at any time. The date shown at the start of this Polic
 ### 10  Enquiries regarding the Website or the Policy
 
 If you have questions or concerns about our Policy, how we process your personal information, or would like us to correct your personal information, please contact us at: Trustpilot A/S, Pilestraede 58, 5th floor, 1112 Copenhagen, Denmark, CVR no.: 30276582, telephone: +45 8877 7600, email: [compliance@trustpilot.com](mailto:compliance@trustpilot.com). 
-
-Close and return
