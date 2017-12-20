@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qeon.co.id privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616125626id_/http%3A//qeon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qeon.co.id privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220053835id_/http%3A//qeon.com/privacy) for the most accurate reproduction.*
 
 # Qeon Interactive | Giving The Best Gaming Experience for Indonesian Gamer
 
