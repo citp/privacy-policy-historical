@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehow.co.uk privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618021921id_/http%3A//www.ehow.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.co.uk privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220191429id_/https%3A//www.ehow.co.uk/privacy.html) for the most accurate reproduction.*
 
 # eHow | How to Videos, Articles, & More - Discover the expert in you. | eHow UK
 
