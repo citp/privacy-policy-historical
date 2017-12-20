@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faim.org privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618010842id_/http%3A//www.faim.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faim.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220011011id_/http%3A//www.faim.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Foundation for Alternative and Integrative Medicine
 
@@ -26,4 +26,4 @@ The Foundation for Alternative and Integrative Medicine
 PO Box 2860  
 Loveland, CO 80539
 
-Still have questions? [Contact us](http://www.nfam.org/contact).
+Still have questions? [Contact us](http://www.faim.org/contact).
