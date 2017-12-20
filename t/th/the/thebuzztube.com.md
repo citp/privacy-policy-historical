@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the thebuzztube.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623075124id_/http%3A//www.thebuzztube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebuzztube.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220015746id_/http%3A//www.thebuzztube.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Website Privacy Policy
 
-Adspire LLC
+Dalia International OOD
 
-11174 Susita Ct,  
-San Diego, CA, 92129
+14 Benkovski Street  
+Sofia, Region Oborishte, 1000
 
 [info@thebuzztube.com](mailto:info@thebuzztube.com)  
 The last update to our Privacy Policy was posted on June 5, 2016. This document governs the privacy policy of our Website, [www.thebuzztube.com](http://www.thebuzztube.com/) – Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.
@@ -18,7 +18,7 @@ The last update to our Privacy Policy was posted on June 5, 2016. This document 
 
 ### Our Commitment to Your Privacy
 
-Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII. Adspire LLC and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.
+Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII. Dalia International and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.
 
 ### Links to Other Websites
 
