@@ -1,31 +1,31 @@
-> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205121028id_/http%3A//www.quickheal.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220120302id_/http%3A//www.quickheal.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-The following statement discloses Quick Heal Technologies Ltd. (Formerly Known as Quick Heal Technologies Pvt. Ltd.) privacy policies for its web site. We do update our policy periodically without notice so please check occasionally for any changes.
+The following statement discloses Quick Heal Technologies Ltd. (Formerly Known as Quick Heal Technologies Pvt. Ltd.) privacy policies for its website or products. We update our policy periodically without any notice; kindly visit this page occasionally to stay informed about any changes in these policies.
 
 What information we gather
 
-We at Quick Heal Technologies Ltd. respect your desire to protect personal information. This page reveals what sort of information we may ask you for, and in what situations.
+We at Quick Heal Technologies Ltd. respect your desire to protect your personal information. This page reveals what sort of information we may ask you for and in what situations.
 
-We request personal information when you place an order, register a product, request a service, request for a trial copy of our software, correspond with us or engage in certain other activities on our website. For example:
+We request your personal information when you place an order, register a product, request a service, request for a trial copy of our software, correspond with us or engage in certain other activities with respect to our website or products. Following are some examples:
 
-  * If you submit an order on-line with us, you will be asked for information needed to complete the transaction, such as your name, address, and credit card number.
-  * If you request technical support by email or telephone, we will ask you for information needed to complete the transaction, such as your registration/ license number and information about your computer hardware, software and the nature of the problem you are experiencing.
+  * If you submit an order online with us, you will be asked for information needed to complete the transaction such as your name, address, and credit card number.
+  * If you request technical support by email or telephone, we will ask you for information needed to complete the transaction such as your registration/ license number and information about your computer hardware, software and the nature of the problem you are experiencing.
 
 
 
-It is your decisions whether to proceed with any activity that requests personal information. However, please note that if you do not wish to provide the requested information, you may not be able to complete the specific process.
+It is your decision to proceed with any activity that requests your personal information. However, please note that if you do not wish to provide the requested information, you may not be able to complete the specific process.
 
 How we use this information
 
-We use personal information in the following ways:
+We use your personal information:
 
-  * To assist us in creating better products and services to meet your needs.
-  * To allow you to purchase and download products, obtain access to services or otherwise engage in activities you select.
-  * To provide better/adequate/fast support over Telephone/E-mail/Fax etc.
+  * To create better products and services to meet your needs.
+  * To help you purchase and download products, obtain access to services or otherwise engage in activities you select.
+  * To provide better/adequate/fast support over the telephone, email, fax, etc.
 
 
 
@@ -33,17 +33,17 @@ Please be advised that we may disclose your personal information if legally requ
 
 Security
 
-We have taken security measures, consistent with international information practices, to protect your personal information. These measures include technical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction. Credit card information is transmitted using secure socket layer (SSL) encryption.
+We have taken security measures, consistent with international information practices, to protect your personal information. These measures include technical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration or destruction. Credit card information is transmitted using secure socket layer (SSL) encryption.
 
-The personal information that you have provided to us may be transferred to other Quick Heal Technologies’s offices around the world. Also, in certain countries our outside contractors might undertake the collection, transferring, storage and processing of your information.
+The personal information that you have shared with us may be transferred to other offices of Quick Heal Technologies Ltd. around the world. Also, in certain countries our outside contractors might undertake the collection, transferring, storage and processing of your information.
 
 Statistical information
 
-We may track domain names, IP addresses, and browser types from people who visit our site. We use this information to produce traffic statistics for the Quick Heal Technologies Ltd. sites. Such information is not co-related with any personal information.
+We may track domain names, IP addresses, and browser types from users who visit our site. We use this information to produce traffic statistics for the websites of Quick Heal Technologies Ltd. Such information is not corelated with any personal information.
 
 Privacy policy of other companies
 
-The Quick Heal Technologies Ltd. sites contain links to site of companies with whom we have a relationship. Quick Heal Technologies Ltd. is not responsible for the privacy practices of its business partners. We encourage you to read their privacy statements, as they may differ from ours.
+Websites of Quick Heal Technologies Ltd. contain links to websites of companies with whom we have a relationship. Quick Heal Technologies Ltd. is not responsible for the privacy practices of its business partners. We encourage you to read their privacy statements as they may differ from ours.
 
 Contact information
 
