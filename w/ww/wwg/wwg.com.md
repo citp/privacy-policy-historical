@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the wwg.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030643id_/http%3A//wwg.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwg.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220111013id_/http%3A//comicbook.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-## Last modified: 5/23/2014
+## Last modified: 5/2/2017
 
 ### Introduction
 
-Comicbook.com, LLC (the "Company" or "We") respects your privacy and is committed to protecting it through our compliance with this policy.
+Comicbook.com, LLC dba Pop Culture Media (the "Company" or "We") respects your privacy and is committed to protecting it through our compliance with this policy.
 
-This policy describes the types of information we may collect through the websites, services and applications we make available to you, including Comicbook.com (the "Website"), and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect through the websites, services and applications we make available to you, including Comicbook.com, or PopCulture.com (the "Website"), and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -37,9 +37,9 @@ We do use persistent identifiers to monitor Website traffic and usage patterns i
 
 Parents can review or have deleted their child's Personal Information and refuse to permit further collection or use of their child's information. If you believe we might have any information from or about a child under 13 and/or wish to exercise the rights of parents described in the previous sentence, please contact us at:
 
-Comicbook.com, LLC
+Comicbook.com, LLC dba Pop Culture Media
 
-12 Cadillac Drive, Suite 230
+6 Cadillac Drive, Suite 280
 
 Brentwood, TN 37027
 
@@ -130,7 +130,7 @@ We may disclose Personal Information that we collect or you provide as described
 
 
 
-For the purposes here of, "Preferred ContentProviders" are as follow: CBS Sports, Inc. (dba [CBSSports.com](http://cbssports.com/)), CBT Sports, LLC ([247Sports](http://247sports.com/)), and Facebook [(Facebook)](http://facebook.com/)
+For the purposes here of, "Preferred ContentProviders" are as follow: ComicBook.com, PopCulture.com, and Facebook [(Facebook)](http://facebook.com/)
 
 We may also disclose your Personal Information:
 
@@ -153,7 +153,7 @@ We strive to provide you with choices regarding the Personal Information you pro
 
 
 
-We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
+We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. The NAI offers the ability for you to opt-out of the behavioral advertising programs of their members by going to http://www.networkadvertising.org/choices/ or http://www.aboutads.info/choices/.
 
 Accessing and Correcting Your Information
 
