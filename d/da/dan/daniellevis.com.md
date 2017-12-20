@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the daniellevis.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051822id_/http%3A//www.daniellevis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daniellevis.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220120305id_/http%3A//www.daniellevis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Info-Marketer's Blog | Info-Marketer's Blog
-
-## Privacy Policy
+# Privacy Policy - The EMAIL ALCHEMIST
 
 PRIVACY POLICY  
 Effective Date: July 1, 2016
