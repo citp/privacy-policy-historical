@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackerone.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227230220id_/https%3A//www.hackerone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackerone.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220083337id_/https%3A//www.hackerone.com/privacy) for the most accurate reproduction.*
 
 # HackerOne Privacy Policy - HackerOne
 
@@ -8,7 +8,7 @@ HackerOne strives to be a safe and transparent environment its users.
 
 We want to make sure you, as a Customer or Finder, understand what information we collect from you and why. We also want you to know about our information use practices so that you can make good decisions about how you use HackerOne. This Privacy Policy explains what information we collect from and about you (collectively, "Your Information") and what we do with it.
 
-Please read this Privacy Policy carefully. Remember that your use of our Services and all interactions you have with the HackerOne website are subject to the General Terms and Conditions located at [https://www.hackerone.com/terms/general](https://web.archive.org/terms/general), which incorporates this Privacy Policy. This Privacy Policy covers our treatment of Your Information, but does not apply to the practices of companies we don't own or control, or people that we don't manage. If you have concerns about our data collection and use practices, as explained below, please do not use HackerOne. 
+Please read this Privacy Policy carefully. Remember that your use of our Services and all interactions you have with the HackerOne website are subject to the General Terms and Conditions located at [https://www.hackerone.com/terms/general](https://web.archive.org/terms/general), which incorporates this Privacy Policy. This Privacy Policy covers our treatment of Your Information, but does not apply to the practices of companies we don't own or control, or people that we don't manage. If you have concerns about our data collection and use practices, as explained below, please do not use HackerOne.
 
 Some capitalized terms used in this Privacy Policy are defined in the General Terms and Conditions.
 
@@ -42,9 +42,9 @@ We retain access logs for 180 days, and then delete them.
 
 When you log in to your account, HackerOne will place a cookie for the purpose of creating the session and knowing when you're logged in. The cookie contains an encrypted user identifier.
 
-HackerOne sometimes partners with third-party services which may use various tracking technologies to provide certain services or features, including targeted online marketing. These technologies allow a partner to recognize your computer or mobile device each time you visit HackerOne, but do not allow access to Your Information from HackerOne. For a list of current partners, please contact us at [support@hackerone.com](mailto:support@hackerone.com). 
+HackerOne sometimes partners with third-party services which may use various tracking technologies to provide certain services or features, including targeted online marketing. These technologies allow a partner to recognize your computer or mobile device each time you visit HackerOne, but do not allow access to Your Information from HackerOne. For a list of current partners, please contact us at [support@hackerone.com](mailto:support@hackerone.com).
 
-Most browsers include an option to clear existing cookies or reject new ones. If you prefer not to use any cookies, you can also opt out in some browsers by turning on "Do Not Track" or visit <https://www.aboutads.info/choices> to opt out directly. However, if you reject new cookies, portions of HackerOne will not function as intended. We currently do not support Do Not Track browser settings. 
+Most browsers include an option to clear existing cookies or reject new ones. If you prefer not to use any cookies, you can also opt out in some browsers by turning on "Do Not Track" or visit <https://www.aboutads.info/choices> to opt out directly. However, if you reject new cookies, portions of HackerOne will not function as intended. We currently do not support Do Not Track browser settings.
 
 ## 2\. How We Use or Disclose Your Information
 
@@ -82,12 +82,12 @@ Your Information may be transferred to, and maintained on, computers located out
 
 ## 7\. User's California Privacy Rights
 
-If you are a California resident, you may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed your Information for direct marketing purposes during the preceding calendar year and the categories of Your Information shared with those third parties. If you are a California resident and wish to obtain that information, please submit a request by sending us an email at [privacy@hackerone.com](mailto:privacy@hackerone.com) with "California Privacy Rights" in the subject line or by writing to us at HackerOne, 535 Mission St., Suite 1416, San Francisco, CA 94105. 
+If you are a California resident, you may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed your Information for direct marketing purposes during the preceding calendar year and the categories of Your Information shared with those third parties. If you are a California resident and wish to obtain that information, please submit a request by sending us an email at [privacy@hackerone.com](mailto:privacy@hackerone.com) with "California Privacy Rights" in the subject line or by writing to us at HackerOne, 300 Montgomery Street, Suite 1200 San Francisco, CA 94104.
 
 ## 8\. Changes to This Privacy Policy
 
-We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of your information and will always be at [https://www.hackerone.com/privacy](https://web.archive.org/privacy). If we make changes that we believe will substantially alter your rights, we will prominently display a notice on our site 7 days before we make those changes. 
+We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of your information and will always be at [https://www.hackerone.com/privacy](https://web.archive.org/privacy). If we make changes that we believe will substantially alter your rights, we will prominently display a notice on our site 7 days before we make those changes.
 
 ## Contact
 
-HackerOne welcomes questions, concerns, and feedback about this Privacy Policy. If you have suggestions for us, feel free to let us know at [support@hackerone.com](mailto:support@hackerone.com). 
+HackerOne welcomes questions, concerns, and feedback about this Privacy Policy. If you have suggestions for us, feel free to let us know at [support@hackerone.com](mailto:support@hackerone.com).
