@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathlegal.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172822id_/http%3A//www.pathlegal.in/docs/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathlegal.in privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220113114id_/http%3A//www.pathlegal.in/docs/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # PathLegal India /docs/PrivacyPolicy.php
 
@@ -42,11 +42,11 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 **Controlling your personal information** You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at pathlegal@gmail.com 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.   
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the given address. We will promptly correct any information found to be incorrect. 
 
-Questions regarding this privacy policy can be sent to pathlegal@gmail.com
+Questions regarding this privacy policy can be sent to [email protected]
