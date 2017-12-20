@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerpoetry.org privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618032637id_/http%3A//www.powerpoetry.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerpoetry.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220025947id_/http%3A//powerpoetry.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Power Poetry
 
