@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the accele-rate.pro privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629195915id_/https%3A//www.cloudflare.com/security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accele-rate.pro privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220231453id_/https%3A//www.cloudflare.com/security-policy) for the most accurate reproduction.*
 
 # Security Policy | Cloudflare
 
-_This Cloudflare Privacy & Security Policy ( **“Policy”** ) outlines the general policy and practices for the types of information that Cloudflare, Inc. ( **“Cloudflare”** , **“we”** , **“us”** or **“our”** ) gathers, how we use that information, and the options that our users ( **“you”** or **“your”** ) have regarding our use of, and your ability to correct, such information._
+_This Cloudflare Privacy & Security Policy (“ **Policy** ”) outlines the general policy and practices for the types of information that Cloudflare, Inc. (“ **Cloudflare** ”, “ **we** ”, “ **us** ” or “ **our** ”) gathers, how we use that information, and the options that our users (“ **you** ” or “ **your** ”) have regarding our use of, and your ability to correct, such information._
 
 * * *
 
@@ -12,7 +12,7 @@ Cloudflare’s website and services are not intended for, nor designed to attrac
 
 ## POLICY APPLICATION:
 
-This Policy applies to information provided to us by: (i) visitors to our websites, (ii) users of our services (i.e., subscribers to any of our plans), and (iii) information we collect from visitors to the websites of our users. We generally serve merely as a conduit for information controlled by others, and as such this Policy may not apply to our users’ websites. Our users’ websites or those to which we provide links, may have their own privacy policies. Because of this, we strongly encourage awareness and understanding of such websites’ separate privacy policies.
+This Policy applies to information provided to us by: (i) visitors to our websites, (ii) users of our services ( _i.e._ , subscribers to any of our plans), and (iii) information we collect from visitors to the websites of our users. We generally serve merely as a conduit for information controlled by others, and as such this Policy may not apply to our users’ websites. Our users’ websites or those to which we provide links, may have their own privacy policies. Because of this, we strongly encourage awareness and understanding of such websites’ separate privacy policies.
 
 ## INFORMATION COLLECTION AND SHARING:
 
@@ -30,7 +30,11 @@ Cloudflare collects and maintains certain information from our users for the pur
 
 ## COOKIES:
 
-Our site and services use "cookies" in order to provide a better service to you. Further information on our use of cookies can be found at <https://www.cloudflare.com/cookie-policy/>
+Our site and services use "cookies" in order to provide a better service to you. Cookies are placed by a browser onto your computer's hard drive to assign a unique identification to that computer. For example, we may use cookies to help direct you to the appropriate part of our website, by indicating that you are a repeat visitor to our website. We may also use information provided to us to present you with services that are customized to your preferences. Cloudflare does not store information we consider personal or private in a cookie, unless that information is obscured.
+
+Some portions of our website are functional without cookies. You may delete Cloudflare's cookies yourself through your browser's cookie manager. However, disabling cookies will reset your session, disable auto-login, and may adversely affect other functions on the Cloudflare website and the services we provide.
+
+As part of our services, we may place cookies on the computers of visitors to CloudFlare protected websites. We do this in order to identify malicious visitors, reduce the chance of blocking legitimate users, and to provide customized services.
 
 ## DATA AGGREGATION:
 
@@ -38,9 +42,9 @@ Cloudflare may aggregate data we acquire about our users and the visitors to the
 
 ## PROMOTIONAL PARTNERS AND THIRD PARTY APPS:
 
-From time-to-time, Cloudflare may notify you about an offer from one of our promotional partners (e.g., Apps Marketplace partners) via our website or email. While we may target particular types of users for these offers, we do all of the targeting within our systems and not externally. Our partners will not have any access to the targeting information, including the names of the people who may be interested in a particular product or service. Until you affirmatively respond to a promotional offer, we will not share any identifying information about you to any of these partners.
+From time-to-time, Cloudflare may notify you about an offer from one of our promotional partners (e.g., Apps Marketplace partners) via our website or email. While we may target particular types of users for these offers, we do all of the targeting within our systems and not externally. Our partners will not have any access to the targeting information, including the names of the people who may be interested in a particular product or service. Until you affirmatively respond to a promotional offer, we will not share any identifying information about you to any of these partners. 
 
-If you install an app from one of our third party partners, Cloudflare may provide your email address to that partner for account creation and communication with that partner. 
+If you install an app from one of our third party partners, Cloudflare may provide your email address to that partner for account creation and communication with that partner.
 
 ## LAW ENFORCEMENT AND OBLIGATIONS:
 
@@ -58,9 +62,7 @@ If you purchase Cloudflare’s registrar service, ICANN and the registry operato
 
 ## INTERNATIONAL DATA TRANSFERS:
 
-Cloudflare has certified under the EU-U.S. Privacy Shield framework set forth by the U.S. Department of Commerce and the European Union. A detailed description of how we comply with the Privacy Shield Principles can be found [here](https://web.archive.org/privacyshield/). For more information on the EU-U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website [here](https://www.privacyshield.gov/welcome).
-
-Cloudflare also abides by the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce, and we’ve certified that we adhere to the Safe Harbor Principles. For more information on the U.S.-Swiss Safe Harbor Framework and to view a copy of our certification, please visit [here](http://www.export.gov/safeharbor/). If you have questions regarding our compliance with the U.S.-Swiss Safe Harbor Framework, please contact [privacy@cloudflare.com](mailto:privacy@cloudflare.com) or write to us at: Cloudflare Trust and Compliance, 101 Townsend St., San Francisco, CA 94107. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+Cloudflare is certified under both the EU-U.S. Privacy Shield Framework, and the Swiss-U.S. Privacy Shield Framework, each as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Economic Area and Switzerland to the United States, respectively. A detailed description of how we comply with the Privacy Shield Principles can be found [here](https://web.archive.org/privacyshield/). For more information on the EU-U.S. Privacy Shield or Swiss-U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website at: <https://www.privacyshield.gov/welcome>.
 
 ACCESSING OR USING OUR SITES OR SERVICES, OR OTHERWISE PROVIDING INFORMATION TO US OR OUR CUSTOMERS, CONSTITUTES CONSENTING TO OUR POTENTIAL TRANSFER, PROCESSING AND STORAGE OF SUCH INFORMATION IN THE UNITED STATES.
 
@@ -70,12 +72,12 @@ We take the trust and privacy of our customers and their users extremely serious
 
 ## EFFECTIVE DATE:
 
-This Policy was last updated on September 30, 2016.
+This Policy was last updated on November 7, 2017.
 
 ## CONTACT INFORMATION:
 
-Attention: Trust and Compliance   
-Cloudflare, Inc.   
-101 Townsend St.   
-San Francisco, CA 94107   
-privacy@cloudflare.com
+Attention: Trust and Compliance  
+Cloudflare, Inc.  
+101 Townsend St.  
+San Francisco, CA 94107  
+[privacy@cloudflare.com](mailto:privacy@cloudflare.com)
