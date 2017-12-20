@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esmo.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004437id_/http%3A//www.esmo.org/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esmo.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220232009id_/http%3A//esmo.org/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
 
 # ESMO Privacy & Data Security Policy | ESMO
 
