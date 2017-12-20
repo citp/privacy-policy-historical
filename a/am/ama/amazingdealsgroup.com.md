@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingdealsgroup.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614180610id_/http%3A//amazingdealsgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingdealsgroup.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220221633id_/http%3A//amazingdealsgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Amazing Deals Group
 
