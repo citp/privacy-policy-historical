@@ -1,61 +1,118 @@
-> *The following text is extracted and transformed from the themeadowsnyc.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111200838id_/http%3A//themeadowsnyc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeadowsnyc.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220031013id_/http%3A//concerts.livenation.com/h/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy » The Meadows Music & Arts Festival
+# Live Nation Concerts | Privacy Policy
 
-THE MEADOWS PRIVACY POLICY
+Effective July 20, 2012 (last updated March 13, 2017)
 
-This privacy policy describes The Meadows’ current policies and practices with regard to personal data collected by The Meadows Music Festival through its website themeadowsnyc.com. This privacy policy is independent from The Meadows’ offline personal data collection practices. The term “personal data” refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that is identified with you personally, including your individual health information.
+## This Privacy Policy applies to the sites and apps where it appears.
 
-Notification of Changes to This Policy. 
+This Policy describes how we treat personal information we collect both online and offline. This includes on our websites and in our apps. It also includes at our box offices or in phone or email interactions you have with us. If you live in Canada, please read our [Canadian Privacy Policy](http://www.ticketmaster.ca/h/privacy.html "opens in a new window").
 
-The Meadows Music Festival is continually improving and adding new functionality and features to its websites and improving and adding to our existing products, services, and programs. Because of these ongoing changes, changes in the law, and the changing nature of technology, The Meadows’ data practices will change from time to time. If and when our data practices change, The Meadows Music Festival will post the changes on our websites to notify you of the changes. We encourage you to check this page frequently. This policy was last updated on June 20, 2016.
+## We collect information from and about you.
 
-Personal Data Collected Through themeadowsnyc.com
+**Contact information.** For example, we might collect your name and street address. We might also collect your phone number or email.
 
-Other than cookies, as described below, the only personal data The Meadows Music Festival currently collects through its websites is the information you voluntarily give us when you use our sites.
+**Payment and billing information.** For example, we collect your credit card number and zip code when you buy a ticket.
 
-For example, you may use this site to contact The Meadows Music Festival with questions and comments. When you fill out a form on our websites, you may provide your name and other contact information, including your company’s name, your e-mail address, and your mailing address or the mailing address of your company or other personal information. If you do not wish to fill out all of the information on the form you are not required to do so. Most of our registration forms require only your name and e-mail address. When you submit information to us through themeadowsnyc.com, you will receive a confirmation e-mail if you enter a valid e-mail address. When you use our websites to search for information our festival, you are not providing us with any personal information. We offer the search features as a service to you. The Meadows Music Festival does not collect or retain any identifying information about you when you use the search features.
+**Information you post.** For example, we collect information you post in a public space on our website. We also collect information you post on a third-party social media site.
 
-Use of Personal Data Collected Through themeadowsnyc.com
+**Demographic information.** We may collect information like your age range, race, or gender. We may collect information about events you like or products you buy. We might collect this as part of a survey, for example.
 
-The Meadows Music Festival uses the personal data information you provide to answer your question or resolve your problem. The Meadows Music Festival and our affiliates also use this information to help us improve the content and functionality of our websites, to better understand our customers and markets, and to improve our products and services. The Meadows Music Festival and our affiliates may use this information to contact you in the future to tell you about products or services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to “unsubscribe” from receiving future communications.
+**Other information.** If you use our website, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. We may collect information about your location including your precise location. We may collect this using technology such as GPS and Wi-Fi. If you use our mobile app, we may also access your device's location in the background. We may collect your device's unique identifier. We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running. We might look at how often you use the app and where you downloaded it.
 
-Similarly, we may provide “subscription” e-mail services, either directly or through affiliates, which enable you to receive current news and updates about the The Meadows Music Festival Music Festival. For all such services, we will provide an opportunity to “unsubscribe” from, or cancel, the subscription. Please see the Terms and Conditions page, located at [http://mailchimp.com/legal/](http://mailchimp.com/legal/) for more information about our use of the communications we receive through the The Meadows Music Festival website.
+## We collect information in different ways.
 
-Anonymous Data Collected Through themeadowsnyc.com.
+**We collect information directly from you.** For example, if you register for a promotion or buy tickets. We also collect information if you post a comment on our websites or ask us a question.
 
-In addition to the information you provide when you use our websites, The Meadows Music Festival uses technology to collect anonymous information about the use of our websites. For example, we use technology to track how many visitors access our websites, the date and time of their visit, the length of their stay, and which pages they view. We also use technology to determine which web browsers our visitors use and the address from which they accessed our sites (for example, if they connected to a The Meadows Music Festival website by clicking on one of our banner ads).
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please click [here](http://concerts.livenation.com/h/ad-choices.html). We also collect information from our mobile apps.
 
-This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our sites. The Meadows Music Festival and our affiliates use this anonymous data and share it with third parties to improve the content and functionality of our websites, to better understand our customers and markets, and to improve our products and services.
+**We get information about you from third parties.** For example, if you use an integrated social media feature on our websites or mobile applications. The third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms.
 
-Cookies.
+## We use information as disclosed and described here.
 
-A cookie is a small piece of information that is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer and they cannot be used to discover the identity of a user. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not and whether you are required to accept the cookie to view certain content. The Meadows Music Festival may use cookies to “persist” a user session that is, to maintain connection with a user as he or she moves through an application or series of web pages. The purpose of cookies in this context is to remember user inputs. For example, a “shopping cart” application records purchases up until the user reaches checkout. Personalization features also use cookies to identify groups of users and deliver appropriate content and services.
+**We use information to respond to your requests or questions.** For example, we might use your information to confirm your registration for an event or contest. You may give us your friend's information, for example via our referral service to tell a friend about our website or to purchase a gift card. We will only use your friend's information to provide services you requested. Your friend may contact us at [privacy@livenation.com](mailto:privacy@livenation.com) to ask us to delete their information.
 
-Disclosure of Your Personal Data. 
+**We use information to improve our products and services.** We might use your information to customize your experience with us. This could include displaying content based upon your preferences.
 
-The Meadows Music Festival may share some or all of the personal data collected through this website with our affiliates, who use this data in accordance with this Privacy Policy. Both The Meadows Music Festival and our affiliates may share personal data collected through its websites with third-party vendors who act for or on behalf of The Meadows Music Festival or our affiliates (for example, companies that provide support services to us, including data processing services, or that help us market our products and services). These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose. In addition, there may be some other, limited circumstances in which The Meadows Music Festival or our affiliates may share or transfer the personal data in our databases, for example, to comply with a legal requirement, for the administration of justice, to protect your vital interests, or in the event of a corporate sale, merger, reorganization, dissolution, or similar event.
+**We use information to look at site trends and customer interests.** We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.
 
-While no method of data transmission is guaranteed against unlawful third party interception or other misuse, The Meadows Music Festival uses commercially reasonable efforts to ensure protection of your data including industry-standard encryption and offline security methods in our physical facilities.
+**We use information for security purposes.** We may use information to protect our company, our customers, or our websites.
 
-Public Forums. 
+**We use information for marketing purposes.** For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter. To learn about your choices for these communications, read the choices section below.
 
-This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+**We may also use push notifications on our mobile apps.** We may use push notifications and your location information on our mobile apps to send you alerts regarding local events.
 
-Children.
+**We use information to send you transactional communications.** For example, we might send you emails about your account or a ticket purchase. We might also contact you about this policy or our website terms.
 
-The Meadows Music Festival does not knowingly collect personal data from children under the age of thirteen. If you are under thirteen, please do not give us any personal data. If you have reason to believe that a child has provided personal data to The Meadows, please contact us, and we will try to delete that information from our databases.
+**We use information as otherwise permitted by law or as we may notify you.**
 
-Link to Other Sites. 
+We keep personal information as long as it is necessary or relevant for our business. We also keep information to resolve disputes, enforce our agreements and otherwise required by law.
 
-This privacy policy applies only to The Meadows’ website. The Meadows Music Festival and our affiliates operate other websites for different purposes and in different countries where different laws may apply. If you visit a The Meadows Music Festival website, please take a moment to review the privacy policy posted on that site to learn what personal data may be collected through that site and how it is processed.
+## We may share information with third parties.
 
-The Meadows’ websites contain hyperlinks to websites that are not operated by The Meadows Music Festival or one of our affiliates. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. The Meadows Music Festival does not control these websites and is not responsible for their data practices. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal data about yourself.
+**We will share information within the Live Nation family of companies.** This may include Ticketmaster and Live Nation-owned or operated venues, for example.
 
-Governing Law. 
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases. Some vendors may be located outside of the United States.
 
-This privacy policy forms part of our website Terms and Conditions and as such shall be governed by and construed in accordance with the laws of the State of New York.
+**We will share information with our business partners.** This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies, which may include sending you marketing communications. You should read those polices to learn how they treat your information.
 
-Questions About Our Privacy Policy.
+**We may share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
 
-If you have any questions about this privacy policy or concerns about the way The Meadows Music Festival processes your personal data, please contact us.
+**We may share information with any successor to all or part of our business.** For example, if part of our business is sold we may give our customer list as part of that transaction.
+
+**We may share your information for reasons not described in this policy.** We will tell you before we do this.
+
+## You have certain choices about how we use your information.
+
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, click [here](http://promo.livenation.com/wemissyoualready/ "opens in a new window") or follow the instructions in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
+
+**You can modify information you have given us.** To correct or delete information or update account settings, log into your account and follow the instructions. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.
+
+**You can control cookies and tracking tools.** To learn how to manage how we - and our vendors - use cookies and other tracking tools, please click [here](http://concerts.livenation.com/h/ad-choices.html).
+
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an "unsubscribe" link.
+
+## Your California Privacy Rights.
+
+If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.
+
+To exercise your rights, you can [email us](mailto:privacy@livenation.com) or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.
+
+## These sites and apps are not intended for children.
+
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us [here](mailto:privacy@livenation.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
+
+Parents, you can also learn more about how to protect your children's privacy online [here](http://www.business.ftc.gov/privacy-and-security/children's-privacy "opens in a new window").
+
+## We use standard security measures.
+
+We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. If you think that an unauthorized account has been created using your name, contact us at the address below.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=6ded18c3-447e-4032-94e2-2a8daaee2887)
+
+Click on the Truste seal to view our current certification status.
+
+## We store information both in and outside of the United States.
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection of those in your country.
+
+## We may link to third party sites or services we don't control.
+
+If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites. Our site may also serve third-party content that contains their own cookies or tracking technologies. To learn more, click [here](http://concerts.livenation.com/h/ad-choices.html "opens in a new window"). We do not control the use of those technologies.
+
+## Feel free to contact us if you have more questions.
+
+If you have any questions about this Policy or other privacy concerns, you can email us at [privacy@livenation.com](mailto:privacy@livenation.com). Please do not include your credit card number or other sensitive information in your email. You can also write us at:
+
+Live Nation Entertainment, Inc.  
+9348 Civic Center Drive  
+Beverly Hills, CA 90210  
+Attention: Privacy Officer, Legal
+
+If you are not satisfied with our response, you can contact our third party dispute resolution provider [here](https://feedback-form.truste.com/watchdog/request "opens in a new window").
+
+## What we will do if there is an update to this policy.
+
+From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+
+© 2017 Live Nation Entertainment, Inc. All rights reserved.
