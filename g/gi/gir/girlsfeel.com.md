@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsfeel.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629205215id_/http%3A//www.girlsfeel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsfeel.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220175952id_/http%3A//www.girlsfeel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GirlsFeel - Girls Helath
 
