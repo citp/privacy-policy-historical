@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622102041id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220161845id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer - Truckee Meadows Community College
 
