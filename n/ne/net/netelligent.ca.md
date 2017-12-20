@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the netelligent.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104500id_/http%3A//www.netelligent.ca/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netelligent.ca privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220134207id_/http%3A//www.estruxture.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - netelligent
+# Privacy Policy - eStruxture
 
 ### 1\. Our Commitment to Privacy
 
-Netelligent Hosting Services Inc. and its affiliates ("Netelligent") are committed to protecting the privacy and security of your personal information which you may provide to us or we may obtain in the course of your relationship with us. This Netelligent privacy policy (the "Privacy Policy") describes the type of personal information we collect, the manner in which we do so and how we treat it, consistent with our commitment to providing you with a satisfying and helpful shopping experience. 
+eStruxture Data Centers Inc. and its affiliates ("eStruxture") are committed to protecting the privacy and security of your personal information which you may provide to us or we may obtain in the course of your relationship with us. This eStruxture privacy policy (the "Privacy Policy") describes the type of personal information we collect, the manner in which we do so and how we treat it, consistent with our commitment to providing you with a satisfying and helpful shopping experience. 
 
-Our Privacy Policy is designed to comply with applicable privacy acts and applies to our company sales, our web sites (the "Site", currently at: http://www.netelligent.ca/), and all other channels in which Netelligent collects and uses your personal information. Our Privacy Policy may be updated from time to time. 
+Our Privacy Policy is designed to comply with applicable privacy acts and applies to our company sales, our web sites (the "Site", currently at: http://www.eStruxture.com/), and all other channels in which eStruxture collects and uses your personal information. Our Privacy Policy may be updated from time to time. 
 
 ### 2\. What is Personal Information?
 
@@ -54,18 +54,18 @@ Should you so request, we will, within a reasonable delay, inform you of the exi
 
 If you have any questions, concerns, or wish to withdraw your consent, please contact us at:
 
-Netelligent Hosting Services Inc.  
+eStruxture Data Centers Inc.  
 800 rue Square-Victoria,   
 Montreal, Quebec, H4Z 1A1  
 Phone: 1-514-369-2209  
 Toll-Free: 1-888-369-2209  
-Email : [support@netelligent.ca](mailto:support@netelligent.ca)
+Email : [support@eStruxture.com](mailto:support@eStruxture.com)
 
 We will inform individuals who make enquiries or lodge complaints about our enquiry or complaint procedures, as applicable. If a complaint is found to be justified, we will take appropriate measures, including, if necessary, amending our policies and practices. 
 
 ### 11\. Assignment
 
-You consent to the transfer of your Personal Information to a third party acquirer of Netelligents business.
+You consent to the transfer of your Personal Information to a third party acquirer of eStruxture's business.
 
 ### 12\. Changes to This Policy
 
