@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chatzy.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614044732id_/https%3A//www.chatzy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatzy.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220184758id_/http%3A//www.chatzy.com/privacy.htm) for the most accurate reproduction.*
 
-# Chatzy - Privacy Policy
+# Privacy Policy - Chatzy
 
 | 
 
