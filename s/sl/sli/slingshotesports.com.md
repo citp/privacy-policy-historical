@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slingshotesports.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624010919id_/http%3A//slingshotesports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slingshotesports.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220175107id_/https%3A//slingshotesports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Slingshot Esports
 
