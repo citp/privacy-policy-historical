@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sextvx.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621143943id_/http%3A//www.sextvx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextvx.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220163208id_/http%3A//sextvx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,4 @@ If you have an account on the Website and have a password giving you access to c
 
 While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us. Any information or content you transmit to us is done at your own risk.
 
-[Sign-in](https://web.archive.org/en/accounts/login/) to add this to Watch Later list
+[Sign-in](https://web.archive.org/accounts/login/) to add this to Watch Later list
