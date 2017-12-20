@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624054307id_/http%3A//crucial.com/usa/en/company-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220234357id_/http%3A//www.crucial.com/usa/en/company-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Crucial.com
 
@@ -11,7 +11,7 @@ Micron is committed to protecting your right to privacy when visiting our websit
 
 
 
-Micron has self-certified to the EU-U.S. Privacy Shield and US-Swiss Safe Harbor Framework. Please click [here](https://web.archive.org/usa/en/company/privacy-shield) to view our EU-U.S. Privacy Shield Policy and learn more about our compliance with the U.S.-Swiss Safe Harbor Framework. 
+Micron has self-certified to the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks. Please click [here](https://web.archive.org/usa/en/company-privacy-shield) to view our Privacy Shield Policy and learn more about our compliance. 
 
 ## Security
 
