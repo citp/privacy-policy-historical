@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandaily.info privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621112153id_/http%3A//fandaily.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandaily.info privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220203933id_/http%3A//fandaily.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Celebrity Couples | Celebrity Siblings
 
@@ -21,6 +21,6 @@ Your personally identifiable information is kept secure. Only authorized employe
 Privacy Contact Information  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By e-mail: fangyuankong@gmail.com
+By e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
