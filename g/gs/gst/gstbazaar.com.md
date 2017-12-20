@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gstbazaar.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514231503id_/http%3A//www.gstbazaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gstbazaar.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220102325id_/http%3A//www.gstbazaar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PRIVACY POLICY
 
 We are a client-centric organization always value the trust you place in us. That's why we focus upon the superior quality standards for safe & secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
-Note:
+**Note:**
 
 Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
