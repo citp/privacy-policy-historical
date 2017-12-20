@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627131158id_/http%3A//policies.usc.edu/p2admOpBus/privacy_personal_information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220124001id_/https%3A//policy.usc.edu/info-privacy) for the most accurate reproduction.*
 
 # Protection of Social Security Numbers and Other Restricted Information | Policy | USC
 
