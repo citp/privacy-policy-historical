@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacydr.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603213845id_/http%3A//privacydr.com/docs/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacydr.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220093606id_/http%3A//www.privacydr.com/docs/pp.php) for the most accurate reproduction.*
 
 # 
 
