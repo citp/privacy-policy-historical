@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fogcreek.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505105456id_/http%3A//www.fogcreek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fogcreek.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220171233id_/http%3A//www.fogcreek.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Fog Creek Software
 
@@ -14,7 +14,7 @@ This privacy policy describes what information we collect when you visit our Ser
 
 ## PRIVACY SHIELD OVERVIEW
 
-Fog Creek complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Fog Creek also complies with the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from Switzerland to the United States. Fog Creek has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+Fog Creek complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Fog Creek also complies with the U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information to the United States. Fog Creek has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 ## TYPES OF INFORMATION
 
@@ -110,11 +110,11 @@ If you have any questions about this policy or our site in general, please conta
 
 Our Data Protection Officer is Jordan Harris.
 
-In compliance with the Privacy Shield Principles, Fog Creek commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Fog Creek at: 
+In compliance with the Privacy Shield Principles, Fog Creek commits to resolve complaints about our collection or use of your personal information. Your organization being subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). The possibility, under certain conditions, for the individual to invoke binding arbitration. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Fog Creek at: 
 
 Fog Creek Software  
-One Exchange Plaza,  25th Floor  
-New York City, NY 10006  
+75 Broad Street,  Suite 1904  
+New York City, NY 10004  
 USA
 
 Fog Creek has further committed to refer unresolved Privacy Shield complaints to the [JAMS Foundation](https://www.jamsadr.com/), an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/> for more information or to file a complaint. The services of the JAMS Foundation are provided at no cost to you.
@@ -143,6 +143,6 @@ This section covers any ways in which personal information we collect from emplo
 
 ## Change log
 
-  * 2017/04/27: Added EU-U.S. and Swiss-U.S. Privacy Shield Framekwork language.
+  * 2017/04/27: Added EU-U.S. and U.S. Privacy Shield Framekwork language.
 
 
