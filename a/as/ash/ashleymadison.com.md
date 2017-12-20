@@ -1,83 +1,157 @@
-> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406201603id_/https%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220230719id_/https%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
 
 # Ashley Madison® | Privacy Policy
 
-Praecellens Limited ("we," "us" or "Ashley Madison") is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the "Website") and use of our service ("Service"). By accepting the terms and conditions you consent to this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time and such changes will be posted to our website and become effective without prior notice. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. However, if the changes are material and if required by applicable local law, we will obtain your consent. Unless we have obtained your consent to the updated policy, your personal data will be processed in accordance with the privacy policy in effect at the time of your acceptance of this policy. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: Nov 03, 2011.
+**Effective Date:** February 25, 2017
 
-Unless prohibited by applicable law, the English text of the Privacy Policy shall be the official version and if for any reason the translated text is incorrect, or misleading, the English text shall prevail.
+ruby Corp. ("we" or "us") is firmly committed to your privacy. This Privacy Policy sets out our practices related to the collection, use and disclosure of information you provide us when you visit our websites, mobile websites and mobile applications (collectively, the "Platform") and use the services thereon (the "Services"). To help us meet our commitment to you, we have appointed a Privacy Officer to oversee our privacy practices and our compliance with this Privacy Policy. If you have any questions or concerns regarding our policies and practices related to your information, please see the “Contact Us / Complaints” section below.
 
-**1\. What Information is collected and for what purposes?**  
-We collect personal data from you in a variety of ways including when you register with us on the website. We categorize the personal data in two types of information: personally identifiable information ("PII") and non-personally identifiable information ("Non-PII"), which is also referred to as aggregate and anonymous data. Some of the collected data may concern health, ethnicity, sex life or other information which may be considered as sensitive.
+By accessing the Platform or using any of our Services you accept this Privacy Policy and agree to the terms, conditions and notices contained or referenced herein. Your use of our Platform or Services, and any dispute over privacy, is subject to this Privacy Policy and our [Terms of Service (https://www.ashleymadison.com/app/public/tandc.p)](https://www.ashleymadison.com/app/public/tandc.p) . 
 
-The following personal data is collected on our website.
+Please note that, to the extent required by applicable law, we will obtain your express consent for the collection, use and disclosure of your personally identifiable information.  
 
-(i) In order to establish an Ad Profile on the website we require that you submit, User name/pseudonym, postal code & country, date of birth, current marital status or relationship, desired length of a relationship, height, weight, build/stature, sex and email address. This data is collected in order to identify suitable members and put them in touch with you as well as to improve our Site and Service. For this purpose, data is made anonymous, i.e. it is only sent to potentially interested members using your pseudonym. You yourself decide what information appears in your profile. Personal information that may identify you is not permitted on your Ad Profile. Please note that you may upload photos to your Ad Profile. The type of photos you upload may clearly identify you. The data is also collected for commercial, promotional, advertising and business purposes;
+What types of information do we collect?
 
-(ii) When you order credits we and/or our third party affiliates and payment processors, process financial information required for the payment transaction, such as name, address and your credit card data (such as number, issuing institution and expiry date) or account details (account holder, account number, sort code, institution), and
+  
+We collect information including personally identifiable information, directly from you, from third parties and automatically through your use of our Services. 
 
-(iii) Information set out under section 2 below.
+What information will you ask me for?
 
-**2\. What information do you gather automatically from visitors?**  
-We use your IP address (the series of numbers associated with your individual computer) to help us maintain our site, identify problems with our server and to provide you with an enhanced experience. We do use cookies to identify traffic that comes through advertising and to facilitate a more user friendly experience. Cookies are small pieces of information that a web site places on your computer's hard drive so we know it's you when you visit. This helps us to create a personalized experience for you when you visit our site. The use of cookies is a very common practice on the Internet and provides for a more customized user experience of the Website. If you are uncomfortable with this, you can disable all cookies through your browser settings. However, should you choose to disable all cookies, this will impact and/or prevent your ability to access and use the Service.
+  
+When you create a profile on our Platform you will be asked to provide basic information about you which we need to enable us to provide you the Services including contact information (e.g. your email address), demographic information (e.g. your city of residence, zip/postal code, age, gender and ethnicity), and personal characteristics (height, weight and body type). We may supplement this with information about your IP address, or your location, when you use the Services.
 
-**3\. How will this information be used and who has access to it?**  
-**Non-PII**  
-Your Non-PII is used to personalize your experience, allow other members to find you through a search, to compose your personal profile - which is associated with a pseudonymous identity you have created - and to deliver targeted advertising and promotional offers to you from external companies that are of the highest relevance to your demographic profile. We may share some of this information for our own analysis and research purposes with our professional advisors or consultants and third party partners.
+While creating your profile, you may choose how much personally identifiable information you share with us. You will be asked to create a username and offered the chance to upload a photograph and provide a personal description. You are encouraged to create a pseudonymous profile and are not required to include information in your profile that would allow you to be directly identified. Obviously do be careful if you want to remain anonymous, especially if you upload photographs or choose a username which could allow you to be easily identified.
 
-**PII**  
-The PII we collect from you is used in the course of providing our service to you and to improve the content and functionality of our Website or customize the layout of our pages for each individual member. We may use your contact information to send you valuable updates and timely notices of promotions and mailbox status reports. We may also use your PII to send electronic mail to you, for the purpose of informing you of changes or additions to the Service, or of any Ashley Madison products and services.
+When you make a purchase off our Platform you will be asked for certain personally identifiable information for billing purposes including your name, address and details of your chosen payment method.
 
-You are aware that we may share, and you hereby consent to our sharing of, the personal data we collect to our affiliated companies and to any non-affiliated third party as provided below:
+With your permission, we will also collect your location information from your mobile device to help you identify other Platform members in your area. You may turn off this feature through the location settings on your mobile device. We also collect your general geographic location from your browser access to help you identify members in your area and to help us quickly and efficiently respond to inquiries and requests.
 
-**Financial Information**  
-Under some circumstances we may require certain financial information. We use this financial information to bill you for use of our services and products. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information on the Website, you consent to our providing of your financial information to our service providers and to such third parties as we determine necessary to support and process your activities and transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies, data processing companies and banking institutions used to process and support your transaction or activity. To receive information regarding our third party processors please contact us using the information below.
+How will you use the information you collect?
 
-**Trusted Third-Parties**  
-We may share personal data, PII as well as Non-PII, with service providers that may be associated with us to perform functions on our behalf. In addition, unless you opt out, from time to time we may share and/or sell PII about our users (such as your mailing or email addresses) with selected third parties, so they can offer goods and services that we believe may be of interest or benefit to our users. We will ensure that such third party's processing of your personal data will not be incompatible with the purposes stated in this document. If you prefer not to receive messages from these third parties you may notify us by opting out at any time by going to the "Manage Profile" or "Message Center" sections of your Ad Profile as described more fully below or sending a request to our Contact Form below.
+  
+We use the information we collect, including personally identifiable information, for the following purposes:
 
-We may disclose your PII to respond to law enforcement requests; or where required by applicable laws, court orders, or government regulations; or to protect against misuse or unauthorized use of our site; or to protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
+  * to provide you with the Services, including to provide you with access to a forum focused on open-minded and discreet relationships, where members can search for and connect with other like-minded individuals;
 
-**Sale or Merger**  
-We may disclose and sell PII in connection with the sale, assignment, or other transfer of the business or a portion of the business of our Website, including a corporate merger, consolidation, restructuring, sale of assets or other corporate change of our direct or indirect parent companies that affects us for the purposes of carrying on the obligations contained herein.
+  * to allow users to find other users’ profiles based on preferences or user location;
 
-**Affiliate Entities**  
-We may share much of our data, including PII about you, with our parent, subsidiary and other affiliated companies (each an "Affiliate") that are committed to serving your online needs and related services on our Site. To the extent that these entities have access to your PII information, they will give such information at least the same level of protection treat it at least as protectively as they give to treat information they obtain from their other users. Our Affiliates will follow privacy practices no less protective of all users than our practices described in this document, to the extent allowed by applicable law. It is possible that we or one or more of our Affiliates, or any combination of such, could merge with or be acquired by another business entity. In connection with the due diligence review involving such a potential transaction, we may share some or all of your PII with potential acquirers, merger partners or investors, and their agents (including professionals). We would require that these third parties sign non-disclosure and, if necessary, data protection agreements and would endeavor to disclose as little PII as possible. Should such a combination then in fact occur, you should expect that we would share some or all of your information in order to continue to provide the Service.
+  * to promote your profile to other users of the Services;
 
-**Transfer to a third country**  
-When personal data is shared with our Affiliates, Trusted Third Parties or other entities stated in this document the personal data may be transferred to a third country outside the EEA. Wherever your personal information is transferred, stored or processed by us, we will take all reasonable steps designed to safeguard the privacy of your personal information.
+  * to maintain and improve our Platform including improving the content and functionality of our Platform or customize the layout of our pages for each individual member;
 
-**4\. How long do you keep the information I've provided you?**  
-We keep the information you have given us for as long as your Ad Profile stays active or hidden or is allowed by applicable local law. Accessing and updating your email notification preferences, personal information and public information You have the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide information visible to the public users of the Website at any time by going to the 'Manage Profile' or 'Message Center' sections on your Ad Profile.
+  * to tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the Platform;
 
-Please be aware that it may take several hours for any custom changes you make to take effect on the public areas of the system. Please also note that changing or deleting your information through the 'Manage Profile' or 'Message Center' section of the system, or opting-out of email notifications from us, will only change or delete the data in our database for the purpose of future activities and communications. These changes and deletions will not change or delete information or emails that are queued to be sent or have already been sent.
+  * to conduct surveys and market research in order to improve the Services;
 
-**5\. Unsolicited Contact (SPAM)**  
-Ashley Madison, our affiliates and our channel partners do not send unsolicited email at any time. However you hereby consent to receive email messages to the email address you register on your Ad Profile e.g. for marketing purposes and from members. You may opt-out of receiving email messages at any time by sending a request to our Contact Form below or to legal@ashleymadison.com
+  * to communicate with you in connection with the Services including, subject to our obligations regarding email communications in your respective jurisdiction, for the purposes of informing you of changes or additions to the Service, or of any our products and services we believe may be of interest to you; 
 
-**6\. Do you monitor online behavior?**  
-Our users communicate with each other through on-site Mail Messaging and Instant Messaging. While we do not, as a rule, moderate or monitor members' private exchanges, we reserve the right to do so if we suspect users of being under the age of 18 or of using our service for the purpose of solicitation or any other violation of our Terms & Conditions or Privacy Statement. Submissions that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site.
+  * to detect and combat fraud, and better understand how to protect your information; 
 
-**7\. Affiliates**  
-When you register to become an Affiliate, you will be asked for contact information. Your information will only be used by internal staff and will never be shared with anyone external to the company other than to our affiliated or related companies, and any of their respective advisors and representatives.
+  * to process your payments and to help resolve payment disputes;
 
-**8\. Other Information Collectors**  
-Except as otherwise expressly described in this Privacy Statement, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Website (including links to third party sites) or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers or have third party e-commerce partners, they adhere to their own privacy policies. Since we do not control the privacy policies of any third parties, you should investigate their policies before you disclose your personal information to them.
+  * to deliver targeted advertising and promotional offers to you from external companies that are of the highest relevance to your demographic profile; 
 
-**9\. Security**  
-We treat data as an asset that must be protected against loss and unauthorized access. To safeguard the confidentiality and security of your PII, we use industry standard practices and technologies including but not limited to "firewalls", encrypted transmission via SSL (Secure Socket Layer) and strong data encryption of sensitive personal and/or financial information when it is stored to disk.
+  * to manage your account and provide you with customer support;
 
-**10\. Right to access Information**  
-You are entitled to upon request and without cost receive information with regards to whether and in what way personal information regarding you is processed. If you wish to receive such information, please contact us at our contact details below. We may require you to provide verification of your identity to provide a copy of the information we hold. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under applicable current data protection legislation.
+  * to protect our own rights and interests, such as to resolve any disputes, enforce our Terms of Use, or to respond to legal process;
 
-**11\. General**  
-Please note that by accepting this Privacy Policy you consent to receiving targeted advertisement by electronic means from Ashley Madison, its Affiliates and the Trusted Third Parties and to have your personal data to be communicated to Ashley Madison's Affiliates for the purposes of such communication.
+  * to save your user account, registration and profile data and other information (so you do not have to re-enter it each time you visit or use the Services); and
 
-Your data will be kept in a data file controlled by Us. You are also entitled to access, rectify your personal information, object or cancel the processing operations by contacting privacy@ashleymadison.com.
+  * to track your return visits to, and use of, the Services. 
 
-To contact us concerning Privacy issues, please use the [Contact Form](https://www.ashleymadison.com/app/public/contactform.p?contactform=1) or contact privacy@ashleymadison.com. All other inquiries should be sent using our [Contact Us](https://www.ashleymadison.com/app/public/contactform.p) section.
 
-**Attn:** Privacy Officer  
-Praecellens Limited  
-(DBA Ashley Madison)  
-9 Karpensiou, 2021 Nicosia  
-Cyprus
+
+
+If you’re a registered user of establishedmen.com, please note that your profile will also be available on, and visible to users of, arrangementfinders.com.
+
+We also use aggregate, de-identified and/or non-personally identifying information, which does not personally identify. For example, we may collect and analyze aggregated, de-identified, statistical information to help improve operation of the Services and manage user activity across the Platform.
+
+How will you disclose the information you collect?
+
+We may disclose personally identifiable information in the following circumstances for any or more of the purposes described above: 
+
+  * Promotion of your Profile – We may disclose your nickname or username (not your actual name) and your photo  to promote your profile to other users of the Services, who may be located in any country in the world where our Services are offered. By providing us your personally identifiable information and using the Services, you consent to the transfer of your personally identifiable information to countries outside of your jurisdiction of residence consistent with the terms of this Privacy Policy.
+
+  * Other Platform Members/Users – Your username, profile information and any information that you post to the Platform, including, without limitation, reviews, comments, and text will be available to, and searchable by, other users of the Platform and Services.
+
+
+
+  * Financial Information \- In some circumstances we may require certain additional information, including but not limited to your credit card billing information. We use this financial information, including your name, address, and other information to bill you for use of our Service and products. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information on the Platform, you consent to our providing of your financial information to our service providers and to such third parties as we determine necessary to support and process your activities and transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies, data processing companies and banking institutions used to process and support your transaction or activity.
+
+  * Trusted Third-Parties - We may disclose your information to our service providers to perform certain functions on our behalf in connection with the provision of the Services. 
+
+  * Legal Request - We may disclose your information to respond to law enforcement requests; or where required by applicable laws, court orders, or government regulations; or to protect against misuse or unauthorized use of our Platform; or to protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
+
+  * Sale or Merger \- We may disclose your information in connection with the sale, assignment, bankruptcy proceeding or other transfer of the business or a portion of the business of our Platform, including a corporate merger, consolidation, restructuring, sale of assets or other corporate change of our direct or indirect parent companies that affects us. In connection with the due diligence review involving such a potential transaction, we also may share information (including personally identifiable information) with potential acquirers, merger partners or investors, and their agents (including professionals) where such individuals agree to use personally identifiable information under the same conditions as identified in this Privacy Policy.
+
+
+
+  * Affiliate Entities \- We may share our data, including your personally identifiable information, with our parent, subsidiary and other affiliated companies, including companies operating in different countries (each an "Affiliate") that are committed to serving your online needs and related services. Except where otherwise prohibited by applicable law, our Affiliates may use this data to communicate with you about their products and services. Our Affiliates will follow privacy practices no less protective of all users than our practices described in this document, to the extent allowed by applicable law. It is possible that we or one or more of our Affiliates, or any combination of such, could merge with or be acquired by another business entity. 
+
+
+
+
+We may disclose aggregate, de-identified and/or non-personally identifying information, which does not personally identify you or other users, in a number of circumstances including to third party advertisers.  
+
+Cookies and Other Tracking
+
+We use cookies, clear GIFs, third-party analytics and other tracking mechanisms to track your use of our Platform and the Services. Such tracking mechanisms may automatically collect information such as: your IP address, domain name, browser type and operating system; web pages you view; links you click; how you move through the Platform and the length of time you visit our Platform and use the Services; and the referring URL, or the webpage that led you to our Platform. We may combine this information with other personally identifiable information we collect from you. 
+
+Do-Not-Track. Currently, our systems do not recognize browser “do-not-track” requests. You may, however, disable certain tracking as discussed in this section (e.g., by disabling cookies or opting out of ad networks).
+
+Cookies. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. We might use cookies to uniquely identify you, in order to help us to process your transactions and requests, to track aggregate and statistical information about user activity, and to display advertising both on our Platform and on third-party sites. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. If you disable cookies some features of our Platform may not function. Further information may be found at www.allaboutcookies.org.
+
+Clear GIFs. Clear GIFs (a.k.a. web beacons, web bugs or pixel tags) are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, though, clear GIFs are embedded invisibly on web pages, not stored on your hard drive. We might use clear GIFs to track the activities of our visitors and app users, help us manage content, and compile statistics about usage. We and our third party service providers also might use clear GIFs in HTML e-mails to our customers, to help us track e-mail response rates, identify when our e-mails are viewed, and track whether our e-mails are forwarded. These can be blocked either by using a third party application such as [Ghostery (https://www.ghostery.com)](https://www.ghostery.com/), or, in the case of emails, by changing your settings to prevent images from being downloaded (where your email client supports this functionality).
+
+Third-Party Analytics.  We also use automated devices and applications, such as [Google Analytics (https://support.google.com/analytics/answer/6004245)](https://support.google.com/analytics/answer/6004245) (to opt out, go [here (https://tools.google.com/dlpage/gaoptout)](https://tools.google.com/dlpage/gaoptout)), and AppsFlyer (to opt out, go [here (https://www.appsflyer.com/privacy-policy/)](https://www.appsflyer.com/privacy-policy/)) to evaluate usage of our Platform and the Services we provide.  We use these tools to gather information about users to help us improve our services, performance and user experiences.  These analytics providers may use cookies and other technologies to perform their services, and may combine the information that they collect about you on our Platform with other information that they have collected.  This Privacy Policy does not cover such third parties’ use of the data: for further information please see the relevant party's privacy policy. For a list of additional Third Party analytics providers we may use, please go [here (http://www.rubylife.com/analytics_providers)](http://www.rubylife.com/analytics_providers). 
+
+Third-Party Ad Networks
+
+We may use third parties such as network advertisers to serve advertisements on our Platform and on third-party websites or other media, and to evaluate the success of our advertising campaigns. This enables us and these third parties to target advertisements to you for products and services in which you might be interested. Third-party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other tracking technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third party’s specific privacy policy, not this one. We may provide these third-party advertisers with information about users (e.g., IP address and demographic information), but we do not disclose details such as your name or contact information. You may be able to avoid targeted ads by certain ad networks by blocking cookies (see your browser’s “Help” menu for information on how to do this); however, our Platform may not work if you block or disable cookies. For a list of networks advertisers we may use, please go [here (http://www.rubylife.com/network_partners)](http://www.rubylife.com/network_partners).
+
+Third-Party Links
+
+Our Platform and services may contain links to third-party websites. For example, when you leave our Platform, you may be directed to a third party website, which may collect your personally identifiable information. We do not supply any personally identifiable information to these third parties. Any access to and use of such linked websites, and any personally identifiable information collected in connection therewith, is not governed by this Privacy Policy, but instead is governed by the privacy policies of those third party websites. We are not responsible for the information practices of such third party websites.
+
+How long do you keep the information you collect?   
+ 
+
+We keep the personally identifiable information we collect for at least as long as your profile stays active or hidden. You may delete your account; however, we may retain a copy of your personally identifiable information in our records for a period of time, including as part of our backup procedures and as otherwise required by law.     
+
+Access and Updates 
+
+You have the opportunity to (i) opt-out of certain communications, (ii) modify/update personally identifiable information you have provided to us, and (iii) hide certain information visible to public users of the Platform at any time by going to the 'Manage Profile' or 'Account Settings’ sections on your profile. 
+
+Please be aware that it may take several hours for any custom changes you make to take effect on the public areas of the system. Please also note that changing or deleting your information through the 'Manage Profile' or ‘Account Settings’ section of the system, or opting-out of email notifications from us, will only change or delete the data in our database for the purpose of future activities and communications. 
+
+Do you monitor online behavior?
+
+  
+Our users communicate with each other through on-site mail messaging and instant messaging. While we do not, as a rule, moderate or monitor users' private exchanges, we reserve the right to do so if we suspect users of being under the age of 18 or of using our service for the purpose of solicitation or any other violation of our Terms & Conditions or Privacy Policy. Submissions that appear on the public area of the Platform are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the Platform.
+
+Other Information Collectors
+
+  
+Except as otherwise expressly described in this Privacy Policy, this document only addresses the use and disclosure of the information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Platform (including links to third party sites) or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers or have third party e-commerce partners, they adhere to their own privacy policies. Since we do not control the privacy policies of any third parties, you should investigate their policies before you disclose your personally identifiable information to them.
+
+Security
+
+We take the protection of your personally identifiable information seriously. We protect personally identifiable information against loss and theft as well as unauthorized access, disclosure, copying, use, and modification using security safeguards, including physical, organization and technological measures, commensurate with the sensitivity of your personally identifiable information.  Employees who have access to your information are made aware of the importance of keeping it confidential. 
+
+Where we use service providers who might have access to your personally identifiable information, we require them to have privacy and security standards that are comparable to ours. We use contracts and other measures with our service providers to maintain the confidentiality and security of your personally identifiable information and to prevent it from being used for any other purpose. 
+
+Please be aware that no data security measures can guarantee 100% security. You should also take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.  
+
+User Generated Content
+
+You may post content on the Platform, including your comments, pictures, and any other information that you would like to be available to other users of our Services. We cannot prevent the content you post or share on our Platform or Services from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy, or from being shared or disclosed by other users.
+
+Changes to this Privacy Policy
+
+This Privacy Policy is current as of the Effective Date set forth above. In the event we intend to materially change any of our practices set out in this Privacy Policy, including if we intend to use your Personal Information for any purpose not expressly contemplated herein, we will provide you a minimum of thirty (30) days prior written notice of such change and obtain your consent to the extent required under applicable law.
+
+Contact Us / Complaints 
+
+If you have any questions related to the foregoing or any of the terms or conditions of this Privacy Policy, or if you wish complain to us in writing about how we have handled your personally identifiable information, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#87f7f5eef1e6e4fee8e1e1eee4e2f5c7f5f2e5feebeee1e2a9e4e8ea). All other inquiries should be sent using our [Contact Us (https://www.ashleymadison.com/app/public/contactform.p)](https://www.ashleymadison.com/app/public/contactform.p) section.
+
+We aim to resolve all complaints promptly.
