@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522192606id_/https%3A//multcolib.org/policies-manuals/statement-privacy-and-confidentiality-library-records) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220225044id_/https%3A//multcolib.org/policies-manuals/statement-privacy-and-confidentiality-library-records) for the most accurate reproduction.*
 
 # Privacy and confidentiality of library records | Multnomah County Library
 
@@ -37,23 +37,23 @@ We never use or share the personally identifiable information provided to us in 
 
 ## Access to accounts and patron responsibility
 
-**Protecting Your Library Card**
+### Protecting Your Library Card
 
 It is your responsibility to notify the library immediately if your card is lost or stolen or if you believe someone is using your card or card number without your permission. We encourage you to protect your PIN/password for your privacy and security.
 
-**Keeping Account Information Up-To-Date**
+### Keeping Account Information Up-To-Date
 
 You may access your personally identifiable information held by us and are responsible for keeping your information accurate and up-to-date. You may choose to use a preferred name in addition to your legal name. If you choose to use a preferred name, library correspondence will be addressed to your preferred name. Please ask a staff member if you have questions about the process for accessing or updating your information.
 
-**Parents and children**
+### Parents and children
 
 We respect the privacy of all library patrons, no matter their age. Parents, guardians or caretakers of a child under age 18 who wish to obtain access to a child’s library records, including the number or titles of materials checked out or overdue, must provide the child’s library card or card number.
 
-**Having other people help you with your account**
+### Having other people help you with your account
 
 You may have other people help you with your account by providing them with your library card or card number and PIN/password. Please ask a staff member if you have questions about the process for having others assist you with your account.
 
-**Items on hold**
+### Items on hold
 
 Items placed on hold for library patrons are shelved by the patron’s last name for pick-up in the public areas of our libraries. Patrons who do not want their holds shelved by last name may have their holds shelved by a unique user ID number (NOT the library card number). Patrons of any age may choose to have other people pick up their holds. Holds will be checked out on the library card presented at the time of check-out.
 
@@ -98,19 +98,16 @@ Policies for our discovery software for the on-line catalog:
 
 Policies for our e-books, audiobooks, streaming music, movies, and kids' stuff:
 
-  * [3M Cloud Library](http://ebookdownload.3m.com/apps/3MCloudLibrary_TOU.html)
-  * [Alexander Street Press](http://alexanderstreet.com/privacy-statement)
-  * [BookFlix](http://www.scholastic.com/edtechprivacy.htm)
-  * [eBrary and ProQuest products](http://0-www.proquest.com.catalog.multcolib.org/about/privacy-statement.html)
-  * [Ebsco](http://web.a.ebscohost.com/ehost/external?sid=6c6f4765-ab5f-4813-b8c6-2c8deceb4815%40sessionmgr4004&vid=1&hid=4112)
+  * [Alexander Street Press](http://alexanderstreet.com/page/privacy-statement-0)
+  * [EBook Central and ProQuest products](http://www.proquest.com/about/privacy-statement.html)
+  * [Ebsco](https://www.ebsco.com/company/privacy-policy?_ga=2.221103889.840558856.1498501073-856146874.1497552343)
   * [Gale products](http://0-www.gale.com.catalog.multcolib.org/epcopyright/index.htm#privacy)
   * [Hoopla](https://www.hoopladigital.com/privacy)
   * [IndieFlix](https://indieflix.com/policies/privacy)
   * [OverDrive](https://www.overdrive.com/fine-print/account-privacy-policy)
   * [OverDrive Kids](http://company.overdrive.com/education/k-12-schools/privacy-policy-for-children)
-  * [StarWalk KidsMedia](https://logintoread.com/information/privacy-policy.html)
   * [TumbleBook Library](http://asp.tumblebooks.com/privacy.aspx)
-  * [Zinio/Recorded Books](https://www.rbdigital.com/media/RBdigital%20Gateway%20Privacy%20Policy%202015.pdf)
+  * [RBDigital](https://www.rbdigital.com/media/RBdigital%20Gateway%20Privacy%20Policy%202015.pdf)
 
 
 
