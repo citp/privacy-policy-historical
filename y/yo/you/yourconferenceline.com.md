@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourconferenceline.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617075423id_/https%3A//instantteleseminar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourconferenceline.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220075027id_/https%3A//instantteleseminar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Instant Teleseminar
 
@@ -52,9 +52,9 @@ We reserve the right to modify this Privacy Policy at any time without notice. P
 
 We can be reached by contacting: 
 
-InstantTeleseminar.com  
-6715 NE 63rd Street Suite #103-516  
-Vancouver WA 98661-1980  
+N Partners, LLC  
+1712 Pioneer Ave Suite 1018  
+Cheyenne WY 82001  
 
 
 Email: support@instantteleseminar.com  
