@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurtraveler.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030101id_/http%3A//amateurtraveler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurtraveler.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220054100id_/http%3A//amateurtraveler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Amateur Traveler Travel Podcast
 
