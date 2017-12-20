@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinadivision.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620144306id_/http%3A//chinadivision.com/agree%3Finformation_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinadivision.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220162856id_/http%3A//www.chinadivision.com/agree%3Finformation_id%3D3) for the most accurate reproduction.*
 
 # 
 
