@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncrtsolutions.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155257id_/http%3A//www.ncrtsolutions.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncrtsolutions.in privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220021731id_/http%3A//www.ncrtsolutions.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : NCERT Solutions PDF
 
@@ -100,3 +100,5 @@ mail@ncrtsolutions.in and we will promptly remove you from **ALL** correspondenc
 **Contacting Us**
 
 If there are any questions regarding this Privacy Policy, Please Contact Us. 
+
+**CBSE NCERT Solutions PDF**
