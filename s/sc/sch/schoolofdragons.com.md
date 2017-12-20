@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolofdragons.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204104633id_/http%3A//www.schoolofdragons.com/Help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolofdragons.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220195539id_/http%3A//www.schoolofdragons.com/Help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - School of Dragons
 
@@ -110,7 +110,7 @@ We make every attempt to allow you to control the way that we use personally ide
 
 
 
-If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from us (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at JumpStart Games, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by e-mailing us at [](mailto:opt-out@jumpstart.com). Please indicate what publications or services you no longer wish to receive so that we may better address your needs.
+If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from us (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at JumpStart Games, Inc., 21250 Hawthorne Blvd., Ste. 380, Torrance, CA 90503. You can also contact us by e-mailing us at [](mailto:opt-out@jumpstart.com). Please indicate what publications or services you no longer wish to receive so that we may better address your needs.
 
 For more detailed information regarding your control over your information, please go [here](https://web.archive.org/help/privacypolicy#sectionic) and [here](https://web.archive.org/help/privacypolicy#sectionv).   
   
@@ -119,7 +119,7 @@ For more detailed information regarding your control over your information, plea
 | 
 
 These Sites are made available by JumpStart Games, Inc., If you have any questions about our information handling practices, including our practices with respect to children’s personal information, please contact us at:  
-JumpStart Games, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by e-mailing us at [](mailto:opt-out@jumpstart.com "Email Jump
+JumpStart Games, Inc., 21250 Hawthorne Blvd., Ste. 380, Torrance, CA 90503. You can also contact us by e-mailing us at [](mailto:opt-out@jumpstart.com "Email Jump
 Start"). Please indicate what publications or services you no longer wish to receive so that we may better address your needs.  
   
 ## QUICK LINKS.
@@ -327,13 +327,13 @@ The websites that comprise the Sites may contain links to other sites, including
 
 ## VIII. YOUR CALIFORNIA PRIVACY RIGHTS.
 
-California Civil Code Section 1798.83 permits our users who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from us (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at JumpStart Games, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by e-mailing us at [](mailto:opt-out@jumpstart.com). Please indicate what publications or services you no longer wish to receive so that we may better address your request.
+California Civil Code Section 1798.83 permits our users who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from us (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at JumpStart Games, Inc., 21250 Hawthorne Blvd., Ste. 380, Torrance, CA 90503. You can also contact us by e-mailing us at [](mailto:opt-out@jumpstart.com). Please indicate what publications or services you no longer wish to receive so that we may better address your request.
 
 This document is the sole statement of the Sites' Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. In interpreting this Agreement, the English version governs the interpretation and meaning of the obligation set forth herein. To the extent there is an ambiguity or conflict with the Privacy Policy in other languages, the Privacy Policy in English governs.
 
 ## IX. CONTACT US
 
 If you have any other questions about our information handling practices, including our practices with respect to children's personal information, please contact us at:  
-JumpStart Games, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by either calling 310-533-3400 or e-mailing us at [](mailto:privacy@jumpstart.com).
+JumpStart Games, Inc., 21250 Hawthorne Blvd., Ste. 380, Torrance, CA 90503. You can also contact us by either calling 310-533-3400 or e-mailing us at [](mailto:privacy@jumpstart.com).
 
 ________________________________________ 
