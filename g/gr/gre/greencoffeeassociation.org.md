@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greencoffeeassociation.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612234823id_/http%3A//greencoffeeassociation.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greencoffeeassociation.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220014825id_/http%3A//greencoffeeassociation.org/privacypolicy) for the most accurate reproduction.*
 
 # Green Coffee Association - Privacy Policy
 
@@ -30,12 +30,15 @@ We are committed to conducting our business in accordance with these principles 
 
 #### Upcoming Events
 
-#### 2017 GCA Convention
+  
 
-June 7-9, 2017  
-JW Marriott Marquis   
-Miami, Florida  
-[LEARN MORE](http://greencoffeeassociation.org/announcements/details/2017_gca_convention/)
+
+#### 2017 GCA Annual Holiday Party
+
+December 1, 2017  
+The Down Town Association  
+New York, NY  
+[LEARN MORE](http://greencoffeeassociation.org/announcements/details/2017_gca_holiday_party/)
 
   
 
