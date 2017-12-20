@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617214258id_/http%3A//dentaquest.com/hipaa-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220214520id_/http%3A//www.dentaquest.com/hipaa-privacy-policy) for the most accurate reproduction.*
 
 # DentaQuest - HIPAA Privacy Policy
 
@@ -8,7 +8,7 @@
 
 DentaQuest takes your privacy seriously. We want to tell you about our privacy practices to protect your personal health information.
 
-####  How do we use health information?
+#### How do we use health information?
 
 **DentaQuest uses your health information to pay dentists and others who provide you with dental care or services, and to conduct normal business known as dental care operations. Examples of how we use your information include:**
 
@@ -19,7 +19,7 @@ DentaQuest takes your privacy seriously. We want to tell you about our privacy p
 
 We comply with all applicable state and federal laws, including any laws that impact our ability to use your health information for payment and operations.
 
-####  Other Services
+#### Other Services
 
 **We may also use information to:**
 
@@ -31,7 +31,7 @@ We comply with all applicable state and federal laws, including any laws that im
 
 
 
-####  Information We Share
+#### Information We Share
 
 **There are limited times when we are permitted or required to disclose health information without your signed permission. These situations are listed below:**
 
@@ -47,7 +47,7 @@ We comply with all applicable state and federal laws, including any laws that im
 
 All other uses and disclosures, not previously described, may only be made with your signed authorization. You may revoke your authorization at any time. [Click here](https://web.archive.org/getattachment/HIPAA-Privacy-Policy/AuthorizationPHI.pdf) for the authorization form.
 
-####  Our Responsibilities
+#### Our Responsibilities
 
 **DentaQuest is required by law to:**
 
@@ -58,7 +58,7 @@ All other uses and disclosures, not previously described, may only be made with 
 
 
 
-####  Your Rights
+#### Your Rights
 
 **You have the right to:**
 
@@ -73,7 +73,7 @@ All other uses and disclosures, not previously described, may only be made with 
 
 Requests followed by an asterisk (*) must be in writing.
 
-####  Financial Privacy Policy
+#### Financial Privacy Policy
 
 **We do not give your financial information to any person or persons not affiliated with DentaQuest. It is important to us that you understand what financial information we gather and how we use it to administer your benefits and serve you better.**
 
@@ -82,7 +82,7 @@ Requests followed by an asterisk (*) must be in writing.
 
 
 
-####  EDI Compliance 
+#### EDI Compliance 
 
 **DentaQuest is required by law to provide an EDI Connectivity Guide:**
 
@@ -90,6 +90,6 @@ As of January 1st 2013, DentaQuest is compliant with the Phase II CORE 270: Conn
 
  __
 
-  it's availabel for download.
+  it's available for download.
 
 * * *
