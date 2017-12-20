@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farrahgray.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616005917id_/http%3A//farrahgray.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farrahgray.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220090831id_/http%3A//farrahgray.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Farrah Gray
 
