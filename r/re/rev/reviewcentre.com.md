@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628081209id_/http%3A//www.reviewcentre.com/ct634.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221000418id_/http%3A//www.reviewcentre.com/ct634.html) for the most accurate reproduction.*
 
 # Privacy Policy - Review Centre
 
@@ -8,7 +8,7 @@
 
 It is also intended to assist You in making informed decisions when using our Website and our products and services. Please take a minute to read and understand the policy. 
 
-All Your Information shall be held and used in accordance with the Data Protection Act1998 (the '' **Act** '') where applicable. If You want to know what Information we collect and hold about You, please write to us at: Goodwin House, 5 Union Court, Richmond, Surrey TW9 1AA.
+All Your Information shall be held and used in accordance with the Data Protection Act1998 (the '' **Act** '') where applicable. If You want to know what Information we collect and hold about You, please write to us at: 10 Indigo House, Mulberry Business Park, Fishponds Road, Wokingham, Berkshire, RG41 2GY.
 
 Review Centre Ltd is the data controller of Your Information for the purposes of the Act.
 
