@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marksandspencer.ie privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621130939id_/http%3A//www.marksandspencer.ie/Privacy-Policy/privacy-policy%2Cen_IE%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksandspencer.ie privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220161558id_/http%3A//www.marksandspencer.ie/Privacy-Policy/privacy-policy%2Cen_IE%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,13 +10,15 @@
 
 ## Who we are
 
-Marks and Spencer (Ireland) Limited (“M&S”) is a company incorporated in Ireland with Company Number 16855 whose registered office is at 24-29 Mary Street, Dublin1, Ireland. Registered VAT number is GB 975 1954 76.
+Marks and Spencer Ireland (Limited) is a company registered in Ireland (Company Number 16855) whose registered office is at 24-29 Mary Street, Dublin 1, Ireland. Registered VAT number is GB 975 1954 76.
 
 M&S is part of the group of companies which are wholly or partly owned by Marks and Spencer plc (“M&S Group”). M&S Group includes other associated M&S companies from time-to-time. M&S may communicate your data to other members of the M&S Group who will also act as data controllers for the purposes set out in this Policy.
 
 We respect your right to privacy and will only process personal data you provide to us in accordance with the Data Protection Acts 1988 and 2003 and other applicable privacy laws.
 
 If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please contact us by any of the following means:
+
+Marks and Spencer (Ireland) Limited. Registered office: 24-29 Mary Street, Dublin 1, Ireland. Registered number: 16855.
 
 Email us at customer@service.marksandspencer.ie  
 Telephone us on 00353 632072812
