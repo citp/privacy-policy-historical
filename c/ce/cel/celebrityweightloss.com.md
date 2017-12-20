@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrityweightloss.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083359id_/http%3A//www.celebrityweightloss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrityweightloss.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220222043id_/http%3A//www.celebrityweightloss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Celebrity Weight Loss
 
@@ -152,6 +152,6 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 **  
 If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-policy@celebrityweightloss.com and we will promptly remove you from **ALL** correspondence.
+[[email protected]](http://www.celebrityweightloss.com/cdn-cgi/l/email-protection) and we will promptly remove you from **ALL** correspondence.
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
