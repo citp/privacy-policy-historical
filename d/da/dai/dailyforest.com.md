@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyforest.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609010131id_/http%3A//www.dailyforest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyforest.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220193053id_/http%3A//www.dailyforest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DailyForest
 
