@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.co.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628052044id_/http%3A//www.statravel.co.uk/general-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.co.uk privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220181907id_/http%3A//www.statravel.co.uk/general-policy.htm) for the most accurate reproduction.*
 
 # Legalities | STA Travel | General policy & Privacy policy
 
@@ -17,7 +17,7 @@ If you have booked with us you will automatically be sent one newsletter from us
 
 If you have entered an STA Travel Facebook competition you would have agreed to subscribe to our email newsletters. You can unsubscribe using the link in the email at any time.
 
-You are legally entitled to know what personal information an organisation holds about you and how that information is processed. If you would like to know what information we currently hold about you, please [contact us.](https://web.archive.org/travel-help-new.htm)
+You are legally entitled to know what personal information an organisation holds about you and how that information is processed. If you would like to know what information we currently hold about you, please [contact us.](http://forms-customercare.statravel.com/?division=UK&_ga=2.128556805.823422502.1506421760-257923017.1503484850#/existing_booking)
 
 ### Mobile
 
@@ -29,7 +29,8 @@ Participants in mobile marketing under the age of 16 should seek permission from
 
 If you wish to unsubscribe from our email communications, please do so at any time by clicking the unsubscribe link in the newsletter.
 
-If you wish to opt out of mobile marketing, please do so at any time by texting STOP to **07624 802 238.**
+If you wish to opt out of mobile marketing, please do so at any time by texting STOP to **07624 802 238.**  
+ 
 
 ### Checkout Assistance Service
 
@@ -52,6 +53,10 @@ At STA Travel, credit card security is of paramount importance. STA Travel uses 
 ### 0871 number - Controlled Premium Rate Service (PRS)
 
 Calls cost 10 pence per minute from a BT landline.  Calls from mobiles will cost more, please check with your provider.
+
+### No Unlawful or Prohibited Use Of This Website
+
+As a condition of your use of this website, you agree that you will not use this website for any purpose that is unlawful or prohibited by these terms and conditions. You agree that you will not perform such actions which would purposely affect the sites performance and stability.
 
 ### Links
 
@@ -85,8 +90,8 @@ If you would like more information about this practice and would like to know yo
 
 If we don't ask you about your travel insurance when you book a trip with us, then you'll get it for absolutely nothing.
 
-**Terms and Conditions  
-**  
+**Terms and Conditions**
+
 Free Travel Insurance is only offered, at your request, if insurance has not been mentioned during a visit or call to STA Travel and if you are leaving a deposit or full payment on another STA Travel product i.e. flight, tour, or accommodation. The consultant has up until the time payment is taken for a product to mention insurance. For clarification free Travel Insurance will not be offered on enquiries, only on firm bookings resulting in payment where insurance has not been mentioned. You must enquire about the free insurance offer during that visit or during that phone call to qualify. Free Insurance cannot be offered once you have left the store or the call has ended.
 
 This offer only applies to customer enquiries made in our retail shops or by calling our dedicated contact centre telephone number as above, it is not available with online bookings, live chat enquiries or email enquiries.
