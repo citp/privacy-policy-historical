@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourtoolbar.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625123845id_/http%3A//ourtoolbar.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourtoolbar.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220214644id_/http%3A//www.ourtoolbar.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
