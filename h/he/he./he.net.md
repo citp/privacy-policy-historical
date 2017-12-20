@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the he.net privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607133420id_/http%3A//he.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the he.net privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220013316id_/http%3A//he.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
