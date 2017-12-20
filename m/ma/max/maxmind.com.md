@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the maxmind.com privacy policy that was archived on 2017-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170112003506id_/https%3A//www.maxmind.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxmind.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220162004id_/https%3A//www.maxmind.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | MaxMind
 
-_Effective Date: 2016/11/28_
+_Effective Date: 2017/12/07_
 
 This Privacy Policy discloses the privacy practices of MaxMind, Inc. (sometimes referred to in this Privacy Policy as "MaxMind", "we", or "us"), in connection with the MaxMind.com website (the "Website") and any features and online services provided by MaxMind that post or include a link to this Privacy Policy (collectively, the "Services"). We have provided this statement of our Privacy Policy to answer your questions about the types of information that we gather and the ways in which we use and share this information.
 
@@ -12,9 +12,7 @@ This Privacy Policy applies to the MaxMind.com website and any features and onli
 
 This Privacy Policy also does not cover how MaxMind customers may treat your information as the use of your information by such parties is governed by the privacy policies of such parties and is not subject to MaxMind's control.
 
-MaxMind complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. MaxMind has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
-
-MaxMind complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. MaxMind has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this Privacy Policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+MaxMind complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union and Switzerland to the United States, respectively. MaxMind has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
 MaxMind treats personal information – which for purposes of this Section 2 means Personally Identifiable Information (as defined in Section 3 below) that are within the scope of the European Union Data Protection Directive, received by MaxMind in the United States from the European Union, and recorded in any form - as summarized below:
 
@@ -50,17 +48,9 @@ MaxMind is subject to the investigatory and enforcement jurisdiction of the Unit
 
 Any inquiries or complaints relating to MaxMind's compliance with Privacy Shield, including any requests for access or correction of personal information, may be addressed to the person identified in Section 11 of this Privacy Policy. MaxMind will investigate and attempt to resolve any inquiries brought to its attention.
 
-MaxMind has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. Alternatively you can write directly to the Council of Better Business Bureaus at the address below:
+MaxMind commits to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 
-Council of Better Business Bureaus, Inc.  
-BBB EU Privacy Shield  
-3033 Wilson Boulevard, Suite 600  
-Arlington, VA 22201  
-U.S.A.
-
-Finally and under limited circumstances, in the event your complaint is not resolved through these channels a binding arbitration option may be available for a Privacy Shield Panel.
-
-MaxMind has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/EU-privacy-shield/bbb-eu-safe-harbor-dispute-resolution/) for more information and to file a complaint.
+Under limited circumstances, in the event your complaint is not resolved through these channels a binding arbitration option may be available for a Privacy Shield Panel.
 
 ## Limitations
 
@@ -178,7 +168,7 @@ California customers may request information about our compliance with this law 
 
 In addition to the opt-out rights set forth above, MaxMind permits European Union, European Economic Area, and Switzerland data subjects the option of choosing to opt-out of: (a) the disclosure of their personal information to third parties, and (b) the use of their personal information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. Individuals residing in the European Union, European Economic Area, and Switzerland and wishing to make an opt-out request should contact MaxMind directly using the information at Section 11, below.
 
-MaxMind works with certain third parties (including analytics companies) to provide us with information regarding traffic on and use of the Services. Some of these parties may collect Personally Identifiable Information when you visit the Services or other online websites and services. These third parties may set and access their own tracking technologies (including cookies, embedded scripts, and web beacons) and may otherwise collect or have access to your IP address or other unique identifier, log information, and related information about you. These tracking technologies, including the Google Analytics User ID feature, may be used to assist in providing analytics, marketing, and for other purposes. MaxMind does not control the information collection, use, or sharing practices of third party analytics providers. Some third parties may collect Personally Identifiable Information about your online activities over time and across different websites when you use the Services.
+MaxMind works with certain third parties (including analytics companies) to provide us with information regarding traffic on and use of the Services. Some of these parties may collect Personally Identifiable Information when you visit the Services or other online websites and services. These third parties may set and access their own tracking technologies (including cookies, embedded scripts, and web beacons) and may otherwise collect or have access to your IP address or other unique identifier, log information, and related information about you. These tracking technologies, including the Google Analytics User ID feature, may be used to assist in providing analytics, marketing, and for other purposes. We also use third party plug-ins from Swiftype to provide you with in-site search functionality. Swiftype's privacy policy is available at <https://swiftype.com/privacy>. MaxMind does not control the information collection, use, or sharing practices of such third party providers, and we encourage you to consult their online policies. Some third parties may collect Personally Identifiable Information about your online activities over time and across different websites when you use the Services.
 
 You may exercise choices regarding the use of cookies from Google Analytics by going to <https://tools.google.com/dlpage/gaoptout> or downloading the Google Analytics Opt-out Browser Add-on.
 
@@ -192,7 +182,7 @@ The Services are not intended for use by children under the age of thirteen year
 
 We will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. If there are material changes to this Privacy Policy or in how we use your Personally Identifiable Information, we will prominently post such changes prior to implementing the change. We encourage you to periodically review this Privacy Policy to be informed of how we are collecting and using your information.
 
-If you have any questions or complaints about this Privacy Policy or our compliance with Privacy Shield, or you wish to exercise your opt-out rights hereunder or access or correct data applicable to you, or you want more information about our participation in the EU-US Privacy Shield or the Swiss-US Safe Harbor, you may email us at [legal@maxmind.com](mailto:legal@maxmind.com) or contact us by postal mail at the following address:
+If you have any questions or complaints about this Privacy Policy or our compliance with Privacy Shield, or you wish to exercise your opt-out rights hereunder or access or correct data applicable to you, or you want more information about our participation in the EU-US or Swiss-US Privacy Shield, you may email us at [legal@maxmind.com](mailto:legal@maxmind.com) or contact us by postal mail at the following address:
 
 Jason Ketola (Privacy Agent)  
 Legal Department  
