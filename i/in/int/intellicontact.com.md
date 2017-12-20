@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intellicontact.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626204242id_/https%3A//www.icontact.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellicontact.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221001029id_/https%3A//www.icontact.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iContact
 
-**Effective Date: June  1, 2016**
+**Effective Date: June  13, 2017**
 
 This “Privacy Policy” is incorporated by reference in iContact LLC’s End User Service Agreement (“EUSA”) and its Terms of Use, posted at [www.icontact.com](https://www.icontact.com/ "iContact"). We have created this Privacy Policy to reflect our firm commitment to your privacy and the protection of your personal data. This Privacy Policy applies to information that we collect and maintain about you when you visit [www.icontact.com](https://www.icontact.com/ "iContact"). (“Site”) and when you use our services, as well as information collected from other sources, such as information you provide at tradeshows or seminars or to our business partners. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
@@ -78,23 +78,7 @@ The Site contains links to third party websites. We are not responsible for the 
 
 #### How Do We Use Cookies & Other Tracking Technologies?
 
-iContact and our partners, such as marketing service providers, partners, vendors, affiliates, or analytics or service providers use cookies and similar tracking technologies. These technologies are used to tailoring offers, promotions and content and in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-When you interact with the Site, we strive to make your experience easy and meaningful. We may use or engage others to use cookies clear gifs and Flash LSOs to track user activity and collect Site Data. In addition, we may combine the Site Data we collect with the other data we collect.
-
- **Cookies** : When you come to the Site, our web server sends a cookie to your computer. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. There are two types of cookies: session-based and persistent-based cookies. In addition, we may permit certain third parties to place cookies through our website.
-
-  *  **Session Cookies**. Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. iContact uses session cookies to allow the system to uniquely identify you while you are logged in to the Site. This allows us to process your online transactions and requests, and to verify your identity, after you have logged in, as you move through our Site.
-  *  **Persistent cookies**. Persistent cookies remain on your computer after you have closed your browser or turned off your computer. iContact uses persistent cookies to track aggregate and statistical information about user activity, to identify the fact that you are an iContact customer or prior Site visitor, and to display advertising, both on our Site and on third-party sites.
-  *  **Disabling Cookies** : Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Site visitors who disable their web browsers’ ability to accept cookies will be able to browse the Site; however, you must enable cookies in order to use our services.
-
-
-
- **Flash LSOs** : We may use local shared objects, such as HTML5 or Flash also known as Flash cookies, to store your Site preferences, to personalize your visit, or to display content based upon what you view on our Site. Third Parties with whom we partner to provide certain features on our Site or to display advertising based upon your Web browsing activity, may use Flash cookies to collect and store information. We do not have access to or control over these third party cookies nor does this Privacy Policy cover such third parties’ use of data. Flash LSOs are different from browser cookies because of the amount and type of data stored. Typically, you cannot typically control, delete, or disable the acceptance of Flash cookies through your web browser. For more information on Flash LSOs, or to learn how to manage your settings for Flash LSOs, go to the Adobe Flash Player Help Page, choose “Global Storage Settings Panel.” Various browsers may offer their own management tools for removing HTML5 LSOs.
-
- **Third Party Analytics and Tracking**. We use automated devices and applications, such as Google Analytics, to evaluate usage of our Site. We also may use other analytic means to evaluate our Services. We use these tools to help us improve our Services, performance and user experiences. These entities may use cookies and other tracking technologies to perform their services. We do not share your personal information with these third parties. We have no access or control over these types of analytics and tracking. Our privacy policy does not cover these analytics and tracking.
-
-As is true of most web sites, we also gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. Some of this information may be appended to other information we may have collected about you.
+iContact and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole to provide our services. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 #### What About Third-Party Ad Networks?
 
@@ -102,7 +86,7 @@ We partner with a third party to manage our advertising on other sites. Our thir
 
 #### How Can I Access My Information?
 
-Customers may access and amend the contact information and other account information we have collected from them by logging in to their accounts and changing their account information. In addition, individuals may request access to and modification or deletion of any personal data we have collected about them by e-mailing [customercare@icontact.com](mailto:customercare@icontact.com). We will respond to your access request within 30 days.
+Upon request iContact will provide you with information about whether we hold any of your personal information. Customers may access and amend the contact information and other account information we have collected from them by logging in to their accounts and changing their account information. In addition, individuals may request access to and modification or deletion of any personal data we have collected about them by e-mailing [customercare@icontact.com](mailto:customercare@icontact.com). We will respond to your access request within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [customercare@icontact.com](mailto:customercare@icontact.com). We will retain and use your information as necessary to comply with our legal obligations, support our business operations, resolve disputes, and enforce our agreements.
 
@@ -110,41 +94,37 @@ We will retain your information for as long as your account is active or as need
 
  **Import Contacts.** iContact offers a variety of means to import contacts. One-at-a-time import provides the user with the ability to add a single contact and to fill out that contact’s information, one field at a time. A user also is able to upload a single contact in the form of a .vcf ( VCard) file, which can be retrieved from an email client, such as Microsoft Outlook. Bulk contact upload can be done in two different ways. If a user is simply adding email addresses, they can copy and paste them from a program, such as Notepad. Alternatively, if a user wants to upload many contacts with various amounts of subscriber data, iContact supports the upload of both .xls and .csv files. The imported contact information will only be used for the sole purpose of utilizing the iContact services.
 
- **Single Sign-On.** With certain social media sites, You can choose to log in to our site using single sign-on. These services will authenticate your identity and provide you the option to share certain personal data with us such as your name and email address to pre-populate our sign up form. These services may give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+ **Single Sign-On.** With certain social media sites, you can choose to log in to our site using single sign-on. These services will authenticate your identity and provide you the option to share certain personal data with us such as your name and email address to pre-populate our sign up form. These services may give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
  **Social Media Widgets.** Our Web site includes social media features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
-
-iContact complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. iContact adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view iContact’s certification, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
 
 The majority of our customers are businesses; however, some the information we collect about customers and potential customers may identify or relate to an individual, rather than a business. We will use such data in accordance with this Privacy Policy. For example, we may send marketing communications to our customers and potential customers, and we may also allow our affiliated companies to send marketing communications to our customers and potential customers; you may opt out of receiving marketing communications from us and from our affiliated companies by emailing us at [customercare@icontact.com](mailto:customercare@icontact.com).
 
 We may also receive personal data about individual Customer Message Recipients (defined above), from or on behalf of iContact’s customers. We process personal data about Customer Message Recipients only on behalf of and under the direction of our customers, and the collection, use and disclosure of such data is subject to the customer’s privacy policy, not this one.
 
-For questions about our Safe Harbor certification, please contact us at [vocus@safeharbor.com](mailto:vocus@safeharbor.com). 
-
 #### What About Children Under 13?
 
 Our Site and services are not intended to be used by children under 13 years old. If we discover that a child under 13 has provided us with personal data, we will remove it from our systems immediately.
-
-#### How Do You Submit a Question or Complaint?
-
-iContact has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.icontact.com](https://www.icontact.com/).
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 #### How Will We Notify You of Privacy Policy Changes?
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes that affect the information we have previously collected about you, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Your continued use of our Site and/or services constitutes consideration and your acceptance to any such changes. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-#### iContact Safe Harbor Policy
+### iContact EU Privacy Policy
 
 **Effective date: October 17, 2011**
 
-**Updated June  1, 2016**
+**Updated June  13, 2017**
 
 iContact LLC (“iContact”) understands and values the importance of individual privacy. This Privacy Policy (“Policy”) is designed to inform our European Customers of: (1) how we collect, use and disclose Personal Data that is transferred to iContact in the United States; (2) individuals’ choices with regard to how such Personal Data will be used or disclosed by iContact; and (3) individuals’ other rights with regard to that Personal Data.
 
-This Policy complies with the Safe Harbor Principles as agreed upon by the U.S. Department of Commerce with the European Commission, as well as those agreed upon with the Federal Data Protection and Information Commissioner of Switzerland (collectively, “Safe Harbor Principles”), which can be found at [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/ "http://www.export.gov/safeharbor/").
+iContact LLC participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/).
+
+iContact LLC is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. iContact LLC complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, iContact LLC is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, iContact LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+Under certain conditions, more fully described on the [Privacy Shield](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) website, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 This Policy applies only to the processing of Personal Data (defined below) that iContact receives in the United States from its European Customers (defined below). Most iContact Customers are businesses, not individuals. However, iContact may also receive Personal Data about individual Message Recipients (defined below) on a Customer’s e-mail marketing or contact lists. We process the Personal Data of a Customer’s Message Recipients only on behalf of and under the direction of the Customer, and the collection, use and disclosure of such data is subject to the Customer’s privacy policy.
 
@@ -164,7 +144,7 @@ Where permitted, iContact also may use the Personal Data we collect to contact o
 
 Except as otherwise provided herein, iContact discloses Personal Data only to Third Parties who reasonably need to know such data for a legitimate business purpose of iContact’s. Such recipients must agree to abide by confidentiality obligations.
 
-iContact may provide Personal Data to Third Parties who act as agents to perform tasks on behalf of and under the instructions of iContact. These Third Parties must agree to use such Personal Data only for the purposes for which they have been engaged by iContact and they must either: (1) comply with the EU-US Safe Harbor principles or another method permitted by the EU Data Protection Directive for transfers and processing of Personal Data outside of the EU; or (2) agree to provide adequate protections for the Personal Data that are no less protective than those set out in this Policy. iContact may also disclose Personal Data for other purposes or to other Third Parties, when a Data Subject has consented to such disclosures.
+iContact may provide Personal Data to Third Parties who act as agents to perform tasks on behalf of and under the instructions of iContact. These Third Parties must agree to use such Personal Data only for the purposes for which they have been engaged by iContact and they must either: (1) comply with the Privacy Shield principles or another method permitted by the EU Data Protection Directive for transfers and processing of Personal Data outside of the EU; or (2) agree to provide adequate protections for the Personal Data that are no less protective than those set out in this Policy. iContact may also disclose Personal Data for other purposes or to other Third Parties, when a Data Subject has consented to such disclosures.
 
 The disclosure of a Customer’s Message Recipient Personal Data is subject to the Customer’s Privacy Policy. iContact will not use or disclose such Personal Data other than as directed by the Customer.
 
@@ -178,11 +158,11 @@ iContact uses reasonable efforts to maintain the accuracy and integrity of Perso
 
 #### 6\. RIGHT TO ACCESS, CHANGE OR DELETE PERSONAL DATA
 
-Upon reasonable request and to the extent the request does not compromise the protections set forth in this Policy, iContact allows Customers reasonable access to their own Personal Data. Data Subject’s may request that iContact correct, amend or delete such data where it is inaccurate. iContact will grant such requests, except where doing so would cause unreasonable burden or expense, or pose a risk to such individual’s privacy. If you wish to access, change, or delete your Personal Data held by iContact, please e-mail customercare@icontact.com. iContact will endeavor to respond in a timely manner to all reasonable requests.
+Upon reasonable request and to the extent the request does not compromise the protections set forth in this Policy, iContact allows Customers reasonable access to their own Personal Data. Data Subject’s may request that iContact correct, amend or delete such data where it is inaccurate. iContact will grant such requests, except where doing so would cause unreasonable burden or expense, or pose a risk to such individual’s privacy. If you wish to access, change, or delete your Personal Data held by iContact, please e-mail [customercare@icontact.com](mailto:customercare@icontact.com "customercare@icontact.com"). iContact will endeavor to respond in a timely manner to all reasonable requests.
 
 #### 7\. CHANGES TO THIS POLICY
 
-This Policy may be amended from time to time, consistent with the Safe Harbor Principles and applicable data protection and privacy laws and principles. We will notify you if we make changes that materially affect the way we handle your Personal Data previously collected, and allow you to opt-out of having your Personal Data used in any materially different manner.
+This Policy may be amended from time to time, consistent with applicable data protection and privacy laws and principles. We will notify you if we make changes that materially affect the way we handle your Personal Data previously collected, and allow you to opt-out of having your Personal Data used in any materially different manner.
 
 #### 8\. QUESTIONS OR COMPLAINTS
 
