@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extratv.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620065903id_/http%3A//www.wb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extratv.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220044221id_/http%3A//www.wb.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - WarnerBros.com - The Studio
+# Privacy Policy - Warner Bros. - The Studio
 
 Privacy Policy
 
@@ -135,7 +135,7 @@ Visitors to this Site may participate in many activities without providing any p
 
 **INTERNATIONAL TRANSFER**
 
-We operate internationally, and many of our computer systems are currently based in the United States, this means Information we collect will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with our Sites as a visitor from outside the United States, you consent to the collection and/or processing in the United States of Information we collect from you.
+We operate internationally, and many of our computer systems are currently based in the United States, this means Information we collect will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you use or visit our Sites from outside the United States, you consent to the collection and/or processing in the United States of Information we collect from you.
 
 **NOTIFICATION REGARDING UPDATES**
 
