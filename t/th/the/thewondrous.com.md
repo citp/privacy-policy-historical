@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thewondrous.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528223748id_/https%3A//thewondrous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewondrous.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220055940id_/https%3A//thewondrous.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Wondrous
 
 **Privacy Policy for thewondrous.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@thewondrous.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At thewondrous.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by thewondrous.com and how it is used.
 
