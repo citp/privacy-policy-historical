@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diablohub.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620172023id_/http%3A//www.diablohub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diablohub.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220053328id_/http%3A//www.diablohub.com/privacy) for the most accurate reproduction.*
 
-# DiabloHub - Your source for everything Diablo 3
+# Privacy Policy
 
-_Last updated March 1st, 2013_
+_Last updated September 13th, 2017_
 
 DiabloHub is respects the privacy rights and concerns of all users using this website. To make this notice easy to find, we have made it available on every page of the website.
 
