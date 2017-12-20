@@ -1,101 +1,54 @@
-> *The following text is extracted and transformed from the clicktale.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628022829id_/https%3A//www.clicktale.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktale.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221005521id_/https%3A//www.clicktale.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Clicktale's Privacy Policy
 
 **Privacy Policy for Information Collected by the Clicktale Ltd. ("Clicktale") Website (the "Website")**
 
-**Last updated 12 August 2013**
+**Last updated August 28, 2017**
 
-This Privacy Policy outlines the information collected on the Clicktale website and how that information is used. For information about our service see [Privacy Policy for Information Collected by the Clicktale Web Analytics Service](https://web.archive.org/company/privacy-service/ "Privacy Service").
+As part of Clicktale Ltd.’s (and its affiliates’) (“Clicktale”) commitment to protecting your privacy, Clicktale has adopted the following privacy policy explaining its data collection and usage practices.
 
-  1. **Clicktale Web Analytics Service**
+Please note that this privacy policy relates to the data Clicktale receives through: (i) use of its Website (including mobile website); (ii) its marketing activities including, registrations as part of webinars, conference events, emails etc.; and (iii) any other product or activity that links to or otherwise references this privacy policy.
 
+THIS PRIVACY POLICY DOES NOT APPLY TO THE INFORMATION COLLECTED THROUGH THE CLICKTALE SERVICE USED BY CLICKTALE CUSTOMERS. FOR INFORMATION ABOUT CLICKTALE’S PRIVACY PRACTICES IN CONNECTION WITH INFORMATION COLLECTED THROUGH THE CLICKTALE SERVICE BY CLICKTALE CUSTOMERS [PLEASE SEE PRIVACY POLICY FOR INFORMATION COLLECTED BY THE CLICKTALE WEB ANALYTICS SERVICE.](https://web.archive.org/company/privacy-service/ "Privacy Service")
 
+  1. **What types of Information does Clicktale collect?** Clicktale may collect certain Personal Information, Technical Information and Usage Information (collectively, “ **Information** ”).   
+a. “Personal Information” refers to any personal information such as Name, Email, Phone Number or other contact details that is provided through any form or field or is otherwise submitted or provided to Clicktale.   
+b. “Technical Information” refers to data such as IP address, browser type, operating system, device type and other similar technical information that is typically received from your browser or device when visiting the Clicktale Website.  
+c. “Usage Information” refers to the information related to your use of our Website, including where you clicked, scrolled, and navigated to on the Website; information related to whether you receive, opened or clicked on any links in an email sent to you. Furthermore, Clicktale may receive the webpage that led you to our Website.
+  2. **How does Clicktale collect such Information?** Clicktale may use various methods to collect Information, including:  
+a. Use by Clicktale of its own Clicktale service. The Clicktale service may collect Usage Information and Technical Information as well as any text or Personal Information you type in the Clicktale Website.   
+b. Cookies and other similar technologies (e.g. HTML5 Local Storage, LSO, web beacons, JavaScript, etc.) (collectively, “ **Information Technologies** ”) that Clicktale may us on its Website. For more information on Information Technologies click here.  
+c. When you voluntarily provide information - for example, in any form, registration, community forums, search request or request for information.  
+d. Third party tools such as analytic tools and advertising services. We may partner with and use various third party software and services (“ **Third Party Partners** ”) in order to analyze and improve our Website and serve you advertisements (including remarketing ads across the Internet by Google or other Third Party Partners). In connection with the services provided by such Third Party Partners, we or the Third Party Partner may use first-party cookies and/or third-party cookies. Along with cookies, the Third Party Partner may use other Information Technologies to compile Technical Information and Usage Information, and to provide measurement services and target ads.  
+Certain advertisers (including Google) may be members of NAI and/or the Digital Advertising Alliance. You may opt out from such advertiser’s services here (http://www.networkadvertising.org/choices/) or at the following link: [www.aboutads.info/choices](http://www.aboutads.info/choices)
+  3. **How does Clicktale use Information?** Clicktale uses Information for the following purposes:  
+a. For marketing and client relations, such as a periodic newsletter email or to inform you of new products and services.   
+b. To contact you and offer you Clicktale’s products and services.  
+c. Problem diagnosis, audit, research and analysis to operate and improve the Website, Clicktale services and Information Technology.   
+d. To customize the Website and/or provide you with ads in connection with your use of the Website.   
+e. To process your inquiries and respond to your requests.   
+f. To prevent fraud or imminent harm, and ensure the security of Clicktale network and services.
+  4. **With whom does Clicktale share Information?** In order to conduct its business and perform its services, Clicktale may share Information with various third parties, such as:   
+a. Clicktale subsidiary companies and affiliates.  
+b. Third Party Partners (as defined in Section 2d above).  
+c. Third parties that help us operate our Website and services (e.g. hosting company, payment processors, business management and email distribution service providers and other similar service providers).   
+d. When required by law, and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process.   
+e. Clicktale resellers, agents, sales partners or service providers acting on our behalf in connection with the offering of Clicktale products or services.   
+f. Upon a merger with or are acquisition by another company, sale of a business unit, or if all or a substantial portion of our assets are acquired by another company, Information may be shared with such company. 
 
-This site uses Clicktale web analytics service. Clicktale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. Clicktale does not collect personally identifiable information (PII) that you do not voluntarily enter in this website. Clicktale does not track your browsing habits across web sites which do not use Clicktale services. For more information see Privacy Policy for Information Collected by the Clicktale Web Analytics Service. We are using the information collected by Clicktale service to improve our website, make it more user-friendly and monitor that it is performing correctly. You can choose to disable the Service at[http://www.Clicktale.net/disable.html](http://www.clicktale.net/disable.html).
+To the extent Clicktale needs to provide any Personal Information to a third party for any of the above purposes such third party shall only be permitted to use such Personal Information for the purpose of providing Clicktale with the requested service and not for their own purposes. 
 
-**2.a. Collection of Information - The information we collect and how we collect it**
+Clicktale may publish general aggregate and unidentifiable information (e.g. statistical information) relating to use of its website or success of its marketing campaigns.
 
-The information collected by our website may include:
-
-  1. Any personal details you enter and submit, such as name, address, email address, etc.
-  2. Your IP address, referrer, web pages that you visit and any other data normally stored in website logs.
-
-
-
-iii. Session information stored in cookies that are used to ensure accurate data is extracted from our systems. These cookies do not include any personal data. If you set your browser to reject cookies, you might not be able to login to your Clicktale account.
-
-  1. If you have an account with Clicktale, your preferences and use of email updates.
-  2. Under no circumstances will we hold sensitive payment details such as your credit card number, expiry date and security code. All transactions are handled through one of our 2 accredited payment bureaus:
-
-
-
-\- PayPal. For more information on PayPal’s privacy policy please refer to <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside> and<https://www.paypal.com/row/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy>
-
-\- Adyen. For more information about Adyen’s privacy policy please refer to: <http://www.adyen.com/about/adyen-certifications>
-
-  1. **Third Party Partners:** We may partner with and use various third party software and services (“ **Third Party Partners** ”) in order to analyze and improve our services and serve you advertisements (including remarketing ads across the Internet by Google or other Third Party Partners). In connection with the services provided by such Third Party Partners, we or the Third Party Partner may use first-party cookies and/or third-party cookies.  We do not pass any personally identifiable information to such Third Party Partners without your prior consent.  Along with cookies, the Third Party Partner may use other technologies (such as web beacons, JavaScript) to compile anonymous information about your mouse movements, browser’s or device’s visits and usage patterns, and to provide measurement services and target ads.
-
-
-
-Certain advertisers (including Google) may be members of NAI and/or the Digital Advertising Alliance. You may opt out from such advertiser’s services[here](http://www.networkadvertising.org/choices/) (<http://www.networkadvertising.org/choices/>) or at the following link: [www.aboutads.info/choices](http://www.aboutads.info/choices).
-
-vii. We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. If this information was not made public by the customers themselves, we obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
-
-viii. Our website offers blogs or community forums to allow you to learn more about us. You should be aware that any personally identifiable information you provide in these areas may be read, collected, and used by others who access them. We are not responsible for any personally identifiable information you choose to submit in blogs, forums, chat areas, instant message services, bulletin boards, or any other publicly accessible service or website. To request removal of your personal information from our blog or community forum, contact us via the contact form. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-  1. Our site includes links to other websites whose privacy practices may differ from those of [www.Clicktale.com](http://www.clicktale.com/). If you submit personal information to any of those sites, your information is subject to their privacy statements. We encourage you to carefully read the privacy statement of any website you visit. 
-  2. A web beacon is an electronic image placed on a web page that can serve many of the same purposes that cookies serve, For example, recording the pages you visit on our site. We or third parties may use web beacons to track the traffic patterns of users from one page to another. We or our third party service provider may use web beacons in some of our emails to let us know which emails have been opened by recipients or track click-through rates. This allows us to gauge the effectiveness of our communications to customers and our marketing campaigns. 
-  3. Co-branding - Some pages may have the look and feel of being on [www.Clicktale.com](http://www.clicktale.com/), however the information collected on these pages may not be covered under our privacy statement. All information collected on another website is owned and controlled by that company’s privacy statement. 
-
-
-
-**2.b. Collection of Information - What we do with your information**
-
-Any information we collect will be used in accordance with applicable laws for the following purposes:
-
-  1. To comply with legal requirements.
-  2. In certain cases, we may use your email address to send you information about our products and services, such as a periodic Newsletter. You may opt-out of receiving our newsletter from us by following the unsubscribe instructions included in each newsletter.
-  3. We may use personal information to provide the Clicktale Service. 
-  4. We may use personal information for auditing, research and analysis to operate and improve Clicktale technologies and services. 
-  5. We may share aggregated non-personal information with third parties. 
-  6. We may use and share information with certain third-parties that help us operate our Website and services (e.g. hosting company, payment processors, business management and email distribution service providers and other similar service providers).  When we use such third parties, we restrict them from using or disclosing the information, except as required to perform services on our behalf or to comply with legal orders. 
-  7. We may share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. We may provide your personal information to agents or service providers acting on our behalf for limited purposes. For example, we may share personal information with our agents or service providers to ship your order, or send you email on our behalf. These third parties are authorized to use your personal information only to perform the service they are providing for us. 
-  8. When you send email or other communication to Clicktale, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-  9. We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us via our contact form. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+  5. **How does Clicktale protect Personal Information?**   
+a. We take adequate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of Personal Information. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store Personal Information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, and thus we cannot guarantee its absolute security.
+  6. **Where does Clicktale store Personal Information?** Clicktale stores Personal Information on its own servers as well as those operated by third party data hosting providers. Such servers may be located worldwide. European users acknowledge and agree that such Personal Information may be transferred outside of the European Union to countries which laws may not offer the same protection as those of the European Union. Clicktale’s transfer and use of any such Personal Information shall be in compliance with applicable laws.
+  7. **How this Privacy Policy may be amended?** Clicktale may amend this privacy policy at any time provided that in the event of a material change it shall provide notice in the form of a note near the link to such privacy policy that it has been updated. The updates shall apply immediately for new Information collected or provided as of the day of update and following 30 days for any Information collected or provided to Clicktale prior to the update date. If you do not agree to the terms of the new policy you are requested to contact the Legal Department through the information in Section 8 below.
+  8. **How to contact Clicktale for questions or concerns or to remove Personal Information.**  If you have any questions or concerns about this privacy policy, the information we collect, the practices of Clicktale, or your dealings with this Website, please contact us by sending an email to: legaldepartment@clicktale.com, using our contact form, or by physical mail at: 2 Jabotinsky St., Ramat Gan, 5250501, Israel. Clicktale shall comply with all applicable laws relating to requests to remove Personal Information.
+  9. **Information Technologies. Information Technologies may include:**  
+a. Cookies: A cookie is a small text file transferred to your computer that records information about your preferences. Such cookies may also include cookies which help Clicktale in remembering certain settings that you have chosen; and help Clicktale analyze your use of the Clicktale Website. You can control cookies through your browser's settings. If you reject all cookies, however, you may not be able to view the Clicktale website properly.  
+b. Web Beacons: Web beacons are small pieces of code placed on Web pages, emails or ads that can be used, among other things, to count the users who visit a page, or to understand whether an email or ad was received, opened or any links within it were clicked.  
+c. Java Script and other scripts: These are scripts included within our Website that enable us to analyze how you use our website, including, where you clicked and scrolled, and what information you typed into the website.
 
 
-
-Please don’t send us any communication which contains confidential information. Since we are not able to evaluate whether such communication contains confidential information or not, we may retain or use such confidential information as aforesaid and such retention or use shall not be deemed as a breach of any of our obligations herein. 
-
-Except as described herein, we do NOT:
-
-  1. Disclose your information.
-  2. Share your information with third parties.
-
-
-  3. **Information security**
-
-
-
-Clicktale maintains a strict "no-spam" policy. We do not share, sell, rent, or trade PII with third parties for their promotional purposes.
-
-We take industry standard security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
-
-We restrict access to personal information to Clicktale employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to disciplinary measures, including termination and criminal prosecution, if they fail to meet these obligations.
-
-If Clicktale becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. 
-
-When we receive formal written complaints posted using our Contact Form, it is Clicktale's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Clicktale and an individual.
-
-  4. 4 **. Policy Modifications**
-
-
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement wherever it appears, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-  5. **Contacting us about Privacy**
-
-
-
-If you have any questions about our privacy statement, the information we have collected from you online, the practices of this website, or your dealings with this website, please contact us by using our contact form or by physical mail at: 2 Shoham St., Ramat Gan, 52521, Israel.
