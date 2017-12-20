@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the excite.eu privacy policy that was archived on 2016-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160414005931id_/http%3A//info.excite.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the excite.eu privacy policy that was archived on 2017-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171220220007id_/http%3A//info.excite.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
         
 <title>Excite UK</title>
-<meta http-equiv="expires" content="Thu, 14 Apr 2016 02:59:40 +0200">
+<meta http-equiv="expires" content="Wed, 20 Dec 2017 22:00:07 +0000">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="Cache-Control" content="no-cache">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta http-equiv="Content-type" content="text/html;charset=utf-8">
-<link href="http://static.excite.co.uk/css/common/structure/master.css?v45" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.excite.co.uk/css/common/structure/master.css?v49" media="screen" rel="stylesheet" type="text/css">
 <link href="http://static.excite.co.uk/css/common/structure/staticpage.css?v6" media="screen" rel="stylesheet" type="text/css">
 <link href="http://webfeeds.excite.co.uk/rss/info" rel="alternate" type="application/rss+xml" title="Excite RSS Feed">
 <link href="http://info.excite.co.uk/privacy" rel="canonical">
-<link href="http://static.excite.co.uk/css/common/structure/responsive.css?v9" media="" rel="stylesheet" type="text/css">
+<link href="http://static.excite.co.uk/css/common/structure/responsive.css?v10" media="" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/u/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TV2C2L"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://static.excite.co.uk/js/jquery/plugins/jquery.cookie.js"></script>
 <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"></script>
@@ -43,7 +43,7 @@
 
 <script type="text/javascript">
     googletag.cmd.push(function() {
-        googletag.defineSlot('/1011478/UK_TopRight', [300, 250],'TopRight').addService(googletag.pubads());
+        googletag.defineSlot('/1011478/UK_TopRight', [[300, 250], [300, 600]],'TopRight').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.enableServices();
     });
@@ -69,14 +69,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-TV2C2L');</script>
 <!-- End Google Tag Manager -->
-<div id="mast-head">
+<!-- Include jQuery first -->
+<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>-->
+
+<!-- Include CookieInfo -->
+<script src="http://static.excite.co.uk/js/common/cookieInfo.js"></script>
+
+<!-- Configure CookieInfo + Customise -->
+<script>
+    $(document).ready(function() {
+
+        /* Prefer to use the default settings? Simpley add this code only:
+         jQuery(document).cookieInfo();
+         */
+
+        // The CookieInfo configuration
+        jQuery(document).cookieInfo({
+
+            
+            defaultText:  "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic.",
+            moreButton:   "See Details",  // More button text
+            moreURL:      "http://info.excite.co.uk/privacy", // when user click more info, take to this page...
+
+            
+            //moreInfo:     "Cookies are small text files held on your computer. Some cookies are required to ensure that the site functions correctly, for this reason we may have already set some cookies. They also allow us to give you the best browsing experience possible and help us understand how you use our site.",
+            okButton:     "Ok",         // Accept button text
+
+            location:     "bottom",     // top or bottom?
+            makeSpace:    false,        // push content so cookie info bar does not appear over anything?
+            speedIn:      500,          // slide in speed
+            speedOut:     400,          // slide out speed
+            delay:        1000,         // time to appear after page load
+            float:        true,         // keep it sticky?
+
+            style:        "dark",       // light or dark colour
+
+            cookieExpiry: 90,           // won't appear again for 90 days
+            cookieName:   "CookieInfo", // cookie's name to detect if user has accepted
+
+            ok: function(){             /* add some javascript here to run when user has clicked ok */ }
+        });
+
+    });
+</script><div id="mast-head">
+    <!-- <div class="network"><a href="http://www.blogo.it/"><span class="logo-network"></span></a></div> -->
+    <!-- <div class="network"><a href="http://www.populis.com/de" title="Populis"><span class="populis"></span></a></div> -->
     
     <div class="wrapper">
         <a href="#menu-resp" id="nav-btn"></a>
 
-        <h1 class="logo-mobile"><a href="http://www.excite.co.uk" title="Excite"><img alt="Excite" src="http://static.excite.co.uk/img/excite-big.png"></a></h1>
-
-        
+                    <!-- <h1 class="logo-mobile"><a href="http://www." title="Excite"><img alt="Excite" src="/img/blogo_excite_logo.png"></a></h1> -->
+                    <h1 class="logo-mobile"><a href="http://www.excite.co.uk" title="Excite"><img alt="Excite" src="http://static.excite.co.uk/img/excite-big.png"></a></h1>
+                
                 <ul class="macro-items">
             <li><a href="http://www.excite.co.uk" title="">Home</a></li>
                                         <li class="orange">
@@ -101,7 +145,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <a href="http://motoring.excite.co.uk" title="Motoring">Motoring</a>
             </li>
                                             <li class="teal">
-                <a href="http://digitaledge.excite.co.uk" title="Digitaledge">Digitaledge</a>
+                <a href="http://social.excite.co.uk" title="Social">Social</a>
             </li>
                         </ul>
             
@@ -112,8 +156,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="wrapper">
                 <div id="header" class="clearfix">
     <div id="page-title">
-        <a href="http://www.excite.co.uk" title="Excite" class="excite">Excite</a>
-        <form method="get" action="http://www.excite.co.uk/sitesearch" id="search-middle" class="form-search"><input type="text" name="q" id="key" class="form-txt" placeholder="Search on Excite"><button type="submit" id="q" class="form-submit"><img src="http://static.excite.co.uk/img/icon-search.png"></button></form>    </div>
+                    <!-- <a href="http://www." title="Excite" style="float: left;">
+                <img src="/img/blogo_excite_logo.png" />
+            </a> -->
+                    <a href="http://www.excite.co.uk" title="Excite" class="excite">Excite</a>
+                <form method="get" action="http://www.excite.co.uk/sitesearch" id="search-middle" class="form-search"><input type="text" name="q" id="key" class="form-txt" placeholder="Search on Excite"><button type="submit" id="q" class="form-submit"><img src="http://static.excite.co.uk/img/icon-search.png"></button></form>    </div>
 
 </div>
                 <div id="main" class="clearfix">
@@ -127,7 +174,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </ul>     
 </div>
                         <h1>Privacy Policy</h1>
-<div class="static-content"><p>Respecting users' privacy is a key value for Excite. To learn about what personal information Excite collects and how it may be used, please read Excite's privacy policy here below. If you have any questions, please contact Excite user support <a title="contact us" target="_blank" href="/feedback">here</a>. Thank you.   <br>   <br>We will comply with the Data Protection Act 1998 and any other applicable data protection legislation. By registering for the Excite Portal Services you consent to our using and/or disclosing your personal information for the following purposes:   <br>   <br>- providing, or arranging for third parties to provide, help desk facilities which may be available to you which may involve disclosing your personal information to third parties solely for those purposes;   <br>   <br>- providing, or arranging for third parties - including third parties located not within the European Union - to provide, any additional services you request from us;   <br>   <br>- as required or permitted by law from time to time.   <br>   <br>We will not use your personal data for marketing other Excite products and services or any third party products and services without having given you the opportunity to opt out of such marketing opportunities.   <br>   <br>We are committed to protecting your right to privacy. Any information you provide to us will be held on computers that are based in the European Union or the United States of America. We collect information about our users in order to help continually improve the Excite Portal Services. We also use the information you provide us to enter into commercial arrangements, including the sale of advertising space, which allow the Excite Portal Service to remain free for all our users. We will always adhere to the Data Protection Act 1998 (UK) in relation to our use of your information and any other applicable data protection laws. This Privacy Policy relates only to our use of the information you provide us and your use of the Excite Portal and does not extend to your use of the Internet other than the Excite Portal. </p> <p>   <br> </p> <h4>What data do we collect from you? </h4> <p>   <br>We collect the personal data you provide when you register for Excite Portal Services with us. We also collect any other personal data that you provide when using the Excite Portal, for example, to enter competitions. We also use cookie technology to monitor which areas of the Excite Portal you prefer. The information obtained from the cookies is not stored alongside your personal data and will only be used on an anonymous, aggregated basis. We may also hold information relating to any transactions that you enter into with us or any of our third party retail partners.   <br>   <br>We use the advertising agencies to serve ads when you visit Excite Sites. These companies may use information about your visits to Excite Sites, including the searches you conduct while on Excite Sites. None of this information is used to identify you personally. This information is used to present you with relevant advertisements on other Websites that you may visit. </p> <p>   <br> </p> <h4>What we do with the data we collect from you? </h4> <p>   <br>We may use the personal information we collect from you to build up a profile of your interests and preferences. This information may be disclosed to other Excite group companies and carefully selected third parties and/or used to make you aware of products or services that you may find of interest. If you do not wish to have your details passed on to carefully selected third parties or if you do not wish to receive unsolicited mailings from us, you may anytime opt out in the user profile section of the Excite Portal. </p> <p>   <br> </p> <h4>Third Party Advertising </h4> <p>   <br>The advertisements appearing on the Excite Portal are delivered to you by ourselves and by advertising agencies. Information about your visit to the Excite Portal, such as the number of times you have viewed a particular advertisement (but not information about you, such as your name, address or any other personal information) is used to decide which advertisements to serve to you.   <br>   <br>In the course of serving advertisements to you cookie technology may be used, but such cookies will not be used to collect any personally identifiable information about you. </p> <p>   <br> </p> <h4>Private Communications </h4> <p>   <br>It is our policy to respect the privacy of private communications. We will not intentionally inspect the contents of private communications sent or received using the Excite Portal except as required or permitted to do so by law. </p> <p>   <br> </p> <h4>Children and Excite </h4> <p>   <br>We do not specifically collect information about children and believe that children should always get the consent of their parents before giving out any personal information. Where children are specifically encouraged to participate within the Excite Portal, they will always be advised that they should seek parental permission before they continue with the activity. We recommend that parents actively participate and where possible monitor their children's use of the Excite Portal.   <br>Keeping your details private   <br>   <br>The use of Newsgroups or Forums/Chat, either within the Excite Portal or on the Internet, is at your own risk. This may result in you receiving unsolicited messages from other parties who have picked up your details from such services. Further, do not forget that if you enter your details in the Excite Users Directory they will be generally available to all Excite users.   <br> </p> <h4>Disclosure of data in accordance with law </h4> <p>   <br>We may need to disclose your data to appropriate persons where required or permitted by law (for example, to law enforcement authorities in relation to the investigation of a suspected criminal offence).   <br>Changing contact details   <br>   <br>You can update or amend your contact details at any time from within the Excite Portal. If you have any questions about the use of your personal data or if you wish to know how you can inspect or correct other personal data we may hold please contact us at:   <br>   <br>Excite Online Publishing Ltd   <br>11/12 Hogan Place   <br>Dublin, 2   <br>Irland   <br>Email: Please send your message through our feedback form   <br>   <br> </p> <h4>Changes to the Policy </h4> <p>   <br>We may need to amend the Privacy Policy from time to time. Any such amendment will take effect as soon as it is posted on the Excite Portal. You are therefore encouraged to familiarise yourself with the Privacy Policy on a regular basis. The Privacy Policy will always be easily accessible online throughout Excite Portal. </p></div>
+<div class="static-content"><p>Respecting users' privacy is a key value for Excite. To learn about what personal information Excite collects and how it may be used, please read Excite's privacy policy here below. If you have any questions, please contact Excite user support <a title="contact us" target="_blank" href="/feedback">here</a>. Thank you.   <br>   <br>We will comply with the Data Protection Act 1998 and any other applicable data protection legislation. By registering for the Excite Portal Services you consent to our using and/or disclosing your personal information for the following purposes:   <br>   <br>- providing, or arranging for third parties to provide, help desk facilities which may be available to you which may involve disclosing your personal information to third parties solely for those purposes;   <br>   <br>- providing, or arranging for third parties - including third parties located not within the European Union - to provide, any additional services you request from us;   <br>   <br>- as required or permitted by law from time to time.   <br>   <br>We will not use your personal data for marketing other Excite products and services or any third party products and services without having given you the opportunity to opt out of such marketing opportunities.   <br>   <br>We are committed to protecting your right to privacy. Any information you provide to us will be held on computers that are based in the European Union or the United States of America. We collect information about our users in order to help continually improve the Excite Portal Services. We also use the information you provide us to enter into commercial arrangements, including the sale of advertising space, which allow the Excite Portal Service to remain free for all our users. We will always adhere to the Data Protection Act 1998 (UK) in relation to our use of your information and any other applicable data protection laws. This Privacy Policy relates only to our use of the information you provide us and your use of the Excite Portal and does not extend to your use of the Internet other than the Excite Portal. </p> <p>   <br> </p> <h4>What data do we collect from you? </h4> <p>   <br>We collect the personal data you provide when you register for Excite Portal Services with us. We also collect any other personal data that you provide when using the Excite Portal, for example, to enter competitions. We also use cookie technology to monitor which areas of the Excite Portal you prefer. The information obtained from the cookies is not stored alongside your personal data and will only be used on an anonymous, aggregated basis. We may also hold information relating to any transactions that you enter into with us or any of our third party retail partners.   <br>   <br>We use the advertising agencies to serve ads when you visit Excite Sites. These companies may use information about your visits to Excite Sites, including the searches you conduct while on Excite Sites. None of this information is used to identify you personally. This information is used to present you with relevant advertisements on other Websites that you may visit. </p> <p>   <br> </p> <h4>What we do with the data we collect from you? </h4> <p>   <br>We may use the personal information we collect from you to build up a profile of your interests and preferences. This information may be disclosed to other Excite group companies and carefully selected third parties and/or used to make you aware of products or services that you may find of interest. If you do not wish to have your details passed on to carefully selected third parties or if you do not wish to receive unsolicited mailings from us, you may anytime opt out in the user profile section of the Excite Portal. </p> <p>   <br> </p> <h4>Third Party Advertising </h4> <p>   <br>The advertisements appearing on the Excite Portal are delivered to you by ourselves and by advertising agencies. Information about your visit to the Excite Portal, such as the number of times you have viewed a particular advertisement (but not information about you, such as your name, address or any other personal information) is used to decide which advertisements to serve to you.   <br>   <br>In the course of serving advertisements to you cookie technology may be used, but such cookies will not be used to collect any personally identifiable information about you. </p> <p>   <br> </p> <h4>Private Communications </h4> <p>   <br>It is our policy to respect the privacy of private communications. We will not intentionally inspect the contents of private communications sent or received using the Excite Portal except as required or permitted to do so by law. </p> <p>   <br> </p> <h4>Children and Excite </h4> <p>   <br>We do not specifically collect information about children and believe that children should always get the consent of their parents before giving out any personal information. Where children are specifically encouraged to participate within the Excite Portal, they will always be advised that they should seek parental permission before they continue with the activity. We recommend that parents actively participate and where possible monitor their children's use of the Excite Portal.   <br>Keeping your details private   <br>   <br>The use of Newsgroups or Forums/Chat, either within the Excite Portal or on the Internet, is at your own risk. This may result in you receiving unsolicited messages from other parties who have picked up your details from such services. Further, do not forget that if you enter your details in the Excite Users Directory they will be generally available to all Excite users.   <br> </p> <h4>Disclosure of data in accordance with law </h4> <p>   <br>We may need to disclose your data to appropriate persons where required or permitted by law (for example, to law enforcement authorities in relation to the investigation of a suspected criminal offence).   <br>Changing contact details   <br>   <br>You can update or amend your contact details at any time from within the Excite Portal. If you have any questions about the use of your personal data or if you wish to know how you can inspect or correct other personal data we may hold please contact us at:   <br>   <br>Pearch Digital Ltd   <br>12 Merrion Square   <br>Dublin, 2   <br>Irland   <br>Email: Please send your message through our feedback form   <br>   <br> </p> <h4>Changes to the Policy </h4> <p>   <br>We may need to amend the Privacy Policy from time to time. Any such amendment will take effect as soon as it is posted on the Excite Portal. You are therefore encouraged to familiarise yourself with the Privacy Policy on a regular basis. The Privacy Policy will always be easily accessible online throughout Excite Portal. </p></div>
                     </div>
                     <div id="sidebar" class="g_4">
                         
@@ -211,7 +258,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </div>
                      
                         <div class="g_3">
-                <h5><a title="Digitaledge" href="http://www.excite.co.uk/digitaledge">Digitaledge</a></h5>
+                <h5><a title="Social" href="http://www.excite.co.uk/social">Social</a></h5>
                 <p>Attention all tech junkies! Whether you're an avid gamer, dedicated blogger or gadget hoarder, you'll find all the latest news and product reviews right here. New to the world of technology? Never fear! We've got simple guides, tips and instructions to get you started.</p>                                <ul class="fLeft">
                                             <li><a title="Digitaledge" href="http://digitaledge.excite.co.uk">Digitaledge</a></li>
                                     </ul>
@@ -259,7 +306,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div id="bottom-bar">
     <div class="g_12">
         <p>United Kingdom - 	        <a href="/" title="">Excite Network</a>
-	        <span class="copy">Copyright ©1995 - 2016&nbsp;&nbsp;&nbsp;</span>
+	        <span class="copy">Copyright ©1995 - 2017&nbsp;&nbsp;&nbsp;</span>
         </p>
     </div>    
 </div>
@@ -379,7 +426,7 @@ window.fbAsyncInit = function() {
         }
     </script>
 
-
+<script type="text/javascript" src="http://related_widget.excite.ie/calc.js"></script>
 
     
 
