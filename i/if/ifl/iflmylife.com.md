@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iflmylife.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628004528id_/http%3A//www.iflmylife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iflmylife.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220090910id_/http%3A//iflmylife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IFLMyLife
 
-Last updated: April, 2017
+Last updated: September, 2017
 
 IFLMyLife (“us”, “we”, or “our”) operates the http://www.iflmylife.com website (the “Service”).
 
@@ -63,6 +63,9 @@ For more information on the privacy practices of AppNexus, please visit the AppN
 We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
 These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+**Opt-Out**  
+We partner with third party advertisers to serve and display advertising on the Services. These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://optout.networkadvertising.org/#!/). To serve and display advertising relevant to your location, the Services may also track your device’s precise geolocation by responding to beacons or inaudible signals sent to your device’s microphone. If you do not want the location of your device to be tracked by the Services, please opt-out using your device settings.
 
 **Compliance With Laws**
 
