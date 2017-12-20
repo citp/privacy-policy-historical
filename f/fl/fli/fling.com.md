@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fling.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622052407id_/http%3A//www.fling.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Dnoadvert_b%26prg%3D1%26tour%3D1%26pg%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fling.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220151916id_/https%3A//www.fling.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
