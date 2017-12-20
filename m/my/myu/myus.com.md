@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myus.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617032652id_/https%3A//www.myus.com/terms-conditions-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myus.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220233937id_/https%3A//www.myus.com/terms-conditions-privacy) for the most accurate reproduction.*
 
 # MyUS.com Terms of Service in Using Our Website
 
