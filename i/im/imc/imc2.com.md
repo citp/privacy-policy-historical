@@ -1,83 +1,36 @@
-> *The following text is extracted and transformed from the imc2.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618123756id_/http%3A//www.agenciesofchange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imc2.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220135108id_/http%3A//www.moroch.com/privacy-policy) for the most accurate reproduction.*
 
-# Agencies of Change | Privacy Policy
+# Privacy Policy | Moroch Partners
 
-Effective Date: 7/15/2015  
-This privacy policy applies to all [agenciesofchange.com](http://www.agenciesofchange.com/), [meplusyou.com](http://www.meplusyou.com/), and [technologyspa.com](http://www.technologyspa.com/) sites, all of which are owned and operated by Agencies of Change, LLC. This Privacy Policy describes how Agencies of Change, LLC, dba MEplusYOU and Technology Spa (“Agencies of Change”, “We”, “Us” or “Our”), collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. 
+Moroch Holdings, Inc. and its affiliates and subsidiaries (“Moroch,” “we,” or “us”) is committed to respecting the privacy rights of visitors of Moroch websites (each a “Site”). While you are visiting the Site, we may ask you (“you” or “your”) to provide information that personally identifies you (“Personal Information”) for purposes of interacting with the Site or to allow you to submit additional information.
 
-TRUSTe Scope  
-The TRUSTe program covers only information that is collected through the websites [www.agenciesofchange.com](http://www.agenciesofchange.com/), [www.meplusyou.com](http://www.meplusyou.com/), [www.technologyspa.com](http://www.technologyspa.com/), and [support.technologyspa.com](http://support.technologyspa.com/) and does not cover information that may be collected through software downloaded from these websites. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+We will take measures so that the Personal Information you submit to us remains private and is used only for the purposes as set forth herein. To further the protection of your Personal Information, we have adopted a set of information management guidelines (outlined below) to describe the Personal Information we collect about you, why we collect it, how we use it, and when we share it with third parties.
 
-**A. What Information is Collected.**  
-Agencies of Change collects two types of information from users of our sites. We collect personal information, such as your full name, email address, and phone number, if you provide it to us on the “Contact Us” page. We use this information only to respond to your requests for contact with us. We use reasonable efforts to treat as confidential any information you provide to us. 
+This Privacy Policy has been developed with the recognition that Internet technologies are rapidly evolving and that underlying business models are still not established. Accordingly, this Privacy Policy is subject to change. Any such changes will be posted on this page. Please see the Effective Date stated at the conclusion of this Policy.
 
-The other type of information we collect is aggregate information, such as information about how many visitors log on to our sites, what pages they access, and similar information. 
+### Type Of Information Collected
 
-**B. Data Sharing.**  
-Agencies of Change will not trade, sell, or share your personal information for use by any business without your consent, unless required by law or unless we so notify you when the information is collected. Any personal information you may provide to us will be stored in the Agencies of Change databases, which are located in the United States. 
+We collect only Personal Information that you submit to us, including but not limited to personal data (e.g., your name, mailing address, and email address), for example when you request further information. You are not obligated to provide us with this information, although it may be necessary in order to fulfill your request or allow you to submit additional information. Additionally, we may collect aggregate information regarding users of the Site. Aggregate information includes data regarding usage of the Site including traffic patterns, number of Site visits, use of particular services on the Site, etc. This information is NOT identifiable to individual Site users.
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. 
+### Use Of Personal Information (subject To The Internal Policy Of Moroch)
 
-We may also disclose your personal information: 
+We do not sell or otherwise disclose information about you, except as described here. We may share the information you provide with companies affiliated with Moroch. We also may share information provided by our Site visitors with service providers we have retained to perform services on our behalf. These service providers are required to use or disclose the information only as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
 
-  * as required by law, such as to comply with a subpoena, bankruptcy proceeding, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Agencies of Change is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notices on our websites of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so
+We reserve the right to transfer any information we have about you in the event that we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use information you have provided through the Site in a manner that is consistent with this Privacy Policy.  
+Additionally, we may share aggregate, non-personally identifiable information with our business partners and other affiliated third parties (e.g., the number of users who have visited the Site on a specific day, etc.). Moroch may also match aggregated user information with third-party data and disclose aggregated user statistics in order to describe our services to potential advertisers, partners, and other third parties and for other lawful purposes.
 
+It should be noted, however, that this Privacy Policy addresses only the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, through other websites on the Internet linked to the Site, different policies may apply. Since Moroch does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of those third parties, and Moroch shall not be responsible for the use or dissemination of your Personal Information by those third parties. Therefore, we encourage you to ask questions before you disclose your Personal Information to others.
 
+By submitting Personal Information, you grant permission to the Site for use consistent with this Privacy Policy. Consent will be assumed unless otherwise stated by you at the time of submission.
 
-**C. Cookies.**  
-Agencies of Change and our analytics or service providers use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the websites, track users’ movements around the websites, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. 
+### Children’s Privacy
 
-We may use cookies to remember users’ settings or for authentication purposes. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our websites, but your ability to use some features or areas of our websites may be limited. 
+Moroch does not specifically collect information about children but is concerned about the safety of children and their use of the Internet. Therefore, in accordance with the Children’s Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. In the event that we receive actual knowledge that we have collected such Personal Information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical. The Site is not intended for use by persons under the age of 13 without parental consent.
 
-  * Log Files  
-As true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. 
-  * Local Storage Objects (HTML 5)  
-Third parties with whom we partner to provide certain features on our website or to display advertising based upon your Web browsing activity use LSOs such as HTML 5. Various browsers may offer their own management tools for removing HTML 5 LSOs. 
+### Third-Party Hosting
 
+Moroch contracts with one or more third parties to maintain and host the Site. Therefore, any information you submit, including Personal Information, shall be placed and stored on a computer server maintained by this third party. Your use of the Site and any provision of Personal Information you submit to the Site constitutes your acknowledgment that such information or content could pass through and may be stored in servers outside the control of Moroch. You agree that Moroch has no liability or responsibility for any such pass-through or storage of same.
 
+### Effective Date and Changes
 
-**D. Client Security.**  
-We take steps to make all information as secure as reasonably possible against unauthorized access and use. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. Our privacy practices are consistent with the European Union Data Protection Directive through the U.S. Department of Commerce Safe Harbor Program. If you have any complaint regarding our compliance with Safe Harbor, please contact: [privacy@imc2.com](mailto:privacy@imc2.com)
-
-**E. Children’s Privacy.**  
-Our sites are not directed to children and not intended for use by children. In providing services for our clients, we take into consideration applicable national and international laws and regulations on children’s privacy. 
-
-**F. Safe Harbor**  
-Agencies of Change, MEplusYOU, and Technology Spa comply with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Agencies of Change has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program and to view Agencies of Change’s certification, please visit <http://www.export.gov/safeharbor/>. 
-
-**G. User Access and Choice**  
-If your personal information changes, or if you no longer desire our service, you may correct, update, or delete by emailing our Customer Support at privacy@imc2.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within a reasonable timeframe. 
-
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
-
-  * Opt-out Preferences  
-When you register for an account, we will use your name and email address to send periodic emails to you of both promotional and transactional in nature. Out of respect for your privacy, you may choose to stop receiving promotional emails by following the unsubscribe instructions included in these emails or you can contact us at privacy@imc2.com. We may also send you service related email announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You do not have an option to opt out of these emails, as they are not promotional in nature. 
-
-
-
-**H. Additional Information**
-
-  * Links to Third Party Websites  
-Our websites include links to other sites whose privacy practices may differ from those of Agencies of Change. If you submit personal information to any of those sites, your information is governed by their privacy policies. Additionally, the usage of cookies by these sites is not covered by our privacy policy. We do not have access to or control over these cookies. We encourage you to carefully read the privacy policy of any site you visit. 
-  * Testimonials  
-We display personal testimonials of satisfied customers on our websites in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at privacy@imc2.com. 
-  * Social Media Widgets  
-Our websites include Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our websites. These Features may collect your internet protocol (IP) address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy policy of the company providing it. 
-
-
-
-**I. Changes to this Policy.**  
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our websites prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
-
-**J. Contact Us.**  
-If you have any questions or concerns regarding this privacy policy, the practices of our websites or your dealings with our websites, please contact us using the information below: 
-
-Agencies of Change, LLC  
-12404 Park Central, Suite 400  
-Dallas, TX 75251  
-214.224.1000  
-[privacy@imc2.com](mailto:privacy@imc2.com)
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=50f2df8e-5959-46e1-89dc-53e4da5a7b6c "TRUSTe Privacy Certification")
+This Privacy Policy is effective as of April 2015. Moroch reserves the right to modify the terms of this policy at any time, and in our sole discretion, by posting a change notice to this page. Your continued use of the Site after our posting of a change notice will constitute binding acceptance of those changes. You should periodically check this Privacy Policy for updates and/or changes.
