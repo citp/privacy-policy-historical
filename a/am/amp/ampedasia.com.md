@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611065333id_/http%3A//www.ampedasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220033737id_/https%3A//www.ampedasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amped Asia
 
