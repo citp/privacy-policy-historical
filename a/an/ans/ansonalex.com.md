@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ansonalex.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224120801id_/http%3A//ansonalex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansonalex.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220045836id_/http%3A//ansonalex.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AnsonAlex | AnsonAlex
+# Privacy Policy - AnsonAlex.com
 
 **Privacy Policy**
 
@@ -18,7 +18,7 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 
 **Google Analytics Data Collection**
 
-This site uses Google Analytic to track visitor data. Google and AnsonAlex.com utilize the data collected to track and examine the use of AnsonAlex.com, to prepare reports on its activities, to enhance the visitor experience and share them with other Google services.  
+This site uses Google Analytics to track visitor data. Google and AnsonAlex.com utilize the data collected to track and examine the use of AnsonAlex.com, to prepare reports on its activities, to enhance the visitor experience and share them with other Google services.  
 Google may use the data collected to customize, contextualize and personalize the ads of its own advertising network.
 
 Personal data collected: Cookie and Usage Data. Place of processing: USA. Find [Google’s privacy policy here](http://www.google.com/intl/en/policies/privacy/).
@@ -35,4 +35,4 @@ About Google advertising: What is the DoubleClick DART cookie? The DoubleClick D
 
 **Contact Information**
 
-Concerns or questions about this privacy policy can be directed to [AnsonA4@gmail.com](mailto:AnsonA4@gmail.com) for further clarification.
+Concerns or questions about this privacy policy can be directed to [webmaster@ansonalex.com](mailto:webmaster@ansonalex.com) for further clarification.
