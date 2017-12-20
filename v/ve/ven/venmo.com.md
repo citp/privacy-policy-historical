@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venmo.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610085219id_/https%3A//venmo.com/legal/us-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venmo.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220060523id_/https%3A//venmo.com/legal/us-privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 LAST UPDATED
 
-January 27, 2016
+December 18, 2017
 
 OUR COMMITMENT TO PRIVACY
 
@@ -91,9 +91,9 @@ We may share your personal information with:
   * Companies that PayPal, Inc. plans to merge with or be acquired by or, in the event of any bankruptcy, a bankruptcy estate. Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice and the opportunity to communicate preferences you may have, if applicable.
   * Law enforcement, government officials, or other third parties if PayPal is compelled to do so by a subpoena, court order or similar legal procedure, when it is necessary to do so to comply with law, or where the disclosure of personal information is reasonably necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of the Venmo User Agreement, or as otherwise required by law.
   * Third party service providers who assist us in providing services to you or who provide fraud detection or similar services on our [or any vendor's] behalf.
-  * Your social web, if your Venmo account transactions are designated as "public" or ͞friends-only͟ payments such that other Venmo users can view your payments or when you otherwise request Venmo payments be posted to your social web. You may access our privacy controls to designate that all of your payments default to private as well. When you broadcast information to third-party services, such information is no longer under the control of Venmo and is subject to the terms of use and privacy policies of such third parties. Venmo does not send your personal information to third-party social networks unless you have specifically requested or authorized us to do so.
+  * The other Venmo user participating in the transaction and, depending on the privacy setting of each Venmo account transaction, your Venmo friends and the Venmo friends of the other user participating in the transaction, or the public, through the Venmo feed on our website and app and elsewhere on the internet.
   * Service providers under contract who help with parts of our business operations (for example, fraud prevention, payment processing, or technology services); Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit. 
-  * Other third parties with your consent or at your direction to do so.
+  * Other third parties with your consent or at your direction to do so. When you broadcast information to third-party services, such information is no longer under the control of Venmo and is subject to the terms of use and privacy policies of such third parties. Venmo does not send your personal information to third-party social networks unless you have specifically requested or authorized us to do so.
 
 
 
