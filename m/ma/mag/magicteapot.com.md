@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicteapot.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626165333id_/http%3A//www.nudevista.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicteapot.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220230521id_/http%3A//www.nudevista.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
