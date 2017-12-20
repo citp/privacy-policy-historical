@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourgirlfriends.com privacy policy that was archived on 2016-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160923052203id_/http%3A//www.yourgirlfriends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourgirlfriends.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220230058id_/http%3A//yourgirlfriends.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
