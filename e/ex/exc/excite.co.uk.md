@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excite.co.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609075159id_/http%3A//info.excite.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excite.co.uk privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220220007id_/http%3A//info.excite.co.uk/privacy) for the most accurate reproduction.*
 
 # Excite UK
 
