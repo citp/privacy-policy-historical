@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allindiaroundup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163411id_/http%3A//allindiaroundup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindiaroundup.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220143850id_/http%3A//allindiaroundup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - All India Roundup - All India Roundup
+# Privacy Policy - All India Roundup
 
 If you require any more information or have any questions about our privacy policy, please feel free to contactus by email at imran.cbit@gmail.com.
 
