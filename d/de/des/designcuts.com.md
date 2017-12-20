@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designcuts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234009id_/https%3A//www.designcuts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designcuts.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220010648id_/https%3A//www.designcuts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Design Cuts Design Cuts
 
@@ -68,7 +68,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 You can contact us at the following address:
 
 Design Cuts  
-246 STATION ROAD  
+244 STATION ROAD  
 ADDLESTONE  
 WEYBRIDGE  
 KT15 2PS  
