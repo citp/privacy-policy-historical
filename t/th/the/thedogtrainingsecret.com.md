@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedogtrainingsecret.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621122452id_/http%3A//thedogtrainingsecret.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedogtrainingsecret.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220184837id_/http%3A//thedogtrainingsecret.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TheDogTrainingSecret.com - The Dog Training Secret
 
@@ -19,7 +19,7 @@ We also may collect certain non-personally identifiable information (i.e. generi
 
 **How We Use and Disclose the Information.**
 
-We will use the personal information you provide online for the purpose(s) you have submitted. Your First Name, Email Address, will be used to send you the free parrot training video you request. In addition, we may send to you e-mails offering products or services which we think you may be interested in. If you want us to stop using the personal information you provided in these ways, please contact us at support@TheDogTrainingSecret.com or click the unsubscribe link on the top of any communication from TheDogTrainingSecret.com.
+We will use the personal information you provide online for the purpose(s) you have submitted. Your First Name, Email Address, will be used to send you the free dog training video you request. In addition, we may send to you e-mails offering products or services which we think you may be interested in. If you want us to stop using the personal information you provided in these ways, please contact us at support@TheDogTrainingSecret.com or click the unsubscribe link on the bottom of any communication from TheDogTrainingSecret.com.
 
 We may disclose your personally identifiable information in response to subpoenas, court orders, or other legal process, or to establish or exercise our legal rights or to defend against legal claims. We may also disclose your personally identifiable information when we believe it is necessary or desirable in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, and/or to protect our rights and property.
 
