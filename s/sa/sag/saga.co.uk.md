@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608030808id_/http%3A//www.saga.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220142700id_/http%3A//www.saga.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Saga Group Data Protection Privacy Policy - Saga
 
@@ -6,7 +6,7 @@
 
 When it comes to your privacy we never compromise. We will always be clear about why we need the details we ask for, and ensure your personal information is kept as secure as possible. How we do this is explained below.
 
-**Last updated: December 2015**
+**Last updated: October 2017**
 
   * Introduction
   * How we use the information you provide us
@@ -481,9 +481,11 @@ Personal and/or sensitive personal data of an employee and his or her spouse or 
 
 ### Data Protection Act marketing consent 
 
-Saga groups of companies have adopted the following procedure in gaining your consent to be placed on their marketing lists.
+Generally, when you first make an enquiry, or buy certain products or services from the Saga Group you consent to receiving marketing about other products and services from us. Your details are placed on our marketing list for the Group and a ‘questionnaire’ will be sent to you; it may be sent electronically. This questionnaire gives a list of all the products of the Group, and the option of choosing which products you would or would not like to receive information about. You can also choose not to receive any marketing from us. Once you have chosen what you would like to receive we ask you to return the completed form back to us. The marketing selections will be administered where applicable.
 
-When you first make an enquiry of or buy a product from Saga Group you consent to receiving marketing about other products and services from us. Your details are placed on our marketing list for the group and a 'questionnaire' will be sent to you; it may be sent electronically. This questionnaire gives a list of all the products of the group, and the option of choosing which products you would or would not like to receive information about. You can also choose not to receive any marketing from us. Once you have chosen what you would like to receive we ask you to return the completed form back to us. The marketing selections will be administered where applicable.
+Recently, we have been making some changes to how we gain your consent in some areas of the Saga Group. If you have expressed specific contact preferences since September 2017, either online, or when speaking to one of our advisers, we will use that instruction to tailor our marketing communications. This means that we will contact you by post, telephone, email or other means to tell you about offers, products and services that may be of interest to you, only if we have obtained your permission to do so.
+
+At any time, you can opt out of receiving such information, revise the products you would like to hear about or change the method we use to communicate with you. You can update these preferences by calling us on 0800 092 3665. For further information about how the Saga Group uses your personal information, please contact the Saga Group Data Protection Officer by email: data.protection@saga.co.uk or post: The Saga Building, Enbrook Park, Sandgate, Folkestone, Kent CT20 3SE.
 
 **Back to top**
 
@@ -520,3 +522,6 @@ We welcome your questions and comments about privacy.
 Please write to The Group Data Protection Officer, The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE.
 
 **Back to top**
+
+  
+
