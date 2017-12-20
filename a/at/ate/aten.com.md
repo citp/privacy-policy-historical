@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aten.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604020514id_/http%3A//www.aten.com/gb/en/legal/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aten.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220122415id_/http%3A//www.aten.com/us/en/legal/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,46 +39,46 @@ We may collect personal information from you to complete various transactions re
 
 
 
-The types of personal information we collect may include: 
+The types of personal information we collect may include :
 
-  1. Your name, company, email address, phone number, billing address, and shipping address
-  2. Customer type, job function, job title, purchasing authority, purchasing timeframe, and others
-  3. Product and service preferences, contact preferences
-  4. Your ATEN e–services user ID and password (where applicable)
-  5. Credit card information (where applicable)
+  1. your name, company, email address, phone number, billing address and shipping address
+  2. customer type, job function, job title, purchasing authority, purchasing timeframe and others
+  3. product and service preferences, contact preferences
+  4. your ATEN e–services user ID and password (where applicable)
+  5. credit card information (where applicable)
 
 
 
 ### When ATEN Discloses Personal Information
 
-ATEN International Co., Ltd is a global company; therefore your personal information may be shared with ATEN corporate offices in different countries, for business purposes only. They will protect your personal information in accordance with ATEN’s customer privacy policy.
+ATEN International Co., Ltd is a global company; therefore your personal information may be shared with ATEN corporate offices in different countries, for business purposes only. They will protect your personal information in accordance with ATEN’s customer privacy policy. 
 
-In addition, ATEN works with third parties that help us provide ATEN products and services to you and other customers. We may provide personal information to these parties but only when necessary, e.g. providing personal information to shipping companies so that they can deliver products to you. The information we provide is for delivery only, and we require that the companies safeguard your information in accordance with the ATEN customer privacy statement.
+In addition, ATEN works with third parties that help us provide ATEN products and services to you and other customers. We may provide personal information to these parties, but only when necessary. For example: providing personal information to shipping companies to deliver products to you. The information we provide is for delivery only, and we require that the companies safeguard your information in accordance with the ATEN customer privacy statement.
 
 ### Your Consent
 
-By providing us with your personal information and by using the ATEN websites and services, you consent to our personal data collecting processes for the purposes mentioned in this privacy statement. You also consent to the transfer of your information to countries or jurisdictions which may not provide the same level of data protection as the one in which it was submitted, but only in accordance with and for the purposes mentioned in this privacy statement.
+By providing us with your personal information and by using the ATEN websites and services, you consent to our personal data collecting processes for the purposes mentioned in this privacy statement. You also consent to the transfer of your information to countries or jurisdictions which may not provide the same level of data protection as the one in which it was submitted, but only in accordance with and for the purposes mentioned in this privacy statement. 
 
-If you provide us with information about someone other than yourself, you confirm that this person has appointed you to act for him/her and to consent for him/her to the processing of his/her personal data, and that you have informed him/her of our identity as well as the purposes for which his/her personal data will be processed.
+If you provide us information about someone other than yourself, you confirm that this person has appointed you to act for him/her and to consent for him/her to the processing of his/her personal data, and that you have informed him/her of our identity as well as the purposes for which his/her personal data will be processed. 
 
 If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in any other manner.
 
 ### Access to Your Personal Information
 
-You always will have access to the information we have about you. To review and update your personal information, please send your request to [webmaster@aten.com](mailto:webmaster@aten.com). If you do not wish to receive any more promotional information from ATEN, simply email your request to [webmaster@aten.com](mailto:webmaster@aten.com).
+You always have access to the information we have about you. To review and update your personal information please send your request to [webmaster@aten.com](mailto:webmaster@aten.com). If you do not wish to receive any more promotional information from ATEN, simply email your request to [webmaster@aten.com](mailto:webmaster@aten.com).
 
 ### Cookie Notification
 
-By using cookies on ATEN websites, we collect anonymous information about you and other visitors. We do this to optimize the efficiency and user–experience of our online communication channels, and to add an online dimension to our market research activities.
+By using cookies on ATEN websites, we collect anonymous information about you and other visitors. We do this to optimize the efficiency and user–experience of our online communication channels, and to add an online dimension to our market research activities. 
 
-Most browsers automatically accept cookies. You can change this preset or delete already installed cookies via your browser settings. Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
+Most browsers automatically accept cookies. You can change this preset or delete already installed cookies via your browser settings. Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website. 
 
-ATEN's website contains links to other websites. ATEN does not share your personal information with those websites and is not responsible for their privacy practices. More information on the use of cookies is available at [www.aboutcookies.org](http://www.aboutcookies.org/).
+ATEN's website contains links to other websites. ATEN does not share your personal information with those websites and is not responsible for their privacy practices. More information on the use of cookies is available at [www.aboutcookies.org](http://www.aboutcookies.org/). 
 
-A cookie is a piece of information in the form of a very small text file that is placed on an Internet user’s hard drive. It is generated by a web page server, which is basically the computer that operates the website. The information the cookie contains is set by the server and it can be used by the server whenever the user visits the website. A cookie can be thought of as an internet user's identification card which tells a website when the user has returned. (Source: [www.aboutcookies.org](http://www.aboutcookies.org/))
+A cookie is a piece of information in the form of a very small text file that is placed on an Internet user’s hard drive. It is generated by a web page server, which is basically the computer that operates the website. The information the cookie contains is set by the server and it can be used by the server whenever the user visits the website. A cookie can be thought of as an internet user's identification card which tells a website when the user has returned. (source: [www.aboutcookies.org](http://www.aboutcookies.org/)) 
 
-To make sure your personal information remains confidential, we communicate these privacy guidelines to every ATEN employee.
+To make sure your personal information remains confidential, we communicate these privacy guidelines to every ATEN employee. 
 
 ### ATEN International Co., Ltd. reserves the right to modify this privacy statement and cookie notification as needed, to comply with changes in laws, regulations, ATEN practices and procedures, or requirements imposed by data protection authorities. Such changes will always be communicated via this webpage.
 
-Last update: January 18, 2016
+Last update: July 4, 2014
