@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redlion.net privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620075049id_/http%3A//www.redlion.net/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlion.net privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220230244id_/http%3A//www.redlion.net/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | Red Lion
 
