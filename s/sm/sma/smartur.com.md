@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartur.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620184931id_/http%3A//www.smartur.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartur.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220012424id_/http%3A//smartur.com/privacy.html) for the most accurate reproduction.*
 
 # SMARTUR.COM CBSE NCERT
 
