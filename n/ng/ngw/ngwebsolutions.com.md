@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngwebsolutions.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205093058id_/http%3A//www.ngwebsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngwebsolutions.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220220048id_/http%3A//www.ngwebsolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Next Gen Web Solutions
 
