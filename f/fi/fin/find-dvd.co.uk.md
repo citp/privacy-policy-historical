@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the find-dvd.co.uk privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620185154id_/http%3A//www.find-dvd.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-dvd.co.uk privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220090048id_/http%3A//www.find-dvd.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # www.find-dvd.co.uk - Privacy Policy and Cookies
 
@@ -29,4 +29,4 @@ Please note that cookies can't harm your computer and most websites use cookies 
 
 We are giving you this information in response to recent legislation, and to make sure we're honest and clear about your privacy when using our website.
 
-For more information see our [Terms and Conditions](https://web.archive.org/web/20170620185154id_/http%3A//www.find-dvd.co.uk/termsconditions.htm)
+For more information see our [Terms and Conditions](https://web.archive.org/web/20171220090048id_/http%3A//www.find-dvd.co.uk/termsconditions.htm)
