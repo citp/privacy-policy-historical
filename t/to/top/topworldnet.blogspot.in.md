@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topworldnet.blogspot.in privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620071015id_/http%3A//topworldnet.blogspot.com/p/please-read-this-privacy-policy-before.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topworldnet.blogspot.in privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220072135id_/http%3A//topworldnet.blogspot.com/p/please-read-this-privacy-policy-before.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
