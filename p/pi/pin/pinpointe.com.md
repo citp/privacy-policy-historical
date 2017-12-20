@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205956id_/https%3A//www.pinpointe.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220042215id_/https%3A//www.pinpointe.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Pinpointe's Email Marketing Privacy Policy. We Respect Your Privacy
 
@@ -73,3 +73,5 @@ It should be noted however, that when you send an email marketing campaign, it b
 ### Children under 13
 
 We do not knowingly provide accounts, or market to, or solicit information from, children under the age of 13. Our terms stipulate you must be 18 years or older to use the Pinpointe system.
+
+ _The above information is true and accurate as of  July 31, 2017._
