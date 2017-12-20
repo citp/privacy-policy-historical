@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629124040id_/https%3A//www.reverbnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220230534id_/https%3A//www.reverbnation.com/privacy) for the most accurate reproduction.*
 
 # ReverbNation Privacy Policy
-
-You are using an **outdated** browser. Please [upgrade your browser](http://browsehappy.com/) to improve your ReverbNation experience. 
 
 #### Revised as of January 27, 2017
 
