@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photoshotoh.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612040130id_/http%3A//photoshotoh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshotoh.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220195834id_/http%3A//photoshotoh.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | PhotoShotoh
 
 This Privacy Policy governs the manner in which www.photoshotoh.com collects, uses, maintains and discloses information collected from users (each, a User) of the www.photoshotoh.com website (Site). This privacy policy applies to the Site, all products and services offered by www.photoshotoh.com.
 
