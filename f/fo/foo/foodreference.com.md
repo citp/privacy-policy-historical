@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodreference.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100611id_/http%3A//www.foodreference.com/html/contact.html%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodreference.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220195641id_/http%3A//www.foodreference.com/html/contact.html%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Food Reference Website: Contact Us
 
@@ -17,7 +17,7 @@ Since its beginnings in 1999, Foodreference.com has maintained an excellent repu
 Contact** [chefjames@foodreference.com](mailto:chefjames@foodreference.com)   Phone:  (507) 474-1689
 
  **Advertising Inquires:**  
-For Advertising information, including website statistics [Click Here](https://web.archive.org/web/20170606100611id_/http%3A//www.foodreference.com/html/advertise-foodreference.html)
+For Advertising information, including website statistics [Click Here](https://web.archive.org/web/20171220195641id_/http%3A//www.foodreference.com/html/advertise-foodreference.html)
 
 **LINKING INFORMATION:**  
 ( _Please feel free to link to any pages of FoodReference.com from your website)  
