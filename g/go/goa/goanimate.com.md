@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goanimate.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628080919id_/https%3A//goanimate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goanimate.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221000401id_/https%3A//goanimate.com/privacy) for the most accurate reproduction.*
 
 # We treat your personal information very carefully
 
-Effective Date: June 8, 2017
+Effective Date: August 1, 2017
 
 GoAnimate, Inc. ("GoAnimate" or "we") recognizes the importance of the privacy of our users. This Privacy Policy contains important information for you about how we collect, use, disclose, retain and delete your personal information collected by us through our website goanimate.com ([https://goanimate.com](https://goanimate.com/)) (the "Site") and the services available through our Site (collectively, the "Services").
 
@@ -13,11 +13,12 @@ Your personal information will be handled as described in this Policy. Use of ou
 Please read this Privacy Policy carefully, and if you have any questions, feel free to contact our privacy officer by email at privacy-support@GoAnimate.com or by mail at GoAnimate, Inc., 204 East Second Avenue, Suite 638, San Mateo, CA 94401 USA.
 
   * Information We Collect
-  * How We Use Information 
+  * How We Use Information
   * How We Disclose Information
   * How Long We Retain Your Information and When We Delete Your Information
   * Cookies and Other Tracking Mechanisms
   * User-Generated Content
+  * GoAnimate Community
   * Third-Party Links
   * Security
   * Right to Review, Delete and Control our Use of Your Information
@@ -62,21 +63,21 @@ We may also disclose the information that we collect about you in the following 
 
   * **Business Transfers.** We may disclose your information to another entity if we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding.
   * **In Response to Legal Process.** We may disclose your information in order to comply with the law, or a judicial proceeding, subpoena, court order or other legal process.
-  * **To Protect Us and Others.** We may disclose your information when we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service [link] or this Privacy Policy, or as evidence in litigation in which we are involved.
+  * **To Protect Us and Others.** We may disclose your information when we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our [Terms of Service](https://goanimate.com/termsofuse) or this Privacy Policy, or as evidence in litigation in which we are involved.
   * **Aggregate and De-Identified information.** We may disclose aggregate or de-identified information about our users for marketing, advertising, research or similar purposes.
 
 
 
 ## How Long We Retain Your Information and When We Delete Your Information
 
-We will retain your personal information for as long as reasonably required to allow you to access our Site and our Services. We will retain your data for up to 18 months after the end of your subscription, unless you ask us to delete it sooner as provided below.
+We will retain your personal information for as long as reasonably required to allow you to access (and resume access, as the case may be) to our Site and our Services, which is usually eighteen (18) months following the date when your most recent subscription ends, unless you ask us to delete sooner as provided below.
 
 ## Cookies and Other Tracking Mechanisms
 
 We and our service providers use cookies and other tracking mechanisms to track information about our users' use of our Site or Services. We or our service providers may combine this information with other personal information we collect from you.
 
   * **Do Not Track.** Our Site does not respond to Do Not Track signals and we or our third party service providers may track your activities once you leave our Site. Users may disable certain tracking as discussed in this section (e.g., by disabling cookies).
-  * **Cookies.** We or our service providers may use cookies to track your activity on our Site. A cookie is a text file that a website transfers to your computer or device for record-keeping purposes. We or our service providers may use cookies to track your activities on our Site, such as the pages visited and time spent on our Site. Most browsers allow users to refuse cookies. The Help portion of the toolbar on most browsers can inform you about how to prevent your computer from accepting new cookies, how to have the browser notify a user upon receipt of a new cookie, or how to disable cookies altogether. If you disable cookies, you may not be able to browse certain areas of our Site or use certain parts of our Services.
+  * **Cookies.** We or our service providers may use cookies to track your activity on our Site. A cookie is a text file that a website transfers to your computer or device for record-keeping purposes. We or our service providers may use cookies to track your activities on our Site, such as the pages visited and time spent on our Site. Most browsers allow users to refuse cookies. The Help portion of the toolbar on most browsers can inform you about how to prevent a computer from accepting new cookies, how to have the browser notify a user upon receipt of a new cookie, or how to disable cookies altogether. If you disable cookies, you may not be able to browse certain areas of our Site or use certain parts of our Services.
   * **Clear GIFs, Pixel Tags and Other Technologies.** Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, which are embedded invisibly on web pages. We or our service providers may use clear GIFs (also known as web beacons, web bugs or pixel tags), in connection with our Site to track your activities, help us manage content, and compile statistics about usage of our Site. We or our service providers may also use clear GIFs in HTML emails to our users, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.
   * **Third-Party Analytics.** We use third-party service providers to evaluate the use of our Site and our Services. We or our service providers use automated devices and applications to evaluate use of our Site and Services. We or our service providers use these tools to help us improve our Site, Services, performance, and user experiences. These entities may use cookies and other tracking technologies, such as web beacons or Flash cookies, to perform their services.
 
@@ -85,6 +86,8 @@ We and our service providers use cookies and other tracking mechanisms to track 
 ## User-Generated Content
 
 Users can create content on our Site or Services, such as by creating videos using the assets we provide and importing their own assets (such as image and audio files) for inclusion in these videos. You control the sharing and distribution settings for the videos created by you according to the control settings you set for yourself. If you have elected to make your animations public, then other users will be able to see that you posted animations and view your animations. We cannot prevent such information from being used in a manner that might violate this Privacy Policy, the law or your personal privacy. If you or other users authorized on your account download or export a video, the resulting video file does not reside on our Site or Services and is no longer governed by this Privacy Policy.
+
+Users can also post materials and other information through their use of the GoAnimate Community site. You will determine what materials and information you post, and because those postings will be viewable by other users of the GoAnimate Community site, you should have no expectation of privacy with respect to such postings.
 
 ## Third-Party Links
 
@@ -98,7 +101,7 @@ In compliance with applicable law, we will notify governmental authorities of an
 
 ## Right to Review, Delete and Control our Use of Your Information
 
-You have the right to review the personal information we have collected about you, to erase or delete it, and to tell us to no longer use or disclose it. You can review most of the personal information we collect about you by logging into your account and reviewing your account information and updating the personal information we maintain about you. You may also contact us at [link] to request access to your personal information, erasure or deletion of your personal information and/or cancellation of your account. If you ask us to erase or delete your personal information, we will erase or delete your personal information within one month or less.
+You have the right to review the personal information we have collected about you, to erase or delete it, and to tell us to no longer use or disclose it. You can review most of the personal information we collect about you by logging into your account and reviewing your account information and updating the personal information we maintain about you. You may also contact us at [support@goanimate.com](mailto:support@GoAnimate.com) to request access to your personal information, erasure or deletion of your personal information and/or cancellation of your account. If you ask us to erase or delete your personal information, we will erase or delete your personal information within one month or less.
 
 ## Right to Remove Your Information
 
@@ -124,6 +127,7 @@ This Privacy Policy is current as of the Effective Date set forth above. We may 
 
 We will also keep prior versions of this Privacy Policy in an archive for your review here:
 
+  * [June 8, 2017 Privacy Policy](https://goanimate.com/static/go/doc/privacy_20170608.pdf)
   * [April 1, 2008 Privacy Policy](https://goanimate.com/static/go/doc/privacy_20080401.pdf)
 
 
