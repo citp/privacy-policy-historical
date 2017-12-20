@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directlinecruises.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620181841id_/http%3A//directlinecruises.com/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directlinecruises.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220053421id_/http%3A//directlinecruises.com/privacynotice.htm) for the most accurate reproduction.*
 
 # Direct Line Cruises Privacy Notice
 
