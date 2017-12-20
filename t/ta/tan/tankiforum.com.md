@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tankiforum.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626062300id_/http%3A//tankionline.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tankiforum.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220131546id_/http%3A//tankionline.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy and Cookies Policy — Tanki Online - Free MMO game
+# Privacy and Cookies Policy
 
 1\. Introduction and Scope
 
