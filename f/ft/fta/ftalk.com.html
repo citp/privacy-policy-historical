@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the ftalk.com privacy policy that was archived on 2016-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160625073853id_/http%3A//torchbrowser.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ftalk.com privacy policy that was archived on 2017-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171221001155id_/http%3A//torchbrowser.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
     <meta charset="utf-8">
-    <script id="LR1" type="text/javascript" async="" src="https://platform.twitter.com/js/tfw/hub/client.js"></script><script id="twitter-wjs" src="//web.archive.org/web/20140825213744/http://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20140825213744/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/default/vendor/jquery.min.1.11.1.js"></script>
+    <script id="LR1" type="text/javascript" async="" src="https://platform.twitter.com/js/tfw/hub/client.js"></script><script type="text/javascript" async="" src="https://www.torchbrowser.com/js/default/appid.V2.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//web.archive.org/web/20140825213744/http://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20140825213744/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/default/vendor/jquery.min.1.11.1.js"></script>
 <script type="text/javascript" src="/js/default/main.js"></script>
     <meta name="description" content="Please read our Privacy Policy before using Torch.">
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
@@ -17,50 +17,56 @@
 	var _rb_ga_page_name = "Privacy";
 	var _rb_ga_common_account = "UA-30208384-1";
 
-    var ga_host = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src=\""+ga_host+"google-analytics.com/ga.js\" type=\"text/javascript\"%3E%3C/script%3E"));
+    var _gaq = _gaq || [];
+_gaq.push(['_setAccount', _rb_ga_common_account]);
+
+(function() {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:'   == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+})();
 
 function ga_track_download(id){
-    send_ga_query(_rb_ga_page_name+"/download/btn["+id+"]/sysid["+_rb_systemid+"]/appid["+_rb_appid+"]/lng["+_rb_language+"]", _rb_ga_common_account);
+    send_ga_query(_rb_ga_page_name+"/download/btn["+id+"]/sysid["+_rb_systemid+"]/appid["+_rb_appid+"]/lng["+_rb_language+"]");
 }
 
-function ga_track_view( ){
-    send_ga_query(_rb_ga_page_name+"/view/sysid["+_rb_systemid+"]/appid["+_rb_appid+"]/lng["+_rb_language+"]", _rb_ga_common_account);
+function ga_track_view(){
+    send_ga_query(_rb_ga_page_name+"/view/sysid["+_rb_systemid+"]/appid["+_rb_appid+"]/lng["+_rb_language+"]");
 }
 
 function ga_track_usage(id, usageof){
-    send_ga_query(_rb_ga_page_name+"/usage/"+usageof+"["+id+"]/sysid["+_rb_systemid+"]/appid["+_rb_appid+"]/lng["+_rb_language+"]", _rb_ga_common_account);
+    send_ga_query(_rb_ga_page_name+"/usage/"+usageof+"["+id+"]/sysid["+_rb_systemid+"]/appid["+_rb_appid+"]/lng["+_rb_language+"]");
 }
 
-function send_ga_query(query, ga_account){
-    if(typeof _gat != "undefined" && _gat != null){
-	   try{
-	       var ga_tracker = _gat._getTracker(ga_account);
-	       ga_tracker._initData( );
-	       ga_tracker._trackPageview(query);
-	   }
-	   catch($e){}
-    }
-    else{
-	   setTimeout(function(){send_ga_query(query, ga_account)}, 1000);
-    }
+function send_ga_query(query){
+    _gaq.push(['_trackPageview', query]);
 }    var ml_host = (("https:" == document.location.protocol) ? "https://" : "http://");
-var ml_host_script = ml_host+"www.torchbrowser.com/js/default";
-var ml_host_stats = ml_host+"stat.torchbrowser.com";
-document.write(unescape("%3Cscript src='"+ml_host_script+"/appid.V2.js' type='text/javascript'%3E%3C/script%3E"));
+
+var ml_host_stats = ml_host + "stat.torchbrowser.com";
+
+(function() {
+    var ms = document.createElement('script');
+    ms.type = 'text/javascript';
+    ms.async = true;
+    ms.src = ml_host + 'www.torchbrowser.com/js/default/appid.V2.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ms, s);
+})();
 
 var _ml_stat_loaded = false;
 
 function ml_stats_load(){
     if(typeof appidObj != "undefined" && appidObj != null){
-	   appidObj.init(_rb_systemid, ml_host_stats);
-	   appidObj.track("hit");
-	   _rb_appid = appidObj.getAppID();
-	   ga_track_view();
-	   _ml_stat_loaded = true;
-    }
-    else{
-	   setTimeout(function(){ml_stats_load()}, 1000);
+        appidObj.init(_rb_systemid, ml_host_stats);
+        appidObj.track("hit");
+        _rb_appid = appidObj.getAppID();
+        ga_track_view();
+        _ml_stat_loaded = true;
+    } else {
+        setTimeout(function(){ml_stats_load()}, 1000);
     }
 }
 
@@ -70,10 +76,9 @@ function ml_track_download(){
 
 function send_ml_query(_event){
     if(_ml_stat_loaded == true){
-	   appidObj.track(_event, _rb_language);
-    }
-    else{
-	   setTimeout(function(){send_ml_query(_event)}, 1000);
+        appidObj.track(_event, _rb_language);
+    } else {
+        setTimeout(function(){send_ml_query(_event)}, 1000);
     }
 }
 
@@ -83,7 +88,7 @@ ml_stats_load();
         ga_track_download(id);
     }
     //]]>
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script src="https://www.torchbrowser.com/js/default/appid.V2.js" type="text/javascript"></script>    <link href="/styles/default/new-main.css" rel="stylesheet" type="text/css">
+</script>    <link href="/styles/default/new-main.css" rel="stylesheet" type="text/css">
 <link href="/styles/default/new-inner.css" rel="stylesheet" type="text/css">
 <link href="/styles/default/privacy.css" rel="stylesheet" type="text/css">
     <title>Privacy Policy | Torch Browser</title>
@@ -94,7 +99,6 @@ ml_stats_load();
     <div><a href="/tour">Features</a></div>
     <div><a href="/about">About</a></div>
     <div><a href="/support" target="_blank">Support</a></div>
-    <div><a href="http://blog.torchbrowser.com" target="_blank">Blog</a></div>
     <div><a href="/privacy">Privacy Policy</a></div>
     <div><a href="/terms">Terms of Use</a></div>
     <div><a href="/copyrights">Copyrights</a></div>
@@ -134,6 +138,7 @@ ml_stats_load();
         TorchMedia does not rent, sell, or share any information about you with any third-parties. Torch may disclose your information if TorchMedia believes such action is necessary to: (a) comply with the law or legal process served on TorchMedia; (b) protect and defend the rights or property of TorchMedia (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of TorchMedia services or members of the public.
     </p>
     <p>TorchMedia may use certain trusted third party companies and individuals to help it provide, analyze and improve the Website and Browser (including but not limited to data storage, maintenance services, database management, web analytics, information processing and improvement of the Website's features and services. These third parties may have access to your information only for purposes of performing these tasks on behalf of TorchMedia and under obligations similar to those in this Policy.</p>
+    <p>We may allow third parties, including advertising companies, and ad networks, to display advertisements on our website and Applications. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements.</p>
     <p>
         <b>Third party advertisers and websites</b><br>
         If you access another website through the Website and that website is operated by any entity other than TorchMedia, that site is referred to as a "Third Party Site". Unless TorchMedia clearly indicates otherwise at the time of collection, TorchMedia does not share Personal Information with Third Party Sites. Please be aware however that these Third Party Sites may collect information about you. Please see the Third Party Site's privacy policy to better understand what information is collected, how it is used and shared, and your choices regarding control. TorchMedia has no control over these linked Third Party Sites, each of which has a separate privacy and data collection practice, independent of this Policy. TorchMedia does not monitor, control, or endorse the information collection or privacy practices of any Third Party Site. As such, TorchMedia is not responsible for, nor have control over, the content or the privacy policies of these Third Party Sites. You must read the privacy policies of each and every website that you visit when linking from the Website. This Policy applies solely to information collected by TorchMedia.
@@ -195,13 +200,12 @@ ml_stats_load();
         <li><a href="http://download.torchbrowser.com/TorchSetupFull.exe" target="downframe" aid="full" onclick="track_download('full')">Offline installer</a></li>
         <li><a href="/support" target="_blank">Support</a></li>
         <li><a href="/support/faq" target="_blank">FAQ</a></li>
-        <li><a href="http://blog.torchbrowser.com" target="_blank">Blog</a></li>
         <li><a href="/about">About Us</a></li>
         <li><a href="/privacy">Privacy Policy</a></li>
         <li><a href="/terms">Terms of Use</a></li>
         <li class="no-border-right"><a href="/copyrights">Copyrights</a></li>
     </ul>
-    Copyrights © 2016 Torch Media Inc. All rights reserved.
+    Copyrights © 2017 Torch Media Inc. All rights reserved.
 </div>    <iframe id="downframe" width="0" height="0" frameborder="0" src="about:blank" name="downframe"></iframe>
     <!-- Google Code for Remarketing Tag -->
 <!--------------------------------------------------
