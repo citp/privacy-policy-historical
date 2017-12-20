@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inspiralized.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127013757id_/http%3A//inspiralized.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiralized.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220213406id_/http%3A//inspiralized.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Inspiralized
+# Privacy Policy — Inspiralized
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@inspiralized.com](mailto:info@inspiralized.com).
 
