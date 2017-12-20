@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damncoolpictures.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618071157id_/http%3A//www.damncoolpictures.com/2009/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damncoolpictures.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220012336id_/http%3A//www.damncoolpictures.com/2009/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Damn Cool Pictures
 
