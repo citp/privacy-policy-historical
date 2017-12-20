@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtabtvplussearch.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621102940id_/http%3A//newtabtvplussearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtabtvplussearch.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220045259id_/http%3A//newtabtvplussearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
 
 # NewTabTV plus (free) | Privacy Policy
 
