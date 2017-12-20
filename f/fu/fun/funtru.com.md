@@ -1,98 +1,56 @@
-> *The following text is extracted and transformed from the funtru.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124194714id_/http%3A//www.funtru.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funtru.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221001131id_/http%3A//www.funtru.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Default Meta Title
+# Privacy Policy - Funtru
 
-This Privacy Policy governs the manner in which **www.funtru.com** collects, uses, maintains and discloses information collected from Users (each, a Visiter of www.funtru.com) of the www.funtru.com website (Site). This privacy policy applies to the Site and all products and services offered.
+This Privacy Policy controls the way we collect, use, maintain, and disclose information related to its users. This Privacy Policy applies to this website (www.funtru.com) and all the services provided by it.
 
-  
+### How do we gather users information?
 
+We can collect information related to the personal identification of users in the following (but not limited to) ways: -
 
-### What information we collect
-
-We may collect personal identification information from Users in a variety of ways, including, but not limited to:-
-
-  * \- When Users visit our site,
-  * \- Fill out a form,
-  * \- Subscribe to a newsletter
-  * \- Respond to a survey
-  * \- contacting us.
+  * When the user comes to our website,
+  * Fills a form on our website,
+  * Subscribes to the newsletter,
+  * Answers to a survey,
+  * Contact us
 
 
 
-Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously.
+Users can be asked for their name, e-mail address etc. as needed. We only collect the user's personal information when they voluntarily send us through any medium. Except for certain essential activities related to the website, they can use our website anonymously, without giving personal information.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+When users use our website, we can also collect their non-personal information. Non-personal information includes the name of the browser, the technical information related to the user's computer, information related to the mobile (if the website is used on mobile phones), the name of the Internet service provider etc.
 
-We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
-
-  
-
+We adopt appropriate measures of security for collecting, maintaining and processing information related to the user, so that they remain unauthorized access, disclosure and change.
 
 ### Cookies
 
-Our Site may use "cookies" to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our [website](http://www.funtru.com/ "funtru.com") can use cookies to improve user experience. The user's web browser saves the cookies in the memory of the device for the purpose of recording. The user can prohibit cookies from the settings of the web browser or can set a warning when cookies are sent. If they do this then the website may not work properly.
 
-Ouer Site may display advertisements from any ad partners or directly from advertisers. Ads partners or advertisers may use cookie to enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. Cookies uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc.
+Our website can show ads directly to any advertiser or through its subsidiary. The advertiser or its assistant can use cookies to show their ads in a fair and profitable way. All cookies collect the user's non-personal information.
 
-  
+### How do we use the information gathered?
 
+The website collects user information for the following purpose: -
 
-### How we use collected information
-
-Site may collect and use Users personal information for the following purposes:
-
-  
-
-
-  * **To improve customer service**  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * **To personalize user's experience**  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * **To improve our Site**  
-We may use feedback you provide to improve our products and services.
-  * **To send periodic emails**
+  * For the user's service improvement,
+  * To personalize user experience,
+  * To improve our website,
+  * To send e-mail regarding services or products.
 
 
 
-We may use the email address to send them information and updates pertaining to their order. 
+### Sharing of personal information
 
-  
+We do not commercially use (selling or leasing) your personal information. We can share aggregated demographic information, which is not related to any personal information of the user, with our professional partners, trusted affiliates, and advertisers for the above use.
 
+### Privacy Policy Change
 
-### How we protect your information
+Our [website](http://www.funtru.com/ "funtru.com") is free to make changes to your privacy policy at any time. If there is a change then we publish its notification on the main page of our website. We encourage our users to be conscious about our policy on the privacy of their personal information. Periodically reviewing this privacy policy and being aware of any changes is the ultimate responsibility of the user.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+### Your acceptance on our terms
 
-  
+When using this website, you express support for our Privacy Policy. If you do not agree with this policy. If there is any change in our privacy policy while using you, it will also be considered your acceptance of the policy.
 
+### Contact us
 
-### Sharing your personal information
-
-We do not sell, trade, or rent personal identification information of Users to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
-
-  
-
-
-### Changes to this privacy policy
-
-Funtru.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-Your acceptance of these terms
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-  
-
-
-### Contacting us
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: info@funtru.com
-
-Contact Us
-
-www.funtru.com
-
-  
-
-
-Latest Sher-o-Shayari, Sms, Jokes, Best Wishes and Quotes Collection.
+If you have any questions related to the privacy policy of our [website](http://www.funtru.com/ "funtru.com"), then you can contact us through the [contact form](https://web.archive.org/contact-us.html "Contact us Form") given on our website.
