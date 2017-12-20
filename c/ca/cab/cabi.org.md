@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabi.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612113719id_/http%3A//www.cabi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabi.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220183958id_/http%3A//www.cabi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,7 +6,9 @@
 
 Like most websites we use cookies. This is to ensure that we give you the best experience possible.
 
-Continuing to use www.cabi.org means you agree to our use of cookies. If you would like to, you can learn more about the cookies we use.
+ 
+
+Continuing to use www.cabi.org  means you agree to our use of cookies. If you would like to, you can learn more about the cookies we use. 
 
 **Sign up for the CABI e-zine Newsletter**
 
