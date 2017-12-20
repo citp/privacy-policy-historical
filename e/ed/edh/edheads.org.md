@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edheads.org privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621010127id_/http%3A//edheads.org%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edheads.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220161749id_/http%3A//edheads.org%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy - Edheads
 
@@ -8,7 +8,7 @@ Note: The privacy practices set forth in this privacy policy are for this web si
 
 * * *
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. We never request such information from those under the age of 13. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. We never request such information from those under the age of 13. The information you provide is used to fulfill your specific request for membership. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
 
 * * *
 
@@ -16,11 +16,11 @@ The Site may use cookie and tracking technology depending on the features offere
 
 * * *
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. We do not share information with marketing companies.
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. We do not share or sell information with marketing companies.
 
 * * *
 
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+Your personally identifiable information is kept secure. Only authorized employees and select contractors have access to this information. Contractors sign agreements stating that Edheads membership information is confidential and not to be shared or sold.  All emails and newsletters from this site allow you to opt out of further mailings.   **Student data cannot and is not collected or shared with anyone.**  Membership information, that required in the membership registration forms, is saved and used as a communication tool for Edheads only.  We do not share or sell that information to 3rd party vendors.  
 
 * * *
 
