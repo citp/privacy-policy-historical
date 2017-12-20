@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actioncoach.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618012958id_/http%3A//www.actioncoach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actioncoach.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220011334id_/http%3A//www.actioncoach.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ActionCoach
 
