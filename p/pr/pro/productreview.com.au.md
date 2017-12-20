@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productreview.com.au privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626221144id_/http%3A//www.productreview.com.au/i/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productreview.com.au privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220233928id_/https%3A//www.productreview.com.au/i/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ProductReview.com.au
 
@@ -58,7 +58,7 @@ The primary purpose for which we collect information about you is to enable us t
 
 ##### Registration
 
-If you wish to submit a review, comment, question, or report certain content you must register on ProductReview to create a user account. All information you provide when registering user account including your name, address, email address, mobile number or other details can be viewed, modified or deleted at any time by accessing [your member area](https://web.archive.org/u/myAccount.html). Registered users who wish to close their account should read the instructions in our [help centre](http://support.productreview.com.au/), given the nature of our site it may be impossible to remove all your content and some residual information may remain on the site. 
+If you wish to submit a review, comment, question, or report certain content you must register on ProductReview to create a user account. All information you provide when registering user account including your name, address, email address, mobile number or other details can be viewed, modified or deleted at any time by accessing [your member area](https://web.archive.org/u/myAccount.html). Registered users who wish to close their account should read the instructions in our [help centre](https://support.productreview.com.au/), given the nature of our site it may be impossible to remove all your content and some residual information may remain on the site. 
 
 ##### Disclosing personal information
 
