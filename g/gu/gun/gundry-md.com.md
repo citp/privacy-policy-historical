@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gundry-md.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223185030id_/http%3A//gundrymd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gundry-md.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220104100id_/http%3A//gundrymd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Gundry MD Supplements and Skincare Products
 
@@ -12,15 +12,13 @@ Email marketing (if applicable): With your permission, we may send you emails ab
 
 #### SECTION 2 – CONSENT
 
-How do you get my consent?
-
+How do you get my consent?  
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
-
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.  
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [support@gundrymd.com](mailto:support@gundrymd.com) or mailing us at: Gundry MD 9465 Wilshire Boulevard, Suite 300, Beverly Hills, CA, 90212, United States
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [support@gundrymd.com](mailto:support@gundrymd.com) or mailing us at: Gundry MD™, 9465 Wilshire Boulevard, Suite 300, Beverly Hills, CA, 90212, United States
 
 #### SECTION 3 – DISCLOSURE
 
@@ -28,7 +26,7 @@ We may disclose your personal information if we are required by law to do so or 
 
 #### SECTION 4 – E-COMMERCE
 
-Our store is hosted on http://gundrymd.com/. Providing youwith the online e-commerce platform that allows us to sell our products and services to you.
+Our store is hosted on http://gundrymd.com/. Providing you with the online e-commerce platform that allows us to sell our products and services to you.
 
 Your data is stored through http://gundrymd.com/ data storage, databases and the general e-commerce application. We store your data on a secure server behind a firewall.
 
@@ -40,23 +38,19 @@ All direct payment gateways adhere to the standards set by PCI-DSS as managed by
 
 PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-For more insight, you may also want to read Gundry MD Terms of Service here or Privacy Statement here.
-
 #### SECTION 5 – THIRD-PARTY SERVICES
 
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us. We do not sell, trade, or otherwise transfer to outside parties your personal information unless we provide you with advance notice. This does not include website hosting partners and other third parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our website policies, or protect ours or others’ rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising or other uses.
 
-However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+Our store’s payment gateway is hosted by 1ShoppingCart.com. 1ShoppingCart.com has access to aggregate data about our customers in order to assist 1ShoppingCart.com in analyzing Site performance and making improvements to 1ShoppingCart.com products. 
 
-For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
+In addition, all orders are processed through Network Merchants, LLC. The personally identifiable information Network Merchants, LLC acquires in processing payment transactions varies according to the nature of the transaction and the way in which merchants or financial institutions are using their payment services. It may include, for example, the amount of the transaction, the consumer’s name, credit card number and expiration date, checking account number, billing address, and shipping address.
 
-In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+Network Merchants, LLC uses the information collected to fulfill your requests for certain products and services, to process payment transactions, to facilitate billing, and otherwise deliver the payment gateway services. Personal consumer information is used to process payment transactions and for no other purpose. 
 
-As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+Network Merchants, LLC stores transaction information on secure computers located in a locked data center. Only a small number of employees involved in the management of the data center have physical access to these computers. Where possible, Network Merchants, LLC encrypts information stored on their computers as a further measure of protection. Network Merchants, LLC uses state-of-the-art firewalls and other security technology to prevent their computers from being accessed by unauthorized persons. Information security is critical to our business. Nevertheless, nothing can be 100% secure. We cannot ensure or warrant the security of any information you transmit to us.
 
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
-
-Links
+Links:
 
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
@@ -76,12 +70,25 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-QUESTIONS AND CONTACT INFORMATION
+#### SECTION 9 – CALIFORNIA RESIDENTS
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@gundrymd.com](mailto:support@gundrymd.com) or by mail at Gundry MD
+Many browsers have a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. These browser features are not uniform, so we are not currently set up to respond to those signals.
 
-[Re: Privacy Compliance Officer] 
+Individuals who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests may be submitted to us by email at [support@gundrymd.com](mailto:support@gundrymd.com) or at the following mailing address: Gundry MD™; Re: Privacy Compliance Officer; 9465 Wilshire Boulevard, Suite 300; Beverly Hills, CA, 90212, United States.
 
-[9465 Wilshire Boulevard, Suite 300, Beverly Hills, CA, 90212, United States] 
+Please outline in your letter or email that you are making a “California Shine the Light” inquiry. We will respond to your inquiry within 30 days.
 
-—-
+#### SECTION 10 – CHILDREN’S PRIVACY
+
+This Website is not directed to children under the age of thirteen (13) and we do not knowingly collect personal information from children under the age of thirteen on the Website. Children may not use our services. We have no way of distinguishing the age of individuals who address our Website. If a child has provided us with personal information, the parent or guardian should contact us to remove the information and opt out of promotional opportunities.
+
+#### QUESTIONS AND CONTACT INFORMATION
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@gundrymd.com](mailto:support@gundrymd.com) or by mail at:
+
+Gundry MD™  
+Re: Privacy Compliance Officer  
+9465 Wilshire Boulevard, Suite 300  
+Beverly Hills, CA, 90212, United States
+
+Effective: 2/28/17
