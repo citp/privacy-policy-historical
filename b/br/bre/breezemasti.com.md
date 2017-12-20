@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the breezemasti.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012153id_/http%3A//www.breezemasti.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breezemasti.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220173258id_/https%3A//www.breezemasti.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy -breezemasti
 
-**Privacy Policy for breezemasti.com**
+Breezemasti.com is an online entertainment portal which provides Bollywood and south Indian movie news, reviews, videos, trailers, photo galleries etc.
 
-The privacy of our visitors to breezemasti.com is important to us.
-
-At breezemasti.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit breezemasti.com, and how we safeguard your information. We never sell your personal information to third parties.
+At breezemasti, we recognize that privacy of your personal information is important to us. Here is information on what types of personal information we receive and collect when you use and visit breezemasti.com, and how we safeguard your information. We never sell your personal information to third parties.
 
 **Log Files**  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
