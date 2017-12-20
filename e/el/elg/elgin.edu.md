@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elgin.edu privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621013041id_/http%3A//elgin.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elgin.edu privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220162958id_/http%3A//elgin.edu/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Elgin Community College (ECC)
 
