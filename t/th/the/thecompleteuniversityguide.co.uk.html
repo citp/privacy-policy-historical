@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thecompleteuniversityguide.co.uk privacy policy that was archived on 2017-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627212513id_/https%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-and-cookie-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecompleteuniversityguide.co.uk privacy policy that was archived on 2017-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171220052607id_/https%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-and-cookie-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="not-logged-in"><head>
     
@@ -49,7 +49,7 @@
 
         var cug = {
             isLoggedIn: false,
-            openTooltip: undefined,
+            openHoverover: undefined,
             onMediaSizeChange: [],
             registerMediaSizeFunction: function(f) { cug.onMediaSizeChange.push(f); f(cug.currentMediaSize); },
             mediaSizes: [{ name: "narrow", query: "(max-width: 480px)"}, { name: "wide", query: "all" }],
@@ -140,28 +140,28 @@
         $(window).on("resize", function () { cug.checkStickyHeader(true); });
         cug.registerMediaSizeFunction(cug.checkStickyHeader);
         
-        function closeTooltip() {
-            if (cug.openTooltip) { cug.openTooltip.removeClass("open"); }
+        function closeHoverover() {
+            if (cug.openHoverover) { cug.openHoverover.removeClass("open"); }
 
             if(isIOS()) {
                 $(document.body).css("cursor", "");
             }
 
-            cug.openTooltip = undefined;
+            cug.openHoverover = undefined;
         }
 
-        $(document).on("click", closeTooltip);
+        $(document).on("click", closeHoverover);
 
-        $(document).on("mouseenter", ".tooltip-link", function (e) {
-            if (!$(this).is(cug.openTooltip)) {
-                closeTooltip();
+        $(document).on("mouseenter", ".hoverover", function (e) {
+            if (!$(this).is(cug.openHoverover)) {
+                closeHoverover();
             }
         });
 
-        $(document).on("click", ".tooltip-link", function (e) {
-            if (cug.openTooltip) { cug.openTooltip.removeClass("open"); }
+        $(document).on("click", ".hoverover", function (e) {
+            if (cug.openHoverover) { cug.openHoverover.removeClass("open"); }
             $(this).addClass("open");
-            cug.openTooltip = $(this);
+            cug.openHoverover = $(this);
 
             if(isIOS()) {
                 $(document.body).css("cursor", "pointer");
@@ -426,7 +426,7 @@ library_tolerance=2500,
 use_existing_jquery=false,
 // DO NOT EDIT BELOW THIS LINE
 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=6103&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170627212513id_%2Fhttps%3A%2F%2Fwww.thecompleteuniversityguide.co.uk%2Fterms-and-conditions%2Fprivacy-and-cookie-policy%2F&amp;r=0.5761110953438353" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=6103&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20171220052607id_%2Fhttps%3A%2F%2Fwww.thecompleteuniversityguide.co.uk%2Fterms-and-conditions%2Fprivacy-and-cookie-policy%2F&amp;r=0.914700129014238" type="text/javascript"></script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
     
 
@@ -574,18 +574,6 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                                                     <a class="main-menu-item-link" href="/colleges/">College Profiles</a>
 
                                         </li>
-                                        <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/crime-in-university-towns-and-cities/">Crime near Campus</a>
-
-                                        </li>
-                                        <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/universities/sexism-on-campus/">Sexism at University</a>
-
-                                        </li>
-                                        <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/universities/university-complaints/">Complaints at University</a>
-
-                                        </li>
                                 </ul>
                         </li>
                         <li class="main-menu-list">
@@ -593,15 +581,15 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
                                 <ul class="main-menu-items">
                                         <li class="main-menu-item">
+                                                    <a class="main-menu-item-link" href="/universities/results-day/">Results Day</a>
+
+                                        </li>
+                                        <li class="main-menu-item">
                                                     <a class="main-menu-item-link" href="/universities/choosing-the-right-university/">Choosing a University</a>
 
                                         </li>
                                         <li class="main-menu-item">
                                                     <a class="main-menu-item-link" href="/universities/applying-to-university-and-ucas-deadlines/">Applying to University</a>
-
-                                        </li>
-                                        <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/universities/results-day/">Results Day</a>
 
                                         </li>
                                         <li class="main-menu-item">
@@ -613,11 +601,19 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
                                         </li>
                                         <li class="main-menu-item">
+                                                    <a class="main-menu-item-link" href="/universities/sexism-on-campus/">Sexism at University</a>
+
+                                        </li>
+                                        <li class="main-menu-item">
                                                     <a class="main-menu-item-link" href="/universities/mental-health-at-university/">Mental Health at University</a>
 
                                         </li>
                                         <li class="main-menu-item">
                                                     <a class="main-menu-item-link" href="/universities/top-tips-for-dyslexic-students/">Advice for Dyslexic Students</a>
+
+                                        </li>
+                                        <li class="main-menu-item">
+                                                    <a class="main-menu-item-link" href="/universities/sports/search">University Sport</a>
 
                                         </li>
                                 </ul>
@@ -719,11 +715,15 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
                                         </li>
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/student-loan-repayment-calculator">Undergraduate Student Loan Repayment Calculator</a>
+                                                    <a class="main-menu-item-link" href="/university-tuition-fees/repaying-your-student-loan/">Repaying Your Undergraduate Student Loan</a>
 
                                         </li>
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/university-tuition-fees/repaying-your-student-loan/">Repaying Your Undergraduate Student Loan</a>
+                                                    <a class="main-menu-item-link" href="/university-tuition-fees/are-you-eligible-for-student-finance/">Eligibility for Student Finance</a>
+
+                                        </li>
+                                        <li class="main-menu-item">
+                                                    <a class="main-menu-item-link" href="/nhs-bursary">The NHS Bursary</a>
 
                                         </li>
                                         <li class="main-menu-item">
@@ -741,15 +741,19 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
                                 <ul class="main-menu-items">
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/money-saving-student">Student Cost of Living Survey</a>
-
-                                        </li>
-                                        <li class="main-menu-item">
                                                     <a class="main-menu-item-link" href="/university-tuition-fees/managing-your-money/">Managing Your Money</a>
 
                                         </li>
                                         <li class="main-menu-item">
                                                     <a class="main-menu-item-link" href="/university-tuition-fees/other-financial-support/">Other Financial Support</a>
+
+                                        </li>
+                                        <li class="main-menu-item">
+                                                    <a class="main-menu-item-link" href="/university-tuition-fees/other-financial-support/university-bursaries-and-scholarships/">Bursaries and Scholarships</a>
+
+                                        </li>
+                                        <li class="main-menu-item">
+                                                    <a class="main-menu-item-link" href="/money-saving-student">Student Cost of Living Survey</a>
 
                                         </li>
                                 </ul>
@@ -769,7 +773,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
                                         </li>
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/crime-in-university-towns-and-cities/">Crime in Student Towns &amp; Cities</a>
+                                                    <a class="main-menu-item-link" href="/crime-rates-in-university-cities-and-towns/">Crime in Student Towns &amp; Cities</a>
 
                                         </li>
                                         <li class="main-menu-item">
@@ -815,7 +819,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
                                         </li>
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/careers/what-do-graduates-do-and-earn/does-a-degree-help-you-earn-more-money/">The Professional Premium</a>
+                                                    <a class="main-menu-item-link" href="#">The Professional Premium</a>
 
                                         </li>
                                         <li class="main-menu-item">
@@ -953,15 +957,15 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
                                 <ul class="main-menu-items">
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/international/studying-overseas/">Studying Overseas</a>
+                                                    <a class="main-menu-item-link" href="/international/studying-abroad/">Studying Overseas</a>
 
                                         </li>
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/international/studying-overseas/international-university-rankings/">International University Rankings</a>
+                                                    <a class="main-menu-item-link" href="/international/studying-abroad/international-university-rankings/">International University Rankings</a>
 
                                         </li>
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/international/studying-overseas/funding-overseas-study/">Funding</a>
+                                                    <a class="main-menu-item-link" href="/international/studying-abroad/funding-studying-abroad/">Funding</a>
 
                                         </li>
                                 </ul>
@@ -1022,6 +1026,17 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
     
             <div class="survey-box-container">
                 
+
+    <div class="survey-box noPrint">
+        Tell us what information you find useful when applying to uni, and you could win an iPad! <a href="https://hotcoursessurvey.typeform.com/to/gwpMVV" target="'_blank'" onclick="hideSurvey();_gat._getTrackerByName()._trackEvent('Survey opened', 'User survey prize draw', '')">Complete the survey</a>&nbsp;|&nbsp;<a href="#" onclick="hideSurvey(); return false;">No thanks</a>
+    </div>
+    <script>
+        function hideSurvey() {
+            $('.survey-box').slideUp();
+            document.cookie = "noSurvey17414=1;expires=Tue, 20 Mar 2018 00:00:00 UTC; path=/";
+        }
+    </script>
+
             </div>
     
             <div class="breadcrumbs"><!--
@@ -1052,7 +1067,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 <h1>Terms and Conditions</h1>
 <h3>Privacy and <a href="#cookies">Cookie</a> Policy</h3>
 <p>This policy (together with our<span> <a href="/terms-and-conditions/" title="Terms and Conditions">Terms of Use</a>&nbsp;</span>and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this policy carefully before you use the site.</p>
-<p>For the purpose of the Data Protection Act 1998 ("Act"), the data controller is The Complete University Guide Ltd ("we" or "us") of 1st Floor, Bedford House, 69–79 Fulham High Street, London SW6 3JW. If you have a query about the use of your personal information on our site, please contact <a href="mailto:admin@thecompleteuniversityguide.co.uk" target="_blank">admin@thecompleteuniversityguide.co.uk</a>. We may charge a reasonable fee for such requests as permitted by law.</p>
+<p>For the purpose of the Data Protection Act 1998 ("Act"), the data controller is the Complete University Guide Ltd ("we" or "us") of 1st Floor, Bedford House, 69–79 Fulham High Street, London SW6 3JW. If you have a query about the use of your personal information on our site, please contact <a href="mailto:admin@thecompleteuniversityguide.co.uk" target="_blank">admin@thecompleteuniversityguide.co.uk</a>. We may charge a reasonable fee for such requests as permitted by law.</p>
 <p>It is very important to us that you should be able to use and enjoy the website without your privacy being compromised in any way. Please read the following to understand how your personal information will be treated. Please note that this policy may change from time to time as the website develops so please check back regularly. However, we will not reduce your rights under this privacy policy without your explicit consent. Any changes we make will be posted on this page and, if the changes are significant, we will provide a more prominent notice (including but not limited to an email notification of privacy policy changes).</p>
 <p>Please remember that whenever you voluntarily disclose personal information online – for example on message boards, through email, or in chat areas – that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your passwords. Please be careful and responsible when you're online.</p>
 <h4>Information We May Collect From You</h4>
@@ -1121,8 +1136,8 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 <p>We may disclose your personal information to third parties:</p>
 <ul>
 <li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
-<li>If The Complete University Guide Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
-<li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our <a href="/terms-and-conditions/" title="Terms and Conditions"><span>Terms of Use</span></a>&nbsp;and other agreements; or to protect the rights, property, or safety of The Complete University Guide Ltd our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
+<li>If the Complete University Guide Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
+<li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our <a href="/terms-and-conditions/" title="Terms and Conditions"><span>Terms of Use</span></a>&nbsp;and other agreements; or to protect the rights, property, or safety of the Complete University Guide Ltd our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
 </ul>
 <h4>Your Rights</h4>
 <p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party, such as universities at clearing, for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at <a href="mailto:admin@thecompleteuniversityguide.co.uk" target="_blank">admin@thecompleteuniversityguide.co.uk</a>.</p>
@@ -1132,8 +1147,8 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 <h4>Contact</h4>
 <p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <a href="mailto:admin@thecompleteuniversityguide.co.uk" target="_blank">admin@thecompleteuniversityguide.co.uk</a><a href="/contact/" target="_blank"></a><a href="mailto:nova@thecompleteuniversityguide.co.uk" target="_blank"></a>.</p>
 <div align="center"><hr></div>
-<p>The Data Controller<br>The Complete University Guide Ltd<br>1st Floor, Bedford House<br>69–79 Fulham High Street<br>London SW6 3JW</p>
-<p>Registered no. 06644543</p>
+<p>The Data Controller<br>Complete University Guide Ltd<br>1st Floor, Bedford House<br>69–79 Fulham High Street<br>London SW6 3JW</p>
+<p>Registered no. 03768870</p>
 
 
 
@@ -1188,7 +1203,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 <div class="content-sidebar">
                     
 
-    <div class="box"><div class="box-heading"><h3><a href="/terms-and-conditions/">Terms and Conditions</a></h3></div><div class="box-content"><ul><li><b>Privacy and Cookie Policy</b></li><li><a href="/terms-and-conditions/acceptable-use-policy/">Acceptable Use Policy</a></li><li><a href="/terms-and-conditions/ask-policy/">ASK Policy</a></li></ul></div></div>
+    <div class="box"><div class="box-heading"><h3><a href="/terms-and-conditions/">Terms and Conditions</a></h3></div><div class="box-content"><ul><li><b>Privacy and Cookie Policy</b></li><li><a href="/terms-and-conditions/acceptable-use-policy/">Acceptable Use Policy</a></li><li><a href="/terms-and-conditions/ask-policy/">ASK Policy</a></li><li><a href="/terms-and-conditions/free-prize-draw-policy/">Free Prize Draw Policy</a></li></ul></div></div>
 
 
                     
@@ -1304,7 +1319,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 <li><a href="/about-us/" title="About Us">About Us</a></li>
 <li><a href="/contact" title="Contact Us">Contact Us</a></li>
 <li><a href="/advertise-with-us/" title="Advertise With Us">Advertise with Us</a></li>
-<li><a href="/higher-and-further-education-staff/" title="Higher and Further Education Staff">Higher and Further Education Staff</a></li>
+<li><a href="/higher-and-further-education-providers/" title="Higher and Further Education Staff">Higher and Further Education Providers</a></li>
 <li><a href="/guardian-league-tables/" title="Guardian League Tables">University League Table Guide</a></li>
 <li><a href="/clearing/" title="UCAS Clearing">UCAS Clearing</a></li>
 </ul></div>
@@ -1315,10 +1330,11 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 <li><a href="/terms-and-conditions/privacy-and-cookie-policy/#cookies" title="Cookie Policy">Cookies</a></li>
 <li><a href="/terms-and-conditions/acceptable-use-policy/" title="Acceptable Use Policy">Acceptable Use Policy</a></li>
 <li><a href="/terms-and-conditions/ask-policy/" title="ASK Policy">ASK Policy</a></li>
+<li><a href="/terms-and-conditions/free-prize-draw-policy/" title="Free Prize Draw Policy">Free Prize Draw Policy</a></li>
 </ul></div>
     </div>
     <div class="footer-copyright"><a href="/terms-and-conditions/#ipr">
-        The Complete University Guide © 2017</a></div>
+        Complete University Guide © 2017</a></div>
   </div>
 </div>
     
@@ -1340,7 +1356,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         function () {
             if (!$(this).attr('onclick')) {
                 var href = $(this).attr('href');
-                var url = href.replace(/mailto:/, '').replace(/\?.*/, '');
+                var url = href.replace(/mailto:[^@]+@/, '').replace(/\?.*/, '');
                 _gat._getTrackerByName()._trackEvent('Link', 'Email', url);
                 if (href.indexOf("?") == -1) {
                     $(this).attr('href', href + '?subject=This+query+came+to+you+via+The+Complete+University+Guide+website');
