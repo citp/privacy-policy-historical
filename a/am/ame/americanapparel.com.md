@@ -1,224 +1,53 @@
-> *The following text is extracted and transformed from the americanapparel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091621id_/http%3A//store.americanapparel.net/aboutus/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanapparel.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220043444id_/http%3A//www.americanapparel.com/aboutus/privacypolicy.jsp) for the most accurate reproduction.*
 
 # About Us
 
-## Privacy Policy
+1\. This website is owned and operated by Gildan Activewear SRL. (hereinafter the "Site Owner" or “we”, or “us”) for your personal non-commercial use and information. Your use of this website is subject to the following terms and all applicable laws. 
 
-The following information is provided to you by American Apparel (USA),LLC (in the following “American Apparel”,“we”,“us” or “our”). 
+2\. No Collection of Personal Information for Browsing Purposes. The Site Owner does not collect personal information about you unless specifically and knowingly provided by you, either by ordering products or through downloads or subscriptions to a specific online service, including subscription to promotional emails. 
 
-American Apparel respects your privacy. Consistent with our commitment to providing you a satisfying and helpful shopping experience, we have found that collecting Personal Information (defined below) through www.AmericanApparel.net (the "Site"), affiliate sites and our stores, including but not limited to American Apparel stores and American Apparel Factory Stores (referred to in this Privacy Policy as the "Stores"), helps us better understand the products and services most helpful to you. Our Privacy Policy describes the types of information we gather online and in our Stores and how we use this information. Please read this information carefully.
+3\. Purpose of Collection of Personal Information. We collect Personal Information from you when you voluntarily provide it to us. It can be in connection with your purchases on the Website, your subscription to emails and newsletters, your reviews of our products, your participation to contests and any other type of activities for which you would need to provide your information. The provision of your Personal Information is voluntary; we do not collect Personal Information when you visit the Website. You can choose not to provide certain information, but then you might not be able to take advantage of certain of our products or services 
 
-By accessing the Site and shopping in our Stores, you agree to be bound by the Privacy Policy. This Privacy Policy may be updated from time to time. Accordingly, you should check the date of this Policy (which appears at the top of this page) and review any changes since the last version. If at any time you do not agree to the terms of this Privacy Policy, please do not use this Site and refrain from purchasing from us.
+4\. Collection and Use of Information. The Site Owner obtains its information about you directly from you. Depending on the type of product or service requested, the Site Owner may require information such as your name, birthday, gender, address, shipping address, email address, telephone number, or credit card number and other additional information (“Personal Information”). Personal Information will be collected only for the purpose of fulfilling the specific request for information or for products or services requested at the time the information is collected unless you specifically consent, at the time, to another use of your personal information. 
 
-  Our products are also available for sale in other non-affiliated stores. Data collected in these stores is the property of the respective stores and is not provided to American Apparel (USA), LLC. If you have questions about the privacy policies, for these companies, please contact them directly.
+We may use your Personal Information in order to: (1) process your orders; (2) contact you to confirm your order, including sending you emails to acknowledge your order and confirm your order status and shipment or if there is difficulty in completing or shipping your order; (3) respond to your requests, (4) administer contests and others promotions you participate to, (5) improve your customer experience, (6) enforce this Privacy Policy or the Website Terms of Use, and where you have specifically consented or requested us to do so (7) to send you newsletters, (8) to send you promotional emails and (9) to inform you of new products, services and offers. Any Personal Information is only obtained by the Site Owner if you supply it voluntarily. 
 
-## Use of Information Collected by Us
+In addition, we collect other information that is not Personal Information, including IP addresses, aggregate user data, Site usage information, and browser type to help diagnose problems with our server, manage and improve this Website, track usage, and for security and monitoring purposes. This information aids us in merchandising and improving the design and layout of this Website. This non-personal information does not identify you personally. 
 
-American Apparel may collect two types of information about users: "Personal Information" (such as name, email address, mailing address, phone number, credit card number and the items you purchase) and "Aggregate Information" (such as information about how many users log on to our Site on a daily basis or frequency of customer visits to American Apparel Stores).
+We does not retrieve any information from your personal computer and will not disclose any of your personally identifiable information except when the Site Owner has your express consent or under special circumstances, such as when the Site Owner believes in good faith that the law requires it to do so. 
 
-We use customer information in an effort to improve your shopping experience and to communicate with you about our products, services, promotions and contests. We may also use this information to make offers to you, to help us target specific products and services to you, and to help us develop and improve our Site and Stores and tailor our Sites and Stores to your interests.
+5\. Sharing and Use of Information Except as disclosed in this Privacy Policy, we do not share or sell your Personal Information. We may share your information, including your Personal Information, with companies that are affiliated with us and with other companies, in order to help us to manage and maintain the Website or to deliver the products, services or information you request. We may share your information, including your Personal Information, for many reasons, including without limitation, facilitating some aspects of our Site, sending e-mail, fulfilling purchase requests, delivering orders, processing credit cards and payment information, verification, fraud prevention, credit card authorization, serving, customizing or delivering marketing material, and auditing. These companies may be supplied with or have access to your Personal Information and non- Personal Information solely for the purpose of providing these services to us or on our behalf. We have agreements with these companies that prevent them from using your Personal Information for any purpose other than what we require them to do with it. Some of the companies that we use to perform services are located in the United States. These companies may process and store your Personal Information in the United States. In the event that your Personal Information is processed or stored in the United States, the United States government, courts, and law enforcement and regulatory agencies may be able to obtain your Personal Information through the laws of the United States without prior notice or consent. We may disclose your personal information in special circumstances where we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who we believes is in violation of our rights. We may also disclose the information for administrative and other purposes that it deems necessary to maintain, service, and improve our products and services or in the event that all or substantially all of our’s assets are acquired by a third party. Additionally, there may be instances when we may disclose Personal Information without prior notice or consent in order to (1) protect the legal rights of Gildan Activewear SRL and its and affiliated companies, their employees, agents and contractors; (2) to protect the safety and security of visitors to our site; (3) to protect against fraud or for risk management purposes; or (4) to comply with the laws or legal processes of the United States, Canada, or other countries or (5) in the event that all or substantially all of Site Owner’s assets are acquired by a third party. Because the Website links to social media sites, and from time to time may include third-party advertisements, other parties may collect your personally identifiable information about your online activities over time and across different web sites when you visit this Website. If you would like additional information about online tracking and various opt-out mechanisms, please see <http://donottrack.us/>. 
 
-## Personal Information Collected Online by AmericanApparel.net and at Our Stores
+6\. Cookies and analytics tool. We may use cookies to estimate the Website size audience and gather other information or we may use third party advertising companies to do it or to deliver ads or conduct email campaigns on our behalf. We and these companies may employ cookies (very small text files that are downloaded on your hard disk from certain web pages of the site) and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Cookies are then used to determine the extent of repeated use and the extent of use by a registered user versus an unregistered user to help the Site Owner better personalize the content, banner, and promotion that you and other users will view on this Website. 
 
-Personal Information is collected online by us or our service providers (e.g., such as Yahoo!) on our behalf when users voluntarily register with AmericanApparel.net to purchase items, receive electronic newsletters, use community and communication services, answer surveys and enter contests and other promotional opportunities provided on AmericanApparel.net, when users make a purchase, and when users subscribe to our newsletter. We also maintain a record of your product interests and purchases online. We may receive personal usage and demographic information from our Stores.
+If you do not agree to the use of these cookies please disable them by following the instructions for your browser set out <http://www.allaboutcookies.org/manage-cookies/>. However, some of the services will not function so well if cookies are disabled. 
 
-If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Yahoo! automatically collects order information but may only use this information in aggregate. Please see the Yahoo! Privacy Policy for more information about how Yahoo! uses this information.
+The Site Owner use a tool called “Google Analytics” to collect information about use of this Website. Google Analytics collects information such as how often users visit this Website, what pages they visit when they do so, and what other sites they used prior to coming to this site. The Site Owner uses the information it gets from Google Analytics only to improve this Website. For example, the Site Owner might use performance cookies to keep track of which pages are most popular, which method of linking between pages is most effective, and to determine why some pages are receiving error messages. The Site Owner might also use these cookies to highlight articles or Website services that the Site Owner think will be of interest to you based on your usage of this Website. Google Analytics collects only the IP address assigned to you on the date you visit this Website, rather than your name or other identifying information. The Site Owner do not combine the information collected through the use of Google Analytics with personal information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this Website, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this Website is restricted by the Google Analytics Terms of Use. You can find more information and the Google’s privacy policy in respect of Google Analytics on <http://www.google.com/analytics/learn/privacy.html>. You can prevent Google Analytics from recognizing you on return visits to this Website by disabling cookies on your browser or you may opt out of tracking by Google Analytics by visiting <https://tools.google.com/dlpage/gaoptout?hl=en-GB>. 
 
-In our Stores, Personal Information is collected from you in a number of ways, including the following:
+7\. Access to, Correction and Deletion of Personal Information. Should a user profile be accessible, you may access it, modify any information and preferences regarding your user profile, or require the deletion of your Personal Information by sending an email to the Site Owner’s Privacy Officer at [Privacy.officer@gildan.com](mailto:Privacy.officer@gildan.com). 
 
-1\. When you purchase products from our Stores, we may collect your name, address, email address, telephone number(s) and credit card information (with the expiration date). In addition, we collect transaction information related to your purchase (such as what you bought, the price you paid, the payment method you used and if the product was on sale).
+8\. Security and Risks Related to Internet. This Website has security measures in place to help protect the loss, misuse and alteration of the information under the Site Owner's control. This Website uses no encryption (data scrambling) on certain portions of this Website, but uses encryption on portions where you are transmitting financial information, such as credit card information. When you are on any web site that asks you for confidential information, you should check to see if the information being transmitted is encrypted in order to increase the security of your information. Although every effort is taken to ensure no one else will view, seize or obtain your Personal Information, complete confidentiality and security is not yet possible over the Internet. Any unencrypted email communication over the Internet is not secure or confidential, and is subject to possible interception, loss and alteration. The Site Owner, its agents, administrators, employees and affiliates may not be held liable for any damages you or anyone else may suffer or incur as a result of the transmission of confidential or sensitive information over the Internet, and that all such communications will be made at your own risk. 
 
-2\. When you fill out a tailoring order or instruct us to mail product to another location, we may collect your name, address, email address, telephone number and credit card information.
+9\. Monitoring. The Site Owner may, from time to time, monitor access to, use of and other activities relating to this Website for the purposes of maintenance of this Website, reviewing proper and legal use of this Website and security-related issues. The Site Owner may intervene in relation thereto but does not make any representation or warranty that it will do so. You hereby consent to any such monitoring and intervention. 
 
-3\. When you fill out any in-store promotional surveys, we may gather certain optional Personal Information, such as your opinions on specific products and/or services, in addition to identifying information, such as your name, address, telephone number(s), email address(es), income and employment status.
+10\. Hyperlinks to Other Sites. This Website may contain hyperlinks to other sites. The Site Owner is not responsible for the privacy practices or the content of such websites and any information that you provide to such other websites shall be subject to the privacy policies of the owners of such other websites. 
 
-We love our customers. We realize that you have other options, and we appreciate that you have chosen American Apparel products. We strive to be the most progressive garment manufacturer in the world, and we extend that ambition to our online sales. We understand that you are concerned about your security, privacy and the confidentiality of information we may gain about you online. We are committed to respecting your privacy.
+11\. Use of Personal Information by Employees of the Site Owner. Certain employees of the Site Owner or of its affiliates will be provided with information about you in order to provide services or information that you have requested regarding specific products or services. These employees are instructed to use strict standards of care in handling your personal and confidential information. 
 
-## Aggregate Information Collected Online by AmericanApparel.Net and at Our Stores
+12\. YOU HEREBY EXPRESSLY CONSENT TO THE DISCLOSURE BY THE SITE OWNER OF YOUR PERSONAL INFORMATION TRANSMITTED THROUGH THIS WEBSITE TO THE SITE OWNER'S EMPLOYEES AND TO THE SITE OWNER’S AFFILIATE’S EMPLOYEES IN ORDER TO ALLOW THEM TO PROVIDE YOU WITH THE PRODUCTS AND SERVICES THAT YOU MAY REQUEST.
 
-Aggregate Information is non-personally identifiable/anonymous information about you, such as age, gender, types of products purchased, frequency of Store visits, Site pages you access most frequently or search terms you enter. Aggregate Information is used in a collective manner, and no single person can be identified by that compiled information. For example, the number of people who shopped at AmericanApparel.net during a specific time period or the number of people who shopped at our Stores who are 25 years of age is Aggregate Information that does not personally identify a specific user. Both AmericanApparel.Net and our Stores collect Aggregate Information.
+13\. Information about Products and Services. The Site Owner may occasionally send you e-mail messages about products and services where you have specifically consented to receive such information. If you do not wish to receive such mailings, you may do so by cancelling your subscription to such email messages by contacting the Site Owner at <https://www.americanapparel.com/account/update-my-profile.jsp>. 
 
-## Order-related and Promotional email
+14\. Children’s Policy. We do not knowingly collect Personal Information from children under the age of 13. Please do not allow children under the age of 13 to provide any PII through this Website. If we learn that a child under the age of 13 has provided PII in violation of our Privacy Policy, we will delete that information as soon as practical. If you learn that a child under the age of 13 has provided Personal Information to us, please send us an email at [service@americanapparel.com](mailto:service@americanapparel.com) so we can delete this information. 
 
-You agree that AmericanApparel.net is authorized to transmit email to you for the purpose of informing you about your particular transaction. 
+15\. Severability. If any provision hereof is held illegal, invalid or unenforceable by any competent authority in any jurisdiction, such illegality, invalidity or unenforceability shall not in any manner affect or render illegal, invalid or unenforceable such provision in any other jurisdiction or any other provision hereof in any jurisdiction. 
 
-## Promotional email
+16\. Modification of these Terms. We may modify, alter or otherwise update the Privacy Policy applicable to this Website, in our sole discretion, from time to time, by updating this posting. The date of the last modification will appear at the top hereof. We will provide additional notice in advance (e.g., a disclaimer on our website or an email to subscribers) if material changes are being made, specifically if we make significant changes to how we handle Personal Information. You should review this Privacy Policy each time you access and use this Website. Your access and use of this Website constitutes irrefutable evidence of your consent to be bound by these terms and conditions. 
 
-When subscribing to our promotional emails and providing your email address in the process, you will receive from us emails with details on the following kinds of products and related offers available from us or companies affiliated with us: apparel, fashion articles, accessories, and American Apparel’s socially conscious messaging. Depending on the information made available in the individual case, you may receive promotional emails at regular or irregular intervals until you decide to unsubscribe from our promotional emails.
+17\. Governing Law. These terms shall be governed by the laws of the State of Delaware applicable thereto without reference to principles of conflict of laws. You agree to be bound by such laws. 
 
-We might share your email address with third-party service providers which will use it to compile or deliver the promotional emails to you on our behalf and subject to our instructions.
+Any dispute, controversy or claim arising out of or in connection with these terms or the use of this Website, including any matters regarding the validity or application of the terms of use, is subject to the exclusive jurisdiction of any state or federal court located in the State of Delaware, United States of America. 
 
-For the above purposes, your email address is collected and will be stored and otherwise processed by us and our service providers from and in the United States. Authorities of the European Union have not found the United States to provide an adequate level of protection of personal data, i.e. a level of protection of fundamental rights and freedoms that is essentially equivalent to that guaranteed within the European Union.
+18\. Jurisdiction. This Website is controlled and operated by the Site Owner from Newton Christ Church BB 17404. This Website is intended for use in USA only. The Site Owner makes no representation that materials on the Website are appropriate or available for use in other locations. Those who choose to access this Website from other locations do so at their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. 
 
-No other information than your email address is collected from you when subscribing to promotional emails and your email address will not be used or shared with third parties other than as described above.
-
-With subscribing to our promotional emails and providing your email address in the process, you explicitly consent to the collection, storage and use of your email address for the purposes described above. You may revoke your declaration of consent and stop receiving our promotional emails at any time by following the link for unsubscribing in any of the promotional emails you receive or by sending a respective message to the following contact details: privacy@americanapparel.net.
-
-## Sharing Information with Third Parties
-
-AmericanApparel.net does not share, sell or trade with third parties your Personal Information gathered online, such as email addresses, Personal Information collected as part of an online survey or other specific details about you, except with your consent or as described in this Privacy Policy. AmericanApparel.net does not contribute to or participate in cooperative databases, which give other companies access to such Personal Information.
-
-The Personal Information and Aggregate Information collected at our Stores may be shared with AmericanApparel.net as well as reputable third-party organizations to contact consumers for marketing and promotional purposes. Third party contacts to our customers may be initiated only by postal mail. Except as described in this Privacy Policy, our Stores will not share your telephone number or e-mail address.
-
-AmericanApparel.net, affiliate sites, and our Stores may divulge Personal Information if such action is required for American Apparel or any of our service providers or consultants to comply with any valid legal process, such as a subpoena, search warrant, statute or court order, or any valid administrative request from a law enforcement agency. In addition, we may divulge Personal Information if we or any of our service providers or consultants believes that such disclosure is necessary to address any unlawful acts or acts that may endanger the health or safety of another customer or of the general public.
-
-## Service Providers, Consultants and Affiliates
-
-We may share Personal Information with service providers we have retained to perform services on our behalf (such as internet and technology service providers, mail houses, call centers, and delivery companies). We require service providers to whom we disclose Personal Information and who are not subject to laws based on the European Union Data Protection Directive to contractually agree to implement and adhere to adequate safeguards with respect to the protection of the privacy of Personal Information and as regards the exercise of the corresponding rights.
-
-## Use of Cookies
-
-A cookie is a small data file that Web sites, when you visit them, often store on your hard drive. A cookie may contain information (such as unique user ID), which is used to track the pages of the sites you've visited. AmericanApparel.net uses cookies to preserve the contents of your shopping bag between your visits. AmericanApparel.net also uses analytical cookies to measure activity on our Site, which allows us to determine which areas and features of our Site are most popular. This information allows us to make improvements and updates to enhance your AmericanApparel.net experience. Parts of the Site, such as the members-only areas (for example, shopping) will not function if you do not have cookies enabled. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you turn off cookies or refuse them, though, you will not be able to make a purchase from the Site, nor will we be able to recognize you as a registered user to allow you access to your account information.
-
-This website also uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies" to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
-
-If you would like to object, please use the following link: http://tools.google.com/dlpage/gaoptout?hl=de
-
-To enable or disable cookies on your browser, please consult your browser documentation or contact your software provider.
-
-## Use of Pixel Tags/Clear GIFs/Web Beacons
-
-A pixel tag, also known as a clear GIF or web beacon, is an invisible tag placed on certain pages of our Site but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies the pixel tag will simply detect an anonymous website visit.
-
-## Security and SSL
-
-Protecting your order information is a priority for us. We use Secure Sockets Layer (SSL) technology to protect the security of your online order information. To check the security of your connection, look at the lower right-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active and the server is secure. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the Site address will change from "http" to "https." Some versions of browsers and some firewalls don't permit communication through secure servers. In that case, you won't be able to connect to the server and therefore won't be able to place an order through a secure connection. If you cannot access the secure server for any reason, please print our shopping page and place your order by phone at +1 213 488 0226
-
-## Information Removal/Opt-Out
-
-If you prefer not to receive marketing emails from AmericanApparel.net or affiliate sites, please let us know by clicking on the unsubscribe link within any marketing email you receive from us. If you prefer not to receive marketing mail via the mail carrier, please let us know by sending a request to Privacy Officer, American Apparel, 747 Warehouse St., 5th Floor IT, Los Angeles, CA 90021. Please be sure to include in any email or postal mail your full name, email address, postal address and any message.
-
-Please note that such requests may take up to ten (10) days to become effective.
-
-If you do not wish to have Personal Information collected in our Stores shared with third-party organizations, you can have your name placed on a "do-not-share" list (in which case, such Personal Information will not be shared with third parties) by sending a request to Privacy Officer, American Apparel, 747 Warehouse St., 5th Floor IT, Los Angeles, CA 90021. In addition, you may call us to become part of the "do-not-share" list at +1 213 488 0226
-
-## Children and Privacy
-
-AmericanApparel.net is concerned about the safety of children when they use the internet, and understands that children may not understand all the provisions of our Privacy Policy or make informed decisions about the choices that are made available to adult users of the Site. We encourage parents and guardians to spend time with their children online and to be familiar with the sites their children visit.
-
-American Apparel does not knowingly collect personal information from children under the age of thirteen. Any service requiring the collection of personal data will have an opt-in agreement that states the person using the service is 13 years of age or older. All users must acknowledge and agree to this statement prior to using such services.
-
-If we become aware that a customer is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files.
-
-## Links to Other Sites
-
-AmericanApparel.net and affiliate sites may contain links to sites other than our own. Those sites may have their own privacy policy or no privacy policy at all. Neither we nor any of our service providers have any responsibility for those sites, and we provide these links solely for the convenience of our visitors. Such links may be to advertisers, content providers or other companies who may use our logo and/or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect information and use it in a way inconsistent with this Privacy Policy. We encourage you to review the privacy policies and terms of use of any third-party sites or services before providing any of them with any of your Personal Information. Neither American Apparel nor any of our service providers control the content that appears on these sites or take any responsibility for their content, nor should it be implied that AmericanApparel.net endorses or otherwise recommends such sites or their products or services offered.
-
-## Personal Information Collected By American Apparel and Correction Requests
-
-You can ask us by mail for a summary of any Personal Information that AmericanApparel.net or the American Apparel Stores have retained about you. Please address your request to Privacy Officer, American Apparel, 747 Warehouse St., 5th Floor IT, Los Angeles, CA 90021. We will send such information for review only to the email address or mail address that we have on file for the visitor name that is associated in our database for such information.
-
-If at any time you wish to change, correct or update your Personal Information, please send your request to Privacy Officer, American Apparel, 747 Warehouse St., 5th Floor IT, Los Angeles, CA 90021. Please be sure to include your email address, full name and postal address.
-
-## Additional Information
-
-No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of AmericanApparel.net to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Information, neither AmericanApparel.net nor any of our service providers can ensure or warrant the security of any information you transmit to us over the internet. Any such transmission is done at your own risk.
-
-## Limitation on Liability
-
-IN NO EVENT SHALL AmericanApparel.net, THE AMERICAN APPAREL STORES OR ANY OF THEIR AFFILIATED ENTITIES OR SUPPLIERS BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, EVEN IF THESE ENTITIES HAVE BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, WHETHER IN AN ACTION, UNDER CONTRACT, NEGLIGENCE OR ANY OTHER THEORY, ARISING OUT OF OR IN CONNECTION WITH THE USE, INABILITY TO USE OR PERFORMANCE OF THE INFORMATION, SERVICES, PRODUCTS AND MATERIALS AVAILABLE FROM THE SITE. These limitations shall apply notwithstanding any failure of essential purpose or the existence of any limited remedy. Because some jurisdictions do not allow limitations on how long an implied warranty lasts, or the exclusion or limitation of liability for consequential or incidental damages, the above limitations may not apply to you.
-
-## Applicable Law
-
-The laws of the State of California will govern these disclaimers, terms and conditions without giving effect to any principles of conflict of law.
-
-## Affiliate Sites
-
-The above privacy policy refers to sites owned and managed by the American Apparel Corporation.
-
-## General Privacy Principles Applicable to the EEA and Switzerland
-
-We at American Apparel respect your concerns about privacy and value the relationship we have with you. The following outlines our general principles applicable to Personal Information that we collect online and offline in the EEA or Switzerland. Additional safeguards for the protection of such Personal Information might apply subject to the applicable law. 
-
-For purposes of this Policy:
-
-"Customer" means any individual who is a potential or actual consumer of American Apparel or any of its European affiliates.
-
-"Employee" means any current, former or prospective employee of American Apparel or any of its European affiliates who is located in the EEA or Switzerland.
-
-"Personal Information" means information that (i) is transferred to the United States from the EEA or Switzerland, (ii) is recorded in any form, (iii) is about, or relates to, an identified or identifiable Customer or Employee, and (iv) can be linked to that individual.
-
-"Sensitive Information" means Personal Information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, sex life, the commission or alleged commission of any offense, any proceedings for any offence committed or alleged to have been committed by the individual or the disposal of such proceedings, or the sentence of any court in such proceedings.
-
-"Sites" means AmericanApparel.Net and all websites owned and operated by American Apparel or its subsidiaries.
-
-"Stores" means American Apparel and its wholly owned subsidiaries and stores located in the EEA and Switzerland.
-
-## Notice
-
-We notify our Customers and Employees located in the EEA and Switzerland about the purposes for which we collect and use Personal Information, the types of third parties to which we disclose the information (for example, service providers that process Personal Information on our behalf), certain privacy rights of our Customers and Employees (such as the right to access Personal Information and the choice for limiting the use and disclosure of the information), and how to contact us about our practices concerning Personal Information.
-
-Employees (including job applicants) who submit Personal Information through our careers site may view our Privacy Notice for details about our Personal Information privacy practices. Employees can find additional information in the Employee Data Protection Policy available on American Apparel's intranet and from local Human Resources representatives.
-
-## Purpose of Collection and Use of Personal Information
-
-American Apparel and its European affiliates collect Personal Information through their Sites and in their Stores. In addition, Employees submit Personal Information to American Apparel and its European affiliates in connection with the employment relationship.
-
-We process Personal Information about our Customers to (i) process transactions they request, (ii) improve our Stores, Sites, Customers shopping experience and quality of service, (iii) send communications about our products, services and promotions, (iv) prevent and detect fraud and abuse, (v) process information or claims in connection with incidents at our Stores, (vi) enable our service providers to perform certain activities on our behalf, and (vii) comply with our legal obligations, policies and procedures and for internal administrative and analytics purposes.
-
-We process Personal Information about our Employees to (i) carry out and support our human resources functions and activities, (ii) carry out our obligations under employments contracts and employment and benefits laws, (iii) administer employee participation in benefits, compensation and human resources plans and programs, (iv) manage employee performance, (v) implement compliance and discipline procedures, and investigate and report on Employee compliance and discipline, and (vi) comply with our legal obligations, carry out investigations and for internal administrative and analytics purposes.
-
-We process Sensitive Information about our Employees to the extent necessary or appropriate for compliance with relevant legal or contractual obligations, including managing attendance and Employee records.
-
-## Choice
-
-Customers located in the EEA and Switzerland may direct us not to disclose their Personal Information to third parties (other than our service providers). We do not use Personal Information for purposes incompatible with the purposes for which we originally collected the information without notifying the relevant individuals of such uses and offering an opportunity to opt out. 
-
-We may disclose Personal Information without offering individuals an opportunity to opt out (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We also reserve the right to transfer Personal Information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use Personal Information you have provided to us in a manner that is consistent with our Privacy Notice.
-
-## Onward Transfer of Personal Information
-
-We may share Personal Information with service providers we have retained to perform services on our behalf. We require service providers to whom we disclose Personal Information and who are not subject to laws based on the European Union Data Protection Directive to contractually agree to implement and adhere to adequate safeguards with respect to the protection of the privacy of Personal Information and as regards the exercise of the corresponding rights.
-
-## Access to Personal Information
-
-American Apparel provides Customers and Employees with reasonable access to the Personal Information maintained about them. We also provide a reasonable opportunity, as required by applicable law, to correct, amend or delete that information where it is inaccurate. We may limit or deny access to Personal Information where providing such access is unreasonably burdensome or expensive under the circumstances or as otherwise permitted by the applicable law. To obtain access to Personal Information, Customers may contact American Apparel as specified in the "How to Contact Us" section of this Policy. Employees should submit requests for access to their Personal Information to their local Human Resources representative.
-
-## Security
-
-American Apparel maintains reasonable administrative, technical and physical safeguards to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction.
-
-## Data Integrity
-
-American Apparel takes reasonable steps to ensure that Personal Information the company collects is relevant for the purposes for which it is to be used and that the information is reliable for its intended use and is accurate, complete and current. We depend on our Customers and Employees to update and correct their Personal Information whenever necessary.
-
-## Data Collection
-
-End-user Location fixes - latitude / longitude coordinates, accuracy estimate and time stamp. Sourced from native OS location APIs. Location collection occurs periodically, based on significant location change events as reported by the native OS.
-
-Information about the end-user device (e.g., make, model, OS, and other similar information). But not phone number or UDID. The version of the Gimbal software.
-
-Information that end-users may enter in American Apparel's app that is passed to Gimbal. Such as designating a private place (e.g., "my favorite store").
-
-## Data Use
-
-Gimbal monitors end-user location to create place events ("at" or "left"). These events are used to notify American Apparel's app when the end-user has arrived at or left places designated (based on user preference.) Gimbal generates a list of the location clusters (identified by lat/longs) that the end-user visits frequently.
-
-## Data Storage
-
-Location fixes that do not generate place events are not stored. The single location fix that does generate a place event is stored on the client, along with the corresponding place event. The set of generated PPOIs are stored on the client.
-
-Place events and the location fix that caused the event are stored on the Gimbal servers. The set of generated PPOIs are stored on Gimbal servers. Gimbal Servers are located in the United States. All data transmission is sent encrypted via SSL.
-
-## Data Retention
-
-Gimbal stores information on the client for up to sixty days, at which point it is overwritten on a rolling basis. Gimbal stores information on Gimbal managed servers for up to one year, at which point it is overwritten on a rolling basis.
-
-## Data Sharing
-
-We do not share personal information with others, except as follows:
-
-We may share personal information with agents, service providers, vendors, contractors, or affiliates who (i) are bound to data privacy and security terms and conditions at least as restrictive as those in the Agreement and (ii) process the data only on our behalf for the purposes set forth above. We may also share personal information as required by law or in the interest of protecting or exercising our or others' legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings. We may share or transfer personal information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
-
-We use certain services provided by Index Systems, Inc. (“Index”) for purposes of running customer loyalty and reward programs, special offers, and similar programs.  As part of these programs and offers, certain of your personal information may be shared with Index (including, without limitation, your name, email address, payment information, information regarding the purchases you make with us, and any other information you provide in connection with such programs), and you acknowledge and agree that this information may be used by Index as permitted by Index’s privacy policy (located at www.index.com/privacy), including, without limitation, in connection with running such programs and offers.
-
-## How to Contact Us
-
-Please address any questions or concerns regarding our practices concerning Personal Information by:
-
-Writing to: American Apparel  
-Attention: Privacy Officer  
-747 Warehouse St.  
-7th Floor - IT  
-Los Angeles, CA 90021  
-Privacy@AmericanApparel.net 
+19\. All complaints and requests for access to, or modification or destruction of personal information may be made to Site Owner’s Privacy Officer who can be reached by any of the following means:
