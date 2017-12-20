@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sxe-anticheat.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119083633id_/http%3A//www.sxe-injected.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxe-anticheat.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220054148id_/http%3A//www.sxe-injected.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Injected Anticheat
 
