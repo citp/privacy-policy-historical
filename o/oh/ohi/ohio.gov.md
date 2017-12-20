@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630134701id_/http%3A//ohio.gov/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220214449id_/http%3A//www.ohio.gov/policies) for the most accurate reproduction.*
 
-# Ohio.gov | Policies | Privacy Notice
+# Privacy Notice | Ohio.gov
 
 ### Revised April 2016
 
