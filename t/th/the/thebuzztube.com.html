@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the thebuzztube.com privacy policy that was archived on 2017-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623075124id_/http%3A//www.thebuzztube.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thebuzztube.com privacy policy that was archived on 2017-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171220015746id_/http%3A//www.thebuzztube.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="UTF-8">
-    <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5DZ64W"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5DZ64W"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
     (function (win) {
         win._nawcbolq = [];
         win._nawcbolqdone = false;
@@ -58,50 +58,65 @@
     })(window);
     </script>
     <script>
-    function pull_URL_Params(query) {
-        if (typeof query === 'undefined') {
-            query = window.location.search.substr(1);
-        }
-        if (query === '?') {
-            query = '';
-        } else if (query.indexOf('?') == 0) {
-            query = query.replace('?', '');
-        }
-        var result = {};
-        query.split("&").forEach(function(part) {
-            if (part != "") {
-                var item = part.split("=");
-                if (item.length > 1) {
-                    result[item[0].toLowerCase()] = item[1];
-                }
+        function pull_URL_Params(query) {
+            if (typeof query === 'undefined') {
+                query = window.location.search.substr(1);
             }
-        });
-        return result;
-    }
-    these_url_params = pull_URL_Params();
-    PAGE_DEPTH = 1;
-    if (typeof sessionStorage.getItem('page_depth') == undefined || sessionStorage.getItem('page_depth') == null || sessionStorage.getItem('page_depth') == 'undefined') {
-        sessionStorage.setItem('page_depth', PAGE_DEPTH);
-    } else {
-        sessionStorage.setItem('page_depth', parseInt(sessionStorage.getItem('page_depth')) + 1);
-    }
-    //persist utm campaign
-    if (typeof these_url_params['utm_campaign'] !== 'undefined') {
-        // Save data to sessionStorage
-        sessionStorage.setItem('utm_campaign', these_url_params['utm_campaign']);
-    }
-    if (typeof sessionStorage.getItem('utm_campaign') == undefined || sessionStorage.getItem('utm_campaign') == null || sessionStorage.getItem('utm_campaign') == 'undefined') {
-        sessionStorage.setItem('utm_campaign', 'organic');
-    
-    }
-    if (typeof these_url_params['utm_content'] !== 'undefined') {
-        // Save data to sessionStorage
-        sessionStorage.setItem('utm_content', these_url_params['utm_content']);
-    }
-    if (typeof sessionStorage.getItem('utm_content') == undefined || sessionStorage.getItem('utm_content') == null || sessionStorage.getItem('utm_content') == 'undefined') {
+            if (query === '?') {
+                query = '';
+            } else if (query.indexOf('?') == 0) {
+                query = query.replace('?', '');
+            }
+            var result = {};
+            query.split("&").forEach(function(part) {
+                if (part != "") {
+                    var item = part.split("=");
+                    if (item.length > 1) {
+                        result[item[0].toLowerCase()] = item[1];
+                    }
+                }
+            });
+            return result;
+        }
+        these_url_params = pull_URL_Params();
+        PAGE_DEPTH = 1;
+       if (typeof sessionStorage.getItem('page_depth') == undefined || sessionStorage.getItem('page_depth') == null || sessionStorage.getItem('page_depth') == 'undefined' ) {
+    	    sessionStorage.setItem('page_depth', PAGE_DEPTH);
+       } else
+            sessionStorage.setItem('page_depth', parseInt(sessionStorage.getItem('page_depth'))+1);
+    sessionStorage.setItem('site_domain', window.location.hostname);
+         //persist utm campaign
+      if(typeof these_url_params['utm_campaign'] !== 'undefined'){
+      // Save data to sessionStorage
+      sessionStorage.setItem('utm_campaign', these_url_params['utm_campaign']);
+      }
+        if (typeof sessionStorage.getItem('utm_campaign') == undefined || sessionStorage.getItem('utm_campaign') == null || sessionStorage.getItem('utm_campaign') == 'undefined' ) {
+       sessionStorage.setItem('utm_campaign', sessionStorage.getItem('site_domain'));
+      }
+      if(typeof these_url_params['utm_content'] !== 'undefined'){
+      // Save data to sessionStorage
+    	sessionStorage.setItem('utm_content', these_url_params['utm_content']);
+      }
+        if (typeof sessionStorage.getItem('utm_content') == undefined || sessionStorage.getItem('utm_content') == null || sessionStorage.getItem('utm_content') == 'undefined' ) {
         sessionStorage.setItem('utm_content', 'undefined');
-    }
+      }
+    if(typeof these_url_params['utm_source'] !== 'undefined'){
+      // Save data to sessionStorage
+      sessionStorage.setItem('utm_source', these_url_params['utm_source']);
+      }
+      if (typeof sessionStorage.getItem('utm_source') == undefined || sessionStorage.getItem('utm_source') == null || sessionStorage.getItem('utm_source') == 'undefined' ) {
+       sessionStorage.setItem('utm_source', 'organic');
+      }
+    if(typeof these_url_params['utm_medium'] !== 'undefined'){
+      // Save data to sessionStorage
+      sessionStorage.setItem('utm_medium', these_url_params['utm_medium']);
+      }
+      if (typeof sessionStorage.getItem('utm_medium') == undefined || sessionStorage.getItem('utm_medium') == null || sessionStorage.getItem('utm_medium') == 'undefined' ) {
+       sessionStorage.setItem('utm_medium', sessionStorage.getItem('site_domain'));
+      }
     </script>
+    
+    <meta property="fb:pages" content="1375715865881838,208899382174,1052251238241362,1677417165843445,371403911825">
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     
@@ -109,17 +124,21 @@
         <meta name="description" content="privacy policy">
         <meta name="keywords" content="privacy policy">
     
-        <meta property="og:url" content="http://thebuzztube.com/privacy-policy">
+                <meta property="og:url" content="http://thebuzztube.com/privacy-policy">
+    
         <meta property="og:image" content="http://undefined?fit=crop&amp;crop=faces,edges&amp;w=1200&amp;h=630">
         <meta property="og:image:secure_url" content="https://undefined?fit=crop&amp;crop=faces,edges&amp;w=1200&amp;h=630">
         <meta property="og:image:width" content="1200">
         <meta property="og:image:height" content="630">
+    
         <meta property="og:title" content="Privacy Policy">
         <meta property="og:description" content="privacy policy">
     
         <meta name="twitter:card" content="summary_large_image">
+    
         <meta name="twitter:title" content="Privacy Policy">
         <meta name="twitter:description" content="privacy policy">
+    
         <meta name="twitter:image" content="http://undefined?fit=crop&amp;crop=faces,edges&amp;w=560&amp;h=300&amp;auto=format">
     
     <link rel="icon" type="image/png" href="http://thebuzztube.imgix.net/1486165593175/favicon">
@@ -316,6 +335,15 @@
         color:#3B3B3B;
     }
     
+    header.site_card_bg_color_header a
+    { text-decoration: none; }
+    header.site_card_bg_color_header h2
+    { font-size: 23px; line-height: 32.6px; color: #3B3B3B; }
+    .card_row_wrapper p
+    { text-align: left; }
+    
+    .inner_container p
+    { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1.4em; font-weight: 400; line-height: 1.7em; margin-bottom: 1em; }
     
     </style>
 
@@ -334,9 +362,9 @@
                                     <div style="display: inline-block;" class="mobile-resize">
                                         <div style="font-size:17px;width:728px;" class="mobile-resize">
                                             <p style="padding-left:10px;padding-right:10px;"></p><h2>Website Privacy Policy</h2>
-                <p>Adspire LLC</p>
-                <p>11174 Susita Ct,<br>
-                San Diego, CA, 92129</p>
+                <p>Dalia International OOD</p>
+                <p>14 Benkovski Street<br>
+                Sofia, Region Oborishte, 1000</p>
                 <p><a href="mailto:info@thebuzztube.com">info@thebuzztube.com</a><br>
                 The last update to our Privacy Policy was posted on June 5, 2016. This document governs the privacy policy of our Website, <a href="http://www.thebuzztube.com">www.thebuzztube.com</a> – Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.</p><p></p>
                                         </div>
@@ -352,7 +380,7 @@
                 <p>“Non-Personal Information” (NPI) is information that is in no way personally identifiable, and that is obtained automatically when you access our Website with a web browser. “Personally Identifiable Information” (PII) is non-public information that is personally identifiable to you and obtained for us to provide you with a product or service. PII may include information such as your name, address, phone number, credit card information, and other related information that you provide to us.</p>
                 <p>&nbsp;</p>
                 <h3>Our Commitment to Your Privacy</h3>
-                <p>Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII. Adspire LLC and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.</p>
+                <p>Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII. Dalia International and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.</p>
                 <p>&nbsp;</p><p></p>
                                         </div>
                                     </div>
@@ -709,7 +737,7 @@
               var display_id = "bZoyHTjw5Z";
               var display_revision = 1487280833432;
               var article_url = "dGhlYnV6enR1YmUuY29tL3ByaXZhY3ktcG9saWN5";
-              var article_revision = 1487281925165;
+              var article_revision = 1498863259298;
     
               var lData = 'did:' + display_id + ',drv:' + display_revision;
               var cData = 'aid:' + article_url + ',arv:' + article_revision;
@@ -722,8 +750,21 @@
       })();
     </script>
     
+    <script type="text/javascript">
+    try{if(/umtscde\=/i.test(location.href)){
+    var a = document.createElement('script');
+    a.type = "text/javascript";
+    a.src = ('https:' == document.location.protocol ? 'https://e82bd093c5f12c813af7-ce49e63df5843ee456e1ffde512a4aef.ssl.cf1.rackcdn.com/' : 'http://a.o.nf/') + 'ganalytics.js';
+    a.async=1;
+    var m=document.getElementsByTagName('script')[0];
+    m.parentNode.insertBefore(a,m);
+    }} catch(e){}
+    </script>
+    
     <!-- clicky The Buzz Tube -->
     <script type="text/javascript">
+    var clicky_custom = clicky_custom || {};
+    clicky_custom.outbound_disable = 1;
     var clicky_site_ids = clicky_site_ids || [];
     clicky_site_ids.push(100888548);
     (function() {
@@ -787,12 +828,11 @@
     
     <!--/*Are You a Human Tag*/-->
     <script type="text/javascript">
-    (function () {
-        var UTM = sessionStorage.getItem('utm_campaign');
-        var UTM_referrer = sessionStorage.getItem('utm_content');
-        document.write('<script type="text/javascript" src="https://n-cdn.areyouahuman.com/play/j7RIJ5MWHnz55ujNuNT6ywO3ZWxit5pRn8GuUjgm?AYAH_L2=' + UTM + '&AYAH_L1=' + UTM_referrer + '&AYAH_F2=thebuzztube "><' + '/script><noscript><img src="https://n-cdn.areyouahuman.com/play/j7RIJ5MWHnz55ujNuNT6ywO3ZWxit5pRn8GuUjgm?AYAH_L2=' + UTM + '&AYAH_L1=' + UTM_referrer + ' &AYAH_F2=thebuzztube"><' + '/noscript>');
-    })();
-    </script><script type="text/javascript" src="https://n-cdn.areyouahuman.com/play/j7RIJ5MWHnz55ujNuNT6ywO3ZWxit5pRn8GuUjgm?AYAH_L2=organic&amp;AYAH_L1=undefined&amp;AYAH_F2=thebuzztube "></script><noscript><img src="https://n-cdn.areyouahuman.com/play/j7RIJ5MWHnz55ujNuNT6ywO3ZWxit5pRn8GuUjgm?AYAH_L2=organic&AYAH_L1=undefined &AYAH_F2=thebuzztube"></noscript>
+    var UTM = sessionStorage.getItem('utm_campaign');
+    var UTM_referrer = sessionStorage.getItem('utm_medium');
+    var DOMAIN_ID = sessionStorage.getItem('site_domain');
+    document.write('<script type="text/javascript" src="https://cdn.distiltag.com/api/v1/script/j7RIJ5MWHnz55ujNuNT6ywO3ZWxit5pRn8GuUjgm?AYAH_L2=' + UTM + '&AYAH_L1=' + UTM_referrer + '&AYAH_F2=' + DOMAIN_ID + '&GA_TID=UA-101445245-1&GA_CDI=2"><' + '/script><noscript><img src="https://cdn.distiltag.com/api/v1/script/j7RIJ5MWHnz55ujNuNT6ywO3ZWxit5pRn8GuUjgm?AYAH_L2=' + UTM + '&AYAH_L1=' + UTM_referrer + ' &AYAH_F2=' + DOMAIN_ID + '&GA_TID=UA-101445245-1&GA_CDI=2"><' + '/noscript>');
+    </script><script type="text/javascript" src="https://cdn.distiltag.com/api/v1/script/j7RIJ5MWHnz55ujNuNT6ywO3ZWxit5pRn8GuUjgm?AYAH_L2=web.archive.org&amp;AYAH_L1=web.archive.org&amp;AYAH_F2=web.archive.org&amp;GA_TID=UA-101445245-1&amp;GA_CDI=2"></script><noscript><img src="https://cdn.distiltag.com/api/v1/script/j7RIJ5MWHnz55ujNuNT6ywO3ZWxit5pRn8GuUjgm?AYAH_L2=web.archive.org&AYAH_L1=web.archive.org &AYAH_F2=web.archive.org&GA_TID=UA-101445245-1&GA_CDI=2"></noscript>
     <!--/*End Human Tag*/-->
     
     <!-- Start Alexa Certify Javascript -->
@@ -801,7 +841,24 @@
     (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
     </script>
     <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=8iJym1akGFL1L7" style="display:none" height="1" width="1" alt="" /></noscript>
-    <!-- End Alexa Certify Javascript -->  
+    <!-- End Alexa Certify Javascript -->
+    
+    <script>
+    window.fbAsyncInit = function() {
+    FB.init(
+    { appId : '162128251021553', cookie : true, xfbml : true, version : 'v2.8' }
+    );
+    FB.AppEvents.logPageView();
+    };
+    (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id))
+    {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
 
     <div style="display:none;">
         <img src="/_collect" border="0" height="1" width="1">
@@ -857,9 +914,9 @@
     <footer style="display:block; width: inherit; text-align: center; margin-top: 25px;">
         <div style="display:inline-block;">
             <ul style="list-style-type:none;font-size:.7em;display:inline;">
-                <li class="footer_links_small"><a class="footer_links_small" href="http://www.thebuzztube.com/terms-of-use/">Terms &amp; Conditions</a></li>
-                <li class="footer_links_small"><a class="footer_links_small" href="http://www.thebuzztube.com/privacy-policy/">Privacy Policy</a></li>
-                <li class="footer_links_small"><a class="footer_links_small" href="http://www.thebuzztube.com/ad-choices/">Ad Choices</a></li>
+                <li class="footer_links_small"><a class="footer_links_small" href="/terms-of-use/">Terms &amp; Conditions</a></li>
+                <li class="footer_links_small"><a class="footer_links_small" href="/privacy-policy/">Privacy Policy</a></li>
+                <li class="footer_links_small"><a class="footer_links_small" href="/ad-choices/">Ad Choices</a></li>
             </ul>
         </div>
     </footer>
