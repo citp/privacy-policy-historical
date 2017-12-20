@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the seriouswheels.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513232820id_/http%3A//www.seriouswheels.com/car-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seriouswheels.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220112132id_/http%3A//www.seriouswheels.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Serious Wheels Privacy Policy
+# Privacy Policy | Serious Wheels
 
-We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Serious Wheels will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to  [ contact us](mailto:john@filiss.com)
+We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Serious Wheels will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to contact us
 
-****Resale or disclosure of information to third parties:****
+## Resale or disclosure of information to third parties:
 
 Serious Wheels does not sell, rent, loan, trade, or lease any personal information collected at our site, including membership forms or email lists. 
 
-****Browser information collected on the website:****
+## Browser information collected on the website:
 
-Serious Wheels analyzes our website logs to constantly improve the value of the materials available on website. Our website logs **are not personally identifiable** , and we make no attempt to link them with the individuals that actually browse the site. 
+Serious Wheels analyzes our website logs to constantly improve the value of the materials available on website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site. 
 
-**Advertisers**
+## Advertisers
 
 We do not accept advertising such as popups, popunders, and interstitials. 
 
