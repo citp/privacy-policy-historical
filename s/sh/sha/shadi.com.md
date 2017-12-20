@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the shadi.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621005441id_/https%3A//www.shadi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadi.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220010010id_/https%3A//www.shadi.com/privacy-policy) for the most accurate reproduction.*
 
 # Shadi.com - Privacy Policy Statement
 
-   
----  
 **Our Commitment to Privacy**  
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using. our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.  
    
