@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcsoftdiscovery.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614220131id_/http%3A//pcsoftdiscovery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcsoftdiscovery.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220060353id_/http%3A//pcsoftdiscovery.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Soft Finda
 
@@ -57,5 +57,5 @@ You can terminate your account at any time by sending a request to support@softf
 SoftFinda may update this Policy at any time. The latest version of this Policy will always be available at https://www.softfinda.com/privacy-policy. Please check this page occasionally to make sure you are aware of any updates. 
 
 _______________________________________  
-Copyright © 2014 SoftFinda  
+Copyright © 2017 SoftFinda  
 All Rights Reserved. 
