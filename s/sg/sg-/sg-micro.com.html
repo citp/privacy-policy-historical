@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sg-micro.com privacy policy that was archived on 2017-02-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170207073953id_/http%3A//www.sg-micro.com/index.php%3Fm%3Ddefault.declares%26id%3D124) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sg-micro.com privacy policy that was archived on 2017-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171220044932id_/http%3A//www.sg-micro.com/index.php%3Fm%3Ddefault.declares%26id%3D124) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head></head><body>﻿<!--加载头部 start-->
 ﻿
@@ -11,6 +11,20 @@
 <link href="/css/style.css" rel="stylesheet" type="text/css">
 <script src="//hm.baidu.com/hm.js?ab6e78b8e0f91fee9e54623859bb90cd"></script><script type="text/javascript" src="/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="/js/nav.js"></script>
+<script type="text/javascript" src="/js/placeholderfriend.js"></script>
+<style type="text/css">
+#listBox {border:1px solid #E2E5E8;
+    position:relative;top:-23px;
+    width:207px;
+    height:30px;
+    display:none;
+    overflow-y:auto;background:#fff;opacity:1;margin:0;padding:0;
+}  
+#s_custname{width:176px;margin-top:3px}
+#listBox ul{margin:0;padding:0}
+#listBox ul li{width:100%;height:20px;line-height:20px;text-indent:10px;cursor:pointer;list-style:none;}
+#listBox ul li:hover{background:#fff;}
+</style>
 
 
 <div class="head">
@@ -22,7 +36,7 @@
         </div>
 		<div class="top_right">
 			<p>
-            	                 <a href="/index.php?m=member.login">Login</a>
+            	                <a href="/index.php?m=member.login">Login</a>
                 <span>|</span>
                 <a href="/index.php?m=member.regist">Register</a>
                
@@ -53,6 +67,7 @@
                                							                               									<dd><a href="/index.php?m=tables.table&amp;id=43">Audio Drivers</a></dd>
                                							                               									<dd><a href="/index.php?m=tables.table&amp;id=44">Audio Power Amplifiers</a></dd>
                                							                               									<dd><a href="/index.php?m=tables.table&amp;id=45">Video Drivers</a></dd>
+                               							                               									<dd><a href="/index.php?m=tables.table&amp;id=127">Click-Pop Noise Suppressors</a></dd>
                                													</dl>
                         						<dl>
                         	<dt><a href="/index.php?m=default.products_list&amp;id=19">ANALOG SWITCH</a></dt>
@@ -86,7 +101,7 @@
                             <dt><a href="/index.php?m=default.reliability&amp;catid=13&amp;parentid=10">Quality &amp; Reliability</a></dt>
                         <!--</dl>
                         <dl class="zx">-->
-                            <dt><a href="/index.php?m=default.encapsulation&amp;catid=14&amp;parentid=10">Green Package</a></dt>
+							<dt><a href="/index.php?m=default.encapsulation&amp;catid=14&amp;parentid=10">Social Responsibility</a></dt>
                             <dt><a href="/index.php?m=default.application&amp;catid=15&amp;parentid=10">Applications</a></dt>
                         </dl>
                         <div class="db4_right">
@@ -103,7 +118,7 @@
                             <dt><a href="/index.php?m=default.agent&amp;catid=8&amp;parentid=1">Purchase</a></dt>
                         </dl>
                         <div class="db4_right" style="width:280px;">
-                        	                            <img src="/var/upload/pic/2014/11/8f08eefa3e3f21b12f4b862893e6d719.png">
+                        	                            <img src="/var/upload/pic/2017/05/9d3bee2216aa3ba2eb964988b24e96d4.jpg">
                         </div>
                         <div class="clear"></div>
 					</div>
@@ -118,6 +133,7 @@
                             <!--<dt><a  href="index.php?m=default.investment&amp;catid=5&amp;parentid=1">Public & Investor Info</a></dt>
                         </dl>
                         <dl class="zx">-->
+							<dt><a href="/index.php?m=default.investment&amp;catid=128&amp;parentid=1">Investor Relations</a></dt>
                             <dt><a href="index.php?m=default.recruit&amp;catid=6&amp;parentid=1">Careers</a></dt>
                             <dt><a href="index.php?m=default.contact&amp;catid=7&amp;parentid=1">Contact SGMICRO</a></dt>
                             <!--<dt><a  href="index.php?m=default.agent&amp;catid=8&amp;parentid=1">Distributors</a></dt>
@@ -131,13 +147,27 @@
 				</li>
             				</ul>
 		</div>
+		<script type="text/javascript">
+		  function show_div(){
+			 $(".search_con").fadeIn();
+		  }
+		  function hide_div(){
+			 $(".search_con").fadeOut();
+		  }
+		</script>
+		<style>
+			.sreach{position:relative;}
+			.search_con{background:url(images/search_back.png) no-repeat;height:32px;width:208px;position:absolute;top:23px;border-radius:5px;}
+			.search_con a{font-size:14px;color:#0069ab;text-decoration:none;padding-left:10px;line-height:30px;}
+		</style>
 		<div class="sreach">
-			<form action="/index.php?m=default.search" method="get">
-				<input value="Search" onblur="changrtext(this,'Search')" onclick="cleartext(this,'Search')" class="search_text cur" name="txt" type="text">
+			<form action="/index.php?m=default.search" method="get" id="inputBox">
+				<input value="" id="s_custname" onblur="hide_div()" onfocus="show_div()" onclick="cleartext(this,'Search')" class="search_text cur" name="txt" type="text" placeholder="Search">
 				<input class="sreach_sub" name="" type="submit">
                 <input type="hidden" value="default.search" name="m">
                 <input type="hidden" value="" name="t">
 			</form>
+       		<p class="search_con" style="display:none; z-index:999"><a href="/index.php?m=search.search_index">Cross-Reference Search</a></p>
 		</div>
 	</div>
 </div><!--加载头部 end-->
