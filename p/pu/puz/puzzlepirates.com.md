@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615025901id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220093831id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
 
 # Puzzle Pirates: ="mw-headline" id="Grey_Havens.2C_LLC_Privacy_Policy_-_Last_Updated_May_15.2C_2016">Grey Havens, LLC Privacy Policy - Last Updated May 15, 2016
 
