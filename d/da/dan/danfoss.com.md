@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629150615id_/http%3A//www.danfoss.com/terms/privacy/%3Fref%3D17179879870) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220203025id_/http%3A//www.danfoss.com/terms/privacy/%3Fref%3D17179879870) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,32 +17,4 @@ Authorized third parties may need access to some of your personal information. F
 Danfoss needs your help to ensure that the personal information you provide to Danfoss is correct and up-to-date. You should immediately notify Danfoss of any changes to your name, address, company, phone number, or email address to enable us to make changes to your registered user profile. 
 
 **How Danfoss Internet use cookies**  
-Danfoss is aware of its responsibility to society in general and to our individual customers and web site visitors in particular. 
-
-We respect the privacy of personal data and the concerns that visitors may have about the use of their data. In those cases where we collect and use personal data (name, address, contact information), we apply the very best practices such as double opt-in etc. 
-
-With respect to cookies (cookies are small text files, which enhance the user experience on a web site, by allowing the system to recognise returning visitors etc. (see link)) Danfoss only uses so-called first-party cookies which are cookies created and utilised by Danfoss. 
-
-Third-party cookies (cookies that are created, managed and analysed by a separate entity, possibly providing some service to the organisation hosting the web site) are not used by Danfoss. 
-
-Danfoss does not share cookie data - or related user behaviour - with any third party. 
-
-The cookies currently in use by Danfoss on this website:
-
-Webtrends, Google Analytics and Pardot:| Tracking how a visitor move around and make use of the website – but not intrusive for the visitors’ privacy   
----|---  
-ASP.Net Session Cookie:| Functionality purpose  
-ASP.Net Profile Cookie:| Functionality purpose (My Product List)  
-Compass Cookie:| Functionality purpose (Internal use only)  
-Decom login:| Functionality purpose (login for Danfoss eCommerce)  
-danfoss_compare-products_list| Used on compare page in the product catalogue  
-danfoss_product_list| Used to store saved products (displayed in myproductlist)   
-acceptcookies | Store if user accepts use of cookies   
-cookieoptin | Store if cookie disclaimer banner should be shown   
-WLTOPTOUT | Set if user optsout of Webtrends   
-ga-disable-{id} | Set if user optsout of Google Analytics   
-pi_opt_in| Set if the user opts-in to Pardot  
-  
-If you want to make use of Danfoss Internet and cannot accept the use of these cookies, we will ask you to deactivate the use of cookies within your browser settings. 
-
-How to do this – so-called – opt-out you can use the information on one of these websites: 
+Danfoss is aware of its responsibility to society in general and to our individual customers and web site visitors in particular.
