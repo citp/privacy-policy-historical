@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcloud.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609235109id_/http%3A//www.zipcloud.com/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcloud.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220192408id_/http%3A//www.zipcloud.com/terms%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions
 
@@ -313,9 +313,9 @@ If you have any questions or comments, please contact us at [support@zipcloud.co
 
 ZipCloud 
 
-JDI Back-up Ltd (Just Cloud)
+JDI Back-up Ltd (ZipCloud)
 
-5A Little Park Farm Road
+25 Barnes Wallis Road
 
 Segensworth
 
@@ -323,7 +323,7 @@ Fareham
 
 Hants
 
-PO15 5SJ
+PO15 5TT
 
 UK - 0844 445 7768
 
@@ -337,7 +337,7 @@ CA \- 1-888-778-6107
 
 JDI Backup Limited. Company Number 7488961
 
-Last modified on 09-06-2017
+Last modified on 20-12-2017
 
 Updated and Effective as of May 16, 2016
 
@@ -396,7 +396,7 @@ _Personal Information._ **** This Privacy Policy applies to the personal data of
 _  
 Data you back-up using our services._ **** We hold any personal data you voluntarily choose to back up or store using the Just Cloud Services (“Backup Data”) as a data processor and we store this data solely in order to provide the Services. The terms relating to our storage of Backup Data are set out in the Use of your Back-Up Data section of our [Terms and Conditions](https://web.archive.org/terms).
 
-_Changes to this Privacy Policy._ ZipCloud may modify this Privacy Policy, from time to time to reflect changes in or requirements of the law or modifications or updates to the Services made in accordance with our [Terms and Conditions](https://web.archive.org/terms) . ZipCloud will notify you if such change materially affects your rights under this Privacy Policy. Changes will not apply retrospectively and, unless the change is required immediately for legal reasons, notice of the modified terms will be provided a reasonable period prior to the changes taking effect. **If you do not accept and agree to this Privacy Policy, then you must not access or use the Services** (see [Cancellation and Termination](https://web.archive.org/web/20170609235109id_/http%3A//www.zipcloud.com/cancellation)).
+_Changes to this Privacy Policy._ ZipCloud may modify this Privacy Policy, from time to time to reflect changes in or requirements of the law or modifications or updates to the Services made in accordance with our [Terms and Conditions](https://web.archive.org/terms) . ZipCloud will notify you if such change materially affects your rights under this Privacy Policy. Changes will not apply retrospectively and, unless the change is required immediately for legal reasons, notice of the modified terms will be provided a reasonable period prior to the changes taking effect. **If you do not accept and agree to this Privacy Policy, then you must not access or use the Services** (see [Cancellation and Termination](https://web.archive.org/web/20171220192408id_/http%3A//www.zipcloud.com/cancellation)).
 
 **What Personal Information Do We Collect**
 
@@ -431,7 +431,7 @@ You may disable cookies by changing the settings on your browser. Check the help
 
 _Personal Information regarding children._ The Services are not intended for use by individuals who cannot enter a legally binding a contract. Accordingly, ZipCloud does not intentionally gather any Personal Information about individuals who are under the age of eighteen (18). **If you are under eighteen (18) years of age or otherwise lack the capacity to enter into a binding contract do not use our Services**. If ZipCloud becomes aware that it has collected Personal Information from someone under the age of majority, such information will be deleted immediately.
 
-The Personal Information we collect as described in this,  What Data Do We Collect section, is controlled by JDI Backup Limited, 5A Little Park Farm Road, Segensworth, Fareham, Hampshire, PO15 5SJ, United Kingdom. 
+The Personal Information we collect as described in this,  What Data Do We Collect section, is controlled by JDI Backup Limited, 25 Barnes Wallis Road, Segensworth, Fareham, Hampshire, PO15 5TT, United Kingdom. 
 
 **How We Use Your Personal Information**
 
@@ -496,10 +496,10 @@ If ZipCloud is unable to resolve your complaint, you can escalate the issue in a
 **ZipCloud Contact Information**
 
 If you have any questions or comments, please contact us at [support@zipcloud.com](mailto:support@zipcloud.com) or at the address listed below: JDI Backup Ltd   
-5A Little Park Farm Road,.   
+25 Barnes Wallis Road  
 Segensworth, Fareham  
 Hampshire   
-PO15 5SJ   
+PO15 5TT   
 United Kingdom
 
 ## 
@@ -552,10 +552,10 @@ Please email the signed notification to abuse@zipcloud.com.
 Alternatively, you may mail the signed notification to the following address:
 
 ZipCloud  
-5A Little Park Farm Road  
+25 Barnes Wallis Road  
 Segensworth, Fareham  
 Hampshire  
-PO15 5SJ  
+PO15 5TT  
 United Kingdom
 
 Please note that you will be liable for damages (including costs and attorneys' fees) if you materially misrepresent that material is infringing your copyright. Accordingly, if you are not sure whether material available online infringes your copyright, we suggest that you first contact an attorney.
