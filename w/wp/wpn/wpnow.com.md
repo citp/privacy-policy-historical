@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpnow.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613182503id_/http%3A//www.wpnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpnow.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220200652id_/http%3A//wpnow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WP Now
 
