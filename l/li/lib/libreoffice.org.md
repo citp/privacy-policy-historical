@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the libreoffice.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629190748id_/http%3A//www.libreoffice.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libreoffice.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220233801id_/http%3A//www.libreoffice.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LibreOffice - Free Office Suite - Fun Project - Fantastic People
 
 ### Privacy Policy
 
-  * [English version](http://www.libreoffice.org/privacy#English)
-  * [Deutsche  Fassung](http://www.libreoffice.org/privacy#Deutsch)
+  * [English version](https://www.libreoffice.org/privacy#English)
+  * [Deutsche  Fassung](https://www.libreoffice.org/privacy#Deutsch)
 
 
 
