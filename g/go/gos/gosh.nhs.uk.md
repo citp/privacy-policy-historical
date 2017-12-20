@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosh.nhs.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630212405id_/http%3A//www.gosh.nhs.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosh.nhs.uk privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220142504id_/http%3A//www.gosh.nhs.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Great Ormond Street Hospital
 
