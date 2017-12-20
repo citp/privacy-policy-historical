@@ -1,47 +1,47 @@
-> *The following text is extracted and transformed from the capy.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614202156id_/http%3A//www.capy.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capy.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220211912id_/http%3A//www.capy.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Capy Games
 
-**Capy.com**  is committed to providing a safe and fun website for children of all ages. The privacy policy is intended to let you know how **Capy.com**  protects your personal information. By accessing  **Capy.com** , you acknowledge and fully understand  **Capy.com** Privacy Policy and freely consent to the information collection and use practices described in this Privacy Policy.
+**Capy.com** is committed to providing a safe and fun website for children of all ages. The privacy policy is intended to let you know how **Capy.com** protects your personal information. By accessing **Capy.com** , you acknowledge and fully understand **Capy.com** Privacy Policy and freely consent to the information collection and use practices described in this Privacy Policy.
 
 **Third Party Policies**
 
-Websites visited through links from this website may or may not have their own privacy statements and  **Capy.com**  is not responsible for the privacy practices or contents of those sites.
+Websites visited through links from this website may or may not have their own privacy statements and **Capy.com** is not responsible for the privacy practices or contents of those sites.
 
 **What Information Is Collected?**
 
-**Capy.com**  implemented the following Google Analytics features based on Display Advertising: Google Analytics Demographics and Interest Reporting.
+**Capy.com** implemented the following Google Analytics features based on Display Advertising: Google Analytics Demographics and Interest Reporting.
 
-You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](http://www.networkadvertising.org/choices/ "Ads Settings").
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings.
 
-We do not collect any personal information from our visitors. Visitors are required to be 13 years or older to play the games on Capy.com. If not they must be accompanied by a parent or guardian who is directly supervising them. If you are not 13 years of age, have your parents review these Terms of Use. When visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such:
+We do not collect any personal information from our visitors . Visitors are required to be 13 years or older to play the games on **Capy.com**. If not they must be accompanied by a parent or guardian who is directly supervising them. If you are not 13 years of age, have your parents review these Terms of Use. When visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such :
 
-  * Your Internet protocol address.
-  * The kind of browser or computer you use.
-  * Number of links you click within the site.
-  * State or country from which you accessed the site.
-  * Date and time of your visit.
-  * Name of your Internet service provider.
-  * Referring website.
-  * Pages you viewed on the site.
+  * \- Your Internet protocol address.
+  * \- The kind of browser or computer you use.
+  * \- Number of links you click within the site.
+  * \- State or country from which you accessed the site.
+  * \- Date and time of your visit.
+  * \- Name of your Internet service provider.
+  * \- Referring web-site.
+  * \- Pages you viewed on the site.
 
 
 
 **Copyright**
 
-All the games published on this portal together with the Intellectual Property belong to their respective owners. If any games published break any ownership rights, please contact us right away and we'll make sure to remove the games in the shortest time possible. All the published content is free to use and falls under the  **fan art**  category.
+All the games published on this portal together with the Intellectual Property belong to their respective owners. If any games published break any ownership rights, please contact us right away and we'll make sure to remove the games in the shortest time possible. All the published content is free to use and falls under the fan art category.
 
 **Notification of Claimed Copyright Infringement**
 
-Pursuant to Section 512(c) of the Copyright Revision Act, as enacted through the Digital Millennium Copyright Act, Capy.com designates the following individual as its agent for receipt of notifications of claimed copyright infringement.
+Pursuant to Section 512(c) of the Copyright Revision Act, as enacted through the Digital Millennium Copyright Act, **Capy.com** designates the following individual as its agent for receipt of notifications of claimed copyright infringement. By Email: contact [@] capy.com.
 
-**The Comment System**
+**Push Notifications**
 
-Capy.com uses the Disqus.com comment system. Disqus.com asks for one's email address ( depending on the login method: Facebook, Google, email ) in order to post comments. This data is automatically collected by Disqus.com (email, IP, username on Disqus.com) and is viewable by our moderators. All comments including weblinks are subject to human moderation and the system has bad words filtering enabled.
+**Capy.com** uses the optional Onesignal.com push notification service to notify our users of new content. Users may opt-in and opt-out at any time via the little bell icon in the lower right corner of the page. For more information about the Privacy Policy of this service, please visit [OneSignal Privacy Policy](https://onesignal.com/privacy_policy/).
 
 **How We Use the Information**
 
-User Profile information including members avatars and usernames are displayed to people in order to facilitate user interaction in the  **Capy.com**  social networking community. Email addresses are used for the purposes of inviting new friends to join  **Capy.com** , to add users to members' friends' networks, and to send notifications related to the service. Users’ full names are never displayed to other members. To facilitate searching and finding friends and acquaintances on the service,  **Capy.com**  allows users to search for other members using gender, age and proximity.
+User Profile information including members pavatars and usernames are displayed to people in order to facilitate user interaction in the **Capy.com** social networking community. Email addresses are used for the purposes of inviting new friends to join **Capy.com** , to add users to members' friends' networks, and to send notifications related to the service. Users full names are never displayed to other members. To facilitate searching and finding friends and acquaintances on the service, **Capy.com** allows users to search for other members using gender, age and proximity.
 
 We use visitors Personal Information for our internal purposes of enabling visitors to enter one of our online contests or sweepstakes, to subscribe to our online newsletter, or to inform visitors of upcoming events and special announcements. Each e-mail contains instructions on how to be removed from the subscription list.
 
@@ -59,4 +59,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **Changes to this Privacy Policy**
 
-**Capy.com**  reserves the right to change this policy at any time. We ask that you review this Privacy Policy from time to time to insure you are familiar with the most current version of it.
+**Capy.com** reserves the right to change this policy at any time. We ask that you review this Privacy Policy from time to time to insure you are familiar with the most current version of it.
