@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phrontistery.info privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621145217id_/http%3A//phrontistery.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phrontistery.info privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220164214id_/http%3A//phrontistery.info/privacy.html) for the most accurate reproduction.*
 
 # The Phrontistery: Site Privacy Policy
 
@@ -48,7 +48,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://phrontistery.info  
 forthright@phrontistery.info
 
-I hope you have found this site to be useful. If you have any corrections, additions, or comments, please [contact me](https://web.archive.org/web/20170621145217id_/http%3A//phrontistery.info/contact.html). Please note that I am not able to respond to all requests. Please consult a major dictionary before e-mailing your query. All material on this page © 1996-2014 Stephen Chrisomalis. Links to this page may be made without permission. 
+I hope you have found this site to be useful. If you have any corrections, additions, or comments, please [contact me](https://web.archive.org/web/20171220164214id_/http%3A//phrontistery.info/contact.html). Please note that I am not able to respond to all requests. Please consult a major dictionary before e-mailing your query. All material on this page © 1996-2014 Stephen Chrisomalis. Links to this page may be made without permission. 
 
   
 
