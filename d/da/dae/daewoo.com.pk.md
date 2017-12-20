@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daewoo.com.pk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150748id_/http%3A//www.daewoo.com.pk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daewoo.com.pk privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220235442id_/http%3A//www.daewoo.com.pk/privacy) for the most accurate reproduction.*
 
-# Daewoo Privacy - Daewoo Pakistan Express Bus Service
+# Privacy | Daewoo Pakistan Express Bus Service
 
 ## Daewoo Express Privacy Policy
 
