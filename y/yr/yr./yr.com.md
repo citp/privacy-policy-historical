@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yr.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602131834id_/http%3A//www.yr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yr.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220174724id_/http%3A//www.yr.com/privacy-policy) for the most accurate reproduction.*
 
 # Y&R - Global Ad Agency - Privacy Policy
 
