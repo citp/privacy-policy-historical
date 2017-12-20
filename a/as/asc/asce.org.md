@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asce.org privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620185638id_/http%3A//www.asce.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asce.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220225530id_/http%3A//www.asce.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ASCE
 
@@ -14,9 +14,7 @@ Cookies are small text files that may be stored on your computer, smart phone, o
 
 While these cookies alone do not allow ASCE to personally identify visitors to the website, information collected by ASCE cookies may be used to streamline communications with members and customers by facilitating targeted content consistent with users’ email preferences and ASCE’s privacy policy. No information collected by ASCE through cookies will be shared with third parties, except as required by law.
 
-For more information about cookies, visit: <http://www.aboutcookies.org/>
-
-**Anonymous Information from General Users**. ASCE does not collect personal information from users browsing our web site. Users to the public areas of ASCE's web site browse anonymously. ASCE collects aggregate data from users browsing our web site. ASCE uses this information for purposes of statistical analysis of web site traffic. Aggregate data are only used for internal and marketing purposes, and ASCE does not provide any personal identification information. 
+ **Anonymous Information from General Users**. ASCE does not collect personal information from users browsing our web site. Users to the public areas of ASCE's web site browse anonymously. ASCE collects aggregate data from users browsing our web site. ASCE uses this information for purposes of statistical analysis of web site traffic. Aggregate data are only used for internal and marketing purposes, and ASCE does not provide any personal identification information. 
 
 **Information from ASCE Members, Conference Registrants, and Other Customers.** There are a number of areas in the ASCE web site where we ask for and collect information about you, including personally identifiable information. Where we do, it is in order to serve you better, or is necessary to accomplish the service you are requesting. Examples include membership information (which may include name, address, email, telephone number and educational and professional experience information), conference and seminar registrations, security identifiers, shipping information, and product purchase information stored in online shopping carts. 
 
