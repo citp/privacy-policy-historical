@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translationnations.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616030501id_/http%3A//www.translationnations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translationnations.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220083245id_/http%3A//www.translationnations.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
