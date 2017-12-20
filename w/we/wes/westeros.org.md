@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westeros.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606170915id_/http%3A//www.westeros.org/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westeros.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220113059id_/http%3A//www.westeros.org/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Westeros: Privacy Policy
 
 This Privacy Policy governs the manner in which Westeros.org collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://westeros.org](http://www.westeros.org/?URL=http%3A%2F%2Fwesteros.org) website ("Site"). This privacy policy applies to the Site and all products and services offered by Westeros.org.
 
@@ -44,17 +44,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 ### Advertising
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
-
-Our advertising partners include:
-
-  * [Google Adsense](http://www.google.com/ads/preferences/)
-  * [Lijit](http://www.lijit.com/choices)
-  * [Commission Junction](http://www.cj.com/)
-
-
-
-You can opt-out from interest-based advertising from these and other advertisers by visiting <http://www.networkadvertising.org/>
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. You can opt-out from interest-based advertising from these and other advertisers by visiting <http://www.networkadvertising.org/>
 
 ### Google Adsense
 
@@ -80,6 +70,6 @@ Westeros.org
 [http://westeros.org](http://www.westeros.org/?URL=http%3A%2F%2Fwesteros.org)   
 [webmaster@westeros.org](mailto:webmaster@westeros.org)
 
-This document was last updated on August 07, 2013
+This document was last updated on May 02, 2017
 
 Privacy policy created by [http://www.generateprivacypolicy.com](http://www.westeros.org/?URL=http%3A%2F%2Fwww.generateprivacypolicy.com)
