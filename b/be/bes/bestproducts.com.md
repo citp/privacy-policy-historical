@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestproducts.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624032027id_/http%3A//www.bestproducts.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestproducts.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220104333id_/http%3A//www.bestproducts.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -145,3 +145,7 @@ Advertisement - Continue Reading Below
  **11.  ** **Changes to This Privacy Policy.**  This privacy policy is subject to occasional revision, and if we make any material changes in the way we use your Personally Identifiable Information, we will prominently post notice of the changes on our Covered Sites. Any changes to this privacy policy will be effective upon thirty (30) calendar days following our posting of notice of the changes on our Covered Sites.  These changes will be effective immediately for new users of our Covered Sites. Continued use of our Covered Sites, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
 Last revised on April 1, 2016
+
+* * *
+
+[BestProducts.com](http://www.bestproducts.com/) participates in various affiliate marketing programs, which means we may get paid commissions on editorially chosen products purchased through our links to retailer sites.
