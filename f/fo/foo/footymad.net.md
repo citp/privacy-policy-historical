@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footymad.net privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621120445id_/http%3A//www.footymad.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footymad.net privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220135915id_/http%3A//www.footymad.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Footymad.net
 
