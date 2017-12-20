@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farsi1hd.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612115943id_/http%3A//farsi1hd.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farsi1hd.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220150655id_/http%3A//www.farsi1hd.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Serial Privacy_policy - farsi1hd.com
 
@@ -8,6 +8,11 @@
 ---|---  
 [ ](http://www.facebook.com/group.php?gid=107310625989832&ref=ts "Farsi1 HD in Facebook") |   
   
+  
+
+
+[](http://www.iranbucks.com/2016/06/arz-azad-free-market-exchange-rates.html "Iran's Exchange Rates in Realtime")
+
 **Privacy Policy / Contact US**  
 Farsi1HD takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.  
 Routine Information Collection  
@@ -18,7 +23,9 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 Controlling Your Privacy  
 Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.  
 Contact Information  
-Concerns or questions about this privacy policy can be directed to info@free0098.com for further clarification.
+Concerns or questions about this privacy policy can be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for further clarification.
+
+[](https://web.archive.org/web/20171220150655id_/http%3A//www.farsi1hd.com/farsi1serial2.php "Farsi1 Serial")
 
   
-Copyright ©2010 free0098.com | [Privacy Policy / Contact US](https://web.archive.org/web/20170612115943id_/http%3A//farsi1hd.com/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20170612115943id_/http%3A//farsi1hd.com/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
+Copyright ©2010 free0098.com | [Privacy Policy / Contact US](https://web.archive.org/web/20171220150655id_/http%3A//www.farsi1hd.com/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20171220150655id_/http%3A//www.farsi1hd.com/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
