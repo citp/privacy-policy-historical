@@ -1,196 +1,139 @@
-> *The following text is extracted and transformed from the woolrich.eu privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121024845id_/http%3A//www.woolrich.eu/on/demandware.store/Sites-WPBAWO-EU-Site/default/Page-Show%3Fcid%3Dwo-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolrich.eu privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221110614id_/http%3A//www.woolrich.eu/en/gb/footer_legal_privacy_policy.html) for the most accurate reproduction.*
 
-# Customer Service | Privacy Policy | Woolrich
+# Privacy Policy
 
-## Privacy Policy
+[__](https://web.archive.org/en/gb/customer-service)
 
-Welcome to our website www.woolrich.eu ("Website"). Please read our Privacy Policy carefully. This Privacy Policy applies when you visit or browse our web site without purchasing any product, when you register with www.woolrich.eu, and when you use our services for purchasing products. If you haven't already done so, please also read the General Terms and Condition of Use of www.woolrich.eu, which contain information on privacy as well as on the security systems used by the web site.
+##### PRIVACY POLICY
 
-The website www.woolrich.eu is managed by The Level Group S.r.l. ("TLG"), an Italian company with its registered office in Italy at Piazza Arcole 4, 20143, Milan, business register number, tax code and VAT number 07234250962.
+Welcome to our website woolrich.eu (" **Site** "). We ask you to carefully read the Privacy Policy, which is valid both when you visit the site and simply surf or use its services without buying any products, as well as when you should visit the site and decide to buy one or more products. In addition, if you have not already done so, we ask you to read the terms of sale and the cookie policy of our website. 
 
-TLG controls the use of www.woolrich.eu users' personal data together with Woolrich Europe S.r.l. ("Woolrich Europe" - ADDRESS: Via dell’Arcoveggio, 59/5 - 40129 Bologna (Italy) - tax code and VAT number 03506281207) - (jointly referred to as "TLG and WO").
+The site and all trademarks, products and any related statement or information are the exclusive property of **Woolrich Europe S.p.A.** , with its registered office in Via dell'Arcoveggio, 59/5 - 40129 Bologna, Italy - („ **Woolrich** “).
 
-### 1\. Our Policy
+The site is managed by **Arvato Services Italia S.r.l.** , with its headquarters in Via Zanica, 19 - Grassobbio (BG) Italy - („ **Arvato** “).
 
-Everyone has the right to protection of his/her personal data. TLG and WO respect its users' right to be informed regarding the collection of and other operations involving their personal data. In using data that may directly or indirectly identify you personally, we will apply a principle of strict necessity. For this reason, we have designed www.woolrich.eu in such a way that the use of your personal data will be kept to a minimum and will not exceed the purposes for which your personal data was collected and/or processed; we do not process your personal data when we can provide you with services through the use of anonymous data (such as marketing research made for improving our services) or by other means which allow TLG and WO to identify you, apart from when it is strictly necessary or upon request by competent public authorities or the police (for example, in case of traffic data or your IP address). TLG and WO determine the purposes and means for processing your personal data, including security measures, as TLG and WO control www.woolrich.eu users' personal data. This Privacy Policy provides you with all information needed to understand how we collect data which may identify www.woolrich.eu's users. For further information on our Privacy Policy, please contact us at [support@woolrich.eu](mailto:support@woolrich.eu), or at The Level Group, Piazza Arcole 4, 20143 Milan, Italy.
+###### 1\. Who manages your personal data
 
-  
+Woolrich is the " **owner** " of the data management of the users of the site, according to the lawful decree of 30 June 2003, n.196: § "Decreto Legislativo 30 giugno 2003, n. 196" („ **Privacy Code** “); and therefore defines the purposes and modalities of the data management, and the means used to do so; this also applies to the security profile. 
 
+Arvato has been appointed "responsible" for data management in accordance with the Privacy Code, because of its experience, abilities, and reliability, and because it can guarantee to take full account of the existing rules on data protection, including the security profile of the data. The responsible company executes the data protection according to Woolrich's instructions. Woolrich periodically checks that the responsible company can solve the tasks that are handed over to it in a punctual manner, and that it can continue to guarantee the full respect of the existing rules for the protection of personal data. 
 
-### 2\. Who Processes Your Personal Data
+Because Arvato carries out the invoicing to the users who purchase products on the website, and because Arvato is therefore exposed to specific legal obligations in the accounting and fiscal areas, Arvato is, in relation to the purchases made by the users of the site, and apart from the responsibility of the data management according to the previous paragraph, also a co-owner with regard to the data administration of the clients in the perspective of this fiscal and accounting area. In this function, it will collect and store your relevant personal information and be directly responsible to you for this type of protection of your personal data. 
 
-TLG and WO control the use of www.woolrich.eu users' personal data; TLG and WO autonomously determine the purposes and means of processing personal data and the instruments used, including those for security measures. Due to organizational and operational purposes only, we have appointed certain entities that will also process personal data belonging to www.woolrich.eu's users for purposes strictly connected to the performance of services on www.woolrich.eu, including the sale of products.
+Woolrich and Arvato are thus co-owners of the data management of the web users solely in relation to fiscal and/or accounting purposes, and therefore agree on the modality of the data management and the means to be used for this (also with regard to the security profile). 
 
-The above mentioned processors have been chosen by TLG and WO because of their experience in processing personal data and they provide sufficient guarantees regarding compliance with data processing laws (including the technical security measures governing the processing to be carried out). In processing the personal data of www.woolrich.eu's users, the processors shall act only on instructions from TLG and WO. We regularly check that our processors comply with our instructions and that they continue to provide sufficient guarantees regarding their full compliance with the provisions on personal data processing.
+###### 2\. Our Policy
 
-Aside from the companies appointed for personal data processing, your information will be made available also to third parties, autonomous controllers, for purposes related to supplying services requested by user (for example, for purchase transactions). For more information on the matter, see section 5 (To Whom Your Personal Data Will Be Disclosed).
+Everyone has the right to protect his data. Woolrich and Arvato (the latter only for their purposes specified above) take into account the right of their users and clients to be informed about the collection of their personal data and other measures for the protection of their personal data. 
 
-Please contact our [Customer Service](http://www.woolrich.eu/on/demandware.store/Sites-WPBAWO-EU-Site/default/CustomerService-Show) or send us an e-mail at [support@woolrich.eu](mailto:support@woolrich.eu), in order to receive a full list of data processors.
+We try to adhere to a principle of strict necessity concerning the administration of personal data. For this reason, we have designed the site and are using it in such a way that the use of your personal information is limited to a necessary minimum and that the use of your personal data is excluded if the purposes pursued are in some specific circumstances possible with only using anonymous data (such as, for example, market research for the improvement of services), or by other means which allow the identification of the interested party only in the case of strict necessity or at the request of competent authorities (such as, for example, the data relating to your IP address, or the internet traffic and your stay on the site). 
 
-  
+###### 3\. How and for what purposes your personal data will be used
 
+Your personal data will be collected and managed by Woolrich, exclusively for purposes connected with the website, its services and the purchase of products. In terms of fiscal and/or accounting purposes, your personal data will be collected by Woolrich and Arvato as parties in charge of the data management. 
 
-### 3\. How We Use Personal Data and for What Purposes
+Your personal data may also be used in other administrative operations, but always within the limits of the purposes described above. 
 
-Your personal data are collected and processed by TLG and WO for purposes which are strictly connected use of the Website, its services and to purchase products on www.woolrich.eu. However, your personal data may also be used for other processing operations within the limits of such purposes.
+In particular, your personal data may be used for the following purposes: 
 
-In particular, your personal data shall be processed for the following purposes:
+A. in the section of registration processes in the site, Woolrich collects and manages your personal data (such as your e-mail address, your characteristics, and your password) by the relevant "My Account" registration form to provide access services to reserved areas and services of woolrich.eu and to send you the newsletters via e-mail, if expressly requested; 
 
-A. when you register with our website we collect your personal data (for example, your personal details, password, e-mail address, gender) through the registration form (My Account) in order to provide you with services in www.woolrich.eu’s reserved access areas and to send you our Newsletter, when specifically requested;
+B. in relation to customer care services (" **Customer Care** "), Woolrich collects and manages your personal data (such as, for example, your e-mail address and password) for purposes that are necessary to provide you with all information related to the services provided on the website and the purchase of products; 
 
-B. when you require assistance from our Customer Service area, we collect your personal data (for example, your name and surnames, e-mail address and password) for purposes strictly necessary to providing you with services related to www.woolrich.eu and to the purchase of products on www.woolrich.eu;
+C. in the section of the purchasing process of products on the page, Woolrich and Arvato will collect and manage your personal data (such as your identification data, e-mail address, postal address, credit card number and bank details, telephone number) by the order form for the sale of the products. Specifically, Arvato will manage your personal data for administrative and accounting obligations, which are strictly linked to the purchase of products (e.g. management/processing of orders, invoice issuing, management of related information requests, securing and eventual reacquisition of the credit, etc.); 
 
-C. when you execute purchasing procedures for products sold on www.woolrich.eu, we collect your personal data (such as personal details, e-mail address, address, Credit Card numbers, bank code, tax code and telephone number) on your order form only for the purpose of selling the products ordered by you;
+D. in the section of request from the customer service, Woolrich collects and manages your personal data to provide you with information about surfing problems, browser compatibility and visualization or loading the pages of the website; 
 
-D. when you require technical assistance, we collect your personal data in order to provide you with information on browsing, browser compatibility and viewing or loading www.woolrich.eu web pages;
+E. in the section of creating a wish list, Woolrich collects and manages your data for purposes of personalizing the products on the page based on your purchase behaviour. 
 
-E. when creating a Wish List, we process your personal data in order to customize our services for the purchase of products on www.woolrich.eu.
+Your personal data is mostly digitally managed, and in some cases also in paper format, for example when managing your data is necessary to forestall fraudulent actions on the website (if you want to know whether the management of your data is done in paper format or digitally, just send a request to the e-mail address [support_gb@woolrich.eu](https://web.archive.org/web/20171221110614id_/http%3A//www.woolrich.eu/en/gb/%E2%80%9Emailto:support_gb@woolrich.eu%E2%80%9C) or to Woolrich, to the address of the previously mentioned company office; for fiscal and/or accounting matters, you can, however, send a request to Arvato to the address of the above mentioned company headquarters). Your personal data will be kept in a form that allows us to identify you for a period of time strictly necessary. The data collection and the subsequent administration always takes place in compliance with the legal guidelines. To make sure that your personal data is always accurate, updated, relevant and complete, in order to provide you with a better service, we ask you to report any change to the following e-mail address: [support_gb@woolrich.eu](https://web.archive.org/web/20171221110614id_/http%3A//www.woolrich.eu/en/gb/%E2%80%9Emailto:support_gb@woolrich.eu%E2%80%9C) . 
 
-Your personal data is mostly processed by electronic means and in some circumstances by paper-based means, such as when the processing of your personal data is required for preventing fraud on www.woolrich.eu. Your personal data shall be stored in a way which allows TLG and WO to identify you for the period necessary for the purposes which the data was collected for and subsequently processed and, in any case, in accordance with applicable law. Please report any modification of your personal data to [support@woolrich.eu](mailto:support@woolrich.eu), in order to ensure that your personal information is always accurate and up-to-date, relevant and complete.
+Apart from the provisions of the following Art. 7, Woolrich will only with your consent manage your personal data for direct marketing purposes, also via e-mail. The purposes for which your personal data is handled, will in any case, be specified from time to time in the information letter that Woolrich will send to the user of the site, whenever the assignment of personal data is requested. 
 
-Your personal data shall not be disclosed to third parties for purposes which are not permitted by law or without your explicit consent.
+It may happen that Woolrich (and Arvato only in respect of fiscal and/or accounting purposes) must handle the personal data of third parties directly communicated by their users, for example, when a user buys a product that is supposed to be delivered to the address of a friend, in other words, if the person who pays the price for the purchase of a product is not the same as the person for which the product is intended, or when a user recommends a service or a product that is on sale on the site, to a friend, or when a user asks for the invoice that is in the name of another person. In any of these cases, be sure that you have the consent of the person to whom the data relates before handing it over to Woolrich (or Arvato) by informing them about this Privacy Policy because you are the sole responsible person for the communication of information and of personal data relating to third parties, without the latter having explicitly required it, and for their incorrect or unlawful use. In any event, Woolrich will comply with its disclosure requirements towards the registered user, as required by law and its own knowledge, and will, if necessary, in the act of registration, again request his consent expressed concerning his own personal data archives. 
 
-Your personal data may only be disclosed to third parties when it is necessary for processing an order. Moreover, your data may be disclosed to the police or to judicial authorities, according to law and upon a formal request by such entities, for example in the event TLG and WO need to prevent fraud on www.woolrich.eu (anti-fraud services).
+Woolrich reserves the right to delete accounts of registered users, including all related data, in the event of finding content that is unlawful, detrimental to the Woolrich image and its products (or third party), or is offensive, or promotes illegal or defamatory activities that include pornographic elements, promote violence, racist, sexist, religious discrimination, or discrimination concerning gender orientation. 
 
-Data processors will also have access to your personal data as stated in section 2 for the specific purposes stated therein. In all the above circumstances, your consent for data processing is not required. Your personal data will not be transferred abroad to non-EU countries that do not ensure an adequate level of protection of individuals. Should this be necessary in order to supply services or to execute a contract for the purchase of products, your personal data shall be transferred to such non-EU countries only after the execution of specific contracts between TLG and WO, and such entities in accordance with applicable law and regulations.
+###### 4\. What happens if you do not authorize the use of your personal data by Woolrich and Arvato
 
-We wish to inform you that TLG and WO shall process its users' personal data for purposes that are strictly connected to the supply of services on www.woolrich.eu, execution of contracts related to the sale and purchase of products on www.woolrich.eu and, after receiving your consent, to send you information on new commercial initiatives which are strictly connected to the web site's activities and services.
+The transmission of your personal data to Woolrich and/or to Arvato, and, in particular, your identification data, e-mail address, postal address, credit card number and bank details, as well as your telephone number, is necessary for the purchase contract conclusion for products on the website. 
 
-TLG and WO shall process your personal data for direct marketing purposes, including by e-mail, only after receiving your consent. TLG and WO may have access to third parties' personal data which was directly disclosed by their users, for example when a user bought a product to be sent to a friend, when the user paying for the product is different from the recipient of the product, or when a user wishes to recommend to a friend a service of www.woolrich.eu or the sale of a particular product.
+Likewise, the transmission of your data is essential to fulfill obligations arising from legal regulations or ordinances. 
 
-In all of the above cases, please make sure you receive the consent of such individuals before disclosing their personal data to TLG and WO and make sure you inform them about this Privacy Policy; you will be the only person liable in connection with the disclosure of information and data regarding such third parties if they have not provided you with their express consent for it and for any improper and unlawful use of that information. In any event, TLG shall fulfill any obligation to inform third parties required by law and, when necessary, shall request their express consent upon registering in its archives the personal information of the user indicated.
+In contrast, the transmission of your data for the provision of other services of the website, if you should specifically request them, is optional. 
 
-  
+Any refusal to submit the above mentioned personal data to Woolrich and/or Arvato will make it impossible to complete the purchase contract for products you ordered, or to perform them correctly, as well as to fulfill obligations related to legal regulations or ordinances which are the responsibility of the person imposed with the payment. 
 
+On the other hand, the lack of transmission of your data, which is necessary for the performance of other services of the website (e.g., the performance of customer services, the sending of newsletters, the use of the wish list, recommending an article to a friend, etc.), entails the impossibility of using them, but without affecting the execution of the purchase contract for the products of the website, or the use of the site. 
 
-### 4\. What Happens if You Do Not Disclose Your Personal Data to TLG and WO
+###### 5\. To whom we share your personal data
 
-Granting your personal data to TLG and WO (in particular, your personal details, your e-mail address, your address, your Credit/Debit Card numbers and bank code and your telephone number) is necessary for processing your order for the purchase of products on www.woolrich.eu, supplying other services provided on the web site upon your request, or when your personal information is needed to fulfill obligations required by law or regulations.
+Your personal data may be made available to third parties who perform specific services on behalf of Woolrich (and Arvato, for fiscal and/or accounting purposes) and who are nominated from time to time to be the parties responsible for the management of such data. The personal data may be communicated to other recipients - whose attributions are specified from time to time - in order to execute the purchase contract for the products of the website and only if this purpose is not incompatible with the other purposes for which your data was collected. 
 
-The refusal to provide TLG and WO with some of your personal data necessary for performing the above purposes may consequently prevent TLG and WO from processing your order for the purchase of products sold on www.woolrich.eu or from supplying other services provided on www.woolrich.eu, such as Customer Care services, sending the Newsletter, using the Wish List or fulfilling obligations required by law and other regulations. Therefore, failing to provide data may constitute, in some cases, a legitimate and justified reason for not processing your order for the purchase of products sold on www.woolrich.eu or not providing www.woolrich.eu’s services.
+Creditworthiness-relevant information about your past payment behavior, information on the assessment of the risk of payment failure based on mathematical-statistical procedures using address data (scoring) as well as data for verifying your address (check for deliverability) is obtained from infocore Consumer Data GmbH, Rheinstraße 99, 76532 Baden-Baden, Germany. For this purpose, we will transmit your data (name, address and possibly date of birth) to the aforementioned company. This uses these data for purposes of address verification or identity checks against other companies as well as for corresponding scoring applications. Scoring calculates, based on mathematical-statistical methods, probability values for a certain future behavior, using the corresponding data.
 
-Disclosure of further personal data to TLG and WO other than that required for fulfilling legal or contractual obligations or for providing the services requested, is, on the contrary, optional and does not have any effect on the use of the web site and of its services or on the purchase of products on www.woolrich.eu.
+In addition to the companies who are responsible for remuneration, your data may also be made available to third parties who are independent persons responsible for remuneration or for incidental purposes that are correlated with the provision of services requested by the user (e.g. for purchase transactions). You can always get an updated list of these companies by contacting the following e-mail address: [support_gb@woolrich.eu](https://web.archive.org/web/20171221110614id_/http%3A//www.woolrich.eu/en/gb/%E2%80%9Emailto:support_gb@woolrich.eu%E2%80%9C) (please specify "Info About Privacy Policy" as the subject of the mail). 
 
-In some circumstances and if required, from time to time we will duly inform you if the personal data you are disclosing to TLG and WO is compulsory or optional. We will point out to you whether the disclosure of your data is compulsory or optional by marking with an appropriate symbol (*) the information that is compulsory or data needed for providing the required services on www.woolrich.eu and for the purchase of products on www.woolrich.eu. Failing to provide optional personal data will not imply any obligation or disadvantage to our users.
+Your personal data may also be communicated to the police, the judicial authorities or other competent authorities, always within the framework of the law and upon prior formal request from these subjects, for example, in the section of the anti-fraud services of the website. 
 
-  
+Your personal data will not be transferred to other European countries or to other countries that are not members of the European Union and which can not guarantee an adequate level of protection like all member countries of the European Union. In the event that this is necessary to offer you services that you have requested or to execute a contract for the purchase of products with Woolrich, we guarantee that the transfer of your personal data to subjects located in countries outside the European Union that can not provide an adequate level of protection, will only take place between Woolrich and/or Arvato (if applicable) and these parties, upon prior conclusion of specific contracts, which include clauses to preserve the security of your personal data, according to law and regulations. 
 
+The data will not be passed on, sold or otherwise transferred to other third parties, unless the users have been informed in advance and have given their consent or if it is required by the law. 
 
-### 5\. To Whom Your Personal Data Will Be Disclosed
+###### 6\. Safety measures
 
-Personal data will be disclosed to third party companies that provide, on behalf of TLG and WO, specific services as data processors or to other recipients of personal data collected by TLG and WO that autonomously process your personal data only for the performance of a contract for purchasing products on www.woolrich.eu and only when such purpose does not exceed the purposes for which your personal data was collected and subsequently processed and, in any case, according to applicable laws and regulations.
+Woolrich (and Arvato, solely in relation to fiscal and/or accounting purposes) takes security measures aimed at reducing these risks to a minimum: (i) accidental destruction or loss of user data, (ii) unauthorized access, or (iii) any action, which is unauthorized or non-compliant with the collection purposes specified in our Privacy Policy. However, Woolrich (and Arvato, solely in relation to fiscal and/or accounting purposes) cannot guarantee to its own users that the measures taken for the security of the website and the transfer of data and information to the site itself, completely exclude any risk of unauthorized access or loss of data. 
 
-Personal data will not be disclosed to third parties or disseminated or transferred without informing our users of such disclosure/dissemination/transfer, without their consent and, in any case, in accordance with the law.
+We advise you to ensure that your computer is equipped with adequate security software to ensure both incoming and outgoing data transmission (such as updated virus protection) and that your internet service provider has taken appropriate security measures for online data transfer (such as firewalls or antispam filters). 
 
-  
+###### 7\. Opt-in / Opt-out
 
+Woolrich can also use your personal details to send you promotional and direct marketing material or other commercial communications, including e-mails. 
 
-### 6\. How We Collect Your Data on www.woolrich.eu
+If these advertising communications correspond to products you have already purchased, Woolrich may send them to your e-mail address in the future, even without your express consent, as long as you have not refused this type of use when entering your e-mail, or in subsequent occasions (Article 130, Comma 4 of the Privacy Code). Your consent is required in order to authorize Woolrich to send you advertising e-mails regarding products of other kinds than those you have already purchased. If Woolrich should send you this type of advertising communications related to the same type of product that you have already purchased, you will be informed that you can always unsubscribe at any time. 
 
-When you are using www.woolrich.eu, some personal data might be collected automatically (through "cookies"), for example, when we automatically collect users' IP addresses and other information regarding the users' data traffic or the users' preferences in the choice of services provided on this web site and of the products purchased through the provided services. This information and data are collected directly and automatically by the web site as part of its operational functions. This information and data are then processed in a collective and anonymous way for commercial purposes in order to optimize the services provided on www.woolrich.eu for the needs and preferences of the web site's users.
+In all cases, Woolrich – at any time and without justification – grants its users the right to no longer receive these types of communications associated with the use of special services. 
 
-In other circumstances, TLG and WO directly collect personal data and information from its users when they register online with www.woolrich.eu or when they send purchase orders of products sold on the web site in order to finalize e-commerce transactions. TLG and WO will process such data only for the purposes and within the limits of what is stated in the section regarding data collection and may be disclosed to third parties only for the purposes related to providing the services requested by the user.
+###### 8\. Your rights 
 
-  
+You always have the right to receive the confirmation or rejection of the existence of personal data as well as an intelligible report from Woolrich (and Arvato, solely in relation to fiscal and/or accounting purposes), even if the data has not yet been registered. 
 
+You also have the right to get information from Woolrich (and Arvato, only in relation to fiscal and/or accounting purposes) about: the origin of your personal data; the purposes and modalities of the administration of your personal details; the applied logic in the case of administrations carried out by electronic means; the details for the identification of the holder and the managers of the administration; the names of the subjects or subject categories to which the personal details can be communicated, or which may get to access them, for example, as responsible persons or representatives of the administration. This information is mainly contained in our Privacy Policy; for more details, you can send an e-mail to [support_gb@woolrich.eu](https://web.archive.org/web/20171221110614id_/http%3A//www.woolrich.eu/en/gb/%E2%80%9Emailto:support_gb@woolrich.eu%E2%80%9C) . 
 
-### 7\. Security Measures
+You still have the right to receive the following from Woolrich (and Arvato, solely in relation to fiscal and/or accounting purposes): 
 
-We have adopted security measures to protect personal data against accidental or unlawful destruction, accidental loss, alteration, unauthorized disclosure or access, and against all other reasons for data processing that do not comply with our Privacy Policy. Nevertheless, TLG and WO cannot guarantee that the security measures adopted for the protection of the web site and for data and information transmission on www.woolrich.eu will prevent or exclude any risk of unauthorized access or of loss of data.
+A. the update, or the correction, and, if you wish, the integration of your personal data; 
 
-It is advisable that your computer be provided with software devices that protect network data transmission/receipt (such as updated antivirus systems) and that your Internet service provider take appropriate measures for the security of network data transmission (such as, for example, firewalls and anti-spam filtering).
+B. the deletion, anonymization or blocking of your personal data which has been handled in violation of existing laws, including those whose preservation has not been necessary for the purposes for which the data has been collected and subsequently handled; 
 
-  
+C. the confirmation that the parties which have received this data are aware of the operations described in points (a) and (b), apart from the case where such fulfillment is impossible or involves the use of evidently disproportionate means towards protected rights. 
 
+In any case, you will have the right to reset yourself completely or partially from: 
 
-### 8\. Cookies
+The management of the personal data relating to you with legitimate reasons, although for the purpose of collection and the management of personal data concerning you, for the purpose of the sending of advertising material, direct marketing, the execution of market research or the advertising communication. 
 
-woolrich.eu uses automatic systems of data collection, such as cookies. A cookie is a device transmitted to the hard disk of an Internet user; it does not contain intelligible information but it allows linking between an Internet user to his/her personal information provided by the user on www.woolrich.eu. Cookies are disseminated by our servers, and no one may gain access to the information contained therein. Only TLG and WO process information collected by cookies, in a collective and anonymous way, in order to optimize its services and its web site for the needs and preferences of its users. We have provided cookies in connection to functions such as selecting the country, browsing the catalogue, purchasing products online and in general in connection with the provision of services reserved to registered customers. As you know, each Internet browser allows the deletion of cookies after each session. Your Internet browser contains instructions on these deletion procedures. Please access the information on your Internet browser if you wish to delete cookies. The acceptance of automatic data collection procedures and the use of cookies are necessary for using the web site and its services, including the purchase of products. If you have started the procedure of deleting cookies, TLG and WO cannot ensure that all web pages of www.woolrich.eu will be displayed or that certain services will be supplied such as, for example, storage or display on the web pages of products you chose when you were finalizing the online purchase processes.
+At any time, you can freely claim your rights, under the law, by sending an inquiry to Woolrich and Arvato to the e-mail address [support_gb@woolrich.eu](https://web.archive.org/web/20171221110614id_/http%3A//www.woolrich.eu/en/gb/%E2%80%9Emailto:support_gb@woolrich.eu%E2%80%9C) , on which we will endeavour to provide you with a reasonable and quick response. 
 
-8.1 Type of Cookies
+###### 9\. Links to other websites
 
-**Strictly necessary cookies** : We use a number of cookies which are strictly necessary to allow you to access our websites, to move between pages and to receive services which you have requested.
+The website may contain links to other sites that are completely unrelated to woolrich.eu or Woolrich. 
 
-**Performance cookies** : We utilise other cookies to analyse how our visitors use our websites and to monitor website performance. This allows us to provide a high quality experience by customising our offering and quickly identifying and fixing any issues that arise. For example, we might use performance cookies to keep track of which pages are most popular, which method of linking between pages is most effective, and to determine why some pages are receiving error messages.
+Woolrich does not control or monitor these websites or their content. Therefore, Woolrich is not responsible for the content of these websites and their rules regarding your privacy or the protection of your data. Therefore, we ask you to be careful when you go to these pages through the links that are found on our site, and carefully read their Terms and Conditions for use and their Privacy Policy. 
 
-**Functionality Cookies** : We use functionality cookies to allow us to remember your preferences. For example, cookies save you the trouble of selecting your language or currency every time you access the website, and recall your customisation preferences. 
+The Privacy Policy of the website does not apply to websites of third parties and Woolrich is by no means responsible for the applied Privacy Policy of these websites. 
 
-8.2 Managing Cookies
+The website contains links to third-party sites, solely to make browsing easier for the user and to facilitate hyperlink connecting on the internet. 
 
-If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in your browser settings. 
+The presence of the above links on the website does not imply any form of recommendation on the part of Woolrich to access or open third party websites, nor does it constitute a guarantee as to its content, or its offered services and goods to their users. 
 
-For further information about how to turn off cookie acceptance please: 
+###### 10\. Useful contacts
 
-**Internet Explorer** : [clicca qui.](http://windows.microsoft.com/it-it/windows7/block-enable-or-allow-cookies)
+If you would like to receive further information about how Woolrich and Arvato manage your personal data, please send an e-mail to [support_gb@woolrich.eu](https://web.archive.org/web/20171221110614id_/http%3A//www.woolrich.eu/en/gb/%E2%80%9Emailto:support_gb@woolrich.eu%E2%80%9C) . If you want to know your own rights and want to keep up-to-date with personal data protection, we recommend you visit the website of the data protection supervisor [www.garanteprivacy.it](http://www.garanteprivacy.it/). 
 
-**Safari** : [clicca qui.](http://support.apple.com/kb/PH11913)
+###### 11\. Applicable law
 
-**Chrome** : [clicca qui.](https://support.google.com/chrome/answer/95647?hl=it-IT&hlrm=fr&hlrm=en)
+This Privacy Policy is governed by Italian law and, in particular, by the Privacy Code governing the administration of personal data, including those held abroad, which is carried out by whoever is domiciled in Italy or by means which are located in Italy. The Privacy Code guarantees that the handling of the person-related data is carried out in compliance with the fundamental rights and freedoms, as well as the dignity of the person concerned, in particular with regard to confidentiality, identity and the right of protection. 
 
-**Firefox** : [clicca qui.](http://support.mozilla.org/it-IT/kb/enable-and-disable-cookies-website-preferences)
+###### 12\. Changes and updates to the Privacy Policy of the website
 
-### 9\. Opt-in/Opt out
-
-TLG and WO process your personal data only after receiving your consent, freely expressed, in order to send you advertising material and direct marketing or other commercial communications, including by e-mail, which do not fall within customer requested services provided by www.woolrich.eu. Each time your consent is required, we will inform you in advance and we will give you the option to either provide or refuse your consent for the use of your personal data, including your e-mail address, for the above purposes, by ticking the appropriate boxes.
-
-We wish to inform you that TLG and www.woolrich.eu may process your personal data also without your consent in certain circumstances provided by law, such as when such processing is necessary for performing a legal obligation to which TLG and www.woolrich.eu are subject or when such processing is necessary for performing obligations undertaken in contracts with the users (such as, for example, if you purchased products on www.woolrich.eu or if you asked to use specific services through our web site).
-
-In any case, we wish to inform you that TLG and WO guarantee that its users may exercise, at any time and without having to state their reasoning, their right not to receive future communications connected to particular services upon request.
-
-  
-
-
-### 10\. Your Right to Access Personal Data and Further Rights
-
-You are entitled to obtain, at any time, confirmation from TLG and WO as to whether or not data relating to you is being processed, whether the data is not yet registered, and the communication in intelligible form of the data undergoing processing.
-
-Moreover, you are entitled to receive from TLG and WO information on the source of your personal data; the purposes and way of processing your personal data; the logic involved in any electronic data processing; details of the data controller and of the data processors; the names of the entities and categories of entities to whom your personal data may be disclosed or who may access your personal data, for example, as a data controller or a party so appointed.
-
-You can easily find part of the above information in our Privacy Policy. For further information, send an e-mail to [support@woolrich.eu](mailto:support@woolrich.eu). You are entitled to obtain at any time from TLG and WO:
-
-A. the updating, adjustment or, when you have an interest in such, the integration of your personal data;
-
-B. the deletion, the transformation into an anonymous form or blocking of your personal data (unlawfully processed), including data which does not need to be stored for the purposes for which it was collected and subsequently processed;
-
-C. the confirmation that the operations above have been reported (together with the contents of the same) to whom the data was disclosed or disseminated, except when it becomes impossible or if the means used are clearly disproportionate to the right’s protection.
-
-You are entitled to object, in whole or in part:
-
-A. for legitimate reasons, to the processing of your personal data, even if it is related to the purposes for which it was collected;
-
-B. to the processing of your personal data for advertising or direct marketing purposes or in order to carry out marketing research or commercial communications.
-
-You may freely exercise your rights at any time, provided that you do so in compliance with applicable laws, by sending your request to TLG and WO at the following e-mail address: [support@woolrich.eu](mailto:support@woolrich.eu). We will reply to you as necessary.
-
-  
-
-
-### 11\. Links to Other Web Sites
-
-woolrich.eu contains links to other web sites which may have no connection with www.woolrich.eu or with TLG and WO. TLG and WO do not control or monitor such web sites or their web content. TLG and WO shall not be held liable for the web content of such sites and for the rules adopted by them in terms of your privacy and the processing of your personal data while you are visiting those web sites. Please, pay attention when you connect to these web sites through the links provided on www.woolrich.eu and read their terms and conditions of use and their privacy policy carefully.
-
-woolrich.eu's Privacy Policy does not apply to third party web sites. www.woolrich.eu provides links to other web sites exclusively to help its users in their searches and net-surfing activities and to allow links to other web sites on the Internet. When TLG and WO provide links to other web sites, TLG and WO do not recommend the use of these web sites and do not provide any guarantees regarding their web content or the services and products supplied and sold by these web sites to Internet users.
-
-  
-
-
-### 12\. Contacts
-
-If you wish to receive further information on how TLG and WO process your personal data, please send an e-mail to [support@woolrich.eu](mailto:support@woolrich.eu). Should you require any further information on your rights and on personal data protection law you can contact the personal data protection authority at the following address: [www.garanteprivacy.it](http://www.garanteprivacy.it/).
-
-  
-
-
-### 13\. Governing Law
-
-This Privacy Policy is governed by Italian law and, in particular, by the Italian Personal Data Protection Code (legislative decree no. 196 of 30 June 2003) which governs the processing of personal data - also held overseas - carried out by anyone who is domiciled or has registered offices in Italy. The Italian Personal Data Protection Code guarantees that processing of personal data will be carried out in compliance with fundamental rights and freedom of individuals, as well as of their dignity, with particular reference to confidentiality, identity and to the right to personal data protection.
-
-  
-
-
-### 14\. Modification and Updating of www.woolrich.eu Privacy Policy
-
-TLG and WO may amend or simply update all or part of www.woolrich.eu's Privacy Policy, including when amendments are made to legal provisions or regulations which govern data protection and protect your rights. The amendments and the updating of www.woolrich.eu Privacy Policy shall be notified to our users on www.woolrich.eu's homepage as soon as such amendments or updates have been introduced and shall be binding as soon as they are published on the web site in this section. Therefore, you are requested to regularly access this section in order to check the publication of the most recent and updated Privacy Policy of www.woolrich.eu.
-
-  
-
+Woolrich can at any time, in whole or in part, modify or update the website's Privacy Policy, considering any relevant changes to the law or regulations. The changes and updates to the website's Privacy Policy will be made available to the user at the time of their application by the publication of a note on the homepage, and will come into force as soon as they are published. We, therefore, ask you to frequently enter this section in order to find the latest and most recent publication of the Privacy Policy.
