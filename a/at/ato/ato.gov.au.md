@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ato.gov.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222060833id_/https%3A//www.ato.gov.au/About-ATO/Access%2C-accountability-and-reporting/In-detail/Privacy-notices/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ato.gov.au privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221021552id_/https%3A//www.ato.gov.au/About-ATO/Access%2C-accountability-and-reporting/In-detail/Privacy-notices/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Australian Taxation Office
+# ATO privacy policy | Australian Taxation Office
 
-The Australian Taxation Office (ATO) is an Australian government statutory agency operating under the _Public Service Act 1999_ and the _Public Governance Performance and Accountability Act 2013_.
+The ATO is an Australian government statutory agency operating under the _Public Service Act 1999_ and the _Public Governance Performance and Accountability Act 2013_.
 
 We are responsible for administering a wide range of taxation and superannuation laws and have custody of the Australian Business Register (ABR).
 
@@ -98,7 +98,7 @@ There are some circumstances where it may not be reasonable in the circumstances
 
 Those circumstances may also include when we collect information to help us decide which individuals to audit.
 
-### When we use our formal access and information-gathering powers
+### Using our formal access and information-gathering powers
 
 In some cases, we may need to use our powers under the taxation and superannuation laws to obtain personal information about you. If we do this, we will tell you:
 
@@ -176,7 +176,7 @@ Personal information contained in taxpayer records is usually collected, held, u
 
 In some circumstances, the law allows disclosures of personal information for reasons other than administering the taxation laws. These include disclosures to:
 
-  * assistance agencies to determine eligibility for government benefits
+  * assistance agencies to help them determine eligibility for government benefits
   * law enforcement agencies for the purpose of investigating and prosecuting serious offences
   * courts, tribunals, legal service providers and counsel representing us in disputes and debt collection activities
   * state and territory revenue offices
@@ -198,13 +198,13 @@ We collect, hold, use and disclose personal information about:
   * individual superannuation holding account special accounts to enable accounts to be established for individuals where we have transferred unclaimed co-contribution or guarantee charge amounts to a special account
   * individual taxpayer superannuation excess contribution records, to enable excess superannuation contributions to be identified and liabilities for excess contributions tax to be determined and assessed
   * superannuation co-contribution system records, so that superannuation co-contribution entitlements can be determined and paid for eligible individuals
-  * the superannuation unclaimed money register, to maintain a register of unclaimed superannuation money paid to the Commissioner of Taxation.
+  * the superannuation unclaimed money register, to maintain a register of unclaimed superannuation money paid to us.
 
 
 
 ### Tax file numbers
 
-A tax file number (TFN) is a unique identifier. The Commissioner of Taxation issues TFNs and we use them to help us administer the taxation and superannuation laws.
+A tax file number (TFN) is a unique identifier. We issue TFNs and use them to help us administer the taxation and superannuation laws.
 
 Sections 8WA and 8WB of the _Taxation Administration Act 1953_ (Taxation Administration Act) and the _Privacy (Tax File Number) Rule 2015_ protect TFNs.
 
@@ -243,6 +243,8 @@ Only certain people and organisations may ask for an individual’s TFN. These i
 
 
 
+For more information see [Classes of lawful tax file number recipientsExternal Link](https://www.oaic.gov.au/privacy-law/privacy-registers/classes-of-lawful-tax-file-number-recipients).
+
 If you are asked to provide your TFN, the person asking for it must tell you:
 
   * the legal basis for collecting the TFN
@@ -267,7 +269,7 @@ Your TFN is used to identify you in your dealings with us. You should destroy or
 
 If your TFN is known to, or being used by someone who shouldn’t have it, this is referred to as a compromised TFN.
 
-If you think that your TFN has been lost, stolen or misused, phone us on **13 28 61** between 8:00am and 6:00pm, Monday to Friday.
+If you think that your TFN has been lost, stolen or misused, phone us on **13 28 61** between 8.00am and 6.00pm, Monday to Friday.
 
 When you phone, tell us whether your TFN is being used by someone else, or if it may be known to someone else and how you came to know this. For example, let us know if you have received a Notice of Assessment about a return you haven’t lodged, or if you have included your TFN in a profile you posted online while looking for work.
 
@@ -352,7 +354,7 @@ For more information on the different types of data-matching records we hold, se
 
 ### Web browsing records
 
-When you visit our website at ato.gov.au we will collect information from your browser relating to:
+When you visit our website we'll collect information from your browser relating to:
 
   * your server address, operating system and top level domain name
   * the date and time of your visit, the pages you accessed and documents you downloaded, the previous site you visited and the type of browser you used.
@@ -361,7 +363,7 @@ When you visit our website at ato.gov.au we will collect information from your b
 
 No attempt is made to identify users or their browsing activities except in the event of an investigation where a law enforcement agency may exercise a warrant to inspect our internet web server logs.
 
-However, when you authenticate with online ATO systems directly or indirectly (for example, through myGov), certain information about your computer, your browser and the authentication process will also be logged by the ATO, such as:
+However, when you authenticate with online ATO systems directly or indirectly (for example, through myGov), certain information about your computer, your browser and the authentication process will also be logged by us, such as:
 
   * your internet provider number (IP address)
   * the date and time of the use of the authentication service
@@ -370,22 +372,22 @@ However, when you authenticate with online ATO systems directly or indirectly (f
 
 
 
-The ATO may use this information to:
+We may use this information to:
 
   * confirm your identity
-  * compile statistics and reports to enhance ATO systems and services
+  * compile statistics and reports to enhance our systems and services
   * identify and respond to issues that may indicate authentication integrity is at risk
   * detect, investigate and prosecute criminal offences.
 
 
 
-We do not share this information with other government agencies or other organisations without your permission unless that is required or authorised by law.
+We don't share this information with other government agencies or other organisations without your permission unless that is required or authorised by law.
 
 #### Cookies
 
 Cookies are pieces of information that a website can transfer to an individual's computer hard drive for record keeping. Cookies can make websites easier to use by storing information about your preferences on a particular website. The information remains on your computer after the Internet session finishes. We uses cookies in two very limited ways.
 
-The first time you visit ato.gov.au one cookie will be stored on your computer. On each visit to our website the system checks whether there is an ato.gov.au cookie on your computer. If so, it simply notes its presence and records your visit as a 'previous user'. If not, it will store one and record your visit as a 'first time visitor'. This cookie will be stored permanently unless you choose to delete it. The information is used by us to help it improve our website by understanding how it is used. There is no attempt made to identify individual users in any way.
+The first time you visit our website one cookie will be stored on your computer. On each visit to our website the system checks whether there is an ato.gov.au cookie on your computer. If so, it simply notes its presence and records your visit as a 'previous user'. If not, it will store one and record your visit as a 'first time visitor'. This cookie will be stored permanently unless you choose to delete it. The information is used by us to help it improve our website by understanding how it is used. There is no attempt made to identify individual users in any way.
 
 On each use a 'session cookie' is temporarily placed on your computer, which is used to maintain navigation information during your site visit. These session cookies are deleted from your computer at the end of each internet session.
 
@@ -409,7 +411,7 @@ We also ensure that the privacy and confidentiality of your personal information
 
 ### Employee records
 
-We collect, hold, use and disclose personal information about ATO employees for the purpose of discharging the Commissioner of Taxation’s employer powers under the _Public Service Act 1999_. The _Public Service Regulations 1999_ describe circumstances in which personal information can be used and disclosed in exercising the powers of an agency head.
+We collect, hold, use and disclose personal information about our employees for the purpose of discharging the Commissioner of Taxation’s employer powers under the _Public Service Act 1999_. The _Public Service Regulations 1999_ describe circumstances in which personal information can be used and disclosed in exercising the powers of an agency head.
 
 For more information about the nature and scope of these powers, see [Appendix 1](https://web.archive.org/About-ATO/Access,-accountability-and-reporting/In-detail/Privacy-notices/Privacy-policy/?page=2#Appendix_1___What_information_we_collect__hold__use_and_disclose___and_why).
 
@@ -459,7 +461,7 @@ We are bound by the _Archives Act 1983_ to retain Commonwealth records until we 
 
 
 
-## How you can enquire or make a complaint about a suspected breach of the Australian Privacy Principles
+## Enquire or complain about a suspected breach of the Australian Privacy Principles
 
 ### General questions
 
@@ -471,17 +473,17 @@ If you are not satisfied with how we have collected, held, used or disclosed you
 
 You can lodge a complaint by:
 
-  * using the online complaints form at [ato.gov.au/complaints](https://web.archive.org/complaints)
+  * using our [online complaints form](https://web.archive.org/complaints)
   * phoning our complaints line on **1800 199 010**
   * phoning the National Relay Service on **13 36 77** (if you have a hearing, speech or communication impairment)
   * sending us a free fax on **1800 060 063**
-  * writing to:    
-    * **ATO Complaints**  
+  * writing to      
+
+
+
+**ATO Complaints**  
  **PO Box 1271**  
  **ALBURY NSW 2640**  
-
- 
-
 
 
 ### ATO employees
@@ -490,7 +492,7 @@ If you are an ATO employee and wish to obtain general information about a privac
 
 If you are an ATO employee and wish to make a complaint about a privacy matter relating to your taxation affairs, you may do so using the complaints process described above.
 
-If you are an ATO employee and wish to make a complaint about a privacy matter relating to your employment relationship with the ATO, you may:
+If you are an ATO employee and wish to make a complaint about a privacy matter relating to your employment relationship with us, you may:
 
   * escalate the matter within your business line
   * complete an Employee Complaints form (available on the intranet)
@@ -504,7 +506,7 @@ We treat complaints seriously and try to resolve them fairly and quickly.
 
 If you make a complaint, we aim to contact you within three working days. We will work with you to resolve your complaint and keep you informed of its progress.
 
-If you are not satisfied with how we deal with your complaint, the Privacy Commissioner at the Office of the Australian Information Commissioner may be able to help you. More information about the Office of the Australian Information Commissioner is available on their website at [oaic.gov.auExternal Link](http://www.oaic.gov.au/) or you can phone **1300 363 992**.
+If you are not satisfied with how we deal with your complaint, the Privacy Commissioner at the Office of the Australian Information Commissioner may be able to help you. Visit the [Office of the Australian Information Commissioner websiteExternal Link](http://www.oaic.gov.au/) for more information, or you can phone **1300 363 992**.
 
 ## Disclosing personal information to overseas recipients
 
