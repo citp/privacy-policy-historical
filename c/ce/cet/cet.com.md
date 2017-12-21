@@ -1,51 +1,158 @@
-> *The following text is extracted and transformed from the cet.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223215728id_/http%3A//www.cet.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cet.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221163307id_/http%3A//www.cet.com/privacy-policy) for the most accurate reproduction.*
 
-# CET: Privacy Statement
+# Privacy Policy | Cutting Edge Communications
 
-| 
+**cet.com Privacy Policy**
 
-Cutting Edge Communications, Inc. is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Cutting Edge Communications, Inc. Web site and governs data collection and usage. By using the Cutting Edge Communications, Inc. website, you consent to the data practictices described in this statement. 
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-Collection of your Personal Information 
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-Cutting Edge Communications, Inc. collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Cutting Edge Communications, Inc. also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. 
+We do not collect information from visitors of our site.
 
-There is also information about your computer hardware and software that is automatically collected by Cutting Edge Communications, Inc.. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Cutting Edge Communications, Inc. for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Cutting Edge Communications, Inc. Web site. 
+or other details to help you with your experience.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Cutting Edge Communications, Inc. public message boards, this information may be collected and used by others. Note: Cutting Edge Communications, Inc. does not read any of your private online communications. 
+**When do we collect information?**
 
-Cutting Edge Communications, Inc. encourages you to review the privacy statements of Web sites you choose to link to from Cutting Edge Communications, Inc. so that you can understand how those Web sites collect, use and share your information. Cutting Edge Communications, Inc. is not responsible for the privacy statements or other content on Web sites outside of the Cutting Edge Communications, Inc. and Cutting Edge Communications, Inc. family of Web sites. 
+We collect information from you when you or enter information on our site.
 
-Use of your Personal Information 
+**How do we use your information?**
 
-Cutting Edge Communications, Inc. collects and uses your personal information to operate the Cutting Edge Communications, Inc. Web site and deliver the services you have requested. Cutting Edge Communications, Inc. also uses your personally identifiable information to inform you of other products or services available from Cutting Edge Communications, Inc. and its affiliates. Cutting Edge Communications, Inc. may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Cutting Edge Communications, Inc. does not sell, rent or lease its customer lists to third parties. Cutting Edge Communications, Inc. may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Cutting Edge Communications, Inc. may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Cutting Edge Communications, Inc., and they are required to maintain the confidentiality of your information. 
+**How do we protect your information?**
 
-Cutting Edge Communications, Inc. does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent. 
+We do not use vulnerability scanning and/or scanning to PCI standards.
 
-Cutting Edge Communications, Inc. keeps track of the Web sites and pages our customers visit within Cutting Edge Communications, Inc., in order to determine what Cutting Edge Communications, Inc. services are the most popular. This data is used to deliver customized content and advertising within Cutting Edge Communications, Inc. to customers whose behavior indicates that they are interested in a particular subject area. 
+We only provide articles and information. We never ask for credit card numbers.
 
-Cutting Edge Communications, Inc. Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Cutting Edge Communications, Inc. or the site; (b) protect and defend the rights or property of Cutting Edge Communications, Inc.; and, (c) act under exigent circumstances to protect the personal safety of users of Cutting Edge Communications, Inc., or the public. 
+We use regular Malware Scanning.
 
-Use of Cookies 
+We do not use an SSL certificate
 
-The Cutting Edge Communications, Inc. Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
+  * We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Cutting Edge Communications, Inc.'s pages, or register with Cutting Edge Communications, Inc. site or services, a cookie helps Cutting Edge Communications, Inc. to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Cutting Edge Communications, Inc. Web site, the information you previously provided can be retrieved, so you can easily use the Cutting Edge Communications, Inc. features that you customized. 
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Cutting Edge Communications, Inc. services or Web sites you visit. 
 
-Security of your Personal Information 
+**Do we use 'cookies'?**
 
-Cutting Edge Communications, Inc. secures your personal information from unauthorized access, use or disclosure. Cutting Edge Communications, Inc. secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.  
+**We use cookies to:**
 
-Changes to this Statement 
+  * Understand and save user's preferences for future visits.
 
-Cutting Edge Communications, Inc. will occasionally update this Statement of Privacy to reflect company and customer feedback. Cutting Edge Communications, Inc. encourages you to periodically review this Statement to be informed of how Cutting Edge Communications, Inc. is protecting your information. 
 
-Contact Information 
 
-Cutting Edge Communications, Inc. welcomes your comments regarding this Statement of Privacy. If you believe that Cutting Edge Communications, Inc. has not adhered to this Statement, please contact Cutting Edge Communications, Inc. at dans@cet.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.  
+**If users disable cookies in their browser:**
 
-| 
+If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.Some of the features that make your site experience more efficient and may not function properly.
+
+**Third-party disclosure**
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
+
+**Third-party links**
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google**
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+
+We have not enabled Google AdSense on our site but we may do so in the future.
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
+**According to CalOPPA, we agree to the following:**
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.  
+You will be notified of any Privacy Policy changes:
+
+  * On our Privacy Policy Page
+
+
+
+Can change your personal information:
+
+  * By calling us
+  * By logging in to your account
+
+
+
+**How does our site handle Do Not Track signals?**
+
+We don't honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. We don't honor them because:
+
+our site does not collect personal data and our site has limited/no third party links.  
+**Does our site allow third-party behavioral tracking?**
+
+It's also important to note that we do not allow third-party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify you via phone call
+
+  * Within 1 business day
+
+
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+  * Send information, respond to inquiries, and/or other requests or questions
+
+
+
+**To be in accordance with CANSPAM, we agree to the following:**
+
+  * Not use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
+
+**  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+support@cet.com and we will promptly remove you from  **ALL**  correspondence.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+cet.com
+
+422 W Riverside Ave. Ste 516
+
+Spokane, Washington 99201
+
+United States
+
+support@cet.com
+
+888-660-9541  
+Last Edited on 2017-03-31
