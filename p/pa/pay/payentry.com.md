@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payentry.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619061302id_/http%3A//info.payentry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payentry.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221075627id_/http%3A//info.payentry.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Payentry
 
@@ -83,10 +83,10 @@ If you have any questions or comments about our Privacy Policy, please contact u
 
 Payentry or MPAY, Inc.  
 Attn. Customer Care – Privacy Policy  
-2965 Colonnade Drive, Suite 315  
-Roanoke, VA  24018
+9920 Kincey Ave Suite 110  
+Huntersville, NC 28078
 
-Phone:  (781) 810-9000  
-Email:  [publicrelations@Payentry or MPAY.com](mailto:publicrelations@mpay.com) (Not for technical support)
+Phone: (888) 632-2940  
+Email: [publicrelations@mpay.com](mailto:publicrelations@mpay.com) (Not for technical support)
 
 **For login assistance or technical support, please contact your employer or payroll administrator** **.**
