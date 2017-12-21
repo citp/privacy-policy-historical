@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the addtext.com privacy policy that was archived on 2017-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170617053346id_/http%3A//addtext.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the addtext.com privacy policy that was archived on 2017-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171221074954id_/http%3A//addtext.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="html" class="has-js" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns/fb#" xml:lang="en" lang="en"><head>
 
@@ -38,8 +38,8 @@
 	<meta name="description" content="Easy-to-use tool for adding text and captions to your photos. Create memes, posters, photo captions and much more!">
 	<meta name="keywords" content="photo text, photo word, captioning, caption this, captions for photos, add text to photo, meme generator">
 
-	<link rel="stylesheet" href="http://images.addtext.com/css/desktop-742.min.css" media="all">
-	<!--[if (lt IE 9)&(!IEMobile 7)]><link rel="stylesheet" href="http://images.addtext.com/css/desktop-oldIE-742.min.css" media="all" /><![endif]-->
+	<link rel="stylesheet" href="http://images.addtext.com/css/desktop-763.min.css" media="all">
+	<!--[if (lt IE 9)&(!IEMobile 7)]><link rel="stylesheet" href="http://images.addtext.com/css/desktop-oldIE-763.min.css" media="all" /><![endif]-->
 	
 	
 	<link rel="shortcut icon" href="http://images.addtext.com/images/favicon.ico">
@@ -241,7 +241,7 @@ var isPremiumUser = false;
 
 
 
-<script src="http://images.addtext.com/js/addtext-742.min.js"></script>
+<script src="http://images.addtext.com/js/addtext-763.min.js"></script>
 
 <script>
 
@@ -276,9 +276,9 @@ $(document).ready(function(){
 		//cleanup url params - after statbot has got them.
 		statbot('ready',function() {
 			var rmParams = "(bgFail|_loc|_action)"; //explicitly list what params to remove
-			var currUrl = location.host + location.pathname;
-			if (!/^(f|ht)tps?:\/\//i.test(currUrl))
-				currUrl = "http://" + currUrl;
+			var currUrl = location.protocol + "//" + location.host + location.pathname;
+			//if (!/^(f|ht)tps?:\/\//i.test(currUrl))
+				//currUrl = "//" + currUrl;
 		
 			var params = location.search;
 			var re = new RegExp("([&]*"+rmParams+")=[^&]+", "g");
