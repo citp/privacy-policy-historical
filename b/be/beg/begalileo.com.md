@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the begalileo.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619085619id_/http%3A//www.begalileo.com/user/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the begalileo.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221054203id_/http%3A//www.begalileo.com/user/privacy_policy) for the most accurate reproduction.*
 
 # beGalileo | Privacy policy
 
