@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liondesk.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619182937id_/http%3A//www.liondesk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liondesk.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221042352id_/http%3A//www.liondesk.com/privacy.html) for the most accurate reproduction.*
 
 # LionDesk: Privacy Policy Real Estate Agent CRM and Sales & Marketing Tools
 
@@ -148,6 +148,6 @@ Under California Law, California residents have the right to request in writing 
 
 ##### XVI. Anti-Spam Texting Policy
 
-View our policy [here](https://web.archive.org/web/20170619182937id_/http%3A//www.liondesk.com/anti-spam-policy-texting.html).
+View our policy [here](https://web.archive.org/web/20171221042352id_/http%3A//www.liondesk.com/anti-spam-policy-texting.html).
 
 [Contact@LionDesk.com](mailto:Contact@LionDesk.com)
