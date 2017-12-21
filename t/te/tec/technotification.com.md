@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technotification.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525231008id_/http%3A//www.technotification.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technotification.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221080656id_/https%3A//www.technotification.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policies - Technotification
+# Privacy Policies
 
 technotification.com respects the privacy concerns of the users of its Internet Sites (“Sites”), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.
 
@@ -36,7 +36,7 @@ Google adsense and Media.net as a third party vendor, uses cookies to serve ads 
 If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can email us  
 Information provided by you via general email inquiries to technotification.com such as your email address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties.
 
-contact us By [clicking here](http://www.technotification.com/privacy "Privacy")
+contact us By [clicking here](https://www.technotification.com/privacy "Privacy")
 
 ## Your Acceptance of These Terms
 
