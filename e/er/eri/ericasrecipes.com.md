@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ericasrecipes.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628115239id_/http%3A//ericasrecipes.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericasrecipes.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221064647id_/http%3A//ericasrecipes.com/articles/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,6 +7,9 @@
 This privacy policy sets out how Erica’s Recipes uses and protects any information that you give while using www.ericasrecipes.com.
 
 Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
+
+  
+
 
 Erica’s Recipes may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 06 February 2017.
 
