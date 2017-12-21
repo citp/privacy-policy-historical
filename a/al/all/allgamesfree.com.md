@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the allgamesfree.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620123631id_/http%3A//www.allgamesfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgamesfree.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221113126id_/http%3A//www.allgamesfree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All Games Free
+
+[](http://www.allgamesfree.com/ "All Games Free")
+
+  * LOGIN
+  * SIGNUP
+
+
+
+  * [Facebook](http://www.facebook.com/AllGamesFreeOnline)
+  * [Twitter](http://twitter.com/AllGamesFree)
+  * [Google+](https://plus.google.com/+AllGamesFree)
+
+
+
+MOST **POPULAR**
+
+[Home](http://www.allgamesfree.com/ "Home") / **Privacy Policy**
 
 The following is the official privacy policy for www.allgamesfree.com , a website centered around kid’s games with child-friendly content, suitable for children and teens. This Privacy Policy covers issues related to personal information collected by the site and information regarding tracking and information collection from our affiliates, advertisers and partners.
 
@@ -15,3 +32,5 @@ Copyright – we have games in many different categories. The copyright of these
 If you think that someone has stolen your gaming creation please use contact us immediately notifying us of the potential copyright abuse and we will take immediate action to delete the game and report it to the proper authorities.
 
 By playing on AllGamesFree.com and using this website, you are thereby consenting with this Privacy Policy and you agree that you could be banned without any warnings if you are reported to missuse any of our privacy policy rules and terms. If you do not agree with our privacy policy we would suggest that you stop using our website. You also agree that we may at any time change the contents of this Privacy Policy without any announcement. Thank you again for visiting with us.
+
+Copyright © 2016 All Games Free - All Rights Reserved [spielaffe](http://www.spielaffespielen.com/ "spielaffe") [spielaffe](http://www.spielaffen.blogspot.de/ "spielaffe") [spiele](http://www.facebookspiele.net/ "spiele") [spiele](http://www.spielex.net/ "spiele")
