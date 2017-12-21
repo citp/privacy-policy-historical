@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134735id_/http%3A//www.apartmentguide.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221014335id_/https%3A//www.apartmentguide.com/legal/privacy) for the most accurate reproduction.*
 
 # Apartments for Rent and Rentals - Free Apartment Finder | ApartmentGuide.com
+
+## Legal Notice
+
+(June 8, 2017)
+
+**What's New with the ApartmentGuide.com Privacy Policy?**
+
+RentPath, LLC has revised the ApartmentGuide.com Privacy Policy effective June 8, 2017 (the "Effective Date") to add provisions relating to our Use and Disclosure of certain information you provide to us. The revised terms are found in Sections 3 and 4.
+
+PLEASE NOTE THAT THESE MODIFICATIONS ARE EFFECTIVE IMMEDIATELY FOR NEW USERS OF THE WEBSITE OR APPLICATION ON OR AFTER THE EFFECTIVE DATE, AND ON June 18, 2017 FOR ANY USERS OF THE WEBSITE PRIOR TO THE EFFECTIVE DATE.
+
+WE URGE YOU TO CAREFULLY REVIEW THE ENTIRE PRIVACY POLICY. BY USING OR CONTINUING TO USE THE WEBSITE OR APPLICATION, YOU CONSENT TO ALL PRIVACY POLICY MODIFICATIONS.
 
 [Click here to learn more about how we handle do-not-track signals and user tracking.](https://web.archive.org/legal/privacy/do-not-track/)
 
@@ -39,6 +51,7 @@ Our primary purpose in collecting personal information is to provide you with a 
   * customize your experience and otherwise measure and improve Apartment Guide's services. 
   * send you relevant residential real estate related listings via email, phone, text messaging or push notification on your phone (provided you have not opted out of such communications). 
   * deliver targeted marketing, service updates, and promotional offers. (If we use your personal information to market to you, you will be able to opt-out of such communications; see below under Section 5. Communications and Communications Tools and Section 6. Cookies.) 
+  * connect you with third parties that provide products or services related to moving or relocating. 
   * make payments to third parties through the Website or the App, should you choose to do so. 
   * request your review of a property. 
   * compare information for accuracy and verify it with third parties. 
@@ -53,10 +66,10 @@ Our primary purpose in collecting personal information is to provide you with a 
 
 ###  4\. Disclosure. 
 
-We reserve the right to use and disclose in any manner, any non-personal, non-identifiable information including in the form of aggregated data that we collect by use of cookies and traffic data, or that you share with us through the guest card or Renter Card. However, we will not sell or rent your personal information to any third parties. We may share some or all of your personal information with: 
+We reserve the right to use and disclose in any manner, any non-personal, non-identifiable information including in the form of aggregated data that we collect by use of cookies and traffic data, or that you share with us through the guest card or Renter Card. We may provide some or all of your personal information, including email addresses, to: 
 
   * Law enforcement offices, third-party rights owners or others in the good faith belief that such disclosure is reasonably necessary to enforce our Terms of Service or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public. 
-  * Other third parties whose services you agree to use (e.g., online rent payment services), with regard to whom you have expressed interest or initiated communication through Property Contact Forms (See Section 5 Communications and Communications Tools), and with whom you have authorized us to share your personal information. (The information we disclose in this way will be subject to those third parties' privacy policies.) 
+  * Other third parties who offer products or services that may be relevant to you, whose services you agree to use (e.g., online rent payment services), with regard to whom you have expressed interest or initiated communication through Property Contact Forms (See Section 5 Communications and Communications Tools), or with whom you have authorized us to share your personal information. (The information we disclose in this way will be subject to those third parties' privacy policies.) 
   * Service providers under contract who help with our business operations (such as fraud investigations, bill collection, invoicing, telecommunication and call monitoring services, rewards programs, co-branded credit cards, etc.). 
   * Another business entity should we plan to merge with, or sell substantially all our assets to that business entity. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.) 
 
@@ -122,4 +135,4 @@ Atlanta, GA 30326
 
 or via email to [privacy@rentpath.com](mailto:privacy@rentpath.com). 
 
-Last updated May 14, 2015 
+Last updated June 8, 2017 
