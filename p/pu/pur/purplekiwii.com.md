@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the purplekiwii.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618000715id_/http%3A//purplekiwii.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purplekiwii.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221214650id_/http%3A//purplekiwii.com/privacy.php) for the most accurate reproduction.*
 
 # PurpleKiwii
 
 ## 
 
-[](https://web.archive.org/web/20170618000715id_/http%3A//purplekiwii.com/index.php)
+[](https://web.archive.org/web/20171221214650id_/http%3A//purplekiwii.com/index.php)
 
  Privacy Policy 
 
