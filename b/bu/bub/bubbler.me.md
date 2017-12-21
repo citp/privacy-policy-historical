@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bubbler.me privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614052246id_/http%3A//bubbler.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bubbler.me privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221201642id_/http%3A//bubbler.me/privacy-policy) for the most accurate reproduction.*
 
 # Bubbler.me - Privacy Policy
 
