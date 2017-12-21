@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sumopaint.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521161121id_/https%3A//www.sumopaint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumopaint.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221165755id_/http%3A//sumopaint.com/privacy) for the most accurate reproduction.*
 
 # sumopaint.com
+
+[](https://www.songhi.com/studio/)   [](https://www.songhi.com/greetings/)
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
