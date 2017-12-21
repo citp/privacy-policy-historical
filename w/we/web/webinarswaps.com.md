@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webinarswaps.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616193331id_/http%3A//www.webinarswaps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webinarswaps.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221211536id_/http%3A//www.webinarswaps.com/privacy) for the most accurate reproduction.*
 
 # 
 
