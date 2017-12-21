@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624085457id_/https%3A//auspost.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221012159id_/https%3A//auspost.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Australia Post
 
@@ -77,7 +77,7 @@ where we receive personal information from a biller with whom you deal and where
   * **The Online Shop** \- When you register for an account with the Australia Post Online Shop, we collect basic contact details (name, address, phone, email) to simplify the checkout process for you and to allow you to sign-up to receiving related promotional offers.
   * **Mail Redirection Service** \- When you ask us to redirect your mail, we collect your personal information including name, old and new addresses, email address and phone number. Phone is captured to allow us to contact you in the event of issues with processing your request. Email address is captured to allow us to send you a notification when the service is ending and to allow you to sign-up for promotional offers if you request them. We also use this information to notify third parties of your address change if you sign up for this service. The remaining details are captured to allow us to redirect your mail. 
 
-For further privacy information surrounding how the Mail Redirection Services protects and handles your personal information you may refer to [http://auspost.com.au/parcels-mail/privacy-information.html](https://auspost.com.au/parcels-mail/manage-your-mail/redirect-hold-mail/privacy-information).
+For further privacy information surrounding how the Mail Redirection Services protects and handles your personal information you may refer to [http://auspost.com.au/parcels-mail/privacy-information.html](https://auspost.com.au/receiving/manage-your-mail/redirect-hold-mail/privacy-information).
 
   * **Money Transfers** \- When you visit Australia Post to transfer money, we capture personal details from you to enable the transfer of funds from you to the receiver.
   * **Securepay** \- We process secure online payments for our merchant customers through our Gateway and Online Payments offerings, in particular:
