@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the optionsbee.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616192822id_/http%3A//www.optionsbee.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionsbee.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221181437id_/http%3A//www.optionsbee.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines [OptionsBee](https://web.archive.org/web/20170616192822id_/http%3A//www.optionsbee.com/index.html) privacy policy.   
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines [OptionsBee](https://web.archive.org/web/20171221181437id_/http%3A//www.optionsbee.com/index.html) privacy policy.   
 
 
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
@@ -52,6 +52,6 @@ This website will not:
 
 Share any personal information with third parties.
 
-If you have any questions regarding our Cookie Usage policy then please [email us](https://web.archive.org/web/20170616192822id_/http%3A//www.optionsbee.com/contact-us.php).
+If you have any questions regarding our Cookie Usage policy then please [email us](https://web.archive.org/web/20171221181437id_/http%3A//www.optionsbee.com/contact-us.php).
 
 **_Back to Top_**
