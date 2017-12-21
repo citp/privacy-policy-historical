@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelement.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620141722id_/http%3A//adelement.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelement.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221135853id_/http%3A//www.adelement.com/company/privacy) for the most accurate reproduction.*
 
 # Behavioral Targeting Privacy Policy | AdElement
 
