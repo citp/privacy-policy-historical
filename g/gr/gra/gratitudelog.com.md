@@ -1,51 +1,139 @@
-> *The following text is extracted and transformed from the gratitudelog.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331053150id_/http%3A//www.gratitudelog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gratitudelog.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221232023id_/http%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GratitudeLog
+# Privacy Policy
 
-This Privacy Policy is effective as of August 20, 2009.
+.
 
-GratitudeLog provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at [www.GratitudeLog.com](http://www.gratitudelog.com/) (“Site”)
+## The Skinny on Our Privacy Policy
 
-This Privacy Policy may be updated at anytime for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
+For those who want the short and relevant answer, we will always, ALWAYS, respect your privacy, your email address, and the information you give us. We’re not going to sell it, trade it, or abuse any information you submit to us. But I’m sure you’ve got some questions. Here’s our answers to what may be running through your mind. 
 
-By using our Site you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. “Processing” means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the U.S. your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By visiting our Site and providing information to us, you consent to such transfer to, and processing in, the US.
+## How’s my information going to be used?
 
-If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at mike at GratitudeLog dot com.
+When you sign up on our Products or Services, you’ll be receiving relevant information about Mindvalley, invites to our online events, as well as information about programs or products that pertain to meditation, spirituality, and personal growth.
 
-## Information Collection and Use
+## How do I to stop receiving emails from you in the future?
 
-Our primary goals in collecting personally identifiable information are to provide you with the product and services made available through the Site, including, but not limited, to the Service, to communicate with you, and to manage your registered user account, if you have one.
+If you wish to stop receiving emails from us, you may unsubscribe at any time using the link provided at the bottom of all our emails. But if you’re still receiving emails from us, don’t worry, our Customer Happiness Manager will be there for you!
 
-Information Collected Upon Registration. If you desire to have access to certain restricted sections of the Site, you will be required to become a registered user, and to submit certain personally identifiable information to GratitudeLog. This happens in a number of instances, such as when you sign up for the Service, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your IP address, full user name, password, email address, and other information that you decide to provide us with, or that you decide to include in your public profile.
+All you have to do is drop our Customer Happiness Manager an email at [support@mindvalley.com](mailto:support@mindvalley.com) or [send one from our ‘Contact’ page here](http://www.mindvalley.com/contact). 
 
-Additional Information Your full user name and your photo, if you decide to upload one, are displayed to people in the GratitudeLog network to enable you to connect with people on GratitudeLog, as specified in your privacy settings. Once a member, you may provide additional information in the profile section, including but not limited to your bio, your location, as well as your personal web site, if you have one. Providing additional information beyond what is required at registration is entirely optional, but enables you to better identify yourself and find new friends on GratitudeLog.com.
+## Who’s going to get my information?
 
-Use of Contact Information In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our Service. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications.
+Your information’s safe with us. So don’t worry about getting spam emails about Viagra or debt consolidation. We’ll never give out your email address or any of the information you submit on this site to anyone else. 
 
-Log Data When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the Site’s technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service
+## What if I email you guys?
 
-## Cookies
+Your emails are confidential, we won’t share your email, data, or email address. Cool? It’s just between you and us. 
 
-Like many websites, we also use “cookie” technology to collect additional website usage data and to improve the Site and our service. A cookie is a small data file that we transfer to your computer’s hard disk. We do not use cookies to collect personally identifiable information. GratitudeLog may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our services. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
+## Do you guys use cookies?
 
-## Information Sharing and Disclosure
+Yup, but our cookies don’t contain any personal information. We use them to help you make using our website easier, such as:
 
-Service Providers We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
+**1.** To remember your country and language preferences 
 
-Compliance with Laws and Law Enforcement GratitudeLog cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of GratitudeLog or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+**2.** To deliver information that match your interests 
 
-Business Transfers GratitudeLog may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+**3.** To help us understand our audience and traffic patterns 
 
-## Changing or Deleting Information
+**4.** To let you automatically log into programs and parts of our site that require membership 
 
-You can edit, update, and delete your personal account at any time on GratitudeLog.com.
+**5.** To manage and present site info displayed on our website that will be specific to you 
 
-## Security
+We also use Web Beacons to collect non-personal data on how you use our site, such as how long did you visit our page, what web browser you’re using, what’s your operating system, and who’s your Internet service provider. In addition we also use Google Analytics data and the DoubleClick cookie to serve ads based on a user’s prior visits to our website. This data is collected from thousands of site visits and analyzed as a whole. This helps us build a better website to match our visitors’ needs. 
 
-GratitudeLog is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.
+## What if I post in one of your forums or blog posts?
 
-We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+Occasionally we hold public discussions through forums within our site. This may be on blog posts we put up or in our membership area. Please be aware that this is public space. Would you shout out your credit card information in public? Probably not. Use this same discretion when you post in our forums and when commenting. 
 
-## Links to Other Websites
+## How tech savvy are you guys when it comes to data security?
 
-Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+We’re real good. We have a ton (and wide variety, may I mention) of administrative, managerial, and technical security measures put in place to protect your personal information. We’ve never had a breach of security and always strive for excellence in maintaining your privacy. 
+
+Got more questions? You can get a hold of our customer happiness manager at [support@mindvalley.com](mailto:support@mindvalley.com) or [over here for more info](http://www.mindvalley.com/contact). 
+
+## Your privacy is very important to us
+
+**We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.**
+
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”), including those who access some of our Services but do not have accounts (“Visitors”) and those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”). This Policy also explains what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
+
+## Introduction
+
+Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process (or at any other time) is used primarily to provide a customized experience as you use our Products and Services. Your information will never be licensed or sold to any third party. However, we may make limited disclosure of personal information under the specific circumstances described below. 
+
+## Affiliate links
+
+Occasionally you may have clicked on one of Mindvalley’s affiliate links and signed up or bought something via that link. In this case, the person or organization in charge of the affiliate link will have the information that you have submitted. This may be your email address, name, address, or whatever else they asked you. If you have signed up for bought something from Mindvalley via an affiliate link, please check the privacy policy on their site. 
+
+## Online shopping
+
+If you order services or products directly from our Company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+
+If you complete an order for some other company(ies) that may be linked to our Site, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. Our company has no control over the third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so. We recommend that you familiarize yourself with the Privacy and Terms of Use policies of any other company(ies) whose web sites you may access from our site. 
+
+## Responses to email inquiries
+
+When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party. 
+
+Thanks for reading our privacy policy. 
+
+## What if I email you guys?
+
+Your emails are confidential, we won’t share your email, data, or email address. Cool? It’s just between you and us. 
+
+## Automatic collection of information
+
+Cookies: Our Company may use “Cookies” to collect information. Cookies are small pieces of information stored by your browser on your computer’s hard drive, at a web site’s request. Our Company Cookies do not contain any personal information, but are used primarily as follows:
+
+**1.** To keep track of temporary information. For example, Cookies allow us to keep track of the pictures you upload and download 
+
+**2.** To register you in special programs. Cookies allow us to remember you when you login to the places on our site that require Membership 
+
+**3.** To remember your country and language preferences 
+
+**4.** To help us understand the size of our audience and traffic patterns 
+
+**5.** To collect and record information about what you viewed on our Web site and what you viewed in our e-mail 
+
+**6.** To manage and present site information and the pictures displayed on your computer 
+
+**7.** To deliver information specific to your interests 
+
+Web Beacons: We may also place small “tracker gifs” or “beacons” on many of the pages on our website, in online advertising with third parties, and in our email. We use these beacons, in connection with Cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, NetScape), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor’s Internet service provider (e.g., AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites. 
+
+**Disabling Cookies and Beacons:** If you are uncomfortable with the collection of such information through the use of Cookies and Beacons, we recommend disabling these features through your browser preferences, though please understand this will limit the performance and functionality of our Company’s Web site. Your browser documentation should provide specific procedures for disabling cookie and beacon support. 
+
+You may also opt out of the DoubleClick cookie by visiting the Google advertising opt-out page: <http://www.google.com/policies/privacy/ads/>
+
+Or you may opt out of Google Analytics by visiting the Google Analytics Opt-out page: <http://tools.google.com/dlpage/gaoptout>
+
+## Public forums
+
+Some parts of our site may enable you to participate in public services such as discussion boards, chats, and live events. Please use discretion when posting personal information about yourself when using these services. Be aware that when you disclose personal information at these sites, such as your name, member name, email address, etc., the information may be collected and used by others to send unsolicited email. The services are open to the public, and what you post there can be seen by anyone and is not protected. We try to moderate the comments as best we can but we can’t guarantee total control of the comments that you may receive while you participate in these services. Sometimes, you may find other people’s comments to be offensive, harmful or inaccurate.
+
+But none of these sentences are offensive at all: 
+
+**1.** You’re wonderful! 
+
+**2.** My goodness, your butt looks amazing in those jeans. 
+
+**3.** How can someone as beautiful as you be allowed out on the streets? 
+
+**4.** Thanks for gracing our website with your presence 
+
+## Our company’s commitment to data security
+
+We implement a variety of administrative, managerial, and technical security measures to help protect your personal information. Our Company has various internal control standards which relate specifically to the handling of personal information. These include certain controls to help safeguard the information we collect online. Our employees are trained to understand and comply with these controls and we communicate our Privacy Notice, practices and guidelines to our employees. However, while we strive to protect your personal information, you must also take steps to protect your information. We urge you to take every precaution to protect your personal information while you are on the Internet.
+
+Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
+
+## Revisions to this policy
+
+Our Company reserves the right to revise, amend, or modify this policy, our [Terms Of Use & Service agreement](http://www.mindvalley.com/terms-of-use), and our other policies and agreements at any time and in any manner, by updating this posting.
+
+## Where to direct questions about our privacy policy
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the [contact information](http://www.mindvalley.com/contact) provided on this website.
+
+6075 South Eastern Ave, Suite 1, Las Vegas, NV 89119
