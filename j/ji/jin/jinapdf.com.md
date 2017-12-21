@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jinapdf.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614222558id_/http%3A//www.jinapdf.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinapdf.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221152639id_/http%3A//jinapdf.com/privacy.htm) for the most accurate reproduction.*
 
 # Jinapdf.com Privacy Policy
 
