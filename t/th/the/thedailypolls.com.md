@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailypolls.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621234507id_/http%3A//thedailypolls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailypolls.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221114320id_/http%3A//thedailypolls.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies | The Daily Polls
 
@@ -47,4 +47,4 @@ No personally identifiable information is collected by these services (i.e., no 
 
 This privacy policy is subject to change without notice and was last updated on December 24, 2015.
 
-Contact: feedback@thedailypolls.com
+Contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
