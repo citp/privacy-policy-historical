@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3ye.eu privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629135658id_/http%3A//www.mp3ye.eu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3ye.eu privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221171732id_/http%3A//www.mp3ye.eu/privacy.php) for the most accurate reproduction.*
 
 # Mp3ye.eu - Privacy Policy
 
