@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110510id_/http%3A//www.forextips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221184939id_/http%3A//www.forextips.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ForexTips
+# Privacy Policy | ForexTips
 
 No data you provide ForexTips.com as part of your basic registration or personalization will be sold to outside organizations. ForexTips.com, however, reserves the right to disclose personal identifying information when required or permitted by law. The information is stored on secure servers. You may occasionally receive from us at your designated email address notifications of new ForexTips.com features or offers. You may opt out of receiving those notifications by notifying us of personal preferences. Please remember to change your personal preferences for each email address that you may have registered with us.
 
@@ -27,7 +27,7 @@ We care about children and understand that they have special privacy needs. Ther
 
   1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.
   2. We will NOT give the child access to unmonitored chat rooms, message boards, email accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent
-  3. When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to:
+  3. When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to: 
     1. Respond directly to the child’s request on a one-time basis and not use that information to re-contact the child for other purposes.
     2. Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification.
     3. Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity.
@@ -43,7 +43,6 @@ We care about children and understand that they have special privacy needs. Ther
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us.
 
-  1. You can send email to MTI at ts@markettraders.com.
-  2. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact MTI Toll Free at 1-800-866-7431 .
+  1. You can send email to info@forextips.com.
 
 
