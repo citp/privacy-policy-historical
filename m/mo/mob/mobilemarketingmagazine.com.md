@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilemarketingmagazine.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616043408id_/http%3A//mobilemarketingmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilemarketingmagazine.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221092737id_/https%3A//www.mobilemarketingmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mobile Marketing Magazine
 
@@ -39,10 +39,10 @@ Information is collected from you when you register with us, or when you contrib
 ** Parts of [mobilemarketingmagazine.com](http://themobilemarketingmagazine.com/) and our billing process (which is transacted via SagePay) are automatic and we may process your personal data as part of mobilemarketingmagazine.com and the billing process.
 
 **8\. Accessing and updating your personal information  
-** You may request details of personal information which we hold about you under the Data Protection Act 1998 and request us to change/update this information. A small administration fee will be payable. If you would like a copy of the information held on you please write to Marketing Department, Dot Media Ltd, 57-61 Charterhouse Street, Farringdon, London, EC1M 6HA or email [trish@mobilemarketingmagazine.com.](mailto:trish@mobilemarketingmagazine.com.)
+** You may request details of personal information which we hold about you under the Data Protection Act 1998 and request us to change/update this information. A small administration fee will be payable. If you would like a copy of the information held on you please write to Marketing Department, Dot Media Ltd, 57-61 Charterhouse Street, Farringdon, London, EC1M 6HA or email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b7c3c5dec4dff7dad8d5dedbd2dad6c5dcd2c3ded9d0dad6d0d6cdded9d299d4d8da99)
 
 **9\. Questions?  
-** If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please write to Marketing Department, Dot Media Ltd, 57-61 Charterhouse Street, Farringdon, London, EC1M 6HA or email [trish@mobilemarketingmagazine.com.](mailto:trish@mobilemarketingmagazine.com.) We will endeavour to respond to you promptly.
+** If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please write to Marketing Department, Dot Media Ltd, 57-61 Charterhouse Street, Farringdon, London, EC1M 6HA or email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4b3f392238230b26242922272e262a39202e3f22252c262a2c2a3122252e6528242665) We will endeavour to respond to you promptly.
 
 **Cookies and how they benefit you  
 ** Our website uses cookies, as many other websites do, to help provide you with the best experience we can.
@@ -187,4 +187,4 @@ If you submit your details via Mobile Marketing Magazine Website, we may use thi
 
 **Contact**
 
-If you have any questions in relation to the above please contact Marketing Department, Dot Media Ltd, 57-61 Charterhouse Street, Farringdon, London, EC1M 6HA or email trish@mobilemarketingmagazine.com
+If you have any questions in relation to the above please contact Marketing Department, Dot Media Ltd, 57-61 Charterhouse Street, Farringdon, London, EC1M 6HA or email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
