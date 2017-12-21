@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizzstar.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610042024id_/http%3A//quizzstar.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizzstar.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221171435id_/http%3A//quizzstar.com/pages/privacy) for the most accurate reproduction.*
 
 # QuizzStar
 
@@ -379,8 +379,8 @@ The same applies if the current Privacy Policy is found to contain any gaps. Upo
 
 26.1. 
 
-Data processor is Panda Cat. 
+Data processor is Quizz Star. 
 
 26.2. 
 
-Contact data: testgenius.team@outlook.com 
+Contact data: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
