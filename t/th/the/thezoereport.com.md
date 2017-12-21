@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thezoereport.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629084527id_/http%3A//thezoereport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezoereport.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221103939id_/http%3A//thezoereport.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Zoe Report
 
 ### Introduction
 
-Zoe Media Group strongly respects each individual’s right to personal privacy and we will only collect and use information through [TheZoeReport.com](https://web.archive.org/web/20170629084527id_/http%3A//thezoereport.com/thezoereport.com) (the “Web Site” or “TheZoeReport.com”) or our on-line newsletters (“The Zoe Report and The Zoe Report Beauty”) for the purposes set forth in this policy. 
+Zoe Media Group strongly respects each individual’s right to personal privacy and we will only collect and use information through [TheZoeReport.com](https://web.archive.org/web/20171221103939id_/http%3A//thezoereport.com/thezoereport.com) (the “Web Site” or “TheZoeReport.com”) or our on-line newsletters (“The Zoe Report and The Zoe Report Beauty”) for the purposes set forth in this policy. 
 
 Note: This statement applies solely to information collected at or through the Web Site. However, we will frequently link to other glamorous online destinations, so we advise you carefully review their respective privacy policies. Please be aware that Zoe Media Group is not responsible for the contents and the privacy practices of such other sites.
 
@@ -14,7 +14,7 @@ In compliance with our mission statement to glamorize your internet and e-mail e
 
 When you visit our site, we also collect anonymous information such as your IP address or domain name to analyze site traffic, but this information is not personally identifiable. We will use this information to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
-If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a web site that does not seem to be affiliated with the Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at [ info@rachelzoe.com ](mailto:info@rachelzoe.com)
+If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a web site that does not seem to be affiliated with the Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at [ [email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#e58c8b838aa59784868d80899f8a80cb868a88)
 
 ###  Third Party Account Information 
 
@@ -56,7 +56,7 @@ All of the information collected by Zoe Media Group is locked away safely with o
 
 ### California Marketing
 
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to:[ info@rachelzoe.com](mailto:info@rachelzoe.com). 
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to:[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#543d3a323b142635373c31382e3b317a373b39). 
 
 ### Do Not Track
 
@@ -64,10 +64,10 @@ We currently do not participate in any “Do Not Track” frameworks that would 
 
 ### Services Not Directed at Children
 
-The Website services are not directed to children under 13. We do not knowingly collect or solicit personally identifiable information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Website services or send any information about yourself to us. If a parent or guardian becomes aware of his or her child has provided us with personal information without their consent, please contact us at:[ info@rachelzoe.com ](mailto:info@rachelzoe.com). 
+The Website services are not directed to children under 13. We do not knowingly collect or solicit personally identifiable information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Website services or send any information about yourself to us. If a parent or guardian becomes aware of his or her child has provided us with personal information without their consent, please contact us at:[ [email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#fd94939b92bd8f9c9e959891879298d39e9290). 
 
 Zoe Media Group may make changes to this policy in the future. We will reflect those changes in this statement, so please check back periodically.
 
 ### Contact Us
 
-If you have questions about this policy, or about the site, please contact us at: [info@rachelzoe.com](mailto:info@rachelzoe.com).
+If you have questions about this policy, or about the site, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c5acaba3aa85b7a4a6ada0a9bfaaa0eba6aaa8).
