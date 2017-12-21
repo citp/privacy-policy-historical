@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619033840id_/http%3A//ardhindie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221022030id_/http%3A//ardhindie.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Read Privacy Policy - Book Download Free
+# Privacy Policy | eBook PDF
 
-  * [ April 5, 2017 ](http://ardhindie.com/privacy-policy/)
-  * [ indiecorp ](http://ardhindie.com/author/indiecorp/)
+  * [ June 7, 2017 ](http://ardhindie.com/index.php/privacy-policy/)
+  * [ pdfpal ](http://ardhindie.com/index.php/author/indiecorp/)
 
 
 
-Privacy Policy
+**  
+Privacy Policy**
 
 We are committed to protecting your privacy. We will only use the information we collect about you lawfully (in accordance with the Data Protection Act 1998). Please read on if you wish to learn more about our privacy policy.  
 What Information do we collect?
