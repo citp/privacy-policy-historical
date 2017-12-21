@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadehall.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621083419id_/http%3A//www.arcadehall.com/pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadehall.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221104549id_/http%3A//www.arcadehall.com/pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arcadehall
 
