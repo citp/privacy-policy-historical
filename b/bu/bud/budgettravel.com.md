@@ -1,85 +1,158 @@
-> *The following text is extracted and transformed from the budgettravel.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311152920id_/http%3A//www.budgettravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettravel.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221024844id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Travel Deals, Travel Tips, Vacation Ideas | Budget Travel
+# Privacy Policy and Legal Information - Lonely Planet
 
-_Our privacy policy has changed as of March 9, 2010._
+## Lonely Planet Privacy policy
 
-Welcome to BudgetTravel.com (the "Service"), a website provided by Budget Travel LLC ("Budget Travel," "we," or "us"). This privacy policy describes how we treat the information we collect through the Service. If you have any questions about this policy, please click here, and indicate on our feedback form that your question concerns privacy.
+_Last updated: 9 September 2015_
 
-**Information we collect**
+At Lonely Planet, we understand that privacy is really important. So we have prepared this privacy policy to fill you in on who we are, how we collect and what we do with your personal information, and how you can find out more about our privacy philosophy and the personal information that we collect about you.
 
-_Personal Information._ We receive and store any information that you choose to enter through the Service. This includes personal information, such as your name, e-mail address, telephone number, address, and other information about you that you may submit through the Service, including through any material that you post to your account page or other content that you provide on the Service. We may require that you provide some personal information in order to register and participate in certain features offered through the Service, including to post content and sign up for newsletters and alerts. In some cases, we may combine this information with personal information we have collected about you from other sources, such as affiliated companies and through our subscription process.
-
-_Automatic Information._ We may automatically collect some information about your computer when you visit the Service. For example, we may collect your IP address, Web browser software (such as Internet Explorer), and referring web site. We also may collect information about your activity on the Service, such as the activities in which you participate. We may combine this automatically-gathered information with other information, including personal information we have collected about you.
-
-_Cookies._ When you visit the Service, we may assign your computer a "cookie" (a small, unique identifier text file) to remember who you are. We also may include other information in our cookie files; for example, if you arrived at the Service via a link from third-party site, we may include the URL of the linking page. You may opt out of the cookies delivered by Budget Travel by changing the setting on your browser. Please be aware that this will disable all cookies delivered to your browser, not just the ones delivered by Budget Travel. We may combine the information we collect through cookies with other information, including personal information we have collected about you.
-
-**How we use this information**
-
-We may use the information we collect about you in certain ways in connection with our business. These uses include: 
-
-  * Providing you with the products and services you request;
-  * Managing your account, including processing bills, handling subscriptions, and sending renewal notices;
-  * Responding to your questions and comments;
-  * Providing you information about products and services offered by Budget Travel, our affiliates, and selected third parties.
-  * Soliciting information and feedback from you, including through surveys and questionnaires, and for other editorial purposes;
-  * Delivering targeted advertisements to users meeting various demographic criteria (e.g., females over 25 years of age);
-  * Performing business analyses or for other purposes to improve the quality of our business, the Service, and the products and services we offer; and
-  * As otherwise described to you at the point of collection or pursuant to your consent.
+  * Who are we?
+  * What we collect and why
+  * Information about other people
+  * What about 'cookies'?
+  * Security
+  * You tell who?
+  * Complaints, comments or corrections?
 
 
 
-**With whom we share this information**
+Other Lonely Planet privacy policies:
 
-We may share the information we collect about you in limited circumstances, including:
-
-  * With our authorized service providers that perform certain functions or services on our behalf (such as to host the Service, manage databases, or provide certain components of the Service);
-  * To third parties that may sponsor or co-sponsor promotions on the Service, although we will provide upfront notice if those third parties will be permitted to use your personal information for purposes other than in connection with the promotion;
-  * To selected third parties for direct marketing purposes, although you may choose upfront and at no cost that we not share your personal information with these third parties for direct marketing purposes;
-  * To respond to subpoenas, court orders, or other legal process, in response to a request for cooperation from law enforcement or another government agency, or to establish or exercise our legal rights or defend against legal claims;
-  * When we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, or as otherwise required by law;
-  * To enforce our Terms of Use and other agreements, or otherwise protect or defend the rights or property of Budget Travel, its affiliates, or others, or the safety of the public;
-  * Under confidentiality arrangements, for business analyses (e.g., to match user data with third-party data);
-  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale;
-  * In aggregated or another non-personally identifiable form to third parties for various business purposes, including to improve the quality of our business, the Service, and the products and services we offer; and
-  * As otherwise described to you at the point of collection or pursuant to your consent.
+  * Newsletters
+  * Online shop
+  * Mobile Applications
+  * Feedback
+  * Media activities
 
 
 
-**How you can access your information**
+### So who are we?
 
-You can access and update the personal information you have provided on our website through our account management system by [clicking here](https://web.archive.org/mybudgettravel).
+Lonely Planet operates through different companies around the world that are all part of the [Lonely Planet family](https://www.lonelyplanet.com/legal/corporate-entities). Individual Lonely Planet companies sometimes need to share personal information with other companies in the group to let us provide the quality products and standard of service you've come to expect of us. If corporate structure excites you, click [here](https://www.lonelyplanet.com/legal/corporate-entities) to learn more about the Lonely Planet family of companies. 
 
-**How we protect your information**
+Back to top
 
-We have implemented security procedures to help protect the personal information that you provide to us. However, no method of transmitting or storing electronic data is ever completely secure, and we cannot guarantee that such information will never be accessed, used, or released in a manner that is inconsistent with this policy.
+### What do we collect and why do we collect it?
 
-**Children's privacy**
+There are situations in which we ask you to give us information about yourself. This information includes things like your name, address, e-mail address, and phone number. In some situations you may be able to interact with us anonymously or by using a pseudonym. If customers choose to purchase Lonely Planet products or services, we collect their credit card details and other identifying information in order to process orders and provide customer service. The types of purposes for which we collect information about individuals include the following: 
 
-We do not knowingly collect personal information from children under 13. Should we learn that a child under 13 has provided us with personal information, we will delete that information from our database.
+  * obtaining, responding to and managing feedback from travellers 
+  * allowing people to share their experiences with fellow travellers on our bulletin boards and managing communications on our bulletin boards to ensure that posts and messages submitted by users to Thorn Tree comply with our community guidelines and website terms & conditions 
+  * processing purchase orders and providing technical support
+  * contacting travellers with information and updates (like exciting travel news, great offers, promotions, special events, competitions and surveys) from Lonely Planet (but only if they have asked us to). Our information and updates may also include information from our partners and other companies in the Lonely Planet group (click [here](https://www.lonelyplanet.com/legal/corporate-entities) to learn more about the Lonely Planet family of companies).
+  * managing our competitions and contacting the winners
+  * personalising or improving the way Lonely Planet content is presented to you across a range of platforms (see our "[Cookies Policy](https://www.lonelyplanet.com/legal/cookies)" for more information)
+We may also collect information about individuals involved in businesses, and this is mainly for: 
+  * preparing listings and reviews in our publications (our writers may collect personal information in the course of gathering material for inclusion in our products, although you won't always know who they are at the time as we need to get the real story!). 
+  * sending information about Lonely Planet and our products to our media and other industry contacts
+  * distributing our products to distributors and retailers.
 
-**Behavioral advertising and third-party cookies**
 
-We use a third-party advertising company to serve ads when you visit our site. This company may use information (not including your name, address, email address or telephone number) about your visits to our and other websites, in combination with non-personally identifiable information about your purchases and interests from other online and offline sources, in order to provide advertisements about goods and services of interest to you. In addition, we share web site usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements and for market research analysis on our site and other sites. For these purposes, we and our third-party advertising company may note some of the pages you visit on our site through the use of pixel tags (also called clear gifs). In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your computer. If you would like more information about the information collection practices of this third-party advertising company and to learn about and access your choices about not having this information used by this company, [click here](http://www.privacychoices.org/). Please note that opting out through the above procedure will affect not only the Service and other sites operated by Budget Travel or our corporate affiliates, but other sites served by our advertising vendor as well. However, it will not affect the cookies used by Budget Travel.
 
-Often our advertisers contract with a third-party service to host their ads. In this case, an ad-serving vendor contacts the advertisers' hosting service for a particular advertisement, and an independent cookie may be used by the third-party service. We do not have a mechanism to allow visitors to opt out of cookies from vendors with whom we do not have a contractual relationship.
+If you work for us (as an employee or under contract) we keep information about you in the context of that relationship. There are some differences in how we deal with that type of personal information because of the relationship, plus some housekeeping stuff. If you are in this group and want further information on how we deal with information about you, please contact your Human Resources manager or the person who manages your relationship with us. 
 
-**A special word about user submissions**
+Back to top
 
-Please keep in mind that whenever you voluntarily disclose personal information online in public forums, that information can be collected and used by others. For this reason, we encourage all users to refrain from providing or sharing their personal information in article and blog comment threads, discussion forums, message boards, and other areas in which we allow users to submit content to be made available to the public. For information on our requirements for user content, please see our [User Submission Guidelines](https://web.archive.org/user-agreement#guidelines).
+### Information about other people
 
-**External links**
+One of the best things about the Lonely Planet community is that everyone is keen to share their views and experiences with others (if you don't believe us, just check out the thousands of daily posts at the [Thorn Tree](http://thorntree.lonelyplanet.com/)). We welcome your contributions, but please respect the privacy of others and don’t share their information unless you have their permission. 
 
-If any part of the Service links you to other websites, those websites do not operate under this Privacy Policy. We recommend that you examine the privacy statements posted on those other sites to understand their procedures for collecting, using, and disclosing personal information.
+If you want to include information about yourself we'll take it that you understand how our services work and are happy for that information to be shared. If you are _unhappy_ that personal information about you has been included in one of our products or on one of our bulletin boards, please [let us know](mailto:privacy@lonelyplanet.com.au). Where reasonable and possible we will remove that information at the next practical opportunity - where it has been included in one of our publications that may be the next reprint or next edition. 
 
-**Changes to this Privacy Policy**
+Back to top
 
-We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on the Service.
+### What about 'cookies'?
 
-**How you can contact us**
+Please see our [Cookies Policy](https://www.lonelyplanet.com/legal/cookies) for more information about cookies used on [LonelyPlanet.com](https://www.lonelyplanet.com/)
 
-If you have any questions or concerns about this Privacy Policy, you may contact us by completing our feedback form. Please indicate on our feedback form that your question concerns privacy.
+Back to top
 
-This privacy policy is effective as of May 20, 2008.
+### Security
 
-All rights reserved. Copyright © 2013 Budget Travel LLC 
+The security of your personal information is important. Lonely Planet has in place proper security measures to protect your personal information.
+
+Back to top
+
+### You tell who?
+
+We may share personal information amongst companies in the Lonely Planet family. We may also disclose that information to our travel writers and other contractors who help us put together Lonely Planet products and services and, where relevant, to our business partners who assist us in providing these products and services, or to successors in title to our business. This may involve transferring your data from one country to another. By giving us your personal information or interacting with us, you acknowledge and agree to our use of your data on a global basis, but if you have any concerns about this please let us know.
+
+If legal or health and safety issues arise we may also have to make disclosures to relevant organisations to deal with these matters.
+
+Back to top
+
+### Complaints, comments or corrections?
+
+You generally have a right to access the personal information Lonely Planet holds about you (although there are exceptions). For some Lonely Planet services you can access your registration and keep your personal information up to date online. To access, correct, or update your other personal information, or if you have any questions about personal information, please contact us by [email](mailto:privacy@lonelyplanet.com.au) or by writing to us at Locked Bag 1, Footscray, Victoria 3011, Australia.
+
+Back to top
+
+### A world without lawyers... 
+
+…is a nice thought. However, for the time being the information handling activities of the Lonely Planet Group are governed by privacy laws throughout the world. For instance, in Australia that means being guided by the [Australian Privacy Principles](http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles). In Europe the regulations are based on [EC Directive 95/46/EC.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:en:HTML)
+
+Back to top
+
+## Online newsletters
+
+You want to sign up to a newsletter but you're worried it'll open the floodgates of spam. Here's what we will and won't do if you sign up with us.
+
+Lonely Planet collects your email address so we can send you the newsletters you've subscribed to. **By registering for the newsletters, you are also signing up to receive emails from Lonely Planet for all your travel inspiration, tips and exclusive offers. You can unsubscribe at any time by clicking on the "unsubscribe" link in the footer of the emails.** Sleep easy, we will not sell your email address to marketing companies for spamming. But we may need to disclose your email address to contractors who help us provide the newsletter service, and amongst companies in the Lonely Planet family including entities located in a different country to you.
+
+You can manage your subscriptions and update your email address through our newsletters page at any time. If you'd like to find out more or if you have any questions about how we handle personal information generally, please read our full [privacy policy](https://www.lonelyplanet.com/legal/privacy-policy).
+
+Back to top
+
+## Online shop
+
+Shopping online is as convenient as it gets, but handing over all your personal details might give you the shivers. Here's why we need your information and what we do with it. 
+
+When using Lonely Planet's online shop, you may choose to supply Lonely Planet with 'personal information' in order to purchase products online.
+
+We collect this information so that we can fulfill your order and speed your products directly to you. Without this information we would not be able to process your order or contact you if there are any issues. If you've asked to hear more about Lonely Planet we will use your personal information to send you what you've asked for.
+
+Rest assured, we will not sell your contact details to marketing companies for spamming, but we may disclose information about you to business partners who help us provide these services, such as credit card payment processing companies, and other companies in the Lonely Planet family including entities located in a different country to you. If you'd like to find out more, please read our [privacy policy](https://www.lonelyplanet.com/legal/privacy-policy).
+
+Back to top
+
+## Mobile Applications
+
+_Registration:_ When you register for a Lonely Planet application (App) you will be asked to provide certain basic information such as your name, email address and country. We collect this information for the purposes of administering the App and keeping in touch with you. 
+
+_Device data:_ When you use an App we may collect certain information automatically, such as the type of device you are using, the version of the operating system running of the device, the version and build of the App being used, anonymous usage statistics and crash reporting data, and unique identifier details for your device such as the IP address, MAC address, IMEI number, or advertising identifier. Unique identifiers are anonymised and we do not use this information to identify you as an individual. 
+
+_Location data:_ Some Apps may use location-based application programming interfaces that collect information about your location for the purpose of supporting the relevant functionality and analysis. Our Apps will only track your location with your consent. Real-time geolocation data may be used to display your location to you on a map, orient the App’s maps to be centered on your current location and sort potential activities based on their distance from your location at the time of request. This data will only be used locally on your device and will not be sent to or stored on a remote server or saved on your device, and will not be shared with third parties. This data may be cached on your device for short periods of time in order to improve user experience and make the App more responsive. 
+
+_Analytics:_ Where we automatically gather information without asking you to give it to us, we use that information to understand how the App is used by our community and to make sure any technical problems are reported to us. We use [Google Analytics](http://www.google.com/analytics/) to gather and process this data. For details about the information Google Analytics collects and how Google Analytics treats that information please visit their [Terms of Service](http://www.google.com/analytics/terms/us.html) and [Privacy Policy.](https://support.google.com/analytics/answer/6004245?hl=en)
+
+_Feedback and errors:_ Where you contact us to ask for help to resolve an issue we may ask for your name, your email address and any information you choose to give us as part of servicing your request, including a textural description of your issue, and screenshots of the issue you may be seeing in the App. We do this collection through a third-party tool embedded in the App known as [Helpshift](http://helpshift.com/). If you choose to share this information, that information will be governed by Helpshift's [Terms](https://www.helpshift.com/terms/) and [Privacy Policy](https://www.helpshift.com/privacypolicy/).
+
+_Third party services:_ We will only share your information with third parties if we have your consent to do so or when they are providing a service for us (like Google Analytics and Helpshift above). Our service providers will only use that information in accordance with our instructions and not for their own purposes.
+
+Back to top
+
+## Feedback
+
+Travellers love giving feedback and we love receiving it. If you're wondering what happens now that we have your comments and information, here's what goes down.
+
+By submitting feedback, you may be supplying Lonely Planet with 'personal information'. We collect this information so that we can use your comments to improve our products, acknowledge your contribution in the next edition, and we might even reward the very best feedback with a free ebook chapter. We might edit, reproduce or incorporate your comments in other Lonely Planet products, such as guidebooks, websites and digital products, so let us know if you don't want your comment reproduced or your name acknowledged. If you're giving feedback within our online communities, please respect the privacy of others and be respectful generally.
+
+Fear not, we will not sell your contact details to marketing companies for spamming, but we may disclose information about you to our authors and amongst companies in the [Lonely Planet family](https://www.lonelyplanet.com/legal/corporate-entities), including to people located in a different country to you. You have some rights to access personal information that we hold about you (but there are exceptions - what good is a rule without them!). If you'd like to find out more about this or if you have any questions about how we handle personal information generally, please read our full [privacy policy](https://www.lonelyplanet.com/legal/privacy-policy).
+
+Back to top
+
+### Media activities
+
+In addition to our general privacy policy, the following applies in relation to our journalism and publishing activities.
+
+We collect information from many sources in order to provide the best travel information that we can. In some cases (mainly for preparing listings and reviews in our publications) this will include personal information about individuals (things like the name of an individual who runs a hotel, restaurant or tour company). In order to present unbiased and accurate information and opinion in our travel publications, we cannot always identify ourselves. After all, we need to get the real story!
+
+### Complaints, comments or corrections?
+
+Lonely Planet is keen to share the views and experiences of others but if you are unhappy that personal information about you has been included in one of our products, please let us know. Remember, this means personal information about you as an individual, not information or opinions about your business. Where reasonable and possible we will remove that personal information at the next practical opportunity - where it has been included in one of our publications that may be the next reprint or next edition.
+
+If you have any queries regarding personal information, please contact us at [privacy@lonelyplanet.com.au](mailto:privacy@lonelyplanet.com.au).
+
+Back to top
