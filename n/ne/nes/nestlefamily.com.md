@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the nestlefamily.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611231237id_/http%3A//privacy.nestleusa.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestlefamily.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221052505id_/http%3A//privacy.nestleusa.com) for the most accurate reproduction.*
 
 # Nestlé USA Privacy Notice
 
 | 
 
 Effective: 5/15/2012  
-Last Updated On: 6/12/2014
+Last Updated On: 4/21/2017
 
 | 
 
-[](http://privacy.truste.com/privacy-seal/Nestle-USA,-Inc-/validation?rid=a0441b14-29fd-490b-99a1-3c9b1bf5572e "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/Nestle-USA,-Inc-/validation?rid=a0441b14-29fd-490b-99a1-3c9b1bf5572e "TRUSTe online privacy certification")
 
   
   
@@ -114,7 +114,7 @@ This includes any information that describes your demographic or psychographic c
 
 Back to top
 
-__Technical computer infomation__
+__Technical computer information__
 
 This includes any information about the computer system or other technological device that you may be using to access one of our websites or applications. We typically collect this information through automated technologies such as cookies and web beacons. Examples of technical computer information may include your computer’s IP address, operating system type, and web browser type. If you access a Nestlé USA website or application via a mobile device such as a smartphone, the collected information may also include your phone’s unique device ID, and other similar mobile device data. 
 
@@ -325,7 +325,7 @@ The following outlines the choices you have with respect to the collection and u
 
 
 
-If any of the mechanisms set forth above is not available or you wish to make a different request, please Contact Us. We will respond to all access requests within 30 days.
+If any of the mechanisms set forth above is not available or you wish to make a different request, please Contact Us. We will respond to all access requests within a reasonable timeframe.
 
 In addition,if you participated in a promotion or program that involved a third party and, as part of that promotion, you agreed to receive future communications directly from that third party, you will need to contact the third party directly to opt-out from such communications. This process may be outlined in the third party’s privacy policy.
 
@@ -333,7 +333,7 @@ Back to top
 
 ###  8\. Tracking Technology – How and why do we use them?
 
-Nestlé USA does make use of tracking technologies (“Cookies”, “IP Addresses”, Log Files”, “Web Beacons”) to gather certain information such as browser type and operating system, referring page, path through site, domain of ISP etc. for the purpose of improving the use and functionality of our websites and other purposes described below. Tracking technologies help us tailor our websites to your personal needs. 
+Nestlé USA and our partners make use of tracking technologies such as (“Cookies”, "Log Files”, “Web Beacons” and similar technologies) to gather certain information such as browser type and operating system, referring page, path through site, domain of ISP etc. for the purpose of improving the use and functionality of our websites and other purposes described below. Tracking technologies help us tailor our websites to your personal needs. 
 
 **Cookies**
 
@@ -387,17 +387,7 @@ Back to top
 
 ###  13\. Other important information
 
-This section provides additional information that is important for you to know about this Privacy Notice or our practices.
-
-__This Privacy Notice applies to consumers only__
-
-This Privacy Notice applies only to our collection and use of information from consumers, using the methods described under Section 1 of this Notice. It does not apply to our business customers (e.g., retailers, distributors, etc.). It also does not apply to information we might collect and use for employment-related purposes (e.g., resumes, job applications, etc.) or business-to-business related purposes (e.g., media inquiries, investor relations, etc.).
-
-Back to top
-
-__We have been awarded the TRUSTe Privacy Seal__
-
-Nestlé USA has been awarded the TRUSTe Privacy Seal, signifying that this Privacy Notice and our website practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s certification applies to websites identified when clicking on TRUSTe’s "CERTIFIED PRIVACY" seal. If you have questions or complaints regarding our Privacy Notice or practices, please contact Consumer Services. If you are not satisfied with our response, you can also contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 Back to top
 
