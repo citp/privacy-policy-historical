@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touristeye.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613071424id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touristeye.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221024844id_/http%3A//lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Information - Lonely Planet
 
@@ -30,7 +30,7 @@ Other Lonely Planet privacy policies:
 
 ### So who are we?
 
-Lonely Planet operates through different companies around the world that are all part of the [Lonely Planet family](http://www.lonelyplanet.com/legal/corporate-entities). Individual Lonely Planet companies sometimes need to share personal information with other companies in the group to let us provide the quality products and standard of service you've come to expect of us. If corporate structure excites you, click [here](http://www.lonelyplanet.com/legal/corporate-entities) to learn more about the Lonely Planet family of companies. 
+Lonely Planet operates through different companies around the world that are all part of the [Lonely Planet family](https://www.lonelyplanet.com/legal/corporate-entities). Individual Lonely Planet companies sometimes need to share personal information with other companies in the group to let us provide the quality products and standard of service you've come to expect of us. If corporate structure excites you, click [here](https://www.lonelyplanet.com/legal/corporate-entities) to learn more about the Lonely Planet family of companies. 
 
 Back to top
 
@@ -41,9 +41,9 @@ There are situations in which we ask you to give us information about yourself. 
   * obtaining, responding to and managing feedback from travellers 
   * allowing people to share their experiences with fellow travellers on our bulletin boards and managing communications on our bulletin boards to ensure that posts and messages submitted by users to Thorn Tree comply with our community guidelines and website terms & conditions 
   * processing purchase orders and providing technical support
-  * contacting travellers with information and updates (like exciting travel news, great offers, promotions, special events, competitions and surveys) from Lonely Planet (but only if they have asked us to). Our information and updates may also include information from our partners and other companies in the Lonely Planet group (click [here](http://www.lonelyplanet.com/legal/corporate-entities) to learn more about the Lonely Planet family of companies).
+  * contacting travellers with information and updates (like exciting travel news, great offers, promotions, special events, competitions and surveys) from Lonely Planet (but only if they have asked us to). Our information and updates may also include information from our partners and other companies in the Lonely Planet group (click [here](https://www.lonelyplanet.com/legal/corporate-entities) to learn more about the Lonely Planet family of companies).
   * managing our competitions and contacting the winners
-  * personalising or improving the way Lonely Planet content is presented to you across a range of platforms (see our "[Cookies Policy](http://www.lonelyplanet.com/legal/cookies)" for more information)
+  * personalising or improving the way Lonely Planet content is presented to you across a range of platforms (see our "[Cookies Policy](https://www.lonelyplanet.com/legal/cookies)" for more information)
 We may also collect information about individuals involved in businesses, and this is mainly for: 
   * preparing listings and reviews in our publications (our writers may collect personal information in the course of gathering material for inclusion in our products, although you won't always know who they are at the time as we need to get the real story!). 
   * sending information about Lonely Planet and our products to our media and other industry contacts
@@ -65,7 +65,7 @@ Back to top
 
 ### What about 'cookies'?
 
-Please see our [Cookies Policy](http://www.lonelyplanet.com/legal/cookies) for more information about cookies used on [LonelyPlanet.com](http://www.lonelyplanet.com/)
+Please see our [Cookies Policy](https://www.lonelyplanet.com/legal/cookies) for more information about cookies used on [LonelyPlanet.com](https://www.lonelyplanet.com/)
 
 Back to top
 
@@ -101,7 +101,7 @@ You want to sign up to a newsletter but you're worried it'll open the floodgates
 
 Lonely Planet collects your email address so we can send you the newsletters you've subscribed to. **By registering for the newsletters, you are also signing up to receive emails from Lonely Planet for all your travel inspiration, tips and exclusive offers. You can unsubscribe at any time by clicking on the "unsubscribe" link in the footer of the emails.** Sleep easy, we will not sell your email address to marketing companies for spamming. But we may need to disclose your email address to contractors who help us provide the newsletter service, and amongst companies in the Lonely Planet family including entities located in a different country to you.
 
-You can manage your subscriptions and update your email address through our newsletters page at any time. If you'd like to find out more or if you have any questions about how we handle personal information generally, please read our full [privacy policy](http://www.lonelyplanet.com/legal/privacy-policy).
+You can manage your subscriptions and update your email address through our newsletters page at any time. If you'd like to find out more or if you have any questions about how we handle personal information generally, please read our full [privacy policy](https://www.lonelyplanet.com/legal/privacy-policy).
 
 Back to top
 
@@ -113,7 +113,7 @@ When using Lonely Planet's online shop, you may choose to supply Lonely Planet w
 
 We collect this information so that we can fulfill your order and speed your products directly to you. Without this information we would not be able to process your order or contact you if there are any issues. If you've asked to hear more about Lonely Planet we will use your personal information to send you what you've asked for.
 
-Rest assured, we will not sell your contact details to marketing companies for spamming, but we may disclose information about you to business partners who help us provide these services, such as credit card payment processing companies, and other companies in the Lonely Planet family including entities located in a different country to you. If you'd like to find out more, please read our [privacy policy](http://www.lonelyplanet.com/legal/privacy-policy).
+Rest assured, we will not sell your contact details to marketing companies for spamming, but we may disclose information about you to business partners who help us provide these services, such as credit card payment processing companies, and other companies in the Lonely Planet family including entities located in a different country to you. If you'd like to find out more, please read our [privacy policy](https://www.lonelyplanet.com/legal/privacy-policy).
 
 Back to top
 
@@ -139,7 +139,7 @@ Travellers love giving feedback and we love receiving it. If you're wondering wh
 
 By submitting feedback, you may be supplying Lonely Planet with 'personal information'. We collect this information so that we can use your comments to improve our products, acknowledge your contribution in the next edition, and we might even reward the very best feedback with a free ebook chapter. We might edit, reproduce or incorporate your comments in other Lonely Planet products, such as guidebooks, websites and digital products, so let us know if you don't want your comment reproduced or your name acknowledged. If you're giving feedback within our online communities, please respect the privacy of others and be respectful generally.
 
-Fear not, we will not sell your contact details to marketing companies for spamming, but we may disclose information about you to our authors and amongst companies in the [Lonely Planet family](http://www.lonelyplanet.com/legal/corporate-entities), including to people located in a different country to you. You have some rights to access personal information that we hold about you (but there are exceptions - what good is a rule without them!). If you'd like to find out more about this or if you have any questions about how we handle personal information generally, please read our full [privacy policy](http://www.lonelyplanet.com/legal/privacy-policy).
+Fear not, we will not sell your contact details to marketing companies for spamming, but we may disclose information about you to our authors and amongst companies in the [Lonely Planet family](https://www.lonelyplanet.com/legal/corporate-entities), including to people located in a different country to you. You have some rights to access personal information that we hold about you (but there are exceptions - what good is a rule without them!). If you'd like to find out more about this or if you have any questions about how we handle personal information generally, please read our full [privacy policy](https://www.lonelyplanet.com/legal/privacy-policy).
 
 Back to top
 
