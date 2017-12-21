@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the raytheon.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609223637id_/http%3A//www.raytheon.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raytheon.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221082239id_/http%3A//www.raytheon.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Raytheon: Legal - Privacy Policy
 
-**EFFECTIVE DATE: DECEMBER 01, 2016.**
+**EFFECTIVE DATE: November 15, 2017.**
 
 This Privacy Policy applies to any visitor or user (hereinafter referred to as "You") of the website located at [www.raytheon.com](http://www.raytheon.com/), [www.raytheon.com.au](http://www.raytheon.com.au/), [www.raytheon.co.uk](http://www.raytheon.co.uk/), raytheoncyber.com, investor.raytheon.com, Raytheon.mediaroom.com, [jobs.raytheon.com](https://jobs.raytheon.com/), [www.mathalive.com](http://www.mathalive.com/), [www.mathalive-me.com](http://www.mathalive-me.com/), and any other websites (singularly and collectively, "the Site") that Raytheon Company or its subsidiaries and affiliates (singularly and collectively, "Raytheon") own and control, except those that maintain a separate Privacy Policy (such as [www.raytheoncyber.com](http://www.raytheoncyber.com/legal/index.html). Some websites may have a supplementary Privacy Policy, such as the [Privacy Policy](https://tbcdn.talentbrew.com/company/4679/v1_0/img/Raytheon_Careers_Privacy_Policy.pdf) for [jobs.raytheon.com](https://jobs.raytheon.com/), which you should review as well. 
 
@@ -10,7 +10,7 @@ Raytheon is sensitive to the issue of confidentiality in online dealings and is 
 
 Additionally, as the Site includes [www.mathalive.com](http://www.mathalive.com/) and [www.mathalive-me.com](http://www.mathalive-me.com/), which may be of interest to children under the age of 13 years old (the "Children's Sites"). We are committed to complying fully with the Children's Online Privacy Protection Act of 1998 ("COPPA"). Parents of children who are under the age of 13 should ensure that they understand our approach to personal information, as described in this policy, before entering any personal information on or through the Children's Sites. 
 
-[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20171221082239id_/https://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **1\. What Personal Information May Be Collected?**
 
@@ -24,41 +24,34 @@ Additionally, as the Site includes [www.mathalive.com](http://www.mathalive.com/
 
 1.5 Apart from the Children's Sites, Raytheon may use the Site as an entry into other networked web pages and websites operated by Raytheon and its subsidiaries (together, the "Transaction Sites"). Please note that an individual Transaction Site may adopt privacy terms particular to the purpose of such Transaction Site or the transaction(s) taking place on such Transaction Site. As Transaction Sites are generally affiliated with commercial transactions that you or your business may have with Raytheon, particularly those which are password-protected or are subject to subscriptions, the privacy terms governing such sites may be supplemented or superseded by separate agreements.
 
-[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20171221082239id_/https://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **2\. Other Types of Information That May Be Collected**
 
-2.1 IP Addresses
-
+2.1 IP Addresses  
 An internet protocol address, or IP address, is automatically assigned to your computer when you access the internet, and is used by web servers to identify your computer. When you access our Site, we may log your computer's IP address, however, your personal identity will remain unknown to us, except as described in Sections 2.5 and 3.2. We log the IP addresses for system administration, for auditing the use of our Site, and for collecting statistical information for marketing and other purposes.
 
-2.2 Cookies or Tracers
-
+2.2 Cookies or Tracers  
 We may place information on your computer to allow us to identify you. This information is known as a "cookie." We use cookies to view information about your activities on our Site, such as your preferences or which pages you have visited on the Site. A cookie does not allow our Site to collect any personal information that you have not otherwise disclosed (except as described below). By understanding how and when our visitors use the Site, we can continually improve our Site, as well as our products and services. Your browser may have controls that allow you to refuse all cookies or indicate when a cookie is being sent.
 
 We use tracking scripts or "tracers" that recognize a unique identifier from a cookie placed on your computer by another non-Raytheon website. These are used by Raytheon to gauge the success of our own advertising. For instance, we may use a tracer to determine whether you visit our employment pages after visiting a career site where Raytheon placed a banner advertisement. We do not use tracers to gather information on your use of the internet unrelated to Raytheon, or to determine your personal information, and you remain anonymous to Raytheon unless you choose to provide personal information, except as explained in Section 3.2.
 
-2.3 Web Beacons
-
+2.3 Web Beacons  
 Web beacons are small files that we may place on our Site, which count the number of unique users that have visited a specific page on the Site and the number of times a given page has been displayed. This information is collected generally in the aggregate and is not linked to any personal information (except as described below).
 
-2.4 Pixel Tags
-
+2.4 Pixel Tags  
 We may use "pixel tags," or short pieces of code, to better measure the effectiveness of our content. These also allow social networks and other services to deliver content to you based on your visit to our website.
 
-2.5 Custom URLs
-
+2.5 Custom URLs  
 We may track your visit by providing you with a unique universal resource locator, or URL, via an e-mail, a letter or other communication. When you use this unique URL, our website registers the visit. We use this information to measure the effectiveness of our advertising and other content.
 
-2.6 What Happens If I Register?
-
+2.6 What Happens If I Register?  
 Registration may be allowed or required on the Site. Together, the provisions of this Privacy Policy, the Terms and Conditions of Use for the Site, and any additional conditions presented to you upon registration govern our use of information you provide during registration. In addition to the uses described above, Raytheon may collect registration data in order to monitor compliance with this Privacy Policy and to set up access permissions to certain other pages on the Site.
 
-2.7 Do-Not-Track
-
+2.7 Do-Not-Track  
 Our information collection practices operate as described in this Privacy Policy independent of any "do-not-track" choice you make.
 
-[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20171221082239id_/https://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **3\. Use of Information**
 
@@ -76,13 +69,13 @@ Although Raytheon is under no obligation to monitor the Site, we may monitor, st
 
 Raytheon may transfer personal information in connection with the sale or acquisition of one or more of our businesses or subsidiaries to a different company that agrees to offer equivalent safeguards for the use and disclosure of such information.
 
-[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20171221082239id_/https://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **4\. Security of Personal Information**
 
 4.1 While Raytheon makes extensive effort to prevent unauthorized access to personal information, the security of information transmitted via the internet cannot be guaranteed. Any information disclosed online can potentially be collected and used by others aside from the intended recipient. Thus, Raytheon cannot warrant that your personal information will not be disclosed to or accessed by unauthorized parties.
 
-[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20171221082239id_/https://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **5\. Your Privacy Choices/Updates to Your Information**
 
@@ -90,7 +83,7 @@ Raytheon may transfer personal information in connection with the sale or acquis
 
 5.2 If you do not want Raytheon to use your personal information to contact you for marketing or solicitation purposes, please click the opt-out link on the email you received or contact us via email at [PrivacyPolicy@raytheon.com](mailto:PrivacyPolicy@Raytheon.com?subject=Raytheon.com%20Opt-Out). Please indicate if you would prefer that we use a different email address or communication method. Restricting our contact methods may make it more difficult for us to keep you informed about new products, services and websites that can benefit you. These choices do not apply to transactional or relationship emails or the display of online advertising. You can revoke your choice at any time by contacting us using one of the methods provided. 
 
-[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20171221082239id_/https://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **6\. Children's Privacy**
 
@@ -122,13 +115,13 @@ C. Collecting a child's contact information and the contact information of his/h
 
 D. Using cookies to collect non-personally-identifiable information on our child-directed Sites for analytics and internal operations purposes. 
 
-[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20171221082239id_/https://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **7\. Your California Privacy Rights**
 
 7.1 California's "Shine the Light" law permits California residents to annually request and obtain information free of charge about what personal information is disclosed to third parties for direct marketing purposes in the preceding calendar year. Raytheon does not distribute your personal information to outside parties for their direct marketing, or any other purpose, except as provided for in this Privacy Policy, without your consent. See also Section 3, Use of Information.
 
-[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20171221082239id_/https://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **8\. External Links**
 
@@ -140,7 +133,7 @@ D. Using cookies to collect non-personally-identifiable information on our child
 
 8.4 We specifically recommend that children check with their parents before connecting to any new websites.
 
-[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20171221082239id_/https://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **9\. EU-U.S. Privacy Shield Framework**
 
@@ -152,9 +145,9 @@ EU Employee Data: The Company provides to EU employees a notice about the collec
 
 EU Job Applicant Data: The Company provides to EU job applicants notice about the collection, use, and disclosure of their EU Job Applicant Data through internal company policies.
 
-EU Customer Data: The Company collects and processes the following categories of EU Customer Data: name; personal/work contact information, photograph (where permitted by applicable law), employee, contractor, or government identification, country of origin, and nationality. The Company will use and otherwise process EU Customer Data in the United States for the following purposes: general business administration; customer support; direct marketing (e.g., email, text message, postal mail, behavioral advertising); fulfilment of requests; tracking payment of order; customer relationship management; responding to inquiries; and exercising a right or obligation imposed by law or contract (e.g., mandatory reporting obligations). Raytheon transfers EU Customer Data to the following types of third parties: financial transaction messaging providers, ethics investigations providers, legal advisors, customer relationship management providers; document management systems providers.
+EU Customer Data: The Company collects and processes the following categories of EU Customer Data: name; personal/work contact information, photograph (where permitted by applicable law), employee, contractor, or government identification, country of origin, nationality, content of communications, computer usage information related to an EU Customer's use of its own company equipment, systems, and other resources, Internet Protocol (IP) address or other device location information of a desktop, laptop or other devices used by or on behalf of an EU Customer to access EU Customer's computer or telecommunications network onsite or through a remote connection, and other personal data incidentally accessed on EU Customer's equipment or systems in connection with its managed security and professional services. The Company will use and otherwise process EU Customer Data in the United States for the following purposes: general business administration; managed security and professional services; speech recognition and call center analytics; customer support; direct marketing (e.g., email, text message, postal mail, behavioral advertising); fulfilment of requests; tracking payment of order; customer relationship management; responding to inquiries; and exercising a right or obligation imposed by law or contract (e.g., mandatory reporting obligations). Raytheon transfers EU Customer Data to the following types of third parties: financial transaction messaging providers, and legal advisors.
 
-EU Business Partner Data: The Company collects and processes the following categories of EU Business Partner Data: name; address, professional contacts or organizations, date of birth, photograph, applicable ID number (passport or national ID), qualifications, work history, job title, educational history, prohibited party or other criminal background information. The Company will use and otherwise process EU Business Partner Data in the United States for the following purposes: general business administration; account management; IT helpdesk and support services; direct marketing (e.g., email, text message, postal mail); exercising a right or obligation imposed by law or contract (e.g., mandatory reporting obligations); vendor management. The Company transfers EU Business Partner Data to the following types of third parties: learning management providers, ethics investigations providers, financial transaction messaging providers, legal advisors, document management systems providers.
+EU Business Partner Data: The Company collects and processes the following categories of EU Business Partner Data: name; address, professional contacts or organizations, date of birth, photograph, applicable ID number (passport or national ID), qualifications, work history, job title, educational history, prohibited party or other criminal background information. The Company will use and otherwise process EU Business Partner Data in the United States for the following purposes: general business administration; account management; IT helpdesk and support services; direct marketing (e.g., email, text message, postal mail); exercising a right or obligation imposed by law or contract (e.g., mandatory reporting obligations); and vendor management. The Company transfers EU Business Partner Data to the following types of third parties: ethics investigations providers, financial transaction messaging providers, legal advisors, document management systems providers, screening and escalation services providers, and network and IT support providers.
 
 **9.3 Rights of EU Data Subjects**
 
@@ -162,7 +155,7 @@ If you are an EU data subject, you have the right to access your own EU Personal
 
 **9.4 Choices of EU Data Subjects**
 
-Individual customers have the right to exercise choice (opt-out) from our use of their EU Customer Data for direct marketing purposes. To exercise this right, please or follow the instructions in any direct marketing message you may have received. We do not otherwise use or disclose EU Customer Data in a manner that is subject to choice requirements under the Framework. We describe the choices for EU Employee Data and EU Job Applicant Data through internal company policies.
+If you are an EU data subject, you have the right to access your own EU Personal Data subject to certain limitations, such as where the legitimate rights of other persons would be infringed or where the burden or expense of providing access would be disproportionate. If you wish to exercise such rights, please contact us as described below.
 
 **9.5 Recourse, Enforcement, and Liability**
 
@@ -174,19 +167,33 @@ If you have an unresolved concern about EU Personal Data that we have not addres
 
 Please contact us using the contact information under "Dispute Resolution/Contact Information" below if you have any questions related to the Privacy Shield, wish to exercise your rights of access, or wish to seek other assistance as described above. 
 
-[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20171221082239id_/https://www.raytheon.com/legal/privacy_policy/index.html#top)
 
-**10\. Changes to This Privacy Policy**
+**10\. Australian Supplier Portal**
 
-10.1 Changes to this Privacy Policy, will post on this page, with a new effective date at the top. If we make material changes to our privacy policy that could affect the personal information you previously submitted to us, we will provide you notice and an appropriate opportunity to consent.
+10.1 Raytheon may collect personal information if a supplier registers or makes submissions on Raytheon’s Australian Supplier Portal (“Supplier Portal”).  The personal information collected from suppliers may include the address, date of birth, photograph, qualifications, work history, job title, educational history and security clearances of the supplier’s directors, officers, employees, agents and subcontractors. 
 
-[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+10.2 Raytheon uses this information to register the supplier on the Supplier Portal and to assess submissions made by it.  
 
-**11\. Dispute Resolution/Contact Information**
+10.3 This information may be disclosed to third parties that provide services to Raytheon relating to the assessment of supplier submissions and the management of the Supplier Portal including potentially to third parties located in USA and Norway. 
 
-11.1 If you have any questions or concerns regarding Raytheon's privacy policy or its use of personal information, please contact us at [PrivacyPolicy@raytheon.com](mailto:PrivacyPolicy@Raytheon.com) or:
+10.4 If Raytheon is unable to collect this information, the supplier may not be able to register on the Supplier Portal and Raytheon may not be able to assess submissions made by the supplier.
 
-Vice President, Cybersecurity and Privacy Law  
+10.5 You may request access to any personal information we hold about you, subject to certain exceptions (for example, if it would interfere with the privacy of others).  If you wish to access your personal information, please contact us using the contact details in Section 12 below.
+
+[](https://web.archive.org/web/20171221082239id_/https://www.raytheon.com/legal/privacy_policy/index.html#top)
+
+**11\. Changes to This Privacy Policy**
+
+11.1 Changes to this Privacy Policy, will post on this page, with a new effective date at the top. If we make material changes to our privacy policy that could affect the personal information you previously submitted to us, we will provide you notice and an appropriate opportunity to consent.
+
+[](https://web.archive.org/web/20171221082239id_/https://www.raytheon.com/legal/privacy_policy/index.html#top)
+
+**12\. Dispute Resolution/Contact Information**
+
+12.1 If you have any questions or concerns regarding Raytheon's privacy policy or its use of personal information, please contact us at [PrivacyPolicy@raytheon.com](mailto:PrivacyPolicy@Raytheon.com) or:
+
+Chief Ethics and Compliance Officer  
 RAYTHEON COMPANY  
 Waltham Woods  
 870 Winter Street Waltham, MA 02451-1449
