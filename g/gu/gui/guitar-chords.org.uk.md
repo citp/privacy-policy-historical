@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitar-chords.org.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104831id_/http%3A//www.guitar-chords.org.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitar-chords.org.uk privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221033852id_/http%3A//www.guitar-chords.org.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Guitar-Chords.org.uk - Privacy policy
 
@@ -31,5 +31,17 @@ This web site has no access to, or control over these cookies used by third-part
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Our own privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+**Google Analytics**
+
+This website uses Google Analytics to track and measure site behaviour by our users. This helps us understand what our users are looking for on the site, which pages are more popular or may be causing problems. Analytics allows us to find ways improve the site and measure its usefulness to you. We do not collect or have any access to your personal information. Google itself may use analytic data differently. You can find more information about how they use this data and ways in which you can opt out by visiting [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/)
+
+**Email Addresses**
+
+Generally, we do not collect email addresses or user information. We do have a blog section where you may leave comments. A name and email address is required to use this feature. We aren't interested in it and you may use any made up name and email that you wish to use, we don't require verification. The name and email address that you do use however is stored in a secure database on our website but never used by us for any marketing purposes and never share with third parties.
+
+**Advertising Info**
+
+This website uses advertising and affiliate links to cover its running costs and earn a small profit. You may read more about this here. [Advertising Disclaimer](http://www.guitar-chords.org.uk/disclaimer.html "Advertising")
 
 If you have any further questions regarding our privacy policy you are welcome to contact us by email at [web@guitar-chords.org.uk](mailto:web@guitar-chords.org.uk)
