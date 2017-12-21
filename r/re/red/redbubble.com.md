@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbubble.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627205429id_/http%3A//www.redbubble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbubble.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221095251id_/https%3A//www.redbubble.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Redbubble
 
@@ -8,7 +8,7 @@
 
 But we do need to use some of your information for other purposes, and we created this Privacy Policy to make sure you’re aware of what information we use and to help you understand how and why we use this information. We also want to be clear that by using this website you are consenting to our collection, storage and use of your information as set out in this Privacy Policy.
 
-We may need to update our Privacy Policy from time to time to reflect our changing business practices. We will publish any modified or updated versions on our website. This version was published on May 29th, 2015.
+We may need to update our Privacy Policy from time to time to reflect our changing business practices. We will publish any modified or updated versions on our website. This version was published on May 29th, 2015 and last amended on October 4th 2017.
 
 ## The kinds of personal information we collect
 
@@ -22,9 +22,9 @@ When you choose to connect your social media account to your profile, we collect
 
 ## Cookies
 
-To better understand how our visitors use our service and to help us provide a better experience, we may collect and store information either directly in log files and cookies, or via third party vendors, including Google and Crazy Egg, that use web tracking technologies, including [cookies](http://www.networkadvertising.org/faq#n171) and [web beacons](http://www.networkadvertising.org/faq#n173). This information may include pages that you have visited, your IP address, browser type and your operating system. You can choose to disable cookies, but please remember this may mean that parts of the website may not function correctly.
+To better understand how our visitors use our service and to help us provide a better experience, we may collect and store information either directly in log files and cookies, or via third party vendors, including Google, Facebook and Crazy Egg, that use web tracking technologies, including [cookies](http://www.networkadvertising.org/faq#n171) and [web beacons](http://www.networkadvertising.org/faq#n173). This information may include pages that you have visited, your IP address, browser type and your operating system. You can choose to disable cookies, but please remember this may mean that parts of the website may not function correctly.
 
-We use third party vendors to display relevant ads for Redbubble at locations away from our website on the Internet. Some of these vendors, including Google, use cookies to display ads based on your previous visits to the Redbubble site. You can opt out of the use of your information for online behavioral advertising by NAI member companies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices). You may also click [here](http://www.aboutads.info/choices/) to opt out of having your data used for online behavioral advertising by Digital Advertising Alliance (DAA) member companies.
+We use third party vendors to display relevant ads for Redbubble or provide Redbubble product recommendations at locations away from our website on the Internet. Some of these vendors, including Google and Facebook, use cookies to display ads or provide Redbubble product recommendations based on your previous visits to the Redbubble site. You can opt out of the use of your information for online behavioral advertising by NAI member companies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices). You may also click [here](http://www.aboutads.info/choices/) to opt out of having your data used for online behavioral advertising by Digital Advertising Alliance (DAA) member companies.
 
 The third party vendors we work with may collect information about your online activities over time and on other websites or applications.
 
@@ -65,3 +65,7 @@ The site may contain features or links to websites and services provided by thir
 ## How you can access or correct your personal information or make a complaint
 
 If you have any complaints, comments or questions about the way we collect and use your personal information, or if you would like to access or correct your personal information, please [just tell us](https://help.redbubble.com/hc/en/). You can also access and update some of your personal information by accessing your profile settings.
+
+desktop tablet-landscape content-width tablet-portrait workstream-4-across phone-landscape phone-portrait
+
+desktop tablet-landscape content-width tablet-portrait workstream-4-across phone-landscape phone-portrait
