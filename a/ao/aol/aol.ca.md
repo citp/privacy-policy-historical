@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622002954id_/http%3A//privacy.aol.ca/full_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222004052id_/http%3A//privacy.aol.ca/full_policy) for the most accurate reproduction.*
 
 # Privacy Policy - AOL Privacy CA
 
@@ -31,7 +31,8 @@ We collect and receive information about users in a few different ways: 
     * When you sign up for an AOL account you may give us information such as your name, zip or postal code, and date of birth;
     * When you purchase one of our paid services, you give us your billing information, which may include your credit card data;
     * When you post comments in response to a story or video on any of our Services, we—and other users—receive that information; and
-    *   * **_Information we collect or receive when you use our Services_**.  We also collect or receive information about how you use our Services.  We collect some of this information using [cookies, web beacons, and similar technologies](https://web.archive.org/cookies/).  Depending on how you access and use our Services, we may receive: 
+    * When you otherwise contact us or provide us information directly.
+  * **_Information we collect or receive when you use our Services_**.  We also collect or receive information about how you use our Services.  We collect some of this information using [cookies, web beacons, and similar technologies](https://web.archive.org/cookies/).  Depending on how you access and use our Services, we may receive: 
     * _Log information_.  This is information we automatically collect and store when you use our Services or other companies’ websites and apps in the [ONE by AOL advertising services](https://web.archive.org/definitions/).  It includes, for example: 
       * Information about your interactions with the websites, apps, and other online services you use, the content you view, the search queries you submit, and information in [cookies and similar technologies](https://web.archive.org/cookies/);
       * Information about how you access those websites, apps, and other online services, your browser or operating system, your Internet Protocol (“IP”) address, and the website you visited before visiting our Services. 
