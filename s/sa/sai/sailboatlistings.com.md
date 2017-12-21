@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailboatlistings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084217id_/http%3A//sailboatlistings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailboatlistings.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221232137id_/http%3A//sailboatlistings.com/privacy) for the most accurate reproduction.*
 
 # Sailboat Listings privacy policy
 
@@ -61,4 +61,4 @@
 
 **Contacting Us**
 
-> If there are any questions regarding this privacy policy you may contact us at [www.sailboatlistings.com/supportcenter/](http://www.sailboatlistings.com/supportcenter/)
+> If there are any questions regarding this privacy policy you may contact us at [www.sailboatlistings.com/supportcenter/](https://www.sailboatlistings.com/supportcenter/)
