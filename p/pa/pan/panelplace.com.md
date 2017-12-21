@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panelplace.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163926id_/http%3A//www.panelplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panelplace.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221151807id_/http%3A//www.panelplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PanelPlace
 
@@ -45,7 +45,7 @@ We use this information to:
 
 Choice/Opt-Out:
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@panelplace.com](mailto:support@panelplace.com).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e99a9c9999869b9da99988878c859985888a8cc78a8684).
 
 Social Network
 
@@ -78,13 +78,13 @@ Security
 
 The security of your personal information is important to us. When you provide sensitive information (such as a credit card number) to us, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@panelplace.com](mailto:support@panelplace.com) We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@panelplace.com](mailto:support@panelplace.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3e4d4b4e4e514c4a7e4e5f505b524e525f5d5b105d5153) We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#493a3c3939263b3d093928272c253925282a2c672a2624). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Other Information
 
 Correcting and Updating Your Personal Information.
 
-To review and update your personal information to ensure it is accurate, contact us at [support@panelplace.com](mailto:support@panelplace.com).
+To review and update your personal information to ensure it is accurate, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f88b8d8888978a8cb88899969d948894999b9dd69b9795).
 
 Notification of Privacy Statement Changes
 
@@ -98,7 +98,7 @@ PanelPlace International Pte. Ltd.
 261 Waterloo Street #03-32 Waterloo Centre  
 Singapore, 180261
 
-Email: [support@panelplace.com](mailto:support@panelplace.com)  
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#077472777768757347776669626b776b6664622964686a)  
 Phone: +65.6507 4432
 
 [](https://privacy.truste.com/reseller/privacy-policy/PanelPlace-LLP/certified/c6bb6763-896c-4e28-818d-e82e8ce0f3dc)
