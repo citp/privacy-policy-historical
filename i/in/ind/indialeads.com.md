@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indialeads.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620055602id_/http%3A//www.indialeads.com/leads/viewPrivacyAndTerms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indialeads.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221121124id_/http%3A//www.indialeads.com/leads/viewPrivacyAndTerms) for the most accurate reproduction.*
 
 # India Leads - Top Free Classified Site | Free Classified Ads In India | India Classifieds | Post Free Ad
 
@@ -15,7 +15,7 @@ We collect personally identifiable information, like names, postal addresses, em
 The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
 
 **Distribution of Information**  
-By using our website to you allow us to show your ad/classified/lead/content on our website or on our affiliate websites.  You agree to receive any promotional communication from us via email/sms etc unless you specifically opt out of it by writing us about it at [unsubscribeme@indialeads.com](mailto:unsubscribeme@indialeads.com). You allow us to share some of the information related to your searches/interest/usage pattern to our affiliates for marketing purpose. We may also share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
+By using our website to you allow us to show your ad/classified/lead/content on our website or on our affiliate websites.  You agree to receive any promotional communication from us via email/sms etc unless you specifically opt out of it by writing us about it at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1663786563746575647f74737b73567f78727f777a737772653875797b). You allow us to share some of the information related to your searches/interest/usage pattern to our affiliates for marketing purpose. We may also share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
 **Commitment to Data Security**  
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
@@ -37,6 +37,6 @@ We use outside advertising networks and companies in order to display ads on thi
 
 **Privacy Contact Information**  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:  
-By e-mail: admin@indialeads.com
+By e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
