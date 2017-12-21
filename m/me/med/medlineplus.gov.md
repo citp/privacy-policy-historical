@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616111205id_/https%3A//medlineplus.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221151352id_/https%3A//medlineplus.gov/privacy.html) for the most accurate reproduction.*
 
 # MedlinePlus: Privacy Policy
 
@@ -44,12 +44,6 @@ Third-Party Web sites and Applications (TPWA) are Web-based technologies that ar
 We use these technologies to communicate and interact with you. Examples include social media Web sites such as Twitter and Facebook. Your activity on these non-government sites is governed by the security and privacy policies of those sites. When you use them, you are often sharing information with the general public, other users, and/or the group operating that site or application. We recommend you review the privacy policies of these sites before using them to ensure you understand how these third-party sites and applications might use your information. You may be able to adjust the privacy settings on your account.
 
 The list below includes the applications we use and their purposes. For any sites or applications that collect PII, this list also includes details on the information they collect and how NLM protects your private information.
-
-AddThis allows you to bookmark and share NLM content in a variety of ways, including through social media sites and your Web-based email service. You do not need to register or provide any personal information to use AddThis.
-
-The AddThis service collects non-personal data, including aggregate and summary statistics on Web browsers and usage patterns. AddThis also uses non-personal data to manage their service efficiently and diagnose server problems. Although AddThis offers some analytics and usage data to NLM, these reports do not include any personally identifiable information. The reports are password protected and only available to NLM managers, members of the NLM Web Teams, and other designated NLM staff requiring this information to perform their duties. The AddThis Privacy & Data Practices are available at: <http://www.addthis.com/privacy>.
-
-NLM uses the Go.USA.gov and Bit.ly URL shortening services. The shorter URLs are shared in our e-mail messages, Twitter feeds, and on NLM's Facebook pages. The services collect data about how often users click on these shortened URLs. The analytics data is provided by Go.USA.Gov and Bit.ly. This data does not provide any personally identifiable information about the visitors who opened NLM's shortened links. The Go.USA.Gov Privacy Statement is available at <https://go.usa.gov/policies>. The Bit.ly Privacy Policy is available at: <https://bitly.com/pages/privacy>.
 
 NLM has multiple Facebook pages where we share information about NLM news, program activities, and other items that may be of interest to you. You do not need to register or provide personal information to view our Facebook pages. The complete list of NLM Facebook pages is at <https://www.nlm.nih.gov/socialmedia/index.html>.
 
