@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasterschoice.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100703id_/http%3A//privacy.nestleusa.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasterschoice.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221052505id_/http%3A//privacy.nestleusa.com) for the most accurate reproduction.*
 
 # Nestlé USA Privacy Notice
 
