@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenontime.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608174306id_/http%3A//womenontime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenontime.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221200315id_/http%3A//womenontime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WoMenonTime | The Women Health,Workouts
 
