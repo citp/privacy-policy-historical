@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interest.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622153326id_/http%3A//www.interest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interest.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221161349id_/http%3A//www.interest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Interest.com
+# » Privacy Policy
 
 **Last updated: February 8, 2016**
 
