@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingunion.net privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619170651id_/http%3A//www.gamingunion.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingunion.net privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221112852id_/http%3A//www.gamingunion.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gaming Union
 
@@ -20,4 +20,4 @@ We use return email addresses to answer the email we receive. Such addresses are
 
 * * *
 
-We partner with ValueClick Media to serve ads and/or collect certain information when you visit our website. ValueClick Media may use cookies or web beacons to collect non-personally identifiable information (e.g. visits to this site, responses to ads) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit [networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+We partner with Google to serve ads and/or collect certain information when you visit our website. Google may use cookies or web beacons to collect non-personally identifiable information (e.g. visits to this site, responses to ads) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit [support.google.com/ads/answer/2662922](https://support.google.com/ads/answer/2662922).
