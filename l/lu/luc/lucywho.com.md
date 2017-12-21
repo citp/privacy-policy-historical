@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucywho.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630070407id_/http%3A//members.famousfix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucywho.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221142604id_/http%3A//members.famousfix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
