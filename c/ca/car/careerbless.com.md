@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerbless.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608105801id_/http%3A//www.careerbless.com/policies/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbless.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221171745id_/http%3A//www.careerbless.com/policies/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,4 +72,4 @@ For security measures, we record your IP address when you perform any public act
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-You can also visit [aboutads.info](http://www.aboutads.info/) to opt out of third-party vendor's use of cookies for interest-based advertising. For all other policies, please read our [terms and conditions](https://web.archive.org/web/20170608105801id_/http%3A//www.careerbless.com/policies/termsconditions.php). 
+You can also visit [aboutads.info](http://www.aboutads.info/) to opt out of third-party vendor's use of cookies for interest-based advertising. For all other policies, please read our [terms and conditions](https://web.archive.org/web/20171221171745id_/http%3A//www.careerbless.com/policies/termsconditions.php). 
