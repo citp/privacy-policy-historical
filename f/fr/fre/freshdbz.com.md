@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshdbz.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609113431id_/http%3A//freshdbz.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshdbz.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221171134id_/http%3A//freshdbz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
