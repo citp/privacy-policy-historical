@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fighthype.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614064314id_/http%3A//www.fighthype.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fighthype.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221213023id_/http%3A//www.fighthype.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY || FIGHTHYPE
 
