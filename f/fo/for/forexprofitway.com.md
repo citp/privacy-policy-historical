@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexprofitway.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621232726id_/http%3A//forexprofitway.com/opanda_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexprofitway.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221110827id_/http%3A//forexprofitway.com/opanda_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | ForexProfitWay l The best way to download forex tools
 
@@ -20,7 +20,7 @@ We may use the information we collect from you when you register, make a purchas
 
 
 
-**Do we use ‘cookies’?**
+ **Do we use ‘cookies’?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
