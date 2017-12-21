@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epiq11.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619215359id_/http%3A//www.epiqsystems.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiq11.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222002637id_/http%3A//www.epiqsystems.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Epiq
 
@@ -46,6 +46,6 @@ You further expressly agree that by using this Web Site, your rights and obligat
 
 In compliance with the Privacy Shield Principles, Epiq commits to resolve complaints about our collection or use of your personal information.  EU individuals with inquiries or complaints regarding our Private Shield policy should first contact Epiq at [privacyshield@epiqsystems.com](mailto:privacyshield@epiqsystems.com).
 
-Epiq has further committed to refer unresolved Privacy Shield complaints to TRUSTe, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit truste.com for more information or to file a complaint.  The services of TRUSTe are provided at no cost to you.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 [](http://privacy.truste.com/privacy-seal/validation?rid=23100c2c-dbf1-4f0c-8c2b-848585642475 "TRUSTe Privacy Certification")
