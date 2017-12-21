@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patrickmcmullan.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621194959id_/http%3A//patrickmcmullan.com/site/help.aspx%3Ft%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patrickmcmullan.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221101340id_/http%3A//patrickmcmullan.com/site/help.aspx%3Ft%3D19) for the most accurate reproduction.*
 
 # Patrick McMullan Company
 
