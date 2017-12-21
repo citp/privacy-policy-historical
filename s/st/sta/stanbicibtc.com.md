@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanbicibtc.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622162027id_/http%3A//stanbicibtc.com/nigeriagroup/AboutUs/Footer/Privacy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanbicibtc.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221141722id_/https%3A//stanbicibtc.com/nigeriagroup/AboutUs/Footer/Privacy-and-security-statement) for the most accurate reproduction.*
 
 # Privacy and security statement | Stanbic IBTC Holdings - Nigeria
 
