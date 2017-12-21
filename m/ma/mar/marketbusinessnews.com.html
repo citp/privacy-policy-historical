@@ -1,34 +1,32 @@
-<!--The following is the downloaded HTML source of the marketbusinessnews.com privacy policy that was archived on 2017-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622105318id_/http%3A//marketbusinessnews.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketbusinessnews.com privacy policy that was archived on 2017-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171221180529id_/http%3A//marketbusinessnews.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" prefix="" lang="en-GB"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" prefix="" lang="en-GB"><!--<![endif]--><head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="pingback" href="http://marketbusinessnews.com/xmlrpc.php">
-<!--[if lte IE 8]>
-	<script src="http://marketbusinessnews.com/wp-content/themes/HighendWP/scripts/html5shiv.js" type="text/javascript"></script>
-	<![endif]-->
- 
+
 <meta name="description" content="Market Business News Privacy Policy This Privacy Policy was last modified on December 22, 2013. Market Business News (us, we, or our) operates http://www.marketbusinessnews.com (the Site).">
 <link rel="publisher" type="text/html" title="Market Business News" href="http://marketbusinessnews.com/">
 <link rel="author" type="text/html" title="Joseph Nordqvist" href="http://marketbusinessnews.com/author/joseph-nordqvist/">
- 
+
 <title>privacy policy - Market Business News</title>
- 
+
 <meta name="news_keywords" content="">
 <meta name="original-source" content="http://marketbusinessnews.com/privacy-policy/">
 <meta name="robots" content="noindex,nofollow">
 <link rel="canonical" href="http://marketbusinessnews.com/privacy-policy/">
 <link rel="publisher" href="https://plus.google.com/u/0/+Marketbusinessnews/posts">
- 
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/marketbusinessnews.com\/privacy-policy\/","sameAs":["https:\/\/www.facebook.com\/marketbusinessnews\/","https:\/\/plus.google.com\/u\/0\/+Marketbusinessnews\/posts","https:\/\/twitter.com\/MBN_Business"],"@id":"#organization","name":"Market Business News","logo":"http:\/\/marketbusinessnews.com\/wp-content\/uploads\/2016\/10\/MBN_Logo.png"}</script>
+
 <link rel="dns-prefetch" href="//s0.wp.com">
-<link rel="dns-prefetch" href="//www.google.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Market Business News » Feed" href="http://marketbusinessnews.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Market Business News » Comments Feed" href="http://marketbusinessnews.com/comments/feed/">
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/marketbusinessnews.com\/wp-includes\/js\/wp-emoji.js?ver=c67a56ca48ba7390ac75726fe11c9e70","twemoji":"http:\/\/marketbusinessnews.com\/wp-includes\/js\/twemoji.js?ver=c67a56ca48ba7390ac75726fe11c9e70"}};
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/marketbusinessnews.com\/wp-includes\/js\/wp-emoji.js?ver=742df25418306a9b203c2c48af0e532b","twemoji":"http:\/\/marketbusinessnews.com\/wp-includes\/js\/twemoji.js?ver=742df25418306a9b203c2c48af0e532b"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
 
@@ -40,24 +38,43 @@
 	var context = canvas.getContext && canvas.getContext( '2d' );
 
 	/**
+	 * Check if two sets of Emoji characters render the same.
+	 *
+	 * @param set1 array Set of Emoji characters.
+	 * @param set2 array Set of Emoji characters.
+	 * @returns {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( set1, set2 ) {
+		var stringFromCharCode = String.fromCharCode;
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set1 ), 0, 0 );
+		var rendered1 = canvas.toDataURL();
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set2 ), 0, 0 );
+		var rendered2 = canvas.toDataURL();
+
+		return rendered1 === rendered2;
+	}
+
+	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
 	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
+	 * @param type {String} Whether to test for support of "flag" or "emoji".
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
-		var stringFromCharCode = String.fromCharCode,
-			flag, flag2, emoji41, emoji42;
+		var isIdentical;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
 		}
-
-		// Cleanup from previous test.
-		context.clearRect( 0, 0, canvas.width, canvas.height );
 
 		/*
 		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
@@ -76,16 +93,12 @@
 				 * To test for support, we try to render it, and compare the rendering to how it would look if
 				 * the browser doesn't render it correctly ([U] + [N]).
 				 */
-				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
-				flag = canvas.toDataURL();
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 56826, 55356, 56819 ],
+					[ 55356, 56826, 8203, 55356, 56819 ]
+				);
 
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				// Add a zero width space between the characters, to force rendering as characters.
-				context.fillText( stringFromCharCode( 55356, 56826, 8203, 55356, 56819 ), 0, 0 );
-				flag2 = canvas.toDataURL();
-
-				if ( flag !== flag2 ) {
+				if ( isIdentical ) {
 					return false;
 				}
 
@@ -96,35 +109,25 @@
 				 * To test for support, we try to render it, and compare the rendering to how it would look if
 				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
 				 */
-				// Cleanup from previous test.
-				context.clearRect( 0, 0, canvas.width, canvas.height );
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ],
+					[ 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ]
+				);
 
-				context.fillText( stringFromCharCode( 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ), 0, 0 );
-				flag = canvas.toDataURL();
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ), 0, 0 );
-				flag2 = canvas.toDataURL();
-
-				return flag !== flag2;
-			case 'emoji4':
+				return ! isIdentical;
+			case 'emoji':
 				/*
-				 * Emoji 5 has faries of all genders.
+				 * Emoji 5 has fairies of all genders.
 				 *
 				 * To test for support, try to render a new emoji (fairy, male), then compares
 				 * it to how it would look if the browser doesn't render it correctly
 				 * (fairy + male sign).
 				 */
-				context.fillText( stringFromCharCode( 55358, 56794, 8205, 9794, 65039 ), 0, 0 );
-				emoji41 = canvas.toDataURL();
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55358, 56794, 8203, 9794, 65039 ), 0, 0 );
-				emoji42 = canvas.toDataURL();
-
-				return emoji41 !== emoji42;
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55358, 56794, 8205, 9794, 65039 ],
+					[ 55358, 56794, 8203, 9794, 65039 ]
+				);
+				return ! isIdentical;
 		}
 
 		return false;
@@ -138,7 +141,7 @@
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'flag', 'emoji4' );
+	tests = Array( 'flag', 'emoji' );
 
 	settings.supports = {
 		everything: true,
@@ -190,193 +193,235 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://marketbusinessnews.com/wp-includes/js/twemoji.js?ver=c67a56ca48ba7390ac75726fe11c9e70" type="text/javascript" defer=""></script><script src="http://marketbusinessnews.com/wp-includes/js/wp-emoji.js?ver=c67a56ca48ba7390ac75726fe11c9e70" type="text/javascript" defer=""></script>
-<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel="stylesheet" id="contact-form-7-css" href="http://marketbusinessnews.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=c67a56ca48ba7390ac75726fe11c9e70" type="text/css" media="all">
-<link rel="stylesheet" id="cookie-consent-style-css" href="http://marketbusinessnews.com/wp-content/plugins/uk-cookie-consent/assets/css/style.css?ver=c67a56ca48ba7390ac75726fe11c9e70" type="text/css" media="all">
-<link rel="stylesheet" id="hb_styles-css" href="http://marketbusinessnews.com/wp-content/themes/HighendWP/style.css?ver=3.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="hb_responsive-css" href="http://marketbusinessnews.com/wp-content/themes/HighendWP/css/responsive.css?ver=3.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="hb_icomoon-css" href="http://marketbusinessnews.com/wp-content/themes/HighendWP/css/icomoon.css?ver=3.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="recent-posts-widget-with-thumbnails-public-style-css" href="http://marketbusinessnews.com/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=5.0" type="text/css" media="all">
-<link rel="stylesheet" id="sharedaddy-css" href="http://marketbusinessnews.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.css?ver=5.0" type="text/css" media="all">
-<link rel="stylesheet" id="social-logos-css" href="http://marketbusinessnews.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1" type="text/css" media="all">
+		</script><script src="http://marketbusinessnews.com/wp-includes/js/twemoji.js?ver=742df25418306a9b203c2c48af0e532b" type="text/javascript" defer=""></script><script src="http://marketbusinessnews.com/wp-includes/js/wp-emoji.js?ver=742df25418306a9b203c2c48af0e532b" type="text/javascript" defer=""></script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="http://marketbusinessnews.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9" type="text/css" media="all">
+<link rel="stylesheet" id="cookie-consent-style-css" href="http://marketbusinessnews.com/wp-content/plugins/uk-cookie-consent/assets/css/style.css?ver=742df25418306a9b203c2c48af0e532b" type="text/css" media="all">
+<link rel="stylesheet" id="better-framework-main-fonts-css" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CRoboto:400,500,400italic" type="text/css" media="all">
 <script type="text/javascript" src="http://marketbusinessnews.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://marketbusinessnews.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://marketbusinessnews.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/html5shiv.min.js?ver=3.4.3'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://marketbusinessnews.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/respond.min.js?ver=3.4.3'></script>
+<![endif]-->
 <link rel="https://api.w.org/" href="http://marketbusinessnews.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://marketbusinessnews.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://marketbusinessnews.com/wp-includes/wlwmanifest.xml">
-<link rel="shortlink" href="http://wp.me/P3LE6g-21R">
+<link rel="shortlink" href="https://wp.me/P3LE6g-21R">
 <link rel="alternate" type="application/json+oembed" href="http://marketbusinessnews.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmarketbusinessnews.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://marketbusinessnews.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmarketbusinessnews.com%2Fprivacy-policy%2F&amp;format=xml">
 <link rel="https://github.com/WP-API/WP-API" href="http://marketbusinessnews.com/wp-json">
-<style id="ctcc-css" type="text/css" media="screen">#catapult-cookie-bar{box-sizing:border-box;max-height:0;opacity:0;z-index:99999;overflow:hidden;color:#7f7f7f;position:fixed;left:0;bottom:0;width:100%;background-color:#dbdbdb;}#catapult-cookie-bar a{color:#bcbcbc;}#catapult-cookie-bar .x_close span{background-color:#dd3333;}button#catapultCookie{background:#729abf;color:#dd3333;}#catapult-cookie-bar h3{color:#7f7f7f;}.has-cookie-bar #catapult-cookie-bar{opacity:1;max-height:999px;min-height:30px;}</style>
+<style id="ctcc-css" type="text/css" media="screen">
+				#catapult-cookie-bar {
+					box-sizing: border-box;
+					max-height: 0;
+					opacity: 0;
+					z-index: 99999;
+					overflow: hidden;
+					color: #7f7f7f;
+					position: fixed;
+					left: 0;
+					bottom: 0;
+					width: 100%;
+					background-color: #dbdbdb;
+				}
+				#catapult-cookie-bar a {
+					color: #bcbcbc;
+				}
+				#catapult-cookie-bar .x_close span {
+					background-color: #dd3333;
+				}
+				button#catapultCookie {
+					background:#729abf;
+					color: #dd3333;
+					
+				}
+				#catapult-cookie-bar h3 {
+					color: #7f7f7f;
+				}
+				.has-cookie-bar #catapult-cookie-bar {
+					opacity: 1;
+					max-height: 999px;
+					min-height: 30px;
+				}</style>
 <link rel="dns-prefetch" href="//v0.wordpress.com">
-<style type="text/css">img#wpstats{display:none}</style> <style type="text/css">::selection{background:#2980b9;color:#FFF;}::-moz-selection{background:#2980b9;color:#FFF;}a:hover,.user-entry a,#lang_sel_footer a:hover,.widget_calendar tbody a,#header-bar a:hover,.minimal-skin #main-nav>li a:hover,#header-inner.stuck .second-skin #main-nav>li>a:hover,.minimal-skin #main-nav li.current-menu-item>a,.minimal-skin #main-nav li.sfHover>a,.minimal-skin #main-nav>li.current-menu-ancestor>a,#close-fancy-search,article.search-entry a.search-thumb:hover,.map-info-section .minimize-section:hover,.hb-blog-small h3.title a:hover,.post-header .post-meta-info a:hover,.post-content h2.title a,.like-holder:hover i,.comments-holder:hover i,.share-holder:hover i,.comments-holder a:hover,.hb-blog-grid .comments-holder:hover,.hb-blog-grid .like-holder:hover,.most-liked-list li:hover .like-count,.simple-read-more:hover,.team-member-box:hover .team-member-name,.testimonial-author .testimonial-company:hover,.close-modal:hover,.hb-tabs-wrapper .nav-tabs li.active a,.hb-icon,.hb-logout-box small a:hover,.hb-gallery-sort li.hb-dd-header:hover strong,.filter-tabs li a:hover,ul.social-list li a:hover,div.pp_default .pp_close:hover,#main-wrapper .hb-woo-product.sale .price,.woocommerce .star-rating span,.woocommerce-page .star-rating span,.woocommerce-page div.product p.price,.hb-focus-color,#main-wrapper .hb-main-content .hb-blog-box-categories a:hover{color:#2980b9;}.hb-focus-color,.light-text a:hover,#header-bar.style-1 .top-widget .active,#header-bar.style-2 .top-widget .active,.top-widget:hover>a,#header-bar.style-2 .top-widget:hover>a,.top-widget.social-list a:hover,#main-wrapper .hb-dropdown-box a:hover,.social-list ul li a:hover,.light-menu-dropdown #main-nav ul.sub-menu li a:hover,.light-menu-dropdown #main-nav ul.sub-menu li.sfHover>a,.light-menu-dropdown #main-nav ul.sub-menu li.current-menu-item>a,.light-menu-dropdown #main-nav ul.sub-menu li.current-menu-ancestor>a,#fancy-search .ui-autocomplete li a:hover,#fancy-search .ui-autocomplete li:hover span.search-title,#fancy-search .ui-autocomplete li a,.share-holder .hb-dropdown-box ul li a:hover,.share-holder .hb-dropdown-box ul li a:hover i,.share-holder.active,.share-holder.active i,.author-box .social-list li a:hover,#respond small a:hover,.commentmetadata a:hover time,.comments-list .reply a,#footer.dark-style a:hover,.feature-box i.ic-holder-1,.feature-box.alternative i.ic-holder-1,.portfolio-simple-wrap .standard-gallery-item:hover .portfolio-description h3 a,#copyright-wrapper a:hover,.hb-effect-1 #main-nav>li>a::before,.hb-effect-1 a::after,.third-skin.hb-effect-1 #main-nav>li>a:hover,.third-skin.hb-effect-1 #main-nav>li.current-menu-item>a,.third-skin.hb-effect-1 #main-nav>li.sfHover>a,.second-skin.hb-effect-9 #main-nav #nav-search>a:hover,.hb-effect-10 #main-nav>li>a:hover,.hb-effect-10 #main-nav>li #nav-search a:hover,.hb-effect-10 #main-nav>li.current-menu-item>a,.like-holder:hover,.comments-holder:hover,.share-holder:hover,#main-nav ul.sub-menu li a:hover,.hb-side-nav li.menu-item-has-children:hover>a,.hb-side-nav li a:hover,.hb-side-nav li.current-menu-item>a,.hb-side-nav li.current-menu-ancestor>a,.hb-post-carousel .hb-post-info .hb-post-title:hover,.hb-post-carousel .hb-owl-item .hb-owl-read-more:hover span,.hb-post-carousel .hb-owl-item .hb-owl-read-more:hover{color:#2980b9!important;}.light-style .feature-box i.ic-holder-1,.light-style .feature-box.alternative i.ic-holder-1,.light-style .feature-box h4.bold{color:#f9f9f9!important;}.light-style .feature-box-content p{color:#ccc;}.like-holder.like-active i,.like-holder.like-active{color:#da4c26!important;}.hb-icon-container,.feature-box i.ic-holder-1{border-color:#2980b9;}.main-navigation.default-skin #main-nav>li>a:hover>span,.main-navigation.default-skin #main-nav>li.current-menu-item>a>span,.main-navigation.default-skin #main-nav>li.sfHover>a>span,.simple-read-more,.team-member-box.tmb-2:hover .team-member-description,.hb-logout-box small a:hover,#pre-footer-area,span[rel="tooltip"]{border-bottom-color:#2980b9;}.hb-pricing-item:hover,.hb-process-steps ul:before,.pace .pace-activity,.wpb_tabs .nav-tabs li.active a,#hb-preloader .spinner,.default-loading-icon:before{border-top-color:#2980b9;}blockquote.pullquote,.author-box,#main-wrapper .widget_nav_menu ul.menu li.current-menu-item>a,.hb-callout-box h3,.pace .pace-activity,.hb-non-transparent .hb-side-nav>li>a:hover,.hb-non-transparent .hb-side-nav>li.current-menu-item>a,.hb-non-transparent .hb-side-nav>li.current-menu-ancestor>a,.hb-non-transparent .hb-side-nav>li.sfHover>a,.hb-tabs-wrapper.tour-style.left-tabs>.nav-tabs>li.active a,.logout-dropdown ul li:hover,.light-menu-dropdown #main-nav ul.sub-menu li a:hover,.light-menu-dropdown #main-nav ul.sub-menu li.sfHover>a,.light-menu-dropdown #main-nav ul.sub-menu li.current-menu-item>a,.light-menu-dropdown #main-nav ul.sub-menu li.current-menu-ancestor>a,.light-menu-dropdown #main-nav ul.sub-menu li.sfHover>a{border-left-color:#2980b9;}#main-wrapper .right-sidebar .widget_nav_menu ul.menu li.current-menu-item>a,.hb-tabs-wrapper.tour-style.right-tabs>.nav-tabs>li.active a{border-right-color:#2980b9;}#to-top:hover,#contact-button:hover,#contact-button.active-c-button,.pagination ul li span,.single .pagination span,.single-post-tags a:hover,div.overlay,.portfolio-simple-wrap .standard-gallery-item:hover .hb-gallery-item-name:before,.progress-inner,.woocommerce .wc-new-badge,#main-wrapper .coupon-code input.button:hover,.woocommerce-page #main-wrapper button.button:hover,#main-wrapper input.checkout-button,.side-nav-bottom-part ul li a:hover,#main-wrapper #place_order,#mobile-menu.interactive .open-submenu.active,#mobile-menu.interactive .open-submenu:hover,.widget_product_search input[type=submit]{background-color:#2980b9;}#header-dropdown .close-map:hover,#sticky-shop-button:hover,#sticky-shop-button span,.quote-post-format .quote-post-wrapper a,.link-post-format .quote-post-wrapper a,.status-post-format .quote-post-wrapper a,span.highlight,mark,.feature-box:hover:not(.standard-icon-box) .hb-small-break,.content-box i.box-icon,.hb-button,input[type=submit],a.read-more,.hb-effect-2 #main-nav>li>a>span::after,.hb-effect-3 #main-nav>li>a::before,.hb-effect-4 #main-nav>li>a::before,.hb-effect-6 #main-nav>li>a::before,.hb-effect-7 #main-nav>li>a span::after,.hb-effect-8 #main-nav>li>a:hover span::before,.hb-effect-9 #main-nav>li>a>span::before,.hb-effect-9 #main-nav>li>a>span::after,.hb-effect-10 #main-nav>li>a:hover span::before,.hb-effect-10 #main-nav>li.current-menu-item>a span::before,#main-nav>li.sfHover>a span::before,#main-nav>li.current-menu-ancestor>a span::before,.pace .pace-progress,#main-wrapper .hb-bag-buttons a.checkout-button,.hb-owl-slider .owl-prev:hover,.hb-owl-slider .owl-next:hover{background:#2980b9;}.filter-tabs li.selected a,#main-wrapper .single_add_to_cart_button:hover{background:#2980b9!important;}table.focus-header th,.second-skin #main-nav>li a:hover,.second-skin #main-nav>li.current-menu-item>a,.second-skin #main-nav>li.sfHover>a,#header-inner.stuck .second-skin #main-nav>li>a:hover,.second-skin #main-nav>li.current-menu-item>a,.crsl-nav a:hover,.feature-box:hover i.ic-holder-1{background:#2980b9;color:#FFF;}.load-more-posts:hover,.dropcap.fancy,.tagcloud>a:hover,.hb-icon.hb-icon-medium.hb-icon-container:hover{background-color:#2980b9;color:#FFF;}.filter-tabs li.selected a{border-color:#2980b9!important;}.hb-second-light:hover{background:#FFF!important;color:#2980b9!important;}.hb-effect-11 #main-nav>li>a:hover::before,.hb-effect-11 #main-nav>li.sfHover>a::before,.hb-effect-11 #main-nav>li.current-menu-item>a::before,.hb-effect-11 #main-nav>li.current-menu-ancestor>a::before{color:#2980b9;text-shadow:7px 0 #2980b9,-7px 0 #2980b9;}#main-wrapper .product-loading-icon{background:rgba(41,128,185,0.85);}.hb-single-next-prev a:hover{background:#2980b9;}.hb-more-details:hover,.hb-buy-button:hover{color:#FFF;background:rgba(41,128,185,0.8);}.hb-button,input[type=submit]{box-shadow:0 3px 0 0 #004e87;}.hb-button.special-icon i,.hb-button.special-icon i::after{background:#004e87;}#main-wrapper a.active-language,#main-wrapper a.active-language:hover{color:#aaa!important;}.feature-box:hover:not(.standard-icon-box):not(.alternative) i,#main-wrapper .hb-bag-buttons a:hover,#main-wrapper .hb-dropdown-box .hb-bag-buttons a:hover,#main-wrapper .social-icons.dark li a:hover i,#main-wrapper #footer .social-icons.dark li a i,#footer.dark-style ul.social-icons.light li a:hover,#main-wrapper .hb-single-next-prev a:hover{color:#FFF!important;}#header-bar{background:#34495e;color:#FFF;color:rgba(255,255,255,0.7);border-bottom:0!important;}#header-bar a{color:#FFF;color:rgba(255,255,255,0.7);}#header-bar a:hover,#header-bar.style-1 .top-widget .active{color:#FFF!important;}#header-bar.style-1 .top-widget .active{color:#FFF!important;}#main-wrapper #header-bar .top-widget{border-left-color:rgba(255,255,255,0.15)!important;border-right-color:rgba(255,255,255,0.15)!important;}#footer{background:#2c3e50;}#copyright-wrapper{background:#34495e;}#main-wrapper.hb-boxed-layout,#main-wrapper.hb-stretched-layout{background:#FFF;}#main-wrapper.hb-boxed-layout #pre-footer-area:after{border-top-color:#FFF;}#footer{color:rgba(255,255,255,0.6)!important;}#main-wrapper #footer a:hover,#main-wrapper #copyright-wrapper a:hover{color:#FFF!important;}#footer .widget_pages ul>li,#footer .widget_categories ul>li,#footer .widget_archive ul>li,#footer .widget_nav_menu ul>li,#footer .widget_recent_comments ul>li,#footer .widget_meta ul>li,#footer .widget_recent_entries ul>li,#footer .widget_product_categories ul>li,#footer .widget_layered_nav ul li{border-top-color:rgba(255,255,255,0.1);}#footer.dark-style .widget-item h4{color:#FFF!important;}#main-content .hb-main-content a{color:#00f;}#main-content .hb-main-content a:hover{color:#09f;}.single .title{display:none;}.textwidget a{color:#00f;}ul{border-radius:3px 3px 3px 3px;list-style:disc outside none;padding:10px 10px 10px 25px;}ol{border-radius:3px 3px 3px 3px;list-style:disc outside none;padding:10px 10px 10px 25px;}li{margin-left:15px;}</style>
-<script type="text/javascript">var ajaxurl = "http://marketbusinessnews.com/wp-admin/admin-ajax.php"</script><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://marketbusinessnews.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="http://marketbusinessnews.com/wp-content/uploads/2015/11/cropped-Screen-Shot-2015-11-11-at-10.58.36-PM-32x32.png" sizes="32x32">
+<style type="text/css">img#wpstats{display:none}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://marketbusinessnews.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="amphtml" href="http://marketbusinessnews.com/privacy-policy/amp/"><script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "organization",
+    "@id": "#organization",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "http:\/\/marketbusinessnews.com\/wp-content\/uploads\/2016\/10\/MBN_Logo.png"
+    },
+    "url": "http:\/\/marketbusinessnews.com\/",
+    "name": "Market Business News",
+    "description": "The latest business news around the world. Written by Market Business News&#039;s very own editorial team to deliver reliable, up to date, and honest news."
+}</script>
+<script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "WebSite",
+    "name": "Market Business News",
+    "alternateName": "The latest business news around the world. Written by Market Business News&#039;s very own editorial team to deliver reliable, up to date, and honest news.",
+    "url": "http:\/\/marketbusinessnews.com\/"
+}</script>
+<script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "WebPage",
+    "headline": "privacy policy",
+    "description": "Market Business News Privacy PolicyThis Privacy Policy was last modified on December 22, 2013.Market Business News (\"us\", \"we\", or \"our\") operates http:\/\/www.marketbusinessnews.com (the \"Site\"). This page informs you of our policies regarding the col",
+    "author": {
+        "@type": "Person",
+        "@id": "#person-JosephNordqvist",
+        "name": "Joseph Nordqvist"
+    },
+    "interactionStatistic": [
+        {
+            "@type": "InteractionCounter",
+            "interactionType": "http:\/\/schema.org\/CommentAction",
+            "userInteractionCount": "0"
+        }
+    ],
+    "publisher": {
+        "@id": "#organization"
+    },
+    "mainEntityOfPage": "http:\/\/marketbusinessnews.com\/privacy-policy\/",
+    "potentialAction": {
+        "comments": {
+            "@type": "SearchAction",
+            "target": "http:\/\/marketbusinessnews.com\/search\/{search_term}",
+            "query-input": "required name=search_term"
+        }
+    }
+}</script>
+<link rel="stylesheet" id="bf-minifed-css-1" href="http://marketbusinessnews.com/wp-content/bs-booster-cache/1683f987fda693fc55436d21f300d68d.css" type="text/css" media="all">
+<link rel="stylesheet" id="2.2.0-1512495310" href="http://marketbusinessnews.com/wp-content/bs-booster-cache/17e04900f76165d3b36f50147daf1e41.css" type="text/css" media="all">
+<link rel="icon" href="http://marketbusinessnews.com/wp-content/uploads/2015/11/cropped-Screen-Shot-2015-11-11-at-10.58.36-PM-32x32.png" sizes="32x32">
 <link rel="icon" href="http://marketbusinessnews.com/wp-content/uploads/2015/11/cropped-Screen-Shot-2015-11-11-at-10.58.36-PM-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon-precomposed" href="http://marketbusinessnews.com/wp-content/uploads/2015/11/cropped-Screen-Shot-2015-11-11-at-10.58.36-PM-180x180.png">
 <meta name="msapplication-TileImage" content="http://marketbusinessnews.com/wp-content/uploads/2015/11/cropped-Screen-Shot-2015-11-11-at-10.58.36-PM-270x270.png">
- 
+
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-42886819-3', 'auto');
+  ga('create', 'UA-42886819-1', 'auto');
   ga('send', 'pageview');
 </script>
- 
-<noscript><style type="text/css">.wpb_animate_when_almost_visible{opacity:1;}</style></noscript><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-8012252218164356",
-    enable_page_level_ads: true
-  });
-</script>
- 
-<style type="text/css">body,.team-position,.hb-single-next-prev .text-inside,.hb-dropdown-box.cart-dropdown .buttons a,input[type=text],textarea,input[type=email],input[type=password],input[type=tel],#fancy-search input[type=text],#fancy-search .ui-autocomplete li .search-title,.quote-post-format .quote-post-wrapper blockquote,table th,.hb-button,input[type=submit],a.read-more,blockquote.pullquote,blockquote,.hb-skill-meter .hb-skill-meter-title,.hb-tabs-wrapper .nav-tabs li a,#main-wrapper .coupon-code input.button,#main-wrapper .form-row input.button,#main-wrapper input.checkout-button,#main-wrapper input.hb-update-cart,.woocommerce-page #main-wrapper .shipping-calculator-form-hb button.button,.hb-accordion-pane,.hb-accordion-tab{font-family:"Open Sans",sans-serif;font-size:16px;line-height:25px;letter-spacing:0px;font-weight:;}a.read-more,input[type=submit],.hb-caption-layer .hb-button,.hb-push-button-text,#pre-footer-area .hb-button,.hb-button,.hb-single-next-prev .text-inside,#main-wrapper .coupon-code input.button,#main-wrapper .form-row input.button,#main-wrapper input.checkout-button,#main-wrapper input.hb-update-cart,.woocommerce-page #main-wrapper .shipping-calculator-form-hb button.button{font-weight:700;letter-spacing:1px}#hb-side-menu li a,#main-nav ul.sub-menu li a,#main-nav ul.sub-menu ul li a,#main-nav,#main-nav li a,.light-menu-dropdown #main-nav>li.megamenu>ul.sub-menu>li>a,#main-nav>li.megamenu>ul.sub-menu>li>a{font-family:"Open Sans Condensed",sans-serif;font-size:17px;letter-spacing:-1px;font-weight:;text-transform:none;}#main-nav ul.sub-menu li a,#hb-side-menu ul.sub-menu li a,#main-nav ul.sub-menu ul li a,ul.sub-menu .widget-item h4,#main-nav>li.megamenu>ul.sub-menu>li>a #main-nav>li.megamenu>ul.sub-menu>li>a,#main-nav>li.megamenu>ul.sub-menu>li>a{font-family:"Open Sans Condensed",sans-serif;font-size:15px;letter-spacing:0px;font-weight:;text-transform:none;}#copyright-wrapper,#copyright-wrapper a{font-family:"ABeeZee",sans-serif;font-size:12px;line-height:22px;letter-spacing:0px;font-weight:;}h1,article.single h1.title,#hb-page-title .light-text h1,#hb-page-title .dark-text h1{font-family:"Open Sans Condensed",sans-serif;font-size:28px;line-height:36px;letter-spacing:0px;font-weight:700;}h2,#hb-page-title h2,.post-content h2.title{font-family:"Open Sans Condensed",sans-serif;font-size:26px;line-height:40px;letter-spacing:0px;font-weight:700;}h3,h3.title-class,.hb-callout-box h3,.hb-gal-standard-description h3{font-family:"Open Sans Condensed",sans-serif;font-size:24px;line-height:40px;letter-spacing:0px;font-weight:700;}</style>
-<title>privacy policy - Market Business News</title>
-<meta name="google-site-verification" content="pqNItsV8N4WFhm5m7HPI5uLk-49f5y2-6fHE2I60Kr8">
-<script async="" type="text/javascript" src="//marketbusinessnews.disqus.com/count.js"></script></head>
- 
- 
-<body class="page-template-default page page-id-7803  hb-modern-search highend-prettyphoto hb-boxed-layout wpb-js-composer js-comp-ver-5.1.1 vc_responsive" data-fixed-footer="0" itemscope="itemscope" itemtype="http://schema.org/WebPage">
-<div id="mobile-menu-wrap">
-<form method="get" class="mobile-search-form" action="http://marketbusinessnews.com/"><input type="text" placeholder="Search" name="s" autocomplete="off"></form>
-<a class="mobile-menu-close"><i class="hb-icon-x"></i></a>
-<nav id="mobile-menu" class="clearfix interactive">
-<div class="menu-navigate-container"><ul id="menu-navigate" class="menu"><li id="menu-item-5201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5201"><a href="http://www.marketbusinessnews.com/news/">Latest</a></li>
-<li id="menu-item-104199" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-104199"><a href="http://marketbusinessnews.com/economics-finance/">Business</a></li>
-<li id="menu-item-104200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-104200"><a href="http://marketbusinessnews.com/technology-media/">Technology</a>
-<ul class="sub-menu">
-<li id="menu-item-156162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156162"><a href="http://marketbusinessnews.com/ai/">Artificial Intelligence</a></li>
-<li id="menu-item-156167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156167"><a href="http://marketbusinessnews.com/vr/">VR/AR</a></li>
-<li id="menu-item-156163" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156163"><a href="http://marketbusinessnews.com/autonomous-vehicles/">Autonomous Vehicles</a></li>
-<li id="menu-item-156164" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156164"><a href="http://marketbusinessnews.com/graphene/">Graphene</a></li>
-</ul>
-</li>
-<li id="menu-item-96863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96863"><a href="http://marketbusinessnews.com/financial-glossary/">Financial Glossary</a></li>
-</ul></div></nav>
+
+
+<style>
+.single-page-content .featured { 
+display: none; 
+}
+.single-post-share .post-share-btn.post-share-btn-comments {display: none;}
+
+</style>
+
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript> </head>
+<body class="page-template-default page page-id-7803 active-top-line ltr close-rh page-layout-2-col-right boxed  wpb-js-composer js-comp-ver-5.4.1 vc_responsive bs-ll-d" dir="ltr">
+<div class="off-canvas-overlay"></div>
+<div class="off-canvas-container left skin-white">
+<div class="off-canvas-inner">
+<spn class="canvas-close"><i></i></spn>
+<div class="off-canvas-header">
+<div class="site-description">The latest business news around the world. Written by Market Business News's very own editorial team to deliver reliable, up to date, and honest news.</div>
 </div>
- 
-<div id="hb-wrap">
- 
-<div id="main-wrapper" class="hb-boxed-layout hb_boxed_layout_attached with-shadow width-1140 hb-responsive nav-type-1" data-cart-url="" data-cart-count="" data-search-header="1">
- 
-<header id="hb-header" class=" without-top-bar">
- 
-<div id="header-bar" class="style-1 clearfix">
- 
+<div class="off-canvas-search">
+<form role="search" method="get" action="http://marketbusinessnews.com">
+<input type="text" name="s" value="" placeholder="Search...">
+<i class="fa fa-search"></i>
+</form>
+</div>
+<div class="off-canvas-menu">
+<div class="off-canvas-menu-fallback"></div>
+</div>
+<div class="off_canvas_footer">
+<div class="off_canvas_footer-info entry-content">
+</div>
+</div>
+</div>
+</div>
+<div class="main-wrap content-main-wrap">
+<header id="header" class="site-header header-style-8 boxed" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+<div class="content-wrap">
 <div class="container">
- 
-<div id="top-custom-link-widget" class="top-widget float-right">
-<a href="http://marketbusinessnews.com/subscribe/"><i class="icon-user"></i>Subscribe</a>
-</div>
- 
- 
-<div id="top-socials-widget" class="top-widget float-right social-list">
-<ul class="clearfix">
-<li>
-<a href="http://facebook.com/marketbusinessnews" original-title="Facebook" target="_blank"><i class="hb-moon-facebook"></i></a>
-</li>
-<li>
-<a href="https://twitter.com/MBN_Business" original-title="Twitter" target="_blank"><i class="hb-moon-twitter"></i></a>
-</li>
-<li>
-<a href="https://plus.google.com/+Marketbusinessnews/" original-title="Google-plus" target="_blank"><i class="hb-moon-google-plus"></i></a>
-</li>
-</ul>
-</div>
- 
-</div>
- 
-</div>
- 
-<div id="header-dropdown">
-<div id="contact-map" data-map-buttons="1" data-map-level="16" data-map-lat="48.856614" data-map-lng="2.352222" data-map-img="" data-overlay-color="#ff6838"></div>
-<div class="close-map"><i class="hb-moon-close-2"></i></div>
-</div> <style type="text/css">#logo img,.stuck #logo img{max-height:50px;}</style>
- 
-<div id="header-inner" class="nav-type-1 clearfix" style="height: 90px; line-height: 90px;" data-height="90" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
- 
-<div id="header-inner-bg">
- 
-<div class="container">
- 
-<div id="logo" style="height:90px; line-height: 90px;">
-<a href="http://marketbusinessnews.com" class="image-logo">
-<span class="hb-dark-logo hb-visible-logo hb-logo-wrap">
-<img src="http://marketbusinessnews.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-10-at-12.31.52-AM.png" width="318" height="72" class="default" alt="Market Business News">
-<img src="http://marketbusinessnews.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-10-at-12.31.52-AM.png" class="retina" width="636" height="144" alt="Market Business News">
-</span>
+<div class="header-inner clearfix">
+<div id="site-branding" class="site-branding">
+<p id="site-title" class="logo h1 img-logo">
+<a href="http://marketbusinessnews.com/" itemprop="url" rel="home">
+<img id="site-logo" src="http://marketbusinessnews.com/wp-content/uploads/2016/10/MBN_Logo.png" alt="Market Business News">
+<span class="site-title">Market Business News - The latest business news around the world. Written by Market Business News's very own editorial team to deliver reliable, up to date, and honest news.</span>
 </a>
+</p>
 </div>
- 
- 
-<nav class="main-navigation default-skin no-effect light-menu-dropdown clearfix" style="height: 90px; line-height: 90px;" data-height="90" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
-<ul id="main-nav" class="sf-menu "><li id="menu-item-5201" class="menu-item menu-item-type-custom menu-item-object-custom no-megamenu"><a href="http://www.marketbusinessnews.com/news/"><span>Latest</span></a></li>
-<li id="menu-item-104199" class="menu-item menu-item-type-taxonomy menu-item-object-category megamenu columns-2 no-caption"><a href="http://marketbusinessnews.com/economics-finance/"><span>Business</span></a></li>
-<li id="menu-item-104200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children no-megamenu"><a href="http://marketbusinessnews.com/technology-media/"><span>Technology</span></a>
-<ul style="" class="sub-menu ">
-<li id="menu-item-156162" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://marketbusinessnews.com/ai/"><span>Artificial Intelligence</span></a></li>
-<li id="menu-item-156167" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://marketbusinessnews.com/vr/"><span>VR/AR</span></a></li>
-<li id="menu-item-156163" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://marketbusinessnews.com/autonomous-vehicles/"><span>Autonomous Vehicles</span></a></li>
-<li id="menu-item-156164" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://marketbusinessnews.com/graphene/"><span>Graphene</span></a></li>
+<nav id="menu-main" class="menu main-menu-container  show-search-item menu-actions-btn-width-1" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<div class="menu-action-buttons width-1">
+<div class="search-container close">
+<span class="search-handler"><i class="fa fa-search"></i></span>
+<div class="search-box clearfix">
+<form role="search" method="get" class="search-form clearfix" action="http://marketbusinessnews.com">
+<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" autocomplete="off">
+<input type="submit" class="search-submit" value="Search">
+</form>
+</div>
+</div>
+</div>
+<ul id="main-navigation" class="main-menu menu bsm-pure clearfix">
+<li id="menu-item-104199" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-68 better-anim-fade menu-item-104199"><a href="http://marketbusinessnews.com/economics-finance/" itemprop="url">Business</a></li>
+<li id="menu-item-104200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-64 better-anim-fade menu-item-104200"><a href="http://marketbusinessnews.com/technology-media/" itemprop="url">Technology</a></li>
+<li id="menu-item-96863" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-96863"><a href="http://marketbusinessnews.com/financial-glossary/" itemprop="url">Financial Glossary</a></li>
 </ul>
-</li>
-<li id="menu-item-96863" class="menu-item menu-item-type-post_type menu-item-object-page no-megamenu"><a href="http://marketbusinessnews.com/financial-glossary/"><span>Financial Glossary</span></a></li>
-</ul>
-<a href="#" id="show-nav-menu"><i class="icon-bars"></i></a>
 </nav>
- 
 </div>
- 
 </div>
- 
 </div>
- 
 </header>
- 
- 
-<div class="hb-color-background small-padding dark-text" id="hb-page-title">
-<div class="hb-image-bg-wrap" style="background-color:#ffffff"></div>
-<div class="container clearfix alignleft">
- 
-<div class="hb-page-title simple-title dark-text alignleft">
-<h1 class="">privacy policy </h1>
+<div class="rh-header clearfix dark deferred-block-exclude">
+<div class="rh-container clearfix">
+<div class="menu-container close">
+<span class="menu-handler"><span class="lines"></span></span>
 </div>
- 
- 
-<div class="breadcrumbs-wrapper">
-<div class="breadcrumbs-inside">
-<a href="http://marketbusinessnews.com">Home</a> <span class="sep-icon"><i class="icon-angle-right"></i></span> <span>privacy policy</span> </div>
-</div>
- 
-<div class="clear"></div>
+<div class="logo-container">
+<a href="http://marketbusinessnews.com/" itemprop="url" rel="home">
+<img src="http://marketbusinessnews.com/wp-content/uploads/2016/12/MBN_Logo.png" alt="Market Business News"> </a>
 </div>
 </div>
- 
- 
-<div id="slider-section" class="clearfix " style="">
-<canvas id="hb-canvas-effect"></canvas>
 </div>
- 
- 
-<div id="main-content">
-<div class="container">
-<div class="row right-sidebar main-row">
-<div id="page-7803" class="post-7803 page type-page status-publish hentry">
- 
-<div class="col-9 hb-equal-col-height hb-main-content">
- 
- 
+<div class="content-wrap">
+<main id="content" class="content-container">
+<div class="container layout-2-col layout-2-col-1 layout-right-sidebar">
+<div class="row main-section">
+<div class="col-sm-8 content-column">
+<div class="single-container">
+<article class="post-7803 type-page has-post-thumbnail  single-page-content single-page-simple-content">
+<h1 class="section-heading sh-t1 sh-s1">
+<span class="post-title h-text">privacy policy</span></h1>
+<div class="entry-content clearfix">
+
+
 <div itemscope="" itemtype="http://schema.org/Article">
- 
+
 <span itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
 <meta itemprop="name" content="Market Business News">
 <meta itemprop="description" content="The latest business news around the world. Written by Market Business News's very own editorial team to deliver reliable, up to date, and honest news.">
- 
+
 <span itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
 <meta itemprop="name" content="Market Business News logo">
 <meta itemprop="text" content="Market Business News logo">
@@ -389,22 +434,22 @@
 <meta itemprop="height" content="144">
 <meta itemprop="encodingFormat" content="image/png">
 <meta itemprop="text" content="MBN logo">
-</span>  
+</span> 
 <meta itemprop="url" content="http://marketbusinessnews.com/">
-</span>  
- 
+</span> 
+
 <span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
 <meta itemprop="name" content="Joseph Nordqvist">
-<meta itemprop="description" content="As editor-in-chief of MBN, Joseph is at the forefront of the website's day-to-day operations, management and direction. Joseph covers a range of topics that impact the global market, including new technologies, significant business developments, and major scientific breakthroughs.">
- 
+<meta itemprop="description" content="As editor-in-chief of MBN, Joseph is at the forefront of the website’s day-to-day operations, management and direction. Joseph covers a range of topics that impact the global market, including new technologies, significant business developments, and major scientific breakthroughs.">
+
 <span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
-<meta itemprop="url" content="http://0.gravatar.com/avatar/990ee68e29f3f8b62c0c7a541974c46e?s=128&amp;d=blank&amp;r=g">
-<meta itemprop="contentUrl" content="http://0.gravatar.com/avatar/990ee68e29f3f8b62c0c7a541974c46e?s=128&amp;d=blank&amp;r=g">
+<meta itemprop="url" content="http://www.gravatar.com/avatar/990ee68e29f3f8b62c0c7a541974c46e?s=128">
+<meta itemprop="contentUrl" content="http://www.gravatar.com/avatar/990ee68e29f3f8b62c0c7a541974c46e?s=128">
 <meta itemprop="width" content="128">
 <meta itemprop="height" content="128">
-</span>  
+</span> 
 <meta itemprop="url" content="http://marketbusinessnews.com/author/joseph-nordqvist/">
-</span>  
+</span> 
 <meta itemprop="url" content="http://marketbusinessnews.com/privacy-policy/">
 <meta itemprop="mainEntityOfPage" content="http://marketbusinessnews.com/privacy-policy/">
 <meta itemprop="datePublished" content="2013-12-21T18:22:42+00:00">
@@ -414,7 +459,7 @@
 <meta itemprop="name" content="privacy policy">
 <meta itemprop="headline" content="privacy policy">
 <meta itemprop="description" content="Market Business News Privacy Policy This Privacy Policy was last modified on December 22, 2013. Market Business News (us, we, or our) operates http://www.marketbusinessnews.com (the Site).">
- 
+
 <span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
 <meta itemprop="name" content="MBN logo">
 <meta itemprop="url" content="http://marketbusinessnews.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-10-at-12.31.52-AM.png">
@@ -425,7 +470,7 @@
 <meta itemprop="height" content="144">
 <meta itemprop="encodingFormat" content="image/png">
 <meta itemprop="text" content="MBN logo">
-</span>  
+</span> 
 <div itemprop="articleBody">
 <h1>Market Business News Privacy Policy</h1>
 <p>This Privacy Policy was last modified on December 22, 2013.</p>
@@ -460,203 +505,184 @@ Our Site does not address anyone under the age of 13 (“Children”). We do not
 Market Business News may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.</p>
 <p><strong>Contact Us</strong><br>
 If you have any questions about this Privacy Policy, please <a href="http://marketbusinessnews.com/contact/">contact</a> us.</p>
-<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this article:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-7803" class="share-twitter sd-button share-icon" href="http://marketbusinessnews.com/privacy-policy/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-7803" class="share-facebook sd-button share-icon" href="http://marketbusinessnews.com/privacy-policy/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-linkedin"><a rel="nofollow" data-shared="sharing-linkedin-7803" class="share-linkedin sd-button share-icon" href="http://marketbusinessnews.com/privacy-policy/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="http://marketbusinessnews.com/privacy-policy/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>
-</div>  
-</div>  
- 
-<hr>
+</div> 
+</div> 
+
 </div>
- 
- 
-<div class="col-3  hb-equal-col-height hb-sidebar">
-<div id="text-14" class="widget-item widget_text"> <div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
- 
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8012252218164356" data-ad-slot="4548393254" data-ad-format="auto"></ins>
+</article>
+</div>
+</div>
+<div class="col-sm-4 sidebar-column sidebar-column-primary">
+<aside id="sidebar-primary-sidebar" class="sidebar" role="complementary" aria-label="Primary Sidebar Sidebar" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+<div id="text-18" class=" h-ni w-nt primary-sidebar-widget widget widget_text"> <div class="textwidget"><hr><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
+<br>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8012252218164356" data-ad-slot="4548393254" data-ad-format="auto"></ins><br>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-</div> </div>
- 
+</script><p></p>
+<hr>
 </div>
- 
+</div></aside>
 </div>
- 
 </div>
- 
 </div>
- 
- 
-<a id="to-top"><i class="hb-moon-arrow-up-4"></i></a>
- 
- 
-<footer id="footer" class="dark-style">
- 
+</main>
+</div>
+<footer id="site-footer" class="site-footer">
+<div class="footer-widgets light-text">
+<div class="content-wrap">
 <div class="container">
-<div class="row footer-row">
-<div class="col-6 widget-column no-separator"><div id="text-5" class="widget-item widget_text"> <div class="textwidget"><img class="wp-image-2716 alignleft" alt="Market Business News logo" src="http://marketbusinessnews.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-10-at-12.31.52-AM.png" width="152" height="46">
-<em>No part of this website or any of its contents may be reproduced, copied, or modified, without prior consent, unless otherwise indicated for stand-alone materials.</em></div>
-</div></div><div class="col-3 widget-column no-separator"><div id="text-13" class="widget-item widget_text"> <div class="textwidget"><a href="http://marketbusinessnews.com/about-us/">About</a> - <a href="http://marketbusinessnews.com/contact-us/">Contact</a></div>
-</div><div id="hb_soc_net_widget-2" class="widget-item hb-socials-widget">
-<ul class="social-icons light normal clearfix">
-<li class="facebook">
-<a href="http://facebook.com/marketbusinessnews" original-title="Facebook" target="_blank">
-<i class="hb-moon-facebook"></i>
-<i class="hb-moon-facebook"></i>
-</a>
-</li>
-<li class="twitter">
-<a href="https://twitter.com/MBN_Business" original-title="Twitter" target="_blank">
-<i class="hb-moon-twitter"></i>
-<i class="hb-moon-twitter"></i>
-</a>
-</li>
-<li class="google-plus">
-<a href="https://plus.google.com/+Marketbusinessnews/" original-title="Google-plus" target="_blank">
-<i class="hb-moon-google-plus"></i>
-<i class="hb-moon-google-plus"></i>
-</a>
-</li>
-</ul>
-</div></div><div class="col-3 widget-column no-separator"><div id="text-11" class="widget-item widget_text"> <div class="textwidget"><a href="http://marketbusinessnews.com/terms-and-conditions/">Terms and Conditions</a> - <a href="http://marketbusinessnews.com/privacy-policy/">Privacy Policy</a>
+<div class="row">
+<div class="col-sm-4">
+<aside id="sidebar-footer-1" class="sidebar" role="complementary" aria-label="Footer - Column 1 Sidebar" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+<div id="text-16" class=" h-ni w-nt footer-widget footer-column-1 widget widget_text"> <div class="textwidget"><p><img class="wp-image-2716 alignleft" src="http://marketbusinessnews.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-10-at-12.31.52-AM.png" alt="Market Business News logo" width="152" height="46"><br>
+<em>No part of this website or any of its contents may be reproduced, copied, or modified, without prior consent, unless otherwise indicated for stand-alone materials.</em></p>
 </div>
-</div></div><div class="hidden widget-column no-separator"></div> </div>
+</div> </aside>
 </div>
- 
+<div class="col-sm-4">
+<aside id="sidebar-footer-2" class="sidebar" role="complementary" aria-label="Footer - Column 2 Sidebar" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+<div id="text-15" class=" h-ni w-nt footer-widget footer-column-2 widget widget_text"> <div class="textwidget"><p><a href="http://marketbusinessnews.com/terms-and-conditions/">Terms and Conditions</a> – <a href="http://marketbusinessnews.com/privacy-policy/">Privacy Policy</a></p>
+</div>
+</div> </aside>
+</div>
+<div class="col-sm-4">
+<aside id="sidebar-footer-3" class="sidebar" role="complementary" aria-label="Footer - Column 3 Sidebar" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+<div id="text-17" class=" h-ni w-nt footer-widget footer-column-3 widget widget_text"> <div class="textwidget"><p><a href="http://marketbusinessnews.com/about-us/">About</a> – <a href="http://marketbusinessnews.com/contact-us/">Contact</a></p>
+</div>
+</div> </aside>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="copy-footer">
+<div class="content-wrap">
+<div class="container">
+<div class="row">
+<div class="copy-1 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+© 2017 - Market Business News. All Rights Reserved. </div>
+<div class="copy-2 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+</div>
+</div>
+</div>
+</div>
+</div>
 </footer>
- 
- 
-<div id="copyright-wrapper" class="normal-copyright  clearfix">  
- 
-<div class="container">
- 
-<div id="copyright-text">
-<p>© 2017 · Market Business News. - MBN is based in East Sussex, England.
-</p>
 </div>
- 
+<span class="back-top"><i class="fa fa-arrow-up"></i></span>
+<div style="display:none">
 </div>
- 
-</div>
- 
-</div>
- 
-</div>
- 
- 
-<div id="modern-search-overlay">
-<a href="#" class="hb-modern-search-close"><i class="hb-icon-x"></i></a>
-<div class="table-middle hb-modern-search-content">
-<p>Type and press Enter to search</p>
-<form method="get" id="hb-modern-form" action="http://marketbusinessnews.com/" novalidate="" autocomplete="off">
-<input type="text" value="" name="s" id="hb-modern-search-input" autocomplete="off">
+<script type="text/javascript">
+/* <![CDATA[ */
+var bs_pagination_loc = {"loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>"};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var publisher_theme_global_loc = {"page":{"boxed":"boxed"},"header":{"style":"style-8","boxed":"boxed"},"ajax_url":"http:\/\/marketbusinessnews.com\/wp-admin\/admin-ajax.php","loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>","translations":{"tabs_all":"All","tabs_more":"More","lightbox_expand":"Expand the image","lightbox_close":"Close"},"lightbox":{"not_classes":""},"main_menu":{"more_menu":"enable"},"skyscraper":{"sticky_gap":30,"sticky":false,"position":""},"share":{"more":true},"refresh_googletagads":"1"};
+var publisher_theme_ajax_search_loc = {"ajax_url":"http:\/\/marketbusinessnews.com\/wp-admin\/admin-ajax.php","previewMarkup":"<div class=\"ajax-search-results-wrapper ajax-search-no-product\">\n\t<div class=\"ajax-search-results\">\n\t\t<div class=\"ajax-ajax-posts-list\">\n\t\t\t<div class=\"ajax-posts-column\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Posts<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"posts\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div class=\"ajax-taxonomy-list\">\n\t\t\t<div class=\"ajax-categories-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Categories<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"categories\"><\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"ajax-tags-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Tags<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"tags\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n","full_width":"0"};
+/* ]]> */
+</script>
+<!--[if lt IE 9]>
+		<script type='text/javascript'
+		        src='https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.8/ext-old_ie.js'></script>
+		<![endif]-->
+<div class="rh-cover noscroll gr-5">
+<span class="rh-close"></span>
+<div class="rh-panel rh-pm">
+<div class="rh-p-h">
+<span class="user-login">
+<span class="user-avatar user-avatar-icon"><i class="fa fa-user-circle"></i></span>
+Sign in </span> </div>
+<div class="rh-p-b">
+<div class="rh-c-m clearfix"></div>
+<form role="search" method="get" class="search-form" action="http://marketbusinessnews.com">
+<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" autocomplete="off">
 </form>
 </div>
 </div>
- 
-<div id="hb-modal-overlay"></div>
- 
-<script type="text/javascript">
-        // <![CDATA[
-        var disqus_shortname = 'marketbusinessnews';
-        (function () {
-            var nodes = document.getElementsByTagName('span');
-            for (var i = 0, url; i < nodes.length; i++) {
-                if (nodes[i].className.indexOf('dsq-postid') != -1 && nodes[i].parentNode.tagName == 'A') {
-                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
-                    url = nodes[i].parentNode.href.split('#', 1);
-                    if (url.length == 1) { url = url[0]; }
-                    else { url = url[1]; }
-                    nodes[i].parentNode.href = url + '#disqus_thread';
-                }
-            }
-            var s = document.createElement('script');
-            s.async = true;
-            s.type = 'text/javascript';
-            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-        // ]]>
-        </script>
-<div style="display:none">
-<div class="grofile-hash-map-990ee68e29f3f8b62c0c7a541974c46e">
+<div class="rh-panel rh-p-u">
+<div class="rh-p-h">
+<span class="rh-back-menu"><i></i></span>
+</div>
+<div class="rh-p-b">
+<div class="bs-shortcode bs-login-shortcode ">
+<div class="bs-login bs-type-login" style="display:none">
+<div class="bs-login-panel bs-login-sign-panel bs-current-login-panel">
+<form name="loginform" id="loginform" action="http://marketbusinessnews.com/bhkd4d_a124122" method="post">
+<div class="login-header">
+<span class="login-icon fa fa-user-circle main-color"></span>
+<p>Welcome, Login to your account.</p>
+</div>
+<div class="login-field login-username">
+<input type="text" name="log" id="user_login" class="input" value="" size="20" placeholder="Username or Email..." required="">
+</div>
+<div class="login-field login-password">
+<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" placeholder="Password..." required="">
+</div>
+<div class="login-field">
+<a href="http://marketbusinessnews.com/bhkd4d_a124122?action=lostpassword&amp;redirect_to=http%3A%2F%2Fmarketbusinessnews.com%2Fprivacy-policy%2F" class="go-reset-panel">Forget password?</a>
+<span class="login-remember">
+<input class="remember-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever">
+<label class="remember-label">Remember me</label>
+</span>
+</div>
+<div class="login-field login-submit">
+<input type="submit" name="wp-submit" class="button-primary login-btn" value="Log In">
+<input type="hidden" name="redirect_to" value="http://marketbusinessnews.com/privacy-policy/">
+</div>
+</form>
+</div>
+<div class="bs-login-panel bs-login-reset-panel">
+<span class="go-login-panel"><i class="fa fa-angle-left"></i> Sign in</span>
+<div class="bs-login-reset-panel-inner">
+<div class="login-header">
+<span class="login-icon fa fa-support"></span>
+<p>Recover your password.</p>
+<p>A password will be e-mailed to you.</p>
+</div>
+<form name="lostpasswordform" id="lostpasswordform" action="http://marketbusinessnews.com/bhkd4d_a124122?action=lostpassword" method="post">
+<div class="login-field reset-username">
+<input type="text" name="user_login" class="input" value="" placeholder="Username or Email..." required="">
+</div>
+<div class="login-field reset-submit">
+<input type="hidden" name="redirect_to" value="">
+<input type="submit" name="wp-submit" class="login-btn" value="Send My Password">
+</div>
+</form>
 </div>
 </div>
-<script type="text/javascript">
-		window.WPCOM_sharing_counts = {"http:\/\/marketbusinessnews.com\/privacy-policy\/":7803};
-	</script>
-<link rel="stylesheet" id="Open+Sans-css" href="//fonts.googleapis.com/css?family=Open+Sans&amp;subset=latin&amp;ver=c67a56ca48ba7390ac75726fe11c9e70" type="text/css" media="all">
-<link rel="stylesheet" id="Open+Sans+Condensed-css" href="//fonts.googleapis.com/css?family=Open+Sans+Condensed%3A700&amp;subset=latin&amp;ver=c67a56ca48ba7390ac75726fe11c9e70" type="text/css" media="all">
-<link rel="stylesheet" id="ABeeZee-css" href="//fonts.googleapis.com/css?family=ABeeZee&amp;subset=latin&amp;ver=c67a56ca48ba7390ac75726fe11c9e70" type="text/css" media="all">
+</div>
+</div>
+</div>
+</div>
+</div>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"http:\/\/marketbusinessnews.com\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var wpcf7 = {"apiSettings":{"root":"http:\/\/marketbusinessnews.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=c67a56ca48ba7390ac75726fe11c9e70"></script>
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201725"></script>
+<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201751"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var ctcc_vars = {"expiry":"30","method":"","version":"1"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://marketbusinessnews.com/wp-content/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js?ver=2.3.0"></script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/themes/HighendWP/scripts/scripts.js?ver=3.1.1"></script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/themes/HighendWP/scripts/jquery.scrollTo.js?ver=3.1.1"></script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/themes/HighendWP/scripts/jquery.countdown.js?ver=3.1.1"></script>
-<script type="text/javascript" src="//www.google.com/jsapi?ver=3.1.1"></script>
+<script type="text/javascript" src="http://marketbusinessnews.com/wp-includes/js/wp-embed.js?ver=742df25418306a9b203c2c48af0e532b"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var hb_gmap = {"1":{"lat":"48.856614","lng":"2.352222","ibx":"Enter your info here or leave it empty."}};
+var countVars = {"disqusShortname":"marketbusinessnews"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/themes/HighendWP/scripts/map.js?ver=3.1.1"></script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/themes/HighendWP/scripts/mediaelement/mediaelement.js?ver=3.1.1"></script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/themes/HighendWP/scripts/jquery.flexslider.js?ver=3.1.1"></script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/themes/HighendWP/scripts/jquery.validate.js?ver=3.1.1"></script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/themes/HighendWP/scripts/jquery.easychart.js?ver=3.1.1"></script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/themes/HighendWP/scripts/responsivecarousel.min.js?ver=3.1.1"></script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/themes/HighendWP/scripts/jquery.owl.carousel.min.js?ver=3.1.1"></script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/themes/HighendWP/scripts/jquery.custom.js?ver=3.1.1"></script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-includes/js/wp-embed.js?ver=c67a56ca48ba7390ac75726fe11c9e70"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var sharing_js_options = {"lang":"en","counts":"1"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=5.0"></script>
-<script type="text/javascript">
-var windowOpen;
-			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
-				// If there's another sharing window open, close it.
-				if ( 'undefined' !== typeof windowOpen ) {
-					windowOpen.close();
-				}
-				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
-				return false;
-			});
-var windowOpen;
-			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
-				// If there's another sharing window open, close it.
-				if ( 'undefined' !== typeof windowOpen ) {
-					windowOpen.close();
-				}
-				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
-				return false;
-			});
-var windowOpen;
-			jQuery( document.body ).on( 'click', 'a.share-linkedin', function() {
-				// If there's another sharing window open, close it.
-				if ( 'undefined' !== typeof windowOpen ) {
-					windowOpen.close();
-				}
-				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
-				return false;
-			});
-</script>
-<script type="text/javascript" src="https://stats.wp.com/e-201725.js" async="" defer=""></script>
+<script type="text/javascript" src="http://marketbusinessnews.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=742df25418306a9b203c2c48af0e532b"></script>
+<script type="text/javascript" async="async" src="http://marketbusinessnews.com/wp-content/bs-booster-cache/f746262f895db266027eac211c24fbbc.js?ver=742df25418306a9b203c2c48af0e532b"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201751.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:5.0',blog:'55684572',post:'7803',tz:'1',srv:'marketbusinessnews.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:5.6',blog:'55684572',post:'7803',tz:'0',srv:'marketbusinessnews.com'} ]);
 	_stq.push([ 'clickTrackerInit', '55684572', '7803' ]);
 </script>
 <script type="text/javascript">
@@ -669,7 +695,6 @@ var windowOpen;
 													setTimeout(ctccCloseNotification, 60000);
 																	});
 				</script>
-<div id="catapult-cookie-bar" class=" use_x_close float-accept"><div class="ctcc-inner "><span class="ctcc-left-side">We use cookies to personalise content and ads. <a class="ctcc-more-info-link" tabindex="0" target="_blank" href="http://marketbusinessnews.com/cookie-policy">More info</a></span><span class="ctcc-right-side"></span><div class="x_close"><span></span><span></span></div></div> </div> 
- 
+<div id="catapult-cookie-bar" class=" use_x_close float-accept"><div class="ctcc-inner "><span class="ctcc-left-side">We use cookies to personalise content and ads. <a class="ctcc-more-info-link" tabindex="0" target="_blank" href="http://marketbusinessnews.com/cookie-policy">More info</a></span><span class="ctcc-right-side"></span><div class="x_close"><span></span><span></span></div></div></div>
 
- </body></html>
+</body></html>
