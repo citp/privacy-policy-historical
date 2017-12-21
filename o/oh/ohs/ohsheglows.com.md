@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohsheglows.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618003348id_/http%3A//ohsheglows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohsheglows.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221215647id_/http%3A//ohsheglows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Oh She Glows
 
@@ -42,7 +42,7 @@ We collect information about purchases of our products, and geographic informati
 
 Your activity on our Information Services, including time spent, usage patterns, and web sites visited prior and subsequent to your use of Information Services and other information about your usage of our Information Services as outlined below may be collected automatically through cookies and other electronic functions on our site.  You can always opt out of these methods of collection of your Personal Information, as outlined below.
 
-We use third-party advertising companies to serve ads when you visit our Web site.  These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites and our App in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp> and see below in the Cookies and Web Beacons section of this Privacy Policy.
+We use third-party advertising companies to serve ads when you visit our Web site.  These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites and our App in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp) and see below in the Cookies and Web Beacons section of this Privacy Policy.
 
 We may also collect Personal Information you provide to us when you contact us directly to discuss our services or your preferences.  Such information might include your contact details and preferences.
 
@@ -63,7 +63,7 @@ Oh She Glows and our advertising partners use cookies and web beacons on our Web
 
 Our use of cookies includes, but is not necessarily limited to, the following:
 
-DoubleClick DART Cookie:  Google, as a third party vendor, uses cookies to serve ads on OhSheGlows.com.  Google’s use of the DART cookie enables it to serve ads to users based on their visit to OhSheGlows.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+DoubleClick DART Cookie:  Google, as a third party vendor, uses cookies to serve ads on OhSheGlows.com.  Google’s use of the DART cookie enables it to serve ads to users based on their visit to OhSheGlows.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting [Ads Settings](https://www.google.com/ads/preferences/).
 
 Additional advertising partners may use cookies and web beacons on our site for the purposes stated above. Our advertising partners consist of the following:
 
