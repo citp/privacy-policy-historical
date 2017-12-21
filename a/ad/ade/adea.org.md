@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adea.org privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616233645id_/http%3A//www.adea.org/about_adea/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adea.org privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221170215id_/http%3A//www.adea.org/about_adea/Pages/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy : American Dental Education Association
-
-##  Privacy Policy
+# Privacy Policy
 
 Last Updated July 13, 2006
 
