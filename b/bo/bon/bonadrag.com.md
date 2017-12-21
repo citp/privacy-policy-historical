@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonadrag.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621050819id_/http%3A//bonadrag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonadrag.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221114620id_/http%3A//bonadrag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BONA DRAG
 
