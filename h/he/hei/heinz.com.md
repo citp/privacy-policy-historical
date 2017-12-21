@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heinz.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617113218id_/http%3A//www.kraftheinzcompany.com/NewPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heinz.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221182620id_/http%3A//www.kraftheinzcompany.com/NewPrivacyPolicy.html) for the most accurate reproduction.*
 
 # The Kraft Heinz Company
 
