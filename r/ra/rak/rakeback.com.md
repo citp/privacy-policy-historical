@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rakeback.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622041443id_/http%3A//www.rakeback.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakeback.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221125210id_/http%3A//www.rakeback.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy of Rakeback.com
 
