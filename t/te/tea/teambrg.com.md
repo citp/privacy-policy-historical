@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teambrg.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012545id_/http%3A//teambrg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teambrg.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221223022id_/http%3A//teambrg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Team BRG
 
@@ -174,14 +174,12 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 **  
 If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-mail@teambrg.com and we will promptly remove you from **ALL** correspondence.
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from **ALL** correspondence.
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
 teambrg.com
-
-mail@teambrg.com
 
 Last Edited on 2016-12-08
