@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennies4profits.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621122439id_/http%3A//www.pennies4profits.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennies4profits.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221100102id_/http%3A//www.pennies4profits.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
