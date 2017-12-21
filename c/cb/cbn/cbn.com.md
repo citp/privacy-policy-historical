@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629153515id_/http%3A//www1.cbn.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222001631id_/http%3A//www1.cbn.com/privacy-notice) for the most accurate reproduction.*
 
 # CBN.com Privacy Notice | CBN.com
 
@@ -51,7 +51,7 @@ Some browsers incorporate a “Do Not Track” (DNT) feature that, when activate
 CBN does not endorse any product or service of a third-party advertiser, and has no responsibility for the fulfillment of any order placed, the performance of any product or service offered, or the actions or inactions of any such third-party advertiser.
 
 **Conditions of Use, Notices, and Revisions**  
-If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](http://www1.cbn.com/terms-of-use), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
+If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](http://www1.cbn.com/terms-of-use), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#21514053554f4453526162636f0f424e4c), and we will try to resolve it.
 
 Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
