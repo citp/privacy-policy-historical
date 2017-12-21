@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzillions.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112902id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzillions.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222002427id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy – Viewpoints.com
 
@@ -68,7 +68,7 @@ If you have any questions about this Privacy Policy, our information-handling pr
 
 Viewpoints Privacy  
 Viewpoints, LLC.  
-440 N. Wells St.  
-Suite 720  
-Chicago, IL 60654  
+1 N Dearborn  
+Suite 800  
+Chicago, IL 60602  
 [privacy@viewpoints.com](mailto:privacy@viewpoints.com?subject=Question%20about%20your%20%20%20%20privacy%20policy)
