@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craniumfitteds.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091105id_/http%3A//www.craniumfitteds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craniumfitteds.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221193836id_/http%3A//www.craniumfitteds.com/privacy.html) for the most accurate reproduction.*
 
-# 1000's of Fitted Hats, Snapbacks, and Dad Hats [CraniumFitteds.com]
+# Snapbacks, Dad Hats, and Fitted Hats | CraniumFitteds.com
 
 **What information do we collect?**
 
