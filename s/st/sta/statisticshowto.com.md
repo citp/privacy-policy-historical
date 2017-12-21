@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statisticshowto.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613164336id_/http%3A//www.statisticshowto.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statisticshowto.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221222802id_/http%3A//www.statisticshowto.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Statistics How To
 
@@ -29,3 +29,9 @@ www.statisticshowto.com has no access to or control over these cookies that are 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.statisticshowto.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+\------------------------------------------------------------------------------ 
+
+If you prefer an online interactive environment to learn R and statistics, this [_free R Tutorial by Datacamp_](https://www.datacamp.com/courses/free-introduction-to-r?tap_a=5644-dce66f&tap_s=109699-3b32b3) is a great way to get started. If you're are somewhat comfortable with R and are interested in going deeper into Statistics, try [_this Statistics with R track_](https://www.datacamp.com/tracks/statistics-with-r?tap_a=5644-dce66f&tap_s=109699-3b32b3). 
+
+Comments are now closed for this post. Need help or want to post a correction? Please post a comment on our [_Facebook page_](https://www.facebook.com/statisticshowto/) and I'll do my best to help!
