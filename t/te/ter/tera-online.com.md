@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tera-online.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615135747id_/http%3A//tera.enmasse.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tera-online.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221050212id_/http%3A//tera.enmasse.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TERA
 
