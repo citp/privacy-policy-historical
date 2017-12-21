@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizbangblog.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619150554id_/http%3A//wizbangblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizbangblog.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221070921id_/http%3A//wizbangblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Wizbang
 
