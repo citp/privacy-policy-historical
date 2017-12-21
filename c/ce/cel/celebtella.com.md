@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebtella.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623093338id_/http%3A//celebtella.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebtella.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221131718id_/http%3A//www.celebtella.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Celebtella
 
@@ -17,7 +17,7 @@ We may collect, store and use the following kinds of personal data:
 
 
 
- **(2) Cookies**
+**(2) Cookies**
 
 We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
@@ -27,7 +27,7 @@ Most browsers allow you to refuse to accept cookies. (For example, in Internet E
 
 We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available at: [http://www.google.com/privacypolicy.html.](http://www.google.com/privacypolicy.html)
 
- **(3) Using your personal data**
+**(3) Using your personal data**
 
 Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
@@ -44,16 +44,16 @@ We may use your personal information to:
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
- **(4) Security of your personal data**
+**(4) Security of your personal data**
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
- **(5) Policy amendments**
+**(5) Policy amendments**
 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
 We may also notify you of changes to our privacy policy by email.
 
- **(6) Third party websites**
+**(6) Third party websites**
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
