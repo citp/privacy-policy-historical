@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countryliving.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120302id_/http%3A//www.countryliving.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryliving.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221082316id_/http%3A//www.countryliving.com/about/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy
 
