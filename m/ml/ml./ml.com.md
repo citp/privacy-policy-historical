@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ml.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614172348id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ml.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221145845id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -34,7 +34,7 @@ Your personal information is a valuable part of your financial life. We strongly
   * [Protecting Yourself](https://web.archive.org/privacy-and-security-center/protect-yourself.html)
   * [Report Theft and Fraud](https://web.archive.org/privacy-and-security-center/how-to-report-identity-theft-and-fraud.html)
   * [How Merrill Lynch Protects Your Personal Information ](https://web.archive.org/privacy-and-security-center/protect-personal-information.html)
-  * [Security Information for Credit Cardholders](https://card.ml.com/MLRewardsCenter/Security+Center.htm)
+  * [Security Information for Credit Cardholders](https://card.ml.com/RWDapp/ns/home?_ga=2.263411461.827346755.1506341207-189970974.1449852960&mc=ml)
 
 
 
@@ -43,7 +43,9 @@ Your personal information is a valuable part of your financial life. We strongly
 **1-800-637-7455**
 
 [Forward Suspicious Email to Us Link opens in a Email popup](mailto:abuse@bankofamerica.com&subject=Fraud&body=If%20you%20believe%20you%20have%20received%20a%20hoax%20e-mail%20%28phishing%20e-mail%29%20that%20appears%20to%20be%20from%20Merrill%20Lynch,%20please%20attach%20it%20to%20this%20e-mail%20message.)  
- 
+
+
+Thank you for bringing this suspicious email to our attention. Bank of America takes any attempts to fraudulently use our brand or impersonate a bank representative very seriously. Our team reviews all submissions; we will only reply to your message if we require additional information.
 
 ### **U.S. Online Privacy Notice**  
 
