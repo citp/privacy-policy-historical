@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reddressboutique.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523020254id_/http%3A//www.reddressboutique.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reddressboutique.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221203404id_/http%3A//www.reddressboutique.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Red Dress Boutique
 
@@ -32,4 +32,6 @@ RDB is a very family friendly company. Our products and culture reflect that. Bu
 
 ## Contact Us
 
-We would love to hear from you! You can email us anytime at [customerservice@reddressboutique.com](mailto:customerservice@reddressboutique.com). You can chat with us using the chat icon at the bottom of our website. You can call us at 706-425-8707. Our offices are open Monday through Friday, from 9-5 ET. Or all of the ways!
+We would love to hear from you! You can email us anytime at orders@shopreddress.com. You can chat with us using the chat icon at the bottom of our website. You can call us at 706-425-8707. Our offices are open Monday through Friday, from 9-5 ET. Or all of the ways!
+
+We are located at 240 Collins Industrial Blvd, Suite A, Athens, GA 30607
