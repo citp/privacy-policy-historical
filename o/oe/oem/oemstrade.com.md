@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oemstrade.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612170352id_/http%3A//www.supplyframe.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oemstrade.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221225724id_/http%3A//www.supplyframe.com/company/privacy) for the most accurate reproduction.*
 
 # Supplyframe Privacy
 
