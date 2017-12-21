@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sms66.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621042815id_/http%3A//www.sms66.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sms66.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221011516id_/http%3A//www.sms66.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy for SMS66.com
 
