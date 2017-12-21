@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the mikeprg.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608101244id_/http%3A//mikeprg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikeprg.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221064446id_/http%3A//mikeprg.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Mike Program
+# Privacy Policy – mikeprg.com
 
 * * *
+
+Advertising   
+
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:haempzamermzpala@gmail.com).
 
