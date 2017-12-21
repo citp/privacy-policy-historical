@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adoori.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630201444id_/https%3A//www.clicksor.com/footer-link/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoori.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221160710id_/https%3A//www.clicksor.com/footer-link/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Contextual Advertising and Behavioral Marketing Company
 
