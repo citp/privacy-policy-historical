@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allwebco-templates.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515173245id_/http%3A//allwebcodesign.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwebco-templates.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221115002id_/http%3A//allwebcodesign.com/privacy.htm) for the most accurate reproduction.*
 
 # Allwebco Design Corporation Privacy Policy
 
@@ -27,7 +27,7 @@ Allwebco Design Corporation is not a subsidiary of, or affiliated with Google In
 |    
 
 
-  * [Included features](https://web.archive.org/web/20170515173245id_/http%3A//allwebcodesign.com/features-home.htm)
+  * [Included features](https://web.archive.org/web/20171221115002id_/http%3A//allwebcodesign.com/features-home.htm)
   * [Step by step instructions](http://allwebcodesign.com/templates-adsense/tempT27BG/help.html)
   * Use any HTML or text editor
   * Works with many [free editors](http://www.allwebco-templates.com/support/S_HTML_software.htm)
