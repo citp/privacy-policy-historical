@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clonescripts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105943id_/http%3A//www.clonescripts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clonescripts.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221161343id_/http%3A//www.clonescripts.com/privacy) for the most accurate reproduction.*
 
 # Privacy - CloneScripts.com
 
