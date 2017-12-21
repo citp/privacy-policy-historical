@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justmeans.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630141402id_/http%3A//justmeans.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmeans.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221064313id_/http%3A//justmeans.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Justmeans
 
