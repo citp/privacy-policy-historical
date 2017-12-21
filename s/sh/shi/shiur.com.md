@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiur.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621051147id_/http%3A//shiur.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiur.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221134705id_/http%3A//shiur.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Shiur.com - Best Torah Lectures
 
