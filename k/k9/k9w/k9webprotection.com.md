@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the k9webprotection.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190624id_/http%3A//www1.k9webprotection.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k9webprotection.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221174814id_/http%3A//www1.k9webprotection.com/privacy-statement-2016-03-29) for the most accurate reproduction.*
 
-# Privacy Statement | K9 Web Protection - Free Internet Filter and Parental Control Software
+# Privacy Statement - 2016-03-29 | K9 Web Protection - Free Internet Filter and Parental Control Software
 
 **BLUE COAT SYSTEMS, INC.**
 
@@ -20,7 +20,7 @@ This statement covers the personal information Blue Coat gathers when you access
 
 **Safe Harbor Program**
 
-Blue Coat is a participant in the Safe Harbor program developed by the U.S. Department of Commerce, Switzerland and the European Union. We adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. Department of Commerce and the E.U. For more information about the Safe Harbor and our certification, please see our [General EEA/CH Safe Harbor Notice](http://www.bluecoat.com/privacy-safe-harbor-statement) and visit the U.S. Department of Commerce's Safe Harbor website located at http://www.export.gov/safeharbor/.  If you have questions about Blue Coat’s participation in the Safe Harbor Framework, please send an email to privacy@bluecoat.com.
+Blue Coat is a participant in the Safe Harbor program developed by the U.S. Department of Commerce, Switzerland and the European Union. We adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. Department of Commerce and the E.U. For more information about the Safe Harbor and our certification, please see our [General EEA/CH Safe Harbor Notice](http://www.bluecoat.com/privacy-safe-harbor-statement) and visit the U.S. Department of Commerce's Safe Harbor website located at <http://www.export.gov/safeharbor/>.  If you have questions about Blue Coat’s participation in the Safe Harbor Framework, please send an email to [privacy@bluecoat.com](mailto:privacy@bluecoat.com).
 
 **Collection of Personal Information Generally**
 
