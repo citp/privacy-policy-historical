@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justadventure.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629144714id_/http%3A//justadventure.com/component/content/article%3Fpage%3Dlegal%26id%3D454) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justadventure.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221063026id_/http%3A//justadventure.com/component/content/article%3Fpage%3Dlegal%26id%3D454) for the most accurate reproduction.*
 
 # Just Adventure, LLC.
 
