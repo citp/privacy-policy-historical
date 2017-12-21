@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hse.ie privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621201750id_/http%3A//www.hse.ie/eng/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hse.ie privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221010743id_/http%3A//www.hse.ie/eng/Privacy_Statement) for the most accurate reproduction.*
 
-# Privacy Statement - HSE.ie
+# Privacy Statement - Ireland's Health Service
 
 #### Health Service Executive Website
 
@@ -16,7 +16,7 @@ The Health Service Executive does not collect any personal data about you on thi
 
 #### Collection and use of technical information
 
-Cookies: This Internet only uses temporary "session" cookies which enable a visitor’s web browser to remember which pages on this Website have already been visited. A cookie is a piece of data stored on the user’s hard drive while they are visiting a particular Website. It contains simple information about the user’s identity but no personal information. When the user closes their browser, the cookie is destroyed. You can set your computer not to accept cookies without a loss of functionality on this Website.
+For information about cookies please read the [Cookie Policy](https://web.archive.org/eng/cookie-policy/)
 
 Log Files: Technical details in connection with visits to this website are logged for statistical purposes. No information is collected that could be used by us to identify website visitors. Our log records do not contain any personal information about users. Statistical information that is gathered does not constitute "personal data" for the purposes of the Data Protection Acts, 1988 & 2003.
 
