@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixability.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627151653id_/https%3A//www.pixability.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixability.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221065427id_/https%3A//www.pixability.com/privacy-policy) for the most accurate reproduction.*
 
 # Video Marketing Privacy Policy| Pixability
 
@@ -35,6 +35,8 @@ Additionally, you should be aware of the following:
 • By using any Pixability Sites and Solution, you are consenting to the placing of cookies and other tools on your computer or devices which allow Pixability to collect certain information. We generally use non-personally identifiable information in aggregated form to help measure the performance and effectiveness of our Pixability Sites and Solution, and to improve their usefulness.
 
 • We may also combine your information with information collected from other sources, particularly in cases where we and our third party partners or contractors may be vetting or investigating a new, existing or prospective customer for potential of fraud or other undesirable activities.
+
+• Pixability uses YouTube API Services. The Google Privacy Policy can be found at: <http://www.google.com/policies/privacy>
 
 You may, of course, decline to share any or certain items of personally-identifiable information with Pixability, in which case we may be unable to provide you with the Pixability Sites and Solution.
 
