@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cowbird.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526071255id_/http%3A//cowbird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowbird.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221053148id_/http%3A//cowbird.com/privacy) for the most accurate reproduction.*
 
 # Cowbird ·
 
