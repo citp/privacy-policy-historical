@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapwindowsvps.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616213416id_/http%3A//cheapwindowsvps.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapwindowsvps.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221135511id_/http%3A//cheapwindowsvps.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Cheap Windows VPS
 
