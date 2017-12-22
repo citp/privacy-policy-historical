@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the techposts.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623143908id_/http%3A//techposts.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techposts.org privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222134943id_/http%3A//techposts.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Techposts.org
 
 **Privacy Policy for[www.techposts.org](http://techposts.org/)**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@techposts.org.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At www.techposts.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.techposts.org and how it is used.
 
