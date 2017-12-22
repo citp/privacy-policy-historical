@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iamwire.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084043id_/http%3A//www.iamwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamwire.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222032813id_/http%3A//www.iamwire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iamwire
+# Privacy Policy - iamwire
 
 As used in this Privacy Policy, “iamwire” refers to all websites (including iamwire.com, and ire.iamwire.com.
 
