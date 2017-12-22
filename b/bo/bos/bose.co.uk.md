@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bose.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629063116id_/https%3A//www.bose.co.uk/en_gb/support/cookie_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bose.co.uk privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222175442id_/https%3A//www.bose.co.uk/en_gb/support/cookie_policy.html) for the most accurate reproduction.*
 
 # Cookie Policy
 
