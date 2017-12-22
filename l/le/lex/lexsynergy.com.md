@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexsynergy.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623004427id_/http%3A//www.lexsynergy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexsynergy.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222133047id_/http%3A//www.lexsynergy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lexsynergy Limited
 
