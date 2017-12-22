@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localpulse.net privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622114038id_/http%3A//www.localpulse.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localpulse.net privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222031621id_/http%3A//www.localpulse.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Local Pulse
 
@@ -54,8 +54,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Local Pulse  
-http://www.localpulse.net  
+Local Pulse
+
+> [Front Page](http://www.localpulse.net/)
+
+  
 1 Major Vita cor. Arroyo St., Zone 4 Central Signal, Taguig City, Philippines  
 +639998569287  
 mail@localpulse.net
