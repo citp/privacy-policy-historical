@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artscow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091213id_/http%3A//www.artscow.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artscow.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222194522id_/http%3A//www.artscow.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Custom Gifts, Apparel, Photo Books | ArtsCow
+# Privacy Policy - Custom Apparel, Photo Books, Decor and More | ArtsCow
 
 _Effective Date January 01, 2012_
 
