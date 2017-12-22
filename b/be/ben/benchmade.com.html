@@ -1,0 +1,1715 @@
+<!--The following is the downloaded HTML source of the benchmade.com privacy policy that was archived on 2017-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171222074042id_/http%3A//www.benchmade.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script id="ltkSDK" src="http://cdn.listrakbi.com/scripts/script.js?m=Mb280sh0pmQa&amp;v=1" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T2VT5J"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<title>Privacy Policy</title>
+<meta name="description" content="Default Description">
+<meta name="keywords" content="Knife, Cutlery, Pocket Knife, Butterfly Knife, Balisong, Stiletto, Sharp Knife, Sharp Tool, Quality Knife, Fixed Blade, Axis, Automatic Knife, Military Knife, Hunting Knife, Hunting Knives, Skinning Knife, Lifetime Warranty">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://www.benchmade.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.benchmade.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.benchmade.com/js/blank.html';
+    var BLANK_IMG = 'http://www.benchmade.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<script type="text/javascript" src="http://www.benchmade.com/js/core.min.js"></script><link rel="stylesheet" type="text/css" href="http://www.benchmade.com/js/calendar/calendar-win2k-1.css">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/base/default/css/amasty/amlabel/amlabel.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/rwd/enterprise/css/amasty/ampreorder/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/base/default/css/magestore/sociallogin.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/base/default/css/magestore/mobilesociallogin.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/base/default/css/amshopby.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/base/default/hetvideo/css/prettyPhoto.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/base/default/hetvideo/css/video.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/benchmade/default/css/bootstrap.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/benchmade/default/css/custom.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/benchmade/default/fonts/RefrigeratorDeluxe/MyFontsWebfontsKit.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/base/default/css/lyonscg/contestpage.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/base/default/css/lyonscg/addthis.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/benchmade/default/css/owl.carousel.css" media="all">
+<script type="text/javascript" src="http://www.benchmade.com/js/lib/jquery/jquery-1.12.0.min.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/js/lib/jquery/noconflict.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/js/lyonscg/validation.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/js/amasty/amlabel/amlabel_observer.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/js/magestore/sociallogin/lightbox.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/js/magestore/sociallogin/sociallogin.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/js/lyonscg/storage.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/js/calendar/calendar.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/js/calendar/calendar-setup.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/js/magestore/storelocator.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/skin/frontend/rwd/default/js/lib/modernizr.custom.min.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/skin/frontend/rwd/default/js/app.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/skin/frontend/benchmade/default/js/enterprise/wishlist.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/skin/frontend/base/default/hetvideo/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/skin/frontend/base/default/js/lyonscg/ajax/minicart.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/skin/frontend/base/default/js/lyonscg/ajax/calls.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/skin/frontend/benchmade/default/lib/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/skin/frontend/benchmade/default/js/main.js"></script>
+<script type="text/javascript" src="http://www.benchmade.com/skin/frontend/benchmade/default/lib/owl.carousel.min.js"></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:300,400,500,700,600">
+<!--[if  (lte IE 8) & (!IEMobile)]>
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/rwd/default/css/styles-ie8.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/rwd/enterprise/css/enterprise-ie8.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/rwd/default/css/madisonisland-ie8.css" media="all" />
+<![endif]-->
+<!--[if (gte IE 9) | (IEMobile)]><!-->
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/rwd/enterprise/css/enterprise.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/benchmade/default/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.benchmade.com/skin/frontend/rwd/default/css/madisonisland.css" media="all">
+<!--<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.benchmade.com';
+//]]>
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+    <!--Aromicon Google Universal Analytics Section start -->
+    <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-67034720-1', 'www.benchmade.com');
+        ga('set', 'anonymizeIp', false);
+                ga('require', 'displayfeatures');
+                                                        ga('send', 'pageview');
+                    </script>
+    <script type="text/javascript">
+    </script>
+    <!--Aromicon Google Universal Analytics Section end -->
+<!--{HOLEPUNCH_PERSIST_9dbea4f7fc4ba86582961ae73742162d}--><!--/{HOLEPUNCH_PERSIST_9dbea4f7fc4ba86582961ae73742162d}-->
+<script type="text/javascript">
+//<![CDATA[
+enUS = {"m":{"wide":["January","February","March","April","May","June","July","August","September","October","November","December"],"abbr":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}}; // en_US locale reference
+Calendar._DN = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]; // full day names
+Calendar._SDN = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]; // short day names
+Calendar._FD = 0; // First day of the week. "0" means display Sunday first, "1" means display Monday first, etc.
+Calendar._MN = ["January","February","March","April","May","June","July","August","September","October","November","December"]; // full month names
+Calendar._SMN = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]; // short month names
+Calendar._am = "AM"; // am/pm
+Calendar._pm = "PM";
+
+// tooltips
+Calendar._TT = {};
+Calendar._TT["INFO"] = "About the calendar";
+
+Calendar._TT["ABOUT"] =
+"DHTML Date/Time Selector\n" +
+"(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" +
+"For latest version visit: http://www.dynarch.com/projects/calendar/\n" +
+"Distributed under GNU LGPL. See http://gnu.org/licenses/lgpl.html for details." +
+"\n\n" +
+"Date selection:\n" +
+"- Use the \xab, \xbb buttons to select year\n" +
+"- Use the " + String.fromCharCode(0x2039) + ", " + String.fromCharCode(0x203a) + " buttons to select month\n" +
+"- Hold mouse button on any of the above buttons for faster selection.";
+Calendar._TT["ABOUT_TIME"] = "\n\n" +
+"Time selection:\n" +
+"- Click on any of the time parts to increase it\n" +
+"- or Shift-click to decrease it\n" +
+"- or click and drag for faster selection.";
+
+Calendar._TT["PREV_YEAR"] = "Prev. year (hold for menu)";
+Calendar._TT["PREV_MONTH"] = "Prev. month (hold for menu)";
+Calendar._TT["GO_TODAY"] = "Go Today";
+Calendar._TT["NEXT_MONTH"] = "Next month (hold for menu)";
+Calendar._TT["NEXT_YEAR"] = "Next year (hold for menu)";
+Calendar._TT["SEL_DATE"] = "Select date";
+Calendar._TT["DRAG_TO_MOVE"] = "Drag to move";
+Calendar._TT["PART_TODAY"] = ' (' + "today" + ')';
+
+// the following is to inform that "%s" is to be the first day of week
+Calendar._TT["DAY_FIRST"] = "Display %s first";
+
+// This may be locale-dependent. It specifies the week-end days, as an array
+// of comma-separated numbers. The numbers are from 0 to 6: 0 means Sunday, 1
+// means Monday, etc.
+Calendar._TT["WEEKEND"] = "0,6";
+
+Calendar._TT["CLOSE"] = "Close";
+Calendar._TT["TODAY"] = "today";
+Calendar._TT["TIME_PART"] = "(Shift-)Click or drag to change value";
+
+// date formats
+Calendar._TT["DEF_DATE_FORMAT"] = "%b %e, %Y";
+Calendar._TT["TT_DATE_FORMAT"] = "%B %e, %Y";
+
+Calendar._TT["WK"] = "Week";
+Calendar._TT["TIME"] = "Time:";
+//]]>
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script></head>
+<body class=" cms-page-view cms-privacy-policy"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2VT5J" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T2VT5J');</script>
+<!-- End Google Tag Manager -->
+
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        <!--{HEADER_d5f5021d73500dafa00a2b515490e461}-->
+
+<div class="navbar navbar-default">
+    <div class="container">
+        <ul class="nav navbar-nav navbar-right">
+
+            <!-- Contact us -->
+            <li class="hidden-xs hidden-sm">
+                <a href="http://www.benchmade.com/contacts/">Contact us</a>
+            </li>
+
+            <!-- Find dealer link -->
+            <li class="hidden-xs hidden-sm">
+                <a href="http://www.benchmade.com/storelocator/">
+                    Find a dealer                </a>
+            </li>
+
+            <!-- Check if logined -->
+                            <!-- Login link -->
+                <li class="hidden-xs hidden-sm">
+                    <a class="blue" href="https://www.benchmade.com/customer/account/login/">Login</a>
+                </li>
+            
+            <!-- Cart -->
+            <li>
+                <div class="header-minicart">
+                    
+<a href="#header-cart" class="skip-link skip-cart blue">
+    Cart    <span class="count">0</span>
+</a>
+
+<div id="header-cart" class="block block-cart skip-content">
+    <!--{CART_SIDEBAR_9a21439adfb8a5dd2bae0212dd9129c7}-->
+<div id="minicart-error-message" class="minicart-message"></div>
+<div id="minicart-success-message" class="minicart-message"></div>
+
+<div class="minicart-wrapper">
+
+    <p class="block-subtitle">
+        Recently added item(s)        <a class="close skip-link-close" href="#" title="Close">×</a>
+    </p>
+    <p class="empty">You have no items in your shopping cart.</p>
+</div>
+<!--/{CART_SIDEBAR_9a21439adfb8a5dd2bae0212dd9129c7}--></div>
+
+
+<style type="text/css">
+    .header-minicart { visibility: hidden; }
+</style>                </div>
+            </li>
+            
+        </ul>
+        
+    </div>
+</div>
+
+<header id="header" class="navbar navbar-inverse">
+
+    <div class="bg-wrapper">
+        <!-- Desktop version -->
+        <div class="container visible-md visible-lg">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="http://www.benchmade.com/">
+                    <img src="http://www.benchmade.com/skin/frontend/benchmade/default/images/logo.png" alt="Magento Commerce" class="large">
+                </a>
+            </div>
+            <div class="collapse navbar-collapse" id="">
+                <!-- Search -->
+                
+<form id="search_mini_form" class="navbar-form navbar-right" action="http://www.benchmade.com/catalogsearch/result/" method="get" role="search">
+    <div class="form-group">
+        <input id="search" type="search" name="q" value="" class="input-text required-entry" maxlength="128" placeholder="Enter keyword">
+        <button type="submit" title="Search" class="button search-button"></button>
+    </div>
+
+    <div id="search_autocomplete" class="search-autocomplete"></div>
+    <script type="text/javascript">
+    //<![CDATA[
+        var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+        searchForm.initAutocomplete('http://www.benchmade.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+    //]]>
+    </script>
+</form>
+                <!-- Main menu -->
+                
+<!-- Desktop -->
+<div id="nav" class="hidden-xs hidden-sm">
+    <ul class="nav-primary nav navbar-nav navbar-right">
+        <li class="level0 level-top parent">
+                 <a href="/shop" class="level-top"><span>Shop</span></a>
+            <div class="shop">
+            <div class="column">
+ <span class="column-title">Best Sellers:</span>
+                    <ul>
+<li>
+                            <a href="http://www.benchmade.com/new.html?mode=grid">NEW</a>
+                        </li>
+<li>
+                            <a href="http://customknife.benchmade.com">Custom Knife Builder</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/940-943-family.html">940</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/infidel-family.html">Infidel</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/cla-family.html">CLA</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/steep-country-family.html">Steep Country</a>
+                        </li>
+                        <li>
+                            <a href="http://www.benchmade.com/griptilian-family.html">Griptilian</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/barrage-family.html">Barrage</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/adamas-family.html">Adamas</a>
+                        </li>
+                    </ul>
+                
+                </div>
+
+                <div class="column">
+   <span class="column-title">By profession or use:</span>
+                    <ul>
+<li>
+                            <a href="http://www.benchmade.com/everyday-knives.html">Every Day Carry</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/hunting-knives.html">Hunting</a>
+                        </li>
+<li>
+<a href="http://www.benchmade.com/outdoor-knives.html">Outdoor</a>
+</li>
+                        <li>
+                            <a href="http://www.benchmade.com/rescue-knives.html">Rescue</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/survival-knives.html">Survival</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/tactical-knives.html">Tactical</a>
+                        </li>
+                    </ul>
+                                   </div>
+
+                <div class="column">
+                  <span class="column-title">By product type:</span>
+                    <ul>
+                        <li>
+                            <a href="http://www.benchmade.com/bali-song-knives.html">Bali-Song®</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/automatic-knives.html">Automatic</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/fixed-blade-knives.html">Fixed Blade</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/assisted-opening-knives.html">Assist</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/manual-opening-knives.html">Manual</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/rescue-hooks.html">Rescue Hooks</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/pens.html">Tactical Pens</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/accessories.html">Accessories</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/gear.html?mode=grid">Gear</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/all-products.html?mode=grid">Shop All</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>        </li>
+        <li class="level0 level-top parent">
+                        <a href="/learn" class="level-top"><span>Learn</span></a>
+            <div class="shop">
+                <div class="column">
+                    <span class="column-title">WHY BENCHMADE?</span>
+                    <ul>
+                        <li>
+                            <a href="/factory-tour">Factory Tour</a>
+                        </li>
+                        <li>
+                            <a href="/benchmade-edge">The Benchmade Edge</a>
+                        </li>
+                        <li>
+                            <a href="/meet_the_team">The People of Benchmade</a>
+                        </li>
+                        <li>
+                            <a href="/designer-profiles">Designer Profiles</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <span class="column-title">EXPLORE PRODUCTS:</span>
+                    <ul class="learn">
+                        <li>
+                            <a href="/about_blue">
+                                Blue class
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/blueclass_125x125.jpg" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about_black">
+                                Black class
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/blackclass_125x125.jpg" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about_gold">
+                                Gold class
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/goldclass_125x125.jpg" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about_hunt">
+                                HUNT. Series
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/learn_product_menu_tile_hunt_110x103.jpg" alt="">
+                            </a>
+                        </li>
+                       </ul>
+                </div>
+            </div>
+                </li>
+        <li class="level0 level-top parent">
+                    <a href="/connect-landing" class="level-top"><span>Connect</span></a>
+        <div class="shop">
+<div class="column">
+                <div class="single-link"><a href="/whats_new">Whats New</a></div>
+            </div>
+   <div class="column">
+                <div class="single-link"><a href="/video">Video Library</a></div>
+            </div>
+         
+           </div>
+                </li>
+        <li class="level0 level-top parent">
+                    <a href="/service-support" class="level-top"><span>Service &amp; Support</span></a>
+        <div class="shop">
+ <div class="column">
+                <div class="single-link"><a href="/warranty-service">Warranty Service</a></div>
+            </div>
+   <div class="column">
+                <div class="single-link"><a href="/productregistration">Product Registration</a></div>
+            </div>
+<div class="column">
+                <div class="single-link"><a href="/faq">Frequently Asked Questions</a></div>
+            </div>
+            <div class="column">
+                <div class="single-link"><a href="/shipping-and-returns">Shipping and Returns</a></div>
+            </div>
+         <div class="column">
+                <div class="single-link"><a href="/lasermarking-support">Custom Lasermarking</a></div>
+            </div>
+        </div>
+                </li>
+    </ul>
+</div>
+
+<!-- Mobile -->
+<div class="visible-xs visible-sm">
+    <li class="level0 level-top parent">
+             <a href="/shop" class="level-top"><span>Shop</span></a>
+            <div class="shop">
+            <div class="column">
+ <span class="column-title">Best Sellers:</span>
+                    <ul>
+<li>
+                            <a href="http://www.benchmade.com/new.html?mode=grid">NEW</a>
+                        </li>
+<li>
+                            <a href="http://customknife.benchmade.com">Custom Knife Builder</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/940-943-family.html">940</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/infidel-family.html">Infidel</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/cla-family.html">CLA</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/steep-country-family.html">Steep Country</a>
+                        </li>
+                        <li>
+                            <a href="http://www.benchmade.com/griptilian-family.html">Griptilian</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/barrage-family.html">Barrage</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/adamas-family.html">Adamas</a>
+                        </li>
+                    </ul>
+                
+                </div>
+
+                <div class="column">
+   <span class="column-title">By profession or use:</span>
+                    <ul>
+<li>
+                            <a href="http://www.benchmade.com/everyday-knives.html">Every Day Carry</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/hunting-knives.html">Hunting</a>
+                        </li>
+<li>
+<a href="http://www.benchmade.com/outdoor-knives.html">Outdoor</a>
+</li>
+                        <li>
+                            <a href="http://www.benchmade.com/rescue-knives.html">Rescue</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/survival-knives.html">Survival</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/tactical-knives.html">Tactical</a>
+                        </li>
+                    </ul>
+                                   </div>
+
+                <div class="column">
+                  <span class="column-title">By product type:</span>
+                    <ul>
+                        <li>
+                            <a href="http://www.benchmade.com/bali-song-knives.html">Bali-Song®</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/automatic-knives.html">Automatic</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/fixed-blade-knives.html">Fixed Blade</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/assisted-opening-knives.html">Assist</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/manual-opening-knives.html">Manual</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/rescue-hooks.html">Rescue Hooks</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/pens.html">Tactical Pens</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/accessories.html">Accessories</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/gear.html?mode=grid">Gear</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/all-products.html?mode=grid">Shop All</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>    </li>
+    <li class="level0 level-top parent">
+                    <a href="/learn" class="level-top"><span>Learn</span></a>
+            <div class="shop">
+                <div class="column">
+                    <span class="column-title">WHY BENCHMADE?</span>
+                    <ul>
+                        <li>
+                            <a href="/factory-tour">Factory Tour</a>
+                        </li>
+                        <li>
+                            <a href="/benchmade-edge">The Benchmade Edge</a>
+                        </li>
+                        <li>
+                            <a href="/meet_the_team">The People of Benchmade</a>
+                        </li>
+                        <li>
+                            <a href="/designer-profiles">Designer Profiles</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <span class="column-title">EXPLORE PRODUCTS:</span>
+                    <ul class="learn">
+                        <li>
+                            <a href="/about_blue">
+                                Blue class
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/blueclass_125x125.jpg" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about_black">
+                                Black class
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/blackclass_125x125.jpg" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about_gold">
+                                Gold class
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/goldclass_125x125.jpg" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about_hunt">
+                                HUNT. Series
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/learn_product_menu_tile_hunt_110x103.jpg" alt="">
+                            </a>
+                        </li>
+                       </ul>
+                </div>
+            </div>
+            </li>
+    <li class="level0 level-top parent">
+                <a href="/connect-landing" class="level-top"><span>Connect</span></a>
+        <div class="shop">
+<div class="column">
+                <div class="single-link"><a href="/whats_new">Whats New</a></div>
+            </div>
+   <div class="column">
+                <div class="single-link"><a href="/video">Video Library</a></div>
+            </div>
+         
+           </div>
+            </li>
+    <li class="level0 level-top parent">
+                <a href="/service-support" class="level-top"><span>Service &amp; Support</span></a>
+        <div class="shop">
+ <div class="column">
+                <div class="single-link"><a href="/warranty-service">Warranty Service</a></div>
+            </div>
+   <div class="column">
+                <div class="single-link"><a href="/productregistration">Product Registration</a></div>
+            </div>
+<div class="column">
+                <div class="single-link"><a href="/faq">Frequently Asked Questions</a></div>
+            </div>
+            <div class="column">
+                <div class="single-link"><a href="/shipping-and-returns">Shipping and Returns</a></div>
+            </div>
+         <div class="column">
+                <div class="single-link"><a href="/lasermarking-support">Custom Lasermarking</a></div>
+            </div>
+        </div>
+            </li>
+</div>            </div> 
+        </div>
+
+        <!-- Mobile version -->
+        <div class="container visible-xs visible-sm  text-center mobile-header">
+            <a class="navbar-brand" href="http://www.benchmade.com/">
+                <img src="http://www.benchmade.com/skin/frontend/benchmade/default/images/logo.png" alt="Magento Commerce" class="large">
+            </a>
+        </div>
+    </div>
+    
+    <!-- Mobile version dropdowns -->
+    <div class="visible-xs visible-sm">
+        <div class="text-center mobile_menu header-minicart">
+            <div class="menu-button menu">
+                <span class="glyphicon glyphicon-menu-hamburger"></span>
+                <span class="menu-text">Menu</span>
+                <ul class="second-level">
+                    
+<!-- Desktop -->
+<div id="nav" class="hidden-xs hidden-sm">
+    <ul class="nav-primary nav navbar-nav navbar-right">
+        <li class="level0 level-top parent">
+                 <a href="/shop" class="level-top"><span>Shop</span></a>
+            <div class="shop">
+            <div class="column">
+ <span class="column-title">Best Sellers:</span>
+                    <ul>
+<li>
+                            <a href="http://www.benchmade.com/new.html?mode=grid">NEW</a>
+                        </li>
+<li>
+                            <a href="http://customknife.benchmade.com">Custom Knife Builder</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/940-943-family.html">940</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/infidel-family.html">Infidel</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/cla-family.html">CLA</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/steep-country-family.html">Steep Country</a>
+                        </li>
+                        <li>
+                            <a href="http://www.benchmade.com/griptilian-family.html">Griptilian</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/barrage-family.html">Barrage</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/adamas-family.html">Adamas</a>
+                        </li>
+                    </ul>
+                
+                </div>
+
+                <div class="column">
+   <span class="column-title">By profession or use:</span>
+                    <ul>
+<li>
+                            <a href="http://www.benchmade.com/everyday-knives.html">Every Day Carry</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/hunting-knives.html">Hunting</a>
+                        </li>
+<li>
+<a href="http://www.benchmade.com/outdoor-knives.html">Outdoor</a>
+</li>
+                        <li>
+                            <a href="http://www.benchmade.com/rescue-knives.html">Rescue</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/survival-knives.html">Survival</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/tactical-knives.html">Tactical</a>
+                        </li>
+                    </ul>
+                                   </div>
+
+                <div class="column">
+                  <span class="column-title">By product type:</span>
+                    <ul>
+                        <li>
+                            <a href="http://www.benchmade.com/bali-song-knives.html">Bali-Song®</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/automatic-knives.html">Automatic</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/fixed-blade-knives.html">Fixed Blade</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/assisted-opening-knives.html">Assist</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/manual-opening-knives.html">Manual</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/rescue-hooks.html">Rescue Hooks</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/pens.html">Tactical Pens</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/accessories.html">Accessories</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/gear.html?mode=grid">Gear</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/all-products.html?mode=grid">Shop All</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>        </li>
+        <li class="level0 level-top parent">
+                        <a href="/learn" class="level-top"><span>Learn</span></a>
+            <div class="shop">
+                <div class="column">
+                    <span class="column-title">WHY BENCHMADE?</span>
+                    <ul>
+                        <li>
+                            <a href="/factory-tour">Factory Tour</a>
+                        </li>
+                        <li>
+                            <a href="/benchmade-edge">The Benchmade Edge</a>
+                        </li>
+                        <li>
+                            <a href="/meet_the_team">The People of Benchmade</a>
+                        </li>
+                        <li>
+                            <a href="/designer-profiles">Designer Profiles</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <span class="column-title">EXPLORE PRODUCTS:</span>
+                    <ul class="learn">
+                        <li>
+                            <a href="/about_blue">
+                                Blue class
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/blueclass_125x125.jpg" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about_black">
+                                Black class
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/blackclass_125x125.jpg" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about_gold">
+                                Gold class
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/goldclass_125x125.jpg" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about_hunt">
+                                HUNT. Series
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/learn_product_menu_tile_hunt_110x103.jpg" alt="">
+                            </a>
+                        </li>
+                       </ul>
+                </div>
+            </div>
+                </li>
+        <li class="level0 level-top parent">
+                    <a href="/connect-landing" class="level-top"><span>Connect</span></a>
+        <div class="shop">
+<div class="column">
+                <div class="single-link"><a href="/whats_new">Whats New</a></div>
+            </div>
+   <div class="column">
+                <div class="single-link"><a href="/video">Video Library</a></div>
+            </div>
+         
+           </div>
+                </li>
+        <li class="level0 level-top parent">
+                    <a href="/service-support" class="level-top"><span>Service &amp; Support</span></a>
+        <div class="shop">
+ <div class="column">
+                <div class="single-link"><a href="/warranty-service">Warranty Service</a></div>
+            </div>
+   <div class="column">
+                <div class="single-link"><a href="/productregistration">Product Registration</a></div>
+            </div>
+<div class="column">
+                <div class="single-link"><a href="/faq">Frequently Asked Questions</a></div>
+            </div>
+            <div class="column">
+                <div class="single-link"><a href="/shipping-and-returns">Shipping and Returns</a></div>
+            </div>
+         <div class="column">
+                <div class="single-link"><a href="/lasermarking-support">Custom Lasermarking</a></div>
+            </div>
+        </div>
+                </li>
+    </ul>
+</div>
+
+<!-- Mobile -->
+<div class="visible-xs visible-sm">
+    <li class="level0 level-top parent">
+             <a href="/shop" class="level-top"><span>Shop</span></a>
+            <div class="shop">
+            <div class="column">
+ <span class="column-title">Best Sellers:</span>
+                    <ul>
+<li>
+                            <a href="http://www.benchmade.com/new.html?mode=grid">NEW</a>
+                        </li>
+<li>
+                            <a href="http://customknife.benchmade.com">Custom Knife Builder</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/940-943-family.html">940</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/infidel-family.html">Infidel</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/cla-family.html">CLA</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/steep-country-family.html">Steep Country</a>
+                        </li>
+                        <li>
+                            <a href="http://www.benchmade.com/griptilian-family.html">Griptilian</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/barrage-family.html">Barrage</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/adamas-family.html">Adamas</a>
+                        </li>
+                    </ul>
+                
+                </div>
+
+                <div class="column">
+   <span class="column-title">By profession or use:</span>
+                    <ul>
+<li>
+                            <a href="http://www.benchmade.com/everyday-knives.html">Every Day Carry</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/hunting-knives.html">Hunting</a>
+                        </li>
+<li>
+<a href="http://www.benchmade.com/outdoor-knives.html">Outdoor</a>
+</li>
+                        <li>
+                            <a href="http://www.benchmade.com/rescue-knives.html">Rescue</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/survival-knives.html">Survival</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/tactical-knives.html">Tactical</a>
+                        </li>
+                    </ul>
+                                   </div>
+
+                <div class="column">
+                  <span class="column-title">By product type:</span>
+                    <ul>
+                        <li>
+                            <a href="http://www.benchmade.com/bali-song-knives.html">Bali-Song®</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/automatic-knives.html">Automatic</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/fixed-blade-knives.html">Fixed Blade</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/assisted-opening-knives.html">Assist</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/manual-opening-knives.html">Manual</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/rescue-hooks.html">Rescue Hooks</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/pens.html">Tactical Pens</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/accessories.html">Accessories</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/gear.html?mode=grid">Gear</a>
+                        </li>
+<li>
+                            <a href="http://www.benchmade.com/all-products.html?mode=grid">Shop All</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>    </li>
+    <li class="level0 level-top parent">
+                    <a href="/learn" class="level-top"><span>Learn</span></a>
+            <div class="shop">
+                <div class="column">
+                    <span class="column-title">WHY BENCHMADE?</span>
+                    <ul>
+                        <li>
+                            <a href="/factory-tour">Factory Tour</a>
+                        </li>
+                        <li>
+                            <a href="/benchmade-edge">The Benchmade Edge</a>
+                        </li>
+                        <li>
+                            <a href="/meet_the_team">The People of Benchmade</a>
+                        </li>
+                        <li>
+                            <a href="/designer-profiles">Designer Profiles</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <span class="column-title">EXPLORE PRODUCTS:</span>
+                    <ul class="learn">
+                        <li>
+                            <a href="/about_blue">
+                                Blue class
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/blueclass_125x125.jpg" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about_black">
+                                Black class
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/blackclass_125x125.jpg" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about_gold">
+                                Gold class
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/goldclass_125x125.jpg" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/about_hunt">
+                                HUNT. Series
+                                <img src="http://www.benchmade.com/media/wysiwyg/Learn-Page/learn_product_menu_tile_hunt_110x103.jpg" alt="">
+                            </a>
+                        </li>
+                       </ul>
+                </div>
+            </div>
+            </li>
+    <li class="level0 level-top parent">
+                <a href="/connect-landing" class="level-top"><span>Connect</span></a>
+        <div class="shop">
+<div class="column">
+                <div class="single-link"><a href="/whats_new">Whats New</a></div>
+            </div>
+   <div class="column">
+                <div class="single-link"><a href="/video">Video Library</a></div>
+            </div>
+         
+           </div>
+            </li>
+    <li class="level0 level-top parent">
+                <a href="/service-support" class="level-top"><span>Service &amp; Support</span></a>
+        <div class="shop">
+ <div class="column">
+                <div class="single-link"><a href="/warranty-service">Warranty Service</a></div>
+            </div>
+   <div class="column">
+                <div class="single-link"><a href="/productregistration">Product Registration</a></div>
+            </div>
+<div class="column">
+                <div class="single-link"><a href="/faq">Frequently Asked Questions</a></div>
+            </div>
+            <div class="column">
+                <div class="single-link"><a href="/shipping-and-returns">Shipping and Returns</a></div>
+            </div>
+         <div class="column">
+                <div class="single-link"><a href="/lasermarking-support">Custom Lasermarking</a></div>
+            </div>
+        </div>
+            </li>
+</div>                </ul>
+            </div>
+            <div class="menu-button search">
+                <span class="glyphicon glyphicon-search"></span>
+                <span class="hidden-xs">Search</span>
+                <ul class="second-level">
+                    
+<form id="search_mini_form" class="navbar-form navbar-right" action="http://www.benchmade.com/catalogsearch/result/" method="get" role="search">
+    <div class="form-group">
+        <input id="search" type="search" name="q" value="" class="input-text required-entry" maxlength="128" placeholder="Enter keyword">
+        <button type="submit" title="Search" class="button search-button"></button>
+    </div>
+
+    <div id="search_autocomplete" class="search-autocomplete"></div>
+    <script type="text/javascript">
+    //<![CDATA[
+        var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+        searchForm.initAutocomplete('http://www.benchmade.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+    //]]>
+    </script>
+</form>                </ul>
+            </div>
+            <div class="menu-button account">
+                <span class="glyphicon glyphicon-user"></span>
+                <span class="hidden-xs">Account</span>
+                <ul class="second-level">
+                    <!-- Contact us -->
+                    <li>
+                        <a href="http://www.benchmade.com/contacts/">Contact us</a>
+                    </li>
+
+                    <!-- Find dealer link -->
+                    <li>
+                        <a href="http://www.benchmade.com/storelocator/">
+                            Find a dealer                        </a>
+                    </li>
+
+                    <!-- Check if logined -->
+                                            <!-- Login link -->
+                        <li>
+                            <a href="https://www.benchmade.com/customer/account/login/">Login</a>
+                        </li>
+                                    </ul>
+            </div>
+
+
+                <a href="#header-cart" class="menu-button skip-link skip-cart" id="mobile-cart-btn">
+                    <span class="glyphicon glyphicon-shopping-cart"></span>
+                    <span class="count cart-counter" style="visibility:hidden;" id="cart_counter_mobile">
+                        0                    </span>
+
+                    <span class="hidden-xs">
+                        Cart                    </span>
+                </a>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</header>
+
+<div class="top-container"><!--{WIDGET_ENTERPRISE_BANNER_fc26940e004e45754060bff2494aef8f}--><div class="widget widget-banner">
+        <ul>
+        </ul>
+</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_fc26940e004e45754060bff2494aef8f}--><!--{WIDGET_ENTERPRISE_BANNER_bc468389d006fdc53cfc850838ee7af0}--><div class="widget widget-banner">
+        <ul>
+        </ul>
+</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_bc468389d006fdc53cfc850838ee7af0}--><!--{WIDGET_ENTERPRISE_BANNER_00e3d663a900441a5b07593b087e6a7c}--><div class="widget widget-banner">
+        <ul>
+        </ul>
+</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_00e3d663a900441a5b07593b087e6a7c}--><!--{WIDGET_ENTERPRISE_BANNER_1c4f66e2f75680fc595b535b0d793180}--><div class="widget widget-banner">
+        <ul>
+        </ul>
+</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_1c4f66e2f75680fc595b535b0d793180}--><!--{WIDGET_ENTERPRISE_BANNER_d6a31146f87da908e9ce0e5c53da0179}--><div class="widget widget-banner">
+        <ul>
+        </ul>
+</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_d6a31146f87da908e9ce0e5c53da0179}--><!--{WIDGET_ENTERPRISE_BANNER_8901882ef2f7280b71c9768441203095}--><div class="widget widget-banner">
+        <ul>
+        </ul>
+</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_8901882ef2f7280b71c9768441203095}--><!--{WIDGET_ENTERPRISE_BANNER_c51e54e05c73e14f57413e0f17a0f7e4}--><div class="widget widget-banner">
+        <ul>
+        </ul>
+</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_c51e54e05c73e14f57413e0f17a0f7e4}--><!--{WIDGET_ENTERPRISE_BANNER_3b970631e55393369a85089931b150da}--><div class="widget widget-banner-inline">
+        <ul>
+        </ul>
+</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_3b970631e55393369a85089931b150da}--><!--{WIDGET_ENTERPRISE_BANNER_0f16da78b648808b899e76b1b275cf50}--><div class="widget widget-banner">
+        <ul>
+        </ul>
+</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_0f16da78b648808b899e76b1b275cf50}--><!--{WIDGET_ENTERPRISE_BANNER_1159ffe6d3e682c8ece40cc1da0d89c6}--><div class="widget widget-banner">
+        <ul>
+        </ul>
+</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_1159ffe6d3e682c8ece40cc1da0d89c6}--><!--{WIDGET_ENTERPRISE_BANNER_963a439e7b93a8326c14a8342264ef2f}--><div class="widget widget-banner">
+        <ul>
+        </ul>
+</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_963a439e7b93a8326c14a8342264ef2f}--><!--{WIDGET_ENTERPRISE_BANNER_e0696a704d43f3de1ae4f4e9ee152ddb}--><div class="widget widget-banner">
+        <ul>
+            <li><a href="https://www.benchmade.com/storelocator/?utm_source=bkcwebsite&amp;utm_medium=skinnybanner&amp;utm_campaign=holiday2017_storelocator">
+<img src="http://www.benchmade.com/media/wysiwyg/Active-Banners/12.17_holidaybanner_1321x30.jpg" alt=""></a>
+</li>
+        </ul>
+</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_e0696a704d43f3de1ae4f4e9ee152ddb}--></div><!--/{HEADER_d5f5021d73500dafa00a2b515490e461}-->        <div class="container col1-layout">
+                        <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->            <div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><br>    
+<h2><strong>Benchmade Privacy Statement</strong></h2>
+    <h3>Effective Date: August 11, 2017</h3>
+    <p>
+       Your privacy is important to Benchmade Knife Co., Inc. (“Benchmade,” “us,” “our,” and/or “we”). This Privacy Statement describes our information and privacy practices that apply when you use Benchmade’s website located at <a href="https://www.benchmade.com" target="blank">www.benchmade.com</a> (the “Website”), as well as information we collect through offline contacts we have with you. 
+<br><br>
+When you use the website located at <a href="http://benchmadeforum.com/groupee?s=651104622&amp;cdra=Y" target="blank">www.benchmadeforum.com</a>, that website is hosted by a third party, and the information you submit through that website is collected, used, and stored by that third party and not Benchmade. Please see additional information below regarding your use of the <a href="http://benchmadeforum.com/groupee?s=651104622&amp;cdra=Y" target="blank">www.benchmadeforum.com</a> website. 
+<br><br>
+PLEASE READ THIS PRIVACY STATEMENT BEFORE YOU USE THE WEBSITE. Your use of the Website signifies that you have read and agree with all of the terms of this Privacy Statement and consent to the collection and use of your personal information by Benchmade, as described in this Privacy Statement. If you do not agree with any part of this Privacy Statement, do not use the Website. If you are acting on behalf of an entity, you represent that you have full authority to bind your entity to this Privacy Statement. If you do not have such authority, do not use the Website. You agree that this Privacy Statement is supported by reasonable and valuable consideration (including without limitation your use of the Website), the receipt and sufficiency of which you acknowledge. 
+<br><br>
+CHANGES TO THIS PRIVACY STATEMENT. We reserve the right to update and revise this Privacy Statement at any time. We will post any new or revised Privacy Statement here. You should review this Privacy Statement regularly and every time you purchase product or otherwise provide Personally Identifiable Information (described below) through the Website to make sure that you are aware of the terms of this Privacy Statement. You can determine if this Privacy Statement has been revised since your last visit by referring to the Last Updated date at the top of this page. If changes are significant, we might also notify you of such changes by posting a notice on the homepage of the Website. Unless we indicate otherwise, your use of the Website following such revision constitutes your acceptance of and agreement to the terms of this Privacy Statement as amended, and the revisions will apply to all Personally Identifiable Information and Automatically Collected Information (described below) collected on and after the date on which we post the revised Privacy Statement. We do, however, reserve the right to change this Privacy Statement and to apply the changes to information previously collected, to the extent permitted by law. If the changes to this Privacy Statement will apply to your previously-collected information, we will notify you about the change by sending a notice to the email address associated with your account; we will only provide this notice to account holders.
+<br><br>
+<b>IMPORTANT NOTICES:
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a) Please see Sections 2(a), 4(c), and 5(b) below regarding collection, use, and storage of your financial information.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) Please see Section 3(d) regarding our online targeted advertising practices and how to opt-out of receiving online ads.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c) Please see Section 4(b) regarding our marketing communications and how to opt out of receiving them in the future.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d) Please see Section 5 below regarding parties who will have access to your Personally Identifiable Information and Automatically Collected Information. 
+<br><br>
+<b>2. Information Collected</b>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(a) Personally Identifiable Information</i></b></b>
+<br><br>
+In order to purchase product through the Website, create an account on the Website, register a knife through the Website, and otherwise use many features of the Website, you will be required to provide Personally Identifiable Information (described below). YOU ARE NEVER UNDER ANY OBLIGATION TO PROVIDE YOUR PERSONALLY IDENTIFIABLE INFORMATION. If, however, you do not provide Personally Identifiable Information, you will not be able to use all of the features of and services offered through the Website. <b>When you do provide your Personally Identifiable Information, you are authorizing us to use that information in accordance with the terms of this Privacy Statement and to store your Personally Identifiable Information on our servers located in the United States.</b>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>We collect the following types of Personally Identifiable Information on the Website:</i>
+<br><br>
+1) Your full name<br>
+2) Home or business address and/or other shipping address(es), billing address, phone number, email address, fax number, and other information that could be used to contact you via mail, in person, or online and/or to identify you personally<br>
+3) Credit card information. We use PayPal to process payments for product purchases you initiate through the Website.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Please see Sections 4(c) and 5(b) below regarding collection and use of your credit card information.<br>
+4) Demographic information (such as your zip code, age range, and gender)<br>
+5) Password if you create an account<br>
+6) Images you post to the Website, though we don’t store the images. Rather, the images are stored on our vendor Shuttlerock Limited’s servers and are only mirrored on the Website. Shuttlerock Limited collects, stores, and uses these images.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Please see Section 5(c) below regarding images you submit through the Website.<br>
+7) Personal information you input into any search box, message box, or comment box, or any other open text box, such as if you fill out form to contact us, register a knife, complete product reviews, or otherwise fill out any form or participate in any portion of the Website that permits you to input information<br>
+8) Occupation and income range<br>
+9) Information regarding your knife purchases, including date of purchase, store name and city, your purpose for purchasing the knife, and similar information<br>
+10) Your precise location (or that of your device) when you visit our dealer locator web page so we can list dealers near you. In addition to using this data to list dealers near you, we might use this information in the aggregate to understand general consumer patters and trends and to understand how our Website is being used to deliver relevant advertising. If you want to opt out of the collection of your precise location information, you may be able to adjust the settings of your device so that information about your physical location is not sent to us or third parties by (a) disabling location services within the device settings; or (b) denying certain websites permission to access location information by changing the relevant preferences and permissions in your device or browser settings. Please note that your location may be derived from your WiFi, Bluetooth, and other device settings. See your device settings for more information. <br>
+11) Any other information you actively enter into the Website or otherwise provide to us, such as during phone calls with us or emails sent to us
+<br><br>
+The above types of information are referred to collectively in this Privacy Statement as “Personally Identifiable Information.”
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Personally Identifiable Information may be provided by you to us (or to third parties, as explained in this Privacy Statement) in several ways, including but not limited to, when you:</i>
+<br><br>
+1) purchase product through the Website,<br>
+2) contact us through the Website,<br>
+3) create or access an account on the Website,<br>
+4) register a knife through the Website,<br>
+5) seek to find a dealer near you,<br>
+6) write product reviews to be published on the Website,<br>
+7) post images to the Website, including comments about your images and comment on others’ images on the Website, <br>
+8) sign up to receive our email updates, and/or<br>
+9) sign up to participate in any sweepstakes, contents, or other promotions we sponsor.
+<br><br>
+We might also collect Personally Identifiable Information about you from third parties, such as demographic firms and data brokers, and/or from publicly available resources, to make our future services and marketing efforts more efficient and personalized for you. 
+<br><br>
+We might combine all Personally Identifiable Information we collect about you through the various means provided above and share that Personal Identifiable Information as described below.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(b) Automatically Collected Information</i></b>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When you access and use the Website, we automatically collect and store information about your visit, such as: 
+<br><br>
+1) date and time of visit and duration of visit<br>
+2) site traffic patterns, pages viewed, and clickstreams<br>
+3) type of web browser used, operating system/platform used<br>
+4) your IP address or mobile device ID<br>
+5) your computer or device hardware model, operating system version, advertising identifier and unique application identifiers (which may uniquely identify your browser or device and assist us with targeted advertising), web browser type and language, wireless network, and mobile network information (including your mobile phone number)<br>
+6) the website(s) from which you linked to the Website and the website(s) you visit after you visit our Website<br>
+7) the location from which you access the Website
+<br><br>
+The above types of information are referred to collectively in this Privacy Statement as “Automatically Collected Information.”
+<br><br>
+This information allows us to track what visitors to the Website are looking at most frequently so we can analyze trends; recognize and deliver more of the desired features, products, and services; and continually improve the performance and functionality of the Website. In addition, see important information below regarding our use of Automatically-Collected Information to track your online activity and deliver targeted advertising. Unless prohibited by law, Automatically Collected Information may be combined with Personally Identifiable Information we have collected about you.
+<br><br>
+<b>3. How We Collect Automatically Collected Information</b>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(a) Cookies</i></b>
+<br><br>
+We use a feature of your internet browser called a “cookie” (a small file automatically placed on your hard drive or operating device, which assigns you a unique, random number that acts as a sort of anonymous ID) to facilitate Website navigation and internet sessions. Standing alone, a cookie does not identify Personally Identifiable Information of a user; rather, it identifies the computer or device that a user uses to access the Website. Unless you choose to identify yourself to us by providing Personally Identifiable Information, you remain anonymous to us when browsing the Website; in other words, the cookie alone will not allow us to identify you personally. 
+<br><br>
+Regardless of whether you have an account on the Website, when you visit the Website, our servers send a session cookie to your computer or other operating device. And we use these session cookies to collect Automatically Collected Information as you browse and use the Website. Session cookies are removed from your hard drive when you close your browser or otherwise end your session on the Website. 
+<br><br>
+If you have an account on the Website, each time you log into your account, we use a persistent cookie containing encrypted information to allow us to uniquely identify you and to process your online transactions and requests. Persistent cookies are required to use your account. Persistent cookies remain on your hard drive even after you close your browser or otherwise end your session on the Website so that the information held in the cookie is still available when you return to the Website.
+<br><br>
+We further use persistent cookies, even if you don’t have an account on the Website, when you put an item in our shopping cart. We use this persistent cookie to save the data for a designated period of time in case the user’s session expires and the user then returns to complete the purchase within that timeframe. 
+<br><br>
+We use cookies to collect information about your browser and your computer or device, to later identify your computer or device (by recording your IP address or device ID), to provide Website user authentication and distinguish you from other Website users, to remember your personal settings, to pre-fill forms for you by saving your preferences for future visits, to monitor your use of the Website, to identify the websites you visited prior to and that you visit after visiting our Website, and to compile aggregate data about Website traffic and interactions so we can offer better experiences and tools in the future and to improve our ad targeting. 
+<br><br>
+Most browsers automatically accept cookies, but you can usually disable the acceptance of browser cookies and remove existing browser cookies at any time by changing the preferences in your browser or device. Please refer to your browser or device for information on how to disable and control cookies. If you choose to disable cookies, you will not be able to use some of the Website and/or some features or services will not function as well. For example, you might not be able to order product through our Website, track your order, register for an account, or access your existing account.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(b) Web Beacons</i></b>
+<br><br>
+We use web beacons alone or in conjunction with cookies to compile Automatically-Collected Information about your use of the Website, as well as your interaction with emails from us. Web beacons are clear electronic images imbedded in a web page, website feature, or email, which can recognize certain types of information on your computer or device, such as cookies, when you viewed a particular website tied to the web beacon, and a description of a website tied to the web beacon. For example, we may place web beacons in marketing emails that notify us when you click on a link in the email that directs you to the Website. We use web beacons to operate and improve the Website and email communications and to statistically monitor how many people are using the Website and opening our emails and for what purposes.  
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(c) IP Addresses and Mobile Device IDs</i></b>
+<br><br>
+When you visit the Website, we collect your Internet Protocol (“IP”) address and/or mobile device ID to track and aggregate Automatically Collected Information. For example, we use IP addresses and mobile device IDs to monitor the regions from which our Website users navigate the Website. We also collect IP addresses and mobile device IDs from users when they log into their accounts on the Website in order to confirm the applicable user’s identity.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(d) Third Party Cookies and Website Analytics; Our Targeted Advertising Practices</i></b>  
+<br><br>
+We use third party services to track and analyze your Website activity, as well as to track websites you visited before and websites you visit after using the Website. You will encounter session and persistent cookies and other tracking technologies from these third parties on certain pages of the Website, which we have allowed. The information provided to these third parties does not include Personally Identifiable Information; rather, these third parties only collect Automatically Collected Information, such as pages and products viewed and your IP address or device ID. 
+<br><br>
+We use the information collected from these service providers to find usability problems to make the Website easier to use, to analyze use patterns, and to improve our products and services. 
+<br><br>
+<b>We also use these third-party persistent cookies and other third-party services to serve our online advertisements to you on other websites and/or mobile applications you visit after you’ve visited the Website. This online targeted advertising is based on your online activity. You will see our advertisements across the Internet, which are served to you by these third-party service providers, unless you opt-out of receiving the online targeted advertisements.</b> We also receive reports from these third parties that include Automatically Collected Information regarding your use of the Website.
+<br><br>
+<b>You can opt-out of receiving online targeted advertisements by visiting the Network Advertising Initiative opt-out page (<a href="http://www.networkadvertising.org/choices/#completed" target="blank">http://www.networkadvertising.org/choices/#completed</a>) or the Digital Advertising Alliance Consumer Choice Page (<a href="http://www.aboutads.info/choices/" target="blank">http://www.aboutads.info/choices/)</a> or here: <a href="http://preferences-mgr.truste.com/" target="blank">http://preferences-mgr.truste.com/</a>. See more information about your options regarding online advertising here: <a href="http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options" target="blank">http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options</a>. Our online advertisements will also contain an icon or link regarding your advertisement choices, which you can click on to then opt-out of receiving certain ads delivered by that particular ad network. Note that even if you opt-out, you may still see our advertisements, but they will not be delivered based on your online activity. Further, please remember that changing your settings with certain browsers and ad networks will not carry your privacy choices across all browsers and/or other ad networks.</b>
+<br><br>
+The online targeted advertisements described in this Section are different from marketing communications you will receive if you are on our promotional mailing list, which is discussed in Section 4(b) below.
+<br><br>
+<b>4. Use of Collected Information </b>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(a) Use of Personally Identifiable Information</i></b>
+<br><br>
+We use your Personally Identifiable Information to respond to your information requests, to create an account for you, to fulfill your product orders and process payments, to register your knife, to otherwise respond to your actions on the Website. to contact you regarding your use of the Website or your account or transactions made through the Website, to contact you regarding product recalls or safety issues, and/or to provide required notices. See other sections of this Privacy Statement for more information on how we use your Personally Identifiable Information. 
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(b) Use of Personally Identifiable Information for Marketing Purposes</i></b>
+<br><br>
+If you sign up for our email updates, we will contact you to provide information about products or services that may be of interest to you, or to provide other information regarding Benchmade, upcoming events and promotions, new products, and other general information about our products and/or services.
+With each marketing communication, you will be given the opportunity to opt-out of receiving future marketing notices by using the unsubscribe mechanism provided through the marketing communication. If you request that we not contact you for marketing purposes, we reserve the right to retain your contact information and to contact you for non-marketing purposes relating to your use of the Website and product purchases. We further retain the right to use your contact information to comply with our legal obligations, resolve disputes, and enforce our agreements.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(c) Collection and Use of Financial Information</i></b>
+<br><br>
+When you order products through the Website, in order to complete your purchase, you will link to <a href="www.paypal.com" target="blank">www.paypal.com</a> where you will input Personally Identifiable Information, such as your name, credit card information, billing address, and/or your PayPal account information. All of this Personally Identifiable Information will be collected by PayPal and is subject to PayPal’s privacy policy, located here as of the Effective Date of this Privacy Statement: <a href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="blank">https://www.paypal.com/us/webapps/mpp/ua/privacy-full</a>. 
+<br><br>
+You will also provide us some Personally Identifiable Information through our Website to allow us to process your transaction. Further, in order to process your transaction, we do obtain from PayPal a token which is not traceable to your twelve-digit card number. We store the token separately from your other Personally Identifiable Information (such as your name and shipping address). We store the token for twelve (12) months after the date of your purchase per the PayPal token expiration policy.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(d) Use of Automatically Collected Information; Targeted Advertising Practices</i></b>
+<br><br>
+We collect Automatically Collected Information in an effort to ensure that our Website will appear and function appropriately on your computer, to help us improve the Website, and so we may determine which website referred you to our Website and which websites you visit after you use our Website. We use your IP address or mobile device ID to help identify you. We may also use Automatically Collected Information to track what our Website users are looking at most frequently so we can recognize and deliver more of the desired features, products, and services. See other sections of this Privacy Statement for more information on how we use your Automatically Collected Information. See Section 3(d) for information regarding our targeted advertising practices.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(e) General</i></b>
+<br><br>
+We may use both Automatically Collected Information and Personally Identifiable Information to help diagnose problems with the Website; to analyze statistical use patterns and demographic data; and to improve our Website, products, and services.
+<br><br>
+<b>5. Who Has Access to the Information We Collect? </b>
+<br><br>
+Except in the circumstances stated in this Privacy Statement, we will not sell or otherwise intentionally transfer or disclose your Personally Identifiable Information to any third party. 
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(a) Third-Party Service Providers</i></b>
+<br><br>
+We may provide your Personally Identifiable Information and Automatically Collected Information to third parties that provide us with services to the extent necessary and appropriate, in our discretion, to perform certain marketing or Website related services on our behalf (e.g., improving Website related services and features, directing mailings, fulfilling orders, shipping products to you, processing your payments, location mapping, conducting website analytics, targeted online advertising, data storage, security, etc.). Our service providers store your information on their servers located in the United States and possibly other countries.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(b) Third-Party Payment Processor</i></b>
+<br><br>
+When you purchase product through the Website, you will be providing your financial information and other Personally Identifiable Information (and likely automatically collected information as well) to PayPal, and your information is subject to PayPal’s privacy policy, located here as of the Effective Date of this Privacy Statement: <a href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="blank">https://www.paypal.com/us/webapps/mpp/ua/privacy-full</a>.
+<br><br>
+Please review the PayPal’s privacy policy carefully before purchasing product through our Website.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(c) Third-Party Image Host</i></b>
+<br><br>
+When you upload images through the Website, we do not store the images. The images are stored on our vendor Shuttlerock Limited’s servers and are only mirrored on the Website. As part of this, we might provide some of your Personally Identifiable Information and Automatically Collected Information to Shuttlerock Limited when you upload images to the Website. Your information is then subject to Shuttlerock Limited’s privacy policy, located here as of the Effective Date of this Privacy Statement: <a href="https://benchmade.shuttlerock.com/privacy&quot;" target="blank">https://benchmade.shuttlerock.com/privacy</a>
+<br><br>
+Please review the Shuttlerock Limited’s privacy policy carefully before submitting images through our Website.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(d) Third-Party Operator and Host of <a href="http://benchmadeforum.com/groupee?s=651104622&amp;cdra=Y" target="blank">www.benchmadeforum.com</a></i></b>
+<br><br>
+When you use and post content to the <a href="www.benchmadeforum.com" target="blank">www.benchmadeforum.com</a> forum, you will be providing your Personally Identifiable Information (and automatically collected information as well) to Social Strata, and your information is subject to Social Strata privacy, located here as of the Effective Date of this Privacy Statement: <a href="https://assets.socialstrata.com/docs/privacy_policy.php" target="blank">https://assets.socialstrata.com/docs/privacy_policy.php</a>
+<br><br>
+Please review the Social Strata’s privacy policy carefully before using the <a href="http://benchmadeforum.com/groupee?s=651104622&amp;cdra=Y" target="blank">www.benchmadeforum.com</a> forum.
+<br><br>
+In addition, you may choose to share your Personally Identifiable Information with other users of the forum through messages. Further, other forum users can see that you are a member of the forum.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(e) Merger, Acquisition, or Sale </i></b>
+<br><br>
+We may share and transfer any and all Personally Identifiable Information and Automatically Collected Information with and to a third party (whether affiliated or not), in the event of a sale or transfer of assets or other disposition of all or any portion of our business, whether as a going concern or as part of bankruptcy, liquidation, or similar proceedings in which information of users is among the assets transferred. Note your Personally Identifiable Information and Automatically Collected Information will be shared in connection with evaluating such transaction before it happens and as part of the transferred assets. 
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(f) Required by Law; for Protection</i></b> 
+<br><br>
+Notwithstanding anything to the contrary in this Privacy Statement, we may also use and/or disclose Personally Identifiable Information and Automatically Collected Information, to any third party, without your consent and without additional notice to you, if we believe we are legally obligated to do so; if we believe disclosure is necessary to protect, establish, or exercise our legal rights or defend against legal claims; or if we believe disclosure is necessary to protect our other customers, third parties, or our employees, property, or business.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(g) Public Areas of Website</i></b>
+<br><br>
+The Website contains one or more areas where users can post content that will be viewed by other Website users and where users can interact with one another. When you voluntarily disclose Personally Identifiable Information on these areas for public viewing or with other users, the information may be collected, stored, used, and disclosed by other users of the Website. Such activities are beyond our control, and we shall have no responsibility for or liability regarding the protection or security of such information. Do not post information that you want to keep private on these areas of the Website and do not share information that you want to keep private with other Website users when interacting with them.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(h) Social Media</i></b>
+<br><br>
+Certain pages of our Website might allow you to connect and share information or photographs that you post to our Website with various social media platforms, such as Facebook and Twitter. These features might require us to implement cookies, plug-ins, or application programming interfaces (APIs) provided by such social media platforms to facilitate the communications and features. We might share information you provide to us with these platforms, which information becomes subject to their privacy statements. In addition, by choosing to use any third party social media platform or choosing to share content or communications with any social media platform, you allow us to share information with the designated social media platform. We cannot control any policies or terms of such third party platform. As a result, we cannot be responsible for any use of your information or content by a third party platform, which you disclose at your own risk. We encourage you to review the privacy statements of these platforms.
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>(i) De-identified and Aggregate Automatically Collected Information</i></b> 
+<br><br>
+We may share de-identified aggregated Automatically Collected Information without restriction.
+<br><br>
+<b>6. Securing Collected Information</b>  
+<br><br>
+<u>Our security measures</u>: We use commercially reasonable physical, electronic, and managerial security measures to assist in protecting against the loss, misuse, and unauthorized alteration of Personally Identifiable Information that is under our control. When the Website is accessed using Chrome, Internet Explorer version 8.0 or later, Firefox version 2.0 or later, or Safari version 5.0 or later, Secure Socket Layer (“SSL”) technology protects your Personally Identifiable Information using both server authentication and data encryption during transmission.  <br>
+<u>User Responsibility</u>: The safety and security of your Personal Information also depends on you. For example, you should not send us sensitive Personally Identifiable Information via email, as this is not secure, and information sent via email is not encrypted. Also, before transmitting sensitive Personally Identifiable Information to us through our Website, look at the bottom status bar of your browser window for an unbroken key or a closed lock (depending on your browser), which will indicate that the SSL is active and the connection is secure. Please notify us if you become aware that your Personally Identifiable Information is lost, stolen, or used without permission.  <br>
+<u>DISCLAIMER</u>: Unfortunately, no data storage system, or system of transmitting data over the Internet or wireless network, can be guaranteed to be 100% secure, and no security system can prevent all security breaches. As a result, we do not and cannot guarantee the security of our servers, the means by which Personally Identifiable Information is transmitted between your computer or device and our servers, or any Personally Identifiable Information provided to us or to any third party to or in connection with the Website or otherwise.
+<br><br>
+<b>7. Updating and Correcting Personal Information</b>
+<br><br>
+You may update your Personally Identifiable Information associated with your account by logging into your account and editing your account information. Please note that your account and all features of the Website may not function properly if you remove any or all of your Personally Identifiable Information. 
+<br><br>
+If you want to close your account, please contact us at <a href="mailto:cpeaslee@benchmade.com">CPeaslee@Benchmade.com</a>.
+<br><br>
+If you request that your Personally Identifiable Information be changed or deleted from our databases and/or that we close your account, we will use commercially-reasonable efforts to remove your Personally Identifiable Information from our databases, but see Section 8 below regarding why we might maintain some information. 
+<br><br>
+<b>8. Retention and Storage</b> 
+<br><br>
+The third parties discussed in Sections 5(b), 5(c), and 5(d) above may retain your Personally Identifiable Information and Automatically Collected Information in accordance with the terms of their respective privacy policies. 
+<br><br>
+We retain your financial information as set forth in Section 4(c) above. We may retain all other Personally Identifiable Information and Automatically Collected Information in our databases until you ask us to remove your information from our databases, unless applicable laws require otherwise. Note that even after you ask us to remove your information from our databases, it may be impossible to remove some information, such as information tracked in our web server log files and information that may reside in backup files. We may also retain Automatically Collected Information even after you request that we remove your information from our databases, for use in the aggregate and to analyze and improve the Website, our products, and our services. Your Automatically-Collected Information may be retained for the purpose of serving targeted online advertising to you until you opt-out of receiving these advertisements, as described in Section 3(d) above. Further, even after you request that we remove your information from our databases, we may retain Personally Identifiable Information and Automatically Collected Information to comply with any applicable law, rule, regulation, or guideline; to prevent fraudulent activity; to protect ourselves against liability; and to allow us to enforce our contractual or other rights and to pursue available remedies and limit any damages we might sustain.
+<br><br>
+<b>9. Links to Third-Party Websites, Products, and Services</b>
+<br><br>
+This Privacy Statement applies only to the Personally Identifiable Information and Automatically Collected Information collected through the Website or otherwise given to us by you through offline contact. The Website contains links to other websites (“Linked Sites”), products, and services that are not owned or controlled by us. We provide Linked Sites to you solely as a convenience, and the inclusion of Linked Sites does not imply endorsement by Benchmade of the Linked Sites or the products or services available on the Linked Sites. You access Linked Sites at your own risk, and by accessing them, you leave the Website. We are not responsible for and have not reviewed the privacy practices of the Linked Sites, or the owners or operators of the Linked Sites, the products or services they offer, or the tracking technologies they use. The owners and operators of the Linked Sites, products, or services may have their own policies regarding privacy and security. You should review any Linked Sites, products, or services for their own privacy practices to determine what information about you may be collected and used when you use such Linked Sites, products, or services.
+<br><br>
+<b>10. Intended Users of the Website</b>
+By accessing, providing information through, or otherwise using the Website, you affirm (i) that you are at least eighteen (18) years old, or that you are between the age of thirteen (13) and seventeen (17) <u>and</u> possess legal parental or guardian consent to use the Website and provide information through the Website; and (ii) that you have authority to agree to this Privacy Statement and are competent and capable of understanding and complying with this Privacy Statement.
+The Website is not directed to children under the age of 13, and we will not knowingly collect any Personally Identifiable Information from children under the age of 13 and will not knowingly contact children under the age of 13 for marketing purposes. If we become aware that an individual is under the age of 13 and has submitted any information to us, we will delete his or her information from our files.
+<br><br>
+<b>11. Users from Outside the United States</b>
+<br><br>
+It is important that you know that no matter where you live or where you happen to access and use the Website from, your Personally Identifiable Information and Automatically Collected Information will be collected from or transferred to, stored in, and processed in the United States; and by using the Website, you agree to our collection, use, and storage of your Personally Identifiable Information and Automatically Collected Information in compliance with U.S. laws. 
+<br><br>
+<b>12. Enforceability</b>
+<br><br>
+If any part of this Privacy Statement is determined to be invalid or unenforceable pursuant to applicable law, then the invalid or unenforceable provision will not affect the validity and enforceability of any other provision.
+<br><br>
+<b>13. Contact Us</b>
+<br><br>
+If you have any comments or questions about this Privacy Statement or the use of your Personally Identifiable Information and Automatically Collected Information, please contact us: 
+<br><br>
+Benchmade Knife Co., Inc. <br>
+Attn: Legal Services<br>
+300 Beavercreek Road<br>
+Oregon City, OR 97045<br>
+Toll Free: 1-800-800-7427<br>
+Int’l: 1-503-655-6004<br>
+Email: info@benchmade.com
+
+    </p>
+ 
+                                 
+                
+                
+                    
+         <br></div>        </div>
+        <div id="footer">
+    <div class="container text-left">
+    	<div class="">
+    		<table class="table">
+	        	<tbody><tr>
+	        		<td class="small-logo hidden-xs">
+	        			<span></span>
+	        		</td>
+	        		            <td class="level-top">
+                <div class="title level-top">Customer service</div>
+                <div class="dropdown">
+                    <a href="tel:1-800-800-7427">1-800-800-7427</a>
+                    <a href="http://www.benchmade.com/contacts/">Contact Us</a>
+                    <a href="/warranty-service">Lifesharp/Warranty</a>
+                    <a href="http://www.benchmade.com/productregistration/">Register Your Knife</a>
+                    <a href="/catalog-request">Catalog Request</a>
+                </div>
+            </td>
+            <td class="level-top">
+                <div class="title level-top">Company</div>
+                <div class="dropdown">
+                    <a href="http://www.benchmade.com/press_room/">Press Room</a>
+                    <a href="/careers">Careers</a>
+                    <a href="http://www.benchmade.com/storelocator/">Dealer Locator</a>
+                    <a href="http://www.benchmade.com/media/forms/2017_Benchmade_Catalog.pdf" target="_blank">Download Catalog</a>
+                    <a target="_blank" href="http://dealer.benchmade.com/">Want to be a Dealer?</a>
+                    <a href="/charitable-contributions">Contributions</a>
+                    <a href="/awards-recognition">Awards</a>
+                </div>
+            </td>
+            <td class="level-top">
+                <div class="title level-top">About</div>
+                <div class="dropdown"><div id="newsletter" <="" div="">
+                    <a href="/benchmade-history">History</a>
+                    <a href="/about">About Us</a>
+                    <a href="/industry-partnerships">Our Industry</a>
+                    <a href="/meet_the_team">Our People</a>
+                    <a href="/factory-tour">Factory Tour</a>
+                </div>
+            </div></td>	        		<td>
+	        			<div class="title">Benchmade fans</div>
+	        			<div class="social">
+	        				<a target="_blank" href="https://www.facebook.com/Benchmade" class="facebook"></a>
+	        				<a target="_blank" href="https://twitter.com/BenchmadeKnives" class="twitter"></a>
+	        				<a target="_blank" href="https://plus.google.com/+BenchmadeKnifeCompany/videos" class="google"></a>
+	        				<a target="_blank" href="https://instagram.com/benchmadeknifecompany/" class="instagram"></a>
+	        			</div>
+	        			<div class="form-subscribe">
+	        				
+            <a target="_blank" class="hidden-xs" href="http://benchmadeforum.com/groupee?s=651104622&amp;cdra=Y">Benchmade Forum</a>
+        	        				<a class="hidden-xs" href="{{store url=" "}}"="">Newsletter Sign-up</a>
+
+						    <div class="form-subscribe-another">
+						        <form action="/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+					                <input name="email" type="text" id="newsletter" value="email address" onclick="this.value=='email address'?this.value='':''" onblur="this.value==''?this.value='email address':''" class="input-text required-entry validate-email">
+						            <button type="submit" name="SubAction" value="sub_add_update" title="Subscribe">Submit</button>
+						        </form>
+						    </div>
+						</div>
+						<script type="text/javascript">
+						    //<![CDATA[
+						    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+						    //]]>
+						</script>
+	        		</td>
+	        	</tr>
+	        </tbody></table>
+	        <div class="footer-links text-right">
+	        	            <a href="/privacy-policy">Privacy Policy</a>
+            <a href="/policies">Policies</a>
+            <a href="/catalog/seo_sitemap/category">Site Map</a>
+        	        </div>
+    	</div>
+    </div>
+</div>                
+
+<script type="text/javascript">
+    var amlabel_selector = '.product-image';
+    </script><div id="sociallogin_button" style="">	
+<div class="sociallogin-other">
+<div id="social_login_popup" style="display: none;">
+	<div id="magestore-popup_social" class="magestore-popup_social">
+	<div id="other_sociallogin_label" style="background-color: rgb(240, 240, 237);"><strong>Other Social Login<strong></strong></strong></div><strong><strong>
+	<div id="sociallogin-close" title="Close" style="font-weight:bold;font-size:11px;color:#f18200" onclick="this.up('#social_login_popup').style.display='none';"></div>		
+	<ul style="padding-top: 0.4em;padding-bottom: 0.3em;">
+						
+										
+				<li class="button left other-button"> 
+    	<button id="bt-loginfb" class="bt-login-social" alt="Login by Facebook" title="Login by Facebook" onclick="fbLogin()" href="javascript:void(0);">
+	<span><span>Facebook Sign in</span></span>
+</button>
+    <script type="text/javascript">
+    var newwindow;
+    var intId;
+    function fbLogin(){
+        var  screenX    = typeof window.screenX != 'undefined' ? window.screenX : window.screenLeft;
+        var	 screenY    = typeof window.screenY != 'undefined' ? window.screenY : window.screenTop;
+        var	 outerWidth = typeof window.outerWidth != 'undefined' ? window.outerWidth : document.body.clientWidth;
+        var	 outerHeight = typeof window.outerHeight != 'undefined' ? window.outerHeight : (document.body.clientHeight - 22);
+        var	 width    = 500;
+        var	 height   = 270;
+        var	 left     = parseInt(screenX + ((outerWidth - width) / 2), 10);
+        var	 top      = parseInt(screenY + ((outerHeight - height) / 2.5), 10);
+        var	 features = (
+                'width=' + width +
+                ',height=' + height +
+                ',left=' + left +
+                ',top=' + top
+              );
+    
+        newwindow=window.open('https://www.facebook.com/dialog/oauth?client_id=520740064751715&redirect_uri=https%3A%2F%2Fwww.benchmade.com%2Fsociallogin%2Ffblogin%2Flogin%2Fauth%2F1%2F&state=d7456f9605035f8bc069d9130a1bdc5b&display=popup&scope=email','Login_by_facebook',features);
+    
+        if (window.focus) {
+            newwindow.focus()
+        }
+        return false;
+    }
+    </script>
+   
+ </li>	
+				<script type="text/javascript">
+					$('bt-loginfb').addClassName('non-visible');
+				</script>					
+						
+						
+										
+				<li class="button left other-button"> <button id="bt-logingo" class="bt-login-social" alt="Login by Google" title="Login by Google" onclick="goLogin()" href="javascript:void(0);">
+	<span><span>Google Sign in</span></span>
+</button>
+<script type="text/javascript">
+var newwindow;
+var intId;
+function goLogin(){
+	var  screenX    = typeof window.screenX != 'undefined' ? window.screenX : window.screenLeft;
+	var	 screenY    = typeof window.screenY != 'undefined' ? window.screenY : window.screenTop;
+	var	 outerWidth = typeof window.outerWidth != 'undefined' ? window.outerWidth : document.body.clientWidth;
+	var	 outerHeight = typeof window.outerHeight != 'undefined' ? window.outerHeight : (document.body.clientHeight - 22);
+	var	 width    = 700;
+	var	 height   = 400;
+	var	 left     = parseInt(screenX + ((outerWidth - width) / 2), 10);
+	var	 top      = parseInt(screenY + ((outerHeight - height) / 2.5), 10);
+	var	 features = (
+			'width=' + width +
+			',height=' + height +
+			',left=' + left +
+			',top=' + top
+		  );
+
+	newwindow=window.open('http://www.benchmade.com/sociallogin/gologin/login/','Login_by_google',features);
+
+	if (window.focus) {
+		newwindow.focus()
+	}
+	return false;
+}
+</script>
+ </li>	
+				<script type="text/javascript">
+					$('bt-logingo').addClassName('non-visible');
+				</script>					
+						
+						
+										
+				<li class="button left other-button"> <button id="bt-logintw" class="bt-login-social" alt="Login by Twitter" title="Login by Twitter" onclick="twLogin()" href="javascript:void(0);">
+	<span><span>Twitter Sign in</span></span>
+</button>
+<script type="text/javascript">
+var newwindow;
+var intId;
+function twLogin(){
+	var  screenX    = typeof window.screenX != 'undefined' ? window.screenX : window.screenLeft;
+	var	 screenY    = typeof window.screenY != 'undefined' ? window.screenY : window.screenTop;
+	var	 outerWidth = typeof window.outerWidth != 'undefined' ? window.outerWidth : document.body.clientWidth;
+	var	 outerHeight = typeof window.outerHeight != 'undefined' ? window.outerHeight : (document.body.clientHeight - 22);
+	var	 width    = 790;
+	var	 height   = 350;
+	var	 left     = parseInt(screenX + ((outerWidth - width) / 2), 10);
+	var	 top      = parseInt(screenY + ((outerHeight - height) / 2.5), 10);
+	var	 features = (
+			'width=' + width +
+			',height=' + height +
+			',left=' + left +
+			',top=' + top
+		  );
+
+	newwindow=window.open('http://www.benchmade.com/sociallogin/twlogin/login/','Login_by_twitter',features);
+
+	if (window.focus) {
+		newwindow.focus()
+	}
+	return false;
+}
+</script>
+ </li>	
+				<script type="text/javascript">
+					$('bt-logintw').addClassName('non-visible');
+				</script>					
+						
+						
+										
+				<li class="button left other-button"> 
+	<button id="bt-loginins" class="bt-login-social" alt="Login by Instagram" title="Login by Instagram" onclick="instagram()" href="javascript:void(0);">
+	<span><span>Instagram Sign in</span></span>
+</button>
+    <script type="text/javascript">
+    var newwindow;
+    var intId;
+    function instagram(){
+        var  screenX    = typeof window.screenX != 'undefined' ? window.screenX : window.screenLeft;
+        var	 screenY    = typeof window.screenY != 'undefined' ? window.screenY : window.screenTop;
+        var	 outerWidth = typeof window.outerWidth != 'undefined' ? window.outerWidth : document.body.clientWidth;
+        var	 outerHeight = typeof window.outerHeight != 'undefined' ? window.outerHeight : (document.body.clientHeight - 22);
+        var	 width    = 500;
+        var	 height   = 270;
+        var	 left     = parseInt(screenX + ((outerWidth - width) / 2), 10);
+        var	 top      = parseInt(screenY + ((outerHeight - height) / 2.5), 10);
+        var	 features = (
+                'width=' + width +
+                ',height=' + height +
+                ',left=' + left +
+                ',top=' + top
+              );
+    
+        newwindow=window.open('https://api.instagram.com/oauth/authorize?client_id=2d6ea7dd04cb44a5984ecc7ca3979cad&redirect_uri=https://www.benchmade.com/sociallogin/instagramlogin/login/&scope=basic&response_type=code','Login_by_instagram',features);
+    
+        if (window.focus) {
+            newwindow.focus()
+        }
+        return false;
+    }
+    </script>
+   
+ </li>	
+				<script type="text/javascript">
+					$('bt-loginins').addClassName('non-visible');
+				</script>					
+						
+		  
+		</ul>
+	
+	</strong></strong></div><strong><strong>
+	<div style="opacity: 0.3; visibility: visible; background-color: #000000;height: 100%;left: 0;margin: 0;padding: 0;position: fixed;top: 0; z-index: 30020 !important;float: left;width: 100%;min-height: 3000px;" onclick="this.up('#social_login_popup').style.display='none';"></div>
+</strong></strong></div><strong><strong>
+</strong></strong></div><strong><strong>
+</strong></strong></div><div id="wishlist_edit_action_container"></div><strong><strong>
+<!--{WISHLISTS_225f3df53441a3d75aa0257e9402a7b7}--><script type="text/javascript">
+//<![CDATA[
+Enterprise.Wishlist.list = [];
+if (!Enterprise.Wishlist.url) {
+    Enterprise.Wishlist.url = {};
+}
+Enterprise.Wishlist.url.create = 'https://www.benchmade.com/wishlist/index/createwishlist/';
+Enterprise.Wishlist.canCreate = false;
+//]]>
+</script>
+<!--/{WISHLISTS_225f3df53441a3d75aa0257e9402a7b7}--><script type="text/javascript">
+    Listrak_Remarketing = new function() {
+        this.updateCart = function() {
+            new Ajax.Request('http://www.benchmade.com/remarketing/ajax/cart/');        };
+
+        this.track = function() {
+            new Ajax.Request('http://www.benchmade.com/remarketing/ajax/track/');        };
+    };
+</script>
+<script type="text/javascript">
+    (function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+    else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+    if (e.propertyName == 'ltkAsyncProperty' && typeof _ltk !== 'undefined'){d();}});}})(function() {
+        _ltk.SCA.CaptureEmail('newsletter');
+        _ltk.SCA.CaptureEmail('ltkmodal-email');
+        _ltk.SCA.CaptureEmail('email');
+        Listrak_Remarketing.track();
+    });
+</script>
+<script type="text/javascript">
+    (function (d, s, id, url) {
+        var js, ljs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id; js.src = url; js.type = "text/javascript";
+        ljs.parentNode.insertBefore(js, ljs);
+    })(document, 'script', 'ltkSDK', 'http://cdn.listrakbi.com/scripts/script.js?m=Mb280sh0pmQa&v=1');
+</script>
+<iframe id="lyons.storage.iframe" style="display:none" src="http://www.benchmade.com/localstorage/iframe"></iframe>
+
+<script type="text/javascript">
+    var ajaxHeaderUrl = 'http://www.benchmade.com/lyonscg_ajax/index/getHeader/';
+    var ajaxHeaderWishlist = 's';
+</script>
+    </strong></strong></div><strong><strong>
+</strong></strong></div><strong><strong>
+<!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('4913-739-10-6833');/*]]>*/</script><noscript><a href="https://www.olark.com/site/4913-739-10-6833/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code -->
+<script>
+var versaTag = {};
+versaTag.id = "5982";
+versaTag.sync = 0;
+versaTag.dispType = "js";
+versaTag.ptcl = "HTTPS";
+versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe";
+//VersaTag activity parameters include all conversion parameters including custom parameters and Predefined parameters. Syntax: "ParamName1":"ParamValue1", "ParamName2":"ParamValue2". ParamValue can be empty.
+versaTag.activityParams = {
+//Predefined parameters:
+"Session":""
+//Custom parameters:
+};
+//Static retargeting tags parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty.
+versaTag.retargetParams = {};
+//Dynamic retargeting tags parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty.
+versaTag.dynamicRetargetParams = {};
+// Third party tags conditional parameters and mapping rule parameters. Syntax: "CondParam1":"ParamValue1", "CondParam2":"ParamValue2". ParamValue can be empty.
+versaTag.conditionalParams = {};
+</script>
+<script id="ebOneTagUrlId" src="https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
+<noscript>
+<iframe src="https://bs.serving-sys.com/BurstingPipe?
+cn=ot&amp;
+onetagid=5982&amp;
+ns=1&amp;
+activityValues=$$Session=[Session]$$&amp;
+retargetingValues=$$$$&amp;
+dynamicRetargetingValues=$$$$&amp;
+acp=$$$$&amp;"
+style="display:none;width:0px;height:0px"></iframe>
+</noscript><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1ea8d9f98a","applicationID":"8260150","transactionName":"M1dRNRcCWkUAWxVZDgodcgIRCltYTlsMQ04UU1QEShVdUxY=","queueTime":0,"applicationTime":394,"atts":"HxBSQ18YSUs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</strong></strong></body></html>
