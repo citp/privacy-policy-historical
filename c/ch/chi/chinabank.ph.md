@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinabank.ph privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622013017id_/http%3A//www.chinabank.ph/about_china_bank.aspx%3Ftitle%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinabank.ph privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222015446id_/http%3A//www.chinabank.ph/about_china_bank.aspx%3Ftitle%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # (CBC) China Banking Corporation - About China Bank
 
