@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522031201id_/https%3A//www.inkfrog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222172309id_/http%3A//www.inkfrog.com/privacy) for the most accurate reproduction.*
 
-# Take control of your eBay business with powerful software by inkFrog.
-
-## inkFrog Privacy Policy
+# inkFrog Privacy Policy.
 
 When you use inkFrog's services we track your activity on our website. Your personal information is used to identify you in our system allowing inkFrog to interact with eBay on your behalf. We also track your Internet Protocol (IP) address, domain name (if applicable), browser type, and utilize cookies with a duration. inkFrog uses this information to administer the site and to further improve the service to better suit you. 
 
