@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfian.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622112950id_/http%3A//www.golfian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfian.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222031219id_/http%3A//www.golfian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Golfian.com
 
