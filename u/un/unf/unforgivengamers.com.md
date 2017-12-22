@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unforgivengamers.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530101013id_/http%3A//www.unforgivengamers.com/forums/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unforgivengamers.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222121442id_/http%3A//www.unforgivengamers.com/forums/%3Fapp%3Dcore%26module%3Dsystem%26controller%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy - UnforgivenGamers
+# UnforgivenGamers - Gaming mods, glitches and hacks!
 
 First of all, please note that we are not responsible for any messages posted by our users. We do not vouch for or warrant the accuracy, completeness or usefulness of any message, and are not responsible for the contents of any message.
 
