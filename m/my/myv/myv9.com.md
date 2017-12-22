@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myv9.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619154729id_/http%3A//myv9.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myv9.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222084917id_/http%3A//myv9.com/privacy_policy.html) for the most accurate reproduction.*
 
 # MyV9
 
