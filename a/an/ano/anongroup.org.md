@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anongroup.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623211812id_/http%3A//www.anongroup.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anongroup.org privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222234815id_/http%3A//www.anongroup.org/privacy) for the most accurate reproduction.*
 
 # Privacy – Anonymous
 
@@ -10,9 +10,9 @@ If you are asked to provide information when using this website, it will only be
 
 This policy is updated from time to time. The latest version is published on this page.
 
-This website privacy policy was updated on: **01/11/2016**
+This website privacy policy was updated on: **01/07/2017**
 
-If you have any questions about this policy, please email contact@anongroup.org or write to:
+If you have any questions about this policy, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or write to:
 
 Digital-media Inc  
 London PO: N41AA  
@@ -67,11 +67,11 @@ Cookies allow websites and applications to store your preferences in order to pr
 
 We may use cookies to:
 
-  * **Analyse our web traffic using an analytics package.** Aggregated usage data helps us improve the website structure, design, content and functions.
+  * **Analyze our web traffic using an analytic package.** Aggregated usage data helps us improve the website structure, design, content and functions.
   * **Identify whether you are signed in to our website.** A cookie allows us to check whether you are signed in to the site.
   * **Test content on our website.** For example, 50% of our users might see one piece of content, the other 50% a different piece of content.
   * **Store information about your preferences.** The website can then present you with information you will find more relevant and interesting.
-  * **To recognise when you return to our website.** We may show your relevant content, or provide functionality you used previously.
+  * **To recognize when you return to our website.** We may show your relevant content, or provide functionality you used previously.
 
 
 
@@ -101,7 +101,7 @@ When you fill in a form or provide your details on our website, you will see one
 If you have agreed that we can use your information for marketing purposes, you can change your mind easily, via one of these methods:
 
   * Sign in to our website and change your opt-in settings.
-  * Send an email to anongroup.org@gmail.com
+  * Send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 
   * Write to us at:
@@ -140,7 +140,7 @@ Always be wary when submitting data to websites. Read the site’s data protecti
 
   * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)
   * [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)
-  * [Privacy and Electronic Communications Regulations 2003 – The Guide](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide.aspx)
+  * [Privacy and Electronic Communications Regulations 2003 – The Guide](https://templatearchive.com/guide-to-the-privacy-latest/)
   * [Twitter Privacy Policy](http://twitter.com/privacy)
   * [Facebook Privacy Policy](http://www.facebook.com/about/privacy/)
   * [Google Privacy Policy](http://www.google.com/privacy.html)
