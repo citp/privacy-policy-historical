@@ -1,27 +1,99 @@
-> *The following text is extracted and transformed from the armchairempire.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608110000id_/http%3A//www.armchairempire.com/Miscellaneous/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armchairempire.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222082201id_/http%3A//www.armchairempire.com/privacy-policy) for the most accurate reproduction.*
 
-# The Armchair Empire - Privacy Statement
+# Privacy Policy - Armchair Empire
 
-The Armchair Empire understands and respects the privacy of its visitors.  As such we have provided the following information regarding our privacy policies.
+[ ](http://www.armchairempire.com/privacy-policy)
 
-Visitors to The Armchair Empire are not subject to involuntary information disclosure of any nature, other than those intrinsic to the operation of the site and the World Wide Web in general. Certain operations and features on The Armchair Empire may require the use of cookies and/or the propagation of session information. These cookies and sessions facilitate the visitor's experience at The Armchair Empire, but do not represent any other security or privacy concern outside of isolated, per visit session identification and/or recurring sessions for the purpose of storing and maintaining user submitted site preferences.
+This privacy policy sets out how Armchair Empire uses and protects any information that you give Armchair Empire when you use this website.
 
-The Armchair Empire does not collect private information from its users without their knowledge. Generally, users who come to The Armchair Empire are not required to disclose personal or private information. However, some special services such as forums and user content may require registration in order to allow full access to features. Further, The Armchair Empire encourages users to provide cursory private and/or personal information to build the community aspect of the site, and to obtain basic group demographics data for statistical analysis. The Armchair Empire does NOT sell, lease or rent to third parties, any private information linkable to a particular user and gathered through the registration process, without express consent from its users as indicated through information forms that users voluntarily fill out.
+Armchair Empire is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-From time to time, The Armchair Empire will offer incentives to users in the form of contests, prizes, and giveaways, and request that users fill out surveys or questionnaires to qualify for participation in these special promotions. Unless explicitly indicated, information from these surveys, and questionnaires are used in group demographics studies and for better audience targeting - no direct relationship between demographic data and individual users is ever available to third parties.
+Armchair Empire may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: April 2017
 
-The Armchair Empire will take reasonable precautionary measures to protect and safeguard all information gathered from its users. The Armchair Empire does not, however, take any responsibility for any breach of security, accidental disclosure, theft, or tampering of its users' information.
+### What we collect
 
-**Privacy for Children - As per COPA**
+We may collect the following information:
 
-Although The Armchair Empire is generally targeted to an adult audience, we welcome the visitation and participation of young users, with their parents' consent. It is strongly recommended that users under the age of 13 refrain from disclosing any personal and/or private information either through the user registration system, or through participation in questionnaires and surveys, and instead opt to remain anonymous in their participation of site activities.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-Please note that as of April 21st, 2000, the Child Online Protection Act of 1998 prohibits The Armchair Empire from the collection of private information from users under the age of 13 without parental consent. Users under the age of 13 must provide a signed letter from their parents to indicate that they are aware of their child's activities on The Armchair Empire and consent to these activities. This letter must be mailed to  The Armchair Empire using the contact information below, before they can participate in activities requesting the disclosure of private information.
 
-Parents of our younger users may at any time, revoke their consent, and may request to review and edit the private information disclosed by sending a written request to The Armchair Empire via mail.
 
-Though The Armchair Empire will take reasonable measures to ensure that users under the age of 13 do not disclose their private information without first obtaining parental consent, the site cannot guarantee the protection of young users who choose not to disclose their age and who do not follow the requirements set forth by COPA.
+### What we do with the information we gather
 
-> RR9 740 Creekside Crescent  
->  Gibsons, B.C.  
->  V0N 1V9
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
+
+### Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### What is a cookie?
+
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device.
+
+You can find more information about cookies at:
+
+  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+  * For a video about cookies visit [how Google uses cookies](https://www.google.com/policies/technologies/cookies/)
+
+
+
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide.
+
+### Category 1: strictly necessary cookies
+
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+
+### Category 2: performance cookies
+
+These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+
+By using our website, you agree that we can place these type of cookies on your device.
+
+### Category 3: functionality cookies
+
+These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+
+By using our website, you agree that we can place these type of cookies on your device.
+
+### Category 4: targeting cookies or advertising cookies
+
+These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organizations.
+
+A list of all the cookies used on this website by category is set out below.
+
+### Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+### Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at 
+
+Email: [jonas@armchairempire.com](mailto:jonas@%61rm%63h%61ir%65%6dpire.co%6d "Send email to: jonas@armchairempire.com")
+
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998.
+
+A small fee will be payable.
+
+If you would like a copy of the information held on you please write to: jonas@armchairempire.com
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
