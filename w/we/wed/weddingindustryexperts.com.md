@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingindustryexperts.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622235313id_/http%3A//weddingindustryexperts.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingindustryexperts.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222183105id_/http%3A//weddingindustryexperts.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement « Wedding Industry Experts Awards
 
