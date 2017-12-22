@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shotbow.net privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408031952id_/http%3A//shotbow.net/forum/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shotbow.net privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223002614id_/https%3A//shotbow.net/forum/pages/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Shotbow Network
+# Privacy Policy | Shotbow
 
 This Privacy Policy governs the manner in which HcGaming LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://shotbow.net](http://shotbow.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by HcGaming LLC.
 
@@ -52,10 +52,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [HcGaming LLC](http://shotbow.net/)  
 [http://shotbow.net](http://shotbow.net/)  
-highlifettu@shotbow.net
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on April 04, 2013
 
-[ ](http://shotbow.net/)
+[ ](https://shotbow.net/)
 
 Welcome Guest... please login
