@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the charteredclub.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622133618id_/http%3A//www.forum.charteredclub.com/pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charteredclub.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222095306id_/http%3A//www.forum.charteredclub.com/pages/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chartered Club: Q&A Forum for CA & Taxpayers
 
-[](https://web.archive.org/web/20170622133618id_/http%3A//www.forum.charteredclub.com/pages/misc/quick-navigation-menu?selected=node-40 "Open quick navigation")
+[](https://web.archive.org/web/20171222095306id_/http%3A//www.forum.charteredclub.com/pages/misc/quick-navigation-menu?selected=node-40 "Open quick navigation")
 
 **Chartered Club: Q &A Forum for CA & Taxpayers**
 
@@ -48,5 +48,3 @@
 * **Controlling your personal information**
 * When using the Charteredclub.com forum, you may choose to limit public viewing of applicable personal information through the settings located in the Privacy section of your account.
 * Chartered Club will not sell, distribute or lease your personal information to third parties unless we have your explicit permission or are required by law to do so. We may use your personal information to send you security information, product updates, or other information pertaining to Chartered Club, or your account. If you discover any of the information Chartered Club holds for you is incorrect or incomplete, that you are unable to change yourself, please contact us as soon as possible so the necessary changes can be made. 
-
-[](http://www.charteredclub.com/gst-course//)
