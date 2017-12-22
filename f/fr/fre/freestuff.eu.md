@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610054525id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222223241id_/https%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Free Stuff
 
@@ -52,7 +52,7 @@ By continuing to use this website you have consented to information being collec
 
 **Opting Out (Deregistration)**
 
-Should you wish to opt out of your data being used for these purposes, please [unsubscribe](https://web.archive.org/web/20170610054525id_/http%3A//www.freestuff.eu/unsubscribe.php).
+Should you wish to opt out of your data being used for these purposes, please [unsubscribe](https://web.archive.org/web/20171222223241id_/https%3A//www.freestuff.eu/unsubscribe.php).
 
 The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further communications from FreeStuff.eu. Every email that FreeStuff.eu sends contains a link to unsubscribe and a link to this privacy policy.
 
@@ -142,6 +142,7 @@ Great Ormond Street Hospital
 Guide Dogs  
 Kidney Research  
 NTT Fundraising  
+Claims Management Firms  |  Crystal Prospects  
 Competition Sites |  Get Me A Ticket  
 Lucky Day  
 Lucky Day UK LP  
@@ -210,9 +211,14 @@ Consumer Helper
 Grove Pension Ltd  
 Franklyn Hughes  
 Independent Financial Matters Registration  
+Moove  
+Pension Audit Centre  
 Promis Life  
 Safe and Secure  
+Secure For Life  
 Smart Insurance  
+Tax Rebate  
+Tax Returned  
 Personal Injury |  Accident Advice Helpline  
 Accident Support Network  
 No Win No Fee  
@@ -252,6 +258,8 @@ Utilities |  Eco-Energy
 Economy Energy  
 Hassle Free Boilers  
 Homebase  
+Octopus Energy  
+ResQ Limited  
 Scottish Power  
 Simplify Digital LP  
 Spark  
@@ -331,17 +339,24 @@ __utmc
 __utmv  
 __utmz  
 |  These cookies allow FreeStuff.eu to collect information about how visitors use the website. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. Click here for an overview of privacy at Google   
+Google Adsense |  __gads  
+_drt_  
+id  
+|  These cookies allow us to collect information about how visitors use the website. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. Click here for an overview of privacy at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
+Has Offers |  __enc_aff_session  
+ho_mob  
+|  Has Offers uses cookies to track the source of your visit and / or activity on the website.  
+Pingdom |  PRUM_EPISODES  
+|  Allows us to monitor user experience.  
+Essential Site Cookies |  PHPSESSION  
+|  These cookies are temporary and essential for the operation of the website.   
   
 In addition, the below cookies may be placed on your computer in order to identify web site visitors that have agreed to the use of their data for 3rd party online advertising, insight, analytics and content personalisation. This cookie is anonymous and is encrypted and only contains a code that identifies segments to Criteo, Acxiom and its preferred partners who may use the cookie for the purposes of targeted advertising by tracking your online activity. Information provided by cookies are only used for advertising purposes. Information is collected, stored and used separately for each advertising partner. These partners have their own privacy policies and the procedure to opt-out of these cookies is listed in the table below. Further information on online behavioral advertising can be found at www.youronlinechoices.com/uk/.
 
-**Cookie**|  **Name**|  **Purpose**  
----|---|---  
-Criteo |  ERCook  
-CEM  
-|  The purpose of Criteo's service is to find visitors of our advertising clients' properties and send them personalized emails or serve them personalized ads. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Display click [here](http://privacy.criteoemail.com/gb/privacy-policy.html)  
 Acxiom |  ACX_COUNT  
 ACXID  
 |  Acxiom Limited (registered office at 17 Hatfields London SE1 8DJ) and its partners may use the data you provide to this website, together with other data collected elsewhere, to place cookies on your device. Data through these cookies, in conjunction with other data collected about you and others, will be used to improve the relevance of online advertisements displayed to you when you visit this and/or other unrelated websites. To opt-out of data collection, please click here. Acxiom will then add an opt-out flag to this cookie which will ensure it is no longer used by Acxiom for targeted advertising  
+---|---|---  
   
 **Web Beacons**
 
@@ -381,7 +396,7 @@ Further Information
 
 If you have questions regarding this privacy policy, please contact All Groove by following this link: 
 
-[Contact Page](https://web.archive.org/web/20170610054525id_/http%3A//www.freestuff.eu/contact.php)
+[Contact Page](https://web.archive.org/web/20171222223241id_/https%3A//www.freestuff.eu/contact.php)
 
 or by post: 
 
