@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrasignup.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622032152id_/https%3A//ultrasignup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrasignup.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222025107id_/https%3A//ultrasignup.com/privacy.aspx) for the most accurate reproduction.*
 
 # UltraSignup Home
 
