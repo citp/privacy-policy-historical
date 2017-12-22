@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advertserve.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524075252id_/http%3A//www.advertserve.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertserve.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222012304id_/http%3A//www.advertserve.com/privacy.html) for the most accurate reproduction.*
 
 # AdvertServe :: Privacy Policy
 
@@ -18,15 +18,23 @@ To opt out of cookies from AdvertServe, please [click here](https://web.archive.
 
 Internet Protocol Address
 
-Renegade Internet uses Internet protocol (IP) addresses to measure the effectiveness of advertising campaigns. Through the use of IP mapping technology, we are able to translate your IP address into a geographic location, which may include a close approximation of your Continent, Country, State/Province, City, and Postal/Zip Code. This technology does NOT provide us with your street address, telephone number, or any other information that may personally locate you. 
+Renegade Internet uses Internet protocol (IP) addresses to measure the effectiveness of advertising campaigns. Through the use of IP mapping technology, we are able to translate your IP address into a geographic location, which may include a close approximation of your Continent, Country, State/Province, City, Postal/Zip Code, Designated Marketing Area, ISP and Current Weather. This technology does NOT provide us with your street address, telephone number, or any other information that may personally locate you. 
+
+Mobile Advertising ID
+
+Renegade Internet does not utilize mobile Advertising IDs (AAID/IDFA) at this time. Both Android and iOS provide options for limiting and opt-ing out of such tracking though. Android users can [Opt Out of Interest-Based Ads](https://support.google.com/ads/answer/2662922?hl=en) and iOS users can enable [Limit Ad Tracking](https://support.apple.com/en-us/HT205223) if desired. 
 
 Referrer URL
 
-Renegade Internet uses Referrer URLs to measure the effectiveness of advertising campaigns. By examining the Referrer URL, we are able to determine which web site is displaying one of our client's advertisements. We are NOT able to extract any information that may personally identify you from the Referrer URL. 
+Renegade Internet uses Referrer URLs to measure the effectiveness of advertising campaigns. By examining the Referrer URL, we are able to determine which web site is displaying one of our client's advertisements. We are also able to extract keywords from STATIC page content, however this is NOT performed on pages which are dynamically generated (i.e. with a query string) or for any pages that exist behind a user-login form so that we avoid extracting any information that may personally identify you. 
 
 Third-Party Data
 
 We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by Renegade Internet. 
+
+User-Agent
+
+Renegade Internet uses User-Agent to determine Device Type (i.e. Desktop, Tablet or Mobile), Browser, Operating System and Language Preferences. 
 
 Guidelines
 
