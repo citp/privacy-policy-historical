@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the wisdenindia.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620201454id_/http%3A//www.wisdenindia.com/legal%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdenindia.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222061200id_/http%3A//www.wisdenindia.com/legal%23privacy-policy) for the most accurate reproduction.*
 
 # Legal Notices | Wisden India
-
-[ ](http://www.wisdenindia.com/)
-
-### legal
-
-##### PRIVACY POLICY
 
 This privacy policy sets out how FW Sports And Media India Private Limited uses and protects any information that you give FW Sports And Media India Private Limited when you use this website.
 
@@ -68,58 +62,3 @@ You may choose to restrict the collection or use of your personal information in
 We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-##### TERMS AND CONDITIONS
-
-Welcome to our website. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern FW Sports And Media India Private Limited relationship with you in relation to this website.
-
-The term 'FW Sports And Media India Private Limited' or 'Wisden India' or 'us' or 'we' refers to the owner of the website whose registered office is:
-
-Wisden House, 13/A, 1st Cross, Lavelle Road,   
-Bangalore 560 001, India 
-
-**Our Corporate Identity Number is: U92412KA2012PTC062592**
-
-The term 'you' refers to the user or viewer of our website.
-
-**The use of this website is subject to the following terms of use:**
-
-  * The content of the pages of this website is for your general information and use only. It is subject to change without notice.
-  * Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
-  * Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements.
-  * This website contains material which is owned by or licensed to us. This material includes, but is not limited to, logos, editorial content, images, videos, the design, layout, look, appearance and graphics. Reproduction is strictly prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.
-  * All trademarks reproduced in this website, which are not the property of, or licensed to the operator, are acknowledged on the website.
-  * Unauthorised use of this website may give rise to a claim for damages and/or be a criminal offense.
-  * From time to time this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).
-  * You may not create a link to this website from another website or document without FW Sports And Media India Private Limited’s prior written consent.
-  * Your use of this website and any dispute arising out of such use of the website is subject to the laws of India.
-
-
-
-##### DISCLAIMER
-
-The information contained in this website is for general information purposes only.
-
-The information is provided by FW Sports And Media India Private Limited under the brand 'Wisden India' and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.
-
-Any reliance you place on such information is therefore strictly at your own risk.
-
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
-
-Through this website you are able to link to other websites which are not under the control of FW Sports And Media India Private Limited or its brand Wisden India. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
-
-Every effort is made to keep the website up and running smoothly. However, FW Sports And Media India Private Limited takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
-
-##### LEGAL NOTICES
-
-**Trade Mark Notice**
-
-WISDEN, WISDEN INDIA and the Woodcutter device/logo are trademarks of John Wisden and Company Ltd, a fully owned subsidiary of Bloomsbury Publishing Plc. Used under license by FW Sports and Media India Private Limited, an affiliate of Fidelis World, FZ LLC. All rights reserved.
-
-**Copyright Notices**  
-'General website content © FW Sports and Media India Private Limited 2012' 
-
-'Wisden India Almanack content © JOHN WISDEN & COMPANY LTD 2012. All Rights Reserved.'
-
-**General Legal Notice**  
-'WISDEN INDIA is a collaboration between John Wisden and Company Ltd, a fully owned subsidiary of Bloomsbury Publishing Plc and FW Sports and Media India Private Limited, an affiliate of Fidelis World, FZ LLC.' 
