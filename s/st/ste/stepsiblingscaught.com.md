@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stepsiblingscaught.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023438id_/http%3A//stepsiblingscaught.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepsiblingscaught.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222014240id_/http%3A//stepsiblingscaught.com/page/privacy_policy) for the most accurate reproduction.*
 
-# StepSiblingsCaught - Privacy Policy
+# Step Siblings Caught - Privacy Policy
 
 I. General 
 
