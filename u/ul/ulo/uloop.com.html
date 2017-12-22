@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uloop.com privacy policy that was archived on 2017-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170510161345id_/http%3A//uloop.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uloop.com privacy policy that was archived on 2017-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171222020148id_/https%3A//uloop.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Read our privacy policy to better understand how personal information is collected and used on this Web site.</title>
@@ -22,12 +22,12 @@
     <link rel="apple-touch-startup-image" href="//doikmin2nht2v.cloudfront.net/img/uloop-splash-screen-640x1096.png" sizes="640x1096">
     
     <!--AMP_PAGE-->
-    <link rel="stylesheet" type="text/css" href="//doikmin2nht2v.cloudfront.net/css/compressed/group-v100000002183.css">
+    <link rel="stylesheet" type="text/css" href="//doikmin2nht2v.cloudfront.net/css/compressed/group-v1000002152.css">
 
 
-    <link rel="stylesheet" type="text/css" href="//doikmin2nht2v.cloudfront.net/css/compressed/button_css-v100000002183.css">
+    <link rel="stylesheet" type="text/css" href="//doikmin2nht2v.cloudfront.net/css/compressed/button_css-v1000002152.css">
 
-    <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="//doikmin2nht2v.cloudfront.net/js/compressed/group-v100000002183.js"></script>
+    <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="//doikmin2nht2v.cloudfront.net/js/compressed/group-v1000002152.js"></script>
 
 
     
@@ -66,7 +66,7 @@
 
     window.fbAsyncInit = function () {
         FB.init({
-            appId: '454900215432',
+            appId: '446108658839914', // old 454900215432
             status: true,
             cookie: true,
             xfbml: true,
@@ -99,6 +99,13 @@
         });
 
     }
+
+    window.fb_initialized = window.fb_initialized || false;
+    jQ(document).bind("fb-init", function(ev) {
+        if(!window.fb_initialized){
+            window.fb_initialized = true;
+        }
+    });
 
 
     jQ(function () {
@@ -145,6 +152,7 @@
 <!--Start main area-->
 <div id="main_area" class="os_unknown br_mozilla br_v_5 privacy">
 
+    <div id="page-progress" class="waiting" style="width: 100%; display: none;"></div>
 
     <!--Start header-->
     <div id="header">
@@ -153,25 +161,29 @@
                     <span class="u"></span> Headlines
                 </span>
             <div class="str str_wrap">
-                <p class="header_short_news"><a href="/news/view.php/237067/Cutting-Out-Sugar-The-Myths-You-Need-Debunked">Cutting Out Sugar? The Myths You Need Debunked</a></p><p class="header_short_news"><a href="/news/view.php/237187/Mental-Health-Transformation-Blog-Getting-Started">Mental Health Transformation Blog: Getting Started</a></p><p class="header_short_news"><a href="/news/view.php/237184/How-NOT-to-Celebrate-Cinco-de-Mayo-This-Year">How NOT to Celebrate Cinco de Mayo This Year</a></p><p class="header_short_news"><a href="/news/view.php/237153/6-Tips-for-Obtaining-a-Job-Post-Graduation">6 Tips for Obtaining a Job Post-Graduation</a></p><p class="header_short_news"><a href="/news/view.php/237127/After-Graduation-Should-You-Move-Back-In-with-Mom-amp-Dad">After Graduation: Should You Move Back In with Mom &amp; Dad?</a></p><p class="header_short_news"><a href="/news/view.php/236930/Inspirational-Business-Related-Quotes-for-Your-Room-amp-Study-Space">Inspirational Business-Related Quotes for Your Room &amp; Study Space</a></p><p class="header_short_news"><a href="/news/view.php/236893/4-Awesome-Summer-Vacations-to-Plan-With-Your-Roommates">4 Awesome Summer Vacations to Plan With Your Roommates</a></p>
+                <p class="header_short_news"><a href="/news/view.php/255714/5-Cheap-amp-Fun-Holiday-Crafts-to-Do-With-Kids-This-Season">5 Cheap &amp; Fun Holiday Crafts to Do With Kids This Season</a></p><p class="header_short_news"><a href="/news/view.php/255446/Unique-Souvenirs-to-Bring-Back-from-Your-Study-Abroad-Experience">Unique Souvenirs to Bring Back from Your Study Abroad Experience</a></p><p class="header_short_news"><a href="/news/view.php/255167/4-Part-Time-Jobs-to-Easily-Juggle-This-Semester">4 Part-Time Jobs to Easily Juggle This Semester</a></p><p class="header_short_news"><a href="/news/view.php/255159/3-Tips-College-Freshman-Should-Know">3 Tips College Freshman Should Know</a></p><p class="header_short_news"><a href="/news/view.php/255894/Morning-Scoop-Massive-tax-bill-passes-goes-into-effect-in-12-days">Morning Scoop: Massive tax bill passes, goes into effect in 12 days</a></p><p class="header_short_news"><a href="/news/view.php/255094/7-Movies-to-Watch-With-Your-Roommate-to-Really-Bond">7 Movies to Watch With Your Roommate to Really Bond</a></p><p class="header_short_news"><a href="/news/view.php/255216/6-Struggles-All-Retail-Workers-Can-Relate-To">6 Struggles All Retail Workers Can Relate To</a></p>
             </div>
             <div class="login_search float_r">
-                
-                        <a class="f_connect_button" onclick="return FaceBookLogin();" alt="Connect with Facebook"></a>
+                <form action="/search/" method="get" id="search_form">
+                        <div class="overflow">
+                            <div class="search-autocomplete"></div>
+                            <input type="text" value="" default-value="Search" name="s" id="search_input" autocomplete="off" class="search_input">
+                            <a href="#" class="clear_search_results" onclick="clearSearchResults(); return false;"><img src="//doikmin2nht2v.cloudfront.net/img/delete_answer.png"></a>
+                            <input type="submit" value="" id="search_submit" class="search_submit">
+                        </div>
+                    </form>
+                <div class="login_bar_wrap">
+                    
+                        <!--<a class="f_connect_button" onclick="return FaceBookLogin();" alt="Connect with Facebook"/></a>-->
 			<ul id="login_menu">
                         <li><a href="/register.php">Sign Up</a></li>
 				<li><a href="/customer_register.htm" class="log_in" option="" rel="sgn_in_popup" options-type="">Log In</a></li>
 			</ul>
 		
-                <form action="/search/" method="get" id="search_form">
-                        <div class="overflow">
-                            <input type="text" value="" default-value="Search" name="s" id="search_input" autocomplete="off" class="search_input">
-                            <input type="submit" value="" id="search_submit" class="search_submit">
-                        </div>
-                    </form>
-                <a href="/favorites/" class="hotlist_link" title="Favorites"><img src="//doikmin2nht2v.cloudfront.net/img/hotlist_link_star2.png"></a>
-                <a href="https://twitter.com/uloop" class="t_ico_grey"></a>
-                <a href="https://www.facebook.com/uloop" class="f_ico_grey"></a>
+                    <a href="/favorites/" class="hotlist_link" title="Favorites"><img src="//doikmin2nht2v.cloudfront.net/img/hotlist_link_star2.png"></a>
+                </div>
+                <!--<a href="https://twitter.com/uloop" class="t_ico_grey"></a>-->
+                <!--<a href="https://www.facebook.com/uloop" class="f_ico_grey"></a>-->
             </div>
             <div class="clear"></div>
         </div>
@@ -193,12 +205,12 @@
                     </span>
 
 
-            <a href="post_ads.htm" options="login-required" class="orange_button_h_36 main_page_orange_button" onclick="return CampusQuickPostAds(this,event);">Post Classifieds</a>
+            <a href="post_ads.htm" options="login-required" class="orange_button_h_36 main_page_orange_button" onclick="return CampusQuickPostAds(this,event);" conversion-action="18">Post Classifieds</a>
             <div class="clear"></div>
         </div>
 
 
-        <!--Start main menu--><div id="wrap_main_menu"><div id="main_menu"><ul class="left_menu"><li class="drop_bg"><a href="/news/">News</a><div class="drop_block"><div class="addition_menu_border"></div><a href="/news/index.php/Campus Life">Campus Life</a><a href="/news/index.php/Sports">Sports</a><a href="/news/index.php/Fashion">Fashion</a><a href="/news/index.php/Business">Business</a><a href="/news/index.php/Entertainment">Entertainment</a><a href="/news/index.php/Humor">Humor</a><a href="/news/index.php/Politics">Politics</a><a href="/news/index.php/Food">Food</a><div class="drop_block_angels"></div></div></li></ul><ul class="right_menu"><li class="drop_bg"><a href="/housing/">Housing</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/housing/index.php/available">Apartments &amp; Houses</a><a class="" href="/housing/index.php/roommates">Roommates</a><a class="" href="/housing/index.php/sublets">Sublets</a><a class="" href="/renters-insurance/">Renters Insurance</a><a class="" href="/storage/">Storage</a><a class="" href="/moving/">Moving</a><a class="post_link" href="https://rent.uloop.com/">Post Housing</a><div class="drop_block_angels"></div></div></li><li class="drop_bg"><a href="/jobs/">Jobs</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/jobs/index.php/parttime">Part-Time Jobs</a><a class="" href="/jobs/index.php/fulltime">Full-Time Jobs</a><a class="" href="/jobs/index.php/internships">Internships</a><a class="" href="/jobs/index.php/babysitting">Babysitting Jobs</a><a class="" href="/jobs/index.php/tutoring">Tutoring Jobs</a><a class="" href="/jobs/index.php/restaurant">Restaurant Jobs</a><a class="" href="/jobs/index.php/retail">Retail Jobs</a><a class="" href="/jobs/index.php/summer-camps">Summer Camp Jobs</a><a class="post_link" href="https://jobs.uloop.com/">Employers: Post Jobs</a><div class="drop_block_angels"></div></div></li><li class="drop_bg"><a href="/tutors/">Tutors</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/online-tutors/">Online Tutors</a><div class="drop_block_angels"></div></div></li><li class="drop_bg"><a href="/textbooks/">Textbooks</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/sell-textbooks/">Sell Textbooks</a><a class="" href="/rent-textbooks/">Rent Textbooks</a><a class="" href="/buy-textbooks/">Buy Textbooks</a><div class="drop_block_angels"></div></div></li><li class="drop_bg"><a href="/test-prep/">Test Prep</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/test-prep/index.php/gmat-test-prep">GMAT Test Prep</a><a class="" href="/test-prep/index.php/gre-test-prep">GRE Test Prep</a><a class="" href="/test-prep/index.php/lsat-test-prep">LSAT Test Prep</a><a class="" href="/test-prep/index.php/mcat-test-prep">MCAT Test Prep</a><a class="" href="/test-prep/index.php/dat-test-prep">DAT Test Prep</a><a class="" href="/test-prep/index.php/oat-test-prep">OAT Test Prep</a><a class="" href="/test-prep/index.php/pcat-test-prep">PCAT Test Prep</a><div class="drop_block_angels"></div></div></li><li class="drop_bg"><a href="/study-abroad/">Study Abroad</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/study-abroad/index.php/england">England Study Abroad</a><a class="" href="/study-abroad/index.php/italy">Italy Study Abroad</a><a class="" href="/study-abroad/index.php/china">China Study Abroad</a><a class="" href="/study-abroad/index.php/spain">Spain Study Abroad</a><a class="" href="/study-abroad/index.php/france">France Study Abroad</a><a class="" href="/study-abroad/index.php/germany">Germany Study Abroad</a><a class="" href="/study-abroad/index.php/australia">Australia Study Abroad</a><a class="" href="/study-abroad/index.php/south-africa">South Africa Study Abroad</a><a class="" href="/study-abroad/index.php/brazil">Brazil Study Abroad</a><a class="" href="/intern-abroad/">Intern Abroad</a><div class="drop_block_angels"></div></div></li><li class="drop_bg"><a href="/studentloans/">Student Loans</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/salliemae.php">SallieMae Student Loans</a><a class="" href="/refinance-student-loans">Refinance Student Loans</a><div class="drop_block_angels"></div></div></li><li class="drop_bg"><a href="/classifieds/">More</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/online-courses/">Online Courses</a><a class="" href="/professors/">Professor Ratings</a><a class="" href="/course-notes/">Course Notes</a><a class="" href="/student-travel/">Student Travel</a><a class="" href="/insurance/">Insurance</a><a class="" href="/food-delivery/">Food Delivery</a><a class="" href="/tickets/">Tickets</a><a class="" href="/scholarships/">Scholarships</a><a class="" href="/for-sale/">For Sale</a><div class="drop_block_angels"></div></div></li></ul></div><div class="clear"></div><div id="mobile_menu">
+        <!--Start main menu--><div id="wrap_main_menu"><div id="main_menu"><ul class="left_menu"><li class="drop_bg"><a href="/news/">News</a><div class="drop_block"><div class="addition_menu_border"></div><a href="/news/index.php/Campus Life">Campus Life</a><a href="/news/index.php/Sports">Sports</a><a href="/news/index.php/Fashion">Fashion</a><a href="/news/index.php/Business">Business</a><a href="/news/index.php/Entertainment">Entertainment</a><a href="/news/index.php/Humor">Humor</a><a href="/news/index.php/Politics">Politics</a><a href="/news/index.php/Food">Food</a><div class="drop_block_angels"></div></div></li></ul><ul class="right_menu"><li class="drop_bg"><a href="/housing/">Housing</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/housing/index.php/available">Apartments &amp; Houses</a><a class="" href="/housing/index.php/roommates">Roommates</a><a class="" href="/housing/index.php/sublets">Sublets</a><a class="" href="/renters-insurance/">Renters Insurance</a><a class="" href="/storage/">Storage</a><a class="" href="/moving/">Moving</a><a class="post_link" href="https://rent.uloop.com/">Post Housing</a><div class="drop_block_angels"></div></div></li><li class="drop_bg"><a href="/jobs/">Jobs</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/jobs/index.php/parttime">Part-Time Jobs</a><a class="" href="/jobs/index.php/fulltime">Full-Time Jobs</a><a class="" href="/jobs/index.php/internships">Internships</a><a class="" href="/jobs/index.php/babysitting">Babysitting Jobs</a><a class="" href="/jobs/index.php/tutoring">Tutoring Jobs</a><a class="" href="/jobs/index.php/restaurant">Restaurant Jobs</a><a class="" href="/jobs/index.php/retail">Retail Jobs</a><a class="" href="/jobs/index.php/summer-camps">Summer Camp Jobs</a><a class="post_link" href="https://jobs.uloop.com/">Employers: Post Jobs</a><div class="drop_block_angels"></div></div></li><li class="drop_bg"><a href="/tutors/">Tutors</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/online-tutors/">Online Tutors</a><div class="drop_block_angels"></div></div></li><li class="drop_bg"><a href="/textbooks/">Textbooks</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/sell-textbooks/">Sell Textbooks</a><a class="" href="/rent-textbooks/">Rent Textbooks</a><a class="" href="/buy-textbooks/">Buy Textbooks</a><div class="drop_block_angels"></div></div></li><li class="drop_bg"><a href="/test-prep/">Test Prep</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/test-prep/index.php/gmat-test-prep">GMAT Test Prep</a><a class="" href="/test-prep/index.php/gre-test-prep">GRE Test Prep</a><a class="" href="/test-prep/index.php/lsat-test-prep">LSAT Test Prep</a><a class="" href="/test-prep/index.php/mcat-test-prep">MCAT Test Prep</a><a class="" href="/test-prep/index.php/dat-test-prep">DAT Test Prep</a><a class="" href="/test-prep/index.php/oat-test-prep">OAT Test Prep</a><a class="" href="/test-prep/index.php/pcat-test-prep">PCAT Test Prep</a><a class="" href="/test-prep/index.php/act-test-prep">ACT Test Prep</a><a class="" href="/test-prep/index.php/sat-test-prep">SAT Test Prep</a><div class="drop_block_angels"></div></div></li><li class="drop_bg"><a href="/study-abroad/">Study Abroad</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/study-abroad/index.php/england">England Study Abroad</a><a class="" href="/study-abroad/index.php/italy">Italy Study Abroad</a><a class="" href="/study-abroad/index.php/china">China Study Abroad</a><a class="" href="/study-abroad/index.php/spain">Spain Study Abroad</a><a class="" href="/study-abroad/index.php/france">France Study Abroad</a><a class="" href="/study-abroad/index.php/germany">Germany Study Abroad</a><a class="" href="/study-abroad/index.php/australia">Australia Study Abroad</a><a class="" href="/study-abroad/index.php/south-africa">South Africa Study Abroad</a><a class="" href="/study-abroad/index.php/brazil">Brazil Study Abroad</a><a class="" href="/intern-abroad/">Intern Abroad</a><div class="drop_block_angels"></div></div></li><li class="drop_bg"><a href="/studentloans/">Student Loans</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/salliemae.php">SallieMae Student Loans</a><a class="" href="/refinance-student-loans">Refinance Student Loans</a><div class="drop_block_angels"></div></div></li><li class="drop_bg last"><a href="/classifieds/">More</a><div class="drop_block"><div class="addition_menu_border"></div><a class="" href="/online-courses/">Online Courses</a><a class="" href="/professors/">Professor Ratings</a><a class="" href="/course-notes/">Course Notes</a><a class="" href="/student-travel/">Student Travel</a><a class="" href="/shopping/">Shopping</a><a class="" href="/student-deals/">Student Deals</a><a class="" href="/insurance/">Insurance</a><a class="" href="/food-delivery/">Food Delivery</a><a class="" href="/tickets/">Tickets</a><a class="" href="/scholarships/">Scholarships</a><a class="" href="/questions-and-answers/">Questions &amp; Answers</a><a class="" href="/for-sale/">For Sale</a><div class="drop_block_angels"></div></div></li></ul></div><div class="clear"></div><div id="mobile_menu">
                                 <ul class="left_menu">
                                     <li><a href="javascript: void(0);"><b>News</b></a></li>
                                 </ul>
@@ -207,18 +219,18 @@
                                     <li><a href="javascript: void(0);"><b>Classifieds</b></a></li>
                                 </ul>
                           </div><div class="main_menu_bottom main_menu_bottom_r">
-                                <ul class="news_menu_bottom">
-                                    <li><a href="/news/index.php/Campus Life">Campus Life</a></li>
-                                    <li><a href="/news/index.php/Sports">Sports</a></li>
-                                    <li><a href="/news/index.php/Fashion">Fashion</a></li>
-                                    <li><a href="/news/index.php/Business">Business</a></li>
-                                    <li><a href="/news/index.php/Entertainment">Entertainment</a></li>
-                                    <li><a href="/news/index.php/Humor">Humor</a></li>
-                                    <li><a href="/news/index.php/Politics">Politics</a></li>
-									<li><a href="/news/index.php/Food">Food</a></li>
-                                    <li><a href="/news/">All News</a></li>
-                                </ul>
-                          </div><div class="main_menu_bottom main_menu_bottom_l">
+                                    <ul class="news_menu_bottom">
+                                        <li><a href="/news/index.php/Campus Life">Campus Life</a></li>
+                                        <li><a href="/news/index.php/Sports">Sports</a></li>
+                                        <li><a href="/news/index.php/Fashion">Fashion</a></li>
+                                        <li><a href="/news/index.php/Business">Business</a></li>
+                                        <li><a href="/news/index.php/Entertainment">Entertainment</a></li>
+                                        <li><a href="/news/index.php/Humor">Humor</a></li>
+                                        <li><a href="/news/index.php/Politics">Politics</a></li>
+    									<li><a href="/news/index.php/Food">Food</a></li>
+                                        <li><a href="/news/">All News</a></li>
+                                    </ul>
+                              </div><div class="main_menu_bottom main_menu_bottom_l">
                             <ul class="class_menu_bottom">
                                 <li class="drop_bg"><a href="/housing/">Housing</a></li>
                                 <li class="drop_bg"><a href="/jobs/">Jobs</a></li>
@@ -234,11 +246,14 @@
                                 <li class="drop_bg"><a href="/professors/">Professor Ratings</a></li>
                                 <li class="drop_bg"><a href="/course-notes/">Course Notes</a></li>
                                 <li class="drop_bg"><a href="/student-travel/">Student Travel</a></li>
+                                <li class="drop_bg"><a href="/shopping/">Shopping</a></li>
+                                <li class="drop_bg"><a href="/student-deals/">Student Deals</a></li>
                                 <li class="drop_bg"><a href="/insurance/">Insurance</a></li>      
                                 <li class="drop_bg"><a href="/food-delivery/">Food Delivery</a></li>
                                 <li class="drop_bg"><a href="/tickets/">Tickets</a></li>
                                 <li class="drop_bg"><a href="/study-abroad/">Study Abroad</a></li> 
                                 <li class="drop_bg"><a href="/for-sale/">For Sale</a></li>
+                                <li class="drop_bg"><a href="/questions-and-answers/">Questions &amp; Answers</a></li>
                                 
                                 <li class="drop_bg"><a href="/classifieds/">All Classifieds</a></li>
                             </ul>
@@ -379,15 +394,15 @@
 <div class="popup_overlay" id="popup_overlay"></div>
     
     
-<script type="text/javascript">AJAXBaseURL = 'https://www.uloop.com'; COOKIE_DOMAIN='.uloop.com'; DOMAIN_ID = '0'; AJAXSessionParam='&PHPSESSID=1ej1lre47kbff8d83it7qfn0c0';USE_NEWS_SECTION = false; SocketServerAddress='64.237.45.84'; SocketServerPort='8008';</script>
+<script type="text/javascript">AJAXBaseURL = 'https://www.uloop.com'; COOKIE_DOMAIN='.uloop.com'; DOMAIN_ID = '0'; AJAXSessionParam='&PHPSESSID=k1vv9cnl1eqo0fr3snmgg0get2';USE_NEWS_SECTION = false;</script>
 
 
-<div id="back_to_top">
+<div id="scroll_top">
     Back to Top <span>↑</span>
 </div>
 
 <!--Start login form-->
-<div class="super_popup" id="sgn_in_popup">
+<div class="super_popup" id="sgn_in_popup" data-position="fixed">
 	<div class="sgn_in_popup">
             <div class="sgn_in_popup_left float_l">
 		<h3 class="float_l">Log In</h3>
@@ -420,8 +435,7 @@
                                 
                                 
                                 <a id="global-forgot-link" class="small_link" onclick="return ForgotPasswordForm();">Forgot your password?</a>
-				
-				<div class="clear"></div>
+
                                 <input tabindex="4" type="submit" name="Input" class="orange_button_h_36" value="Sign In"><span class="preload_box"></span>
 				
 				<div class="clear"></div>
@@ -438,19 +452,19 @@
 		<span class="login-post-buttons default">
 			<h2>Employers &amp; Housing Providers</h2>
                         <p><b>Employers</b> can list job opportunities for students</p>
-                        <a click-action="1000" href="http://jobs.uloop.com" class="orange_button_h_36">Post a Job</a>
+                        <a click-action="1000" conversion-goal="68" conversion-action="22" href="http://jobs.uloop.com" class="orange_button_h_36">Post a Job</a>
                         <br>
                         <p><b>Housing Providers</b> can list available housing</p>
-                        <a click-action="1001" href="http://rent.uloop.com" class="orange_button_h_36">Post Housing</a>
+                        <a click-action="1001" conversion-goal="69" conversion-action="21" href="http://rent.uloop.com" class="orange_button_h_36">Post Housing</a>
 		</span>
                 <span class="login-post-buttons housing" style="display:none;">
 			<h2>Housing Providers</h2>
-			<p>List Available Housing</p>
+			<p>List Available Housing for Students</p>
 			<a click-action="1001" href="http://rent.uloop.com" class="orange_button_h_36">Post Housing</a>
 		</span>
 		<span class="login-post-buttons jobs" style="display:none;">
 			<h2>Employers</h2>
-			<p>List job opportunities for students</p>
+			<p>List Available Job Opportunities for Students</p>
 			<a click-action="1000" href="http://jobs.uloop.com" class="orange_button_h_36">Post a Job</a>
 		</span>
 	</div>
@@ -462,12 +476,39 @@
 </div>
 <!--End login form-->
 
+    <!--Start post listing popup-->
+    <div class="super_popup" id="post_listing_popup">
+        <div class="post_listing_popup">
+
+            <div class="cell">
+                <div class="cell-title">Students</div>
+                <div class="cell-subtitle">Post FREE Listings</div>
+                <a href="post_ads.htm" options="login-required" class="orange_button_h_36 " onclick="return CampusQuickPostAdsOriginal(this,event);">Student Start Here</a>
+            </div>
+            <div class="cell">
+                <div class="cell-title">Employers</div>
+                <div class="cell-subtitle">Post Jobs for Students</div>
+                <a href="http://jobs.uloop.com" class="orange_button_h_36">Employers Start Here</a>
+            </div>
+            <div class="cell last">
+                <div class="cell-title">Housing Providers</div>
+                <div class="cell-subtitle">Post Available Housing</div>
+                <a href="http://rent.uloop.com" class="orange_button_h_36">Housing Start Here</a>
+            </div>
+
+            <div class="clear"></div>
+
+        </div>
+
+    </div>
+    <!--End post listing popup-->
+
 <!--Start search by college form-->
 <div class="super_popup" id="search_popup" data-position="fixed">
 	<div class="search_popup br_mozilla br_v_5 small_popup">
 		<div class="search_popup_left">
 			<h2>Enter College Name to See Local Results</h2>
-			<div class="popup_location_main_search"><form name="popup_location_search" action="" method="GET" onsubmit="return false;"><div class="wrap"><span id="popup_location_input-error" class="campus-posting-error-message" style="visibility:hidden; clear:both; padding-bottom:5px;"></span><input name="action" type="hidden" value="search_by_college_city"><input name="type" type="hidden" value="1"><input name="location_url" type="hidden"><input name="location" id="popup_location_input" class="popup_current-location-input" value="" type="text" autocomplete="off"><span class="popup_s_preload"></span><div id="popup_location_container"></div></div><input type="submit" id="go" class="go" value="Go"></form><div class="clear"></div></div>
+			<div class="popup_location_main_search"><form name="popup_location_search" action="" method="GET" onsubmit="return false;"><div class="wrap"><span id="popup_location_input-error" class="campus-posting-error-message" style="visibility:hidden; clear:both; padding-bottom:5px;"></span><input name="action" type="hidden" value="search_by_college_city"><input name="type" type="hidden" value="1"><input name="location_url" type="hidden"><input name="location" id="popup_location_input" class="popup_current-location-input" value="" type="text" autocomplete="off"><span class="popup_s_preload"></span><div id="popup_location_container"></div></div><input type="submit" click-action="1009" id="go" class="go" value="Go"></form><div class="clear"></div></div>
 		</div>
 		
 		
@@ -596,11 +637,11 @@
 
 <!--Start forgot form-->
 <div class="super_popup" id="forgot_form">
-	<div class="sgn_in_popup">
+    <div class="popup_inner">
 		<h3>Forgot your password?</h3>
 		<form name="forgotForm" class="popup_form" id="forgot_form" action="" method="post" onsubmit="return submitForgot()">
 			<div>
-				<div>Email Address</div>
+				<div class="float_l">Email Address</div>
                                 <span class="campus-posting-error-message float_l" style="margin: 5px 0px 0px 5px; display:none;" id="forgot_error"> Please enter valid Email Address!</span>
                                 <div class="clear"></div>
                                 <input type="text" class="popup_input" id="forgot_email" size="35">
@@ -623,9 +664,8 @@
 <!--End success forgot form-->
 
 <!--Start confirm msg info-->
-<div class="super_popup" id="send_confirm_msg_info">
-	<div class="sgn_in_popup">
-	</div>
+<div class="super_popup" id="send_confirm_msg_info" data-position="fixed">
+	<div class="sgn_in_popup"></div>
 </div>
 <!--End confirm msg info-->
 
@@ -923,7 +963,25 @@
 </div>
 <!-- End SignUp Today popup -->
 
+<!-- Start Questions and Answers popup -->
+<div class="super_popup" id="qa-action-success" data-position="fixed">
+    <div class="content-inner">
 
+        <h2></h2>
+
+        <a class="share-facebook-bt share-bt" href="#" data="" data-id="" track-type="5" track-id="3" goal-type="63" goal-id="1" onclick="shareToFacebook(event);">
+            <i class="facebook-ico"></i>
+            Share it on Facebook
+        </a>
+
+        <a class="share-twitter-bt share-bt" href="#" data="" data-id="" track-type="5" track-id="2" goal-type="63" goal-id="2" onclick="shareToTweet(event);">
+            <i class="twitter-ico"></i>
+            Share it on Twitter
+        </a>
+
+    </div>
+</div>
+<!-- End Questions and Answers popup -->
 
 <div id="profile-photo-upload" class="super_popup">
     <div id="campus-image-upload-html" class="image_upload_popup overflow">
@@ -986,6 +1044,11 @@
 <!--End Confirm popup -->
 
 
+<!--Start Default popup -->
+<div class="super_popup" id="default_popup" data-position="fixed">
+    <div class="content-inner"></div>
+</div>
+<!--End view Default popup -->
 
     <div class="super_popup" id="custom_listing_preview" style="min-height: 487px;">
     
@@ -1005,7 +1068,9 @@
 
 <div id="fb-root" appid="446108658839914"></div>
 
-   
+
+
+
 
 <!-- Facebook Pixel Code -->
 <script>
