@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myadcorner.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624072545id_/http%3A//www.bookmyad.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadcorner.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222074906id_/http%3A//www.bookmyad.com/privacy-policy.php) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy - Book My Ad
 
 We value your trust with BOOKMYAD and we promise to protect your privacy at all costs. However, we would still want you to read the following policy to figure out how we process your personal information before you utilize our website.
 
