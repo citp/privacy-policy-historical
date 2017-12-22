@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202154100id_/http%3A//www.usp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222093012id_/http%3A//www.usp.org/legal-notices/privacy-policy) for the most accurate reproduction.*
 
-# USP Privacy Policy
+# Privacy Policy | USP
 
 USP respects the privacy of customers and visitors accessing this website and other websites maintained by USP, and takes seriously its responsibilities regarding the privacy and security of customer information and visitor information. USP reserves the right to update this Privacy Policy from time to time. Changes to the Privacy Policy shall be announced via this website.
 
@@ -12,10 +12,8 @@ You understand and agree that perfect security does not exist anywhere, includin
 
 USP only keeps your information for as long as we are either required to by law, or as is relevant for the purposes for which it was collected. You may contact USP at any time if you would like to correct, update, supplement or delete personal data. You may also contact USP at any time to opt-out of receiving communications from USP at the point where USP requests information about you. You may send email to [privacy@usp.org](mailto:privacy@usp.org), or you may send mail to the following postal address:
 
-Privacy, United States Pharmacopeia
-
-12601 Twinbrook Parkway
-
+Privacy, USP  
+12601 Twinbrook Parkway  
 Rockville, MD 20852
 
 If you have any questions about this privacy statement, please email USP at [privacy@usp.org](mailto:privacy@usp.org).
@@ -32,10 +30,10 @@ You may also find embedded videos from external sites such as YouTube or Vimeo. 
 
 If you want to control which cookies you accept, configure your browser to accept all cookies or to alert you every time a cookie is offered by a website’s server. Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can delete existing cookies from your browser. You may find that some parts of this site will not function properly if you have refused cookies.
 
-## Information Regarding the Promoting the Quality of Medicines Program  
+## Information Regarding the Promoting the Quality of Medicines Program
 
-The information provided on this website is not official United States Government information and does not represent the views or positions of the United States Agency for International Development (USAID) or the United States Government.  For more information about USAID's Privacy and Security Policy, please visit <http://www.usaid.gov/privacy-policy>.
+The information provided on this website is not official United States Government information and does not represent the views or positions of the United States Agency for International Development (USAID) or the United States Government. For more information about USAID's Privacy and Security Policy, please visit <http://www.usaid.gov/privacy-policy>.
 
-Reference in this website to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the site’s visitors, and does not constitute endorsement, recommendation, or favoring by the United States Government or USAID.  The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or USAID, and shall not be used for advertising or product endorsement purposes.
+Reference in this website to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the site’s visitors, and does not constitute endorsement, recommendation, or favoring by the United States Government or USAID. The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or USAID, and shall not be used for advertising or product endorsement purposes.
 
-With respect to the content of this site, neither the United States Government, nor USAID, nor their employees and contractors make any warranty, expressed or implied or statutory, including but not limited to the warranties of non-infringement of third party rights, title, and the warranties of merchantability and fitness for a particular purpose with respect to content available from this website or other Internet resources linked from it.  Additionally, neither the United States Government nor USAID assume any legal liability for the accuracy, completeness, or usefulness of any information, product, or process disclosed herein nor freedom from computer virus, and do not represent that use of such information, product, or process would not infringe on privately owned rights.
+With respect to the content of this site, neither the United States Government, nor USAID, nor their employees and contractors make any warranty, expressed or implied or statutory, including but not limited to the warranties of non-infringement of third party rights, title, and the warranties of merchantability and fitness for a particular purpose with respect to content available from this website or other Internet resources linked from it. Additionally, neither the United States Government nor USAID assume any legal liability for the accuracy, completeness, or usefulness of any information, product, or process disclosed herein nor freedom from computer virus, and do not represent that use of such information, product, or process would not infringe on privately owned rights.
