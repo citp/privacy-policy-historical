@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingpiggy.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617205751id_/http%3A//kingpiggy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingpiggy.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222145646id_/http%3A//kingpiggy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - King Piggy
 
@@ -96,6 +96,6 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 KingPiggy.com  
-contact@KingPiggy.com
+[[email protected]](http://kingpiggy.com/cdn-cgi/l/email-protection)
 
 Last Edited on 2014-12-02
