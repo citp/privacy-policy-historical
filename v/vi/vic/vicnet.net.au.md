@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vicnet.net.au privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330215224id_/http%3A//www.slv.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vicnet.net.au privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222082145id_/http%3A//www.slv.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy statement | State Library Victoria
 
-State Library Victoria is committed to protecting user privacy. The Library collects personal information from users in order to achieve its statutory functions and strategic objectives. The principles that guide the Library in relation to collecting and handling users’ personal information can be found in more detail on our [Privacy policy](https://web.archive.org/web/20170330215224id_/http%3A//www.slv.vic.gov.au/about-us/policies-guidelines/general/privacy-statement) page.
+State Library Victoria is committed to protecting user privacy. The Library collects personal information from users in order to achieve its statutory functions and strategic objectives, and manages that information in accordance with privacy legislation. The requirements and principles that inform the Library in relation to the collection and handling of users' personal information can be found in more detail on our [Privacy policy](https://web.archive.org/about-us/policies-guidelines/general/privacy-policy) page.
 
 The following information pertains specifically to your privacy and the Library's websites.
 
