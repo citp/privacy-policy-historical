@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmaland.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090419id_/http%3A//www.kmaland.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmaland.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223003219id_/http%3A//www.kmaland.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | kmaland.com
 
@@ -12,7 +12,7 @@ Your personal privacy is a principal concern to us at KMA. Our goal in outlining
 
 When you browse any KMALAND.com, you do so anonymously. Personal information—including your e-mail address—is not collected. However, there are three (3) ways in which KMALAND.com may collect information about you. Some areas of KMALAND.com may request that you voluntarily provide personal information for purposes such as correspondence, site registration, membership, making a purchase, or participating in contests or online surveys. Information that we ask you to provide may include your name, e-mail address, telephone number, mailing address, etc.
 
-Like many other commercial website, KMALAND.com may use a standard technology called a "cookie" to collect information about how our website are used. Cookies are small text files on your system used for keeping track of settings or data for a particular website. You may turn them off through your browser or set your browser to notify you before accepting them. KMALAND.commay use cookies to store information necessary to provide a service or access into a site. Any information that we may store in cookies is used for internal purposes only.
+Like many other commercial website, KMALAND.com may use a standard technology called a "cookie" to collect information about how our website are used. Cookies are small text files on your system used for keeping track of settings or data for a particular website. You may turn them off through your browser or set your browser to notify you before accepting them. KMALAND.commay use cookies to store information necessary to provide a service or access into a site. Any information that we may store in cookies is used for internal purposes only. In addition to our own cookies, we may also allow various third-parties cookies to report usage statistics of the service and deliver targeted advertisements and content on and through the service.
 
 Each time KMALAND.com page is requested from your browser, we log your computer's IP address into our log files. Your computer has been pre-assigned a 12-digit number from your Internet Service Provider and may be static or dynamically assigned—this number is the IP address. KMA uses IP addresses to analyze trends, administer the site, track movements on the site, and gather broad demographic information for aggregate use. IP addresses are not linked to any other personally identifiable information by KMA.
 
@@ -35,46 +35,3 @@ Third-party Internet sites and services accessible through KMALAND.com have sepa
  **CHANGES TO THIS PRIVACY STATEMENT**
 
 The Internet is an evolving medium. If we need to change this Internet Privacy Policy at some point in the future, we will post the changes to this Internet Privacy Policy on this website and update the reference to the effective date to reflect the date of the amendment. By visiting KMALAND.com, you agree that your visit, and any dispute over privacy, is governed by this Internet Privacy Policy. Revised October 25, 2012.
-
-  * Jun 6
-
-Tue, Jun 6, 2017 — all day 
-
-  * Jun 6
-
-Tue, Jun 6, 2017 — all day 
-
-  * Jun 6
-
-Tue, Jun 6, 2017 — all day 
-
-  * Jun 6
-
-Tue, Jun 6, 2017 — all day 
-
-  * Jun 6
-
-Tue, Jun 6, 2017 — all day 
-
-  * Jun 7
-
-Wed, Jun 7, 2017 — all day 
-
-  * Jun 7
-
-Wed, Jun 7, 2017 — all day 
-
-  * Jun 7
-
-Wed, Jun 7, 2017 — all day 
-
-  * Jun 7
-
-Wed, Jun 7, 2017 — all day 
-
-  * Jun 7
-
-Wed, Jun 7, 2017 — all day 
-
-
-
