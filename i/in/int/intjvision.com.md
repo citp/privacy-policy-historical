@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intjvision.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621140958id_/http%3A//www.intjvision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intjvision.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222201744id_/http%3A//www.intjvision.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - INTJ vision
 
@@ -137,6 +137,6 @@ intjvision.com
 Kovo 11-osios, 74-29  
 Kaunas, 50447  
 Lithuania  
-mjaceris@yahoo.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Last Edited on 2016-05-21
