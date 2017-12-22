@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unu.ai privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160141id_/http%3A//unu.ai/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unu.ai privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222085112id_/https%3A//unu.ai/privacy) for the most accurate reproduction.*
 
 # Privacy - UNU
 
