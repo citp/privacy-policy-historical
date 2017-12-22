@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the u2.com privacy policy that was archived on 2016-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161205212331id_/http%3A//www.u2.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the u2.com privacy policy that was archived on 2017-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171222151801id_/http%3A//www.u2.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	
@@ -13,10 +13,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	
-	
-	<meta name="Description" content="The official U2 website with all the latest news, video, audio, lyrics, photos, tour dates and ticket information. Current tour, iNNOCENCE + eXPERIENCE Tour">
-    <meta name="Keywords" content="U2, iNNOCENCE + eXPERIENCE Tour, #U2ieTour, Songs of Innocence, Ordinary Love, The Miracle (of Joey Ramone), Every Breaking Wave,One, No Line On The Horizon, How To Dismantle An Atomic Bomb, Adam, Bono, The Edge, Edge, Larry, U2 tickets, Gigs, Tour, U2 news, u2 music, u2 video, tour dates, song archive, merchandise, fans, Achtung Baby, The Joshua Tree, With or Without You, Vertigo, New Years Day, concert tickets, live, show, band">
-		
+	<meta name="Description" content="The official U2 website with all the latest news, video, audio, lyrics, photos, tour dates and ticket information. Current tour, U2 eXPERIENCE + iNNOCENCE Tour 2018 #U2eiTour">
+<meta name="Keywords" content="U2, eXPERIENCE + iNNOCENCE Tour 2018, #U2eiTour, The Joshua Tree Tour 2017, #U2ieTour, Songs of Innocence, Ordinary Love, The Miracle (of Joey Ramone), Every Breaking Wave, One, No Line On The Horizon, How To Dismantle An Atomic Bomb, Adam, Bono, The Edge, Edge, Larry, U2 tickets, Gigs, Tour, U2 news, u2 music, u2 video, tour dates, song archive, merchandise, fans, Achtung Baby, The Joshua Tree, With or Without You, Vertigo, New Years Day, concert tickets, live, show, band">
 	<meta name="title" content="U2 > Privacy Policy">
 	
 
@@ -26,11 +24,10 @@
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/scripts/fancybox/jquery.fancybox.js?v=2.1.5"></script>
 <script type="text/javascript" src="/scripts/jquery.collapser.js"></script>
-<script type="text/javascript" src="/scripts/combodate/moment.js"></script>
-<script type="text/javascript" src="/scripts/combodate/combodate.js"></script>
 <script type="text/javascript" src="/scripts/jquery-bootstrap.js"></script>
 <script type="text/javascript" src="/scripts/jquery.notification.js"></script>
-<script type="text/javascript" src="/scripts/facebook/connect.js"></script>
+<script type="text/javascript" src="/scripts/cleave/dist/cleave.min.js"></script>
+<script type="text/javascript" src="/scripts/cleave/dist/addons/cleave-phone.i18n.js"></script>
 <script type="text/javascript" src="/scripts/menustates.js"></script>	
 
 
@@ -38,9 +35,8 @@
 	<link rel="stylesheet" href="/styles/bootstrap/bootstrap.css">
 	
 	<link href="http://yui.yahooapis.com/2.5.1/build/reset-fonts-grids/reset-fonts-grids.css" media="all" rel="stylesheet" type="text/css">
-<link href="/styles/responsive/base.css" media="all" rel="stylesheet" type="text/css">
-<link href="/styles/responsive/navigation.css" media="all" rel="stylesheet" type="text/css">
-<link href="http://media.u2.com/images/skins/smoothness/jquery-ui-1.8.12.custom.css" media="all" rel="stylesheet" type="text/css">		
+<link href="/styles/responsive/base.css?v=1.1" media="all" rel="stylesheet" type="text/css">
+<link href="/styles/responsive/navigation.css" media="all" rel="stylesheet" type="text/css">		
 	<link rel="stylesheet" href="/styles/responsive/layout.css">
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" media="all"> 
 	
@@ -56,10 +52,7 @@
 	
 	<!-- Favicons
 	================================================== -->
-	<link rel="shortcut icon" href="/images/favicon.ico">
-	<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png">
+	<link rel="shortcut icon" href="http://cdn.u2.com/images/favicon.ico">
 	
 	
 	<!--  Mobilerider player for control panel -->
@@ -127,7 +120,30 @@
 
 
 	<body class="service guest" id="service">
-	    	   
+		    <!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId   : '130666916961678',
+          status  : true, // check login status
+          cookie  : true, // enable cookies to allow the server to access the session
+          xfbml   : true // parse XFBML
+        });
+
+        // whenever the user logs in, we refresh the page
+        FB.Event.subscribe('auth.login', function() {
+          window.location.reload();
+        });
+      };
+
+      (function() {
+        var e = document.createElement('script');
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+        e.async = true;
+        document.getElementById('fb-root').appendChild(e);
+      }());
+</script>	    	   
 			<!-- Google Tag Manager -->
 			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMHZ64"
 			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -172,7 +188,7 @@
 		<li id="nav_home" class="dynamic_link current"><a title="Home" href="/index/home" target="_parent">Home</a></li>
 		<li id="nav_news" class="dynamic_link "><a title="News" href="/news" target="_parent">News</a></li>
 		<li id="nav_tours" class="dynamic_link "><a title="Tours" href="/tour" target="_parent">Tours</a></li>
-		<li id="nav_discography" class="dynamic_link "><a title="Music" href="/music/DVD/4158/U2+iNNOCENCE+%2B+eXPERIENCE+Live+in+Paris" target="_parent">Music</a></li>
+		<li id="nav_discography" class="dynamic_link "><a title="Music" href="/music/Albums" target="_parent">Music</a></li>
 		<li id="nav_media" class="dynamic_link "><a title="Media" href="/media" target="_parent">Media</a></li>
 		<li id="nav_band" class="dynamic_link "><a title="Band" href="/band" target="_parent">Band</a></li>
 		<li id="nav_handm" class="dynamic_link "><a title="Hearts + Minds" href="/heartsandminds" target="_parent">Hearts + Minds</a></li>
@@ -188,26 +204,6 @@
 					
 										
 						<div id="home_user_state">
-					
-							<div id="fb-root"><!-- facebook connect api loads here asynchronously --><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-							<script type="text/javascript">
-<!-- 
-								window.fbAsyncInit = function() {
-									FB.init({
-										appId   : "130666916961678",
-										status  : true,
-										cookie  : true,
-										xfbml   : true
-									});
-								};
-								(function() {
-									var e = document.createElement("script");
-									e.async = true;
-									e.src = document.location.protocol + "//connect.facebook.net/en_US/all.js";
-									document.getElementById("fb-root").appendChild(e);
-								}());
---> 
-</script>
 						</div>
 					
 											<div id="member_nav">
@@ -254,120 +250,173 @@
 			<div class="container">
 							<div class="container_box white_container">
 		<!-- StaticContent | Name:page_policy | -->
-			<p class="txtRt">Effective July 20, 2012 (last updated July 24, 2015)</p>
+			<title></title>
+<h2>Live Nation Entertainment Privacy Policy - Your Privacy Rights</h2>
 
-<h2><strong>This Privacy Policy applies to the sites and apps where it appears.</strong></h2>
+<p style="text-align: right; color:#444444; ">Effective July 20, 2012 (last updated March 14, 2017)</p>
 
-<p>This Policy describes how we treat personal information we collect both online and offline. This includes on our websites or in our apps. It also includes at our box offices or in phone or email interactions you have with us. If you live in Canada, please read our <a href="http://www.ticketmaster.ca/h/privacy.html" role="link" target="_blank" title="opens in a new window">Canadian Privacy Policy</a>.</p>
+<p><b>This Privacy Policy applies to the sites and apps where it appears.</b></p>
 
-<h2><strong>We collect information from and about you.</strong></h2>
+<p>This Policy describes how we treat personal information we collect both online and offline. This includes on our websites and in our apps. It also includes at our box offices or in phone or email interactions you have with us. If you live in Canada, please read our Canadian Privacy Policy.</p>
 
-<p><strong>Contact information.</strong> For example, we might collect your name and street address. We might also collect your phone number or email.</p>
+<h2>We collect information from and about you.</h2>
 
-<p><strong>Payment and billing information.</strong> For example, we collect your credit card number and zip code when you buy a ticket.</p>
+<p><b>Contact information.</b> For example, we might collect your name and street address. We might also collect your phone number or email.</p>
 
-<p><strong>Information you post.</strong> For example, we collect information you post in a public space on our website or on a third-party social media site.</p>
+<p><b>Payment and billing information.</b> For example, we collect your credit card number and zip code when you buy a ticket.</p>
 
-<p><strong>Demographic information.</strong> We may collect information about events you like or products you buy. We might collect this as part of a survey, for example.</p>
+<p><b>Information you post.</b> For example, we collect information you post in a public space on our website. We also collect information you post on a third-party social media site.</p>
 
-<p><strong>Other information.</strong> If you use our website, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location or your device's unique identifier. We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running. We might look at how often you use the app and where you downloaded it.</p>
+<p><b>Demographic information.</b> We may collect information like your age range, race, or gender. We may collect information about events you like or products you buy. We might collect this as part of a survey or from third parties, for example.</p>
 
-<h2><strong>We collect information in different ways.</strong></h2>
+<p><b>Other information.</b> If you use our website, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. We may collect information about your location, including your precise location. We may collect this using technology such as GPS and Wi-Fi. If you use our mobile app, we may also access your device's location in the background. We may collect your device's unique identifier. We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running. We might look at how often you use the app and where you downloaded it.</p>
 
-<p><strong>We collect information directly from you.</strong> For example, if you register for a promotion or buy tickets. We also collect information if you post a comment on our websites or ask us a question.</p>
+<h2>We collect information in different ways.</h2>
 
-<p><strong>We collect information from you passively.</strong> We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please click <a href="http://www.ticketmaster.com/h/ad-choices.html">here</a>.</p>
+<p><b>We collect information directly from you.</b> For example, if you register for a promotion or buy tickets. We also collect information if you post a comment on our websites or ask us a question.</p>
 
-<p><strong>We get information about you from third parties.</strong> For example, if you use an integrated social media feature on our websites or mobile applications. The third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms.</p>
+<p><b>We collect information from you passively.</b> We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please <a href="http://concerts.livenation.com/h/privacy.html?tm_link=tm_i_privacy#adchoices" target="_blank">click here</a>. We also collect information from our mobile apps.</p>
 
-<h2><strong>We use information as disclosed and described here.</strong></h2>
+<p><b>We get information about you from third parties.</b> For example, if you use an integrated social media feature on our websites or mobile applications. The third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms.</p>
 
-<p><strong>We use information to respond to your requests or questions.</strong> For example, we might use your information to confirm your registration for an event or contest. If you give us your friend's information, we will only use it to provide services you requested.</p>
+<h2>We use information as disclosed and described here.</h2>
 
-<p><strong>We use information to improve our products and services.</strong> We might use your information to customize your experience with us. This could include displaying content based upon your preferences.</p>
+<p><b>We use information to respond to your requests or questions.</b> For example, we might use your information to confirm your registration for an event or contest. You may give us your friend's information, for example, via our referral service to tell a friend about our website or to purchase a gift card. We will only use your friend's information to provide services you requested. Your friend may contact us at privacy@livenation.com to ask us to delete their information.</p>
 
-<p><strong>We use information to look at site trends and customer interests.</strong> We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.</p>
+<p><b>We use information to improve our products and services.</b> We might use your information to customize your experience with us. This could include displaying content based upon your preferences.</p>
 
-<p><strong>We use information for security purposes.</strong> We may use information to protect our company, our customers, or our websites.</p>
+<p><b>We use information to look at site trends and customer interests.</b> We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.</p>
 
-<p><strong>We use information for marketing purposes.</strong> For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter. We may use push notifications and your location information on our mobile apps to send you alerts regarding local events. To learn about your choices for these communications, read the <a href="#certainchoices">choices section</a> below.</p>
+<p><b>We use information for security purposes.</b> We may use information to protect our company, our customers, or our websites.</p>
 
-<p><strong>We use information to send you transactional communications.</strong> For example, we might send you emails about your account or a ticket purchase. We might also contact you about this policy or our website terms.</p>
+<p><b>We use information for marketing purposes.</b> For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter. To learn about your choices for these communications, read the choices section below.</p>
 
-<p><strong>We use information as otherwise permitted by law.</strong></p>
+<p><b>We may also use push notifications on our mobile apps.</b> We may use push notifications and your location information on our mobile apps to send you alerts regarding local events.</p>
 
-<h2><strong>We may share information with third parties.</strong></h2>
+<p><b>We use information to send you transactional communications.</b> For example, we might send you emails about your account or a ticket purchase. We might also contact you about this policy or our website terms.</p>
 
-<p><strong>We will share information within the Live Nation family of companies.</strong> This may include Ticketmaster and Live Nation-owned or operated venues, for example.</p>
-
-<p><strong>We will share information with third parties who perform services on our behalf.</strong> For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases. Some vendors may be located outside of the United States.</p>
-
-<p><strong>We will share information with our business partners.</strong> This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies. You should read those polices to learn how they treat your information.</p>
-
-<p><strong>We may share information if we think we have to in order to comply with the law or to protect ourselves.</strong> For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.</p>
-
-<p><strong>We may share information with any successor to all or part of our business.</strong> For example, if part of our business is sold we may give our customer list as part of that transaction.</p>
-
-<p><strong>We may share your information for reasons not described in this policy.</strong> We will tell you before we do this.</p>
-
-<h2><strong>You have certain choices about how we use your information.</strong></h2>
-
-<p><strong>You can opt out of receiving our marketing emails.</strong> To stop receiving our promotional emails, click <a href="https://www.ticketmaster.com/member/edit_subscriptions?tm_link=mytm_myacct_EmailPref" role="link" target="_blank" title="opens in a new window">here</a> or follow the instructions in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.</p>
-
-<p><strong>You can modify information you have given us.</strong> To correct or delete information or update account settings, log into your account and follow the instructions. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.</p>
-
-<p><strong>You can control cookies and tracking tools.</strong> To learn how to manage how we - and our vendors - use cookies and other tracking tools, please click <a href="http://www.ticketmaster.com/h/ad-choices.html">here</a>.</p>
-
-<p><strong>You can control tools on your mobile devices.</strong> For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an "unsubscribe" link.</p>
-
-<h2><strong>Your California Privacy Rights.</strong></h2>
-
-<p>If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.</p>
-
-<p>To exercise your rights, you can <a href="mailto:privacy@livenation.com">email us</a> or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.</p>
-
-<h2><strong>These sites and apps are not intended for children.</strong></h2>
-
-<p>Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us <a href="mailto:privacy@livenation.com">here</a>. You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."</p>
-
-<p>Learn more about COPPA <a href="http://www.business.ftc.gov/privacy-and-security/children's-privacy" role="link" target="_blank" title="opens in a new window">here</a>.</p>
-
-<h2><strong>We use standard security measures.</strong></h2>
-
-<p>We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. If you think that an unauthorized account has been created using your name, contact us at the address below.</p>
-
-<h2><strong>We are TRUSTe certified.</strong></h2>
-
-<p>TRUSTe has awarded Live Nation the TRUSTe's Privacy Seal. This means TRUSTe independently reviewed this Policy and the practices on Live Nation and Ticketmaster sites and apps to make sure they meet <a href="http://www.truste.com/privacy-program-requirements" role="link" target="_blank" title="opens in a new window">TRUSTE's requirements</a>. The seal applies to our practices for information collected on U.S., UK, Ireland sites and apps.</p>
+<p><b>We use information as otherwise permitted by law or as we may notify you.</b></p>
 
 <p>We keep personal information as long as it is necessary or relevant for our business. We also keep information to resolve disputes, enforce our agreements and as otherwise required by law.</p>
 
-<h2><strong>We store information both in and outside of the United States.</strong></h2>
+<h2>We may share information with third parties.</h2>
+
+<p><b>We will share information within the Live Nation family of companies.</b> This may include Ticketmaster and Live Nation-owned or operated venues, for example.</p>
+
+<p><b>We will share information with third parties who perform services on our behalf.</b> For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases. Some vendors may be located outside of the United States.</p>
+
+<p><b>We will share information with our business partners.</b> This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies, which may include sending you marketing communications. You should read those polices to learn how they treat your information.</p>
+
+<p><b>We may share information if we think we have to in order to comply with the law or to protect ourselves.</b> For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.</p>
+
+<p><b>We may share information with any successor to all or part of our business.</b> For example, if part of our business is sold we may give our customer list as part of that transaction.</p>
+
+<p><b>We may share your information for reasons not described in this policy.</b> We will tell you before we do this.</p>
+
+<h2>You have certain choices about how we use your information.</h2>
+
+<p><b>You can opt out of receiving our marketing emails.</b> To stop receiving our promotional emails, you can click the 'Unsubscribe' link in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.</p>
+
+<p><b>You can modify information you have given us.</b> To correct or delete information or update account settings, log into your account and follow the instructions. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.</p>
+
+<p><b>You can control cookies and tracking tools.</b> To learn how to manage how we — and our vendors — use cookies and other tracking tools, please <a href="http://concerts.livenation.com/h/privacy.html?tm_link=tm_i_privacy#adchoices" target="_blank">click here</a>.</p>
+
+<p><b>You can control tools on your mobile devices.</b> For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an "unsubscribe" link.</p>
+
+<h2>Your California Privacy Rights.</h2>
+
+<p>If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.</p>
+
+<p>To exercise your rights, you can email us or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.</p>
+
+<h2>These sites and apps are not intended for children.</h2>
+
+<p>Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us <a href="mailto:privacy@livenation.com" target="_blank">here</a>. You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."</p>
+
+<p>Parents, you can also learn more about how to protect children's privacy online <a href="http://business.ftc.gov/privacy-and-security/children%E2%80%99s-privacy" target="_blank">here</a>.</p>
+
+<h2>We use standard security measures.</h2>
+
+<p>We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. If you think that an unauthorized account has been created using your name, contact us at the address below.</p>
+
+<p>&nbsp;</p>
+
+<div><a href="//privacy.truste.com/privacy-seal/validation?rid=6ded18c3-447e-4032-94e2-2a8daaee2887" target="_blank"><img alt="TRUSTe" src="http://privacy-policy.truste.com/privacy-seal/seal?rid=6ded18c3-447e-4032-94e2-2a8daaee2887" style="border: none"></a></div>
+
+<p><br>
+Click on the Truste seal to view our current certification status.</p>
+
+<p>&nbsp;</p>
+
+<h2>We store information both in and outside of the United States.</h2>
 
 <p>If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection of those in your country.</p>
 
-<p>Live Nation complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Live Nation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Live Nation's certification, please visit <a href="http://www.export.gov/safeharbor" role="link" target="_blank" title="opens in a new window">http://www.export.gov/safeharbor</a>.</p>
+<h2>We may link to third party sites or services we don't control.</h2>
 
-<h2><strong>We may link to third party sites or services we don't control.</strong></h2>
+<p>If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites. Our site may also serve third-party content that contains their own cookies or tracking technologies. To learn more, <a href="http://concerts.livenation.com/h/privacy.html?tm_link=tm_i_privacy#adchoices" target="_blank">click here</a>. We do not control the use of those technologies.</p>
 
-<p>If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites.</p>
+<h2>Feel free to contact us if you have more questions.</h2>
 
-<h2><strong>Feel free to contact us if you have more questions.</strong></h2>
-
-<p>If you have any questions about this Policy or other privacy concerns, you can email us at <a href="mailto:privacy@livenation.com">privacy@livenation.com</a>. Please do not include your credit card number or other sensitive information in your email. You can also write us at:</p>
-
-<p>Live Nation Entertainment, Inc.<br>
+<p>If you have any questions about this Policy or other privacy concerns, you can email us at privacy@livenation.com. Please do not include your credit card number or other sensitive information in your email. You can also write us at:<br>
+<br>
+Live Nation Entertainment, Inc.<br>
 9348 Civic Center Drive<br>
 Beverly Hills, CA 90210<br>
-Attention: Privacy Officer, Legal</p>
-
-<p>If you are not satisfied with our response, you can contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request" role="link" target="_blank" title="opens in a new window">here</a>.</p>
+Attention: Privacy Officer, Legal<br>
+<br>
+If you are not satisfied with our response, you can contact our third party dispute resolution provider <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">here</a>.</p>
 
 <h2>What we will do if there is an update to this policy.</h2>
 
 <p>From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.</p>
 
-<p>© 2013 Live Nation Entertainment, Inc. All rights reserved.</p>
+<p>&nbsp;</p>
+
+<hr style="border: 1px dashed silver">
+<p>&nbsp;</p>
+
+<h2>Ad Choices</h2>
+
+<p><b>We use common tracking technologies.</b></p>
+
+<p>We or our vendors use several common tracking tools. These may include browser cookies. We may also use web beacons and similar technologies. We use these tools:</p>
+
+<ul>
+	<li>To recognize new or past customers.</li>
+	<li>To store your password if you are registered on our sites.</li>
+	<li>To improve our website and mobile app.</li>
+	<li>To serve you with advertising content in which we think you will be interested. To do so, we or our business partners may observe your behaviors over time on this website and across third party websites. We may also collect information about your browsing history.</li>
+	<li>To better understand the interests of our customers and our website visitors.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2>You can control tracking tools.</h2>
+
+<p>Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" target="_blank">here</a>. Why? Because flash cookies cannot be controlled through your browser settings.</p>
+
+<p>If you block cookies on your browser, certain features on our sites may not work.</p>
+
+<h2>Some ads may be served based on tracking.</h2>
+
+<p>We may work with online advertising companies to show you relevant and useful ads. This may include ads served on our own websites or apps. This may also include our ads served on other companies' sites. These ads may be based on information collected by us or third parties (for example, when you register for a site). These ads may also be based on your activities on our websites or on third party sites. This second type of advertising is called "interest-based advertising" or "online behavioral advertising." These ads might be served on websites or on apps. They might also be served in emails. We might serve these ads, or third parties may serve ads. They might be about our products or other companies' products.</p>
+
+<h2>How do we gather information about you for interest-based advertising?</h2>
+
+<p>To decide what is relevant to you, we use information you make available to us when you interact with us, our affiliates, and other third parties. We gather this information using the tracking tools described above. For example, we or our partners might look at your purchases or browsing behaviors. We might look at these activities on our platforms or the platforms of others.</p>
+
+<p>We work with third parties who help gather this information. These third parties might link your name or email address to other information they collect. That might include past purchases made offline or online. Or, it might include online usage information.</p>
+
+<h2>You can opt-out of interest-based advertising.</h2>
+
+<p>To opt out of online behavioral advertising, <a href="http://preferences-mgr.truste.com/?pid=ticketmaster01&amp;aid=ticketmaster01&amp;type=ticketmaster" target="_blank">click here</a>. If you opt out, you may continue to see ads from us, but they will not be tailored to your interests.</p>
+
+<p>The Digital Advertising Alliance also offers a tool for opting out of the collection of cross-app data on a mobile device for interest-based advertising. To exercise choice for companies participating in this tool, download the AppChoices app <a href="http://youradchoices.com/appchoices" target="_blank">here</a>.</p>
+
+<p>©2017 Live Nation Entertainment, Inc. All rights reserved</p>
+
+<p>&nbsp;</p>
 </div>			</div>
 		</div>	
 			
@@ -392,7 +441,7 @@ Attention: Privacy Officer, Legal</p>
 			<ul class="main">
 						<li><a title="News" href="/news" target="_parent">News</a></li>
 		<li><a title="Tours" href="/tour" target="_parent">Tours</a></li>
-		<li><a title="Music" href="/music" target="_parent">Music</a></li>
+		<li><a title="Music" href="/music/Albums" target="_parent">Music</a></li>
 		<li><a title="Media" href="/media" target="_parent">Media</a></li>
 		<li><a title="Band" href="/band" target="_parent">Band</a></li>
 		<li><a title="Hearts + Minds" href="/heartsandminds" target="_parent">Hearts + Minds</a></li>
@@ -402,7 +451,7 @@ Attention: Privacy Officer, Legal</p>
 		</ul>
 	</div>
 	</div>
-	<div id="footer_bottom"><div class="copyright">©2016&nbsp;U2.&nbsp;&nbsp;Powered by <a href="http://www.livenation.com">Live Nation Entertainment</a>.</div>
+	<div id="footer_bottom"><div class="copyright">©2017&nbsp;U2.&nbsp;&nbsp;Powered by <a href="http://www.livenation.com">Live Nation Entertainment</a>.</div>
 	<div id="ft_submain">
 		<ul class="submain">		<li><a class="nav_emaillist" href="/service/emaillist">Email List</a></li>
 		<li><a title="Terms + Conditions" href="/terms" target="_parent">Terms + Conditions</a></li>
@@ -418,7 +467,7 @@ Attention: Privacy Officer, Legal</p>
     <script src="/scripts/bootstrap/bootstrap.js"></script>
     <script src="/scripts/tmot-u2.js"></script>
 
-<!-- generated by: www.u2.com 10.10.50.43 10.10.50.34 at 2016-12-05 13:23:30 -->
+<!-- generated by: www.u2.com 172.31.35.215 34.207.98.73 at 2017-12-22 07:18:01 -->
 
 <!-- footer end -->
 			</div>
