@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303041206id_/https%3A//www.infoq.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222193620id_/https%3A//www.infoq.com/privacypolicy) for the most accurate reproduction.*
 
 # InfoQ - Facilitating the spread of knowledge and innovation in enterprise software development
 
@@ -71,3 +71,28 @@ We also give users the following options:
 You can correct or change the information collected during registration for any of our sites. The instructions for doing this can be found in the edit profile area on any of our site. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page.
 
 Any modifications to our privacy policy will be reflected on InfoQ. If there is a material change in our privacy policy, we will indicate on InfoQ.com our privacy policy has changed and provide a link to the new privacy statement. Questions regarding this privacy statement should be emailed to feedback@c4media.com.
+
+**Terms and Conditions**
+
+We reserve the right to remove comments on InfoQ.com which:
+
+  * Advertise a product
+  * Are off-topic
+  * Are abusive or disruptive
+  * Are offensive
+  * Contain personal details
+  * Contain spam
+  * Contain unsuitable links
+  * Are not in English
+  * Contain potentially defamatory statements
+  * Risk breaching copyright law
+  * Risk breaking UK and other relevant law
+  * Risk contempt of court
+
+
+
+We reserve the right to block or remove the accounts of persistent offenders. In addition comments for the purpose of back-link building rather than adding value to a discussion will be deleted and the account suspended.
+
+We respect other people's rights, and expect you to do the same. InfoQ is dedicated to providing a harassment-free community for all readers, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment in any form. Sexual language and imagery is not appropriate anywhere on the site and violating these rules will cause your account to be blocked. 
+
+Any form of offensive or harassing communication is not allowed on InfoQ. Please inform abuse@infoq.com if you feel a violation has taken place and the InfoQ team will address the situation. 
