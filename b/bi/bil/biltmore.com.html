@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the biltmore.com privacy policy that was archived on 2017-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170521112543id_/http%3A//www.biltmore.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the biltmore.com privacy policy that was archived on 2017-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171222171511id_/http%3A//www.biltmore.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#" class="layout-privacy                    chrome chrome69 webkit webkit537 linux loaded"><head><script src="/_js/tracking.js"></script><script src="/_js/jquery-1.9.1.min.js"></script>
+<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#" class="layout-privacy                    chrome chrome69 webkit webkit537 linux loaded"><head><script src="/_js/jquery-ui-1.10.3.custom.min.js"></script><script src="/_js/tracking.js"></script><script src="/_js/jquery-1.9.1.min.js"></script>
 
 	<meta charset="utf-8">
 							<title>Our Website Privacy Terms | Biltmore</title>
@@ -34,7 +34,13 @@ if (!window.console) window.console = {};
 if (!window.console.log) window.console.log = function () { };
 </script>
 <link type="text/css" rel="stylesheet" href="/_css/bootstrap.css">
+
+  <script src="//assets.adobedtm.com/6359b4c600660dd857dbaca3d6a33e01e7d58f8e/satelliteLib-4c71b870d409dd9a26cec5eac5956960bafbed3c.js"></script>
+<script src="/_js/jquery-1.9.1.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="//use.typekit.net/tkh1vsw.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <script src="/_js/bootstrap.js" data-css="" data-js="" charset="utf-8"></script><script src="/_js/site.js" charset="utf-8"></script><link rel="stylesheet" href="/_css/screen.css" media="screen" charset="utf-8"><link rel="stylesheet" href="/_css/print.css" media="print" charset="utf-8">
+
 
 <!--
 conditional mbox code for testing
@@ -45,15 +51,11 @@ conditional mbox code for testing
 	bootstrap.js('foutbgone',function(){fbg.hideFOUT('asap',100);});
 </script>
 <![endif]-->
-
-<script type="text/javascript" src="//use.typekit.net/tkh1vsw.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	
 <!--[if lt IE 9]><script src="/_js/html5shiv.js"></script><![endif]-->
 
 		
 
-  <script src="//assets.adobedtm.com/6359b4c600660dd857dbaca3d6a33e01e7d58f8e/satelliteLib-4c71b870d409dd9a26cec5eac5956960bafbed3c.js"></script>
 </head>
 <body>
 	<script src="http://ds.serving-sys.com/BurstingRes/CustomScripts/mmConversionTagV2.js"></script>
@@ -144,7 +146,7 @@ value=0&amp;guid=ON&amp;script=0"/>
 									<a href="/visit/things-to-do"><span>Things to Do</span></a>
 									<ul>
 <li class="first"><a href="/visit/things-to-do/tours">Tours</a></li>
-<li><a href="/visit/things-to-do/dining">Dining</a></li>
+<li><a href="/visit/things-to-do/estate-dining">Estate Dining</a></li>
 <li><a href="/visit/things-to-do/shopping">Shopping</a></li>
 <li class="last"><a href="/visit/things-to-do/outdoor-activities">Outdoor Activities</a></li>
 </ul>
@@ -317,14 +319,15 @@ value=0&amp;guid=ON&amp;script=0"/>
 									<a href="/shop/for-your-home">
 										<span>Biltmore® For Your Home</span>
 										<img src="/_images/dropdown/shop-for-your-home.jpg" data-src="/_images/dropdown/shop-for-your-home.jpg" width="500" height="250" alt="">
-										<p>Explore our Biltmore-inspired bedding &amp; bath, home furnishings, and gourmet collections. Shop online and find a retailer near you.</p>
+										<p>Explore Biltmore-inspired products in our Furnishings, Bedding &amp; Bath,  Entertain, and Your Style collections. Shop online or find a retailer near you.</p>
 									</a>
 									<ul class="no-dropdown">
 <li class="first"><a href="/shop/for-your-home/our-story">Our Story</a></li>
-<li><a href="/shop/for-your-home/home-furnishings">Home Furnishings</a></li>
+<li><a href="/shop/for-your-home/furnishings">Furnishings</a></li>
 <li><a href="/shop/for-your-home/bedding-bath">Bedding &amp; Bath</a></li>
-<li><a href="/shop/for-your-home/gourmet-entertaining">Gourmet &amp; Entertaining</a></li>
-<li class="last"><a href="/shop/for-your-home/biltmore-style">Biltmore Style</a></li>
+<li><a href="/shop/for-your-home/your-style">Your Style</a></li>
+<li><a href="/shop/for-your-home/entertain">Entertain</a></li>
+<li class="last"><a href="/shop/for-your-home/be-inspired">Be Inspired</a></li>
 </ul>
 								</li>
 								<li>
@@ -502,7 +505,10 @@ value=0&amp;guid=ON&amp;script=0"/>
 													
 					
 										</nav>
-												
+				
+
+
+								
 		</div>
 				<div id="body" class="content">
 		<div class="wrapper">
@@ -514,9 +520,100 @@ value=0&amp;guid=ON&amp;script=0"/>
 
 				
 
-         
+	
+	<link rel="stylesheet" href="/_css/jquery-ui-1.10.3.custom.css">
+<script type="text/javascript">
+	bootstrap.js("jquery-ui-1.10.3.custom.min",function() {
+	    /**
+         * Adds support for the datepickers that are in the booking form.  When a date is selected in the arrivel picker, this automatically sets the departure date to one day later, and makes that the minimum date.
+         */
+		$(".booking-form__date-wrapper__input").datepicker({
+			minDate: new Date(),
+			dateFormat:'m/d/yy',
+			onClose: function( selectedDate ) {
+			    var $this = $(this);
+			    var current_field = $this.attr("name");
+
+			    if ( current_field == 'arrival' ) {
+			        if (!selectedDate || selectedDate == '') {
+						selectedDate = 	$.datepicker.formatDate('mm/dd/yy', new Date());
+					}
+					var depart = $.datepicker.parseDate('mm/dd/yy', selectedDate);
+					depart.setDate(depart.getDate() + 1);
+					$this.closest("form").find("[name=depart]").datepicker( "option", "minDate", depart );
+				}
+
+			}
+		});
+
+		/**
+		 * Update select styling to differentiate between placeholder state and active state
+         */
+		$("body").on("change",".booking-form__select-wrapper__select",function(){
+			var $this = $(this);
+			if ( $this.val() == '' ) {$this.addClass("booking-form__select-wrapper__select__placeholder");} else {$this.removeClass("booking-form__select-wrapper__select__placeholder");}
+		});
+
+		/**
+		 * When the booking-form__update-form-url select input is changed, it should update form's action
+         */
+		$("body").on("change",".booking-form__update-form-url",function(){
+			var $this = $(this);
+			var new_url = $this.val();
+
+			$this.closest("form").attr("action",new_url);
+		});
+
+		/**
+		 * Validate the booking form when the booking button is clicked to make sure the select hotel step is complete.
+         */
+		$("body").on("click",".booking-form__button",function(){
+			var $this = $(this);
+			var $wrapper = $this.closest("form");
+			var $property_select = $wrapper.find(".booking-form__update-form-url");
+
+			if ( $property_select.length > 0 ) {
+			    if ( $property_select.val() == '' ) {
+			        alert('Please select a hotel property to continue')
+			        return false;
+                }
+            }
+
+		});
+
+        /**
+         * Stop the datepicker from closing the Book Now cta when clicked.
+         */
+		$(document).on("click","#ui-datepicker-div",function(){
+			return false;
+		});
+		$(document).on("touchend","#ui-datepicker-div",function(event){
+			return true;
+		});
+
+		/**
+         * Stop the datepicker from closing the Book Now cta the next month, or previous month buttons is clicked
+         */
+		$(document).on('click','.ui-datepicker-next, .ui-datepicker-prev',function(){
+             return false;
+        });
+		$(document).on('touchend','.ui-datepicker-next, .ui-datepicker-prev, .ui-state-default',function(event){
+             $(this).trigger("click");
+             return false;
+        });
+
+
+
+
+
+
+
+
+	});
+</script>
+	         
 		 <h1>Privacy Policy</h1>
-                         <p>
+         				<p>
 	<span style="font-size: 14px; line-height: 1.2;">Biltmore knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. <strong>By visiting Biltmore.com, you are accepting the practices described in this Privacy Notice.</strong></span></p>
 <p>
 	<a href="#anchor1">What information do we gather?</a><br>
@@ -533,7 +630,8 @@ value=0&amp;guid=ON&amp;script=0"/>
 	<a href="#anchor14">Reservations</a><br>
 	<a href="#anchor15">Email</a><br>
 	<a href="#anchor16">Sweepstakes/contests</a></p>
-         		                <h4>
+         
+		                <h4>
 	WHAT INFORMATION DO WE GATHER?</h4>
 <p>
 	The information we learn from customers helps us personalize and continually improve your Biltmore.com experience. Here are the types of information we gather.</p>
@@ -616,7 +714,14 @@ value=0&amp;guid=ON&amp;script=0"/>
 	Occasionally, we run sweepstakes and contests. We ask Customers who enter in the sweepstakes or contest to provide contact information (like an email address). If a Customer participates in a sweepstakes or contest, his/her contact information may be used to reach him/her about the sweepstakes or contest, and for other promotional, marketing, and business purposes. All sweepstakes/contests entry forms will provide a way for participants to opt out of any communication that is not related to awarding prizes for the sweepstakes/contest.</p>
 <p>
 	You must be 18 years or older to participate in our sweepstakes/contests, and 21 years or older for any wine or beer sweepstakes/contests. For complete rules and regulations for specific sweepstakes/contests, please click the link provided within the sweepstakes or contest.</p>
-         										         
+         								
+						
+
+												
+						
+				 			
+				 			
+				         
 		
 				 
 		<!-- Responsive calendar - START -->
