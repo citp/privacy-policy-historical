@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revealnews.org privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120033509id_/https%3A//www.revealnews.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revealnews.org privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222203122id_/https%3A//www.revealnews.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reveal
 
@@ -76,8 +76,8 @@ Our Services are not directed to children under 13 and we do not knowingly colle
 
 **Your California Privacy Rights**
 
-California residents may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed their PII for direct marketing purposes during the preceding calendar year and the categories of PII shared with those third parties. If you are a California resident and wish to obtain that information, please submit your request by sending us an email at [rsaulsbury@cironline.org](mailto:rsaulsbury@cironline.org) with “California Privacy Rights” in the subject line or by writing to us at 1400 65th St., Suite 200, Emeryville, CA 94608.
+California residents may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed their PII for direct marketing purposes during the preceding calendar year and the categories of PII shared with those third parties. If you are a California resident and wish to obtain that information, please submit your request by sending us an email at [bonsgard@revealnews.org](mailto:bonsgard@revealnews.org)[](mailto:rsaulsbury@cironline.org) with “California Privacy Rights” in the subject line or by writing to us at 1400 65th St., Suite 200, Emeryville, CA 94608.
 
 **Questions?**
 
-Please contact us at [rsaulsbury@cironline.org](mailto:rsaulsbury@cironline.org) if you have any questions about our Privacy Policy.
+Please contact us at [bonsgard@revealnews.org](mailto:bonsgard@revealnews.org) if you have any questions about our Privacy Policy.
