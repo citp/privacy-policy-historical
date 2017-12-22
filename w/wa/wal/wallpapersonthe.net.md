@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the wallpapersonthe.net privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330125115id_/http%3A//wallpapersonthe.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapersonthe.net privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222061529id_/http%3A//wallpapersontheweb.net/policy) for the most accurate reproduction.*
 
-# Privacy policy for Wallpapers and Users | WallpapersOnThe.Net
+# Privacy policy for Wallpapers and Users | wallpapersontheweb.net
 
-The owners and operators of wallpapersonthe.net take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
+The owners and operators of wallpapersontheweb.net take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
 **Server Logs**
 
-Like most web sites, wallpapersonthe.net logs web-, database-, and other server-software usage and access information. This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
+Like most web sites, wallpapersontheweb.net logs web-, database-, and other server-software usage and access information. This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
 
 **Cookies**
 
-While browsing wallpapersonthe.net, a small number of text files referred to as “cookies” may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of wallpapersonthe.net will function as expected without cookies enabled.
+While browsing wallpapersontheweb.net, a small number of text files referred to as “cookies” may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of wallpapersontheweb.net will function as expected without cookies enabled.
 
 **Third-Party Advertisers**
 
-In order to cover the costs of providing hdwallpapers as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by wallpapersonthe.net’s privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
+In order to cover the costs of providing hdwallpapers as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by wallpapersontheweb.net’s privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
 **Google Adsense:**
 
@@ -24,7 +24,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google�
 
 **Sharing/Selling of Data**
 
-wallpapersonthe.net does not share or sell personally identifiable data to third parties such as spammers or direct marketers. We respect your privacy.
+wallpapersontheweb.net does not share or sell personally identifiable data to third parties such as spammers or direct marketers. We respect your privacy.
 
 **Data Retention**
 
