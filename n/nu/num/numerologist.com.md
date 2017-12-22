@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617143904id_/http%3A//numerologist.com/portal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222211200id_/http%3A//numerologist.com/portal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Numerologist.com
+# Privacy Policy - Numerologist
 
 Effective on March 24, 2010
 
 This privacy statement describes how Cosmic Incorporated collects and uses the personal information you provide on our Web site: [numerologist.com ](http://numerologist.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-If you have questions or concerns regarding this policy, you should first contact us at [privacy@numerologist.com ](mailto:support@numerologist.com).
+If you have questions or concerns regarding this policy, you should first contact us at [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#d2a1a7a2a2bda0a692bca7bfb7a0bdbebdb5bba1a6fcb1bdbf).
 
 ## Collection and Use of Personal Information
 
@@ -38,7 +38,7 @@ We use this information to
 
 
 
-**Choice/Opt-Out** You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@numerologist.com ](mailto:support@numerologist.com).
+**Choice/Opt-Out** You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#0f7c7a7f7f607d7b4f617a626a7d60636068667c7b216c6062).
 
 ## Information Sharing
 
@@ -67,13 +67,13 @@ _Links to Other Web Sites_ Our Site includes links to other Web sites whose priv
 
 ## Security
 
-When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@numerologist.com ](mailto:support@numerologist.com)
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#77040207071805033719021a1205181b18101e04035914181a)
 
 In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
 
 ## Additional Policy Information
 
-**Correcting and Updating Your Personal Information** To review and update your personal information to ensure it is accurate, contact us at [support@numerologist.com ](mailto:support@numerologist.com).
+**Correcting and Updating Your Personal Information** To review and update your personal information to ensure it is accurate, contact us at [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#80f3f5f0f0eff2f4c0eef5ede5f2efecefe7e9f3f4aee3efed).
 
 **Notification of Privacy Statement Changes** We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
