@@ -1,169 +1,104 @@
-> *The following text is extracted and transformed from the pep.ph privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628103723id_/http%3A//www.pep.ph/privacy%3Fref%3Dfooter_sitemap) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pep.ph privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222012601id_/http%3A//www.pep.ph/privacy%3Fref%3Dfooter_sitemap) for the most accurate reproduction.*
 
 # Privacy Policy | PEP.ph - Philippine Entertainment Portal
 
-**Philippine Entertainment Portal (PEP)** is defined as all websites, web pages and channels owned, controlled and/or operated by the same people who brought you YES! Magazine, the number one entertainment title in the country.
+Our Privacy Policy was last updated on **May 15, 2015**.
 
-We frequently provide information and links to third-party advertisers or partners. Information on how to access the privacy practices of these third parties is included below as well.
+It governs the privacy terms of all websites and its social networking accounts (collectively, **“Summit Sites“** ) under the Summit Publishing Co. Inc. brand (collectively, **“Summit Media“** ) and its affiliates to which this policy is linked to.
 
-We will notify our members when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make new use of any personally identifiable information which PEP gathered from individual members or visitors prior to any such significant change in our Privacy Policy without first obtaining the member's or visitor's consent for any new uses. In instances where we ask for your personally identifiable information and we tell you the data we are collecting on that page will be shared with unaffiliated third parties, and in cases where a member, visitor or subscriber to PEP opts-in to share his/her information with third parties, those disclosures and opt-ins will override anything to the contrary in this Privacy Policy. In addition, PEP reserves the right to make non-significant changes to our Privacy Policy that will not affect PEP's use of a user's personally identifiable information at any time without any notice to you other than posting any such changes in a revised Privacy Policy on PEP. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. The Policy will include the most recent date in which any revision has been made. Please note that this Privacy Policy is also incorporated into PEP's [Terms of Service](http://www.pep.ph/tos).
+**Purpose and Scope of this Privacy Policy and Definitions**
 
-## Information that PEP collects
+**Summit Media** (defined above) follows all legal requirements to protect your privacy. This Privacy policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. 
 
-PEP gathers two basic types of information:
+**“Non-Personal Information“** is information that is not personally identifiable to you and that we automatically collect when you access the Summit Sites (defined above) with a web or mobile browser. It may also include publicly available information that is shared between you and others.
 
-  * ### Information provided to PEP 
+**“Personally Identifiable Information“** is non-public information that is personally identifiable to you and obtained in order for us to provide you within the Summit Sites. Personally Identifiable Information may include information such as your name, email address, and other related information that you provide us or that we obtain about you. 
 
-In order to use many of PEP's features, tools and services, we ask you to register to become a member. During this member registration process, we will ask for your personally identifiable information such as your name, mobile/phone number, email address, mailing address, zip code, country, gender, birthdate, age, member name and password. In addition, you may choose to provide PEP with additional information including marital status, household income, education, and employment status. 
+  1. By submitting your Personally Identifiable Information through any of the Summit Sites, you agree to the terms of this privacy policy and you expressly consent to the collection, use and disclosure of your Personally Identifiable Information in accordance with this Privacy Policy. 
+  2. This Privacy Policy does not apply to information collected about you by anyone except Summit Media and only applies to the Summit Sites. This Privacy Policy does not apply to any Summit Media websites which are not linked to this policy and does not apply to non-Summit Media websites, including those linked to or advertised on the Summit Sites. Any information you provide when you visit the Summit Sites other than those covered by this Policy will be subject to the privacy policies posted on those sites. 
+  3. Certain features of the Summit Sites may be subject to additional or different privacy provisions, which will be posted on the Summit Site in connection with such features. All such additional or different privacy provisions are incorporated by reference into this privacy policy. 
 
-PEP uses the information it gathers for several purposes, such as to understand more about our audience's interests, to communicate with you and to give you a better experience when visiting PEP by personalizing tools, content, services and email messages (more details below). PEP also uses this information to build new services and develop offers that PEP believes are more relevant and valuable to you. 
 
-PEP, its advertisers and partners may ask you for information in order to provide you with access to goods, services and tools. When personally identifiable information provided by you is (i) collected by PEP and/or a PEP sponsor or partner or (ii) collected by PEP and shared with a PEP sponsor or partner, your permission will be obtained and you will be advised as to which privacy policy(ies) will control the collection and dissemination of the information provided if different from PEP's policy.
 
-  * ### Information gathered by PEP
+**How We Collect Information**
 
-When you visit PEP and interact with the services and tools that reside there, PEP and third parties with whom PEP has contracted to provide services to PEP may collect information on your actions. This type of information is generally collected from two sources. One is from the server log files and the other is from cookies.
+  1. **Information You Provide.** Summit Media generally collects Personally Identifiable Information that you voluntarily provide. For instance, when you create an account or register on any of the Summit Sites, participate in a promo or a contest, complete a survey, participate in any of our community forums, make a purchase within any of the Summit Sites, participate in any of our social networking features, subscribe to any of our magazines, subscribe to receive newsletters, promotional correspondence, or other electronic services, or send us an email or feedback, you may be asked to provide information such as your email address, name, phone or mobile number, address, and/or billing information, and we will collect such information as well as any other content you provide us in engaging in any of the above activities. Information such as birthday, gender, level of education, relationship status, location, and household income, type of home, and hobbies or interest may also be requested. If you elect to post your own material to any of the Summit Sites, community forums, participate in any of our social networking features or any feature that may be offered in the Summit Sites, then such materials will be collected and may be publicly available for others to view.
+  2. **Information we collect automatically.** When you use any of the Summit Sites, we automatically collect certain computer information by the interaction of your mobile phone or web browser with any of the Summit Sites. Such information is typically considered Non-Personal Information. 
 
 
 
+We also collect the following:
 
-## How information is collected and disseminated
+  * **Cookies**
+    1. Summit Media (or third party service providers on our behalf) may set and access Cookies and similar technologies on your computer. A Cookie is a small piece of data (often including a unique identifier) that is stored on your computer or mobile device by your web browser when you visit a website. We use Cookies to understand site usage and improve the content and offerings on the Summit Sites and in other media. We may use Cookies to control the display of ads, to track usage patterns on the Summit Sites, to deliver editorial content, to record requests for subscriptions, and to personalize the content that you see on the Summit Sites. Summit Media (or third party service providers on our behalf) may also use Cookies to collect aggregate information about website users on an anonymous basis (“Anonymous Information“). We may share aggregate demographics and usage information with our prospective and actual business partners, advertisers and other third parties for any business purpose. 
+    2. Some of our third party partners (including advertisers and marketing services companies) may set and access Cookies and similar technologies on your computer as well, or we may do so on their behalf. We do not have control over how these third parties use such Cookies and similar technologies or the information derived therefrom.
+    3. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access full functionality of the Summit Sites correctly or at all. We never place Personally Identifiable Information on Cookies. 
+  * **IP Address.** Your Internet Protocol (“IP“) address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. Our server may also record the referring page that linked you to us (e.g. another website or search engine); the pages you visit on the Summit Sites, the web sites you visit after this website; the ads you see; the ads you click on; other information about the type of web browser, computer operating system, device, platform, related software and settings you are using; any search terms you have entered on this web site or a referral site; and other web usage activity and data logged by our web servers. We may use your IP address to help diagnose problems with our servers, gather broad demographic information, analyze trends among our Users to help us improve and administer the Summit Sites. We may also link this information with your Personally Identifiable Information when we feel that it is necessary to enforce compliance with our rules and policies or terms of service or to protect our Summit Sites, customers or others. 
+  * **Third Party Tracking Tools.** We also use third party tracking tools to improve the performance and features of the Summit Sites. These third party tracking tools are designed to collect only Non-Personal Information about your use of the Summit Sites. However, you understand that such tools are created and managed by parties outside our control. As such, we are not responsible for what information is actually captured by such third parties or how such third parties use and protect that information. 
 
-The information collected by PEP is used to create aggregated portraits of the PEP audience, portraits which present anonymous statistical demographic information but no personally identifiable information. This aggregated information is used, among other things, to determine trends and needs, and also to supply market research to potential advertisers and partners to help them understand who the PEP audience is. For example, we may create a report that tells advertisers that 60 percent of our members are females in a certain age range, so that they can determine which of their products or services are most appropriate for our members.
 
-In order to better describe how information is collected and disseminated, please carefully review the list below.
 
-  * Membership Registration
+**How We Use Your Information**
 
-  * Order Forms and Transactions with E-Commerce Partners And Advertisers
+We use the information we receive from you as follows:
 
-  * Electronic Newsletters and Reminders
+  1. **Provide you with the services you requested.** If you subscribe to any of our services, we may also use your e-mail address to send you a confirmation notice about the subscription. Similarly, if you enter a promo or a contest, we will also use this information to notify you if you are a winner. We might also send out e-mails to users and promo/contest entrants to announce special offers, services and announcements from any of the Summit Sites, our partners and/or our advertisers.
+  2. **Customizing and Improving Our Website.** We also use your information that may include Personally Identifiable Information to identify you as a user, improve the Summit Sites and services, send you administrative notifications, and respond to your inquiries. 
+  3. **Marketing Purposes.** We may combine and use any and all information we collect on you either online or otherwise, including from third parties, for the purpose of marketing the Summit Sites. We may create Anonymous Information from Personally Identifiable Information by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Information for any purpose and disclose Anonymous Information to third parties in our sole discretion. 
+  4. **Editorial Purposes.** In Addition, we may use information you provide us through emails, Q&A, community forums, in response to polls, or through any other user generated submission for editorial purposes, and may use your name and any stories you provide us in articles published online and in our Magazines. If you provide us with personal anecdotes, they may be attributed to you. Summit Media can edit, rewrite, use, and reuse the content, including your name, likeness, photograph, and biographical information you provide, with or without attribution, including publication in the Magazines, and in trade media, and advertising. 
+  5. **Data Aggregation.** We retain the right to collect and use any Non Personal Information collected from your use of the Summit Sites and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations. 
 
-  * Public Forums/Chat Rooms/Message Boards/Bulletin Boards
 
-  * Surveys and Polls
 
-  * Contests and promos
+**Disclosure of Your Information**
 
-  * "Send This to a Friend" and Postcard Service
+  1. In addition to the other disclosures described in this policy, Summit Media may (and you authorize us to) share or disclose Personally Identifiable Information about you to other companies or individuals in the following situations: 
+    1. We utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your Personally Identifiable Information and not to use your Personally Identifiable Information for any reason except to carry out the purpose(s) for which we hired them. ( **“Service Provider Exception“** )
+    2. You have entered a promo or a contest sponsored by a third party, in which case the information you provide via the promo/contest may be shared by us with that third party for their use in their discretion, including direct marketing. Some of our promos and contests will ask you at the time of entry whether you would like to have your personal information shared with the sponsor, in which case we will honor your selection. Other contests will not give you that option and in that event, if you do not want your information to be shared, you should not enter the contest. The privacy policies of such third party companies apply to their use and disclosure of your information that we collect and disclose to such third party companies. 
+    3. The entity to whom the information is disclosed is an affiliate of Summit Media. 
+    4. In accordance with your indicated preferences (e.g., you indicated you wanted to receive promotional materials directly from a third party partner). 
+    5. The entity is a third party who wants to promote goods and services we think would be of interest to you. 
+    6. You have furnished us Personally Identifiable Information with the intent that it be forwarded to a third party for use in connection with a specified service you are electing to participate in (examples include, without limitation, e-commerce partners, services to help old friends locate you online, etc.)
+    7. We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from any legal action or claims from third parties including you and/or other Members; and/or (e) we have reason to believe that it is necessary for protection from someone who may be causing injury to someone or interfering with our rights or the rights of our users, employees, our affiliates, and the general public, or using our services in violation of a legal or personal right, including our Terms of Use (collectively, **“Legal Exceptions“** ).
+    8. In connection with a sale, merger, transfer, exchange, or other disposition (whether assets, stock, or otherwise, including via bankruptcy) of all or a portion of the business conducted by the Summit Sites to which this policy applies, in which case the company will possess the Personally Identifiable Information collected by us and will assume the rights and obligations regarding your Personally Identifiable Information as described in this Privacy Policy (collectively, **“Acquisition Exception“** ).
+  2. **Social Networks.** If you use your login credentials from a social networking site (e.g. Facebook or Twitter) (collectively, “SNS“) on a Summit Site, we may receive information from such SNS in accordance with the terms and conditions (e.g., terms of use and privacy policy) of the SNS (“SNS Terms“). If you elect to share your information with these SNS, we will share information with them in accordance with your election. The SNS Terms of the SNS will apply to the information we disclose to them. 
+  3. **Third Party Partners.** Some of the Summit Sites may from time to time partner with a retailer or other third party to offer online shopping opportunities, games, services, subscriptions, and other applications on a co-branded or cross-promotional basis. Those transactions may take place on a Summit Site, or the site of the third party. In either case, Personally Identifiable Information you provide in connection with the transaction may be collected directly by, or shared by Summit Media with, the third party, as well as with any participating sponsor or advertisers of such opportunities and features. Some of the Summit Sites may offer you the ability to access a third-party site with whom we have a relationship to access both sites through a co-branded registration process; in that event, your applicable registration information may be collected directly by, or shared by Summit Media with, the third party partner. These third parties will use your information in accordance with their own privacy policy. 
+  4. **Delivery of Advertising and Other Content.** In addition to ads and content that we serve you directly, we use third party advertising companies and marketing services companies to serve ads and other content when you visit a Summit Site. Both we and these companies may use information about your visits to this site and elsewhere to serve ads and other content to you. In the course of doing so, a unique third-party Cookie may be placed or recognized on your browser by such companies.
 
-  * Links to Partner and Advertiser Sites
 
-  * Information collected by PEP through IP address and cookies
 
-  * Information Collected by Third Party Advertising Services
+**Right to Opt-out**
 
-  * Information Sharing Policy
+  1. **Email Policy.** We and our affiliates and partners fully comply with national laws regarding SPAM. If you wish to opt out our email services, you may do so by following the unsubscribe instructions in the email you received. We agree that we will not sell, rent, or trade your email address to any unaffiliated third-party partners without your permission. 
+  2. **User Registration.** You may elect to change the details of your user registration at any time by logging in and editing your User Profile. If you wish to cancel or delete your User Registration, you may contact us at feedback@summitmedia.com.ph. Please take note that when we delete any information, it will be deleted from the active database, but may retain in our archives. We may retain your information for fraud or similar purposes. 
+  3. **Exceptions.** If you have opted-out as described above, and thereafter you elect to use a service or promotion that requires us to contact you or share your information with a third party (e.g., you enter a promo or a contest), then your previous opt-out preferences will not apply to such service. Despite your indicated preferences, we may send you service related communications, including notices about your subscription, and we may continue disclosing your information to third parties under the Service Provide Exception, Legal Exception, and Acquisition Exception described above. 
 
-  * PEP Opt-in/Opt-out Policy
 
-  * Change/Modify/Archived Information
 
-  * How We Protect and Secure Your Information
+**Security of your Personally Identifiable Information**
 
-  * Guidelines Regarding Children
+We use a variety of industry-standard security technologies and procedures to help protect your Personally Identifiable Information from unauthorized access, use, or disclosure. We also require you to enter a password to access your registration information. Please do not disclose your registration password to other people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Summit Media uses reasonable efforts to protect your Personally Identifiable Information, Summit Media cannot guarantee its absolute security. 
 
-  * Contact Information
+**Child and Parents**
 
+The Summit Sites are not designed for use by anyone under age 13(“Child“). If you‘re a Child, please seek the permission of your Parent or Guardian before using our website. If you are a Parent or Guardian and believe that your Child is using our website, please contact us at [feedback@summitmedia.com.ph](mailto:feedback@summitmedia.com.ph) to request deletion of any information provided by your Child and indicate in the subject line “Deletion Request for Minor“. We reserve the right to ask you for verification of your relationship to the Child before we honor such a request. If we discover that a Child has created an account on our website, we will immediately delete the account as soon as possible. We will not use the information for any purpose, and we will not disclose the information to third parties. However, as a Parent or Guardian of such a Child, you understand that you are legally liable for any transactions created by the Child. There are commercially available tools to help you limit your Child‘s exposure to materials online. If your Child posted comments on a Summit Site, you may also request for us to delete this comments, by providing us with the website live URL address where the content resides, a copy of the content (cut and pasted into your email), and the date of publication and, if applicable, the user name associated with it. We will act as promptly as possible to remove any information (except in certain circumstances mandated by law). Note that our deletion does not ensure complete or comprehensive removal of your content from the internet and comments that may have been posted by others about you and your Child or your posting will remain accessible online. 
 
+**Non-Philippine Residents**
 
+If you are located outside the Philippines, please note that the information you provide to us will be transferred to and processed in the Philippines, where laws regarding processing of Personally Identifiable Information may be less or more stringent than the laws in your country. By using this website, you consent to this transfer and processing. You also consent to the adjudication of any disputes arising in connection with this website in the accordance with the laws of the Philippines. 
 
-## Membership registration
+**Privacy Policy Updates**
 
-Many areas of PEP are reserved for PEP members who have registered with us; for example, chats, message boards and access to special services such as email, member pages, special offers and promos. This is necessary so that PEP can assure the quality of its forums. Registration is free.
+We reserve the right to modify this privacy policy anytime. If we make any material changes in the way we use your Personally Identifiable Information, we may notify you of the changes on our website, by email, or by any method we determine. The method we chose is our sole discretion. Any changes to this privacy policy will be effective upon Fifteen (15) days following our posting of notice of the changes on our website and will replace any prior Privacy Policies. These changes will be effective immediately for new users of our website. Continued use of our website, following notice of such changes shall indicate your acknowledgement and agreement to be bound by the terms and conditions of such changes. 
 
-The membership registration form currently requires you to choose a member name and password and provide PEP with your first and last names, email address, mailing address, zip code, country, gender, age and birthdate. The form also includes optional information that you may choose to provide to us like marital status, household income, education and employment status.
+**Questions about our Privacy Policy**
 
-The personally identifiable information you provide during membership registration will not be given to unaffiliated third parties without your consent except in the limited circumstances described in the section of this Privacy Policy entitled "Information Sharing Policy".
+If you have any concerns or questions about any aspect of this policy, please feel free to contact us at:
 
-Order forms and transactions with e-commerce partners and advertisers
+6F, 7F, & 8F Robinsons Cybergate Center Tower 3, 
 
-The information provided via order forms is generally shared with advertisers and partners on an aggregated basis. In the event that an advertiser or partner wishes to offer free samples, or provide information about products and services and to do so requires personally identifiable information, PEP will provide you with the ability to "opt-in" and will often provide you access to the Privacy Policy of the advertiser for your review via a link. For purposes of this Privacy Policy, "opt-in" is generally defined as any affirmative action by a PEP member or visitor to submit or receive information, as the case may be. When you provide personal, financial, and other personally identifiable information to one of PEP's e-commerce partners, this transaction will occur on the e-commerce partner's site, not PEP and as such the financial and personally identifiable information you provide is collected by and controlled by the Privacy Policy of that e-commerce partner. It is important therefore that you familiarize yourself with the Privacy Policy of the e-commerce site with which you transact business.
+Robinsons Pioneer Complex, Pioneer St. 
 
-## Electronic newsletters and reminders
+Mandaluyong City 1550 Philippines
 
-PEP offers free electronic newsletters on a variety of topics. If you choose to subscribe to any of these newsletters, currently the only information you will be required to provide is a valid email address. In order to receive these newsletters you must opt-in to receiving them. Generally, PEP does not share mailing lists from its electronic newsletters with third parties. However, in some situations, PEP may share its newsletter mailing lists with third parties who provide newsletter and/or reminder fulfillment services on behalf of PEP. In these instances, such third parties will be bound by the terms of this Privacy Policy. Additionally, PEP may provide third parties with a list of PEP members and visitors who have opted-in to receiving additional information from third parties.
-
-In those instances where you opt-in to subscribe to a newsletter through a third-party email service or advertiser or partner, the email address information sometimes will be located on the third party's server, in which case we generally will notify you. In those cases, any information you provide is subject to that entity's Privacy Policy, not this one. Some of our partners' and advertisers' sites require that you specifically opt-out from receiving their newsletters. As a result, to stop receiving them you will need to affirmatively opt-out from the third party newsletter.
-
-## Public forums/chat rooms/message boards/message boards/bulletin boards
-
-Throughout PEP various public forums such as chat rooms, message boards, "ask the expert" areas and various question and answer areas are available to you as a registered PEP member. Please remember that any information you disclose in these public forum areas becomes public information and is immediately accessible on PEP, so it is important for you to exercise discretion and appropriate caution when deciding to reveal personal information and/or issuing your comments, feedback, and suggestions regarding a certain story or topic, or even photos. PEP may decide to utilize the content of forums, interactions with experts, and/or chat room and message board content throughout PEP and in promotions in order to enhance PEP's editorial, advertising, promotional and similar activities. In those cases we often provide authorship credit by listing the author's member name. We therefore encourage you to use care in protecting your identity when you choose a member name and to keep your member name confidential.
-
-## Surveys and polls
-
-Our surveys ask for opinions on various issues and very often these surveys and polls are sponsored by or associated with PEP advertisers and partners. Occasionally, we may request demographic information (like address, age or gender). Most information obtained through surveys and polls is aggregated and used internally or shared with advertisers and partners only in the aggregated form. In the event personally identifiable information is requested as part of surveys or polls about any PEP member or subscriber, such personally identifiable information is never provided to unaffiliated third parties without your consent. In these instances you may expressly choose to receive information from a sponsor, in which case your information is provided to that sponsor only. Some survey answers may be added to your member portrait (so that we can better provide you with content, ads and offers that are most appropriate for you).
-
-## Contests and other promos
-
-We regularly operate contests and other promos throughout PEP. We typically ask you for your email address and mobile/phone number (to notify you if you've won, or not). We also ask for first and last names, and sometimes post office addresses in order to verify the entrant's identity. In some situations, we need additional information as part of the entry process, such as a prize selection choice. This information is shared with an unaffiliated third party:
-
-  * When you choose to receive information from a third party promo sponsor;
-
-  * When a contest or promo is hosted by PEP but administered by a sponsor, again, we will advise you of this in the contest or promo rules; or
-
-  * Most contests and other promos will also ask you to consent to the release of information contained within the entry form for tax purposes if you become a winner.
-
-
-
-
-You should carefully review the rules of each contest and promo which you enter as they may contain additional important information about PEP's or a sponsor's use of your personally identifiable information.
-
-## "Send this to a friend" and postcard service
-
-PEP offers the ability to forward an article to another person via email or to send an electronic postcard. If you use either of these services, we will use the recipient's email address in order to send the article or postcard and we will also ask for your email address. In the case of postcards, we will ask for your email address and each may be stored so that we can ensure delivery and that the recipient can retrieve the postcard. We do not use the recipient's email address for any other purpose unless such recipient gives us permission to do so.
-
-## Links to partner and advertiser sites
-
-PEP contains links to advertiser and partner websites. We cannot be responsible for the privacy practices or the content of such non-PEP websites, and we do not control the practices of any of our advertisers or partners to whom we are linked. However, we generally will advise you when you are leaving PEP through a link, and when that advertiser's or partner's Privacy Policy controls the collection and dissemination of the information you provide.
-
-In order to participate in the partner and/or advertiser supplied services and tools you may be required to provide personally identifiable information to the advertisers and partners whose tools and services you have chosen to interact with. Each advertiser and partner will request different information from you.
-
-In any instance where personally identifiable information is required to be provided to or shared with PEP advertisers and partners, PEP generally will advise you when such advertiser or partner will receive your personally identifiable information, and further advise you as to which Privacy Policy will control the collection and dissemination of personally identifiable information you provide. PEP will use commercially reasonable efforts to contractually require all such third party advertisers and partners to agree to abide by the terms of this Privacy Policy.
-
-The information you provide via links to co-branded pages, co-branded sites, third party sites or tools may be shared with advertisers and partners on an aggregated basis and in these instances your permission will not be requested since no personally identifiable information will be shared or provided to these third party sponsors or advertisers. PEP will, however, use commercially reasonable efforts to contractually require all such third party advertisers and partners to agree not to use any non-personally identifiable information about you, in conjunction with other sources of information, or otherwise, to identify you. 
-
-If you have additional questions about how one of our advertisers, partners or sponsors use information about you, we urge you to contact them directly.
-
-## Information sharing policy
-
-PEP does not sell or otherwise share personally identifiable information with unaffiliated third parties without your consent except in the following instances: (i) unless required by applicable law or pursuant to a court or similar order; (ii) as deemed necessary, in PEP's discretion, to protect the legal rights or the property of PEP, a member or third party, or to prevent personal injury; and/or (iii) in the event PEP is required to transfer personally identifiable information to a third party in the event of a sale, merger, assignment, joint venture or other transfer or disposition of a portion or all of the assets or stock of PEP or its affiliated entities (including, without limitation, in connection with any bankruptcy or similar proceedings). In addition, PEP reserves the right to allow access to its systems to third parties providing necessary technical services when such access is required in order to provide those services and to provide your personally identifiable information to third parties who provide services on behalf of PEP, provided that such third parties are bound by PEP's Privacy Policy. Please note, however, that PEP reserves the right to share any personally identifiable or other information about you which you provide to (or which is gathered by) PEP with any or all of its subsidiaries and affiliates, and will also have access to any such information which you provide to (or which is gathered by) the web sites of any of our Affiliates.
-
-## PEP opt-in/opt-out policy
-
-Upon registration or from time-to-time, you may be asked to indicate whether you are interested in receiving information from us about special offers or news about our sites and advertisers. You will also be provided with the opportunity to opt-in to receive offers directly from select companies other than PEP. If you do choose to receive these communications by means of an opt-in, we will occasionally send you an email message that matches your request(s). You may, of course, always choose not to receive any of this information from us. We currently provide the following opt-out opportunities:
-
-  * Upon registration, you can choose to receive no communications from us other than an initial member welcome message.
-
-  * At any time, you can follow a link provided in every newsletter or email message (except for e-commerce confirmation emails) to unsubscribe from that mailing list or email service.
-
-  * At any time, you can contact us by email to have your contact preference changed to "Do Not Contact Me."
-
-
-
-
-Please note that PEP reserves the right to contact you in the event of a change in the PEP Terms of Service and/or this Privacy Policy.
-
-At any time, you can opt out of having your personally identifiable information shared with our Affiliates for their direct marketing purposes.
-
-## Change/modify/archive information
-
-PEP provides you with the ability to access, correct or change certain information in your member portrait at any time, including contact information or other information you've provided to us. However, you cannot currently change your member name although you may re-register and choose a new name. Please be advised that PEP currently archives information it collects on its members and visitors.
-
-## How we protect and secure your information
-
-PEP has numerous security measures in place to protect you from the loss, misuse and alteration of the information under our control, including your credit card information if you choose to conduct an e-commerce transaction on PEP. All of your member information, as well as other sensitive areas like your free PEP email account, require use of your password. We recommend that you do not share your password with anyone.
-
-PEP uses industry-standard tools, such as firewalls, to ensure that your information is secure and confidential.
-
-## Guidelines regarding children
-
-Personal information about children is a concern for all of us. At PEP, we take the protection of children's privacy very seriously. PEP does not encourage participation or visitation by children. Visitors who are known to be under the age of 13 are prohibited from becoming a member. Anyone under the age of eighteen is discouraged from participating in any sex related chats or message boards and we ask that no one less than eighteen years of age become a community volunteer.
-
-## Third-Party Advertising Companies
-
-"We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://networkadvertising.org/managing/opt_out.asp>.
-
-To learn specifically about Google's policy, click here <http://www.google.com/privacy_ads.html>.
-
-PEP and its advertisers often user cookies to monitor user behavior and allow for better-targeted ads. To disable the use of cookies, look for the "cookie settings" option on your browser under the Tools/Options/Settings or similar menu item, and choose "disable all cookies".
+[feedback@summitmedia.com.ph](mailto:feedback@summitmedia.com.ph)
