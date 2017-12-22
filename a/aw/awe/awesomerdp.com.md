@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomerdp.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622013101id_/http%3A//www.awesomerdp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomerdp.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222153104id_/http%3A//www.awesomerdp.com/privacy.html) for the most accurate reproduction.*
 
 # Buy RDP, 10Gbps RDP, Encoding RDP, Netherlands RDP, windows rdp | AwesomeRDP
 
