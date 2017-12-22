@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mapstab.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612024858id_/http%3A//www.mapstab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapstab.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222162249id_/http%3A//www.mapstab.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy Mapstab
 
 [](https://web.archive.org/)
 
-Maps Tab
+MapsTab
 
 **Search Driving Directions & Maps Anytime right in your browser**
 
 **Last Updated August 1st, 2016**
 
-www.mapstab.com (“Website”) is a website owned and operated by Code Techno (“Company”). 
+www.mapstab.com (“Website”) is a website owned and operated by Tightrope interactive (“Company”). 
 
 The Company takes privacy matters very seriously. This document explains what type of data we are collecting and how we are using this data. This document pertains to the usage of our website.
 
@@ -50,7 +50,7 @@ We may share NPII data with third parties for the purpose of analyzing the data 
 
 ### Children’s Online Privacy
 
-We do not knowingly collect information about children under the age of 13. We encourage parents and guardians to be familiar with the web sites that their children visit the Federal Trade Commission (“FTC”) regulates the means by which web site operators collect and use personal information from children under 13, pursuant to the Children’s Online Privacy Protection Act of 1998 (the “Act”). For more information about the Act and children’s on-line privacy in general, visit the FTC’s web site at www.ftc.gov/privacy. For safety tips on privacy visitwww.OnGuardOnline.gov.
+We do not knowingly collect information about children under the age of 13. We encourage parents and guardians to be familiar with the web sites that their children visit the Federal Trade Commission (“FTC”) regulates the means by which web site operators collect and use personal information from children under 13, pursuant to the Children’s Online Privacy Protection Act of 1998 (the “Act”). For more information about the Act and children’s on-line privacy in general, visit the FTC’s web site at www.ftc.gov/privacy. For safety tips on privacy visit www.OnGuardOnline.gov.
 
 ### Policy Updates
 
@@ -60,6 +60,6 @@ We may change this privacy policy. If we change this policy we will post the cha
 
 If you feel that we have not followed our Privacy Policy, please let us know. Also, if you have any questions or concerns about our Privacy Policy, its implementation, or would like a written copy, please feel free to contact us at:
 
-Code Techno 106 E. Sixth Street, Suite 900, Austin, TX 78701
+Tightrope Interactive 588 Sutter St #551, San Francisco, CA 94102
 
-Alternatively, if you would like, contact us via e-mail at webmaster@mapstab.com 
+Alternatively, if you would like, contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
