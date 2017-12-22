@@ -1,99 +1,325 @@
-> *The following text is extracted and transformed from the solidcactus.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407190131id_/http%3A//www.solidcactus.com/privacy-policy-v050614) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidcactus.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222041214id_/https%3A//assets.web.com/legal/English/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
-# Privacy Policy v050614 - SolidCactus.com
+# PRIVACY POLICY
 
-This Privacy Policy applies to Web.com Group, Inc. (along with all subsidiaries, affiliates, successors and assigns thereof, referred to hereinafter collectively as “Web.com”, “we”, “our” and/or “us”), our websites and services. Web.com knows that you care how information about you is used and shared, and we appreciate your expectation that we will do so carefully and sensibly. By visiting this or another Web.com website displaying this Privacy Policy or a link thereto (a “Website”, or collectively the “Websites”), or by otherwise interacting with Web.com, you agree to accept the practices described in this Privacy Policy. This Privacy Policy is further subject to the Web.com Services Agreement related to the Web.com services you utilize and/or purchase. For questions on this Privacy Policy please contact our customer support via the contact information found on this Website (“Customer Support”).
+PRIVACY POLICY
+This Privacy Policy applies to Web.com Group, Inc. (along with all subsidiaries, affiliates, successors and
+assigns thereof, referred to hereinafter collectively as “Web.com”, "we", "our" and/or "us"), our websites
+and services. Web.com knows that you care how information about you is used and shared, and we
+appreciate your expectation that we will do so carefully and sensibly. By visiting this or another Web.com
+website displaying this Privacy Policy or a link thereto (a "Website", or collectively the “Websites”), or by
+otherwise interacting with Web.com, you agree to accept the practices described in this Privacy Policy.
+This Privacy Policy is further subject to the Web.com Services Agreement related to the Web.com
+services you utilize and/or purchase. For questions on this Privacy Policy please contact our customer
+support via the contact information found on this Website (“Customer Support”).
+Web.com values your privacy and is dedicated to protecting your personal information and providing you
+with notice about what personally identifiable information we collect and how it is used, what choices you
+have regarding the collection, use and distribution of that information, the security procedures we
+implement to protect that information and what access you may have to correct any inaccuracies in the
+information we have collected from you.
+What Information Is Collected
+We receive and store any information you enter on our Websites or give us in any other way, such as via
+telephone, electronic mail, online or otherwise. For example, this information may be collected when you
+register a domain name or when you contact us for customer support. Here are the types of information
+we gather:
+         Contact Information: We collect and retain personal contact information that you submit to us
+         voluntarily and this includes, but is not limited to, your name, mailing address, web address,
+         telephone number, and e-mail address. For any domain name registrars owned and/or operated
+         by Web.com, we are required by the Internet Corporation for Assigned Names and Numbers
+         ("ICANN"), the organization which assumes responsibility for domain name allocation, to collect
+         certain information about you during the domain name registration process and to maintain a
+         copy of such information with a third party escrow service. This information may include your full
+         name, mailing address, phone number, email address, and, where provided, your fax number.
+         Such contact information may be used, for example, to communicate with you when necessary
+         with respect to transactions. Additionally, we may collect contact information provided to us
+         during any correspondence relating to customer support, as well as in connection with products
+         and services offered on our Websites.
+         Financial Information: We collect and retain certain financial information from when you order our
+         products and services. For example, when you apply to register a domain name or sign up for
+         any other product or service through Web.com, we require you to provide a credit card number
+         and billing address before we will process that application. We will not sell, share or rent any
+         financial information collected from you except as disclosed in this Privacy Policy or as necessary
+         to fulfill any order for our products or services.
+         Demographic Information: We may collect and store anonymous demographic information (such
+         as your zip code, gender and age), and use this data to tailor your experience on our Websites,
+         provide content that we think you might be interested in, perform general improvements to the
+         Websites, and display the content according to your preferences. Such demographic information
+         may be shared with partners, market researchers and other third parties on an aggregate, non-
+         personally identifiable basis. No personally identifiable information will be linked to such
+         aggregated demographic information that is shared with third parties.
+         Other Information: We collect and store certain types of information whenever you interact with
+         us. For example, our servers track the type of web browser you are using and the page from
+         which you link. Additionally, we log IP addresses (a unique number assigned to every computer
 
-Web.com values your privacy and is dedicated to protecting your personal information and providing you with notice about what personally identifiable information we collect and how it is used, what choices you have regarding the collection, use and distribution of that information, the security procedures we implement to protect that information and what access you may have to correct any inaccuracies in the information we have collected from you.
 
-**What Information is Collected**
+on the Internet) in order to improve security, analyze trends and administer the Websites. We
+may track your movement within the Websites, the third-party website pages from which you
+were referred, access times and browser types. We use this information to gauge the
+effectiveness of our Websites, track information for statistical purposes and to improve the
+products and services we provide. We collect this information to better develop a sense of what
+services our customers need and identify areas of improvement to the Websites. We may use
+such information for marketing purposes, and to send information to you that we believe might be
+of interest. In addition, such information may be shared with partners, market researchers and
+other third parties on an aggregate, non-personally identifiable basis. No personally identifiable
+information will be linked to such aggregated information shared with third parties.
+We may supplement the information you provide us by acquiring publicly or commercially
+available information as available in the public domain or from third parties, for instance, to verify
+your address or to update your information and to create a profile of your preferences. We tie
+your personally identifiable information to information in the profile, in order to improve the
+content of the Websites for you or to inform you about products or services that we think will be of
+interest to you. In addition, we may obtain non-sensitive contact information from third parties,
+including via bulk access licenses from other registrars. From time to time, we may also ask you
+to participate in surveys or other communications conducted by us or third parties designed to
+help us improve the Websites or the products or services we provide.
+Cookies: The Websites may use "cookie" technology for such purposes as enhancing your online
+experience by making it easier for you to navigate through the Websites and making certain
+features work better. Cookies are text files which are commonly deposited by websites on a
+user's hard drive when the user visits a website. The file identifies a user's computer and can
+record the user's preferences and other data about the user's website visit. We do not extract
+information about individual users during this process. Your web browser may enable you to
+disable cookies, but please note that certain services may not function correctly without it and
+your experience on our Websites may be hindered.
+Third Party Cookies: We may use third-party advertising companies to serve ads on our behalf
+across the Internet. These companies may collect and use information about your visits to this
+and other websites and your interaction with our products and services in order to provide
+advertisements about goods and services of interest to you. However, no personally identifiable
+information (such as your name, address, email address or telephone number) will be connected
+with such information. They may use information about your visits to this and other websites to
+target advertisements for goods and services and may be used to keep track of user response to
+each advertisement. These targeted advertisements may appear on our Websites or on other
+sites that you visit. The anonymous information is collected through the use of a pixel tag or
+cookies, which are industry standard technologies used by most major websites. If you do not
+want such companies to collect this information you may opt-out.
+To learn more about the use of this information or choose not to have this information used by
+certain third-party advertising partners, please visit the Network Advertising Initiative at
+http://www.networkadvertising.org/choices or go to http://www.adobe.com/privacy.html. Please
+note that if you delete your cookies, use a different browser, or buy a new computer, you will
+need to renew your opt-out choice.
+Web Beacons: The Websites may contain electronic images (called a "single-pixel GIF" or a "web
+beacon") that allow a website to track the effectiveness of marketing campaigns. No personally
+identifiable information will be transmitted via web beacons.
+Telephone Recording and Monitoring: To ensure Web.com customers receive quality service,
+Web.com selects phone calls for recording and/or monitoring. These calls, between Web.com
+customers (or potential customers) and employees, are evaluated by supervisors and/or other
+Web.com representatives. This is to guarantee that prompt, consistent assistance and accurate
 
-We receive and store any information you enter on our Websites or give us in any other way, such as via telephone, electronic mail, online or otherwise. For example, this information may be collected when you register a domain name or when you contact us for customer support. Here are the types of information we gather:
 
-: We collect and retain personal contact information that you submit to us voluntarily and this includes, but is not limited to, your name, mailing address, web address, telephone number, and e-mail address. For any domain name registrars owned and/or operated by Web.com, we are required by the Internet Corporation for Assigned Names and Numbers (“ICANN”), the organization which assumes responsibility for domain name allocation, to collect certain information about you during the domain name registration process and to maintain a copy of such information with a third party escrow service. This information may include your full name, mailing address, phone number, email address, and, where provided, your fax number. Such contact information may be used, for example, to communicate with you when necessary with respect to transactions. Additionally, we may collect contact information provided to us during any correspondence relating to customer support, as well as in connection with products and services offered on our Websites.
+      information is delivered in a professional manner. In contacting Web.com, creating an account
+      with Web.com, or by otherwise utilizing any Web.com products or services, you hereby consent
+      to any such call recording and/or monitoring.
+How Personal Information Is Used
+      Our Use: We receive and store any personal information you enter on our Websites or give to us
+      voluntarily in any other way and may use it to contact you from time to time. We take steps
+      designed to ensure that only the employees who need access to your personal information to
+      fulfill their employment duties will have access to it. By registering on a Website and providing
+      your telephone number, you agree that this action constitutes a purchase, inquiry and/or
+      application for purposes of telemarketing laws. Regardless of the fact that your telephone and/or
+      cell number may be listed with the Federal Do-Not-Call Registry or your local State Do-Not-Call
+      list, you are providing your express written consent to receive future information (including
+      telemarketing) about products and services from us and/or our affiliates, and you hereby agree
+      and consent to our contacting you using the information you have provided and will provide to us.
+      This means we may contact you by e-mail, phone and/or cell number (including use of
+      automated dialing equipment and/or pre-recorded calls), text (SMS) message, social networks or
+      any other means of communication that your wireless or other telecommunications device may
+      be capable of receiving (i.e. video, etc.). We may also send you information or offers from time to
+      time to the postal address or email address we have on file (as further outlined in this Privacy
+      Policy). If you provide your name for a promotional offer or to enter a sweepstakes or contest and
+      you win a prize, we may post a winner's list online where your name and city may be listed and
+      will file your name with state agencies if required by law. You further acknowledge that you are
+      not required to agree directly or indirectly or enter into an agreement regarding our telemarketing
+      efforts as a condition of purchasing any goods or services from us or our affiliates.
+      Electronic Mail: From time to time, Web.com may use your personal information to contact you by
+      electronic mail concerning our services. These communications are often intended to inform you
+      of important information regarding your account, or about general services provided by Web.com
+      and/or its affiliates. If you do not want to receive email from us or our affiliates regarding new
+      services, please click the "unsubscribe" link which is included at the bottom of any email you
+      receive from us. However, in order to fulfill our service obligations to you, we will continue to send
+      you emails regarding your account administration, as well as any necessary information, such as
+      renewal notices and instructions. By providing us with your email address you consent to
+      receiving communications from us electronically and all notices, disclosures and other
+      communications that we provide to you electronically satisfy any legal requirement that such
+      communications be in writing.
+      WHOIS Information: For any domain name registrars owned and/or operated by Web.com,
+      ICANN requires us to make certain information, collected in connection with the registration of a
+      domain name, available to the public via an interactive web page and a "port 43" WHOIS service.
+      This public information includes your full name, mailing address, phone number, email address,
+      and, where provided, your fax number, as well as the creation and expiration dates of your
+      domain name registration and the nameserver information associated with your domain name,
+      but does not include demographic, financial or Internet usage information. For the purposes of
+      this Privacy Policy we will refer to this information collectively as your "WHOIS Information."
+      Please note that we do not control how members of the public may use the WHOIS Information.
+      Third Parties: From time to time we may share personally identifiable information with third parties
+      in order to have them send you special offers and promotions or other information we think you
+      might find of interest. We ourselves will also occasionally send you information on products,
+      services, special deals, promotions, or information which we have found that may be of interest to
+      our users and subscribers. If you do not want us to use the information you provide in order to
+      inform you of products and services we think might interest you, or provide your information to
+      third party companies, it is your obligation to please let us know by contacting Customer Support.
 
-Financial Information: We collect and retain certain financial information from when you order our products and services. For example, when you apply to register a domain name or sign up for any other product or service through Web.com, we require you to provide a credit card number and billing address before we will process that application. We will not sell, share or rent any financial information collected from you except as disclosed in this Privacy Policy or as necessary to fulfill any order for our products or services.
 
-Demographic Information: We may collect and store anonymous demographic information (such as your zip code, gender and age), and use this data to tailor your experience on our Websites, provide content that we think you might be interested in, perform general improvements to the Websites, and display the content according to your preferences. Such demographic information may be shared with partners, market researchers and other third parties on an aggregate, non-personally identifiable basis. No personally identifiable information will be linked to such aggregated demographic information that is shared with third parties.
+        Agents and Service Providers: We engage other companies, individuals, and affiliates of
+        Web.com to perform certain functions and/or services to our customers. Examples may include
+        processing credit card payments, providing marketing assistance and removing repetitive
+        information from customer lists, as well as offering electronic mail services and making available
+        digital certificates. Additionally, if you register a domain name through a registrar owned and/or
+        operated by Web.com, we may forward certain information you provide to the appropriate registry
+        handling the administration of your chosen domain name. Your contact and financial information
+        may either be collected by or shared with such third parties as necessary, and in some cases,
+        your information may be retained or used by such third parties.
+        We contract with service providers to provide us with a data collection and reporting services.
+        When you visit our Websites, those service providers may collect information on our behalf about
+        you in order provide us with aggregated data about our customers to assist us in conducting our
+        business and delivering the more relevant products and services to our customers. If you would
+        like to opt-out of the gathering of such information, you can disable your cookies that assist in the
+        gathering of that data, but please note that certain services and functions of our Websites may
+        not function correctly without cookies.
+        Service Related Uses: We may use your personal information to contact you about the goods or
+        services you have purchased from us, or for other purposes in which you have expressed an
+        interest, for example, if you have contacted customer service or made an inquiry. We will also
+        provide you with service and account related announcements. For instance, if the delivery of a
+        service or product is delayed we might send you an email, or other message, or if there is some
+        service issue with something you might have ordered. Generally, you may not opt-out of these
+        communications, which are not promotional in nature. If you do not wish to receive them, you
+        have the option to cancel your services with us.
+        Partner Websites and Pages: Web.com sometimes enters into agreements in which we jointly
+        develop or operate websites with third parties (each a "Partner Site"). Any information collected
+        via a Partner Site may be jointly owned by Web.com and the applicable third party partner, or,
+        alternatively, owned solely by us or the third party partner. It is your responsibility to check the
+        privacy policy of such third parties before submitting any personal information to a Partner Site.
+        Business Transfers: As Web.com continues to develop its business, it might sell or transfer all or
+        some of its business or assets, or create a separate business, and customer information
+        generally would be transferred as one of the business assets of the company or be shared or
+        transferred in the event of an insolvency, bankruptcy, receivership, or pledging of assets. Also,
+        information about our users, including customer information, may also need to be disclosed in
+        connection with a commercial transaction seeking financing, investment, support or funding.
+        Protection of Web.com and Others: We may release account and other personal information
+        when we are required to do so by law, court order, subpoena or other government or law
+        enforcement authority or regulatory agency, including ICANN, in order to enforce or apply our
+        Services Agreement or other agreements, or when we believe in good faith that disclosing this
+        information is necessary or advisable, including for example, to protect the rights, property, or
+        safety of Web.com, our users, or others. This includes exchanging information with other
+        companies and organizations for fraud protection, credit risk reduction or other similar purposes.
+Sites Other Than Web.com
+Web.com has no control over and is not responsible for the privacy policies or information gathering
+practices of other websites, including those to which we may link and those which may link to us. We
+strongly recommend that you review the privacy policies of every online service you use before submitting
+any personal information and direct any concerns to the site administrator of that website.
 
-Other Information: We collect and store certain types of information whenever you interact with us. For example, our servers track the type of web browser you are using and the page from which you link. Additionally, we log IP addresses (a unique number assigned to every computer on the Internet) in order to improve security, analyze trends and administer the Websites. We may track your movement within the Websites, the third-party website pages from which you were referred, access times and browser types. We use this information to gauge the effectiveness of our Websites, track information for statistical purposes and to improve the products and services we provide. We collect this information to better develop a sense of what services our customers need and identify areas of improvement to the Websites. We may use such information for marketing purposes, and to send information to you that we believe might be of interest. In addition, such information may be shared with partners, market researchers and other third parties on an aggregate, non-personally identifiable basis. No personally identifiable information will be linked to such aggregated information shared with third parties.
 
-We may supplement the information you provide us by acquiring publicly or commercially available information as available in the public domain or from third parties, for instance, to verify your address or to update your information and to create a profile of your preferences. We tie your personally identifiable information to information in the profile, in order toimprove the content of the Websites for you or to inform you about products or services that we think will be of interest to you. In addition, we may obtain non-sensitive contact information from third parties, including via bulk access licenses from other registrars. From time to time, we may also ask you to participate in surveys or other communications conducted by us or third parties designed to help us improve the Websites or the products or services we provide.
+Limitation Of Liability
+WEB.COM ASSUMES NO RESPONSIBILITY OR LIABILITY WITH REGARD TO ANY THEFT, LOSS,
+ALTERATION OR MISUSE OF PERSONAL OR OTHER INFORMATION LAWFULLY PROVIDED BY
+WEB.COM TO THIRD PARTIES, OR WITH REGARD TO THE FAILURE OF ANY THIRD PARTY TO
+ABIDE BY THIS PRIVACY POLICY OR SUCH THIRD PARTY'S PRIVACY POLICY OR ANY
+AGREEMENT BETWEEN THAT THIRD PARTY AND WEB.COM.
+EU-U.S. and Swiss-U.S. Privacy Shield
+Web.com and certain of its subsidiaries (namely, Franchise Website Solutions, LP, Monster Commerce,
+LLC, NameSecure, LLC, Network Solutions, LLC, Register.com, Inc., RPI, Inc., SnapNames Web.com,
+LLC, Web.com Holding Company, Inc., Yodle Web.com, Inc.) participate in and comply with the EU-U.S.
+Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework, as set forth by the U.S.
+Department of Commerce with respect to the collection, use and retention of personal information that is
+transferred from European Union (EU) member countries and Switzerland to the United States (collectively,
+the “Framework”). We have certified our participation in the Privacy Shield to the Department of
+Commerce. To learn more about the Privacy Shield program and to view our certification, please visit
+https://www.privacyshield.gov/. This Notice only applies to personal information within the scope of the
+Web.com Privacy Shield certification.
+Web.com recognizes that the EU and Switzerland have established certain protections regarding the
+handling of EU Personal Data and Swiss Personal Data, including requirements to provide adequate
+protection for EU Personal Data and Swiss Personal Data transferred outside of the EU and/or Switzerland.
+To provide adequate protection for certain EU Personal Data and Swiss Personal Data about corporate
+customers, clients, suppliers, and business partners received in the U.S., Web.com has elected to self-
+certify to the Framework administered by the U.S. Department of Commerce (“Privacy Shield”). Web.com
+adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security,
+Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. Web.com is
+responsible for the processing of personal data it receives, under the Privacy Shield Framework, and for
+any subsequent transfers to a third party acting as an agent on its behalf. Web.com complies with the
+Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including
+the onward transfer liability provisions.
+For purposes of enforcing compliance with the Privacy Shield, Web.com is subject to the investigatory and
+enforcement powers of the United States Federal Trade Commission with regard to our compliance with the
+Privacy Shield. Web.com may be required to disclose personal information to law enforcement, regulatory
+or other government agencies, or to other third parties, in each case to comply with legal, regulatory, or
+national security obligations or requests.
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Web.com commits to resolve
+complaints about your privacy and our collection or use of your personal information. European Union or
+Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Web.com by
+email at privacyshield@web.com. We will investigate and attempt to resolve any complaints or disputes
+regarding the use or disclosure of your EU personal information or Swiss personal information within 45
+days of receiving your complaint.
+Web.com’s independent recourse mechanism for Privacy Shield complaints for use by EU and Swiss
+individuals is JAMS. If you are unsatisfied with the resolution of your complaint, you may contact JAMS
+at https://www.jamsadr.com/eu-us-privacy-shield for further information and assistance.
+You may have the option to select binding arbitration for the resolution of your complaint under certain
+circumstances, provided you have taken the following steps: (1) raised your complaint directly with
+Web.com and provided us the opportunity to resolve the issue; (2) made use of the independent dispute
+resolution mechanism identified above; and (3) raised the issue through the relevant data protection
+authority and allowed the US Department of Commerce an opportunity to resolve the complaint at no cost
+to you. For more information on binding arbitration, see US Department of Commerce’s Privacy Shield
+Framework: Annex I (Binding Arbitration).
 
-Cookies: The Websites may use “cookie” technology for such purposes as enhancing your online experience by making it easier for you to navigate through the Websites and making certain features work better. Cookies are text files which are commonly deposited by websites on a user’s hard drive when the user visits a website. The file identifies a user’s computer and can record the user’s preferences and other data about the user’s website visit. We do not extract information about individual users during this process. Your web browser may enable you to disable cookies, but please note that certain services may not function correctly without it and your experience on our Websites may be hindered.
 
-Third Party Cookies: We may use third-party advertising companies to serve ads on our behalf across the Internet. These companies may collect and use information about your visits to this and other websites and your interaction with our products and services in order to provide advertisements about goods and services of interest to you. However, no personally identifiable information (such as your name, address, email address or telephone number) will be connected with such information. They may use information about your visits to this and other websites to target advertisements for goods and services and may be used to keep track of user response to each advertisement. These targeted advertisements may appear on our Websites or on other sites that you visit. The anonymous information is collected through the use of a pixel tag or cookies, which are industry standard technologies used by most major websites. If you do not want such companies to collect this information you may opt-out. 
+If you have any questions about this Policy or would like to request access to your EU Personal Data
+and Swiss Personal Data, please contact us as follows: privacyshield@web.com or by mail at
+Web.com Group, Inc., Attn: Privacy Officer, 12808 Gran Bay Parkway West, Jacksonville, FL 32258.
+Choice And Opt-Out
+You may opt-out of marketing communications from us by contacting Customer Support or opting
+out from the opt-out link in any marketing email we send to you.
+Procedures Used To Protect Personal Information
+We work to protect the security of your financial information during transmission by using Secure
+Sockets Layer ("SSL") software, which encrypts the information you input on the Website. Keep in
+mind however, that no method of transmission over the Internet or method of electronic storage that is
+100% secure.
+Therefore, while we strive to use commercially acceptable means to protect your personal information
+we cannot guarantee its absolute security. You can further help to ensure your security by taking a few
+simple precautions. For instance, it is important to protect against unauthorized access to your
+computer and to any Web.com username and password, and to be sure to sign off when you are
+finished using a shared computer.
+Your personal information may be stored and processed in any country where we have facilities or in
+which we engage service providers, which may include the United States of America, the United
+Kingdom, Argentina, and Colombia , which may have different data protection rules than in your
+country. While such information is outside of your country of residence, it is subject to the laws of the
+country in which it is held, and may be subject to disclosure to the governments, courts or law
+enforcement or regulatory agencies of such other country, pursuant to the laws of such country.
+Access To Personal Information
+Web.com gives you the ability to access the information you have provided for the limited purpose
+of viewing and, in certain cases, updating that information. To ensure that the personal information
+we maintain about you is accurate and up to date, please inform us immediately by contacting
+Customer Support or logging in to your online account manager to make any change in your
+personal information. We may retain your information in our files after you terminate all your
+services with us to resolve disputes, enforce our relevant Service Agreement, and to adhere to the
+technical and legal requirements and constraints related to the security, integrity and operation of
+the Websites. Web.com will maintain your personal information for as long as needed, or as
+required by applicable laws, regulations, or government orders. Past customers may request this
+information by emailing or calling Customer Support. Please note, however, that no financial
+information will be provided over the phone, and in no event will such information be provided
+without verification.
+Children
+You must be at least eighteen (18) years old to register online or purchase our goods or services.
+Web.com does not knowingly collect information from children under the age of eighteen (18).
+Disputes
+By choosing to visit the Websites and/or utilize any Web.com services, you agree that any dispute you
+may have regarding this Privacy Policy the use of your information by Web.com shall be governed by
+the laws of the United States of America and the State of Florida, without regard to conflict of laws
+principles, as if the Agreement was a contract wholly entered into and wholly performed within Duval
+County in the state of Florida. You further agree that any judicial proceeding relating to or arising out
+of this Privacy Policy or the use of your information by Web.com shall be instituted only in a federal or
+state court of competent jurisdiction in Duval County in the State of Florida. You consent to the
+personal jurisdiction of such court and waive the right to challenge the jurisdiction of such court on
+grounds of lack of personal jurisdiction or forum non conveniens, or to otherwise seek a change of
+venue. Please note that if you enter into other agreements with Web.com, such other agreements may
+supersede this Privacy Policy. If you have any concerns about your privacy at Web.com, please
 
-To learn more about the use of this information or choose not to have this information used by certain third-party advertising partners, please visit the Network Advertising Initiative at <http://www.networkadvertising.org/choices> or go to <http://www.adobe.com/privacy.html>. Please note that if you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.
 
-Web Beacons: The Websites may contain electronic images (called a “single-pixel GIF” or a “web beacon”) that allow a website to track the effectiveness of marketing campaigns. No personally identifiable information will be transmitted via web beacons.
-
-Telephone Recording and Monitoring:  To ensure Web.com customers receive quality service, Web.com selects phone calls for recording and/or monitoring. These calls, between Web.com customers (or potential customers) and employees, are evaluated by supervisors and/or other Web.com representatives. This is to guarantee that prompt, consistent assistance and accurate information is delivered in a professional manner. In contacting Web.com, creating an account with Web.com, or by otherwise utilizing any Web.com products or services, you hereby consent to any such call recording and/or monitoring.
-
-**How Personal Information Is Used**
-
-Our Use: We receive and store any personal information you enter on our Websites or give to us voluntarily in any other way and may use it to contact you from time to time. By registering on a Website and providing your telephone number, you agree that this action constitutes a purchase, inquiry and/or application for purposes of telemarketing laws. Regardless of the fact that your telephone and/or cell number may be listed with the Federal Do-Not-Call Registry or your local State Do-Not-Call list, you are providing your express written consent to receive future information (including telemarketing) about products and services from us and/or our affiliates, and you hereby agree and consent to our contacting you using the information you have provided and will provide to us. This means we may contact you by e-mail, phone and/or cell number (including use of automated dialing equipment and/or pre-recorded calls), text (SMS) message, social networks or any other means of communication that your wireless or other telecommunications device may be capable of receiving (i.e. video, etc.). We may also send you information or offers from time to time to the postal address or email address we have on file (as further outlined in this Privacy Policy). If you provide your name for a promotional offer or to enter a sweepstakes or contest and you win a prize, we may post a winner’s list online where your name and city may be listed and will file your name with state agencies if required by law. You further acknowledge that you are not required to agree directly or indirectly or enter into an agreement regarding our telemarketing efforts as a condition of purchasing any goods or services from us or our affiliates.
-
-Electronic Mail: From time to time, Web.com may use your personal information to contact you by electronic mail concerning our services. These communications are often intended to inform you of important information regarding your account, or about general services provided by Web.com and/or its affiliates. If you do not want to receive email from us or our affiliates regarding new services, please click the “unsubscribe” link which is included at the bottom of any email you receive from us. However, in order to fulfill our service obligations to you, we will continue to send you emails regarding your account administration, as well as any necessary information, such as renewal notices and instructions. By providing us with your email address you consent to receiving communications from us electronically and all notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
-
-WHOIS Information: For any domain name registrars owned and/or operated by Web.com, ICANN requires us to make certain information, collected in connection with the registrationof a domain name, available to the public via an interactive web page and a “port 43” WHOIS service. This public information includes your full name, mailing address, phone number, email address, and, where provided, your fax number, as well as the creation and expiration dates of your domain name registration and the nameserver information associated with your domain name, but does not include demographic, financial or Internet usage information. For the purposes of this Privacy Policy we will refer to this information collectively as your “WHOIS Information.” Please note that we do not control how members of the public may use the WHOIS Information.
-
-Third Parties: From time to time we may share personally identifiable information with third parties in order to have them send you special offers and promotions or other information we think you might find of interest. We ourselves will also occasionally send you information on products, services, special deals, promotions, or information which we have found that may be of interest to our users and subscribers. If you do not want us to use the information you provide in order to inform you of products and services we think might interest you, or provide your information to third party companies, it is your obligation to please let us know by contacting Customer Support.
-
-Agents and Service Providers: We engage other companies, individuals, and affiliates of Web.com to perform certain functions and/or services to our customers. Examples may include processing credit card payments, providing marketing assistance and removing repetitive information from customer lists, as well as offering electronic mail services and making available digital certificates. Additionally, if you register a domain name through a registrar owned and/or operated by Web.com, we may forward certain information you provide to the appropriate registry handling the administration of your chosen domain name. Your contact and financial information may either be collected by or shared with such third parties as necessary, and in some cases, your information may be retained or used by such third parties.
-
-We contract with service providers to provide us with a data collection and reporting services. When you visit our Websites, those service providers may collect information on our behalf about you in order provide us with aggregated data about our customers to assist us in conducting our business and delivering the more relevant products and services to our customers. If you would like to opt-out of the gathering of such information, you can disable your cookies that assist in the gathering of that data, but please note that certain services and functions of our Websites may not function correctly without cookies.
-
-Service Related Uses: We may use your personal information to contact you about the goods or services you have purchased from us, or for other purposes in which you have expressed an interest,for example, if you have contacted customer service or made an inquiry. We will also provide you with service and account related announcements. For instance, if the delivery of a service or product is delayed we might send you an email, or other message, or if there is some service issue with something you might have ordered. Generally, you may not opt-out of these communications, which are not promotional in nature.If you do not wish to receive them, you have the option to cancel your services with us.
-
-Partner Websites and Pages: Web.com sometimes enters into agreements in which we jointly develop or operate websites with third parties (each a “Partner Site”). Any information collected via a Partner Site may be jointly owned by Web.com and the applicable third party partner, or, alternatively, owned solely by us or the third party partner. It is your responsibility to check the privacy policy of such third parties before submitting any personal information to a Partner Site.
-
-Business Transfers: As Web.com continues to develop its business, it might sell or transfer all or some of its business or assets, or create a separate business, and customer information generally would be transferred as one of the business assets of the company or be shared or transferred in the event of an insolvency, bankruptcy, receivership, or pledging of assets. Also, information about our users, including customer information, may also need to be disclosed in connection with a commercial transaction seeking financing, investment, support or funding.
-
-Protection of Web.com and Others: We may release account and other personal information when we are required to do so by law, court order, subpoena or other government or law enforcement authority or regulatory agency, including ICANN, in order to enforce or apply our Services Agreement or other agreements, or when we believe in good faith that disclosing this information is necessary or advisable, including for example, to protect the rights, property, or safety of Web.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection, credit risk reduction or other similar purposes.
-
-**Sites Other Than Web.com**
-
-Web.com has no control over and is not responsible for the privacy policies or information gathering practices of other websites, including those to which we may link and those which may link to us. We strongly recommend that you review the privacy policies of every online service you use before submitting any personal information and direct any concerns to the site administrator of that website.
-
-**Limitation Of Liability**
-
-WEB.COM ASSUMES NO RESPONSIBILITY OR LIABILITY WITH REGARD TO ANY THEFT, LOSS, ALTERATION OR MISUSE OF PERSONAL OR OTHER INFORMATION LAWFULLY PROVIDED BY WEB.COM TO THIRD PARTIES, OR WITH REGARD TO THE FAILURE OF ANY THIRD PARTY TO ABIDE BY THIS PRIVACY POLICY OR SUCH THIRD PARTY’S PRIVACY POLICY OR ANY AGREEMENT BETWEEN THAT THIRD PARTY AND WEB.COM.
-
-**Safe Harbor**
-
-The Websites comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Web.com has certified that in conjunction with those Websites it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Web.com’s certifications, please visit <http://www.export.gov/safeharbor>.
-
-We have further committed to participate in the dispute resolution procedures of the panel established by the EU data protection authorities (DPAs) to resolve disputes pursuant to the Safe Harbor Privacy Principles, as well as to cooperate and comply with the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland.  If your inquiry has not been satisfactorily addressed and you are located in the EU, you may contact the EU DPAs panel [ec-dppanel-secr@ec.europa.eu](mailto:ec-dppanel-secr@ec.europa.eu) or individual EU DPAs directly using the information provided at <http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm>. If your inquiry has not been satisfactorily addressed and you are in Switzerland, you may contact the Swiss FDPIC using the information provided at <http://www.edoeb.admin.ch/kontakt/index.html?lang=en>.
-
-**Choice And Opt-Out**
-
-You may opt-out of marketing communications from us by contacting Customer Support or opting out from the opt-out link in any marketing email we send to you.
-
-**Procedures Used To Protect Personal Information**
-
-We work to protect the security of your financial information during transmission by using Secure Sockets Layer (“SSL”) software, which encrypts the information you input on the Website. Keep in mind however, that no method of transmission over the Internet or method of electronic storage that is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information we cannot guarantee its absolute security. You can further help to ensure your security by taking a few simple precautions. For instance, it is important to protect against unauthorized access to your computer and to any Web.com username and password, and to be sure to sign off when you are finished using a shared computer.
-
-**Access To Personal Information**
-
-Web.com gives you the ability to access the information you have provided for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, Web.com customers may contact Customer Support or log in to your online account manager, if applicable. We may retain your information in our files after you terminate all your services with us to resolve disputes, enforce our relevant Service Agreement, and to adhere to the technical and legal requirements and constraints related to the security, integrity and operation of the Websites. Past customers may request this information by emailing or calling Customer Support. Please note, however, that no financial information will be provided over the phone, and in no event will such information be provided without verification.
-
-**Children**
-
-You must be at least eighteen (18) years old to register online or purchase our goods or services. Web.com does not knowingly collect information from children under the age of eighteen (18).
-
-**Disputes**
-
-By choosing to visit the Websites and/or utilize any Web.com services, you agree that any dispute you may have regarding this Privacy Policy the use of your information by Web.com shall be governed by the laws of the United States of America and the State of Florida, without regard to conflict of laws principles, as if the Agreement was a contract wholly entered into and wholly performed within Duval County in the state of Florida. You further agree that any judicial proceeding relating to or arising out of this Privacy Policy or the use of your information by Web.com shall be instituted only in a federal or state court of competent jurisdiction in Duval County in the State of Florida. You consent to the personal jurisdiction of such court and waive the right to challenge the jurisdiction of such court on grounds of lack of personal jurisdiction or forum non conveniens, or to otherwise seek a change of venue.  Please note that if you enter into other agreements with Web.com, such other agreements may supersede this Privacy Policy. If you have any concerns about your privacy at Web.com, please contact customer support, and we will attempt to resolve it.
-
-**Effective Date**
-
-The Effective Date of this Privacy Policy is set forth below. Due to the constantly changing nature of our business, we reserve the right to change, update or modify this Privacy Policy at any time at our sole discretion, and will post any new Privacy Policy here. Any such change, update or modification will be effective immediately upon posting on our Website. You are responsible for checking our Websitesfrequently to keep apprised of recent changes. By going to our Websites or utilizing our services after the Effective Date you are deemed to have consented to our then-current Privacy Policy and will be boundby its terms.
-
-**How to Contact Us**
-
+contact customer support, and we will attempt to resolve it.
+Effective Date
+The Effective Date of this Privacy Policy is set forth below. Due to the constantly changing nature of
+our business, we reserve the right to change, update or modify this Privacy Policy at any time at our
+sole discretion, and will post any new Privacy Policy here. Any such change, update or modification
+will be effective immediately upon posting on our Website. You are responsible for checking our
+Websites frequently to keep apprised of recent changes. By going to our Websites or utilizing our
+services after the Effective Date you are deemed to have consented to our then-current Privacy Policy
+and will be bound by its terms.
+How to Contact Us
 For questions about this Privacy Policy please contact Customer Support.
-
-© 2014, Web.com Group, Inc
-
-Effective Date: May 6, 2014
+© 2017, Web.com Group, Inc.
+Effective Date: 11/30/2017
