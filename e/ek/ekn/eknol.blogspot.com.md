@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eknol.blogspot.com privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102194316id_/http%3A//eknol.blogspot.com/2009/03/privcay-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eknol.blogspot.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222155425id_/http%3A//eknol.blogspot.com/2009/03/privcay-policy.html) for the most accurate reproduction.*
 
 # Privcay Policy | Blogging In Web 2.0 Beta
 
