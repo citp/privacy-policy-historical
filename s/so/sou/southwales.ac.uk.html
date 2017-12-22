@@ -1,18 +1,20 @@
-<!--The following is the downloaded HTML source of the southwales.ac.uk privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119033712id_/http%3A//www.southwales.ac.uk/privacy-and-cookies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the southwales.ac.uk privacy policy that was archived on 2017-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171222073758id_/http%3A//www.southwales.ac.uk/privacy-and-cookies) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <title>Privacy and cookies | University of South Wales</title>
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-	    <meta name="DC.Title" content="Privacy and cookies">
-        <meta name="DC.Description" content="">
-        <meta name="DC.Publisher" content="University of South Wales">
-        <meta name="google-site-verification" content="og3UZBOin_Rv2rXbZjDdEePF7zBjhEa8LTILBSAPe9I">
-        <meta name="msvalidate.01" content="C4BAC2A8B3D870C4771CC47F5B1F3722">
+        
+          <meta name="description" content="">
+          <meta name="keywords" content="">
+	        <meta name="DC.Title" content="Privacy and cookies">
+          <meta name="DC.Description" content="">
+          <meta name="DC.Publisher" content="University of South Wales">
+          <meta name="google-site-verification" content="og3UZBOin_Rv2rXbZjDdEePF7zBjhEa8LTILBSAPe9I">
+          <meta name="msvalidate.01" content="C4BAC2A8B3D870C4771CC47F5B1F3722">
+        
         <link rel="shortcut icon" type="image/x-icon" href="http://www.southwales.ac.uk/static/foxsite/images/favicon.ico">
 
     	
@@ -22,18 +24,15 @@
 
 
         
-        <link rel="stylesheet" href="/static/CACHE/css/daf88b69fd91.css" type="text/css">
+        <link rel="stylesheet" href="/static/CACHE/css/a3185e0ca977.css" type="text/css">
 
 
-        
-
-        
         
 
         
 
      <link rel="stylesheet" href="/static/foxsite/css/vendor/royalslider.css">
-     <link rel="stylesheet" href="/static/foxsite/css/vendor/skins/default/rs-default.css?v=1.0.4">
+     <link rel="stylesheet" href="/static/foxsite/css/vendor/skins/default/rs-default.css">
 		 <link rel="stylesheet" href="/static/foxsite/css/hybrid_slider.css">
 
 
@@ -46,11 +45,12 @@
 
 
         
-      
+
       <script src="/static/foxsite/js/vendor/jquery.royalslider.min.js "></script>
 			<script>
 					$(function() {
-					$('a[href*=#]:not([href=#])').click(function() {
+					$('a[href*=#]:not([href=#]):not(".expandable-link")').click(function() {
+
 						if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
 							var target = $(this.hash);
 							target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
@@ -70,29 +70,29 @@
 			$('.rm-targ').each(function(i, obj) {
 				       var theID = $(this).attr('id').replace("-body", "");
 							 var readMore = $("#" + theID + "-rm a");
-            
+
 				       $(this).on('hidden.bs.collapse', function () {
-							     readMore.html('<i class="fa fa-angle-down fa-lg"></i> Read More'); 
+							     readMore.html('<i class="fa fa-angle-down fa-lg"></i> Read More');
 						   });
 
 						   $(this).on('show.bs.collapse', function () {
                    readMore.html('<i class="fa fa-angle-up fa-lg"></i> Hide Text');
 						   });
-						
-			      
+
+
 			});
 
 		});
-		
+
 		function init_all_maps(){
-    
+
     $(".gmap").each(function(){
         id = this.id;
         func_name = "initialize_" + id.replace(/[^\w\s]/gi, '');
         window[func_name]();
     });
     }
-    
+
 		</script>
 
 
@@ -123,7 +123,7 @@
     
 
     
-    <div class="branding">
+    <div class="branding fluid">
 
         
           
@@ -139,7 +139,7 @@
   <img src="/static/foxsite/images/USW-logo.png " alt="logo" class="logo large hidden-xs" width="126">
 </a>
 
-<nav class="navbar navbar-inverse" role="navigation">
+<nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -158,7 +158,7 @@
       <i class="fa fa-search search_btn"></i>
 
 <div class="search-area">
-			<form class="navbar-form navbar-right form-inline" action="/search" method="GET" role="search">
+			<form class="navbar-form navbar-right form-inline" action="/search" method="GET">
          <input type="hidden" name="collection" value="south-wales-uni-meta">
 			    <div class="form-group">
 			      <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input required="" name="query" title="Search query" type="text" value="" accesskey="q" placeholder="Search University of South Wales…" class="form-control query searchbox ui-autocomplete-input" data-ng-disabled="isDisplayed('cart') || isDisplayed('history')" autocomplete="off">
@@ -262,17 +262,27 @@
 
          
 
+
+	
+
+
+
 	
 
 	<div class="container-article">
 
-      	<div class="container">
-					<div class="row">
-						<div class="col-md-10 col-md-offset-1">
-							<div class="heading_wrapper"><h1>Privacy and cookies</h1></div>
-						</div>
+		<!-- Don't display this if webpage-image has been picked -->
+		
+
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 col-md-offset-0">
+						<div class="heading_wrapper"><h1 class="webpage-title">Privacy and cookies</h1></div>
 					</div>
 				</div>
+			</div>
+
+	    
 
 
 
@@ -283,34 +293,35 @@
 
          
 
-					
+		
 
-							
-							
+		<div class="overlay-content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+							<div class="row">
+								<div class="col-md-10">
+									<div class="rich-text">The University of South Wales (‘the University’) is committed to protecting the privacy of all users of this website. This policy applies to all University websites and how we govern and protect information that is obtained from those using this website.<br><br>By using and submitting information to this website you are consenting to the University collecting and holding information in accordance with this policy. The policy is subject to change and any future changes will be notified on this page.<br><br><h2>What information is collected?</h2>You do not have to register or provide any personal information when you visit the University of South Wales website to read or download information. Personal information will only be collected where you have knowingly provided personal details (name, address, email address, telephone number, etc.)<br><br>Certain types of information are automatically received whenever you view this website. Information that we automatically receive includes:<br><br><ul><li>&nbsp;&nbsp;&nbsp; Requested URL (Uniform Resource Locator)</li><li>&nbsp;&nbsp;&nbsp; IP (Internet Protocol) address (this may or may not identify a specific computer)</li><li>&nbsp;&nbsp;&nbsp; Domain name from which you access the internet</li><li>&nbsp;&nbsp;&nbsp; Referring URL</li><li>&nbsp;&nbsp;&nbsp; Software (browser/operating system) used to access the page</li><li>&nbsp;&nbsp;&nbsp; Date and time pages were visited</li></ul><br><h2>Use of cookies by the University of South Wales</h2>Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.<br><br>Below is a description of the types of cookies the University of South Wales uses, including cookies from third party sites that we use to provide certain functionality on our web sites.<br><h2>University of South Wales Session Cookies</h2><br>The University of South Wales uses a number of web frameworks to create and provide web sites. Most, if not all, of these frameworks provide session cookies to the users computer. These cookies enable movement throughout most of our secured sites without having to repeatedly log into different systems.<br><h3>Google Analytics</h3><br>The University of South Wales uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate your use of our web sites and compiles reports for us on activity on our web sites.<br><br>Google stores the information collected by the cookie on servers in the United States. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. By using the University of South Wales web sites, you consent to the processing of data about you by Google in the manner and for the purposes set out above.<br><br><h4><a href="http://www.google.com/intl/en/privacypolicy.html">How to reject or delete this cookie</a></h4><h4>Cookies set by Third Party sites</h4>To support the content of our web sites, we sometimes embed photos, video and textual content from websites such as YouTube and Flickr. As a result, when you visit a page with content embedded from, for example, YouTube or Flickr, you may be presented with cookies from these websites. The University of South Wales does not control the dissemination of these cookies. You should check the relevant third party website for more information about these.<br><h3>Blackboard</h3>Blackboard uses cookies for authentication/login purposes, and to tie the users requests together into a session as necessary for the web application’s functionality. They are purely functional cookies, no user identifying information is kept in our cookies at all. Thus none of that is stored on the users computer either.<br><br>It is inherent to the application that it tracks certain user activity for grading/auditing purposes. This is not done via cookies, but is tied to the authenticated user record.<br><br>User data submitted within courses is generally identifiable by user – as that is necessary for grading purposes. For some activities anonymous interaction may be possible at the discretion of the instructor.<br><br>Retention of such user-submitted data is governed by institutional policies for retention of academic records and is not controlled by Blackboard.<br><br>No user data from Blackboard Learn instances is ever centrally collected by Blackboard Inc., with the exception of centrally hosted services such as Blackboard Mobile and SafeAssign that need to store user information including contact information or a document submission history. This information is however not accessible to anyone else, and Blackboard does not share this data with third parties.<br><br>Third-party building blocks installed on the system may however link your Blackboard user account to third party servers that also hold user-identifying information. Blackboard does not control the dissemination of these cookies. You should check the relevant third party website for more information about these.<br>Learning Objects<br><br>Learning objects utilise session cookies to remember session details, as well as a cookie supplied by the internal load balancer to bind a session to a particular node. A desktop view cookie is also set, if the client is a mobile device and switches to a desktop view. Further to these, other cookies are set to track the general logged in state for the purpose of identifying session timeouts, and also to set the referrer accurately to the parent site when a client clicks on a link from within a specific blog entry or wiki page.<br><h3>eStream</h3>eStream uses cookies in order to track session information, and also to track specific user properties, such as authentication, general settings and permissions.<br><h2>How to change your cookie settings</h2>You can go to <a href="http://www.aboutcookies.org/Default.aspx?page=2">this website</a> to change your settings. Just choose the appropriate link to the browser that you use.<br><h2>How we use your information</h2>The information that you provide enables the University to analyse the information to deliver services that you have requested and so that we can manage and improve the services on the website. Using the logging data we analyse demographic and other statistical information about user behaviour to analyse the popularity and effectiveness of our site.<br><br>The University also uses services from <a href="https://support.google.com/a/answer/60762?src=top5&amp;lev=answer">Google</a> and <a href="http://en.gravatar.com/site/terms-of-service">Gravatar</a> on this website. For further information on their privacy policies please visit the Google and Gravatar websites.<br><br>The University will not (nor will it allow any third party to) use the statistical analytics tools to track or to collect personally identifiable information of visitors to this website. We will not sell, license or trade your personal information to others. We will not provide your personal information to direct marketing companies or other such organisations.<br><br>Personal information provided by you and any other information relating to you, will be held by the University and may be used for its own marketing purposes.<br><h2>Security</h2>The University employs security measures to protect your personal information from unauthorised use, access or disclosure.<br><br>We take appropriate measures to ensure that the information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.<br><h2>Disclosure of your information</h2>Authorised personnel within the University will be able to access the information that you provide us. We may also disclose your information to other third parties such as service providers, agents and associated organisations who act for us for the purposes set out within this Policy. All such third parties are prohibited from using this information except for providing these services to the University.<br><br>The information you provide will be held on our computers in the UK. It may be accessed by or given to third parties some of whom may be located outside the European Economic Area who act for us for the purposes set out in this policy. We will always take steps to ensure that your information is used by third parties in accordance with the terms of this Privacy Policy.<br><br>Except as set out in this Policy, we will not otherwise share, sell or distribute any of the information you provide to us without your consent, unless required or permitted do so by law.<br>Links to external websites<br><br>This Privacy Policy only covers the University of South Wales website, this website may contain links to other websites that are outside of the University’s control and are not covered by this privacy policy.<br>Contact us<br><br>If you have any queries concerning this Privacy Policy or the handling and management of your personal information please contact:<br>Information Compliance Manager<br>Learning Resource Centre<br>University of South Wales<br>Pontypridd<br>CF37 1DL<br><br>Email: <a href="mailto:dataprotection@southwales.ac.uk">dataprotection@southwales.ac.uk</a></div>
+								</div>
+							</div>
+					</div>
+				</div>
+			</div>
+		</div><!-- end of overlay-content -->
 
-
-
-							
-				
-						
-              <div class="container">
-                <div class="row">
-                  <div class="col-md-12">
-                    <div class="rich-text">The University of South Wales (‘the University’) is committed to protecting the privacy of all users of this website. This policy applies to all University websites and how we govern and protect information that is obtained from those using this website.<br><br>By using and submitting information to this website you are consenting to the University collecting and holding information in accordance with this policy. The policy is subject to change and any future changes will be notified on this page.<br><br><h2>What information is collected?</h2>You do not have to register or provide any personal information when you visit the University of South Wales website to read or download information. Personal information will only be collected where you have knowingly provided personal details (name, address, email address, telephone number, etc.)<br><br>Certain types of information are automatically received whenever you view this website. Information that we automatically receive includes:<br><br><ul><li>&nbsp;&nbsp;&nbsp; Requested URL (Uniform Resource Locator)</li><li>&nbsp;&nbsp;&nbsp; IP (Internet Protocol) address (this may or may not identify a specific computer)</li><li>&nbsp;&nbsp;&nbsp; Domain name from which you access the internet</li><li>&nbsp;&nbsp;&nbsp; Referring URL</li><li>&nbsp;&nbsp;&nbsp; Software (browser/operating system) used to access the page</li><li>&nbsp;&nbsp;&nbsp; Date and time pages were visited</li></ul><br><h2>Use of cookies by the University of South Wales</h2>Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.<br><br>Below is a description of the types of cookies the University of South Wales uses, including cookies from third party sites that we use to provide certain functionality on our web sites.<br><h2>University of South Wales Session Cookies</h2><br>The University of South Wales uses a number of web frameworks to create and provide web sites. Most, if not all, of these frameworks provide session cookies to the users computer. These cookies enable movement throughout most of our secured sites without having to repeatedly log into different systems.<br><h3>Google Analytics</h3><br>The University of South Wales uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate your use of our web sites and compiles reports for us on activity on our web sites.<br><br>Google stores the information collected by the cookie on servers in the United States. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. By using the University of South Wales web sites, you consent to the processing of data about you by Google in the manner and for the purposes set out above.<br><br><h4><a href="http://www.google.com/intl/en/privacypolicy.html">How to reject or delete this cookie</a></h4><h4>Cookies set by Third Party sites</h4>To support the content of our web sites, we sometimes embed photos, video and textual content from websites such as YouTube and Flickr. As a result, when you visit a page with content embedded from, for example, YouTube or Flickr, you may be presented with cookies from these websites. The University of South Wales does not control the dissemination of these cookies. You should check the relevant third party website for more information about these.<br><h3>Blackboard</h3>Blackboard uses cookies for authentication/login purposes, and to tie the users requests together into a session as necessary for the web application’s functionality. They are purely functional cookies, no user identifying information is kept in our cookies at all. Thus none of that is stored on the users computer either.<br><br>It is inherent to the application that it tracks certain user activity for grading/auditing purposes. This is not done via cookies, but is tied to the authenticated user record.<br><br>User data submitted within courses is generally identifiable by user – as that is necessary for grading purposes. For some activities anonymous interaction may be possible at the discretion of the instructor.<br><br>Retention of such user-submitted data is governed by institutional policies for retention of academic records and is not controlled by Blackboard.<br><br>No user data from Blackboard Learn instances is ever centrally collected by Blackboard Inc., with the exception of centrally hosted services such as Blackboard Mobile and SafeAssign that need to store user information including contact information or a document submission history. This information is however not accessible to anyone else, and Blackboard does not share this data with third parties.<br><br>Third-party building blocks installed on the system may however link your Blackboard user account to third party servers that also hold user-identifying information. Blackboard does not control the dissemination of these cookies. You should check the relevant third party website for more information about these.<br>Learning Objects<br><br>Learning objects utilise session cookies to remember session details, as well as a cookie supplied by the internal load balancer to bind a session to a particular node. A desktop view cookie is also set, if the client is a mobile device and switches to a desktop view. Further to these, other cookies are set to track the general logged in state for the purpose of identifying session timeouts, and also to set the referrer accurately to the parent site when a client clicks on a link from within a specific blog entry or wiki page.<br><h3>eStream</h3>eStream uses cookies in order to track session information, and also to track specific user properties, such as authentication, general settings and permissions.<br><h2>How to change your cookie settings</h2>You can go to <a href="http://www.aboutcookies.org/Default.aspx?page=2">this website</a> to change your settings. Just choose the appropriate link to the browser that you use.<br><h2>How we use your information</h2>The information that you provide enables the University to analyse the information to deliver services that you have requested and so that we can manage and improve the services on the website. Using the logging data we analyse demographic and other statistical information about user behaviour to analyse the popularity and effectiveness of our site.<br><br>The University also uses services from <a href="https://support.google.com/a/answer/60762?src=top5&amp;lev=answer">Google</a> and <a href="http://en.gravatar.com/site/terms-of-service">Gravatar</a> on this website. For further information on their privacy policies please visit the Google and Gravatar websites.<br><br>The University will not (nor will it allow any third party to) use the statistical analytics tools to track or to collect personally identifiable information of visitors to this website. We will not sell, license or trade your personal information to others. We will not provide your personal information to direct marketing companies or other such organisations.<br><br>Personal information provided by you and any other information relating to you, will be held by the University and may be used for its own marketing purposes.<br><h2>Security</h2>The University employs security measures to protect your personal information from unauthorised use, access or disclosure.<br><br>We take appropriate measures to ensure that the information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.<br><h2>Disclosure of your information</h2>Authorised personnel within the University will be able to access the information that you provide us. We may also disclose your information to other third parties such as service providers, agents and associated organisations who act for us for the purposes set out within this Policy. All such third parties are prohibited from using this information except for providing these services to the University.<br><br>The information you provide will be held on our computers in the UK. It may be accessed by or given to third parties some of whom may be located outside the European Economic Area who act for us for the purposes set out in this policy. We will always take steps to ensure that your information is used by third parties in accordance with the terms of this Privacy Policy.<br><br>Except as set out in this Policy, we will not otherwise share, sell or distribute any of the information you provide to us without your consent, unless required or permitted do so by law.<br>Links to external websites<br><br>This Privacy Policy only covers the University of South Wales website, this website may contain links to other websites that are outside of the University’s control and are not covered by this privacy policy.<br>Contact us<br><br>If you have any queries concerning this Privacy Policy or the handling and management of your personal information please contact:<br>Information Compliance Manager<br>Learning Resource Centre<br>University of South Wales<br>Pontypridd<br>CF37 1DL<br><br>Email: <a href="mailto:dataprotection@southwales.ac.uk">dataprotection@southwales.ac.uk</a></div>
-                  </div>
-                </div>
-              </div>
-					
+			
 
 
 
 
 		
 
+		
 
 
 
-	</div><!-- end of container article -->
+
+	</div><!-- end of container article (opened on line 110) -->
 
 	
 
@@ -319,7 +330,7 @@
 
 		
 	
-  
+
   
   <script>
   if ($('div.gmap').length) {
@@ -354,9 +365,9 @@
 
 				     
 
-<footer role="contentinfo">
+<footer>
 
-  <nav class="navbar navbar-inverse" role="navigation">
+  <nav class="navbar navbar-inverse">
 
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -386,7 +397,7 @@
 
     
 		
-        <li><a href="http://research.southwales.ac.uk/">Research</a></li>
+        <li><a href="http://www.southwales.ac.uk/about/location">Location</a></li>
     
 
     
@@ -396,32 +407,22 @@
 
     
 		
+        <li><a href="http://research.southwales.ac.uk/">Research</a></li>
+    
+
+    
+		
         <li><a href="http://www.southwales.ac.uk/study/apply">Apply</a></li>
     
 
     
 		
-        <li><a href="http://www.southwales.ac.uk/about/location">Location</a></li>
+        <li><a href="http://staff.southwales.ac.uk/">Staff directory</a></li>
     
 
     
 		
         <li><a href="https://myusw.southwales.ac.uk/">My USW</a></li>
-    
-
-    
-		
-        <li><a href="http://www.southwales.ac.uk/about/policies">Policies</a></li>
-    
-
-    
-		
-        <li><a href="http://www.southwales.ac.uk/story/all/">Our stories </a></li>
-    
-
-    
-		
-        <li><a href="http://staff.southwales.ac.uk/">Staff directory</a></li>
     
 
     
@@ -436,7 +437,7 @@
   <div class="collapse navbar-collapse navbar-default" id="PrimaryFooter2">
 
     <div class="container">
-      <nav id="footer-nav-more" class="navbar more" role="navigation">
+      <nav id="footer-nav-more" class="navbar more">
 
         
 
@@ -458,8 +459,8 @@
 		
       
 			
-			    <li><a href="/study/postgraduate-study/">Postgrad study</a></li>
-			
+	        <li><a href="http://www.southwales.ac.uk/alumni/">Alumni</a></li>
+	    
 			
 		
 			
@@ -468,8 +469,8 @@
 		
       
 			
-	        <li><a href="http://www.southwales.ac.uk/alumni/">Alumni</a></li>
-	    
+			    <li><a href="/study/postgraduate-study/">Postgrad study</a></li>
+			
 			
 		
 			
@@ -488,7 +489,7 @@
 		
       
 			
-	        <li><a href="http://international.southwales.ac.uk/">International</a></li>
+	        <li><a href="http://www.southwales.ac.uk/story/all/">Our stories</a></li>
 	    
 			
 		
@@ -560,6 +561,16 @@
 			
 			    <li><a href="/news/">News</a></li>
 			
+			
+		
+			
+
+    
+		
+      
+			
+	        <li><a href="http://www.southwales.ac.uk/documents/565/USW_Modern_Slavery__Human_Trafficking_Statement_2016.pdf">Modern slavery statement</a></li>
+	    
 			
 		
 			
@@ -693,6 +704,12 @@
       </li>
 
       <li>
+        <a href="https://www.instagram.com/unisouthwales/" title="Visit us on Instagram" class="icon_instagram" target="_blank">
+            <i class="fa fa-instagram"></i>
+        </a>
+      </li>
+
+      <li>
         <a href="http://twitter.com/unisouthwales" title="Follow our tweets" class="icon_twitter" target="_blank">
             <i class="fa fa-twitter"></i>
         </a>
@@ -701,12 +718,6 @@
       <li>
         <a href="http://www.youtube.com/user/UniSouthWales" title="Subscribe to our youtube channel" class="icon_youtube" target="_blank">
             <i class="fa fa-youtube"></i>
-        </a>
-      </li>
-
-      <li>
-       <a href="https://plus.google.com/+SouthwalesAcUk" rel="publisher" target="_blank">
-            <i class="fa fa-google-plus"></i>
         </a>
       </li>
 
@@ -756,6 +767,7 @@
 
 </footer>
 
+
 					
 
         
@@ -766,11 +778,12 @@
 
          
 
-        
-            <script src="/static/foxsite/js/vendor/jquery-ui-1.10.3.custom.min.js "></script>
-            <script src="/static/foxsite/js/vendor/jquery.tmpl.min.js "></script>
-            <script src="/static/foxsite/js/vendor/funnelback-completion.js "></script>
-            <script src="/static/foxsite/js/vendor/funnelback.js "></script>
+    
+
+            <script src="/static/foxsite/js/vendor/jquery-ui-1.10.3.custom.min.js"></script>
+            <script src="/static/foxsite/js/vendor/jquery.tmpl.min.js"></script>
+            <script src="/static/foxsite/js/vendor/funnelback-completion.js"></script>
+            <script src="/static/foxsite/js/vendor/funnelback.js"></script>
         
 
         <script>
