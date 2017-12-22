@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfarchive.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609085122id_/http%3A//gfarchive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfarchive.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222074749id_/http%3A//www.gfarchive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
