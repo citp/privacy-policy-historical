@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scientificamerican.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603052715id_/https%3A//www.scientificamerican.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientificamerican.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222063304id_/https%3A//www.scientificamerican.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scientific American
 
@@ -56,7 +56,7 @@ We also may use "web beacons" on our Site. A web beacon, also known as a pixel t
 
 Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Site.
 
-For more information about how we use cookies click [here](http://www.scientificamerican.com/page/use-of-cookies/).  
+For more information about how we use cookies click [here](https://www.scientificamerican.com/page/use-of-cookies/).  
  
 
 ## **How We Use The Information We Collect**
@@ -153,7 +153,7 @@ Changes to this Online Privacy Notice will become effective when those changes a
 
 If you have any questions about this Online Privacy Notice, or if you would like to update information we have about you or your preferences:
 
-Log in to your scientificamerican.com account profile [here](http://www.scientificamerican.com/my-account/profile/) to make changes.
+Log in to your scientificamerican.com account profile [here](https://www.scientificamerican.com/my-account/profile/) to make changes.
 
 E-mail us at [ _Webmaster@sciam.com_](mailto:Webmaster@sciam.com?subject=Questions%20-%20Online%20Privacy%20Notice).
 
