@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectviewercentral.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005206id_/http%3A//projectviewercentral.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectviewercentral.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222100800id_/http%3A//projectviewercentral.com/about/privacy.html) for the most accurate reproduction.*
 
 # Project Plan 365 Privacy Policy
 
