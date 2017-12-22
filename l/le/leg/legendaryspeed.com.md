@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legendaryspeed.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130316id_/https%3A//www.legendaryspeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendaryspeed.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222063112id_/http%3A//legendaryspeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LegendarySpeed
 
@@ -34,26 +34,26 @@ you can contact
 Webmaster Legendary Speed, Inc. 2600 L Street Bakersfield, CA 93301 contact us
 
 LEGENDARYFIND.COM WORKS WITH A THIRD PARTY THAT SERVES ADS TO THIS SITE.  
-See: [Google Adsense](http://www.google.com/privacypolicy.html)
+See: [Google Adsense](https://www.google.com/privacypolicy.html)
 
-See: [MochiMedia](http://www.mochimedia.com/privacy.html)
+See: [MochiMedia](https://www.mochimedia.com/privacy.html)
 
-See: [CPMStar](http://www.cpmstar.com/index.aspx?nav=privacy) and [Third Party](http://www.cpmstar.com/index.aspx?nav=thirdpartyprivacy)
+See: [CPMStar](https://www.cpmstar.com/index.aspx?nav=privacy) and [Third Party](https://www.cpmstar.com/index.aspx?nav=thirdpartyprivacy)
 
-See: [AdEngage](http://www.adengage.com/privacy.cfm)
+See: [AdEngage](https://www.adengage.com/privacy.cfm)
 
-See: [ValueClick](http://media.valueclick.com/privacy_consumer.shtml)
+See: [ValueClick](https://media.valueclick.com/privacy_consumer.shtml)
 
-See: [YieldManager](http://content.yieldmanager.com/ym_privacy.html)
+See: [YieldManager](https://content.yieldmanager.com/ym_privacy.html)
 
-See: [Jambo Media](http://jambovideonetwork.com/privacy.html)
+See: [Jambo Media](https://jambovideonetwork.com/privacy.html)
 
-See: [Casale Media](http://www.casalemedia.com/privacy.html)
+See: [Casale Media](https://www.casalemedia.com/privacy.html)
 
-See: [Traffic Marketplace](http://www.trafficmarketplace.com/privacy/)
+See: [Traffic Marketplace](https://www.trafficmarketplace.com/privacy/)
 
-See: [24/7 Real Media](http://www.247realmedia.com/EN-US/privacy-policy.html)
+See: [24/7 Real Media](https://www.247realmedia.com/EN-US/privacy-policy.html)
 
-See: [Hooked Media Group](http://www.hookedmediagroup.com/Corp/Privacy.aspx)
+See: [Hooked Media Group](https://www.hookedmediagroup.com/Corp/Privacy.aspx)
 
-See: [Unified Cookie Opt-Out System](http://www.networkadvertising.org/managing/opt_out.asp) which includes some of our advertisers.
+See: [Unified Cookie Opt-Out System](https://www.networkadvertising.org/managing/opt_out.asp) which includes some of our advertisers.
