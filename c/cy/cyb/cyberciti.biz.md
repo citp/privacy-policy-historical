@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603060622id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222172724id_/https%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
 
 # Privacy policy – nixCraft
 
@@ -39,7 +39,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 ##### Links to the vendor websites to opt out:
 
-  * DoubleClick DFA and RichMedia ([www.doubleclick.com](http://www.doubleclick.com/))
+  * DoubleClick DFA and RichMedia ([www.doubleclick.com](https://www.doubleclick.com/))
   * Collective ([www.collective.com](http://www.collective.com/))
   * IDG Technetwork ([www.idgtechnetwork.com](http://www.idgtechnetwork.com/))
   * Mediaplex/ValueClick ([www.mediaplex.com](http://www.mediaplex.com/))
@@ -51,9 +51,9 @@ We use third-party advertising companies to serve ads when you visit our website
   * Dynamic Logic/Safecount ([www.safecount.net](http://www.safecount.net/))
   * Factor TG ([www.factortg.com](http://www.factortg.com/))
   * IAG ([www.iagr.com](http://www.iagr.net/))
-  * InsightExpress ([www.insightexpress.com](http://www.insightexpress.com/))
-  * Google Adsense ([www.google.com/adsense](http://www.google.com/adsense))
-  * Tribalfusion ([www.tribalfusion.com](http://www.tribalfusion.com/))
+  * InsightExpress ([www.insightexpress.com](https://www.insightexpress.com/))
+  * Google Adsense ([www.google.com/adsense](https://www.google.com/adsense))
+  * Tribalfusion ([www.tribalfusion.com](https://www.tribalfusion.com/))
   * Adify ([www.adify.com](http://www.adify.com/))
 
 
