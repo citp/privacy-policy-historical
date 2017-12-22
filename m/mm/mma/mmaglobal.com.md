@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618041935id_/http%3A//mmaglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222232624id_/http%3A//www.mmaglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # MMA Privacy Policy | Mobile Marketing Association
 
@@ -8,7 +8,7 @@
   * The Information We Collect
   * How We Use Information
   * Our Commitment To Data Security
-  * Our Commitment To Children’s Privacy
+  * Our Commitment To Children's Privacy
   * How To Access Or Correct Your Information
   * Third Parties
   * How To Contact Us
@@ -21,7 +21,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 #### The Information We Collect
 
-This notice applies to all information collected or submitted on the MMA’s website, as well as information we collect at our live events. On some pages, you can make information requests and register for events. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the MMA's website, as well as information we collect at our live events. On some pages, you can make information requests and register for events. The types of personal information collected at these pages are:
 
   * Name, title and company information
   * Address
@@ -31,7 +31,7 @@ This notice applies to all information collected or submitted on the MMA’s web
 
 
 
-This website makes use of “cookies” to track and facilitate navigation and to customize MMA content and it collects site traffic data for analytical purposes. This data may contain your IP address and/or other information supplied to our website from your local computer.
+This website makes use of "cookies'' to track and facilitate navigation and to customize MMA content and it collects site traffic data for analytical purposes. This data may contain your IP address and/or other information supplied to our website from your local computer.
 
 #### How We Use Information
 
@@ -48,7 +48,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 #### Our Commitment to Children’s Privacy
 
-The MMA complies with the Children’s Online Privacy Protection Act (COPPA) and does not knowingly collect personally identifiable information from anyone under the age of 13.
+The MMA complies with the Children's Online Privacy Protection Act (COPPA) and does not knowingly collect personally identifiable information from anyone under the age of 13.
 
 #### How to Access or Correct Your Information
 
@@ -66,4 +66,4 @@ To opt out of Google Analytics, please [click here](https://tools.google.com/dlp
 
 #### How to Contact Us
 
-We can be reached via e-mail at [mma[at]mmaglobal[dot]com](https://web.archive.org/contact/mma/mmaglobal/com?subject=Privacy) with “Privacy” in the subject matter line or you can call +1 646 257 4515 to leave a message and someone will follow-up with you.
+We can be reached via e-mail at [mma@mmaglobal.com](mailto:mma@mmaglobal.com?subject=Privacy) with “Privacy” in the subject matter line or you can call +1 646 257 4515 to leave a message and someone will follow-up with you.
