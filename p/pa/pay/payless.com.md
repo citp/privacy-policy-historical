@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the payless.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625111734id_/http%3A//www.payless.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payless.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222015224id_/http%3A//www.payless.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Payless ShoeSource Privacy Policy
 
 As described in this Privacy Policy, Payless values our customers and respects their privacy. In this policy we use 'we' to mean Payless, Inc. We are part of Payless, Inc., details of the other members of the group can be found [here.](http://www.paylesscorporate.com/)
 
-By visiting any part of our web sites (the "site"), you consent to the policies and practices described in this Privacy Policy and the [Terms & Conditions](http://www.payless.com/terms.html) of our sites, which are incorporated herein by reference.
+By visiting any part of our web sites (the "site"), you consent to the policies and practices described in this Privacy Policy and the [Terms & Conditions](http://www.payless.com/terms.html) of our sites, which are incorporated herein by reference. Information regarding the use of our **Mobile SMS/MMS** programs can be found [here.](http://www.payless.com/terms.html#sms)
 
 * * *
 
@@ -310,8 +310,10 @@ If you receive home mailings, promotional emails, marketing communications, text
 > 
 > **Messaging**
 > 
->   * Text "STOP" to 747474 (for the U.S.)
->   * Text "END" or "FIN" to 78787 (for Canada)
+>   * Text "STOP" to 747474 (for the U.S. in English)
+>   * Text "ALTO" to 747474 (for the U.S. in Spanish)
+>   * Text "END" to 78787 (for Canada in English)
+>   * Text "FIN" to 78787 (for Canada in French)
 > 
 
 
