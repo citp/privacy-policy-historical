@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the grantthornton.co.nz privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611025101id_/http%3A//www.grantthornton.co.nz/privacy-policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantthornton.co.nz privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223005727id_/http%3A//www.grantthornton.co.nz/privacy-policy1) for the most accurate reproduction.*
 
 # Privacy policy
-
-Grant Thornton International Ltd (GTIL) wants to protect the privacy of visitors to our website. Please read the following policy; it will help you to understand how we use your personal data. We may change our privacy policy at any time without giving you notice, so please check it each time you visit our website.
-
-## What personal data do we collect?
-
-We log your Internet Protocol (IP) address in order to receive and send information from and to you over the internet.
-
-When you visit our website, make an enquiry, order publications or request more information, you may be asked to provide some personal data such as your name, address, telephone number and e-mail address. In the event you decide to provide personal data, this policy will apply.
 
 However, you can reset your browser so as to refuse any cookie or to alert you to when a cookie is being sent. Web browsers allow you to control cookies stored on your hard drive through the web browser settings. To find out more about cookies, including what cookies have been set and how to manage and delete them, visit http://www.allaboutcookies.org.
 
