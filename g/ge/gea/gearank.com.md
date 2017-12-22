@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearank.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302170104id_/https%3A//www.gearank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearank.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222073355id_/https%3A//www.gearank.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gearank
 
@@ -93,10 +93,10 @@ We do not specifically market to children under 13.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-PO Box 1048  
-Toowoong, QLD 4066  
+PO Box 138  
+Mount Nebo, QLD 4520  
 Australia  
 [Contact Form](https://web.archive.org/contact)  
 \+ 61 7 3862 3346
 
-Last Edited on 2015-12-18
+Last Edited on 2017-07-24
