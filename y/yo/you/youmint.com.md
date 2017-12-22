@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youmint.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619064744id_/http%3A//www.youmint.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youmint.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222034017id_/http%3A//www.youmint.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - YouMint.com
 
