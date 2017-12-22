@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ferraristore.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612124932id_/http%3A//store.ferrari.com/us_en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferraristore.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222034517id_/http%3A//store.ferrari.com/us_en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,7 +55,7 @@ Concerning the above data processing, you may exercise the following rights: 
 The Data Controllers are  
 Ferrari S.p.A., the registered office of which is in Via Emilia Est, n° 1163, Modena (Italy), premises in via Abetone Inferiore 4, 41053 Maranello-MO (Italy), and  
 triboo digitale s.r.l., the registered office of which is in V.le Sarca 336, 20126 Milano (Italy)  
-Any request in relation to personal information processed by Ferrari S.p.A. and/or triboo digitale s.r.l. may therefore be addressed to the following electronic address customercare@ferraristore.com.  
+Any request in relation to personal information processed by Ferrari S.p.A. and/or triboo digitale s.r.l. may therefore be addressed to the following electronic address customercare@ferraristore.it.  
 **   
 8\. Consent   **  
 The present information note will be submitted to you either when you register to the website or when you submit a purchase order without registration. On that occasions you will be asked to consent to the processing of Your personal data by Ferrari and triboo digitale s.r.l..  
