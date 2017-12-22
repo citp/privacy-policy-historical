@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triabeauty.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120424id_/http%3A//www.triabeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triabeauty.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222181231id_/http%3A//www.triabeauty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tria Beauty
 
@@ -64,11 +64,11 @@ The Site may contain links to third-party sites. Please be aware, however, that 
 
 CONTACT PREFERENCES AND ACCESSING YOUR PERSONAL INFORMATION 
 
-You have choices when it comes to how Tria Beauty uses your personal information. When you register online with or purchase items from the Site or otherwise provide your email address to us, you are automatically signed up to receive information about merchandise, services and special promotional offers from us by e-mail and/or direct mail. If you do not wish to receive such product marketing information, please contact us by e-mail or direct mail to unsubscribe at customercare@triabeauty.com or Tria Beauty, 4160 Dublin Blvd., Suite 200, Dublin, CA 94568. If you have an account on the Site, you can also change your contact preferences at any time by following the instructions on the Site. If you elect not to receive such product marketing information, Tria Beauty may continue to contact you as necessary to service your account and process your transactions and requests.
+You have choices when it comes to how Tria Beauty uses your personal information. When you register online with or purchase items from the Site or otherwise provide your email address to us, you are automatically signed up to receive information about merchandise, services and special promotional offers from us by e-mail and/or direct mail. If you do not wish to receive such product marketing information, please contact us by e-mail or direct mail to unsubscribe at customercare@triabeauty.com or Tria Beauty, 7999 Gateway Blvd., Suite 100, Newark, CA 94560. If you have an account on the Site, you can also change your contact preferences at any time by following the instructions on the Site. If you elect not to receive such product marketing information, Tria Beauty may continue to contact you as necessary to service your account and process your transactions and requests.
 
 Keeping your account information accurate and up-to-date is very important so we can provide you with excellent service. If your account information is incomplete, inaccurate, or not current, please follow the instructions on http://www.triabeauty.com/login.htm on the Site to correct your account information online.
 
-(For California Residents), California Privacy Rights under California Civil Code Sections 1798.83-1798.84: California Civil Code sections 1798.83-1798.84 give California residents the right to ask us for a notice describing the categories of personal information we share with third parties or affiliates for their direct marketing purposes. The notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it has been shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to [customercare@triabeauty.com](mailto:customercare@triabeauty.com) or Tria Beauty, 4160 Dublin Blvd., Suite 200, Dublin, CA 94568. Please allow 30 days for a response.
+(For California Residents), California Privacy Rights under California Civil Code Sections 1798.83-1798.84: California Civil Code sections 1798.83-1798.84 give California residents the right to ask us for a notice describing the categories of personal information we share with third parties or affiliates for their direct marketing purposes. The notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it has been shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to [customercare@triabeauty.com](mailto:customercare@triabeauty.com) or Tria Beauty, 7999 Gateway Blvd., Suite 100, Newark, CA 94560. Please allow 30 days for a response.
 
 THIS PRIVACY AND SECURITY POLICY APPLIES TO U.S. CUSTOMERS 
 
@@ -96,7 +96,7 @@ Tria Beauty is committed to quality customer experience. If you have questions o
 
 
 Tria Beauty  
-4160 Dublin Blvd., Suite 200  
-Dublin, CA 94568
+7999 Gateway Blvd., Suite 100  
+Newark, CA 94560
 
-**LAST REVISED** January 18, 2011
+**LAST REVISED** June 14, 2017
