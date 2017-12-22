@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchomepage.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607170910id_/http%3A//searchomepage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchomepage.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222220105id_/http%3A//searchomepage.com/privacy.html) for the most accurate reproduction.*
 
 # HomePage
 
