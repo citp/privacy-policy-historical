@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the worthofblog.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622113920id_/http%3A//www.worthofblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthofblog.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222031213id_/http%3A//www.worthofblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-If you Like,You Can Share.......1000000
 
 At **worthofblogdotcom** , the privacy of our readers is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by worthofblogdotcom and how we make use of it.
 
 Our privacy policy governs the manner in which worthofblogdotcom collects, uses, maintain information. you can view our about page to know more about us.
 
-**Web browser cookies**
+ **Web browser cookies**
 
 Worthofblogdotcom may use “cookies” to enhance experiences of our viewer. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to disable cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**Log Files**  
+ **Log Files**  
 Like many other Web sites, worthofblogdotcom makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
 
-**How we use collected information**
+ **How we use collected information**
 
 Worthofblogdotcom may collect and use Users personal information for the following purposes:
 
@@ -27,7 +25,7 @@ Worthofblogdotcom may collect and use Users personal information for the followi
 
 
 
-**Changes to this privacy policy**
+ **Changes to this privacy policy**
 
 Worthofblogdotcom has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications
 
