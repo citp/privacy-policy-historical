@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettafishcenter.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622174601id_/http%3A//www.bettafishcenter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettafishcenter.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222223450id_/http%3A//www.bettafishcenter.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy
 
@@ -42,9 +42,7 @@ Check out the FTC's site <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/inde
 
 Contacting Us.
 
-We can be reached by contacting: Bettafishcenter.com
-
-Email: betta@nicheprofitsupport.com
+We can be reached by contacting our helpdesk: [https://yellowbird.freshdesk.com](https://yellowbird.freshdesk.com/)
 
 Changes to this Policy
 
