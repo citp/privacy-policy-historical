@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hermoments.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622144124id_/http%3A//hermoments.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hermoments.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222092546id_/http%3A//hermoments.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Her Moments
 
-Your privacy is very important to us at Her Moments, and so we have a few fundamental principles that we follow in order to protect it:
+**Your privacy is very important to us at Her Moments, and so we have a few fundamental principles that we follow in order to protect it:**
 
   * We don’t ask you for personal information unless we truly need it.
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
