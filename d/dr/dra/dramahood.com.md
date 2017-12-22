@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dramahood.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622115635id_/https%3A//www.dramahood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramahood.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222153220id_/http%3A//www.dramahood.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dramahood Dramahood
+# Privacy Policy – Dramahood
 
 Cookies & 3rd Party Advertisements  
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/).
