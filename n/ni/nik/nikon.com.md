@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikon.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617235040id_/http%3A//www.nikon.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikon.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222090036id_/http%3A//www.nikon.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Nikon | Privacy Management
 
