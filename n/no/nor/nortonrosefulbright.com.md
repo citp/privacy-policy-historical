@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nortonrosefulbright.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608025519id_/http%3A//www.nortonrosefulbright.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nortonrosefulbright.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222165359id_/http%3A//www.nortonrosefulbright.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy notice | Norton Rose Fulbright
+# Privacy notice | Global law firm | Norton Rose Fulbright
 
 Norton Rose Fulbright refers to Norton Rose Fulbright US LLP, Norton Rose Fulbright LLP, Norton Rose Fulbright Australia, Norton Rose Fulbright Canada LLP and Norton Rose Fulbright South Africa Inc, each of which is a separate legal entity, and their respective affiliates.
 
@@ -12,8 +12,7 @@ When you visit our website or request a service from us Norton Rose Fulbright ma
 
 ### How do we use this information?
 
-Your personal information will normally be retained in a database and used by Norton Rose Fulbright for purposes such as:  
-
+Your personal information will normally be retained in a database and used by Norton Rose Fulbright for purposes such as:
 
   * administering our relationship with you, providing services, and responding to enquiries
   * processing applications for employment
@@ -54,3 +53,7 @@ United Kingdom
 ### Australia
 
 In Australia certain additional restrictions apply – please see our [Australian policy](https://web.archive.org/au/privacy-notice/).
+
+### Mexico
+
+[Mexico City privacy statement](https://web.archive.org/mx/privacy-statement/).
