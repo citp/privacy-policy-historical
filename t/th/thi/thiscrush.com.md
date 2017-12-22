@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the thiscrush.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630065151id_/http%3A//www.thiscrush.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thiscrush.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222153519id_/http%3A//www.thiscrush.com/privacy.php) for the most accurate reproduction.*
 
 # ThisCrush - Privacy Policy
 
-##  **BACKGROUND:**
+**TERMS AND CONDITIONS OF SERVICE**
+
+## **BACKGROUND:**
 
 Thiscrush.com understands that your privacy is important to you and that you care about how your information is used and shared online. We respect and value the privacy of everyone who visits Our Site and will only collect and use information in ways that are useful to you and in a manner consistent with your rights and Our obligations under the law. 
 
 This Policy applies to Our use of any and all data collected by us in relation to your use of Our Site. Please read this Privacy Policy carefully and ensure that you understand it. Your acceptance of Our Privacy Policy is deemed to occur upon your first use of Our Site and You will be required to read and accept this Privacy Policy when signing up for an Account. If you do not accept and agree with this Privacy Policy, you must stop using Our Site immediately. 
 
-1\. Definitions and Interpretation 
+## 1\. Definitions and Interpretation
 
 In this Policy the following terms shall have the following meanings: 
 
@@ -44,25 +46,25 @@ This Privacy Policy applies only to your use of Our Site. It does not extend to 
 
 ##  3\. What Data Do We Collect? 
 
-Some data will be collected automatically by Our Site, other data will only be collected if you voluntarily submit it, for example, when signing up for an Account. Depending upon your use of Our Site, We may collect some or all of the following data: 
+Some data will be collected automatically by Our Site, other data will only be collected if you voluntarily submit it, for example, when signing up for an Account. Depending upon your use of Our Site, We may collect some or all of the following data:
 
-3.1 name; 
+3.1 name;
 
-3.2 date of birth; 
+3.2 date of birth;
 
-3.3 gender; 
+3.3 gender;
 
-3.4 contact information such as email addresses and telephone numbers; 
+3.4 contact information such as email addresses and telephone numbers;
 
-3.5 demographic information such as post code, preferences and interests; 
+3.5 demographic information such as post code, preferences and interests;
 
-3.6 IP address (automatically collected); 
+3.6 IP address (automatically collected);
 
-3.7 web browser type and version (automatically collected); 
+3.7 web browser type and version (automatically collected);
 
-3.8 operating system (automatically collected); 
+3.8 operating system (automatically collected);
 
-3.9 a list of URLs starting with a referring site, your activity on Our Site, and the site you exit to (automatically collected); 
+3.9 a list of URLs starting with a referring site, your activity on Our Site, and the site you exit to (automatically collected);
 
 ##  4\. How Do We Use Your Data? 
 
@@ -124,7 +126,7 @@ Some data will be collected automatically by Our Site, other data will only be c
 
 ##  10\. Cookies 
 
-Our Site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by Us and are used only by Us. We use Cookies to facilitate and improve your experience of Our Site and to provide and improve Our services. By using Our Site you may also receive certain third party Cookies on your computer or device. Third party Cookies are those placed by websites, services, and/or parties other than Us. We use third party Cookies on Our Site for advertising services and other ancillary non-critical site operations. In addition, Our Site uses analytics services which also use Cookies. Website analytics refers to a set of tools used to collect and analyse usage statistics, enabling Us to better understand how people use Our Site. ****
+Our Site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by Us and are used only by Us. We use Cookies to facilitate and improve your experience of Our Site and to provide and improve Our services. By using Our Site you may also receive certain third party Cookies on your computer or device. Third party Cookies are those placed by websites, services, and/or parties other than Us. We use third party Cookies on Our Site for advertising services and other ancillary non-critical site operations. In addition, Our Site uses analytics services which also use Cookies. Website analytics refers to a set of tools used to collect and analyse usage statistics, enabling Us to better understand how people use Our Site. 
 
 ##  11\. Changes to Our Privacy Policy 
 
