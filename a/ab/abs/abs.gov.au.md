@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621150818id_/http%3A//www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3Fopendocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222051714id_/http%3A//www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3Fopendocument) for the most accurate reproduction.*
 
 # ABS Privacy Policy Summary
 
@@ -12,12 +12,14 @@ More information can be found in the ABS privacy policies:
 
     * [Main ABS Privacy Policy](https://web.archive.org/websitedbs/D3310114.nsf/Home/Privacy+Policy)
     * [Census Privacy Policy](http://www.abs.gov.au/websitedbs/censushome.nsf/home/privacypolicy)
+    * [Australian Marriage Law Postal Survey Privacy Policy](http://www.abs.gov.au/websitedbs/D3310114.nsf/home/AMLPS+-+Privacy+Policy)
     * [ABS Recruitment Privacy Statement](http://abs.gov.au/websitedbs/corporate.nsf/home/Privacy+Statement).
   
 
 
 
-**Why the ABS collects and uses personal information**
+**Why the ABS collects and uses personal information  
+**
 
 The ABS only collects personal information in order to carry out its functions as the national statistical authority for all Australian governments and the Australian community. 
 
@@ -30,6 +32,10 @@ The ABS handles personal information with utmost care and in a manner that adher
 The ABS has a range of measures in place to ensure that the information provided is safeguarded. These measures include strong encryption of data, restricted access on a need to know basis, physical security of premises and data lock-ups, monitoring access and use, and regular audits. 
 
 ABS staff are personally bound to protect identifiable data. It is an offence for any ABS staff, past or present, to divulge, directly or indirectly, any information collected under the Census & Statistics Act. Breaching this requirement can result in heavy penalties, including fines and imprisonment. 
+
+**Privacy Impact Assessments**
+
+The ABS may conduct or commission a Privacy Impact Assessment to assess the potential impact of an ABS project on the privacy of individuals, and document and assess the processes in place to manage, minimise, or eliminate that impact. See [ABS Privacy Impact Assessments](https://web.archive.org/websitedbs/D3310114.nsf/home/ABS+Privacy+Impact+Assessments) for a listing of Privacy Impact Assessment reports, and the ABS response to any recommendations contained within those reports, that have been published on the ABS website.
 
 **Accessing and correcting your personal information**
 
