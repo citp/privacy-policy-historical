@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622111308id_/http%3A//www.destinationmaternity.com/privacy-policy.html%3Fformat%3Dajax) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222031045id_/http%3A//www.destinationmaternity.com/privacy-policy.html%3Fformat%3Dajax) for the most accurate reproduction.*
 
 # None
 
