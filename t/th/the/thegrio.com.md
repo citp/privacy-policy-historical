@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thegrio.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630083508id_/http%3A//thegrio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrio.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222055126id_/http%3A//thegrio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | theGrio
+# Privacy Policy - theGrio
 
-**Last updated: September 9, 2016**
+**Last updated: September 28, 2016**
 
 ENTERTAINMENT STUDIOS LLC (“us”, “we”, or “our”) operates the http://thegrio.com/ website (the “Service”).
 
@@ -81,6 +81,10 @@ We have no control over, and assume no responsibility for the content, privacy p
 Our Service does not address anyone under the age of 13 (“Children”).
 
 We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
+
+**Research**
+
+Our articles include proprietary measurement software that allows users to contribute to market research (such as Nielsen TV Ratings). The Nielsen Digital Measurement Privacy Policy is at http://www.nielsen.com/digitalprivacy.
 
 **Changes To This Privacy Policy**
 
