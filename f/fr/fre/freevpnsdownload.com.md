@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freevpnsdownload.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132033id_/http%3A//www.freevpnsdownload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevpnsdownload.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222020058id_/http%3A//www.freevpnsdownload.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Vpn Download
+# Privacy Policy – Free Vpn Download
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy Policy](mailto:freevpnsdownload.com@gmail.com).
 
@@ -66,5 +66,3 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 This Privacy Policy was last updated on: Saturday, January 21st, 2017.  
 [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
-
-.
