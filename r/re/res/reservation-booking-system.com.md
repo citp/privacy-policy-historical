@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reservation-booking-system.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423081734id_/http%3A//suite.booking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reservation-booking-system.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223001111id_/http%3A//suite.booking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement » BookingSuite
 
@@ -6,12 +6,7 @@
 
 This privacy statement applies to the services provided by BookingSuite B.V., Herengracht 597, 1017 CE Amsterdam, the Netherlands, (“ **BookingSuite** “) and describes how BookingSuite collects and uses the personal information you provide on our website [http://suite.booking.com](http://suite.booking.com/) (“ **Site** ”) or via the online registration and an account facility (the “ **Backoffice** ”). The Site and the Backoffice are jointly referred to as the “ **Services** “. An accommodation website provided through BookingSuite is referred to as an “ **Accommodation Site** ”. It also describes the rights and choices you have regarding our processing of your personal information.
 
-We may amend this privacy statement from time to time, we will notify you by email (sent to the email address specified in the Backoffice) or by means of a notice on this website prior to the change becoming effective so please visit this page regularly to keep abreast of the updates.  
-The TRUSTe program covers only information that is collected through this website, [http://suite.booking.com](http://suite.booking.com/), and the Backoffice. The use of information collected through our Services shall be limited to the purpose of providing the Services for which you have engaged BookingSuite. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=915451a4-ddeb-42b3-b9b9-5f36494dc37e "TRUSTe Privacy Certification")
-
-**Information Related to Data Collected through an accommodation site**
+[](https://privacy.truste.com/privacy-seal/validation?rid=915451a4-ddeb-42b3-b9b9-5f36494dc37e "TRUSTe Privacy Certification")**Information Related to Data Collected through an accommodation site**
 
 We collect information of the properties registered with BookingSuite (“ **Clients** ”); if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly.
 
@@ -104,7 +99,7 @@ _Links to Third Party Sites._ Our Site includes links to other websites whose pr
 
 _Blog / Forum._ Our Site offers a publicly accessible blog. Any information you provide on the blog may be read, collected and used by others who access such information, so please do not to post any personal information. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access to, or control over the information posted to the blog. Please review the applicable privacy statement and contact the third party application to have personal information, post or comments removed.
 
-_Testimonials._ We display endorsements and personal testimonials of satisfied customers on our Site. With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us [askbookingsuite@booking.com](mailto:askbookingsuite@booking.com).
+_Testimonials._ We display endorsements and personal testimonials of satisfied customers on our Site. With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us [suitehelp@booking.com](mailto:suitehelp@booking.com).
 
 _Single Sign-on_. You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity, provide you the option to share certain personal information (such as your name and email address) with us, and to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.
 
@@ -113,6 +108,10 @@ _Social Media Widget._ Our website includes Social Media Features, such as the F
 **Your rights**
 
 At all times you have the right of access the personal information we process about you. If your personal information is incorrect, out-of-date or not relevant anymore for the purposes collected, please let us know via [customer.service@booking.com](mailto:customer.service@booking.com) and we will update or remove it. We will respond to your request within 30 days, however, we may need to retain certain information for legal or administrative purposes. Please write “Request personal information” in the subject line of your email.
+
+**Communications**
+
+Booking.com offers accommodation providers various means to communicate with its guests. Accommodation providers can contact Booking.com to forward information or questions about reservations to guests or directly communicate with a guest by use of alias emails, which always include Booking.com as a recipient. Booking.com may access communications and uses automated systems to review, scan, and analyze communications for security purposes; fraud prevention; compliance with legal and regulatory requirements; investigations of potential misconduct; product development and improvement; research; customer engagement, including to provide guests with information and offers that we believe may be of interest to them; and customer or technical support. Note, all communications sent or received using Booking.com communication tools will be received and stored by Booking.com.
 
 **Contact Information**
 
