@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osssc.gov.in privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622084957id_/http%3A//www.osssc.gov.in/public/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osssc.gov.in privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222133740id_/http%3A//osssc.gov.in/Public/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # ODISHA SUB-ORDINATE STAFF SELECTION COMMISSION|OSSSC
 
