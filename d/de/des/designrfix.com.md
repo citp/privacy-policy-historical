@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designrfix.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622123902id_/http%3A//designrfix.com/web/20161202123356/http%3A/designrfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designrfix.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222075949id_/http%3A//designrfix.com/web/20161202123356/http%3A/designrfix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - designrfix.comDesignrfix.com
+# Privacy Policy - designrfix.com
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
