@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igg.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625124027id_/https%3A//www.igg.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igg.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222093513id_/https%3A//www.igg.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # IGG Privacy Policy
 
@@ -30,8 +30,8 @@ When you access our Services through any third party services such as social net
 
 In particular, when you access the Services using any mobile device, we may assign to your mobile device an identifier that is similar to an account number. We may collect the name you have associated with your device, device type and other technological information, telephone number, country, contacts and any other information you choose to provide. 
 
-**  
-iii. Billing and Financial Information**
+  
+**iii. Billing and Financial Information**
 
 You may also disclose billing and financial information to us, the relevant merchant service provider and/or third party platformwhen you pay the Admission Fee using any payment instruments and channels. Use of any merchant service provider and/or third party platformis subject to the privacy policy of the relevant merchant service provider and third party platform.
 
@@ -53,18 +53,18 @@ Electronic images may be contained within the Services known as web beacons – 
 
 During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
-**  
-3.  Uses of Collected Information**
+  
+**3.  Uses of Collected Information**
 
  (a) If you submit personally identifiable information to us (in particular in completing our registration form to set up an Account or by accessing our Services through your Account with a third party service), you agree to us using your personal information in connection with the operation, maintenance, improvement and/or advertisement of the Servicesand will enable us to identify the Services that are most relevant to your needs. For Users who are not in Singapore and in countries where we work with third party agent partners, we may share your information with our agent partners in order to provide local customer service.
 
    (b) Any and all information that you communicate to or share with other Users on, within or through the Services becomes publicly available and can be collected and used by others. Any and all information that you submit or discloseas such may be redistributed through the internet and other media channels, and may be viewed by the general public.
 
- (c) We use both your personally identifiable information and certain non-personally-identifiable information (such asanonymous User usage data, cookies, IP addresses, browser type, clickstream data, transaction history) to improve the quality, use and design of our Services and to create new features, promotions and functionalityby storing, tracking, and analysing User preferences and trends and otherwise for the operation, maintenance, improvement and/or advertisement of the Services or to assist or facilitate any of the foregoing. 
+ (c) We use both your personally identifiable information and certain non-personally-identifiable information (such asanonymous User usage data, cookies, IP addresses, browser type, clickstream data, transaction history) to improve the quality, use and design of our Services and to create new features, promotions and functionalityby storing, tracking, and analysing User preferences and trends and otherwise for the operation, maintenance, improvement and/or advertisement of the Services or to assist or facilitate any of the foregoing.
 
    (d) By disclosing any information to us or to any other User by reason of or in connection with any Services, you are hereby consenting to the communication of the information by us on or through our Services to any User specified by you, and the storage, retention and retrieval by us of the information in or from any database maintained by us in connection with the operation, maintenance and/or use of the Services.
 
-(e) We use cookies, clear GIFs, log file information, web beacons and other software to: 
+(e) We use cookies, clear GIFs, log file information, web beacons and other software to:
 
   remember information so that you will not have to re-enter it the next time you access the Services;
 
@@ -82,13 +82,13 @@ Most web browsers automatically accept cookies, but you can usually modify your 
 
   **4.  Disclosure of Collected Information**
 
- (a) We may provide personally identifiable information and non-personally-identifiable information to our related or affiliated companies for our legitimate business purposes. We may also provide personally identifiable information and non-personally-identifiable information to other businesses or persons for the purpose of processing such information or otherwise assist us in performing any services on our behalf including in any marketing activities. We require that these parties agree to process such information in compliance with our Privacy Policy contained herein, and we will use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. 
+ (a) We may provide personally identifiable information and non-personally-identifiable information to our related or affiliated companies for our legitimate business purposes. We may also provide personally identifiable information and non-personally-identifiable information to other businesses or persons for the purpose of processing such information or otherwise assist us in performing any services on our behalf including in any marketing activities. We require that these parties agree to process such information in compliance with our Privacy Policy contained herein, and we will use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
 
    (b) We do not sell your personally identifiable information to other third-party companies for their commercial or marketing use without your consent.
 
    (c) We may share non-personally-identifiable information with interested third-parties to assist them in understanding the usage patterns for certain Content, Services, advertisements, promotions, and/or functionality on our Web Site.
 
-   (d) We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good faith belief that such action is necessary to comply with all and any applicable laws, or where it is pursuant to or we are required to respond to a governmental, regulatory, administrative or court order or directive, a subpoena or a search warrant. 
+   (d) We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good faith belief that such action is necessary to comply with all and any applicable laws, or where it is pursuant to or we are required to respond to a governmental, regulatory, administrative or court order or directive, a subpoena or a search warrant.
 
    (e) We also reserve the right to disclose personally identifiable information and/or non-personally-identifiable information that we believe, in good faith, is appropriate or necessary to enforce the Agreement, take precautions against liability, to investigate and defend against any third-party claims or allegations, to assist government authorities and enforcement agencies, to protect the security or integrity of the Services, and to protect the rights, property, or personal safety of ourselves, our Users or others.
 
@@ -98,7 +98,7 @@ Most web browsers automatically accept cookies, but you can usually modify your 
 
  (a) We cannot ensure the security of any of the communication facilities provided by us. We recommend that all Users exercise caution when disclosing any information through our Services. In particular, please note that any personally identifiable information or personally sensitive data that you communicate or disclose to any User in connection with our Services may be collected and used by others.
 
-   (b) We may record and store archives ofany communications to monitor interactions between our Users and the use of our Services. 
+   (b) We may record and store archives ofany communications to monitor interactions between our Users and the use of our Services.
 
    (c) We encourage you to review the privacy policies of websites or other third party services you choose to visit via hyper-links posted on or withinthe Services so that you can understand how these third parties collect, use and share your information. We are not responsible for the privacy policies of any third party whether accessed through our Services or otherwise.  
 
@@ -114,9 +114,9 @@ Most web browsers automatically accept cookies, but you can usually modify your 
 
    (e) With respect to your communication preferences, you can either unsubscribe from newsletters by following the instructions indicated in the newsletter you receive, or adjust your Account settings regarding email contact preferences. If your e-mail address has changed and you would like to continue to receive newsletters, you have to sign-up again for the newsletter after you have accessed your Account and updated your e-mail address information in your Account settings page with the IGG platform or by submittingthe request to update your e-mail address at service.igg.com.
 
-   (f) Limited aspects of the Services may be accessed anonymously, or without the use of cookies. Please refer to the Web Site for content that may be accessed anonymously. 
+   (f) Limited aspects of the Services may be accessed anonymously, or without the use of cookies. Please refer to the Web Site for content that may be accessed anonymously.
 
-   (g) If you are given access to any other User’s information, you must not collect or harvest any of these information, nor use the communication facilities or any part of our Services for any commercial solicitation purposes. 
+   (g) If you are given access to any other User’s information, you must not collect or harvest any of these information, nor use the communication facilities or any part of our Services for any commercial solicitation purposes.
 
    (h) If you do not agree to the collection, use and disclosure of information as set out herein, you maysubmityour request at service.igg.com for the termination of your Account and/or access of the Services through your Account. However, please note that this does not delete information you have disclosed to any other User, and some of your information might possibly be retained in our archived records after your Account has been deleted and/or you have ceased accessing the Services. 
 
@@ -124,7 +124,7 @@ Most web browsers automatically accept cookies, but you can usually modify your 
 
  (a) We may allow third-party ad servers or ad networks to publish advertisements on or within our Services. These third-party ad servers or ad networks may use technology to send, directly to your browser, the advertisements and links that appear on or within our Services. They may thereby collect information including but without limitation via cookies or clear GIFS to measure the effectiveness of their advertisements and to personalise the advertising content you see.
 
-   (b) You should therefore always consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. 
+   (b) You should therefore always consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices.
 
    (c) Our Privacy Policy as contained herein does not apply to, and we cannot control the activities of, such other advertisers or web sites or of any other third party.
 
@@ -132,7 +132,7 @@ Most web browsers automatically accept cookies, but you can usually modify your 
 
  (a) We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you discloseon, through or within the Services and you do so entirely at your own risk. Please note that we cannot guarantee that such informationmay not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
- (b) If we learn of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice on the WebSite if a security breach occurs. 
+ (b) If we learn of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice on the WebSite if a security breach occurs.
 
    (c) If you create an Account with the IGG Platform, you will be required to select a password that can be changed at any time after you first log into the Account by using your current password. You are solely responsible for maintaining the confidentiality of your password and are fully responsible for all activities that occur under your Account and password or your account with any other third party service. You agree to (i) notify us immediately if you are aware or reasonably suspect of any unauthorised use of your Account or password or of any unauthorised access of the Services through your Account, and (ii) ensure that you exit from your Account at the end of each session.
 
