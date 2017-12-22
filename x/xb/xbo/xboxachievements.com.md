@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xboxachievements.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613211659id_/http%3A//www.xboxachievements.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xboxachievements.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222230306id_/https%3A//www.xboxachievements.com/privacy.php) for the most accurate reproduction.*
 
 # XboxAchievements.com - Privacy Policy
 
@@ -16,9 +16,9 @@ We’ve implemented Google Analytics based on Display Advertising (e.g. Remarket
 
 We and third-party vendors, including Google, will use this remarking information and data based on previous visits to our site to serve relevant messages across the web.
 
-You can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads). 
+You can opt out of Google's use of cookies by visiting Google's [Ads Settings](https://www.google.com/settings/ads). 
 
-Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
+Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](https://www.networkadvertising.org/managing/opt_out.asp).
 
  **3rd party cookies**  
 We uses cookies on our websites in order to provide enhanced functionality to users, such as user accounts and saved preferences. We also use cookies to ensure that you see the most relevant ads and limit the number of times we show you the same advertisements.
