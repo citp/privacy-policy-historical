@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzerhut.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621151511id_/http%3A//www.buzzerhut.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzerhut.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222074501id_/http%3A//www.buzzerhut.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Buzzerhut: Webs Largest Blogs & Website Submission+Search Directory | Submit your blog
 
