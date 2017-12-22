@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easychair.org privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609023405id_/http%3A//www.easychair.org/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easychair.org privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222190810id_/http%3A//easychair.org/privacy.cgi) for the most accurate reproduction.*
 
 # Privacy in EasyChair
 
