@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141104id_/http%3A//www.ahima.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222021111id_/http%3A//www.ahima.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -50,7 +50,26 @@ The sites make chat rooms and discussion forums available to its users. Although
 
 Both www.ahima.org and cop.ahima.org have security measures in place that endeavor to protect the loss, misuse, and alteration of the information under our control. These sites are a part of private networks, that do not provide direct access by outside parties to the servers. Firewalls are also in place to prevent unauthorized access to equipment and servers. All systems are monitored for suspicious activity to prevent any breaches in security.
 
-AHIMA also employs a secure socket layers (SSL) security protocol, which is a standard industry tool used to provide data encryption on pages and areas where personal data are collected. SSL protects the personal information transmitted from a user's computer to AHIMA, allowing for safe transmission of personal and financial information over the Internet. AHIMA also uses digital certificate authentication to ensure secure transactions.
+AHIMA also employs a secure socket layers (SSL) security protocol, which is a standard industry tool used to provide data encryption on pages and areas where personal data are collected. SSL protects the personal information transmitted from a user's computer to AHIMA, allowing for safe transmission of personal and financial information over the Internet. AHIMA also uses digital certificate authentication to ensure secure transactions. ****
+
+### **Phishing Awareness**
+
+Email, computer based chat and phone calls are essential tools in AHIMA’s everyday communications with our members. However, they are also among the most common methods that cyber criminals use to gain access to sensitive information.
+
+Most data breaches start with a phishing attack. “Phishing” uses fraudulent email messages or contacts designed to impersonate an organization and trick the recipient into divulging sensitive information, such as passwords, bank account numbers, and Social Security numbers.
+
+You can identify a phishing scam by looking for messages that:
+
+  * Create a sense of urgency
+  * Invoke strong emotions, like fear or promises of great opportunities
+  * Request sensitive data
+  * Contain links that do not appear to match legitimate resources for the organization that is contacting you
+
+
+
+Always remember that AHIMA will never ask for your personal passwords, Social Security numbers, and other sensitive data such as bank accounts via email, chat or phone. 
+
+If you suspect fraudulent activity, please contact AHIMA to verify validity of the communication.  You can reach AHIMA by calling 800-335-5535 or via email at [info@ahima.org](mailto:info@ahima.org)
 
 ### Choice to Opt-Out
 
