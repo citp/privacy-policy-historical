@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goo-net-exchange.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622025221id_/http%3A//www.goo-net-exchange.com/policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goo-net-exchange.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222023919id_/http%3A//www.goo-net-exchange.com/policy/index.html) for the most accurate reproduction.*
 
 # Best Place to Buy Foreign and Japanese Used Cars - Privacy Policy
 
