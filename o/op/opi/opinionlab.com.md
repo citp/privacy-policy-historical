@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612221927id_/https%3A//www.opinionlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222035716id_/https%3A//www.opinionlab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OpinionLab
 
@@ -10,7 +10,7 @@ This website is operated by us, Verint Americas Inc. as successor-in-interest to
 
 Verint provides a Voice of Customer solution that empowers consumers to provide feedback to companies. At the same time, we help those companies better listen to, and engage with, consumers by making sure consumer feedback is heard, understood, and acted on.
 
-This Privacy Statement describes Verint’s collection of information from visitors to our website, located at [http://www.opinionlab.com](http://www.opinionlab.com/), including the companies who purchase our products or services (“Clients”), and their consumers (“Users”), as well as the choice available to those visitors regarding the use of, their access to, and how to update and correct their personal information. It also covers information collected from Clients through their use of the Client only parts of our website and the information we collect from Users on behalf of our Clients. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Verint.
+This Privacy Statement describes Verint’s collection of information from visitors to our website, located at [https://www.opinionlab.com](http://www.opinionlab.com/), including the companies who purchase our products or services (“Clients”), and their consumers (“Users”), as well as the choice available to those visitors regarding the use of, their access to, and how to update and correct their personal information. It also covers information collected from Clients through their use of the Client only parts of our website and the information we collect from Users on behalf of our Clients. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Verint.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -25,9 +25,9 @@ We gather certain information automatically and store it in log files. This info
 
 Verint and our marketing partners, affiliates, or web analytics or tag management, search engine optimization , customer relationship management or display advertising service providers , use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
 
-We use cookies to store information about current and prior visits, login information and to enable enhanced features such as contact forms. Visitors can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.  For more information, visit our Cookies Consent page: <http://www.opinionlab.com/cookie-consent/>.
+We use cookies to store information about current and prior visits, login information and to enable enhanced features such as contact forms. Visitors can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.  For more information, visit our Cookies Consent page: <https://www.opinionlab.com/cookie-consent/>.
 
-We partner with a third party to [display advertising on our website or to manage our advertising on other sites]. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
+We partner with a third party to [display advertising on our website or to manage our advertising on other sites]. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](https://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
 
 Our website includes Social Media Features and Widgets that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy statement of the company providing it.
 
@@ -57,7 +57,7 @@ Our website offers a publicly accessible blog. You should be aware that any info
 We may display customer testimonials on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [testimonialinfo@opinionlab.com](mailto:testimonialinfo@opinionlab.com).
 
 **Changes**  
-This Privacy Statement may be updated from time to time for any reason. We will notify you of any changes to our Privacy Statement by posting the new Privacy Statement here, <http://www.opinionlab.com/privacy-policy>. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. Please consult this Privacy Statement regularly for any changes.
+This Privacy Statement may be updated from time to time for any reason. We will notify you of any changes to our Privacy Statement by posting the new Privacy Statement here, <https://www.opinionlab.com/privacy-policy>. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. Please consult this Privacy Statement regularly for any changes.
 
 **Links to other sites**
 
