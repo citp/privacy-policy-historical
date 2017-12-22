@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the supertorch.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622174526id_/http%3A//www.supertorch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supertorch.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222035108id_/http%3A//www.supertorch.com/privacy-policy) for the most accurate reproduction.*
 
 # Heider Official Online Store Privacy Policy
 
-Heider owned by Metem International BV, does not declare, sell, share or abuse any of the personal information and e-mail addresses of its members and clients under no name, for any reasons and to any third parties.
+Heider owned by Metem Technology, does not declare, sell, share or abuse any of the personal information and e-mail addresses of its members and clients under no name, for any reasons and to any third parties.
 
 Heider, does not keep any credit card information and consequently it does not ask or demand such information within the scope of the membership procedures. During the shopping process nobody, including any of the Heider employees, may be able to see your Credit Card information and the Credit Card information are transmitted to the relevant banks through the most secure dual connection systems.
 
