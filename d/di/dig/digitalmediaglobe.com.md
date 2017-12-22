@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digitalmediaglobe.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621140039id_/http%3A//digitalmediaglobe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmediaglobe.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222171358id_/http%3A//digitalmediaglobe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy 1 - Digital Media Globe
 
-This **Privacy Policy** governs the manner in which **DigitalMediaGlobe** collects, uses, maintains and discloses information collected from users (each, a “User”) of the[ **http://DigitalMediaGlobe.com**](http://digitalmediaglobe.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by **DigitalMediaGlobe.**
+This **Privacy Policy** governs the manner in which **DigitalMediaGlobe** collects, uses, maintains and discloses information collected from users (each, a “User”) of the[ **http://digitalmediaglobe.com**](http://digitalmediaglobe.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by **DigitalMediaGlobe.**
 
   * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visit to your website.
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
