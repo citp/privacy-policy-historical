@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istream.link privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622095123id_/http%3A//istream.link/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istream.link privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222213409id_/http%3A//istream.link/legal/privacy.html) for the most accurate reproduction.*
 
 # iStream.link Privacy Policy
 
