@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discountwalas.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622194254id_/http%3A//discountwalas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountwalas.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223005300id_/http%3A//discountwalas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Discountwalas
 
 Your privacy is important to us.
 
@@ -13,6 +13,7 @@ It is DiscountWalas’s policy to respect your privacy regarding any information
   * We will protect personal information by using reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
   * We will make readily available to customers information about our policies and practices relating to the management of personal information.
   * We will only retain personal information for as long as necessary for the fulfilment of those purposes.
+  * Discountwalas will not be responsible if user disclose there personal information on our website like comment section.
 
 
 
