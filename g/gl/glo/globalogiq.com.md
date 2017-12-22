@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalogiq.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509153438id_/http%3A//globalogiq.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalogiq.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222055349id_/http%3A//globalogiq.com/privacy.htm) for the most accurate reproduction.*
 
 # Globalogiq.com Privacy Policy
 
