@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentpayment.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623171211id_/http%3A//www.yapstone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentpayment.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222123325id_/http%3A//www.yapstone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy U.S. | YapStone, Payment Service Provider
 
@@ -24,9 +24,9 @@ This Privacy Policy (together with all policies, notices, and other content that
 
 Yapstone collects data  either directly or via a website, platform, marketplace, software, or other entity that works with YapStone or uses YapStone’s services (“ ** _Partners_** ”), By visiting YapStone websites and/or submitting data to YapStone you acknowledge that our use of your data is necessary for us to comply with applicable law and to provide contracted for processing services (on behalf of Merchants) to facilitate payment by users of online platforms or online marketplaces to Merchants to whom the users owe a payment obligation.  We will use your data only in accordance with the terms of this Privacy Policy or as allowed by law.
 
-**  
-INFORMATION WE MAY COLLECT FROM YOU  
-**We may collect and process the following data about you:
+**INFORMATION WE MAY COLLECT FROM YOU**
+
+We may collect and process the following data about you:
 
   * Information that you provide to us or to one of our Partners or Merchants (such as by filling in webforms, applications, or as part of our customer due diligence procedures), including, for example: information you provide (1) at the time of registering to use our services or services of one of our Partners who provides such data to us; (2) in connection with contracting for or subscribing to the service of one of our Partners or Merchants, content you post on, to or through a Partner or Merchant; (3) in connection with requesting further services from us or any Partner or Merchant; or (4) information you provide when you report a problem to us or any Partner or Merchant in connection with our or their services.  Such information may include, for example, your name, email address, property ownership data, bank or credit card account information, address, telephone number, device identification or other sign-on information, geolocation data, and transaction information.
   * Information that is automatically collected using technology that allows electronic tracking of technical information; this is further explained below in the section titled IP ADDRESSES, COOKIES AND CLICK-THOUGH URLS;
@@ -44,8 +44,7 @@ INFORMATION WE MAY COLLECT FROM YOU
 
 
 
-**  
-IP ADDRESSES, COOKIES AND CLICK-THROUGH URLS**
+**IP ADDRESSES, COOKIES AND CLICK-THROUGH URLS**
 
 We may collect technical information about your computer, including for example, where available, your IP address, operating system, and browser type, for system administration and to report aggregate information to our Partners. This is aggregate statistical data about our users’ browsing actions and patterns.
 
@@ -72,20 +71,17 @@ You can learn more about cookies at the following third-party websites:
 
 
 
-**  
-DO NOT TRACK**
+**DO NOT TRACK**
 
 Some web browsers permit you to set Do Not Track (DNT) signals which would prevent websites from tracking your behaviour online. The applicable standards are still being developed and as a result, we cannot respond to the DNT signal. This means our service providers are able to compile analytics about your movements on our website and remarket YapStone services to you.
 
-**  
-WHERE WE STORE YOUR PERSONAL DATA**
+**WHERE WE STORE YOUR PERSONAL DATA**
 
 The data (including personal data) that we collect from you may be processed, transferred and stored in the United States and may be transferred to, and stored at, a destination outside of the United States including but not limited to: India, Ireland, Switzerland, India, and the Philippines and Ireland. By submitting your personal data, you agree to the transfer, storing, or processing in destinations inside or outside the United States. Your data (including personal data) may also be processed by staff operating outside the United States who work for us or one of our Partners, Merchants or affiliated companies, or one of our third-party suppliers, or third-party service providers. Such staff maybe engaged in, among other things, verifying your identity, your location or payment information, the fulfilment of your transaction, the processing of your payment details, improving our Websites and services, technical support, fraud review, and the provision of other support services or in order to comply with our legal and regulatory obligations, as well as for group administration and management purposes. YapStone complies with applicable data transfer laws.
 
 You acknowledge and agree to the transfer to, and storage or processing inside or outside the United States, including in India, Ireland, Switzerland, and the Philippines, of your personal data, as set out in this Privacy Policy.
 
-**  
-SECURITY**
+**SECURITY**
 
 YapStone will use reasonable technical, administrative and physical measures to protect information contained in our system against misuse, loss or alteration.  All information you provide to us is stored on our secure servers or secured servers licensed for use by us. YapStone complies with the Payment Card Industry Data Security Standard (PCI-DSS).
 
@@ -93,9 +89,9 @@ Where we have given you (or where you have chosen) a password that enables you t
 
 Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk.
 
-**  
-USES MADE OF YOUR INFORMATION  
-**We use information held about you in the following ways:
+**USES MADE OF YOUR INFORMATION**
+
+We use information held about you in the following ways:
 
   * To ensure that content from our websites is presented in the most effective manner for you and for your electronic device;
   * To allow smooth interaction between you and customer support;
@@ -111,9 +107,9 @@ USES MADE OF YOUR INFORMATION
 
 
 
-**  
-DISCLOSURE OF YOUR INFORMATION  
-**We may disclose your personal information to any affiliate of YapStone, including, Yapstone Holdings, Inc. and the subsidiaries of Yapstone Holdings, Inc.
+**DISCLOSURE OF YOUR INFORMATION**
+
+We may disclose your personal information to any affiliate of YapStone, including, Yapstone Holdings, Inc. and the subsidiaries of Yapstone Holdings, Inc.
 
 We may disclose your data to Partners and third parties:
 
@@ -133,8 +129,7 @@ We may disclose your data to Partners and third parties:
 
 
 
-**  
-REMARKETING OF YAPSTONE’S SERVICES**
+**REMARKETING OF YAPSTONE’S SERVICES**
 
 YapStone may partner with third parties to provide you with promotions and advertisements of YapStone’s services on YapStone’s behalf.  This service is called “remarketing”.  The service will allow third parties to display YapStone ads or promotions to you if you have previously visited one of YapStone’s websites based upon the cookies placed on your computer.
 
@@ -151,56 +146,47 @@ We abide by the following principals with respect to remarketing:
 
 
 
-**  
-ACCESS TO YOUR INFORMATION AND YOUR CHOICES**
+**ACCESS TO YOUR INFORMATION AND YOUR CHOICES**
 
 You can update, amend or delete information you provided at the time you registered at any time by contacting us at the address below or by logging into your account.
 
-You can choose not to receive emails from us by “unsubscribing” using the instructions in any email you receive from us.  This will not stop us from sending emails about your account or your transactions with us.
+You can choose not to receive emails from us by either “unsubscribing” using the instructions in any email you receive from us or by emailing opt-out@yapstone.com.  This will not stop us from sending emails about your account or your transactions with us.
 
 You can choose to delete or block cookies by setting your browser to either reject all cookies or to allow cookies only from selected sites.  If you block cookies performance of the Website may be impaired and certain features may not function at all.
 
 If you do not want to your cookies to be used for marketing, please visit [the Network Advertising Initiative](https://www.networkadvertising.org/) for opting out of interest-based advertising by participating companies. This does not mean you will not receive any online advertising – it merely means that the companies from which you opted out will no longer deliver ads tailored to your web preferences and patterns.
 
-**  
-YOUR RIGHTS RELATED TO OTHER WEBSITES**
+**YOUR RIGHTS RELATED TO OTHER WEBSITES**
 
 Our websites may contain links to and from the websites of our partner networks, advertisers, and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
 Please be aware that YapStone is not responsible for the privacy practices of other sites, including our Partners’ websites. We encourage our users to be aware when they leave our Website to read the privacy statements of every website that collects personally identifiable information.
 
-**  
-MOBILE APPLICATIONS**
+**MOBILE APPLICATIONS**
 
 When you download or use apps relating to our Websites, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. If you have questions about how to disable your device’s location services, we recommend you contact your mobile service carrier or your device manufacturer.
 
-**  
-PHISHING OR FALSE EMAILS**
+**PHISHING OR FALSE EMAILS**
 
 If you receive an unsolicited email that appears to be from us or one of our Partners or third parties that requests your personal information (such as your personal information, credit card number, YapStone login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information. This is sometimes referred to as a “phishing” or “spoofing.” We do not ask for this type of information in an email. Do not provide the information or click on the link. If you receive any suspected phishing or spoofing emails, please report it to [privacyofficer@yapstone.com](mailto:privacyofficer@yapstone.com).
 
-**  
-PROMOTIONS**
+**PROMOTIONS**
 
 Promotions, incentives, or giveaways may be made available through YapStone, our Partners, or third parties from time to time. You do not have to participate in these. However, if you choose to participate, you may be asked to disclose some personal information. Additionally, at the time of entering the promotion, we will disclose in its specific terms and conditions regarding how your personal information will be used. Please do not participate in any promotion if you do not agree to such usage.
 
-**  
-CHANGES TO THIS PRIVACY POLICY**
+**CHANGES TO THIS PRIVACY POLICY**
 
 Any changes we may make to the Privacy Policy in the future will be posted on this page with an updated Effective Date and we will endeavour to notify you by email, if one was provided to us, one month prior to the change becoming effective.  If we are going to use your personal information in a manner different from that stated at the time of collection we will notify you via email, if one was provided to us. You will have a choice to opt out of having us use your information in this new manner. If you do not contact us stating your refusal to accept the changes to the Privacy Policy within the one month notice period, you will be deemed to have accepted the changes. If you refused to accept the changes, we may be required to shut down or terminate your ability to use the Services. However, if your account with YapStone has been suspended or closed then you will not be contacted and your information will not be used in this new manner.
 
-**  
-CONFLICT BETWEEN THIS PRIVACY POLICY AND THE TERMS OF SERVICE OR TERMS OF USE OF OUR SERVICES**
+**CONFLICT BETWEEN THIS PRIVACY POLICY AND THE TERMS OF SERVICE OR TERMS OF USE OF OUR SERVICES**
 
 Where there is a conflict between this Privacy Policy and an explicit provision of the Terms of Service or other Terms of Use related to our Services, this Privacy Policy will prevail over those other Terms.
 
-**  
-CALIFORNIA PRIVACY RIGHTS** ** **
+**CALIFORNIA PRIVACY RIGHTS**
 
 California law permits residents of California to request certain details about information we disclose to third parties for direct marketing purposes.  If you are a California resident and would like to request this information, please contact us at the address listed below.
 
-**  
-CONTACT US**
+**CONTACT US**
 
 Questions, comments, and requests regarding the Privacy Policy are welcomed and should be addressed to:
 
@@ -210,4 +196,4 @@ Legal Department
 Walnut Creek, CA 94596.  
 [privacyofficer@yapstone.com](mailto:privacyofficer@yapstone.com)
 
-Last Updated: June 15, 2017
+**Effective Date:** Last Updated: 06 of June 2017
