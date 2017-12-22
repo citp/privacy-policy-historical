@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subway.co.uk privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616181544id_/http%3A//www.subway.com/en-gb/legal/cookiepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subway.co.uk privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222054436id_/http%3A//www.subway.com/en-gb/legal/cookiepolicy) for the most accurate reproduction.*
 
 # Cookie Policy | SUBWAY.com - United Kingdom (English)
 
