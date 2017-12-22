@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the litmusapp.com privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628103233id_/https%3A//litmus.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the litmusapp.com privacy policy that was archived on 2017-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171222012330id_/http%3A//litmus.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
@@ -13,13 +13,13 @@
   <title>Privacy Policy</title>
 
   <link rel="canonical" href="https://litmus.com/privacy">
-  <link href="https://img.litmuscdn.com/favicon.png?1498501883" rel="icon" type="image/png">
-  <link href="https://styles.litmuscdn.com/stylesheets/next.css?1498501883" rel="stylesheet">
+  <link href="https://img.litmuscdn.com/favicon.png?1513883118" rel="icon" type="image/png">
+  <link href="https://styles.litmuscdn.com/stylesheets/next.css?1513883118" rel="stylesheet">
 
   <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K58SQL"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/e3b1q380gi/analytics.min.js"></script><script type="text/javascript" src="//use.typekit.net/zqt8qdp.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-  <!--[if lt IE 9]><script src="https://js.litmuscdn.com/javascripts/html5shiv.js?1498501883"></script><![endif]-->
+  <!--[if lt IE 9]><script src="https://js.litmuscdn.com/javascripts/html5shiv.js?1513883118"></script><![endif]-->
 
   <!--[if lt IE 9]>
     <div id="old-browser-message" class="old-hidden">
@@ -43,14 +43,23 @@
 
   analytics.load("e3b1q380gi");
 
+
+
 // Since we share a configuration with the Litmus application, and the app needs
 // to conditionally show the chat widget, we have to hide the widget by default
 // and selectively enable it. Since we always want to see it on the marketing
 // site, we add this integration data to the segment.io call.
+
+var context = {};
+if (window.campaignData) {
+  context["campaign"] = campaignData;
+}
+
 analytics.page(null, {}, {
   integrations: {
     Intercom: { hideDefaultLauncher: hideIntercom() }
-  }
+  },
+  context: context
 });
 
 function hideIntercom() {
@@ -139,23 +148,24 @@ function hideIntercom() {
   <header class="cd-header menu-is-open">
   <div class="container">
     <a class="navbar-brand" href="/">
-      <img src="https://assets.litmuscdn.com/images/next/logos/litmus-logo.svg?1498501883" alt="Litmus logo" data-no-retina="true">
+      <img src="https://assets.litmuscdn.com/images/next/logos/litmus-logo.svg?1513883118" alt="Litmus logo" data-no-retina="true">
     </a>
     <nav>
       <ul class="nav navbar-nav">
         <li class="nav-item btn-group">
-            <a class="dropdown-toggle nav-link" type="button" id="features-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Features
-            </a>
-            <div class="dropdown-menu" aria-labelledby="features-dropdown">
-              <a href="/overview">All Features</a>
-              <a href="/email-testing">Email Previews</a>
-              <hr>
-              <a href="/email-builder">Builder</a>
-              <a href="/email-checklist">Checklist</a>
-              <a href="/spam-filter-tests">Spam Testing</a>
-              <a href="/email-analytics">Email Analytics</a>
-            </div>
+          <a class="dropdown-toggle nav-link" type="button" id="features-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Features
+          </a>
+          <div class="dropdown-menu" aria-labelledby="features-dropdown">
+            <a href="/overview">All Features</a>
+            <a href="/email-testing">Email Previews</a>
+            <hr>
+            <a href="/email-builder">Builder</a>
+            <a href="/email-checklist">Checklist</a>
+            <a href="/spam-filter-tests">Spam Testing</a>
+            <a href="/email-analytics">Email Analytics</a>
+            <a href="/extension">Litmus Extension</a>
+          </div>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/pricing">Pricing</a>
@@ -166,12 +176,24 @@ function hideIntercom() {
             </a>
             <div class="dropdown-menu" aria-labelledby="features-dropdown">
               <a href="/resources">Resources</a>
-              <a href="/email-workshops">Email Workshops</a>
               <a href="/conference">Litmus Conference</a>
+              <a href="/convince-your-team">Convince Your Team</a>
+              <a href="/customers">Customers</a>
             </div>
         </li>
         <li class="nav-item">
           <a class="nav-link scroll" href="/enterprise">Enterprise</a>
+        </li>
+        <li class="nav-item btn-group">
+          <a class="dropdown-toggle nav-link" type="button" id="community-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Community
+          </a>
+          <div class="dropdown-menu" aria-labelledby="community-dropdown">
+            <a href="/community/discussions">Discussions</a>
+            <a href="/community/snippets">Snippets</a>
+            <a href="/community/templates">Templates</a>
+            <a href="/community/jobs">Jobs</a>
+          </div>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/blog">Blog</a>
@@ -200,6 +222,7 @@ function hideIntercom() {
     <li><a href="/pricing">Pricing</a></li>
     <li><a href="/resources">Resources</a></li>
     <li><a href="/enterprise">Enterprise</a></li>
+    <li><a href="/community">Community</a></li>
     <li><a href="/blog">Blog</a></li>
     <hr>
     <li><a href="https://litmus.com/sessions/new">Login</a></li>
@@ -310,7 +333,7 @@ function hideIntercom() {
     <div class="row">
       <div class="logo col-lg-2">
         <a href="/">
-          <img src="https://assets.litmuscdn.com/images/next/shared/footer-logo.svg?1498501883" alt="Litmus logo" data-no-retina="true">
+          <img src="https://assets.litmuscdn.com/images/next/shared/footer-logo.svg?1513883118" alt="Litmus logo" data-no-retina="true">
         </a>
       </div>
 
@@ -330,7 +353,7 @@ function hideIntercom() {
             <li><a href="/overview">Features</a></li>
             <li><a href="/pricing">Pricing</a></li>
             <li><a href="/enterprise">Enterprise</a></li>
-            <li><a href="/resources">Resources</a></li>
+            <li><a href="/extension">Extension</a></li>
           </ul>
         </div>
 
@@ -340,6 +363,7 @@ function hideIntercom() {
             <li><a href="/events">Events</a></li>
             <li><a href="/labs">Labs</a></li>
             <li><a href="/scope/">Scope</a></li>
+            <li><a href="/resources">Resources</a></li>
           </ul>
 
           <ul class="footer-links col-xs-6 col-md-6">
@@ -355,7 +379,7 @@ function hideIntercom() {
       <div class="subscribe col-lg-4">
         <h5>Subscribe to our <a href="/subscribe">emails</a></h5>
 
-        <form class="form-inline subscribe" method="post" id="sub-form" action="https://go.pardot.com/l/31032/2014-01-06/6x3w">
+        <form class="form-inline subscribe" required="" method="post" id="sub-form" action="https://go.pardot.com/l/31032/2014-01-06/6x3w">
           <div class="form-group">
             <input type="text" class="form-control email" name="email" id="ohyku-ohyku" onfocus="if(this.value == 'Your email address') { this.value = ''; }" onblur="if (this.value=='') this.value = 'Your email address'" value="Your email address">
 
@@ -402,7 +426,7 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 <!-- End Google Tag Manager -->
 
 
-  <script src="https://js.litmuscdn.com/javascripts/next.js?1498501883"></script>
+  <script src="https://js.litmuscdn.com/javascripts/next.js?1513883118"></script>
     <script>
     // Conversion script invocation.
     if (typeof springBoard=='object' && typeof springBoard.main=='function') {
