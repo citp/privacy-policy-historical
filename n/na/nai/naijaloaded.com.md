@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijaloaded.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105915id_/http%3A//www.naijaloaded.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijaloaded.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222154935id_/http%3A//www.naijaloaded.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -Naijaloaded
 
