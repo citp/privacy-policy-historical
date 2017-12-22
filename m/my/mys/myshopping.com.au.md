@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628045555id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222063844id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
 
 # MyShopping.com.au Privacy Policy
 
 | 
 
-July 22, 2016
+Nov 16th, 2017
 
 ## Maintaining your privacy
 
-MyShopping Australial Pty Ltd owns and operates this site 'My Shopping'. We have created this Privacy Policy to demonstrate our commitment to maintaining the privacy and accuracy of your personal information. We take all reasonable precautions to ensure the personal information we collect, use and disclose is accurate and current. However, the accuracy of that information depends largely on the information you provide. Privacy of children This site is not directed at or intended for use by persons under the age of 13. We do not knowingly collect, store or disclose personal information of persons under the age of 13. If you are under 13 years of age, then please immediately exit from the site and do not use or access this site unless and until we receive verified parental consent for your continued use. We will take relevant action to delete the personal information of persons under the age of 13 where we learn such information has been collected and stored through the site without verified parental consent. 
+MyShopping Australial Pty Ltd owns and operates this site 'MyShopping'. We have created this Privacy Policy to demonstrate our commitment to maintaining the privacy and accuracy of your personal information. We take all reasonable precautions to ensure the personal information we collect, use and disclose is accurate and current. However, the accuracy of that information depends largely on the information you provide. Privacy of children This site is not directed at or intended for use by persons under the age of 13. We do not knowingly collect, store or disclose personal information of persons under the age of 13. If you are under 13 years of age, then please immediately exit from the site and do not use or access this site unless and until we receive verified parental consent for your continued use. We will take relevant action to delete the personal information of persons under the age of 13 where we learn such information has been collected and stored through the site without verified parental consent. 
 
 ## Collecting personal information
 
-My Shopping collects aggregated, non-personal statistical information on site visitors such as: 
+MyShopping collects aggregated, non-personal statistical information on site visitors such as: 
 
   * your server IP address
   * the date and time of your visit to the site
@@ -26,28 +26,28 @@ My Shopping collects aggregated, non-personal statistical information on site vi
 
 MyShopping also collects user submitted information such as:
 
-  * My Shopping Club account information, including name and email address; 
+  * MyShopping rewards program account information, including name and email address; 
   * location information, including city, state and postcode
   * reviews, articles, responses, opinion and ratings of merchants, stores, products and services
   * rewards program membership details
 
 
 
-Please note, when you voluntarily disclose personally identifiable information on the My Shopping site via reviews, messages, forums or postings, that information, along with any substantive information disclosed in your communication, can potentially be collected, correlated and used by third parties. 
+Please note, when you voluntarily disclose personally identifiable information on the MyShopping site via reviews, messages, forums or postings, that information, along with any substantive information disclosed in your communication, can potentially be collected, correlated and used by third parties. 
 
 ## Cookies
 
-Cookies are small pieces of information sent to your browser to authenticate, track, and maintain specific information about your interactions with a site. My Shopping uses cookies to remember who you are when you log-in, to tracking your browsing patterns and to customise and improve our site. The type of information we collect depends on what information and services you access and use, but generally do not contain or are not tied to your personal information. We may also use cookies for anonymous profiling purposes to tailor advertising to your preferences. You may opt-out of this anonymous profiling by contacting us. You can instruct your browser to refuse cookies, although this may prevent access to or limit some of the information of services contained on the site. 
+Cookies are small pieces of information sent to your browser to authenticate, track, and maintain specific information about your interactions with a site. MyShopping uses cookies to remember who you are when you log-in, to tracking your browsing patterns and to customise and improve our site. The type of information we collect depends on what information and services you access and use, but generally do not contain or are not tied to your personal information. We may also use cookies for anonymous profiling purposes to tailor advertising to your preferences. You may opt-out of this anonymous profiling by contacting us. You can instruct your browser to refuse cookies, although this may prevent access to or limit some of the information of services contained on the site. 
 
-## My Shopping Club Registration
+## MyShopping Rewards Program Registration
 
-If you wish to access and use My Shopping Club, you must register and create a user account. All information you provide when registering for a My Shopping Club user account including your name, address, email address, telephone number or other details can be viewed, modified or deleted at any time by contacting us or by accessing the "My Shopping Club" section of the site. Registered users who wish to close their account should send an email to contactus@myshopping.com.au. If requested, My Shopping will use commercially reasonable efforts to functionally remove your personal information from the site. Given the nature of the My Shopping site, it may be impossible to remove all details and some residual personal information may remain on the site. 
+If you wish to access and use MyShopping Rewards Program, you must register and create a user account. All information you provide when registering for a MyShopping Rewards Program user account including your name, address, email address, telephone number or other details can be viewed, modified or deleted at any time by contacting us or by accessing the "MyShopping Rewards Program" section of the site. Registered users who wish to close their account should send an email to contactus@myshopping.com.au. If requested, MyShopping will use commercially reasonable efforts to functionally remove your personal information from the site. Given the nature of the MyShopping site, it may be impossible to remove all details and some residual personal information may remain on the site. 
 
 ## Using personal information
 
-My Shopping is an online environment that allows people to compare merchants, products, stores and prices. All of this information is aggregated and made available in a convenient form. To accomplish this, some users write reviews, articles, opinions or responses about merchants, products, stores and prices and post this information to the site. These postings can then be accessed and read by other My Shopping users. To fulfil this purpose of the site, we need to display a limited amount of personal information, so that users are able to evaluate the trustworthiness of a particular contribution. My Shopping does not use or disclose your personal information for a purpose other than that for which it was collected, unless such use or disclosure would be reasonably expected or, if you give us your consent. In the event that you opt in for surveys or complete surveys, your personal information may be collected and used for research, validation, de-duplication or specific project needs by our Affiliate or partners. You also consent to your information being transferred outside Australia by our partners and affiliates. Unless you contact us to indicate otherwise, you consent to your personal information being used to: 
+MyShopping is an online environment that allows people to compare merchants, products, stores and prices. All of this information is aggregated and made available in a convenient form. To accomplish this, some users write reviews, articles, opinions or responses about merchants, products, stores and prices and post this information to the site. These postings can then be accessed and read by other MyShopping users. To fulfil this purpose of the site, we need to display a limited amount of personal information, so that users are able to evaluate the trustworthiness of a particular contribution. MyShopping does not use or disclose your personal information for a purpose other than that for which it was collected, unless such use or disclosure would be reasonably expected or, if you give us your consent. In the event that you opt in for surveys or complete surveys, your personal information may be collected and used for research, validation, de-duplication or specific project needs by our Affiliate or partners. You also consent to your information being transferred outside Australia by our partners and affiliates. Unless you contact us to indicate otherwise, you consent to your personal information being used to: 
 
-  * establish a My Shopping Club user account
+  * establish a MyShopping Rewards Program user account
   * contact you for any purpose related to your account or your use of the site
   * verify your identity
   * market products, services and special offers to you
@@ -73,11 +73,11 @@ Several advertising networks are responsible for placing some of the advertising
 
 ## Transferring your personal information
 
-We reserve the right to transfer your personal information in the event of a transfer of ownership of My Shopping, such as an acquisition by or merger with another company. In such an event, My Shopping will notify you (by displaying a notice in your My Shopping Club user account) before your personal information is transferred and becomes subject to a different privacy policy. My Shopping will notify you (by displaying a notice in your My Shopping Club user account) when your personal information may be provided to third parties in ways other than explained above, and you will have the option to prevent such information sharing. 
+We reserve the right to transfer your personal information in the event of a transfer of ownership of MyShopping, such as an acquisition by or merger with another company. In such an event, MyShopping will notify you (by displaying a notice in your MyShopping Rewards Program user account) before your personal information is transferred and becomes subject to a different privacy policy. MyShopping will notify you (by displaying a notice in your MyShopping Rewards Program user account) when your personal information may be provided to third parties in ways other than explained above, and you will have the option to prevent such information sharing. 
 
 ## Trans-border transfer of your personal information
 
-My Shopping is an Australian entity however our server, and all data we collect in the operation of this site, is hosted in the United States of America (USA). You understand and agrees that any personal information you provide through your use of this Site may be transferred to our server in the USA. By continuing to access and use this site, you consent to the application of Australian laws relating to the collection, use, and disclosure of your personal information and to the transfer of your personal information to the USA. 
+MyShopping is an Australian entity however our server, and all data we collect in the operation of this site, could be hosted outside of Australia. You understand and agrees that any personal information you provide through your use of this Site may be transferred to our servers ourside of Australia. By continuing to access and use this site, you consent to the application of Australian laws relating to the collection, use, and disclosure of your personal information and to the transfer of your personal information outside of Australia. 
 
 ## Disclosing personal information
 
@@ -85,15 +85,15 @@ We may use third-party advertising companies to serve ads on our site. These com
 
 ## Links to third party sites
 
-My Shopping may contain links to third party sites. These linked sites are not under our control. We are not responsible for the privacy practices of those sites and do not know whether cookies or other tracking devices are used on linked sites. We recommend that you review the privacy policies of each site you visit before disclosing your personal information. 
+MyShopping may contain links to third party sites. These linked sites are not under our control. We are not responsible for the privacy practices of those sites and do not know whether cookies or other tracking devices are used on linked sites. We recommend that you review the privacy policies of each site you visit before disclosing your personal information. 
 
 ## Securing your personal information
 
-All personal information held by My Shopping is stored on secure servers that are protected in a controlled environment. You should be aware however that due to the open nature of the Internet, information exchanged via the Internet may be accessed and used by people other than those for whom the data is intended. If you provide or send us any personal information, it is sent at your own risk. Although we endeavour to keep your personal information secure, My Shopping will not be held responsible for any unauthorised access and use of your personal information. To help us keep your personal information secure, you should at all times keep your password, user-name and My Shopping Club account details used on the My Shopping site confidential. If you become aware of unauthorised usage of your password, user-name or account you should contact us immediately. 
+All personal information held by MyShopping is stored on secure servers that are protected in a controlled environment. You should be aware however that due to the open nature of the Internet, information exchanged via the Internet may be accessed and used by people other than those for whom the data is intended. If you provide or send us any personal information, it is sent at your own risk. Although we endeavour to keep your personal information secure, MyShopping will not be held responsible for any unauthorised access and use of your personal information. To help us keep your personal information secure, you should at all times keep your password, user-name and MyShopping Rewards Program account details used on the MyShopping site confidential. If you become aware of unauthorised usage of your password, user-name or account you should contact us immediately. 
 
 ## Privacy changes
 
-To keep this information current and accurate, My Shopping will review and update this Privacy Policy and post the changes here 
+To keep this information current and accurate, MyShopping will review and update this Privacy Policy and post the changes here 
 
 ## Contact us
 
