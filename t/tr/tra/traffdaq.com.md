@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the traffdaq.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040210id_/http%3A//traffdaq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffdaq.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222085557id_/http%3A//traffdaq.com/privacy-policy) for the most accurate reproduction.*
 
-# TRAFFDAQ - Traffic Exchange - Multiply Your Traffic, Guaranteed!
-
-### Try Our Brand New Direct Link!   
-And Get Credits for All the Traffic You Can Send, From Any Source!
-
-  * Get credits from blind links.
-  * Simply redirect all traffic from dead-end pages and get something out of it.
-  * Be creative and use custom methods to get traffic.
-  * Send your remnant inventory from media buying and turn the credits into the traffic you actually want.
-
-
-
-#### Check it out today in the "Get Code" section!
+# TRAFFDAQ - Multiply Your Traffic, Guaranteed!
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
