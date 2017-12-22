@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adazing.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625001357id_/http%3A//www.adazing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adazing.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222151611id_/http%3A//www.adazing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Adazing Design
-
-**What information do we collect?**
+# Privacy Policy - Adazing
 
 We collect information from you when you fill out a form.
 
@@ -47,15 +45,3 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Your Consent**
-
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on April 20, 2012
-
-http://www.adazing.com
