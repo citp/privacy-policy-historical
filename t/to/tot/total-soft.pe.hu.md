@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the total-soft.pe.hu privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628193535id_/http%3A//total-soft.pe.hu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the total-soft.pe.hu privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222190024id_/http%3A//total-soft.pe.hu/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy
+
+[](https://www.2checkout.com/checkout/purchase?sid=102904153&quantity=1&product_id=27)
+
+### .
+
+## .
+
+## **Limited Time Offer**
+
+* * *
+
+## **SPECIAL OFFER**
+
+### Get discount when you buy all Total Soft Developer plugins worth **170 for 55 **only. It Includes Event Calendar, Poll, Portfolio Gallery, Video Gallery & Total Event Calendar.
 
 ##  Information We Collect From You 
 
