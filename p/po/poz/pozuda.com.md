@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pozuda.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516043518id_/http%3A//pozuda.com%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pozuda.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222185154id_/http%3A//pozuda.com%3Fprivacy) for the most accurate reproduction.*
 
 # Flashlight Enterprises Corporation Privacy Policy Statement :: pozuda.com
 
