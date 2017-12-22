@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytokri.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616020816id_/http%3A//www.mytokri.com/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytokri.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222175916id_/http%3A//www.mytokri.com/tos) for the most accurate reproduction.*
 
 # Mytokri Privacy Policy | Terms & Condition
 
@@ -74,10 +74,67 @@ Mytokri does not claim to be liable or favouring the information, products or se
 
 The policies and the statement summarized here are not proposed to and do not make any legal or contractual rights in or to represent any party.
 
+## Payment Policy
+
+  * **Terms and conditions**
+
+
+
+MyTokri.com including our mobile app is driven by the Web Byte Technologies Pvt. Ltd. By using this website you make your agreement to the terms and conditions required by us to fulfillment of our objective within legal framework.
+
+We may at any time without prior approval and notification to the users and we have every right to amend these terms anytime. If you want to be updated about the terms and conditions in regard to the website then please check these terms from time to time to make sure that you not leaving any points here.
+
+We are always committed to provide you better user experience in the accessibility of this website and our website design is related to stipulated terms.
+
+  * **Exclusion of our liability**
+
+
+
+By inserting this section in our terms and conditions we here by believe that reading below liability exclusion will ensure you to understanding the below stated conditions are not binding us for be held any of circumstances occurred.
+
+However nothing in this exclusion contains anything which we are required to perform as our part due to the applicable laws.
+
+We accept that no liability arising out of the access of website including errors and website unavailability is liable on our part.
+
+* Economic Loss
+* Loss of a good reputation 
+* Special, unforeseen, resulting reduction or harm,
+* Suffered coming up in relationship with your use of this site and these conditions.
+
+Access to and use of this site is at the user's own risk and we do not guarantee that the use of this site or any content downloadable from it will not cause harm to any residence, or otherwise reduce or eliminate the natural risks of the world wide web such as but not restricted to information reduction. Also, we accept no liability according of failures or loss coming up out of changes made to the information of this site by unexpected third parties.
+
+To offer increased value to users of this site, we may offer hyperlinks to other sites or sources (that are not part of Web Byte technologies) for you to gain accessibility at your sole attention. You recognize and agree that, as you have chosen to enter the connected website we are not accountable for the provision of such exterior sites or sources, and do not review or promote and shall not be accountable or accountable, straight or ultimately, for (i) the comfort practices of such sites, (ii) the information of such sites, such as (without limitation) any marketing, content, items, products or many other components or solutions on or available from such sites or sources or (iii) the use that others kind of such sites or sources, nor for any harm, reduction or offence triggered or purported to be triggered by, or in relationship with, the use of or dependency on any such marketing, content, items, products or many other components or solutions available on such exterior sites or sources.
+
+The above restriction or exemption may not apply to you to the extent that appropriate law may not allow the restriction or exemption of liability for unforeseen or resulting loss.
+
+  * **Responsibility**
+
+
+
+While we take all affordable reason and ensure that this site is kept up to date, we create no assurance or reflection that such components are accurate or reliable, or that this site will always be available, or that any problems will be fixed, or that it is free of viruses and the like. We may change the information of this site at any time without any liability. We create no reflection or assurance with regards to any third party items and solutions that you may buy through our customers. So far as permitted by law, we will not be accountable for any direct, oblique, unforeseen or resulting reduction or harm that may occur out of your accessibility, use or inability to use this site or our deal pages.
+
+  * **Links**
+
+
+
+In addition to the details on this site, there may be hyperlinks to third party sites, the information of which is beyond the control of us. We offer such hyperlinks to you as a convenience only. The addition of such hyperlinks is not an approval by us towards any company offering any solutions or items on any connected web page. It is under your control to exercise your own skill and proper care based to any content on those exterior sites. We will not be accountable for any reduction or harm that may occur from or relating to a connected third party web page.
+
+  * **Rights**
+
+
+
+We hold the IP privileges in the material of this site and all privileges are arranged. Not including any images or photography on the site, you may download, store in storage cache, display and print the information and knowledge in an unaltered form for your own or internal company purposes only provided that this observe appears with all duplicates. You must not consistently recover information or other content from this site to create or gather, straight or ultimately, a collection, or copy, re-transmit, spread or commercialize any content or details about this site, without our prior written authorization.
+
+  * **Contact**
+
+
+
+Questions, comments and demands regarding these conditions are accepted and you should get in touch with us.
+
 ### Stay Tuned
 
 Stay updated with our new deals and coupons
 
 We respect your privacy
 
-[Scroll To Top]( "Scroll To Top")
+Scroll To Top 
