@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fau.edu privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608091226id_/http%3A//www.fau.edu/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fau.edu privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222220607id_/http%3A//www.fau.edu/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy : Florida Atlantic University
+# FAU | Privacy Policy | http://www.fau.edu/privacypolicy.php
 
 Thank you for visiting the Florida Atlantic University website. Our policy is to collect no personal information about you when you visit our website unless you choose to make such information available to us.
 
@@ -10,9 +10,9 @@ As an agency of the State of Florida, information shared with us is subject to d
 
 Please be advised that under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public records request, do not send us electronic mail. Instead, contact us by phone or in writing.
 
-If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to e-mail us at [fauweb@fau.edu](mailto:fauweb@fau.edu) or you can reach us by telephone at 561-297-3999.
+If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to e-mail us at [fauweb@fau.edu](mailto:fauweb@fau.edu?subject=) or you can reach us by telephone at [561-297-3999](tel:561-297-3999).
 
-For more information regarding the privacy and protection of medical information and records at FAU, please visit: [http://www.fau.edu/hipaa](http://www.fau.edu/hipaa/)
+For more information regarding the privacy and protection of medical information and records at FAU, please visit: <http://www.fau.edu/hipaa>
 
 ## FAU Web Legal Notice
 
