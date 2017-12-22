@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litmus.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628103233id_/https%3A//litmus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litmus.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222012330id_/https%3A//litmus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,6 +6,7 @@
   * [Pricing](https://web.archive.org/pricing)
   * [Resources](https://web.archive.org/resources)
   * [Enterprise](https://web.archive.org/enterprise)
+  * [Community](https://web.archive.org/community)
   * [Blog](https://web.archive.org/blog)
 
 * * *
