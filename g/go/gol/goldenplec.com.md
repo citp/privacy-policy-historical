@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenplec.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322045238id_/https%3A//www.goldenplec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenplec.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222070842id_/https%3A//www.goldenplec.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GoldenPlec Music Magazine
 
@@ -19,17 +19,17 @@ It is [GoldenPlec](https://www.goldenplec.com/)’s policy to respect your priva
 
 ### Website Visitors
 
-Like most website operators, GoldenPlec collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. GoldenPlec’s purpose in collecting non-personally identifying information is to better understand how GoldenPlec’s visitors use its website. From time to time, GoldenPlec may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Like most website operators, [GoldenPlec](https://www.goldenplec.com/) collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. [GoldenPlec](https://www.goldenplec.com/)’s purpose in collecting non-personally identifying information is to better understand how [GoldenPlec](https://www.goldenplec.com/)’s visitors use its website. From time to time, [GoldenPlec](https://www.goldenplec.com/) may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-GoldenPlec also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on articles. GoldenPlec only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
+[GoldenPlec](https://www.goldenplec.com/) also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on articles. [GoldenPlec](https://www.goldenplec.com/) only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to GoldenPlec’s websites choose to interact with GoldenPlec in ways that require GoldenPlec to gather personally-identifying information. The amount and type of information that GoldenPlec gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account to comment to provide a username and email address. GoldenPlec collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with GoldenPlec. GoldenPlec does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to [GoldenPlec](https://www.goldenplec.com/)’s websites choose to interact with [GoldenPlec](https://www.goldenplec.com/) in ways that require [GoldenPlec](https://www.goldenplec.com/) to gather personally-identifying information. The amount and type of information that [GoldenPlec](https://www.goldenplec.com/) gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account to comment to provide a username and email address. [GoldenPlec](https://www.goldenplec.com/) collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with [GoldenPlec](https://www.goldenplec.com/). [GoldenPlec](https://www.goldenplec.com/) does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
-GoldenPlec may collect statistics about the behaviour of visitors to its websites. For instance, GoldenPlec may monitor the most popular posts on Goldenplec.com or use spam screened by the Akismet service to help identify spam. GoldenPlec may display this information publicly or provide it to others. However, GoldenPlec does not disclose personally-identifying information other than as described below.
+[GoldenPlec](https://www.goldenplec.com/) may collect statistics about the behaviour of visitors to its websites. For instance, [GoldenPlec](https://www.goldenplec.com/) may monitor the most popular posts on [Goldenplec](https://www.goldenplec.com/).com or use spam screened by the Akismet service to help identify spam. [GoldenPlec](https://www.goldenplec.com/) may display this information publicly or provide it to others. However, [GoldenPlec](https://www.goldenplec.com/) does not disclose personally-identifying information other than as described below.
 
 ### Protection of Certain Personally-Identifying Information
 
@@ -53,7 +53,7 @@ In the case of Muzu video adverts, cookies may be used to remember a users choic
 
 ### Comments
 
-Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid [future](https://www.goldenplec.com/bands/future/) false positives.
+Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
 ### Privacy Policy Changes
 
