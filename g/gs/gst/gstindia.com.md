@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gstindia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121414id_/http%3A//www.gstindia.com/disclaimer-privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gstindia.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222225311id_/http%3A//www.gstindia.com/disclaimer-privacy-policy-terms-of-use) for the most accurate reproduction.*
 
 # Disclaimer – Privacy Policy – Terms of use. – GST India-Goods and Services Tax in India
 
@@ -70,7 +70,7 @@ We may use third party service providers to help us operate our business and the
 
 7\. GOOGLE ADSENSE
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/policies/technologies/ads/>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/policies/technologies/ads/](https://www.google.com/policies/technologies/ads/)
 
 8. COMPLIANCE WITH CHILDREN’S ONLINE PRIVACY PROTECTION ACT
 
