@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashnetwork.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004150id_/http%3A//cashnetwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnetwork.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223054853id_/http%3A//cashnetwork.com/privacy.html) for the most accurate reproduction.*
 
 # Cash Network
 
