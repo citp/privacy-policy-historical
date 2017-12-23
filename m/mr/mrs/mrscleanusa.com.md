@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616120649id_/http%3A//www.mrscleanusa.com/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223184700id_/http%3A//www.mrscleanusa.com/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
 
 # Mrs Clean's Privacy Policy
 
@@ -69,7 +69,7 @@ Toll Free: +1 (888) 253-2607
 Email: [info@mrscleanusa.com](mailto:info@mrscleanusa.com)   
 [+Mrs Clean](https://plus.google.com/+MrsClean1/posts "Mrs. Clean") [+Mrs Clean House Cleaning ](https://plus.google.com/+MrsCleanHouseCleaningRedmond/about "Mrs Clean House Cleaning")
 
-[Mrs. Clean's House Cleaning and Maid Service](http://www.mrscleanusa.com/), [Cleaning Blog](http://mrscleanusa.blogspot.com/), [Cleaning Tips on Facebook](https://www.facebook.com/cleaningtips), [Mrs Clean on Twitter](https://twitter.com/mrscleanusa), [Mrs Clean on Linkedin](https://www.linkedin.com/in/corinaw).
+[Mrs. Clean's House Cleaning and Maid Service](http://www.mrscleanusa.com/), [Cleaning Blog](http://mrscleanusa.blogspot.com/), [Cleaning Tips on Facebook](https://www.facebook.com/mrscleanhousecleaning), [Mrs Clean on Twitter](https://twitter.com/mrscleanusa), [Mrs Clean on Linkedin](https://www.linkedin.com/in/corinaw).
 
 ## Resolving Disputes
 
