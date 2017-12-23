@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolutions2040.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616202445id_/http%3A//www.revolutions2040.com/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolutions2040.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223174922id_/http%3A//www.revolutions2040.com/privacy-policy-disclaimer) for the most accurate reproduction.*
 
 # PRIVACY POLICY & DISCLAIMER - REVOS.2040
 
