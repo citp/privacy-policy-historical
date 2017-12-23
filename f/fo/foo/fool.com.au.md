@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155158id_/http%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223045011id_/https%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motley Fool Australia
 
@@ -56,7 +56,8 @@ At The Motley Fool and our affiliated websites cookies are primarily used in the
 
   * To automatically access your previously stored account information, so that we don’t ask for your information multiple times.
   * To estimate our audience size and usage patterns.
-
+  * TO ENABLE ADVERTISING PARTNERSHIPS FOR OUR PRODUCTS 
+  * 
 
 
 In addition, if you provide us with your email address anywhere on the site (including on our order pages), we will place a cookie on your device that temporarily stores your email address. We may use this information to subsequently contact you. Most browsers are set up to accept cookies, but you can configure your browser to refuse cookies or to notify you when you’ve received one. If you reject cookies, though, we will continue to ask for an email address to access our articles.
