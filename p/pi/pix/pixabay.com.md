@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the pixabay.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628082143id_/https%3A//pixabay.com/en/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixabay.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223070139id_/https%3A//pixabay.com/en/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The following information is to help You understand how We collect, use, disseminate and safeguard the data You provide while accessing and using Pixabay.
+The following information is to help you understand how we collect, use, disseminate and safeguard the data you provide while accessing and using Pixabay.
 
 ## Personal information
 
 You may provide certain personal information, such as your first and last name, the country you live in, PayPal information, and email address, which will be displayed on your public profile page on Pixabay.
 
-Whenever You visit a page, our servers automatically record certain information that your web browser sends. This may include information such as your IP address, browser type and language, pages viewed, the date and time. This data is used for ensuring the stability of our provided services and is deleted automatically after seven days.
+Whenever you visit a page, our servers automatically record certain information that your web browser sends. This may include information such as your IP address, browser type and language, pages viewed, the date and time. This data is used for ensuring the stability of our provided services and is deleted automatically after seven days.
 
-We respect and are committed to protecting your privacy. We do not sell or otherwise provide personal information to other companies for the marketing of their own products or services. We will retain your personal information for as long as your account is active or as needed to provide You services or as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We respect and are committed to protecting your privacy. We do not sell or otherwise provide personal information to other companies for the marketing of their own products or services. We will retain your personal information for as long as your account is active or as needed to provide you services or as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-We reserve the right to disclose your personal information as required by law (e.g., to comply with a subpoena, warrant, or court order) and when we believe that disclosure is necessary to protect our rights, avoid litigation, protect your safety or the safety of others, investigate fraud, and/or respond to a government request. We may also disclose information about You if we determine that such disclosure should be made for reasons of national security, law enforcement, or other issues of public importance.
+We reserve the right to disclose your personal information as required by law (e.g., to comply with a subpoena, warrant, or court order) and when we believe that disclosure is necessary to protect our rights, avoid litigation, protect your safety or the safety of others, investigate fraud, and/or respond to a government request. We may also disclose information about you if we determine that such disclosure should be made for reasons of national security, law enforcement, or other issues of public importance.
 
 ## Cookies
 
-A cookie is a small file containing a string of characters that is sent to your computer when You visit a website. When You visit the website again, the cookie allows that site to recognize your browser. Cookies are used on Pixabay to store visitor preferences and other technical information required for the functionality of the Website. No personal information is stored in these cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.
-
-This site uses [cookies from Google](http://www.google.com/policies/technologies/cookies/) to deliver its services, to personalize ads and to analyze traffic. Information about your use of this site is shared with Google. By using this site, you agree to its use of cookies.
+A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies are used on Pixabay to store visitor preferences and other technical information required for the functionality of the Website. No personal information is stored in these cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.
 
 ## Third-party service-based information
 
-Pixabay is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+Pixabay is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
 ## Google Analytics
 
