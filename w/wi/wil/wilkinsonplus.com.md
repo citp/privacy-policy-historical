@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilkinsonplus.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618071236id_/http%3A//www.wilko.com/privacy-policy/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilkinsonplus.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223204116id_/http%3A//www.wilko.com/privacy-policy/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at wilko.com
 
@@ -24,7 +24,7 @@ Back to top ￪
 
 ## 3: Information we collect and how we use it
 
-**How do we collect information?**  
+**How do we collect information?**   
 Information about you may be:
 
   * • Provided to us by you;
@@ -66,13 +66,15 @@ The information we collect may include:
 
 We may use the information in the following ways:
 
-  * To contact you via email, telephone, SMS, letter, social media, push notification or equivalent (where you have given us consent);
-  * To ensure that our website is personalised to your taste and that you are provided with the most suitable content;
-  * To provide or allow Wilko branded products (provided by third parties acting on behalf of Wilko) to provide you with information about other goods and services and to notify you of our offers, discounts, promotions, and competitions that are similar to those that you have previously purchased or enquired about;
-  * To carry out our obligations arising from any contracts or transactions you enter into with us;
-  * To notify you about changes to our services;
-  * To maintain and administer our website and any registered account that you hold with us;
-  * Where you are approached or asked to participate in a market survey to undertake market research, assessment and analysis so that we can review, develop and improve the services that we offer to you and our other customers.
+  * • We may use the information in the following ways:
+  * • To contact you via email, telephone, SMS, letter, social media, push notification or equivalent (where you have given us consent);
+  * • To ensure that our website is personalised to your taste and that you are provided with the most suitable content;
+  * • To provide or allow Wilko branded products (provided by third parties acting on behalf of Wilko) to provide you with information about other goods and services and to notify you of our offers, discounts, promotions, and competitions that are similar to those that you have previously purchased or enquired about;
+  * • To carry out our obligations arising from any contracts or transactions you enter into with us;
+  * • To notify you about changes to our services;
+  * • To maintain and administer our website and any registered account that you hold with us;
+  * • To produce marketing materials (where you have given us consent);
+  * • Where you are approached or asked to participate in a market survey to undertake market research, assessment and analysis so that we can review, develop and improve the services that we offer to you and our other customers.
 
 
 
@@ -138,9 +140,9 @@ If you would like to know what information we have about you please contact Cust
 
 Wilko will not keep your personal information longer than is necessary in connection with our customer relationship. 
 
-Any questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Customer Care on:  
-Telephone: 08000 329 329  
-Email: [enquiries@wilko.com](mailto:enquiries@wilko.com)  
+Any questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Customer Care on:   
+Telephone: 08000 329 329   
+Email: [enquiries@wilko.com](mailto:enquiries@wilko.com)   
 Address: Wilko Retail Ltd, JK House, Roebuck Way, Manton Wood, Worksop, Notts. S80 3EG 
 
 Back to top ￪
