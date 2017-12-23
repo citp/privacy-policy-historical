@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordsinasentence.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607190739id_/http%3A//wordsinasentence.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordsinasentence.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223172605id_/http%3A//wordsinasentence.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - WordsinaSentence.com
 
@@ -53,6 +53,10 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
+**Amazon**
+
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+
 **Changes to this privacy policy**
 
 WordsinaSentence has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -66,6 +70,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [WordsinaSentence](http://www.generateprivacypolicy.com/account/policies/edit/wordsinasentence.com)  
 [wordsinasentence.com](http://www.generateprivacypolicy.com/account/policies/edit/wordsinasentence.com)  
-contact@wordsinasentence.com
+james@wordsinasentence.com
 
-This document was last updated on March 06, 2014
+This document was last updated on July 25, 2017
