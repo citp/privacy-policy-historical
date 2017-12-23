@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webster.edu privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606063657id_/http%3A//www.webster.edu/_resources/web-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webster.edu privacy policy that was archived on 2017-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171223092857id_/http%3A//www.webster.edu/_resources/web-privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -20,15 +20,15 @@
 <link rel="stylesheet" href="/_resources/css/mobile_fluid.css" media="screen">
 <link rel="stylesheet" href="/_resources/js/fancybox/jquery.fancybox.css" media="screen">
 <link rel="stylesheet" href="/_resources/css/e2campus.css" media="screen">
-
+<link rel="stylesheet" href="/_resources/css/print.css" media="print">
       
-      <script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=017679891359362764966:sa1rbgpzqpe"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WBL4"></script><script type="text/javascript" src="https://use.typekit.net/dep3sop.js"></script>
+      <script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=017679891359362764966:sa1rbgpzqpe"></script><script type="text/javascript" async="" src="https://secure-cdn.mplxtms.com/s/MasterTMS.min.js#2132"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WBL4"></script><script type="text/javascript" src="https://use.typekit.net/dep3sop.js"></script>
 <script type="text/javascript">// <![CDATA[
 try{Typekit.load({ async: true });}catch(e){}
 // ]]></script>
 
       
-      <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
 
 <script type="text/javascript" src="/_resources/js/timeline.js"></script>
 
@@ -54,7 +54,67 @@ try{Typekit.load({ async: true });}catch(e){}
       
       <!-- revised google tracking | 26Jun12 -->
 <script type="text/javascript">// <![CDATA[
-	// - code removed (but archived in gacode-old.inc
+var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3561359-1']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_setDomainName', 'webster.edu']);
+  _gaq.push(['_addIgnoreRef', 'webster.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[2]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
+if(typeof jQuery != 'function'){
+		var script = '<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"><\/script>';
+		document.write(script);
+	}
+// ]]></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script type="text/javascript">// <![CDATA[
+$(function(){
+    $("a[href*='http']").each(function() {
+                    $(this).click(function (ev) {
+                        var pageView = '/outgoing/' + $(this).attr('href');
+                        _gat._getTrackerByName()._trackEvent('Outbound Links', pageView);
+                        var _href = $(this).attr('href');
+                        setTimeout(function() {
+                            location.href = _href;
+                        }, 100);
+                        ev.preventDefault();
+                        return false;
+                    });
+        });
+      $("a[href*='mailto']").each(function() {
+                    $(this).click(function (ev) {
+                        var pageView = '/mailto/' + $(this).attr('href').substring(7);
+                        _gat._getTrackerByName()._trackEvent('Mailto', pageView);
+                    });
+        });
+      $("a[href*='#']").each(function() {
+                    $(this).click(function (ev) {
+                        var pageView = '/anchor/' + $(this).attr('href').substring(1);
+                        _gat._getTrackerByName()._trackEvent('Anchors', pageView);
+                    });
+        });
+});
+
+      $(document).ready(function(){
+
+		$('a').mouseup(function(){
+			href = $(this).attr('href');
+			if (href !== null) {			
+				href_lower = href.toLowerCase();
+				if(href_lower.substr(-3) == "pdf" || href_lower.substr(-3) == "xls" || href_lower.substr(-3) == "doc" ||
+				   href_lower.substr(-3) == "mp3" || href_lower.substr(-3) == "mp4" || href_lower.substr(-3) == "flv" ||
+				   href_lower.substr(-3) == "txt" || href_lower.substr(-3) == "csv" || href_lower.substr(-3) == "zip") {
+					_gaq.push(['_trackEvent', 'Downloads', href_lower.substr(-3), href]);
+				}
+			}
+		});
+	   });
 // ]]></script> 
 
       
@@ -71,6 +131,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-WBL4');</script>
 <!-- End Google Tag Manager -->
 
+<!-- ConversantUDO Tracking for GUS-->
+<script id="masterTmsUdo"> window.MasterTmsUdo = { "leadID": "%leadid%", "awardingbody": "%awardingbody%", "studymode": "%studymode%", "productcategory": "%productcategory%", "productname": "%productname%", "country": "%country%" };</script>
+  
+<script id="mtms">(function(e){var t="2132",n=document,r,i,s={http:"http://cdn.mplxtms.com/s/MasterTMS.min.js",https:"https://secure-cdn.mplxtms.com/s/MasterTMS.min.js"},o=s[/\w+/.exec(window.location.protocol)[0]];i=n.createElement("script"),i.type="text/javascript",i.async=!0,i.src=o+"#"+t,r=n.getElementsByTagName("script")[0],r.parentNode.insertBefore(i,r),i.readyState?i.onreadystatechange=function(){if(i.readyState==="loaded"||i.readyState==="complete")i.onreadystatechange=null}:i.onload=function(){try{e()}catch(t){}}})(function(){});</script>
+<!-- End ConversantUDO Tracking for GUS-->
       
       <div class="mobile_hide slim_wrap">
          <div class="slimline"></div>
@@ -79,10 +144,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          <div class="wrapper">
             <div class="logo">
                
-               
-
-<a href="/index.html"><img src="/_resources/images/logo.png" alt="Webster University"></a>
-
+               <a href="/index.html"><img class="screen" src="/_resources/images/logo.png" alt="Webster University"></a> <img class="print" src="/_resources/images/logo-print.png" alt="Webster University" width="157" height="77">
 
                
             </div>
@@ -499,7 +561,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a href="/faculty/index.html">Faculty</a></li>
 <li><a href="/staff/index.html">Staff</a></li>
 <li><a href="/military/index.html">Military</a></li>
-<li><a href="/alumni/index.html">Alumni</a></li>
+<li><a href="https://www.alumni.webster.edu/" target="_blank">Alumni</a></li>
 <li><a href="/community/index.html">Community</a></li>
 </ul>
 
