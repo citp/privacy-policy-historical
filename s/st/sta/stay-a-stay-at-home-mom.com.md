@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stay-a-stay-at-home-mom.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624070354id_/http%3A//www.stay-a-stay-at-home-mom.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stay-a-stay-at-home-mom.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223135255id_/http%3A//www.stay-a-stay-at-home-mom.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
