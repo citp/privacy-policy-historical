@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the drupalcon.org privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012073658id_/https%3A//www.drupal.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupalcon.org privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223092641id_/https%3A//www.drupal.org/privacy) for the most accurate reproduction.*
 
 # Drupal.org Privacy Policy | Drupal.org
 
-_Last updated: 03 December 2015_
+_Last updated: 19 September 2017_
 
 We value your privacy and strive to protect your personal information. Please read this Policy to understand what types of information we collect from you, for what purposes and what choices you have regarding our collection of your information.  
 This policy covers Drupal.org website and all *.drupal.org subsites (collectively, the "Website"). By accessing, using or posting information to this Website, you agree to this Privacy Policy and the [Terms of Service](https://web.archive.org/terms).
@@ -66,6 +66,7 @@ Your public profile that you create on this Website will be visible to all users
 We use a number of service providers to help us operate the site and provide high quality user experience to our visitors. Some of those providers can access Non-PII about you via automatic data collection technologies.
 
   * We use [Mollom](https://www.mollom.com/) for spam detection and prevention. When you register an account on Drupal.org, you accept the [Mollom privacy policy](https://www.mollom.com/web-service-privacy-policy).
+  * We use [ReCaptcha](https://www.google.com/recaptcha/intro/) for spam detection and prevention. When you register an account or complete a form on Drupal.org, you accept the ReCaptcha [terms of service](https://www.google.com/intl/en/policies/terms/) and [privacy policy.](https://www.google.com/intl/en/policies/privacy/)
   * We use Mailchimp to send Newsletter emails to users who subscribe to receive them. You can review [Mailchimp privacy policy](http://mailchimp.com/legal/privacy/) for information on how they manage user data.
   * We use [Distil](http://www.distilnetworks.com/) to analyse browser activity during registration to prevent malicious users from registering accounts. You can view [Distil’s privacy policy](http://www.distilnetworks.com/privacy/) for information on how they manage request data. Distil's profiling is only enabled on registration form (at register.drupal.org) and no user data is provided to Distil through other areas of Drupal.org.
 
@@ -124,9 +125,21 @@ We may disclose or share your PII only in limited circumstances:
 
   * With any Drupal Association employee or agent for support of our internal and business operations or to respond to a request made by you.
   * We may disclose information we collect from or about you when we believe disclosure is appropriate to comply with the law, to enforce agreements, or to protect the rights, property, or safety of users of this Website, the Association, or other persons or organizations.
-  * If some or all of our business assets are sold or transferred as a result of any corporate change (merger, consolidation, reorganization, bankruptcy, etc.), we may transfer the corresponding information regarding our customers and users of Drupal.org and its subsites, including PII. We also may retain a copy of such information. Nothing in this Privacy Policy is intended to interfere with our ability to transfer all or part of our business, equity interests, or assets (including this Website) to an affiliate or unaffiliated third party at any time, for any purpose, without any limitation, and without notice or any compensation to you.
+  * If some or all of our business assets are sold or transferred as a result of any corporate change (merger, consolidation, reorganization, bankruptcy, etc.), we may transfer the corresponding information regarding our customers and users of Drupal.org and its subsites, including PII. We also may retain a copy of such information. Nothing in this Privacy Policy is intended to interfere with our ability to transfer all or part of our business, equity interests, or assets (including this Website) to an affiliate or unaffiliated third party at any time, for any purpose, without any limitation, and without notice or any compensation to you.  
+ 
 
 
+
+### Disclosure of DrupalCon Attendee Information
+
+DrupalCon attendees may opt-in on their ticket registration to be displayed on the public attendee page for DrupalCon. Users may also update their public Drupal.org profiles to indicate which DrupalCons they have attended. We do distribute attendee information in certain limited cases:
+
+  * Some sponsors get a list of attendee names, but it does not include any contact information. We request that sponsors only contact people via the public profiles on the event site or D.O as people have opted in to being public.
+  * We do not distribute anyone's email addresses to sponsors.
+
+
+
+If you're getting "spam" type solicitations from companies or aggressive inquiries, feel free to let us know at <https://events.drupal.org/vienna2017/contact>
 
 ## Children's Personal Information
 
