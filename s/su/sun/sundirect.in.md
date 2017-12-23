@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundirect.in privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608232220id_/http%3A//www.sundirect.in/privacyandpolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundirect.in privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223142022id_/http%3A//www.sundirect.in/privacyandpolicy.aspx) for the most accurate reproduction.*
 
 # Sun Direct DTH - Privacy Policy
 
