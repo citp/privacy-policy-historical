@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evoke.ie privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611153554id_/http%3A//evoke.ie/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoke.ie privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223054824id_/http%3A//evoke.ie/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - EVOKE.ie
 
@@ -63,11 +63,11 @@ By using our websites, apps and other products and services, you agree that we m
 
  **Registration**
 
-If you’ve registered on our websites or apps, you’ll receive personalised recommendations, newsletters and marketing. These are tailored to you based upon your registration details and other information you provide us, your browsing history interactions with our emails and information we receive from our trusted partners and specialist data companies to help us understand what you might be interested in. This information may be collected using cookies and similar technologies. Please see our  **[Cookie Policy](http://evoke.ie/privacy-policy-cookies#link01) **below for more details.
+If you’ve registered on our websites or apps, you’ll receive personalised recommendations, newsletters and marketing. These are tailored to you based upon your registration details and other information you provide us, your browsing history interactions with our emails and information we receive from our trusted partners and specialist data companies to help us understand what you might be interested in. This information may be collected using cookies and similar technologies. Please see our  **[Cookie Policy](https://evoke.ie/privacy-policy-cookies#link01) **below for more details.
 
  **Message boards, blogs and other public forums**
 
-Our websites may provide message boards, blogs and other user generated content facilities. Anything that you share will become public information. You should always be careful when deciding to disclose your personal information. Please see our [ **Terms**](http://evoke.ie/terms-conditions) and our **[House Rules](http://evoke.ie/house-rules)** for more information. ** **
+Our websites may provide message boards, blogs and other user generated content facilities. Anything that you share will become public information. You should always be careful when deciding to disclose your personal information. Please see our [ **Terms**](https://evoke.ie/terms-conditions) and our **[House Rules](https://evoke.ie/house-rules)** for more information. ** **
 
  **“Email a friend” and “share this article”**
 
@@ -83,7 +83,7 @@ Where you install one of our apps on your mobile device, this may use push notif
 
  **Tailored advertising**
 
-We use advertising to fund our websites and apps. Some advertising is “contextual” meaning it is shown due to the particular webpage you are presently viewing. Other advertising, known as “online behavioural advertising” is shown to you based upon your likely interests, which are inferred from your device’s browsing history. This information is collected through the use of cookies and similar technologies. You may opt-out of online behavioural advertising at any time, please see our  **[Cookie Policy](http://evoke.ie/privacy-policy-cookies#link01)**  for details.
+We use advertising to fund our websites and apps. Some advertising is “contextual” meaning it is shown due to the particular webpage you are presently viewing. Other advertising, known as “online behavioural advertising” is shown to you based upon your likely interests, which are inferred from your device’s browsing history. This information is collected through the use of cookies and similar technologies. You may opt-out of online behavioural advertising at any time, please see our  **[Cookie Policy](https://evoke.ie/privacy-policy-cookies#link01)**  for details.
 
 Sometimes we allow advertisers to show advertisements directly on our website and apps, which are tailored to you based upon information they have obtained, such as your browsing history on their own website.
 
@@ -119,7 +119,7 @@ We comply with the Data Protection Act 1988 and related data protection laws. Fo
 
  **Your choices**
 
-Please note that our website, apps and other products and services may not work correctly (or at all) if you change your preferences. For your cookie choices, please the  **[Cookie Policy](http://evoke.ie/privacy-policy-cookies#link01) **below.
+Please note that our website, apps and other products and services may not work correctly (or at all) if you change your preferences. For your cookie choices, please the  **[Cookie Policy](https://evoke.ie/privacy-policy-cookies#link01) **below.
 
  **Email & SMS marketing**
 
@@ -192,7 +192,7 @@ We use cookies, which are often called ‘analytics cookies’, to gather this i
 
  **(iv) Cookies used to show advertising that is relevant to you**
 
-Some advertising, known as “online behavioural advertising” or “OBA” is tailored to you and uses information collected by first party and third party cookies. Please see our [ **Privacy Policy**](http://evoke.ie/privacy-policy-cookies#link02) above for further information about how we use online behavioural advertising.
+Some advertising, known as “online behavioural advertising” or “OBA” is tailored to you and uses information collected by first party and third party cookies. Please see our [ **Privacy Policy**](https://evoke.ie/privacy-policy-cookies#link02) above for further information about how we use online behavioural advertising.
 
 We also use cookies in order to know how many advertisements we serve, how many times these are clicked or hovered over with a mouse cursor, how many advertisements we show to a given user and how many customer actions these generate.
 
@@ -208,13 +208,13 @@ Some of our web pages will contain promotional links to other companies’ sites
 
 Please note that our website, apps and other products and services may not work correctly (or at all) if you change your preferences.
 
-You can opt-out of receiving cookies by changing your web browser settings. For more information on how to achieve this, please see our ** **[ **Privacy Policy and Cookies FAQ’s**](http://evoke.ie/cookies-faq). 
+You can opt-out of receiving cookies by changing your web browser settings. For more information on how to achieve this, please see our ** **[ **Privacy Policy and Cookies FAQ’s**](https://evoke.ie/cookies-faq). 
 
-You can usually prevent the operation of web-beacons by changing your web-browser cookie settings and your ad choices, or for those in emails, by switching off images in your email client or viewing emails using only the “text” display (rather than “HTML” display”). See the “Help” section of your email client for instructions. You can opt-out of analytics cookies on this website on our “[ **Controlling online behavioural advertising and other third party cookies**](http://evoke.ie/controlling-interest-based-advertising-and-other-third-party-cookies)” page. Where you use our apps, similar technologies to cookies are used for analytics. Is it not presently possible to opt-out of these similar technologies. If you are not happy to be included in our analysis, please do not use our apps.
+You can usually prevent the operation of web-beacons by changing your web-browser cookie settings and your ad choices, or for those in emails, by switching off images in your email client or viewing emails using only the “text” display (rather than “HTML” display”). See the “Help” section of your email client for instructions. You can opt-out of analytics cookies on this website on our “[ **Controlling online behavioural advertising and other third party cookies**](https://evoke.ie/controlling-interest-based-advertising-and-other-third-party-cookies)” page. Where you use our apps, similar technologies to cookies are used for analytics. Is it not presently possible to opt-out of these similar technologies. If you are not happy to be included in our analysis, please do not use our apps.
 
  **Your ad choices**
 
-You can opt-out of online behavioural advertising cookies on this website on our “[ **Controlling online behavioural advertising and other third party cookies**](http://evoke.ie/controlling-interest-based-advertising-and-other-third-party-cookies)” page.
+You can opt-out of online behavioural advertising cookies on this website on our “[ **Controlling online behavioural advertising and other third party cookies**](https://evoke.ie/controlling-interest-based-advertising-and-other-third-party-cookies)” page.
 
 When using a mobile device, you can opt-out of receiving online behavioural advertising by selecting ‘Limit Ad Tracking’ in the Settings of your Apple iPhone or iPad, or the “Opt out of interest-based ads” in the Settings on your Android device. You may also be able to reset your unique identifier used for online behavioural advertising (referred to as an “Advertising ID”) in the Settings on your Apple or Android device.
 
