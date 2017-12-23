@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kitefly.in privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623054342id_/https%3A//kitefly.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitefly.in privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223011404id_/https%3A//kitefly.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-Please read below to learn more about our Privacy Policy. Your use of the Website is subject to this Privacy Policy, as well as our [Terms of Service](https://web.archive.org/web/20170623054342id_/https%3A//kitefly.in/terms) and [Community Guidelines](https://web.archive.org/web/20170623054342id_/https%3A//kitefly.in/guidelines).
+Please read below to learn more about our Privacy Policy. Your use of the Website is subject to this Privacy Policy, as well as our [Terms of Service](https://web.archive.org/web/20171223011404id_/https%3A//kitefly.in/terms) and [Community Guidelines](https://web.archive.org/web/20171223011404id_/https%3A//kitefly.in/guidelines).
 
 #### Information We Collect and Use
 
@@ -22,7 +22,7 @@ We may use the information we collect from you in one or more of the following w
   * Allow you to properly use the Website, under the conditions specified in your Settings;
   * Send you communication about the Website, as well as our other products and services;
   * Provide you with advertisements tailored to your profile;
-  * Investigate fraud and infringements of our [Community Guidelines](https://web.archive.org/web/20170623054342id_/https%3A//kitefly.in/guidelines); and
+  * Investigate fraud and infringements of our [Community Guidelines](https://web.archive.org/web/20171223011404id_/https%3A//kitefly.in/guidelines); and
   * Improve customer service based on your feedback and experiences. 
 
 
@@ -48,6 +48,10 @@ We may contact you via e-mail with service-related notifications and announcemen
 #### Third-Party Links
 
 Occasionally, at our discretion, we may include or offer third-party products or services on our Website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about your experiences with these sites.
+
+#### Google User Data
+
+When you search for friends on kitefly, you may authenticate with your Google account and permit us to read your contacts. This information will be used for the sole purpose of connecting you with your friends already on kitefly, or inviting them to it. We will never share this information with third parties. Should you choose to invite your contacts, you can do so in an opt-in manner.
 
 #### Inviting Friends
 
