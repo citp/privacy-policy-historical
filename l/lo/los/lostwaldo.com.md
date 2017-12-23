@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostwaldo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062332id_/http%3A//lostwaldo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostwaldo.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223085319id_/http%3A//lostwaldo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lost Waldo
 
@@ -18,7 +18,7 @@ Distinct Online Investments LTD (“DOI LTD”), has created this privacy statem
 
 . How can I delete my information?
 
-. What procedures have been designed to protect the loss, misuse or alteration of information under Calorie- Smart.com’s control?
+. What procedures have been designed to protect the loss, misuse or alteration of information under DOI LTD’s control?
 
 . What about privacy policies for sites to which DOI LTD links?
 
