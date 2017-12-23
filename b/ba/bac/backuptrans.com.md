@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backuptrans.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614105943id_/http%3A//www.backuptrans.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backuptrans.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223101803id_/http%3A//www.backuptrans.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Backuptrans - Privacy Policy
 
