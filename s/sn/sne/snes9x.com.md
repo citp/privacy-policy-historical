@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snes9x.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225073259id_/http%3A//www.snes9x.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snes9x.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223081750id_/http%3A//www.snes9x.com/privacy.html) for the most accurate reproduction.*
 
 # snes9x.com | Privacy Policy
 
@@ -131,5 +131,5 @@ USA
 snes9x.com 
 
 Email:  
-contact@snes9x.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 
