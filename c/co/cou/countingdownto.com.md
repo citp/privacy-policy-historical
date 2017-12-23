@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countingdownto.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106172135id_/https%3A//countingdownto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countingdownto.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224004006id_/https%3A//countingdownto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CountingDownTo.com
 
