@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkthemes.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630005028id_/https%3A//www.inkthemes.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkthemes.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223070154id_/https%3A//www.inkthemes.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InkThemes
 
