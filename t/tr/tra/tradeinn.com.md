@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeinn.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604212347id_/http%3A//tradeinn.com/index.php%3Faction%3Dprivacidad%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeinn.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223065659id_/https%3A//www.tradeinn.com/index.php%3Faction%3Dprivacidad%26idioma%3Deng) for the most accurate reproduction.*
 
 # Tradeinn
 
