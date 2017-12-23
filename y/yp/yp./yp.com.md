@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yp.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619225446id_/http%3A//corporate.yp.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yp.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223162304id_/http%3A//corporate.yp.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • YP : YP
 
