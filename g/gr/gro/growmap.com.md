@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growmap.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403203240id_/http%3A//growmap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growmap.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223034356id_/http%3A//growmap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ Although most changes are likely to be minor, growmap.com may change its Privacy
 
 ###############
 
-Thank you to [WordPress](http://automattic.com/privacy/) for making their Privacy Policy available to others. If you need one yourself, head on over and modify theirs. They’ve nicely made it available under a Creative Commons Sharealike license.
+Thank you to [WordPress](https://automattic.com/privacy/) for making their Privacy Policy available to others. If you need one yourself, head on over and modify theirs. They’ve nicely made it available under a Creative Commons Sharealike license.
 
 The following two tabs change content below.
 
@@ -41,4 +41,4 @@ The following two tabs change content below.
 
 
 
-Creator and owner of GrowMap.com, Gail is primarily known for mentoring small businesses and encouraging bloggers to join collaborations to share skills and support small business.
+Gail Gardner is the founder of GrowMap.com. She is a Small Business Marketing Strategist she mentors small businesses, bloggers, and freelancers. After 23 years in the field with IBM and 5.5 years managing AdWords accounts, her focus shifted to small business marketing strategy. GrowMap.com is listed by Cision as a Top 100 Site for Marketers and has received three Small Business Influencer Awards from Small Business Trends. Named by D&B a Top 50 SMB Influencer on Twitter, you can follow Gail [@GrowMap](https://twitter.com/growmap) and on [LinkedIn](https://www.linkedin.com/in/growmap).
