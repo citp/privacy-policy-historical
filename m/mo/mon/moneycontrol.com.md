@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneycontrol.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616042222id_/http%3A//m.moneycontrol.com/cdata/prystat.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneycontrol.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223041734id_/http%3A//m.moneycontrol.com/cdata/prystat.php) for the most accurate reproduction.*
 
 # Indian Stock/Share Market: Sensex, Nifty, Stock/Share Prices, Share Market Live, Stock/Share Recommendations, Hot Stocks, Stock Market Investing, BSE, NSE, Derivatives, Best Stocks to Buy, Penny Stocks India
 
