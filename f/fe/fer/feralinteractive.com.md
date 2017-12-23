@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feralinteractive.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630120543id_/https%3A//www.feralinteractive.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feralinteractive.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223113904id_/https%3A//www.feralinteractive.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Feral Interactive
 
@@ -6,8 +6,9 @@
 
   * [Home](https://web.archive.org/en/)
   * [News](https://web.archive.org/en/news/)
-  * [Mac Games](https://web.archive.org/en/mac-games/)
-  * [Linux games](https://web.archive.org/en/linux-games/)
+  * [macOS](https://web.archive.org/en/mac-games/)
+  * [Linux](https://web.archive.org/en/linux-games/)
+  * [iOS](https://web.archive.org/en/ios-games/)
   * [Store](https://store.feralinteractive.com/en/)
   * [Support](http://support.feralinteractive.com/en/)
   * [About](https://web.archive.org/en/about/)
