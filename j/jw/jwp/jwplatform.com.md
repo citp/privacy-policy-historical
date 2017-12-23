@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jwplatform.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630003804id_/https%3A//www.jwplayer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwplatform.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223064900id_/https%3A//www.jwplayer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JW Player
 
@@ -16,6 +16,8 @@ We use this information in a number of ways, including: a) to help us ensure tha
 
 We may use cookies in association with our Platform. Cookies are small files placed on the hard drive of your computer. We may use cookies to help us understand how our Platform is being used, to tailor advertising, and for ad delivery and reporting purposes. For more information about cookies and web beacons, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). Like many video technologies, we may use Flash and similar technologies to enable our video players. However, we don’t use those technologies (e.g., Flash cookies) for advertising.
 
+Our Services also may enable third-parties to place cookies and use other tracking technologies to help those third-party companies conduct interest-based advertising and cross-device advertising on participating publisher websites. For more information about those practices, please scroll down to the section marked “[Your Choices](https://www.jwplayer.com/privacy/#ad-choices).”
+
 ## Privacy Practices for our Website
 
 Our website (the Website) is directed primarily to Publishers and Advertisers, not Users. We collect personally identifiable information (e.g., full name, postal address, email, telephone number) via the Website only when you choose to provide it to us. For example, you may choose to provide your name, email address and credit card number when you order a commercial license of the JW Player. You may also setup an account with us, and while registering you may provide your name, email address and additional information. You may further provide your name, telephone number and other information in an email or via an online form in order to ask us a question or subscribe to our email newsletter. We, or our agents and service providers, generally use this information for the reason it was provided (e.g., to facilitate your order or to answer your question).
@@ -28,7 +30,7 @@ You can choose not to provide certain information, but this will limit your abil
 
 We also use cookie technology on our Website. The cookies we use do not reveal any personally identifiable information. We use cookies on this Website for a number of distinct purposes and generally offer choices regarding cookies when you first visit our Website and then store those preference for a period of time. For example, we use site performance cookies to help us determine which country you are in while visiting our Website, to enhance your experience and to determine for which one of our partners, if any, referred you to our Website. We also use third party analytics cookies and other tools such as Google Analytics on our Website to obtain non-personally identifiable information. These third-party tools collect information such as how often users visit the Website, what pages they visit when they do so, and what other sites they used prior to coming to the Website. We use the information we get from our analytics partners to improve the Website. We do not combine the information collected through the use of analytics tools with personally identifiable information. We do not currently take action in response to browser based Do Not Track signals.
 
-We enable third-party advertisers to use their advertising and tracking cookies to collect information about your visits to the Website and also collect information about your visits to other websites in order to help deliver more relevant advertising messages to you and other consumers. This process is sometimes referred to as online behavioral advertising or interest based advertising. If you want more information about online behavioral advertising and information on how to opt-out, please visit the ad industry choice mechanism at <http://www.aboutads.info/choices/>.
+We enable third-party advertisers to use their advertising and tracking cookies to collect information about your visits to the Website and also collect information about your visits to other websites in order to help deliver more relevant advertising messages to you and other consumers. This process is sometimes referred to as online behavioral advertising or interest based advertising. And where these third-party advertisers are able to infer that a particular computer and mobile device belong to the same user or household, they may extend their advertising campaigns across those devices. This process is sometimes referred to as cross-device advertising. If you want more information about these practices and information on how to opt-out from them, please visit the ad industry choice mechanism at <http://www.aboutads.info/choices/>.
 
 ## Additional Privacy Disclosures
 
@@ -84,4 +86,4 @@ JW Player has further committed to refer unresolved privacy complaints under the
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
-_Last Updated: April 12, 2017_
+_Last Updated: September 21, 2017_
