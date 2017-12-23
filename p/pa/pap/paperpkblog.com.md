@@ -1,41 +1,72 @@
-> *The following text is extracted and transformed from the paperpkblog.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927012147id_/http%3A//paperpk.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperpkblog.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223122613id_/https%3A//paperpk.com/blog/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of Paperpk.com
+# Privacy Policy | PaperPk Blog
 
-### Our Commitment To Privacy 
+**What is this Privacy Policy for?**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+This privacy policy is for this website paperpk.com and governs the privacy of its users who choose to use it. The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Further more the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
-The Information We Collect 
+**The Website**
 
-The following notice (items 1-3) applies to all information collected or submitted on the Accountingformanagement.com website. 
+This website and it’s owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website complys to all local laws and requirements for user privacy.
 
-**Emailing a friend about our website**  
-On some pages we allow you to email a friend who might be interested in certain pages of our website. We ask you to supply your email address so when your friend wants to reply to the email, the reply comes to you, and not to us. We do not store any email addresses, and your email address will simply be gone after the program has finished the procedure, and you see the final page. We do store your email address in a cookie on your computer. If you ever use the service again, we'll "know" your email address and name, and you don't have to fill out those lines anymore.(When you subscribe to some service then your email address is stored and can be used to send other offers or marketing email from our company or third party) 
+**Images on Website**
 
-**Tracking and statistics**  
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+Images on website are not owned or claimed by Paperpk.com. All images and logos shown websites are copirighted by their respected company or newspaper.
 
-**Google AdSense and cookies**  
-We use Google AdSense to supply our visitors with relevant advertisements throughout our website. Google uses cookies in order to make these ads more relevant to our visitors. [Learn more about cookies and how to opt-out of them](http://www.google.com/privacy_ads.html). 
+**Jobs posted**
 
-**Cookies**  
-A cookie is a small text file that is stored on a user's computer for record keeping purposes. We use cookies on this site. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) 
+All jobs posted on Paperpk.com is owned by third party and we have no responsibility of any job it authentication or correctness . Job seekers will apply at their own risk.
 
-We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+**Use of Cookies**
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited. 
+This website uses cookies to better the users experience while visiting the website. This website uses cookies only in special cases. Very simple information is stored in these cookies, like user’s session info.
 
-**Our Commitment To Data Security**
+Cookies are small files saved to the users computers hard drive that track, save and store information about the users interactions and usage of the website. This allows the website, through it’s server to provide the users with a tailored experience within this website.  
+Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it’s external serving vendors.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Changes in this privacy statement 
+This website uses tracking software to monitor it’s visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You may read Google’s privacy policy here for further information.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+**Contact & Communication**
 
-**How To Contact Us**
+Users contacting this website and/or it’s owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
 
-Should you have other questions or concerns about these privacy policies, please [contact us](http://www.paperpk.com/contact-us.php)
+This website and it’s owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
 
-**[Back to Home Page](http://paperpk.com/)**
+**Email Newsletter**
+
+This website operates an email newsletter program, handled through third party FeedBurer, used to inform subscribers about daily updates about Jobs and Admissions. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion.
+
+Subscriptions are taken in compliance with Spam Laws and are double opted. All personal details relating to subscriptions are held by third party. .
+
+Email marketing campaigns published by this website or it’s owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity. This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
+
+In compliance with Spam Laws, subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
+
+help with research paper [buy essay](https://essayltd.com/) custom essay writing services
+
+**External Links**
+
+The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and it’s owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+
+**Adverts and Sponsored Links**
+
+This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
+
+Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will tracks the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and it’s owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+
+**Social Media Platforms**
+
+Communication, engagement and actions taken through external social media platforms that this website and it’s owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
+
+Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor it’s owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
+
+This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
+
+**Shortened Links in Social Media**
+
+This website and it’s owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url’s [web addresses] (this is an example: http://bit.ly/zyVUBo).
+
+Users are advised to take caution and good judgement before clicking any shortened url’s published on social media platforms by this website and it’s owners. Despite the best efforts to ensure only genuine url’s are published many social media platforms are prone to spam and hacking and therefore this website and it’s owners cannot be held liable for any damages or implications caused by visiting any shortened links.
