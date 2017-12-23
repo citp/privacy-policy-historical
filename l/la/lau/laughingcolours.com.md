@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laughingcolours.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607074028id_/http%3A//laughingcolours.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughingcolours.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223014739id_/http%3A//laughingcolours.com/privacy-policy) for the most accurate reproduction.*
 
-# Laughing Colours Archives
+# Privacy Policy | Laughing Colours
 
 Introduction  
 Laughing Colours Entertainment, (“Laughing Colours Entertainment”) takes the private nature of your personal information very seriously,Website Visitors  
@@ -53,6 +53,6 @@ Although most changes are likely to be minor, Laughing Colours Entertainment may
 
 Contact Us
 
-If you have any questions about this privacy policy or our sites in general, please contact us at webmaster@laughingcolours.com
+If you have any questions about this privacy policy or our sites in general, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 If you choose to contact the Grievance Officer with complaints or concerns or questions about accounts, you may use the contact information provided below:
