@@ -1,126 +1,265 @@
-> *The following text is extracted and transformed from the avention.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221045713id_/https%3A//www.avention.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avention.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223065032id_/https%3A//www.hoovers.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Avention
+# Dun & Bradstreet Privacy Notice - D&B Hoovers
 
-Last Updated:  September 30, 2016
+### Dun & Bradstreet Privacy Notice
 
-**Our Commitment**
+Dun & Bradstreet is the world’s leading source of business information and insight.  Since 1841, Dun & Bradstreet has collected information about businesses to deliver products and services that assist our customers in making critical commercial decisions.  Our global business database contains more than 280 million business records. Some of the information in the business records may be classified as personal information under various laws such as information relating to an individual (e.g. a sole trader, a partnership, a company director, a beneficial owner, a trustee, a professional contact.)
 
-Avention, Inc. (“Avention” or “We”) is committed to protecting the privacy of visitors to the Avention website (“Website”) and users of Avention products and services (collectively, the “Products”). We are providing this privacy policy (“Policy”) to you because we take privacy issues seriously. We think you should know how we may be collecting and using information about you through the Website and in connection with your use of the Products, as well as information we receive from the European Union (which is addressed in “EU-US Privacy Shield Compliance” below). This Policy does not apply to information collected by third-party websites that may link to or be accessible from the Website or to Avention’s privacy practices associated with offline activities or websites other than the Website.
+This privacy notice explains how we collect, share and protect business information.
 
-This Policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. In addition, this Policy describes your choices with respect to how we collect and use your information. You may exercise your choices about how we collect and use your information consistent with this Policy at any time. Your continued use of the Website or the Products, or your participation in our contests and promotions, constitutes your acceptance of this Policy and any updates thereto.
+### Applicability - Legal Entities and Websites
 
-The Website is intended for adult audiences only, and neither Avention nor any of our agents or service providers, acting on our behalf, knowingly collects any personal information from anyone under 13 years of age, nor do we benefit from allowing another to collect personal information from anyone under the age of 13 on our behalf.  If you are under age 13, please do not attempt to register for any portion of the Website that requires registration (including, without limitation, the “Live Chat” feature, the “Contact Us” form, or the “Request a Free Trial” option) or otherwise provide any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any personal information from a child under the age of 13, please contact us immediately.
+This Privacy Notice apples to the following Dun & Bradstreet legal entities: Dun & Bradstreet, Inc., Dun & Bradstreet NetProspex, Inc. (“NPX”); Avention, Inc.; Hoover’s Inc.; Dun & Bradstreet Emerging Businesses (“DBEB”). NPX, Avention, and Hoover’s provide Sales and Marketing solutions.  DBEB provides business credit information. Market Data Retrieval (MDR), a part of Dun and Bradstreet Inc., is a provider of marketing information and services for the K-12, higher education, library, early childhood, and related education market.  These entities and lines of business will be referred to collectively as “Dun & Bradstreet” in this notice.
 
-Avention shall separately address the handling of any personal information you disclose in connection with your use or access of, purchase or subscription to, any Product in the appropriate contract and otherwise in separate Product terms and conditions. To the extent that this Policy conflicts with any executed contract between you and Avention with respect to a Product, the terms of such executed contract shall govern.
+This policy covers the following Dun & Bradstreet websites:  [dnb.com](http://www.dnb.com/), [DandB.com](https://www.dandb.com/), [accesstocapital.com](http://accesstocapital.com/), [products.dandb.com](https://products.dandb.com/), [dandbeducation.com](http://dandbeducation.com/), [companyupdate.com](http://companyupdate.com/), [EdAhead.org](http://edahead.org/), [education.dandb.com](http://education.dandb.com/), [CreditSignal.com](https://www.creditsignal.com/), [businesscredit.dnb.com](https://businesscredit.dnb.com/), [creditreports.dnb.com](http://creditreports.dnb.com/), [b2b.dnb.com](https://b2b.dnb.com/), [dnb.com/mktsem/microsite-business-credit-solutions.html](http://www.dnb.com/mktsem/microsite-business-credit-solutions.html), [cart.dnb.com](http://cart.dnb.com/), [hoovers.com](http://www.hoovers.com/); [sales.hoovers.com](http://sales.hoovers.com/), [yourhoovers.com](http://yourhoovers.com/), and [products.hoovers.com](http://products.hoovers.com/), mdreducation.com, [ednetconference.com](http://ednetconference.com/).
 
-**EU-US Privacy Shield Compliance**
+These sites may provide links to other U.S. Dun & Bradstreet websites, non-U.S. Dun & Bradstreet websites and non-Dun & Bradstreet websites that may have different privacy notices. We encourage you to carefully read the online privacy notices of these other websites to ensure that you understand their practices and the relevant distinctions.
 
-As part of our commitment to protecting your privacy, Avention complies with the EU-U.S. Privacy Shield Framework as set forth by the United States Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States.  Avention has certified to the Department of Commerce that it and the entities it lists in its certification adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. Additional information about the Privacy Shield Principles can be obtained, and our certification may be viewed, at https://www.privacyshield.gov.
+Dun & Bradstreet collects information on businesses and business professionals. We collect information offline from business owners and principals, from businesses' creditors, vendors, third parties and suppliers, and from public records such as business registrations, Uniform Commercial Code filings and bankruptcy filings. MDR collects information on educational institutions and professionals.  Dun & Bradstreet has a right to publish information on businesses that may be a factor in our customers’ decision making involving credit, insurance, marketing and other activities.  The business information that we collect includes the following:
 
-To the extent that visitors to the Website and users of the Products are located in the European Union, such individuals’ information is collected and used in accordance with the other sections of this Policy.  In addition, Avention receives the following personal information from the European Union: (1) customer/prospect contact information, which information Avention uses in the scope of its sales efforts and marketing activities; and (2) executive and business contact information contained within the data supplied to Avention by its third party information providers and/or compiled by Avention through its own collection and research efforts, which information Avention includes in its various business information Products and makes available to customers, prospects, vendors, agents and service providers.
+Company and business professional information, including business contact information such as name, title, address, phone number, fax number, and e-mail address, domain names, and trade associations
 
-In compliance with the Privacy Shield Principles, Avention commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with questions, complaints, access requests, and any other issues arising under the Privacy Shield should first contact Avention at:
+Detailed company profiles and statistics, including number of employees;
 
-Avention, Inc.  
-300 Baker Avenue  
-Concord, Massachusetts 01742  
-Telephone: 1-978-318-4300  
-Facsimile: 1-978-318-4690  
-Email: privacy@avention.com
+Background information regarding company management, such as beneficial ownership/persons of significant control, the educational and career histories of company principals;
 
-Avention has further committed to refer unresolved Privacy Shield complaints to the American Arbitration Association, an alternative dispute resolution provider located in the United States.  If you do not receive timely acknowledgement of your complaint from us, or if we have not resolved your complaint, please contact the American Arbitration Association as follows:
+Company operational histories, including territories, subsidiaries, affiliates, and lines of business;
 
-American Arbitration Association  
-120 Broadway  
-21st Floor  
-New York, NY 10271  
-www.adr.org
+Detailed trade and business credit information, including payment histories and patterns;
 
-The services of the American Arbitration Association are provided at no cost to you.  Under certain limited conditions, an individual can invoke “last resort” binding arbitration for complaints regarding Privacy Shield compliance that have not been resolved by any other Privacy Shield mechanism. For more information on this option, visit https://www.privacyshield.gov/article?id=ANNEX-I-introduction.
+Summary business information regarding profitability, debts, assets, net worth, and business relationships;
 
-The Federal Trade Commission has jurisdiction over Avention’s compliance with the Privacy Shield.
+Business compliance information from public source government and professional records, media and business publications
 
-**Information We Collect About You**
+Educational institutional profiles and statistics, including educational subject matter specialties and number of employees
 
-_Automatic Information Collected Through Computer Tracking_
+Background information regarding educational institutional management, such as the educational and career histories of school deans and principals
 
-Avention may track and retain information about the computing environment you use to access the Website and Products, such as your IP address, browser type, or operating system. We collect and analyze this information for the continued improvement of the Products, Website, and our business. For example, tracking the computing environments most frequently used by our customers can help us to accommodate the most appropriate browser types and versions. Additionally, our record of IP addresses that access the Products and Website allows us to determine the source or cause of error messages that may appear in the Products or on the Website at any given time, or to assist customers who may be experiencing technical difficulties while accessing the Products or Website.
+IP addresses, geolocation, comments on social media is collected and aggregated and used to analyze trends regarding Dun & Bradstreet products and services.
 
-_Personal Information You Provide Through The Website_
+Credit/debit card information in order to process certain customer payments.
 
-The personal information you provide to Avention through the Website allows us to determine if you are an authorized user of one or more of the Products, for which you or your organization has paid a fee. We need to know your personal information in order to provide you with all the benefits you are entitled to receive as an authorized user of the Products. For instance, you may be asked to provide us with your physical and online contact information (e.g., name, address, email address, etc.), particularly if you seek customer support from our Help Desk. In addition, we may ask for work-related identifying information (e.g., employer, job title, etc.) in order to inform you of Product updates. Avention may retain the personal information you provide to us in order to more easily assist you with customer service or technical support of the Products and to continue to forward new Product information.
+**_Personal Information You Provide Through Websites_** : includes name, address, telephone number, social media handle, email address, employer, job title. We collect personal information from website visitors and when you purchase products and services through our website, apply for Dun & Bradstreet D-U-N-S® Number; subscribe to email newsletters and alerts, fill out a form to request additional information; participate in Community Forums; enter a contest; fill out a survey; access video content; receive free incentives.
 
-_Personal Information Collected In The Scope Of Marketing Activities_
+_PLEASE NOTE_ : Your registration information and/or any information collected by D&B when you visit websites is not included in the D&B professional business contacts database.  
 
-In order to improve our Products and facilitate their delivery to you, Avention may collect both personal and non-personal information about you within the scope of our marketing activities on and through the Website.  For example, Avention may collect contact information about you that would include information like your name, address, telephone number, social media handle, and email address when it conducts webinars, demand generation campaigns, contests or trials, when it disseminates white papers, ebooks or similar content, when you click on landing pages, in the course of Pay-Per-Click campaigns, and similar events and methods.
+**_Personal Information Collected In The Scope Of Marketing Activities_** : Your personal information may be collected when you enter contests and participate in other promotions; when we conduct webinars, demand generation campaigns, when we disseminate white papers, e-books or similar content, when you click on landing pages, in the course of Pay-Per-Click campaigns, and similar events and methods.
 
-In addition, when you enter Avention contests and participate in other Avention promotions, you provide us with various personal details (e.g., name, company, job title, telephone number, social media handle, and email address), which we may retain and use in furtherance of our marketing activities in accordance with this Policy and specific Avention Contest Rules and Conditions.
+When you sign up to participate in D&B hosted blogs, tutorials, and social media, we will collect personally identifiable information in order to establish your profile. You may choose to make public certain individual profile elements, in which case that information will be available to visitors and possibly to other users of the Internet. Any information that you submit and post may likewise be available to website visitors and viewable to anyone online. Your blog postings will be associated with your username and your voluntarily created public profile. Violation of our Terms of Use agreement may result in the removal of your post(s) and/or the termination of your membership.
 
-When you register as a user of the Products, you have the option to allow us to contact you about our Products. In order to evaluate your use of the Products, Avention may track which functions of the Products you use most frequently. This information will help us provide you with only the most relevant and useful information about the Products, as well as suggestions that could enhance your use of the Products.
+**_Information Collected Automatically Through Computer Tracking_** : We also collect information about website visitors such as IP address, browser type, or operating system, areas of the website visited and the website from which a visitor came. We collect and analyze this information for the continued improvement of the Products, Websites, and our business. We routinely use this web log information to administer and improve our website.  While some of this information may be traceable to an individual, we only seek to identify individuals (i) whom we believe are using our website for improper purposes, (ii) when necessary to assist them with their user experience, (iii) or to otherwise use the information as described in this policy.
 
-**How We Use Collected Information**
+Dun & Bradstreet analyzes IP addresses of visitors to our websites and match business information from our various databases and received from third parties against the IP addresses to learn more about what types of businesses are visiting our websites and the browsing preferences of such businesses on our websites. We use the information derived from these analytical activities, which may be combined with non-personally identifiable behavioral information received from third parties, to better model and refine our general marketing activities and may, from time to time and to the extent permitted by law, directly market our products and services to these businesses based on the information we have learned about their browsing activities while on our websites.  In addition, Hoover’s analyzes IP addresses from Hoover’s products users to match business information from our various databases and received from third parties against users’ IP addresses for our internal analytical purposes which helps us to increase the accuracy of the information in our various business information databases.
 
-_Aggregation Of User Data_
+**_Mobile Devices:   _**To provide location-based services on the mobile-optimized versions of products, we may collect and use precise location data, including the real-time geographic location of your mobile device or computer. Where available, location-based services may use GPS, Bluetooth, and your IP Address, along with crowd-sourced Wi-Fi hotspot and cell tower locations, and other technologies to determine your device’s approximate location. Location-based services, such as the mapping features, require collection of your location for the feature to work. You may withdraw consent to its collection, use, transmission, processing and maintenance of location data at any time by not using the products that use location-based features or by turning off Location Services settings (as applicable) on your device and computer.) ** __**
 
-Avention may aggregate the information you provide with similar information collected from other visitors to the Website and users of the Products, in order to evaluate or enhance the Website or Products. Specifically, Avention may use the aggregated data to determine the usage patterns or interests of visitors to the Website and users of the Products, or for purposes related to the technical support or security of the Website, Products, and our computer systems. The aggregated data that we evaluate contains no personal information or other information that could identify an individual.  We may, however, associate such aggregated data with personal information or other information separately stored by Avention (e.g., email address, UserID, etc.) that could identify an individual user of a Product as described in “Usage Tracking Within The Avention Products” below.
+Dun & Bradstreet does not respond to Do Not Track Signals.
 
-_Usage Tracking Within The Avention Products_
+### How Do We Use and Share Information?
 
-We may track usage information within the Products based upon the number of reports, types of reports, and functions that are accessed by a particular UserID. We do this to monitor authorized usage of the Products, respond to questions from the user or its organization, for market research, and to improve the design and functionality of the Products.  Avention customers can also track the total number of reports in the Product that are accessed at the user level or accessed by all users within their organization for administrative purposes.
+Dun & Bradstreet uses the information that we collect to operate our websites, offer customers a variety of business information products and services for use in making business credit, risk management, supplier, and marketing decisions, and to carry out transactions that you request or authorize. Dun & Bradstreet also licenses professional business contact information to authorized resellers and third party businesses for marketing and data management purposes.
 
-We may also aggregate corporate or industry information accessed by all of our clients. We do this in order to appreciate the types of companies and industries for which our customers require information, which in turn improves the quality of the Products. Avention does not correlate the accessed corporate or industry information to a specific user or to a particular organization.
+We may use your professional business contact information to match it with other public and private sources in order to create anonymous segments of information (this is non-personally identifying information, such as demographic, behavioral and technical information, extracted from the underlying Data) for use by Dun & Bradstreet and/or third parties to target advertising messages to you on third party sites and services. Such segments do not reveal or contain your personal information. You may opt-out from certain targeting advertising by following the instructions in the section below entitled "Third Party Advertisers." Dun & Bradstreet follows the Self-Regulatory Principles for Online Behavioral Advertising as administered by the Digital Advertising Alliance. Visit <http://www.aboutads.info/choices/> to exercise your option to opt-out of targeted ads provided by certain listed companies.
 
-_User Information To Certain Third Parties_
+Hoover's maintains a separate professional contacts directory in which your company and individual business contact information may be listed. Hoover's licenses business and professional contact information to authorized resellers and third party businesses for marketing purposes. Aggregated website visitor data may be used to determine usage patterns or interests of visitors to the website and users of our products, or for purposes related to technical support or security of the website, products and computer systems. Usage information, such as number of reports, types of reports and functions accessed by a particular UserID, may be tracked within the products. We do this to monitor authorized usage of the products, respond to questions from the user, for market research, and to improve the design and functionality of the products. We may also aggregate corporate or industry information accessed by all of our customers. We do this in order to appreciate the types of companies and industries for which our customers require information, which in turn improves the quality of the products. We do not correlate the accessed corporate or industry information to a specific user or to a particular organization.
 
-Avention may engage third party providers to collect and use certain information in the manner described in this Policy, in order to enable Avention to provide you with opportunities for additional products and/or services based upon your interests. As a Privacy Shield organization, we have a responsibility for the processing of personal information we receive under the Privacy Shield and subsequently transfer to a third party acting as an agent on our behalf.  As such, Avention will remain liable under the Privacy Shield Principles if our agents process such personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to damage.  Avention may also, on occasion, provide some general usage information from the Products to our information providers for royalty-related, usage report, or similar purposes. Any information that we may provide to our information providers contains no personal details about individual users. Additionally, no information that we collect from your use of the Website or Products or that you provide to us is ever sold to third parties. When appropriate or required, we may disclose information, including personal information, collected from your use of the Website or Products to protect our legal rights or in response to a court order or a lawful request by public authorities (including, without limitation, to meet national security or law enforcement requirements), or in connection with a sale or merger of Avention or its assets. Avention will endeavor to make such disclosures subject to protective orders or confidentiality agreements.
+Dun & Bradstreet shares information with third party service providers, such as credit card processors, auditors, attorneys, consultants, live help/chat providers and contractors, in order to support Dun & Bradstreet's Internet websites and business operations. Dun & Bradstreet contractually requires that these recipients only use the information for the intended purpose of the disclosure and that they destroy or return the information when it is no longer needed. We may also disclose the information as required or appropriate in order to protect our website, business operations or legal rights, or in connection with a sale or merger involving Dun & Bradstreet assets or businesses.
 
-With respect to information collected in the course of our marketing activities on or through the Website, Avention may exchange business leads with our affiliates from time to time, including Avention UK Limited and other affiliates. In addition, we may share personal information we collect from contest entrants with our affiliates, including Avention UK Limited and other affiliates. As such, information collected from contest entrants may be shared outside of Avention US. In order to properly conduct Avention contests, Avention UK Limited and other affiliates may, on occasion, contact contest entrants directly.
+From time to time, Dun & Bradstreet compiles online and offline transaction and registration information for internal analyses, such as market research, quality assurance, customer experience, and operational benchmarking initiatives.
 
-Additionally, we may, on limited occasions, share your personal information with third party marketing partners. These partners generally consist of persons or entities with whom we maintain a relationship and which offer certain complementary products and services to those Products and services that we offer. We will take commercially reasonable efforts to make sure that such third parties safeguard your personal information. Further, you are permitted at any time to request that we refrain from sharing your personal information with such third parties, or that we disclose who we shared your personal information with. In order to make such requests, please follow the instructions set forth below with regard to requests made in connection with your personal information.
+When necessary or appropriate, we may disclose information in response to a court order, subpoena, law enforcement proceeding, regulatory inquiry or when otherwise legally required. Also, be advised that Dun & Bradstreet sometimes receives requests (e.g., court order, subpoena, law enforcement proceeding,) for personal information from public authorities to meet national security or law enforcement requirements. In responding those requests D&B's response will be limited (a) to the extent necessary to meet national security, public interest, or law enforcement requirements or (b) by statute, government regulation or case law that creates conflicting obligations or explicit authorizations.
 
-_How We Use Cookies_
+### Collection of Sensitive Personally Identifiable Information
 
-Avention uses cookies to validate users authorized to access the Products. A cookie is a text file that is placed on your computer by a Web server. Avention does not use cookies to track any personal information about a user. For example, the UserID (log in name) and the site ID (company name) are tracked to allow Avention to determine whether or not the user is authorized (i.e. licensed) to access a specific product on the Website. Also, a machine ID is identified to ensure that only one person uses the UserID at one time. In addition, the user may, at his or her option, identify a workgroup or project that in turn establishes a cookie; this option is provided not for Avention’s purposes but to permit a user’s organization to charge back costs internally.  In addition, Avention may contract with third parties who use cookies for certain marketing purposes.
+Dun & Bradstreet may collect sensitive personally identifiable information ("SPI") associated with certain customers or customers' clients, such as individuals' Social Security Numbers and dates of birth, in order to provide certain product and service offerings.  We will only collect this SPI if it is necessary to fulfill certain product orders and only when voluntarily provided by the customer.  We will only use it for the limited, permissible purpose for which it is collected and we will take commercially reasonable steps to adequately secure the information. We may also share this SPI with trusted third parties for the limited, permissible purpose of fulfilling the associated product orders.
 
-**Choices About How We Use And Disclose Your Information**
+Back to Top
 
-_Tracking Technologies_
+  
 
-You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of the Website or Products may then be inaccessible or not function properly.
 
-_Marketing Activities Information_
+### Cookies, Web Beacons, Pixel Tags, and GIFs
 
-If you do not wish to have your personal information used by Avention to promote the Products in furtherance of our marketing activities or otherwise disclosed to third parties, or if you do not wish for us to share your personal information with our affiliates for the purpose of conducting contests or providing lead information, you can opt out by sending us an email stating your request to privacy@avention.com.
+_What are Cookies, Flash Cookies, Web Beacons, Pixel Tags and GIFs and How are they Used?_
 
-Moreover, you may manage your email subscriptions and opt out of receiving future marketing emails from us at <http://info.avention.com/ManageEmailSubscriptions.html>, which link is also available when you fill out a form on the Website.  This opt out link is also available at the bottom of each marketing email you receive from us.
+  
 
-_Account Maintenance Option_
 
-With respect to the Products to which you subscribe, you may access your personal account information electronically for that Product through the Account Maintenance or similar option that is accessible from the shortcuts menu located in the navigation bar or similar menu and location, or by sending a request to Avention for such access at [privacy@avention.com](mailto:privacy@avention.com). You may change your personal information as often as you like and even print out a copy of the personal information for your records. You may also opt out of receiving communications from us associated with your account by updating your account; provided, that you may still receive certain communications from us at your request or at the request of your organization.  Further, you may elect to change your preferences with respect to your personal information at any time, in accordance with the appropriate procedures set forth herein. To access other information we hold about you, contact us at privacy@avention.com.
+A cookie is a small text file that is stored on your computer's hard drive and that often includes an anonymous unique identifier. When you visit a website, that website's computer asks your computer for permission to store this text file in a section of your hard drive that is specifically designated for cookies. Each website can send its own cookie to your browser if your browser's preferences allow it. Your browser will only permit a website to access the cookies that it has previously sent to you and not the cookies sent to you by other websites
 
-_Opting Out_
+We use cookies to store login or other information on your computer, which serves to improve our website functionality and tailor our services to your preferences and interests. Other uses include preventing, detecting and investigating potentially prohibited or illegal activities, including enforcing our Terms of Use agreement. For certain services, we offer users the ability to store a user ID or password within a cookie so that they do not need to re-enter it when they subsequently return to our website. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our website and to assess which parts of the site are most popular. This information helps us to constantly improve our website and better serve our customers and some of our cookies may be tied to personally identifiable information. We do not store credit/debit card numbers in cookies.
 
-You can always choose not to provide information when you are prompted to do so. Note that if you do not provide us with certain mandatory information, then you may be unable to access certain Products or other features we offer, and such Products and features may not function as you desire.  If at any time you are uncomfortable with our use of your personal information, you may opt out by telephone, mail or email as described in “Marketing Activities Information” above, in “Account Maintenance Option” above or in “If You Have a Concern” below.  As discussed above, if you opt out, then certain features and services may be unavailable to you.
+For new visitors, we use first party cookies or Web beacons (placed on your browser by Dun & Bradstreet) to collect limited data, such as the date, time, and areas of our website that are visited, as well as the website from which the new visitor came. We may use IP addresses to derive certain other information concerning businesses visiting our websites as described in this policy, but we do not analyze this information in a way which would reveal the identity of the individual browsing our websites. When you select one of our products or services, register for a newsletter or e-mail alert, fill out an online form, or complete a survey, we may try to identify your browser and we may combine information from cookies, Web beacons, code and other information collected online with other data that we maintain about you. By improving the features, marketing, and content of our website and by making your online experience more convenient and meaningful, we are able to better serve our customers' needs.
 
-**Server Security**
+We may use local shared objects, also known as Flash cookies, to display content based upon what you view on our site to personalize your visit. Flash cookies are different from browser cookies because of the amount of, type of, and how Data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
 
-The Avention servers are physically secure and may only be accessed by Avention’s technical or support personnel whose jobs specifically relate to maintaining the integrity of the Avention servers or supporting product-related functions. Such individuals are required to maintain the security of the servers and the confidentiality of the information contained in the servers.  Avention takes all reasonable and appropriate steps to protect your personal information, including by encrypting such information, maintaining readily accessible steps to limit access, working to detect unauthorized access, and not storing such information any longer than we need to.
+A Web beacon is a graphic image, such as a pixel tag or clear GIF, which is placed on a Web page or in an e-mail message to monitor user activity, such as whether the Web page or e-mail message is accessed or clicked. They are often invisible because they are very small in size. They are also used on many Web pages for alignment purposes.
 
-**Third Party Sites**
+We sometimes use Web beacons to provide an independent accounting of how many people visit our website or to gather statistics about browser usage on our website. Some of our Web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies. It is difficult for you to limit the use of Web beacons because there is no easy way to distinguish their use from alignment and other purposes. Web beacons may also be loaded from a different Web server than the rest of the page.
 
-As a visitor to the Website or a subscriber to the Products, you may decide to visit a third party’s website through links available on our Website or in the Products. Although the Avention branding may still be visible, you will be subject to that third party’s privacy policy, if one exists. We encourage you to review the privacy policies of third party websites you choose to visit. Avention is not responsible for how that third party may collect or use your personal information.
+Some of our e-mails may also contain pixels or code to gather information regarding e-mail behavior and analytics. We may share this encrypted information with third parties for e-mail analytics purposes.
 
-**Governing Law**
+Some of our business partners, such as third party advertisers, use cookies that originate from their websites. We have no access to, or control over, these cookies. For more information, please see the "Third Party Advertisers" section below.
 
-The terms of this Policy are governed by and in accordance with the laws of the Commonwealth of Massachusetts, USA. You should not provide us with any personal information, visit this Website or utilize any of the Products, unless you consent to the application of United States law and, where applicable, Massachusetts law, and to the use and disclosure of your information in accordance with the terms of this Policy.
+Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
 
-**If You Have a Concern**
+We use third party advertising companies to serve ads when you visit our website. In the course of serving advertisements, our third party advertisers and partners may place or recognize a unique third party cookie on your browser. These companies may use information about your visits to Dun & Bradstreet’s and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. These third party partners monitor how guests use our website and determine which of our online features they prefer. We may report information to our partners about our customers and the products and services they order, as well as aggregated, non-identifiable information about our guests' use of our website. For more information, please see the "Third Party Advertisers" section below.
 
-Should you have a concern about Avention’s collection or use of your personal information, Avention would like to hear about it. You may contact our Help Desk in the United States at 1-800-433-0287 or in the United Kingdom at +44 800 389 4265 or elsewhere at +1-978-318-4650. You may also email us at [privacy@avention.com](mailto:privacy@avention.com) or write to Customer Service at our corporate headquarters identified below.
+We use third party advertising companies to serve our Internet ad banners on our website and other websites on which we advertise The use of third party cookies and other tracking technologies is not covered by our privacy policy. We do not have access to or control of any third party tracking technologies. Third party advertisers may also use a third party analytics provider to place third party cookies on your browser in order to collect anonymous and aggregated session Data, such as the ads that are viewed. If you view a Web page where our ads appear, the advertising company may place a cookie on your computer or use a Web beacon to access a cookie that they previously placed on your computer. These companies do not collect information that can personally identify you, but they may use information about your visits to our website and other websites to measure the effectiveness of ads. We do not disclose any personally identifiable information to these companies. We share aggregate website usage information with third party advertisers and partners for the purpose of effectively targeting our online advertisements. Unless you are previously notified, these advertising companies do not link any online behavior or cookies with other information that can be used to personally identify you, such as your name, address, telephone number or e-mail address, when working with Dun & Bradstreet.
 
-**Who We Are**
+These third party advertising networks also track visitors' online usage and behavior patterns. These companies may use information about your visits to Dun & Bradstreet and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. The result of these efforts is the creation of an online profile that attempts to predict individual user interests, preferences and purchasing habits. The third party advertising networks then accordingly customize the advertising content served to users when visiting other websites.
 
-Avention, Inc. is providing this Policy to you as a registered user of one or more of the Products or as a visitor to the Website. We may change this Policy from time to time and will post those changes here to keep you up-to-date on how we may be collecting and using your personal information. Our corporate headquarters is located at 300 Baker Avenue, Concord, Massachusetts 01742 in the United States. You may reach our U.S. corporate headquarters by telephone at 1-978-318-4300 or fax 1-978-318-4690.
+_What are your choices regarding Cookies_  
 
-California Civil Code Section 1798.83 permits customers of Avention who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send us an email at [privacy@avention.com](mailto:privacy@avention.com).
+
+Most Internet browsers allow users to decide whether to accept cookies and how long to keep them on their hard drive. You may reset your browser to refuse cookies and still use our website, although website access and functionality may be slower and less convenient.
+
+In regard to Third Party Advertisers, the Network Advertising Initiative (NAI) is a self-regulatory cooperative of online marketing and analytics companies. The NAI provides educational content and opt-out tools to help Internet users learn about and address online behavioral marketing practices. Through the NAI's online options, you may opt out of particular NAI network members' behavioral advertising programs or you may opt out of all NAI network members' programs. Opting out will prevent the given network from which you opted out from using your Web preferences and usage patterns to deliver targeted online ads. The NAI opt-out only works with participating third party advertising networks that use cookies and Web beacons to execute their advertising initiatives. If you would like additional information about online behavioral marketing and your options regarding these standard Internet practices, please visit the [NAI website](http://www.networkadvertising.org/).
+
+### You Have Choices
+
+Dun & Bradstreet respects your privacy preferences and offers the following ways through which you may control how we contact you and disclose your information.
+
+_Dun & Bradstreet E-mail Marketing_
+
+  
+
+
+To opt out of receiving Dun & Bradstreet promotional e-mails, newsletters, and updates about new Dun & Bradstreet features, products and services:
+
+You can manage your notifications and communications at the Preference Center <http://businessinsight.dnb.com/ManageYourPreferences>  or you may follow the unsubscribe instructions in any of our promotional emails.  You can also reach Customer Service at 1-800-234-3867 or send an email to [custserv@dnb.com](mailto:custserv@dnb.com). 
+
+You may change your preferences at any time.
+
+Please note that we may continue to send you transactional or service-related e-mails despite your desire to not receive promotional or marketing e-mail messages.  Also please note that if you elect to opt-out of receiving promotional e-mails from one of our websites, you may continue to receive promotional emails from our other websites. 
+
+_Dun & Bradstreet Telemarketing, Texting or Calling_  
+
+
+To no longer receive telemarketing calls from us or seek to clearly inform Dun & Bradstreet of a desire to revoke consent provided in the below paragraph, you may do this by:
+
+Calling Dun & Bradstreet Customer at 1-800-234-3867
+
+Clicking on the Dun & Bradstreet Communications Preference link <http://businessinsight.dnb.com/ManageYourPreferences>
+
+By providing your phone number to Dun & Bradstreet, you expressly consented and authorized Dun & Bradstreet to contact you in any lawful manner, including the use of automatic and/or computerized dialing systems, text messages and pre-recorded message and call technologies for any lawful purpose, including marketing Dun & Bradstreet products and third party services. You expressly consent to be contacted through such means at the telephone numbers (including mobile or wireless numbers) you provide to Dun & Bradstreet. You represent and warrant that any mobile or wireless telephone number you provide belongs to you and is associated with a mobile device in your possession. You will notify Dun & Bradstreet if your mobile or wireless telephone number changes. Consent is not a requirement of purchase. Should you have any questions about which addresses, telephone numbers or email addresses you provided to Dun & Bradstreet for the above, please review your account information in your product dashboard or please call Dun & Bradstreet at 1-800-234-3867.
+
+We may continue to call you for transactional or service-related purposes despite your desire to not receive telemarketing calls.
+
+_Dun & Bradstreet Direct Mail Marketing_  
+
+
+To be placed on our company's internal Do Not Mail list should you no longer wish to receive marketing or promotional mailers you may do so by contacting:
+
+Dun & Bradstreet Customer Service at 1-800-234-3867 or clicking on the Dun & Bradstreet Communications Preference link <http://businessinsight.dnb.com/ManageYourPreferences>.
+
+You may change your preferences at any time.
+
+We may continue to send you transactional or service-related correspondence despite your desire to not receive marketing mailers.
+
+Individuals whose contact information is in our professional contacts database may request to be excluded from the professional contacts database, by calling Dun & Bradstreet at 800-234-3867 or emailing  [Custserv@dnb.com](mailto:Custserv@dnb.com)
+
+While we may remove your individual business contact information from our professional contacts database, please be aware that we will continue to provide your company's or educational institution’s contact information in our Business Information and Educational Institutional Reports and other products and services. Note that if your professional contact information is in a different third party's marketing directory, you will need to request removal with such third party directly.
+
+### Access and Correction
+
+To help ensure data quality and accuracy, Dun & Bradstreet provides businesses organizations and business professionals with access to their business information within the D&B databases and with an opportunity to correct verified inaccuracies. Authorized business representatives may request a complimentary copy of their company's business report. 
+
+To obtain a copy of your company’s business report or your information or, to correct or update your information:
+
+Dun & Bradstreet Customer Service at 1-800-234-3867 or send an email to [customerservice@dnb.com](mailto:custserv@dnb.com).
+
+Hoovers/Avention: Customer Support at 1-800-486-8666 or by sending an e-mail to [customersupport@hoovers.com](mailto:customersupport@hoovers.com)
+
+When a business owner or principal contacts Dun & Bradstreet about a potential data error, we promptly investigate the issue, confirm the information in question, correct verified inaccuracies and respond to the original inquiry. In such a case, we may apply a "stop distribution" order regarding the relevant business report, as well as ancillary products that may be affected by the verified inaccuracy, until the matter is properly resolved. When the investigation is complete, we will also send a correction notice to businesses or others whom we know to have received the inaccurate data, as appropriate. However, some third parties and third party sites may continue to display inaccurate Data until their databases and display of data are refreshed in accordance with their update schedules.
+
+### Data Security
+
+Dun & Bradstreet maintains commercially reasonable security measures to protect personal information against unauthorized access and disclosure and that are consistent with our business operations and generally accepted industry standards. These measures include the implementation of technical, physical and administrative security safeguards. Dun & Bradstreet requires employees to complete privacy and security training.  Dun & Bradstreet also implements a third party service provider due diligence program to ensure that our vendors likewise employ adequate data collection, processing, transfer, management and security measures in carrying out their services on our behalf.
+
+We cannot ensure or warrant the security of any information that you transmit to us and you agree that you provide this information and engage in such transmissions at your own risk. Once we receive information from you, we will endeavor to maintain its security on our systems. Dun & Bradstreet has established policies and procedures for securely managing information and protecting Data against unauthorized access and we continually assess our data privacy, information management and data security practices. We do this in the following ways:
+
+Establishing policies and procedures for securely managing information;
+
+Limiting employee access to sensitive information;
+
+Protecting against unauthorized access to customer data by using data encryption, authentication and virus detection technology, as required;
+
+Requiring service providers with whom we do business to comply with relevant data privacy legal and regulatory requirements;
+
+Monitoring our websites through recognized online privacy and security organizations;
+
+Conducting background checks on employees and providing Data Privacy training to our team members;
+
+Continually assessing our data privacy, information management and data security practices.
+
+### Data Retention
+
+Dun & Bradstreet will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact Dun & Bradstreet Customer Service at 1-800-234-3867 or [customerservice@dnb.com](mailto:customerservice@dnb.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### Children
+
+Dun & Bradstreet websites, products and services are for business purposes only. They are not targeted, intended or expected to be of use to children. User provided contributions of content or contact information regarding or about children are expressly prohibited.
+
+### Changes To Data Privacy Practices
+
+If we make material changes to our data privacy practices, this policy will be updated and posted on our website in order to keep you informed of how we collect, use, manage, disclose, and protect information. The policy effective date will be updated accordingly.
+
+### Your Use of Our Website is Consent
+
+By using our website, you hereby consent to our collection, use, management, retention, and disclosure of your information as described in this policy.
+
+### Sale of Assets
+
+In the event that Dun & Bradstreet is purchased or sells parts or all of the business, the information collected will be considered an asset that can be transferred.
+
+### Transfers of Personal Information from the EU/EEA and Switzerland to the US - Privacy Shield
+
+Dun & Bradstreet and its legal entities comply with the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to Privacy Shield, Dun & Bradstreet is potentially liable. Dun & Bradstreet has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+Dun & Bradstreet is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+
+### Other Transfer Mechanisms
+
+Dun & Bradstreet also complies with EU/EEA to US cross border transfer requirements by entering into standard contractual clauses or using other mechanisms available under the EU Data protection laws. We also use data transfer agreements or other approved mechanisms for global transfers of personal information.
+
+### Dispute Resolution
+
+This dispute resolution program covers both offline Data collection (e.g. personal information collected through our call centers or via postal mail) and online Data collection (e.g. personal information collected via the Internet). If you are a citizen of the EU and you have any complaints regarding our compliance with relevant aspects of the Data transfer laws and regulations surrounding Data transfers from the EU you should contact us at: [EUDPO@dnb.com](mailto:EUDPO@dnb.com) or [customerhelp@dnb.co.uk](mailto:EUDPO@dnb.com).
+
+If you are not a citizen of the EU and you have a question or concern regarding Dun & Bradstreet's data privacy practices, please contact the Chief Privacy Officer at [privacyofficer@dnb.com](mailto:privacyofficer@dnb.com) or call the Customer Service center at 1-800-234-3867 or send an email to [customerservice@dnb.com](mailto:customerservice@dnb.com). We will do our best to resolve any complaints or issues as quickly as possible.
+
+### Independent Dispute Resolution
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+### Arbitration
+
+Under the Privacy Shield, arbitration is an option available to an individual as a final recourse for claims that a Privacy Shield organization has violated its obligations under the Principles and the claim is not fully resolved by other Privacy Shield recourse mechanisms. The arbitration will be implemented in accordance with the rules established under the Privacy Shield.
+
+### California Residents
+
+California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please see the Access and Correction section above for contact information.
+
+### Contact
+
+For more information regarding this Privacy Notice, you can contact:
+
+Privacy Officer  
+Dun & Bradstreet, Inc.  
+103 JFK Parkway  
+Short Hills, NJ 07078  
+[privacyofficer@dnb.com](mailto:privacyofficer@dnb.com)
+
+If you are an EU citizen and have questions regarding your personal information or about Dun & Bradstreet's EU Privacy Policy, you can contact: 
+
+EU Data Protection Officer at [EUDPO@dnb.com](mailto:EU%20Data%20Protection%20Officer%20at%20EUDPO@dnb.com)
+
+### Effective Date:
+
+Effective Date of Privacy Policy: December 5, 2017
+
+This update to the Privacy Policy has been done to update D&B contact information and editorial changes identifying covered websites.
+
+Previous update to this privacy policy was dated September 21, 2017.
