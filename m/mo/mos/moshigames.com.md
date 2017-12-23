@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moshigames.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043604id_/http%3A//www.moshigames.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshigames.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223182441id_/http%3A//www.moshigames.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Moshi Games | Kids Games Online
 
@@ -30,7 +30,7 @@ The Children's Online Privacy Protection Act (COPPA), is a program administered 
 
 ## Security
 
-If any message claiming or appearing to come from MoshiGames.com is sent to you asking for personal information such as your password or user name for MoshiGames.com, please ignore the request and report it to us at [help@moshigames.com](https://web.archive.org/web/20170624043604id_/http%3A//www.moshigames.com/pages/help@moshigames.com) immediately. MoshiGames.com is not a secure web site and MoshiGames.com does not and cannot warrant or ensure the security of the information collected by and transmitted over the internet. Players agree that any data transmission you make or receive regarding Moshi Games is at your own risk.
+If any message claiming or appearing to come from MoshiGames.com is sent to you asking for personal information such as your password or user name for MoshiGames.com, please ignore the request and report it to us at [[email protected]](https://web.archive.org/web/20171223182441id_/http%3A//www.moshigames.com/pages/help@moshigames.com) immediately. MoshiGames.com is not a secure web site and MoshiGames.com does not and cannot warrant or ensure the security of the information collected by and transmitted over the internet. Players agree that any data transmission you make or receive regarding Moshi Games is at your own risk.
 
 ## Information Sharing
 
@@ -38,6 +38,6 @@ MoshiGames.com does not collect any personal information so we are not able to s
 
 ## Contact us
 
-If you wish to obtain more information about MoshiGames.com, our games, privacy policy or similar information, please contact us at: Email: [hello@moshigames.com](mailto:hello@moshigames.com)
+If you wish to obtain more information about MoshiGames.com, our games, privacy policy or similar information, please contact us at: Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#167e737a7a79567b79657e7f71777b73653875797b)
 
 Snail mail: Mind Candy Ltd, Unit 4.01, Tea Building, 56 Shoreditch High Street, London E1 6JJ, UK
