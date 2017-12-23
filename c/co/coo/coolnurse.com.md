@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coolnurse.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624131320id_/https%3A//www.livestrong.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolnurse.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223165241id_/https%3A//www.livestrong.com/privacy-policy) for the most accurate reproduction.*
 
 # LEAF GROUP PRIVACY POLICY | LIVESTRONG.COM
 
-Last Updated: November 9, 2016
+Last Updated: August 1, 2017
 
 By using this online website, mobile website, application, digital service, or any products, services, sites, features or functionality associated with Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. (each a “Service", collectively the “Services”), you consent to the collection, use, processing, and sharing of your information as described in this Leaf Group Privacy Policy (“Privacy Policy”). This Privacy Policy describes how information is collected from you when you use any of the Services and how Leaf Group Ltd. (“Leaf Group,” “we,” “us,” or “our”) uses, shares and manages this information.
 
@@ -42,7 +42,7 @@ Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Onli
 > 
 
 > 
-> b. _Third Party Links and Content._ In addition, the Service may include third-party advertising, links to third-party websites, and other content from third-party businesses. These third parties may use cookies, pixels and web beacons to track the actions of users online over time and across different websites or platforms in order to deliver targeted electronic advertisements to an individual user. For information about how tracking works for online advertising purposes you can visit <http://www.aboutads.info/choices> or [http:///www.aboutads.info/appchoices](http://www.aboutads.info/appchoices). We do not have access to or control over cookies, pixels or web beacons that third-party websites or partners may use. We are not responsible for the privacy practices or the content of these third-party websites. You are encouraged to review the privacy policies of the different websites that you visit. In addition, some third-party advertising companies may provide a mechanism to opt-out of their technology. For more information about the opt-out process, you may visit the Network Advertising Initiative website, available at: <http://www.networkadvertising.org/managing/opt_out.asp>.
+> b. _Third Party Links and Content._ In addition, the Service may include third-party advertising, links to third-party websites, and other content from third-party businesses. These third parties may use cookies, pixels and web beacons to track the actions of users online over time and across different websites or platforms in order to deliver targeted electronic advertisements to an individual user. For information about how tracking works for online advertising purposes you can visit <https://www.aboutads.info/choices> or [https:///www.aboutads.info/appchoices](https://www.aboutads.info/appchoices). We do not have access to or control over cookies, pixels or web beacons that third-party websites or partners may use. We are not responsible for the privacy practices or the content of these third-party websites. You are encouraged to review the privacy policies of the different websites that you visit. In addition, some third-party advertising companies may provide a mechanism to opt-out of their technology. For more information about the opt-out process, you may visit the Network Advertising Initiative website, available at: <https://www.networkadvertising.org/managing/opt_out.asp>.
 > 
 > c. _Do Not Track Requests._ If you access the Service through a browser, your browser may allow you to adjust your browser settings so that “do not track” requests are sent to the websites that you visit. However, we will not disable tracking technology that may be active on the Service in response to any “do not track” requests that we receive from your browser. You can change your privacy preferences regarding the use of cookies and other similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require our consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered through the Service.
 > 
@@ -65,7 +65,7 @@ Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Onli
 
 ## V. How We Share Your Information.
 
->   * We may share your personal information in the manner described below. In the case of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, we are potentially liable. We may share the information you provide or that we collect in some circumstances as follows:
+>   * We may share your personal information in the manner described below. In the case of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-US and Swiss-US Privacy Shield Frameworks, we are potentially liable. We may share the information you provide or that we collect in some circumstances as follows:
 > 
 
 > 
@@ -79,7 +79,7 @@ Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Onli
 > 
 > e. _Servcie Providers._ We may share your information with our service providers who work on our behalf. For example, these service providers may handle payment or credit card processing, data management, customer data pooling or aggregating, feature administration, email distribution, market research, information analysis, and promotions management. These service providers will only have access to the information needed to perform these limited functions on our behalf.
 > 
-> f. _Response to Subpoenas or Court Orders or to Protect Rights and to Comply with Our Policies._ To the extent permitted by law, we will disclose your information to government authorities or third parties, including national security or law enforcement agencies, if: (i) required to do so by law, or if requested in response to a subpoena or court order; (ii) we believe in our sole and absolute discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large; or (iii) we believe that you have abused the Service by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws or in violation of our Terms of Use. You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
+> f. _Response to Subpoenas or Court Orders or to Protect Rights and to Comply with Our Policies._ To the extent permitted by law, we will disclose your information to government authorities or third parties, including national security or law enforcement agencies, if: (i) required to do so by law, or if requested in response to a subpoena or court order; (ii) we believe in our sole and absolute discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large; or (iii) we believe that you have abused the Service by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws or in violation of our [Terms of Use](https://web.archive.org/terms). You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
 > 
 > g. _Business Transfers; Bankruptcy._ In the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets or any business, any user information owned or controlled by us may be one of the assets transferred to third parties in such transaction or event. We reserve the right, as part of this type of transaction or event, to transfer or assign your information and other information we have collected from users of the Service to third parties. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity or acquirer, as applicable.
 
@@ -96,36 +96,28 @@ Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Onli
 > 
 
 
-## VIII. EU-US Privacy Shield.
+## VIII. EU-US Privacy Shield and Swiss-US Privacy Shield.
 
->   * Leaf Group complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
->   * In compliance with the EU-US Privacy Shield Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this policy should first contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com).
->   * We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+>   * Leaf Group complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from European Union and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+>   * In compliance with the EU-US and Swiss-US Privacy Shield Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this policy should first contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com).
+>   * We have further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://www.bbb.org/EU-privacy-shield/for-eu-consumers](https://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 >   * Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 > 
 
 
-## IX. US-Swiss Safe Harbor.
-
->   * Leaf Group complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles will govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
->   * In compliance with the US-Swiss Safe Harbor Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. Swiss citizens individuals with inquiries or complaints regarding this policy should first contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com).
->   * We have further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
-> 
-
-
-## X. Security.
+## IX. Security.
 
 >   * We provide industry-standard physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we take reasonable measures to limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Service. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Service and you do so at your own risk.
 > 
 
 
-## XI. Updates to this Privacy Policy.
+## X. Updates to this Privacy Policy.
 
 >   * We will notify you of material changes to this Privacy Policy by at least thirty (30) days before the effective date of the changes. If you do not agree to such changes following such notice, you should discontinue your use of the Service prior to the time the modified privacy policy takes effect. If you continue using the Service after the modified privacy policy takes effect, you will be bound by the modified privacy policy.
 > 
 
 
-## XII. Contact Information.
+## XI. Contact Information.
 
 >   * If you have questions about this Privacy Policy, you may contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com). We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns.
 > 
