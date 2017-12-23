@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atmel.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612223545id_/http%3A//www.atmel.com/About/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atmel.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223231439id_/http%3A//www.atmel.com/About/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
