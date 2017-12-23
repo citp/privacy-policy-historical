@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indobase.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614100113id_/http%3A//www.indobase.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indobase.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223104710id_/http%3A//www.indobase.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Indobase.com :: Privacy Policy
 
