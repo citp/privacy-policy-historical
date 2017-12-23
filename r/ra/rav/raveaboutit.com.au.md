@@ -1,77 +1,74 @@
-> *The following text is extracted and transformed from the raveaboutit.com.au privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212170817id_/http%3A//www.raveaboutit.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raveaboutit.com.au privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223182017id_/http%3A//www.netfleet.com.au/privacy.php) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy - Buy & Sell Domains | Netfleet: Australia's No.1 Domain Name Trading Platform
 
-## User Consent to Privacy Statement
+## Privacy Policy
 
-Any person accessing, browsing, or otherwise using the web site located at www.RaveAboutIt.com.au ("The Site"), either manually or via an automated device or program, shall be considered a "Visitor." Further, a Visitor who registers at The Site, downloads, and/or makes purchases of products shall be considered a "User." All Visitors are bound by the terms of this Privacy Statement. Visitors consent to the collection, use, and disclosure of Visitor information pursuant to the terms of this Privacy Statement.
+The privacy of any personal information you provide is extremely important to us. The following privacy policy governs the collection and use of your personal information by Netfleet. This privacy policy sets out how we are committed to respect your rights to privacy in accordance with the National Privacy Principles contained in the Privacy Act 1988.
 
-## Information Collected
+#### How do we collect personal information?
 
-To join the Rave About It site, you are required to submit your name, address, e-mail address ("Personally Identifiable Information"). We store all Personally Identifiable Information. We do not collect any Personally Identifiable Information from Visitors who are not Users. We collect and store Visitors' site referral information, browsing patterns, technical information (e.g., the Visitor's browser version, IP address, and operating system), and other Site use information through the use of "Cookies" ("Information"). (For more information regarding Cookies, see below.) We associate the Information obtained about a User to the User's Personally Identifiable Information.
+  * We may collect personal information from you directly by telephonenumber, facsimile, email, post or frequently via our website. We may also receive information via an intermediary, a company with which we may have a relationship such as a domain services company.
 
-Use and Transfer of Information and Personally Identifiable Information
 
-We use Information and Personally Identifiable Information as necessary to complete a transaction for you, to better understand the use of The Site and to better tailor The Site to Visitor and User preferences, as well as for customer support purposes. We also may use the name and e-mail address that Users supply to contact Users, as well as to send Users promotional or other materials. To unsubscribe from our mailing list, please follow the directions set forth within the promotional or other materials you receive from us or [contact us](http://www.raveaboutit.com.au/index.php?p=contact_us).
 
-## Information Collected
+####   
+What types of personal information do we collect?
 
-We will collect general information from you, including the business names submitted, contact name for point person at business, business e-mail, street address, post code, state, phone number, rating regarding a personal experience with the business, and any comments about that experience. In addition, each time you use Rave About It, we will collect general usage information from you including, types of searches, the date your searches are performed and the number of searches you make. This information will help us better understand how Rave About It is being used and will assist us in continuing to improve our services.
+  * We collect personal information about you to enable us to provide the best possible service in relation to your domain name needs. The types of personally identifiable information that we may collect include your name, address, telephonenumber number and ABN. 
 
-Disclosure of Information and Personally Identifiable Information to Third Parties
+When we request your personal information, we will endeavour to specify which information we require for our purposes and which information may be provided at your option. You may choose not to supply any optional information requested by us but our ability to assist you may be restricted.
 
-We may use certain information about you (such as the age bracket that you belong to, or the postcode that you live in) for demographic analysis. This information may be provided to business owners that have a listing on The Site to ensure that they are offering a unique service to you. In addition, we may use this information to ensure that the site is tailored to your needs. We will not otherwise disclose Information or Personally Identifiable Information to third parties, except when required to do so by law.
 
-## Use of Reviews, Ratings and User Names
 
-Rave About It gives you the opportunity to give Reviews and Ratings for local businesses. Your User Name may appear next to your user reviews and ratings as they are posted on The Site. We may also use and disclose your user name, reviews or portions thereof and ratings in any other manner, including in marketing materials.
 
-## Aggregated General Information
+#### How do we use your personal information?
 
-In addition, we may share aggregated general information about our Site with our business partners or the general public. For example, we may share information regarding the daily number of unique users to our Site with potential business partners or others. Aggregated data does not contain any information that could be used to contact or identify you. For example, we may count the number of users who have made a review that belong to a particular postcode.
+  * We use your personal information for the following purposes: - to complete a transaction to which the provision of that personal information relates, such as the completion of order forms to communicate information about our products and services to you, for our internal administrative, marketing, planning, product development and research requirements to conduct our day to day business such as the sale of a domain name and transfer requirements. 
 
-## Cookies
+At any time you may opt out of receiving any communications from us. If you wish to opt out of receiving communications from us please contact us using the information at the end of this document.
 
-We use a feature of Internet Web browsers called a "Cookie", which is a file that a Visitor's Web browser places on a Visitor's computer's hard drive, to assign an identification code to the computer and to collect and store Information. We associate the Information obtained about a User to the User's Personally Identifiable Information. We do not and cannot use Cookies to retrieve individual Personally Identifiable Information about Visitors from a Visitor's computer. Cookies do not contain any credit card information. The Cookie technology we use cannot obtain information from a Visitor's hard drive or pass on a computer virus.
 
-If you choose to reject the Cookies, some areas of The Site may not function properly or may not be accessible.
 
-## JavaScript
 
-This site makes use of JavaScript to display dynamic content and enhance navigation capability. We assume no liability for possible losses from accessing this site or its content. We have endeavoured to make this site as functional as possible for those users that have JavaScript disabled on their machines.
+#### Do we ever disclose your personal information to others?
 
-## Linked Internet Web Sites
+  * We do not sell our client lists to third parties. We may disclose personal information to third parties in the following circumstances: 
 
-The Site provides hyperlinks, which are highlighted words or pictures within a hypertext document that, when clicked, take you to another place within the document or to another document altogether, to other web sites not controlled by us. These hyperlinked web sites may contain privacy provisions that are different from those provided herein. We are not responsible for the collection, use, or disclosure of information collected through these web sites, and we expressly disclaim any and all liability related to such collection, use, or disclosure.
+1) When explicitly instructed to do so by yourself 2) As required to effect a domain name transfer or other service where required 3) As part of a promotion you may have entered (eg expired domain report) 
 
-## Children
+Otherwise, we do not disclose personal information unless we are required to do so by law or regulation.
 
-Our Site is not directed towards children 13 years of age or under and we do not knowingly collect any information from children 13 years of age or under through The Site.
 
-## Security
 
-This Site has password security measures to protect against the loss, misuse, and alteration of the Information and Personally Identifiable Information under our control. We make no representations or warranties with regard to the sufficiency of these security measures. We shall not be responsible for any actual or consequential damages that result from a lapse in compliance with this Privacy Statement as a result of a security breach or technical malfunction.
 
-## Sale of Assets
+#### What rights do you have to access your personal information?
 
-In the event that another company acquires all or substantially all of the assets related to the business of Rave About It, we reserve the right to include Information and Personally Identifiable Information among the assets transferred to the acquiring company.
+  * At any time, you may ask us to provide you with a list of the personal information we hold about you, and copies of that personal information. We will endeavour to provide you with the data within 30 days of receiving your request. 
 
-## SPAM
+If you believe for any reason that we are holding inaccurate or incomplete data about you, you may ask us to correct it. We will consider if the information requires amendment. If we do not agree that there are grounds for amendment, then we will add a note to the personal information stating that you disagree with it.
 
-The Site has a strictly Anti-SPAM policy. We have minimised the likelihood of a business receiving SPAM through the use of electronic forms that hide a business's e-mail from potential SPAM search engines.
 
-If in the event an e-mail address is posted by a user or a business on Rave About It, it is not to be inferred as consent by the user or business to receiving unsolicited commercial electronic messages or SPAM.
 
-## Amendments to Privacy Statement
 
-We reserve the right to amend this Privacy Statement periodically. Use of Information and Personally Identifiable Information that we gather now is subject to the Privacy Statement in effect at the time the Information or Personally Identifiable Information is used. Any amendments made to this Privacy Statement will be considered effective ten (10) days after the amendments are posted on The Site.
+#### How do we store your personal information?
 
-## Contact Information
+  * We take all reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification or exposure. We require all staff to maintain the confidentiality of customer information. Access to information stored electronically is restricted to employees whose job requires access to the information. Access to our computer systems is restricted through password protection.
 
-If visitors have any questions about our products, services or need to correct their Registration Information, please [contact us](http://www.raveaboutit.com.au/index.php?p=contact_us).
 
-## Submissions
 
-We appreciate and will consider any comments you may have on our Site, the Software Products, service, or ideas you may have on how to improve them. Please [contact us](http://www.raveaboutit.com.au/index.php?p=contact_us) with your feedback. Please note that by doing so, or by otherwise posting, uploading, inputting, providing or submitting ("Posting") your comments, feedback, concepts, know-how, techniques, software, or ideas ("Submission"), you irrevocably assign free of charge, all worldwide rights, title and interest in all copyrights, patent rights, and all other intellectual property rights in the Submission to Rave About It, its successors and assigns. You agree to cooperate with Rave About It, its successors, and assigns, in perfecting such intellectual property rights. Without limitation, Rave About It, its affiliated companies and its licensees, will be entitled to use your Submission on an unrestricted basis, for any purpose whatsoever, including, to: develop, manufacture and market products incorporating such Submission, to copy, distribute, transmit, publicly display, publicly perform, reproduce, edit, translate, and reformat your Submission; to publish your name in connection with your Submission; and the unrestricted right to license such rights.
+#### Whois Policy
 
-Rave About It does not wish to receive any submission that is confidential or proprietary. You agree not to post or otherwise provide any submission that you consider confidential or proprietary, and any submissions you post will be deemed and treated as non-confidential and non-proprietary. In addition, do not post any Submissions that you do not want to assign to Rave About It. No compensation will be paid or is due with respect to the assignment or use of your Submission, as provided herein. Rave About It is under no obligation to post or use any Submission you may provide. By Posting a Submission you warrant and represent that you own or otherwise control all of the rights to your Submission including, without limitation, all the rights necessary for you to assign, provide, post, upload, input or submit the Submission.
+  * When a domain name is registered, certain information is collected for use on the WHOIS service. The WHOIS service allows internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA’s WHOIS policy at http://www.auda.org.au/whois which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data.
+
+
+
+As you browse this website and other websites, online ad networks we work with may place anonymous cookies on your computer, and use similar technologies, in order to understand your interests based on your (anonymous) online activities, and thus to tailor more relevant ads to you.   If you do not wish to receive such tailored advertising, you can visit this page to opt out of most companies that engage in such advertising.  (This will not prevent you from seeing ads; the ads simply will not be delivered through these targeting methods.) 
+
+#### How can we be contacted?
+
+  
+You can make any requests relating to your personal information held by us by contacting any member of staff via our [Contact Us](https://web.archive.org/index.php?a=contact "Contact Us") form.
+
+  
+﻿ 
