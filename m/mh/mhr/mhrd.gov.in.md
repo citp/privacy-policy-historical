@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhrd.gov.in privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624090322id_/http%3A//www.mhrd.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhrd.gov.in privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223183613id_/http%3A//www.mhrd.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Government of India, Ministry of Human Resource Development
 
@@ -28,4 +28,4 @@ If you are asked for any other Personal Information you will be informed how it 
 
 The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.
 
-Last Updated by admin on Wed, 10/09/2013 - 14:24
+Last Updated by admin on Wednesday, 9 October 2013 - 2:24pm
