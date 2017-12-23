@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the babyoye.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630005104id_/http%3A//www.firstcry.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyoye.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223065708id_/http%3A//www.firstcry.com/privacypolicy) for the most accurate reproduction.*
 
 # FirstCry.com - Privacy Policy
 
-This Privacy Policy relates solely to the information collection and use practices of our web site located at http://www.firstcry.com -and www.firstcry.com's community services available through www.firstcry.com's mobile app -(“Community ”) (collectively referred to as “Site ” or “Website” or “Firstcry. com”). We recognize that many visitors and users of this Website are concerned about the information they provide to us, and how we treat that information. This Privacy Policy, which may be updated from time to time, has been developed to address those concerns. 
+This Privacy Policy relates solely to the information collection and use practices of our web site located at https://www.firstcry.com -and www.firstcry.com's community services available through www.firstcry.com's mobile app -(“Community ”) (collectively referred to as “Site ” or “Website” or “Firstcry. com”). We recognize that many visitors and users of this Website are concerned about the information they provide to us, and how we treat that information. This Privacy Policy, which may be updated from time to time, has been developed to address those concerns. 
 
 **BY ACCESSING OR USING OUR WEBSITE OR BY PROVIDING YOUR INFORMATION, YOU HEREBY ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREED TO BE BOUND BY ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, PLEASE EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.**
 
