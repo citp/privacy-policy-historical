@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the times-news.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030934id_/http%3A//www.times-news.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times-news.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223054307id_/http%3A//www.times-news.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | times-news.com
 
 **Effective**
 
-This Policy was last modified on February 10, 2012.
+This Policy was last modified on October 17, 2017.
 
  **Information Practices**
 
-Community Newspaper Holdings, Inc. and its affiliates and subsidiaries (collectively "CNHI") understand that security and privacy are important issues for visitors to our web site, http://times-news.com (the "Site") and recognize our obligations to keep your information secure and confidential. That is why we maintain the following standards to help protect information that personally identifies you. We may modify this Privacy Policy (the "Policy") at any time and, accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent for additional disclosure, or are legally required to disclose, as noted below. Please note that the Policy applies only to information collected by us through the Site, as specified below, and unless expressly stated otherwise, does not govern or apply to any information collected or used by CNHI including, but not limited to, http://times-news.com through other means.
+CNHI LLC and its affiliates and subsidiaries (collectively "CNHI") understand that security and privacy are important issues for visitors to our web site, http://www.times-news.com (the "Site") and recognize our obligations to keep your information secure and confidential. That is why we maintain the following standards to help protect information that personally identifies you. We may modify this Privacy Policy (the "Policy") at any time and, accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent for additional disclosure, or are legally required to disclose, as noted below. Please note that the Policy applies only to information collected by us through the Site, as specified below, and unless expressly stated otherwise, does not govern or apply to any information collected or used by CNHI including, but not limited to, http://www.times-news.com through other means.
 
  **Collection of Information**
 
@@ -56,7 +56,7 @@ We have policies and procedures in place to protect the privacy and confidential
 
  **Your California Privacy Rights**
 
-Beginning January 1, 2005, California law permits customers who are California residents to request once in any calendar year certain information regarding our disclosure of personal information to third parties for marketing purposes. To make such a request, please contact us by e-mail at: digital@cnhi.com, or write to us at: Community Newspaper Holdings, Inc., Attn: Matthew I. Ipsan, 445 Dexter Avenue; Montgomery, AL 36104.
+Beginning January 1, 2005, California law permits customers who are California residents to request once in any calendar year certain information regarding our disclosure of personal information to third parties for marketing purposes. To make such a request, please contact us by e-mail at: digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104.
 
  **Access and Corrections**
 
@@ -64,10 +64,10 @@ We strive to keep your Personal Information accurate. You can access and update 
 
  **AP News Registry**
 
-This Site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at http://ap.org/company/privacy for further information.
+This Site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at http://ap.org/company/privacy for further information.
 
  **Contacting Us**
 
-If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: Community Newspaper Holdings, Inc., Attn: Matthew I. Ipsan, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
+If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
 
-[](http://click.oo155.com/ViewLandingPage.aspx?pubids=2711|-6|5|69&digest=Li482i%2fv5WkH%2frjP92Wd%2bA&sysid=1&mobile=0)
+[](https://visitor.r20.constantcontact.com/d.jsp?llr=a9oml49ab&p=oi&m=1128481045312&sit=5x6vgcwlb&f=3c6c3271-851a-44ca-9254-3eff502dcb8c)
