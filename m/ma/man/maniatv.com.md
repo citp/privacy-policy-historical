@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maniatv.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628235047id_/http%3A//www.maniatv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maniatv.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223231254id_/http%3A//www.maniatv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ManiaTV.com
 
@@ -58,6 +58,11 @@ The ManiaTV Services may be linked to internet websites operated by other compan
 ManiaTV carries advertisements from other companies, often with the ability to click through to websites run by these other companies. ManiaTV is not responsible for the privacy practices of advertisers. Once you have left the ManiaTV Site by clicking on an advertisement, you should check the privacy policy of the advertiser to determine how it handles any personally identifiable information they collect from you. Please be aware that ManiaTV does not warn you when you have chosen to link through to another website from the ManiaTV Site.
 
 Some of the advertisements that appear in connection with the ManiaTV Services may be delivered to you by third party internet advertising companies (also called "ad networks" or "network advertisers"). These companies may use cookies, web beacons and other technologies to collect non-personally identifiable information about your visits to the ManiaTV Site in order to deliver advertisements to you, measure their effectiveness, and personalize advertising content. ManiaTV does not have access to or control over cookies, web beacons or other technologies that they may use. The information practices of these advertising companies are governed by their own privacy policies and are not covered by this Privacy Policy. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+Many of our advertising partners are part of the Network Advertising Initiative. You may opt-out of behavioural advertising for Network Advertising Initiative member companies by following the link below and opting-out of all or some of the advertising networks:  
+<http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Outside of United States**  
 ManiaTV is headquartered in the U.S. Please be aware that information you provide to us or we obtain as a result of your use of the ManiaTV Services may be processed and transferred to the U.S. and be subject to U.S. law. The privacy and data protection laws in the U.S. may not be equivalent to such laws in your country of residence. By using our website, participating in any of the ManiaTV Services, or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in the U.S.
