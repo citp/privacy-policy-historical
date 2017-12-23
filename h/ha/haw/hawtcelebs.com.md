@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawtcelebs.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616222628id_/http%3A//www.hawtcelebs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawtcelebs.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223031806id_/http%3A//www.hawtcelebs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HawtCelebs - HawtCelebs
 
@@ -34,6 +34,8 @@ Google, as a third-party vendor, uses cookies to serve ads on this site.
 
 Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
+Some of the ads you see on the Web or in applications on your mobile device are tailored to your interests and based on your activity online or in the applications on your mobile device. This type of ad tailoring — sometimes called “interest-based” or “online behavioral” advertising — is enabled through various technologies, including browser cookies, mobile advertising identifiers as well as other non-cookie technologies. (You can learn more about non-cookie technologies from our [FAQ on Non-Cookie Technologies](http://www.networkadvertising.org/code-enforcement/faqs-non-cookie-technologies)). Tailored digital ads help support the free products, services and content you enjoy online. To help protect your privacy, NAI members voluntarily agree to the high standards established by the NAI Codes of Conduct when engaging in Interest-Based Advertising and Cross-App Advertising and are committed to providing you transparency and choice for these activities. This page was created to help users learn more about participating NAI member companies and the transparency and choice these members offer.
+
 ## Links
 
 This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
@@ -42,9 +44,9 @@ This Web site contains links to other sites. Please be aware that we are not res
 
 We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense (including their partners), CPX interactive, Blogads, Adify. Please check their websites for respective privacy policies.
 
-Contact Information
+## Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at: a.arsenovic.sg@gmail.com
+If users have any questions or suggestions regarding our privacy policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## Third Party Advertiser Cookies and Web Beacons
 
