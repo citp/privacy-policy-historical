@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullforms.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627134705id_/http%3A//fullforms.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullforms.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224002408id_/http%3A//fullforms.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | FullForms
 
