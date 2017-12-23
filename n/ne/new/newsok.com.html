@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the newsok.com privacy policy that was archived on 2017-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170614134750id_/https%3A//newsok.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newsok.com privacy policy that was archived on 2017-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171223092213id_/http%3A//newsok.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" lang="en-US"><head>
         <meta charset="utf-8">
 <!-- Google Tag Manager - global_templates/google-tag-manager.tpl -->
-        <script type="text/javascript" async="" defer="" src="https://js.matheranalytics.com/s/ma35489/209358203/sp.js?cb=1524"></script><script type="text/javascript" async="" src="//cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=aa7c00da-1d76-4645-b5e0-96b8861671ef" id="infinity" data-guid="aa7c00da-1d76-4645-b5e0-96b8861671ef" data-version="async"></script><script type="text/javascript" async="" src="//www.liqwid.net/?key=6B72-2F48-5BF9-6D25"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=013755512357095351443:x_1xdmy1ux0"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//a.visualrevenue.com/vrs.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TPQQBR"></script><script>(function(w,d,s,l,i){ w[l]=w[l]||[];w[l].push({ 'gtm.start':
+        <script type="text/javascript" async="" src="//cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=aa7c00da-1d76-4645-b5e0-96b8861671ef" id="infinity" data-guid="aa7c00da-1d76-4645-b5e0-96b8861671ef" data-version="async"></script><script type="text/javascript" async="" src="//www.liqwid.net/?key=6B72-2F48-5BF9-6D25"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=013755512357095351443:x_1xdmy1ux0"></script><script type="text/javascript" async="" defer="" src="https://js.matheranalytics.com/s/ma35489/209358203/sp.js?cb=1524"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//c2.taboola.com/nr/newsokcom/newsroom.js"></script><script async="" src="//cdn.taboola.com/libtrc/newsokcom/loader.js" id="tb_loader_script"></script><script async="" src="//a.visualrevenue.com/vrs.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script async="" type="text/javascript" src="/media/js/prebid/prebid_20171106165153.js"></script><script async="" type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TPQQBR"></script><script>(function(w,d,s,l,i){ w[l]=w[l]||[];w[l].push({ 'gtm.start':
         new Date().getTime(),event:'gtm.js' });var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -13,7 +13,188 @@
 
 
 
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                
+                                                <script type="text/javascript">
+/* 1. Set the googletag for ads up front.
+   2. Disable gpt ad load until we're ready */
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+                googletag.pubads().disableInitialLoad();
+    });
+/**
+* This is the optimized way of loading prebid.js. It loads both DFP and Prebid concurrently.
+**/
+// Load DFP async.
+loadScript('//www.googletagservices.com/tag/js/gpt.js');
+
+// Load prebid.js async.
+loadScript('/media/js/prebid/prebid_20171106165153.js');
+/**
+ * Loads any script async
+ */
+function loadScript(scriptSrc) {
+  var script = document.createElement('script');
+  script.async=true;
+  script.type = 'text/javascript';
+  script.src = scriptSrc;
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(script, node);
+}
+</script>
+
+<!--prebid api 1.0 code-->
+<script type="text/javascript">
+
+
+//timeout to control how long bidders have to respond.
+var PREBID_TIMEOUT = 1500;
+
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+
+function initAdserver() {
+  if (pbjs.initAdserverSet) return;
+      //we don't want to call DFP before it is ready
+      if (window.googletag && googletag.apiReady) {
+          googletag.cmd.push(function () {
+            pbjs.que.push(function () {
+              pbjs.setTargetingForGPTAsync();
+            });
+            //googletag.pubads().refresh();
+          });
+          pbjs.initAdserverSet = true;
+      }
+
+  }
+
+pbjs.que.push(function() {
+  pbjs.enableAnalytics([{
+      provider: 'ga',
+      options: {
+          enableDistribution: false,
+          sampling: 0.50,
+          account: 'UA-109047579-1',
+          trackerName:'hbAnalytics'
+      }
+  }]);
+
+  pbjs.setConfig({
+// Turn on/off debugging
+        "priceGranularity" : "high",
+      "enableSendAllBids" : true,
+      "bidderSequence" : "random",
+      "bidderTimeout" : PREBID_TIMEOUT,
+      "publisherDomain" : "http://newsok.com"
+   });
+  var adUnits = [        {
+            code: 'div-gpt-ad-37327',
+            sizes: [[728,90],[970,90],[970,250]],
+            bids: [
+                { bidder: 'rhythmone', params: { placementId: '63202' } },
+                { bidder: 'sovrn', params: { tagid: '436289' } },
+                { bidder: 'sonobi', params: { ad_unit: '/5173/okp.newsok/home_main/main' } },
+                
+                ]},];
+  //add the adUnits
+  pbjs.addAdUnits(adUnits);
+  /* Request bids for the added ad units. If adUnits or adUnitCodes are
+         not specified, the function will request bids for all added ad units.
+  */
+  var oo = setInterval(function() {
+      if (window.googletag && googletag.apiReady) {
+          clearInterval(oo);
+          setTimeout(function() {
+              pbjs.requestBids({
+                bidsBackHandler: function(bidResponses) {
+                   initAdserver();
+                   console.log('I told the ad server to init');
+                 },
+                timeout : PREBID_TIMEOUT
+              });
+          }, 100)
+      }
+  }, 50)
+
+  pbjs.bidderSettings = {
+    //standard applies to all bidders
+    standard: {
+      adserverTargeting: [{
+        key: "hb_bidder",
+        val: function(bidResponse) {
+         return bidResponse.bidderCode;
+       }
+      }, {
+        key: "hb_adid",
+        val: function(bidResponse) {
+         return bidResponse.adId;
+       }
+      }, {
+        key: "hb_pb",
+        val: function(bidResponse) {
+         return bidResponse.pbMg;
+       }
+      }]
+    }
+  };
+});  //end push command
+</script>
+
+<script type="text/javascript">
+var articleTakeover;
+var stickyArticleAd;
+googletag.cmd.push(function() {
+    var mapping = googletag.sizeMapping().
+        addSize([1400, 400], [1456, 800]).
+        addSize([1401, 400], [1536, 800]).build();
+    var responsiveMapping = googletag.sizeMapping().
+        addSize([0, 0], [300, 100]).
+        addSize([728, 600], [728, 90]). // Tablet and Desktop
+        build();
+        adSlot_37327 = googletag.defineSlot('/5173/okp.newsok/home_main/main', [[728,90],[970,90],[970,250]], 'div-gpt-ad-37327').addService(googletag.pubads()).setTargeting("kw",["privacypolicy"]).setCollapseEmptyDiv(true);
+                    googletag.pubads().enableSingleRequest(); //this might not be what we want with header bidding
+    googletag.enableServices();
+});
+
+</script>
+
+<script type="text/javascript">
+//Load the APS JavaScript Library
+
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+
+//Initialize the Library
+apstag.init({
+    pubID: '3351',
+    adServer: 'googletag',
+    bidTimeout: 4501
+});
+
+apstag.fetchBids({
+    slots: [
+                {
+            slotID: 'div-gpt-ad-superleaderboard',
+            slotName: 'div-gpt-ad-superleaderboard',
+            sizes: [[970, 250]]
+        },
+                                                                                                            {
+            slotID: 'div-gpt-ad-37327',
+            slotName: 'div-gpt-ad-37327',
+            sizes: [[728, 90],[970, 250]]
+        }            ]
+}, function(bids) {
+        // set apstag targeting on googletag, then trigger the first DFP request in googletag's disableInitialLoad integration
+    googletag.cmd.push(function(){
+        apstag.setDisplayBids();
+        googletag.pubads().refresh();
+    });
+});
+
+</script>
+
+
+                <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=1140">
         <title>NewsOK Privacy Policy | NewsOK.com</title>
         <meta name="copyright" content="Copyright (c) 2017 NewsOK.com. All Rights Reserved">
@@ -23,7 +204,7 @@
 
         <link rel="canonical" href="http://newsok.com/privacypolicy">
         <link rel="publisher" href="https://plus.google.com/b/101290684830559652394">
-        <link rel="stylesheet" href="//cdn2.newsok.biz/styles.php?ver=4.5.38&#10;" type="text/css">
+        <link rel="stylesheet" href="//cdn2.newsok.biz/styles.php?ver=4.5.48" type="text/css">
         <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
         <!--[if IE 7]>
@@ -42,6 +223,7 @@
         <meta property="fb:app_id" content="211740625534903">
         <meta property="og:site_name" content="NewsOK.com">
         <meta property="og:locale" content="en_US">
+        <meta property="fb:pages" content="87948080793">
 
 
         <meta property="og:title" content="NewsOK Privacy Policy | NewsOK.com">
@@ -73,112 +255,6 @@
             <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
 
-<script type="text/javascript" src="//c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
-<script type="text/javascript">
-    try {
-        amznads.getAds('3351');
-    } catch (e) { /*ignore*/ }
-</script>
-<script type="text/javascript">
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-    try { amznads.setTargetingForGPTAsync('amznslots'); } catch(e) { /*ignore*/}
-</script>
-
-<script type="text/javascript">
-    var PREBID_TIMEOUT = 700;
-        var adUnits = [
-                                                    {
-            code: 'div-gpt-ad-37327',
-            sizes: [[728, 90],[970, 250]],
-            bids: [
-                {
-                    bidder: 'sovrn',
-                    params: {
-                        tagid: '436289'
-                    }
-                },
-                {
-                    bidder: 'rhythmone',
-                    params: {
-                        placementId: '63202'
-                    }
-                }
-            ]
-        },
-                            ];
-    
-</script>
-
-<script type="text/javascript" src="//s3.amazonaws.com/content.newsok.com/newsok/js/prebid_20170315142833.js" async=""></script>
-<script>
-
-    googletag.cmd.push(function() {
-        googletag.pubads().disableInitialLoad();
-    });
-
-    var pbjs = pbjs || {};
-    pbjs.que = pbjs.que || [];
-
-    pbjs.que.push(function() {
-        pbjs.setPriceGranularity("high");
-        pbjs.addAdUnits(adUnits);
-        pbjs.requestBids({
-            bidsBackHandler: sendAdserverRequest
-        });
-    });
-
-    function sendAdserverRequest() {
-        if (pbjs.adserverRequestSent) return;
-        pbjs.adserverRequestSent = true;
-        googletag.cmd.push(function() {
-            pbjs.que.push(function() {
-                pbjs.setTargetingForGPTAsync();
-                googletag.pubads().refresh();
-            });
-        });
-    }
-
-    setTimeout(function() {
-        sendAdserverRequest();
-    }, PREBID_TIMEOUT);
-
-
-    (function () {
-        var gads = document.createElement('script');
-        gads.async = true;
-        gads.type = 'text/javascript';
-        var useSSL = 'https:' == document.location.protocol;
-        gads.src = (useSSL ? 'https:' : 'http:') +
-                '//www.googletagservices.com/tag/js/gpt.js';
-        var node = document.getElementsByTagName('script')[0];
-        node.parentNode.insertBefore(gads, node);
-    })();
-</script>
-
-
-
-<script>
-
-var articleTakeover;
-var stickyArticleAd;
-googletag.cmd.push(function() {
-    var mapping = googletag.sizeMapping().
-        addSize([1400, 400], [1456, 800]).
-        addSize([1401, 400], [1536, 800]).build();
-    var responsiveMapping = googletag.sizeMapping().
-        addSize([0, 0], [300, 100]).
-        addSize([728, 600], [728, 90]). // Tablet and Desktop
-        build();
-                                        googletag.defineSlot('/5173/okp.newsok/home_main/main', [[728, 90],[970, 90],[970, 250]], 'div-gpt-ad-37327').addService(googletag.pubads()).setCollapseEmptyDiv(true);
-                            
-    googletag.pubads().enableSingleRequest();
-        googletag.enableServices();
-    });
-</script>
-
-
-    
 
         <!--Visual Revenue Reader Response Tracking Script (v6) -->
         <script type="text/javascript">
@@ -199,9 +275,107 @@ googletag.cmd.push(function() {
         <script>
 
         </script>
-    </head>
-    <body id="privacypolicy">
+
     
+    
+    <script type="text/javascript">
+      window._taboola = window._taboola || [];
+      _taboola.push({article:'auto'});
+      !function (e, f, u, i) {
+        if (!document.getElementById(i)){
+          e.async = 1;
+          e.src = u;
+          e.id = i;
+          f.parentNode.insertBefore(e, f);
+        }
+      }(document.createElement('script'),
+      document.getElementsByTagName('script')[0],
+      '//cdn.taboola.com/libtrc/newsokcom/loader.js',
+      'tb_loader_script');
+      if(window.performance && typeof window.performance.mark == 'function')
+        {window.performance.mark('tbl_ic');}
+    </script>
+    
+
+    <!-- TABOOLA NEWSROOM SCRIPT -->
+<script>
+    window._newsroom = window._newsroom || [];
+        window._newsroom.push({ pageTemplate: 'privacypolicy' });
+    window._newsroom.push({ pageDashboard: 'privacypolicy-desktop' });
+    window._newsroom.push('auditClicks');
+    window._newsroom.push('trackPage');
+        !function (e, f, u) {
+        e.async = 1;
+        e.src = u; f.parentNode.insertBefore(e, f);
+    }(document.createElement('script'), document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/newsokcom/newsroom.js');
+</script>
+<!-- END TABOOLA NEWSROOM SCRIPT -->    <!-- Google Analytics global_templates/analytics.tpl -->
+<script>
+
+(function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments) },i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+    ga('create', 'UA-32975568-1', 'auto');
+    ga('create', 'UA-109047579-1', 'auto', 'hbAnalytics');
+
+
+
+
+            
+
+
+
+    ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+
+
+
+    <!-- Begin comScore Tag -->
+    <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "16964764" });
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&c2=16964764&cv=2.0&cj=1" />
+    </noscript>
+    <!-- End comScore Tag -->
+
+    <script type="text/javascript">
+        if (window.location.search.indexOf("dontTrackPage=true") == -1) {
+            (function() {
+                function async_load(script_url){
+                    var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+                    var s = document.createElement('script'); s.src = protocol + script_url;
+                    var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+                }
+                bm_website_code = 'BC43BF6D51D94A1F';
+                jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+                jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+            })();
+        }
+    </script>
+
+
+
+    <!-- global include head -->
+    <link href="/media/css/mather/campaign1.css" type="text/css" rel="stylesheet" media="screen,print"></head>
+    <body id="privacypolicy">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPQQBR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
     <!-- place this below the opening <body> tag -->
 <script type="text/javascript">
     var FB_Nok = false;
@@ -234,81 +408,252 @@ googletag.cmd.push(function() {
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
-        <!-- Quantcast Tag, part 1 --> 
+        <!-- global include body -->
+
+
+        <!-- MATHER ANALYTICS -->
 <script type="text/javascript">
-  var _qevents = _qevents || [];
-  (function() {
-   var elem = document.createElement('script');
-   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
-               + ".quantserve.com/quant.js";
-   elem.async = true;
-   elem.type = "text/javascript";
-   var scpt = document.getElementsByTagName('script')[0];
-   scpt.parentNode.insertBefore(elem, scpt);  
-  })();
-</script>
-<!-- Quantcast Tag, part 2 -->
+localStorage.setItem('_nok_user', '0');
+(function () {
+  var _matherq;
+  var loadSp;
 
-<script type="text/javascript">
-    _qevents.push( { qacct:"p-28jGmlHSsMCkE" } );
-</script>
-<noscript>
-<div style="display: none;">
-    <img src="http://pixel.quantserve.com/pixel/p-28jGmlHSsMCkE.gif" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
+  try {
+    _matherq = window.top._matherq;
+  }
+  catch (e) { }
 
+  if (!_matherq) {
+    _matherq = (window._matherq = window._matherq || []);
+    loadSp = true;
+  }
 
-<!-- Google Analytics -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  _matherq.push(['setCollectorUrl', 'www.i.matheranalytics.com']);
+  _matherq.push(['setAppId', 'v1']);
+  _matherq.push(['setCustomerId', 'ma35489']);
+  _matherq.push(['setMarket', '209358203']);
+  _matherq.push(['setUserId', '0']);
+  _matherq.push(['setMetered', 0]);
+  _matherq.push(['enableActivityTracking', 30, 10]);
 
-ga('create', 'UA-32975568-1', 'auto');  // Replace with your property ID.
+  // NewsOK variables
+  _matherq.push(['setPremium', false]);
 
+  // Everything else
+  _matherq.push(['setSection', 'privacypolicy']);
+  _matherq.push(['setPageType', 'section front']);
+    _matherq.push(['trackPageView', null, { category: { categories: [['privacypolicy']] }}]);
+  
+// Compare segments
+function compareSegments(a, b, c){
+  if (a.length == 0 || b.length == 0 || c.length > 0) return false;
+  a.sort();
+  b.sort();
+  if (a === b) return true;
+  if (a == null || b == null) return false;
+  if (a.length != b.length) return false;
+  for (var i = 0; i < a.length; ++i) {
+    if (a[i] !== b[i]) return false;
+  }
+  return true;
+}
 
-// attempt to get rid of the 0 second page views
-ga('send', 'pageview');
-
-</script>
-<!-- End Google Analytics -->
-
-
-<!-- Begin comScore Tag -->
-<script>
-  var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: "16964764" });
-  (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-  })();
-</script>
-<noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=16964764&cv=2.0&cj=1" />
-</noscript>
-<!-- End comScore Tag -->
-
-
-
-
-
-<script type="text/javascript">
-    (function() {
-        function async_load(script_url){
-            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
-            var s = document.createElement('script'); s.src = protocol + script_url;
-            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+_matherq.push(['getUserDBSegment', { minPageViews: 2, timeoutMs: 10000, noCache: false }, function(userDBData) {
+    if (!userDBData.err && userDBData.segments && typeof promptCampaign == 'function') {
+        var segments = [];
+        for (var i in userDBData.segments) { segments.push(userDBData.segments[i].name); }
+        var campaigns = [
+            {
+                's': 'ae',
+                'v': 'a',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_BLOCK_20170901', 'MATHER_C1_AE_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKAE_20170901', 'MATHER_U3_SIGNUPAE_20170901']
+            },
+            {
+                's': 'ae',
+                'v': 'b',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_SLIDER_20170901', 'MATHER_C1_AE_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKAE_20170901', 'MATHER_U3_SIGNUPAE_20170901']                
+            },
+            {
+                's': 'breaking',
+                'v': 'a',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_BLOCK_20170901', 'MATHER_C1_NEWS_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKBREAKINGNEWS_20170901', 'MATHER_U3_SIGNUPBREAKINGNEWS_20170901']
+            },
+            {
+                's': 'breaking',
+                'v': 'b',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_SLIDER_20170901', 'MATHER_C1_NEWS_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKBREAKINGNEWS_20170901', 'MATHER_U3_SIGNUPBREAKINGNEWS_20170901']
+            },
+            {
+                's': 'business',
+                'v': 'a',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_BLOCK_20170901', 'MATHER_C1_BUSINESS_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKBUSINESS_20170901', 'MATHER_U3_SIGNUPBUSINESS_20170901']
+            },
+            {
+                's': 'business',
+                'v': 'b',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_SLIDER_20170901', 'MATHER_C1_BUSINESS_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKBUSINESS_20170901', 'MATHER_U3_SIGNUPBUSINESS_20170901']
+            },
+            {
+                's': 'daily',
+                'v': 'a',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_BLOCK_20170901', 'MATHER_C1_HOMEPAGE_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKDAILYNEWS_20170901', 'MATHER_U3_SIGNUPDAILYNEWS_20170901']
+            },
+            {
+                's': 'daily',
+                'v': 'b',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_SLIDER_20170901', 'MATHER_C1_HOMEPAGE_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKDAILYNEWS_20170901', 'MATHER_U3_SIGNUPDAILYNEWS_20170901']
+            },
+            {
+                's': 'education',
+                'v': 'a',
+                'segments_inc': [],
+                'segments_exc': []
+            },
+            {
+                's': 'education',
+                'v': 'b',
+                'segments_inc': [],
+                'segments_exc': []
+            },
+            {
+                's': 'food',
+                'v': 'a',
+                'segments_inc': [],
+                'segments_exc': []
+            },
+            {
+                's': 'food',
+                'v': 'b',
+                'segments_inc': [],
+                'segments_exc': []
+            },
+            {
+                's': 'obits',
+                'v': 'a',
+                'segments_inc': [],
+                'segments_exc': []
+            },
+            {
+                's': 'obits',
+                'v': 'b',
+                'segments_inc': [],
+                'segments_exc': []
+            },
+            {
+                's': 'osu',
+                'v': 'a',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_BLOCK_20170901', 'MATHER_C1_OSU_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKOSU_20170901', 'MATHER_U3_SIGNUPOSU_20170901']
+            },
+            {
+                's': 'osu',
+                'v': 'b',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_SLIDER_20170901', 'MATHER_C1_OSU_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKOSU_20170901', 'MATHER_U3_SIGNUPOSU_20170901']
+            },
+            {
+                's': 'ou',
+                'v': 'a',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_BLOCK_20170901', 'MATHER_C1_OU_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKOU_20170901', 'MATHER_U3_SIGNUPOU_20170901']
+            },
+            {
+                's': 'ou',
+                'v': 'b',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_SLIDER_20170901', 'MATHER_C1_OU_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKOU_20170901', 'MATHER_U3_SIGNUPOU_20170901']
+            },
+            {
+                's': 'parties',
+                'v': 'a',
+                'segments_inc': [],
+                'segments_exc': []
+            },
+            {
+                's': 'parties',
+                'v': 'b',
+                'segments_inc': [],
+                'segments_exc': []
+            },
+            {
+                's': 'real_estate',
+                'v': 'a',
+                'segments_inc': [],
+                'segments_exc': []
+            },
+            {
+                's': 'real_estate',
+                'v': 'b',
+                'segments_inc': [],
+                'segments_exc': []
+            },
+            {
+                's': 'sports',
+                'v': 'a',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_BLOCK_20170901', 'MATHER_C1_SPORTS_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKSPORTS_20170901', 'MATHER_U3_SIGNUPSPORTS_20170901']
+            },
+            {
+                's': 'sports',
+                'v': 'b',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_SLIDER_20170901', 'MATHER_C1_SPORTS_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKSPORTS_20170901', 'MATHER_U3_SIGNUPSPORTS_20170901']
+            },
+            {
+                's': 'thunder',
+                'v': 'a',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_BLOCK_20170901', 'MATHER_C1_THUNDER_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKTHUNDER_20170901', 'MATHER_U3_SIGNUPTHUNDER_20170901']
+            },
+            {
+                's': 'thunder',
+                'v': 'b',
+                'segments_inc': ['MATHER_E2_ENGAGED_20170901', 'MATHER_P1_SLIDER_20170901', 'MATHER_C1_THUNDER_20170901'],
+                'segments_exc': ['MATHER_U1_KNOWN_20170901', 'MATHER_U3_CLICKTHUNDER_20170901', 'MATHER_U3_SIGNUPTHUNDER_20170901']
+            }
+        ];
+        
+        for (var i in campaigns) {
+            // Look for inclusions in segments and store as an array
+            var inclusionsFound = segments.filter(function(item){
+                if (campaigns[i].segments_inc.indexOf(item) !== -1) return item;
+            });
+            // Look for exclusions in segments and store as an array
+            var exclusionsFound = segments.filter(function(item){
+                if (campaigns[i].segments_exc.indexOf(item) !== -1) return item;
+            });
+            if (compareSegments(campaigns[i].segments_inc, inclusionsFound, exclusionsFound)) {
+                promptCampaign(campaigns[i].s, campaigns[i].v);
+            }
         }
-        bm_website_code = 'BC43BF6D51D94A1F';
-        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
-        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
-    })();
+    }
+}]);
+
+  
+  if (loadSp) {
+    var a = [].concat.apply([], _matherq);
+    var src = a[a.indexOf('setCustomerId') + 1] + '/' + a[a.indexOf('setMarket') + 1] + '/sp.js?cb=' + Math.round(new Date() / 1.0368e9);
+    var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
+    sp._mather_tag = document.scripts[document.scripts.length - 1]; sp._mather_sp = sp.uniqueID;
+    sp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://js.matheranalytics.com/s/' + src;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
+  }
+})();
 </script>
+<noscript><img src="http://www.i.matheranalytics.com/i?e=pv&aid=v1&cid=ma35489&mrk=209358203&p=web&tv=no-js-0.1.0&tid=1514020933" style="display:none" height="1" width="1" alt/></noscript>
+<!-- / MATHER ANALYTICS -->
 
-
+        
+        <script src="/media/js/mather/campaign1.js"></script>
+        
 
         
 
@@ -333,14 +678,16 @@ ga('send', 'pageview');
                       <li><a href="/business">Business</a></li>
                       <li><a href="/opinion">Opinion</a></li>
                       <li><a href="/entertainment">A&amp;E</a></li>
-                      <li><a href="/blogs">Blogs</a></li>
+                      
+                      <li><a href="/news/health">Health</a></li>
                       <li><a href="/life">Life</a></li>
                       <li><a href="/weather">Weather</a></li>
                       <li><a href="/multimedia/photos">Photos</a></li>
                       <li><a href="/multimedia/videos">Videos</a></li>
                       <li><a href="/marketplace/homesok">Homes</a></li>
                       <li><a href="/marketplace/jobsok">Jobs</a></li>
-                      <li><a href="/marketplace/carsok"><img src="//s3.amazonaws.com/content.newsok.com/newsok/refactor/icon_bestride.png" width="68" height="14" style="margin:0 3px 4px;" alt="Best Ride"></a></li>
+                      
+                      <li><a href="/marketplace/carsok">Autos</a></li>
                     </ul>
                     <ul class="nav pull-right" style="overflow: visible;">
                       
@@ -439,9 +786,9 @@ s.parentNode.insertBefore(gcse, s);
                         <center>
                                                             <!-- begin ad tag -->
 <div class="adZone " id="div-gpt-ad-37327">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-37327'); });
-</script>
+    <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-37327'); });
+    </script>
 </div>
 <!-- end ad tag -->
 
@@ -454,7 +801,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-37327'); });
 
             
 
-
             <div class="subnav-container affix-top" style="width: 100%;" id="subNav">
                                                                     <div class="subnavWrapper">
 <nav class="container container-wide subnav navbar bgcolor1" role="navigation">
@@ -464,6 +810,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-37327'); });
               <li><a class="openSubNav" id="oklaNav" href="http://www.oklahoman.com" target="_blank">The Oklahoman</a></li>
               <li><a class="openSubNav" id="watchdogNav" href="/news/watchdog">Watchdog</a></li>
               <li><a class="openSubNav" id="energyNav" href="/business/energy">Energy</a></li>
+ <li><a class="openSubNav" id="blogsNav" href="/blogs">Blogs</a></li>
  <li><a class="openSubNav" id="eventsNav" href="/calendar">Events</a></li>
               <li><a class="openSubNav" id="newsoknowNav" href="/now">NewsOK Now</a></li>
 <!--
@@ -471,10 +818,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-37327'); });
 <li><a class="openSubNav" id="contestsNav" href="/contests">Contests</a></li>       
 <li><a class="openSubNav" id="downtownNav" href="/business/downtownokc">Downtown</a></li>
 -->
-<li><a class="openSubNav" id="earthquakesNav" href="/earthquakes">Earthquakes</a></li>
-<li><a class="openSubNav" id="contributorNav" href="/contributor">Contributors</a></li>              
+<li><a class="openSubNav" id="earthquakesNav" href="/earthquakes">Earthquake</a></li>
+<li><a class="openSubNav" id="contributorNav" href="/contributor">Contributor</a></li>              
  <li><a class="openSubNav" id="obitNav" href="/news/obits">Obits</a></li>
-              <li><a class="openSubNav" id="classNav" href="/classifieds">Classifieds</a></li>
+              <li><a class="openSubNav" id="classNav" href="/classifieds">Classified</a></li>
 <!--              <li><a class="openSubNav" id="homesNav" href="/marketplace/homesok">HomesOK</a></li>
               <li><a class="openSubNav" id="jobsNav" href="/marketplace/jobsok">JobsOK</a></li>
               <li><a class="openSubNav" id="carsNav" href="/marketplace/carsok">CarsOK</a></li>
@@ -544,23 +891,23 @@ blue"></b></a>
 
 
 
-<!--
-<nav id="subSubnav_thunderNav" class="container container-wide subnav navbar subSubnav hide" role="navigation">
+
+<nav id="subSubnav_blogsNav" class="container container-wide subnav navbar subSubnav hide" role="navigation">
     <div class="navbar-inner no-radius">
         <div class="container">
-            <h3>OKC Thunder</h3>
+            <h3>Blogs</h3>
             <ul class="nav pull-right">
-              <li><a href="/sports/thunder">Home</a></li>
-              <li><a href="http://newsok.com/blogs/thunder-rumblings">Thunder Rumblings Blog</a></li>
-              <li><a href="http://newsok.sportsdirectinc.com/basketball/nba-standings.aspx?page=/data/nba/standings/standings.html&hf=off">Standings</a></li>
-              <li><a href="http://newsok.sportsdirectinc.com/basketball/nba-teams.aspx?page=/data/nba/teams/team404316.html">Stats</a></li>
-              <li><a href="http://newsok.sportsdirectinc.com/basketball/nba-teams.aspx?page=/data/nba/teams/schedule/team404316.html">Schedule</a></li>
-              <li><a href="http://www.ticketnetwork.com/tickets/oklahoma-city-thunder-tickets.aspx?kbid=6327" class="lastnav">Buy Thunder Tickets</a></li>
+              <li><a href="/blogs">Blogs</a></li>
+              <li><a href="http://newsok.com/blogs#news">News Blogs</a></li>
+              <li><a href="http://newsok.com/blogs#biz">Business Blogs</a></li>
+              <li><a href="http://newsok.com/blogs#sports">Sports Blogs</a></li>
+              <li><a href="http://newsok.com/blogs#ent">A&amp;E Blogs</a></li>
+              <li><a href="http://newsok.com/blogs#life" class="lastnav">Life Blogs</a></li>
             </ul>
         </div>
     </div>
 </nav>
--->
+
 
 
 <nav id="subSubnav_eventsNav" class="container container-wide subnav navbar subSubnav hide" role="navigation">
@@ -569,9 +916,10 @@ blue"></b></a>
             <h3>Events</h3>
             <ul class="nav pull-right">
               <li><a href="/calendar">Events Calendar</a></li>
-               <li><a href="/calendar#/show/17">Concerts &amp; Live Music</a></li>
-              <li><a href="/calendar#/show/31">Fairs &amp; Festivals</a></li>
-                    <li><a href="/calendar#/show/32">Museums &amp; Exhibits</a></li>
+               <li><a href="https://portal.cityspark.com/Account/PopLogin?ReturnUrl=%2fEventEntry%2fEventEntry%2fNewsOK">Submit an Event</a></li>
+               <li><a href="/calendar#/show/17">Concerts</a></li>
+              <li><a href="/calendar#/show/31">Festivals</a></li>
+                    <li><a href="/calendar#/show/32">Exhibits</a></li>
                    <li><a href="/calendar#/show/2" class="lastnav">Performing Arts</a></li>
     <li><a href="javascript:void(0);" class="moreBtn dropdown-toggle" data-toggle="dropdown">More <b class="caret blue"></b></a>
                 <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
@@ -940,9 +1288,7 @@ padding: 0 20px !important;
     <p class="margin-bottom-none"><em>Effective Date of this Privacy Policy: May 30, 2017.</em></p>
 </div>
                                             </div>
-                </div>
-                <div class="divider-line"></div>
-                                <!-- /Region 1 -->
+                </div>                <div class="divider-line"></div>                                <!-- /Region 1 -->
 
                 
                 
@@ -951,7 +1297,7 @@ padding: 0 20px !important;
                     <div class="span8">
                         <!-- Region 2 -->
                         <div class="row split8 margin-top-none">
-                            <div id="region2" class="span8" data-vr-zone="Lead Stories - Region 2">
+                            <div id="region2" class="span8" data-vr-zone="Lead Stories - Region 2" data-tb-region="Lead Stories - Region 2">
                             
                                                         </div>
                         </div>
@@ -983,7 +1329,25 @@ padding: 0 20px !important;
 
             
                     
-                                <footer class="container container-wide page-footer nocontent robots-nocontent">
+                                <div class="modal fade" id="NewsOKUploadModal" tabindex="-1" role="dialog" aria-labelledby="NewsOKUploadModalLabel">
+            	<div class="modal-dialog" role="document">
+            		<div class="modal-content">
+            			<div class="modal-header">
+            				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+            				<h4 class="modal-title" id="NewsOKUploadModalLabel">Disclaimer</h4>
+            			</div>
+            			<div class="modal-body">
+            				All content submitted must be your original work. You warrant that you are the sole owner of all rights in any content you submit, and that anyone appearing in your photos or videos has granted you permission to provide them to NewsOK.com. By uploading any content to NewsOK.com, you agree to our <a href="/termsofuse" target="_blank">Terms of Use</a> and <a href="/privacypolicy" target="_blank">Privacy Policy</a>.
+            			</div>
+            			<div class="modal-footer">
+            				<button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+            				<a class="btn btn-primary" href="#" data-action="continue">continue</a>
+            			</div>
+            		</div>
+            	</div>
+            </div>
+            
+            <footer class="container container-wide page-footer nocontent robots-nocontent">
                                 <div class="row-fluid">
                     <h4 class="span12 share-news">Share your news with us</h4>
                 </div>
@@ -993,11 +1357,11 @@ padding: 0 20px !important;
                             <b>Stories</b>
                             Share your story idea with NewsOK.
                         </a>
-                        <a class="span3 ft-photos" href="/multimedia/photos/user-submitted">
+                        <a class="span3 ft-photos" data-href="/multimedia/photos/user-submitted" href="#" data-toggle="modal" data-target="#NewsOKUploadModal">
                             <b>Photos</b>
                             Upload your photos to NewsOK and share them with the world.
                         </a>
-                        <a class="span3 ft-videos" href="mailto:mediaupload@opubco.com">
+                        <a class="span3 ft-videos" data-href="mailto:mediaupload@opubco.com" href="#" data-toggle="modal" data-target="#NewsOKUploadModal">
                             <b>Video</b>
                             Upload your videos to NewsOK and share them with the world.
                         </a>
@@ -1025,6 +1389,25 @@ padding: 0 20px !important;
                     </div>
                 </div>
 				            </footer>
+            
+            <script>
+                $(document).ready(function() {
+                    $('[data-href][data-toggle=modal]').click(function() {
+                        var theHref = $(this).attr('data-href');
+                        var bannerZindex = $('.banner-wrapper').css('z-index'), subNavZindex = $('#subNav').css('z-index'), galleryZindex = $('.galleryZ').css('z-index'), newsokNavZindex = $('.newsokNav').css('z-index');
+                    	$('#NewsOKUploadModal').on('shown.bs.modal', function(e) {
+                    		$(this).before($('.modal-backdrop'));
+                    		$('.banner-wrapper, #subNav, .galleryZ, .newsokNav').css('z-index', 1);
+                            $(this).find('a[data-action=continue]').attr('href', theHref);
+                    	}).on('hidden.bs.modal', function (e) {
+                    		$('.banner-wrapper').css('z-index', bannerZindex);
+                    		$('#subNav').css('z-index', subNavZindex);
+                    		$('.galleryZ').css('z-index', galleryZindex);
+                    		$('.newsokNav').css('z-index', newsokNavZindex);
+                    	});
+                    })
+                });
+            </script>
 
         
         </div> <!-- / pg-wrapper -->
@@ -1034,7 +1417,12 @@ padding: 0 20px !important;
         
 <script src="//cdnjs.cloudflare.com/ajax/libs/bowser/1.0.0/bowser.min.js"></script>
 <script src="/media/js/desktop-notifications.js?v=1.1"></script>
-        <script src="//cdn2.newsok.biz/scripts.php?ver=1.40"></script>
+    <!-- LIQWID ADS -->
+    <script type="text/javascript">
+    (function() { var s=document.createElement('script'); s.type='text/javascript'; s.async=true; s.src='//www.liqwid.net/?key=6B72-2F48-5BF9-6D25';var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x); })();
+    </script>
+    <!-- END OF LIQWID ADS -->
+            <script src="//cdn2.newsok.biz/scripts.php?ver=1.44"></script>
         <script>
             if($('#subNav').length != 0) {
                 offsetpos = document.getElementById('subNav').offsetTop;
@@ -1042,12 +1430,7 @@ padding: 0 20px !important;
                 $('#backgroundAd').affix({ offset: offsetpos });
             }
         </script>
-    <!-- LIQWID ADS -->
-    <script type="text/javascript">
-    (function() { var s=document.createElement('script'); s.type='text/javascript'; s.async=true; s.src='//www.liqwid.net/?key=6B72-2F48-5BF9-6D25';var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x); })();
-    </script>
-    <!-- END OF LIQWID ADS -->
-                <script>
+            <script>
                 var hideSub;
                 var showSub;
                 var thisSub = "home_main";
@@ -1143,57 +1526,16 @@ $('.popovers').popover({
 
 <script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){ if(s[o]==null&&s[l+e]){ s[o]="loading";s[l+e](d,l=function(){ s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){ var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=aa7c00da-1d76-4645-b5e0-96b8861671ef";s.id="infinity";s.setAttribute("data-guid","aa7c00da-1d76-4645-b5e0-96b8861671ef");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
 
-<script>
-    var PostRelease;
-    PostRelease.Start();
-</script>
 
-<!-- MATHER ANALYTICS -->
-<script type="text/javascript">
-(function () {
-  var _matherq;
-  var loadSp;
+<script src="//ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13396668" id="sBeacon"></script>
 
-  try {
-    _matherq = window.top._matherq;
-  }
-  catch (e) { }
-
-  if (!_matherq) {
-    _matherq = (window._matherq = window._matherq || []);
-    loadSp = true;
-  }
-
-  _matherq.push(['setCollectorUrl', 'www.i.matheranalytics.com']);
-  _matherq.push(['setAppId', 'v1']);
-  _matherq.push(['setCustomerId', 'ma35489']);
-  _matherq.push(['setMarket', '209358203']);
-  _matherq.push(['setUserId', '0']);
-  _matherq.push(['setMetered', 0]);
-  _matherq.push(['enableActivityTracking', 30, 10]);
-
-  // NewsOK variables
-  _matherq.push(['setPremium', false]);
-
-  // Everything else
-  _matherq.push(['setSection', 'privacypolicy']);
-  _matherq.push(['setPageType', 'section front']);
-    _matherq.push(['trackPageView', null, { category: { categories: [['privacypolicy']] }}]);
-  
-  
-  if (loadSp) {
-    var a = [].concat.apply([], _matherq);
-    var src = a[a.indexOf('setCustomerId') + 1] + '/' + a[a.indexOf('setMarket') + 1] + '/sp.js?cb=' + Math.round(new Date() / 1.0368e9);
-    var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
-    sp._mather_tag = document.scripts[document.scripts.length - 1]; sp._mather_sp = sp.uniqueID;
-    sp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://js.matheranalytics.com/s/' + src;
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
-  }
-})();
-</script>
-<noscript><img src="http://www.i.matheranalytics.com/i?e=pv&aid=v1&cid=ma35489&mrk=209358203&p=web&tv=no-js-0.1.0&tid=1497448070" style="display:none" height="1" width="1" alt/></noscript>
-<!-- / MATHER ANALYTICS -->
-
+        
+        
+        <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+        
     
 
 </body></html>
