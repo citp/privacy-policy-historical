@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plantronics.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611104252id_/http%3A//www.plantronics.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantronics.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223055638id_/http%3A//www.plantronics.com/us/privacy) for the most accurate reproduction.*
 
 # Plantronics | Privacy Policy
 
@@ -181,7 +181,7 @@ We, and our third party partners, use Local Shared Objects (Flash cookies) or Lo
 
 ### Mobile Applications
 
-When you download and use our mobile apps, we automatically collect information on the type of Plantronics device you use, the operating system version of your smartphone or tablet, and the Plantronics device identifier (or "UDID").
+When you download and use our mobile apps, we automatically collect information on the type of Plantronics device you use, the operating system version of your smartphone or tablet, and the Plantronics device identifier (or "UUID").
 
 We may ask you for location based information from your mobile device while using our mobile apps. We collect your location information for the purpose of enabling features in the Plantronics Hub for Android/iOS mobile app such as the BackTrack™ feature. This feature helps to identify the location of your headset’s most recent disconnect event for the purpose of tracking a lost headset.
 
