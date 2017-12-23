@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slacksocial.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517122633id_/http%3A//slacksocial.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slacksocial.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223175202id_/http%3A//slacksocial.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # SlackSocial Privacy Policy
 
