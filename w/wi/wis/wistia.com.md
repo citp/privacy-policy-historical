@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wistia.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229035123id_/https%3A//wistia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wistia.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223065558id_/https%3A//wistia.com/privacy) for the most accurate reproduction.*
 
 # Wistia Privacy Policy | Wistia
 
