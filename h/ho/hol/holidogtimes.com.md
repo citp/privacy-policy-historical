@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidogtimes.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609042008id_/http%3A//www.holidogtimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidogtimes.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223024514id_/http%3A//www.holidogtimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Holidog Times
 
@@ -78,7 +78,7 @@ We may use agents and contractors in order to help operate Holidog. Their use of
 
 In the event that ownership of Holidog was to change as a result of a merger, acquisition, or transfer to another company, your Personal Information may be transferred. If such a transfer results in a material change in the use of your Personal Information, you will be provided notice about the choices you have to decline to permit such a transfer.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://networkadvertising.org/).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/).
 
 #### **6\. Display of Advertising**
 
@@ -100,4 +100,6 @@ If you wish to gain access to your Personal Information (as defined in the UK Da
 
 #### **10\. Changes to this Privacy Policy and Additional Information**
 
-Holidog may update this Privacy Policy from time to time, and so you should review this Privacy Policy periodically. If there are significant changes to Holidog’s information practices, you will be provided with appropriate online notice. 
+Holidog may update this Privacy Policy from time to time, and so you should review this Privacy Policy periodically. If there are significant changes to Holidog’s information practices, you will be provided with appropriate online notice.
+
+Error, group does not exist! Check your syntax! (ID: 5)
