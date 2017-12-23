@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylife.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630004414id_/https%3A//www.mylife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylife.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223065617id_/https%3A//www.mylife.com/privacy-policy) for the most accurate reproduction.*
 
 # MyLife | Connecting everyone. All in one place.
 
@@ -262,4 +262,4 @@ You can also contact us via e-mail at [privacy@mylife.com](mailto:privacy@mylife
 
   Effective Date: June 06, 2014
 
-© Copyright 2013, Pioneer. Created by [Themeapt](https://web.archive.org/web/20170630004414id_/http://www.mylife.com/privacy-policy/themeapt.com).
+© Copyright 2013, Pioneer. Created by [Themeapt](https://web.archive.org/web/20171223065617id_/http://www.mylife.com/privacy-policy/themeapt.com).
