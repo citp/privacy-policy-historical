@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630004259id_/https%3A//hypebeast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223065052id_/https%3A//hypebeast.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Hypebeast
+# Privacy Policy | HYPEBEAST
 
 The following Privacy Policy covers our websites, HYPEBEAST.com, store.HYPEBEAST.COM, HYPETRAK.com, POPBEE.com and HBX.com (collectively, the “101 Sites”), which are owned and operated by 101 Media Lab Limited, a body corporate doing business in the Hong Kong Special Administrative Region of the People’s Republic of China (referred to as “101 Media Lab”, “HYPEBEAST”, “we”, “us”, or “our”). It is our goal to bring you information tailored to your personal interests but, at the same time, protect your privacy. Please read the following to learn more about our privacy policy. 
 
