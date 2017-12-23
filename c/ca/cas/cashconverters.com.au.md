@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashconverters.com.au privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623042010id_/https%3A//cashconverters.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashconverters.com.au privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223032903id_/http%3A//cashconverters.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cash Converters Australia
 
@@ -121,7 +121,7 @@ NORTH SYDNEY,
 NSW 2059
 
 **Dun and Bradstreet (Australia) Pty Ltd**  
-D&B's Privacy Policy: <http://dnb.com.au/Header/About_Us/Legal/Privacy_policy/index.aspx>  
+D&B's Privacy Policy: [](http://dnb.com.au/Header/About_Us/Legal/Privacy_policy/index.aspx)<http://dnb.com.au/privacy-policy.html>  
 Phone: 1300 734 806  
 Email: [PACAustral@dnb.com.au](mailto:PACAustral@dnb.com.au)  
 
