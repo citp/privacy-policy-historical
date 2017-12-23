@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629204429id_/http%3A//www.colehaan.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223121919id_/http%3A//www.colehaan.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Cole Haan - Privacy Policy
 
@@ -42,7 +42,7 @@ Cole Haan does not sell your personally identifiable information to outside part
 
 **Third-Party Service Providers:** We use other companies and individuals to perform certain services on behalf of Cole Haan. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, managing customer databases, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to the personal information that is needed to perform their functions. They are not allowed not use it for other purposes, nor share with other third parties who are not contractual partners of Cole Haan.
 
-**Protection of Cole Haan and others:** We disclose account and other personal information when we need to comply with the law; enforce or apply our [Terms of Use](https://www.colehaan.com/terms-of-use.html) or other agreements; or protect the rights, property, or safety of Cole Haan, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+**Protection of Cole Haan and others:** We disclose account and other personal information when we need to comply with the law; enforce or apply our [Terms of Use](http://www.colehaan.com/terms-of-use.html) or other agreements; or protect the rights, property, or safety of Cole Haan, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
 **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information
 
@@ -56,7 +56,7 @@ In an attempt to provide increased value to our visitors, Cole Haan may choose v
 
 Terms of Use, notices and revisions.
 
-If you choose to visit colehaan.com, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://www.colehaan.com/terms-of-use.html). Cole Haan also welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue. Our Privacy Policy and the [Terms of Use](https://www.colehaan.com/terms-of-use.html) may change in the future. We may e-mail periodic reminders of our notices and conditions, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you. If you are a Californian resident, you are entitled to know once a year what information, if any, we shared with outside parties and for what purposes. Please request this information by contacting us at [customerservice@colehaan.com.](mailto:customerservice@colehaan.com.)
+If you choose to visit colehaan.com, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](http://www.colehaan.com/terms-of-use.html). Cole Haan also welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue. Our Privacy Policy and the [Terms of Use](http://www.colehaan.com/terms-of-use.html) may change in the future. We may e-mail periodic reminders of our notices and conditions, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you. If you are a Californian resident, you are entitled to know once a year what information, if any, we shared with outside parties and for what purposes. Please request this information by contacting us at [customerservice@colehaan.com.](mailto:customerservice@colehaan.com.)
 
 International Users
 
