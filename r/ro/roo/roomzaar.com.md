@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the roomzaar.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231225516id_/http%3A//www.scrippsnetworks.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomzaar.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223155635id_/http%3A//www.scrippsnetworks.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PLEASE NOTE THAT OUR PRIVACY POLICY HAS CHANGED EFFECTIVE JULY 13, 2016.  
-
+PLEASE NOTE THAT OUR PRIVACY POLICY HAS CHANGED EFFECTIVE DECEMBER 21, 2017.
 
 This " **Privacy Policy** " applies to the Websites controlled by Scripps Networks Interactive, Inc. and/or its subsidiary and affiliated entities (" **Scripps Networks** ", " **us** ", " **we** ", or " **our** ") where the Privacy Policy is posted.  "Websites" include sites hosted by one or more web servers {however accessed and/or used, whether via personal computers, mobile devices or otherwise (collectively, "Computer")} and other interactive features, applications or downloads that are operated by us and that are available through, or interact with, Websites where this Privacy Policy is posted.  This Privacy Policy does not apply to our collection of information from other sources (unless specifically stated).  Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also [http://oag.ca.gov/privacy​](http://oag.ca.gov/privacy)).
 
@@ -30,7 +29,7 @@ Click [here](http://www.nielsen-netratings.com/privacy/sitecensus.htm) to learn
 
 The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you or in other ways naturally associated with the circumstances in which you provided the information.  We may also use this information to later contact you for a variety of reasons, such as customer service, to provide you with information or services or process transactions that you have requested or agreed to receive, to provide you with marketing or promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“affiliated companies”), to communicate with you about content or other information you have posted or shared with us via our Websites or with regard to your use of the Websites and, in our discretion, changes to the Websites and/or Website policies, for internal business purposes, or for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy.  You may opt-out from receiving future promotional information from us, or direct that we not share your information in the future with any affiliated companies or third parties for their direct marketing purposes, as set forth below in Section I.
 
-In certain instances we may also share your personally identifiable information with our third-party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc.  Our vendors agree to use this information, and we share information with them, only to carry out our requests.  In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Websites, and with third parties who assist us in using the content or other information you have posted or shared with us via our Websites (e.g., production companies we may use).  Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships.  Except as provided in this Privacy Policy, our **Terms of Use** , or as set forth when you submit the information, your personally identifiable information will not be shared or sold to third parties without your consent.
+In certain instances we may also share your personally identifiable information with our third-party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc.  Our vendors agree to use this information, and we share information with them, only to carry out our requests.  In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Websites, and with third parties who assist us in using the content or other information you have posted or shared with us via our Websites (e.g., production companies we may use).  Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. 
 
 2\. Non-Personal Information:
 
@@ -118,8 +117,10 @@ The Websites are operated in the United States and intended for users located in
 
 **K. SOLE STATEMENT**
 
-This Privacy Policy as posted is the sole statement of our privacy policy with respect to the Websites, and no summary, modification, restatement or other version thereof or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Websites. 
+This Privacy Policy as posted is the sole statement of our privacy policy with respect to the Websites, and no summary, modification, restatement or other version thereof or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Websites. ​
 
 ​​​​​​​​
 
  ​
+
+​
