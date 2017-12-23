@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firstcry.com privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630005104id_/http%3A//www.firstcry.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstcry.com privacy policy that was archived on 2017-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171223065708id_/http%3A//firstcry.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head lang="en">
 <title>FirstCry.com - Privacy Policy</title>
@@ -9,18 +9,98 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="fragment" content="!">
 <meta itemprop="description" content="250+ International &amp; Indian Brands and 50000+ Products, Buy diapers, toys, clothes, car seats, strollers &amp; much more. BEST 24/7 Customer Service, Shipping available across India &amp; Cash on Delviery available! - FirstCry.com">
-<meta property="og:description" content="250+ International &amp; Indian Brands and 50000+ Products, Buy diapers, toys, clothes, car seats, strollers &amp; much more. BEST 24/7 Customer Service, Shipping available across India &amp; Cash on Delviery available! - FirstCry.com">
-<meta name="ROBOTS" id="ROBOTS" content="all"><link href="//cdn.fcglcdn.com" rel="dns-prefetch"><link href="//google.analytics.com" rel="dns-prefetch"><link href="//svc.firstcry.com" rel="dns-prefetch"><link href="//cdn.firstcry.com" rel="dns-prefetch">
+	<meta property="og:description" content="250+ International &amp; Indian Brands and 50000+ Products, Buy diapers, toys, clothes, car seats, strollers &amp; much more. BEST 24/7 Customer Service, Shipping available across India &amp; Cash on Delviery available! - FirstCry.com">
+<meta name="ROBOTS" id="ROBOTS" content="all"><meta property="og:url" content="">
+<link href="//cdn.fcglcdn.com" rel="dns-prefetch"><link href="//google.analytics.com" rel="dns-prefetch"><link href="//svc.firstcry.com" rel="dns-prefetch"><link href="//cdn.firstcry.com" rel="dns-prefetch">
 <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5747J7"></script><script>
 var GTMQuickViewDetailJSON = {};
-var base_url="http://www.firstcry.com/";
-var strMyProductservice = '/svcs/CommonService.svc/';	var shpooingcartsevicepath='http://checkout.firstcry.com/ShoppingCart/ShoppingCart.svc/json/';	var svcpath = '/svcs/';	var shoppingcartservice='';var checkoutUrl='https://checkout.firstcry.com/';	var main_site_url='http://www.firstcry.com/';	var myaccount_service='/svcs/MyAccountService.svc';	var home_page_service='/svcs/homepage.svc';var loyaltycash_service='/svcs/LoyaltyCash.svc';	var shoppingcartmainurl='http://www.firstcry.com';	var nodeservicepath='http://192.168.100.137:8080/';	var ListingServiceURL='/svcs/';var usenode='0';
+var base_url="//www.firstcry.com/";
+var strMyProductservice = '/svcs/CommonService.svc/';	var shpooingcartsevicepath='//checkout.firstcry.com/ShoppingCart/ShoppingCart.svc/json/';	var svcpath = '/svcs/';	var shoppingcartservice='';var checkoutUrl='https://checkout.firstcry.com/';	var main_site_url='//www.firstcry.com/';	var myaccount_service='/svcs/MyAccountService.svc';	var home_page_service='/svcs/homepage.svc';var loyaltycash_service='/svcs/LoyaltyCash.svc';	var shoppingcartmainurl='//www.firstcry.com';	var nodeservicepath='';	var ListingServiceURL='/svcs/';var usenode='0';
+//MRP/VALUE CHANGE FEATURE # 44814
+function getmoney_formatV1(amt){ 
+    var famt = '';
+      try {  
+        var amount = amt;
+        var famt=0;
+        var amtMod=amount /1;
+        if (amtMod !== 0.00) {// existing logic
+            famt= number_format(amt, 2, '.', '');
+        }
+        else if(amt.toString().split(".")[1]==".00"){// new logic
+            famt= parseFloat(amt);
+        }
+        else
+        {
+            famt=amt;
+        }
+      }catch(err) {
+        console.log(err.message);
+        famt = amt;
+      }
+    return famt;
+}
+
+function number_format (number, decimals, dec_point, thousands_sep) {
+  var returnVal='';
+  try {
+    // Strip all characters but numerical ones.
+    number = (number + '').replace(/[^0-9+\-Ee.]/g, '');
+    var n = !isFinite(+number) ? 0 : +number,
+        prec = !isFinite(+decimals) ? 0 : Math.abs(decimals),
+        sep = (typeof thousands_sep === 'undefined') ? ',' : thousands_sep,
+        dec = (typeof dec_point === 'undefined') ? '.' : dec_point,
+        s = '',
+        toFixedFix = function (n, prec) {
+            var k = Math.pow(10, prec);
+            return '' + Math.round(n * k) / k;
+        };
+    // Fix for IE parseFloat(0.55).toFixed(0) = 0;
+    s = (prec ? toFixedFix(n, prec) : '' + Math.round(n)).split('.');
+    if (s[0].length > 3) {
+        s[0] = s[0].replace(/\B(?=(?:\d{3})+(?!\d))/g, sep);
+    }
+    if ((s[1] || '').length < prec) {
+        s[1] = s[1] || '';
+        s[1] += new Array(prec - s[1].length + 1).join('0');
+    }
+    returnVal = parseFloat(s.join(dec));
+  }catch(err) {
+    console.log(err.message);
+    returnVal = number;
+  }  
+    return returnVal;
+}
+
+// DISCOUNT CHANGE FEATURE # 44814
+function getmoney_formatV2(amt){
+  var famt = '';
+  try {
+  var arrAmount = amt.toString().split(".");
+  famt = amt;
+  if(arrAmount.length > 0){
+    if(arrAmount[1] != undefined){
+      famt = '';
+        if(arrAmount[1]=="5" || arrAmount[1]=="50"){// new logic
+            famt= Math.floor(amt);
+        }
+        else
+        {
+            famt=Math.round(amt);
+        }
+      }
+    }
+  }
+  catch(err) {
+      console.log(err.message);
+      famt = amt;
+  }
+  return famt;
+}
 </script>
-<link rel="shortcut icon" href="http://cdn.fcglcdn.com/brainbees/images/FC_favicon_01.ico">
-<link href="http://cdn.fcglcdn.com/brainbees/php/css/master-v1.5.min.css" rel="stylesheet" type="text/css">
-<link href="http://cdn.fcglcdn.com/brainbees/php/css/menu.min-1.3.css?01011970" rel="stylesheet" type="text/css"> 
-<!--<link href="http://www.firstcry.com/css/menu.min-1.3.css?01011970" rel="stylesheet" type="text/css">-->
-<script src="http://cdn.fcglcdn.com/brainbees/js/v7/jquery-1.11.2.min.js" type="text/javascript"></script>
+<link rel="shortcut icon" href="//cdn.fcglcdn.com/brainbees/images/FC_favicon_01.ico">
+<link href="//cdn.fcglcdn.com/brainbees/php/css/master-v1.6.min.css" rel="stylesheet" type="text/css">
+<link href="//cdn.fcglcdn.com/brainbees/php/css/menu.min-1.4.css?20171223" rel="stylesheet" type="text/css">
+<script src="//cdn.fcglcdn.com/brainbees/js/v7/jquery-1.11.2.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 var devMasterHomeServiceURL = '/svcs/HomePage.svc/';
 var strMyProductservice = '/svcs/CommonService.svc/';
@@ -36,9 +116,9 @@ DomainName='firstcry.com';
 $.cookie(e, t, { path: '/',expires: r,domain: DomainName,secure: !1});
 }
 </script>
-<link rel="canonical" href="http://www.firstcry.com/privacypolicy"><link rel="alternate" media="only screen and (max-width: 800px)" href="http://www.firstcry.com/m/privacypolicy"><link rel="alternate" media="handheld" href="http://www.firstcry.com/m/privacypolicy"><style type="text/css">.hv_n:hover {text-decoration: underline;}.mam {background-image: url("http://cdn.fcglcdn.com/brainbees/images/n/link-bg.png");}input::-ms-clear {display: none;}.fc-footer .fctr {height: 363px;}.amitiframe {height: 554px !important;}</style>
+<link rel="canonical" href="http://www.firstcry.com/privacypolicy"><link rel="alternate" media="only screen and (max-width: 800px)" href="http://www.firstcry.com/m/privacypolicy"><link rel="alternate" media="handheld" href="http://www.firstcry.com/m/privacypolicy"><style type="text/css">.hv_n:hover {text-decoration: underline;}.mam {background-image: url("//cdn.fcglcdn.com/brainbees/images/n/link-bg.png");}input::-ms-clear {display: none;}.fc-footer .fctr {height: 363px;}.amitiframe {height: 554px !important;}</style>
 <script type="text/javascript">var trackPage = ''; var DomainName = location.hostname.toLowerCase().replace("www.", "").replace("stage.", "").replace("beta.", "").replace("production.", ""); var logincheck = false; var btmstrip_toggle = true; var user_type = 'new'; $(window).scroll(function () { var scroll = $(window).scrollTop(); if (scroll >= 250) { $(".footer_kid_store,.footer_products_info,.footer_products_Brands,.footer_products_Customers,.footer_products_Return,.footer_products_Shipping,.hci,.footer_left_comma,.footer_rgt_comma,.give-feedback,.house_img_footer,.btm_img1_footer,.btm_img2_footer,.btm_img3_footer,.btm_img4_footer").addClass("sprite_footer_bg"); } });</script>
-<script async="" src="//static.hotjar.com/c/hotjar-131135.js?sv=5"></script></head>
+</head>
 <body>
 <noscript>
 <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5747J7" height="0" width="0" style="display: none; visibility: hidden"></iframe>
@@ -46,9 +126,7 @@ $.cookie(e, t, { path: '/',expires: r,domain: DomainName,secure: !1});
 <script>(function (w, d, s, l, i) {
 w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
 })(window, document, 'script', 'dataLayer', 'GTM-5747J7');</script>
-<!-- hotjar tracking start -->
-<script>(function(h,o,t,j,a,r){h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};h._hjSettings={hjid:131135,hjsv:5};a=o.getElementsByTagName('head')[0];r=o.createElement('script');r.async=1;r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;a.appendChild(r)})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');</script>
-<!-- hotjar tracking end -->
+
 <div style="display: none;" class="fp_new"></div>
 <div style="display: none;" class="gpb"></div>
 <div class="dpc_c"></div>
@@ -64,26 +142,27 @@ w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js
 <div class="top-rtb">
 </div>
 <div class="login">
-<span class="top_hed under" id="franchisee" style="display: inline-block;"><a rel="nofollow" href="http://www.firstcry.com/franchisee?ref2=topstrip" target="_blank">Become a Franchisee </a>
+<span class="top_hed under" id="franchisee" style="display: inline-block;"><a rel="nofollow" href="//www.firstcry.com/franchisee?ref2=topstrip" target="_blank">Become a Franchisee </a>
 </span>
 
-<span><a href="http://www.firstcry.com/contactus" target="_blank" rel="nofollow">Contact Us</a></span>
-<span><a href="http://www.firstcry.com/alltrackorder" target="_blank" rel="nofollow">Track Order</a></span>
-<span class="Register_popup Register" passpoplink="http://www.firstcry.com/register1">Register</span>
-<span class="poplogin_main poplogin" passpoplink="http://www.firstcry.com/popupsignin1">Login</span>
+<span><a href="//www.firstcry.com/contactus" target="_blank" rel="nofollow">Contact Us</a></span>
+<span><a href="http://parenting.firstcry.com/?ref2=homepage_top" target="_blank" rel="nofollow">FirstCry Parenting</a></span>
+<span><a href="//www.firstcry.com/alltrackorder" target="_blank" rel="nofollow">Track Order</a></span>
+<span class="Register_popup Register" passpoplink="//www.firstcry.com/register1">Register</span>
+<span class="poplogin_main poplogin" passpoplink="//www.firstcry.com/popupsignin1">Login</span>
 <span class="top_hed myacc_1" style="display: none;"><span id="welcome" class="myacc_2">My Account</span><span class="blk_arrow" style="border: none"></span><span class="top_pop my_acc top_hide">
 <span class="sp_arrow arr_pos_acc"></span>
 <ul class="my_acc1">
-<li><a href="http://www.firstcry.com/cashInacc">Cash in My Account</a></li>
-<li><a href="http://www.firstcry.com/orderhistory">Order History</a></li>
-<li><a href="http://www.firstcry.com/managereturn">Manage Returns</a></li>
-<li><a href="http://www.firstcry.com/quickreorder">Quick Reorder</a></li>
-<li><a href="http://www.firstcry.com/accountdetails">My Profile</a></li>
-<li><a href="http://www.firstcry.com/mygssavingofferdetails">Guaranteed Savings</a></li>
-<li><a href="http://www.firstcry.com/invitefriends">Invites &amp; Credits</a></li>
-<li><a href="http://www.firstcry.com/myratings">My Reviews &amp; Uploads</a></li>
-<li><a href="http://www.firstcry.com/mynotifyme">Notify Me</a></li>
-<li><a href="http://www.firstcry.com/myshortlist">My Shortlist</a></li>
+<li><a href="//www.firstcry.com/cashInacc">Cash in My Account</a></li>
+<li><a href="//www.firstcry.com/orderhistory">Order History</a></li>
+<li><a href="//www.firstcry.com/managereturn">Manage Returns</a></li>
+<li><a href="//www.firstcry.com/quickreorder">Quick Reorder</a></li>
+<li><a href="//www.firstcry.com/accountdetails">My Profile</a></li>
+<li><a href="//www.firstcry.com/mygssavingofferdetails">Guaranteed Savings</a></li>
+<li><a href="//www.firstcry.com/invitefriends">Invites &amp; Credits</a></li>
+<li><a href="//www.firstcry.com/myratings">My Reviews &amp; Uploads</a></li>
+<li><a href="//www.firstcry.com/mynotifyme">Notify Me</a></li>
+<li><a href="//www.firstcry.com/myshortlist">My Shortlist</a></li>
 <li><a onclick="SiteLogout1()">Logout</a></li>
 </ul>
 </span>
@@ -106,19 +185,19 @@ w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js
 <div class="lctr liquid_header_main">
 <a href="/">
 <div class="fc_logo">
-<img title="Firstcry.com - Online Baby &amp; Kids Store" src="http://cdn.fcglcdn.com/brainbees/images/n/fc_logo.jpg" alt="logo">
+<img title="Firstcry.com - Online Baby &amp; Kids Store" src="//cdn.fcglcdn.com/brainbees/images/n/fc_logo.jpg" alt="logo">
 </div>
 </a>
 <div class="sbc">
 <div class="sic fc_transform">
 <form action="#" method="post">
-<input id="search_box" class="input-text" type="search" value="Search for a Category, Brand or Product"><img class="search-button" src="http://cdn.firstcry.com/brainbees/images/n/fc-logo-brandNew.png">
+<input id="search_box" class="input-text" type="search" value="Search for a Category, Brand or Product"><img class="search-button" src="//cdn.fcglcdn.com/brainbees/images/n/fc-logo-brandNew.png">
 <div id="searchlist" class="se-re">
 </div>
 <div id="searchnoresult" class="se-re empty">
 <div>
 <span class="nhv">Sorry. No Suggestions Available. Click on the
-<img src="http://cdn.fcglcdn.com/brainbees/images/n/fc-logo-brandNew.png">
+<img src="//cdn.fcglcdn.com/brainbees/images/n/fc-logo-brandNew.png">
 icon or press enter to search</span>
 </div>
 </div>
@@ -126,7 +205,7 @@ icon or press enter to search</span>
 <div>
 <span>Retrieving Suggestions</span>
 <span class="loader" style="background-color: #fff !important;">
-<img style="height: 26px; margin-top: 2px; width: 26px;" src="http://cdn.fcglcdn.com/brainbees/images/m/loader_m.gif">
+<img style="height: 26px; margin-top: 2px; width: 26px;" src="//cdn.fcglcdn.com/brainbees/images/m/loader_m.gif">
 </span>
 </div>
 </div>
@@ -176,10 +255,10 @@ icon or press enter to search</span>
   <div class="small_mrp" style="float: left;"><span class="lft ctf_g">|</span><span class="rupee_sp lr dis"></span> <span class="lft ctf_dis"></span></div>
   </div>
   </div>
-  <div id="default-skin-demo2" style="float: left; max-height: 350px; overflow-x: hidden; width: 100%; background: url(http://cdn.fcglcdn.com/brainbees/images/m/loader_m.gif) 50% 50% no-repeat; min-height: 50px;">
+  <div id="default-skin-demo2" style="float: left; max-height: 350px; overflow-x: hidden; width: 100%; background: url(//cdn.fcglcdn.com/brainbees/images/m/loader_m.gif) 50% 50% no-repeat; min-height: 50px;">
   </div>
   <div class="ctf_vp lft">
-  <span>The tolal value for product(s) need to minimum Rs. 149 to place an order. Please add items to your cart to place your Order.</span>
+  <span>The tolal value for product(s) need to minimum ₹  149 to place an order. Please add items to your cart to place your Order.</span>
   </div>
   <div class="ctf_cps lft">
   <div class="ct_btn lft" onclick="window.location.href='https://checkout.firstcry.com'">Place Order</div>
@@ -240,7 +319,7 @@ icon or press enter to search</span>
     <div class="crs_main_div lft cw" id="productlist" style="height: 250px;">
     </div>
     <div class="cr_shopnow lft cw" id="Cart_OfferMsg">
-    <span>Buy Rs. 750 Mamy Poko Extra Absorb Paint Style Diaper and 30% off on clothes &amp; Shoes </span>
+    <span>Buy ₹  750 Mamy Poko Extra Absorb Paint Style Diaper and 30% off on clothes &amp; Shoes </span>
     </div>
     <div id="wallet_offer"></div>
     <div class="po_mian_div lft">
@@ -268,20 +347,20 @@ icon or press enter to search</span>
     </div>
     <div class="po_des_div lft" id="Cart_MRP">
     <div class="po_sp lft">Value of Products:</div>
-    <div class="po_rp lft cbs">Rs.0</div>
+    <div class="po_rp lft cbs">₹ 0</div>
     </div>
     <div class="po_des_div lft" id="Cart_YouSave">
     <div class="po_sp lft">Discount(-):</div>
-    <div class="po_rp lft cbs">Rs.0</div>
+    <div class="po_rp lft cbs">₹ 0</div>
     </div>
     <div class="po_des_div lft" id="Cart_Shipping">
     <div class="po_sp lft">Shipping Charges:</div>
-    <div class="po_rp lft cbs">Rs.0</div>
+    <div class="po_rp lft cbs">₹ 0</div>
     </div>
     <div class="po_des_div lft" id="Vat-sec">
-    <div class="po_sp lft">Applicable</div>
-    <div class="po_sp lft"><span style="float:left;"> Taxes</span> <span class="sprite-dto click-symbol1" id="cartVatIcon" style="cursor:pointer"></span></div>
-    <div class="po_rp lft cbs">Rs.0</div>
+    <div class="po_sp lft">Estimated</div>
+    <div class="po_sp lft"><span style="float:left;"> GST</span> <span class="sprite-dto click-symbol1" id="cartVatIcon" style="cursor:pointer"></span></div>
+    <div class="po_rp lft cbs">₹ 0</div>
     </div>
     
     <div class="po_des_div lft" id="Cart_FinalPrice">
@@ -351,22 +430,21 @@ icon or press enter to search</span>
                     <div class="welcome_topsection">
                         <div class="welcome_left_topheading" style="width:80%">
                             <div class="vat-product-name-head">Product Name</div>
-                            <div class="vat-price-head">Applicable Taxes</div></div>
+                            <div class="vat-price-head">Estimated GST</div></div>
                             <div id="cartVatclose" class="closetext-vat sprite-top"></div>
                     </div>
                 </div>
 
                <div class="vatProduct-out">
                 <ul id="vatProduct">
-                    <li> <span class="vat-product-name">cart Mamy Poko Extra Absorb PAnt style Diapers Large-48 Pieces</span><span class="vat-price"><span class="">Rs.</span> 150</span></li>
-                     <li> <span class="vat-product-name">cart Mamy Poko Extra Absorb PAnt style Diapers Large-48 Pieces</span><span class="vat-price"><span class="">Rs.</span> 150</span></li>
-                     <li> <span class="vat-product-name">cart Mamy Poko Extra Absorb </span><span class="vat-price"><span class="">Rs.</span> 150</span></li>
+                    <li> <span class="vat-product-name">cart Mamy Poko Extra Absorb PAnt style Diapers Large-48 Pieces</span><span class="vat-price"><span class="">₹ </span> 150</span></li>
+                     <li> <span class="vat-product-name">cart Mamy Poko Extra Absorb PAnt style Diapers Large-48 Pieces</span><span class="vat-price"><span class="">₹ </span> 150</span></li>
+                     <li> <span class="vat-product-name">cart Mamy Poko Extra Absorb </span><span class="vat-price"><span class="">₹ </span> 150</span></li>
 
                 </ul>
                 </div>
                 <div class="Vat-to-paid">
-					<p>Applicable Taxes on the basis of exact location will be charged on the discounted price at the time of Checkout. 
-					Taxes collected against every transaction will be paid to the Government by FirstCry.com. Please refer to the <a href="http://www.firstcry.com/termsofuse" target="_blank" rel="nofollow" style="color:#0000FF;text-decoration:underline;">Terms of Use </a>for full details.</p>
+					<p>Mix of Taxes and discount may change depending the amount of tax being borne by the Company. However, the final price as charged from customer will remain same. Taxes collected against every transaction will be paid to the Government by FirstCry.com. Please refer to the <a href="http://www.firstcry.com/termsofuse" target="_blank" rel="nofollow" style="color:#0000FF;text-decoration:underline;">Terms of Use </a>for full details.</p>
                </div>
             </div>
             </div>
@@ -376,100 +454,100 @@ icon or press enter to search</span>
     <div id="cartprogressdiv" style="display: none;" onclick="HideCart()">
     <div id="cartInnerrProgressmaster" class="progressbarCss" style="background-color: black; height: 100%; left: 0; opacity: 0.2; overflow: hidden; position: fixed; text-align: center; top: 0; width: 100%; z-index: 1000000;"></div>
     <div class="lft cp" id="loadingmaster" style="background-color: white; position: fixed; z-index: 1000000; text-align: center; width: 45px; height: 37px; top: 0px; left: -20px; border-radius: 10px; margin-top: 20%; margin-left: 50%; padding-top: 5px;">
-    <img src="http://cdn.fcglcdn.com/brainbees/images/m/loader_m.gif" style="width: auto !important;">
+    <img src="//cdn.fcglcdn.com/brainbees/images/m/loader_m.gif" style="width: auto !important;">
     </div>
     </div>
       <div class="menu-container media-pros">
         <ul>
           <li class="double">
-            <a href="http://www.firstcry.com/newborn-baby-clothes-dresses?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/newborn-baby-clothes-dresses?ref2=menu_dd_catlanding">
               Baby <br>Clothes
             </a>
             <span id="menu1"></span>
           </li>
           <li class="double">
-            <a href="http://www.firstcry.com/kids-clothing-dresses?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/kids-clothing-dresses?ref2=menu_dd_catlanding">
               Kids <br>Clothes
             </a>
             <span id="menu2"></span>
           </li>
           <li>
-            <a href="http://www.firstcry.com/baby-kids-footwear?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/baby-kids-footwear?ref2=menu_dd_catlanding">
               Footwear
             </a>
             <span id="menu3"></span>
           </li>
           <li class="double">
-            <a href="http://www.firstcry.com/toys-learning-entertainment?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/toys-learning-entertainment?ref2=menu_dd_catlanding">
               Toys, Books &amp; <br>School
             </a>
             <span id="menu4"></span>
           </li>
           <li>
-            <a href="http://www.firstcry.com/diapering?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/diapering?ref2=menu_dd_catlanding">
               Diapering
             </a>
             <span id="menu5"></span>
           </li>
           <li class="double">
-            <a href="http://www.firstcry.com/feeding-and-nursing?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/feeding-and-nursing?ref2=menu_dd_catlanding">
               Feeding &amp; <br>Nursing
             </a>
             <span id="menu6"></span>
           </li>
           <li class="double">
-            <a href="http://www.firstcry.com/bath-and-skin-care?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/bath-and-skin-care?ref2=menu_dd_catlanding">
               Bath <br> &amp; Skin
             </a>
             <span id="menu7"></span>
           </li>
            <li class="double">
-            <a href="http://www.firstcry.com/health-and-safety?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/health-and-safety?ref2=menu_dd_catlanding">
               Health <br>&amp; Safety
             </a>
             <span id="menu8"></span>
           </li>
           <li class="double">
-            <a href="http://www.firstcry.com/baby-gear-and-nursery?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/baby-gear-and-nursery?ref2=menu_dd_catlanding">
               Gear &amp; <br>Nursery
             </a>
             <span id="menu9"></span>
           </li>
           <li class="double">
-            <a href="http://www.firstcry.com/maternity-clothing-and-care?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/maternity-clothing-and-care?ref2=menu_dd_catlanding">
               Moms &amp; <br>Maternity
             </a>
             <span id="menu10"></span>
           </li>
           <li class="double">
-            <a href="http://www.firstcry.com/baby-kids-gifts?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/baby-kids-gifts?ref2=menu_dd_catlanding">
               B'day &amp; <br>Gifts
             </a>
             <span id="menu11"></span>
           </li>
           <li>
             <a id="premium-tag" class="men_temp">NEW</a>
-            <a href="http://www.firstcry.com/boutiques?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/boutiques?ref2=menu_dd_catlanding">
               Premium
             </a>
             <span id="menu12"></span>
           </li>
           <li class="double">
-            <a href="http://www.firstcry.com/offers?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/offers?ref2=menu_dd_catlanding">
               Offer <br>Zone
             </a>
             <span id="menu13"></span>
           </li>
           <li class="lastoffer">
-            <a href="http://www.firstcry.com/store-locator.aspx?ref2=menu_dd_catlanding">
+            <a href="//www.firstcry.com/store-locator.aspx?ref2=menu_dd_catlanding">
               Stores
             </a>
             <span id="menu14"></span>
           </li>
           <li class="lastmenu">
-            <a class="wom_lg" href="http://www.firstcry.com/carters-store?ref2=menu_dd_catlanding">
-              <img alt="Carter's" class="dshow" src="http://cdn.fcglcdn.com/brainbees/images/carters/carters-menu-1.jpg">
-              <img alt="Carter's" class="hshow" src="http://cdn.fcglcdn.com/brainbees/images/carters/carters-menu-2.jpg">
+            <a class="wom_lg" href="//www.firstcry.com/carters-store?ref2=menu_dd_catlanding">
+              <img alt="Carter's" class="dshow" src="//cdn.fcglcdn.com/brainbees/images/carters/carters-menu-1.jpg">
+              <img alt="Carter's" class="hshow" src="//cdn.fcglcdn.com/brainbees/images/carters/carters-menu-2.jpg">
             </a>
             <span id="menu15"></span>
           </li>
@@ -553,11 +631,11 @@ Girl
 </div>
 </div>
 </div>
-<!--<script src="http://cdn.fcglcdn.com/brainbees/php/js/master-common-v1.2.js" type="text/javascript"></script>-->
-<script src="http://cdn.fcglcdn.com/brainbees/php/js/master-common.v1.4.min.js" type="text/javascript"></script>
+<!--<script src="//cdn.fcglcdn.com/brainbees/php/js/master-common-v1.2.js" type="text/javascript"></script>-->
+<script src="//cdn.fcglcdn.com/brainbees/php/js/master-common.v1.6.min.js?20171223" type="text/javascript"></script>
 <input type="hidden" id="commsearch">
-<link href="http://cdn.fcglcdn.com/brainbees/css/v6/static_main1.5.css" rel="stylesheet" type="text/css">
-<link href="http://cdn.fcglcdn.com/brainbees/css/v6/policyindex1.13.css" rel="stylesheet" type="text/css">
+<link href="//cdn.fcglcdn.com/brainbees/css/v6/static_main1.6.css" rel="stylesheet" type="text/css">
+<link href="//cdn.fcglcdn.com/brainbees/css/v6/policyindex1.16.css" rel="stylesheet" type="text/css">
 
 <div class="breadcum" id="tp">
                 <span id="">
@@ -583,7 +661,7 @@ Girl
 
 <div class="staticpagecontent">
 <div class="staticpagecontentinner" style="width: 100%; text-align: justify;">
-This Privacy Policy relates solely to the information collection and use practices of our web site located at http://www.firstcry.com 	-and www.firstcry.com's community services available through www.firstcry.com's mobile app 	-(“Community	”) (collectively referred to as 	“Site	” or  	“Website” or 	“Firstcry. com”). We recognize that many visitors and users of this Website are concerned about the information they provide to us, and how we treat that information. This Privacy Policy, which may be updated from time to time, has been developed to address those concerns. <br><br>
+This Privacy Policy relates solely to the information collection and use practices of our web site located at https://www.firstcry.com 	-and www.firstcry.com's community services available through www.firstcry.com's mobile app 	-(“Community	”) (collectively referred to as 	“Site	” or  	“Website” or 	“Firstcry. com”). We recognize that many visitors and users of this Website are concerned about the information they provide to us, and how we treat that information. This Privacy Policy, which may be updated from time to time, has been developed to address those concerns. <br><br>
 
     <div class="body_google_ad_swap" style="width: 728px; margin: 0px auto 15px;">
        <script type="text/javascript"><!--
@@ -695,7 +773,7 @@ If you would like more information about this practice and to know your choices 
 </script>
     </div>
     
-<script> var GTMQuickViewDetailJSON = {};	var base_url="http://www.firstcry.com/";	var strMyProductservice = '/svcs/CommonService.svc/';	var shpooingcartsevicepath='http://checkout.firstcry.com/ShoppingCart/ShoppingCart.svc/json/';	var svcpath = '/svcs/';	var shoppingcartservice='';	var checkoutUrl='https://checkout.firstcry.com/';	var main_site_url='http://www.firstcry.com/';	var myaccount_service='/svcs/MyAccountService.svc';	var home_page_service='/svcs/homepage.svc';	var loyaltycash_service='/svcs/LoyaltyCash.svc';	var shoppingcartmainurl='http://www.firstcry.com'; </script>
+<script> var GTMQuickViewDetailJSON = {};	var base_url="//www.firstcry.com/";	var strMyProductservice = '/svcs/CommonService.svc/';	var shpooingcartsevicepath='//checkout.firstcry.com/ShoppingCart/ShoppingCart.svc/json/';	var svcpath = '/svcs/';	var shoppingcartservice='';	var checkoutUrl='https://checkout.firstcry.com/';	var main_site_url='//www.firstcry.com/';	var myaccount_service='/svcs/MyAccountService.svc';	var home_page_service='/svcs/homepage.svc';	var loyaltycash_service='/svcs/LoyaltyCash.svc';	var shoppingcartmainurl='//www.firstcry.com'; </script>
 <div class="footer_google_ad" style="width: 728px; margin: 0px auto 45px;">
 <script type="text/javascript">
 google_ad_client = "ca-pub-5461178715345406";
@@ -726,14 +804,14 @@ google_ad_height = 90;
 <span>2 Million Happy<br> Customers
 </span>
 </div>
-<div class="rtb-img" onclick="window.location.href='http://www.firstcry.com/returnpolicy'" style="cursor:pointer">
+<div class="rtb-img" onclick="window.location.href='returnpolicy'" style="cursor:pointer">
 <div class="footer_products_Return"></div>
 <span>Easy Return <br> Policy
 </span>
 </div>
 <div class="rtb-img">
 <div class="footer_products_Shipping"></div>
-<span>Free Shipping Available <br> above Rs. 499*
+<span>Free Shipping Available <br> above ₹ 499*
 </span>
 </div>
 </div>
@@ -754,7 +832,7 @@ google_ad_height = 90;
 <div class="tsnnc" onclick="tstMOVE(this)">4</div>
 <div class="tsnnc" onclick="tstMOVE(this)">5</div>
 <div class="tsnnv" onclick="tstMOVE(this)">
-<a href="http://www.firstcry.com/testimonials">View all</a>
+<a href="//www.firstcry.com/testimonials">View all</a>
 </div>
 </div>
 <div class="footer_rgt_comma"></div>
@@ -767,28 +845,28 @@ google_ad_height = 90;
 <div class="lcfs link">
 <div class="hdr">CATEGORIES</div>
 <div class="lcr">
-<span><a href="http://www.firstcry.com/clothes-and-fashion-accessories?ref2=cat_footer">Clothing
-&amp; Fashion</a></span> <span><a href="http://www.firstcry.com/baby-kids-toys-store?ref2=cat_footer">Toys</a></span>
-<span><a href="http://www.firstcry.com/kids-books-cds?ref2=cat_footer">Books
-&amp; CDs</a></span> <span><a href="http://www.firstcry.com/school-supplies?ref2=cat_footer">School
-Supplies</a></span> <span><a href="http://www.firstcry.com/birthday-party-supplies?ref2=cat_footer">Birthday
-Party Supplies</a></span> <span><a href="http://www.firstcry.com/diapering?ref2=cat_footer">Baby
-Diapering</a></span> <span><a href="http://www.firstcry.com/feeding-and-nursing?ref2=cat_footer">Feeding
-&amp; Nursing</a></span> <span><a href="http://www.firstcry.com/bath-and-skin-care?ref2=cat_footer">Bath
-&amp; Skin Care</a></span> <span><a href="http://www.firstcry.com/health-and-safety?ref2=cat_footer">Health
-&amp; Safety</a></span> <span><a href="http://www.firstcry.com/baby-gear?ref2=cat_footer">Baby
-Gear</a></span> <span><a href="http://www.firstcry.com/nursery-furniture-decor?ref2=cat_footer">Nursery</a></span>
-<span><a href="http://www.firstcry.com/maternity-clothing-and-care?ref2=cat_footer">Moms
-&amp; Maternity</a></span> <span><a href="http://www.firstcry.com/baby-kids-gifts?ref2=cat_footer">Gifts</a></span>
+<span><a href="//www.firstcry.com/clothes-and-fashion-accessories?ref2=cat_footer">Clothing
+&amp; Fashion</a></span> <span><a href="//www.firstcry.com/baby-kids-toys-store?ref2=cat_footer">Toys</a></span>
+<span><a href="//www.firstcry.com/kids-books-cds?ref2=cat_footer">Books
+&amp; CDs</a></span> <span><a href="//www.firstcry.com/school-supplies?ref2=cat_footer">School
+Supplies</a></span> <span><a href="//www.firstcry.com/birthday-party-supplies?ref2=cat_footer">Birthday
+Party Supplies</a></span> <span><a href="//www.firstcry.com/diapering?ref2=cat_footer">Baby
+Diapering</a></span> <span><a href="//www.firstcry.com/feeding-and-nursing?ref2=cat_footer">Feeding
+&amp; Nursing</a></span> <span><a href="//www.firstcry.com/bath-and-skin-care?ref2=cat_footer">Bath
+&amp; Skin Care</a></span> <span><a href="//www.firstcry.com/health-and-safety?ref2=cat_footer">Health
+&amp; Safety</a></span> <span><a href="//www.firstcry.com/baby-gear?ref2=cat_footer">Baby
+Gear</a></span> <span><a href="//www.firstcry.com/nursery-furniture-decor?ref2=cat_footer">Nursery</a></span>
+<span><a href="//www.firstcry.com/maternity-clothing-and-care?ref2=cat_footer">Moms
+&amp; Maternity</a></span> <span><a href="//www.firstcry.com/baby-kids-gifts?ref2=cat_footer">Gifts</a></span>
 </div>
 </div>
 <div class="lcs link">
 <div class="hdr">COMPANY INFO</div>
 <div class="lcr cnt">
-<span><a href="http://www.firstcry.com/aboutus" rel="nofollow">About
-Us</a></span> <span><a href="http://www.firstcry.com/contactus" rel="nofollow">Contact
-Us</a></span> <span><a href="http://www.firstcry.com/allbrands">Brands</a></span> <span><a href="http://www.firstcry.com/faq" rel="nofollow">F.A.Q.s</a></span>
-<span><a href="http://www.firstcry.com/store-locator.aspx">Firstcry
+<span><a href="//www.firstcry.com/aboutus" rel="nofollow">About
+Us</a></span> <span><a href="//www.firstcry.com/contactus" rel="nofollow">Contact
+Us</a></span> <span><a href="//www.firstcry.com/allbrands">Brands</a></span> <span><a href="//www.firstcry.com/faq" rel="nofollow">F.A.Q.s</a></span>
+<span><a href="//www.firstcry.com/store-locator.aspx">Firstcry
 Stores</a></span>
 </div>
 <div class="hdr">CONNECT WITH US</div>
@@ -797,24 +875,25 @@ Stores</a></span>
 <span><a target="_blank" href="http://www.youtube.com/user/firstcrydotcom">Youtube</a></span>
 <span><a target="_blank" href="https://twitter.com/firstcryindia">Twitter</a></span>
 <span><a target="_blank" href="https://plus.google.com/+firstcry/posts">Google +</a></span>
+<span><a href="http://parenting.firstcry.com/?ref2=homepage_footer" target="_blank" rel="nofollow">FirstCry Parenting</a></span>
 <span><a target="_blank" href="http://blog.firstcry.com/">FirstCry
-Blog</a></span> <span><a href="http://www.firstcry.com/testimonials">Testimonials</a></span>
+Blog</a></span> <span><a href="//www.firstcry.com/testimonials">Testimonials</a></span>
 </div>
 <div class="sitemap">
-<a class="hv_n" href="http://www.firstcry.com/sitemap">SITEMAP</a>
+<a class="hv_n" href="//www.firstcry.com/sitemap">SITEMAP</a>
 </div>
 <div>
-<a class="hv_n" href="http://www.firstcry.com/loyaltycash" rel="nofollow">LOYALTY CASH</a>
+<a class="hv_n" href="//www.firstcry.com/loyaltycash" rel="nofollow">LOYALTY CASH</a>
 </div>
 </div>
 <div class="lcr-third link">
 <div class="hdr">SHIPPING &amp; POLICIES</div>
 <div class="lcr cnt">
-<span><a href="http://www.firstcry.com/payments" rel="nofollow">Payments</a></span>
-<span><a href="http://www.firstcry.com/shippingpolicy" rel="nofollow">Shipping Policy</a></span> <span><a href="http://www.firstcry.com/returnpolicy" rel="nofollow">Return
-Policy</a></span> <span><a href="http://www.firstcry.com/termsofuse" rel="nofollow">Terms
-of Use</a></span> <span><a href="http://www.firstcry.com/privacypolicy" rel="nofollow">Privacy
-Policy</a></span> <span><a href="http://www.firstcry.com/same-next-day-delivery" rel="nofollow">Next day &amp; Same day delivery</a></span>
+<span><a href="//www.firstcry.com/payments" rel="nofollow">Payments</a></span>
+<span><a href="//www.firstcry.com/shippingpolicy" rel="nofollow">Shipping Policy</a></span> <span><a href="//www.firstcry.com/returnpolicy" rel="nofollow">Return
+Policy</a></span> <span><a href="//www.firstcry.com/termsofuse" rel="nofollow">Terms
+of Use</a></span> <span><a href="//www.firstcry.com/privacypolicy" rel="nofollow">Privacy
+Policy</a></span> <span><a href="//www.firstcry.com/same-next-day-delivery" rel="nofollow">Next day &amp; Same day delivery</a></span>
 </div>
 <div class="hdr">PAYMENT METHOD</div>
 <div class="lcr">
@@ -829,7 +908,7 @@ on Delivery)</span> <span class="nhv">Easy EMI
 <div class="subscribe">
 <div class="sub-text">
 <div class="sub">
-SUBSCRIBE NOW &amp; GET <b>Rs.2500</b> CASH COUPONS
+SUBSCRIBE NOW &amp; GET <b>₹ 2500</b> CASH COUPONS
 </div>
 <div class="cond">
 <form name="login" method="post" action="#">
@@ -850,7 +929,7 @@ SUBSCRIBE NOW &amp; GET <b>Rs.2500</b> CASH COUPONS
 </div>
 <div class="frace">
 <div class="house_img_footer"></div>
-<a href="http://www.firstcry.com/franchisee">
+<a href="//www.firstcry.com/franchisee">
 <div class="frat">
 <div class="text">
 BECOME OUR <br> FRANCHISE STORE
@@ -895,7 +974,7 @@ function rs_frm() {  var $obj = $("#iframe_Login"); var _height = $obj.contents(
 </div>
 </div>
 <div class="goToTop">
-<img src="http://cdn.fcglcdn.com/brainbees/images/n/ic_to_arrow.png"><br>
+<img src="//cdn.fcglcdn.com/brainbees/images/n/ic_to_arrow.png"><br>
 TOP
 </div>
 <div id="btstrpDisableTabs" style="width: 100%; position: absolute; top: 0px; left: 0px; z-index: 90; display: block;">
@@ -922,7 +1001,8 @@ you love!</span>
 </div>
 </li>
 <li class="cl_pa" id="track" data-footer="6">Track Order</li>
-<li class="cl_pa" id="beit" data-footer="8" style="border-right: medium none;">Be in Touch</li>
+<li class="cl_pa" id="beit" data-footer="8">Be in Touch</li>
+<li class="cl_pa" id="franchise" data-footer="9">Become a Franchisee</li>
 </ul>
 <div class="td_arw fc_transform">
 <span class="tp_ar_sp sprite-btm  lft"></span>
@@ -936,10 +1016,10 @@ you love!</span>
 <div style="display: none" class="btm_li_lft_arw btm_sl_arw sprite_list lft" onclick="javascript:fnprevnextqvpopup(0);"></div>
 <div style="display: none" class="btm_li_rgt_arw btm_sl_arw sprite_list rgt" onclick="javascript:fnprevnextqvpopup(1);"></div>
 <div class="loadqvprog" style="display: none;">
-<img src="http://cdn.fcglcdn.com/brainbees/images/LodingCart.gif" alt="Loading ..." style="position: absolute; top: 44%; left: 46%;">
+<img src="//cdn.fcglcdn.com/brainbees/images/LodingCart.gif" alt="Loading ..." style="position: absolute; top: 44%; left: 46%;">
 </div>
 <!-- commented for converting iframe to popup -->
-<iframe id="btmstripfrmQuickView" src="/blankcontent.html" scrolling="no" style="margin-top: 0px; border: none; height: 510px; width: 900px;"></iframe>
+<iframe id="btmstripfrmQuickView" src="//www.firstcry.com/blankcontent.html" scrolling="no" style="margin-top: 0px; border: none; height: 510px; width: 900px;"></iframe>
 <!-- <div class="" id="btmstripfrmQuickView"></div> -->
 </div>
 </div>
@@ -993,7 +1073,7 @@ shortlist</span>
 </div>
 <div class="bn_btn_btm remo_btn_btm lft fw bn_btn_fade">remove</div>
 </div>
-<span class="lft fw"><a href="http://www.firstcry.com/myshortlist">View All</a></span>
+<span class="lft fw"><a href="//www.firstcry.com/myshortlist">View All</a></span>
 </div>
 </div>
 </div>
@@ -1056,13 +1136,6 @@ range and benefit from our great offers and discounts!*@
 <div class="next_b nsc sprite-btm btm_arw rgt shrenext_b next_b_dis" style="visibility: hidden;"></div>
 </div>
 <div class="right_btm rgt">
-<div class="freq_bou">
-<span id="spnqcrosort" data-serchv="0">Frequently Bought</span> <span class="fr_dp sprite_list"></span>
-<ul class="frinner qcrofrinner">
-<li data-value="0">Frequently Bought</li>
-<li data-value="1">Recently Bought</li>
-</ul>
-</div>
 <div class="lft sel_all fw">
 <span class="lft_arw_sp_btm_all sall_sp sprite-btm"> <input type="checkbox" class="in_chk_pos_all"></span>
 <div class="lft">
@@ -1076,7 +1149,7 @@ range and benefit from our great offers and discounts!*@
 <div class="bn_btn_btm lft fw bn_btn_fade btn_qcro_addcart">Add
 to cart</div>
 </div>
-<span class="lft fw"><a href="http://www.firstcry.com/quickreorder">View All</a></span>
+<span class="lft fw"><a href="//www.firstcry.com/quickreorder">View All</a></span>
 </div>
 </div>
 </div>
@@ -1154,7 +1227,7 @@ submitting ...</span>
 </div>
 
 <div class="lft fw">
-For Your Order related queries <span class="lg_sh"><a href="http://www.firstcry.com/alltrackorder">Click here</a></span>
+For Your Order related queries <span class="lg_sh"><a href="//www.firstcry.com/alltrackorder">Click here</a></span>
 or call -<span class="ccno"></span>
 </div>
 </div>
@@ -1163,7 +1236,7 @@ or call -<span class="ccno"></span>
 </div>
 </div>
 <div id="divbankemipop" style="z-index: 100">
-<iframe style="height: 640px;" frameborder="0" scrolling="no" id="iframeemi" src="/blankcontent.html"></iframe>
+<iframe style="height: 640px;" frameborder="0" scrolling="no" id="iframeemi" src="//www.firstcry.com/blankcontent.html"></iframe>
 <div class="emiback" onclick="closeemi();"></div>
 </div>
 <input type="hidden" id="commsearch">
@@ -1182,6 +1255,11 @@ $('.footer_google_ad').hide();
 } else {
 $('.footer_google_ad').show();
 }
+$('#franchise').click(function() {
+	   var baseurl = '//www.firstcry.com/';
+	   window.location.href = baseurl + 'franchise';
+	   return false;
+	});
 });
 </script>
 <script type="text/javascript">
@@ -1387,9 +1465,10 @@ return result;
 };
 </script>
 
-<script type="text/javascript" async="" src="//ssl.widgets.webengage.com/js/widget/webengage-min-v-3.0.js"></script><script id="_webengage_script_tag" type="text/javascript">    window.webengageWidgetInit = window.webengageWidgetInit || function () { webengage.init({ licenseCode: "~c2ab3738" }).onReady(function () { webengage.render(); }); };
+<!--script id="_webengage_script_tag" type="text/javascript">    window.webengageWidgetInit = window.webengageWidgetInit || function () { webengage.init({ licenseCode: "~c2ab3738" }).onReady(function () { webengage.render(); }); };
 (function (d) { var _we = d.createElement('script'); _we.type = 'text/javascript'; _we.async = true; _we.src = (d.location.protocol == 'https:' ? "//ssl.widgets.webengage.com" : "//cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-3.0.js"; var _sNode = d.getElementById('_webengage_script_tag'); _sNode.parentNode.insertBefore(_we, _sNode); })(document);
-var vizLayer = null; $(window).load(function () { if (trackPage == "Home") { vizLayer = { type: 'home_page' } } else if (trackPage == "Category" || trackPage == "Searchresult") { vizLayer = { type: 'category_page', catid: $("#catid").val(), subcatid: '', subsubcatid: '' } } else if (trackPage == "Subcategory listing") { vizLayer = { type: 'category_page', catid: $("#catid").val(), subcatid: $("#subcatid").val(), subsubcatid: '' } } else if (trackPage == "ProductDetails") { vizLayer = { type: 'product_page', pid: $("#hidpid").val(), pname: ProductDetailJSON.PInfo.pnm, lp: window.location.href, image: "http://cdn.fcglcdn.com/brainbees/images/products/box/" + $("#hidpid").val() + "a.jpg", availability: '', currency: 'INR', newprice: (ProductDetailJSON.PInfo.MRP) - (ProductDetailJSON.PInfo.MRP * ProductDetailJSON.PInfo.Dis) / 100, oldprice: ProductDetailJSON.PInfo.MRP, catid: $("#hidCatIds").val(), catname: ProductDetailJSON.PInfo.CN, subcatid: ProductDetailJSON.PInfo.SCID, subcatname: ProductDetailJSON.PInfo.SubCN, subsubcatid: '', subsubcatname: '', pdesc: ProductDetailJSON.PInfo.Desc, inventory: '', brand: $("#hidBrandIds").val(), color: ProductDetailJSON.PInfo.color, size: ProductDetailJSON.PInfo.Size, prodrating: '', numratings: '' } } else if (trackPage == "Search listing") { vizLayer = { type: 'search_page', pid1: '', catid1: '', pid2: '', catid2: '', pid3: '', catid3: '' } } else { vizLayer = { type: 'other_page' } } });
+</script-->
+<script>var vizLayer = null; $(window).load(function () { if (trackPage == "Home") { vizLayer = { type: 'home_page' } } else if (trackPage == "Category" || trackPage == "Searchresult") { vizLayer = { type: 'category_page', catid: $("#catid").val(), subcatid: '', subsubcatid: '' } } else if (trackPage == "Subcategory listing") { vizLayer = { type: 'category_page', catid: $("#catid").val(), subcatid: $("#subcatid").val(), subsubcatid: '' } } else if (trackPage == "ProductDetails") { vizLayer = { type: 'product_page', pid: $("#hidpid").val(), pname: ProductDetailJSON.PInfo.pnm, lp: window.location.href, image: "//cdn.fcglcdn.com/brainbees/images/products/box/" + $("#hidpid").val() + "a.jpg", availability: '', currency: 'INR', newprice: (ProductDetailJSON.PInfo.MRP) - (ProductDetailJSON.PInfo.MRP * ProductDetailJSON.PInfo.Dis) / 100, oldprice: ProductDetailJSON.PInfo.MRP, catid: $("#hidCatIds").val(), catname: ProductDetailJSON.PInfo.CN, subcatid: ProductDetailJSON.PInfo.SCID, subcatname: ProductDetailJSON.PInfo.SubCN, subsubcatid: '', subsubcatname: '', pdesc: ProductDetailJSON.PInfo.Desc, inventory: '', brand: $("#hidBrandIds").val(), color: ProductDetailJSON.PInfo.color, size: ProductDetailJSON.PInfo.Size, prodrating: '', numratings: '' } } else if (trackPage == "Search listing") { vizLayer = { type: 'search_page', pid1: '', catid1: '', pid2: '', catid2: '', pid3: '', catid3: '' } } else { vizLayer = { type: 'other_page' } } });
 var google_tag_params = null;
 $(document).ready(function () {
 var rowData = document.querySelectorAll('.shortlst '), productId = [], len = rowData.length > 20 ? len = 20 : len = rowData.length;
@@ -1429,48 +1508,8 @@ var curr_month = d.getMonth();
 var curr_year = d.getFullYear();
 return  m_names[curr_month]+" "+curr_date+ " " + curr_year;
 }
-window.fbAsyncInit = function() {
-FB.init({
-appId      : '330860653676746',
-xfbml      : true,
-version    : 'v2.2'
-});
-};
-(function(d, s, id){
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) {return;}
-js = d.createElement(s); js.id = id;
-js.src = "//connect.facebook.net/en_US/sdk.js";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-function checkLoginState() {
-FB.getLoginStatus(function(response) {
-FB.login(fblogin,{scope: 'email,user_birthday,user_friends'});
-});
-}
-if($('#unqkey').val()){
-  response.unqkey = $('#unqkey').val();
-}
-function fblogin() {
-console.log('Welcome!  Fetching your information.... ');
-var currenturl=location.href;
-FB.api('/me?fields=id,name,birthday,email,first_name,gender,hometown,last_name,location,middle_name,picture', function(response) {
-console.log('Successful login for: ' + response.name);
-console.log(response);
-$.ajax({
-method:"POST",
-url: base_url+'signup/fbLogin',
-data:response,
-async:true,
-success: function (data) {
-location.href=currenturl;
 
-},error: function(err) {
-console.log(err);
-}
-});
-});
-}
+
 function callServiceUrl(method,url,data,callBackFn)
 {
 $.ajax({
@@ -1526,9 +1565,9 @@ error: function (xhr, status, error) {
 </script>
 <!--  -->
 
- <script src="http://cdn.fcglcdn.com/brainbees/php/js/menu.min-1.4.js?20170629" type="text/javascript"></script>
- <script src="http://cdn.fcglcdn.com/brainbees/php/js/footerstrip2.5.8.R10.min.js" type="text/javascript"></script>
- <script src="http://cdn.fcglcdn.com/brainbees/php/js/cart-deployment-v2.1.min.js" type="text/javascript"></script>
+ <script src="//cdn.fcglcdn.com/brainbees/php/js/menu.min-1.5.js?20171223" type="text/javascript"></script>
+ <script src="//cdn.fcglcdn.com/brainbees/php/js/footerstrip2.5.8.r14.min.js" type="text/javascript"></script>
+ <script src="//cdn.fcglcdn.com/brainbees/php/js/cart-deployment-v2.4.min.js" type="text/javascript"></script>
  <script type="text/javascript">
 $(window).load(function () {
 if ($('div').hasClass('footer_google_ad_swap')) {
@@ -1700,7 +1739,7 @@ $(document).on('click','.poplogin_main,.Register_popup',function(e) {
 	        }else{
 	         var passdivid='main-con';
 	          var loadclass = "width: 70px;height: 70px;top: 0px;left: 50%; top:50%; position: fixed;display: block;opacity: 0.7;z-index: 105;text-align: center;",
-	          loadergif = '<div id="loadinggiff" style="' + loadclass + '"><img id="loading-image" src="http://cdn.fcglcdn.com/brainbees/images/n/ajax-loader.gif" alt="Loading..." /></div>';
+	          loadergif = '<div id="loadinggiff" style="' + loadclass + '"><img id="loading-image" src="//cdn.fcglcdn.com/brainbees/images/n/ajax-loader.gif" alt="Loading..." /></div>';
 	          $("body").append(loadergif);
 	        }
 	        $.ajax({
