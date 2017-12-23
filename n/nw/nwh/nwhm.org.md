@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nwhm.org privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108013806id_/http%3A//nwhm.org/html/about/faq/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwhm.org privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223082149id_/https%3A//www.nwhm.org/donor-privacy-policy) for the most accurate reproduction.*
 
-# None
+# Donor Privacy Policy | National Women's History Museum
 
 **Donor Privacy Policy**
 
@@ -10,9 +10,11 @@ Contributions from NWHM Board members, individual donors, corporations and found
 
 NWHM respects the privacy of our donors and has put in place a Donor Privacy Policy to honor these rights.
 
+ 
+
 **Donor information**
 
-NWHM collects and maintains the following types of donor information when it is voluntarily provided to us: 
+NWHM collects and maintains the following types of donor information when it is voluntarily provided to us:
 
   * Contact information such as name, address, telephone number and e-mail address
   * Giving information
@@ -25,9 +27,13 @@ This confidential information is kept on file for IRS purposes. It is also used 
 
 All the above information is collected to help us tailor our content and personalize our donors and supporters' experience. The Museum may use this information to send our donor's email announcements, or mailings, updates on our programs and scholar activities. Donors may opt-out of these communications at any time.
 
+ 
+
 **List sharing**
 
-NWHM occasionally rents or exchanges information with other like-minded non-profit organizations. We honor the request of any donor who has asked that NWHM not rent or exchange their name and address information and their records are so marked on our database and excluded from this rental process. NWHM never sends out mailings on behalf of other organizations. 
+NWHM occasionally rents or exchanges information with other like-minded non-profit organizations. We honor the request of any donor who has asked that NWHM not rent or exchange their name and address information and their records are so marked on our database and excluded from this rental process. NWHM never sends out mailings on behalf of other organizations.
+
+ 
 
 **Discontinuing contact upon request**
 
@@ -37,9 +43,8 @@ NWHM shall maintain a record of all requests by persons who indicate to the Muse
 
 The National Women's History Museum does not knowingly collect information from children. See our Web Privacy and Use Policy for details on information collected during web browsing and site terms of use.
 
+ 
+
 **Security and Enforcement**
 
 The National Women's History Museum protects your personal information from loss, misuse, alteration, or unauthorized disclosure by encrypting the data which you provide us with current encryption tools, including HTTPS (Hyper Text Transfer Protocol Secure) and SSL (Secure Socket Layer) protocols and by requiring employees with access to personal data to comply with our privacy policy. We operate secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our donors.
-
-  
-
