@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaite.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630140643id_/http%3A//www.mediaite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaite.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223195635id_/https%3A//www.mediaite.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mediaite
 
@@ -29,6 +29,10 @@ Mediaite may use cookies. A cookie is a piece of data stored on the user’s com
 **Third-Party Cookies**
 
 Mediaite uses third-party advertising companies to serve ads and collect information when you visit Mediaite.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third-party advertisers’ use of cookies is subject to their own privacy policies. Mediaite has no access to or control over these cookies once we have given permission for them to set cookies for advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+
+**Your Rights as a California Resident**
+
+Residents of California have the right to request from us certain information with respect to the types of personal information we share with third parties for those third parties’ direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by emailing us at office@mediaite.com. Your request should specify your full name and the email address you used when submitting personal information to us.
 
 **Log Files**
 
