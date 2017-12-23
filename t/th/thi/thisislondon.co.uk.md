@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626130846id_/http%3A//www.standard.co.uk/service/privacy-policy-6925316.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223031808id_/https%3A//www.standard.co.uk/service/privacy-policy-6925316.html) for the most accurate reproduction.*
 
 # Privacy Policy | London Evening Standard
 
@@ -126,10 +126,3 @@ The Website may, from time to time, contain links to and from the Websites of ad
 **Further information**
 
 If you want further information, or wish to communicate with us about this privacy policy and your wishes about your personal information, please email us at webteam@standard.co.uk.
-
-  * More about: 
-  * [privacy policy](https://web.archive.org/topic/privacy-policy)
-
-
-
-[Reuse content](https://web.archive.org/syndication/reuse-permision-form?url=http://www.standard.co.uk/service/privacy-policy-6925316.html)
