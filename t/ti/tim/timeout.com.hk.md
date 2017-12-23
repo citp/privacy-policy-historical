@@ -1,95 +1,183 @@
-> *The following text is extracted and transformed from the timeout.com.hk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127220845id_/https%3A//www.timeout.com/hong-kong/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeout.com.hk privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223034348id_/https%3A//www.timeout.com/hong-kong/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Privacy Policy
+**TIME OUT PRIVACY POLICY**
 
-This constitutes the Privacy Policy of Time Out Hong Kong ("timeout.com/hk" ,"the Website") which is operated by Rubicon Communications Limited ("our", "us" and "we").
+1    **Your information**
 
-We have a strict policy with regard to your personal data which is set out in our Privacy Policy which we have developed and is in accordance with the Personal Data Privacy Ordinance. We are equally committed to ensuring that all our employees and agents uphold these obligations.
+1.1              Time Out England Limited (“ **Time Out** ”, “ **our** ”, “ **us** ” and “ **we** ”) is committed to protecting your privacy.
 
- **What data is being collected?**
+1.2              As a customer or a visitor to the timeout.com, including any mobile application and any social media platform (altogether, the “ **Website** ”) we, and the companies that  **work on our behalf** , collect information on you. This includes your  **personal information**  and  **information we may buy**.
 
-If you are merely visiting the public areas of timeout.com/hk, we do not collect any personal data about you, however, we may automatically collect information about your visits, such as browsing patterns. Information collected in this way does not reveal your contact details or any type of personal data. This information is only used in aggregate form to analyse, manage and develop timeout.com/hk and is not linked to any individual.
+1.3              We also collect  **information on your use of our Website,** ** ** including any ** ** **forums you visit** ** ** and  **how you arrived at our Website**  in the first place by using  **cookies or other tracking technologies**.
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. If you choose to fill out any reader surveys, enter a competition or make a purchase from one of our payment pages, you will be asked to supply some information about yourself, including your name, address, phone number and email address.
+1.4              Some  **other companies**  also collect certain information on you when you use our Website, such as social networking sites or web analytic companies.
 
- **What we do with the information collected**
+1.5              We will only keep information about you for  **as long as we need to** , and we make sure that any companies that process your information on our behalf do the same.
 
-Any of the information we collect from you may be used in one of the following ways: 
+1.6              By using our Website or submitting information to us through or in connection with our Website, you signify your consent to our collection, use and disclosure of your personal information in accordance with this privacy policy (the “ **Privacy Policy** ”). If you do not agree with this Privacy Policy, you must not use the Website or submit information to us through or in connection with our Website.
 
-• To process transactions
+1.7              We comply with the principles set out in the  **Data Protection Act 1998**  in the United Kingdom and any other law as applicable from time to time.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+2    **Notice of collection of data**
 
-• To send periodic emails
+2.1              By visiting the Website,  **you accept the practices**  described in this Privacy Policy and consent to the collection and use of your personal information by us for the purposes outlined in this Privacy Policy and for any other purpose reasonably necessary for the provision or proper administration of the Website and the business of Time Out.
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order. If you have opted in, we may send you newsletters and related marketing or promotional materials.
+2.2              If you  **do not accept**  the practices set out in this Privacy Policy you  **should not use the Website**.
 
- **Do we use cookies?**
+2.3              Time Out will consider its Privacy Policy from time to time which may  **develop and evolve over time** , and this policy may change to reflect that. We will use personal information in accordance with the Privacy Policy under which that personal information was collected subject to any later amendments accepted by you by virtue of your continued use of the Website. You should periodically revisit the Website Privacy Policy to  **be sure you are familiar with the current policy**. Use of the Website following any modifications to the Privacy Policy will be conclusively deemed as acceptance of the terms of this Privacy Policy and any changes to the policy both in connection with personal information previously collected and that collected following any changes to this Privacy Policy. However, we will notify you of any amendments made to our policy as a result of a change of law or where we wish to make any changes to our use of your personal information.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+2.4              Please note that the Website may contain  **links to other websites which are outside our control**  and are not covered by this Privacy Policy even though they may feature the Time Out logo because of a marketing agreement with Time Out. If you access other sites using the links provided, the operators of those sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours. You should  **look for the specific privacy statement**  on any such co-branded page. Time Out cannot be held responsible for the privacy policies of other companies. Time Out recommends you review the privacy policy of any website that you visit.
 
- **How do we keep data secure?**
+2.5              Please also note that where Time Out makes available chat rooms, forums, message boards, and news groups any personal information that you disclose in these areas becomes public information and you should  **exercise caution**  when deciding to disclose any information on them.
 
-timeout.com/hk has security measures in place to protect against the loss, misuse and alteration of the information under timeout.com/hk's control. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All newsletters from this site allow you to opt out of further mailings. You can also opt out of further emails other than service emails which are an integral part of our service, such as purchase confirmations, invoice emails, and customer notices such as those relating to data management and similar purposes.
+3   M **arketing and commercial use**
 
-We use appropriate physical, electronic and managerial security measures to try to prevent that personal data from being accessed by unauthorised persons and to ensure that you may input personal data safely. This means that sometimes we may ask for proof of identity before we disclose personal data to you.
+3.1              When you gave us your information, you will have been offered the opportunity to sign up to our  **marketing communications** , as well as  **marketing from other companies**  we do business with.
 
-Only aggregate statistics about the number of users and their traffic patterns will be given to advertisers.
+3.2              If you have agreed to marketing from other companies via us, we are happy to provide you with a list of those companies.  Please see ‘ **Contact Us** ’ below.
 
-Individual user details will not be passed on without prior consent. If timeout.com/hk ever requests that you volunteer additional information, such as financial data or age (in an online survey, for example) your response will always be voluntary and this data will only be used as an aggregate of data in conjunction with users of timeout.com/hk as a whole.
+3.3              You can  **subscribe to or unsubscribe from**  our marketing communications at any time. All marketing emails will contain a link to opt out of further communications from the Website.  If you make a purchase via the Website  **the assumption may be made**  that you will be interested in similar products and you may receive emails with information about these products. For the avoidance of doubt you  **cannot opt out of service emails**.
 
- **Requests for Personal Information**
+4    **Sharing**
 
-Under the PDPO, any individual has the right to request access to and correction of his or her personal data held by us. In accordance with the terms of the PDPO, Time Out Hong Kong has the right to charge a reasonable fee for the processing of any data access request.
+We will only share information under the following circumstances:
 
-To obtain a copy of the personal information Time Out Hong Kong holds about you and to contact timeout.com/hk regarding this policy, please address your requestby post to The Data Protection Officer, Rubicon Communications Ltd, Time Out Hong Kong, Room 1002, 194-204 Johnston Road, Wanchai Commercial Centre, Wan Chai, Hong Kong, enclosing your cheque for HK$100 payable to Rubicon Communications Limited.
+  *  **With our company group**
+  *  **With government, law enforcement agencies and regulatory bodies** ** ** when we consider the disclosure to be fair, reasonable and legal.
+  *  **With credit reference agencies**  when we need to,  **companies for marketing purposes,** ** ** and ** ** **service providers**.
 
- **Your Consent**
 
-By using our site, you consent to our privacy policy.
 
-## Personal Information Collection Statement
+5    **Security**
 
-This constitutes the Personal Information Collection Statement of Time Out Hong Kong ("timeout.com/hk" ,"the Website") which is operated by Rubicon Communications Limited ("our", "us" and "we"). Set out below is information that explains our practices about the way your personal data are collected and used in accordance with the Personal Data Privacy Ordinance (PDPO).
+5.1              We take the security of your information very seriously, and have  **controls and processes**  to minimise the risk of a data breach occurring, though you must take responsibility when visiting  **other websites** , even if following a link to them from our website.
 
- **What information do we collect?**
+5.2              In the event that a breach does occur, we will take  **appropriate steps**  to notify you if you are, or could be, affected and will make all efforts to minimise the impact.
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+5.3              We use some companies to process information which are based overseas and outside Europe.  We ensure that they have  **checks and controls**  in place to keep your information safe.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.
+6    **Your Information**
 
- **What do we use your information for?**
+6.1              What personal information is being collected?
 
-Any of the information we collect from you may be used in one of the following ways: 
+6.1.1                  This is  **information that can identify you**. For example, your:
 
-• To process transactions
+(a)                name and address
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+(b)                email address
 
-• To send periodic emails
+(c)                 telephone number
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order. If you have opted in, we may send you newsletters and related marketing or promotional materials.
+(d)                payment card information.
 
- **Use of Personal Data in Direct Marketing**
+6.1.2                  If you are merely visiting the  **public areas**  of the Website,  **we do not collect any personal information**  about you, however, we may automatically collect information about your visits, such as browsing patterns. Information collected in this way does not reveal your contact details or any type of personal information. This information is only used in  **aggregate form**  to analyse, manage and develop the Website and is not linked to any individual.
 
-We intend to use your personal data in direct marketing, and we may not so use your personal data unless we have received your consent (which includes an indication of no objection to the intended use).
+7    **How we collect personal information**
 
-We would like to use your name and contact details (such as telephone number, email address and/or correspondence address) for marketing the following services, products and promotional events through various communication means such as direct-mail, email, telephone, SMS, printed matter, newsletter, brochure and leaflets. The services, products and promotional events include:
+7.1              We collect personal information from  **information supplied by you**. Including the details provided by you:
 
-1 products and services offered by our co-branding partners and service providers of Time Out Hong Kong;
+7.1.1                  if you choose to fill out any reader surveys, enter a competition, apply for an offer or make a purchase from our online shop, you will be asked to supply some information about yourself, including your name, address, phone number and email address;
 
-2 promotions on food, wine and beverages, or entertainment, leisure, and sports or similar events of Time Out Hong Kong;
+7.1.2                  on registration together with information we learn about you from your use of our service and your visits to the Website and other sites accessible from it. We also collect information about the transactions you undertake including details of payment cards used;
 
-3 other services, products and events relating to Time Out Hong Kong.
+7.1.3                  in connection with information you provide when giving us feedback or completing profile forms; and
 
-If you object to our use of your personal data for the relevant direct marketing purposes, please SELECT THE BOX "disagree" indicating your OBJECTION to receiving direct marketing materials in the relevant part of the form. If you SELECT THE BOX "agree", you agree that we may use your personal data for the relevant direct marketing purposes.
+7.1.4                  when you click on advertisements to measure interest and inform advertisers as to how many users have seen or clicked on their ads.
 
-You may, at any time without charge, choose to opt-out from us using your personal data for direct marketing by writing to us by post to The Data Protection Officer, Rubicon Communications Ltd, Time Out Hong Kong, Room 1002, 194-204 Johnston Road, Wanchai Commercial Centre, Wan Chai, Hong Kong.
+7.2              Time Out also uses  **demographic and preference information**  to allow advertising banners on the Website to be targeted, in the aggregate, to the users for whom they are most pertinent.
 
- **Data Access/Correction Requests**
+7.3              If you enter a competition you should  **read the terms and conditions**  of that promotion which will confirm how we will use any personal information submitted as part of the entry to the competition. By entering a competition or applying for an offer you may  **give permission for Time Out to pass your details**  to any third party sponsor of the competition / offer so they may contact you in the event that you win the competition or qualify for the offer.
 
-Under the PDPO, any individual has the right to request access to and correction of his or her personal data held by us.  In accordance with the terms of the PDPO, Time Out Hong Kong has the right to charge a reasonable fee for the processing of any data access request.
+7.4    **Information that we may buy**
 
-To obtain a copy of the personal information Time Out Hong Kong holds about you and to contact timeout.com/hk regarding this policy, please address your requestby post to The Data Protection Officer, Rubicon Communications Ltd, Time Out Hong Kong, Room 1002, 194-204 Johnston Road, Wanchai Commercial Centre, Wan Chai, Hong Kong, enclosing your cheque for HK$100 payable to Rubicon Communications Limited.
+7.4.1                  If we  **purchase information on you**  from another company, such as marketing lists, we promise to take all the necessary checks to make sure your information was collected legally.
+
+7.4.2                  We may also  **purchase profile information**  from other companies to better understand our customers and our market.  This helps us to provide you with  **better suited products and services**.
+
+8    **Cookie**
+
+8.1              The Website may also use  **cookie and tracking technology**  depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Website, and understanding how visitors use the Website. Cookies can also help  **customise the Website**  for visitors. Time Out uses cookies to track user usage on the Website. Time Out uses ad servers (such as DoubleClick) to serve advertisements on the Website. Ad servers  **use cookies to help target relevant ads**  to users. To find out more about our use of cookies and information-gathering practices follow this link to the [Cookie Policy](http://www.timeout.com/london/cookie-policy).
+
+8.2              Personal information  **cannot be collected**  via cookies and other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information. “Cookies” are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser.
+
+8.3              We may also use uses cookies for a number of  **other purposes** , for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for improving and monitoring visitor’s experiences mapping and to enable traffic monitoring.
+
+8.4              Non-registered visitors of the site are sent  **anonymous cookies**  to keep track of their browsing patterns and build up a demographic profile. In addition, any visitor who has clicked on a Website advertisement on another site that links to the Website will be sent anonymous cookies that will allow us to  **analyse advertising effectiveness and manage our relationship with affiliate sites**.
+
+8.5              Whilst you do not need to allow your browser to accept cookies in order to browse much of our web site or to access many of our services, you must have cookies enabled if you wish to shop online at any of our stores or access any areas reserved for registered users. Most browsers allow you to  **turn off the cookiefunction.**  However, some interactive features of the Website may not work if cookies are disabled. Cookies can be disabled in your browser by following the instructions found at: <http://www.allaboutcookies.org/manage-cookies>.
+
+9    **Why is personal information being collected?**
+
+9.1              We collect personal information for  **a number of reasons**. It helps us tailor and personalise your experience of using the Website and enables us to send you relevant information about products or services that may be of interest to you.
+
+9.2              The information you provide is used to  **fulfil your specific request**  unless you give us permission to use it in another manner, for example:
+
+9.2.1                  to add you to one of our mailing lists;
+
+9.2.2                  to communicate with you;
+
+9.2.3                  to provide you with the services you have requested;
+
+9.2.4                  to personalise our service to you; and
+
+9.2.5                  to send you offers and news about Time Out Group products and services or those of other carefully selected companies which we think may be of interest to you. Your information may be passed to and used by all Time Out licensees and affiliates.
+
+9.3              Time Out collects  **aggregate user information**  to sell sponsorships on the Website to advertisers and to monitor customer traffic patterns such as the number of users to the Website, the pages visited and the length of visit which enables us to improve the service we provide.
+
+9.4              From time to time we may enter into a commercial arrangement with another company that is not owned by us to provide additional features. Time Out may also, from time to time, use third party suppliers to provide part of our service to you. Any personal information that you provide when signing up on a co-branded page may be shared with our third party partner.
+
+9.5              We may also use and disclose information in aggregate (so that no individual customers are identified) for  **marketing and strategic development purposes**  and aggregate cookie and tracking information may be shared with third parties.
+
+9.6              In some circumstances we may share your personal information with service providers who are based in countries  **outside the European Economic Area**  whose laws provide for a different standard of protection for your personal information than that provided under UK Law.
+
+9.7              The Website cooperates with all  **law-enforcement enquiries**  and reserves the right to disclose personally identifying or aggregate information to detect and prevent fraud and in connection with any legal demand for such information.
+
+9.8              If you choose to post messages, reviews, comments or other content on the Website we will collect that information you provide to us.  We retain this information as necessary to  **resolve disputes, provide customer support and troubleshoot problems**  as permitted by law.
+
+9.9              We may share information with governmental agencies or other companies assisting us in  **fraud prevention**  or investigation. We may do so when:
+
+9.9.1                  permitted or required by law; or,
+
+9.9.2                  trying to protect against or prevent actual or potential fraud or unauthorised transactions; or
+
+9.9.3                  investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
+
+9.10           Save as explained above and subject to the provisions below Time Out will not pass on your individual user details to third parties without asking for explicit permission.
+
+10    **How do we keep personal information secure?**
+
+10.1           We have  **security measures**  in place to protect against the loss, misuse and alteration of the information under the Website’s control. Only  **authorised employees, agents and contractors**  (who have agreed to keep information secure and confidential) have access to this information.
+
+10.2           We use  **appropriate physical, electronic and managerial security measures**  to try to prevent that personal information from being accessed by unauthorised persons and to ensure that you may input personal information safely. This means that sometimes we may ask for proof of identity before we disclose personal information to you.
+
+10.3           Only  **aggregate statistics**  about the number of users and their traffic patterns will be given to advertisers.
+
+10.4           Individual user details will not be passed on without prior consent. If the Website ever requests that you volunteer additional information, such as financial data or age (in an online survey, for example) your response will always be voluntary and this data will only be used as an aggregate of data in conjunction with users of the Website as a whole.
+
+10.5           Despite these efforts, the Website  **cannot guarantee**  that a hacker will not obtain access to communications between users and the Website. We will do our very best to avoid a breach but sometimes these events are unavoidable.  Our promise to you is that if they do happen, we will ensure that the impact on you is as minimal as it can be.
+
+10.6           If we discover that the  **security of your personal information**  has been breached and it could adversely affect you - and we have the means to let you know - we will do so as quickly as possible.  If we can, we will tell you how the breach occurred, its nature, the  **steps we have taken**  to rectify its adverse effects and the steps you can take. We will provide you with details of who you can contact here if you have any queries and details of the regulator – the Information Commissioner's Office – should you want to speak to them.
+
+11    **Your rights**
+
+11.1           For a copy of your information
+
+To  **obtain a copy**  of the personal information Time Out holds about you and to contact us regarding this Privacy Policy by post please address your request to The Legal Team, Time Out Group, 4th Floor, 125 Shaftesbury Avenue, London, WC2H 8AD, enclosing your cheque or postal order for £10 payable to Time Out England Limited.
+
+11.2           To correct your information
+
+We want to make sure that your personal information is  **accurate and up to date**. To protect your personal information, please contact us at [privacy@timeout.com](mailto:privacy@timeout.com).
+
+12    **The Data Protection Act**
+
+Time Out England Limited is registered as a  **Data Controller**  under the terms of the Data Protection Act 1998 and we ensure we comply with all the protection the Act affords to you. Our registration number is ZA078189.
+
+13    **Contact**
+
+13.1           If you have a  **question, complaint or query**  around how we use your information, please contact us at [privacy@timeout.com](mailto:privacy@timeout.com).
+
+13.2           We will try respond to you within 72 hours.
+
+13.3           If you have a complaint regarding the use of your information by us, you can also complain to the regulator, the Information Commissioner's Office.
