@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630111707id_/http%3A//www.broadway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223053648id_/http%3A//www.broadway.com/privacy-policy) for the most accurate reproduction.*
 
-# Broadway.com Privacy Policy
+# Privacy Policy
 
 **1\. Who We Are.** The John Gore Organization, Inc. (“JGO”), and its affiliated companies, are the premier producer and distributor of live-theater in North America (“Us”, “We”, “Our”). JGO’s key assets include Broadway Across America ([www.broadwayacrossamerica.com](http://broadwayacrossamerica.com/)) and Broadway Across Canada ([www.broadwayacrosscanada.ca](http://broadwayacrosscanada.ca/)), Our theatrical touring business, and Broadway.com, Our live-theater information and ticket website. 
 
@@ -92,9 +92,9 @@ B. _Affiliate and Third Party Communications_. From time-to-time, You may be pro
 
 13\. **Contacting Us Regarding Our Sites**. If You have any questions concerning this Policy, Our privacy practices or Your PII, You may send them by e-mail to privacy@broadway.com. Please note that e-mail communications will not necessarily be secure; accordingly You should not include credit card information or other sensitive information in Your e-mail correspondence with Us. You must send any official correspondence to: 
 
-The John Gore Organization, Inc.   
+The John Gore Organization, Inc.   
 1619 Broadway, 9th Floor   
-New York, New York 10019   
+New York, New York 10019   
 Attention: General Counsel 
 
 14\. **Your California Privacy Rights**. If You are a California resident, You have the right to request information about how We share certain categories of personal information with third parties. California law gives You the right to send Us a request at a designated address to receive the following information: 
