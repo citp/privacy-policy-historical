@@ -1,46 +1,81 @@
-> *The following text is extracted and transformed from the asiasoftsea.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219174558id_/http%3A//privacy-policyonline.com/%3Ftmp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiasoftsea.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223180042id_/http%3A//www.asiasoftsea.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Asiasoft
 
-Updated: April 20, 2009
+Asiasoft Online (“we” and “us”, as the case may be) takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-Your privacy is important to us, so we have created the following Privacy Policy to let you know what information we collect when you visit our web sites and when we serve advertisements on our network of websites, why we collect it and how it is used.
+### **What this Privacy Policy Covers**
 
-Please read this privacy policy carefully since by visiting this site you agree to be bound by the terms and conditions of this Privacy Policy and our website Terms and Conditions.
+  * This Privacy Policy covers our treatment of personally identifiable information that we collect when you are on our various games’ websites, and when you use our services. This policy also covers our treatment of any personally identifiable information that our business partners share with us.
+  * This policy does not apply to the practices of companies that we do not own or control, or to people whom we do not employ or manage.
 
-During your visit to the Site, we and/or our third party vendors may collect certain information, as follows.  
 
 
-## Personally Identifiable Information
+### **Information Collection and Usage**
 
-We do not collect "Personally Identifiable Information" or"PII" on any of our websites.  PII means any information that may be used to identify an individual, including first and last name, physical address, email address, or telephone number.
+  * We collect personally identifiable information when you register for Asiasoft Passport or Playpark game account, when you use Asiasoft Online products or services, when you visit games’ web pages, and when you enter each game. We may also receive personally identifiable information from our business partners.
+  * Personal information is any information about you that you have provided to us including but not limited to the following: Name (b) Identity card/ birth certificate/ passport details (c) Contact details (including telephone number and email address) (d) Date of birth (f) Gender (g) Nationality (h) Personal opinions from feedback and response to survey
+  * We automatically receive and record information on our server logs from your browser including your IP address, page visited and amount of time spent on each page.
+  * We receive and record information when you play our games including your Internet Protocol (IP) address, login time and actions done.
+  * We use these information for three general purposes: to customise the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products.
 
-## Non-Personally Identifiable Information
 
-We automatically receive and record anonymous information that your browser sends whenever you visit our website. We use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, one or more cookies that may uniquely identify your browser, and responses by a web surfer to an advertisement delivered by us. This information may be stored on our systems for about one year. We use technology, including technology from its third party advertising vendors, which includes cookies, "web beacons" and/or "action tags." A "cookie" is a small text file stored by your browser on your computer when you visit our Network. A "web beacon" or "action tag" is a small image (usually 1x1 pixel) embedded in a web page or email. We use cookies, web beacons and action tags to collect non-personally identifiable data to provide better and more relevant services and messages to that user. Cookies, web beacons and action tags permit us to recognize users and avoid repetitive requests for the same information.
 
-As a rule, non-personally identifiable information is anonymous and is not used to identify a specific person.
+### **Information Sharing and Disclosure**
 
-Web surfers may elect not to provide non-personally identifiable information by following the cookie opt-out procedures set forth below.
+  * We may use your personal information to contact you for marketing purpose from time to time. This may include mail, email and text messages. If you do not wish to receive such messages, you may opt out of these marketing messages at any time by unsubscribing at [here](https://passport.asiasoftsea.com/general/ap_UnsubscribeNewsletter.aspx)
+  * We do not sell your personal information to any third party.
+  * We will only disclose your personal information to any party, including third parties, on a need-to-know basis. Access to your personal information will only be provided to them for the purpose of performing specified functions. We will require these third party service providers to ensure that the personal information disclosed to them are kept confidential and secured.
+  * When required by law, we may disclose your personal information to the authorities when requested.
+  * We find that your actions on our web sites and games violate our User Abuse Policy and Terms and Conditions of Asiasoft Passport or Playpark game account during first registration or any of our usage guidelines for specific products or services.
 
-## Personally identifiable information
 
-We do not collect PII.
 
-## Non-personally identifiable information
+### **Cookies**
 
-We may use your non-personal information in order to better target advertisements, to provide aggregate reporting to advertisers and clients, and to improve our advertising systems and products. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content.  We may also share non-personally identifiable information with our subsidiaries and third party partners for similar use. 
+  * We may set and access Asiasoft Online [cookies](http://info.yahoo.com/privacy/sg/yahoo/cookies/) on your computer.
+  * We allow other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to our cookies.
 
-We do not collect PII.
 
-We employ commercially reasonable security measures to ensure the security of all data. We cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission of information, we make commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-## Non-personally identifiable information
+### **Ability to Edit Your Account Information and Preferences**
 
-Our advertising partners may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) and work with industry leading companies to address important privacy and consumer protection issues in online advertising.
+  * You may access and correct to your personal information by logging into your Asiasoft Passport or Playpark game account. It is important to keep your password secured to avoid unauthorised access.
 
-If you prefer not to receive behavioral ads you may opt-out of this anonymous ad targeting. Please note that if you opt-out ad companies may continue to collect non-personal information in connection with ad serving for limited reporting and auditing purposes. Examples of these include but are not limited to reporting overall advertising performance, geographic activity, and other similar analyses.  Most browsers will accept cookies unless you change your browser settings to refuse them and opt-out of the use of cookies and those of our third party advertising technology vendors. For more information on cookies and how to manage and delete them, please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
 
-We are very sensitive to the issue of children's privacy and make every effort to protect the privacy of children using the Internet. Our website, products, and services are not developed for or directed at children under 13. For that reason, we does not knowingly collect or maintain information on the websites from persons under 13 years of age. If you are under 13 years of age, please do not use or access the websites at any time or in any manner.
 
-We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.  For all other changes, it is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of this website constitutes your agreement to this Privacy Policy and any updates.
+### **How we store your personal information**
+
+  * Your personal information is stored in our database. We provide high level security and controls to protect your personal information against unauthorised access. Your personal information is retained as long as the purpose for which it was collected remains and until it is no longer necessary for legal purpose.
+
+
+
+### **Security**
+
+  * Your Asiasoft Passport or Playpark game account Information is password-protected for your privacy and security.
+  * In certain areas we use industry-standard SSL-encryption to protect data transmissions.
+
+
+
+### **Changes to this Privacy Policy**
+
+  * We may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our web pages. You agree that such posting will constitute sufficient and adequate notice to you of the changes.
+  * You agree that your continued use of our products or services after such amendment will constitute your acceptance of and agreement to be bound by the modified policy.
+
+
+
+### **Questions or Suggestions or Issues**
+
+  * We are secured under GlobalSign Certification Authority ([www.globalsign.com](https://www.globalsign.com/en/)). This certification applies to all English-language sites under the AsiasoftSEA.com domain.
+  * For any enquiry pertaining to handling of your Personal Data maintained with us, you may contact our Data Protection Officer (DPO) through the following channels: 
+    * **Email:**  
+[dpo@asiasoft.net](mailto:dpo@asiasoft.net) (Please indicate in the subject heading “Personal Data Protection”)
+    * **Phone:**  
+6291 6129 (Operating Hours: 9.00am to 6.00pm daily except weekends and public holidays)
+    * **Post:**  
+Asiasoft Online Pte Ltd  
+20 Kallang Avenue, #06-00 Pico Creative Centre, 339411  
+Attention: Data Protection Officer (DPO)  
+Our DPO may get in touch with you if further information or clarification is required.
+
+
