@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sundirect.in privacy policy that was archived on 2017-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170608232220id_/http%3A//www.sundirect.in/privacyandpolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sundirect.in privacy policy that was archived on 2017-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171223142022id_/http%3A//www.sundirect.in/privacyandpolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -19,6 +19,40 @@
     
 
     <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+
+    
+
+    <script>
+        //        $(document).ready(function() {
+        //            setTimeout(function() { $("#myModal").modal(); }, 60000);
+        //            //For Modal align Page Center
+        //            function alignModal() {
+        //                var modalDialog = $(this).find(".modal-dialog");
+
+        //                // Applying the top margin on modal dialog to align it vertically center
+        //                modalDialog.css("margin-top", Math.max(0, ($(window).height() - modalDialog.height()) / 2));
+        //            }
+        //            // Align modal when it is displayed
+        //            $(".modal").on("shown.bs.modal", alignModal);
+
+        //            // Align modal when user resize the window
+        //            $(window).on("resize", function() {
+        //                $(".modal:visible").each(alignModal);
+        //            });
+
+        //        });
+        function Redirect() {
+
+            window.open("https://docs.google.com/forms/d/e/1FAIpQLSc99aXU6NJ5YE6v5nsViSnBP7mKK33WzDAkrQC47YjpBjLLEg/viewform", "_blank");
+            return false;
+        }
+        function closeWindow() {
+            $("#myModal").hide();
+            $('.modal-backdrop').hide();
+        }
+    </script>
+
+    
 
     <script type="text/javascript">
 
@@ -125,7 +159,7 @@
 
     <script>
         jQuery(function($) {
-            var roles = ['Toll Free No. 1800 123 7575', 'Toll Free No. 1800 200 7575', '24x7 helpline No. 7601012345'];
+            var roles = ['Toll Free No. 1800 123 7575','24x7 helpline No. 7601012345'];
             // var roles = ['Toll Free No. 1800 200 7575', 'Tamil Nadu – 0431 3940757', 'Andhra Pradesh – 040 39407575', 'Karnataka – 0821 - 3940757', 'Kerala – 0484 3940757', 'ROI – 011 39407575'];
             //used to determine which is the next roles to be displayed
             var counter = 0;
@@ -512,7 +546,7 @@
         <div class="header">
             <div class="container">
                 <header>
-        	<div class="col-sm-2"><a href="#" class="scroll-top"><img src="images/logo.png" class="logo" alt="sundirect_logo"></a></div>
+        	<div class="col-sm-2"><a href="index.aspx" class="scroll-top"><img src="images/logo.png" class="logo" alt="sundirect_logo"></a></div>
             
             <div class="col-sm-6">
                 <div class="col-sm-12">
@@ -701,6 +735,29 @@
             Sun Direct TV Private Limited, CIN: U92132TN2005PTC055398, Registered Office: Murasoli
             Maran Towers, 73, MRC Nagar Main Road,MRC Nagar Chennai- 600 028, Tel : 044- 4467
             6767 FAX: 044 – 4067 9191, Email: info@sundirect.in</div>
+    </div>
+    
+    <div class="modal fade bs-example-modal-sm" id="myModal" style="display: none" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-sm">
+            <div class="modal-content">
+                <div class="modal-header bg-warning" style="background-color: #d31674">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title" style="text-align: center" id="myModalLabel">
+                        Website Feedback
+                    </h4>
+                </div>
+                <div class="modal-body text-success" style="text-align: center" id="errorinfo">
+                    <div style="color: #494e56">
+                        kindly leave us your feedback with us !..</div>
+                    <br>
+                    <button type="submit" data-dismiss="modal" class="btn btn-primary" onclick="return Redirect()">
+                        <i class="fa fa-save"></i><span>Yes</span></button>
+                    <button type="button" class="btn btn-warning" data-dismiss="modal">
+                        <i class="fa fa-refresh"></i><span>No</span></button>
+                </div>
+            </div>
+        </div>
     </div>
 
 
