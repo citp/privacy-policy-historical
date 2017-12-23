@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buy-cheap-likes.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614110748id_/http%3A//www.buy-cheap-social.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buy-cheap-likes.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223105702id_/http%3A//www.buy-cheap-social.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Buy-Cheap-Social.com
 
