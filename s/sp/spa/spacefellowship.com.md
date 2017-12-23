@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacefellowship.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302205251id_/https%3A//www.spacefellowship.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacefellowship.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223020359id_/https%3A//www.spacefellowship.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | International Space Fellowship
 
@@ -38,7 +38,7 @@ Our users will occasionally receive newsletters or e-mails with information on l
 
 ## Service Announcements
 
-On rare occasions, it is necessary to send out a strictly service-related announcement, if, for instance, our service is temporarily suspended for maintenance. Generally, users may not opt-out of these communications, though they can [deactivate](https://www.spacefellowship.com/myplace/settings/account/close) their account. However, these communications are not promotional in nature. 
+On rare occasions, it is necessary to send out a strictly service-related announcement, if, for instance, our service is temporarily suspended for maintenance. Generally, users may not opt-out of these communications, though they can [deactivate](https://spacefellowship.com/myplace/settings/account/close) their account. However, these communications are not promotional in nature. 
 
 ## Legal Disclaimer
 
@@ -56,7 +56,7 @@ You are responsible for the security of your usernames and passwords. Make sure
 
 ## Questions
 
-Any questions concerning this Privacy Policy or to report abuse please [click here](https://www.spacefellowship.com/contact) to contact us. 
+Any questions concerning this Privacy Policy or to report abuse please [click here](https://spacefellowship.com/contact) to contact us. 
 
   
  
