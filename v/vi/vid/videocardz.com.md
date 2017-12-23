@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videocardz.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120035746id_/http%3A//videocardz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videocardz.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223161035id_/https%3A//videocardz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VideoCardz.com
 
@@ -39,7 +39,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at .
 
  **Terms and Conditions**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://videocardz.com](http://videocardz.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://videocardz.com](https://videocardz.com/)
 
  **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page.
