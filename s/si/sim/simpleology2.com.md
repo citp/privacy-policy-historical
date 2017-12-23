@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleology2.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630212407id_/http%3A//www.simpleology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleology2.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223121411id_/http%3A//www.simpleology.com/privacy.php) for the most accurate reproduction.*
 
 # simple•ology : The Simple Science of Getting What You Want
 
@@ -44,8 +44,8 @@ If you fail to receive a satisfactory response from the support desk, you can se
 **If by post:**
 
 Construct Zero, Inc.  
-1001 Bayhill Dr. Suite 200  
-San Bruno, CA 94066  
+4830 Impressario Ct.  
+Las Vegas, NV 89149  
 USA
 
 **If by phone:**
