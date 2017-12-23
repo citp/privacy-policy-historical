@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leanbellybreakthrough.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614113350id_/http%3A//leanbellybreakthrough.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanbellybreakthrough.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223011040id_/http%3A//leanbellybreakthrough.com/privacy.html) for the most accurate reproduction.*
 
 # Lean Belly Breakthrough
 
