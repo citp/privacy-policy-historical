@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the softperfect.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215084014id_/https%3A//www.softperfect.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softperfect.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223150738id_/https%3A//www.softperfect.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At SoftPerfect, your security and privacy is of the utmost importance to us. This policy describes how we collect, use and protect your personal information.
 
-## Information
+## Contact information
 
-We collect basic contact information that you provide when subscribing to newsletter or filling in a contact form. This information is used for administrative and identification purposes only, and will not be shared with our partners or third parties.
+We collect basic contact information that you provide when you contact us. This information is used for administrative purposes only, and is not shared with our partners or third parties.
 
 ## General information
 
-We also collect general, non-personal information about visitors to our website. This information is collected for creating a broad picture of the visitors population and is not focused on any one individual. It is used to continually refine our products and identify the most popular areas of the website.
+We also collect general, non-personal information about visitors to our website. This information is collected for creating a broad picture of our visitors and is not focused on any one individual. It is used to continually refine our products and services.
 
-## Credit card purchases
+## Purchases
 
-If you use a credit card to purchase a SoftPerfect product, both your credit card number and your personal details are encrypted as they traverse the Internet. Your credit card number is not kept or recorded by SoftPerfect. It is passed directly to the credit card company for processing the purchase of the product(s). In this respect, buying a product from SoftPerfect is similar to a credit card purchase at any store.
+When you purchase a product from us, both your personal data and payment details, including credit card number where applicable, are encrypted as they traverse the Internet.
 
-## Third-party advertisements
+We do not keep or record your credit card number. It is passed directly to the secure payment gateway for processing the purchase. Your other details are kept in a secure database for administrative purposes, so that we can help you recover your licence key if you lose it, or provide technical support.
 
-We use third-party advertising companies to serve ads on our website. These companies may use information (not including your private information like your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like to know more about this practice and your choices about not having this information used by these companies, [click here](http://www.google.com/policies/technologies/ads/).
+## E-mails and marketing
+
+We never send any unsolicited or marketing e-mails. Only occasionally, once a year or so, we may e-mail you about the product you purchased.
