@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostctr.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210044946id_/http%3A//www.boostmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostctr.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223090040id_/http%3A//www.boostmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BoostMedia.com
 
