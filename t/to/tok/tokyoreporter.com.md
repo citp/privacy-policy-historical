@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyoreporter.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610154910id_/http%3A//www.tokyoreporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyoreporter.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223095848id_/http%3A//www.tokyoreporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Tokyo Reporter
 
@@ -58,7 +58,7 @@ The Tokyo Reporter has the discretion to update this privacy policy at any time.
 
 ### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This privacy policy was created by [PrivacyPolicies.com](http://privacypolicies.com/)
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This privacy policy was created by PrivacyPolicies.com
 
 ### Contacting us
 
