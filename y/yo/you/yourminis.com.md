@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yourminis.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620002608id_/http%3A//about.aol.com/aolnetwork/aol_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourminis.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223114019id_/http%3A//about.aol.com/aolnetwork/aol_pp) for the most accurate reproduction.*
 
 # AOL Privacy
 
-Oath, part of the Verizon family of companies, consists of over 50 digital and mobile [brands](http://oath.com/brands) globally, including HuffPost, Yahoo News, Yahoo Sports, Tumblr, and AOL, as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini.
+Oath, part of the Verizon family of companies, consists of over 50 digital and mobile [brands](http://oath.com/our-brands/) globally, including HuffPost, Yahoo News, Yahoo Sports, Tumblr, and AOL, as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini.
 
-Below are highlights of the full [Oath Privacy Policy](http://privacy.aol.com/privacy-policy/), which applies to the collection and use of information from any device used to access or connect to Oath branded or affiliated websites, services, or software that link to this Privacy Policy.
+Below are highlights of the full [Oath Privacy Policy](http://privacy.aol.com/privacy-policy/), which applies to the collection and use of information from any device used to access or connect to Oath branded or affiliated websites, services, or software that link to this Privacy Policy. Para leer este documento en español haz clic [aquí](http://privacy.aol.com/privacidad/).
 
 Similarly, the [Yahoo Privacy Policy](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm) will apply on Yahoo branded sites and affiliated products, services, and technologies that link to the Yahoo Privacy Policy. If there is a conflict between the Oath Privacy Policy and the Verizon or Yahoo privacy policies, the Oath Privacy Policy will apply when you are on an Oath product, service, or brand site that links to this policy and the Yahoo Privacy Policy will apply on Yahoo branded product, service, technology, or sites that link to the Yahoo policy. Additional privacy information is available in the [Verizon Privacy Policy](http://www.verizon.com/about/privacy/).
 
