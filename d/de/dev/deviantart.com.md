@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the deviantart.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330224150id_/http%3A//about.deviantart.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deviantart.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223110931id_/https%3A//about.deviantart.com/policy/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - DeviantArt
+# Privacy Policy | DeviantArt
 
 Revision date: November 25, 2015
 
 DeviantArt respects your privacy.
 
-This Privacy Policy applies to our web sites, including [www.deviantart.com](http://www.deviantart.com/), [www.shop.deviantart.com](http://www.shop.deviantart.com/), [www.DreamUp.com](http://dreamup.com/), [sta.sh](http://sta.sh/), DA-Connect, and our DeviantArt mobile applications (collectively, the **“DeviantArt Sites”** or **“Sites”** ). This Privacy Policy explains what information we collect through the Sites, how we use that information, and what choices you have. The Sites and our services available via the Sites are collectively called the “ **Services**.”
+This Privacy Policy applies to our web sites, including [www.deviantart.com](https://www.deviantart.com/), [www.shop.deviantart.com](https://shop.deviantart.com/), [www.DreamUp.com](http://dreamup.com/), [sta.sh](https://sta.sh/), DA-Connect, and our DeviantArt mobile applications (collectively, the **“DeviantArt Sites”** or **“Sites”** ). This Privacy Policy explains what information we collect through the Sites, how we use that information, and what choices you have. The Sites and our services available via the Sites are collectively called the “ **Services**.”
 
 Please take a few moments to read this Privacy Policy. By accessing the DeviantArt Sites, you acknowledge that this Privacy Policy applies to only the Services. 
 
@@ -20,7 +20,7 @@ If you create your Account using your login credentials from a third party site 
 
 We collect and use your PII when you register for special services (e.g., the Print Program), sign up for e-mail newsletters and purchase products or services. We use your PII to help customize advertising and content available on the DeviantArt Sites, to send you information about products and services that may be of interest to you and/or to conduct research for internal purposes. Some features, services, and promotional opportunities that we offer may also ask you to submit PII to participate.
 
-If you have uploaded Artist Materials (as defined in and pursuant to the Submission Policy, which can be found here - <http://about.deviantart.com/policy/submission/>), you have also authorized DeviantArt to use some of your publicly visible PII for distribution, advertising and promotional purposes.
+If you have uploaded Artist Materials (as defined in and pursuant to the Submission Policy, which can be found here - <https://about.deviantart.com/policy/submission/>), you have also authorized DeviantArt to use some of your publicly visible PII for distribution, advertising and promotional purposes.
 
 _Non-Personally Identifiable Information._ Our servers automatically record certain information about how a person uses our Services (we refer to this information as **“Log Data”** ), for both Account holders and non-Account holders (either will be referred to as a **“User”** ).
 
@@ -89,7 +89,7 @@ The DeviantArt Sites contain links to other websites and/or services. This Priva
 If you have questions about this Privacy Policy or our policies, please contact us at:
 
 DeviantArt, Inc.  
-7095 Hollywood Blvd #788   
+7095 Hollywood Blvd #788  
 Hollywood, CA 90028  
 Phone: 888-4DEVART (888-433-8278)  
 Email: [help@deviantart.com](mailto:help@deviantart.com)
