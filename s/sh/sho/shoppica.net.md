@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppica.net privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604174526id_/http%3A//shoppica.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppica.net privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223195455id_/http%3A//shoppica.net/privacy-policy) for the most accurate reproduction.*
 
 # 
 
