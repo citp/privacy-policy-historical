@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the gipl.in privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202094035id_/http%3A//gipl.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gipl.in privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223065315id_/http%3A//www.gipl.in/Detail/Content/3333) for the most accurate reproduction.*
 
-# Guj Info Petro Limited (GIPL) - Total IT Solutions Provider
+# Privacy Policy
 
-**Privacy Statement**  
 The below sets out the practices of The GSPC Group as characterized by Group Companies. (The GSPC Group) as of April, 2008 to the information which is gathered and distributed through the following websites : The GSPC Group (cumulatively known as "website"). 
 
 **With respect to information collected** For each visitor to the website, our server does not recognize any information regarding your domain or e-mail address. Sessions of visitors to the website are monitored, but the user remains anonymous. 
