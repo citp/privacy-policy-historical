@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidice.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531162946id_/http%3A//www.solidice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidice.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223173843id_/http%3A//solidice.com/privacy-policy) for the most accurate reproduction.*
 
 # SolidICE
 
