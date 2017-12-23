@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uoregon.edu privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609063243id_/http%3A//registrar.uoregon.edu/records-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uoregon.edu privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224005204id_/http%3A//registrar.uoregon.edu/records-privacy) for the most accurate reproduction.*
 
 # Student Records Privacy Policy | Office of the Registrar
 
@@ -14,7 +14,7 @@ The University of Oregon is committed to the privacy and security of our student
 
 As a current or former university student, [The Family Educational Rights and Privacy Act (FERPA)](http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html "The Family Educational Rights and Privacy Act \(FERPA\)") affords you certain rights regarding your education records. They are:
 
-  * The right to inspect and review your records. You may request to review your records by submitting a written request to the University Registrar or other school official having custody of such records (see: [Procedure for Requesting Access to Student Education Records](https://web.archive.org/sites/all/files/pdf/procedure-for-requesting-access-to-student-education-records.pdf "Procedure for Requesting Access to Student Education Records \(PDF\)"));
+  * The right to inspect and review your records. You may request to review your records by submitting a written request to the University Registrar or other school official having custody of such records (see: [Procedure for Requesting Access to Student Education Records](https://web.archive.org/sites/all/files/pdf/procedure-for-requesting-access-to-student-education-records_1.pdf "Procedure for Requesting Access to Student Education Records \(PDF\)"));
   * The right to seek amendment of your records which you believe are inaccurate, misleading, or otherwise in violation of your privacy rights. Requests for amendment of records must be in writing and must describe the specific portions of specific records that you wish to have amended, text or instructions as to the change desired, and the reasons why the change is justified;
   * The right to restrict the disclosure of Directory Information; and
   * The right to file a complaint with the Department of Education's Family Policy Compliance Office concerning alleged failures by the university to comply with the requirements of FERPA.
@@ -189,7 +189,7 @@ Consent Forms for Photos and Videos
 
 | Use when taking photos and videos of students for use on the web and in print. Use either waiver when producing content involving students.  
 [Consent Form for the Common Application](https://web.archive.org/sites/all/files/pdf/Common-Application-Consent-to-Release-Education-Records.pdf "Consent Form for the Common Application") | For students requesting a [Common Application](https://web.archive.org/current-students/common-application "Common Application") "Transfer Registrar Report" to be completed by the Registrar's Office.  
-[Procedure for Requesting Access to Student Education Records](https://web.archive.org/sites/all/files/pdf/procedure-for-requesting-access-to-student-education-records.pdf "Procedure for Requesting Access to Student Education Records \(PDF\)") | For students requesting to inspect and review education records.  
+[Procedure for Requesting Access to Student Education Records](https://web.archive.org/sites/all/files/pdf/procedure-for-requesting-access-to-student-education-records_1.pdf "Procedure for Requesting Access to Student Education Records \(PDF\)") | For students requesting to inspect and review education records.  
   
 ## Student Records Privacy Policy For Parents
 
@@ -339,7 +339,7 @@ Faculty and staff are responsible for protecting the identity of students and ke
 
 To read the complete University of Oregon Student Records Policy, refer to the [Full text of the University of Oregon Student Records Policy](http://policies.uoregon.edu/student-records-1 "Full text of the University of Oregon Student Records Policy").
 
-Sue Eveland, University Registrar, is the designated Custodian of Student Records. Questions about the Student Records Policy or the information described above should be forwarded to Ms. Eveland (seveland@uoregon.edu) or (541) 346-3195.
+Julia Pomerenk, University Registrar, is the designated Custodian of Student Records. Questions about the Student Records Policy or the information described above should be forwarded to Ms. Pomerenk (jpom@uoregon.edu) or (541) 346-3195.
 
 ### FERPA Quiz
 
@@ -409,4 +409,4 @@ Consent Forms for Photos and Videos
 
 | Use when taking photos and videos of students for use on the web and in print. Use either waiver when producing content involving students.  
 [Consent Form for the Common Application](https://web.archive.org/sites/all/files/pdf/Common-Application-Consent-to-Release-Education-Records.pdf "Consent Form for the Common Application") | For students requesting a [Common Application](https://web.archive.org/current-students/common-application "Common Application") "Transfer Registrar Report" to be completed by the Registrar's Office.  
-[Procedure for Requesting Access to Student Education Records](https://web.archive.org/sites/all/files/pdf/procedure-for-requesting-access-to-student-education-records.pdf "Procedure for Requesting Access to Student Education Records \(PDF\)") | For students requesting to inspect and review education records.
+[Procedure for Requesting Access to Student Education Records](https://web.archive.org/sites/all/files/pdf/procedure-for-requesting-access-to-student-education-records_1.pdf "Procedure for Requesting Access to Student Education Records \(PDF\)") | For students requesting to inspect and review education records.
