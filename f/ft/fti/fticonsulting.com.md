@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fticonsulting.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616174503id_/http%3A//www.fticonsulting.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fticonsulting.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223185241id_/http%3A//www.fticonsulting.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Information Security | FTI Consulting
 
@@ -112,7 +112,7 @@ FTI Consulting reserves the right to make changes to this Website Privacy Policy
 
 If you have questions or concerns regarding this policy or FTI Consulting’s personal data processing policies, please contact FTI Consulting at: [privacy@fticonsulting.com](mailto:privacy@fticonsulting.com).
 
-## EU-US AND SWISS-US PRIVACY SHIELD POLICY
+## EU-US AND SWISS-US PRIVACY SHIELD POLICY*
 
 **EU-US and Swiss-US  Privacy Shield**
 
