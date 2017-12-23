@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penguin.co.uk privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620153503id_/https%3A//www.penguinrandomhouse.co.uk/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguin.co.uk privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223052554id_/https%3A//www.penguinrandomhouse.co.uk/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
