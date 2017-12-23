@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezinemarketingcenter.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505145412id_/http%3A//www.ezinemarketingcenter.com/drmani_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinemarketingcenter.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223174226id_/http%3A//www.ezinemarketingcenter.com/drmani_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,6 +26,4 @@ However the internet is an ever evolving medium. We may change our privacy polic
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
-Any questions or clarifications with respect to this Policy can be sent to our company at info(at)ezinemarketingcenter.com or by snail mail addressed to our company (Privacy Policy) "95, 13th Main Rd., Chennai 600040" 
-
-[Home](http://www.ezinemarketingcenter.com/) | [Blog](http://www.ezinemarketingcenter.com/blog/) | [Articles](http://www.ezinemarketingcenter.com/articles/) | [Ezine](http://www.ezinemarketingcenter.com/ezine/) | [Guides](http://www.ezinemarketingcenter.com/infopreneurguides/) | [Forum](http://www.ezinemarketingcenter.com/mentoring/) | [eStore](http://www.ezinemarketingcenter.com/estore/)
+Any questions or clarifications with respect to this Policy can be sent to our company at info(at)ezinemarketingcenter.com or by snail mail addressed to our company (Privacy Policy) "1072, 16th Main Rd., Madras 600102" 
