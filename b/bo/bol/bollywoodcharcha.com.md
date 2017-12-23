@@ -1,114 +1,59 @@
-> *The following text is extracted and transformed from the bollywoodcharcha.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810212336id_/http%3A//bollywoodcharcha.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodcharcha.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223213141id_/http%3A//www.bollywoodcharcha.com/privacy) for the most accurate reproduction.*
 
-# 
+# Bollywood Charcha
 
-Fair Information Practices 
+## **Privacy Policy**
 
-Fair information  
-Practices
+We appreciate your visit to Bollywoodcharcha’s privacy policy section. This section lists the way your data is collected and used by the website; you are requested to read it carefully. The submission of your personal information is not at all required in order to browse Bollywoodcharcha.com, you can surf this site without revealing any of your personal info.
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
+We want you to:
 
-
- **What personal information do we collect from the people that visit our blog, website or app?**
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your coockies or other details to help you with your experience.
-
- **When do we collect information?**
-
-We collect information from you when you never or enter information on our site.
-
- **How do we use your information?**
-
-  
+  * Feel secure while using our website
+  * Feel comfortable sharing your personal information with us
+  * Contact us for your queries
 
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
- **•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+**Information we collect-**
 
- **•** To improve our website in order to better serve you.
+We can receive your information automatically through our web server, which includes computer-identification, information obtained from “cookies”, alternate email ID, the domain server through which you access our service, and Ip address.
 
- **How do we protect visitor information?**
+We may also collect following personal information about you: Name, Mobile phone and other contact details, ZIP/Postal code, financial information, the links you click on our site and the number of times you accessed our page. In case you connect with Bollywoodcharcha via social networking sites like Facebook, Twitter, Google+ etc we can store your personal information you have chosen to display in that networks. Further, in case you can send or receive personal messages to another user of Bollywoodcharcha, we can record all messages that you send or receive.
 
-  
+**What About IP addresses?**
 
+We may use your personal information or data we collect in connection with your use of Bollywoodcharcha in order to implement, prevent, investigate, identity theft, fraud, or multiple accounts to prevent making abusive comments. In order to get the such information we may collect data like IP (internet protocol) address, your ISP (internet service provider), which browser you are using to visit mobiblip.com like Google Chrome plus we also capture time taken by you to surf on Bollywoodcharcha and the number of pages you visited on the site.
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+**Sharing and use of personal information-**
 
-We do not use an SSL certificate
+Although we use industry’s best standard measures to protect your personal information in our database we cannot have control over the other users with whom you share your user profile and information.
 
- **•** We only provide articles and information, and we never ask for personal or private information
+We may use the user information:-
 
- **Do we use 'cookies'?**
-
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
- **•** Keep track of advertisements.
-
- **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
-
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
+  * For betterment of our website
+  * To improve the quality of our content and products information
+  * To rectify the correct info or content given on the site, if any
 
 
-If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
 
-However, you can still place orders .
+However, we do not disclose your personal information to others without your approval or in the occurrence of some specific incidents:-
 
- **Third Party Disclosure**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
-
- **Third party links**
-
-We do not include or offer third party products or services on our website.
-
- **Google**
-
-  
+  * In order to take any action against suspected illegal activities/ violation against our terms and provisions
+  * To enforce or imply terms and conditions and privacy policies
+  * To protect our reputation, property and our rights/ rights of third party and personal safety of the users
+  * We may also disclose personal information if it is required by the law to do so in a good belief because it is necessary to disclose such info to counter court orders or miscellaneous legal processes.
+  * In a case of transferring or selling the website to other company so user’s info will be transferred too. We may disclose non-identifiable data to third parties which don't include your name, email address or contact number.
 
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
 
-We have not enabled Google AdSense on our site but we may do so in the future.
+**Cookies:**
 
- **COPPA (Children Online Privacy Protection Act)**
+When you use your browser in order to visit or surf any website usually small text files can take place in your computer as browser’s history or program data subfolders which are called as ‘Cookie’. A cookie can be of two types- one which expires when you close the browser and another is which stays on your computer until you delete them manually by following your browser help directions. So like another company our readers will get cookies by us or by companies which are running their ads on our website. Cookies can help us and advertisers to analyse and identify users on our website and it also helps us to serve content to match your preferences.
 
-  
+**Policy update:**
 
+In any case, if we make any changes or update our privacy policies or its provisions we will inform you by posting on our page/website so that you are aware of the change and that updated policies will be implemented with immediate effect or as soon as it is posted on the site.
 
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+**Contact Us:**
 
-We do not specifically market to children under 13.
-
- **Fair Information Practices**
-
-  
-
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
- **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via in site notification
-
- **•** Within 1 business day
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
- **Contacting Us**
-
-  
-
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-/www.bollywoodcharcha.com
-
-mumbai
-
-india
-
-admin@bollywoodcharcha.com
-
-Last Edited on 2014-09-26
+**Have any questions, queries, suggestions or any kind of feedback about Bollywoodcharcha, you can visit our “Contact us” section.**
