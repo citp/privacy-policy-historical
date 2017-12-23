@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vesseltracking.net privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618042245id_/http%3A//www.vesseltracking.net/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vesseltracking.net privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223160614id_/http%3A//www.vesseltracking.net/article/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy for www.disasteraccidents.com
+# Privacy policy for www.vesseltracking.net | Vessel Tracking
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  _info@vesseltracking.net_.
 
