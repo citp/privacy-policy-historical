@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health24.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041351id_/http%3A//www.health24.com/About/Privacy-Policy-20150720-6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health24.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223073207id_/http%3A//www.health24.com/About/Privacy-Policy-20150720-6) for the most accurate reproduction.*
 
 # Privacy Policy | Health24
 
@@ -127,7 +127,7 @@ We may update this privacy policy from time to time. Any changes we may make to 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@media24.com](mailto:privacy@media24.com).  
 
 
-[](http://www.health24.com/)
+[](https://www.health24.com/)
 
 
 
