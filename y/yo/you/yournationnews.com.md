@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yournationnews.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521122954id_/http%3A//yournationnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yournationnews.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223105707id_/http%3A//yournationnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ KOM LLC does not knowingly collect personal identifiable information from childr
 
 **Unsubscribe or Opt-Out**
 
-All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to support@yournationnews.com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
 
 **Links to Other Web Sites**
 
