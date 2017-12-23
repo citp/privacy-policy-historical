@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the freedompop.com privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628151535id_/https%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freedompop.com privacy policy that was archived on 2017-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171223100509id_/https%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths async-hide"><head>
     
+
 
 
 
@@ -61,7 +62,7 @@
         
                 
             
-        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P6GSD2"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P6GSD2"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
             var basePath = "/";
             funnelName = ("organic".length > 0) ? "organic" : "organic";
             experience = "";
@@ -79,9 +80,9 @@
 
     
     
-        <!--[if gt IE 8]><!--><link rel="stylesheet" href="/static/css/account.css?v=12951"><!--<![endif]-->
+        <!--[if gt IE 8]><!--><link rel="stylesheet" href="/static/css/account.css?v=14463"><!--<![endif]-->
         <!--[if lte IE 8]>
-        <link rel="stylesheet"  href="/static/css/ie-account.css?v=12951" />
+        <link rel="stylesheet"  href="/static/css/ie-account.css?v=14463" />
         <![endif]-->
     
 
@@ -137,7 +138,7 @@
         
             
             
-                <script type="text/javascript" src="/static/js/freedompop_scripts.min.js?v=12951"></script>
+                <script type="text/javascript" src="/static/js/freedompop_scripts.min.js?v=14463"></script>
             
         
 
@@ -224,6 +225,9 @@
                 $('.modalWideTrigger').click(function(){
                     $('#modal').addClass('modalWide');
                 });
+                $('.lightBlueWideModalTrigger').click(function(){
+                    $('#modal').addClass('lightBlueWideModal');
+                });
                 $('.vasModalTrigger').click(function(){
                     $('#modal').addClass('vasModal');
                 });
@@ -234,14 +238,16 @@
                     $('#modal').addClass('blueFrameModal');
                 });
                 $('.modalClose').click(function(){
-                    $('#modal').removeClass('helpModal vasModal modalWide blueFrameModal');
+                    $('#modal').removeClass('helpModal lightBlueWideModal vasModal modalWide blueFrameModal');
                 })
             });
 
             $(document).ready(function(){
                 console.log("Website version is US ");
+                
 
                 
+                    
                     
                     
                     
@@ -253,7 +259,7 @@
                 
 
                
-
+                
                 var sprintAlertType = CookieUtil.readCookie("sprintAlert");
                 if(sprintAlertType){
                     $('header').before('<div id="sprintAlertContainer"></div>');
@@ -262,8 +268,6 @@
                 }
 
                 
-
-
             });
         </script>
 
@@ -300,19 +304,35 @@
 
 
 
-   <!-- Facebook Pixel Code -->
-   <script type="text/javascript">
-      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-              n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-         n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-         t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-              document,'script','//connect.facebook.net/en_US/fbevents.js');
 
-      fbq('init', '1632439763645693');
-      fbq('track', "PageView");
-   </script>
-   <noscript><img alt="" height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1632439763645693&ev=PageView&noscript=1"/></noscript>
-   <!-- End Facebook Pixel Code -->
+   
+       
+       
+           <!-- Facebook Pixel Code -->
+           <script>
+               !function(f,b,e,v,n,t,s)
+               {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                   n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+                   if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+                   n.queue=[];t=b.createElement(e);t.async=!0;
+                   t.src=v;s=b.getElementsByTagName(e)[0];
+                   s.parentNode.insertBefore(t,s)}(window, document,'script',
+                   'https://connect.facebook.net/en_US/fbevents.js');
+               fbq('init', '1632439763645693');
+               fbq('track', 'PageView');
+           </script>
+           <noscript><img height="1" width="1" style="display:none"
+                          src="https://www.facebook.com/tr?id=1632439763645693&ev=PageView&noscript=1"
+           /></noscript>
+           <!-- End Facebook Pixel Code -->
+       
+
+
+   
+
+
+
+
 
 
 
@@ -320,6 +340,7 @@
 
 <!-- Put all the javascript and styles that's supposed to go in the head tag, above this line -->
 </head><body class="account"><div id="reactivateContainer" style="display:none;"><a href="/modals/reactivate_account.htm" id="reactivateAccountModal" class="btn modalTrigger"></a></div>
+<div id="reactivateHighUsageContainer" style="display:none;"><a href="/modals/reactivate_high_usage_account.htm" id="reactivateHighUsageAccountModal" class="btn modalTrigger"></a></div>
 <div id="upgradeWimaxContainer" style="display:none;"><a href="/modals/upgrade_wimax_account.htm" id="upgradeWimaxAccountModal" class="btn modalTrigger"></a></div>
 <div id="termsofserviceChange" style="display:none;"><a href="/static/modals/termsChange.htm" id="termsChangeModal" class="btn modalTrigger"></a></div>
 <div id="incompatibleCountryModalContainer" style="display:none;"><a href="/modals/incompatibleCountry.htm" id="incompatibleCountryModal" class="btn modalTrigger"></a></div>
@@ -350,24 +371,32 @@
 })(window,document,'script','dataLayer','GTM-P6GSD2');</script>
 <!-- End Google Tag Manager -->
 
-<!-- Google Code for REMARKETING SEARCH [NOT SUB] -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
 
-/* <![CDATA[ */
-    var google_conversion_id = 998083401;
-    var google_conversion_label = "qDE-CPeLggcQyZb22wM";
-    var google_custom_params = window.google_tag_params;
-    var google_remarketing_only = true;
-    /* ]]> */
+    
+        
+        
+            <!-- Google Code for Remarketing Tag -->
+            <!--------------------------------------------------
+            Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+            --------------------------------------------------->
+            <script type="text/javascript">
+                /* <![CDATA[ */
+                var google_conversion_id = 836165886;
+                var google_custom_params = window.google_tag_params;
+                var google_remarketing_only = true;
+                /* ]]> */
+            </script>
+            <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+            </script>
+            <noscript>
+                <div style="display:inline;">
+                    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/836165886/?guid=ON&amp;script=0"/>
+                </div>
+            </noscript>
+        
+    
 
 
-</script>
-<div style="position:absolute;"><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script></div>
-<noscript>
-    <img height="1" width="1" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/998083401/?value=0&amp;label=qDE-CPeLggcQyZb22wM&amp;guid=ON&amp;script=0"/>
-</noscript>
 <noscript>
     <div id="noscript" style="color:red;background-color:yellow;font-size:22px;text-align:center;">
         This site is dependent on Javascript. Please enable it before continuing.
@@ -385,8 +414,11 @@
         
     </div>
       
-    <!-- Affiliate Window Master Tag -->
-    <script src="https://www.dwin1.com/6657.js" type="text/javascript" defer="defer"></script>
+
+    
+
+    
+
 </header>
 <div id="tntClickTrack"></div>
 
@@ -799,11 +831,8 @@
 			<li id="privacyNavLink"><a href="privacy.htm">Privacy Policy</a></li>
 			<li id="servicePlanNavLink"><a href="service_plan_terms.htm">Service Plan, Equipment, and Payment Terms</a></li>
 			<li id="termsNavLink"><a href="terms.htm">Terms of Service</a></li>
-		</ul>
-		<h3> Sitios de Interés </h3>
-		<ul>
-			<li><a href="http://www.gob.mx/profeco" target="_blank">PROFECO</a></li>
-			<li><a href="http://www.ift.org.mx/" target="_blank">IFT</a></li>
+			<li id="tradeInProgramTermsNavLink"><a href="trade_in_terms.htm">Trade-In Program Terms and Conditions</a></li>
+			<li id="tradeInPrivacyPolicyNavLink"><a href="trade_in_privacy.htm">Trade-In Program Privacy Policy</a></li>
 		</ul>
 	
 	
@@ -811,6 +840,10 @@
 	</aside>	
     <div class="clear"></div>
 </div>
+
+
+
+
 
 
 
@@ -1000,7 +1033,8 @@
 	</div>
 	<div class="modalContent"></div>
 </div>
-<!-- /modal container -->	
+<!-- /modal container -->
+
 
 
 
