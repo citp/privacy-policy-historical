@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steamcardexchange.net privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627110517id_/http%3A//www.steamcardexchange.net/index.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamcardexchange.net privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223113948id_/http%3A//www.steamcardexchange.net/index.php%3Fprivacy) for the most accurate reproduction.*
 
 # Steam Card Exchange :: Privacy Policy
 
