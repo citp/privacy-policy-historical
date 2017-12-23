@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harman.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623132159id_/http%3A//www.harman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harman.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223211452id_/http%3A//www.harman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harman
 
