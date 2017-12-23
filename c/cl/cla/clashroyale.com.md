@@ -1,76 +1,44 @@
-> *The following text is extracted and transformed from the clashroyale.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630001038id_/http%3A//supercell.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clashroyale.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223083031id_/http%3A//supercell.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy × Supercell
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=9a215360-ce41-49a7-a38e-ce78aad5cec0 "TRUSTe Privacy Certification")
 
-Updated on: 30 June 2016
+Updated on: August 1st 2017
 
-Welcome to Supercell Oy.  Your privacy is important to us.
+**Welcome to Supercell Oy.   Your privacy is important to us.**
 
-Supercell Oy and its affiliates ("Supercell", "us", "our" or "we") are dedicated to protecting the privacy rights of our users ("users" or "you").  This Privacy Policy (the "Policy") describes the ways we collect, store, use, and manage the information, including personal information, that you provide or we collect in connection with our websites, including [www.supercell.com](http://www.supercell.com/), [www.clashofclans.com](http://www.clashofclans.com/), [www.haydaygame.com](http://www.haydaygame.com/), [www.boombeach.com](http://www.boombeach.com/), [www.clashofclans.co.kr](http://www.clashofclans.co.kr/), [www.supercell.co.jp](http://www.supercell.co.jp/) and and [www.supercell.net](http://www.supercell.net/) (the "Sites") or any Supercell game provided on a mobile platform (for example, iOS and Android)(collectively, the "Service").  Please note that the scope of this Policy is limited to information collected or received by Supercell through your use of the Service.  Supercell is not responsible for the actions of third party people or companies, the content of their sites, the use of information you provide to them, or any products or services they may offer.  Any link to those sites does not constitute our sponsorship of, or affiliation with, those people or companies.
+Supercell Oy ("Supercell", "us", "our" or "we") is dedicated to protecting the privacy rights of our users ("users" or "you").  This Privacy Policy (this "Policy") describes the ways we collect, store, use, and manage the information, including personal information, and data that you provide or we collect in connection with our websites, including [www.supercell.com](http://www.supercell.com/), [www.clashofclans.com](http://www.clashofclans.com/), [www.clashroyale.com](http://www.clashroyale.com/), [www.haydaygame.com](http://www.haydaygame.com/), [www.boombeach.com](http://www.boombeach.com/), [www.clashofclans.co.kr](http://www.clashofclans.co.kr/), [www.supercell.co.jp](http://www.supercell.co.jp/) and [www.supercell.net](http://www.supercell.net/) (the "Sites") or any Supercell game provided on a mobile platform (for example, iOS and Android) (collectively, the "Service(s)").  Please note that the scope of this Policy is limited to information and data collected or received by Supercell through your use of the Service.  Supercell is not responsible for the actions of third party people or companies, the content of their sites, the use of information or data you provide to them, or any products or services they may offer.  Any link to those sites does not constitute our sponsorship of, or affiliation with, those people or companies.
 
-By using the Service, you are expressing your agreement to this Policy and the processing of your data, including your personal information, in the manner provided in this Policy.  If you do not agree to these terms, please do not use the Service.
+By using the Service, you are expressing your agreement to this Policy and the processing of your information and data, including your personal information, in the manner provided in this Policy.  If you do not agree to these terms, please do not use the Service.
 
-Supercell has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers information through our sites www.supercell.com, clashofclans.com, haydaygame.com, boombeach.com, clashofclans.co.kr, supercell.co.jp and www.supercell.net and our _Boom Beach_ , _Clash Royale_ , _Clash of Clans_ and _Hay Day_ mobile applications. Supercell's privacy practices on our sites and through our Mobile applications are in compliance with TRUSTe's Privacy certification standards.
+If you have any questions or concerns, please contact us with the information provided in the **Contact Information of Data Controller** section of this Policy.
 
-If you have questions or concerns about our privacy policy or practices, please contact us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at  <https://feedback-form.truste.com/watchdog/request>.
+**Information and Data We Collect from You**
 
-**Information Collection and Use**
+We may collect the following information and data from you:
 
-Supercell collects information as described below.  Supercell's primary goals in collecting and using information is to create your account, provide Services to you, improve our Service, contact you, conduct research and create reports for internal use.  We store information on servers located in the United States via Amazon Web Services and may store information on servers and equipment in other countries.
+  * Contact information (such as name and email address)
+  * Username and password for our community forum
+  * Profile information that you volunteer (such as profile photo, gender, age or birthday, links to profiles on other social networking websites)
+  * Automatically collected data (such as IP Address, your device's operating system, browser type and language)
+  * Mobile device identifiers (such as your unique device ID (persistent/non-persistent, hardware type, medial access control ("MAC") address, international mobile equipment identity ("IMEI"), and your device name
+  * General location information for the purpose of providing you with the correct version of the application
+  * Precise-geo-location information from your mobile device (but only with your express consent)
+  * Game data (such as your interactions with the game and with the other players inside the game via server log files, your player ID) 
+  * Employment information (resume, name, email address, phone number)
 
-In order to use your community forum, you must register and provide a username, password and email address.
 
-If you wish to submit a resume, we provide you the option to upload it to the site and we collect your name, email address and mobile telephone number. We use this information to contact you regarding setting up an interview or to determine if you are qualified for the position in which you applied.
 
-**Supercell's Sites**
+_Tracking Technologies_
 
-While you are browsing Supercell's Sites, your computer's operating system, Internet Protocol (IP) address, access times, browser type and language and referring Web site addresses may be logged automatically.  We may use this information to monitor, develop and analyze your use of the Service.  In addition, we may ask you to submit and we may process data that is personal to you, including but not limited to your name, profile photo, gender, age or birthday, links to your profiles on social networking websites and other third party sites, user names and e-mail and mail addresses.  We may use this information to create a user profile and provide you services.  We may use your email address to contact you about your experience with Supercell Sites and notify you about company news and promotions.  Your gender and birthday may be used to analyze user trends and target certain promotions.  Your mail address may be used if we have merchandise or other physical promotional materials that we want to send to you.  If you no longer wish to receive these types of promotional materials, you may opt-out from receiving them at any time by emailing us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).
+We and our marketing and outsourcing partners, affiliates, or analytics service providers use technologies such as cookies, beacons, scripts, and tags to identify a user's computer/device and to "remember" things about your visit, such as your preferences or a user name and password.  Information contained in a cookie may be linked to your personal information, such as your user ID, for purposes such as improving the quality of our Services, tailoring recommendations to your interests, and making the Service easier to use.  You can disable cookies at any time, although you may not be able to access or use features of the Service. 
 
-**Forums/Private Messages**
+_Other Collection Practices_
 
-Our Web site offers publicly accessible blogs, private messages, or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+The Sites include Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our Sites. These Features may collect your IP address, which page you are visiting on our Sites, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Sites. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-If you choose to use Facebook connect to use our blog or community forums, the information you provide is tied to your Facebook account. You will need to contact Facebook directly in order to request removal of personal information from our blog or community forum.
-
-**Social Media (Features) and Widgets**
-
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
-**iOS and Android Platforms**
-
-When you use any of the Supercell games or applications on a mobile platform, we may collect and record certain information such as your unique device ID (persistent / non-persistent), hardware type, media access control ("MAC") address, international mobile equipment identity ("IMEI"), the version of your operating system ("OS"), your device name, your email address (if you have connected to Facebook or Google+), and your location (based on your Internet Protocol ("IP") address).  This information is useful to us for troubleshooting and helps us understand usage trends.
-
-We may collect your location based information for the purpose of providing you with the correct version of the application and so you may interact with other users of the game.  We will not share this information with any third party without your permission.  If you no longer wish to allow us to track or use this information, you may turn it off at the device level.  Please note, the application may not work properly if we are unable to tell where you are coming from (Country specific). 
-
-In addition, we create a unique user ID to track your use of our Service.  This unique user ID is stored in connection with your profile information to track the Supercell games you are playing.
-
-**Facebook Connect, Game Center and Google+**
-
-You can log in to our site using sign-in services ("SN Service") such as Facebook Connect, LinkedIn, Apple's Game Center, or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name, email address, and resume to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
-We may collect and record information through the SN Service in accordance with the policies and terms of that SN Service.  The information we collect when you connect your user account to an SN Service may include: (1) your name, (2) your SN Service user identification number and/or user name, (3) locale, city, state and country, (4) sex, (5) birth date, (6) email address, (7) profile picture or its URL, and (8) the SN Service user identification numbers for your friends that are also connected to Supercell's game(s).
-
-If you want us to delete the data we receive from Facebook, Game Center or Google+ about you, please contact us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).
-
-**Invite a Friend**
-
-Supercell may offer you the opportunity to invite your contacts from a SN Service (such as your Facebook friends) so that those contacts can be located in Supercell games and/or you can invite them to join you in Supercell games.  Such contact information will be used only for the purpose of sending communications to the addressee.  You or the third party may contact us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com) to request the removal of this information from our database to the extent Supercell stores any of this information.
-
-**Customer Service**
-
-We may collect your email address when you contact our customer service group and we may use that email address to contact you about your gaming experience with Supercell games and notify you about company news and promotions. If you no longer wish to receive certain email notifications you may opt-out at any time by following the unsubscribe link located at the bottom of each communication or by emailing us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).
-
-**Push Notifications**
-
-We may occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you.  You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
-
-**Game Data Collection**
-
-Whenever you play our games, we collect data about all of your interactions with the game and with the other players inside the game via server log files.  This information may be associated with your player ID, IP address or device ID for the purpose of providing you our Services and improving them.  This data is stored within Amazon Web Services. With your permission, we will also collect your exact location so that we are able to match you with other players in your area.
-
-**Other Collection**
+Supercell may offer you the opportunity to invite your contacts from a Social Network Service (such as your Facebook friends) so that those contacts can be located in Supercell games and/or you can invite them to join you in Supercell games.  Such contact information will be used only for the purpose of sending communications to the addressee.  You or the third party may contact us to request the removal of this information from our database to the extent Supercell stores any of this information.
 
 We may also acquire information from you through (1) your access and participation in message boards on the Service, (2) your participation in surveys regarding the Service or (3) your participation in a sweepstakes or contest through the Service.
 
@@ -78,94 +46,139 @@ We may provide you the opportunity to participate in a sweepstakes or contest th
 
 We use this information to notify winners and award prizes, to monitor traffic or personalize the Service.  We may use a third party service provider to conduct these sweepstakes or contests; that company is prohibited from using your users' personal information for any other purpose.
 
-**Tracking Technologies**
+**How We Use Your Information**
 
-We and our marketing and outsourcing partners, affiliates, or analytics service providers use technologies such as cookies, beacons, scripts, and tags to identify a user's computer/device and to "remember" things about your visit, such as your preferences or a user name and password.  Information contained in a cookie may be linked to your personal information, such as your user ID, for purposes such as improving the quality of our Services, tailoring recommendations to your interests, and making the Service easier to use.  You can disable cookies at any time, although you may not be able to access or use features of the Service. 
-
-We may feature advertisements served by third parties that deliver cookies to your computer/device so the content you access and advertisements you see can be tracked.  Since the third party advertising companies associate your computer/device with a number, they will be able to recognize your computer/device each time they send you an advertisement.  These advertisers may use information about your visits to our Service and third party sites and applications in order to measure advertisement performance and to provide advertisements about goods and services of interest to you. This Policy does not apply to, and we are not responsible for the data collection practices of these third party advertisers, and we encourage you to check their privacy policies to learn more about their use of cookies and other technology.
-
-You may click on the following link: [http://www.supercell.com/partner-opt-out](http://supercell.com/en/partner-opt-out/) for information on how to opt-out of the use of cookies for the delivery of more relevant advertising.
-
-**Mobile Analytics**
-
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your device. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personal information you submit within the mobile application.
-
-**Third Party Services**
-
-Our services may contain third party tracking tools from our service providers, examples of which include Google Analytics and MobileAppTracking by Tune. Such third parties may use cookies, APIs, and SDKs in our services to enable them to collect and analyze user information on our behalf. The third parties may have access to information such as your device identifier, MAC address, IMEI, locale (specific location where a given language is spoken), geo-location information, and IP address for the purpose of providing their services under their respective privacy policies. Our privacy policy does not cover the use of tracking tools from third parties.  We do not have access or control over these third parties.
-
-Please refer to our list of analytics partners within the Services and for more information on how to opt out at: [http://www.supercell.com/partner-opt-out](http://supercell.com/en/partner-opt-out/)
-
-**Ad Networks**
-
-We may feature advertising within our Service.  The advertisers may collect and use information about you, such as your Service session activity, device identifier, MAC address, IMEI, geo-location information and IP address.  They may use this information to provide advertisements of interest to you.  Please refer to our list of partners within the Services and for more information on how to opt out at: [http://www.supercell.net/partner-opt-out.](http://supercell.com/en/partner-opt-out/)
-
-In addition, you may see our games advertised in other services.  After clicking on one of these advertisements and installing our game, you will become a user of our Service.  In order to verify the installs, a device identifier may be shared with the advertiser.
-
-**How We Use Information**
+Supercell's primary goals in using information are to create your account, provide Services to you, improve our Service, contact you, conduct marketing and research and create reports for internal use.  We store information on servers located in the United States via Amazon Web Services and may store information on servers and equipment in other countries.
 
 We use information collected through our Service for purposes described in this Policy or disclosed to you in connection with our Service. For example, we may use your information to:
 
-  * create game accounts and allow users to play our games;
-  * identify and suggest connections with other Supercell users;
-  * operate and improve our Service;
-  * understand you and your preferences to enhance your experience and enjoyment using our Service;
-  * respond to your comments and questions and provide customer service;
-  * provide and deliver products and services you request;
-  * send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
-  * communicate with you about promotions, rewards, upcoming events, and other news about products and services offered by Supercell and our selected partners;
-  * enable you to communicate with other users; and
-  * link or combine it with other information we get from third parties, to help understand your preferences and provide you with better services.
+  * Create game accounts and allow users to play our games;
+  * Identify and suggest connections with other Supercell users;
+  * Operate and improve our Service;
+  * Understand you and your preferences to enhance your experience and enjoyment using our Service;
+  * Respond to your comments and questions and provide customer service;
+  * Provide and deliver products and services you request;
+  * Deliver advertising and marketing and promotional information to you;
+  * Send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
+  * Communicate with you about promotions, rewards, upcoming events, and other news about products and services offered by Supercell and our selected partners;
+  * Enable you to communicate with other users; and
+  * Link or combine it with other information we get from third parties, to help understand your preferences and provide you with better services.
 
 
 
-**Disclosure of Your information**
+_Website Services_
+
+While you are browsing the Sites, your computer's operating system, Internet Protocol (IP) address, access times, browser type and language and referring Web site addresses may be logged automatically.  We may use this information to monitor, develop and analyze your use of the Service. 
+
+We may ask you to submit and we may process data that is personal to you, including but not limited to your name, profile photo, gender, age or birthday, links to your profiles on social networking websites and other third party sites, user names and e-mail and mail addresses.  We may use this information to create a user profile and provide you Services. 
+
+We may use your email address to contact you about your experience with the Sites and notify you about Supercell news and promotions.  Your gender and birthday may be used to analyze user trends and target certain promotions. 
+
+_Forums and Private Messages_
+
+Our Sites offer publicly accessible blogs, private messages, or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, please contact us.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+If you choose to use Facebook connect to use our blog or community forums, the information you provide is tied to your Facebook account. You will need to contact Facebook directly.
+
+_Customer Service_
+
+We may use your email address when you contact our customer service group to contact you about your gaming experience with Supercell games and notify you about company news and promotions. 
+
+If you no longer wish to receive certain email notifications you may opt-out at any time by following the unsubscribe link located at the bottom of each communication or by emailing us with the contact information provided in this policy.
+
+Your mailing address may be used if we have merchandise or other physical promotional materials that we want to send to you.  If you no longer wish to receive these types of promotional materials, you may opt-out from receiving them at any time by emailing us with the contact information provided in this policy.
+
+_Third Party Services_
+
+Our Services may contain third party tracking and data collection and analytics tools from our service providers, examples of which include Google Analytics and MobileAppTracking by Tune. Such third parties may use cookies, APIs, and SDKs in our Services to enable them to collect and analyze user and device related data and information on our behalf. The third parties may have access to and collect data and information about you, such as your device identifier, MAC address, IMEI, locale (specific location where a given language is spoken), geo-location information, IP address, application usage, access and session times, applications present on the device or in use at a particular time on the device, and your viewing of and interactions with advertising, for the purpose of providing their services, including, for example, enabling, providing and delivering advertising as described in further detail below..   
+
+The privacy policies of our service providers may include additional terms and disclosures regarding their data collection and use practices and tracking technologies, and we encourage you to check those privacy policies to learn more about their data collection and use practices, use of cookies and other similar tracking technologies.
+
+_Applications for Employment_
+
+If you wish to submit a resume, we provide you the option to upload it to the site and we collect your name, email address and mobile telephone number. We use this information to contact you regarding setting up an interview or to determine if you are qualified for the position in which you applied. 
+
+**Mobile Applications**
+
+When you use any of the Supercell games or applications on a mobile platform, we may record certain information and data, such as your application usage, access, session times and in-app purchases, your unique device ID (persistent / non-persistent), hardware type, media access control ("MAC") address, international mobile equipment identity ("IMEI"), the version of your operating system ("OS"), your device name, your email address (if you have connected to Facebook or Google+), and your location (based on your Internet Protocol ("IP") address).  This information is useful to us for troubleshooting and helps us understand usage trends and improve and optimize the Services and your user experience, and may also be utilized for other purposes, such as interest based advertising as described elsewhere in this Policy.
+
+In addition, we create a unique user ID to track your use of our Service.  This unique user ID is stored in connection with your profile information to track the Supercell games you are playing.
+
+We may occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you.  You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
+
+With only your express consent, we or our partners may collect your precise location based information (GPS) for the purpose of matching you with opponent players in your local area, to tailor content specific to your area (such as event announcements), to show your location to other players, and to match your device location to certain points of interest for purposes of interest based advertising as described elsewhere in this Policy. Other players in our game may then be able to see that you are available to play a game when you participate in specific areas of our games. Please note, participation in this part of the Service is not a requirement for all gameplay in our games, but it may be a requirement for example to participate in local gameplay with others in your area. 
+
+**Advertising**
+
+We may feature advertisements in our games and elsewhere, both ourselves and with the help of our partners, and collect and use data and information about you and your device (including the presence of applications on the device or in use at a particular time on the device) in connection with such advertising, including your viewing of and interaction with any such advertising, in order to deliver, enable, target and optimize advertising and promotional information that is more relevant to you and is based on your game and device usage, online behavior and interests (this is commonly referred to as online behavioral or interest based advertising). We and our partners may also use cookies or similar tracking technologies to track the content you access or your device location for purposes of interest based advertising. The privacy policies of our partners may include additional terms and disclosures regarding  their data collection and use practices and tracking technologies , and we encourage you to check those privacy policies to learn more about their data collection and use practices, use of cookies and other similar tracking technologies.
+
+Advertisers on mobile devices and our third party advertising and analytics partners sometimes collect and use Advertising IDs to enable and optimize advertising. Advertising IDs are non-permanent device identifiers such as the Android advertising ID and/or Apple's ID for advertising. 
+
+These advertisers and third party advertising and analytics partners may collect and use data and information about you, such as your Service session activity, viewing of and interaction with an advertisement, device identifier, MAC address, IMEI, geo-location information and IP address for the purposes of analyzing, tracking and measuring advertisement performance and to provide interest based advertising. 
+
+In addition, you may see our games advertised in other services.  After clicking on one of these advertisements and installing our game, you will become a user of our Service.  In order to verify the installs, a device identifier may be shared with the advertiser or third party advertiser or analytics partner.
+
+**Choices Regarding Ad Targeting and Data Use**
+
+You may click on the following link:[ http://www.supercell.com/partner-opt-out](http://supercell.com/en/partner-opt-out/) for information on how to opt-out of the delivery of interest based advertising as well as certain uses of precise location. Please note, you will still receive generic ads.
+
+You can exercise an opt-out for interest based advertising services on mobile applications by checking the privacy settings of your Android or iOS device and selecting ["limit ad tracking" (Apple iOS)](https://support.apple.com/en-us/HT202074) or "[opt-out of interest based ads" (Android)](https://support.google.com/googleplay/android-developer/answer/6048248?hl=en). If you would like to adjust your choices regarding the use of precise location data, you may also do so via your mobile device settings. 
+
+**Finally,** many of our partner's that enable online behavioral or interest based advertising are members of one or more digital advertising industry self-regulatory programs. You may click below for the Network Advertising Initiative ("NAI") and Digital Advertising Alliance ("DAA") to learn more about targeted or interest based advertising and to opt out of certain targeting programs.
+
+<http://www.networkadvertising.org/choices>  
+<http://www.aboutads.info/choices/>
+
+**How We May Disclose Your Information to Third Parties**
 
 Supercell does not share your personal information except as approved by you or as described below:
 
-  * With your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies.  If you no longer wish to allow us to share your information with third parties, please contact us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).  If you no longer wish to receive such communications from third parties, please contact that third party directly.
-  * Supercell may engage other companies and individuals to perform services on our behalf.  Example of these services include analyzing data and providing customer support.  These agents and service providers may have access to your personal information in connection with the performance of services for Supercell
-  * We may release your information as permitted by law, such as to comply with a subpoena, or when we believe that release is appropriate to comply with the law; investigate fraud, respond to a government request, enforce or apply our rights; or protect the rights, property, or safety of us or our users, or others.  This includes exchanging information with other companies and organizations for fraud protection.
-  * Supercell may share your information in connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of our business to another company.  You will be notified via email and/or notice on our site of any change in ownership or users of your personal information.
+  * Supercell may engage other companies and individuals to perform services on our behalf.  Example of these services include analyzing data and providing customer support.  These agents and service providers may have access to your personal information in connection with the performance of services for Supercell.
+  * We may release your information as permitted by law, such as to comply with a subpoena, or when we believe that release is appropriate to comply with the law; investigate fraud, respond to a government request, enforce or apply our rights; or protect the rights, property, or safety of us or our users, or others.  This includes exchanging information with other companies and organizations for fraud protection. In certain situations, Supercell may be required to disclose personal information in response to lawful requests by public authorities or for local law enforcement requirements.
+  * Supercell may share your information in connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of our business to another company.  You will be notified via email and/or notice on our Sites of any change in ownership or users of your personal information.
   * We may share aggregate or anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties.
 
 
 
-**Changes to the Policy**
+**Accessing, Correcting, and Deleting Your Information**
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+Upon request, we will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our Services, you may correct, update, delete inaccuracies, or delete your personal information by making the change within your account settings or by contacting us.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. We will respond to your access request within a reasonable timeframe.
 
-**Security**
+_Opting Out of Marketing_
+
+You may opt-out of receiving promotional emails from us by following the instructions in those emails by emailing us with the contact information provided in this policy.  If you opt-out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
+
+You may also opt-out of receiving SMS notifications from us, either via SMS or by emailing us.
+
+**Security Safeguards**
 
 Supercell takes reasonable measures to protect your information from unauthorized access or against loss, misuse or alteration by third parties.
 
 Although we make good faith efforts to store the information collected on the Service in a secure operating environment that is not available to the public, we cannot guarantee the absolute security of that information during its transmission or its storage on our systems.  Further, while we attempt to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining access to this information.  We do not warrant or represent that your information will be protected against, loss, misuse, or alteration by third parties. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Access to Personal Information**
-
-If your personal information changes, or if you no longer desire our service, you may correct, update, or delete inaccuracies by making the change within your account settings or by contacting us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).  We will respond to your access request within 30 days.
-
 **Data Retention**
 
-We will retain your information for as long as your account is active or as needed to provide you services.  If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We retain your information for as long as your account is active or as needed to provide you Services.  We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Our Policy Regarding Children**
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to use our Service.  If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address.  No one under the age of 13 may provide any personal information.  In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any information from or about a child under the age of 13, please contact us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).
-
-**Opting Out of Marketing**
-
-You may opt-out of receiving promotional emails from us by following the instructions in those emails by emailing us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).  If you opt-out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
-
-You may also opt-out of receiving SMS notifications from us, either via SMS or by emailing us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).
+We do not knowingly collect or solicit personal information from or direct or target interest based advertising to anyone under the age of 13 or knowingly allow such persons to use our Services.  If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address.  No one under the age of 13 may provide any personal information.  In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any information from or about a child under the age of 13, please contact us.
 
 **International Transfer**
 
-We may transfer information that we collect about you to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. Please note that these countries and jurisdictions may not have the same data protection laws as your own jurisdiction, and we take steps to ensure adequate safeguards are in place to enable transfer of information to the U.S. and elsewhere and the use and disclosure of information about you, including personal information, as described in this Policy.
+We may transfer information that we collect about you to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. Please note that these countries and jurisdictions may not have the same data protection laws as your own jurisdiction, and we take steps to ensure adequate safeguards are in place to enable transfer of information to the U.S. and the use and disclosure of information about you, including personal information, as described in this Policy.
 
-**Contact Information**
+**Changes to This Policy**
+
+We may update this Policy to reflect changes to our data and information privacy practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+**Contact Information of Data Controller**
 
 Supercell Oy (Business ID 2336509-6),  
 Itämerenkatu 11-13, FI-00180 Helsinki, Finland.  
 
-If you have any questions about this Policy, please contact us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).
+If you have any questions or concerns about our data privacy practices, or if you have any requests for resolving issues with your personal information, please contact us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).
+
+**Third Party Dispute Resolution Service**
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
