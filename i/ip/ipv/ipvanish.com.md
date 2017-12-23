@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126143729id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223145731id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - IPVanish VPN
 
@@ -8,16 +8,16 @@ Your privacy is important to us, and we want you to understand what we collect, 
 
 Our Terms of Use, including their limitation on liability, apply to the Privacy Policy. You can read them at [www.ipvanish.com/tos.php](https://web.archive.org/tos.php).
 
-  * Information We Collect
-  * How We Use Your Information
-  * Cookies
-  * Security Measures We Have In Place
-  * Emails
-  * How To Modify Your Personal Information
-  * Children's Privacy
-  * International Users
-  * How To Contact Us
-  * Changes to this Policy
+  * [Information We Collect](https://web.archive.org/privacy-policy.php#1)
+  * [How We Use Your Information](https://web.archive.org/privacy-policy.php#2)
+  * [Cookies](https://web.archive.org/privacy-policy.php#4)
+  * [Security Measures We Have In Place](https://web.archive.org/privacy-policy.php#5)
+  * [Emails](https://web.archive.org/privacy-policy.php#7)
+  * [How To Modify Your Personal Information](https://web.archive.org/privacy-policy.php#8)
+  * [Children's Privacy](https://web.archive.org/privacy-policy.php#9)
+  * [International Users](https://web.archive.org/privacy-policy.php#10)
+  * [How To Contact Us](https://web.archive.org/privacy-policy.php#11)
+  * [Changes to this Policy](https://web.archive.org/privacy-policy.php#12)
 
   
 
