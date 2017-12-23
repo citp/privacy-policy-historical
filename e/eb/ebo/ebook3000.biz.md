@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebook3000.biz privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616212144id_/http%3A//ebook3000.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebook3000.biz privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223215355id_/http%3A//ebook3000.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
