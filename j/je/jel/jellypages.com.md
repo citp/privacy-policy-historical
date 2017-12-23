@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jellypages.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617014740id_/http%3A//jellypages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jellypages.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223045446id_/http%3A//jellypages.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Jelly Pages
 
