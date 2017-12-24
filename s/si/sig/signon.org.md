@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signon.org privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615072011id_/http%3A//petitions.moveon.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signon.org privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224121734id_/http%3A//petitions.moveon.org/privacy.html) for the most accurate reproduction.*
 
 # MoveOn Petitions
 
@@ -84,4 +84,4 @@ MoveOn.org Civic Action may revise or amend this policy at any time at our sole 
 
 ## Contact
 
-If you have any questions about this privacy statement, your personal information, or the practices of this Site, you can [contact us](http://pol.moveon.org/feedback/fb/form.html?tp=suggest). 
+If you have any questions about this privacy statement, your personal information, or the practices of this Site, you can [contact us](https://petitions.moveon.org/feedback.html). 
