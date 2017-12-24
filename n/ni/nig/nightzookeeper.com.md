@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nightzookeeper.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190831id_/http%3A//www.nightzookeeper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nightzookeeper.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224132034id_/http%3A//www.nightzookeeper.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Night Zookeeper
 
@@ -121,7 +121,7 @@ We actively encourage children using the Website to:
 
 **Website Security**
 
-The only way that you will be contacted for personal identifiable information will be through an official email from the Company. If you receive a request for personal information from persons claiming to be the Company please report this directly to [otters@nightzookeeper.com](mailto:otters@nightzookeeper.com)
+The only way that you will be contacted for personal identifiable information will be through an official email from the Company. If you receive a request for personal information from persons claiming to be the Company please report this directly to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4629323223343506282f212e323c29292d23233623346825292b)
 
 **Links To Other Websites**
 
@@ -133,6 +133,6 @@ This policy is being constantly reviewed and updated in order to remain in line 
 
 **Questions**
 
-If you have any questions please contact us at [otters@nightzookeeper.com](mailto:otters@nightzookeeper.com) or send us a letter to Customer Service, Wonky Star Limited, Greenhouse, 49 Green Lanes, London, London N16 9BU, United Kingdom
+If you have any questions please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#99f6ededfcebead9f7f0fef1ede3f6f6f2fcfce9fcebb7faf6f4) or send us a letter to Customer Service, Wonky Star Limited, Greenhouse, 49 Green Lanes, London, London N16 9BU, United Kingdom
 
 That’s it for the legal stuff! Thanks for reading.
