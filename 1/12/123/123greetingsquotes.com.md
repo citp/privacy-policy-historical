@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 123greetingsquotes.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002191843id_/http%3A//123greetingsquotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123greetingsquotes.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224044100id_/http%3A//123greetingsquotes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Best Greetings Quotes 2015
+# Privacy policy - Best Greetings Quotes 2017
 
 **What information do we collect?**
 
