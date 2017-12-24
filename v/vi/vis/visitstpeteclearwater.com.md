@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitstpeteclearwater.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608120002id_/http%3A//www.visitstpeteclearwater.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitstpeteclearwater.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224153322id_/http%3A//www.visitstpeteclearwater.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, mailing address, cookies, use of personal information | Visit St Petersburg Clearwater Florida
 
