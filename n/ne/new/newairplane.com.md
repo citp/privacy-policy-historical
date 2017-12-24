@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newairplane.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629112008id_/http%3A//www.boeing.com/privacy-and-cookie-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newairplane.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224205324id_/http%3A//www.boeing.com/privacy-and-cookie-policy.page) for the most accurate reproduction.*
 
 # Boeing: Privacy and Cookie Policy
 
