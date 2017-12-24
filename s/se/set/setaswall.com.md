@@ -1,60 +1,26 @@
-> *The following text is extracted and transformed from the setaswall.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020034322id_/http%3A//www.setaswall.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setaswall.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224112320id_/http%3A//www.setaswall.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy
 
-The owners and operators of setaswall.com take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
+We take your online privacy seriously, this document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
-  
-**User Accounts**
-
-Membership is an optional part of the setaswall.com web site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features such as (but not limitted to) the ability to submit content, create a list of your own wallpapers, or post comments. 
-
-By creating an account, you are volunteering certain information about yourself that will be stored on our servers. This data includes at a minimum a username, password, and valid email address. Additional information may optionally be added by you to your account profile. Your profile information is public and may appear on our web site, with the exception of your email address and password.
-
-  
-**Personally Identified Data**
-
-We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site. Furthermore, we request that minors and any individuals with limited decision making ability not create an account on this site without the approval and supervision of a guardian. 
-
+**Personally Identified Data**  
+We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site. Furthermore, we request that minors and any individuals with limited decision making ability not create an account on this site without the approval and supervision of a guardian.  
 We make a reasonable attempt to monitor for cases where users post personally identifiable information about other individuals to public portions of the web site and remove the offending material.
 
-  
-**Server Logs**
+**Server Logs**  
+Like most web sites, SetAsWall.com logs web, database, and other server-software usage and access information. This information may include your internet protocol (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
 
-Like most web sites, setaswall.com logs web-, database-, and other server-software usage and access information. This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
+**Cookies**  
+While browsing SetAsWall.com, a small number of text files referred to as “cookies” are created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not guarantee that every feature of SetAsWall.com will function as expected without cookies enabled.
 
-  
-**Cookies**
+**Third-Party Advertisers**  
+SetAsWall.com serves ads provided by a range of third-party advertising networks. The practices of our advertising partners are not directly covered by SetAsWall.com’s privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
-While browsing setaswall.com, a small number of text files referred to as "cookies" may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of setaswall.com will function as expected without cookies enabled.
+– [Google AdSense](http://www.google.com/intl/en/policies/privacy/)
 
-  
-**Third-Party Advertisers**
+**Sharing/Selling of Data**  
+SetAsWall.com does NOT share or sell personally identifiable data to third parties such as direct marketers. We respect your privacy.
 
-In order to cover the costs of providing hd and wide wallpapers as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by setaswall.com's privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
-
-_Google Adsense:_
-
-We present you the following information about Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
-
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-  
-**Sharing/Selling of Data**
-
-Setaswall.com does not share or sell personally identifiable data to third parties such as spammers or direct marketers. We respect your privacy.
-
-  
-**Account Cancellation**
-
-Upon request, your setaswall.com account can be canceled. Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear and include your username, but will not be linked to your profile. After cancellation, you will be not be available for log-in.
-
-  
-**Data Retention**
-
+**Data Retention**  
 The data submitted to and generated by this web site may be copied to additional machines for redundancy and backup purposes.
-
-  
-For any problems or questions don't hesitate to [contact us](http://www.setaswall.com/contact.html).
