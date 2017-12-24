@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avtronaero.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518015507id_/http%3A//avtronaero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avtronaero.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224222800id_/http%3A//avtronaero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Avtron Aerospace
 
