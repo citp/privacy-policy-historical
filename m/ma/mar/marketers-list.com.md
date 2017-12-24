@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketers-list.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205034040id_/http%3A//marketers-list.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketers-list.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224120622id_/http%3A//marketers-list.com/privacy.php) for the most accurate reproduction.*
 
 # Marketers-List!
 
