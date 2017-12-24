@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pny.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621041259id_/http%3A//pny.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pny.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224031937id_/http%3A//www.pny.com/legal/privacy) for the most accurate reproduction.*
 
 # PNY | Privacy Statement
 
