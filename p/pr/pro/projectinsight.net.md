@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the projectinsight.net privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602010350id_/http%3A//www.projectinsight.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectinsight.net privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224021032id_/https%3A//www.projectinsight.net/privacy-policy) for the most accurate reproduction.*
 
 # Project Insight Privacy Statement
 
-Project Insight (collectively, “Project Insight” or “Metafuse” or “Metafuse, Inc.” or “we” or “us” or “our”) has created this privacy statement ("Policy") in order to demonstrate our commitment to customer privacy. Because we gather important information from our visitors and customers, we have established this Policy as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Policy and will provide notification of the change at least thirty (30) business days prior to the change taking effect.
+Project Insight (collectively, "Project Insight" or "Metafuse" or "Metafuse, Inc." or "we" or "us" or "our") has created this privacy statement ("Policy") in order to demonstrate our commitment to customer privacy. Because we gather important information from our visitors and customers, we have established this Policy as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Policy and will provide notification of the change at least thirty (30) business days prior to the change taking effect.
 
-For the purposes of this Policy, our “Services” refer to the Project Insight™ Website, Project Insight SaaS project portfolio and management solution and any connectors to other cloud business applications like the Atlassian’s Jira SaaS, Salesforce.com, Zendesk and others.
+For the purposes of this Policy, our "Services" refer to the Project Insight™ Website, Project Insight SaaS project portfolio and management solution and any connectors to other cloud business applications like the Atlassian's Jira SaaS, Salesforce.com, Zendesk and others.
 
 ## Collected Information
 
@@ -60,7 +60,7 @@ From time to time, we post subscriber testimonials on our website that may conta
 
 ## Referrals
 
-If you choose to use our referral service to tell another person about our Services, we will ask you for that person’s name and email address. We will contact this person inviting him or her to visit our website or speak to us on the phone and will store this information for sending emails, the tracking the success of our referral program and other marketing activities. Referred individuals can opt-out of receiving marketing communications from us by contacting us at [marketing@projectinsight.net](mailto:marketing@projectinsight.net "marketing@projectinsight.net") or following the unsubscribe instructions included in our marketing communications.
+If you choose to use our referral service to tell another person about our Services, we will ask you for that person's name and email address. We will contact this person inviting him or her to visit our website or speak to us on the phone and will store this information for sending emails, the tracking the success of our referral program and other marketing activities. Referred individuals can opt-out of receiving marketing communications from us by contacting us at [marketing@projectinsight.net](mailto:marketing@projectinsight.net "marketing@projectinsight.net") or following the unsubscribe instructions included in our marketing communications.
 
 ## Other Submissions
 
@@ -84,7 +84,7 @@ The Services may contain links to other websites. These websites could contain l
 
 We use the personal information that we collect for a variety of purposes. To
 
-  * Provide, operate, maintain, analyze, improve and promote our Services and tailor our Services to our subscribers’ needs;
+  * Provide, operate, maintain, analyze, improve and promote our Services and tailor our Services to our subscribers' needs;
   * Enable you and your end users to access and use our Services;
   * Process and complete transactions, and send you related information, including purchase confirmations and invoices;
   * Communicate with you, including responding to your comments, questions, and requests; providing customer service and support;
