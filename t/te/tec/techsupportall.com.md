@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsupportall.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625030924id_/https%3A//www.techsupportall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportall.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224124804id_/https%3A//www.techsupportall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech Support All
 
