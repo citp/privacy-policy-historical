@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the siu.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119061429id_/http%3A//policies.siu.edu/policies/webprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siu.edu privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225003135id_/http%3A//policies.siu.edu/policies/webprivacy.php) for the most accurate reproduction.*
 
-# Campus Web Privacy Policy | Policies & Procedures | SIU
+# SIU Web Privacy Policy | Policies | SIU
 
-## SIU Campus Web Privacy Policy Main Content
+## Main Content
 
 It is the policy of Southern Illinois University to respect the privacy of all Web site visitors to the extent permitted by law. The University's main Web server does not collect personal information about visitors.
 
