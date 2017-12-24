@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spsc.gov.pk privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622144405id_/http%3A//spsc.gov.pk/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spsc.gov.pk privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224102300id_/http%3A//spsc.gov.pk/privacy-statement.htm) for the most accurate reproduction.*
 
 # Sindh Public Service Commission
 
@@ -6,7 +6,7 @@ Sindh Public Service Commission is committed to protecting your privacy and deve
 
 #### Collection of your Personal Information
 
-Sindh Public Service Commission collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Sindh Public Service Commission also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. 
+Sindh Public Service Commission collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Sindh Public Service Commission also collects anonymous demographic information, which is not unique to you, such as your cnic, age, gender, preferences, education and professional experience . 
 
 There is also information about your computer hardware and software that is automatically collected by Sindh Public Service Commission . This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Sindh Public Service Commission for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Sindh Public Service Commission Web site.
 
@@ -18,7 +18,7 @@ Sindh Public Service Commission encourages you to review the privacy statements 
 
 Sindh Public Service Commission collects and uses your personal information to operate the Sindh Public Service Commission Web site and deliver the services you have requested. Sindh Public Service Commission also uses your personally identifiable information to inform you of other products or services available from Sindh Public Service Commission and its affiliates. Sindh Public Service Commission may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Sindh Public Service Commission does not sell, rent or lease its customer lists to third parties. Sindh Public Service Commission may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Sindh Public Service Commission may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Sindh Public Service Commission , and they are required to maintain the confidentiality of your information.
+Sindh Public Service Commission does not sell, rent or lease its customer lists to third parties. Sindh Public Service Commission may, from time to time, contact you on behalf of other departments about a particular job/posting that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Sindh Public Service Commission may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Sindh Public Service Commission , and they are required to maintain the confidentiality of your information.
 
 Sindh Public Service Commission does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
@@ -44,4 +44,4 @@ Sindh Public Service Commission will occasionally update this Statement of Priva
 
 ####  Contact Information
 
-Sindh Public Service Commission welcomes your comments regarding this Statement of Privacy. If you believe that Sindh Public Service Commission has not adhered to this Statement, please contact Sindh Public Service Commission at [j_chachar@hotmail.com](mailto:suhail_sarwar21@hotmail.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Sindh Public Service Commission welcomes your comments regarding this Statement of Privacy. If you believe that Sindh Public Service Commission has not adhered to this Statement, please contact Sindh Public Service Commission at [info@hotmail.com](mailto:suhail_sarwar21@hotmail.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
