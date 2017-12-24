@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnersdictionary.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223215320id_/http%3A//learnersdictionary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnersdictionary.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224030104id_/http%3A//www.learnersdictionary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Learner's Dictionary
 
@@ -71,7 +71,7 @@ DoubleClick <http://www.doubleclick.com/privacy/faq.aspx>
 
 Google <http://www.google.com/privacy_ads.html>
 
-SpotXChange [click here](http://www.spotxchange.com/spx_privacypolicy.html#opt_out_link). When you select this option, SpotXchange sets a persistent "opt-out cookie" to prevent information from being uniquely associated with your browser.
+SpotXChange <http://www.spotxchange.com/spx_privacypolicy.html#opt_out_link>. When you select this option, SpotXchange sets a persistent "opt-out cookie" to prevent information from being uniquely associated with your browser.
 
 ValueClick <http://www.valueclickmedia.com/member_privacy.shtml>. We have contracted with ValueClick to monitor certain pages of our site for the purpose of reporting traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, ValueClick and its business partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our visitors. No personally identifiable information is collected by or transferred to any party other than the advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at <http://www.valueclickmedia.com/member_privacy.shtml>.
 
