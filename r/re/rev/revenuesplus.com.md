@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenuesplus.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121112546id_/http%3A//www.worldprofit.com/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuesplus.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224071620id_/http%3A//www.worldprofit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Worldprofit Home Business Experts
 
