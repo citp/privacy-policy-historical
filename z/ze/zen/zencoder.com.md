@@ -1,50 +1,10 @@
-> *The following text is extracted and transformed from the zencoder.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627195119id_/https%3A//www.brightcove.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zencoder.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224121044id_/https%3A//www.brightcove.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Brightcove
 
 [](https://web.archive.org/en/ "Brightcove")
 
 [](https://web.archive.org/en/ "Brightcove")
-
-Solutions __
-
-Proven Video Solutions for Every Business Need
-
-Products __
-
-For Publishers & Broadcasters
-
-For Marketers & Enterprises
-
-Company __
-
-Revolutionizing Online Video for Over a Decade
-
-We'd love to speak to you about your video project. [Talk to us](https://www.brightcove.com/en/contact-sales "Talk to us") any time.
-
-Toll-free from US & Canada
-
-[Login
-
-](https://signin.brightcove.com/)
-
-[Support
-
-](https://support.brightcove.com/en/)
-
-[Events
-
-](https://web.archive.org/en/company/events)
-
-[Blog
-
-](https://web.archive.org/en/blog)
-
-[Careers
-
-](https://web.archive.org/en/company/careers)
-
-[Talk to us](https://www.brightcove.com/en/contact-sales "Talk to us")
 
 LAST UPDATED: April 25, 2012
 
