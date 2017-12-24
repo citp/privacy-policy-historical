@@ -1,29 +1,59 @@
-> *The following text is extracted and transformed from the srchsafe.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620035916id_/http%3A//srchsafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srchsafe.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224051046id_/http%3A//srchsafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - srchsafe.com
 
-### Welcome to the SrchSafe Privacy Policy
+**Last Updated August 1st, 2016**
 
-SrchSafe (“we” or “us”) respects and protects the privacy of consumers; and is committed to delivering a privacy-safe search environment. When you use SrchSafe, you trust us with your searches and we understand and value this trust. We have provided this Privacy Policy to explain how SrchSafe protects your privacy while searching, what information we collect through SrchSafe and some of your privacy rights regarding that information.
+www.srchsafe.com (“Website”) is a website owned and operated by Tightrope interactive (“Company”). 
 
-Effective February 1, 2016 
+The Company takes privacy matters very seriously. This document explains what type of data we are collecting and how we are using this data. This document pertains to the usage of our website.
 
-This Policy may change from time to time. Please check back frequently for updates.
+### What personal identifiable information does the Company store?
 
-1\. SrchSafe does not track search history in any user identifiable way. The most popular search engines create search profiles of specific users in order to retarget ads based on those search queries as the user navigates the internet. SrchSafe does not track your search history in any user identifiable way. 
+Personally Identifiable Information is data that identifies you personally; such as your address, name, email address, telephone number, or birth date. The Company does not collect or store any Personally Identifiable Information from this website.
 
-2\. SrchSafe does not retain server logs connected to personally identifiable information (PII). SrchSafe does not use tracking tool or maintain logs that compromise your privacy. 
+### What non-personally identifiable information does the Company store?
 
-3\. SrchSafe prevents your ISP from tracking your search terms. Some search engines do not encrypt your queries, which means your Internet Service Provider (ISP) can intercept and access them and connect them to your web and/or cable account. When you use SrchSafe, your search queries are encrypted so that your ISP cannot read them. 
+Non Personally Identifiable Information is data that cannot be used to identify a specific person. Examples of NPII can include items such as IP Address, the type of Web Browser you are using, the version of the web browser, the Operating System you are using and other websites you may have visited.
 
-4\. SrchSafe does not associate your searches from your online accounts. The most popular search engines offer other services which often collect sensitive personal information such as email (Gmail, Outlook Webmail, and Yahoo! Mail) and social web services (Google+ and YouTube). When you search the web and remain logged into these accounts, your search queries can be easily connected to your profile. SrchSafe completely disconnects your searches from being tied to your email accounts and social profiles. 
+The Company retains some non-personally identifiable information to improve our website and for statistical purposes.
 
-5\. SrchSafe does not request, log or share your personal information. SrchSafe doesn’t collect or maintain any personal information from users who use SerchSafe.com. 
+### Do you use cookies?
 
-6\. SrchSafe uses cookies to determine the effectiveness of our own marketing campaigns. Because we don’t track any personally identifiable information, we can’t do more than determine that a specific user searched for whatever search terms they searched for. We know nothing about that particular user and we don’t know anything identifiable about the user. Using cookies also allows us to encrypt your search queries on the browser to help hide the history of what you searched for on the machine. 
+A cookie is a small text file sent to your browser. Cookies are stored on your computer’s hard drive for record keeping purposes.
 
-7\. SrchSafe helps hide your search history on your device. SrchSafe uses proprietary technology to hide you search history from others who may use your device after you search. This may save you from some embarrassing situations. 
+When you visit our website, the Company may store a cookie on your computer to identify you; such cookie identifies that you previously visited this website, and allows us to analyze our web traffic to improve our services and better serve our visitors.
 
-8\. More Information. For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org. If you wish to be notified of any updates to this Privacy Policy, please check back frequently as any updates will be posted to SerchSafe.com with a new effective date. 
+### Web beacons or Pixels
 
-9\. Contacting SrchSafe If you have questions about this Privacy Policy and your rights under this policy, please write to us at the address below. [support@SrchSafe.com](mailto:support@SrchSafe.com)
+Web beacons or Pixels are tiny graphics with a unique identifier, similar in function to cookies. They track your online Web movement. We embed Pixels invisibly on Web pages. They are about the size of the period at the end of this sentence. We do not tie the information gathered by Pixels to our customers’ Personally Identifiable Information.
+
+We may use web beacons on our site to help track consumers that have visited our website in order to help improve our site.
+
+### How is the information processed?
+
+The Company collects and processes non-personal information in order to allow better service and monitor use of our site. This information is collected by our web server logs and web beacons.
+
+### How We Use Your Information
+
+We use NPII to help us understand who is visiting our website and what they do on our website. This data is then used to help us improve our site, it’s content and performance.
+
+### How We Share Your Information
+
+We may share NPII data with third parties for the purpose of analyzing the data and help[ing us improve our website. An example of this is our usage of Google Analytics to aggregate NPII data and proivide insights on what consumers are doing on our web site.
+
+### Children’s Online Privacy
+
+We do not knowingly collect information about children under the age of 13. We encourage parents and guardians to be familiar with the web sites that their children visit the Federal Trade Commission (“FTC”) regulates the means by which web site operators collect and use personal information from children under 13, pursuant to the Children’s Online Privacy Protection Act of 1998 (the “Act”). For more information about the Act and children’s on-line privacy in general, visit the FTC’s web site at www.ftc.gov/privacy. For safety tips on privacy visit www.OnGuardOnline.gov.
+
+### Policy Updates
+
+We may change this privacy policy. If we change this policy we will post the changes to this privacy statement, our websites’ homepages, and other places we deem appropriate. We reserve the right to modify this policy at any time. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+**Enforcement / Redress**
+
+If you feel that we have not followed our Privacy Policy, please let us know. Also, if you have any questions or concerns about our Privacy Policy, its implementation, or would like a written copy, please feel free to contact us at:
+
+Tightrope Interactive 588 Sutter St #551, San Francisco, CA 94102
+
+Alternatively, if you would like, contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
