@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dateolicious.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618020819id_/http%3A//www.dateolicious.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateolicious.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224192526id_/http%3A//www.dateolicious.com/privacy.aspx) for the most accurate reproduction.*
 
 # Legal & Privacy | DATEOLICIOUS
 
@@ -21,5 +21,7 @@ We may, but are not obligated to, disclose your information if required to do so
 
 **Instances in which Dateolicious.com may share your personal information**   
 Your Dateolicious.com account is password protected for your privacy, safety and security. Although, we here at Dateolicious.com have made every effort from a technical standpoint to secure your information, the full burden and responsibility rest on your for securing your information. One way you can do so is to log off a shared computer once you are finish using it and by not sharing your login username and password credentials with anyone. If you feel that your account has been compromise please contact us immediately.
+
+Dateolicious Inc., 4042 Middlebrook, Orlando Fl 32811, Support@Dateolicious.com 
 
 Last revised May 15, 2014. 
