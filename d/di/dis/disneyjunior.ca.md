@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneyjunior.ca privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614233942id_/http%3A//www.disneyjunior.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyjunior.ca privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224214509id_/http%3A//www.disneyjunior.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Disney Junior Channel
 
