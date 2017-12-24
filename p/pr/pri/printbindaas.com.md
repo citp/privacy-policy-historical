@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printbindaas.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618144240id_/http%3A//www.printbindaas.com/view/1main/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printbindaas.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224221505id_/http%3A//www.printbindaas.com/view/1main/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Insert title here
 
