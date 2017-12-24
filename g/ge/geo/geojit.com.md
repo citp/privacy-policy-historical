@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geojit.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624090659id_/http%3A//www.geojit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geojit.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224224202id_/http%3A//www.geojit.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
