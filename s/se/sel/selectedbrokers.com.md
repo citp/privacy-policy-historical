@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectedbrokers.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614090304id_/http%3A//www.selectedbrokers.com/site/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectedbrokers.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224132329id_/http%3A//selectedbrokers.com/site/policy) for the most accurate reproduction.*
 
 # privacy
 
@@ -12,4 +12,4 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 \- We will make readily available to customers information about our policies and practices relating to the management of personal information.  
 \- If you have joined our newsletter in the past, you are always able to remove yourself from the list by using the link at the bottom of the newsletter email.
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. You can contact us with any question info@selectedbrokers.com
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. You can contact us with any question [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
