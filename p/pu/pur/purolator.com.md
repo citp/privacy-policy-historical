@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purolator.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624215405id_/http%3A//www.purolator.com/purolator/legal/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purolator.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224043426id_/http%3A//www.purolator.com/purolator/legal/privacy.page) for the most accurate reproduction.*
 
 # Purolator - Privacy Statement
 
