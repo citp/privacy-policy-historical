@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techwarelabs.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630133924id_/http%3A//www.techwarelabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwarelabs.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224192706id_/http%3A//www.techwarelabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TechwareLabs
+# TechwareLabs Privacy Policy - TechwareLabs
 
 Thanks for your interest; we’re big fans of privacy, too! Unfortunately, the Internet is a pretty tangled web (pun intended) of sites and services, and the convenience and features some of them provide often outweighs the desire to ~~keep your laws off my body~~ keep your cookies off my computer. As such, we make no particular claims about the third-party content that’s loaded on our site, other than to note that it’s almost assuredly using cookies and other means to track what you’re looking at and probably target advertising at you. (Sorry.)
 
