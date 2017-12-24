@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingg.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012346id_/http%3A//www.pingg.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingg.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225000339id_/http%3A//www.pingg.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy - Pingg.com
 
