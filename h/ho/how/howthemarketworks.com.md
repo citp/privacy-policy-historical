@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064122id_/http%3A//education.howthemarketworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224040152id_/http%3A//education.howthemarketworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last revised March 27, 2017
+Last revised November 21, 2017
 
 This How The Market Works site is owned and operated by [Stock](http://education.howthemarketworks.com/glossary/stocks/)-Trak. Stock-Trak recognizes and respects the privacy expectations of participants in its contests. This Privacy Statement explains how we collect, use and protect your personally identifying information (“Personal Information”) and under what circumstances it may be disclosed. This Privacy Statement is incorporated into our Agreement . All capitalized terms not defined herein are defined in that Agreement. We reserve the right to change this Privacy Statement from time to time, consistent with applicable privacy and other laws. Unless prohibited by applicable law, any such change will apply thirty (30) days from date of posting on our site, unless you object (“opt-out”) as provided below before that date. Your continued use of this site following such changes signifies your acceptance of those changes.
 
@@ -14,11 +14,27 @@ Stock-Trak is the sole owner of the information collected through our site. We d
 
 **Purpose of the Information**
 
-Stock-Trak collects Personal Information from our participants to facilitate our contests’ plays, including determining participants’ eligibility. Personal Information allows us to keep track of our individual participants’ performance, advise winners of their prizes and how those prizes may be collected and publicize results. The information further allows us to contact participants to announce contest updates, new contests or any other information about Stock-Trak that may be of interest to a contestant.
+Stock-Trak collects Personal Information from our participants to facilitate our contests’ plays, including determining participants’ eligibility. Personal Information allows us to keep track of our individual participants’ performance, advise winners of their prizes and how those prizes may be collected and publicize results. The information further allows us to contact participants to announce contest updates, new contests or any other information about Stock-Trak that may be of interest to a contestant. We sell, share or rent this information to others only in ways that are disclosed in this privacy statement or with your express consent.
 
 **To Whom We Disclose the Information**
 
-Stock-Trak may publicize the first names, likenesses and other information concerning winners of the contests as we deem appropriate.
+Firstly, Stock-Trak may publicize the first names, likenesses and other information concerning winners of the contests as we deem appropriate.
+
+Secondly, we may also disclose your Personal Information to our advertisers but only in an aggregated form that identifies participants’ demographics. When we present the information in an aggregated form, those advertisers will be not be able to identify or contact you. However, if you click on an advertisement that appears on our site, you will be taken to a third-party website, whose privacy practices will govern any information so disclosed.
+
+Finally, we may share your Personal Information, as permitted by law, to both our affiliates and other non-affiliated third parties that offer products or services that we or they believe may be of interest to you.
+
+**Interest-Based Advertising**
+
+We use Google or other third party partners to display interest-based advertising to you within our sites. Interest-based ads, sometimes also referred to as targeted or personalized ads, are advertisements about goods and services, that may be more useful and relevant to you, based on information gathered about your activities across non-affiliated websites.
+
+In [order](http://education.howthemarketworks.com/glossary/stock-order/) to provide interest-based ads, we use cookies, web beacons, and other similar technologies, and we may permit our third party partners to do the same.
+
+In providing interest-based ads, we follow the Self-Regulatory Principles for Online Behavioral Advertising developed by the Digital Advertising Alliance (DAA). To learn more, please visit [http://www.aboutads.info](http://www.aboutads.info/).
+
+You can choose not to receive interest-based ads from third parties who are members of the Network Advertising Initiative (NAI) or who follow the DAA’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website (<http://www.networkadvertising.org/choices/>) and DAA website (<http://www.aboutads.info/choices/>).
+
+Note that if you “opt-out” you will still see online ads, but they will not be personalized.
 
 **Other Information Collected Through The Site**
 
