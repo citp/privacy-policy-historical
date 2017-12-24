@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtickets.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163247id_/http%3A//www.airtickets.com/security-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtickets.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224115540id_/http%3A//www.airtickets.com/security-privacy-policy) for the most accurate reproduction.*
 
 # Security & Privacy Policy |airtickets.com®
 
