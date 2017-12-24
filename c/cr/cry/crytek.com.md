@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crytek.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610122344id_/http%3A//www.crytek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crytek.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224142755id_/http%3A//crytek.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Crytek
 
