@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicbit.co.in privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611111617id_/http%3A//magicbit.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicbit.co.in privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224043837id_/http%3A//magicbit.co.in/privacy-policy) for the most accurate reproduction.*
 
 # MagicBitcoin: Read news! Take free Bitcoins! Take as much as you can! Take when you can!
 
