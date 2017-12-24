@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralliberty.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607232321id_/http%3A//viralliberty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralliberty.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224104747id_/http%3A//viralliberty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -175,3 +175,5 @@ USA
 Email: secretsofthefed@gmail.com
 
 Last Edited on November 25, 2016
+
+[ ](https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20171224104747id_/http%3A//viralliberty.com/privacy-policy)
