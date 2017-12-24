@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yha.org.uk privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615094454id_/http%3A//www.yha.org.uk/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yha.org.uk privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224154540id_/http%3A//www.yha.org.uk/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
 YHA (England and Wales) is committed to protecting your personal information. This Privacy Notice explains how we collect information about you, how we use the information we collect and how you can instruct us if you prefer to limit or change the use of that information.
 
-Please also read our Cookie Policy and our [site terms and conditions](http://www.yha.org.uk/terms-conditions). If you have any questions, please contact us.
+Please also read our Cookie Policy and our [site terms and conditions](https://www.yha.org.uk/terms-conditions). If you have any questions, please contact us.
 
 If we need to change our Privacy Notice, we will post changes on this page. This Privacy Notice was last updated on 21st November 2016.
 
@@ -17,7 +17,7 @@ When you use our websites (which includes our mobile sites, social media or any 
 
 When you provide us with your personal information, it will only be shared with third parties for the purpose of fulfilling your booking or other services you have requested. Your personal information will only be shared with third parties for marketing purposes if you have specifically given us your consent to do so.
 
-Your communication preferences can be updated at any time via our website or by calling or emailing [customerservices@yha.org.uk](mailto:customerservices@yha.org.uk?subject=Updating%20my%20communication%20preferences). See the [Contact Us](https://web.archive.org/contact-us) page for more information on how to get in touch with YHA.
+Your communication preferences can be updated at any time via our website or by calling or emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6605131512090b0314150314100f050315261f0e074809140148130d591513040c0305125b33160207120f0801460b1f4605090b0b13080f0507120f0908461614030003140308050315). See the [Contact Us](https://web.archive.org/contact-us) page for more information on how to get in touch with YHA.
 
 Where you submit personal information (including information about you or other people) to us, you confirm that you have all necessary permissions and consents to do so and that you have read, and agreed to, the terms of our Privacy Notice.
 
@@ -97,7 +97,7 @@ If you request copies of information about you (a “subject access request”) 
 YHA welcomes your questions and feedback. To contact us about this Privacy Notice, obtain copies of your personal information, or to request that we update, delete or change how we use your information please contact us:
 
 Tel: +44 (0) 1629 592700  
-Email: [customerservices@yha.org.uk](mailto:customerservices@yha.org.uk?subject=Privacy%20policy)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b4d7c1c7c0dbd9d1c6c7d1c6c2ddd7d1c7f4cddcd59adbc6d39ac1df8bc7c1d6ded1d7c089e4c6ddc2d5d7cd94c4dbd8ddd7cd)
 
 YHA (England and Wales)  
 Trevelyan House  
