@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dodea.edu privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221153556id_/http%3A//www.dodea.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodea.edu privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225001504id_/http%3A//www.dodea.edu/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Act Program
 
@@ -8,7 +8,7 @@
 
 #### The Privacy Act: An employee guide to privacy
 
-As employees of the Department of Defense Education Activity (DoDEA), many of you work with information about other people-principals, teachers, students, fellow employees, and others. You could not review activities, conduct audits, or perform other services, without knowing some personal information about these individuals. Likewise, DoDEA, and other Federal agencies need to know and maintain some personal information about you as an employee in order to hire, promote, pay you, and assure that personnel practices in keeping with Federal laws and regulations. This pamphlet describes your responsibilities as a DoDEA employee for safeguarding this information, and explains rights as a person who is also the subject of Government records.
+As employees of the Department of Defense Education Activity (DoDEA), many of you work with information about other people-principals, teachers, students, fellow employees, and others. You could not review activities, conduct audits, or perform other services, without knowing some personal information about these individuals. Likewise, DoDEA, and other Federal agencies need to know and maintain some personal information about you as an employee in order to hire, promote, pay you, and assure that personnel practices in keeping with Federal laws and regulations. This page describes your responsibilities as a DoDEA employee for safeguarding this information, and explains rights as a person who is also the subject of Government records.
 
 #### General Provisions   
 
