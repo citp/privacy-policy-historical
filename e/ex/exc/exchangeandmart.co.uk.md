@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exchangeandmart.co.uk privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617145245id_/http%3A//www.exchangeandmart.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangeandmart.co.uk privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224012100id_/http%3A//www.exchangeandmart.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
