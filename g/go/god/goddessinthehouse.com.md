@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goddessinthehouse.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630031658id_/http%3A//goddessinthehouse.com/2010/08/1175) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goddessinthehouse.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224043557id_/http%3A//goddessinthehouse.com/2010/08/1175) for the most accurate reproduction.*
 
 # | Diaries of a Domestic Goddess
 
-_If you have any questions at all about what is outlined in this Privacy Policy, please contact me at LeahDGoddess@gmail.com and I will respond in a timely fashion._
+_If you have any questions at all about what is outlined in this Privacy Policy, please contact me at[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and I will respond in a timely fashion._
 
 Here at Diaries of a Domestic Goddess your privacy is very important.  This police has been developed in order for you to understand how data is collected, how it is used, and how (if any) communication is made.
 
