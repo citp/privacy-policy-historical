@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegansociety.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314080252id_/https%3A//www.vegansociety.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegansociety.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224130859id_/https%3A//www.vegansociety.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy | The Vegan Society
 
