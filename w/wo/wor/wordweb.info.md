@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordweb.info privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622155446id_/http%3A//www.wordwebsoftware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordweb.info privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224043425id_/http%3A//www.wordwebsoftware.com/privacy.html) for the most accurate reproduction.*
 
 # WordWeb Software
 
