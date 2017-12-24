@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2compete.org privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620091427id_/http%3A//2compete.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2compete.org privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224230951id_/http%3A//2compete.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
