@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thegatewaypundit.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616221941id_/http%3A//www.thegatewaypundit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegatewaypundit.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225004427id_/http%3A//www.thegatewaypundit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Gateway Pundit
+
+## Privacy Policy
 
 If you require additional information or have any questions about our privacy policy, please feel free to contact us by email at support@thegatewaypundit.com.  
   
