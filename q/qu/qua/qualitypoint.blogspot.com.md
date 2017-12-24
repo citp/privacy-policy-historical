@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualitypoint.blogspot.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628191920id_/http%3A//www.blog.qualitypointtech.com/p/blog-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitypoint.blogspot.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224061627id_/http%3A//www.blog.qualitypointtech.com/p/blog-page.html) for the most accurate reproduction.*
 
 # QualityPoint Technologies: Privacy Policy
 
