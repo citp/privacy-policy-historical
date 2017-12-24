@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apeainthepod.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624034323id_/http%3A//www.apeainthepod.com/privacy-policy.html%3Fformat%3Dajax) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apeainthepod.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224105405id_/http%3A//www.apeainthepod.com/privacy-policy.html%3Fformat%3Dajax) for the most accurate reproduction.*
 
 # None
 
