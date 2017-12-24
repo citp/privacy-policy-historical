@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerdimension.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620185943id_/http%3A//www.careerdimension.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerdimension.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224040948id_/http%3A//www.careerdimension.com//privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
