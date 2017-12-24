@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezrecharge.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032756id_/http%3A//ezrecharge.in/helpdocx/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezrecharge.in privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224062809id_/http%3A//ezrecharge.in/helpdocx/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ezRecharge.in
 
