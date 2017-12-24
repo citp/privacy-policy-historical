@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcomet.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617095529id_/http%3A//www.bitcomet.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcomet.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224155402id_/http%3A//www.bitcomet.com/en/privacy-policy) for the most accurate reproduction.*
 
 # BitComet - BitComet Website Privacy Policy
 
