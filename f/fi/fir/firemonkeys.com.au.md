@@ -1,6 +1,29 @@
-> *The following text is extracted and transformed from the firemonkeys.com.au privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611184319id_/http%3A//tos.ea.com/legalapp/webprivacy/us/en/pc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firemonkeys.com.au privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224040724id_/http%3A//tos.ea.com/legalapp/webprivacy/us/en/pc) for the most accurate reproduction.*
 
 # 
+
+Electronic Arts Inc.Privacy and Cookie Policy
+
+Last Updated: July 31, 2017  
+Effective Date: August 31, 2017
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=7d587a12-773f-4bf9-a209-d18047ee5f05 "TRUSTe Privacy Certification")
+
+TABLE OF CONTENTS
+
+  1. Information We Collect
+  2. How We Collect Information
+  3. How We Use Your Information
+  4. Information We Share with Third Parties
+  5. Where We Hold Your Information
+  6. How We Protect Your Personal Information
+  7. Children
+  8. Your Choices and Controls
+  9. Third Party Services
+  10. Changes to Our Policy
+  11. Contact Us
+
+
 
 1\. Information We Collect
 
@@ -21,6 +44,8 @@ We collect information you provide us, including:
 
 
 When you participate in social features (such as chat), the information that you disclose is public information. We may store and access it, and it may be read, copied, collected or used by other users without your consent. Please make sure your privacy settings reflect your preferences.
+
+When you participate in online multiplayer games your in-game profile information, gameplay, and statistics are visible to all. We may record your gameplay, including your controller button inputs, and replay these together with your profile information and game statistics to other players in-game without further notice to you, for example as part of a spectator mode, or for out-of-game promotional purposes.
 
 B. Other Information We Collect When You Use Our Products
 
@@ -47,13 +72,15 @@ C. Information Provided to Us by Third Parties
 
 **Wii / Wii U.** By signing up to play our products on a Nintendo Wii or Wii U console, you agree that Nintendo may provide us with your Nintendo user account information so we can establish an EA Account for you. You need an EA Account to play EA's products online. From Nintendo, the data we receive includes your Mii information, email address, Nintendo Network ID, friend list, country, language and date of birth. We do not receive your credit card number or other financial information.
 
+**Nintendo Switch™.** By signing up to play our products on a Nintendo Switch™ console, you agree that Nintendo may provide us with your Nintendo Account information so we can establish an EA Account for you. You need an EA Account to play EA's products online. From Nintendo, the data we receive includes your nickname, email address, friend list, country, language and date of birth. We do not receive your credit card number or other financial information.
+
 **Mobile Platforms.** If you play or purchase our games on your mobile device and/or tablet, we receive information about you from the app stores and other mobile platform providers. This information includes your username and/or device ID and the fact that you made a purchase, for instance, but does not include any sensitive or financial information. Some of our mobile platforms also may send information to us that you authorize them to provide. Our mobile products also may request additional personal information from you, such as push notification tokens, your precise location or contact list, and we will collect this information only if you give us your explicit consent.
 
 **Other Third Parties**
 
 We may receive information from third parties, like Facebook or Game Center, when you use these services in connection with our products. We may also receive information about you when other players choose to share their contact lists with us.
 
-We also may receive information from third parties to supplement the information we receive from you. We use information from these companies primarily to help us deliver relevant advertising to you. A representative list of these types of third parties can be found on privacyappendix.ea.com. We also may use similar services, for instance, to help us understand your approximate geolocation via your IP address for tax purposes, or to customize certain services to your location.
+We also may receive information from third parties to supplement the information we receive from you. We use information from these companies primarily to help us deliver relevant advertising to you. A representative list of these types of third parties can be found on privacyappendix.ea.com. We also may use information from third parties, for instance, to help us understand your approximate geolocation via your IP address for tax purposes, or to customize certain services to your location, and for fraud and/or abuse prevention purposes.
 
 2\. How We Collect Information
 
@@ -63,7 +90,7 @@ A. Cookies and Similar Technologies
 
 Cookies are small text files stored on your Internet browser. We use cookies and similar technologies to help us understand things like what web pages, features or ads you view and what games you play. This information helps us keep track of your shopping cart, measure the effectiveness of our advertising, make sure you don't see the same ad repeatedly and otherwise help enhance your user experience. You can disable cookies, limit the types of cookies you allow, or set your browser to alert you when cookies are being sent. Please refer to [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or the guidance provided by your individual web browser if you'd like help in managing your cookie preferences.
 
-We use other technologies for similar purposes as a cookie. We use pixels or clear GIFs to collect information about your use of our products and your response to our marketing emails. We use Internet log files (which contain technical data such as your IP address) to monitor traffic on our products, troubleshoot technical problems, detect and prevent fraud and enforce our User Agreement. Other examples include HTML 5 cookies, Silverlight Application Storage, device fingerprints and "flash cookies." If you want to remove flash cookies or prevent them from being placed, adjust your preferences in the Macromedia Website Privacy Settings Panel at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html>. We currently do not respond to Do Not Track (DNT) signals. We may adopt a DNT standard if one is established. In the meantime, you may opt out of certain types of tracking, including certain analytics and tailored advertising by changing your cookie settings.
+We use other technologies for similar purposes as a cookie. We use pixels or clear GIFs to collect information about your use of our products and your response to our marketing emails. We use Internet log files (which contain technical data such as your IP address) to monitor traffic on our products, troubleshoot technical problems, detect and prevent fraud and enforce our User Agreement. Other examples include HTML 5 cookies, Silverlight Application Storage, device fingerprints and "flash cookies." If you want to remove flash cookies or prevent them from being placed, adjust your preferences in the Macromedia Website Privacy Settings Panel at [www.macromedia.com/support/documentation/en/flashplayer/help/](http://www.macromedia.com/support/documentation/en/flashplayer/help/). We currently do not respond to Do Not Track (DNT) signals. We may adopt a DNT standard if one is established. In the meantime, you may opt out of certain types of tracking, including certain analytics and tailored advertising by changing your cookie settings.
 
 We also use Analytics, Advertising, Anti-Cheat and Anti-Fraud technologies in our products that utilize the same cookies and similar mechanisms. These technologies are described below.
 
@@ -81,12 +108,30 @@ Some of our products employ ad serving technologies that use cookies, clear GIFs
 
 These technologies collect and use information so we can serve appropriate advertising to you and help track results and measure effectiveness. In addition to identifiers, this information includes:
 
+  * Advertisements served and the location of the ad;
+  * Length of time an advertisement was visible;
+  * Domain type, IP address, size of the advertisement; and
+  * Advertisement response.
+
+
+
+Third party advertising companies may combine the information collected in the context of delivering an ad to you via our Products and Services with other information they have independently collected over time and across different websites. Many of these companies collect and use information under their own privacy policies. A representative list of ad serving companies that operate their own networks on our sites and online and/or mobile products and/or services as well as how to opt out to the extent applicable can be found at [privacyappendix.ea.com](https://tos.ea.com/legalapp/WEBPRIVACYAPPENDIX/US/en/PC/).
+
+To learn more about some of these ad networks' practices, or to opt out of third party targeted advertising, you can visit [https://www.networkadvertising.org](https://www.networkadvertising.org/), <https://www.aboutads.info/choices/>, <http://youradchoices.ca/>, or [https://www.youronlinechoices.eu](https://www.youronlinechoices.eu/). Note that opting out does not mean you won't see ads; it just means that the advertising you see may be less relevant to your interests.
+
+D. Anti-Cheat and Fraud Prevention Technologies
+
+EA strives to provide a safe and fair gaming environment for all players. When you log in to one of our products, set up an EA Account or make purchases, we or third parties may use cookies and similar technologies, or collect data about your machine or device, to create a machine "fingerprint" or "hash" of your machine components, for fraud prevention, security and authentication purposes. We also may use other anti-cheat technology with our products.
+
+3\. How We Use Your Information
+
 We use your personal and non-personal information, both individually and combined together, in the following ways:
 
-**To operate our business and personalize your game experience including to:**
+**To operate our business and to enhance and personalize your game experience including to:**
 
   * Operate, improve, and develop our games and services;
   * Populate online leaderboards and enable online matchmaking;
+  * Provide replays to you and other players via spectator modes;
   * Help you find your friends or tell your friends about an EA product or service;
   * Facilitate sharing on social networks;
   * Serve and measure the effectiveness of advertising;
@@ -136,9 +181,7 @@ We do not control information sent from your browser to third parties, such as a
 
 Personal Information we collect may be stored and processed for the purposes set out in this Privacy and Cookie Policy in the United States or any other country in which EA, its subsidiaries, or third party agents operate. By using our products, you consent that your personal information may be transferred to recipients in the United States and other countries that may not offer the same level of privacy protection as the laws in your country of residence or citizenship.
 
-EA participates in the U.S.-Swiss Safe Harbor Framework for the collection, use, and retention of data from Switzerland. While EA relies on various mechanisms to effectuate cross-border transfers, we continue to adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor>.
-
-The Electronic Arts privacy practices, described in this Privacy and Cookie Policy, comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found at <http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx>.
+The Electronic Arts privacy practices, described in this Privacy and Cookie Policy, comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found at <https://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx>.
 
 6\. How We Protect Your Personal Information
 
@@ -164,9 +207,9 @@ Under no circumstances do we condition a child's participation in an activity—
 
 We give you meaningful choices when it comes to important uses and collection of information. For example, you can update your account information and preferences, choose to opt in or out of EA marketing emails and choose whether to share your information with select EA partners. If you would like to opt out at any time after granting approval, contact the appropriate Privacy Policy Administrator for your country listed at [privacyadmin.ea.com](http://privacyadmin.ea.com/) or write to Privacy Policy Administrator, Electronic Arts Inc., 209 Redwood Shores Parkway, Redwood City, CA 94065.
 
-You also can review and change most of your preferences through your EA Account settings. If you need additional assistance, please contact [help.ea.com](http://help.ea.com/en/).
+You also can review and change most of your preferences through your EA Account settings. If you need additional assistance, please contact [help.ea.com](https://help.ea.com/en/).
 
-You may deactivate your EA Account or delete the personal information associated with your account by contacting [help.ea.com](http://help.ea.com/en/) or your Privacy Policy Administrator in your country listed on our site at [privacyadmin.ea.com](http://privacyadmin.ea.com/). If you do so, you will no longer have access to the EA games or services associated with your account. Note that EA may retain information needed to resolve disputes, enforce our user agreements, protect our legal rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our products. Otherwise, we will retain your personal information for as long as reasonably necessary to provide you services, create and improve our products, comply with the law, and to run our business.
+You may deactivate your EA Account or delete the personal information associated with your account by contacting [help.ea.com](https://help.ea.com/en/) or your Privacy Policy Administrator in your country listed on our site at [privacyadmin.ea.com](http://privacyadmin.ea.com/). If you do so, you will no longer have access to the EA games or services associated with your account. Note that EA may retain information needed to resolve disputes, enforce our user agreements, protect our legal rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our products. Otherwise, we will retain your personal information for as long as reasonably necessary to provide you services, create and improve our products, comply with the law, and to run our business.
 
 You can access the personal information we hold about you. To request access, send us an email at [privacy_policy@ea.com](mailto:privacy_policy@ea.com) headed "Subject Access Request". Before we process any request, we may ask you for certain personal information in order to verify your identity and we may request payment where allowed by law. Where permitted by local law, we may reject requests that are unreasonable or impractical. We will respond to your requests in a reasonable timeframe.
 
@@ -178,13 +221,13 @@ Our websites and products may contain advertising or third party services (such 
 
 10\. Changes to Our Policy
 
-We may update this policy from time to time, so please review it frequently. We'll notify you of material changes via a notice on our home page ([www.ea.com](http://www.ea.com/)) thirty days before they go into effect. Your continued use of our products means you accept the changes. Once you accept this policy, we will not enforce future changes we deem in good faith to be material absent your express agreement to the changed terms. If you are asked to affirmatively accept material changes to this policy and you decline to do so, you may not be able to continue to use the product provided.
+We may update this policy from time to time, so please review it frequently. We'll notify you of material changes via a notice on our home page ([www.ea.com](https://www.ea.com/)) thirty days before they go into effect. Your continued use of our products means you accept the changes. Once you accept this policy, we will not enforce future changes we deem in good faith to be material absent your express agreement to the changed terms. If you are asked to affirmatively accept material changes to this policy and you decline to do so, you may not be able to continue to use the product provided.
 
 11\. Contact Us
 
 If you have a complaint or question about this policy, you may contact us at [privacy_policy@ea.com](mailto:privacy_policy@ea.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-To review a list of websites that are certified by TRUSTe, please go to <http://privacy.truste.com/privacy-seal/validation?rid=7d587a12-773f-4bf9-a209-d18047ee5f05>. For mobile applications, go to [https://tos.ea.com/legalapp/CERTIFIEDAPPS/US/en/PC/.](https://tos.ea.com/legalapp/CERTIFIEDAPPS/US/en/PC/)
+To review a list of websites that are certified by TRUSTe, please go to <https://privacy.truste.com/privacy-seal/validation?rid=7d587a12-773f-4bf9-a209-d18047ee5f05>. For mobile applications, go to [https://tos.ea.com/legalapp/CERTIFIEDAPPS/US/en/PC/.](https://tos.ea.com/legalapp/CERTIFIEDAPPS/US/en/PC/)
 
 For more information and updates to this policy, visit [privacy.ea.com](https://tos.ea.com/legalapp/WEBPRIVACY/US/en/PC/).
 
