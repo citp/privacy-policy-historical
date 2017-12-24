@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the userecho.com privacy policy that was archived on 2017-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627104134id_/http%3A//userecho.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the userecho.com privacy policy that was archived on 2017-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171224113710id_/http%3A//userecho.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -215,7 +215,7 @@
 
     <div class="scroll-to-top" data-spy="affix" data-offset-top="200"><a href="#page" class="smooth-scroll"><i class="fa fa-arrow-up"></i></a></div>
   
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://chatapp.userecho.com/ue-widget.js?1"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.userecho.com/js/widget-1.5.gz.js?v=ue"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="/s/assets-3/bootstrap-3.3.1/js/bootstrap.min.js"></script>
     <script src="/s/assets2.0/js/plugins/jquery.cookie.js"></script>
     <script src="/s/assets2.0/js/ue.common.js?v4"></script>
@@ -242,22 +242,24 @@ preload:true
 
 (function() {
     var _ue = document.createElement('script'); _ue.type = 'text/javascript'; _ue.async = true;
-    _ue.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'chatapp.userecho.com/ue-widget.js?1';
+    //_ue.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'chatapp.userecho.com/ue-widget.js?1';
+    _ue.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.userecho.com/js/widget-1.5.gz.js?v=ue';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(_ue, s);
   })();
 
 </script>
+
 
     
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    })(window,document,'script','//www.google-analytics.com/analytics.js','_ue_ga');
 
-    ga('create', 'UA-12194779-1', 'auto');
-    ga('set','appName', 'brother');
-    ga('send', 'pageview');
+    _ue_ga('create', 'UA-12194779-1', 'auto');
+    _ue_ga('set','appName', 'brother');
+    _ue_ga('send', 'pageview');
 
     
 </script>
@@ -268,7 +270,7 @@ preload:true
 <script>
     function trackEvent(category,action,label) {
         
-        ga('send', 'event', {eventCategory: category, eventAction: action, eventLabel: label});
+        _ue_ga('send', 'event', {eventCategory: category, eventAction: action, eventLabel: label});
         
     }
 
@@ -277,7 +279,7 @@ preload:true
         //console.log("gaTrackSearch('"+forum_id+"','"+search_path+"','"+search_text+"')")
         
         var url = '/forums/'+forum_id+'/search/?search_path='+encodeURIComponent(search_path)+'&search_text='+encodeURIComponent(search_text.toLowerCase());
-        ga('send', 'pageview', url); 
+        _ue_ga('send', 'pageview', url); 
         
         
     }
