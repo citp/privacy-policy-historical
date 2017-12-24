@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616162224id_/http%3A//www.skillsurvey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224123916id_/http%3A//www.skillsurvey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SkillSurvey
 
@@ -92,7 +92,7 @@ Email: customerservice@skillsurvey.com
 
 The foregoing policies are effective as of March 25, 2016. SkillSurvey reserves the right to change this policy at any time. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-  * [Terms of Use](https://web.archive.org/web/20170616162224id_/http%3A//www.skillsurvey.com/skillsurvey-inc-terms-of-use/)
-  * [Service Level Agreement](https://web.archive.org/web/20170616162224id_/http%3A//www.skillsurvey.com/service-level-agreement/)
+  * [Terms of Use](https://web.archive.org/web/20171224123916id_/http%3A//www.skillsurvey.com/skillsurvey-inc-terms-of-use/)
+  * [Service Level Agreement](https://web.archive.org/web/20171224123916id_/http%3A//www.skillsurvey.com/service-level-agreement/)
 
 
