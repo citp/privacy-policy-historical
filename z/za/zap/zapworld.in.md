@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapworld.in privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530121131id_/http%3A//zapworld.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapworld.in privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224161831id_/http%3A//zapworld.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zapworld - How To l Reviews l Tips & Tricks - Zapworld - How To l Reviews l Tips & Tricks
 
