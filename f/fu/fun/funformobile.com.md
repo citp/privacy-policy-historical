@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funformobile.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513115602id_/http%3A//www.funformobile.com/pages/help/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funformobile.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224131548id_/http%3A//www.funformobile.com/pages/help/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # FunForMobile: Privacy Policy
 
@@ -52,7 +52,7 @@ By visiting the Site, you signify your assent to the terms of this Privacy Polic
 **Contact Information**
 
   
-We welcome any feedback and suggestion. For feedback, suggestions, support, and questions, please contact us using our [Customer Support](https://web.archive.org/web/20170513115602id_/http%3A//www.funformobile.com/pages/help/helpContact.php) online form.  
+We welcome any feedback and suggestion. For feedback, suggestions, support, and questions, please contact us using our [Customer Support](https://web.archive.org/web/20171224131548id_/http%3A//www.funformobile.com/pages/help/helpContact.php) online form.  
 
 
 Effective October 1, 2004  
