@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talkspot.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029071927id_/http%3A//www.talkspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkspot.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224122914id_/http%3A//www.talkspot.com/privacy-policy) for the most accurate reproduction.*
 
-# Talkspot Privacy Policy - www.talkspot.com
+# Privacy Policy
 
 ###  Our Commitment To Privacy 
 
@@ -28,7 +28,7 @@ All mailings from this website include an "unsubscribe" link. If you would like 
 
 ###  Mailing List Removal 
 
-All mailings from this website include an "unsubscribe" link. If you would like to stop receiving emails from this website, click on the unsubscribe link. In a limited number of cases, such as with "lost password" requests, emails are sent without respect to whether or not you have unsubscribed from our email list. These emails are sent only in response to a request from an end-user. If for some reason you cannot find the unsubscribe link, you may email us, at: Support AT talkspot.com, including a copy of what you were mailed, and we will remove you from the list immediately. 
+All mailings from this website include an "unsubscribe" link. If you would like to stop receiving emails from this website, click on the unsubscribe link. In a limited number of cases, such as with "lost password" requests, emails are sent without respect to whether or not you have unsubscribed from our email list. These emails are sent only in response to a request from an end-user. If for some reason you cannot find the unsubscribe link, you may email us, at: [support@talkspot.com](mailto:support@talkspot.com), including a copy of what you were mailed, and we will remove you from the list immediately. 
 
 ###  How To Contact Us 
 
