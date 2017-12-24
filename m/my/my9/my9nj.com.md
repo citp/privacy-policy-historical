@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the my9nj.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625004209id_/http%3A//www.my9nj.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my9nj.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224161557id_/http%3A//www.my9nj.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WWOR
 
 **_Fox Television Stations Privacy Policy_**
 
-Effective  August 6, 2015
+Effective  September 7, 2017
 
 Table of Contents:
 
@@ -63,6 +63,8 @@ We may also use the information we collect from and about you for these addition
  **To deliver relevant advertisements.** FTS and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use FTS Services or another service, including, without limitation, precise geolocation data accessed or collected pursuant to this privacy policy. For mobile applications, you may be able to opt-out of the use of precise data for location-based tracking by using the settings available on your mobile device; however, opting-out may impair or disable the FTS Services. For all FTS Services, ads may be selected for you based on more general information, such as location that can be inferred from IP addresses.
 
 As noted above, third-party advertising networks and advertisers may use cookies, mobile advertising identifiers and similar technologies to collect and track information such as demographic information, inferred interests, web browsing and app usage, and aggregated information and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see [http://www.aboutads.info](http://www.aboutads.info/). If you would like to opt-out of such advertising networks’ and services’ advertising practices, go to <http://www.aboutads.info/choices> to opt-out in desktop and mobile web browsers. You may download the AppChoices app at <http://www.aboutads.info/appchoices> to opt-out in mobile apps.
+
+We may also use advertising services provided by social media services such as Facebook.  If you are a member of a social media service, that service may collect information from you about the content that you view on our site, using with cookies that your social media service has stored on your computer.   If you have questions about your social media service’s information and privacy practices, you should consult the consumer disclosures on the social media service’s website.
 
  **To contact you.** FTS may periodically send promotional materials or notifications related to the FTS Services. If you want to stop receiving promotional materials, you can follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the FTS Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
 
