@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingaya.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611012634id_/https%3A//zingaya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingaya.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224191841id_/http%3A//zingaya.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
