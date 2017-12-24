@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realist.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612013153id_/http%3A//www.corelogic.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realist.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224065134id_/http%3A//www.corelogic.com/privacy.aspx) for the most accurate reproduction.*
 
 # CoreLogic - Privacy Policy
 
