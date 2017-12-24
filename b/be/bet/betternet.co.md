@@ -1,43 +1,207 @@
-> *The following text is extracted and transformed from the betternet.co privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617031924id_/https%3A//www.betternet.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betternet.co privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224143558id_/https%3A//www.betternet.co/privacy-policy) for the most accurate reproduction.*
 
 # Betternet Privacy
+
+  * [Home](https://web.archive.org/)
+  * Privacy
+
+
+
+## Sections
+
+* * *
+
+Betternet Privacy Policy What does this Privacy Policy cover? What information do we collect? Information You Choose to Give Us Automatically Collected Information Third Party Advertising How do we use your information? How do we share your information? Third Party Services Security Your Choices and Access Minors International Cross-Border Data Transfer Updates to this Privacy Policy Contact Us Last modified: December 6, 2017   
+
+
+* * *
+
+legal [at] betternet.co
 
 ### Privacy Policy
 
 * * *
 
-This privacy policy applies to all of our offered and operated services, including betternet.co for our websites and our browser plugin "betternet" and the corresponding tailored for android and iOS devices, and Windows and all of our social media sites (Facebook, Twitter and Instagram) under the name of "Betternet".
+At Betternet, we stand behind our commitment to user privacy and security. When you use our best-in-class VPN products and services, you’ll share some information with us, which we use to provide and improve those products and services, send notifications and updates, troubleshoot, and to support our free product through advertising. Our goal is to be upfront about what we collect, how we use it, and whom we share it with, and that’s why we’ve written this Privacy Policy. Below is a snapshot of some of our important privacy practices, but please read the full Policy for more detail. If you have any questions about anything in this Policy, please feel free to reach out to us at [support@betternet.co](mailto:support@betternet.co).
+
+  * Anonymity: 
+    * Our product will never store, log, or share your true IP address, and we always delete your true IP address after your VPN session is closed.
+    * We never associate your email, true IP address, username, or unique mobile ID with your browsing information or online activities when you are using Betternet.
+    * Creating an account is always optional – we never require you to register or otherwise provide us any personal information to download or use our products.
+    * We never share your personal information with unaffiliated third parties other than service providers that we use for internal technology and business operations (such as website hosting, payment processing, data analysis, information technology, customer service, and email delivery).
+    * The ads you may see on the free, advertising-supported version of Betternet are generic – never based on your personal information.
+    * We only use your information to provide you with amazing products and services that we are constantly working to improve.
+
+
+
+While we always anonymize your true IP address while using the Services, remember that no VPN provider can control what other apps collect from your device or what cookies other websites or third parties place in your browser. For more information about how to exercise choices with respect to certain third party cookies, please see the Third Party Advertising section below.
+
+  * Security: 
+    * We encrypt all of the traffic between your device and our servers using TLS 1.2 with perfect forward secrecy (ECDHE), 128-bit AES data encryption, and HMAC message authentication.
+    * Your web traffic on unsecured networks such as public Wi-Fi at cafés, airports, etc. is always securely encrypted by Betternet. 
+
+
 
 * * *
 
-### Betternet softwares ▲ Back to Top
+### What does this Privacy Policy cover?▲ Back to Top
 
 * * *
 
-Betternet softwares may send diagnostic data to a third party analytics providers for the purpose of identifying connection errors and possible bugs in our applications to deliver the best experience to our users. The information collected does not contain personally identifying information and Betternet keeps this data secure.
+This Privacy Policy covers the free and paid versions of Betternet, including the Betternet websites and mobile applications (collectively, the “Services”). The terms “Betternet,” “we,” “us,” and “our” include Betternet LLC, and our affiliates and subsidiaries. By using the Services, you agree to the terms and conditions of this Privacy Policy. Beyond the Privacy Policy, your use of the Services is also subject to our [Terms of Service](https://web.archive.org/terms).
 
 * * *
 
-### Web Surfing ▲ Back to Top
+### What information do we collect?▲ Back to Top
 
 * * *
 
-Betternet does not collect, log, store, share any identifiable personal information of Users. Betternet may collect the connection times to our Service and the total amount of data transferred per day. Betternet stores this to be able to deliver the best possible network experience to you.
+There are two basic categories of information we collect:
 
-Your surfing is private and safe. When you disconnect from Betternet servers there is no warranty to be secure and safe yet. All the consequences are at your own risk. Please note that Betternet helps you secure your internet session and does not protect your device from malware, trojans or viruses. We recommend you to use anti-virus solutions in order to secure your devices as well.
+  * Information you choose to give us
+  * Information we automatically collect when you use our services
 
-* * *
 
-### Third-Party Advertisers ▲ Back to Top
 
-* * *
-
-Betternet uses third-parties (the "Third Party") for advertisement. Third Party may use technologies to access some data including but not limited to cookies to estimate the effectiveness of their advertisements. Activities of the Third Party is not controlled by Betternet and this is not included in Betternet privacy policy but is related to the privacy policies of our third party advertisers. Betternet is not a publisher of the Third Party content accessed through the Service and is not responsible for the content, accuracy, timeliness or delivery of any opinions, advice, statements, messages, services, graphics, data or any other information provided to or by the Third Party as accessible through the Service. The Third Party content is not under the control of Betternet and Betternet is not liable for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any Third Party. The inclusion of any links to Third Party content are provided solely as a convenience to you and does not imply an endorsement or recommendation by Betternet of any third party resources or content.
+You can be assured that the information we may collect, including your email, true IP address, username, or unique mobile ID, is never associated with your browsing information or online activities when you are using Betternet. Additionally, your true IP address is stored only for the duration of your VPN session and is cleared after your session is closed. We do not associate your true IP address with your online activities and we do not store or log your true IP address after the end of your session.
 
 * * *
 
-### CHANGES TO THIS AGREEMENT ▲ Back to Top
+### Information You Choose to Give Us▲ Back to Top
 
 * * *
 
-Betternet user understands that the present Privacy Policy is subject to changes made by Betternet at any time at its sole discretion, and you agree to be bound by any and all modifications, changes and/or revisions. You understand that it is your obligation to periodically review this webpage in order to account for any changes made, as they will be binding upon assent.
+When you interact with our Services, we collect the information that you choose to share with us. For example, if you purchase a subscription to Betternet Premium, and/or sign up to create an account, you may provide us with an email address and payment information. Remember that creating an account is always optional – we never require you to register or otherwise provide us any personal information to download or use our products.
+
+Additionally, if you make a payment using a credit or debit card through the Services, your information will be collected by a third-party payment provider and not by us. If you make a payment via PayPal, or in the Apple App Store or Google Play Store, payments are processed by those third parties, and will be subject to the third party’s privacy policy, rather than this Privacy Policy.
+
+It probably goes without saying, but we’ll say it anyway: If you contact us directly, we may receive additional information about you. For example, when you contact customer support, we receive the contents of messages or attachments that you send to us, and other information you choose to provide.
+
+* * *
+
+### Automatically Collected Information▲ Back to Top
+
+* * *
+
+When you use our Services, we collect information about you or your device automatically. Here’s a fuller explanation of the types of information we collect when you use our Services:
+
+  * When you visit our websites: 
+    * We and our third party service providers may automatically collect information from your device, sometimes by placing cookies, beacons, and similar technologies in your browser and on emails that we send you. We may use this information, for example, to ensure that the Services function properly, to determine how many users have visited certain pages or opened messages or newsletters, or to prevent fraud. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>. Keep in mind though, if you do not accept cookies, you may experience some inconvenience in your use of the Services.
+    * Your IP address may be collected when you visit our websites. Collecting IP addresses is standard practice and is done automatically by many websites and other online services. We use IP addresses for internal purposes such as calculating usage levels and diagnosing server problems. We may also use your IP address to derive your approximate location. Downloading and turning on Betternet will make your true IP address private to our websites, as well as websites of third parties. Using our websites or other websites without turning on Betternet may allow your IP address to be collected.
+    * We collect device-specific information, such as the hardware model, operating system version, browser type, language, wireless network, and mobile network information. This information does not identify you, and we use it to provide and improve the Services, troubleshoot, and perform analytics.
+    * Our websites also use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. You can learn about Google’s practices by going to <https://www.google.com/policies/privacy/partners/>, and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
+  * When you launch Betternet: 
+    * We collect your IP address, immediately obfuscate and anonymize it, and provide you with a virtual or proxy IP address. We may also use your IP address to derive your approximate location in order to effectively provide the Services. Again, your true IP address is stored only for the duration of your VPN session and is cleared after your session is closed. We do not associate your true IP address with your online activities and we do not store or log your true IP address after the end of your session.
+    * When you launch Betternet, we also collect device-specific information, such as the hardware model, operating system version, browser type, language, wireless network, and mobile network information. This information does not identify you, and we use it to provide and improve the Services, troubleshoot, and perform analytics on our services.
+    * When you use Betternet to access the internet, we collect only anonymous, aggregate data about which websites you visit and which apps you use. We do not attribute any specific website visits or app usage to any specific user. We collect this information to: 1. Perform analytics on our services, including measuring whether our users are able to successfully access certain websites or apps; 2. Troubleshoot service issues and improve service quality; and 3. Place generic ads in front of specific apps or websites.
+
+
+
+* * *
+
+### Third Party Advertising▲ Back to Top
+
+* * *
+
+We are proud to offer a free, advertising-supported, version of Betternet. On the free version of Betternet, you may see some generic ads that our ad partners place in front of certain apps or websites. Keep in mind that we do not target these ads based on your personal information.
+
+Betternet does not share your IP address, browsing history, or any other information you choose to provide, with advertisers. Nevertheless, advertisers may be able to collect certain information independently from you or your device when serving ads from the Betternet application, including your device’s advertising ID, IMEI, MAC address, and wireless carrier. For more information regarding your device’s advertising ID and its options, please visit <https://support.google.com/googleplay/answer/3405269> for Android devices or <https://support.apple.com/en-us/HT202074> for iOS devices.
+
+Advertisers may also place cookies in your browser that may allow them to collect certain information about your browsing history. To find out more about how to exercise choices with respect to certain third party cookies, including opting out of receiving such cookies, visit the Digital Advertising Alliance’s Self-Regulatory Program for Online Behavioral Advertising at www.aboutads.info, or the Network Advertising Initiative at [www.networkadvertising.org](https://web.archive.org/web/20171224143558id_/https%3A//www.betternet.co/www.networkadvertising.org).
+
+If you use Betternet Premium, the premium subscription based version of our product, we will not serve any ads and thus no information will be collected by our third party ad partners on the Betternet Premium product.
+
+* * *
+
+### How do we use your information?▲ Back to Top
+
+* * *
+
+In short, we use your information to provide you with amazing products and services that we are constantly working to improve. Here are some of the ways we do that:
+
+  * To operate, maintain, enhance and provide features of the Services, provide services and information that you request, respond to comments and questions, and otherwise provide support to users.
+  * Understand and analyze aggregate usage trends, improve the Services, and develop new products, services, features, and functionality.
+  * Contact you for administrative and informational purposes. This may include providing customer service or sending communications, including changes to our terms, conditions, and policies.
+  * For general marketing purposes, such as developing and providing promotional and advertising materials that may be useful, relevant, valuable, or otherwise of interest.
+  * For our business purposes, such as audits, security, fraud monitoring and prevention.
+  * To enforce our Terms of Service or other legal rights.
+
+
+
+* * *
+
+### How do we share your information?▲ Back to Top
+
+* * *
+
+We only share your information as described in this privacy policy in order to provide and improve the Services, facilitate a merger or sale of our business, or if required to do so by law. Here are some more specifics on whom we share your information with and why:
+
+  * To our third party service providers who provide services such as website hosting, payment processing, data analysis, information technology and related infrastructure provision, customer service, email delivery, online advertising, auditing, and other services.
+  * To a potential or actual acquirer, successor, or assignee as part of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in bankruptcy or similar proceedings).
+  * If required to do so by law or in the good faith belief that such action is appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+
+
+
+As a reminder, our ad partners may also receive information independently from you or your device when serving ads from the Betternet application, including your device’s advertising ID, IMEI, MAC address, and wireless carrier. See the Third Party Advertising section above for more information.
+
+We may use and disclose aggregate information that does not identify or otherwise relate to an individual for any purpose, unless we are prohibited from doing so under applicable law. 
+
+* * *
+
+### Third Party Services▲ Back to Top
+
+* * *
+
+You may see third-party links or integrations on the Services. Keep in mind that this Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
+
+* * *
+
+### Security▲ Back to Top
+
+* * *
+
+Turning Betternet on encrypts all of the traffic between your device and our servers using TLS 1.2 with perfect forward secrecy (ECDHE), 128-bit AES data encryption, and HMAC message authentication. This means that your web traffic on unsecured networks such as public Wi-Fi at cafés, airports, etc. will be securely encrypted by Betternet. This encryption also means that your Internet Service Provider (ISP) will not be able to snoop on your web traffic and create records of the websites you are visiting while using Betternet; all they will see is that all of your traffic is being sent to and from our servers.
+
+We also use certain physical, organizational, and technical safeguards that are designed to maintain the integrity and security of information that we collect. Please be aware that no security measures are perfect or impenetrable and thus we cannot and do not guarantee the security of your data.
+
+* * *
+
+### Your Choices and Access▲ Back to Top
+
+* * *
+
+We do not require that you provide us with your email or any contact information to use our Services. But if you do provide us an email, from time to time you may receive marketing e-mail messages from us. If you no longer want to receive such emails from us on a going forward basis, you may opt-out via the “unsubscribe” link provided in each such email.
+
+* * *
+
+### Use of Services by Minors▲ Back to Top
+
+* * *
+
+The Services are not directed to individuals under the age of thirteen (13), and we request that they not provide personal information through the Services. If we find out that a child under 13 has provided personal information, we will take steps to delete that information.
+
+* * *
+
+### International Cross-Border Data Transfer▲ Back to Top
+
+* * *
+
+Betternet uses servers hosted in the United States. Please note that we may be transferring your information outside of your region for storage and processing in the United States and around the globe. By using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country.
+
+* * *
+
+### Updates to this Privacy Policy▲ Back to Top
+
+* * *
+
+We may make changes to this Privacy Policy. The “Last Updated” date at the top of this page indicates when this Privacy Policy was last revised. If we make material changes, we may notify you through the Services or by sending you an email or other communication. We encourage you to read this Privacy Policy periodically to stay up-to-date about our privacy practices. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+
+* * *
+
+### Contact Us▲ Back to Top
+
+* * *
+
+If you have any questions about this Privacy Policy, please contact us at [support@betternet.co](mailto:support@betternet.co).
+
+Because email communications are not always secure, please do not include sensitive information in your emails to us.
