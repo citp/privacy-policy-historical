@@ -1,26 +1,27 @@
-> *The following text is extracted and transformed from the carhartt.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623093348id_/http%3A//www.carhartt.com/content/carhartt-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carhartt.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225002346id_/http%3A//www.carhartt.com/content/carhartt-privacy-policy) for the most accurate reproduction.*
 
 # Carhartt Privacy Policy
 
 **CARHARTT WEBSITE PRIVACY POLICY**
 
-Last Updated: March 28, 2014 
+Last Updated: November 29, 2017 
 
 We appreciate the trust you place in Carhartt, and we are committed to respecting your privacy and the security of your personal information. This privacy statement discloses the privacy practices for [www.carhartt.com](http://www.carhartt.com/). The statement does not include the privacy practices for partnered sites. We encourage our users who visit external sites from links within Carhartt.com to read the privacy statements of those sites, as their privacy practices may differ from ours and will govern their using your information. If you have questions or concerns regarding this privacy policy, you should first contact us via [e-mail](mailto:just_ask_us@carhartt.com) or by calling 1-800-833-3118. If you prefer to write us our postal address is below. 
 
 Carhartt Customer Service   
-P.O. Box 600  
+P.O. Box 600   
 Dearborn, MI 48126 
 
-**Disclosure of Personal Information**
+**How We Disclose Personal Data**  
+Carhartt will only disclose your Personal Data with your knowledge and as stated in this Privacy Policy or as indicated at the time of collection. This includes disclosures that will enable us to fulfill our obligations to you, and allows us to manage our business operations. We will only share your Personal Data with third parties in certain limited instances, namely with your consent, or as is necessary to complete a transaction or provide a product, service, or feature that you have requested. We may disclose your Personal Data as described in this Privacy Policy and in the following ways: 
 
-Carhartt only gathers personally identifiable information when voluntarily submitted by you. Examples of personally identifiable information are first and last names, addresses, credit card numbers, and email addresses. Carhartt may ask you to provide identifiable information when you perform the following types of activities:
+At Carhartt, we always want to provide you with the best possible shopping experience and fulfill your orders exactly as you've requested. In order to do this, we collect information that allows us to: 
 
-Improve our merchandise selection and customer service
+Improve our merchandise selection and customer service 
 
- **Cookies**
+**Cookies**
 
-We regularly use technologies such as cookies. A "cookie" is a small file stored by your web browser on your computer. Cookies allow us to recognize who you are, when you arrive at our site, by associating an anonymous identification number in the cookie. At no time is your personally identifiable information stored within one of our cookies.
+We regularly use technologies such as cookies. A "cookie" is a small file stored by your web browser on your computer. Cookies allow us to recognize who you are, when you arrive at our site, by associating an anonymous identification number in the cookie. At no time is your personally identifiable information stored within one of our cookies. 
 
 We have selected an outside company, Omniture by Adobe, to assist us in better understanding how people use our site. Cookies will be placed on your computer to collect non-personal information. The information that is collected through these cookies tells us things like which search engine referred you, how you navigated around our site, what you browsed and purchased and what traffic is driven by banner ads and emails. Carhartt.com does not allow Omniture by Adobe to collect credit card, username or password information. 
 
@@ -32,28 +33,28 @@ We also contract with a third-party advertising partner to serve ads on our beha
 
 **How We Use Email**
 
-When you provide us your email address, we may send you emails related to processing your order or to respond to a request. For example, after you place an order at carhartt.com, you will receive an email confirmation and, in most cases, an email with package tracking information.
+When you provide us your email address, we may send you emails related to processing your order or to respond to a request. For example, after you place an order at carhartt.com, you will receive an email confirmation and, in most cases, an email with package tracking information. 
 
-If you decide to participate in our Field Testing Program your email address will be used to send you surveys periodically.
+If you decide to participate in our Field Testing Program your email address will be used to send you surveys periodically. 
 
- **Security**
+**Security**
 
-In our efforts to protect your information, Carhartt uses a variety of technical safeguards, such as firewalls, and we physically secure our servers.
+In our efforts to protect your information, Carhartt uses a variety of technical safeguards, such as firewalls, and we physically secure our servers. 
 
-In addition, when you make a purchase, request a catalog, or create an account on our website, your information is transmitted in an encrypted format.
+In addition, when you make a purchase, request a catalog, or create an account on our website, your information is transmitted in an encrypted format. 
 
-The Carhartt.com website may contain links to other sites. Carhartt does not control the use of personally identifiable information on these websites. You should review the privacy policies of every website before providing any personal information. Carhartt is not responsible for the conduct or practices of any linked websites. These links are provided solely for the convenience and information of our visitors.
+The Carhartt.com website may contain links to other sites. Carhartt does not control the use of personally identifiable information on these websites. You should review the privacy policies of every website before providing any personal information. Carhartt is not responsible for the conduct or practices of any linked websites. These links are provided solely for the convenience and information of our visitors. 
 
- **Privacy of Children on Our Website**
+**Privacy of Children on Our Website**
 
-Our website is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
+Our website is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13. 
 
- **Policy Changes**
+**Policy Changes**
 
 From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy policy notice. Before our information practices change, we will post these changes on our website. We encourage you to review our privacy policy periodically.
 
- **Questions or Comments?**
+**Questions or Comments?**
 
 For questions, comments or assistance, we invite you to [contact us](https://web.archive.org/ContactUsDisplayView?storeId=10201&catalogId=10551&langId=-1)
 
-We hope to answer any questions to your satisfaction, but should you ever want to contact a third party regarding our privacy practices, you can email the Direct Marketing Association's Committee on Ethical Business Practices at mgoldberger@the-dma.org. The DMA is the oldest and largest association for consumers and companies with interest in direct marketing. You may also contact the Federal Trade Commission by phone at 202-FTC-HELP (202-382-4357 ) or electronically at http://www.ftc.gov/ro/index.shtml
+We hope to answer any questions to your satisfaction, but should you ever want to contact a third party regarding our privacy practices, you can email the Direct Marketing Association's Committee on Ethical Business Practices at mgoldberger@the-dma.org. The DMA is the oldest and largest association for consumers and companies with interest in direct marketing. You may also contact the Federal Trade Commission by phone at 202-FTC-HELP (202-382-4357 ) or electronically at http://www.ftc.gov/ro/index.shtml 
