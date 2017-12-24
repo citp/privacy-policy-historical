@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecigadvanced.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211181517id_/http%3A//www.ecigadvanced.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigadvanced.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224210639id_/https%3A//www.ecigadvanced.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Electronic Cigarette News
+# Privacy Policy – Electronic Cigarette News
 
 **What information do we collect?**  
 We collect information from you when you register on our site through the [Forums](http://www.ecigadvanced.com/forums), [Vape For Free](http://www.ecigadvanced.com/rewards/) or subscribe to our newsletter.
@@ -50,3 +50,5 @@ By using our site, you consent to our privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page and update the Privacy Policy modification date below.
 
 This policy was last modified on 3/19/2013
+
+Did you find apk for android? You can find new [Free Android Games](https://dlandroid24.com/) and apps.
