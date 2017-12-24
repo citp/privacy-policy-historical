@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrywinston.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619031016id_/http%3A//www.harrywinston.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrywinston.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224162430id_/http%3A//www.harrywinston.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harry Winston
 
