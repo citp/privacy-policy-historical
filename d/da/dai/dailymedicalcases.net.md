@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailymedicalcases.net privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601062152id_/http%3A//www.dailymedicalcases.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymedicalcases.net privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224133732id_/http%3A//www.dailymedicalcases.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DailyMedicalCases.net
 
@@ -12,9 +12,6 @@ DailyMedicalCases.net is not interested in and does not collect any sensitive pe
 
 **Cookies**  
 When you visit the DailyMedicalCases.net, our website sends your computer a cookie, which is a small file that resides on your computer’s hard drive and contains non-personally identifiable information about the user. Cookies allow DailyMedicalCases.net to make its website more useful by storing information about your preferences (your language preference, websites you have shorted recently etc). Also cookies are used from third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
-
-_Sponsored Advertisement_  
-
 
 **Third Party Advertising**  
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
@@ -33,4 +30,5 @@ You can contact us with regard to this Privacy Policy using our [contact form](h
 
 _This statement was last updated September 14, 2016._
 
-_Sponsored Advertisement_
+_Sponsored Advertisement_  
+
