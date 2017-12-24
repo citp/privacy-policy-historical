@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedtest.co.id privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625063508id_/http%3A//www.speedtest.co.id/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedtest.co.id privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224050616id_/http%3A//www.speedtest.co.id/privacy-policy.html) for the most accurate reproduction.*
 
 # None
 
