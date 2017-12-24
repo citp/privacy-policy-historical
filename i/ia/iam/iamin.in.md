@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamin.in privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624204346id_/http%3A//www.iamin.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamin.in privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224123222id_/http%3A//www.iamin.in/privacypolicy) for the most accurate reproduction.*
 
 # I am in dna of India- Privacy Policy
 
