@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeaddon.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612164946id_/http%3A//freeaddon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeaddon.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224194539id_/http%3A//freeaddon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Addons
 
@@ -18,4 +18,4 @@ We may collect **non-personal and technical information** from you. We currently
 
 4\. **_Contact Information_**
 
-If you have any questions or comments about this Policy, please contact us at [support@freeaddon.com](mailto:support@freeaddon.com).
+If you have any questions or comments about this Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#73000603031c010733150116161217171c1d5d101c1e).
