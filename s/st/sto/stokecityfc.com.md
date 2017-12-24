@@ -1,256 +1,60 @@
-> *The following text is extracted and transformed from the stokecityfc.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619101404id_/http%3A//www.stokecityfc.com/global/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stokecityfc.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224014541id_/http%3A//www.stokecityfc.com/cookie-privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Cookie & Privacy Policy | Stoke City FC
 
-  * twitter
-  * facebook
-  * email
-  * print
+This privacy policy sets out how this website (hereafter "the Website") uses and protects any information that you give the Website while using this website. The Website is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. The Website may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
+**What we collect**  
+We may collect the following information:
 
-
-By 
-
-**COOKIES & PRIVACY POLICY**
-
-Please take a moment to read this Website's Privacy Policy set out below. References to "we", "us" and "our" in this policy are references to FL Interactive Limited (Company Number: 04112553) c/o The Football League Limited Unit 5B Edward VII Quay, Navigation Way, Preston, Lancashire, PR2 2YF. We may however appoint third parties to store and process your information on our behalf.
-
-Protecting your privacy is very important to us. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to how we process your information please contact us using the details below.
-
-We reserve the right to change the terms of this policy from time to time and your continued use of the Website will be deemed to be acceptance of amendments we make. This Privacy Policy was last updated on 25 May 2012.
-
- **1\. What information do we collect about you?**
-
-At various times during a visit to this Website you may be asked to provide us with personal information (for example your name and contact details). This may be in connection with activities such as registration for newsletters, operation of our subscription services, social sharing, competitions and activity for our partners.
-
-In common with many other online services we may also use "cookies" to collect information about how you use the Website. This information is used to produce statistical reports on website activity and allows us to tailor the Website to suit your interests. Examples include:
-
-  * enabling a service to recognise your device so you don't have to give the same information several times during one task
-  * recognising that you may already have given a username and password so you don't need to do it for every web page requested
-  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are delivered quickly to your web browser
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-A cookie is a small amount of data sent from the server and stored on your computer's hard drive. Most web browsers are automatically set up to accept cookies, but you can set your browser to refuse cookies or ask your browser to show you where a cookie has been set up. Please note that certain features of this Website are only activated by the presence of a cookie and if you choose to refuse cookies these features may not be available to you.
+For the exhaustive list of cookies we collect see the List of cookies we collect section.
 
-All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.
+**What we do with the information we gather**  
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-[Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)  
-[Cookie settings in Firefox](http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)  
-[Cookie settings in Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)  
-[Cookie settings in Safari](http://support.apple.com/kb/PH5042)
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-We do not recommend turning cookies off when visiting your club website, as this will prevent you from using many of the services on the site.
 
-For further information about cookies and how to control their use, please visit the following third party educational resources: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 
- **In the context of the website, the following cookies are deployed:**
+**Security**  
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
- **Cookie**|  **Name**|  **Description**  
----|---|---  
-ASP.NET Session Cookie| ASP.NET_SessionId| This is an essential cookie created when request is made for any web page. This is a session ID used to identify a session state of a user.  
-Site acceptance cookie| 
+**How we use cookies**  
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-AC_SplashCookie
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-IN_SplashCookie
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-ED_SplashCookie
+**Links to other websites**  
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-| This cookie is used to record if a user has accepted the use of cookies  
-Google Analytics| _utma   
-_utmb   
-_utmc   
-_utmz| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
-Advertising| wousq   
-AFFICHE_W   
-wbo_temps_reel   
-uuid   
-mt_mop   
-ts   
-wousq   
-AFFICE_W   
-wbo_temps_reel   
-CxtId   
-12bet   
-188bet   
-Admiral   
-Coral   
-id   
-_drt_   
-_wrvur   
-_wrvusr   
-id   
-mdata   
-OAX   
-_pooling| Advertising cookies created by "Ionos" and "High Media" to get user preferences.Advertising networks use cookies to keep track of ads they have already shown to a user.  
-Twitter| pid| Created when user lands the home page  
-Twitter| k   
-guest_id   
-original_referer   
-_twitter_sess   
-_utma   
-_utmb   
-_utmc   
-_utmz   
-_utmv| Twitter cookies created when twitter "Follow Button" is clicked.  
-Facebook| datr   
-lsd   
-reg_fb_gate   
-reg_fb_ref   
-wd   
-act   
-_e_117p_0| Facebook cookies created when Facebook share or like links clicked.  
-  
- **In the context of the Club Player service, the following cookies are deployed:**
+**Controlling your personal information**  
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-MatchListViewType| list   
-| Type of the list view used on the Latest News, Last Match etc.   
-| session cookie - expires when window closed   
-  
----|---|---|---  
-setDefaultVolume   
-| 4   
-| Holds the information about the default player volume   
-| 2 years   
-  
-cookietest   
-| ok   
-| used for testing if the cookies are enabled   
-| session cookie - expires when window closed   
-  
-giftCardExpirationCloseButtonHit   
-| FALSE   
-| Records if the gift card expiration pop-up was closed   
-| session cookie - expires when window closed   
-  
-giftCardExpirationInvalidity   
-| 1,44958E+12   
-| Contains information about gift card expiration   
-| session cookie - expires when window closed   
-  
-giftCardExpiration14daysReminder   
-|   
-| Contains information about gift card expiration in 14 days   
-| session cookie - expires when window closed   
-  
-giftCardExpiration7daysReminder   
-|   
-| Contains information about gift card expiration in 7 days   
-| session cookie - expires when window closed   
-  
-giftCardExpiration1dayReminder   
-|   
-| Contains information about gift card expiration in 1 day   
-| session cookie - expires when window closed   
-  
-ptvuid   
-| 340140   
-| User identification cookies   
-| 2 years   
-  
-ptvzon   
-| fname   
-| User identification cookies   
-| 2 years  
-ptvliet   
-|   
-| User identification cookies   
-| 2 years   
-  
-ptvliv   
-|   
-| User identification cookies| 2 years  
-s_cc   
-| TRUE   
-| Omniture - website analytics   
-| session cookie - expires when window closed   
-  
-s_sq   
-| [[B]]   
-| Omniture - website analytics   
-| session cookie - expires when window closed   
-  
-tabPreferences34002   
-| 0   
-| Determines the selected tab (e.g. used for navigation)   
-| 1 hour   
-  
-tabPreferences37220   
-| 2   
-| Determines the selected tab (e.g. used for navigation)   
-| 1 hour   
-  
-tabPreferences401   
-| 0   
-| Determines the selected tab (e.g. used for navigation)   
-| 1 hour  
-takeover   
-| Y   
-| sets itself if already doesn't exist, nothing more   
-| session cookie - expires when window closed   
-  
-timeDifference   
-| 3601000   
-| Used for event countdown   
-| 24h   
-  
-accessibleCSSDisplay|   
-| Accessible version on/off   
-| 4 years   
-  
-ccExpirationInvalidity   
-|   
-| Used for credit card expiration notification   
-| session cookie - expires when window closed   
-  
-ccExpirationCCInvalidity|   
-| Used for credit card expiration notification   
-| session cookie - expires when window closed   
-  
-ccExpiration14DaysReminder   
-|   
-| Used for credit card expiration notification 14 d before card expiration   
-| session cookie - expires when window closed   
-  
-ccExpirationCloseButtonHit   
-| FALSE   
-| Records if the Credit card expiration pop-up was closed   
-| session cookie - expires when window closed   
-  
-  
-**2\. How will we use your personal information?**
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by letting us know using our Contact Us information
 
-Primarily we will use the personal information we collect about you to send you information you have requested, create a membership profile for you (allowing us to provide a personalised service when you visit the Website), assist in the provision of products and services to you and to enable us to review and improve the products or services offered to you.
 
-From time to time we would also like to contact you to let you know about products and services offered by us, our clubs, their official partners and other carefully selected third parties that may be of interest to you. We may also provide your details to carefully selected third parties in order for them to contact you directly about their products and services. By ticking the applicable boxes in the Privacy Notice you are deemed to agree to the use of your information for these purposes.
 
- **3\. What are my choices?**
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You have a right to stop us from contacting you for marketing purposes or giving your information to third parties. If you no longer wish to be contacted for marketing purposes please click on the "unsubscribe" URL link that is present on the bottom of your club website.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us this request using our Contact Us information.
 
-Customers who have opted out of receiving marketing communications will still receive payment and account related emails.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-You are also entitled to request a copy of the information that we hold about you. If you would like to do this please contact us using the details below. You may be required to pay a small fee for this service.
+**Storing and retaining your personal data**
 
-We want to make sure that the personal information we hold about you is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.
+We are committed to protecting the security of your personal data, which is held in secure data centres in the United Kingdom in accordance with current legislative requirements, industry standards and technology. We will keep the personal data you have provided for as long as we have a relationship with you; once that relationship has ended we will retain it in accordance with this Policy only for as long as we reasonably require and it will then be deleted and destroyed.
 
- **4\. When does this Privacy Policy not apply?**
-
-This Privacy Policy only applies to the collection of personal information by us and those whom we authorise. It does not cover third party sites to which we provide links, nor does it cover advertisers and content partners within our service who may also collect your personal information. If you link to third party websites from this Website you should read their privacy policies and terms of use carefully.
-
-If you place personal details on any publicly accessible page (for example on a message board) then this data will not be covered by our Privacy Policy.
-
- **5\. How do we protect your information?**
-
-We are firmly committed to data security. The personal information you provide to us is encrypted before it is sent to us and once it is received we store it on secure servers. We take steps to guard against unauthorised access to your personal information and to ensure it is treated in accordance with our Privacy Policy. Unfortunately, although we make every effort to create a secure environment for your personal information we cannot guarantee the safety of any personal information which you transmit to us online.
-
-The personal information we collect may be transferred to and/or stored or processed at a location outside the European Economic Area. By providing your personal information you consent to this transfer, storage and/or processing. We will take steps to ensure that your personal information is kept securely and in accordance with the Privacy Policy.
-
- **6\. Contacting us**
-
-Please contact us using the details below if you have any questions about our Privacy Policy or the information we hold about you:
-
-Email: [privacy@football-league.co.uk](mailto:privacy@football-league.co.uk)
-
-Address: Data Protection Compliance Officer, FL Interactive, Unit 5B Edward VII Quay, Navigation Way, Preston, Lancashire, PR2 2YF
+Some of the organisations to which we may disclose your personal information (including, but not limited to, our commercial partners) may be situated outside of the European Economic Area, in countries which may not have laws that protect privacy rights as extensively as in the United Kingdom. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy.
