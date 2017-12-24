@@ -1,122 +1,97 @@
-> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630115725id_/http%3A//www.boohoo.com/usa/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224181435id_/https%3A//www.boohoo.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy at boohoo.com
 
-We are committed to protecting and respecting the privacy of all visitors and users of this website.
+We are committed to protecting and respecting the privacy of all visitors and users of boohoo.com (the “Website”).
 
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We will only use your personal information in accordance with this privacy policy and applicable current data protection laws, including the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011.
+Please read the following carefully to understand our policy and practices regarding your personal information and how we will treat it. We will use your personal information in accordance with this Privacy Policy and applicable current data protection laws.
 
-This policy (together with our [terms of use](http://www.boohoo.com/usa/terms-of-use/pcat/termsofuse), [Cookie Policy](http://www.boohoo.com/usa/about-cookies/about-cookies/page/aboutcookies) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [Terms of Use](http://www.boohoo.com/page/terms-of-use.html "TCs") and [Cookie Policy](http://www.boohoo.com/page/cookies.html "Cookie Policy")) sets out the basis on which any personal information we collect from you, or that you provide to us, via this Website will be treated by us. Please read the following carefully to understand our policy and practices regarding your personal information before using this Website. By using our Website, you are accepting and consenting to the practices described in this Privacy Policy.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Boohoo.com UK Limited of 49-51 Dale Street, Manchester M1 2EH. Our nominated representative for the purpose of the Act is Neil Catto, who can be contacted at [legal@boohoo.com.](mailto:legal@boohoo.com)
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Boohoo.com UK Limited of 49-51 Dale Street, Manchester M1 2EH. Our nominated representative for the purpose of the Act is Neil Catto, who can be contacted at [legal@boohoo.com](mailto:legal@boohoo.com).
 
-By submitting your information and using our Website, you consent to the collection, storage and processing of your personal information by us in the manner set out in this privacy policy. You should print a copy of this privacy policy for future reference.
+We may collect and process the following data about you:
 
-## What personal information do we collect?
-
-If you decide to make an order with us, there is certain basic personal information that we will require from you in order to process your order (such as your name, delivery address, credit/debit card details, e-mail address and telephone number).
-
-We may also collect the following data about you to help us improve our service to you:
-
-  * Information that you provide by filling in forms on our site. This includes information provided at the time of registering to use our site, subscribing to any service which we provide, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by a third party, and when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through our site and of the fulfilment of your orders.
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+  * Information that you enter via our Website. This includes information provided at the time of registering an account on our Website, subscribing to any service which we provide, searching our Website, placing an order on our Website, participating in discussion boards or other social media functions on our Website, creating wish lists on our Website, or requesting further services. We may also collect and process information when you enter a competition or promotion, and when you report a problem with our Website. The information you give us may include without limitation your name, postal address, e-mail address, password, telephone number, financial and credit card information, age, occupation, personal description, photograph, product interests and style interests.
+  * Details of transactions you carry out through our Website and of the fulfilment of your orders.
+  * If you contact us (by phone, email, or otherwise), we may keep a record of our correspondence with you.
+  * Information you provide when you enter a survey (we may ask you to complete surveys that we use for research purposes, although you do not have to respond to them).
+  * Details of any request you make through the “Tell a Friend” function of our Website.
+  * Technical information may be collected automatically, including without limitation the Internet protocol (IP) address used to connect your computer or device to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform.
+  * Details of your visits to our Website may be collected automatically, including without limitation full Uniform Resource Locators (URL) clickstream to, through and from our Website (including date and time), products and pages you viewed or searched for, page response times, download errors, lengths of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page (including information about how you use social media plug-ins), traffic data, location data, weblogs and other communication data.
+  * We are also working closely with third parties (including for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies and fraud prevention service providers) and may receive information about you from them.
 
 
 
-We will only pass on your personal information to third parties if it is an essential part of trading with you (i.e. passing on your name and address to our carriers, or telephone number should there be a query with delivery). We will not rent or sell your name, address, email address, credit card details or any other personal information to any unrelated third party.
+We are strongly committed to preserving online privacy for all of our Website visitors, including children. The Website is a general audience site, and we do not knowingly collect information about children or sell products to children. We will not knowingly collect any information from children under the age of 13. If you are under the age of 13, you are not permitted to use or submit information to the Website. 
 
-## IP addresses and cookies 
+Our Website uses cookies to distinguish you from other users of our Website and to keep track of your visits. They help us to provide you with the very best experience when you browse our Website and to make improvements to our Website. They also help us and our advertising networks to make advertising relevant to you and your interests. For detailed information on the cookies which we use and the reasons why we use them, see our Cookie Policy [Cookie Policy](http://www.boohoo.com/page/cookies.html "TCs"). 
 
-We also use your Internet Protocol (IP) address. An IP address is a set of numbers, which is assigned to your computer during a browsing session. It is automatically logged by our servers and used to collect traffic data about visitors to our websites. We do not use your IP address to identify you personally.
+The data that we collect from you may be transferred to, and stored at, destinations outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
-Our site uses cookies to distinguish you from other users of our site and to keep track of your visits. This helps us to provide you with the very best experience when you browse our site and to make improvements. For detailed information on the Cookies which we use and the reasons why we use them, see our [Cookie Policy](http://www.boohoo.com/usa/about-cookies/about-cookies/page/aboutcookies)
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted via our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-## Site statistics
+We use a trusted third party payment processing service to process your payment to us and we do not store your credit/debit card information. You can elect to save your credit or debit card details once your order on our Website has been processed, to make any future orders easier. However, for your security you will need to enter your card’s 3-digit security code for every subsequent transaction where you elect to use the saved credit/debit card. If you elect to store your credit or debit card details after an order on the Website, your credit/debit card details will be stored with our trusted third party payment processor.
 
-## USE OF ANALYTICS TOOLS
+We use secure socket layer software (SSL) to encrypt personal information that you provide via your registered account on our Website (including your payment details). This technology prevents you from inadvertently revealing personal information using an unsecure connection. Our Website is certified with an SSL certificate, which verifies that our Website is secure.
 
-In order to better serve our Website visitors and customers we may use Google Analytics features such as Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration and/or Google Analytics Demographics and Interest Reporting **(Google Display Advertising Features).**
-
-You can opt-out of the Google Display Advertising Features and customise Google Display Network ads using the [Ad Settings.](https://www.google.com/settings/ads)
-
-As an added privacy measure, you can use the [Google Analytics opt-out browser add on.](https://tools.google.com/dlpage/gaoptout/)
-
-We will not facilitate the merging of personally-identifiable information we hold or collect with non-personally identifiable information collected from the Google Display Advertising Features unless we have received your active prior consent to such merger.
-
-We may use Remarketing with Google Analytics to advertise online. Third party vendors, including Google, may show our ads on sites across the internet. We and third party vendors, including Google, may use cookies set by the Google Display Advertising Features to inform, optimise and determine which ads you see on our Website, including ads based on your previous visits to our Website.
-
-Regarding Google Display Network Impression Reporting and the DoubleClick Campaign Manager integration, we and third party vendors, including Google, may use cookies set by the Google Display Advertising Features to analyse and report on ads used on our Website including but not limited to the impressions created by the ads and how these interact with other ad features and other features and services.
-
-Regarding Google Analytics Demographics and Interest Reporting, we may use data from Google's Interest-based advertising and/or third party audience data (such as age, gender and interests) with Google Analytics to target and improve our marketing campaigns, marketing strategies and our Website content.
-
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-We follow strict security procedures in the storage and disclosure of personal information to prevent unauthorised access or unlawful processing of your personal information. We keep your information confidential and store it on a secure server which is password protected and hidden behind a firewall.
-
-We use secure socket layer software (SSL) to encrypt all of your personal information including your credit card number and your name and address. This technology prevents you from inadvertently revealing personal information using an insecure connection.
-
-The GeoTrust program allows you to learn more about web sites you visit before you submit any confidential information. When you see a GeoTrust logo, clicking on it will verify that this web site is secure.
-
-Boohoo.com can optionally save your credit or debit card details once your order has been processed, to make any future orders easier. However, for your security you will need to enter your card’s 3-digit security code for every transaction.
-
-We recommend that you always close down your internet browser when you have finished shopping online especially if you use a shared PC. This will delete temporary cookies from any sites that you may have visited.
-
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-## We will never send an email or telephone you to ask for your security information or log on details.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site. Any transmission is at your own risk. You accept the inherent security risks of providing information and dealing on line over the internet. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. We will not be held responsible for any breach of security unless this is due to our negligence or wilful default.
-
-## Uses made of the information
+We keep your information confidential and store user personal data on a secure server which is password protected and hidden behind a firewall.
 
 We may use information held about you to:
 
-  * set up, manage your account and contact you about your account;
-  * ensure that content from our site is presented in the most effective manner for you and for your computer;
-  * provide you with, or permit third parties to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
-  * carry out our obligations arising from any contracts entered into between you and us;
-  * allow you to participate in interactive features of our service, when you choose to do so; and,
-  * notify you about changes to our service.
+  * carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
+  * set up, manage and contact you about your account and orders;
+  * update and manage our customer and marketing databases;
+  * ensure that content from our Website is presented in the most effective manner for you and for your computer or device;
+  * provide you with information about other products and services we offer that are similar to those that you have already purchased or enquired about;
+  * provide you, or permit selected third parties to provide you, with information about other products or services (including products and services that are co-branded or that we are otherwise engaged with promoting) that we feel may interest you, where you have consented to be contacted for such purposes;
+  * personalise emails that we send to you, including using your name to address emails to you and using your gender to provide gender-specific content;
+  * allow you to participate in interactive features of our service, when you choose to do so (including creating links to our website in your social media channels);
+  * carry out market research and analysis;
+  * notify you about changes to our service;
+  * administer and improve our Website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+  * measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * confirm your age and identity, and to identify and prevent fraud;
+  * keep our Website safe and secure; and comply with applicable law; enforce or apply our Terms of Use, Terms and Conditions of Sale and other agreements; or protect the rights, property or safety of Boohoo.com UK Limited, any of our group companies, our customers or others.
 
 
 
-## Marketing and Communications
+In order to better serve our Website visitors and customers we may use Google Analytics features such as Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration and/or Google Analytics Demographics and Interest Reporting (Google Display Advertising Features).
 
-You will have the opportunity to subscribe to other areas of the site. For instance you may wish to receive our newsletter or other marketing information (by E-Mail or Direct Mail) or enter competitions. In these circumstances we will ask for additional information, such as your age, occupation, style interests etc. This will help us to target our marketing in a way we feel would be of specific interest to you. We may from time to time send with your ordered products, inserts advertising the goods or services of unrelated third party companies. However, we do not pass on your personal data to these third party companies.
+You can opt-out of the Google Display Advertising Features and customise Google Display Network ads using the [Ad Settings](https://www.google.com/settings/u/0/ads/authenticated "Ad Settings").
 
-## Disclosure of your information
+As an added privacy measure, you can use the [Google Analytics opt-out browser add on](https://tools.google.com/dlpage/gaoptout/ "Google Analytics opt-out browser add on").
+
+Regarding Google Display Network Impression Reporting and the DoubleClick Campaign Manager integration, we and third party vendors, including Google, may use cookies set by the Google Analytics features to analyse and report on ads used on our Website including but not limited to the impressions created by the ads and how these interact with other ad features and other features and services.
+
+Regarding Google Analytics Demographics and Interest Reporting, we may use data from Google's Interest-based advertising and/or third party audience data (such as age, gender and interests) with Google Analytics to target and improve our marketing campaigns, marketing strategies and our Website content.
+
+We may use Remarketing with Google Analytics to advertise online. Third party vendors, including Google, may show our ads on sites across the internet. We and third party vendors, including Google, may use cookies to inform, optimise and determine which ads you see on our Website and third party websites, including ads based on your previous visits to our Website.
+
+We may also use analytics and targeted advertising tools provided by other third parties, including Facebook, Adroll, Responsys, Salescycle and Bing. Please see our Cookie Policy [Cookie Policy](http://www.boohoo.com/page/cookies.html "TCs") for further information (including a list of the cookies used by our Website).
+
+You will have the opportunity to subscribe to certain areas of the Website and marketing lists. For instance you may wish to receive our newsletter or other marketing information (by e-mail or direct mail) or enter competitions. In these circumstances we may ask for additional information, such as your age, occupation, style interests, etc. We will also treat this information as “personal information,” as described in this policy. This will help us to target our marketing in a way we feel would be of specific interest to you. We may from time to time send with your ordered products, inserts advertising the goods or services of unrelated third party companies. However, we do not pass on your personal information to these third party companies, except as provided elsewhere in this Privacy Policy.
 
 We may disclose your personal information:
 
-  * To any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985; 
-  * If Boohoo.com UK Limited or substantially all of its assets are acquired by a third party in which case personal data held by it about its customers will be one of the transferred assets and, in which case, we may disclose your personal data to the prospective seller or buyer of such business or assets;
-  * to protect our customers and boohoo.com from fraud and theft, we may pass on personal information that we obtain from making identity checks, together with account information to organisations including law enforcement agencies, involved in fraud prevention and detection and credit risk reduction;
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or,
-  * in order to enforce or apply our terms of use or terms and conditions of supply of products and other agreements; or to protect the rights, property, or safety of Boohoo.com UK Limited, our customers, or others.
+  * where you have consented for us to do so. For example, if you have consented to receive marketing materials from third parties, or in respect of third parties’ (including co-branded or jointly promoted) products and services, we may pass your information on to the relevant third parties; 
+  * to business partners, suppliers, sub-contractors and other third parties as necessary for the performance of any contract we enter with you or any service you have requested (for example, we engage third parties to deliver packages, to host our Website and to process card payments, and your payment information will be provided to financial institutions (including banks and card schemes) in order to process your transactions);
+  * to business partners, suppliers and sub-contractors as necessary for the performance of any contract we enter with them (for example, we engage third parties to send emails and postal mail on our behalf, to provide data cleansing services and to provide marketing and advertising services);
+  * to analytics and search engine providers that assist us in the improvement and optimisation of our Website;
+  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+  * if Boohoo.com UK Limited or substantially all of its assets are acquired by a third party in which case personal information held by it about its customers will be one of the transferred assets;
+  * to protect our customers and Website from fraud and theft. We may pass on personal information that is required to make identity checks and personal information that we obtain from making identity checks (including information relating to your age, name and location), together with account information to organisations including law enforcement agencies, involved in fraud prevention and detection and credit risk reduction. Please note that these third parties may retain a record of the information that we provide to them for this purpose;
+  * if we are under a duty to disclose or share your personal information in order to comply with any legal obligation; or,
+  * in order to enforce or apply our Terms of Use or Terms and Conditions of Sale and other agreements; or to protect the rights, property, or safety of Boohoo.com UK Limited, any of our group companies, our customers, or others.
 
 
 
-Unless required to do so by law, we will not otherwise share, sell or distribute any of the personal information you provide to us without your consent.
+You have the right to ask us not to process your personal information for marketing purposes. We will usually inform you (before collecting your data) if we intend to disclose your information to any third party for such purposes. If you do not wish to receive marketing information from us you have the option of ‘opting out’ at any time. Clear instructions on how to opt out of each area will be detailed specifically (for instance, at the bottom of our e-newsletter you will have the option to unsubscribe by clicking a link). Alternatively, you can let us know in writing at customer.marketing@boohoo.com or via your registered account on our website if you wish to exercise the right to opt-out.
 
-## Your rights
+Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates, or to social media platforms. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal information to these websites.
 
-### Opting Out
+The Act gives you the right to access information held about you, and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please write to us at legal@boohoo.com. Your right of access can be exercised in accordance with the Act. We may charge you an administrative fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. If you no longer wish to receive marketing information from us you have the option of ‘opting out’. Clear instructions on how to opt out of each area will be detailed specifically (for instance at the bottom of our e-newsletter you will have the option ‘To unsubscribe form our emails click here’). Alternatively, please let us know in writing.
+We reserve the right to change this policy at any time. If we change our privacy policy we will post the changes on this website, and where appropriate notify you. Please check back frequently to see any updates or changes to our privacy policy. The most recent version of this policy is reflected by the date located at the bottom of this policy.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-### Access to information
-
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please write to us at 49/51, Dale Street, Manchester, England, M1 2HF. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-### Changes to our privacy policy
-
-We reserve the right to change this policy at any time. If we change our privacy policy we will post the changes on this website.
-
-### Contact
-
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to 49/51, Dale Street, Manchester, England, M1 2HF.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to legal@boohoo.com.
