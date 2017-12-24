@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btn.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612180514id_/http%3A//btn.com/about/btn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btn.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224091448id_/http%3A//btn.com/about/btn-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Big Ten Network
 
