@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erated.me privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608182327id_/http%3A//erated.me/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erated.me privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224070414id_/http%3A//erated.me/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
