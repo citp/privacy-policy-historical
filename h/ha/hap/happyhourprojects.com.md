@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyhourprojects.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624105811id_/http%3A//happyhourprojects.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyhourprojects.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224131220id_/http%3A//happyhourprojects.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Happy Hour Projects
 
