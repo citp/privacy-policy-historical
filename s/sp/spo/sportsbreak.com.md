@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sportsbreak.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618030042id_/http%3A//www.sportsbreak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbreak.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224011145id_/http%3A//www.sportsbreak.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SportsBreak
+# Privacy Policy – SportsBreak
 
-At Sportsbreak.com, the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+Privacy Policy 
+
+At SportsBreak.com, the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
 This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
 
@@ -29,6 +31,6 @@ If you wish to disable cookies you may do so through your web browser options. I
 
 **3\. Other**
 
-Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from Sportsbreak.com. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
+Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from SportsBreak.com. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@sportsbreak.com](mailto:admin@sportsbreak.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@sportsbreak.com](mailto:admin@sportsbreak.com).
