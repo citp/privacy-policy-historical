@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivintarena.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625052536id_/http%3A//vivintarena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivintarena.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224041236id_/http%3A//www.vivintarena.com/privacy-policy) for the most accurate reproduction.*
 
 # Vivint Smart Home Arena
 
