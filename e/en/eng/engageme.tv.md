@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engageme.tv privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620012750id_/http%3A//engageme.tv/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engageme.tv privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224061453id_/http%3A//engageme.tv/privacypolicy.php) for the most accurate reproduction.*
 
 # EngageMe.TV - Watch Awesome Videos, Get Rewarded!
 
