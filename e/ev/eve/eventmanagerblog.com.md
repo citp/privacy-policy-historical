@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the eventmanagerblog.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609062938id_/http%3A//www.eventmanagerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventmanagerblog.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224055003id_/http%3A//www.eventmanagerblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy & Terms of Use
 
 1\. Introduction  
-1.1 We are committed to safeguarding the privacy of our website visitors and readers; in this policy we explain how we will treat your personal information.
+1.1 EventManagerBlog.com or EventMB is owned and operated by Social Coup LLC, a company incorporated in the State of Nevada, USA. This privacy policy and Terms of Use set out the basis on which any personal data that we have collected about you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.  
+We review this privacy policy regularly. Occasionally we may need to make changes or additions to this privacy policy that may affect how we handle your data. We will post new versions of this privacy policy on our website (the “Site”). We are committed to safeguarding the privacy of our website visitors and readers; in this policy we explain how we will treat your personal information.
 
 2\. Collecting personal information  
 2.1 We may collect, store and use the following kinds of personal information:  
 (a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths);  
-(b) information that you provide to us when registering with our website (including your email address);  
+(b) information that you provide to us when registering with our website;  
 (c) information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (including your name and email address);  
 (e) information that you provide to us when using the services on our website, or that is generated in the course of the use of those services (including the timing, frequency and pattern of service use);  
 (f) information relating to any purchases you make of our services or any other transactions that you enter into through our website (including your name, address, telephone number, email address and card details);  
@@ -20,9 +21,9 @@
 2.2 Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with this policy.
 
 3\. Using your personal information  
-3.1 Personal information submitted to us through our website and resources, including publications and webinars, will be used for the purposes specified in this policy or on the relevant pages of the website or individual resources.  
+3.1 Personal information submitted to us through our website and resources, including digital publications and webinars, will be used for the purposes specified in this policy or on the relevant pages of the website or individual resources.  
 3.2 We may use your personal information to:  
-(a) supply to you services purchased or subscribed to through our website, including but not limited to the transmission of your data to the Convention Industry Council following your application for credits on our CMP Portal;  
+(a) supply to you services purchased or subscribed to through our website, including but not limited to the transmission of your data to the Event Industry Council following your application for credits on our CMP Portal;  
 (b) send statements, invoices and payment reminders to you, and collect payments from you;  
 (c) send you non-marketing commercial communications;  
 (d) send you email notifications that you have specifically requested;  
@@ -86,4 +87,4 @@ We may use Google’s remarketing service to target our or third party’s ads t
 12.2 We are registered in State of Nevada.  
 12.3 You can contact us by using our website contact form or by email to ‘contact at eventmanagerblog dot com’
 
-Last reviewed: March 30, 2017
+Last reviewed: November 2017.
