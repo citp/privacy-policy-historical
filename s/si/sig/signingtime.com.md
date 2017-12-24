@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signingtime.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621212157id_/http%3A//www.signingtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signingtime.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224193210id_/http%3A//www.signingtime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Signing Time
 
