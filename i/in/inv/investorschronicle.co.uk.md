@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorschronicle.co.uk privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523151753id_/http%3A//www.investorschronicle.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorschronicle.co.uk privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225004412id_/http%3A//help.ft.com/help/legal-privacy/privacy) for the most accurate reproduction.*
 
 # Help | FT Help | FT.com Privacy Policy
 
