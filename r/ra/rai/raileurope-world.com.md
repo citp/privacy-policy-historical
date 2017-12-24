@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the raileurope-world.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410083306id_/http%3A//www.raileurope-world.com/about-us/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raileurope-world.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224051745id_/http%3A//raileurope-world.com/about-rail-europe/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Rail Europe - Train travel in Europe
 
 ### Privacy Policy
 
-RAIL EUROPE 4 A is a French company with capital of 915,000 euros, with registered office located at Les Collines de l’Arche, Immeuble Concorde B, 76 route de la Demi-Lune, 92800 Puteaux, France.  
-Registered in the Paris Register Trade and Companies under number 401 714 993.  
+RAIL EUROPE SAS is a French company with capital of 1 179 655 euros, with registered office located at Les Collines de l’Arche, Immeuble Concorde B, 76 route de la Demi-Lune, 92800 Puteaux, France.  
+Registered in the Nanterre Register Trade and Companies under number 401 714 993.  
 Registered in the French Register of Travel Agents and Tour Operators ("Registre des opérateurs de voyages et de séjours") under number IM075160030.
 
 ### Article 1 - Use of data
