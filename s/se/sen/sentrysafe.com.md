@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sentrysafe.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111358id_/http%3A//www.masterlock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sentrysafe.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224230846id_/https%3A//www.masterlock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Master Lock
 
@@ -90,7 +90,7 @@ If you have any questions about this Policy, please email us at [masterlock@mloc
 
 You can also write to us or call at: Master Lock Company LLC World Headquarters Attn: Customer Care
 
-137 W. Forest Hill Avenue Oak Creek, WI 53154 Phone: 1-800-464-2088
+6744 S Howell Avenue Oak Creek, WI 53154 Phone: 1-800-464-2088
 
 ### We may update this Policy.
 
