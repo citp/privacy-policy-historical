@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moejackson.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616065515id_/http%3A//moejackson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moejackson.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224054731id_/http%3A//moejackson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MoeJackson
 
