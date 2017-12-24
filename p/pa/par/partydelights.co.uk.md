@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the partydelights.co.uk privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610083839id_/http%3A//www.partydelights.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partydelights.co.uk privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224055326id_/http%3A//www.partydelights.co.uk/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy | PartyDelights.co.uk
+# Privacy Policy
 
-Party Delights Limited (“We”) are committed to protecting and respecting your privacy.
+Party Delights Limited ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it 
+This policy (together with and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Party Delights Limited Unit 4 Tallow Way, Fairhills Road, Irlam, Manchester, M44 6RJ
+For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Party Delights Limited Unit 4 Tallow Way, Fairhills Road, Irlam, Manchester, M44 6RJ
 
 ## Information we may collect from you
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site www.partydelights.co.uk, www.delights.co.uk and www.m.partydelights.co.uk (“our sites”). This includes information provided at the time of registering to use our site, placing an order, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Party Delights Limited, and when you report a problem with our site.
+  * Information that you provide by filling in forms on our site www.partydelights.co.uk and www.delights.co.uk ("our sites"). This includes information provided at the time of registering to use our site, placing an order, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Party Delights Limited, and when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through our site and of the fulfilment of your orders.
@@ -58,7 +58,7 @@ If you do not want us to use your data in this way please either:
   * If at any time you wish to have your information removed from our active databases, please contact us. You will be able to unsubscribe anytime by clicking on the unsubscribe link at the bottom of all our email communications. 
   * You will be able to unsubscribe from marketing emails anytime by clicking on the unsubscribe link at the bottom of all our email communications.
   * We _NEVER_ pass your email or other data onto any 3rd parties
-  * Reply to any SMS text that we send you with “unsubscribe”
+  * Reply to any SMS text that we send you with "unsubscribe"
   * If we contact you by telephone inform the person calling you that you wish to unsubscribe from our marketing database Call us on the Customer Helpline number provided on any hardcopy mail that we send to you and let us know that you wish to unsubscribe from our marketing database
 
 
@@ -83,15 +83,12 @@ We use independant feedback company Feefo to ask you to rate the service we have
 
 ## Cookies
 
-What is a cookie?
-
+  * **What is a cookie?**
   * Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device.
   * Persistent cookies - these cookies remain on a user's device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.
   * Session cookies - these cookies allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted.
   * Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests.
-
-Cookies used on our sites. A list of all the cookies used on our sites by category is set out below.
-
+  * Cookies used on our sites. A list of all the cookies used on our sites by category is set out below.
   * **Strictly necessary cookies** \- These cookies enable services you have specifically asked for. For those types of cookies that are strictly necessary, no consent is required.
   * These cookies are essential in order to enable you to move around our sites and use its features. Without these cookies services you have asked for, like shopping baskets, cannot be provided.
   * **Performance cookies** \- These cookies collect anonymous information on the pages visited. By using our sites, you agree that we can place these types of cookies on your device.
@@ -108,7 +105,7 @@ These cookies allow our sites to remember choices you make (such as your user na
 
 ## Third-Party Advertising Networks and Remarketing
 
-We use Google Analytics as a third-party vendor for Remarketing purposes:   
+We use Google Analytics as a third-party vendor for Remarketing purposes:  
 \- Third party vendors, including Google, show our ads on sites across on the internet.  
 \- Third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.  
 \- Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy/ads/). Alternatively users can opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).  
