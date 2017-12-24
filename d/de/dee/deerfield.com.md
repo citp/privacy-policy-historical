@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deerfield.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616170653id_/http%3A//deerfield.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deerfield.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224223356id_/http%3A//www.deerfield.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Deerfield Management > PrivacyPolicy
 
