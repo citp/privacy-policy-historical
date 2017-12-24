@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zodio.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622005732id_/http%3A//www.zodio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zodio.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224043041id_/http%3A//www.zodio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, | Zodio
 
