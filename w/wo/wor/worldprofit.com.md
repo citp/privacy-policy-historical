@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldprofit.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523002212id_/http%3A//worldprofit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldprofit.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224071620id_/http%3A//worldprofit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Worldprofit Home Business Experts
 
