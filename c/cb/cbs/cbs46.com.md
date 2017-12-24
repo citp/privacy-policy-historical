@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs46.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091703id_/http%3A//www.cbs46.com/story/30079230/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs46.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224191727id_/http%3A//www.cbs46.com/story/30079230/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - CBS46 News
 
