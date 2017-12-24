@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickrewards.net privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330023842id_/https%3A//www.quickrewards.net/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickrewards.net privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224150329id_/https%3A//www.quickrewards.net/policy/privacy.html) for the most accurate reproduction.*
 
 # QuickRewards Network
 
@@ -24,11 +24,11 @@ QuickRewards Network takes very seriously the trust placed in us by our members 
 
 \- Some third party clients (including video providers, banner advertisers, and survey providers) may use cookies to better tailor their content to the interests of individual QuickRewards Network members. Some survey providers may have survey opportunities for you based on the content they displayed as a result of them using cookies. 
 
-\- Cookies must be enabled in order for QuickRewards Network members to receive cash back rewards for shopping through the links on the website. 
+\- Cookies must be enabled in order for QuickRewards Network members to receive cash-back rewards for shopping through the links on the website. 
 
 -Members may provide, through participation in third party surveys/offers, general demographic information that will be used in aggregate form by these survey/offer providers. 
 
--QuickRewads may share aggregate demographic, behavioral and other information about users with our clients. This information would not identify the individual users. 
+-QuickRewards may share aggregate demographic, behavioral and other information about users with our clients. This information would not identify the individual users. In addition, QuickRewards shares an encoded member ID with the client upon clicking through to a survey or offer, in order to facilitate tracking of the member's reward upon survey or offer completion. This ID does not share any personally identifiable information with the client. It is used for proper account crediting, and can also be used by the client to flag the encoded ID in case of suspected fraudulent activity. QuickRewards does not have the ability to see individual members' survey responses unless provided by the client for the purpose of investigating suspected fraudulent activity. 
 
 \- QuickRewards Network will cooperate with legal authorities if personal member information is demanded as part of an ongoing investigation. 
 
