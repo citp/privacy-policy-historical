@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10prospectingtricks.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630182053id_/http%3A//www.top10prospectingtricks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10prospectingtricks.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224191713id_/http%3A//www.top10prospectingtricks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLeadSystemPRO
 
