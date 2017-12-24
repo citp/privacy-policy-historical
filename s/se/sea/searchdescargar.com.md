@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchdescargar.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626064610id_/http%3A//search.searchdescargar.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchdescargar.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225005341id_/http%3A//search.searchdescargar.com/Privacy) for the most accurate reproduction.*
 
 # 
 
