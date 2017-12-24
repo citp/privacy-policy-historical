@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top5-vpn.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625092051id_/http%3A//top5-vpn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top5-vpn.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224105503id_/http%3A//top5-vpn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top 5 Best VPN
 
@@ -27,7 +27,7 @@ Notwithstanding, we may disclose the information in the following cases: (a) to 
 ### DIRECT MARKETING
 
 At any time, you can choose to no longer receive commercial or promotional emails from us by sending us email via our Contact Us form, which can be found in the footer of the website,   
-or at service@top5-vpn.com.
+or at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### COOKIES AND WEB BEACONS
 
@@ -35,7 +35,7 @@ When you access or use the Website, we may use industry-wide technologies such a
 
 **OPT-OUT RIGHT**
 
-Even after providing your consent to this Policy, you are entitled to change your mind and opt-out, by changing your browser or settings and disabling or blocking cookies, in any event the cookies will be deleted automatically within 30 days from your device. You may also opt-out by sending us an email to: service@top5-vpn.com. Note that once you opt out, part of the Services provided by us might no longer be available.
+Even after providing your consent to this Policy, you are entitled to change your mind and opt-out, by changing your browser or settings and disabling or blocking cookies, in any event the cookies will be deleted automatically within 30 days from your device. You may also opt-out by sending us an email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Note that once you opt out, part of the Services provided by us might no longer be available.
 
 As we use third party retargeting services, you may also opt-out directly from third party retargeting cookies or other ad-technology trackers through self-regulator services like the [NAI consumer opt-out page](http://www.networkadvertising.org/choices/) or the [DAA opt-out page](http://www.aboutads.info/).
 
@@ -61,7 +61,7 @@ We take a great care in implementing and maintaining the security of the Website
 
 ### FURTHER QUESTIONS?
 
-If you have any questions about this Policy, please contact us via our Contact Us form,which can be found in the footer of the website, or at service@top5-vpn.com or at:
+If you have any questions about this Policy, please contact us via our Contact Us form,which can be found in the footer of the website, or at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or at:
 
 TOP5 
 
