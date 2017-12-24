@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubcadet.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624065237id_/http%3A//www.cubcadet.com/equipment/CubCadetFullPageArticleDisplayView%3FlangId%3D-1%26storeId%3D10051%26catalogId%3D14101%26pageView%3DCubcadet_General/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubcadet.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224160157id_/http%3A//www.cubcadet.com/equipment/CubCadetFullPageArticleDisplayView%3FlangId%3D-1%26storeId%3D10051%26catalogId%3D14101%26pageView%3DCubcadet_General/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Cub Cadet: Riding Lawn Mowers, Lawn Tractors & Snowblowers
 
