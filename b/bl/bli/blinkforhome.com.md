@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinkforhome.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165416id_/https%3A//blinkforhome.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkforhome.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224123715id_/https%3A//blinkforhome.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blink
 
@@ -103,11 +103,11 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 Given that the Internet operates in a global environment and that transfer of your data is necessary to enable you to use the features and services on the Site, to provide updates, and to respond to your inquiries, using the Internet to collect and process Personal Information necessarily involves the transmission of data on an international, or cross-border, basis. By signing up for or using the Services, and/or by communicating with us by email, you acknowledge and expressly consent to our processing and disclosure of your Personal Information in this way. The Personal Information of users who are located in Germany will be stored on our server in Frankfurt, Germany. We also process Personal Information for customer support purposes in Ireland and the U.S. The Personal Information of users who are located in the U.K. or other locations outside the U.S. (excluding Germany) will be transferred outside of each eligible country to the United States where our servers are located and where it will be processed and stored on servers in the U.S. The U.S. has not been recognized as providing an adequate level of protection according to European Union (EU) data protection requirements, but we will take all steps reasonably necessary to ensure that users’ Personal Information is treated securely in respect of such transfer and as described in this Privacy Policy. **By using the Site and by providing information to the Site, you expressly agree to such transfer, processing, storage and disclosure in countries outside the EU.**
 
-You may access, review, change, update or delete your Personal Information, request information about our collection, use and disclosure of such information, and request information on our policies and practices relating to disclosure of information to our service providers, by contacting us at [info@blink.com](mailto:info@blink.com). We will respond to these requests in accordance with the laws that apply to you. You can help us maintain the accuracy of your information by promptly notifying us of any changes to your information.
+You may access, review, change, update or delete your Personal Information, request information about our collection, use and disclosure of such information, and request information on our policies and practices relating to disclosure of information to our service providers, by contacting us at [info@blinkforhome.com](mailto:info@blink.com). We will respond to these requests in accordance with the laws that apply to you. You can help us maintain the accuracy of your information by promptly notifying us of any changes to your information.
 
 **Contact Us About Complaints, Questions or Notices relating to this Privacy Policy**
 
-We are committed to resolving complaints about your privacy and our collection or use of your Personal Information. If you believe your privacy rights have been violated or you disagree with any action Media Links has taken with regard to your Personal Information you may file a complaint with us by emailing us at [info@blink.com](mailto:info@blink.com). Users with complaints about their privacy or this Privacy Policy should submit their complaint in writing with as much information as possible. Complaints will be acknowledged within a reasonable period of time, consistent with applicable law.
+We are committed to resolving complaints about your privacy and our collection or use of your Personal Information. If you believe your privacy rights have been violated or you disagree with any action Media Links has taken with regard to your Personal Information you may file a complaint with us by emailing us at [info@blinkforhome.com](mailto:info@blink.com). Users with complaints about their privacy or this Privacy Policy should submit their complaint in writing with as much information as possible. Complaints will be acknowledged within a reasonable period of time, consistent with applicable law.
 
 You may contact us at:
 
@@ -116,7 +116,7 @@ You may contact us at:
 100 Burtt Road, Suite 100  
 Andover, Massachusetts, USA, 01810  
 Phone: 781-915-1920  
-[info@blink.com](mailto:info@blink.com)
+[info@blinkforhome.com](mailto:info@blink.com)
 
 **Terms of Service  
 ** Please also visit our [Terms of Service](https://web.archive.org/pages/terms-of-service) section establishing the use, disclaimers, and limitations of liability governing the use of our Sites.
