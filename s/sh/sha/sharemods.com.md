@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharemods.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113714id_/http%3A//sharemods.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharemods.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224132236id_/http%3A//sharemods.com/pages/privacy.html) for the most accurate reproduction.*
 
-# ShareMods.com - Mods hosting
+# ShareMods.com - Upload & Share Mods
 
 ## Privacy Policy
 
