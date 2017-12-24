@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsculture.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531203528id_/http%3A//www.couponsculture.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsculture.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224184255id_/http%3A//couponsculture.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy Coupons Culture
 
