@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aspi.org.au privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312054533id_/https%3A//www.aspi.org.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspi.org.au privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224224323id_/https%3A//www.aspi.org.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Australian Strategic Policy Institute
+# Privacy Policy | Australian Strategic Policy Institute | ASPI
 
 #### Our commitment to protecting your privacy: 
 
@@ -60,7 +60,7 @@ We only collect personal information by lawful and fair means. We usually colle
 
 We collect the personal information: necessary for us to engage with ASPI’s stakeholders; for marketing purposes and to provide you with information about events and other activities that may be of interest to you; to improve the advice and ideas ASPI provides to government and how we engage with ASPI’s stakeholders; and to enable us to conduct our business, including meeting our legal and regulatory obligations. If you do not provide your personal information, we may not be able to engage with you, register you to attend our event, employ you or otherwise deal with you.
 
-#### How do we deal with unsolicited personal information? 
+#### How do we deal with unsolicited personal information? ** **
 
 If we receive personal information about you that we have not requested, and we determine that we could not have lawfully collected that information under the APPs had we asked for it, we will destroy or de-identify the information if it is lawful and reasonable to do so.
 
@@ -139,7 +139,7 @@ We reserve the right to revise this Privacy Policy or any part of it from time t
 
 If you have any questions about this Privacy Policy, please contact ASPI’s Privacy Officer: 
 
-(a) by email to enquiries: enquiries@aspi.org.au 
+(a) by email to enquiries: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) 
 
 (b) by writing to: Privacy Officer, Australian Strategic Policy Institute, Level 2, 40 Macquarie Street, Barton ACT 2600. 
 
