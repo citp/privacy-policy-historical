@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutelyrics.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616060153id_/http%3A//www.absolutelyrics.com/lyrics/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutelyrics.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224021904id_/http%3A//www.absolutelyrics.com/lyrics/privacy) for the most accurate reproduction.*
 
 # Privacy - Absolute Lyrics
 
