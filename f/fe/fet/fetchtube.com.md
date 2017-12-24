@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetchtube.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629090651id_/http%3A//fetchtube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchtube.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224061800id_/http%3A//www.fetchtube.com/privacy.php) for the most accurate reproduction.*
 
 # FetchTube.com
 
