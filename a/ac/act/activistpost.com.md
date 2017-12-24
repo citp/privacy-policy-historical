@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the activistpost.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630052857id_/http%3A//www.activistpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activistpost.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224025129id_/https%3A//www.activistpost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Activist Post
 
-Activistpost.com is committed to protecting your privacy. Activistpost.com currently collects no personal information about who visits our site. Activistpost.com uses a hit service that shows information such as which internet service visitors are using, their screen resolutions, browser types, etc… but in no way does this reveal the name, email address, or any specific information whatsoever about the site’s visitors.
+Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us (such as an email address when subscribing to our mailing list). Users can always refuse to supply personally identification information. Activistpost.com uses a hit service that shows information such as which internet service visitors are using, their screen resolutions, browser types, etc… but in no way does this reveal the name, email address, or any specific information whatsoever about the site’s visitors.
 
 ### Cookies & 3rd Party Advertisements:
+
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent.
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Activistpost.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
