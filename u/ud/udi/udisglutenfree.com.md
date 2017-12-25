@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the udisglutenfree.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626010758id_/http%3A//udisglutenfree.com/udis-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udisglutenfree.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225094638id_/http%3A//udisglutenfree.com/udis-privacy-policy) for the most accurate reproduction.*
 
-# UDIS Privacy Policy - Udi’s® Gluten Free BreadUdi’s® Gluten Free Bread
+# UDIS Privacy Policy - Udi’s® Gluten FreeUdi’s® Gluten Free
 
 **Boulder Brands USA Inc.**
 
