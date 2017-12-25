@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frys.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624115601id_/http%3A//www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frys.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226004650id_/http%3A//frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.*
 
 # Frys.com|Customer Service
 
@@ -10,11 +10,11 @@ Please be aware that this site may contain links to other sites that are owned a
 
 This Privacy Policy strives to encourage and maintain trust between you and Fry's. As part of that trust, this Privacy Policy will tell you about: 
 
-  * [What information we collect.](http://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#1)
-  * [How information is used and protected.](http://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#2)
-  * [How we may share information.](http://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#3)
-  * [Choices you can make about how we collect, use, and share your information.](http://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#4)
-  * [Future changes to the Privacy Policy.](http://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#5)
+  * [What information we collect.](https://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#1)
+  * [How information is used and protected.](https://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#2)
+  * [How we may share information.](https://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#3)
+  * [Choices you can make about how we collect, use, and share your information.](https://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#4)
+  * [Future changes to the Privacy Policy.](https://frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#5)
 
 
 
@@ -40,7 +40,7 @@ Fry's may receive information about you from other sources. These other sources 
 
 _Automatic information._
 
-We also receive and store certain types of information when you interact with our website. Like many websites, we use "cookies" to obtain information when your web browser accesses our website. The purpose of "cookies" is to help us recognize you as you use or return to our website so that we can provide a more personalized shopping experience for you. The "cookie" is also used to keep items in your shopping cart between visits. You do not need to enable cookies to browse, but must enable cookies to purchase items at [Frys.com](http://www.frys.com/?privacy). 
+We also receive and store certain types of information when you interact with our website. Like many websites, we use "cookies" to obtain information when your web browser accesses our website. The purpose of "cookies" is to help us recognize you as you use or return to our website so that we can provide a more personalized shopping experience for you. The "cookie" is also used to keep items in your shopping cart between visits. You do not need to enable cookies to browse, but must enable cookies to purchase items at [Frys.com](https://www.frys.com/?privacy). 
 
 Our web server automatically collects clickstream information such as the address (or URL) of the website that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you may have entered on our site, among other things. 
 
