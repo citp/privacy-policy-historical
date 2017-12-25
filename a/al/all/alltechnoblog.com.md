@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltechnoblog.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627094614id_/http%3A//alltechnoblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltechnoblog.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225140544id_/http%3A//alltechnoblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ALL TECHNO BLOG - Technology Blog
 
