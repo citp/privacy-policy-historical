@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumzworld.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607020623id_/http%3A//www.mumzworld.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumzworld.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225101646id_/http%3A//www.mumzworld.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
