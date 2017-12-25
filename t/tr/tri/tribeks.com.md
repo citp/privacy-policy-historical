@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tribeks.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514081757id_/http%3A//www.tribeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribeks.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225013820id_/http%3A//www.tribeks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tribeks...
 
