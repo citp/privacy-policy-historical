@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritofchennai.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615221325id_/http%3A//spiritofchennai.com/statutory/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritofchennai.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225203352id_/http%3A//spiritofchennai.com/statutory/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
