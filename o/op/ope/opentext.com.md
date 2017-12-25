@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630134734id_/http%3A//www.opentext.com/who-we-are/copyright-information/site-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225021045id_/http%3A//www.opentext.com/who-we-are/copyright-information/site-privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy | OpenText
 
@@ -68,6 +68,7 @@ We are committed to ensuring that your Personal Data is secure. In order to prev
   * All the Personal Data you provide us is stored in a secure computing environment protected by secure firewalls to prevent unauthorized access.
   * We control access so that only people who need to access the Personal Data can.  All staff of OpenText are provided security training and are required to adhere to a comprehensive set of security policies, procedures, and standards related to their jobs.
   * When you use secure areas of the Website, we use Secure Sockets Layer (SSL) protocol with 128-bit encryption. This means that all the information sent between your computer and our secure computer environment is encrypted or scrambled so that no one can read it in transit. Secure areas of the site have a time-out feature. If you leave your secure session inactive for some time, it times-out to prevent unauthorized access.
+  * All OpenText products, solutions, and services are designed, developed, and maintained with security in mind, according to the [Product Security Assurance Program](https://web.archive.org/file_source/OpenText/en_US/PDF/opentext-product-security-assurance-program.pdf).
 
 
 
@@ -75,9 +76,9 @@ We are committed to ensuring that your Personal Data is secure. In order to prev
 
 OpenText reviews all reports of security vulnerabilities affecting OpenText products and services.
 
-If you are an OpenText customer or partner, please contact [Customer Support](https://web.archive.org/support) with details of the vulnerability.
+To report a vulnerability in one of our products or solutions, please contact [Customer Support](https://web.archive.org/support) with details of the vulnerability.
 
-If you are not an OpenText customer or partner, please send details about the vulnerability you have discovered via email to [OpenText Security Team](mailto:otstATopentextDOTcom).
+To report a vulnerability in one of our corporate websites, please submit details of the vulnerability using our [Online Contact Form](https://web.archive.org/who-we-are/contact-us/contact-opentext).
 
 Please click [here](https://web.archive.org/who-we-are/copyright-information/security-acknowledgements) to view a list of people and organizations that have kindly reported vulnerabilities to OpenText.
 
