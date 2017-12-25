@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dubbedanime.net privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616051010id_/http%3A//dubbedanime.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubbedanime.net privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225022420id_/http%3A//dubbedanime.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-##### If you were having trouble registering in the forums, we have fixed the issue.
 
 #### Introduction
 
