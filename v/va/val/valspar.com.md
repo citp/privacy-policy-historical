@@ -1,39 +1,48 @@
-> *The following text is extracted and transformed from the valspar.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615001106id_/http%3A//www.valsparpaint.com/en/privacy-policy/index.html%3Fref%3Dprivacypolicy_homepage_menu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valspar.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225121648id_/http%3A//privacy.sherwin-williams.com/privacy-highlights) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We respect your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy. 
+The Sherwin-Williams Privacy Policy applies to any  information collected about you by Sherwin-Williams, its affiliated companies, and its subsidiaries.  This includes information collected by any means, including but not limited to, any website, mobile application, or other online service that refers to or links to this Privacy Policy, as well as information collected through other business functions of Sherwin-Williams, such as through our customer loyalty programs or customer service representatives (the “Services”).  Please click [here](https://web.archive.org/privacy-policy) to review the full Sherwin-Williams Privacy Policy. 
 
-**Information Collection**  
-We will collect personally identifiable information (such as name, title, company name, address, telephone number, or e-mail address) that you voluntarily provide through our web site, computer application or e-mail correspondence. We will collect general information (such as the type of browser you use, the files you request, and the domain name and country from which you request information) to improve our web site and better meet your needs. 
+We collect various types of information in connection with  the Services, including:
 
-If you enter into a transaction (such as a purchase) at this website or via our computer application, you will be required to provide information that is needed to complete the transaction, including your name, shipping address, product selection(s), and your payment information. We do not keep any credit or other payment information longer than is necessary in order to comply with legal, tax, and auditing requirements. In some instances, your payment information may be handled by a third party provider. When this occurs, we will never receive that information. 
+  * Information you provide directly to us;
+  * Information we collect about your use of our Services, including through [cookies, web beacons, and other Internet](https://web.archive.org/privacy-policy#Cookies,%20Web%20Beacons,%20and%20Other%20Internet%20Technologies) technologies; and
+  * Information we obtain from third-party sources.
 
-Other information you provide may be added to our company database(s) and shared with our affiliates or third parties including contractors, dealers, distributors and retailers. 
 
-We may passively collect information that is automatically sent to us by your web browser, this application or your internet service provider or mobile carrier. This information typically includes your domain name, your user name, and your numerical IP address. The amount of information sent by your web browser depends on its settings. Please refer to your browser if you want to learn what information it sends. We use this type of information to see which web pages you visit at our website, which website you visited before coming to our website, and where you go after you leave our website. We can then develop statistics that help us understand how our visitors use our website and how we can improve it. 
 
-**Cookies:** We may actively obtain information about you by installing a marker on your computer commonly called a "cookie." Cookies enable us to know you by a computer-generated, unique identifier. By providing you with a unique cookie, we are able to create a database of your previous choices and preferences, and in situations where these choices or preferences need to be collected again; they can be supplied by us automatically, saving you time and effort. For example, after you purchase a product once, if you need to purchase it again, your previous selections for color or other features will have been retained, and can be reentered more quickly. Your computer may be specially configured to reject cookies; please refer to your browser for more information. Many of our websites will allow you to visit without accepting cookies, but some features of our websites may not work properly if you choose to reject cookies. 
+We may also seek your consent to collect information not described in the Privacy Policy. 
 
-Some of our sites and our computer applications may use third-party advertising technology to serve ads when you visit our website and sites upon which we advertise. This technology uses information about your visits to this website, your use of our application and the sites upon which we advertise, to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser or device. In addition, these sites may use web beacons, provided by our third-party ad server, to help manage and optimize our online advertising. These web beacons enable our ad server, on our behalf or on behalf of our agent, to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our website. Our third-party ad server is performing its functions on our behalf or on behalf of our agent, and we may, directly or indirectly, instruct such ad server to enable other service providers to receive information about our site related to our online advertising. 
+We use the information we collect to, among other things:
 
-**Use of Information**  
-The information will be used by us, e.g., to respond to your inquiries, supply you with requested information on our products and services or track orders you place with us. In addition, authorized third parties may be utilized by us to collect, track and process such information. If you have submitted personal information to us electronically and would like it removed or modified, please contact us by [clicking here](mailto:privacy@valspar.com). We will use reasonable efforts to comply with your request. It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information. Although we have taken reasonable and prudent measures to protect its computer systems from unauthorized third parties, we are not responsible for unauthorized use by such third parties of your personally identifiable information. 
+  * Provide the Services you request;
+  * Communicate with you about our products, services and promotions; and
+  * Understand the way you use the Services so that we can improve your experience.
 
-We may use any of the information gathered at this website (other than credit information) for any legal purpose. We may analyze personal information for historical, statistical or scientific purposes, or we may store the personal information for your convenience should you return to this website or our computer applications in the future. In the course of any of these activities, we may transmit any of the information we have collected to another country or share it with our affiliates or third parties including contractors, dealers, distributors and retailers. An example of a third party that could receive your personal information is a data processing contractor that operates computer systems on our behalf. Whenever any personal information is transferred to an affiliate or third party, that party will be contractually bound to abide by our privacy policy. 
 
-We may also use your personal information to investigate security breaches or cooperate with government authorities pursuant to a legal matter. Personal information collected online may also be combined with information you have provided to us through other sources such as product registrations, call centers, or publicly such as at trade shows or seminars. 
 
-In addition, we may have collected similar information from you in the past, before our Privacy Policy took effect. By using this website or our computer application you agree to the terms of this privacy policy. By agreeing to the terms of this privacy policy you are consenting to our continued use of previously collected information under the terms of this privacy policy. 
+We also use the information we collect in ways described to you at the point of collection, or otherwise with your consent
 
-**Children and Parents**  
-We do not intend to collect personally identifiable information from children without permission of the child's parent or legal guardian. Children should submit personally identifiable information to us only with the explicit permission of their parent or legal guardian. Where appropriate, we will instruct children not to submit personal information. If your child has submitted personal information and you would like to request that such information be removed, you may do so as indicated above, and we will use reasonable efforts to comply with your request. 
+We may share your information with:
 
-**Other Important Information**  
-This web site or computer application may contain links to other sites. We do not endorse or otherwise accept responsibility for the content or privacy policies of those sites. 
+  * **Affiliates** within the Sherwin-Williams family.
+  * **Service providers** —companies that provide services for or on behalf of Sherwin-Williams. 
+  * **Law enforcement** —when we are required to do so or to protect Sherwin-Williams or our business partners or customers.
+  * **Other parties** —such as in connection with a corporate transaction or with your consent.
 
-We are a global company with websites and computer facilities located in many countries. People from almost anywhere in the world can access our websites or computer applications. We comply with the law of the country where our websites or computer applications are located or directed. You should be aware, however, that when you submit your Personal Information to one of our websites or via a computer application, (a) that information may go to a country that has different privacy laws than your home country, and (b) it will be handled in accordance with the laws of the country where the site or computer application is hosted, but not necessarily with the law of your country. 
 
-We reserve the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages. 
 
-To learn more about our third-party ad-serving partner, cookies and how to "Opt-out", please [click here](http://www.google.com/privacy/ads/). 
+We also may link to third-party websites and services or use functionality (such as social plugins) that is provided by third parties not affiliated with and that are not acting on behalf of Sherwin-Williams.  We are not responsible for the privacy and security practices of these entities.  Please review their privacy policies for information about their practices. 
+
+The [full](https://web.archive.org/privacy-policy) Sherwin-Williams Privacy Policy provides additional information about the collection of information through [cookies, web beacons, and other Internet](https://web.archive.org/privacy-policy#Cookies,%20Web%20Beacons,%20and%20Other%20Internet%20Technologies) by third parties, as well as by Sherwin-Williams, and the [choices](https://web.archive.org/privacy-policy#Your%20Choices%20&%20Access%20to%20Your%20Information) that may be available to you.
+
+The Sherwin-Williams Company
+
+Enterprise Risk Management
+
+101 W. Prospect Ave.
+
+Cleveland, OH 44115
+
+E-mail: [Global Privacy Portal](https://sherwinwilliams.ethicspointvp.com/custom/sherwinwilliams/web/dp/form_data.asp?SourceName=$$$Referrer$$$)
