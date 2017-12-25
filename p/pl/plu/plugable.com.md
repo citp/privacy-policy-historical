@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plugable.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607002554id_/http%3A//plugable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugable.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225163550id_/http%3A//plugable.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Plugable
+# Privacy - Plugable
 
 Your privacy and the confidentiality of your personal and business data is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of your information. The following outlines our policy.
 
