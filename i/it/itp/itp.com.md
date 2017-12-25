@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020520id_/http%3A//www.itp.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itp.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225162224id_/http%3A//www.itp.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | ITP Media Group | ITP.com
 
@@ -58,7 +58,7 @@ Other than as set forth above, we do not share personally identifiable informati
 
 ### **Correction/Updating Personal Information**
 
-If a user's personally identifiable information changes (such as PO Box), or if a user no longer desires our products(s)/service(s), we provide a way to correct or update that user's personal data. Users should either logon at www.itp.net/subscriptions using their unique User Name and Password and click MODIFY PROFILE; telephone the changes to the Circulation Department on +971 4 4443000; Fax changes to +971 4 4443080; or email changes to subscriptions@itp.com for the applicable product or service.
+If a user's personally identifiable information changes (such as PO Box), or if a user no longer desires our products(s)/service(s), we provide a way to correct or update that user's personal data. Users should either logon at www.itp.com/subscriptions using their unique User Name and Password and click MODIFY PROFILE; telephone the changes to the Circulation Department on +971 4 4443000; Fax changes to +971 4 4443080; or email changes to subscriptions@itp.com for the applicable product or service.
 
 ### **Permission**
 
