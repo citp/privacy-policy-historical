@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the egain.cloud privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610020018id_/http%3A//www.egain.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egain.cloud privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225055901id_/http%3A//www.egain.com/privacy-policies) for the most accurate reproduction.*
 
 # Data Privacy and Security Policy - eGain
 
-_Effective October 01, 2016_
+_Effective December 8, 2017_
 
-### **Introduction**
-
-This Privacy Policy applies to [**www.egain.com**](http://www.egain.com/) and our platform services owned and operated by eGain. We are committed to the responsible use of information and protecting individual privacy rights. We know you care how information about you is used and shared. This notice describes our privacy policy.
+This Privacy Policy applies to [ **www.egain.com**](http://www.egain.com/) and our platform services owned and operated by eGain. We are committed to the responsible use of information and protecting individual privacy rights. We know you care how information about you is used and shared. This notice describes our privacy policy.
 
 Our Privacy Policy explains:
 
@@ -23,11 +21,7 @@ Our Privacy Policy explains:
 We collect information to provide better services to you. We collect information in several ways:
 
   * **Information you provide us.** For example, we will ask for business contact information such as name, email address and phone number when you register on the site.
-
-
   * **Information collected through our platform for eGain’s clients.** eGain collects information on behalf and under the instructions of its clients, and has no direct relationship with the individuals whose personal data it collects, processes and stores. eGain’s clients ask for information related to the services they provide you. This information can include personal information such as name, address, contact information (phone, email), gender, date of birth, social security number, and marital status as applicable to the services provided to you. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly.
-
-
   * **Information we get from the use of our services.** We log information automatically using log files when our services are used including your usage of these services. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather aggregated demographic information about our user base as a whole. We do not link this automatically collected data to personally identifiable information.eGain and our partners, affiliates, analytics providers, and service provider’s online customer support provider use cookies and similar technologies in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to remember users’ settings (e.g., language preference), analytics, and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 
@@ -38,7 +32,7 @@ We use the information we collect to provide, maintain, improve, and protect the
 
 We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we can have our services appear in the language you prefer. One of the products we use to do this on our own services is for data analytics.
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [publications@egain.com](mailto:publications@egain.com).
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [ **publications@egain.com**](mailto:publications@egain.com).
 
 When you contact eGain, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. Out of respect for your privacy, we allow you to opt out of these newsletters by following the unsubscribe directions in them.
 
@@ -67,7 +61,7 @@ eGain will retain personal data we process on behalf of our clients for as long 
 
 Your personal information will be retained for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here: <http://preferences-mgr.truste.com/> (or if located in the European Union, click here: <http://www.youronlinechoices.eu/>). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here: [ **http://preferences-mgr.truste.com/**](http://preferences-mgr.truste.com/) (or if located in the European Union, click here: [ **http://www.youronlinechoices.eu/**](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
@@ -87,21 +81,19 @@ Our Privacy Policy applies to all of the services offered by eGain. Our Privacy 
 
 **EU-U.S. Privacy Shield**
 
-eGain participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. eGain is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework and to view eGain’s certification, visit the U.S. Department of Commerce’s Privacy Shield website [[https://www.privacyshield.gov](https://www.privacyshield.gov/)].
+eGain participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. eGain is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework and to view eGain’s certification, visit the U.S. Department of Commerce’s Privacy Shield website [[ **https://www.privacyshield.gov**](https://www.privacyshield.gov/)].
 
 eGain is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequent transfers to a third party acting as an agent on its behalf. eGain complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, eGain is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, eGain may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [ **https://feedback-form.truste.com/watchdog/request**](https://feedback-form.truste.com/watchdog/request).
 
-Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield website [[ **https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint**](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint)], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-eGain has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.
+eGain has further committed to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship.
 
-**U.S. – Swiss Safe Harbor Framework**
-
-eGain complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. eGain has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view eGain’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
+eGain complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.  eGain has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
 
 ### **Changes to this Policy**
 
@@ -115,6 +107,6 @@ If you have any questions regarding our Privacy Policy, please contact us on the
 1252 Borregas Avenue  
 Sunnyvale, CA 94089 USA  
 Phone: +1 408-636-4500  
-[legal@egain.com](mailto:legal@egain.com)
+[**legal@egain.com**](mailto:legal@egain.com)
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=b86c94d4-2b6f-41c1-b7f4-149bb659b0c7)
