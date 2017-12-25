@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightspyre.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626162845id_/http%3A//new.brightspyre.com/policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightspyre.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225170357id_/http%3A//new.brightspyre.com/policy/index.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,11 +6,11 @@
 
 Registered Users
 
-1,216,027
+1,460,675
 
 Posted Jobs
 
-34,160
+46,419
 
   
 |  BrightSpyre Privacy Policy   
