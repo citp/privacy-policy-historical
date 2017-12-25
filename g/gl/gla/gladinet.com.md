@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gladinet.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629071429id_/http%3A//www.gladinet.com/p/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gladinet.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225064641id_/http%3A//www.gladinet.com/p/privacy.htm) for the most accurate reproduction.*
 
 # GLADINET - Privacy Statement
 
