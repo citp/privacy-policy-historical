@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkaty.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020323id_/http%3A//linkaty.cloud/pages/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkaty.us privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225123102id_/http%3A//linkaty.online/pages/Privacypolicy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy policy linkaty.us
 
  the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.linkaty.us and how it is used.
 
@@ -24,5 +24,5 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-At Linkaty.us we value your privacy so if you have any problems with please contact us If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20170606020323id_/http%3A//linkaty.cloud/pages/ContactUs.aspx)   
-Team preparation : [www.linkaty.us ](https://web.archive.org/web/20170606020323id_/http%3A//linkaty.cloud/home.aspx)
+At Linkaty.us we value your privacy so if you have any problems with please contact us If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20171225123102id_/http%3A//linkaty.online/pages/ContactUs.aspx)   
+Team preparation : [www.linkaty.us ](https://web.archive.org/web/20171225123102id_/http%3A//linkaty.online/home.aspx)
