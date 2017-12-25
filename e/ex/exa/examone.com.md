@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examone.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623172431id_/http%3A//questdiagnostics.com/home/privacy-policy/online-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examone.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225010031id_/http%3A//questdiagnostics.com/home/privacy-policy/online-privacy.html) for the most accurate reproduction.*
 
 # Online Privacy Policy : Online Privacy Policy
 
@@ -7,8 +7,8 @@
 Quest Diagnostics and its wholly-owned subsidiaries (collectively "Quest Diagnostics") believe that privacy is important to the success and use of the Internet. This statement sets forth Quest Diagnostics policy and describes the practices that we will follow with respect to the privacy of the information of users of this site. Should you have any questions about this policy or our practices, please send an email to [Privacy@QuestDiagnostics.com](mailto:Privacy@QuestDiagnostics.com) or write to us at:
 
 Quest Diagnostics   
-Attention: Privacy Officer  
-1290 Wall Street West  
+Attention: Privacy Officer   
+1290 Wall Street West   
 Lyndhurst, NJ 07071
 
 You can also call us at 800-222-0446, ext. 8954.
@@ -33,9 +33,9 @@ We will not disclose any personal information to any third party (excluding our 
 
 **Cookie Placement**
 
-Certain Quest Diagnostics websites, like many other commercial sites, may use a standard technology called "cookies" to collect information about how our site is used. Cookies were designed to help a website operator determine that a particular user had visited the site previously and thus save and remember any preferences that may have been set. We may use cookies to keep track of information about your current web browsing session which will be discarded as soon as you log out or close your web browser. This information also allows us to statistically monitor how many people are using our site and for what purpose. We may also make use of “persistent or memory based” cookies, which remain on your computer’s hard drive until you delete them. An example of our use of these cookies is to pre-populate forms you complete on our website based on information you have previously provided to us. Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize our services if you reject cookies.
+Certain Quest Diagnostics websites, like many other commercial sites, may use a standard technology called "cookies" to collect information about how our site is used. Cookies were designed to help a website operator determine that a particular user had visited the site previously and thus save and remember any preferences that may have been set. We may use cookies to keep track of information about your current web browsing session which will be discarded as soon as you log out or close your web browser. This information also allows us to statistically monitor how many people are using our site and for what purpose. We may also make use of “persistent or memory based” cookies, which remain on your computer’s hard drive until you delete them. Examples include our use of these cookies to pre-populate forms you complete on our website based on information you have previously provided to us, enable interest-based advertising and collect information about your web browsing history. Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize our services if you reject cookies.
 
-Quest Diagnostics uses the services of Google Analytics, and may use other similar services, to collect and analyze statistical data about visitors to our website. We also use Google advertising services, and may use other similar services, to arrange for you to see Quest Diagnostics advertisements when you visit certain third party websites. These analytic and advertising services do not collect personally identifiable information. You may elect to opt out of the use of non-personally identifiable data by Google Analytics by downloading and installing an add-on to your web browser found [here](https://tools.google.com/dlpage/gaoptout). You may find out more about how Google Analytics collects and processes data by visiting “How Google uses data when you use our partners’ sites or apps,” found [here](https://www.google.com/policies/privacy/partners/). You may also opt out of the Google AdWords service we use to serve ads, and which service also collects non-personally identifiable information, by visiting the Google Ad Settings page [here](https://support.google.com/ads/answer/2662922?hl=en). For additional information about opting out of interest-based advertising, please visit this [page](http://www.networkadvertising.org/choices/).
+Quest Diagnostics uses the services of Google Analytics, and may use other similar services, to collect and analyze statistical data about visitors to our website. We also use Google advertising services, including a remarketing function, and may use other similar services, to arrange for you to see Quest Diagnostics advertisements when you visit certain third party websites. These analytic and advertising services do not collect personally identifiable information. You may elect to opt out of the use of non-personally identifiable data by Google Analytics by downloading and installing an add-on to your web browser found [here](https://tools.google.com/dlpage/gaoptout). You may find out more about how Google Analytics collects and processes data by visiting “How Google uses data when you use our partners’ sites or apps,” found [here](https://www.google.com/policies/privacy/partners/). You may also opt out of the Google AdWords service we use to serve ads, and which service also collects non-personally identifiable information, by visiting the Google Ad Settings page [here](https://support.google.com/ads/answer/2662922?hl=en).
 
 **How We Protect Information Online**
 
@@ -57,7 +57,76 @@ We want to provide site visitors valuable information, services and products. Fe
 
 From time to time, we may change this privacy statement. For example, as we update and improve our services, new features may require modifications to the privacy statement. Accordingly, please check back periodically.
 
-Date: April 7, 2016   
+Non-Discrimination Notice
+
+Quest Diagnostics Incorporated and its subsidiaries (Quest Diagnostics) complies with applicable Federal civil rights laws and does not discriminate on the basis of race, color, national origin, age, disability, or sex. Quest Diagnostics does not exclude people or treat them differently because of race, color, national origin, age, disability, or sex.
+
+Quest Diagnostics:
+
+  * Provides language services free of charge to people whose primary language is not English, such as: 
+    * Qualified interpreters
+  * Provides aids and services free of charge to people with disabilities to communicate effectively with us, such as: 
+    * Auxiliary aids and services
+    * Written information in other formats (audio, accessible electronic formats, other formats)
+
+
+
+If you need these services, contact 1.844.698.1022 or ask at a Quest Diagnostics patient service center.
+
+If you believe that Quest Diagnostics has failed to provide these services or discriminated in another way on the basis of race, color, national origin, age, disability, or sex, you can file a grievance with:
+
+Quest Diagnostics  
+Civil Rights Coordinator   
+1201 S. Collegeville Road  
+Collegeville, PA 19426  
+1.800.420.7225  
+PatientAdvocacy@QuestDiagnostics.com.
+
+You can file a grievance in person or by mail, fax, or email. If you need help filing a grievance, the Quest Diagnostics Civil Rights Coordinator is available to help you.
+
+You can also file a civil rights complaint with the U.S. Department of Health and Human Services, Office for Civil Rights, electronically through the Office for Civil Rights Complaint Portal, available at https://ocrportal.hhs.gov/ocr/portal/lobby.jsf, or by mail or phone at:
+
+U.S. Department of Health and Human Services  
+200 Independence Avenue, SW  
+Room 509F, HHH Building  
+Washington, D.C. 20201  
+1.800.368.1019, 800.537.7697 (TDD)
+
+Language Assistance Services
+
+ATTENTION: If you speak English, language assistance services, free of charge, are available to you. Call 1.844.698.1022.
+
+ATENCIÓN: si habla Español (Spanish), tiene a su disposición servicios gratuitos de asistencia lingüística. Llame al 1.844.698.1022.
+
+注意：如果您使用繁體中文(Chinese), 您可以免費獲得語言援助服務。請致電1.844.698.1022。
+
+ATTENTION : Si vous parlez Français(French), des services d'aide linguistique vous sont proposés gratuitement. Appelez le 1.844.698.1022.
+
+ATANSYON: Si w pale Kreyòl Ayisyen(French Creole), gen sèvis èd pou lang ki disponib gratis pou ou. Rele 1.844.698.1022.
+
+PAUNAWA: Kung nagsasalita ka ng Tagalog(Tagalog), maaari kang gumamit ng mga serbisyo ng tulong sa wika nang walang bayad. Tumawag sa 1.844.698.1022.
+
+CHÚ Ý: Nếu bạn nói Tiếng Việt(Vietnamese), có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho bạn. Gọi số 1.844.698.1022.
+
+주의: 한국어(Korean)를 사용하시는 경우, 언어 지원 서비스를 무료로 이용하실 수 있습니다. 1.844.698.1022 번으로 전화해 주십시오.
+
+ACHTUNG: Wenn Sie Deutsch(German) sprechen, stehen Ihnen kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Rufnummer: 1.844.698.1022.
+
+ملحوظة: إذا كنت تتحدث اذكر(Arabic) اللغة، فإن خدمات المساعدة اللغوية تتوافر لك بالمجان. اتصل برقم 1.844.698.1022.
+
+ВНИМАНИЕ: Если вы говорите на Pусском(Russian) языке, то вам доступны бесплатные услуги перевода. Звоните 1.844.698.1022.
+
+ATTENZIONE: In caso la lingua parlata sia l'Italiano(Italian), sono disponibili servizi di assistenza linguistica gratuiti. Chiamare il numero 1.844.698.1022.
+
+ATENÇÃO: Se fala Português(Portuguese), encontram-se disponíveis serviços linguísticos, grátis. Ligue para 1.844.698.1022.
+
+ध्यान दें: यदि आप हिंदी(Hindi) बोलते हैं तो आपके लिए मुफ्त में भाषा सहायता सेवाएं उपलब्ध हैं। 1.844.698.1022 पर कॉल करें।
+
+UWAGA: Jeżeli mówisz po Polsku(Polish), możesz skorzystać z bezpłatnej pomocy językowej. Zadzwoń pod numer 1.844.698.1022.
+
+注意事項：日本語(Japanese)を話される場合、無料の言語支援をご利用いただけます。1.844.698.1022 まで、お電話にてご連絡ください。
+
+Date: September 1, 2017    
  
 
   
