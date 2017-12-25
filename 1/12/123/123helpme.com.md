@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123helpme.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617092752id_/http%3A//www.123helpme.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123helpme.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225233915id_/http%3A//123helpme.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - Essays
 
