@@ -1,17 +1,12 @@
-<!--The following is the downloaded HTML source of the ziprecruiter.com privacy policy that was archived on 2017-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624092516id_/https%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ziprecruiter.com privacy policy that was archived on 2017-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171225233606id_/https%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js" lang="en"><!--<![endif]--><head>
+<!DOCTYPE html><html class="js" lang="en"><head>
   
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-   <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K48XH2"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-    (function(window,document,undefined){"use strict";var queue=[];var queue_length=function(){return queue.length};var is_google_setting_up=false;var setup_google=function(canonical_path){if(is_google_setting_up){return}is_google_setting_up=true;window.zrAbt.bucketGoogle=bucket_google;if(canonical_path!==undefined){window.canonicalPath=canonical_path}run_queue_google()};window.is_pageview_sent=window.is_pageview_sent||false;var ga_object;var bucket_google=function(testIndex,testId){queue.push(function(testIndex,testId){return function(){ga_object("set","expId",testId);ga_object("set","expVar",testIndex);if(!window.is_pageview_sent){var args={};if(window.canonicalPath!==undefined)args["page"]=window.canonicalPath;ga_object("send","pageview",args);window.is_pageview_sent=true}else{ga_object("send",{hitType:"event",eventCategory:"ab_test",eventAction:"dummy",nonInteraction:1})}}}(testIndex,testId));run_queue_google()};var is_queue_running=false;var run_queue_google=function(){if(!queue.length||is_queue_running)return;if(window["GoogleAnalyticsObject"]==undefined||!(ga_object=window[window["GoogleAnalyticsObject"]])){setTimeout(run_queue_google,500);return}is_queue_running=true;var q;setTimeout(function(){q=queue.shift();q();is_queue_running=false;if(queue.length)run_queue_google()},0)};window.zrAbt={};window.zrAbt.setupGoogle=setup_google;window.zrAbt.queueLength=queue_length})(window,document);</script>
-
-<script>
-  zrAbt.setupGoogle('\/privacy');
-</script> <script type="text/javascript">  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K48XH2"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
@@ -23,7 +18,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
-   <title>Privacy Policy | ZipRecruiter</title> <meta name="description" content="ZipRecruiter, Inc. knows that you care how information about you is used and shared. Learn more about our Privacy Policy here.">   <meta name="robots" content="follow,index">
+   <title>Privacy Policy | ZipRecruiter</title>
+<meta name="description" content="ZipRecruiter, Inc. knows that you care how information about you is used and shared. Learn more about our Privacy Policy here.">   <meta name="robots" content="follow,index">
 
       
 
@@ -56,14 +52,22 @@
   
 
   
-    <script>(function(root){"use strict";var disallowBlank=false;var open=window.open;var blankshield={};blankshield.open=function(strUrl,strWindowName,strWindowFeatures){var child;if(safeTarget(strWindowName)){return open.apply(window,arguments)}else if(disallowBlank){document.location=strUrl}else{child=open(document.location.href,strWindowName,strWindowFeatures);child.opener=null;child.location=strUrl;return child}};blankshield.patch=function(){window.open=function(){return blankshield.open.apply(this,arguments)}};blankshield.clickHandler=function(target,e){var targetName,href,usedModifier;href=target.getAttribute("href");if(!href)return;usedModifier=e.ctrlKey||e.shiftKey||e.metaKey;targetName=target.getAttribute("target");if(!usedModifier&&(!targetName||safeTarget(targetName))){return}blankshield.open(href);e.preventDefault();return false};function safeTarget(target){return target==="_top"||target==="_self"||target==="_parent"}var noopenerReg=/\bnoopener\b/;blankshield.init=function(params){blankshield.patch();var useClickHandler;var whiteList;params=params||{};useClickHandler=params.useClickHandler;disallowBlank=!!params.disallowBlank;whiteList=params.whiteList;document.addEventListener("click",function(e){var t=e.target;if(e.button===2)return;if(t.nodeName!=="A"){t=t.parentElement;do{}while(t&&t.nodeName!=="A"&&(t=t.parentElement))}if(t&&t.target){if(disallowBlank){if(!safeTarget(t.target)){t.target="_self"}return}var black=false;if(whiteList){black=true;var href=t.getAttribute("href");if(!Array.isArray(whiteList)){whiteList=[whiteList]}for(var i=0,reg;reg=whiteList[i];i++){if(href.match(reg)){black=false;break}}if(!black){return}}if(useClickHandler){blankshield.clickHandler(t,e)}else if(!t.rel||!t.rel.match(noopenerReg)){t.rel=(t.rel?t.rel+" ":"")+"noopener"}}})};root.blankshield=blankshield})(this);</script>
+    <script>!function(t){"use strict";function e(t){return"_top"===t||"_self"===t||"_parent"===t}var n=!1,i=window.open,r={};r.open=function(t,a,o){var l;return e(a)||r.whitelisted(t)?i.apply(window,arguments):n?void(document.location=t):(l=i(t,a,o),l.opener=null,l)},r.patch=function(){window.open=function(){return r.open.apply(this,arguments)}},r.clickHandler=function(t,n){var i,a,o;if((a=t.getAttribute("href"))&&(o=n.ctrlKey||n.shiftKey||n.metaKey,i=t.getAttribute("target"),o||i&&!e(i)))return r.open(a),n.preventDefault(),!1},r.whitelisted=function(t){if(!r.whiteList)return!1;Array.isArray(r.whiteList)||(r.whiteList=[r.whiteList]);for(var e,n=0;e=r.whiteList[n];n++)if(t.match(e))return!0;return!1};var a=/\bnoopener\b/;r.init=function(t){r.patch();var i;i=(t=t||{}).useClickHandler,n=!!t.disallowBlank,r.whiteList=t.whiteList,document.addEventListener("click",function(t){var o=t.target;if(2!==t.button){if("A"!==o.nodeName){o=o.parentElement;do{}while(o&&"A"!==o.nodeName&&(o=o.parentElement))}if(o&&o.target){if(n)return void(e(o.target)||(o.target="_self"));i?r.clickHandler(o,t):o.rel&&o.rel.match(a)||(o.rel=(o.rel?o.rel+" ":"")+"noopener")}}})},t.blankshield=r}(this);
+</script>
   
   <script>
     blankshield.init({
       useClickHandler: true,
-      whiteList: [/^\/mobile-app-redirect/]
+      whiteList: [/^\/mobile-app-redirect/, /^https:\/\/accounts\.google\.com\//, /^https:\/\/www\.facebook\.com\//]
     });
   </script>
+
+  
+
+  
+    <script>!function(t,e,o,n){var s=function(){return(token_match=document.cookie.match(/SAFESAVE_TOKEN=([^;]+)/))?token_match[1]:""};XMLHttpRequest.prototype.open=function(){this.__url=arguments[1],e.apply(this,arguments)},XMLHttpRequest.prototype.setRequestHeader=function(t,e){return"X-Requested-With"===t&&(this.__xrwset=!0),o.apply(this,arguments)},XMLHttpRequest.prototype.send=function(){var e=document.createElement("a");return e.setAttribute("href",this.__url),e.host===window.location.host&&(this.__xrwset||o.call(this,"X-Requested-With","XMLHttpRequest"),this.setRequestHeader("Document-Location-Href",window.location.href)),t.apply(this,arguments)};var i=function(t){if(t&&"FORM"===t.nodeName&&"post"===t.method){var e=document.createElement("input");e.setAttribute("type","hidden"),e.setAttribute("name","_safesave"),e.setAttribute("value",s()),t.appendChild(e)}};HTMLFormElement.prototype.submit=function(){i(this),n.apply(this,arguments)},document.addEventListener("submit",function(t){i(t.target)})}(XMLHttpRequest.prototype.send,XMLHttpRequest.prototype.open,XMLHttpRequest.prototype.setRequestHeader,HTMLFormElement.prototype.submit);
+</script>
+  
 
   
     <script type="text/javascript">
@@ -71,6 +75,8 @@
       window.zr.page = window.zr.page || {};
       window.zr.page.model = window.zr.page.model || {};
 
+       window.zr.page.model['unreviewed'] = 0;
+       window.zr.page.model['partner_brand'] = "ziprecruiter";
       
       
     </script>
@@ -78,23 +84,28 @@
     
   
 
-  <!-- site css links --> <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/82a6f75b/css/bundle-bootstrap.css" type="text/css" media="all"> <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/9d000ac1/css/style-marketing.css" type="text/css" media="all"><!-- page css links -->
-    <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/1c1a3103/css/privacy/_privacy.css" type="text/css" media="all">
+  
+    
+  <!-- site css links --> <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/6df18eb0/css/bundle-bootstrap.css" type="text/css" media="all"> <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/41a688fd/css/style-marketing.css" type="text/css" media="all"><!-- page css links -->
+    <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/abef443a/css/terms/_terms.css" type="text/css" media="all">
+      <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/a97cc330/css/common/_header.css" type="text/css" media="all">
+      <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/505872fa/css/light/_header_light.css" type="text/css" media="all">
+      <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/951363d9/css/common/notifier.css" type="text/css" media="all">
+      <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/7bb75440/css/help-chat.css" type="text/css" media="all">
     <!-- page css inlines -->
-     <!--[if IE 9]>
+    <style></style> <!--[if IE 9]>
           <link rel="stylesheet" type="text/css" href="https://www.ziprecruiter.com/zrs/314d58d5/css/style-ie9.css">
-        <![endif]-->       <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/9ff76086/css/print.css" type="text/css" media="print">
+        <![endif]-->       <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/c9a00e01/css/print.css" type="text/css" media="print">
 
   
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
-      <script src="https://www.ziprecruiter.com/zrs/b355c930/js/jquery.tracking.js"></script>
+      <script src="https://www.ziprecruiter.com/zrs/501d6636/js/jquery.log_event.js"></script>
       <!-- page javascript onready -->
-        
-</head>
+        </head>
 
 
-    <body class="docloading pub aboutus privacy subPages logged_out">
+    <body class="docloading pub aboutus privacy subPages has_universal_footer logged_out">
 
       <div class="skip_to_content">
       Skip to <a href="#main">Main Content</a>
@@ -103,13 +114,10 @@
 
   
     
-  
-
-   
-              <header id="site_header" class="navgroup  header_button" role="banner">
+   <div class="main_site_header"><header id="site_header" class="navgroup header_button" role="banner">
     <div class="content">
-
       
+
       <h3 id="site_headline">
         <a class="brand" href="/">
           <img src="https://www.ziprecruiter.com/zrs/f810ae13/img/logos/ziprecruiter-blacktext.svg" width="155" height="34" alt="ZipRecruiter">
@@ -117,7 +125,7 @@
       </h3>
 
       
-        <a href="#" id="nav_toggle">Menu</a>
+        <a href="#" id="nav_toggle"><span class="labelText">Menu</span><span class="messages-notification-unread messages-notification-badge"></span></a>
       
 
       
@@ -136,7 +144,7 @@
             </h3>
           </section>
           
-            <div id="searchTab" class="nav noPop">
+            <div id="searchTab" class="nav noPop button_tab">
               <h3 class="headline"><a href="/jobs/search" class="headline_nav"><span class="text">Search Jobs</span></a></h3>
             </div>
           
@@ -152,12 +160,10 @@
                 <a class="headline_nav" href="/sales">Contact Us</a>
             </h3>
             <div class="subnav">
+              
+              <a class="chat chatTrigger" href="/sales" title="Click to open Live Chat" style="display:none">Live Chat</a>
               <a class="phone_number" href="/sales">(877) 252-1062</a>
               <a class="email" href="/sales">Email Us</a>
-              
-                <a class="chat chatTrigger" href="javascript:void(0);" title="Click to open Live Chat">Live Chat</a>
-              
-              <p>Available 6am-6pm PT daily</p>
             </div>
           </section>
         
@@ -169,10 +175,12 @@
                         </nav>
           </div>
   </header>
+  </div>
+
       <a id="top"></a>
       <div class="container bodyContainer">
   <div class="row">
-    <div class="col-md-8 col-md-offset-2">
+    <div class="col-lg-6 col-lg-offset-3">
       <div class="contentPanel">
         <div class="fr fnPhone mt-10 clearfix">
           <div class="fl mr20 mt25">
@@ -183,393 +191,514 @@
         </div>
 
         <div class="pp_wrap">
-  <h1>Privacy Policy</h1>
 
-  <p>Effective Date: January 11, 2017</p>
+<h1>Privacy Policy</h1>
 
-  <p>Your privacy is important to us and maintaining your trust is our priority. To ensure that your privacy choices are respected, ZipRecruiter, Inc. ("<strong>ZipRecruiter</strong>," "<strong>we</strong>," or "<strong>us</strong>") has set out in this Privacy Policy, an explanation of our online information practices as well as the decisions you may make regarding how your information is collected and used when viewing the <a href="https://www.ziprecruiter.co.uk/">www.ziprecruiter.co.uk</a> website, the <a href="https://www.ziprecruiter.com/">www.ziprecruiter.com</a> website, the <a href="https://www.zipalerts.com/">www.zipalerts.com</a> website, and other ZipRecruiter-owned websites and our Mobile Applications (collectively, the "<strong>Site</strong>").</p>
+<p><em>Effective Date: October 2, 2017</em></p>
 
-  <h5>EU-U.S. Privacy Shield</h5>
+<p>Your privacy is important to us and maintaining your trust is our priority. To ensure that your privacy choices are respected, ZipRecruiter, Inc. ("ZipRecruiter," "we," or "us") has set out in this Privacy Policy, an explanation of our online information practices as well as the decisions you may make regarding how your information is collected and used when viewing the&nbsp;<a href="https://www.ziprecruiter.co.uk">www.ziprecruiter.co.uk</a>&nbsp;website, the&nbsp;<a href="https://www.ziprecruiter.com">www.ziprecruiter.com</a>&nbsp;website, the&nbsp;<a href="https://www.zipalerts.com">www.zipalerts.com</a>&nbsp;website, and other ZipRecruiter-owned websites and our Mobile Applications (collectively, the "Site").</p>
 
-  <p>ZipRecruiter (and its subsidiaries, ZipRecruiter UK Ltd. And ZipRecruiter Ltd.), participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. ZipRecruiter is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield List. <a href="https://www.privacyshield.gov/list" target="_blank">https://www.privacyshield.gov/list</a>.</p>
+<p>EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield</p>
 
-  <p>ZipRecruiter is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. ZipRecruiter complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.</p>
+<p>ZipRecruiter (and its subsidiaries, ZipRecruiter UK Ltd. And ZipRecruiter Ltd.), participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. ZipRecruiter is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce's Privacy Shield List.&nbsp;<a href="https://www.privacyshield.gov/list">https://www.privacyshield.gov/list</a>.</p>
 
-  <p>With respect to personal data received or transferred pursuant to the Privacy Shield Framework, ZipRecruiter is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, ZipRecruiter may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
+<p>ZipRecruiter is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. ZipRecruiter complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.</p>
 
-  <p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at<a href="https://feedback-form.truste.com/watchdog/request" target="_blank"> https://feedback-form.truste.com/watchdog/request</a>.</p>
+<p>With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, ZipRecruiter is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, ZipRecruiter may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
 
-  <p>Under certain conditions, more fully described on the <a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint" target="_blank">Privacy Shield website</a>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
+<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at&nbsp;<a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>.</p>
 
-  <h5>U.S. - Swiss Safe Harbor Framework</h5>
+<p>Under certain conditions, more fully described on the&nbsp;<a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint">Privacy Shield website</a>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
 
-  <p>ZipRecruiter complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. ZipRecruiter has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ZipRecruiter's certification, please visit <a href="https://safeharbor.export.gov/swisslist.aspx" target="_blank">https://safeharbor.export.gov/swisslist.aspx</a>.</p>
+<p>Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our&nbsp;<a href="/terms">Terms of Use</a>&nbsp;or in any other contractual document between you and us.</p>
 
-  <p>With respect to complaints concerning human resources data that is transferred from the EU to the United States, ZipRecruiter participates in the dispute resolution procedures of the EU Data Protection Authorities. ZipRecruiter will cooperate with the appropriate EU Data Protection Authorities during investigation and resolution of complaints concerning human resources data that is transferred from the EU to the United States brought under Privacy Shield.</p>
+<p>We reserve the right to change this Privacy Policy at any time. Such changes, modifications, additions or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to, issuing an email to the email address listed by registered users and/or by posting a notice and the revised Privacy Policy on the applicable ZipRecruiter website. You acknowledge that it is your responsibility to maintain a valid email address as a registered user, and to review the Site and this Privacy Policy periodically in order to be aware of any modifications. Your continued use of the Services after such modifications will constitute your:</p>
 
-  <p>Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our <a href="/terms">Terms of Use</a> or in any other contractual document between you and us.</p>
+<ol class="lower_letters">
+  <li>acknowledgment of the modified Privacy Policy; and</li>
+  <li>agreement to abide and be bound by the modified Privacy Policy. You can see when this Privacy Policy was last updated by checking the date at the top of this page.</li>
+</ol>
 
-  <p>We reserve the right to change this Privacy Policy at any time. Such changes, modifications, additions or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to, issuing an email to the email address listed by registered users and/or by posting a notice and the revised Privacy Policy on the applicable ZipRecruiter website. You acknowledge that it is your responsibility to maintain a valid email address as a registered user, and to review the Site and this Privacy Policy periodically in order to be aware of any modifications. Your continued use of the Services after such modifications will constitute your:</p>
+<p>Click on the links below to jump to each section:</p>
 
-  <ol class="lower_letters">
-    <li>acknowledgment of the modified Privacy Policy; and</li>
-    <li>agreement to abide and be bound by the modified Privacy Policy. You can see when this Privacy Policy was last updated by checking the date at the top of this page.</li>
-  </ol>
+<ol class="numbers">
+  <li><a href="#s1">Information We Collect About You and How We Collect It</a></li>
+  <li><a href="#s2">How We Use Your Information</a></li>
+  <li><a href="#s3">How We Share Your Information</a></li>
+  <li><a href="#s4">How We Protect Your Information</a></li>
+  <li><a href="#s5">Messaging Service</a></li>
+  <li><a href="#s6">Public Forums</a></li>
+  <li><a href="#s7">Cookies and Similar Technologies</a></li>
+  <li><a href="#s8">Social Media (Features) and Widgets</a></li>
+  <li><a href="#s9">Choices About Your Information Including Marketing Preferences</a></li>
+  <li><a href="#s10">Where Your Information Is Stored</a></li>
+  <li><a href="#s11">Children's Privacy</a></li>
+  <li><a href="#s12">Third Party Websites</a></li>
+  <li><a href="#s13">California Residents</a></li>
+  <li><a href="#s14">Notification Procedures</a></li>
+  <li><a href="#s15">Access to Information (for U.K. residents)</a></li>
+  <li><a href="#s16">ZipRecruiter as a Data Processor</a></li>
+  <li><a href="#s17">How to Contact Us</a></li>
+</ol>
 
-  <p>Click on the links below to jump to each section:</p>
+<h3 id="s1">1) INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT <a href="#top" class="topLink">top</a></h3>
 
-  <ol class="numbers">
-    <li><a href="#information">Information We Collect About You and How We Collect It</a></li>
-    <li><a href="#use">How We Use Your Information</a></li>
-    <li><a href="#share">How We Share Your Information</a></li>
-    <li><a href="#protect">How We Protect Your Information</a></li>
-    <li><a href="#public">Public Forums</a></li>
-    <li><a href="#cookies">Cookies and Similar Technologies</a></li>
-    <li><a href="#social">Social Media (Features) and Widgets</a></li>
-    <li><a href="#choices">Choices About Your Information</a></li>
-    <li><a href="#stored">Where Your Information Is Stored</a></li>
-    <li><a href="#children">Children's Privacy</a></li>
-    <li><a href="#third">Third Party Websites</a></li>
-    <li><a href="#california">California Residents</a></li>
-    <li><a href="#notification">Notification Procedures</a></li>
-    <li><a href="#access">Access to Information</a></li>
-    <li><a href="#processor">ZipRecruiter as a Data Processor</a></li>
-    <li><a href="#contact">How to Contact Us</a></li>
-  </ol>
+<p>We collect several types of information from and about users of the Site and the products and services of ZipRecruiter (collectively, the <b>"Services"</b>), including:</p>
 
-  <a name="information"></a>
-  <h3>1) INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT</h3>
-
-  <ol class="lower_letters">
-    <li>We collect several types of information from and about users of our Services, including:</li>
-    <ol class="lower_roman force">
-      <li>Information by which you can be personally identified, such as your name, physical address, e-mail address, and phone number ("<strong>Personal Information</strong>"). The specific Personal Information that we collect depends on the type of Services that you may be using; and</li>
-      <li>Information, which does not identify you ("<strong>Technical Information</strong>" or "<strong>Non-Personal Information</strong>").</li>
-    </ol>
-
-    <li>We collect this Technical Information:</li>
-    <ol class="lower_roman force">
+<ol class="lower_letters">
+  <li>Information by which you can be personally identified, such as your name, physical address, e-mail address, and phone number (<b>"Personal Information"</b>). The specific Personal Information that we collect depends on the type of Services that you may be using; and</li>
+  <li>Information, which does not identify you (<b>"Technical Information"</b>).  We collect this Technical Information:
+    <ol class="lower_roman">
       <li>directly from you when you provide it to us;</li>
       <li>automatically as you navigate through the Site (e.g., usage details); and</li>
       <li>from third parties, for example, our partners.</li>
     </ol>
-  </ol>
+  </li>
+</ol>
+
+<p>Your knowledge and consent of our collection, use and disclosure of your Personal information is critical in order for us to provide the Services to you.  We rely on any of the following actions by you as indications of your consent to our existing and future Personal Information practices: your voluntary provision of Personal Information directly to us; your express consent or acknowledgement contained within a written, verbal or electronic application process; your consent solicited by us (or our agent) for a specified purpose; or your acceptance of the Privacy Policy until you notify us in writing of a withdrawal of this consent.</p>
 
 
-  <p>Your knowledge and consent of our collection, use and disclosure of your Personal information is critical in order for us to provide the Services to you. We rely on any of the following actions by you as indications of your consent to our existing and future Personal Information practices: your voluntary provision of Personal Information directly to us; your express consent or acknowledgement contained within a written, verbal or electronic application process; your consent solicited by us (or our agent) for a specified purpose; or your acceptance of the Privacy Policy until you notify us in writing of a withdrawal of this consent.</p>
-
-  <ol class="alpha">
-    <li><strong>Information You Provide to Us.</strong> In the course of using the Services, you may provide us with information about yourself, including, but not limited to:</li>
+<ol class="alpha">
+  <li><b>Information You Provide to Us.</b>&nbsp;  In the course of using the Services, you may provide us with information about yourself, including, but not limited to:
     <ul class="bullets">
-      <li>Information that you provide by filling in forms on our Site, responding to surveys, creating an account, subscribing to the Services, posting material, communicating with our personnel, requesting further services, entering a contest, taking part in a promotion, or reporting a problem</li>
-      <li>Details of transactions you carry out through our Site</li>
-      <li>User Contributions, i.e., you may provide information to be published or displayed on public areas of the Site, or transmitted to other users of the Site or third parties (collectively, "<strong>User Contributions</strong>")</li>
-      <li>If you authorize ZipRecruiter to connect your account to the account of a "<strong>Connected Site</strong>" (e.g., LinkedIn, Monster, Facebook or Twitter), we may be able to access information you have provided to the Connected Site, such as content information, timeline feeds, contact and follow lists, network statistics and updates regarding your Connected Site account</li>
-    </ul>
+      <li>Information that you provide by filling in forms on our Site, responding to surveys, creating an account, subscribing to the Services, posting material, communicating with our personnel, sending, receiving, or engaging with messages, requesting further services, entering a contest, taking part in a promotion, or reporting a problem</li>
 
-    <li><strong>Information We Collect through Automatic Data Technologies.</strong> As you navigate through and interact with our Services, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:</li>
+      <li>Details of transactions you carry out through our Site</li>
+
+      <li>User Contributions, i.e., you may provide information to be published or displayed on public areas of the Site, or transmitted to other users of the Site or third parties (collectively, <b>"User Contributions"</b>)</li>
+
+      <li>If you authorize ZipRecruiter to connect your account to the account of a <b>"Connected Site"</b> (e.g., LinkedIn, Monster, Facebook or Twitter), we may be able to access information you have provided to the Connected Site, such as content information, timeline feeds, contact and follow lists, network statistics and updates regarding your Connected Site account</li>
+    </ul>
+  </li>
+
+  <li>
+    <b>Information We Collect through Automatic Data Technologies.</b>&nbsp;As you navigate through and interact with our Services, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
+
     <ul class="bullets">
       <li>Details of your visits to our Site and use of the Services, including traffic data, location data, logs and the resources that you access and use on our Site or the Services</li>
-      <li>Information about your computer and internet connection, operating system and browser type, device identifier ("<strong>UDID</strong>") and your Internet Protocol (IP) address</li>
+      <li>Information about your computer and internet connection, operating system and browser type, device identifier ("UDID") and your Internet Protocol (IP) address</li>
       <li>Location based information for the purpose of setting up your job search preferences. We will not share this information with any third party. If you no longer wish to allow us to track your geo-location information in the Mobile Application, you may turn this off at the device level</li>
     </ul>
-  </ol>
+  </li>
+</ol>
 
-  <a name="use"></a>
-  <h3>2) HOW WE USE YOUR INFORMATION</h3>
+<h3 class="#s2">2)  HOW WE USE YOUR INFORMATION <a href="#top" class="topLink">top</a></h3>
 
-  <p>We use information that we collect about you or that you provide to us, including any Personal Information:</p>
+<p>We use information that we collect about you or that you provide to us, including any Personal Information:</p>
 
-  <ul class="bullets">
-    <li>To administer our Site and its contents to you</li>
-    <li>To provide you with information, products or services that you need depending on the type of Services you use</li>
-    <li>To provide you with notices about your account and/or your subscription, including expiration and renewal notices</li>
-    <li>To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection</li>
-    <li>To notify you about changes to our Site, products or services</li>
-    <li>To allow you to participate in interactive features on our Site</li>
-    <li>To diagnose service or technical problems, trouble shooting, analyzing how our Services is used, personalizing content for you, providing the end service to you (which may include sharing certain information with third party vendors and service providers) and to respond to any enquiries that you may have</li>
-    <li>To improve our Site and the Services by enabling us to: store information about your preferences, allowing us to deliver a more personalized service to you; speed up your searches; and recognize you when you return to the Site</li>
-    <li>In any other way we may describe when you provide the information</li>
-    <li>For any other purpose with your consent</li>
-  </ul>
+<ul class="bullets">
+  <li>To administer our Site and its contents to you</li>
+  <li>To provide you with information, products or services that you need depending on the type of Services you use</li>
+  <li>To provide you with notices about your account and/or your subscription, including expiration and renewal notices</li>
+  <li>To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection</li>
+  <li>To notify you about changes to our Site, products or services</li>
+  <li>To allow you to participate in interactive features on our Site</li>
+  <li>To diagnose service or technical problems, trouble shooting, analyzing how our Services is used, personalizing content for you, providing the end service to you (which may include sharing certain information with third party vendors and service providers) and to respond to any enquiries that you may have</li>
+  <li>To improve our Site and the Services by enabling us to: store information about your preferences, allowing us to deliver a more personalized service to you; speed up your searches; and recognize you when you return to the Site</li>
+  <li>In any other way we may describe when you provide the information</li>
+  <li>For any other purpose with your consent</li>
+</ul>
 
-  <p><strong>IMPORTANT: Any Personal Information or content that you voluntarily disclose for public posting to our Services, such as User Content, becomes available to the public and may be accessed, used and stored by other around the world. Accordingly, you should not post sensitive personal information or any other information that you would not want made public to any other Site or application or to a public website. You should never provide your social security number, national insurance number, financial information, passport number, and other sensitive information.</strong></p>
+<p><b>IMPORTANT: Any Personal Information or content that you voluntarily disclose for public posting to our Services, such as User Content, becomes available to the public and may be accessed, used and stored by others around the world. Accordingly, you should not post sensitive personal information or any other information that you would not want made public to any other Site or application or to a public website. You should never provide your social security number, national insurance number, financial information, passport number, and other sensitive information.</b></p>
 
-  <a name="share"></a>
-  <h3>3) HOW WE SHARE YOUR INFORMATION</h3>
+<h3 id="s3">3) HOW WE SHARE YOUR INFORMATION <a href="#top" class="topLink">top</a></h3>
 
-  <ol class="alpha">
-    <li><strong>Personal Information.</strong> We may share or disclose your Personal Information with selected third parties, including:</li>
+<ol class="alpha">
+  <li><b>Personal Information.</b>&nbsp;We may share or disclose your Personal Information with selected third parties, including:
     <ul class="bullets">
       <li>Companies within our corporate family. We may share your Personal Information with our subsidiaries and corporate affiliates, including ZipRecruiter UK Ltd</li>
       <li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets or stock, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which Personal Information held by us about our Users is among the assets transferred</li>
-      <li>To enforce or apply our <a href="/terms">Terms of Use</a> or other agreements with you</li>
-      <li>In certain situations, ZipRecruiter may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We fully cooperate with law enforcement agencies in identifying those who use our Services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful</li>
+      <li>To enforce or apply our&nbsp;<a href="/terms">Terms of Use</a>&nbsp;or other agreements with you</li>
+      <li>Law enforcement agencies;  we fully cooperate with law enforcement agencies in identifying those who use our Services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful</li>
       <li>If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of ZipRecruiter, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction</li>
       <li>If we believe that such action is necessary to investigate, prevent, or take action regarding suspected or actual illegal activities (including instances where we suspect a User has uploaded any content that is infringing)</li>
-      <li>Third party vendors who we use to support our business and help provide end services to you, including, but not limited to, credit card processing and other billing service providers, customer service providers, and email service providers. We may also authorize third party vendors to collect information on our behalf, including as necessary to operate certain features of our Site or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose.</li>
+      <li>Third party vendors who we use to support our business and help provide end services to you, including, but not limited to, credit card processing and other billing service providers, customer service providers, messaging service providers, and email service providers. We may also authorize third party vendors to collect information on our behalf, including as necessary to operate certain features of our Site or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose.</li>
       <li>To third parties to market their products or services to you if you have consented to or not opted out of these disclosures</li>
       <li>To fulfill the purpose for which you provide it. For example, if you give us an e-mail address to use the "e-mail a friend" feature of our Site, we will transmit the contents of that e-mail and your e-mail address to the recipients</li>
+      <li>Prospective employers if you respond to a job advertisement or have opted-in to our Resume Database.  <u>Note:</u>  to the extent that you have an account with ZipRecruiter, please ensure that the resume associated with your account is up-to-date so when you apply for a job on a ZipRecruiter website, the employer receives your most recent resume.  You will have an account with ZipRecruiter if you opened an account yourself, signed up for job alerts, submitted your resume to the resume database, and/or applied for a job on the ZipRecruiter website.  You can delete and upload new resumes by going to the ‘Profile’ settings in your account</li>
       <li>Upon your authorization, the Services may also post information directly to the timeline of your Connected Site Account</li>
       <li>Analytics and search engine providers that assist us in the improvement and optimization of our site</li>
       <li>Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you</li>
       <li>With prospective employers or recruiters if you add your resume to the Resume Database. Users of the Services may also be able to view a free preview of information in the Resume Database that contains certain job/education history and other information. You can opt-out of your information being available in our Resume Database at any time by updating this preference on the My Profile tab of your Job Seeker account.</li>
       <li>With prospective employers and recruiters (and/or with their external Applicant Tracking System or similar external system used by such companies to manage responses to their job postings), if you respond to a job posting</li>
-      <li>From time to time, we may run contests, special offers, or other events or activities ("<strong>Events</strong>") on our Services together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events</li>
+      <li>From time to time, we may run contests, special offers, or other events or activities ("Events") on our Services together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events</li>
       <li>For any other purpose disclosed by us when you provide the information or with your consent</li>
     </ul>
+  </li>
+  <li><b>Technical Information.</b>&nbsp;We may share Technical Information (such as usage data and demographics, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain ZipRecruiter services or to drive product engagement with other Users of the Services.</li>
+</ol>
 
-    <li><strong>Technical Information.</strong> We may share Technical Information (such as anonymous usage data and demographics, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain ZipRecruiter services or to drive product engagement with other Users of the Services.</li>
-  </ol>
+<h3 id="s4">4) HOW WE PROTECT YOUR INFORMATION <a href="#top" class="topLink">top</a></h3>
 
-  <a name="protect"></a>
-  <h3>4) HOW WE PROTECT YOUR INFORMATION</h3>
+<p>We use appropriate technical and organizational measures to protect any Personal Information we process about you. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions and credit or debit card data will be encrypted.</p>
 
-  <p>We use appropriate technical and organizational measures to protect any Personal Information we process about you. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions and credit or debit card data will be encrypted.</p>
+<p>Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, you acknowledge that:</p>
 
-  <p>Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, you acknowledge that:</p>
+<ol class="lower_letters">
+  <li>there are security and privacy limitations of the Internet which are beyond our control;</li>
+  <li>the security, integrity and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed; and</li>
+  <li>any such information and data may be viewed or tampered with in transit by a third party.</li>
+</ol>
 
-  <ol class="lower_letters">
-    <li>there are security and privacy limitations of the Internet which are beyond our control;</li>
-    <li>the security, integrity and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed; and</li>
-    <li>any such information and data may be viewed or tampered with in transit by a third party.</li>
-  </ol>
+<p>The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone and keep your account information secure. We urge you to be careful about giving out information in public areas of the Site like message boards.</p>
 
-  <p>The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone and keep your account information secure. We urge you to be careful about giving out information in public areas of the Site like message boards.</p>
+<p>In the event that Personal Information is compromised as a result of a breach of security, ZipRecruiter will notify those persons whose Personal Information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy or as otherwise required by applicable law.</p>
 
-  <p>In the event that Personal Information is compromised as a result of a breach of security, ZipRecruiter will notify those persons whose Personal Information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy or as otherwise required by applicable law.</p>
+<h3 id="s5">5) MESSAGING SERVICE <a href="#top" class="topLink">top</a></h3>
 
-  <a name="public"></a>
-  <h3>5) PUBLIC FORUMS</h3>
+<p>We collect, process and store information when you send, receive, or engage with messages in connection with our Services. This includes information such as the number of messages you’ve sent and received, when you have viewed a message, details of who you’ve chatted with and when and which messages were responded to (<b>"Message Data"</b>). We may share limited portions of Message Data with third parties including other users of our Services, such as identifying active users of the message service, highlighting responsiveness to messages, or notifying a sender when a message has been viewed.</p>
 
-  <p>You should be aware that when you voluntarily disclose any Personal Information in a public forum on the Site, this information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond our control and this Privacy Policy does not apply to such information. You accept that you, and not ZipRecruiter, are responsible for providing such information in any public forum. Any submissions to public areas on the Site are accepted by you with the understanding that such forums are accessible to all third parties. If you do not want your comments or any content to be viewed by third parties, you are advised not to make any submissions. Ultimately, you are solely responsible for maintaining the secrecy of your password and/or account information. Please be careful and responsible whenever you're online.</p>
+<p>We also store your messages (<b>"Message Content"</b>) to generally permit you to access your message history; however, we cannot guarantee access to all messages at all times, and messages may be removed or deleted, including in connection with changes in or interruptions of service with our vendors, changes to our Services or features, or ZipRecruiter’s or our vendors’ data retention processes or storage limitations.  We may view Message Content to investigate or resolve technical or trust and safety issues or to improve our Services.  We will never share Message Content with third parties except as required by law or with your consent.</p>
 
-  <a name="cookies"></a>
-  <h3>6) COOKIES AND SIMILAR TECHNOLOGIES</h3>
+<p>We also may use automatic scanning technology on messages to allow us to recognize patterns on our messaging platform. These patterns may help us make your professional communications more efficient and informed and contribute to a safer and more secure job search experience. For example, our software may do the following:</p>
 
-  <ol class="alpha">
-    <li><strong>Tracking Technologies.</strong> ZipRecruiter and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.</li>
-    <li><strong>Blocking Cookies.</strong> You can also set or amend your web browser controls to accept or refuse cookies. If you choose to reject cookies, you may still use our Site through your access to some functionality and areas of our Site may be restricted. As the means by which you can refuse cookies through your web browser controls vary from browser-to-browser, you should visit your browser's help menu for more information.</li>
-    <li><strong>Log File Information.</strong> Log file information is automatically reported by your browser each time you access a web page. These server logs may include information such as your web request, IP address, browser type, referring/exit pages and URLs, number of clicks, domain names, landing pages, and other such information. We do not link this automatically collected data to any other information we collect about you.</li>
-    <li><strong>Local Storage Objects (FLASH/HTML5).</strong> We may use Local Storage Objects (LSOs) to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, may use LSOs to collect and store information.<br><br>Various browsers may offer their own management tools for removing LSOs. To manage Flash LSOs please <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" target="_blank">click here</a>. We partner with a third party to either display advertising on our Services or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on the Services and other sites in order to provide you with advertising based upon your browsing activities and interests. If you do not wish to have this information used for the purpose of serving you interest-based ads, you may opt-out by <a href="http://preferences-mgr.truste.com/" target="_blank">clicking here</a> (or if located in the European Union <a href="http://www.youronlinechoices.eu/" target="_blank">click here</a>). Please note that this does not opt you out of being served generic ads. You will continue to receive generic ads.</li>
-    <li><strong>Clear Gifs Information.</strong> When you use our Services, ZipRecruiter or our third party analytics providers may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously and help us better manage content on our Site by informing us of what content is effective. No personally identifiable information from your ZipRecruiter account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make ZipRecruiter better for our users.<br><br>This Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.</li>
-    <li><strong>Tracking across Third Party Websites.</strong> Some third party websites do keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you. If you are visiting such sites, certain website browsers allow you to set the DNT signal on your browser so that third parties (particularly advertisers) know you do not want to be tracked. The Services does not respond to Do Not Track ("DNT") signals on your browser. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.</li>
-    <li><strong>Mobile Analytics.</strong> We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.</li>
-    <li><strong>Push Notifications.</strong> We may send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.</li>
-  </ol>
+<ul class="bullets">
+  <li>Look for text that indicates a web link (e.g. ends with ".com" or similar) to generate a clickable link</li>
+  <li>Provide auto-complete options when it anticipates who the receiver of the message may be</li>
+  <li>Look for content to provide <i>quick actions</i> such as a scheduling tool</li>
+  <li>Look for content to provide <i>quick replies</i> based on context</li>
+  <li>Check links shared in messages for malicious sites and looks for blacklisted keywords to detect spam and fraud.</li>
+</ul>
 
-  <a name="social"></a>
-  <h3>7) SOCIAL MEDIA (FEATURES) AND WIDGETS</h3>
+<h3 id="s6">6)  PUBLIC FORUMS <a href="#top" class="topLink">top</a></h3>
 
-  <p>Our Services includes social media features, such as the Facebook Like button and Widgets, and the Share this button or interactive mini-programs that run on our Services. These features may collect your IP address, which page you are visiting on our Services, and may set a cookie to enable the Feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Services. Your interactions with these features are governed by the privacy policy of the company providing such features.</p>
+<p>You should be aware that when you voluntarily disclose any Personal Information in a public forum on the Site, this information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond our control and this Privacy Policy does not apply to such information. You accept that you, and not ZipRecruiter, are responsible for providing such information in any public forum. Any submissions to public areas on the Site are accepted by you with the understanding that such forums are accessible to all third parties. If you do not want your comments or any content to be viewed by third parties, you are advised not to make any submissions. Ultimately, you are solely responsible for maintaining the secrecy of your password and/or account information. Please be careful and responsible whenever you're online.</p>
 
-  <a name="choices"></a>
-  <h3>8) CHOICES ABOUT YOUR INFORMATION INCLUDING MARKETING PREFERENCES</h3>
+<h3 id="s7">7) COOKIES AND SIMILAR TECHNOLOGIES <a href="#top" class="topLink">top</a></h3>
 
-  <p>Upon request, ZipRecruiter will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at <a href="mailto:privacy@ziprecruiter.com">privacy@ziprecruiter.com</a>. You may, of course, decline to submit Personal Information through our Services, in which case ZipRecruiter may not be able to provide certain services to you. You may update, delete inaccuracies, or correct your account information and email preferences at any time by logging into your account and selecting email/password. You can also submit a request to review, delete inaccuracies, correct and access the information about you by contacting us at <a href="mailto:support@ziprecruiter.com">support@ziprecruiter.com</a>. We will respond to your request within a reasonable timeframe. If you make a request to access your Personal Information we may charge you a fee subject to a maximum specified by applicable law. We cannot delete your Personal Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.</p>
+<ol class="alpha">
+  <li><b>Tracking Technologies.</b>&nbsp;ZipRecruiter and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.</li>
+  <li><b>Blocking Cookies.</b>&nbsp;You can also set or amend your web browser controls to accept or refuse cookies. If you choose to reject cookies, you may still use our Site through your access to some functionality and areas of our Site may be restricted. As the means by which you can refuse cookies through your web browser controls vary from browser-to-browser, you should visit your browser's help menu for more information.</li>
+  <li><b>Passive Information.</b>&nbsp;As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.<br><br>
+  To manage Flash LSOs please&nbsp;<a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">click here</a>. We partner with a third party to either display advertising on our Services or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on the Services and other sites in order to provide you with advertising based upon your browsing activities and interests. If you do not wish to have this information used for the purpose of serving you interest-based ads, you may opt-out by&nbsp;<a href="http://preferences-mgr.truste.com/">clicking here</a>&nbsp;(or if located in the European Union&nbsp;<a href="http://www.youronlinechoices.eu/">click here</a>). Please note that this does not opt you out of being served generic ads. You will continue to receive generic ads.
+  </li>
+  <li><b>Clear Gifs Information.</b> When you use our Services, ZipRecruiter or our third party analytics providers may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users and help us better manage content on our Site by informing us of what content is effective. No personally identifiable information from your ZipRecruiter account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make our Services better for our users.  This Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.</li>
 
-  <p>If you wish to cancel your account, please contact us at <a href="mailto:support@ziprecruiter.com">support@ziprecruiter.com</a>. Please note, since we keep track of past transactions, you cannot delete information associated with past transactions on the Site. In addition, it may be impossible to completely delete your information without some residual information because of backups. We also reserve the right to retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+  <li><b>Tracking across Third Party Websites.</b>&nbsp;Some third party websites do keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you. If you are visiting such sites, certain website browsers allow you to set the DNT signal on your browser so that third parties (particularly advertisers) know you do not want to be tracked. The Services does not respond to Do Not Track ("DNT") signals on your browser. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.</li>
+  <li><b>Mobile Analytics.&nbsp;</b>We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.</li>
+  <li><b>Push Notifications.</b>&nbsp;We may send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.</li>
+</ol>
 
-  <p>To request removal of your Personal Information from our blog, community forums, or testimonials, contact us at <a href="mailto:support@ziprecruiter.com">support@ziprecruiter.com</a>. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.</p>
+<h3 id="s8">8) SOCIAL MEDIA (FEATURES) AND WIDGETS <a href="#top" class="topLink">top</a></h3>
 
-  <p>We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data, adjust your user preferences in your account profile and /or click "Unsubscribe" in any e-mail communications we send you. You cannot opt-out of Services-related notices. Opting out may prevent you from receiving email messages regarding updates, improvements, offers, or new features or functionality.</p>
+<p>Our Services includes social media features, such as the Facebook Like button and Widgets, and the ShareThisButton. These features may collect your IP address, which page you are visiting on our Services, and may set a cookie to enable the Feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Services. Your interactions with these features are governed by the privacy policy of the company providing such features.</p>
 
-  <p>If you choose to use our invitation service to invite a friend to our Services, we provide you with a link to copy and paste to share with your friends, or spread the word on Linkedin, Facebook or Twitter. We provide you with a unique link ID so that you earn credit for each friend that joins the site by following your link. Your friend may contact us to request that we remove this information from our database at <a href="mailto:privacy@ziprecruiter.com">privacy@ziprecruiter.com</a></p>
+<h3 id="s9">9) CHOICES ABOUT YOUR INFORMATION INCLUDING MARKETING PREFERENCES <a href="#top" class="topLink">top</a></h3>
 
-  <p>If you wish to invite a friend to view our blog posts, we will ask you for that person's email address and automatically send an email invitation. ZipRecruiter stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at <a href="mailto:privacy@ziprecruiter.com">privacy@ziprecruiter.com</a>.</p>
+<p>Upon request, ZipRecruiter will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at&nbsp;<a href="mailto:privacy@ziprecruiter.com">privacy@ziprecruiter.com</a>. You may, of course, decline to submit Personal Information through our Services, in which case ZipRecruiter may not be able to provide certain services to you. You may update, delete inaccuracies, or correct your account information and email preferences at any time by logging into your account and selecting email/password. You can also submit a request to review, delete inaccuracies, correct and access the information about you by contacting us at&nbsp;<a href="mailto:support@ziprecruiter.com">support@ziprecruiter.com</a>. We will respond to your request within a reasonable timeframe. If you make a request to access your Personal Information we may charge you a fee subject to a maximum specified by applicable law. We cannot delete your Personal Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.</p>
+<p>If you wish to cancel your account, please contact us at&nbsp;<a href="mailto:support@ziprecruiter.com">support@ziprecruiter.com</a>. Please note, since we keep track of past transactions, you cannot delete information associated with past transactions on the Site. In addition, it may be impossible to completely delete your information without some residual information because of backups. We also reserve the right to retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p>To request removal of your Personal Information from our blog, community forums, or testimonials, contact us at&nbsp;<a href="mailto:support@ziprecruiter.com">support@ziprecruiter.com</a>. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.</p>
+<p>We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data, adjust your user preferences in your account profile and /or click "Unsubscribe" in any e-mail communications we send you. You cannot opt-out of Services-related notices. Opting out may prevent you from receiving email messages regarding updates, improvements, offers, or new features or functionality.</p>
+<p>If you choose to use our invitation service to invite a friend to our Services, we provide you with a link to copy and paste to share with your friends, or spread the word on Linkedin, Facebook or Twitter. We provide you with a unique link ID so that you earn credit for each friend that joins the site by following your link. Your friend may contact us to request that we remove this information from our database at&nbsp;<a href="mailto:privacy@ziprecruiter.com">privacy@ziprecruiter.com</a></p>
+<p>If you wish to invite a friend to view our blog posts, we will ask you for that person's email address and automatically send an email invitation. ZipRecruiter stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at&nbsp;<a href="mailto:privacy@ziprecruiter.com">privacy@ziprecruiter.com</a>.</p>
 
-  <a name="stored"></a>
-  <h3>9) WHERE YOUR INFORMATION IS STORED</h3>
+<h3 id="s10">10) WHERE YOUR INFORMATION IS STORED <a href="#top" class="topLink">top</a></h3>
 
-  <p>Please be aware that your Personal Information collected outside the U.S., is transferred to, stored in and processed in our facilities and by those third parties with whom we may share your Personal Information, in the United States and potentially in other countries. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.</p>
+<p>Please be aware that your Personal Information collected outside the U.S., is transferred to, stored in and processed in our facilities and by those third parties with whom we may share your Personal Information, in the United States and potentially in other countries. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.</p>
 
-  <a name="children"></a>
-  <h3>10) CHILDREN'S PRIVACY</h3>
 
-  <p>ZipRecruiter does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register to use the Services. No one under age 13 is allowed to provide any Personal Information to ZipRecruiter or on the Site. In the event that we learn that we have collected Personal Information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at <a href="mailto:support@ziprecruiter.com">support@ziprecruiter.com</a>.</p>
+<h3 id="s11">11)   CHILDREN'S PRIVACY <a href="#top" class="topLink">top</a></h3>
+<p>ZipRecruiter does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register to use the Services. No one under age 13 is allowed to provide any Personal Information to ZipRecruiter or on the Site. In the event that we learn that we have collected Personal Information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at&nbsp;<a href="mailto:support@ziprecruiter.com">support@ziprecruiter.com</a>.</p>
 
-  <a name="third"></a>
-  <h3>11) THIRD PARTY WEB SITES</h3>
+<h3 id="s12">12)   THIRD PARTY WEB SITES <a href="#top" class="topLink">top</a></h3>
+<p>Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other websites accessible through our Site have their own privacy policies and data collection, use and disclosure practices. Please consult each website's privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other companies which place advertising on our Site may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect.</p>
+<h3 id="s13">13)   CALIFORNIA RESIDENTS <a href="#top" class="topLink">top</a></h3>
+<p>California residents may choose to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes or choose to opt out of such disclosure. To make a request or to opt out at any time, please contact us&nbsp;<a href="mailto:privacy@ziprecruiter.com">privacy@ziprecruiter.com</a>&nbsp;or mail us at the address provided below.</p>
+<h3 id="s14">14)   NOTIFICATION PROCEDURES <a href="#top" class="topLink">top</a></h3>
+<p>It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Site, as determined by ZipRecruiter in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.</p>
+<h3 id="s15">15)   ACCESS TO INFORMATION (for residents in the United Kingdom) <a href="#top" class="topLink">top</a></h3>
+<p>The Data Protection Act 1988 (<b>"Act"</b>) gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
+<p>The ZipRecruiter websites are operated by ZipRecruiter, Inc., a Delaware corporation, located at 401 Wilshire Blvd., 11th Floor, Santa Monica, CA 90401, U.S.A. For the purposes of the Data Protection Act 1998, ZipRecruiter is the "data controller" in respect of personal information that we obtain in connection with the ZipRecruiter websites. We host and store your Personal Information on servers situated in the United States. These servers are owned and maintained by ZipRecruiter, Inc.</p>
 
-  <p>Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other websites accessible through our Site have their own privacy policies and data collection, use and disclosure practices. Please consult each website's privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other companies which place advertising on our Site may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect.</p>
+<h3 id="s16">16) ZIPRECRUITER AS A DATA PROCESSOR <a href="#top" class="topLink">top</a></h3>
+<p>The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged ZipRecruiter.</p>
+<p>ZipRecruiter acknowledges that you have the right to access your personal information. With respect to Personal Information provided by a client of ours (e.g., where we send job alert emails to job seekers on behalf of that client), we collect such information under the direction of that client and have no direct relationship with the individuals whose Personal Information we process. If you are a customer of such a ZipRecruiter client and would no longer like to be contacted by such client, please contact the client directly. If you seek access or want to correct, amend, or delete inaccurate data, you must direct your request to that ZipRecruiter client (the data controller). If requested to remove data, we will respond within a reasonable timeframe. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by our service agreements with our Clients.</p>
+<p>We will retain Personal Information that we process on behalf of our clients for as long as needed to provide services to our client. ZipRecruiter will retain this personal information as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, and in accordance with our internal record keeping policies.</p>
 
-  <a name="california"></a>
-  <h3>12) CALIFORNIA RESIDENTS</h3>
+<h3 id="s17">17) HOW TO CONTACT US <a href="#top" class="topLink">top</a></h3>
 
-  <p>California residents may choose to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes or choose to opt out of such disclosure. To make a request or to opt out at any time, please contact us <a href="mailto:privacy@ziprecruiter.com">privacy@ziprecruiter.com</a> or mail us at the address provided below.</p>
+<p>If you have any questions about this Privacy Policy or our privacy practices, please contact us at&nbsp;<a href="mailto:privacy@ziprecruiter.com">privacy@ziprecruiter.com</a>, or send mail to:</p>
 
-  <a name="notification"></a>
-  <h3>13) NOTIFICATION PROCEDURES</h3>
+<table class="table">
+  <thead>
+    <tr>
+      <th>U.S.  Mailing Address</th>
+      <th>U.K. Mailing Address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        ZipRecruiter, Inc.<br>
+        Attn: Business Affairs<br>
+        401 Wilshire Blvd., 11th Floor,<br>
+        Santa Monica, CA 90401, USA
+      </td>
+      <td>
+        ZipRecruiter UK Ltd.<br>
+        Riverbank House<br>
+        2 Swan Lane,<br>
+        London, EC4R, England, UK
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-  <p>It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Site, as determined by ZipRecruiter in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.</p>
+<p><u>Customer Support Questions:</u> If you have questions about your User account, your subscription plan, job alerts, applications to Job Advertisements, or any other Services-related questions, please contact Customer Service at <a href="mailto:support@ziprecruiter.com">support@ziprecruiter.com</a> or <a href="mailto:support@ziprecruiter.co.uk">support@ziprecruiter.co.uk</a>, or call the following numbers:</p>
 
-  <a name="access"></a>
-  <h3>14) ACCESS TO INFORMATION (for residents in the United Kingdom)</h3>
+<p>US: 1-877-252-1062 (6am - 6pm PST)<br>
+UK: 0808-281-9407 (8am - 4:30pm GMT)</p>
 
-  <p>The Data Protection Act 1988 ("<strong>Act</strong>") gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
-
-  <p>The ZipRecruiter websites are operated by ZipRecruiter, Inc., a Delaware corporation, located at 401 Wilshire Blvd., 11th Floor, Santa Monica, CA 90401, U.S.A. For the purposes of the Data Protection Act 1998, ZipRecruiter is the "data controller" in respect of personal information that we obtain in connection with the ZipRecruiter websites. We host and store your Personal Information on servers situated in the United States. These servers are owned and maintained by ZipRecruiter, Inc.</p>
-
-  <a name="processor"></a>
-  <h3>15) ZIPRECRUITER AS A DATA PROCESSOR</h3>
-
-  <p>The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged ZipRecruiter.</p>
-
-  <p>With respect to Personal Information provided by a client of ZipRecruiter to ZipRecruiter, we collect such information under the direction of that client and have no direct relationship with the individuals whose Personal Information we process. If you are a customer of such a ZipRecruiter client and would no longer like to be contacted by such client, please contact the client directly. If you seek access or want to correct, amend, or delete inaccurate data, you must direct to request to that ZipRecruiter client (the data controller). If requested to remove data, we will respond within a reasonable timeframe. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by our service agreements with our Clients.</p>
-
-  <p>We will retain Personal Information that we process on behalf of our clients for as long as needed to provide services to our client. ZipRecruiter will retain this personal information as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, and in accordance with our internal record keeping policies.</p>
-
-  <a name="contact"></a>
-  <h3>16) HOW TO CONTACT US</h3>
-
-  <p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Site, please contact us at <a href="mailto:privacy@ziprecruiter.com">privacy@ziprecruiter.com</a>, or send mail to:</p>
-
-  <div class="address_wrap">
-    <div class="address">
-      <h5>U.S.  Mailing Address</h5>
-      ZipRecruiter, Inc.<br>
-      Attn: Business Affairs<br>
-      401 Wilshire Blvd., 11th Floor,<br>
-      Santa Monica, CA 90401, USA
-    </div>
-    <div class="address">
-      <h5>U.K.  Mailing Address</h5>
-      ZipRecruiter UK Ltd.<br>
-      Attn: Business Affairs<br>
-      Riverbank House<br>
-      2 Swan Lane,<br>
-      London, EC4R, England, UK
-    </div>
-  </div>
-</div>
+<p>You can also use the Live Chat function on our websites if you have any questions.</p>
 
       </div>
     </div>
   </div>
-</div> <footer class="universal_footer expanded_footer footer_accordion">
-    
-    <nav class="primary_footer_nav">
-      <button class="footer-accordion-trigger accordion-toggle">Site Map</button>
-      <div class="accordion-content">
-        <div class="nav_group">
-          <h5 class="group_header">For Job Seekers</h5>
-            <ul class="">
-              <li class="item"><a href="/">Search Jobs</a></li>
-              <li class="item"><a href="/browse">Browse Jobs</a></li>
-              <li class="item"><a href="/browse/companies">Browse Companies</a></li>
-              
-                <li class="item"><a href="/candidate/testimonials">Testimonials</a></li>
-              
-              
-                <li class="item"><a href="/candidate/faq">FAQs</a></li>
-              
-              
-                <li class="item"><a href="/mobile">Mobile Apps</a></li>
-              
-              <li class="item"><a href="/contact/create">Create Free Account</a></li>
-            </ul>
-        </div>
-        <div class="nav_group">
-          <h5 class="group_header">For Employers</h5>
-            <ul class="">
-              <li class="item"><a href="/post-a-job">Post a Job Now</a></li>
-              
-                <li class="item"><a href="/features">Features</a></li>
-              
-              
-                <li class="item"><a href="/job-boards">Job Boards</a></li>
-              
-              
-                <li class="item"><a href="/resume-database/search">Search Resumes</a></li>
-              
-              <li class="item"><a href="/pricing">Plans</a></li>
-              
-                <li class="item"><a id="enterprise_drop_down" href="/enterprise">Enterprise</a></li>
-              
-              
-                <li class="item"><a href="/testimonials">Testimonials</a></li>
-              
-              
-                <li class="item"><a href="/faq">Employer FAQs</a></li>
-              
-            </ul>
-        </div>
-        <div class="nav_group">
-          <h5 class="group_header">Company</h5>
-            <ul class="">
-              <li class="item"><a href="/about">About Us</a></li>
-              
-                <li class="item"><a href="/careers">Careers</a></li>
-              
-              <li class="item"><a href="/publishers">Publisher Solutions</a></li>
-              <li class="item"><a href="/ats-partners">ATS Partners</a></li>
-              
-                <li class="item"><a href="/blog/category/job-search-tips/">Blog</a></li>
-              
-              <li class="item"><a href="/press">Press</a></li>
-              <li class="item"><a href="/zipcares">ZipCares</a></li>
-            </ul>
-        </div>
-        <div class="nav_group">
-          <h5 class="group_header">Contact Us</h5>
-            <ul class="">
-              <li class="item"><a class="phone_number" href="/candidate/contactus">Call (877) 252-1062</a></li>
-              
-                <li class="item"><a class="chat chatTrigger" href="javascript:void(0);" title="Click to open live chat">Live Chat</a></li>
-              
-              <li class="item note">Help available 6am-6pm PT daily</li>
-              <li class="item"><a class="email" href="/candidate/contactus">Email Us</a></li>
-            </ul>
-          <div class="social_group">
-            <ul>
-              <li class="social-item">
-                <a href="https://www.facebook.com/ZipRecruiter" title="Follow ZipRecruiter on Facebook" class="facebook"></a>
-                <a href="https://twitter.com/ziprecruiter" title="Follow ZipRecruiter on Twitter" class="twitter"></a>
-                <a href="https://www.linkedin.com/company/ziprecruiter/" title="Follow ZipRecruiter on LinkedIn" class="linkedin"></a>
-              </li>
-            </ul>
-          </div>
+</div>      <footer class="universal_footer expanded_footer footer_accordion">
+  
+  <nav class="primary_footer_nav">
+    <button class="footer-accordion-trigger accordion-toggle">Site Map</button>
+    <div class="accordion-content">
+      <div class="nav_group">
+        <h5 class="group_header">For Job Seekers</h5>
+        <ul>
+          <li class="item"><a href="/">Search Jobs</a></li>
+          <li class="item"><a href="/browse">Browse Jobs</a></li>
+          <li class="item"><a href="/browse/companies">Browse Companies</a></li>
+          
+            <li class="item"><a href="/job-seeker-reviews">Job Seeker Reviews</a></li>
+          
+          
+            <li class="item"><a href="/mobile">Mobile Apps</a></li>
+          
+          <li class="item"><a href="/contact/create">Create Free Account</a></li>
+          
+            <li class="item"><a href="https://support.ziprecruiter.com/candidate" target="_blank">Help Center</a></li>
+          
+        </ul>
+      </div>
+      <div class="nav_group">
+        <h5 class="group_header">For Employers</h5>
+        <ul>
+          <li class="item"><a href="/post-a-job">Post a Job Now</a></li>
+          
+            <li class="item"><a href="/how-it-works">How it Works</a></li>
+          
+          
+            <li class="item"><a href="/job-boards">Job Boards</a></li>
+          
+          
+            <li class="item"><a href="/employer-reviews">ZipRecruiter Reviews</a></li>
+          
+          <li class="item"><a href="/plans">Plans</a></li>
+          
+            <li class="item"><a id="enterprise_drop_down" href="/enterprise">Enterprise</a></li>
+          
+          
+            <li class="item"><a href="/resume-database/search">Search Resumes</a></li>
+          
+          <li class="item"><a href="/mobile-app-redirect?area=user-dashboard-footer" target="_blank" class="mobile_link">Employer Mobile App</a></li>
+          
+            <li class="item"><a href="/faq">Employer FAQs</a></li>
+          
+        </ul>
+      </div>
+     <div class="nav_group">
+       <h5 class="group_header">Partner with Us</h5>
+       <ul>
+         <li class="item"><a href="/publishers#zipsearch">Job Board API</a></li>
+         <li class="item"><a href="/publishers#zipsearch">Job Search Backfill</a></li>
+         <li class="item"><a href="/publishers#zipalerts">Email Alert Program</a></li>
+         <li class="item"><a href="/publishers#zippost">Reseller Program</a></li>
+         <li class="item"><a href="/ats-partners">ATS Integrations</a></li>
+       </ul>
+     </div>
+      <div class="nav_group company_group">
+        <h5 class="group_header">Company</h5>
+        <ul>
+          <li class="item"><a href="/about">About Us</a></li>
+          
+            <li class="item"><a href="/careers">Careers</a></li>
+          
+          
+            <li class="item"><a href="/blog/">Blog</a></li>
+          
+          <li class="item"><a href="/press">Press</a></li>
+          <li class="item"><a href="/zipcares">ZipCares</a></li>
+        </ul>
+      </div>
+      <div class="nav_group contact_group">
+        <h5 class="group_header">Contact Us</h5>
+        <ul>
+          <li class="item"><a class="phone_number" href="/candidate/contactus">Call (877) 252-1062</a></li>
+          <li class="item"><a class="chat chatTrigger" href="/candidate/contactus" title="Click to open live chat">Live Chat</a></li>
+          <li class="item"><a class="email" href="/candidate/contactus">Email Us</a></li>
+        </ul>
+        <div class="social_group">
+          <ul>
+            <li class="social-item">
+              <a href="https://www.facebook.com/ZipRecruiter" title="Follow ZipRecruiter on Facebook" class="facebook"></a>
+              <a href="https://twitter.com/ziprecruiter" title="Follow ZipRecruiter on Twitter" class="twitter"></a>
+              <a href="https://www.linkedin.com/company/ziprecruiter/" title="Follow ZipRecruiter on LinkedIn" class="linkedin"></a>
+            </li>
+          </ul>
         </div>
       </div>
-    </nav>
-    
-    <nav class="secondary_footer_nav">
-      <a href="/privacy">Privacy Policy</a>
-      <a href="/terms">Terms of Use</a>
-      <a href="/notices">Attribution Notices</a>
-      <a href="/corporate-responsibility">Corporate Responsibility</a>
-      <span class="legal">ZipRecruiter, Inc. © All Rights Reserved Worldwide</span>
-      <!-- TRUSTe cookie button -->      <div id="teconsent" class="teconsent"></div>
-      <!-- end TRUSTe cookie button -->
-    </nav>
-  </footer> 
-        
+    </div>
+  </nav>
+  
+  <nav class="secondary_footer_nav">
+    <a href="/privacy">Privacy Policy</a>
+    <a href="/terms">Terms of Use</a>
+    <a href="/notices">Attribution Notices</a>
+    <a href="/corporate-responsibility">Corporate Responsibility</a>
+    <span class="legal">ZipRecruiter, Inc. © All Rights Reserved Worldwide</span>
+    <!-- TRUSTe cookie button -->    <div id="teconsent" class="teconsent"></div>
+    <!-- end TRUSTe cookie button -->
+  </nav>
+</footer> 
+    <!-- Begin Live Agent invite code -->
+<!-- <div id="liveagent_invite_button" class="chatTrigger btn round" style="display:none">
+     Is there anything we can assist you with? <br/>
+     <a id="startChat" href="javascript://Chat"  rel="tooltip" title="Click here to start a live chat (opens in new window)">
+        <i class="fa fa-comment"></i> Chat Now! </a> &nbsp;&nbsp;&nbsp;
+     <a id="rejectChat" href="javascript://Hide" rel="tooltip" title="Hide this chat invitation"> x </a>
+</div> -->
+<!-- End Live Agent invite code -->
+<!-- Begin Live Agent button code -->
+<a id="onlineContent" href="javascript://Chat" class="helpChatTab online" style="display:none" title="Click here to start live chat"><span class="desktopLabel">Live Chat Help!</span><span class="mobileLabel">Chat</span></a>
+<a id="offlineContent" href="/contact" class="helpChatTab offline" target="_blank" title="Click here to contact us"><span class="desktopLabel">Contact Us</span><span class="mobileLabel">Help</span></a>
+<script type="text/javascript">
+  (function(){
+    var buttonId =  '573G0000000fxSf';
+                   
+    var inviteId = '5730f000000k9bh';
+    function acceptInvite(){
+        liveagent.startChat(inviteId);
+    }
+    function declineInvite(){
+        liveagent.rejectChat(inviteId);
+    }
+    function beginChat(){
+        liveagent.startChat(buttonId);
+    }
+    if (!window._laq) { window._laq = []; }
+    window._laq.push(function(){
+        //document.getElementById('liveagent_invite_button').id = "liveagent_invite_button_" + inviteId;
+        // document.getElementById('startChat').onclick = acceptInvite;
+        // document.getElementById('rejectChat').onclick = declineInvite;
+        document.getElementById('onlineContent').onclick = beginChat;
+        liveagent.showWhenOnline(buttonId, document.getElementById('onlineContent'));
+        liveagent.showWhenOffline(buttonId, document.getElementById('offlineContent'));
+    });
+  })();
+</script>
+<!-- End Live Agent button code -->    
   
     
 
   
-    <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/8b1f6451/css/light/_footer_light.css" type="text/css" media="all">
-  <!-- site + deprecated javascript links bottom -->
-      <script type="text/javascript" src="https://www.ziprecruiter.com/zrs/151b08d2/js/bundle-bootstrap.js"></script><!-- page javascript links -->
-    <script src="https://www.ziprecruiter.com/zrs/084b0360/js/plugins/jquery.hoverable.js"></script>
+    
   
-  <script src="https://www.ziprecruiter.com/zrs/da437647/js/global.js"></script>
+    
+
   
-  <script src="https://www.ziprecruiter.com/zrs/031fd828/js/light/_footer_light.js"></script>
+    <link rel="stylesheet" href="https://www.ziprecruiter.com/zrs/b9440253/css/light/_footer_light.css" type="text/css" media="all">
+  
+    <script>
+    if ( typeof Promise === "undefined" || Promise.toString().indexOf("[native code]") === -1 ) {
+      document.write('<script src="https://www.ziprecruiter.com/zrs/b724081f/js/vendor/es6-promise/4.1.0/es6-promise.auto.js" defer></' + 'script>');
+    }
+    </script><!-- site + deprecated javascript links bottom -->
+      <script type="text/javascript" src="https://www.ziprecruiter.com/zrs/caddd0af/js/bundle-bootstrap.js"></script><!-- page javascript links -->
+    <script src="https://www.ziprecruiter.com/zrs/c753784f/js/plugins/jquery.hoverable.js"></script>
+  
+  <script src="https://www.ziprecruiter.com/zrs/2146b7cc/js/global.js"></script>
+  
+  <script src="https://www.ziprecruiter.com/zrs/c81de7f2/js/common/_header.js"></script>
+  
+  <script src="https://www.ziprecruiter.com/zrs/cfb94c05/js/light/_header_light.js"></script>
+  
+  <script src="https://www.ziprecruiter.com/zrs/ce0e77f8/js/common/notifier.js"></script>
+  
+  <script src="https://www.ziprecruiter.com/zrs/8c3d0377/js/light/_footer_light.js"></script>
     <!-- page javascript inlines -->
     
     <!-- page javascript notready -->
-    
+    <script type="text/javascript">
+(function($) {
+        (function($) {
+
+    // Begin Live Agent deployment code
+    $.getScript('https://c.la1w1.salesforceliveagent.com/content/g/js/39.0/deployment.js', function() {
+      var firstName;
+      var lastName;
+      var emailAddress;
+      var buttonId =  '573G0000000fxSf';
+                     
+      var endpointUrl = 'https://d.la1w1.salesforceliveagent.com/chat';
+      var orgId = '00DG0000000BxY7';
+      var deploymentId = '572G0000000fxSa';
+      if(window.liveagent){
+        if (firstName != null) {
+            // Sets the display name of the visitor when engaged in a chat.
+            liveagent.setName(firstName);
+            if (lastName != null) {
+                // Creates a custom detail called Name and sets its value.
+                liveagent.addCustomDetail('Name', firstName + ' ' + lastName);
+            }
+        }
+        if (emailAddress != null) {
+            // Creates a custom detail called Email and sets its value.
+            liveagent.addCustomDetail('Email', emailAddress);
+        }
+        if (buttonId != null) {
+            liveagent.addCustomDetail('Button ID', buttonId);
+        }
+
+        liveagent.init(endpointUrl, deploymentId, orgId);
+      }
+
+      // End Live Agent deployment code
+
+      var helpChatOnline = $('.helpChatTab.online');
+      if (!helpChatOnline.is(':visible')) {
+        $('.chatTrigger').hide();
+        var interval = setInterval(function() {
+          if (helpChatOnline.is(':visible')) {
+            clearInterval(interval);
+            $('.chatTrigger').show();
+          }
+        }, 2000);
+      }
+      //chatbox popup
+      $('body').on('click', '.chatTrigger', function(ev) {
+        ev.preventDefault();
+        $('.helpChatTab:visible')[0].click();
+      });
+
+    });
+  })(window.jQuery);
+  })(window.jQuery);
+</script>
     <!-- page javascript onready --> 
     
     <script>
-      window.zr.event = window.zr.event || {};
-      window.zr.event.allFired = '';
-      window.zr.event.backendProperties = {"page_type":"Other Toplevel Page","audience_type":"unknown","request_id":"0qeg54oiFWaPb-3DooVcxwZ_f0WQtmz6CwHtY6b9Sj4HuahHUeCY8ezTEDi-Tyu7","url_pattern":"q8SBknbRmKjG6ySUYcseP3ZHwGv_bKmNZIHBehr-qrc"};
+      (function() {
+        window.zr.event = window.zr.event || {};
+        window.zr.event.allFired = window.zr.event.allFired || '';
+        var event = '';
+        if ( event ) {
+          window.zr.event.allFired += window.zr.event.allFired ? ", " + event : event;
+        }
+
+        window.zr.event.backendProperties = {"request_id":"8fOMJBL5jl2Vgu0Vmy4AwLKmlU2jBcwEuGRauG7CD0xCfdQ7ANqOEk7Prx_7JSEP","audience_type":"unknown","page_type":"Other Toplevel Page","ab_tests":{"global_jobseeker_20171012_notification-center_bugzid86824":"notification_center"},"url_pattern":"cmYmnbFe8i-dRp6WJ13FN-eIVqUswMmIaDz9rO0YtGo"};
+      })();
 
       ;(function() {
 
-  var properties = {"request_id":"QU7mxbu-NEglSe6zvXh7dLTpV1pfyKfHkqGNVcv66aF5IU3nTEn-24Chg5L3LTCb","url_pattern":"dsGbz7kNTL5iniByBFblmEnvuK7mkAZBk2b-WNwUbqQ","page_type":"Other Toplevel Page","http_status":200,"audience_type":"unknown","request_sent_cookie":1,"internal_link":1};
+  var properties = {"request_sent_cookie":1,"request_id":"Ee7RAnhbMwvHAtPhmBXsHGCh43xNDj0bx25h24ZL94xKFDINRSX6zvQkEGdfR53k","url_pattern":"Ej9Uz3yK06nDevRGodvPpJTo1kIygBcXKnqdx07gc5A","ab_tests":{"global_jobseeker_20171012_notification-center_bugzid86824":"notification_center"},"internal_link":1,"audience_type":"unknown","page_type":"Other Toplevel Page","http_status":200};
   window.zr.event.pageviewBackendProperties = properties;
 
   
@@ -579,22 +708,22 @@
         if (typeof window.onerror == "object") {
           window.onerror = function (err, url, line) {
 
-            if(window.zr && window.zr.event && window.zr.event.loggedError) {
+            if (window.zr && window.zr.event && window.zr.event.loggedError) {
               return;
             }
             window.zr.event.loggedError = true;
 
             
-            console.log("logging javascript error event: " + err);
-            if($.log_event) {
-              if(typeof err == "object") {
-                err = err.toString()
+              console.log("logging javascript error event: " + err);
+              if ($.log_event) {
+                if (typeof err == "object") {
+                  err = err.toString()
+                }
+                if (typeof line == "object") {
+                  line = line.toString()
+                }
+                $.log_event('js_error', { "errorDescription": err, "errorLine": line, 'non_interaction': 1, no_mixpanel:1 });
               }
-              if(typeof line == "object") {
-                line = line.toString()
-              }
-              $.log_event('js_error', { "errorDescription": err, "errorLine": line, 'non_interaction': 1, no_mixpanel:1 });
-            }
             
           };
         }
@@ -673,4 +802,4 @@
     
   
 
-</body></html>
+</div></body></html>
