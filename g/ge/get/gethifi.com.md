@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gethifi.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523005638id_/http%3A//www.gethifi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gethifi.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225122620id_/http%3A//www.gethifi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GetHiFi
 
