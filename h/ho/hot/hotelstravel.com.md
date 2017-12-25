@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelstravel.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630163536id_/http%3A//www.hotelstravel.com/contact.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelstravel.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225084403id_/http%3A//www.hotelstravel.com/contact.html%23privacy) for the most accurate reproduction.*
 
 # About Us - HotelsTravel.com
 
