@@ -1,69 +1,181 @@
-> *The following text is extracted and transformed from the fanragsports.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114111058id_/http%3A//www.fanragsports.com/terms-useprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanragsports.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225070448id_/https%3A//www.fanragsports.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms of Use/Privacy - FanRag Sports
+# Privacy Policy - FanRag Sports
 
-The FanRag Sports (Nafstrops LLC) Privacy Policy describes how FanRag Sports (Nafstrops LLC) and its subsidiaries treat personal information when you use FanRag Sports (Nafstrops LLC) services, including information provided when you use FanRag Sports (Nafstrops LLC).
+Nafstrops Media LLC dba FanRag Sports  
+contact email – info@fanrag.com
 
-Personal Information
+Updated: 4/4/2017                Policy Version:1001
 
-Account-Related Activity. We ask for some personal information when you create a FanRag Sports (Nafstrops LLC) Account, including your email address and password, which is used to protect your account from unauthorized access.
+This document governs the privacy policy of our website www.fanragsports(dot)com. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website.
 
-Usage Information. We may record information about your usage, such as when you use FanRag Sports (Nafstrops LLC), the contacts you communicate with, the content you view, and the frequency and size of data transfers, as well as information you display or click on in FanRag Sports (Nafstrops LLC) (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account.
+**Definitions**
 
-Content Uploaded to Site. Any personal information or content that you voluntarily disclose online (in comments, to the Forums, in messages, and within Profile pages, etc.) becomes publicly available and can be collected and used by others.
+‘Nonpersonal Information’ (NPI) is information that is in no way personally identifiable and which is obtained automatically when you access our website with a web browser. ‘Personally Identifiable Information’ (PII) is not publicly displayed information that is personally identifiable to you and obtained for us to provide you with a product or service. PII may include information such as your name, address, phone number, credit card information, and other related information that you provide to us.
 
-Uses
+**Your Personal Information (PII)**
 
-If you submit personally identifiable information to us through the FanRag Sports (Nafstrops LLC) Website, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of the FanRag Sports (Nafstrops LLC) Site, and to process any flagging activity or correspondence you send to us.
+Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII.
 
-Your Alias (not your email address) is displayed to other Users when you upload content or send messages through the FanRag Sports (Nafstrops LLC) Site and other Users can contact you through messages and comments.
+**Information We Collect**
 
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major FanRag Sports (Nafstrops LLC) Website changes or for customer service purposes).
+Generally you control the amount and type of information you provide to us when using our website. If you register as a member to use our website, you must provide PII in order for us to provide you with various features and/or functionality of our website. As a member we collect your PII in the following ways:
 
-We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the FanRag Sports (Nafstrops LLC) Website and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications.
+**At Member Registration**
 
-We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the FanRag Sports (Nafstrops LLC) Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+When you register for membership, we collect your name and email address {and other information listed}.
 
-Information That is Publicly Available
+**When Buying Products or Services**
 
-When you create an account on the site, some information about your account and your account activity will be provided to other Users of the site. This may include the date you opened your account, the date you last logged into your account, your age (if you choose to make it public), your location and any other information you wish to make public to other Users.
+If you buy products or services from us, we collect your name, email address, physical address, credit card information, phone number {and other information listed}.
 
-Your Alias (not your email address) is displayed to other Users when you engage in certain activity on the site, such as you upload content, write comments, or send messages through the FanRag Sports (Nafstrops LLC) Site. Other Users can contact you through messages and comments.
+**Online Forms**
 
-You may also choose to add personal information that will be visible to other Users on your Profile (which is the public facing page for your account on the site). This may include a profile picture, alias, answers to optional questions or other details.
+There may be online forms used on our website. The information you enter into these online forms may contain PII.
 
-If you choose to add certain features to your Profile, then these features and your activity associated with these features will be displayed to other Users and may be aggregated and shared with other Users. Such shared activity may include what content you favorite, what content you rated and what content you have uploaded.
+**Mobile Application**
 
-Your Choices
+If you use our mobile application, you may have to provide PII in order to use it.
 
-You may update or correct your personal profile information and email preferences at any time by visiting your Profile page.
+**Premium Features**
 
-You may set privacy settings to determine the types of Users that will be allowed to view your Profile and uploaded content.
+Our website may offer premium features for the use of which you must pay. If we were to charge you for the use of these premium features, we would need to collect payment source information (such as a credit card) to bill you for using such premium features.
 
-You may control the information that is available to other Users by editing your account and the features that are included on your Profile.
+**Cookies**
 
-Third-Party Advertisers, Links to Other Sites
+Our website uses cookies. A cookie is a small piece of data or text file stored in your computer or mobile device by your web browser. Cookies may contain text that can be read by a web server that delivered the cookie to you. The text contained in the cookie generally consists of a sequence of letters and numbers that uniquely identifies your computer; however, it may contain other information as well.
 
-FanRag Sports (Nafstrops LLC) allows other companies, called third-party ad servers or ad networks, to serve advertisements within the FanRag Sports (Nafstrops LLC) Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the FanRag Sports (Nafstrops LLC) Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+By agreeing to accept our use of cookies you are giving us permission to place some or all the cookies described below on your device.
 
-We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about FanRag Sports (Nafstrops LLC), to remove repetitive information from our user lists, to process payments for products or services, to offer an online job application process, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the FanRag Sports (Nafstrops LLC)-specified purposes.
+**We may use cookies for:**
 
-We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the FanRag Sports (Nafstrops LLC) service or using the FanRag Sports (Nafstrops LLC) name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.
+  * Identifying the areas of our website that you have visited
+  * Signing in and identifying you as a member or user of our website
+  * Personalizing content that you see on our website
+  * Our website analytics
+  * Remarketing our products or services to you
+  * Navigating our website
+  * Remembering your preferences and settings
+  * Storing your preferences across different websites
+  * Targeted advertising
+  * Affiliate marketing
 
-We may offer stores or provide services jointly with other companies on FanRag Sports (Nafstrops LLC). You can tell when another company is involved in any store or service provided on FanRag Sports (Nafstrops LLC), and we may share customer information with that company in connection with your use of that store or service.
 
-If the ownership of all or substantially all of the FanRag Sports (Nafstrops LLC) business, or individual business units owned by FanRag Sports (Nafstrops LLC), were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.
 
-When you use FanRag Sports (Nafstrops LLC), certain information you post or share with third parties, such as personal information, comments, messages, photos, videos, or other information, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, photos, videos, or other items, this information may become publicly available.
+Most web browsers can be set to disable the use of cookies. However, if you disable cookies, you may not be able to access features on our website correctly or at all.
 
-Security
+**Web Beacons**
 
-FanRag Sports (Nafstrops LLC) takes appropriate precautions to protect our users’ information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of FanRag Sports (Nafstrops LLC) Web Site, please Contact Us.
+We may also use a technology called web beacons to collect general information about your use of our website and your use of special promotions or newsletters. The information we collect by web beacons allows us to statistically monitor the number of people who open our emails. Web beacons also help us understand the behavior of our customers and visitors. Our web beacons are not used to track your activity outside our website.
 
-More Information
+**Automatic Information**
 
-FanRag Sports (Nafstrops LLC) adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the Department of Commerce’s web site.
+We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our website, if any, as well as the name of the website to which you’ll go when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet service provider’s name, web browser type, type of mobile device, and computer operating system. We use all this information to analyze trends among our users to help improve our website.
 
-For questions concerning our product or your account, please Contact Us.
+**Google Ad and Content Network Privacy Policy**
 
-**FanRag Sports is not affiliated in any way with the NFL, NBA, NHL, MLB, NCAA or any other professional or collegiate sports team, league or association. Any league, or association of team names/logos are copyright of their respective owners and are used for entertainment purposes only. Be Seen Be Heard Be A FanRag Sports Fan Today!**
+Third-party vendors, including Google, use cookies to serve ads based on a user’s past visits to our website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting <http://www.aboutads.info/choices/>
+
+**Google Analytics Privacy Policy**
+
+Our website uses Google Analytics to collect information about the use of our site. Google Analytics collects information such as how often users visit our site, what pages they visit, and what other sites they used prior to coming to our site. We use the information we get from Google Analytics to improve our site. Google Analytics collects only the IP address assigned to you on the date you visit our site, not your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to our site is restricted by the Google Analytics Terms of Use. <http://www.google.com/analytics/terms/us.html>
+
+You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser. <https://tools.google.com/dlpage/gaoptout>
+
+**Google Remarketing**
+
+Our website uses a remarketing advertising service. Our remarketing service is provided by Google and other companies that show our ads on websites across the Internet. With remarketing you may see ads for our products you have previously looked at. As an example, suppose you visit a website that sells computers, but you do not buy a computer on your first visit to that website. The website’s owner might like to encourage you to revisit their site and buy a computer by showing you their ads again on other websites that you visit. We use remarketing for similar purposes. For this to happen, Google will read a cookie that is already in your browser. This can only happen if your browser is set to let it happen. You can opt out of Google’s use of cookies by visiting: <http://bit.ly/1RhhBQZ>
+
+**Facebook Remarketing**
+
+Why am I seeing ads by for products I’ve viewed?
+
+Our website uses a remarketing advertising service. Our remarketing service is provided by Facebook. With remarketing, you may see ads for our products you have previously looked at when you use Facebook. For this to happen, Facebook uses a Custom Audience Pixel that is activated when a visitor lands on web page and a unique “cookie” is placed in their browser.
+
+**How Your Information Is Used**
+
+_We use the information we receive from you as follows:_
+
+  * Provide our products and services
+  * Personalize and customize content
+  * Make improvements to our website
+  * Contact you with updates to our website
+  * Resolve problems and disputes
+  * Contact you with marketing and advertising  
+that we believe may be of interest
+
+
+
+**Communications and emails**
+
+When we communicate with you about our website, we will use the email address you provided when registering as a member. We may also send you alerts regarding your use of our website. We may also send you emails with promotional information about our website or offers from us or our affiliates, unless you have opted out of receiving such information. You can change contact preferences at any time through your account or by contacting us.
+
+**Sharing information with affiliates and other third parties**
+
+We do not sell, rent, or otherwise provide your PII to third parties for marketing purposes.  However, we may use your nonpersonal information for data aggregation purposes which might be sold to other parties at our discretion. Any such data aggregation would not contain any of your PII. We may provide your PII to affiliates who provide services with regards to our website (such as payment processors, shipping companies, United States Postal Service and other service providers.)
+
+**Community discussion boards**
+
+Our website may offer the capability for users to communicate with each other through online community discussion boards. We do not filter or monitor what is posted on such discussion boards. If you choose to post on these discussion boards, you should use care when exposing any PII as such information is not protected by our privacy policy nor are we liable should you choose to disclose your PII through such postings.
+
+**Legally required releases of information**
+
+We may be legally required to disclose your PII if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties, including you and/or other members; (e) necessary to protect the legal rights, personal/real property, or personal safety of our company, users, employees, and affiliates.
+
+**Disclosures to successors**
+
+If our business is sold or merges in whole or in part with another business that would become responsible for providing the website to you, we retain the right to transfer your PII to the new business. The new business would retain the right to use your PII according to the terms of this privacy policy as well as to any changes to this privacy policy as instituted by the new business.
+
+**Protecting the privacy rights of third parties**
+
+If any postings you make to our website contain information about third parties, you need to make sure that you have permission to include them in your posting. While we are not legally liable for the actions of our users, we will remove any postings for which we are notified that such postings violate the privacy rights of others.
+
+**Retaining and Destroying Your Personal Information  **
+
+We retain information we collect from you (including PII) for only as long as we need such information for legal, business, or tax purposes. Your information may be retained in electronic form, paper form, or a combination of both. When your information is no longer needed, we will destroy, delete, or erase it.
+
+**Changing and Requesting Your Personal Information**
+
+You can change or update your PII using facilities found on our website. If you need assistance with updating your PII or removing yourself from our mailing lists, send us an email with your request or contact us using our contact information found on our website. You may also request the type of personal information we have collected from you that is stored in electronic or paper format by our company.
+
+**Opting out of sharing information**
+
+You can always opt-out of future unaffiliated third-party disclosures of your information. Such opt out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept.
+
+**Do Not Track Settings**
+
+Some web browsers have settings that enable you to request that our website does not track your movement within our website. Our website does not obey such settings when transmitted to and detected by our website. You can turn off tracking features and other security settings in your browser by referring to your browser’s user manual.
+
+**Links to Other Websites**
+
+Our website may contain links to other websites. These websites are not under our control and are not subject to our privacy policy. These websites will likely have their own privacy policies. We have no responsibility for these websites and provide links to these websites solely for your convenience. You acknowledge that your use of and access to these websites are solely at your risk. It is your responsibility to check the privacy policies of these websites to see how they treat your personal information.
+
+**Protecting Children’s Privacy**
+
+We follow the Children’s Online Privacy Protection Act (COPPA). Even though our website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our website. We do not knowingly collect PII from a child under the age of 18. If you are a parent or guardian and believe that your child is using our website, please contact us. We may ask for proof of identification before we remove any information to prevent malicious removal of account information. If we discover on our own that a child is accessing our website, we will delete the information soon after we discover it. You acknowledge that we do not verify the age of our users nor have any liability to do so.
+
+**Our Email Policy**
+
+You can always opt out of receipt of further email correspondence from us or our affiliates. We will not sell, rent, or trade your email address to any unaffiliated third party without your permission except in the sale or transfer of our business.
+
+**Our Security Policy**
+
+We have taken steps to build our website using industry-standard encryption and authentication tools to protect the security of your PII. When we collect your PII through our website, we will encrypt your PII before it travels over the Internet using industry-standard technology for conducting secure online transactions. We also use technologies such as secure routers and firewalls to protect your PII. Unfortunately we cannot fully guarantee secure data transmission over the Internet because of its nature.
+
+Once we receive your PII, we have security measures in place to protect against the loss or misuse of your PII, though again we cannot fully guarantee against such loss or misuse. We strongly urge you to protect any password you may have for our website and not share it with anyone. You should always log out of our website when you finish using it, especially if you are sharing a computer with someone else or are using a computer in a public place.
+
+**Use of Credit Cards**
+
+You may have to provide a credit card to buy products and services from our website. We use third-party billing services and have no control over these services. We use our commercially reasonable efforts to make sure that your credit card number is kept strictly confidential by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use. However, you understand and agree that we are in no way responsible for any misuse of your credit card number.
+
+**International Data Transfers**
+
+Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy. Personal information that you publish on our website or submit for publication on our website may be available via the Internet around the world. We cannot prevent the use or misuse of such information by others. You hereby agree to the transfers of personal information described within this section.
+
+**Changes to Our Privacy Policy**
+
+We reserve the right to change this privacy policy at any time. If our company decides to change this privacy policy, we will post those changes on our website so our users and customers are always aware of what information we collect, use, and disclose. If at any time we decide to disclose or use your PII in a method different from that specified at the time it was collected, we will provide advance notice by email (sent to the email address on file in your account). Otherwise we will use and disclose our users’ and customers’ PII in agreement with the privacy policy that was in effect when their information was collected. In all cases your continued use of our website, services, and products after any change to this privacy policy will constitute your acceptance of such change.
+
+**Questions About Our Privacy Policy**
+
+If you have any questions about our privacy policy, please contact us using our contact information found at the top of this policy or on our website.
