@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the honesttopaws.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040748id_/http%3A//honesttopaws.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honesttopaws.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225132732id_/http%3A//honesttopaws.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Honest To Paws
 
-Your privacy is very important to us at Honest To Paws, and so we have a few fundamental principles that we follow in order to protect it:
+Your privacy is very important to us at Honest To Paws, and so we have a few fundamental principles that we follow in order to protect it: 
 
   * We don’t ask you for personal information unless we truly need it.
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
