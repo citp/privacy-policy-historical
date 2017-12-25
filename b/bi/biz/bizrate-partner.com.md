@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizrate-partner.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623143759id_/http%3A//about.bizrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate-partner.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225114115id_/http%3A//about.bizrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Bizrate
 
