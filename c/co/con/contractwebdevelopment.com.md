@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contractwebdevelopment.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624092551id_/http%3A//www.coverstorymedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractwebdevelopment.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225200103id_/http%3A//coverstorymedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cover Story Media
 
