@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the animelyrics.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613074234id_/http%3A//www.animelyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animelyrics.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225093134id_/https%3A//www.animelyrics.com/privacy.html) for the most accurate reproduction.*
 
 # Anime Lyrics dot Com - Privacy Policy
 
-[National Anime Song Translation Month 2016!](http://www.animeforum.com/showthread.php?131274-NaAniTraMo-16-Participation-Thread&p=2891155#post2891155) [](http://www.animelyrics.com/target=_blank)
-
+[](https://www.animelyrics.com/target=_blank)  
   
 Our postal address is  
 2006 Benson ave 3d  
 Brooklyn, NY 11214  
-We can be reached via e-mail at webmaster@animeglobe.com
+We can be reached via e-mail at [[email protected]](https://www.animelyrics.com/cdn-cgi/l/email-protection)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
