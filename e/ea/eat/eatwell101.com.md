@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatwell101.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125175818id_/http%3A//www.eatwell101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatwell101.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225031017id_/http%3A//www.eatwell101.com/privacy-policy) for the most accurate reproduction.*
 
 # — Eatwell101
 
@@ -73,4 +73,4 @@ If you have any questions about this policy, our practices related to this site,
  **Updates and Changes**  
 We reserve the right, at any time, to add to, change, update, or modify this privacy policy, simply by posting such change, update, or modification on Eatwell101.com and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.
 
-This policy was last updated on July 16, 2011.
+This policy was last updated on July 16, 2016.
