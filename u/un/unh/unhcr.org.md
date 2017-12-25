@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unhcr.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630160955id_/http%3A//www.unhcr.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unhcr.org privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225030005id_/http%3A//www.unhcr.org/privacy-policy.html) for the most accurate reproduction.*
 
 # UNHCR - Privacy Policy
 
@@ -12,7 +12,7 @@ We will not make public your personal information without your consent. We do no
 
 **Opting out**
 
-Users who provide an email address and/or donate via UNHCR website and opt in to receive email communication from UNHCR may receive UNHCR e-newsletter and other email updates. Each email sent by UNHCR includes an option to remove your address from the mailing list and you may also opt out by sending an email to donors@unhcr.org.
+Users who provide an email address and/or donate via UNHCR website and opt in to receive email communication from UNHCR may receive UNHCR e-newsletter and other email updates. We occasionally also communicate via direct mail, phone and SMS.  Each email sent by UNHCR includes an option to remove your address from the mailing list and you may also opt out by sending an email to donors@unhcr.org.
 
 **Cookie Policy**
 
