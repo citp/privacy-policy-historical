@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bingoguy.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016103808id_/http%3A//bingoguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingoguy.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225072519id_/http%3A//bingoguy.com/privacy-policy) for the most accurate reproduction.*
 
-# Bingoguy Privacy Policy
+# Privacy Policy - Bingoguy
 
 **What information do we collect?**
 
