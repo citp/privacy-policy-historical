@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630011208id_/http%3A//www.verizon.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225204321id_/http%3A//www.verizon.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policies | Verizon
 
@@ -6,7 +6,7 @@ At Verizon, we are committed to maintaining strong and meaningful privacy protec
 
 Verizon's privacy policy applies to website visitors and customers of the Verizon family of companies in the United States.
 
-Verizon has acquired Yahoo and combined it with AOL to form a new company named Oath. Oath consists of over 50 digital and mobile [brands](http://oath.com/brands) globally, including HuffPost, Yahoo News, Yahoo Sports, Tumblr, and AOL, as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini. Oath and Yahoo each have their own privacy policies. In the event of a conflict between the Verizon privacy policy and the Oath or Yahoo privacy policies, the [Oath policy](http://privacy.aol.com/) will control when you use a site, product or service that links to the Oath privacy policy and the [Yahoo privacy policy](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm) will apply when you use a site, service, or technology that links to the Yahoo policy.
+Verizon has acquired Yahoo and combined it with AOL to form a new company named Oath. Oath consists of over 50 digital and mobile [brands](https://www.oath.com/our-brands/) globally, including HuffPost, Yahoo News, Yahoo Sports, Tumblr, and AOL, as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini. Oath and Yahoo each have their own privacy policies. In the event of a conflict between the Verizon privacy policy and the Oath or Yahoo privacy policies, the [Oath policy](http://privacy.aol.com/) will control when you use a site, product or service that links to the Oath privacy policy and the [Yahoo privacy policy](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm) will apply when you use a site, service, or technology that links to the Yahoo policy.
 
 Supplemental privacy practices applicable to certain Verizon apps, Hum, go90 and other services are available from the privacy policy pages.
 
@@ -26,7 +26,7 @@ We also may help third-party advertisers target their ads using certain informat
 
 ##### Information sharing
 
-Verizon shares information within our family of companies. You can limit our sharing of certain types of customer information, known as Customer Proprietary Network Information, for marketing services different frrom the ones you have.
+Verizon shares information within our family of companies. You can limit our sharing of certain types of customer information, known as Customer Proprietary Network Information, for marketing services different from the ones you have.
 
 Except as explained in our Privacy Policy, in privacy policies for specific services, or in agreements with our customers, Verizon does not sell, license or share information that individually identifies our customers with others outside of Verizon who are not doing work on Verizon‘s behalf without your consent. We may share information with our vendors and partners for business purposes and when necessary for them to perform work on our behalf. Verizon may also share certain non-personal identifiable information with outside companies, for example, to assist with the delivery of advertising campaigns, provide aggregate business and marketing insights, or share de-identified information.  [Learn more.](http://www.verizon.com/about/privacy/full-privacy-policy#information_shared)
 
