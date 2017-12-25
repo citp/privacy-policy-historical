@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigermedia.ca privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610212959id_/http%3A//tigermedia.ca/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigermedia.ca privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225190012id_/http%3A//www.tigermedia.ca/privacypolicy.php) for the most accurate reproduction.*
 
 # Tiger Media Inc : Regina Saskatchewan : Advertising, Marketing, Consulting, and Web Site Design
 
