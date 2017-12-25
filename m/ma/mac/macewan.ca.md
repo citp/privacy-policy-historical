@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macewan.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150541id_/http%3A//www.macewan.ca/wcm/Forms/Privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macewan.ca privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225081939id_/http%3A//www.macewan.ca/wcm/Forms/Privacy/index.htm) for the most accurate reproduction.*
 
 # Popup Form
 
