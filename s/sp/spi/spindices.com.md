@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spindices.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628195815id_/http%3A//us.spindices.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spindices.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225192558id_/http%3A//us.spindices.com/privacy-notice) for the most accurate reproduction.*
 
 # S&P Indices Privacy Notice - S&P Dow Jones Indices
 
