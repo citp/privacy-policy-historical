@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the brightspyre.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626162845id_/http%3A//new.brightspyre.com/policy/index.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brightspyre.com privacy policy that was archived on 2017-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171225170357id_/http%3A//new.brightspyre.com/policy/index.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Privacy Policy </title><link href="http://feeds.feedburner.com/brightspyre/job" rel="alternate" type="application/rss+xml" title="RSS Feed  for  jobs in Pakistan">
 <meta name="keywords" content="BrightSpyre job search engine, jobs, Jobs in Pakistan, job listings, find jobs, careers, employment opportunity, job boards, resumes,  Brightspyre ">
 <link href="/stylesheets/base3.css" rel="stylesheet" type="text/css">
-<link href="/stylesheets/printcss.php" media="print"><link href="http://new.brightspyre.com/include/css/styles.css" rel="stylesheet" type="text/css">
-<link href="http://new.brightspyre.com/include/css/login-box.css" media="screen, projection" rel="stylesheet" type="text/css">
+<link href="/stylesheets/printcss.php" media="print"><link href="/include/css/styles.css" rel="stylesheet" type="text/css">
+<link href="/include/css/login-box.css" media="screen, projection" rel="stylesheet" type="text/css">
 <link href="/include/css/notify-osd.css" rel="stylesheet" type="text/css">
-<link media="screen" rel="stylesheet" href="http://new.brightspyre.com/include/css/colorbox.css">
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+<link media="screen" rel="stylesheet" href="/include/css/colorbox.css">
+<script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript">
 GS_googleAddAdSenseService("ca-pub-9336907660764476");
@@ -25,27 +25,22 @@ GA_googleAddSlot("ca-pub-9336907660764476", "BrightSpyre-Top-Home");
 <script type="text/javascript">
 GA_googleFetchAds();
 </script>
-<script src="http://new.brightspyre.com/include/scripts/jquery.js" type="text/javascript"></script>
-<script src="http://new.brightspyre.com/include/scripts/jquery.corner.js" type="text/javascript"></script>
-
-<script type="text/javascript" src="http://new.brightspyre.com/include/scripts/jquery.validate.js"></script>
-
-	<script src="http://new.brightspyre.com/include/scripts/jquery.colorbox.js"></script>
-	<script>
-		var j = jQuery.noConflict();
-
-		j(document).ready(function(){
-			//Examples of how to assign the ColorBox event to elements
-			
-			j(".ajax").colorbox({iframe:"true", width:"50%", height:"80%"});
-			
-			//Example of preserving a JavaScript event for inline calls.
-			j("#click").click(function(){ 
-				j('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
-				return false;
-			});
+<script src="/include/scripts/jquery.js" type="text/javascript"></script>
+<script src="/include/scripts/jquery.corner.js" type="text/javascript"></script>
+<script src="/include/scripts/jquery.validate.js" type="text/javascript"></script>
+<script src="/include/scripts/jquery.colorbox.js"></script>
+<script>
+	var j = jQuery.noConflict();
+	j(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements
+		j(".ajax").colorbox({iframe:"true", width:"50%", height:"80%"});
+		//Example of preserving a JavaScript event for inline calls.
+		j("#click").click(function(){ 
+		j('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+		return false;
 		});
-	</script>
+	});
+</script>
 <!--
         <script type="text/javascript">
 	$(function(){	// shorthand for $(document).ready() BTW
@@ -81,10 +76,9 @@ GA_googleFetchAds();
         });
  </script>
 -->
-<script src="http://new.brightspyre.com/include/scripts/jquery.idTabs.min.js" type="text/javascript"></script>
-<script src="http://new.brightspyre.com/includes/scripts/jquery.tipsy.js" type="text/javascript"></script>
+<script src="/includes/scripts/jquery.idTabs.min.js" type="text/javascript"></script>
+<script src="/include/scripts/jquery.tipsy.js" type="text/javascript"></script>
 <script type="text/javascript">
-
     function ajax_search(){
        if($("#signin").valid())
        {
@@ -97,19 +91,11 @@ GA_googleFetchAds();
                   if((JSONObject) == 0 )
                 {
 				 $("#signin_msg").html('Invalid Email or Password');
-
-
                 }
 				else {
-
-
-				location.href='http://new.brightspyre.com/include/login/set.php?aid='+data;
-
-                    return true;
-
+					location.href='/include/login/set.php?aid='+data;
+					return true;
 				}
-
-
              });
              return false;
        }
@@ -121,22 +107,22 @@ GA_googleFetchAds();
     }
 
 
-    function trim(stringToTrim) {
-       return stringToTrim.replace(/^\s+|\s+$/g,"");
-    }
-
-    function onsearchbox(){
-
-        var keyword_search = document.getElementById('myjobsearch').value;
-	if(trim(keyword_search) == 'job title, company, location'){
-		return true;
+	function trim(stringToTrim) {
+		return stringToTrim.replace(/^\s+|\s+$/g,"");
 	}
-	else{
-		var form_action = 'http://new.brightspyre.com/jobs/jobsearch/'+keyword_search;
-		window.location = form_action;
-		return false;
+
+	function onsearchbox(){
+
+		var keyword_search = document.getElementById('myjobsearch').value;
+		if(trim(keyword_search) == 'job title, company, location'){
+			return true;
+		}
+		else{
+			var form_action = '/jobs/jobsearch/'+keyword_search;
+			window.location = form_action;
+			return false;
+		}
 	}
-    }
 
 function description_keyword_hide() {
 	var keyword_decs = 'job title, company, location';
@@ -172,13 +158,15 @@ function trim(stringToTrim) {
         	<div class="header-top">
                 <div class="left">
                     <div class="logo">
-                        <a class="logo" href="http://new.brightspyre.com" title="Jobs in Pakistan"></a>
+                        <a class="logo" href="http://wwww.brightspyre.com" title="Jobs in Pakistan"></a>
                     </div>
                 </div>
 	 	  <div class="leftmb">
-
-<script type="text/javascript">
-GA_googleFillSlot("BrightSpyre-Top");
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- horiz_banner -->
+<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-9336907660764476" data-ad-slot="2394476608"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
  </div> 
@@ -197,8 +185,8 @@ GA_googleFillSlot("BrightSpyre-Top");
                         	<div id="topnav" class="topnav">
                             <a class="signin menu-open" href="#"><span>Existing User? Log In</span></a>
                                 <fieldset id="signin_menu">
-									<div class="signin_menu">
-                                    <form id="signin" method="post" action="http://new.brightspyre.com/include/login/set.php" onsubmit="return ajax_search();">
+									<div class="signin_menu" style="border-radius: 10px;">
+                                    <form id="signin" method="post" action="/include/login/set.php" onsubmit="return ajax_search();" novalidate="novalidate">
 											<div id="signin_msg"></div>
                                     	<p>
                                             <label for="cemail">Email</label>
@@ -234,23 +222,23 @@ GA_googleFillSlot("BrightSpyre-Top");
             	<div class="left">
 	            	<ul class="nav">
                     <li>
-                    	<a class="rounded " href="/jobs/index.php" title="Jobs in Pakistan">Jobs</a>
+                    	<a class="rounded " href="http://www1.brightspyre.com/jobs/" title="Jobs in Pakistan" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">Jobs</a>
                     </li>
                     <li>
-                    	<a class="rounded " href="/sms/email_job_alerts.php" title="Get Job Alerts">Jobs Alert</a>
+                    	<a class="rounded " href="/sms/email_job_alerts.php" title="Get Job Alerts" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">Jobs Alert</a>
                     </li>
                      <li>
-                    	<a class="rounded" href="http://www.ework.pk" title="ework- Online Work for everyone in Pakistan">eWork</a>
+                    	<a class="rounded" href="http://www.ework.pk" title="ework- Online Work for everyone in Pakistan" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">eWork</a>
                     </li>
                     <li>
-                    	<a class="rounded" href="http://bit.ly/aZumQa" title="FAQ / Help">Help / FAQ</a>
+                    	<a class="rounded" href="http://bit.ly/aZumQa" title="FAQ / Help" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">Help / FAQ</a>
                     </li>          
                     <li>
-                    	<a class="rounded" href="http://blogs.brightspyre.com" title="Blog">Blog</a>
+                    	<a class="rounded" href="http://blogs.brightspyre.com" title="Blog" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">Blog</a>
                     </li>
                     <li>
                     	<a class="rounded " href="http://sales.brightspyre.com" title="Employers in 
-Pakistan">Employer</a>
+Pakistan" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">Employer</a>
                     </li>
                                   </ul>
                 </div>
@@ -262,7 +250,7 @@ Pakistan">Employer</a>
                 	<input type="text" title="Search job by typing your keyword in this Box" value="job title, company, location" onfocus="description_keyword_hide();" onblur="description_keyword_show();" class="hd-search-input" id="myjobsearch" name="myjobsearch">
                 </div>
                 <div class="right">
-		         <input class="hd-search-button" type="image" src="http://new.brightspyre.com/include/images/search.png">
+		         <input class="hd-search-button" type="image" src="/include/images/search.png">
                  </div>
                  <div class="clr"></div>
             </form>                    </div>
@@ -276,9 +264,9 @@ Pakistan">Employer</a>
 			
             	<div class="right">
                 	<div class="stats-bullet left">Registered Users</div>
-                    <div class="stats left">1,216,027</div>
+                    <div class="stats left">1,460,675</div>
                     <div class="stats left">Posted Jobs</div>
-                    <div class="stats left">34,160</div>
+                    <div class="stats left">46,419</div>
                     <div class="clr"></div>
 					                </div>
                 <div class="clr"></div>
@@ -287,10 +275,10 @@ Pakistan">Employer</a>
         	
             
            
-		<script src="http://new.brightspyre.com/include/scripts/jquery.js" type="text/javascript"></script>
-<script src="http://new.brightspyre.com/include/scripts/jquery.corner.js" type="text/javascript"></script>
+		<script src="/include/scripts/jquery.js" type="text/javascript"></script>
+<script src="/include/scripts/jquery.corner.js" type="text/javascript"></script>
  
-<script type="text/javascript" src="http://new.brightspyre.com/include/scripts/jquery.validate.js"></script>
+<script type="text/javascript" src="/include/scripts/jquery.validate.js"></script>
 <script type="text/javascript">
 	$(function(){	// shorthand for $(document).ready()
         $(".rounded").corner("top 10px");
@@ -323,8 +311,8 @@ Pakistan">Employer</a>
 			
         });
  </script>
-<script src="http://new.brightspyre.com/include/scripts/jquery.idTabs.min.js" type="text/javascript"></script>
-<script src="http://new.brightspyre.com/include/scripts/jquery.tipsy.js" type="text/javascript"></script>
+<script src="/include/scripts/jquery.idTabs.min.js" type="text/javascript"></script>
+<script src="/include/scripts/jquery.tipsy.js" type="text/javascript"></script>
 <script type="text/javascript">
     $(function() {
 	  $('#forgot_username_link').tipsy({gravity: 'w'});   
@@ -345,24 +333,19 @@ Pakistan">Employer</a>
        {
             var search_val=$("#cemail").val();
             var password=$("#password").val();
-            $.post("http://new.brightspyre.com/include/login/find.php", {cemail : search_val , password : password}, function(data){
+            $.post("/include/login/find.php", {cemail : search_val , password : password}, function(data){
            //alert(data);
            var JSONObject = data;
             //var myObject = eval('(' + JSONObject + ')');
                   if((JSONObject) == 0 )
                 {
-				 $("#signin_msg").html('Invalid Email or Password');
-				
-                   
+				 $("#signin_msg").html('Invalid Email or Password'); 
                 }
 				else {
 				
-				
-				location.href='http://new.brightspyre.com/include/login/set.php?aid='+data;
+				location.href='/include/login/set.php?aid='+data;
+				//location.href='http://new.brightspyre.com/include/login/set.php?aid='+data;
 				//$.post("http://new.brightspyre.com/include/login/set.php?aid="+data); 
-				
-				
-				
                     return true;
                  
 				}
@@ -395,17 +378,13 @@ Pakistan">Employer</a>
 	}
 	else
 	{
-		var form_action = 'http://new.brightspyre.com/jobs/jobsearch/'+keyword_search;
-		
+		var form_action = '/jobs/jobsearch/'+keyword_search;
 		window.location = form_action;
-		
 		return false;
 	}
 }
 
 </script>
-
-
 <br>
 <table width="950" cellpadding="3" cellspacing="3" class="text">
         <tbody><tr>
@@ -525,7 +504,7 @@ This privacy policy covers the following aspects:
             <div class="row">
              
             </div>
-            <div class="row copy">Copyright 2014 BrightSpyre.com</div>
+            <div class="row copy">Copyright 2017 BrightSpyre.com</div>
         </div>
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -542,13 +521,13 @@ This privacy policy covers the following aspects:
 
   })();
 </script>
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+<script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript">
 GS_googleAddAdSenseService("ca-pub-9336907660764476");
 GS_googleEnableAllServices();
 </script>
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js">
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
 </script>
 </div></td><td width="15"></td>
 
