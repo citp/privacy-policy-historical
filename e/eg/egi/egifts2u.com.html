@@ -1,36 +1,18 @@
-<!--The following is the downloaded HTML source of the egifts2u.com privacy policy that was archived on 2013-01-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130118210413id_/http%3A//www.egifts2u.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the egifts2u.com privacy policy that was archived on 2017-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171225171927id_/http%3A//www.egifts2u.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
-
 <title>Privacy Notice : Gifts Online - Gift for birthday, anniversary, Christmas and all occasions at Egifts2u.com
 </title>
-
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="For Women Occasions For Men Holiday Gifts Gifts for Kids Home Accessories Top Gifts Fashion Products  Privacy Notice">
-
 <meta name="description" content="Gifts Online - Gift for birthday, anniversary, Christmas and all occasions at Egifts2u.com
  : Privacy Notice - For Women Occasions For Men Holiday Gifts Gifts for Kids Home Accessories Top Gifts Fashion Products ">
-
 <meta http-equiv="imagetoolbar" content="no">
-
-<meta name="author" content="The Zen Cart™ Team and others">
-
-<link rel="alternate" type="application/rss+xml" title="RSS Specials Feed" href="http://www.egifts2u.com/rss_feed.html?feed=specials">
-<link rel="alternate" type="application/rss+xml" title="RSS New Products Feed" href="http://www.egifts2u.com/rss_feed.html?feed=new_products">
-<link rel="alternate" type="application/rss+xml" title="RSS Upcoming Feed" href="http://www.egifts2u.com/rss_feed.html?feed=upcoming">
-<link rel="alternate" type="application/rss+xml" title="RSS Featured Feed" href="http://www.egifts2u.com/rss_feed.html?feed=featured">
-<link rel="alternate" type="application/rss+xml" title="RSS Best Sellers Feed" href="http://www.egifts2u.com/rss_feed.html?feed=best_sellers">
-<link rel="alternate" type="application/rss+xml" title="RSS All Products Feed" href="http://www.egifts2u.com/rss_feed.html?feed=products">
-
-
-
-
+<meta name="viewport" content="initial-scale=1.0, width=device-width">
 
 <base href="http://www.egifts2u.com/">
-
-
+<link rel="canonical" href="http://www.egifts2u.com/privacy.html">
 
 <link rel="stylesheet" type="text/css" href="includes/templates/sell/css/style_imagehover.css">
 <link rel="stylesheet" type="text/css" href="includes/templates/sell/css/stylesheet.css">
@@ -39,13 +21,139 @@
 <link rel="stylesheet" type="text/css" href="includes/templates/sell/css/stylesheet_header_menu.css">
 <link rel="stylesheet" type="text/css" href="includes/templates/sell/css/stylesheet_news.css">
 <link rel="stylesheet" type="text/css" media="print" href="includes/templates/sell/css/print_stylesheet.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="includes/templates/template_default/jscript/jscript_ babyzone.js"></script>
-<script type="text/javascript" src="includes/templates/template_default/jscript/jscript_imagehover.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="includes/templates/sell/jscript/jscript_ babyzone.js"></script>
+<script type="text/javascript" src="includes/templates/sell/jscript/jscript_imagehover.js"></script>
 
-<script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', 'a8b8f9bb7161cca244ad3b09dd688895')</script></head>
+<script>
+if (typeof zcJS == "undefined" || !zcJS) {
+  window.zcJS = { name: 'zcJS', version: '0.1.0.0' };
+};
 
+zcJS.ajax = function (options) {
+  options.url = options.url.replace("&amp;", "&");
+  var deferred = $.Deferred(function (d) {
+      var securityToken = 'c5b1ec6f9222a3efd7e00a4c73f58bdd';
+      var defaults = {
+          cache: false,
+          type: 'POST',
+          traditional: true,
+          dataType: 'json',
+          timeout: 5000,
+          data: $.extend(true,{
+            securityToken: securityToken
+        }, options.data)
+      },
+      settings = $.extend(true, {}, defaults, options);
 
+      d.done(settings.success);
+      d.fail(settings.error);
+      d.done(settings.complete);
+      var jqXHRSettings = $.extend(true, {}, settings, {
+          success: function (response, textStatus, jqXHR) {
+            d.resolve(response, textStatus, jqXHR);
+          },
+          error: function (jqXHR, textStatus, errorThrown) {
+              console.log(jqXHR);
+              d.reject(jqXHR, textStatus, errorThrown);
+          },
+          complete: d.resolve
+      });
+      $.ajax(jqXHRSettings);
+   }).fail(function(jqXHR, textStatus, errorThrown) {
+   var response = jqXHR.getResponseHeader('status');
+   var responseHtml = jqXHR.responseText;
+   var contentType = jqXHR.getResponseHeader("content-type");
+   switch (response)
+     {
+       case '403 Forbidden':
+         var jsonResponse = JSON.parse(jqXHR.responseText);
+         var errorType = jsonResponse.errorType;
+         switch (errorType)
+         {
+           case 'ADMIN_BLOCK_WARNING':
+           break;
+           case 'AUTH_ERROR':
+           break;
+           case 'SECURITY_TOKEN':
+           break;
 
+           default:
+             alert('An Internal Error of type '+errorType+' was received while processing an ajax call. The action you requested could not be completed.');
+         }
+       break;
+       default:
+        if (jqXHR.status === 200 && contentType.toLowerCase().indexOf("text/html") >= 0) {
+         document.open();
+         document.write(responseHtml);
+         document.close();
+         } else {
+           alert('An unknown response '+response+': :'+contentType+': :'+errorThrown+' was received while processing an ajax call. The action you requested could not be completed.');
+         }
+     }
+   });
+
+  var promise = deferred.promise();
+  return promise;
+};
+zcJS.timer = function (options) {
+  var defaults = {
+    interval: 10000,
+    startEvent: null,
+    intervalEvent: null,
+    stopEvent: null
+
+},
+  settings = $.extend(true, {}, defaults, options);
+
+  var enabled = new Boolean(false);
+  var timerId = 0;
+  var mySelf;
+  this.Start = function()
+  {
+      this.enabled = new Boolean(true);
+
+      mySelf = this;
+      mySelf.settings = settings;
+      if (mySelf.enabled)
+      {
+          mySelf.timerId = setInterval(
+          function()
+          {
+              if (mySelf.settings.intervalEvent)
+              {
+                mySelf.settings.intervalEvent(mySelf);
+              }
+          }, mySelf.settings.interval);
+          if (mySelf.settings.startEvent)
+          {
+            mySelf.settings.startEvent(mySelf);
+          }
+      }
+  };
+  this.Stop = function()
+  {
+    mySelf.enabled = new Boolean(false);
+    clearInterval(mySelf.timerId);
+    if (mySelf.settings.stopEvent)
+    {
+      mySelf.settings.stopEvent(mySelf);
+    }
+  };
+};
+</script>
+
+<link rel="stylesheet" type="text/css" href="includes/templates/sell/css/lrtk.css">
+<script type="text/javascript" src="includes/templates/sell/jscript/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="includes/templates/sell/jscript/lrtk.js"></script>
+<!--[if lte IE 6]>
+<script type="text/javascript" src="includes/templates/sell/jscript/belatedPNG.js"></script>
+<script type="text/javascript">
+    var __IE6=true;
+    DD_belatedPNG.fix('.logo img,.prev img,.next img,img');
+</script>
+<![endif]-->
+
+</head>
 
 <body id="privacyBody">
 <div id="mainWrapper">
@@ -58,13 +166,13 @@
 <!--eof-navigation display-->
 <!--bof-branding display-->
 <div id="logoWrapper">
-    <div id="logo"><a href="http://www.egifts2u.com/"><img src="includes/templates/sell/images/logo.gif" alt="Best Birthday Gifts and Christmas Gifts" title=" Best Birthday Gifts and Christmas Gifts " width="300" height="61"></a></div>
+    <div id="logo"><a href="http://www.egifts2u.com/"><img src="includes/templates/sell/images/logo.gif" alt="Couple Rings, Promise Rings, Cheap Wedding Rings" title=" Couple Rings, Promise Rings, Cheap Wedding Rings " width="300" height="61"></a></div>
 
 <div id="menu">
 <ul>
 <!--bof-header ezpage links-->
 
-     <li style="float:right;"><form name="quick_find_header" action="http://www.egifts2u.com/advanced_search_result.html" method="get"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden" name="search_in_description" value="1"><input type="text" name="keyword" size="6" maxlength="30" style="width: 150px" value="" onfocus="if (this.value == '') this.value = '';" onblur="if (this.value == '') this.value = '';">&nbsp;<input type="submit" class="btn" value=""></form></li>
+     <li style="float:right;"><form name="quick_find_header" action="http://www.egifts2u.com/index.php?main_page=advanced_search_result" method="get"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden" name="search_in_description" value="1"><input type="text" name="keyword" size="6" maxlength="30" style="width: 150px" value="" onfocus="if (this.value == '') this.value = '';" onblur="if (this.value == '') this.value = '';">&nbsp;<input type="submit" class="btn" value=""></form></li>
 
 
 
@@ -72,12 +180,10 @@
 
 
 
-  <li><a href="http://www.egifts2u.com/advanced_search.html">Products Search</a> |</li>
-  <li><a href="http://www.egifts2u.com/blog/">Blog</a> |</li>
-  <li><a href="http://www.egifts2u.com/reviews.html">Reviews</a> |</li>
+  <li><a href="http://www.egifts2u.com/index.php?main_page=advanced_search">Products Search</a> |</li>
+  <li><a href="http://www.egifts2u.com/index.php?main_page=login">Login</a> |</li>
   <li><a href="http://www.egifts2u.com/logoff.html">Logoff</a> |</li>
-  <li><a href="http://www.egifts2u.com/account.html">My account</a> |</li>
-  <li><a href="http://www.egifts2u.com/login.html">Login</a> |</li>
+  <li><a href="http://www.egifts2u.com/index.php?main_page=account">My account</a> |</li>
   <li><a href="http://www.egifts2u.com/create_account.html">Register</a> |</li>
 <li><a href="http://www.egifts2u.com/">Home</a></li>
 <!--eof-header ezpage links-->
@@ -93,7 +199,7 @@
 
       <li>Welcome</li>
 
-    <li>  <span class="bag">Cart</span><a href="index.php?main_page=shopping_cart" class="mycart"><span>0 item(s)</span></a><a href="http://www.egifts2u.com/checkout_shipping.html">Checkout</a></li>
+    <li>  <span class="bag">Cart</span><a href="index.php?main_page=shopping_cart" class="mycart"><span>0 item(s)</span></a><a href="http://www.egifts2u.com/index.php?main_page=checkout_shipping">Checkout</a></li>
 	
     <li><form name="currencies_form_header" action="http://www.egifts2u.com/" method="get">Currencies: <select name="currency" onchange="this.form.submit();" class="header">
   <option value="USD" selected="selected">US Dollar</option>
@@ -125,7 +231,7 @@
           <li><a href="yourlinkhere">yourtexthere</a></li>
           <li><a href="http://www.egifts2u.com/products_all.html">All Products</a></li>
           <li><a href="http://www.egifts2u.com/specials.html">Specials</a></li>
-          <li><a href="http://www.egifts2u.com/advanced_search.html">Search</a></li>
+          <li><a href="http://www.egifts2u.com/index.php?main_page=advanced_search">Search</a></li>
         </ul>
       </li>
 -->
@@ -167,22 +273,22 @@
 	<a href="http://www.egifts2u.com/gifts-for-boys-c-888_906.html">Gifts for boys</a></li><li>
 	<a href="http://www.egifts2u.com/for-babies-c-888_916.html">For Babies</a></li><li>
 	<a href="http://www.egifts2u.com/stuffed-toys-c-888_967.html">Stuffed Toys</a></li></ul></li><li class="submenu"><a href="http://www.egifts2u.com/top-gifts-c-890.html">Top Gifts</a><ul class="level2"><li>
-	<a href="http://www.egifts2u.com/personalized-gift-c-890_961.html">Personalized Gift</a></li><li>
-	<a href="http://www.egifts2u.com/unique-gift-c-890_939.html">Unique gift</a></li><li>
 	<a href="http://www.egifts2u.com/romantic-gift-c-890_937.html">Romantic Gift</a></li><li>
 	<a href="http://www.egifts2u.com/christian-gift-c-890_938.html">Christian Gift</a></li><li>
+	<a href="http://www.egifts2u.com/unique-gift-c-890_939.html">Unique gift</a></li><li>
 	<a href="http://www.egifts2u.com/unusual-gifts-c-890_928.html">Unusual Gifts</a></li><li>
+	<a href="http://www.egifts2u.com/personalized-gift-c-890_961.html">Personalized Gift</a></li><li>
 	<a href="http://www.egifts2u.com/cheap-gifts-c-890_970.html">Cheap Gifts</a></li></ul></li><!-- You can also add links on this side of your catefories menu
       <li class="submenu"><a href="http://www.egifts2u.com/">Information</a>
         <ul class="level2">
           <li><a href="http://www.egifts2u.com/shippinginfo.html">Shipping Info</a></li>
           <li><a href="http://www.egifts2u.com/privacy.html">Privacy Policy</a></li>
           <li><a href="http://www.egifts2u.com/conditions.html">Conditions of Use</a></li>
-		  <li><a href="http://www.egifts2u.com/FILENAME_ABOUT_US.html">About Us</a></li>
+		  <li><a href="http://www.egifts2u.com/index.php?main_page=FILENAME_ABOUT_US">About Us</a></li>
                     <li><a href="http://www.egifts2u.com/site_map.html">Site Map</a></li>
                     <li><a href="http://www.egifts2u.com/gv_faq.html">Gift Certificate FAQ</a></li>
           <li><a href="http://www.egifts2u.com/discount_coupon.html">Discout Coupons</a></li>
-          <li><a href="http://www.egifts2u.com/unsubscribe.html">Newsletter Unsubscribe</a></li>
+          <li><a href="http://www.egifts2u.com/index.php?main_page=unsubscribe">Newsletter Unsubscribe</a></li>
         </ul>
       </li>
 -->
@@ -202,9 +308,8 @@
 
 
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" id="contentMainWrapper" summary="content">
-  <tbody><tr>
-    <td valign="top">
+<div id="contentMainWrapper">  
+
 <!-- bof  breadcrumb -->
     <div id="navBreadCrumb">  <a href="http://www.egifts2u.com/">Home</a>&nbsp;&gt;&nbsp;
 Privacy Notice
@@ -412,24 +517,22 @@ comply with the requirements of the Children's Online Privacy Protection
 or guardian before collecting personal information.
 </div>
 
-<div class="buttonRow back"><a href="http://www.egifts2u.com/"><img src="includes/templates/sell/buttons/english/button_back.gif" alt="Back" title=" Back " width="124" height="25"></a></div>
+<div class="buttonRow back"><a href="http://www.egifts2u.com/personalized-gift-c-890_961.html"><img src="includes/templates/sell/buttons/english/button_back.gif" alt="Back" title=" Back " width="124" height="25"></a></div>
 </div>
 
 
-</td>
 
-  </tr>
-</tbody></table>
+  </div>
 
+
+<!-- zc_33 -->
 <!--bof-navigation display -->
 <div id="navSuppWrapper">
 <div id="navSupp">
 	<div id="bottomNav">
 		<ul>
 		<li><a href="http://www.egifts2u.com/">Home</a></li>
-
-		
-		<li>|
+				<li>|
   <a href="http://www.egifts2u.com/shippinginfo.html">Shipping &amp; Delivery</a>
 |
   <a href="http://www.egifts2u.com/page_3.html">Ordering &amp; Payment</a>
@@ -448,15 +551,9 @@ or guardian before collecting personal information.
 |
   <a href="http://www.egifts2u.com/site_map.html">Site Map</a>
 |
-  <a href="http://www.egifts2u.com/advanced_search.html">Products Search</a>
+  <a href="http://www.egifts2u.com/index.php?main_page=advanced_search">Products Search</a>
 </li>
-
-		
-		</ul>
-
-
-<!--bof-ip address display -->
-<!--eof-ip address display -->
+				</ul>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -471,57 +568,31 @@ or guardian before collecting personal information.
   })();
 
 </script>
-
 <!--bof-banner #5 display -->
 <style>
 .dlink img{ vertical-align:middle}
 .dlink{ font-size:11px; padding-top:10px;}
 .dlink a{ color:#444444!important; text-decoration:none!important}
 </style>
-
-<div style="text-align:center" class="dlink"><a href="http://www.facebook.com/Egifts2u" target="_blank"><img src="images/facebook.gif">Facebook</a>&nbsp;&nbsp;<a href="http://www.egifts2u.com/" target="_self">Birthday Gifts</a>&nbsp;&nbsp;<a href="http://twitter.com/Egifts2u" target="_blank"><img src="images/t.gif">Twitter</a>&nbsp;&nbsp;<a href="http://www.egifts2u.com/" target="_self">Anniversary Gift</a>&nbsp;&nbsp;<a href="http://www.egifts2u.com/blog/" target="_blank"><img src="images/b.gif"> Blog</a>&nbsp;&nbsp;<a href="http://www.egifts2u.com/" target="_self">Christmas Gifts</a>&nbsp;&nbsp;<a href="http://www.egifts2u.com/rss_feed.html?feed=products" title="RSS All Products Feed" target="_blank"><img src="includes/templates/sell/images/rss.gif" alt="RSS All Products Feed" title=" RSS All Products Feed " width="36" height="14"></a>
-&nbsp;&nbsp;<a class="tf_upfront_badge" href="http://www.thefind.com/store/about-egifts2u" title="TheFind Upfront"><img border="0" src="//upfront.thefind.com/images/badges/r/a8/b8/a8b8f9bb7161cca244ad3b09dd688895.png" alt="Egifts2u Online Gift Store is an Upfront Merchant on TheFind. Click for info."></a>
-  <script type="text/javascript">
-    (function() {
-      var upfront = document.createElement('SCRIPT'); upfront.type = "text/javascript"; upfront.async = true;
-      upfront.src = document.location.protocol + "//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js";
-      upfront.text = "thefind.upfront.init('tf_upfront_badge', 'a8b8f9bb7161cca244ad3b09dd688895')";
-      document.getElementsByTagName('HEAD')[0].appendChild(upfront);
-    })();
-  </script>
-</div>
+<div style="text-align:center" class="dlink"><a href="http://www.facebook.com/S.CoupleRings" target="_blank"><img src="images/facebook.gif"> Facebook</a>&nbsp;&nbsp;<a href="https://twitter.com/Icouplerings" target="_blank"><img src="images/t.gif"> Twitter</a>&nbsp;&nbsp;<a href="http://www.egifts2u.com/index.php?main_page=rss_feed&amp;feed=featured" title="RSS Featured Feed" target="_blank"><img src="includes/templates/sell/images/rss.gif" alt="RSS Featured Feed" title=" RSS Featured Feed " width="36" height="14"></a>
+&nbsp;&nbsp;</div>
 <br>
-
 <!--eof-banner #5 display -->
-
 <div class="payment_img"></div>
-
 <!--bof- site copyright display -->
-
-<div id="siteinfoLegal" class="legalCopyright">Copyright © 2013 <a href="http://www.egifts2u.com/" target="_blank">Egifts2u.com</a>. Powered by <a href="http://www.egifts2u.com" target="_blank">egifts2u</a>
-<!--bof RSS Feed -->
+<div id="siteinfoLegal" class="legalCopyright">Copyright © 2017 <a href="http://www.egifts2u.com/index.php?main_page=index" target="_blank">Egifts2u.com</a>. Powered by <a href="http://www.egifts2u.com" target="_blank">egifts2u.com</a><!--bof RSS Feed -->
 <div id="RSSFeedLink"></div>
 <!--eof RSS Feed --></div>
-
 <!--eof- site copyright display -->
-
 	</div>
-
 </div><br class="clearBoth">
-
 </div>
-
 <!--eof-navigation display -->
-
-
 
 <!--bof- parse time display -->
 <!--eof- parse time display -->
 <!--bof- banner #6 display -->
 </div>
 <!--eof- banner #6 display -->
-
-
-
 
 </body></html>
