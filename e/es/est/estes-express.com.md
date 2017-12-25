@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estes-express.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625094559id_/http%3A//www.estes-express.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estes-express.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225195649id_/http%3A//www.estes-express.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Estes - Privacy Policy
 
@@ -136,7 +136,7 @@ We may provide links to other websites for your convenience and information. Sin
 
 You may ask a question, request that we update your information, or submit a complaint by contacting us at:
 
-  * Email [Corporate_Communications_Department@estes-express.com](mailto:Corporate_Communications_Department@estes-express.com)
+  * Email [TeamSocial@estes-express.com](mailto:TeamSocial@estes-express.com)
   * Postal Mail to the following address:
 
 
