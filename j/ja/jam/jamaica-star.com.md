@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamaica-star.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628154917id_/http%3A//jamaica-star.com/content/privicy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaica-star.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225024605id_/http%3A//jamaica-star.com/content/privicy-policy) for the most accurate reproduction.*
 
 # Privicy Policy | Jamaica Star
 
