@@ -1,17 +1,33 @@
-> *The following text is extracted and transformed from the wrestlingtruth.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804055531id_/http%3A//wrestlingpundit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlingtruth.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225142451id_/http%3A//wrestlepundit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WrestlingPundit.com
+# Privacy Policy - WrestlePundit.com
 
-**What Personal Information Might We Collect?**
+As a fellow Internet user myself, I totally respect your online privacy. So it goes without saying that I’m fully committed to safeguarding your online privacy while you’re here at WrestlePundit.com.
 
-During a visit to this website we may in various instances ask you for personal information about yourself, this may include but is not limited to: Name, Age, Email Address and Interests. This may be taken when registering to comment, for a competition or similar. We will never pass on this information to third parties and will only use it internally in the context explained when disclosing said information.
+And that’s precisely why I’ve decided to include the following, which discloses the information gathering and dissemination practices for this website. 
 
-In addition to any information you disclose to us, we use standard website tracking services that may collect certain non-personally identifiable information such as your Web Browser software, Operating System, Screen Resolution and Country of Origin. This information may be used internally to make your visit to our website easier. For example, if a lot of users have a certain screen resolution then we will optimize the site to reflect this.
+_Please be assured that no personally identifiable information is gathered or sold to third parties. We may ask for a username and email address as part of the commenting process on website articles, but nothing more._
 
-**Third Party Advertising**
+**Log Files**
 
-We use various third party advertising companies that serve adverts to you when you visit the website. These commonly include Popunders, Banners and Contextual Links. In the course of serving advertisements to this site, our third-party advertising company may place and recognize a unique “cookie” on your browser. These cookies recognize only non-personally identifiable information, and will never alter your browsing experience outside of this website, unless other websites use the same advertising platform.
+Like most standard websites, this website uses log files. These include: Internet Protocol addresses (IP addresses), browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and the number of clicks to analyze trends, administer the site, track user movement in the aggregate, and to gather broad demographic information for aggregate use. IP addresses, etc., are not linked to personally identifiable information.
 
-**Possible Issues**
+**Web Cookies and Beacons**
 
-We work with a series of reputable advertising companies to serve adverts on this website, but in some instances a dangerous advert may unintentionally get through the filters and attempt to do something unethical, malicious or illegal (such as pass on a virus). We will work hard with the advertising company to remove such adverts and report them to the appropriate authorities. If you see a suspicious advert inform us immediately at _**wrestlingpundit@gmail.com**_ and we will look in to it.
+Web cookies (also known as HTTP cookies, or just cookies) are parcels of text that are sent by a server to a Web browser, and then sent back unchanged by the browser each time it accesses that server. In other words, a cookie is a piece of data stored on a user’s computer that is tied to information about the user.
+
+Web beacons are objects that are embedded in a webpage or email that are invisible to the user, but allow checking that a user has viewed the page or email. Other names are web bug, tracking bug, tag or page tag.
+
+This website does use cookies. Additionally, some of my business partners (for example, advertisers) may use cookies and web beacons as well. This site has no access to, or control of advertisers’ web cookies or web beacons.
+
+If you wish to disable cookies, you may do so through your individual browser options. Please check your browser’s help section for instructions on how to do this.
+
+**Links**
+
+This website contains links to other websites. Please be aware that I am not responsible for the privacy practices of other websites. I encourage you, when you leave this website, to read the privacy policy (or privacy statement) of each and every website you visit, as this particular privacy policy applies solely to this particular website.
+
+**Advertisers**
+
+I use outside advertising networks and companies in order to display ads on this site. These ads may contain cookies and/or web beacons in order to collect data in the ad serving process. These such cookies and/or web beacons are collected by the companies and/or advertising networks, themselves. I do not have any access to this information.
+
+I currently work with several advertising networks and companies, such as: Google Adsense.
