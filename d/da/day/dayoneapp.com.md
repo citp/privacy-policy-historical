@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dayoneapp.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608234834id_/http%3A//dayoneapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayoneapp.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225222534id_/http%3A//dayoneapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Day One
 
@@ -115,6 +115,6 @@ This Privacy Policy is subject to revision from time to time on a going-forward 
 
 ## Questions about the Privacy Policy
 
-If you have any questions or concerns or complaints about our Privacy Policy or our information collection or processing practices, or if you want to report any security violations to us, please contact us at support@dayone.me or at Bloom Built, LLC, Attention: Chief Executive Officer, 220 North 1200 East Suite 201, Lehi, Utah 84043.
+If you have any questions or concerns or complaints about our Privacy Policy or our information collection or processing practices, or if you want to report any security violations to us, please contact us at support@dayone.me or at Bloom Built, LLC, Attention: Chief Executive Officer, 240 North 1200 East Suite 204, Lehi, Utah 84043.
 
-This Policy was last revised: February 18, 2015.
+This Policy was last revised: June 22, 2017.
