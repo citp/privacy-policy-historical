@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbott.in privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625092833id_/http%3A//www.abbott.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbott.in privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225195423id_/http%3A//www.abbott.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
