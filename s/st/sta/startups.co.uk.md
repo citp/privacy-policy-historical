@@ -1,134 +1,159 @@
-> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630150059id_/http%3A//startups.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225042920id_/http%3A//startups.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Startups.co.uk
 
-Updated: Apr 7, 2017 Published: Sep 3, 2007
+**_PRIVACY & COOKIES POLICIES_**
 
-### Privacy policy
+### ABOUT THIS POLICY
 
-### Marketing VF Limited Privacy Policy Statement
+Marketing VF Limited (“ **we** ”, “ **us** ”, “ **our** ”) is committed to respecting and protecting your personal information and privacy.  We treat with the utmost care the personal information that you provide to us, or that we collect from you, through our website located at www.startups.co.uk (“ **our site** ”).
 
-We are Startups.co.uk, trading as Marketing VF Limited
+This Privacy Policy (together with our Cookies Policy below) sets out the basis on which any personal data that you provide to us, or that we collect from you, will be used by us.
 
-Company number: 06951544
+Please read this Privacy Policy (together with our Cookies Policy below) and our _Terms of Use_ carefully before you use our site, or access any information or services on our site.
 
-Our postal address is: Block C, Imperial Works, Perren Street, London NW5 3ED
+By accessing or using our site, you will be deemed to have accepted the terms of this Privacy Policy (together with our Cookies Policy below) and our _Terms of Use_.  If you do not agree to such terms, you must not use our site.
 
-Our registered address is: Block C, Imperial Works, Perren Street, London NW5 3ED
+### ABOUT US
 
-Telephone 020 7183 3932
+For the purposes of the Data Protection Act 1998 (the “ **Act** ”), the data controller is Marketing VF Limited.
 
-Email hello@startups.co.uk
+Marketing VF Limited is a company registered in England and Wales under company number 06951544, whose registered office address is at Imperial Works, Block C, Perren Street, London NW5 3ED, United Kingdom.
 
-This policy covers all sites produced by Marketing VF Limited. Marketing VF Limited is committed to protecting your privacy online. This privacy policy informs you what personal information Marketing VF collects and the purposes for which it uses this information. This policy may change from time to time.
+We are registered under the Act with the UK Information Commissioner’s Office (ICO) under registration number Z1995728.
 
-### Disclosures
+### INFORMATION WE MAY COLLECT, AND HOW WE MAY COLLECT IT
 
-Marketing VF Limited may disclose your information, under strict terms of confidentiality and restriction of use, to partners of Marketing VF Ltd who supply services on behalf of Marketing VF Limited and who require to process personal data in the provision of such services. When you use Marketing VF Limited Services you are consenting to the disclosure of your personal information to Marketing VF Limited partners, unless you have otherwise informed us that you do not wish us to disclose your personal information. However, under certain circumstances the force of law may require the provision of information to legal authorities. In order to safeguard the interests of its subscribers Marketing VF Limited will comply with any such legally binding request.
+When you request price comparisons, quotes or further information for products or services that are shown on our site, by completing and submitting our online form, you will provide us with the following personal and other information: Your first name, last name, email address, postal address, postal code, telephone number, age. We will keep a record of this information.
 
-### Information we collect
+Our online forms may require other information to help us to understand your requirements, and find suitable suppliers for you.
 
-Identifiable information – Your information is collected when you register or fill in a form on a Marketing VF Limited website, or you send an email to Marketing VF Limited. The information that is provided by you will only be used for the purpose for which it is provided, unless you are informed otherwise at the time of giving the information. You may inform Marketing VF Limited at any time if you wish Marketing VF Limited to cease using your personal information. Non identifiable information – Marketing VF Limited will from time to time collect information from you that does not reveal your personal identity, for example we may ask you to complete online polls. Marketing VF Limited uses this information for editorial purposes, and occasionally for other internal purposes. This information is only used in aggregate form and is not connected to any name, address or other personal identifying information.
+From time to time, we may change our online forms, and the personal and other information that we require.
 
-### How we use personal information
+We may also collect and record your personal information if you:
 
-Marketing VF Limited processes personal information for the purpose of providing a personalised service, running competitions and providing you with information about products and services on offer. Marketing VF may from time to time use your contact information to tell you about news or events provided by Marketing VF Limited or one of its strategic partners. You may opt-out of receiving such mailings, either when you register with Marketing VF Ltd or at any time afterwards. Marketing VF Limited may also contact you with important information about your registration details even if you have opted-out of receiving promotional emails.
+  * Complete and submit other forms on our site.
+  * Contact us, or we contact you, by email, telephone or post for any reason.
+  * Post comments, material or other content on our site.
+  * Participate in promotions or competitions on our site.
+  * Complete surveys or polls on our site, or that we send to you.
 
-### International Transfers
 
-Marketing VF Limited shall take steps to ensure that any transfer of data to a country or territory outside the European Economic Area, whose laws provide for a different standard of protection for your personal data than that provided under English law, shall be made subject to contractual arrangements which will require that your data be processed to at least a standard compliant with the Data Protection Act 1998 and the Electronic Communications Regulations 2003
 
-### Links & Security
+We may monitor and/or record telephone calls for the purposes of quality control and staff training.
 
-There are links on Marketing VF web sites to third party web sites which Marketing VF Limited has no control over. Marketing VF accepts no responsibility or liability for any third party practices on third party websites. Data transmission over the Internet is never totally secure and whilst Marketing VF Limited tries to protect your personal information, Marketing VF Limited cannot warrant the security of any information you transmit to us and you do so at your own risk.
+Each time you access our site, we may collect and record details of your visit, including (for example): Your IP address, operating system and browser type, the pages and resources that you have accessed, and other technical information. We collect and record this information automatically, through our use of cookies and similar technologies, which are further explained below.
 
-### Cookies and other tracking devices
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-Our site is primarily funded by advertising which relies on our use of cookies. By using our site, you consent to our use of cookies.
+### COOKIES AND SIMILAR TECHNOLGIES
 
-Cookies are information that are sent to and stored on your computer. They are used to identify you when you visit our sites. Cookies are used to remember passwords, usernames, passwords and your preferences.They are also used to provide us with anonymous statistical information about how our site is used.
+Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site. Please read our _Cookies Policy_ below.
 
-If you wish, you can disable Cookies on your Internet browser (Internet Explorer, Firefox, Google Chrome etc) but this will affect all sites that you visit, and could mean that they no longer function for you.Instructions on how to switch cookies off can be found by using the Help option within your browser and searching for “switch off cookies”. Please be aware that you will need to switch off the cookies on every browser you use.For further information about cookies, including how to delete them please visit <http://www.aboutcookies.org/>
+### HOW WE MAY USE YOUR INFORMATION
 
-### Cookies in use on this site
+When you request price comparisons, quotes or further information for products or services that are shown on our site (“ **Information** ”), through our online forms or otherwise, we may:
 
-Our site is constantly evolving as we add new articles, content and tools to make sure our users find it as valuable as possible.As such, this list will be updated over time, so we suggest you check back regularly.
+  * contact you by telephone, SMS, email or post with the Information;
+  * contact you by telephone, SMS, email or post to confirm or verify your contact details or the details of your request; and/or
+  * pass on your personal information and the details of your request to selected suppliers of the products or services for which you have requested Information, who may contact you directly by telephone, SMS, email or post.
 
-Our cookies allow you to use our site and provide our advertisers and partners with anonymous reporting information.
 
- **Cookie**
 
-| 
+We may also use your personal and other information in the following ways:
 
- **Description**  
+  * To contact you by telephone, SMS, email or post to ask about your experiences with the selected suppliers and request feedback. This might be in the form of survey questions, for example.
+  * To contact you by telephone, SMS, email or post with information about other products and services (ours and third parties’) in which we think you may be interested.
+  * To pass on your personal information to selected suppliers of other products or services in which we think you may be interested, who may contact you directly by telephone, SMS, email or post.
+  * If you consent, to pass your contact details, including your email address, to organisations that have a relationship with you to enable such organisations to update their records.
+  * To facilitate communication between you and our customers (i.e. suppliers of products and services that are shown on our site).
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To enable you to access and use our site and services.
+  * To ensure that the content on our site is presented in the most effective manner for you and for your computer, and improve our site.
+  * To notify you about changes to our site or services.
+
+
+
+We may also use, and provide our customers with, anonymised aggregated information about our site users.
+
+### DISCLOSING/SHARING YOUR INFORMATION
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business, assets or shares, in which case we may disclose your personal information to the prospective seller or buyer of such business, assets or shares.
+  * If we, or substantially all of our assets, are acquired by a third party, in which case personal information held by us about our site users, including you, will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation; or in order to enforce or apply our _Terms of Use_ and other agreements; or to protect our rights, property or safety, or the rights, property or safety of our site users, customers, affiliates, suppliers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+### WHERE WE STORE YOUR INFORMATION
+
+The information that we collect from you may be collected, transferred to, processed and/or stored in countries outside the European Economic Area (the “ **EEA** “). Those countries may not have the same level of legal protection as countries in the EEA.  If we do transfer your information in this way, we will take steps to ensure that it is protected to the same levels that apply in the EEA.
+
+### YOUR RIGHTS
+
+At any time, you may ask us to stop sending direct marketing communications. You can exercise this right by contacting us at the postal or email address set out below.
+
+You can also use the unsubscribe/opt-out link within our marketing emails.
+
+Our site may, from time to time, contain links to and from the websites of third parties (such as, for example, our customers). If you follow a link to any of these websites, please note that these websites have their own terms of use and privacy and/or cookies policies, and that we do not accept any responsibility or liability for these terms or policies. Please check these terms and policies before you submit any personal information to these websites.
+
+### CHANGES TO OUR PRIVACY POLICY
+
+From time to time, we may make changes to this Privacy Policy.
+
+Any changes that we make to this Privacy Policy in the future will be posted on this page. We recommend that you re-visit this page from time to time to take notice of any changes to this Privacy Policy.
+
+### CONTACT
+
+Questions, comments and requests regarding this Privacy Policy should be addressed to the Data Protection Officer, Marketing VF Limited, Block C, Imperial Works, Perren Street, London NW5 3ED, United Kingdom, or to the Data Protection Officer at hello@startups.co.uk.
+
+### COOKIES POLICY
+
+Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site.
+
+By accessing or using our site, you are agreeing to our use of cookies, as described in this Cookies Policy. If do not agree to such use, you must not use our site.
+
+### WHAT IS A COOKIE?
+
+A cookie is a small file of letters and numbers that, when you visit our site, we download and store on your browser or the hard drive of your computer or other device. They allow us to recognise your computer or other device, and deliver a better and more personalised service to you.
+
+### TYPES OF COOKIES
+
+Cookies can be session cookies or persistent cookies, and can be either first or third party cookies as defined below:
+
+ **Session cookies** – These allow us to track and link your actions during a single browser session, e.g. to remember the items returned from a search. These are created temporarily and, once you close your browser, all session cookies expire and are deleted.
+
+ **Persistent cookies** – These allow us to authenticate you, and remember your preferences and therefore enable us to enhance your website experience. These remain on your device between browser sessions.
+
+ **First and third party cookies** – Session cookies and persistent cookies can be either first or third party cookies depending upon the domain placing the cookie. First party cookies are those set by our site.  Third party cookies are issued by a different site to our site.
+
+We use a mixture of all these types of cookies on our site to provide our services and enhance your experience. Some of the cookies used on our site are Essential/Strictly Necessary cookies, Analytical/Performance cookies, Functionality cookies and Advertising/Targeting cookies, as set out and described in the table below.
+
+### HOW YOU CAN MANAGE COOKIES & MORE INFORMATION
+
+Generally, you can set your browser to accept all cookies, block/reject all cookies, or modify your browser to alert you of any new cookies.  To clear the stored cookies, you can normally go to the Tools dropdown menu at the top of the browser window.
+
+Our site, or parts of it, may not function without technical problems or be accessible if you have disabled cookies in your browser.
+
+You can find more information about cookies, including how to see what cookies have been set and how to manage and delete them, by visiting [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+### COOKIES WE USE
+
+ **Type of cookie**|  **Name**|  **Purpose**|  **More information**  
+---|---|---|---  
+Essential/Strictly necessary cookies| Startups| These cookies make it possible for you to post in your forums and use your site by prefilling your details where appropriate.  Without these cookies, you will not be able to post in our forums and the site may not work properly for you.|   
+Functionality cookies| tubemogul.com| This is used by our video player technology, Brightcove, to allow you to use the controls on our video player including play, pause, fast forward and rewind our videos.  Without this cookie you will not be able to watch our videos.|   
+Advertising/Targeting cookies| Google Analytics| This provides anonymous tracking of our site traffic to allow us to understand more about how our site is used, and which sections are popular.  In this way, we can monitor and track how to improve what we provide to our readers.| <https://www.google.co.uk/intl/en/policies/>  
+Analytical/Performance cookies| Google Website optimiser| This tool allows us to test different versions of our site automatically so that we can identify improvements that make it easier to use for you.|   
+Advertising/Targeting cookies| Dianomioffers.co.uk| We track which of our reports and guides are of interest to our users using this cookie.|   
+Advertising/Targeting cookies| DoubleClick| This is our chosen advertisement delivery platform for banner advertisements. This site is paid for by our advertisers and as such, our funding is based on providing advertisers with solutions with robust and accurate metrics on the performance of their campaigns. This allows us to keep our site and our content free to use. All data collected is always anonymous. Without this technology, we would not be able to operate this site.|   
+Advertising/Targeting cookies| intellitxt.com| This powers our in-article encyclopaedia where you highlight specific words and provide an associate advertisement is provided by Vibrant Media.| <http://www.vibrantmedia.com/privacy.asp>  
   
----|---  
-  
-Startups ****
+### THIRD PARTIES
 
-| 
+Third parties (including, for example, advertising networks and providers of external services such as web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or advertising/targeting cookies.
 
-These cookies make it possible for you to post in your forums and use your site by prefilling your details where appropriate.   Without these cookies, you will not be able to post in our forums and the site may not work properly for you.   
-  
-Disqus and mediacdn.disqus.com 
-
-| 
-
-Used by our comments management platform, this cookie recognises you and attributes your profile name to your posts.  Without these cookies, you will not be able to comment on our articles.  More information: <http://docs.disqus.com/help/30>  
-  
-tubemogul.com
-
-| 
-
-This is used by our video player technology, Brightcove, to allow you to use the controls on our video player including play, pause, fast forward and rewind our videos.  Without this cookie you will not be able to watch our videos.  
-  
-|   
-  
-Google Analytics 
-
-| 
-
-This provides anonymous tracking of our site traffic to allow us to understand more about how our site is used, and which sections are popular.  In this way, we can monitor and track how to improve what we provide to our readers. More information is available here:  <https://www.google.co.uk/intl/en/policies/>  
-  
-Google Website optimiser
-
-| 
-
-This tool allows us to test different versions of our site automatically so that we can identify improvements that make it easier to use for you.  
-  
-Scorecardresearch.com
-
-| 
-
-Part of the ComScore family, this provides anonymous tracking of site traffic.   <http://www.scorecardresearch.com/privacy.aspx>  
-  
-Quantserve.com
-
-| 
-
-This also provides anonymous tracking of site traffic  [http://www.quantcast.com/privacy](http://www.quantcast.com/privacy)  
-  
-Dianomioffers.co.uk
-
-| 
-
-We track which of our reports and guides are of interest to our users using this cookie.  
-  
-Adtech.de
-
-| 
-
-This is our chosen advertisement delivery platform for banner advertisements. This site is paid for by our advertisers and as such, our funding is based on providing advertisers with solutions with robust and accurate metrics on the performance of their campaigns.  This allows us to keep our site and our content free to use. All data collected is always anonymous. Without this technology, we would not be able to operate this site.  
-  
-intellitxt.com 
-
-| 
-
-This powers our in-article encyclopaedia where you highlight specific words and provide an associate advertisement is provided by Vibrant Media. More information is here: [http://www.vibrantmedia.com/privacy.asp](http://www.vibrantmedia.com/privacy.asp)  
-  
-In addition, we also provide a number of tools and content provided by approved third parties. Some of these tools rely on cookies to provide the service. To find out more about their use of cookies, please refer to our partner’s sites. These cookies are only used when you use the tools, so if you have any concerns, we recommend you do not use the tools.
-
-Marketing VF websites may contain advertisements or content created and provided by third parties. These advertisements or content may also place Cookies on your computer. These cookies collect information about your use of the Internet. Marketing VF does not control the collection or use of your information by such advertisers and our privacy policy does not apply to such information. Please contact the advertiser directly if you have any concerns.
-
- **Contact Marketing VF Ltd:** Data Controller, Marketing VF Ltd, Block C, Imperial Works, Perren Street, London NW5 3ED  
-**Email:** hello@startups.co.uk
+ ** _Last updated:_** **  21/08/2017**
