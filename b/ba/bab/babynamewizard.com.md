@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynamewizard.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119135635id_/http%3A//www.babynamewizard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamewizard.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225074643id_/http%3A//www.babynamewizard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Baby Name Wizard
 
