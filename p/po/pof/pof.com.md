@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pof.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629164919id_/http%3A//www.pof.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pof.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225220458id_/https%3A//www.pof.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # POF.com™ Free Online Dating Service for singles
 
