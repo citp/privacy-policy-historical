@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superxv.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625131455id_/http%3A//www.superxv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superxv.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225031850id_/http%3A//www.superxv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Super Rugby | Super 18 Rugby and Rugby Championship News,Results and Fixtures from Super XV Rugby
+# Privacy Policy - Super Rugby | Super 15 Rugby and Rugby Championship News,Results and Fixtures from Super XV Rugby
 
 **What is this Privacy Policy for?**  
 This privacy policy is for this website [www.superxv.com](http://www.superxv.com/) and served by [Sports Digital Media Limited](http://www.sportsdm.com/) and governs the privacy of its users who choose to use it.
