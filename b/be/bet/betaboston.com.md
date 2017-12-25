@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betaboston.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627143952id_/http%3A//www.bostonglobe.com/tools/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betaboston.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226004849id_/http%3A//www.bostonglobe.com/tools/help/privacy%3Fp1%3DBGFooter) for the most accurate reproduction.*
 
 # Privacy Policy - The Boston Globe
 
@@ -23,8 +23,6 @@ In this privacy policy, you will find the answers to the following questions:
 7\. How can you find out about changes to this privacy policy?
 
 8\. Who should you contact if you have questions?
-
-* * *
 
 **1\. WHAT INFORMATION DO WE GATHER ABOUT YOU?**
 
