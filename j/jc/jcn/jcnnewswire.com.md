@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcnnewswire.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622063524id_/http%3A//www.jcnnewswire.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcnnewswire.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225183044id_/http%3A//www.jcnnewswire.com/Privacy) for the most accurate reproduction.*
 
 # 
 
@@ -31,6 +31,6 @@ JCN Newswire makes every effort to ensure that personal information is treated s
 
 **Contacting the Website**
 
-JCN Newswire is privately owned and run. For more information, or if you have any questions about these Terms of Use, the practices of this site or your dealings with JCN, please contact us via e-mail at info@jcnnewswire.com, by telephone on +81-3-5791-1821, or mail at JCN Newswire, Minami Azabu Bldg. 3F, 4-14-2 Minami Azabu, Minato-ku, Tokyo 106-0047, Japan. 
+JCN Newswire is privately owned and run. For more information, or if you have any questions about these Terms of Use, the practices of this site or your dealings with JCN, please contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), by telephone on +81-3-5791-1821, or mail at JCN Newswire, Minami Azabu Bldg. 3F, 4-14-2 Minami Azabu, Minato-ku, Tokyo 106-0047, Japan. 
 
 Last updated: January 2015 
