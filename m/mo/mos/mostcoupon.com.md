@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostcoupon.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615033000id_/http%3A//www.dontpayall.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostcoupon.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225094550id_/http%3A//www.dontpayall.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy Cookie Policy - DontPayAll.com
 
