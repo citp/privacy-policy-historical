@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phsa.ca privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013015446id_/http%3A//www.phsa.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phsa.ca privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225212431id_/http%3A//www.phsa.ca/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,32 +6,42 @@ Skip to main content
 
 We are committed to maintaining confidentiality and personal privacy. 
 
-​Collection, use, disclosure and retention of personal information is subject to, and must comply with, the provisions of the [BC Freedom of Information and Protection of Privacy Act](http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/96165_01 "opens the FIPPA site in a new window") (FIPPA). The purpose of this privacy notice is to describe our practices regarding personal information use and collection through any of PHSA's websites. Please note that we do not disclose, give, sell or transfer any personal information about our website visitors unless required for law enforcement or otherwise provided for by law.
+Privacy notice 
+
+Collection, use, disclosure and retention of personal information is subject to, and must comply with, the provisions of the [BC Freedom of Information and Protection of Privacy Act](http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/96165_01 "opens the FIPPA site in a new window") (FIPPA). 
+
+The purpose of this privacy notice is to describe our practices regarding personal information use and collection through any of PHSA's websites. Please note that we do not disclose, give, sell or transfer any personal information about our website visitors unless required for law enforcement or otherwise provided for by law.
 
 We reserve the right to update this policy at any time. Users are responsible for reviewing this document periodically for changes.
 
-Personal information means recorded information about an identifiable individual other than business contact information and would include, but is not limited to, such things as an individual's name, address, birth date, e-mail address, phone number and care card number.
+Personal information is recorded information about an identifiable individual other than business contact information and would include, but is not limited to, such things as an individual's name, address, birth date, email address, phone number and Care Card number.
 
-PHSA is authorized to collect personal information via this website under section 26 (c ) of FIPPA for the purposes described below. Information is collected from our websites either directly from you or automatically.
+PHSA is authorized to collect personal information via this website under section 26 (c ) of FIPPA for the purposes described below. Information is collected from our websites, either directly from you or automatically.
 
-Information collected directly from you:
+Personal information is collected through our websites in certain circumstances, such as when you send an email message to us or complete a questionnaire, form or other online survey found on our websites. 
 
-Personal information is collected through our websites in certain circumstances, such as when you send an email message to us or complete a questionnaire, form, or other on-line survey found on our websites. We only use the personal information you provide to us through our websites for purposes consistent with its collection.
+We only use the personal information you provide to us through our websites for purposes consistent with its collection.  
 
-You should also be aware that information provided by you becomes a record of the organization and is subject to the access and privacy protection requirements set out in FIPPA. This information may be further collected, used and disclosed in accordance with that Act or as otherwise required by law. Under this legislation you are also entitled to access and correct any of your personal information that is within our custody and control. You may make such requests by contacting the privacy representative listed on this page.
 
-Some of our web pages use "cookies" which are small amounts of information stored by your web browser software on your work station. Cookies are designed to track browsing history on a website generally for the convenience of the user. They help websites "remember" what areas of a website a browser has accessed or used previously. Cookies can, however, be misused, and have become a privacy concern for some because they can be used to record and analyze an individual's broader browsing history.
+You should also be aware that information provided by you becomes a record of the organization and is subject to the access and privacy protection requirements set out in FIPPA. 
 
-The cookies we use on our websites and what we use them for are described below. This site operates on 'implied consent', which means that by visiting and clicking through the site, we assume you agree with this usage. If you do not agree, then you should not use our sites, or you can delete the cookies after visiting our sites, or use your browser's anonymous usage setting (called "Incognito" in Chrome, "In Private" for Internet Explorer, "Private Browsing" in Firefox and Safari). More information on cookies, what they are used for and how to delete cookies after visiting this site can be found at <http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>. 
+This information may be further collected, used and disclosed in accordance with that Act or as otherwise required by law. Under this legislation you are also entitled to access and correct any of your personal information that is within our custody and control. You may make such requests by contacting the privacy representative listed on this page.
 
-It's important to know that cookies are plain text files and cannot execute files or make copies of themselves. They do not carry or deliver viruses and cannot scan or retrieve your personal information. There are two types of Cookies - Session and Persistent.
+Some of our web pages use "cookies," which are small amounts of information stored by your web browser software on your work station. 
+
+Cookies are designed to track browsing history on a website generally for the convenience of the user. They help websites "remember" what areas of a website a browser has accessed or used previously. Cookies can, however, be misused, and have become a privacy concern for some because they can be used to record and analyze an individual's broader browsing history.
+
+The cookies we use on our websites and what we use them for are described below. 
+
+This site operates on "implied consent," which means that by visiting and clicking through the site, we assume you agree with this usage. If you do not agree, then you should not use our sites, or you can delete the cookies after visiting our sites, or use your browser's anonymous usage setting (called "Incognito" in Chrome, "In Private" in Internet Explorer, "Private Browsing" in Firefox and Safari). 
+
+It's important to know that cookies are plain text files and cannot execute files or make copies of themselves. They do not carry or deliver viruses and cannot scan or retrieve your personal information. 
+
+There are two types of cookie – Session and Persistent.
 
 Session cookie information is deleted as soon as you leave our websites. The use of temporary session cookies is solely for the purpose of allowing the user to interact with our websites in an effective manner. 
 
 In a few cases our website may use persistent cookies to store information for longer periods than the current session.
-
-  
-
 
 PHSA uses Google Analytics, a web analytics service provided by Google, Inc. (Google).
 
@@ -46,8 +56,118 @@ Website visitors who do not want to be tracked by Google Analytics can download 
 
 PHSA is obligated to protect your personal information by making reasonable security arrangements against such risks as unauthorized access, collection, use, disclosure or disposal. Security measures have been integrated into the design, implementation and day-to-day operating practices as part of PHSA's continuing commitment to the protection of personal information it holds.
 
-You might see 'social buttons' on some PHSA websites. Social buttons let visitors share or bookmark web pages, and are often identifiable by the + sign with Share beside it. There may be buttons for: Twitter, Facebook 'Like', LinkedIn 'Share', StumbleUpon, Digg and others. In order to connect social buttons to the relevant external sites, there are scripts from those domains, which are outside of this site. Those sites could be collecting information about what you are doing all around the internet, including this site. To be certain what information those sites collect, and how to opt out, check the respective policies of each site.
+Information sent to our websites over the Internet is not secure. This means that if the visitor uses the Contact Us page, or other email addresses published on our websites, to send an email, the information provided may be intercepted as it travels to our websites. We will not be responsible for any damages suffered by individuals as a result of the transmission and information that is sent to us or for any errors or changes made to transmitted information.
 
-Information sent to our websites over the Internet is not secure. This means that if the visitor uses the Contact Us page, or other e-mail addresses published on our websites, to send an e-mail, the information provided may be intercepted as it travels to our websites. We will not be responsible for any damages suffered by individuals as a result of the transmission and information that is sent to us or for any errors or changes made to transmitted information.
+You might see "social media buttons" on some PHSA websites. 
+
+Social media buttons let visitors share or bookmark web pages, and are often identifiable by the + sign with Share beside it. There may be buttons for: Twitter, Facebook 'Like', LinkedIn 'Share', StumbleUpon, Digg and others. 
+
+In order to connect social buttons to the relevant external sites, there are scripts from those domains, which are outside of this site. Those sites could be collecting information about what you are doing all around the internet, including this site. To be certain what information those sites collect, and how to opt out, check the respective policies of each site.
+
+Related links  
+
 
 PHSA's websites contains links to other websites. PHSA is not responsible for the privacy practices of these websites or the accuracy or reliability of any content found on such sites.
+
+Social media 
+
+We have produced a Collection Notice & Community Rules of Engagement for Facebook and Twitter.
+
+  
+
+
+In accordance with s.5.7 of the Facebook Statement of Rights and Responsibilities (the “Facebook Statement”) available at <https://www.facebook.com/terms.php>, this document serves as notice that by posting comments to any PHSA Facebook Page, pages created and hosted on Facebook, you are consenting to the collection of the information you provide. Furthermore, by using or accessing Facebook you agree with the contents of the Facebook Statement, as updated by Facebook from time to time. Please be aware that any information collected may be stored and/or accessed outside of Canada on servers that do not belong to PHSA. 
+
+In respect of personal information posted to any PHSA or PHSA Agency Facebook Page, subsection 26(c) of the British Columbia Freedom of Information and Protection of Privacy Act authorizes the collection of this information by a program of the Provincial Health Services Authority (“PHSA”) for the purposes of engaging and consulting with the public. 
+
+To protect your privacy, and the privacy of others, please do not include any personal information including telephone numbers and email addresses in comments. In addition, please do not share personal information about others, including pictures or videos, unless you have obtained consent to do so. 
+
+All content posted will be received with the assumption that the person who posted it holds all necessary rights to that content. 
+
+We welcome participation in discussions, but we expect conversations to follow the conventions of polite discourse. PHSA Facebook moderators will not tolerate comments that are offensive (to an individual or organization) or are harassing in their approach. We also reserve the right to remove comments that abuse the following conditions: 
+
+  * contain abusive, obscene, indecent or offensive language;  
+
+  * include defamatory, abusive, harassing or hateful remarks or make unproven or unsupported accusations against individuals or organizations;  
+
+  * constitute spam, promote services or products;  
+
+  * invade anyone’s privacy or impersonate anyone;  
+
+  * are far off-topic;  
+
+  * are posted without the necessary rights, licenses and consents;  
+
+  * encourage conduct that may or would constitute a criminal offence or give rise to civil liability, or that otherwise violates any local, provincial, national or international law or regulation anywhere in the world;  
+
+  * contain long embedded URLs;  
+
+  * contain excessive links or contain code;  
+
+  * identify any publicly-elected representative or candidate regardless of their political affiliation, whether those comments are supportive or critical; and   
+
+  * are contrary to the principles of the Canadian Charter of Rights and Freedoms  
+
+
+
+
+If you have questions about this moderation policy or how we apply it, please contact: [social@phsa.ca](mailto:social@phsa.ca "social@phsa.ca"). 
+
+PHSA Facebook Pages are not responsible for the accuracy, completeness, timeliness or reliability of content posted by others. If a third party uses this content, they will agree to indemnify and hold PHSA harmless from all third party claims, demands, actions or costs arising out of use of these sites. 
+
+PHSA Facebook Pages are managed by PHSA/agency employees who post news, announcements and other items of interest for the public. Please note - If you comment or click on the 'like' button on a Facebook page, your personal identifiable information will be visible to other visitors. The amount of visible personal information displayed will depend on your own Facebook privacy settings. 
+
+Facebook Privacy information is available at <http://www.facebook.com/fbprivacy> 
+
+PHSA Facebook Pages are monitored during regular business hours, Monday – Friday, 8:30 a.m. – 4:30 p.m. Pacific Time. We will do our best to respond to posts within two business days. 
+
+Please note, media inquiries will not be responded to on Facebook. 
+
+For media inquiries about PHSA or its agencies and services, call the media line at 778-867-7472.  
+
+The Provincial Health Services Authority (PHSA) uses Twitter as a tool to communicate to people interested in our work. You can follow us  [@PHSAofBC​](https://twitter.com/PHSAofBC "https://twitter.com/PHSAofBC").
+
+Twitter content delivered by PHSA includes (but is not limited to):
+
+  * Links to news releases, health notices, research, presentation information, tips on use of our websites, and health facts and findings  
+
+  * Links to relevant information produced and published elsewhere (work of other organizations, patient organizations, researchers, news organizations and others). This can include videos, blog posts, and retweets (RTs) or quotes from other Twitter users (See below for our policy on RTs.)  
+
+  * Interesting facts, quotes or observations related to our work  
+
+
+
+
+NOTE: Medical advice will not be provided through social media.
+
+To protect your own privacy and the privacy of others, please do not include any personal information including medical information, phone numbers and email addresses in the body of your comment. Please do not share personal information about others, including in pictures, without their consent.
+
+The personal information you post to Twitter may be collected by PHSA under s. 26(c) of the Freedom of Information and Protection of Privacy Act for the purposes of engaging and consulting with the public.
+
+Please be aware that any information collected may be stored and/or accessed outside of Canada on servers not belonging to PHSA.
+
+Tweets we retweet (RT), quote, or like, do not imply endorsement on the part of PHSA. We may like, retweet or quote news, links and personal observations we believe are relevant to the work we do. A like, RT or quote should not be taken as explicit endorsement of any position or argument that may vary from PHSA’s official position.
+
+Our decision to follow a particular Twitter user does not imply endorsement of any kind.
+
+PHSA uses Twitter analytics to collect data on how often, and when, links are clicked on and posts are viewed. Twitter analytics also collects information on the geographical locations of its users. Twitter’s privacy policy is available at <https://twitter.com/privacy?lang=en>. 
+
+PHSA’s collection, use, disclosure and retention of information comply with the provisions of the Freedom of Information and Protection of Privacy Act. Collected information is used only by authorized PHSA staff to fulfill the purpose for which it was originally collected.
+
+We will not sell or trade any personally identifiable information that may be collected from our website and will not disclose such information to third parties except as authorized by law.
+
+When you send us email via our website, your message is stored as business correspondence accessible only to authorized PHSA website staff.
+
+All PHSA Twitter feeds are monitored during regular business hours, Monday – Friday, 8:30 a.m. – 4:30 p.m.
+
+Pacific Time. We will do our best to respond to tweets within two business days.
+
+Please note, media inquiries will not be responded to on Twitter. 
+
+For media inquiries about PHSA or its agencies and services, call the media line at 778-867-7472.   
+
+
+Please speak to those directly involved or contact the Patient Care Quality Office: [http://www.phsa.ca/about/accountability/public-accountability/patient-care-qualityoffice/compliments-complaints](https://web.archive.org/about/accountability/public-accountability/patient-care-qualityoffice/compliments-complaints "http://www.phsa.ca/about/accountability/public-accountability/patient-care-qualityoffice/compliments-complaints")
+
+  
+
