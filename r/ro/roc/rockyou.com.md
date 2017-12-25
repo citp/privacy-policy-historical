@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626190654id_/http%3A//rockyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225162619id_/http%3A//rockyou.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – RockYou
 
 **Privacy Policy**
 
-RockYou, Inc. and its subsidiaries (collectively, “RockYou”) recognize that its customers, visitors, users, and others (collectively or individually “Users”) who use games, applications, the website [www.rockyou.com](http://www.rockyou.com/)  and other services hosted by RockYou (collectively, the “RockYou Sites”) value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the RockYou Sites. RockYou provides this Privacy Policy to help you make an informed decision about whether to use or continue using the RockYou Sites.
+RockYou, Inc. and its subsidiaries (collectively, “RockYou”) recognize that its customers, visitors, users, and others (collectively or individually “Users”) who use games, applications, the website [www.rockyou.com](http://www.rockyou.com/)  and other services hosted by RockYou (collectively, the “RockYou Sites”) value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the RockYou Sites. RockYou provides this Privacy Policy to help you make an informed decision about whether to use or continue using the RockYou Sites.
 
-This Privacy Policy is incorporated into and is subject to the RockYou Terms of Use. Your use of the RockYou Sites and any personal information you provide on the RockYou Sites remain subject to the terms of this Privacy Policy and our Terms of Use.  If you access the RockYou Sites from a third-party social networking site, you may also be required to read and accept the third party’s Terms of Service and Privacy Policy.
+This Privacy Policy is incorporated into and is subject to the RockYou Terms of Use. Your use of the RockYou Sites and any personal information you provide on the RockYou Sites remain subject to the terms of this Privacy Policy and our Terms of Use.  If you access the RockYou Sites from a third-party social networking site, you may also be required to read and accept the third party’s Terms of Service and Privacy Policy.
 
 RockYou (and its subsidiaries) participate in and have certified compliance with the EU-U.S. Privacy Shield Framework.  RockYou is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
 
@@ -18,31 +18,29 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-RockYou complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland.  RockYou has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view RockYou’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
-
 **THE INFORMATION ROCKYOU COLLECTS**
 
 User Provided Information through Facebook
 
 RockYou’s primary objective in collecting user information is to provide and enhance the RockYou Sites and to enable users to easily navigate and enjoy the RockYou Sites. When you use the RockYou Sites and mobile applications, we may collect and record the information you provide us voluntarily through www.facebook.com (“Facebook”) in accordance with the policies and terms of Facebook.
 
-The types of personal information collected may vary depending on the activity. This “Personal Information” is defined as information about you that can be used to contact or identify you. Personal information may include: (1) your name (2) Facebook® user identification number, (3) email address, (4) physical address(es), (5) phone number(s) and (6) age/date of birth. Additionally, we may acquire information from you through (1) your access and participation in message boards on the RockYou Sites, (2) your email of a question to our customer support, or (3) your purchase of a product.  We may also collect (1) certain technical information about your mobile device or computer system, including MAC Address, IP Address and mobile device ID; and (2) usage statistics about your interactions with the RockYou Sites.
+The types of personal information collected may vary depending on the activity. This “Personal Information” is defined as information about you that can be used to contact or identify you. Personal information may include: (1) your name (2) Facebook® user identification number, (3) email address, (4) physical address(es), (5) phone number(s) and (6) age/date of birth. Additionally, we may acquire information from you through (1) your access and participation in message boards on the RockYou Sites, (2) your email of a question to our customer support, or (3) your purchase of a product.  We may also collect (1) certain technical information about your mobile device or computer system, including MAC Address, IP Address and mobile device ID; and (2) usage statistics about your interactions with the RockYou Sites.
 
 We collect your location based information for the purpose of determining whether the mobile application is available in your country.
 
 We may share your geo-location data with third parties for the purpose of them serving you ads for places in your area.
 
-You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at [info@rockyou.com](mailto:info@rockyou.com).
+You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at info@rockyou.com.
 
 Personal Information, for purposes of this Privacy Policy, will not include (1) game play information, such as stored game data, high scores, or game session duration, (2) any image, video, or other content posted by you on the RockYou Sites, or (3) any information you may choose to share about yourself throughout the RockYou Sites, such as in games or on message boards. Any actions you perform with other players are considered public and at your sole discretion.
 
 User Provided Information through Prize Redemption
 
-In the event that you wish to claim a prize won through one of RockYou’s rewards-based gaming applications (e.g., Bingo by Ryzing), you will need to follow certain procedures set forth in the terms of such application.  Some of these procedures may include the submission of certain Personal Information, such as your photo identification.  Such Personal Information is used only to verify your eligibility in the sweepstakes.
+In the event that you wish to claim a prize won through one of RockYou’s rewards-based gaming applications (e.g., Bingo by Ryzing), you will need to follow certain procedures set forth in the terms of such application.  Some of these procedures may include the submission of certain Personal Information, such as your photo identification.  Such Personal Information is used only to verify your eligibility in the sweepstakes.
 
 Advertiser, Publisher, or Developer Provided Information
 
-If you sign up as an advertiser, publisher, or developer, you will provide your name, company name and email address. We use this information to set up your account and allow you to place ads on our site. For developers, we allow you to create ad placement tags and embed ad tags into application code. When we deem it necessary to do so, we may send you service related announcements, such as to inform you that our service is temporarily suspended for maintenance.  Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.
+If you sign up as an advertiser, publisher, or developer, you will provide your name, company name and email address. We use this information to set up your account and allow you to place ads on our site. For developers, we allow you to create ad placement tags and embed ad tags into application code. When we deem it necessary to do so, we may send you service related announcements, such as to inform you that our service is temporarily suspended for maintenance.  Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.
 
 Cookies Information
 
@@ -70,11 +68,11 @@ The Way RockYou Uses Information
 
 If you submit personal information to us by use of the RockYou Sites, then we use your personal information to operate, maintain, and provide you the features and functionality of the RockYou Sites.
 
-Receiving our newsletter is offered as part of our service. If you do not wish to receive our newsletter, you may opt-out at any time by using the unsubscribe link located at the bottom of each newsletter or by emailing us at [info@rockyou.com](mailto:info@rockyou.com).
+Receiving our newsletter is offered as part of our service. If you do not wish to receive our newsletter, you may opt-out at any time by using the unsubscribe link located at the bottom of each newsletter or by emailing us at info@rockyou.com.
 
 We may also occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you.  You may at any time opt-out from receiving these types of communications by turning them off on the app or at the device level through your settings.
 
-Any personal information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others to send you unsolicited messages. RockYou is not responsible for the personal information you choose to submit in these public areas of the site. Your display name (not your email address) may be displayed to other Users when you upload images or videos or send messages through the RockYou Sites and other Users can contact you through messages and comments. Any images, captions, videos or other content that you submit to the RockYou Sites may be redistributed through the Internet and other media channels, and may be viewed by the general public.  To request removal of your personal information from our blog or community forum, contact us at [info@rockyou.com](mailto:info@rockyou.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Any personal information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others to send you unsolicited messages. RockYou is not responsible for the personal information you choose to submit in these public areas of the site. Your display name (not your email address) may be displayed to other Users when you upload images or videos or send messages through the RockYou Sites and other Users can contact you through messages and comments. Any images, captions, videos or other content that you submit to the RockYou Sites may be redistributed through the Internet and other media channels, and may be viewed by the general public.  To request removal of your personal information from our blog or community forum, contact us at info@rockyou.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 We also use mobile analytics software to allow us to better understand the functionality of our mobile application(s) on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.
 
@@ -82,7 +80,7 @@ When RockYou Discloses Information
 
 RockYou will not share, sell, rent or trade your personal information other than as described in this privacy policy.
 
-We provide personal information and non-personal information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf, including credit card processing. We require that our subsidiaries, affiliated companies, or other businesses or persons agree to process such information in compliance with our Privacy Policy and we use reasonable efforts, including confidentiality and security measures, to limit their use of such information only as necessary to provide _ _ these services to us.
+We provide personal information and non-personal information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf, including credit card processing. We require that our subsidiaries, affiliated companies, or other businesses or persons agree to process such information in compliance with our Privacy Policy and we use reasonable efforts, including confidentiality and security measures, to limit their use of such information only as necessary to provide these services to us.
 
 We use a third party payment gateway. If you choose to make a purchase within one of our applications, you will be transferred to a third party payment gateway to make the payment. The third party then provides RockYou the name on the account and the amount paid so that we may complete the transaction. We do share non-personal information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the RockYou Site. RockYou may share personal information and/or non-personal information with third party-affiliates and business partners for the purpose of offering greater functionality and enhanced services through RockYou or other sites, and for the purpose of communicating these services to you.
 
@@ -98,7 +96,7 @@ You may, of course, decline to submit personal information through the RockYou S
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions or comments about security on our Web site or this Privacy Policy, you can email us at [info@rockyou.com](mailto:info@rockyou.com)
+If you have any questions or comments about security on our Web site or this Privacy Policy, you can email us at info@rockyou.com
 
 **THIRD-PARTY ADVERTISERS, LINKS TO OTHER SITES**
 
@@ -106,19 +104,19 @@ RockYou allows other companies, called third-party ad servers or ad networks, to
 
 RockYou does not provide any personal information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks RockYou to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the target audience.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://www.networkadvertising.org/managing/opt_out.asp).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+You should consult the respective privacy policies of these third-party ad servers or ad networks. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://www.networkadvertising.org/managing/opt_out.asp).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 The RockYou Sites includes links to other web sites whose privacy practices may differ from those of RockYou. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.
 
 **SOCIAL MEDIA WIDGETS**
 
-The RockYou Sites includes social media features, such as the Facebook Like button and widgets, such as the Share This button or interactive mini-programs that run on our sites.  These features may collect your IP address and which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on the RockYou Sites. Your interactions with these features are governed by the privacy policy of the company providing it.
+The RockYou Sites includes social media features, such as the Facebook Like button and widgets, such as the Share This button or interactive mini-programs that run on our sites.  These features may collect your IP address and which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on the RockYou Sites. Your interactions with these features are governed by the privacy policy of the company providing it.
 
 **PUBLIC PROFILES**
 
 The profiles you create on the RockYou Sites will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.
 
-If an account/profile was created without your knowledge/authorization, please contact us at [(email)](mailto:web@knightfoundation.org) to request removal of the profile.
+If an account/profile was created without your knowledge/authorization, please contact us at rockyou-support@rockyou.com to request removal of the profile.
 
 **SINGLE SIGN-ON**
 
@@ -126,7 +124,7 @@ You can log in to our website using sign-in services such as Facebook Connect or
 
 **TESTIMONIALS**
 
-We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [info@rockyou.com](mailto:info@rockyou.com).
+We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at info@rockyou.com.
 
 **OUR COMMITMENT TO DATA SECURITY**
 
@@ -162,11 +160,11 @@ California Users
 
 We do not share personal information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure, typically by “opting in” to receive information from a third party that is participating in a sweepstakes or other promotion on one of the RockYou Sites. If you do ask us to share your personal information with a third party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third party (other than our service providers) on a continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personal information on one of our sites.
 
-Users in certain jurisdictions have a right to access personal information held about them. Your right of access can be exercised in accordance with applicable law. Please submit any requests for access to your personal data in writing to [info@rockyou.com](mailto:info@rockyou.com).
+Users in certain jurisdictions have a right to access personal information held about them. Your right of access can be exercised in accordance with applicable law. Please submit any requests for access to your personal data in writing to info@rockyou.com.
 
 **IN THE EVENT OF MERGER, SALE, OR BANKRUPTCY**
 
-In the event that RockYou undergoes a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, we may transfer all of your information, including personal information, to the successor organization in such a transition in which case, you will be notified via a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. If we sell a game that is played on Facebook we will put a prominent notice on that page of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.  In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+In the event that RockYou undergoes a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, we may transfer all of your information, including personal information, to the successor organization in such a transition in which case, you will be notified via a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. If we sell a game that is played on Facebook we will put a prominent notice on that page of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.  In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
 
 **CHANGES AND UPDATES TO THIS PRIVACY POLICY**
 
@@ -176,14 +174,16 @@ If we materially change how we use your personal information, we will notify you
 
 **Date Last Modified:**
 
-This Privacy Policy was last modified September 19, 2016.
+This Privacy Policy was last modified October 2, 2017.
 
 **Contact Information:**
 
-Please contact RockYou with any questions or comments about this Privacy Policy or the RockYou Sites by emailing: [info@rockyou.com](mailto:info@rockyou.com).
+Please contact RockYou with any questions or comments about this Privacy Policy or the RockYou Sites by emailing: info@rockyou.com.
 
 RockYou, Inc.
 
-303 2nd St.  
-South Tower, Suite 600  
+642 Harrison Street
+
+Suite 300
+
 San Francisco, CA 94107
