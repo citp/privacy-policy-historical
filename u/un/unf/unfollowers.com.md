@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unfollowers.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617112457id_/https%3A//statusbrew.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfollowers.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226003013id_/https%3A//statusbrew.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Statusbrew
+# Privacy Policy - Statusbrew | Statusbrew
 
 Our Privacy Policy explains how we collect, use, share and protect information in relation to our mobile services, web site, and any software provided on or in connection with Statusbrew services (collectively, the "Service"), and your choices about the collection and use of your information. By using our Service you understand and agree that we are providing a platform for you to perform actions, post content, including photos, comments and other materials ("User Content"), to the Service.
 
@@ -125,7 +125,7 @@ As we sell products it's important for us to understand statistics about how man
 
 The Google AdSense service we use to serve advertising uses a DoubleClick cookie to serve more relevant ads across the web and limit the number of times that a given ad is shown to you.
 
-For more information on Google AdSense see the official [Google AdSense privacy FAQ](http://www.google.co.uk/policies/privacy/ads/).
+For more information on Google AdSense see the official [Google AdSense privacy FAQ](https://support.google.com/adsense/answer/3394713?hl=en).
 
 We use adverts to offset the costs of running this site and provide funding for further development. The behavioural advertising cookies used by this site are designed to ensure that we provide you with the most relevant adverts where possible by anonymously tracking your interests and presenting similar things that may be of interest.
 
@@ -143,8 +143,6 @@ Hopefully that has clarified things for you and as was previously mentioned if t
 
 Statusbrew may modify or update this Privacy Policy from time to time, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of Statusbrew or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.
 
-**Email** : [support@statusbrew.com](mailto:support@statusbrew.com)
+Email: [ support@statusbrew.com](mailto:support@statusbrew.com)
 
-**Web** : [Contact Form](https://statusbrew.com/contact)
-
-This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. Find out more [here](https://web.archive.org/privacy-policy#cookie-policy). __
+Web: [ Contact Form](https://statusbrew.com/contact)
