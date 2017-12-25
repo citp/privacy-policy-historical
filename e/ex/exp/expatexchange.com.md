@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatexchange.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621130755id_/http%3A//www.expatexchange.com/ee.cfm%3Fpageid%3D56%26networkid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatexchange.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225181140id_/http%3A//www.expatexchange.com/ee.cfm%3Fpageid%3D56%26networkid%3D159) for the most accurate reproduction.*
 
 # Expat Exchange Privacy Policy - Expats - Moving Overseas - International Living - International Jobs - Expatriate
 
