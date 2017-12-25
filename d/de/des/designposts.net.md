@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designposts.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050804id_/http%3A//designposts.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designposts.net privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225070637id_/http%3A//designposts.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -26,4 +26,4 @@ While you are browsing this website, you will come across various different link
 
 This privacy policy may be changed at any time. If you have questions regarding the privacy policy or any changes that you may have noticed please contact us at the following e-mail. We will be happy to answer your questions and concerns.
 
-**Info@designposts.net**
+**[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)designposts.net**
