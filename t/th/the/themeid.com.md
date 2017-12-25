@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themeid.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624093526id_/https%3A//cyberchimps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeid.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225234037id_/https%3A//cyberchimps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CyberChimps
+# Privacy Policy
 
 _This policy was last modified on March 5, 2012._
 
