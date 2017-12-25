@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emeraldgrouppublishing.com privacy policy that was archived on 2017-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170607211048id_/http%3A//www.emeraldgrouppublishing.com/about/policies/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emeraldgrouppublishing.com privacy policy that was archived on 2017-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171225210525id_/http%3A//www.emeraldgrouppublishing.com/about/policies/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/General_page.dwt" codeOutsideHTMLIsLocked="false" --><head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -78,7 +78,130 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		        <div class="welcomeBox"><span class="welcomeText">Welcome:</span>
                     <br>Guest
                     <div><span style="float:right"></span></div></div>
-                </div><!-- leftMenuLoginBox --><div class="leftMenuBox"></div><div class="leftMenuBox"><h3>Product Information:-</h3><ul><li><a href="/products/journals/index.htm" title="About Journals.">For Journals</a></li><li><a href="/products/books/index.htm" title="For Books.">For books</a></li><li><a href="/products/case_studies/index.htm" title="For Case Studies.">For Case Studies</a></li><li><a href="/regional.htm" title="Regional information.">Regional information</a></li></ul></div><div class="leftMenuBox">
+                </div><!-- leftMenuLoginBox --><div class="leftMenuBox"></div><div class="leftMenuBox"><h3>Product Information:-</h3><ul><li><a href="/products/journals/index.htm" title="Journals.">Journals</a></li><li><a href="/products/books/index.htm" title="Books.">Books</a></li><li><a href="/products/case_studies/index.htm" title="Case Studies.">Case Studies</a></li>
+<li id="open_access" class="menu-collapsible">
+<a href="/openaccess/" title="Open Access." class="menu-header">Open Access</a><span class="control"></span>
+<ul class="menu-sub" style="display: none; height: 105px;">
+  <li><a href="/openaccess/oa_benefits.htm" title="OA benefits.">Benefits</a></li> 
+  <li><a href="/openaccess/oa_journals.htm" title="OA journals.">Journals</a></li> 
+  <li><a href="/openaccess/open_access_books.htm" title="OA books.">Books</a></li> 
+  <li><a href="/openaccess/oa_proceedings.htm" title="OA proceedings.">Proceedings</a></li> 
+  <li><a href="/openaccess/oa_supplements.htm" title="OA supplements.">Supplements</a></li> 
+  <li><a href="/openaccess/resources.htm" title="Open Access, Author resources.">Author Resources</a></li>
+  <li><a href="/openaccess/oa_policies.htm" title="OA policies and FAQs.">Policies and FAQs</a></li> 	
+</ul>
+</li>
+<style type="text/css">
+
+.leftMenuBox li a:hover,
+.leftMenuBox li a.active,
+.leftMenuBox li.active a {
+  text-decoration: underline;
+  color: #00B0B9;
+}
+
+.leftMenuBox .menu-collapsible {
+  position:relative;
+  display:block;
+  z-index:1;
+}
+
+.leftMenuBox .menu-collapsible > a {
+  display:inline-block;
+}
+
+.leftMenuBox .menu-collapsible .control {
+  content:"";
+  position:absolute;
+  z-index:100;
+  top:3px;
+  right:30px;
+  display:inline-block;
+  width:25px;
+  height:20px;
+  background-image:url("/local_assets/img/icons/direction--up-down.png");
+  background-repeat:no-repeat;
+  background-position:0 0;
+  cursor:pointer;
+}
+
+.leftMenuBox .menu-collapsible .control.active {
+  background-position:-25px 0;
+}
+</style>
+<script type="text/javascript">
+function menu_init(){
+
+function set_active(){
+  var $path = window.location.pathname;
+
+  var $left_menu = $("#pgLtCol"),
+      $left_menu_links = $left_menu.find("a");
+
+  $left_menu_links.removeClass("active");
+
+  $.each($left_menu_links, function(e){
+    var $this = $(this);
+    var $this_link = $this.attr("href");
+
+    if($path == $this_link){
+      $this.addClass("active");
+    };
+  });
+
+
+};
+
+function collapsible_menu(){
+
+  var $path = window.location.pathname;
+
+  $collapsible_menu = $(".menu-collapsible");
+  
+  if($collapsible_menu.length === 0){
+    return;
+  };
+
+  var $menu_hdr = $collapsible_menu.children("a").first();
+  var $menu_sub = $menu_hdr.next();
+
+  $menu_hdr.after("<span class=\"control\"></span>");
+
+  $menu_sub.addClass("menu-sub").hide();
+
+  $menu_sub_h = $menu_sub.height();
+  $menu_sub.height($menu_sub_h);
+
+  var $menu_control = $collapsible_menu.children(".control");
+
+  if( $path.indexOf("openaccess/") !== -1 ){
+    $menu_sub.show();
+    $menu_control.addClass("active");
+  }
+  else{
+    $menu_sub.hide();
+    $menu_control.removeClass("active");
+  };
+
+  $menu_hdr.addClass("menu-header");                    
+
+  $menu_control.on("click", function(e){
+    $menu_sub.slideToggle("210");
+    $menu_control.toggleClass("active");
+  });
+
+};
+
+$(function(){
+
+  set_active();
+  collapsible_menu();
+
+});
+};
+menu_init();
+
+</script><li><a href="/regional.htm" title="Regional information.">Regional information</a></li></ul></div><div class="leftMenuBox">
                             <h3>Services</h3>
                             <ul>
                                 <li><a href="/services/publishing/index.htm" title="Publishing Services.">Publishing Services</a></li>
@@ -90,11 +213,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a href="/reviewers/index.htm" title="For Reviewers.">For Reviewers</a></li>
 <li><a href="/librarians/index.htm" title="For Librarians.">For Librarians</a></li>
 <li><a href="/research/index.htm" title="Research Zone.">Research Zone</a></li>
-<li><a href="/learning/index.htm" title="Learning Zone.">Learning Zone</a></li>
+<li><a href="/learning/index.htm" title="Student Zone.">Student Zone</a></li>
 <li><a href="/teaching/index.htm" title="Teaching Zone.">Teaching Zone</a></li>
 <li><a href="/multimedia/index.htm" title="Multimedia Zone.">Multimedia Zone</a></li>
-<li><a href="/products/collections/zones.htm" title="Subject Zones.">Subject Zones</a></li>
-<li><a href="/social_media.htm" title="Emerald on Social Media.">Emerald on Social Media</a></li>
+<li><a href="/realworldresearch/index.htm" title="#RealWorldResearch.">#RealWorldResearch</a></li>
+<li><a href="/realworldimpact.htm" title="Real World Impact.">Real World Impact</a></li>
 </ul></div><!-- End leftMenuBox --><div style="margin:0 7px 5px 8px;"><a href="/tk/realworldresearch" title="Real World Research - #RealWorldResearch" target="_blank"><img src="/img/banners/RWRPromo_EGP_v01.gif" alt="Real World Research - #RealWorldResearch"></a></div><div style="margin:0 7px 5px 8px;"><a href="https://authorservices.emeraldpublishing.com" title="Request a service from our experts - new window." target="_blank"><img src="/img/banners/needhelp.gif" alt="Request a service from our experts."></a></div> </div>
   <!-- pgLtCol -->
   <a name="mainContent" id="mainContent"></a>
