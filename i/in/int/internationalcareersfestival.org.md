@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalcareersfestival.org privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503120935id_/http%3A//www.internationalcareersfestival.org/static/23/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalcareersfestival.org privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225160613id_/http%3A//www.internationalcareersfestival.org/static/23/privacy/privacy-policy) for the most accurate reproduction.*
 
 # International Careers Festival | Official
 
