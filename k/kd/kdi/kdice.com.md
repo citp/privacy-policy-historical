@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kdice.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624075916id_/http%3A//kdice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdice.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225092726id_/http%3A//kdice.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -31,7 +31,7 @@ We use traffic log cookies to identify which pages are being used. This helps us
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * go to your profile settings and remove your personal information
-  * email us at ryan@rdews.com requesting personal information to be removed
+  * email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) requesting personal information to be removed
 
 
 
