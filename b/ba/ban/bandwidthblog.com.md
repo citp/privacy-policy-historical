@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandwidthblog.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626080909id_/http%3A//www.bandwidthblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandwidthblog.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225205852id_/http%3A//bandwidthblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bandwidth Blog - South African technology & gadget news
 
@@ -34,7 +34,7 @@ We use regular Malware Scanning.
 
 We do not use an SSL certificate
 
-  * Â  ****We only provide articles and information. We never ask for personal or private information like email addresses, or credit card numbers.
+  *   ****We only provide articles and information. We never ask for personal or private information like email addresses, or credit card numbers.
 
 
 
@@ -96,7 +96,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 **To be in accordance with CANSPAM we agree to the following:**
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at **editor@bandwidthblog.comÂ  **and we will promptly remove you from **ALL** correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at **editor@bandwidthblog.com  **and we will promptly remove you from **ALL** correspondence.
 
 ### Contacting Us
 
