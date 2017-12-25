@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the grandvelas.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624035840id_/http%3A//www.grandvelas.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandvelas.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225014621id_/http%3A//www.grandvelas.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [Skip to Content] 
 
-[ ](http://www.grandvelas.com/ "Velas Resorts - Puerto Vallarta, Riviera Nayarit")
+[ ](https://www.grandvelas.com/ "Velas Resorts - Puerto Vallarta, Riviera Nayarit")
 
-[Home](http://www.grandvelas.com/)Privacy Policy
+[Home](https://www.grandvelas.com/)Privacy Policy
 
 ## 1.IDENTITY AND CONTACT ADDRESS OF THE DATA CONTROLLER.
 
