@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the addictinggames.com privacy policy that was archived on 2017-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170610055253id_/http%3A//www.addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the addictinggames.com privacy policy that was archived on 2017-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171225050457id_/http%3A//www.addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en-US" lang="en-US"><head prefix="og: http://ogp.me/ns# addictinggames:
 	http://ogp.me/ns/apps/addictinggames#">
@@ -16,8 +16,8 @@
 </esi:try>
 --><link rel="stylesheet" type="text/css" href="/a/css/common/fonts.css">
 
-<link rel="stylesheet" type="text/css" href="http://cdn.addictinggames.com/a/min/css/global.min.css?c=31">
-	<link rel="stylesheet" type="text/css" href="http://cdn.addictinggames.com/a/min/css/footerPages.min.css?c=31">
+<link rel="stylesheet" type="text/css" href="http://cdn.addictinggames.com/a/min/css/global.min.css?c=47">
+	<link rel="stylesheet" type="text/css" href="http://cdn.addictinggames.com/a/min/css/footerPages.min.css?c=47">
 	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/3506.js?438994" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KDTR69"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M793TP"></script><script type="text/javascript">
 
 	
@@ -45,8 +45,7 @@
         </script>
 
         <!-- Google Tag Manager head -->
-        
-
+        <script type="text/javascript" src="//pubportal.brkmd.com/tms/hblte6088877f40197f6abfaed8b74e2e122.js"></script>
 <script>
     // GTM ( Google Tag Manager ) Data Layer Array
     var dataLayer = dataLayer ? dataLayer : [{
@@ -89,9 +88,9 @@
 </script>
 <script>
     ADG.globals.adZones = {
-    		leaderboard: "uncategorized_top",
-            rectangle: "uncategorized_right",
-            interstitial: "uncategorized_interstitial"
+        leaderboard: "uncategorized_top",
+        rectangle: "uncategorized_right",
+        interstitial: "uncategorized_interstitial"
     };
 
     // define the ad slots
@@ -101,51 +100,38 @@
         // Preparing the refresh rate arrays. Later the arrays r populated with the associated slots.
         // refreshRate variable for custom ad refresh rate in seconds - converted to milliseconds
         // ==========================================================================================
-        ADG.globals.adRefreshRate30 = ADG.globals.adRefreshRate ? ADG.globals.adRefreshRate : 30000;
-        ADG.globals.adRefreshRate120 = ADG.globals.adRefreshRate ? ADG.globals.adRefreshRate : 120000;
-    	
-        var slotArray120 = [];
-        var slotArray30 = [];	   
+        ADG.globals.adRefreshRate = 60000; // Refresh every 60 seconds
 
         window.setInterval(function(){
             if(typeof pbjs_refreshBid === 'function') {
-                pbjs_refreshBid(slotArray120);
+                pbjs_refreshBid();
             } else {
-             googletag.pubads().refresh(slotArray120);
-            }	  
-        }, ADG.globals.adRefreshRate120);	      
-        window.setInterval(function(){
-            if(typeof pbjs_refreshBid === 'function') {
-                pbjs_refreshBid(slotArray30);
-            } else {
-                googletag.pubads().refresh(slotArray30);
-            }	  
-        }, ADG.globals.adRefreshRate30);	    
+                googletag.pubads().refresh();
+            }
+        }, ADG.globals.adRefreshRate);
 
-    	// ==================
-    	// Accept-2, Accept-3 
-    	// ==================
-    	var gameTopAd = [[728, 90], [960, 1]];
-    	var nonGameTopAd = [[728, 90], [960, 1], [970, 40], [970, 66], [970, 90], [970, 250]];
-    	var footerAd =  [[728, 90], [970, 40], [970, 66], [970, 90], [970, 250]];
-    	var topAd = nonGameTopAd;
-    	
-    	
+        // ==================
+        // Accept-2, Accept-3
+        // ==================
+        var gameTopAd = [[728, 90], [960, 1]];
+        var nonGameTopAd = [[728, 90], [960, 1], [970, 40], [970, 66], [970, 90], [970, 250]];
+        var footerAd =  [[728, 90], [970, 40], [970, 66], [970, 90], [970, 250]];
+        var topAd = nonGameTopAd;
+
+        
 
         var leaderboardSlot = googletag.defineSlot('/4678/addictinggames_web/' + ADG.globals.adZones.leaderboard, topAd, 'div-gpt-ad-leaderboard').addService(googletag.pubads());
-        slotArray120.push(leaderboardSlot);
 
         var leaderboardFooterSlot = null;
-    	// ===================
-    	// Accept-1, Accept-10
-    	// ===================
+        // ===================
+        // Accept-1, Accept-10
+        // ===================
         
 
         var rectangleSlot = googletag.defineSlot('/4678/addictinggames_web/' + ADG.globals.adZones.rectangle, [[300, 250]], 'div-gpt-ad-rectangle').addService(googletag.companionAds()).addService(googletag.pubads());
-        slotArray30.push(rectangleSlot);
+
         
-        
-            googletag.defineOutOfPageSlot('/4678/addictinggames_web/' + ADG.globals.adZones.interstitial, 'div-gpt-ad-oop').addService(googletag.pubads());
+        googletag.defineOutOfPageSlot('/4678/addictinggames_web/' + ADG.globals.adZones.interstitial, 'div-gpt-ad-oop').addService(googletag.pubads());
         
 
 
@@ -166,7 +152,6 @@
         googletag.enableServices();
     });
 </script>
-
 <script async="" src="http://cdn-gl.imrworldwide.com/novms/js/2/nlsDcrLite510.min.js#nol_apid=T054CE66C-5394-4015-9E9C-6BAAAEEA0738&amp;nol_sfcode=dcr-cert&amp;nol_apn=AddictingGames&amp;nol_ci=us-103628&amp;nol_vc=c01&amp;nol_assetname=legal&amp;nol_segA=privacy-policy"></script></head>
 	<body>
 
@@ -281,7 +266,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div id="agContainer">
 			<div id="navTop">
 	<div id="navLeft">
-		<a href="http://www.addictinggames.com/index.jsp"><img src="/a/img/agLogo_n.png" height="40" width="205" alt="AddictingGames" class="fltL"></a>
+		<a href="http://www.addictinggames.com"><img src="/a/img/agLogo_n.png" height="40" width="205" alt="AddictingGames" class="fltL"></a>
 		<div id="searchBarOuter">
 			<div id="searchBarInner">
 				<input id="nsmInput" type="text" value="Search AddictingGames...">
@@ -300,7 +285,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <ul class="navTabs">
 	<li class="">
-		<a title="Games" target="_top" href="http://www.addictinggames.com/index.jsp" class="ga-nav">GAMES</a>
+		<a title="Games" target="_top" href="http://www.addictinggames.com" class="ga-nav">GAMES</a>
 	</li>
 	<li class="">
 		<a title="What's Hot" target="_top" href="http://www.addictinggames.com/hot-games/index.jsp" class="ga-nav">WHAT’S HOT</a>
@@ -368,9 +353,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<li><a href="http://www.addictinggames.com/tag/quiz-games.jsp" id="tag_quiz" class="navTagLink">Brain Teasers &amp; Quizzes</a></li>
 		</ul></div>
 </div><div id="footerCopy" class="clearfix">
-	<div class="clearfix">
-			<h1>Privacy Policy&nbsp;</h1>
-		</div>
 	<p>Welcome to Addicting Games, the largest source of the best free online games including funny games,
     flash games, arcade games, dress-up games, internet games, word games, RPG games,
     racing games, and much more. Thousands of choices from some of the best developers around, like Armor Games,
@@ -818,9 +800,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </script>
 
-<script src="http://cdn.addictinggames.com/a/min/js/globalJsBodyPre.min.js?c=31"></script>
-	<script type="text/javascript" src="http://cdn.addictinggames.com/a/js/libExternal/ag-coda.js?c=31"></script>
- 		<script type="text/javascript" src="http://cdn.addictinggames.com/a/min/js/globalJsBodyPost.min.js?c=31"></script>
+<script src="http://cdn.addictinggames.com/a/min/js/globalJsBodyPre.min.js?c=47"></script>
+	<script type="text/javascript" src="http://cdn.addictinggames.com/a/js/libExternal/ag-coda.js?c=47"></script>
+ 		<script type="text/javascript" src="http://cdn.addictinggames.com/a/min/js/globalJsBodyPost.min.js?c=47"></script>
 	<script type="text/javascript">
 	
 		ag.loggedIn = false;
@@ -927,7 +909,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 <div id="modalOverlayFogger"></div><div id="fragmentRoot"></div><script type="text/javascript">ag.staticAssetServer =  'cdn.addictinggames.com';</script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script type="text/javascript" src="http://cdn.addictinggames.com/a/min/js/global.min.js?c=31"></script>
+<script type="text/javascript" src="http://cdn.addictinggames.com/a/min/js/global.min.js?c=47"></script>
 	</div>
     <script type="text/javascript">
     setTimeout(function(){var a=document.createElement("script");
