@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyhabits.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624084809id_/http%3A//tinyhabits.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyhabits.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225112055id_/http%3A//tinyhabits.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Tiny Habits
 
@@ -7,7 +7,7 @@ Last Update: March 13, 2017
 
 Thank you for reviewing 
 
-Tiny Habits Training LLC’s ("Tiny Habits", “we,” “us” or “our”) privacy policy for our services and our Internet website located at the URL _[http://tinyhabitsacademy.org](http://tinyhabitsacademy.org/)_ , [http://tinyhabits.com](https://web.archive.org/web/20170624084809id_/http%3A//tinyhabits.com/tinyhabits.com), our iOS application for Tiny Habits as well as our courses (collectively, the "Services"). This Privacy Policy details certain policies implemented throughout Tiny Habits governing Tiny Habits’ collection and use of personally identifiable information about users of our Services.Information Collection and Use _Personally Identifiable Information We Collect:  
+Tiny Habits Training LLC’s ("Tiny Habits", “we,” “us” or “our”) privacy policy for our services and our Internet website located at the URL _[http://tinyhabitsacademy.org](http://tinyhabitsacademy.org/)_ , [http://tinyhabits.com](https://web.archive.org/web/20171225112055id_/http%3A//tinyhabits.com/tinyhabits.com), our iOS application for Tiny Habits as well as our courses (collectively, the "Services"). This Privacy Policy details certain policies implemented throughout Tiny Habits governing Tiny Habits’ collection and use of personally identifiable information about users of our Services.Information Collection and Use _Personally Identifiable Information We Collect:  
 _ You can generally visit our website without having to submit any personally identifiable information about yourself to us.   
 If you register on our Services, we ask to collect your email address. You may also elect to provide us with your name and gender. If you contact us with questions or request information or complete a survey, we will collect the personally identifiable information that you voluntarily transmit to the Services. _Persistent Identifiers and Tracking  
 _ We may use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can read more about cookies at _[www.allaboutcookies.org](http://www.allaboutcookies.org/)_.  
