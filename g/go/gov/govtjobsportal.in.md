@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtjobsportal.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071141id_/http%3A//www.govtjobsportal.in/p/ads-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtjobsportal.in privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225160941id_/http%3A//www.govtjobsportal.in/p/ads-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Govt Jobs, Recruitment in India 2017 -10th, 12th Pass Government Jobs
 
@@ -25,3 +25,7 @@ Our first priority is to respect and protect the privacy of our users and we don
 **Third-party Advertising** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy/ads/).
+
+**NOTE:** WE ARE NOT RESPONSIBLE FOR ANY JOB ISSUES, AS WE ARE SHARING INFORMATION BASED ON INTERNET. PLEASE CHECK THE OFFICIAL ADVT. ATTACHED WITH IN THE EACH POST, WHICH REPRESENT THE OFFICIAL FILE.
+
+[ ](https://www.blogger.com/rearrange?blogID=3165873511977817279&widgetType=Text&widgetId=Text1&action=editWidget&sectionId=main "Edit")
