@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051044id_/http%3A//www.bittorrent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226002824id_/http%3A//www.bittorrent.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BitTorrent - Delivering the World’s Content
 
@@ -28,7 +28,7 @@ We also aggregate data from the Software (as defined below) regarding total traf
 
 You may visit the Sites and use the Software and many of the Services without any registration at all. However, from time to time, we may enable certain additional functionality or services whereby you will have to create a user account, and we may collect and process the following information about you:
 
-    * information such as your name, address, phone number and e-mail address, and other demogaphic information (such as date of birth, gender, age, and interests) that you provide by completing forms on the Sites, including if you register as a user of the Services, subscribe to our mailing lists, upload or submit any material through the services, or request any information.
+    * information such as your name, address, phone number and e-mail address, and other demographic information (such as date of birth, gender, age, and interests) that you provide by completing forms on the Sites, including if you register as a user of the Services, subscribe to our mailing lists, upload or submit any material through the services, or request any information.
     * your log-in and password details in connection with the account sign-in process;
     * if you log-in using a third party social media account (such as a Facebook or Google account), we may collect basic account information about you from that social media provider (such as your name, address, phone number and e-mail address, and other demographic information, like your date of birth, gender, age and interests);
     * details of any requests or transactions made by you through the Service;
@@ -114,7 +114,7 @@ If you have any questions about our privacy practices, please do not hesitate to
     
     Privacy Matters
     c/o BitTorrent, Inc.
-    303 Second St. Suite S200
+    340 Bryant Street, Suite 201
     San Francisco, California 94107
 
   
