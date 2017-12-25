@@ -1,169 +1,335 @@
-> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606194251id_/http%3A//www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225215407id_/http%3A//www.belk.com/customer-service/policies-guidelines/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy - belk.com | Belk
+# Privacy Policy | belk
 
-Belk.com is committed to ensuring your privacy is protected at all times during your use of our site or one of our other services such as Belk mobile, Belk apps, or a Belk social media application (i.e. Facebook) (hereafter referred to as 'Belk' or 'Belk.com'). Please take the time to read over our Privacy Policy carefully, so you have a complete understanding of how we collect, use and secure the personal information you provide to us. Belk.com will continue to grow and improve to better serve you; therefore, our Privacy Policy is subject to change and we encourage you to review our policy each time you visit belk.com. Please also understand that by using belk.com, you agree to the terms of our Privacy Policy in effect each time you visit, even if you do not return to this link. This Privacy Policy only applies to information collected online on belk.com. 
+Updated as of August 12, 2017
 
-This Policy will give you a better understanding of the following: 
+Click here for a summary of the changes to our Privacy Practices
 
-  * What personally identifiable information belk.com collects
-  * How will my personal information be used
-  * Is my personal information shared with third parties
-  * How you control the collection, usage and distribution of any personal information you provide to belk.com or any of our other services such as Belk mobile, Belk apps, or a Belk social media application (i.e. Facebook)
-  * How we protect the security of your personal information
-  * Cookies and other computer information
-  * How can I decide what promotional email communications I will receive
-  * How can I decide what promotional mobile phone communications I will receive?
-  * Privacy Protection of Children
-  * Linking to Third Party Web Sites
-  * Notice to California Residents - Your California Privacy Rights
-  * Privacy Policy Questions or Comments?
-  * Changes to the belk.com Privacy Policy
+### General
 
+Belk is committed to protecting your privacy. This policy explains measures that Belk takes to protect your personal information based on your use of our websites, mobile apps, blogs, third party websites, third party mobile apps, social media sites, and similar technology platforms (collectively the “Platforms”). This policy describes what information is collected about you and how it is shared or otherwise used, as well as what controls you have over your personal information and our use of it. This privacy policy also details measures that Belk takes to protect certain legal rights (e.g., protecting the privacy of children under 13 and California state privacy rights). Our privacy policy is subject to change as we utilize new technologies and improve our services to you. Therefore, we encourage you to review our privacy policy each time you use our Platforms. By using the Platforms, you accept and consent to the terms of our privacy policy in effect at the time of your visit.
 
+### Information We Collect About You
 
-**What personally identifiable information does belk.com collect?**
+**Personal Information.** Belk collects personal information that you provide when you visit or use our Platforms. There are various forms of personal information that we collect, including first and last name, telephone number, postal and email addresses, gender, date of birth, and location and billing information. We may also request information about local stores where you or your friends may shop, your shopping preferences, and similar information that may be used for marketing, transactional purposes, or to otherwise enhance our business practices and our services to you. You can choose not to provide personal information to us. However, some information about you is generally required to fulfill, track and bill your order; participate in a survey, contest, or sweepstakes; ask us a question; set up a registry; or to take advantage of other services that Belk offers.
 
-Belk collects personal information that you provide when using belk.com. This personal information is gathered when you register on belk.com, make a purchase on belk.com, create a wedding registry on belk.com, or register with one of our other services such as Belk mobile, Belk apps, or a Belk social media application (i.e. Facebook) or a Belk software application (i.e., a widget).
+Your personal information is gathered when you register with us on any Platform, make an online purchase, create a registry or wish list, or mark certain items as favorites. We may collect personal information about you when you visit third party Platforms, open or respond to our emails, contact customer service or use support tools, visit any page that displays our ads or content, make salon appointments, connect or link to any Platform via social networking sites, post comments to online communities or provide information to our suppliers, advertising and business partners. 
 
-When you register on belk.com, you provide us with your email address and a unique password.
+**Information About Others.** When you provide personal information about others (e.g., to make a purchase online for someone else, to ship a purchase to someone other than yourself, etc.) you should obtain the consent of the other individual prior to providing us with their personal information. 
 
-When you make a purchase on belk.com, we collect your name, address, phone number, email address and other personal information necessary to fulfill, track and bill your order. In order to bill you for your purchase we also collect credit card information including your card type, credit card number, and expiration date. We also collect shipping address information that allows us to ship your order. This includes the name, address and phone number of the intended recipient.
+**Information From Other Sources.** We also may periodically obtain both personal and non-personal information about you from affiliated entities, advertising and business partners, data providers and other third party sources and add it to our information. Examples of information we may receive include: name, special event dates, purchase history, email address, demographic information, unique individual or device identifiers, etc.
 
-When you register and checkout, we save your shipping and billing address information. You may elect to have us save your credit card information to expedite future purchases. If you so elect, we save your card type, credit card number, expiration date, and name on the card. You may checkout as a guest if you don't want us to save your shipping, billing or credit card information.
+**Automatic Information.** We automatically collect some information and data about your computer and mobile devices when you visit our Platforms. For example, we will collect your IP address, web browser software (e.g., Internet Explorer), and information about referring websites. We also may collect information about your online activity, such as merchandise viewed and purchases made, as well as locational data  helps Belk to tailor the version of the Platform that you see in order to enhance your shopping experience. 
 
-You may change saved shipping, billing, or credit card information at any time. Simply go to the My Account page, login with your email address and password, follow the appropriate links and edit or delete whatever personal information you wish.
+### How Will My Personal Information Be Used?
 
-We also collect personal information when you become a registrant of our wedding registry. When you sign up for a wedding registry with belk.com, only one account is needed for you and your future spouse. If you already have a belk.com account, you can add the wedding registry to your current account. However, if you do not have an account, you can register for one by providing an email address and a password.
+In general, your personal information may be used by Belk for marketing, transactional purposes, or to otherwise enhance our business practices and our services to you. More specifically, we may use your personal information to: 
 
-The following information is collected and required from the bride or groom to complete the registry process: name, address (able to use up to 3 shipping addresses), phone number, email address, a local Belk store(s) your guests may shop, your special event(s) details and any email addresses of the guests/family members with whom you wish to share your registry. When you register with Belk you are given the option to 'share your registry' with your family and guests. After you provide the email addresses of family members/guests, only one email will be sent out pertaining to your wedding registry. This email will come directly from the bride's or groom's own email account, not Belk's. Your family/guests have the option of receiving future emails about your registry, if they so choose. Again, anyone who receives this email from the bride or groom has the option of unsubscribing to any email about her or his registry. Under no circumstance will Belk send any store promotional events or sales to your family/guests email accounts, unless they specifically stated they wish to receive them.
-
-You can update your Belk wedding registry at any time. Simply login to your account with the email address and password you created when you registered with Belk.
-
-There are a few other instances when belk.com may collect other personal information from you. Occasionally we conduct contests on belk.com. If you choose to participate in an online contest, we may request personal information from you that will permit us to administer the contest and notify the winner(s). If you contact our Customer Service department, we may store your email address or phone number in order to respond to your questions or requests for assistance. Belk.com reserves the right to keep a record of any communication between you and Belk. 
-
-**How will my personal information be used?**
-
-Information collected on belk.com or one of our other services such as Belk mobile, Belk apps, or a Belk social media application (i.e. Facebook), may be used in the following ways: 
-
-  * Ship merchandise that you purchase online
-  * Register you as a member of belk.com 
-  * Prevent fraud and bill your credit card for your purchases 
-  * Confirm and track your orders 
-  * Respond to your customer service inquiries 
-  * Provide promotional communication and other information to you, if you choose to receive them
-  * Source and offer the products you want 
-  * Customize your shopping experience 
-  * Improve our website design
-  * Comply with valid legal procedures, requirements, regulations or statutes
+  * Ship merchandise that you purchase on the Platforms and communicate with you about such transactions.
+  * Register you as a member of the Belk Platforms and service your online profiles.
+  * Prevent fraud and bill your credit card for your purchases. 
+  * Confirm and track your orders. 
+  * Respond to your customer service inquiries. 
+  * Provide promotional communication and other information that you choose to receive.
+  * Source and offer the products you want.
+  * Personalize your shopping experience and tailor it to your particular geographic location or region. 
+  * Improve the design of our Platforms, merchandise assortment and customer service.
+  * Identify product preferences and shopping preferences. 
+  * Conduct research and analysis related to our operations and logistics.
+  * Administer contests, sweepstakes, promotions, surveys and focus groups.
+  * Protect our assets and prevent fraudulent transactions.
+  * Validate credentials and authenticate customers when logging into your online profile, applications or transacting in store.
+  * Protect the security and integrity of our data.
+  * Comply with valid legal procedures, requirements, regulations or statutes.
+  * Assist law enforcement and respond to legal/regulatory inquiries.
 
 
 
-**Is my personal information shared with third parties?**
+### How We Share Your Information 
 
-When you visit belk.com or visit one of our other services such as Belk mobile, Belk apps, or a Belk social media application (i.e. Facebook) and submit personal information, you are sharing that information with belk.com and the Belk-owned and controlled family of companies. We may provide your personal information to our agents, representatives and service providers for limited purposes, including but not limited to, billing customer orders, fulfilling customer orders; communicating to customers; providing customer service; administering opt-in contests or sweepstakes; offering targeted marketing communications to users that opted-in to receive such communications; providing a personalized shopping experience; and preventing online fraud. In addition, we may share your information with Synchrony Bank, the issuer of the Belk Rewards Card to allow them to provide you with information and offers relating to the Belk Rewards Card program. Except as stated herein, we do not sell, trade, rent or give out your personal information to third parties for their marketing purposes. 
+We share your information with or for:   
 
-If you make a transaction on belk.com with your Belk Rewards Card, the information sharing terms of the Synchrony Bank (SYNCB) Privacy Policy will apply. If and when you choose to sign up for a Belk Rewards Card, administered by Synchrony Bank, you will be informed of the SYNCB Privacy Policy which includes its disclosure on information sharing. The SYNCB Privacy Policy is also always available on the Belk Credit Services Online. All Belk Rewards Cardholders have the right to opt-out from having personal information shared with certain third parties. For more information, please see the 'It's Your Choice' section in the SYNCB Privacy Policy: 
 
-[Synchrony Bank Privacy Policy ](https://www.onlinecreditcenter2.com/Belk/privacy.html)
+**Suppliers.** We share your information with suppliers that help us with our business activities including shipping vendors, billing and refund vendors, payment card processors, and companies that help us improve our products and services such as suppliers who provide direct fulfillment services for certain products. By making a purchase or request through any Platform, you are authorizing us to disclose to our suppliers your personal information required to complete your purchase, transaction and requests. We do not control the privacy practices of suppliers. We encourage you to review the privacy policies of the specific supplier for more information regarding their privacy practices. 
 
-Finally, we may be required to disclose your personal information to third parties if necessary to comply with applicable laws, subpoenas or court orders. 
+**Products and Services Offered by Other Businesses.** We will sometimes enable other businesses to make products or services available to our customers and facilitate the purchase of products or services from these other businesses at our stores or through our websites or mobile services, including through the sharing of your personal information with these businesses. We do not control the privacy practices of other businesses.
 
-**How you control the collection, usage and distribution of any personal information you provide to belk.com**
+**Third Party Vendors.** We share your information with third party vendors who provide services on our behalf. These third party vendors include gift card awards and redemption providers, business analytics platforms, customer service organizations, advertising partners, distributers of surveys or sweepstakes programs, and fraud prevention firms. We may also authorize third party vendors to collect information on our behalf as necessary to operate features of our Platforms or to facilitate online advertising tailored to your interests. Third-party vendors have access to, and may collect, your personal information to perform their functions and deliver services. We do not control the privacy practices of third party vendors. We encourage you to review the privacy policies of the specific third party vendor for more information regarding their privacy practices.
 
-As customers ourselves, Belk understands and values the importance of giving you, the customer, complete control over the collection, usage and distribution of your personal information. 
+**Business Transfers.** In the event that all or a part of our business is merged, sold or reorganized (including transfers made as a part of insolvency or bankruptcy proceedings), personal information about you could be shared with the successor business. We will use reasonable measures to help ensure that any successor treats your information in accordance with this policy.
 
-If you are a registered customer on belk.com, we will store the information you provide for a quick and easy checkout process every time you place an order with us. However, if you want to make a purchase, but do not want to register with belk.com, you can do so without belk.com having access to your information. During this 'Checkout as a Guest' process, you will still be asked for your name, shipping address, billing address, phone number, email and credit card number. Once you have made your purchase, we will send you an email confirming your order and a shipping notification email that includes a tracking number for your reference. The information you provide during the Guest Checkout process will only be used to process your order and will not be accessible again to anyone at belk.com, or to you. Unless you elect to register for a belk.com account, you will have to re-enter your information each time you make a purchase. 
+**Referring Platforms.** If you are referred to our Platforms from another Platform, an advertising site, a blog, a social media site, etc., we may collect information about you from the referring Platform or site. Also, we may share some information about you with the referring Platform or site. We do not control the privacy practices of referring websites. We encourage you to review the privacy policies of the specific referring Platform.
 
-You may update, correct or delete your personal information at any time by logging into your belk.com account and saving any changes you make. At Belk, we encourage you to keep any information you provide to us as current as possible, so we can ensure we are serving your needs to the best of our ability. 
+**Surveys, Sweepstakes, Contests and Promotions.** Belk may conduct surveys, sweepstakes, contests and promotions on our Platforms that collect your personal information. Our surveys and promotions are voluntary and any information you provide may be collected, used, shared, disclosed, stored, transferred and processed in accordance with this policy. Your participation in our surveys, sweepstakes, contests and promotions, and your submission of personal information, serves as your consent to these practices. 
 
-**How we protect the security of your personal information**
+**Legally Required Sharing of Personal Information and Protection of Our Company and Others.** We may share your personal information in certain legal or emergency situations, which include, but are not limited to, when required by law, or when we believe sharing will help to protect Belk’s safety, property, or rights, or the safety, property or rights of our customers, our employees, or individuals. Examples of such situations include: 
 
-The security of your personal information is very important to Belk. Belk.com uses Secure Sockets Layer (SSL), the industry standard for Internet Commerce transaction security, to encrypt your credit card and personal information as it travels over the Internet to our secure servers. SSL technology encrypts, or encodes, your credit card and personal information, preventing an unauthorized party from accessing and viewing it. When you enter a secure portion of belk.com, such as 'Checkout' or 'My Account', your web browser should display a URL address with an "https" prefix and an image of a closed lock or a solid key should appear in the bottom bar of your browser window. In addition, we employ an outside third party company to periodically test the security of our servers and ensure that all credit card and personal information is properly safeguarded. As a result, you can shop with confidence on belk.com. 
+  * Protecting the health or safety of customers. 
+  * Addressing crimes committed on Belk’s property. 
+  * Identifying and addressing fraud or financial risk.
+  * Providing personal information from cameras to law enforcement at their request. 
+  * Responding to a search warrant or other valid legal inquiry.
+  * Responding to an investigative body in the case of a breach of an agreement or violation of law.
+  * Responding to insurance companies.
 
-In the unlikely event unauthorized charges (as determined by your card issuer) are made on your credit card as a result of purchases made on belk.com utilizing our secure servers, Belk will reimburse you for up to $50 of any amount you are required to pay by the card issuer. Under the Fair Credit Billing Act (FCBA), Federal law limits your responsibility for unauthorized charges to $50; thus, Belk will cover you for this liability. In the event of an unauthorized use of your credit card, please notify the card issuer in writing as soon as possible. 
 
-For your convenience, below are the toll-free numbers of the credit cards we accept on belk.com:
 
-Belk Rewards Card'1-800-669-6550  
-MasterCard'1-800-627-8372  
-Discover'1-800-DISCOVER or 1-800-347-2683  
-Visa'1-800-847-2911  
-American Express'1-800-528-4800 
+**Information Sharing and Options When You Use the Synchrony Bank/Belk Rewards Card.** If you make a transaction on the Platforms with your Belk Rewards Card, the information sharing terms of the Synchrony Bank (SYNCB) Privacy Policy will apply. If and when you choose to sign up for a Belk Rewards Card, administered by Synchrony Bank, you will be informed of the SYNCB Privacy Policy which includes its disclosure on information sharing. The SYNCB Privacy Policy is also always available on the Belk Credit Services Online. All Belk Rewards Cardholders have the right to opt-out from having personal information shared with certain third parties. For more information, please see the 'It's Your Choice' section in the SYNCB Privacy Policy by clicking the link below: [Synchrony Bank Privacy Policy](https://www.onlinecreditcenter2.com/Belk/privacy.html)
 
-Finally, your personal information is protected by the password you created when you signed up for an account at belk.com. You may change this password anytime by accessing the My Account section of belk.com. Please keep this password confidential. No representative of belk.com, including our Customer Service representatives, will ever ask you for your password. 
+### Your Access To and Control Over Your Information
 
-**Mobile Privacy**
+You can inquire as to your personal information, see what personal information we may have about you, change/correct any personal information we have about you, have us delete any personal information we have about you, or express any concerns you have about our use of your personal information by contacting us by email at [Belk_Customer_Care@belk.com](mailto:Belk_Customer_Care@belk.com) or by phone at [1-866-235-5433](tel:1-866-235-5433).
 
-Belk offers mobile applications (commonly known as "apps") that allow you to shop online, check product availability, learn about store events, or receive other information from Belk. This Privacy Policy protects all personal information collected by Belk from our mobile applications.
+You may update or correct your personal information at any time by logging into your belk.com account and saving any changes you make. By using our Platforms you consent to Belk retaining: (i) such personal information that Belk is legally compelled to retain; (ii) such information for the purposes set forth above in the section entitled “How Will My Personal Information Be Used?”; and (iii) electronic files containing personal information created pursuant to automatic archiving and back up procedures. We encourage you to keep any personal information you provide to us as current as possible, so we can ensure we are serving your needs to the best of our ability. 
 
-Although you do not have to provide your location information to Belk to use our mobile applications, some store-specific services may require a zip code to function. You may manually enter your zip code and Belk will save your zip code(s) for future reference. Or, when you download our mobile application, you may choose to allow it to obtain your precise location from your mobile device when you click the "location finder" button. In this case, we will determine your zip code from the precise location data received from your mobile device. We do not store precise location data; we only store the zip code associated with the location. Our mobile applications offer push (or "automatic") notifications. We will provide push notifications only to customers who opt-in to receive such notifications from Belk. If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings.
+### How we protect the security of your personal information
 
-In the future, we may offer updated or enhanced versions of our mobile applications that include additional features created by us or using third party functionality. Our applications or the third party may automatically collect information about your precise location from your device, but only if you allow it.
+While no Platform can guarantee security, we use commercially reasonable physical, technical, and administrative safeguards to assist us in preventing unauthorized access, use and disclosure of your personal information.
 
-**Cookies and other computer information**
+### Mobile and Other Devices Privacy
 
-When you visit belk.com, or visit one of our other services such as Belk mobile, Mobile apps, or a Belk social media application (i.e. Facebook), small text files known as "cookies" will be stored on your computer's hard drive. The purpose of these cookies is to identify you when you visit belk.com, so that we can enhance and customize your online shopping experience. 
+**In General.** We and some third parties that we have engaged may collect and store unique identifiers matched to your mobile or other Wi-Fi enabled device. These identifiers are used to deliver customized ads or content while you use applications or surf the Internet, to identify you or your device in a unique manner across devices or browsers or to enhance our products and services through analysis of the information and data that is collected. In order to customize ads or content, we, or third parties, may collect your personal information including your email address, your zip code or data passively collected from you, such as your device identifier or IP address. 
 
-You can choose to browse on belk.com without cookies. However, if you disable cookies, you will not be able to take advantage of certain features of our site such as storing your shopping bag for a future visit and providing a more personalized experience. However, disabling cookies will not prevent you from shopping and purchasing on belk.com in the future. You may also change the settings of your browser to reject cookies. Each browser is different, so check your browser's "Help" menu to learn how to update your cookie preferences. 
+You can manage how your mobile device, mobile browser and other Wi-Fi enabled devices share information with the Platforms, as well as how your mobile browser handles Cookies, by adjusting the privacy, security and Wi-Fi settings on your device. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your settings.
 
-Cookies also collect certain technical information from your computer. This technical information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring website, if any. The information stored in a cookie cannot be used to personally identify you unless combined with information that you have provided in connection with a registration or purchase, or when choosing to sign up for promotional emails or contests. 
+### Cookies and Other Tracking Technologies
 
-We also contract with third parties to provide us with survey data and web analytics data such as tracking the navigation activity of browsers and buyers on our site. We also use third parties for tracking and measuring performance of our marketing efforts and your response to our marketing efforts; and the delivery of relevant marketing messages. All these third parties may use cookies and Web beacons (1 x 1 pixels), and may receive anonymous information about your browsing and buying activity on our site. None of your personally identifiable information (such as your name, address, email address, credit card number, etc.) will be received by or shared with these third parties. If you do not want your non-personal information used by these third parties, you can change the settings of your browser to reject cookies. Again, each browser is different, so check your browser's "Help" menu to learn how to update your cookie preferences. 
+**In General.** Belk, and third parties, use Cookies, tracking technologies and analytics services. We may collect your personal information, as well as usage and demographic information about you over time and across different Platforms. Third parties (e.g., advertising partners), may collect personal information, such as your name, address, email address, gender, telephone number, purchase history, and unique identifiers via these technologies. We also may use analytics services which provide us with a clearer picture of how you use the Platforms, and we may identify and track you when you use different devices and Platforms. In addition, we and third parties may also collect and store your personal information via Belk and third party browser Cookies (which are stored on your computer in a file), web beacons, remarketing pixel tags, and Flash Cookies (which are placed in the code of a web page or email or which access your browsing activity). By using the Platforms, you consent to the use of Cookies and tracking technologies described in this policy. However, these third party Wi-Fi tracking tools do not use the collected information to identify particular individuals (i.e. named persons). 
 
-The Network Advertising Initiative also provides consumers with a tool for examining your computer, to identify which companies have placed an advertising cookie file on your computer. By following some simple directions, you can then choose to opt out of any online advertising that you do not wish to receive. Visit the [NAI Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp) webpage for more details. 
+**Opting Out of Cookies and Tracking Technologies.** The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new Cookies, how to have the browser notify you when you receive a new Cookie, or how to disable Cookies altogether. Flash cookies will not be affected by any browser setting changes you make related to cookies. Go to http://www.adobe.com/support/documentation/en/flashplayer/help/ and follow the instructions on that page to remove Flash cookies or for more information. Please keep in mind that, without Cookies, you may not have access to certain features on our Platforms, including access to your profile or account and certain personalized content. Removing all Cookies from your computer could also affect your subsequent visits to certain Platforms, including Belk Platforms, by requiring that, for example, you enter your login name when you return. 
 
-**How can I decide what promotional email communications I will receive?**
+**Managing “Do Not Track” Signals.** Some browsers have a Do Not Track (“DNT”) feature that lets you tell websites that you do not want to have your online activities tracked. When you choose to turn on the DNT setting in your browser, your browser sends a special signal to websites, analytics companies, ad networks, plug in providers, and other web services you encounter while browsing to stop tracking your activity via Cookies or other tracking technologies. For information regarding DNT and how to enable this setting, if available, on your devices please see [https://allaboutdnt.com](https://allaboutdnt.com/).
 
-Occasionally, belk.com will send you email to inform you of special events and promotions about our products and services, but only if you indicated interest when you registered for an account on belk.com or opted-in to receive Belk emails. 
+### Text Messaging and Alerts – Opting In and Out
 
-If you originally signed up to receive promotional emails, but you have decided you no longer wish to receive them, it is easy to let us know. When you receive an email from us, at the bottom of your email we give you instructions to unsubscribe to Belk email. 
+Our mobile Platforms give you the choice to opt-in to receiving text messages, promotional events and alerts on the mobile phone number(s) you have shared with us. Once you have opted-in, we may send you text messages (i) regarding your account; (ii) to investigate or prevent fraud; and (iii) to alert you in the event of an emergency. We may send you text messages and alerts using autodialed technology. We will not contact you via text messages or alerts for marketing purposes without your prior affirmative consent. You do not have to opt-in to text messages and alerts to use and enjoy our Platforms and services. If you opt-in, standard text messaging charges may apply. For more information regarding our text messaging and alerts, please contact us at [Belk_Customer_Care@belk.com](mailto:Belk_Customer_Care@belk.com) or by phone at [1-866-235-5433](tel:1-866-235-5433).
 
-**How can I receive promotional text messages (SMS/MMS)?**
-
-By joining Belk's text messaging program you may receive reoccurring promotional SMS (text messages) about Belk products, services, sales or sweepstakes. To choose to receive Belk promotional messages via SMS on your mobile phone please follow the below steps. 
+By joining Belk's text messaging program you may receive reoccurring promotional SMS (text messages) about Belk products, services, sales or sweepstakes. To choose to receive Belk promotional messages via SMS on your mobile phone please follow the below steps: 
 
   * To opt-in to Belk SMS Alerts, text JOIN to 23551 for coupons and sale notifications. Subscribers will receive messages each week. 
   * To opt-out of Belk SMS Alerts, text STOP to 23551.
-  * At any time, you can choose to discontinue receiving such promotional SMS by unsubscribing.
 
 
 
-**Location Based Offers:** Belk enables you to receive special discounts when you are in the neighborhood of a Belk store. When you have opted-in and we have a deal for you, Belk will check how close you are to one of our stores and send you a text message deal based on how near you are to a Belk store. Your physical location is being collected in order to provide this service. **You can opt-out at any time from both messaging and location checks by sending STOP to 23551.**   
-Belk location based messaging is available only on AT&T, Boost Mobile, Cricket Wireless, Nextel, Sprint, T-Mobile®, Verizon Wireless, Tier 2/3 Carrier Group and Associated Carrier Group. The location service will not be available if the phone is roaming or is turned off. Other Network Carriers will be added as they become available. Location coordinates (longitude, latitude, and radius) will be obtained only when we have proper authorization from you, as a registered user. Mobile phone user privacy is extremely important to us at Belk. Location coordinates are only gathered after you have agreed to use this service. We will not disclose your location information to other users without your consent. Your location information is retained only as long as necessary to provide the service.
+Belk enables you to receive special discounts when you are in the neighborhood of a Belk store. When you have opted-in and we have a deal for you, Belk will check how close you are to one of our stores and send you a text message deal based on how near you are to a Belk store. Your physical location is being collected in order to provide this service. You can opt-out at any time from both messaging and text messaging location services by sending STOP to 23551. 
 
-**Privacy Protection of Children**
+Belk location based messaging is available only on AT&T, Boost Mobile, Cricket Wireless, Nextel, Sprint, T-Mobile®, Verizon Wireless, Tier 2/3 Carrier Group and Associated Carrier Group. The text messaging location service will not be available if the phone is roaming or is turned off. Other Network Carriers will be added as they become available. Location coordinates (longitude, latitude, and radius) will be obtained for text messaging and alerts only when we have proper authorization from you, as a registered user. Mobile phone user privacy is extremely important to us at Belk. Location coordinates are only gathered for text messaging and alerts after you have agreed to use this service. We will not disclose your location information to other users without your consent. This location information is retained only as long as necessary to provide the service. 
 
-At Belk, we want to make sure that everyone in your family is protected. Belk acknowledges and abides by all website requirements in accordance with The Children's Online Privacy Protection Act that has been in effect since April 21, 2000. We do not knowingly collect information from children under the age of 13 at any time. Belk.com is a website for a general audience, not geared towards children. The only instance where we would collect information from a child under the age of 13 is if the child's parent or guardian was given notice and the option to provide their personal information. For more information about this act, please visit the Federal Trade Commission's website: 
+If you decide to opt-out, you will not receive any additional text messages on your mobile phone. Please keep in mind that if you opt-out of receiving text messages and alerts we may not be able to contact you with important messages regarding your account. 
 
-[Facts for Consumers: How to Protect Kids' Privacy Online](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm)
+### How Can I Decide What Promotional Email Communications I Will Receive?
 
-If this act changes in anyway, we will revise the Privacy Policy of belk.com to comply with all requirements of the Children's Online Privacy Protection Act. 
+You may choose not to receive commercial emails from us by following the unsubscribe instructions contained in the commercial emails we send you. Please note that even if you unsubscribe from commercial email messages, we may still email you non-commercial emails related to your account and your transactions. 
 
-**Linking to Third Party Web Sites**
+If you wish to opt out of receiving offers from our business or advertising partners you can follow the opt-out or unsubscribe instructions in the emails that they send you. 
 
-Belk.com may provide links to certain third party websites. This Privacy Policy applies only to activities conducted and personal information collected on belk.com. When you provide information at one of the linked to third party sites, you are subject to that site's privacy policy. We encourage you to read that website's privacy policy before submitting any information if you have concerns about how information may be collected or used. 
+### Privacy Protection of Children
 
-**Notice to California Residents - Your California Privacy Rights**
+Belk does not knowingly collect personal information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us. If we become aware that a child under 13 has provided us with Information, we will delete such information from our files. 
 
-As a resident of California, under California law, you have the right to ask Belk, Inc. for a notice describing what personal information Belk, Inc. and belk.com may share with Belk-owned and controlled family of companies only for our direct marketing purposes. In this notice, we will outline exactly what categories of your personal information we may share, with whom and their contact information for your reference. Please send a written request to the following address: 
+### Linking to Third Party Platforms
 
-Belk, Inc.
+We may collect your personal information from third parties. This includes when you log in using a third party Platform, such as Facebook, LinkedIn, Google, Twitter, etc. We may disclose information collected from third parties to customize ads and to manage and facilitate messaging on third party Platforms. We do not control the privacy practices of third party Platforms. We encourage you to review the privacy policies of third party Platforms for more information regarding the applicable privacy practices. 
 
-Attn: eCommerce Department  
-2801 W. Tyvola Rd.  
-Charlotte, NC 28217
+### Your California Privacy Rights
 
-Please specify that you would like a copy of 'Your Belk California Privacy Rights Notice.' Please allow 30 days for a response. Once you receive this document, you have the option to inform Belk that you no longer wish to have your personal information disclosed. If requested, Belk, Inc. will make this change for you at no cost. 
+As provided by California Civil Code Section 1798.83, a California resident who has provided information to a business with whom they have established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of such information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were collected and/or disclosed. To request such information, please email us at [Belk_Customer_Care@belk.com](mailto:Belk_Customer_Care@belk.com), or in writing to Belk Inc. 2801 W Tyvola Rd Charlotte, NC 28217 Attn: Customer Care - California Shine the Light Inquiry. Please allow 30 days for a response. Please note that we are only required to respond to one request per customer each year and you will not be charged for this request. 
 
-**Privacy Policy Questions or Comments?**
+If you would like to review and/or change your information retained by Belk please see the section above “Your Access to and Control over Information.” If you have questions regarding the process to review and/or change your personal information please email us at [Belk_Customer_Care@belk.com](mailto:Belk_Customer_Care@belk.com). 
 
-For any questions regarding this Privacy Policy, please visit: [**Contact Us**](https://web.archive.org/AST/Misc/Belk_Stores/Customer_Service/Contact_Us.jsp) and select **Privacy Policy** from the drop down menu, then fill out the email form. Your questions/comments are very important to us. An acknowledgement of your email request will be sent within 1 business day. Please allow 3-5 business days for us to process your inquiry completely. 
+California and other customers may request further information about our compliance with this law by emailing [Belk_Customer_Care@belk.com](mailto:Belk_Customer_Care@belk.com). 
 
-For further assistance, please call **Customer Service** at **[1-866-235-5443](tel:1-866-235-5443)**. You can find our current hours at the bottom of the page. Please note: We are closed December 24 from 6PM (ET) until 12:01AM (ET) on December 26. 
+### Changes to Privacy Policy
 
-**Changes to the belk.com Privacy Policy**
+Material changes to this policy will be posted on this webpage to keep you aware of how personal information is collected, how it is used, and under what circumstances it will be shared. It is your responsibility to review Belk’s Privacy Policy each time you provide personal information to us as the policy may have changed since the last time you used our Platforms. 
 
-This Privacy Policy was last updated on June 28, 2015. Please check our Privacy Policy periodically for changes. We reserve the right to change, modify or amend this policy at any time.
+This Privacy Policy was last updated on August 12, 2017. Please check our Privacy Policy periodically for changes. We reserve the right to change, modify or amend this policy at any time. 
 
-Updated 06/28/2015
+### Privacy Policy Questions or Comments?
+
+For any questions regarding this Privacy Policy, please visit: Contact Us and select Privacy Policy from the drop down menu, then fill out the email form. Your questions/comments are very important to us. An acknowledgement of your email request will be sent within 1 business day. Please allow 3-5 business days for us to process your inquiry completely. 
+
+For further assistance, please call Customer Service at 1-866-235-5443. You can find our current hours at the bottom of the page. Please note: We are closed December 24 from 6PM (ET) until 12:01AM (ET) on December 26. 
+
+This Privacy Policy was last Updated August 12, 2017. 
+
+### What’s New?
+
+Effective August 12, 2017, we changed our Privacy Policy to clarify the types of personal information we collect about you, the ways we collect your personal information and how we may use and share this information. 
+
+**Here is a summary of the changes:**
+
+1\. We will now use the term “Platforms” to describe our websites, mobile apps, blogs, etc. as well as third party websites, mobile apps, social media sites, and similar technologies.  
+2\. We clarify the types of personal information and other information and data we collect about you and the ways we collect them. We collect information and data in many ways, including from third party platforms, social media sites, advertising networks, etc.   
+3\. We describe how we share and use your personal information whether collected by our Platforms, or other Platforms, including social media sites and advertising partners, for the purposes of ad targeting, remarketing and customizing ad content.   
+4\. We clarify how we share your information with our suppliers, third party vendors and referring platforms for business, marketing, advertising, legal and emergency reasons.  
+5\. We describe the changes to our use of Cookies and other tracking technologies. We detail how these technologies work and how we may use and share the information and data we collect from these technologies. We also address options for opting out of some of these features.   
+6\. We include information on managing Do Not Track signals.  
+7\. We detail the data analytics platforms we use to understand the behavior of visitors to our Platforms and local area networks. 
+
+Updated as of August 12, 2017
+
+Click here for a summary of the changes to our Privacy Practices
+
+### General
+
+Belk is committed to protecting your privacy. This policy explains measures that Belk takes to protect your personal information based on your use of our websites, mobile apps, blogs, third party websites, third party mobile apps, social media sites, and similar technology platforms (collectively the “Platforms”). This policy describes what information is collected about you and how it is shared or otherwise used, as well as what controls you have over your personal information and our use of it. This privacy policy also details measures that Belk takes to protect certain legal rights (e.g., protecting the privacy of children under 13 and California state privacy rights). Our privacy policy is subject to change as we utilize new technologies and improve our services to you. Therefore, we encourage you to review our privacy policy each time you use our Platforms. By using the Platforms, you accept and consent to the terms of our privacy policy in effect at the time of your visit.
+
+### Information We Collect About You
+
+**Personal Information.** Belk collects personal information that you provide when you visit or use our Platforms. There are various forms of personal information that we collect, including first and last name, telephone number, postal and email addresses, gender, date of birth, and location and billing information. We may also request information about local stores where you or your friends may shop, your shopping preferences, and similar information that may be used for marketing, transactional purposes, or to otherwise enhance our business practices and our services to you. You can choose not to provide personal information to us. However, some information about you is generally required to fulfill, track and bill your order; participate in a survey, contest, or sweepstakes; ask us a question; set up a registry; or to take advantage of other services that Belk offers.
+
+Your personal information is gathered when you register with us on any Platform, make an online purchase, create a registry or wish list, or mark certain items as favorites. We may collect personal information about you when you visit third party Platforms, open or respond to our emails, contact customer service or use support tools, visit any page that displays our ads or content, make salon appointments, connect or link to any Platform via social networking sites, post comments to online communities or provide information to our suppliers, advertising and business partners. 
+
+**Information About Others.** When you provide personal information about others (e.g., to make a purchase online for someone else, to ship a purchase to someone other than yourself, etc.) you should obtain the consent of the other individual prior to providing us with their personal information. 
+
+**Information From Other Sources.** We also may periodically obtain both personal and non-personal information about you from affiliated entities, advertising and business partners, data providers and other third party sources and add it to our information. Examples of information we may receive include: name, special event dates, purchase history, email address, demographic information, unique individual or device identifiers, etc.
+
+**Automatic Information.** We automatically collect some information and data about your computer and mobile devices when you visit our Platforms. For example, we will collect your IP address, web browser software (e.g., Internet Explorer), and information about referring websites. We also may collect information about your online activity, such as merchandise viewed and purchases made, as well as locational data  helps Belk to tailor the version of the Platform that you see in order to enhance your shopping experience. 
+
+### How Will My Personal Information Be Used?
+
+In general, your personal information may be used by Belk for marketing, transactional purposes, or to otherwise enhance our business practices and our services to you. More specifically, we may use your personal information to: 
+
+  * Ship merchandise that you purchase on the Platforms and communicate with you about such transactions.
+  * Register you as a member of the Belk Platforms and service your online profiles.
+  * Prevent fraud and bill your credit card for your purchases. 
+  * Confirm and track your orders. 
+  * Respond to your customer service inquiries. 
+  * Provide promotional communication and other information that you choose to receive.
+  * Source and offer the products you want.
+  * Personalize your shopping experience and tailor it to your particular geographic location or region. 
+  * Improve the design of our Platforms, merchandise assortment and customer service.
+  * Identify product preferences and shopping preferences. 
+  * Conduct research and analysis related to our operations and logistics.
+  * Administer contests, sweepstakes, promotions, surveys and focus groups.
+  * Protect our assets and prevent fraudulent transactions.
+  * Validate credentials and authenticate customers when logging into your online profile, applications or transacting in store.
+  * Protect the security and integrity of our data.
+  * Comply with valid legal procedures, requirements, regulations or statutes.
+  * Assist law enforcement and respond to legal/regulatory inquiries.
+
+
+
+### How We Share Your Information 
+
+We share your information with or for:   
+
+
+**Suppliers.** We share your information with suppliers that help us with our business activities including shipping vendors, billing and refund vendors, payment card processors, and companies that help us improve our products and services such as suppliers who provide direct fulfillment services for certain products. By making a purchase or request through any Platform, you are authorizing us to disclose to our suppliers your personal information required to complete your purchase, transaction and requests. We do not control the privacy practices of suppliers. We encourage you to review the privacy policies of the specific supplier for more information regarding their privacy practices. 
+
+**Products and Services Offered by Other Businesses.** We will sometimes enable other businesses to make products or services available to our customers and facilitate the purchase of products or services from these other businesses at our stores or through our websites or mobile services, including through the sharing of your personal information with these businesses. We do not control the privacy practices of other businesses.
+
+**Third Party Vendors.** We share your information with third party vendors who provide services on our behalf. These third party vendors include gift card awards and redemption providers, business analytics platforms, customer service organizations, advertising partners, distributers of surveys or sweepstakes programs, and fraud prevention firms. We may also authorize third party vendors to collect information on our behalf as necessary to operate features of our Platforms or to facilitate online advertising tailored to your interests. Third-party vendors have access to, and may collect, your personal information to perform their functions and deliver services. We do not control the privacy practices of third party vendors. We encourage you to review the privacy policies of the specific third party vendor for more information regarding their privacy practices.
+
+**Business Transfers.** In the event that all or a part of our business is merged, sold or reorganized (including transfers made as a part of insolvency or bankruptcy proceedings), personal information about you could be shared with the successor business. We will use reasonable measures to help ensure that any successor treats your information in accordance with this policy.
+
+**Referring Platforms.** If you are referred to our Platforms from another Platform, an advertising site, a blog, a social media site, etc., we may collect information about you from the referring Platform or site. Also, we may share some information about you with the referring Platform or site. We do not control the privacy practices of referring websites. We encourage you to review the privacy policies of the specific referring Platform.
+
+**Surveys, Sweepstakes, Contests and Promotions.** Belk may conduct surveys, sweepstakes, contests and promotions on our Platforms that collect your personal information. Our surveys and promotions are voluntary and any information you provide may be collected, used, shared, disclosed, stored, transferred and processed in accordance with this policy. Your participation in our surveys, sweepstakes, contests and promotions, and your submission of personal information, serves as your consent to these practices. 
+
+**Legally Required Sharing of Personal Information and Protection of Our Company and Others.** We may share your personal information in certain legal or emergency situations, which include, but are not limited to, when required by law, or when we believe sharing will help to protect Belk’s safety, property, or rights, or the safety, property or rights of our customers, our employees, or individuals. Examples of such situations include: 
+
+  * Protecting the health or safety of customers. 
+  * Addressing crimes committed on Belk’s property. 
+  * Identifying and addressing fraud or financial risk.
+  * Providing personal information from cameras to law enforcement at their request. 
+  * Responding to a search warrant or other valid legal inquiry.
+  * Responding to an investigative body in the case of a breach of an agreement or violation of law.
+  * Responding to insurance companies.
+
+
+
+**Information Sharing and Options When You Use the Synchrony Bank/Belk Rewards Card.** If you make a transaction on the Platforms with your Belk Rewards Card, the information sharing terms of the Synchrony Bank (SYNCB) Privacy Policy will apply. If and when you choose to sign up for a Belk Rewards Card, administered by Synchrony Bank, you will be informed of the SYNCB Privacy Policy which includes its disclosure on information sharing. The SYNCB Privacy Policy is also always available on the Belk Credit Services Online. All Belk Rewards Cardholders have the right to opt-out from having personal information shared with certain third parties. For more information, please see the 'It's Your Choice' section in the SYNCB Privacy Policy by clicking the link below: [Synchrony Bank Privacy Policy](https://www.onlinecreditcenter2.com/Belk/privacy.html)
+
+### Your Access To and Control Over Your Information
+
+You can inquire as to your personal information, see what personal information we may have about you, change/correct any personal information we have about you, have us delete any personal information we have about you, or express any concerns you have about our use of your personal information by contacting us by email at [Belk_Customer_Care@belk.com](mailto:Belk_Customer_Care@belk.com) or by phone at [1-866-235-5433](tel:1-866-235-5433).
+
+You may update or correct your personal information at any time by logging into your belk.com account and saving any changes you make. By using our Platforms you consent to Belk retaining: (i) such personal information that Belk is legally compelled to retain; (ii) such information for the purposes set forth above in the section entitled “How Will My Personal Information Be Used?”; and (iii) electronic files containing personal information created pursuant to automatic archiving and back up procedures. We encourage you to keep any personal information you provide to us as current as possible, so we can ensure we are serving your needs to the best of our ability. 
+
+### How we protect the security of your personal information
+
+While no Platform can guarantee security, we use commercially reasonable physical, technical, and administrative safeguards to assist us in preventing unauthorized access, use and disclosure of your personal information.
+
+### Mobile and Other Devices Privacy
+
+**In General.** We and some third parties that we have engaged may collect and store unique identifiers matched to your mobile or other Wi-Fi enabled device. These identifiers are used to deliver customized ads or content while you use applications or surf the Internet, to identify you or your device in a unique manner across devices or browsers or to enhance our products and services through analysis of the information and data that is collected. In order to customize ads or content, we, or third parties, may collect your personal information including your email address, your zip code or data passively collected from you, such as your device identifier or IP address. 
+
+You can manage how your mobile device, mobile browser and other Wi-Fi enabled devices share information with the Platforms, as well as how your mobile browser handles Cookies, by adjusting the privacy, security and Wi-Fi settings on your device. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your settings.
+
+### Cookies and Other Tracking Technologies
+
+**In General.** Belk, and third parties, use Cookies, tracking technologies and analytics services. We may collect your personal information, as well as usage and demographic information about you over time and across different Platforms. Third parties (e.g., advertising partners), may collect personal information, such as your name, address, email address, gender, telephone number, purchase history, and unique identifiers via these technologies. We also may use analytics services which provide us with a clearer picture of how you use the Platforms, and we may identify and track you when you use different devices and Platforms. In addition, we and third parties may also collect and store your personal information via Belk and third party browser Cookies (which are stored on your computer in a file), web beacons, remarketing pixel tags, and Flash Cookies (which are placed in the code of a web page or email or which access your browsing activity). By using the Platforms, you consent to the use of Cookies and tracking technologies described in this policy. However, these third party Wi-Fi tracking tools do not use the collected information to identify particular individuals (i.e. named persons). 
+
+**Opting Out of Cookies and Tracking Technologies.** The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new Cookies, how to have the browser notify you when you receive a new Cookie, or how to disable Cookies altogether. Flash cookies will not be affected by any browser setting changes you make related to cookies. Go to http://www.adobe.com/support/documentation/en/flashplayer/help/ and follow the instructions on that page to remove Flash cookies or for more information. Please keep in mind that, without Cookies, you may not have access to certain features on our Platforms, including access to your profile or account and certain personalized content. Removing all Cookies from your computer could also affect your subsequent visits to certain Platforms, including Belk Platforms, by requiring that, for example, you enter your login name when you return. 
+
+**Managing “Do Not Track” Signals.** Some browsers have a Do Not Track (“DNT”) feature that lets you tell websites that you do not want to have your online activities tracked. When you choose to turn on the DNT setting in your browser, your browser sends a special signal to websites, analytics companies, ad networks, plug in providers, and other web services you encounter while browsing to stop tracking your activity via Cookies or other tracking technologies. For information regarding DNT and how to enable this setting, if available, on your devices please see [https://allaboutdnt.com](https://allaboutdnt.com/).
+
+### Text Messaging and Alerts – Opting In and Out
+
+Our mobile Platforms give you the choice to opt-in to receiving text messages, promotional events and alerts on the mobile phone number(s) you have shared with us. Once you have opted-in, we may send you text messages (i) regarding your account; (ii) to investigate or prevent fraud; and (iii) to alert you in the event of an emergency. We may send you text messages and alerts using autodialed technology. We will not contact you via text messages or alerts for marketing purposes without your prior affirmative consent. You do not have to opt-in to text messages and alerts to use and enjoy our Platforms and services. If you opt-in, standard text messaging charges may apply. For more information regarding our text messaging and alerts, please contact us at [Belk_Customer_Care@belk.com](mailto:Belk_Customer_Care@belk.com) or by phone at [1-866-235-5433](tel:1-866-235-5433).
+
+By joining Belk's text messaging program you may receive reoccurring promotional SMS (text messages) about Belk products, services, sales or sweepstakes. To choose to receive Belk promotional messages via SMS on your mobile phone please follow the below steps: 
+
+  * To opt-in to Belk SMS Alerts, text JOIN to 23551 for coupons and sale notifications. Subscribers will receive messages each week. 
+  * To opt-out of Belk SMS Alerts, text STOP to 23551.
+
+
+
+Belk enables you to receive special discounts when you are in the neighborhood of a Belk store. When you have opted-in and we have a deal for you, Belk will check how close you are to one of our stores and send you a text message deal based on how near you are to a Belk store. Your physical location is being collected in order to provide this service. You can opt-out at any time from both messaging and text messaging location services by sending STOP to 23551. 
+
+Belk location based messaging is available only on AT&T, Boost Mobile, Cricket Wireless, Nextel, Sprint, T-Mobile®, Verizon Wireless, Tier 2/3 Carrier Group and Associated Carrier Group. The text messaging location service will not be available if the phone is roaming or is turned off. Other Network Carriers will be added as they become available. Location coordinates (longitude, latitude, and radius) will be obtained for text messaging and alerts only when we have proper authorization from you, as a registered user. Mobile phone user privacy is extremely important to us at Belk. Location coordinates are only gathered for text messaging and alerts after you have agreed to use this service. We will not disclose your location information to other users without your consent. This location information is retained only as long as necessary to provide the service. 
+
+If you decide to opt-out, you will not receive any additional text messages on your mobile phone. Please keep in mind that if you opt-out of receiving text messages and alerts we may not be able to contact you with important messages regarding your account. 
+
+### How Can I Decide What Promotional Email Communications I Will Receive?
+
+You may choose not to receive commercial emails from us by following the unsubscribe instructions contained in the commercial emails we send you. Please note that even if you unsubscribe from commercial email messages, we may still email you non-commercial emails related to your account and your transactions. 
+
+If you wish to opt out of receiving offers from our business or advertising partners you can follow the opt-out or unsubscribe instructions in the emails that they send you. 
+
+### Privacy Protection of Children
+
+Belk does not knowingly collect personal information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us. If we become aware that a child under 13 has provided us with Information, we will delete such information from our files. 
+
+### Linking to Third Party Platforms
+
+We may collect your personal information from third parties. This includes when you log in using a third party Platform, such as Facebook, LinkedIn, Google, Twitter, etc. We may disclose information collected from third parties to customize ads and to manage and facilitate messaging on third party Platforms. We do not control the privacy practices of third party Platforms. We encourage you to review the privacy policies of third party Platforms for more information regarding the applicable privacy practices. 
+
+### Your California Privacy Rights
+
+As provided by California Civil Code Section 1798.83, a California resident who has provided information to a business with whom they have established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of such information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were collected and/or disclosed. To request such information, please email us at [Belk_Customer_Care@belk.com](mailto:Belk_Customer_Care@belk.com), or in writing to Belk Inc. 2801 W Tyvola Rd Charlotte, NC 28217 Attn: Customer Care - California Shine the Light Inquiry. Please allow 30 days for a response. Please note that we are only required to respond to one request per customer each year and you will not be charged for this request. 
+
+If you would like to review and/or change your information retained by Belk please see the section above “Your Access to and Control over Information.” If you have questions regarding the process to review and/or change your personal information please email us at [Belk_Customer_Care@belk.com](mailto:Belk_Customer_Care@belk.com). 
+
+California and other customers may request further information about our compliance with this law by emailing [Belk_Customer_Care@belk.com](mailto:Belk_Customer_Care@belk.com). 
+
+### Changes to Privacy Policy
+
+Material changes to this policy will be posted on this webpage to keep you aware of how personal information is collected, how it is used, and under what circumstances it will be shared. It is your responsibility to review Belk’s Privacy Policy each time you provide personal information to us as the policy may have changed since the last time you used our Platforms. 
+
+This Privacy Policy was last updated on August 12, 2017. Please check our Privacy Policy periodically for changes. We reserve the right to change, modify or amend this policy at any time. 
+
+### Privacy Policy Questions or Comments?
+
+For any questions regarding this Privacy Policy, please visit: Contact Us and select Privacy Policy from the drop down menu, then fill out the email form. Your questions/comments are very important to us. An acknowledgement of your email request will be sent within 1 business day. Please allow 3-5 business days for us to process your inquiry completely. 
+
+For further assistance, please call Customer Service at 1-866-235-5443. You can find our current hours at the bottom of the page. Please note: We are closed December 24 from 6PM (ET) until 12:01AM (ET) on December 26. 
+
+This Privacy Policy was last Updated August 12, 2017. 
+
+### What’s New?
+
+Effective August 12, 2017, we changed our Privacy Policy to clarify the types of personal information we collect about you, the ways we collect your personal information and how we may use and share this information. 
+
+**Here is a summary of the changes:**
+
+1\. We will now use the term “Platforms” to describe our websites, mobile apps, blogs, etc. as well as third party websites, mobile apps, social media sites, and similar technologies.  
+2\. We clarify the types of personal information and other information and data we collect about you and the ways we collect them. We collect information and data in many ways, including from third party platforms, social media sites, advertising networks, etc.   
+3\. We describe how we share and use your personal information whether collected by our Platforms, or other Platforms, including social media sites and advertising partners, for the purposes of ad targeting, remarketing and customizing ad content.   
+4\. We clarify how we share your information with our suppliers, third party vendors and referring platforms for business, marketing, advertising, legal and emergency reasons.  
+5\. We describe the changes to our use of Cookies and other tracking technologies. We detail how these technologies work and how we may use and share the information and data we collect from these technologies. We also address options for opting out of some of these features.   
+6\. We include information on managing Do Not Track signals.  
+7\. We detail the data analytics platforms we use to understand the behavior of visitors to our Platforms and local area networks. 
