@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 20govt.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628220550id_/http%3A//20govt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20govt.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225164737id_/http%3A//20govt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Indian Government Jobs 2017 18 | Upcoming Employment News Website
+# Privacy Policy | 20Govt.com
 
 Privacy Policy
 
-Rate this Job
+1 (20%) 2 votes
 
 We at www.20govt.com are very serious about privacy of our visitors and readers. Any personal information provided by you including Name, Website, Email etc. will never be provided to anyone outside www.20govt.com. We collect your E-mail address if you want to subscribe to E-mail Updates. Proper information on unsubscribing is also provided in E-mails sent by us.
 
