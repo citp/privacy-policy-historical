@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the adslot.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625075023id_/http%3A//www.adslot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adslot.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226003118id_/http%3A//www.adslot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Adslot
+# Privacy Policy | Adslot.
 
 _Adslot Technologies Pty Ltd ACN 123 931 804_ (We, us, our) understands the importance of protecting the privacy of an individual’s personal information.
 
 This policy sets out how we aim to protect the privacy of your personal information, your rights in relation to your personal information managed by us and the way we collect, hold, use and disclose your personal information. In handling your personal information, we will comply with the Privacy Act 1988 (Cth) ( **Privacy Act** ) and with the Australian Privacy Principles (APPs) in the Privacy Act, as well as this Privacy Policy.
 
-We regularly review our practices and procedures in relation to the management of personal information. As a result, this policy may be updated from time to time. Any updated versions of this Privacy Policy will be made available on the website www.adslot.com and will also be available from Adslot on request.
+We regularly review our practices and procedures in relation to the management of personal information. As a result, this policy may be updated from time to time. Any updated versions of this Privacy Policy will be made available on the website adslot2015.webfirmdemo.com and will also be available from Adslot on request.
 
 ### What kinds of personal information do we collect?
 
