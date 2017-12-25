@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutepdf.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022059id_/http%3A//www.cutepdf.com/Info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutepdf.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225140320id_/http%3A//cutepdf.com/Info/privacy.asp) for the most accurate reproduction.*
 
 # CutePDF :: Company :: Privacy Policy
 
@@ -18,7 +18,7 @@ Some of our pages use a feature of your browser called a "cookie." Cookies, by t
 **As part of our commitment to personal privacy, none of our products contain any form of Spyware or Pop up Ads.**
 
 **Questions or Comments**  
-Acro Software Inc. knows that your privacy is very important to you. We welcome questions and comments regarding this policy, so feel free to [contact us](https://web.archive.org/web/20170606022059id_/http%3A//www.cutepdf.com/Info/contact.asp). Because technologies on the Internet change so quickly, Acro Software reserves the right to modify its Privacy Statement from time to time. More legal information can be found in Acro Software's [Legal notices Statement](https://web.archive.org/web/20170606022059id_/http%3A//www.cutepdf.com/Info/legal.asp).
+Acro Software Inc. knows that your privacy is very important to you. We welcome questions and comments regarding this policy, so feel free to [contact us](https://web.archive.org/web/20171225140320id_/http%3A//cutepdf.com/Info/contact.asp). Because technologies on the Internet change so quickly, Acro Software reserves the right to modify its Privacy Statement from time to time. More legal information can be found in Acro Software's [Legal notices Statement](https://web.archive.org/web/20171225140320id_/http%3A//cutepdf.com/Info/legal.asp).
 
   
    
