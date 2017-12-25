@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the zipcar.co.uk privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626031330id_/http%3A//www.zipcar.co.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcar.co.uk privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225210951id_/http%3A//www.zipcar.co.uk/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Zipcar
 
 ## r-e-s-p-e-c-t!
 
-**Zipcar, Inc. ("Zipcar")** and its subsidiaries and affiliates (also referred to as we," "us," "our" or "Zipcar group") **respects your privacy.** This privacy policy describes the personal information we collect from you and how we use that information. This privacy policy covers both our collection and use of information when you use zipcar.com, zipcar.ca, zipcar.co.uk and their related mobile sites and applications (our "Sites"), as well as the kinds of information we collect when you join Zipcar and use our services. This privacy policy does not apply to other Internet or mobile sites or applications even if accessed via our Sites. If you have any questions or concerns regarding our privacy policy, please contact us in one of the ways provided below. By submitting your personal information to us, you consent to Zipcar's use and disclosure of your personal information as set forth in this privacy notice. If you do not agree with the terms of this privacy notice, please do not submit any personal information to Zipcar. If you have any questions or concerns regarding our privacy notice, please contact us in one of the ways provided below. This privacy notice is incorporated into, and part of, the Member Contract and the Terms of Use, which governs zipcar.com, zipcar.ca and zipcar.co.uk
-
-Zipcar has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the website www.zipcar.com and does not cover any mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@zipcar.com](mailto:privacy@zipcar.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+**Zipcar, Inc. ("Zipcar")** and its subsidiaries and affiliates (also referred to as we," "us," "our" or "Zipcar group") **respects your privacy.** This privacy policy describes the personal information we collect from you and how we use that information. This privacy policy covers both our collection and use of information when you use zipcar.com, zipcar.ca, zipcar.co.uk and their related mobile sites and applications (our "Sites"), as well as the kinds of information we collect when you join Zipcar and use our services. This privacy policy does not apply to other Internet or mobile sites or applications even if accessed via our Sites. If you have any questions or concerns regarding our privacy policy, please contact us in one of the ways provided below. By submitting your personal information to us, you consent to Zipcar's use and disclosure of your personal information as set forth in this privacy notice. If you do not agree with the terms of this privacy notice, please do not submit any personal information to Zipcar. If you have any questions or concerns regarding our privacy notice, please contact us in one of the ways provided below. This privacy notice is incorporated into, and part of, the Member Contract and the Terms of Use, which governs zipcar.com, zipcar.ca and zipcar.co.uk If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@zipcar.com](mailto:privacy@zipcar.com).
 
 ## what is personal information?
 
@@ -100,10 +98,10 @@ Zipcar, Inc. is located at 35 Thomson Place in Boston, Massachusetts 02210 USA.
 
 Zipcar Canada Inc.'s registered office is at 77 King Street West, Toronto-Dominion Centre, Suite 400, Toronto, Ontario M5K 0A1.
 
-Zipcar (UK) Ltd is located at Melbury House, 51 Wimbledon Hill Rd, London, SW19 7QW (company number 04525217), and, if you joined Zipcar in the UK, is the data controller of your information.
+Zipcar (UK) Ltd is located at Avis House, Park Road, Bracknell, RG12 2BW, UK (company number 04525217), and, if you joined Zipcar in the UK, is the data controller of your information.
 
 Zipcar Austria GmbH is located at Erdbergstraße 189-193, 1030 Vienna, Austria
 
 Catalunya Carsharing, S.A. (Avancar) is located at Travessera de Gràcia, 342, 8º 6ª, 08025, Barcelona, Spain.
 
-This privacy policy was last revised in April 2016.
+This privacy policy was last revised in August 2017.
