@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608014717id_/http%3A//www.climber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225011453id_/http%3A//climber.com/privacy) for the most accurate reproduction.*
 
 # Climber.com - Connect to Recruiters, Career Social Networking, Career and Job Search
 
@@ -19,8 +19,6 @@ Information is collected from our users at several different points during your 
 
 Qualification – One of the services Climber.com offers is access to a low-interest rate student loan consolidation program. A user must complete the qualification page in order to apply for Student Loan Consolidation. During Qualification, a user is required to provide certain pieces of information, such as name, mailing address, e-mail address, phone number, Social Security Number (optional) and to answer three qualifying questions. This information is used to determine your eligibility for a student consolidation loan and may be provided to the lender and/or servicer who completes your consolidation. If it is determined that you are not eligible for our consolidation program, we may share your information with other consolidation companies that offer consolidation programs more suited to your needs.
 
-Application - During the Student Loan Consolidation Application Process the user can choose to enter additional information, such as former name, Driver License #, date of birth, employer information, reference information and Loan Information. It is not required that this information be completed online, but the user will have to complete this information on the paper application in order for the Student Loan Consolidation to be approved. A Social Security Number must also be provided by the applicant during some point, either online or on the paper form. This Application information will be used to determine your eligibility for a student consolidation loan and may be provided to the lender and/or servicer who completes your consolidation.
-
 Optional Information - At various other points during your visit to Climber.com, you may be asked to provide information about yourself. For example, you may wish to participate in a survey or a contest. Participation in surveys or contests or the use of other services which require the input of additional information is completely voluntary on your part, and you have the choice about whether to disclose the information necessary to use these features of our site.
 
 Passive Collection of Information - In addition to the information which you actively provide to Climber.com by methods described above, Climber.com collects information about how you interact with our site. Climber.com collects passive information for purposes such as testing and improving a user's experience at the site and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. The types of passive information collected by this site include, without limitation, your IP address, which type of browser you are using, where you go on our site, and how long you stay on any part of our site. Passive information does not identify you to Climber.com by name, and Climber.com does not link your IP address to your personally identifiable information.
@@ -32,11 +30,13 @@ Collection of Information from Children - Climber.com abides by federal law and 
 
 ## 2\. USE OF INFORMATION
 
+Incentivized Signups 
+
 Climber.com may use your information you have provided in order to customize our site to your interests and enhance your overall experience at our site. Climber.com tries to recognize you using various methods, including having you log in with your e-mail address and your password. Once Climber.com recognizes you, pages, advertisements and other content is customized for you so that you can see what interests you the most. In addition, as described above, Climber.com utilizes passive information to learn more about how you interact with our site. This passive information may be combined with your other information for purposes such as testing and improving your experience at our site and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. This aggregate passive information does not contain any personal information which can identify any individual user.
 
-If you choose to voluntarily provide information such as your Social Security Number, Climber.com may use that information to determine the status of your student loans by utilizing the National Student Loan Database. If you do not know your Social Security Number or do not provide it, Climber.com may also use information such as your name, address or phone number to help locate your Social Security Number for the sole purpose of verifying your eligibility for student loan consolidation.
+Contacting You by E-Mail - Climber.com may use your contact information periodically in order to send you e-mail regarding updates at the Climber.com site, such as new Climber.com opportunities and additional listings which may be of interest to you. The frequency of these messages will vary depending upon your demographic interests. In addition, we may send you free informational newsletters or notices relating to topics which may be of special interest to you, including financial aid and financial services. If you voluntarily opt-in to receive offers from specific partners or third parties, you may also receive promotional e-mails from those partners. Out of respect for the privacy of our users, we present the option to opt-out of receiving newsletters and/or commercial e-mails whenever such messages are sent by Climber.com. E-mail messages from third parties are not governed by the opt-out provisions of this Privacy Policy, but all such third parties are strongly encouraged to include opt-out procedures in their messages to you.
 
-Contacting You by E-Mail - Climber.com may use your contact information periodically in order to send you e-mail regarding updates at the Climber.com site, such as new Climber.com opportunities and additional listings which may be of interest to you. The frequency of these messages will vary depending upon your demographic interests. In addition, we may send you free informational newsletters or notices relating to topics which may be of special interest to you, including financial aid and financial services. If you voluntarily opt-in to receive offers from specific partners or third parties, you may also receive promotional e-mails from those partners. Out of respect for the privacy of our users, we present the option to opt-out of receiving newsletters and/or commercial e-mails whenever such messages are sent by Climber.com. E-mail messages from third parties are not governed by the opt-out provisions of this Privacy Policy, but all such third parties are strongly encouraged t include opt-out procedures in their messages to you.
+Contacting You by Phone - Climber.com may use your contact information periodically contact you regarding services, updates and opportunities. These may be done using auto-dialing technology. Climber.com may use third-party platforms to conduct these calls and leave voice mail messages.
 
   
 
@@ -56,14 +56,54 @@ Disclosure to Law Enforcement and Similar Disclosures - While Climber.com strive
   
 
 
-## 4\. THIRD PARTY COOKIES
+## 4\. USE OF COOKIES & LOG FILES
+
+When you visit our site, a cookie (a very small text file) is placed on your machine (if it is accepted), this to provide you with a personalised experience and to assist in the collection of the site visitation statistics. You may refuse the cookie, if you wish. To do so, you will need to check your browser settings.
+
+Climber.com collects certain information about your computer hardware and software, this includes (however is not limited to):
+
+  * Your IP Address
+  * Browser Type
+  * Operating System
+  * Access Times
+  * Referring Web Site Addresses
+
+
+
+This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of Climber.com's web sites. Cookies are also used in connection with the membership of our site. If you choose to not have your browser accept cookies, you will be able to view the majority of our site. We retain the right to use cookies for advertising purposes.
+
+  
+
+
+## 5\. THIRD PARTY COOKIES
 
 We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services.   No personally identifiable information is on, or is connected to these cookies.  The cookies may reflect de-identified demographic or other data linked to the registration data you have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to http://www.privacychoice.org/companies or http://www.aboutads.info/choices.
 
   
 
 
-## 5\. OTHER PROVISIONS
+## 6\. CORRECTING, UPDATING OR REMOVING YOUR PERSONAL INFORMATION
+
+If your personal information is incorrect, changes or if you no longer wish to receive information from Climber.com, we will endeavour to correct, update or remove your information as quickly as possible. This can be done by e-mailing customerservice@climber.com or calling our customer service phone number 619-618-4200.
+
+  
+
+
+## 7\. MOBILE ANALYTICS
+
+We use mobile analytics software to allow us to better understand the functionality and performance of our mobile software on your phone. This software may collect, store and use information such as how often you use the application, the events that occur within the application, usage, performance data, and where the application was downloaded from. This software may share information it collects with other third parties as part of providing the analytics services and to comply with applicable laws.
+
+  
+
+
+## 8\. LINKS TO OTHER SITES
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+  
+
+
+## 9\. OTHER PROVISIONS
 
 Acceptance of Terms/Changes to Privacy Policy - Your use of this site indicates an acceptance of the terms of the Privacy Policy. Climber.com reserves the right to update or amend this Privacy Policy at any time. 
 
