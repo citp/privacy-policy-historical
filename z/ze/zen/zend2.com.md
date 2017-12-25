@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zend2.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628012614id_/http%3A//zend2.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zend2.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225162217id_/http%3A//zend2.com/disclaimer.php) for the most accurate reproduction.*
 
 # Online Anonymous Proxy
 
@@ -18,7 +18,7 @@ This service may download a resource over a secure connection but this may be se
 
 Privacy Policy for www.zend2.com 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@zend2.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At www.zend2.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.zend2.com and how it is used. 
 
