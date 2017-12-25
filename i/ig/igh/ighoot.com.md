@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ighoot.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618010834id_/http%3A//ighoot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ighoot.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225230252id_/http%3A//ighoot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — IG Hoot
 
@@ -52,7 +52,7 @@ You can choose to disable cookies through your individual browser options. To kn
 
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records. 
+IG Hoot does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on [our website](https://web.archive.org/), we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
 **Online Privacy Policy Only**
 
@@ -62,4 +62,4 @@ This privacy policy applies only to our online activities and is valid for visit
 
 By using our website/application, you hereby consent to our Privacy Policy and agree to its [Terms of Service](https://web.archive.org/terms).
 
-Built and maintained with all the love in the world by [Mustafa Hassan](https://web.archive.org/dev "About Developer"). IG Hoot © 2017. All rights reserved.
+Built and maintained with all the love in the world by [Azor Ahai](https://web.archive.org/dev "About Developer"). IG Hoot © 2017. All rights reserved.
