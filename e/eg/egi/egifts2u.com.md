@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egifts2u.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118210413id_/http%3A//www.egifts2u.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egifts2u.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225171927id_/http%3A//www.egifts2u.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Gifts Online - Gift for birthday, anniversary, Christmas and all occasions at Egifts2u.com
 
