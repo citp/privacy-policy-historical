@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spcollege.edu privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223083008id_/http%3A//www.spcollege.edu/community/about/compliance-statements%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spcollege.edu privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225201605id_/http%3A//www.spcollege.edu/community/about/compliance-statements%23privacy) for the most accurate reproduction.*
 
-# Compliance Statements || St. Petersburg
+# Compliance Statements || St. Petersburg College
 
 ## Privacy Policy
 
@@ -23,6 +23,8 @@ If you choose to share personal information with us--by sending us a message or 
 If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to contact us at 727-341-4772.
 
 [*Google Privacy Policy](http://www.google.com/intl/en/privacy/privacy-policy.html)
+
+[SPC's Social Media Guidelines](http://www.spcollege.edu/Documents/social/Social-Media-Guidelines.pdf "SPC Social Networking and Media Guidelines")
 
 ## Social Security Number Usage
 
@@ -89,22 +91,56 @@ Review complete statutory requirements for:
 
 
 
-## Equal Opportunity Statement
-
-The Board of Trustees of St. Petersburg College affirms its equal opportunity policy in accordance with the provisions of the Florida Educational Equity Act and all other relevant state and federal laws, rules and regulations. The college will not discriminate on the basis of race, color, ethnicity, religion, sex, age, national origin, marital status, pregnancy, sexual orientation, gender identity, genetic information, or against any qualified individual with disabilities in its employment practices or in the admission and treatment of students. Recognizing that sexual harassment constitutes discrimination on the basis of sex and violates this Rule, the college will not tolerate such conduct. Should you experience such behavior, please contact Pamela Smith, the director of EA/EO/Title IX Coordinator at 727-341-3261; by mail at P.O. Box 13489, St. Petersburg, FL 33733-3489; or by email at [eaeo_director@spcollege.edu](mailto:eaeo_director@spcollege.edu.)
-
-[View Equity Report](http://www.spcollege.edu/Documents/community/about/Equity-Report.pdf "Equity Report").
-
 ## Site Disclaimer
 
 These pages are for information only and do not constitute a contract between the applicant/student and the college. The college reserves the right to change, modify or alter without notice all fees, charges, tuition, expenses and costs of any kind and further reserves the right to add or delete without notice any course offering or information on these pages. The college further reserves the right to change any provision or requirement when such action becomes necessary.
 
+## Standards of Conduct for Employees and Trustees
+
+The College's policy regarding standards of conduct for officers, trustees and employees is found in the Board of Trustees' Rules and College Procedures on _Standards of Conduct, Reporting Known or Suspected Improper or Fraudulent Financial Activities & Whistleblower Protections_,  P6Hx23-2.031: <http://web.spcollege.edu/botrules/P2/P2_031.doc> and reflects the standards for public officers and employees as delineated in the Florida Statutes, §112.313: [http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String =&URL=0100-0199/0112/Sections/0112.313.html ](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String%20=&URL=0100-0199/0112/Sections/0112.313.html)
+
+_Specific situations covered in this policy and College Procedure include:_
+
+  * Solicitation and Acceptance of Gifts or Travel 
+  * Doing Business with One's Agency and Conflicts of Interest 
+  * Receiving Unauthorized Compensation 
+  * Misuse of Public Position and Fraud 
+  * Conflicting Employment or Contractual Relationship 
+  * Disclosure or Use of Certain Information or Records 
+  * Voting Conflicts 
+  * Impropriety Related to the Filing of Statement of Financial Interest
+
+
+
+## Reporting Fraud and Improper Activities
+
+All members of the College's faculty and staff have a responsibility to report known or suspected instances of fraud or other financial irregularities, ethical violations and improper activities.  Improper activities may include mismanagement, malfeasance, and misuse or neglect of public funds and resources. **If you believe a possible fraud or other violation has occurred, report it to your supervisor or the institutional Compliance Officer in accordance with college policy.** If, based on an administrative review, reasonable evidence of abuse or fraud exists, an investigation, or audit as may be appropriate, will ensue and all appropriate measures, including any necessary legal action, will be taken. You mat report anonymously.
+
+Compliance Phone Number: 727-341-4567  
+Compliance Email: [compliance@spcollege.edu](mailto:compliance@spcollege.edu)  
+
+## REPORTING ABUSE OF A MINOR ON COLLEGE PROPERTY OR DURING ANY COLLEGE SPONSORED ACTIVITY OR EVENT
+
+Under Florida Law, all persons have a legal obligation to report suspected instances of child abuse, neglect or abandonment, regardless of whether an alleged perpetrator is the child's parent, legal custodian, caregiver or other person responsible for the child's welfare.
+
+Any student, employee or visitor to the campus who has knowledge of, or has reasonable cause to suspect, the abuse, neglect or abandonment of a minor shall report such knowledge or suspicion to the Florida Department of Children and Family through its Florida Abuse Hotline. If you suspect or know of an instance where a child was abused, neglected or abandoned on college property during a college sponsored activity, event or function, you must immediately report that information to Campus Security and the Provost on your campus and report such information on the **Florida Abuse Hotline at 1-800-962-2873** or on the [Florida Department of Children and Families website](http://www.myflfamilies.com/service-programs/abuse-hotline/report-online).
+
 ## Crime Reports
 
-__The  [Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act](http://www.securityoncampus.org/node/38 "Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act") is the landmark federal law, originally known as the Campus Security Act, that requires colleges and universities across the United States to disclose information about crime on and around their campuses. The definitions used for purposes of these reports are particular to the act and may not be entirely consistent with those definitions used by other entities that collect crime information.
+The [Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act](https://ope.ed.gov/campussafety/#/) is the landmark federal law, originally known as the Campus Security Act, that requires colleges and universities across the United States to disclose information about crime on and around their campuses. The definitions used for purposes of these reports are particular to the act and may not be entirely consistent with those definitions used by other entities that collect crime information.
 
-The act requires universities to report statistics for the three most recent years. The statistics were gathered from police reports, college security reports and from reports made to Campus Security authorities. The college's Campus Security authorities for purposes of this report include: college security, provosts, associate provosts and their professional staffs, Disability Resources counselors, academic advisers in all divisions, student organization advisers, athletic coaches, sports club advisers and visitor control attendants. A formal police report or investigation is not needed in order for a crime report to be included in the statistics.The act also requires reporting of not only arrests for liquor law, drug law, and illegal weapons violations, but also referrals for college disciplinary actions of both students and employees based on these violations. A recent clarification in the act requires reporting of not only disciplinary referrals for students but referrals of employees. Therefore, the statistics as of 2002 reflect referrals of students and employees.
+The act requires universities to report statistics for the three most recent years. The statistics were gathered from police reports, college security reports and from reports made to Campus Security authorities. The college's Campus Security authorities for purposes of this report include: college security, provosts, associate provosts and their professional staffs, Disability Resources counselors, academic advisers in all divisions, student organization advisers, athletic coaches, sports club advisers and visitor control attendants. A formal police report or investigation is not needed in order for a crime report to be included in the statistics. The act also requires reporting of not only arrests for liquor law, drug law, and illegal weapons violations, but also referrals for college disciplinary actions of both students and employees based on these violations. A recent clarification in the act requires reporting of not only disciplinary referrals for students but referrals of employees. Therefore, the statistics as of 2002 reflect referrals of students and employees.
 
 **Campus Crime Reports**
 
-The Clery Act, a federal law, requires colleges and universities that receive federal money to report statistics regarding criminal activity on campus and in the neighboring area for the three most recent years, as well as safety information, to the campus community. [Review or print the report](http://www.spcollege.edu/Documents/community/about/SPC-crime-report-stats.pdf). 
+The Clery Act, a federal law, requires colleges and universities that receive federal money to report statistics regarding criminal activity on campus and in the neighboring area for the three most recent years, as well as safety information, to the campus community.
+
+  * [2014-2016 Campus Crime Statistics Report](http://www.spcollege.edu/Documents/community/about/SPC-crime-report-stats.pdf "SPC Crime and Incident Statistics 2014-16")
+
+
+
+**Annual Security Report**
+
+  * [Emergency Notification System Policy and Protocols ](http://www.spcollege.edu/Documents/community/about/Notification-protocols.pdf)
+
+
