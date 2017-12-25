@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trutv.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622120809id_/http%3A//www.trutv.com/copyright/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trutv.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225123648id_/http%3A//www.trutv.com/copyright/index.html) for the most accurate reproduction.*
 
-# Privacy Policy — truTV.com
+# Privacy Policy - truTV.com
 
 **What's New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Turner, its affiliates and unaffiliated third parties. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
 
-Thank you for visiting truTV.com, a digital service presented to you by Turner Broadcasting System, Inc. ("Turner", "we" or "us"). Your privacy is important to us. As such, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among Turner's network of affiliated and operated digital services ("Turner Network"), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with Turner or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). A representative list of Turner Affiliates is available here. "Users" are persons that use the Services. 
+Thank you for visiting truTV.com, a digital service presented to you by Turner Broadcasting System, Inc. ("Turner", "we" or "us"). Your privacy is important to us. As such, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among Turner's network of affiliated and operated digital services ("Turner Network"), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with Turner or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). A representative list of Turner Affiliates is available here. "Users" are persons that use the Services.
 
 ### The Information We Collect
 
@@ -18,7 +18,7 @@ _2\. Information That is Passively or Automatically Collected._ We, and our "Par
 
 _3\. Geo-location Information_
 
-If you are accessing a Service from a mobile device or through a mobile application, you may be asked to share your precise (GPS level) geo-location information with us so we can customize your experience on our Services or on other Services, when we work with a Partner such as a third party mobile ad platform. If you agree to such collection, in most cases, you will be able to turn off such data collection at any time by accessing the privacy settings of your mobile device and/or through the settings in the applicable mobile application. 
+If you are accessing a Service from a mobile device or through a mobile application, you may be asked to share your precise (GPS level) geo-location information with us so we can customize your experience on our Services or on other Services, when we work with a Partner such as a third party mobile ad platform. If you agree to such collection, in most cases, you will be able to turn off such data collection at any time by accessing the privacy settings of your mobile device and/or through the settings in the applicable mobile application.
 
 _4\. Information Collected By and From Social Media Services and Other Third Party Platforms_ You also can engage with our content, such as video, games, applications, and other offerings, on or through social media services or other third party platforms, such as Facebook, or other third-party social media plug-ins, integrations and applications. When you engage with our content on or through social media services or other third party platforms, plug-ins, integrations or applications, you may allow us to have access to certain Information in your profile. This may include your name, e-mail address, photo, gender, birthday, location, an ID associated with the applicable third party platform or social media account user files, like photos and videos, your list of friends or connections, people you follow and/or who follow you, or your posts or "likes." For a description on how social media services and other third party platforms, plug-ins, integrations or applications handle your information, please refer to their respective privacy policies and terms of use, which may permit you to modify your privacy settings.
 
@@ -32,9 +32,9 @@ We, along with our Partners, may use the Information to:
 
 2\. fulfill your requests regarding the Services, including without limitation requests for newsletters and notifications,
 
-3\. respond to your inquiries, and notify you if you have won a contest, 
+3\. respond to your inquiries, and notify you if you have won a contest,
 
-4\. communicate with you about other products, programs or services that we believe may be of interest to you, 
+4\. communicate with you about other products, programs or services that we believe may be of interest to you,
 
 5\. enforce the legal terms (including without limitation our policies and terms of service) that govern your use of our Services, and/or for the purposes for which you provided the Information,
 
@@ -48,11 +48,11 @@ We, along with our Partners, may use the Information to:
 
 10\. perform analysis regarding how you use the Services or any part thereof,
 
-11\. send gifts, cards, invitations or emails if you use these services, to your designated recipients. 
+11\. send gifts, cards, invitations or emails if you use these services, to your designated recipients.
 
 When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our Services, (3) contact you through the social media service or directly by sending you the latest news, special offerings, and rewards, and (4) enable you to share your experience and content via social media services. When you provide information about yourself to us through an application, through our Services, or on social media services or other third party platforms, it may be publicly viewed by other members of these services and we cannot prevent further use of the information by third parties.
 
-We or a Partner may use "cookies" or similar technologies to associate certain of the Information with a unique identifier that then associates the Information with your device or browser. For information about how these technologies work and how we may use them, please go to Section IV, titled Cookies, And Other User And Ad-Targeting Technologies. Sometimes, we may associate cookies with the Information, including de-identified, "hashed," or anonymous versions of Information you have provided (such as during registration), in order to send or help our Partners send ads and offers based on your presumed interests or demographic information. 
+We or a Partner may use "cookies" or similar technologies to associate certain of the Information with a unique identifier that then associates the Information with your device or browser. For information about how these technologies work and how we may use them, please go to Section IV, titled Cookies, And Other User And Ad-Targeting Technologies. Sometimes, we may associate cookies with the Information, including de-identified, "hashed," or anonymous versions of Information you have provided (such as during registration), in order to send or help our Partners send ads and offers based on your presumed interests or demographic information.
 
 We may combine any of the Information we collect, for any of the above purposes, and may sometimes enhance the Information with other information that we obtain from third party sources. Please also be aware that if you choose to submit Information or content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, or a video), we may publish that Information and content, along with other Information about you (such as your name, screen name or location). Likewise, if you register and create a profile with our Service, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Service, is searchable, can be found by third parties and may be reused and redistributed by us in our sole discretion. See our [Terms of Use](https://web.archive.org/copyright/terms.html) for details on our use of content you submit.
 
@@ -60,7 +60,7 @@ We may combine any of the Information we collect, for any of the above purposes,
 
 We may disclose the Information as follows:
 
-1\. To service providers or Partners that we have engaged to perform business-related functions on our behalf. This may include service providers that: (a) conduct research and analytics; (b) create content; (c) provide customer, technical or operational support; (d) conduct or support marketing (such as email or advertising platforms); (e) fulfill orders and user requests; (f) handle payments; (g) host our Services, forums and online communities; (h) administer contests; (i) maintain databases; (j) send or support online or mobile advertising; and (k) otherwise support our Services. 
+1\. To service providers or Partners that we have engaged to perform business-related functions on our behalf. This may include service providers that: (a) conduct research and analytics; (b) create content; (c) provide customer, technical or operational support; (d) conduct or support marketing (such as email or advertising platforms); (e) fulfill orders and user requests; (f) handle payments; (g) host our Services, forums and online communities; (h) administer contests; (i) maintain databases; (j) send or support online or mobile advertising; and (k) otherwise support our Services.
 
 2\. In response to legal process, for example, in response to a court order or a subpoena, a law enforcement or government agency's request or similar request.
 
@@ -72,23 +72,23 @@ We may disclose the Information as follows:
 
 6\. We may share the Information with unaffiliated Partners and third parties (e.g., our third party service providers, advertisers, advertising networks and platforms, agencies, other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that wish to market products or services to you. If you wish to opt out from such sharing please visit the How to Contact Us/Opting Out of Marketing Communications section below for further instructions.
 
-Please note that the Services covered by this Privacy Policy may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain information from their visitors. We have no control over these third parties' use of this information, which is subject to their own privacy policies. 
+Please note that the Services covered by this Privacy Policy may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain information from their visitors. We have no control over these third parties' use of this information, which is subject to their own privacy policies.
 
 ### IV. Cookies and Other User and Ad-Targeting Technologies.
 
-We use cookies and other technologies both to provide our Services to you and to advertise to you. We also may work with Partners to help them advertise to you when you visit other websites or mobile applications, and to help them perform user analytics. These technologies may also be used to analyze how our Users interact with advertising on our Services and elsewhere, and more generally, to learn more about our Users and what services or offers you might prefer to receive. We describe some of these technologies below. 
+We use cookies and other technologies both to provide our Services to you and to advertise to you. We also may work with Partners to help them advertise to you when you visit other websites or mobile applications, and to help them perform user analytics. These technologies may also be used to analyze how our Users interact with advertising on our Services and elsewhere, and more generally, to learn more about our Users and what services or offers you might prefer to receive. We describe some of these technologies below.
 
 **1\. Cookies.** To enhance your online experience, we and our Partners use "cookies", "web beacons" or other tracking technologies. Cookies are text files placed in your computer's browser to store your preferences. We use cookies or other tracking technologies to understand Service and Internet usage and to improve or customize the products, content, offerings, services or advertisements on our Services. For example, we may use cookies to personalize your experience at our Services (e.g., to recognize you by name when you return to a Service), save your password in password-protected areas, and enable you to use shopping carts on our Services. We also may use cookies or other tracking technologies to help us offer you products, content, offerings or services that may be of interest to you and to deliver relevant advertising when you visit this Service, a Turner Affiliate's Service, or when you visit other websites or applications. We or a third party platform with whom we work may place or recognize a unique cookie on your browser to enable you to receive customized content, offers, services or advertisements on our Services or other sites. These cookies contain no information intended to identify you personally. The cookies may be associated with de-identified demographic or other data linked to or derived from data you voluntarily have submitted to us (e.g., your email address) that we may share with a service provider solely in hashed, non-human readable form.
 
-We, our third party service providers, advertisers, advertising networks and platforms, agencies, or our Partners also may use cookies or other tracking technologies to manage and measure the performance of advertisements displayed on or delivered by or through the Turner Network and/or other networks or Services. This also helps us, our service providers and Partners provide more relevant advertising. 
+We, our third party service providers, advertisers, advertising networks and platforms, agencies, or our Partners also may use cookies or other tracking technologies to manage and measure the performance of advertisements displayed on or delivered by or through the Turner Network and/or other networks or Services. This also helps us, our service providers and Partners provide more relevant advertising.
 
-**2\. Syncing Cookies and Identifiers.** We may work with our Partners (for instance, third party ad platforms) to synchronize unique, anonymous identifiers (such as those associated with cookies) in order to match our Partners' uniquely coded user identifiers to our own. We may do this, for instance, to enhance data points about a particular unique browser or device, and thus enable us or others to send ads that are more relevant, match Users to their likely product interests, or better synchronize, cap, or optimize advertising. 
+**2\. Syncing Cookies and Identifiers.** We may work with our Partners (for instance, third party ad platforms) to synchronize unique, anonymous identifiers (such as those associated with cookies) in order to match our Partners' uniquely coded user identifiers to our own. We may do this, for instance, to enhance data points about a particular unique browser or device, and thus enable us or others to send ads that are more relevant, match Users to their likely product interests, or better synchronize, cap, or optimize advertising.
 
-**3\. Locally Stored Objects.** Services on the Turner Network may employ locally stored objects ("LSOs") and other client side storage tracking technologies in certain situations where they help to provide a better user experience, such as to remember settings, preferences and usage similar to browser cookies, or in order to target or help our Partners target ads, analyze ad performance, or perform user, website or market analytics. For LSOs utilized by Adobe Flash you can access Flash management tools from [**Adobe's website**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) directly. In addition, some, but not all browsers, provide the ability to remove LSOs, sometimes within cookie and privacy settings. 
+**3\. Locally Stored Objects.** Services on the Turner Network may employ locally stored objects ("LSOs") and other client side storage tracking technologies in certain situations where they help to provide a better user experience, such as to remember settings, preferences and usage similar to browser cookies, or in order to target or help our Partners target ads, analyze ad performance, or perform user, website or market analytics. For LSOs utilized by Adobe Flash you can access Flash management tools from [**Adobe's website**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) directly. In addition, some, but not all browsers, provide the ability to remove LSOs, sometimes within cookie and privacy settings.
 
 **4\. Disabling Cookies**
 
-Most web browsers are set up to accept cookies. You may be able to set your browser to warn you before accepting certain cookies or to refuse certain cookies. However, if you disable the use of cookies in your web browser, some features of the Services may be difficult to use or inoperable. 
+Most web browsers are set up to accept cookies. You may be able to set your browser to warn you before accepting certain cookies or to refuse certain cookies. However, if you disable the use of cookies in your web browser, some features of the Services may be difficult to use or inoperable.
 
 We may work with certain third-party companies that use techniques other than HTTP cookies to recognize your computer or device and/or to collect and record information about your web surfing activity, including those integrated with our Services. Please keep in mind that your web browser may not permit you to block the use of these techniques, and those browser settings that block conventional cookies may have no effect on such techniques. To learn more about Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of DAA's opt-out program, please go to [**http://www.aboutads.info**](http://www.aboutads.info/).
 
@@ -96,27 +96,27 @@ We may work with certain third-party companies that use techniques other than HT
 
 **6\. Mobile Device Identifiers and SDKs.**
 
-We also sometimes use, or partner with publishers, publisher-facing, or app developer platforms that use mobile Software Development Kits ("SDKs"), or use an SDK with a mobile app that we offer, to collect Information, such as mobile identifiers (e.g., IDFAs and Android Advertising IDs), and Information connected to how mobile devices interact with our Services and those using our Services. A mobile SDK is the mobile app version of a web beacon (see "Web Beacons" above). The SDK is a bit of computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services or analytics to be performed. We may use this technology to deliver or help our Partners deliver certain advertising through mobile applications and browsers based on information associated with your mobile device. If you'd like to opt-out from having ads tailored to you in this way on your mobile device, please follow the instructions in the "Your Ad Choices" section below. 
+We also sometimes use, or partner with publishers, publisher-facing, or app developer platforms that use mobile Software Development Kits ("SDKs"), or use an SDK with a mobile app that we offer, to collect Information, such as mobile identifiers (e.g., IDFAs and Android Advertising IDs), and Information connected to how mobile devices interact with our Services and those using our Services. A mobile SDK is the mobile app version of a web beacon (see "Web Beacons" above). The SDK is a bit of computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services or analytics to be performed. We may use this technology to deliver or help our Partners deliver certain advertising through mobile applications and browsers based on information associated with your mobile device. If you'd like to opt-out from having ads tailored to you in this way on your mobile device, please follow the instructions in the "Your Ad Choices" section below.
 
 By visiting the Service, whether as a registered user or otherwise, you acknowledge, and agree that you are giving us your consent to track your activities and your use of the Service through the technologies described above, as well as similar technologies developed in the future, and that we may use such tracking technologies in the emails we send to you.
 
-Our unaffiliated Partners and third parties may themselves set and access their own tracking technologies when you visit our Services and they may have access to information about you and your online activities over time and across different websites or applications when you use the Service. Their use of such tracking technologies is not in our control and is subject to their own privacy policies. 
+Our unaffiliated Partners and third parties may themselves set and access their own tracking technologies when you visit our Services and they may have access to information about you and your online activities over time and across different websites or applications when you use the Service. Their use of such tracking technologies is not in our control and is subject to their own privacy policies.
 
 ### V. Your Ad Choices
 
-Advertising enables us to provide the rich content for which Services on the Turner Network are known, and to provide much of this content free of cost to our Users. Thus, we strive to provide you with ads that are relevant to you and for products you may want. 
+Advertising enables us to provide the rich content for which Services on the Turner Network are known, and to provide much of this content free of cost to our Users. Thus, we strive to provide you with ads that are relevant to you and for products you may want.
 
-However, we also offers you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our **AdChoices** page, which has general information about certain companies that place these ads. You may also find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative ("NAI") at the [NAI Service](http://www.networkadvertising.org/), and the Digital Advertising Alliance (the "DAA") at the DAA consumer choice [Service](http://www.aboutads.info/). Turner is a participant in the online industry's self-regulatory program administered by the DAA and has agreed to adhere to the DAA's principles applicable to interest-based ads. 
+However, we also offers you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our **AdChoices** page, which has general information about certain companies that place these ads. You may also find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative ("NAI") at the [NAI Service](http://www.networkadvertising.org/), and the Digital Advertising Alliance (the "DAA") at the DAA consumer choice [Service](http://www.aboutads.info/). Turner is a participant in the online industry's self-regulatory program administered by the DAA and has agreed to adhere to the DAA's principles applicable to interest-based ads.
 
-The tools provided on the **AdChoices** page, as well as the [**DAA opt-out page**](http://www.aboutads.info/choices/) and the [**NAI opt-out page**](http://www.networkadvertising.org/managing/opt_out.asp) are provided by third parties, not Turner. Turner does not control or operate these tools or the choices that advertisers and others provide through these tools. 
+The tools provided on the **AdChoices** page, as well as the [**DAA opt-out page**](http://www.aboutads.info/choices/) and the [**NAI opt-out page**](http://www.networkadvertising.org/managing/opt_out.asp) are provided by third parties, not Turner. Turner does not control or operate these tools or the choices that advertisers and others provide through these tools.
 
-When using a mobile application you may receive tailored in-application advertisements. Depending on your device, you may be able to reset your mobile device's advertising identifier at any time by accessing the privacy settings on your mobile device. In addition, each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact (or review the applicable privacy web page of) the applicable platform operator. 
+When using a mobile application you may receive tailored in-application advertisements. Depending on your device, you may be able to reset your mobile device's advertising identifier at any time by accessing the privacy settings on your mobile device. In addition, each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact (or review the applicable privacy web page of) the applicable platform operator.
 
 ### VI. Other Important Information About Your Privacy
 
 **1\. How We Respond to Do Not Track Signals**
 
-At this time Services on the Turner Network do not recognize automated browser signals regarding tracking mechanisms, which may include "do not track" instructions. 
+At this time Services on the Turner Network do not recognize automated browser signals regarding tracking mechanisms, which may include "do not track" instructions.
 
 **2\. Linked Services**
 
@@ -124,11 +124,11 @@ Some of the Services contain links to or integrations with other services such a
 
 **3\. International Transfer**
 
-This Service is governed by and operated in accordance with US law. If you are located outside of the US, you use this Service at your own risk. Turner is a company that operates globally so it is necessary to transfer your Information internationally. In particular, your Information will be transferred to and processed in the United States where many of our central databases operate. By using this Service, you (a) acknowledge that the data protection and other laws of other countries, such as the United States, may provide a less comprehensive or protective standard of protection than those in your country, and consent to your Information being collected, processed and transferred as set forth in this Privacy Policy and US law. 
+This Service is governed by and operated in accordance with US law. If you are located outside of the US, you use this Service at your own risk. Turner is a company that operates globally so it is necessary to transfer your Information internationally. In particular, your Information will be transferred to and processed in the United States where many of our central databases operate. By using this Service, you (a) acknowledge that the data protection and other laws of other countries, such as the United States, may provide a less comprehensive or protective standard of protection than those in your country, and consent to your Information being collected, processed and transferred as set forth in this Privacy Policy and US law.
 
 **4\. Data Security**
 
-We have put in place physical, electronic, and managerial procedures designed to help prevent unauthorized access, to maintain data security, and to use correctly the Information we collect online. These safeguards vary based on the sensitivity of the Information that we collect and store. 
+We have put in place physical, electronic, and managerial procedures designed to help prevent unauthorized access, to maintain data security, and to use correctly the Information we collect online. These safeguards vary based on the sensitivity of the Information that we collect and store.
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of Information, we cannot assure you that Information will never be disclosed, altered or destroyed in a manner that is inconsistent with this Privacy Policy.
 
@@ -138,7 +138,7 @@ Access to certain personal Information that is collected from our Services and t
 
 You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personal Information. Please include your registration information for such service such as first name, last name and e-mail address in the request. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.
 
-E-mail Administration   
+E-mail Administration  
 Turner Broadcasting System, Inc.  
 Attention: Privacy Policy Coordinator  
 One CNN Center, 13 North  
@@ -157,7 +157,7 @@ California's "Shine the Light" law, Civil Code section 1798.83, requires certain
 
 ### VII. List of Turner Affiliates.
 
-Below is a representative list of some of the Turner companies that currently may have access to the Information collected from Users on our Services as set forth in this Privacy Policy. We may update this list from time-to-time, so please check back periodically to keep up-to-date. 
+Below is a representative list of some of the Turner companies that currently may have access to the Information collected from Users on our Services as set forth in this Privacy Policy. We may update this list from time-to-time, so please check back periodically to keep up-to-date.
 
 BLEACHER REPORT, INC.
 
@@ -177,7 +177,7 @@ COURT TV DIGITAL LLC
 
 COURTROOM TELEVISION NETWORK LLC
 
-GREAT BIG STORY, LLC 
+GREAT BIG STORY, LLC
 
 RETRO, INC.
 
@@ -214,6 +214,9 @@ TURNER NETWORK TELEVISION, INC.
 TURNER PAGES, INC.
 
 TURNER SPORTS INTERACTIVE, INC.
+
+TURNER SPORTS, INC.  
+ 
 
 Below is a list of some of the Time Warner companies that are affiliated with the Turner group companies and with whom we may share Information we collect at our Services. We may update this list from time-to-time with additional Time Warner companies, so please check back periodically to keep up-to-date.
 
