@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnisport.tv privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626192908id_/http%3A//www.omnisport.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnisport.tv privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225192736id_/http%3A//www.omnisport.tv/privacy-policy) for the most accurate reproduction.*
 
 # Omnisport - Privacy Policy | Omnisport
 
