@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnypages.jp privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625125538id_/http%3A//www.sunnypages.jp/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnypages.jp privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225204622id_/http%3A//www.sunnypages.jp/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Info - SunnyPages.jp
 
