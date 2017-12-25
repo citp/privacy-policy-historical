@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialreality.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051923id_/http%3A//srax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialreality.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225224443id_/https%3A//srax.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SRAX
 
