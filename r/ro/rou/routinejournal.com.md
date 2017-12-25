@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routinejournal.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625001403id_/http%3A//routinejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routinejournal.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225154605id_/http%3A//routinejournal.com/privacy-policy) for the most accurate reproduction.*
 
 # - RoutineJournal
 
