@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the nubiles.net privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325184804id_/http%3A//www.nubiles.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nubiles.net privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225232048id_/http%3A//nubiles.net/page/privacy_policy) for the most accurate reproduction.*
 
-# 
+# Nubiles - Privacy Policy
 
 I. General 
 
 A. The operative parties referred to in this policy are COMPANY and you, the user of these sites.  
 1\. XFC Inc., is the publisher and operator of the following websites:
 
-• nubiles.net,  
-• katrina18.com,   
-• sweetkandie.com,   
-• vickyvane.com,
+• Nubiles.net 
 
 Hereinafter XFC Inc., shall be referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to XFC Inc., d/b/a any one of the above sites, or as any other site that we may choose to publish in the future. Additionally, when the terms “The SITES” or “SITES” are used, these terms refer to any site published by us, unless a site is specifically exempt from this policy. 
 
