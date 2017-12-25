@@ -1,11 +1,25 @@
-> *The following text is extracted and transformed from the classifiedindia.co.in privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224183621id_/http%3A//www.classifiedindia.co.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedindia.co.in privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225071835id_/http%3A//www.classifiedindia.co.in/privacy.php) for the most accurate reproduction.*
 
-# Free India classifieds, Free classifieds in India, Classifieds India,India classifieds, All India classifieds - India - Classified india
+# Free Kerala classifieds, Free classifieds in Kerala, Classifieds Kerala,Kerala classifieds, All India classifieds - Kerala, India - Classified india
 
 adsense ads 
 
-  
 | 
+
+Images (1)  
+  
+---  
+  
+[ ](http://www.classifiedindia.co.in/7/images/421063250f57bb31003dc293d3d38688/100.html)
+
+**VXJC,itrademark registration,copyright registration,design,patent registration,law,consultants**  
+Posted by **sreekumar**
+
+**[View all Images](http://www.classifiedindia.co.in/7/images/)**   
+**[Post Image](http://www.classifiedindia.co.in/?view=postimg&cityid=7&lang=en)**  
+  
+  
+
 
 | 
 
