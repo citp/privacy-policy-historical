@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daveandbusters.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041505id_/https%3A//www.daveandbusters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daveandbusters.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225110541id_/http%3A//www.daveandbusters.com/privacy-policy) for the most accurate reproduction.*
 
 # Dave & Buster's - Privacy Policy
 
