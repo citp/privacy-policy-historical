@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornfun.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123707id_/http%3A//pornfun5.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornfun.org privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225052259id_/http%3A//pornfun5.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
