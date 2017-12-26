@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623025714id_/http%3A//www.coachhire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226124913id_/http%3A//www.coachhire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Coach Hire - from coachhire.com
 
 Business privacy policy
 
-This privacy policy sets out how Coachhire.com uses and protects any information that you give  **Coachhire.com**  when you use this website.
+This privacy policy sets out how CoachHire.com uses and protects any information that you give  **CoachHire.com**  when you use this website.
 
-**Coachhire.com** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+**CoachHire.com** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**Coachhire.com**   may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/01/2010.
+**CoachHire.com**   may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/11/2017.
 
-What we collect
+What we collect:
 
 We may collect the following information:
 
@@ -21,6 +21,8 @@ We may collect the following information:
 • Demographic information such as postcode, preferences and interests
 
 • Other information relevant to customer surveys and/or offers
+
+• Other information relating to journey details
 
 What we do with the information we gather
 
@@ -62,6 +64,6 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to  **Coachhire.com  **551 Fairlie Road, Slough, Berkshire, SL1 4PY.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to  **CoachHire.com  **551 Fairlie Road, Slough, Berkshire, SL1 4PY.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
