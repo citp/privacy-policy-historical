@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wemabank.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626210709id_/http%3A//www.wemabank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wemabank.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226014620id_/http%3A//wemabank.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wema Bank Plc
 
