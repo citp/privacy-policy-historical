@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seed.st privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627074120id_/http%3A//www.seed.st/wiki/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seed.st privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226083730id_/http%3A//www.seed.st/wiki/privacy) for the most accurate reproduction.*
 
 # Seed.ST - High Performance Seedbox Hosting
 
@@ -49,7 +49,7 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-admin@seed.st 
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on August 16, 2012 
 
