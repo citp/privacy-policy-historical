@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftdfloristsonline.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613054435id_/http%3A//www.ftdfloristsonline.com/ffo/privacy_security_home.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftdfloristsonline.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226214145id_/http%3A//www.ftdfloristsonline.com/ffo/privacy_security_home.html) for the most accurate reproduction.*
 
 # Same Day Flower Delivery in by your FTD florist
 
