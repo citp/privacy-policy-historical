@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tozlugiyim.com.tr privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008161752id_/https%3A//www.tozlu.com/EN/Gizlilik) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tozlugiyim.com.tr privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226221302id_/https%3A//www.tozlu.com/EN/Gizlilik) for the most accurate reproduction.*
 
 # Kullanım Koşulları - Tozlu.Com/EN
 
