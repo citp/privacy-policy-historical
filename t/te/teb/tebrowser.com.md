@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tebrowser.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619140414id_/http%3A//www.tebrowser.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tebrowser.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226214413id_/http%3A//tebrowser.com/policy.html) for the most accurate reproduction.*
 
 # TEBrowser 2.0 by Webily
 
