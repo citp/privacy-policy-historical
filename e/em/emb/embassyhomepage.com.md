@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embassyhomepage.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625181153id_/http%3A//embassyhomepage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embassyhomepage.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227004001id_/http%3A//www.embassyhomepage.com/privacy.php) for the most accurate reproduction.*
 
 # High Commission in London
 
@@ -102,7 +102,7 @@ The table below explains the cookies we use and why.
 
 **Cookie** : Google Adsense and DoubleClick  
 **Name** : PREF. SID. HSID, lbcs, __gads, id, _drt_, FLC, NID and exchange_uid  
-**Purpose** : These cookies are used to make advertising more engaging to users and more valuable to publishers and advertisers. Some common applications of cookies are to select advertising based on what’s relevant to a user; to improve reporting on campaign performance; and to avoid showing ads the user has already seen.  
+**Purpose** : These cookies are used to make advertising more engaging to users and more valuable to publishers and advertisers. Some common applications of cookies are to select advertising based on what�s relevant to a user; to improve reporting on campaign performance; and to avoid showing ads the user has already seen.  
 **More Information** : [Click here for an overview of privacy policy at Google Adsense and DoubleClick](http://www.google.com/policies/privacy/cookies/types/)
 
 **Cookie** : Trade Doubler  
@@ -122,10 +122,10 @@ To opt out of being tracked by Google Analytics across all websites visit <http:
 **Purchases:** Embassyhomepage.com does not sell you products, but directs you to sites that do. These sites may store information such as your name and address and credit card details. They may operate their own privacy policies. 
 
 YouTube cookies  
-We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please visit YouTube’s embedding videos information page. 
+We embed videos from our official YouTube channel using YouTube�s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please visit YouTube�s embedding videos information page. 
 
 Search engine  
-The search engine on our website is designed to be as powerful and easy to use as the popular search engine Google. The search is made possible by a piece of hardware (a search ‘appliance’) supplied by Google that is plugged into our server and continuously indexes the content on our site. All search requests are handled by the appliance and the information is not passed on to any third party, including Google. 
+The search engine on our website is designed to be as powerful and easy to use as the popular search engine Google. The search is made possible by a piece of hardware (a search �appliance�) supplied by Google that is plugged into our server and continuously indexes the content on our site. All search requests are handled by the appliance and the information is not passed on to any third party, including Google. 
 
 **E-newsletters and Auto Responders**  
 We use a third party provider, AWeber, to deliver our e-newsletters and email auto responder services. We gather statistics around email opening and clicks using industry standard technologies including clear gifs to help us monitor and improve our e-newsletters and email marketings. For more information, please see AWeber’s privacy notice. 
@@ -163,7 +163,7 @@ When individuals apply to work at Embassyhomepage.com or its parent company, we 
 
 Personal information about unsuccessful candidates will be held for 12 months after the recruitment exercise has been completed, it will then be destroyed or deleted. We retain de-personalised statistical information about applicants to help inform our recruitment activities, but no individuals are identifiable from that data. 
 
-Once a person has taken up employment with the Embassyhomepage.com or its parent company, we will compile a file relating to their employment. The information contained in this will be kept secure and will only be used for purposes directly relevant to that person’s employment. Once their employment with Embassyhomepage.com or its parent company has ended, we will retain the file in accordance with the requirements of our retention schedule and then delete it. 
+Once a person has taken up employment with the Embassyhomepage.com or its parent company, we will compile a file relating to their employment. The information contained in this will be kept secure and will only be used for purposes directly relevant to that person�s employment. Once their employment with Embassyhomepage.com or its parent company has ended, we will retain the file in accordance with the requirements of our retention schedule and then delete it. 
 
 Access to personal information  
 Embassyhomepage.com tries to be as open as it can be in terms of giving people access to their personal information. Individuals can find out if we hold any personal information by making a ‘subject access request’ under the latest Data Protection Act. If we do hold information about you we will:   
@@ -176,7 +176,7 @@ To make a request to the Embassyhomepage.com for any personal information we may
 
 If you agree, we will try to deal with your request informally, for example by providing you with the specific information you need over the telephone. 
 
-If we do hold information about you, you can ask us to correct any mistakes by, once again, contacting the [Information Governance department](https://web.archive.org/web/20170625181153id_/http%3A//contact_us). 
+If we do hold information about you, you can ask us to correct any mistakes by, once again, contacting the [Information Governance department](https://web.archive.org/web/20171227004001id_/http%3A//contact_us). 
 
 Disclosure of personal information  
 In many circumstances we will not disclose personal data without consent. However when we investigate a complaint, for example, we will need to share personal information with the organisation concerned and with other relevant bodies. Further information is available in our Information Charter about the factors we shall consider when deciding whether information should be disclosed. 
@@ -209,7 +209,7 @@ New South Wales 2153
 Australia. 
 
 California Privacy Rights  
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an email to legaldept[at]businesswebhostingcompany.com or write us at the following address: 
+If you are a California resident and our customer, Cal. Civ. Code � 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an email to legaldept[at]businesswebhostingcompany.com or write us at the following address: 
 
 Business Web Hosting Company Pty Ltd  
 Baulkham Hills Business Centre  
@@ -220,4 +220,4 @@ Australia.
 
 This website privacy policy was last updated on September 16, 2013. 
 
-This document is Copyright © 2008-2013 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at Embassyhomepage.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
+This document is Copyright � 2008-2013 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at Embassyhomepage.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
