@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdpi.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613035057id_/http%3A//mdpi.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdpi.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226035437id_/http%3A//mdpi.com/about/privacy) for the most accurate reproduction.*
 
 # MDPI | Privacy Policy
 
