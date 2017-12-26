@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513131831id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226211215id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Animoto - Privacy Policy
+# Privacy Policy - Animoto
 
 ## 1\. Acknowledgement and acceptance of terms
 
-Animoto Inc (henceforward “Animoto”) values the protection of your privacy. This Privacy Policy sets forth our current privacy practices with regard to the personally identifiable information we collect and use when you or your computer interact with our website. This Privacy Policy applies to www.animoto.com as well as Animoto's application, widget or gadget for mobile devices (such as iPhone) and social networks (including but not limited to Facebook Platform or Google OpenSocial) (each, a "Site"). The Site is not directed to children. 
-
-The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.animoto.com, and does not cover information that may be collected through our any mobile applications or social networking applications. 
-
-In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. _If you have questions or complaints regarding our privacy policy or practices, please contact us at_ [contact@animoto.com](mailto:contact@animoto.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
-
 If you do not agree to these terms, please do not access or use this site. 
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=5861d98f-9f02-479c-bd0c-ca2e2074e3ce)
+Animoto Inc (henceforward “Animoto”) values the protection of your privacy. This Privacy Policy sets forth our current privacy practices with regard to the personally identifiable information we collect and use when you or your computer interact with our website. This Privacy Policy applies to www.animoto.com as well as Animoto's application, widget or gadget for mobile devices (such as iPhone) and social networks (including but not limited to Facebook Platform or Google OpenSocial) (each, a "Site"). The Site is not directed to children. 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 ## 2\. Participating Third Party Policies
 
@@ -88,17 +84,13 @@ Your Animoto videos and user content are limited-access, where access is gained 
 
 Animoto has the discretion to update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
-## 9\. EU and Swiss Safe Harbor
-
-Animoto complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Animoto has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Animoto’s certification, please visit <http://www.export.gov/safeharbor/>. 
-
-## 10\. Contacting Us
+## 9\. Contacting Us
 
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at:
 
 Animoto Inc. ([contact@animoto.com](mailto:contact@animoto.com))   
-440 Lafayette St, Fl 2  
+436 Lafayette St, Fl 2  
 New York, NY, 10003  
 USA
 
-**This document was last updated on October 6, 2016.**
+**This document was last updated on November 9, 2017.**
