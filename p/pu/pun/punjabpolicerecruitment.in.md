@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punjabpolicerecruitment.in privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509014818id_/http%3A//punjabpolicerecruitment.in/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabpolicerecruitment.in privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226012651id_/http%3A//punjabpolicerecruitment.in/policy.php) for the most accurate reproduction.*
 
 # Punjab Police Recruitment 2016
 
