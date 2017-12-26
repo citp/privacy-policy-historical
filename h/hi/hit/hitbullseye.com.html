@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hitbullseye.com privacy policy that was archived on 2017-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170625235406id_/http%3A//www.hitbullseye.com/Privacy-Policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hitbullseye.com privacy policy that was archived on 2017-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171226202636id_/http%3A//www.hitbullseye.com/Privacy-Policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -223,36 +223,37 @@ function checkNum(num)
                     <h2>Courses</h2>
                     <ul>
                         <li><a href="http://mba.hitbullseye.com" target="_blank">MBA</a></li>
+                        <li><a href="http://cpt.hitbullseye.com" target="_blank">Placement Training</a></li>
                         <li><a href="http://grad.hitbullseye.com/courses.php#Clat-Law" target="_blank">LAW</a></li>
                         <li><a href="http://po.hitbullseye.com" target="_blank">Bank PO/ SSC</a></li>
-                        <li><a href="http://cpt.hitbullseye.com" target="_blank">Placement Training</a></li>
                     </ul>
                     
                     <ul>
+                    	<li><a href="http://grad.hitbullseye.com/">Careers After +2</a></li>
                         <li><a href="GRE.php">GRE</a></li>
                         <li><a href="GMAT.php">GMAT</a></li>
                         <li><a href="http://grad.hitbullseye.com/SAT-Coaching.php">SAT</a></li>
-                        <li><a href="http://grad.hitbullseye.com/">Careers After +2</a></li>
+                        
                     </ul>
                 </div>
                 
                 <div class="f-block2">
                     <h2>Study Zone</h2>
                     <ul>
-                        <li><a href="http://mba.hitbullseye.com/quant/" target="_blank">Quant</a></li>
-                        <li><a href="http://mba.hitbullseye.com/verbal/" target="_blank">Verbal</a></li>
-                        <li><a href="http://mba.hitbullseye.com/Reasoning/" target="_blank">Reasoning</a></li>
-                        <li><a href="http://mba.hitbullseye.com/data/" target="_blank">Data</a></li>
+                        <li><a href="//www.hitbullseye.com/quant" target="_blank">Quant</a></li>
+                        <li><a href="//www.hitbullseye.com/Verbal" target="_blank">Verbal</a></li>
+                        <li><a href="//www.hitbullseye.com/Reasoning" target="_blank">Reasoning</a></li>
+                        <li><a href="//www.hitbullseye.com/Data" target="_blank">Data</a></li>
                     </ul>
                 </div>
                 
                 <div class="f-block3">
                     <h2>E-Learning Portal</h2>
                     <ul>
-                        <li><a href="http://mba.hitbullseye.com/gk/" target="_blank">G.K</a></li>
-                        <li><a href="http://vocabulary.hitbullseye.com/" target="_blank">Vocab Builder</a></li>
-                        <li><a href="http://mba.hitbullseye.com/interview/" target="_blank">Interview Prep</a></li>
-                        <li><a href="http://mba.hitbullseye.com/e-library/" target="_blank">E-Library</a></li>
+                        <li><a href="//gk.hitbullseye.com/" target="_blank">G.K</a></li>
+                        <li><a href="//vocabulary.hitbullseye.com/" target="_blank">Vocab Builder</a></li>
+                        <li><a href="//gdpi.hitbullseye.com/" target="_blank">Interview Prep</a></li>
+                        <li><a href="//elibrary.hitbullseye.com/" target="_blank">E-Library</a></li>
                     </ul>
                 </div>
                 
@@ -293,7 +294,7 @@ function checkNum(num)
         <!--Copyright Starts-->
         <div class="row copyright-privacy">        	
             <div class="container">
-                <div class="col-md-6 col-sm-12 text-left copyright">Copyright © Hit Bullseye 2016  |  All Rights Reserved</div>
+                <div class="col-md-6 col-sm-12 text-left copyright">Copyright © Hit Bullseye 2017  |  All Rights Reserved</div>
                 <div class="col-md-6 col-sm-12 text-right privacy"><a href="Privacy-Policy.php">Privacy Policy</a><a href="refund-Policy.php">Refund Policy</a><a href="Terms-of-use.php">Terms of use</a></div>
             </div>
         </div>
@@ -376,41 +377,30 @@ else
     {
 
     var Sname=$("#name");
-	
-	var Semail=$("#email");
-	
-	var Smobile=$("#mobile");
-	
-	var Scity=$("#city");
-	
-	var Scourse=$("#course");
-	
-	var Squery=$("#msg");    		
-
-    //$("#send").replaceWith("<em>sending...</em>");		
-			
-			//alert(name);
+		var Semail=$("#email");
+		var Smobile=$("#mobile");
+		var Scity=$("#city");
+		var Scourse=$("#course");
+		var Squery=$("#msg");
+		var urlpath = "SITE_PATH";
+				$("#send").replaceWith("<em>sending...</em>");
 			$.ajax({
-					type: 'POST',
-					url: 'http://www.hitbullseye.com/sendmessage_test.php',
-					data: $("#contactcentreonline").serialize(),
-					success: function(data) {
-					//alert(data);
-						if(data == 1) {
-						          //$("#success").html("");
-								//$("#contact").fadeOut("fast", function(){
-								//$(this).before("<p><strong>Your query has been successfully submitted. Our representative will revert to you in next 24-48 hours.</strong></p>");
-								//setTimeout("$.fancybox.close()", 50000);
-							//});
-                            alert("Your query has been successfully submitted. Our representative will revert to you in next 24-48 hours.");
+				type: 'POST',
+				url: '/sendmessage_test.php',
+				data: $("#contactcentreonline").serialize(),
+				success: function(data) {
+					if(data == 1) {
+						//$("#contact").fadeOut("fast", function(){
+							//$(this).before("<p><strong>Your query has been successfully submitted. Our representative will revert to you in next 24-48 hours.</strong></p>");
+						//	$("#myModalLabel").hide();
+						//});
+                        alert("Your query has been successfully submitted. Our representative will revert to you in next 24-48 hours.");
      $('#contactcentreonline').trigger("reset");
       location.reload();
-						}else {
-							$("#success").html(data);
-							
-						}
 					}
-				});
+				}
+			});
+		return false;
 	}
   });
 
