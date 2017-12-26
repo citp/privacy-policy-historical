@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsrevenue.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626200741id_/http%3A//adsrevenue.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsrevenue.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227003709id_/http%3A//www.adsrevenue.com/privacy_policy.php) for the most accurate reproduction.*
 
 # ADSREVENUE
 
@@ -23,3 +23,5 @@ When a Web Publisher signs a service agreement with AdsRevenue, the Web Publishe
 AdsRevenue is not responsible for the content or practices of third party websites not owned or controlled by AdsRevenue. AdsRevenue is also not responsible for any information that you might share with such linked websites. You should refer to each such website’s respective privacy policy and practices prior to disclosing any such information.
 
 If you have any questions about this privacy statement, the practices of this site, or concerns about this Web site, please contact: [info@AdsRevenue.com](mailto:info@AdsRevenue.com)
+
+﻿ 
