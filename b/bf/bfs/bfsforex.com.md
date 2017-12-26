@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bfsforex.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506181643id_/http%3A//www.bfsforex.com/en/trading_accounts/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfsforex.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226112050id_/http%3A//www.bfsforex.com/en/trading_accounts/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy-BFSforex.com
+# Privacy Policy-bfsforexpro.com
 
 This privacy policy explains the manner in which we collect and maintain non public information about our customers (such as your full name, mailing address, identification number, passports, driver's license etc, hence forth "Information").
 
