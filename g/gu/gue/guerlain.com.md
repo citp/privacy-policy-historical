@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guerlain.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527114250id_/http%3A//www.guerlain.com/int/en-int/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guerlain.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226044841id_/https%3A//www.guerlain.com/int/en-int/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guerlain
 
