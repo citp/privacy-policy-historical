@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alleninstitute.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222430id_/http%3A//www.alleninstitute.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alleninstitute.org privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226092900id_/http%3A//www.alleninstitute.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
