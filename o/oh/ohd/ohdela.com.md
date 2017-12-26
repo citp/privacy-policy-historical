@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ohdela.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615141837id_/http%3A//www.ohdela.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohdela.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226225319id_/http%3A//ohdela.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OHDELA
+# Privacy Policy - OHDELA
 
 This policy explains how White Hat Management, LLC (“White Hat”) collects, uses and shares information about you and the choices that you can make about the way your information is collected, used and shared. Your use of White Hat’s website signifies your acceptance of the terms of this policy.
 
