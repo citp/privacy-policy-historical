@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the headcramp.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615015802id_/http%3A//headcramp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headcramp.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226125631id_/http%3A//headcramp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Head Cramp
 
 Your privacy is very important to us at Head Cramp, and so we have a few fundamental principles that we follow in order to protect it:
 
-  * We don’t ask you for personal information unless we truly need it.
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the on-going operation of our site.
-
+We don’t ask you for personal information unless we truly need it.
+We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+We don’t store personal information on our servers unless required for the on-going operation of our site.
 
 
 This Privacy Policy describes the policies and procedures Head Cramp (“we”, “our” or “us”) uses regarding the collection, use and disclosure of any information that you give us when you use www.headcramp.com (the “Website”) and the services, features, content or applications we offer (collectively with the Website, the “Services”). We are committed to ensuring that your privacy is protected. When we ask you to provide certain information when using the Website, you can be assured that it will only be used in accordance with this privacy policy. By using this Website, you agree to this privacy policy.
