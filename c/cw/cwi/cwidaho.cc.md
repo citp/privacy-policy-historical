@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwidaho.cc privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625090427id_/http%3A//cwidaho.cc/info/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwidaho.cc privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226205930id_/http%3A//cwidaho.cc/info/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | College of Western Idaho
 
@@ -89,7 +89,7 @@ This information should not be construed in any way as giving business, legal, o
 For questions regarding this Internet privacy statement, please contact our communications department:
 
 **(via e-mail)**  
-[communications@cwidaho.cc](mailto:communications@cwidaho.cc)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e88b8785859d86818b899c8187869ba88b9f818c898087c68b8b)
 
 **(via regular mail)**  
 Communications  
@@ -99,4 +99,4 @@ P.O. Box 3010
 Nampa, ID 83653
 
 **Student related requests:**  
-CWI Registrar at [registrar@cwidaho.cc](mailto:registrar@cwidaho.cc)
+CWI Registrar at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#651700020c16111704172506120c01040d0a4b0606)
