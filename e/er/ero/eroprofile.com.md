@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eroprofile.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624044806id_/http%3A//www.eroprofile.com/p/help/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroprofile.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226052350id_/http%3A//www.eroprofile.com/p/help/privacyPolicy) for the most accurate reproduction.*
 
 # EroProfile
 
