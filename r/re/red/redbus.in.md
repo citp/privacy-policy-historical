@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbus.in privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043528id_/http%3A//www.redbus.in/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbus.in privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226214603id_/https%3A//www.redbus.in/info/privacypolicy) for the most accurate reproduction.*
 
 # 
 
@@ -37,7 +37,7 @@ meet any applicable law, regulation, legal process or enforceable governmental r
 enforce applicable Terms of Service, including investigation of potential violations.   
 detect, prevent, or otherwise address fraud, security or technical issues.  
 protect against harm to the rights, property or safety of redBus, our users or the public as required or permitted by law.  
-We may share aggregated, non-personally identifiable information publicly and with our partners – like bus operators, agents or connected sites. Forexample, we may share information publicly to show trends about the general use of our services. We may also share consolidated information provided by like-minded users with bus operators without ever taking individual names, email ids or other contact details. 
+We may share aggregated, non-personally identifiable information publicly and with our partners – like bus operators or connected sites. Forexample, we may share information publicly to show trends about the general use of our services. We may also share consolidated information provided by like-minded users with bus operators without ever taking individual names, email ids or other contact details. 
 
 If redBus is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
 
