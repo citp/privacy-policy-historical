@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the malindoair.com privacy policy that was archived on 2017-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623163912id_/http%3A//www.malindoair.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the malindoair.com privacy policy that was archived on 2017-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171226213916id_/http%3A//www.malindoair.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head name="theme-color">
 		<title>Privacy Policy</title>
@@ -11,7 +11,7 @@
 		<meta name="theme-color" content="#573791">
 		<link rel="icon" sizes="350x350" href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/images/malindo-favi.png?ver=0.2">
 		<link rel="stylesheet" href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/bootstrap/css/bootstrap.min.css">
-		<link href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/css/styles.css?ver=0.8" rel="stylesheet">
+		<link href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/css/styles.css?ver=0.9" rel="stylesheet">
 		<link href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/css/travelicon.css?ver=0.1" rel="stylesheet">
 		<link href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/css/jquery-ui-datepicker.css?ver=0.1" rel="stylesheet">
 		<!--<link rel="stylesheet" href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/css/bootstrap.datepicker.css"/>-->
@@ -52,6 +52,44 @@
                         });
                         });
                         </script>
+		<script>
+		 // <![CDATA[
+		$(document).ready(function(){
+			$('.custom-search .dropdown-toggle').click(function () {
+				setTimeout(function(){
+					$('.custom-search .form-control').focus();
+				},500);
+			})
+			$('#custsearchform').submit(function(){
+				var getDVal= $("#searchText").val();
+				if(getDVal !="" && getDVal != null){
+					getDVal = getDVal.replace('&', '&amp;');
+					getDVal = getDVal.replace('<', '&lt;');
+					$("#searchText").val(getDVal);
+					return true;
+				}
+				else{
+					return false;
+				}
+			});
+			$("#searchText").keyup(function(event){
+				if(event.keyCode == 13){
+					$("#custom-search .btn").click();
+				}
+			});
+			$('.custom-search').mouseover(function () {
+				var isOpen = $(this).hasClass("open");
+				if(isOpen){
+					//$(this).removeClass("open");
+				}
+				else{
+					$(this).addClass("open");
+					$('.custom-search .form-control').focus();
+				}
+				
+			});
+		});
+		// ]]></script>
 		<!--<link rel="stylesheet" type="text/css" href="/Frontend/Composite/Navigation/Distributed/Styles.css" />-->
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -72,12 +110,25 @@
 					<button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle collapsed" type="button"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
 				</div>
 				<ul class="header-link">
-					<li><a href="/Flight-Status" target="_blank">Flight Status</a><span>|</span></li>
+					<li class=""><a href="/Flight-Status" target="_blank">Flight Status</a><span>|</span></li>
 					<li><a href="/koperasi" target="_blank">Angkasa Portal</a><span>|</span></li>
 					<li><a href="https://b2b.malindoair.com/" target="_blank">TRAVEL AGENT</a><span>|</span></li>
 					<li><a href="/government" target="_blank">GOVERNMENT TRAVEL</a><span>|</span></li>
 					<li><a href="/Malindomiles" target="_blank">MALINDO MILES</a><span>|</span></li>
 					<li><a href="/Corporate" target="_blank">MALINDO CORPORATE</a></li>
+					<li>
+						<div id="custom-search" class="custom-search">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="icon glyphicon glyphicon-search"></span></a>
+							<div class="dropdown-menu">
+								<form id="custsearchform" action="/search" method="get" role="search" autocomplete="off">
+									<div class="form-group">
+										<input id="searchText" type="text" class="form-control searchmText" placeholder="Search" name="q">
+										<button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+									</div>
+								</form>
+							</div>
+						</div>
+					</li>
 				</ul>
 			</div>
 			<!--<f:function xmlns:f="http://www.composite.net/ns/function/1.0" name="MalindoLayout.mainHeader">
@@ -112,7 +163,7 @@
 									<li class=""><a href="/malindoair-home/group-booking">Group Booking</a></li>
 									<li class=""><a href="/malindoair-home/manage-my-booking">Manage My Booking</a></li>
 									<li class=""><a href="/malindoair-home/check-in-online">Check in online</a></li>
-									<li class=""><a href="https://malindoair.acetravelinsurance.com/MY/" target="_new">Travel Insurance</a></li>
+									<li class=""><a href="https://malindoair.chubbtravelinsurance.com/main" target="_new">Travel Insurance</a></li>
 									<li class=""><a href="#" class="hide" target="_new">mobile-terms</a></li>
 								</ul>
 							</li>
@@ -127,7 +178,6 @@
 								<a href="#">Promotion</a>
 								<ul class="dropdown-menu">
 									<li class=""><a href="/special-offers/latest-promotions">Latest Promotions</a></li>
-									<li class=""><a href="/special-offers/our-fares">Our Fares</a></li>
 									<li class=""><a href="/special-offers/boarding-pass-loyalty-cards">Boarding Pass &amp; Loyalty Cards</a></li>
 									<li class=""><a href="/special-offers/sign-up-newsletter">Sign Up Newsletter</a></li>
 								</ul>
@@ -149,6 +199,7 @@
 									<li class=""><a href="/the-malindo-experience/staying-connected">Stay Connected</a></li>
 									<li class=""><a href="/the-malindo-experience/special-needs">Special Needs</a></li>
 									<li class=""><a href="/the-malindo-experience/malindomag">MALINDOMAG</a></li>
+									<li class=""><a href="https://www.malindodutyfree.com/" target="_new">Duty Free</a></li>
 								</ul>
 							</li>
 						</ul>
