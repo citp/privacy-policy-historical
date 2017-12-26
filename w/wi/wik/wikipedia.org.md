@@ -1,14 +1,21 @@
-> *The following text is extracted and transformed from the wikipedia.org privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513000303id_/https%3A//meta.wikimedia.org/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikipedia.org privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226133739id_/https%3A//meta.wikimedia.org/wiki/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Meta
 
-* * *
+This WMF Privacy Policy explains how we collect, use, and share your personal information. By using Wikimedia Sites, you consent to this Policy.
 
-**Want to help translate?[Translate the missing messages](https://meta.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Privacy_policy_2014_draft&filter=!translated&action=translate&language=en).**
+**Want to help translate?[Translate the missing messages](https://meta.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Privacy_policy_2014_draft&filter=%21translated&action=page&language=en).**
 
-This is a summary of the Privacy Policy. To read the full terms, click here.
+Privacy Policy
+
+[](https://web.archive.org/wiki/File:Wikimedia-logo.svg)
+
+This is a summary of the Privacy Policy. To read the full terms, scroll down or click here.
 
 Disclaimer: This summary is not a part of the Privacy Policy and is not a legal document. It is simply a handy reference for understanding the full Privacy Policy. Think of it as the user-friendly interface to our Privacy Policy.
+
+  
+
 
 **Because we believe that you shouldn’t have to provide personal information to participate in the free knowledge movement, you may:**
 
@@ -90,6 +97,8 @@ Contents 
 
   
   
+This page was copied from WMF website for localisation purpose. For the official, binding version of this document, please see the [English language original](https://wikimediafoundation.org/wiki/Privacy_policy "wmf:Privacy policy").
+
 ## [](https://web.archive.org/wiki/File:WMF_open_door.png) Introduction
 
 The Wikimedia Foundation is the nonprofit organization that operates collaborative, free knowledge websites, like [Wikipedia](https://en.wikipedia.org/wiki/Main_Page "wikipedia:Main Page"), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page "commons:Main Page"), and [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page "wiktionary:Wiktionary:Main Page").
