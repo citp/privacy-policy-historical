@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianwomenshealth.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629173017id_/http%3A//www.gsk.com/en-gb/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianwomenshealth.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226212855id_/http%3A//www.gsk.com/en-gb/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | GSK
 
