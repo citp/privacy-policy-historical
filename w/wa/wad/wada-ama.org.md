@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wada-ama.org privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129124246id_/https%3A//www.wada-ama.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wada-ama.org privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226052512id_/https%3A//www.wada-ama.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World Anti-Doping Agency
 
@@ -29,9 +29,7 @@ WADA won’t use your personal information for any direct marketing or unsolicit
 
 ## Sharing Your Information
 
-WADA will not share your personal information with third parties except where required by law or legal process. However,
-
-WADA may share your personal information between its two offices in Montreal (Canada) and Lausanne (Switzerland).
+WADA will not share your personal information with third parties except where required by law or legal process. However, WADA may share your personal information between its two offices in Montreal (Canada) and Lausanne (Switzerland).
 
 WADA may also share your personal information with third parties that process this information on WADA’s behalf. WADA will require those parties to only use your personal information in accordance with WADA’s instructions and will prohibit those parties from using the personal information on behalf of anyone else (including on behalf of themselves).
 
