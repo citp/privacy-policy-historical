@@ -1,97 +1,177 @@
-> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210180104id_/http%3A//corporate.thestreet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226084742id_/http%3A//corporate.thestreet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TheStreet
 
-_Last revised: December 12, 2012_
+**LAST UPDATED: May 2017**
 
-TheStreet, Inc. ("TheStreet") shares your concern about the protection of your personal information online. This is our Privacy Policy regarding the information we collect on TheStreet Portfolio of Websites as such term is defined in the [**Terms of Use**](http://www.thestreet.com/static/about/terms-of-use.html). Please note that this Privacy Policy may change from time to time. If changed, we will post an updated Privacy Policy on this page for your review.
+**PRIVACY POLICY**
 
-Questions or comments regarding this policy should be directed to [ **privacy@thestreet.com**](mailto:privacy@thestreet.com).
+TheStreet, Inc. (“ **we** ,” “ **us** ” or “ **our** ”) is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through our website currently located at TheStreet.com and any other website operated by us from which you are accessing this Privacy Policy (the “ **Websites** ”), through the software applications made available by us for use on or through computers and mobile devices in connection with which you are accessing this Privacy Policy (the “ **Apps** ”), and through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Websites and the Apps, the “ **Services** ”).  By providing Personal Information to us or using the Services, you agree to this Privacy Policy.
 
-**Information Gathered and Tracked by TheStreet**
+**Personal Information**
 
-We gather two types of data about our users: personal information and tracking information.
+**Personal Information We May Collect**
 
-**PERSONAL INFORMATION**
+“ **Personal Information** ” is information that identifies you as an individual or relates to an identifiable person, including, for example:  
 
-Personal information is provided by users when registering on TheStreet Portfolio of Websites as a member of TheStreet, our free flagship site, or another one of our free websites, when registering as a subscriber to one of our premium subscription services, and voluntarily at certain other points, such as entering contests, completing surveys or through any marketing flows. You may enter your information on our site, but if you prefer, you may talk offline to a customer service representative and provide the required information by email at [ **members@thestreet.com**](mailto:members@TheStreet.com), or by telephone at (866) 321-TSCM (8726), between the hours of 8:00 a.m. and 9:00 p.m. ET.
-
-**Registering for Membership on TheStreet**
-
-Currently, we do not require users to become members of TheStreet in order to have access to the free commentary, analysis and news available on TheStreet.com. However, if you would like to use certain features, such as email newsletters, or access additional products of TheStreet Portfolio of Websites, we require you to [ **register**](https://secure2.thestreet.com/cap/prm.do?PID=PRFR-0003&OID=000842) to become a member.
-
-In order to register, you will have to supply us with your email address and choose a unique User Name and Password. You will be required to verify your email address by clicking on the activation link in the Welcome Letter that will be sent to you upon your submission of a completed registration form.
-
-**Subscribing to Premium Services**
-
-If you would like access to one or more of our premium subscription-based services, you will need to supply us with the information specified to activate your free trial or paid subscription. This may include credit card or other payment account information which we maintain in encrypted form on our servers.
-
-**Other Personal Information Collection:**
-
-  * Portfolio Tool - We may provide a free portfolio tool which registered members of TheStreet can use to stay current on stocks in their portfolio. Participant's portfolio information is kept confidential.
-  * White Papers - We may offer white papers on various investment and financial topics. In order to download these special reports, you may be required to enter your email address, phone number and/or some additional personal information.
-  * Blogs - We may offer blogs featuring running commentary throughout the trading day by some of our most popular contributors. These blogs allow subscribers to respond to a blogger's commentary or to another subscriber's post. Access to some blogs may require a paid subscription to one of our premium services. We urge and encourage participants posting comments on the blogs to include their full name in any comment and to disclose any positions held in securities they discuss in any comment. Please note that information submitted to the blogs will be available for any user of that service to read, and is no longer private.
-  * Surveys/Polls - At certain times, you may be asked to participate in surveys, which are generally aimed at obtaining general information, for example, your investment experience or your reaction to a particular article. Because information obtained in these surveys is connected with individual subscribers and is used internally or by third-party partners to better market our services, participation is voluntary. In addition, some columnists will on occasion take polls of their readers. Such polls are solely for the editorial use of the individual columnists, and participation is voluntary.
-  * Contests and Sweepstakes - We may offer contests or sweepstakes in which certain personal information is required for registration, for purposes of verifying the entrants' identities and notifying the winners. If the contest or sweepstakes is being administered or sponsored by a third party, this information will be disclosed to that third party. However, entrants may select contest names distinct from their User Names, and the information is not connected with their User Names.
+  * Name
+  * Address
+  * Phone number
+  * Email address
+  * Payment card information
+  * Social media account ID
 
 
 
-**TRACKING INFORMATION**
+If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services (such as if you gift a subscription to another person), you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy. 
 
-Tracking information is automatically collected about all visitors to TheStreet Portfolio of Websites. This information consists of both individual and aggregated tracking information and is automatically gathered using "cookies." A cookie is a small data file containing information, such as a user's login name, that is written to the user's hard drive by a web server and used to track the pages visited. Certain websites within TheStreet Portfolio of Websites are operated by third parties, such third party sites may use cookies or other tracking technology at such sites's discretion.
+**How We May Collect Personal Information**
 
-We use cookies in several ways to track user behavior. Cookies store visitors' preferences and past activity on our site and other websites in order to provide better service to our visitors. The information we gather on an individual basis is used for advertising and internal purposes, such as accessing a member's account information. We also use tracking information on an aggregate basis, to track the readership of stories and usage of our products, to analyze traffic patterns on our sites, and to provide anonymous reporting of usage for internal and external clients. In all cases, cookies used by TheStreet are encoded and contain a unique digital signature to prevent tampering. They do not contain user passwords. We also employ technology that is commonly referred to as "action tags" (also known as "web beacons," "scripts" or "one pixel .gif files") to measure the effectiveness of our advertisements.
+We and our service providers may collect Personal Information in a variety of ways, including: 
 
-We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on our websites. This allows us to provide targeted advertising in the future. If you do not wish to receive this tyupe of advertising from us in the future you can opt out using the [Google opt-out page](https://www.google.com/settings/ads/onweb#display_optout) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
-
-In addition to the cookies described above, TheStreet, its agents, advertisers and third-party advertising vendors that serve ads onto our web sites, and other third party partners may use their own or third-party cookies or other tracking technologies for advertising, including delivering targeted advertisements and marketing messages based upon the websites you visit, or other purposes. We cannot be responsible for the privacy policies or practices of third part advertisers and vendors. Additionally, third party advertising vendors, including Google, show our ads on sites on the Internet. If you would like more information about cookies and targeted advertisements or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide such advertisements, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
-
-If you are accessing TheStreet Portfolio of Websites, you can control your browser's settings regarding cookies by selecting "Internet Options" or "Preferences" in the menu bar of your browser. This will allow you to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable cookies altogether. However, because cookies allow you to easily navigate our web sites without having to constantly log in using your User Name and Password, we recommend that you leave them turned on. If you are accessing TheStreet Portfolio of Websites through an alternative method, such as a mobile application or third-party content distribution service, you understand that you may not have the ability to disable cookies, depending on the specific access method.
-
-**USE OF THE INFORMATION**
-
-TheStreet uses the personal information and tracking information obtained from its users as stated in this Privacy Policy, and for the following purposes:
-
-  * To enhance users' experiences on TheStreet Portfolio of Websites, including the display of customized content and advertising;
-  * To improve our content;
-  * To notify visitors about updates to TheStreet Portfolio of Websites and our Services (as such term is defined in our Terms of Use) and to contact users regarding account maintenance issues in any manner including without limitation, via direct mail, email, telephone or SMS text messages;
-  * To maintain and improve TheStreet Portfolio of Websites and our Services;
-  * To ensure the technical functioning of TheStreet Portfolio of Websites and our Services; and
-  * To deliver our Services, as well as free email newsletters containing selected stories, market information, advertisements and links to TheStreet Portfolio of Websites, or to contact you via direct mail, email, telephone, or SMS text message with information and offers for our Services, as well as special offers and advertisements for products or services offered by third parties. You can select which free newsletters you would like to receive, unsubscribe from delivery of our free newsletters, our marketing messages and third party offers and advertisements at any time by visiting the [ **Communication Preferences page**](https://secure2.thestreet.com/cap/selfserve/EmailPrefs.jsp) under Your Account or contacting our customer service department by email at [ **members@thestreet.com**](mailto:members@thestreet.com) or by telephone at (866) 321-TSCM (8726), between the hours of 8:00 a.m. and 9:00 p.m. ET. Please note that if you unsubscribe from communications but subsequently reregister with TheStreet or enter your email address into any form on TheStreet Portfolio of Websites, your communication preferences may revert from their unsubscribed status and/or you may receive communications from which you had previously unsubscribed.
+  * **Through the Services** :  We may collect Personal Information through the Services, such as when you register, sign up for a newsletter or whitepaper or register for one of our premium subscription services.
+  * **Offline** :  We may collect Personal Information from you offline, such as when you place an order over the phone, contact customer service or attend our events. 
+  * **From Other Sources** :  We may receive your Personal Information from other sources, such as public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected) and from other third parties.  For example, if you elect to connect your social media account to your Services account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles.  In addition, if someone gives you a subscription to the Services, we will receive your Personal Information from him or her. 
 
 
 
-**Information Sharing**
+**How We May Use Personal Information**
 
-TheStreet does not sell or disclose personal information about you described above to other people or nonaffiliated companies, except to provide you with products or services, when we have your permission, or under the following circumstances:
+We and our service providers may use Personal Information:  
 
-  * In response to subpoenas, court orders, or legal process, or otherwise to cooperate with law enforcement agencies or state and federal regulators;
-  * We provide the information to our subsidiaries and affiliated companies;
-  * We provide the information on a confidential basis to nonaffiliated companies we engage as contractors or agents to perform services for us, such as maintaining software or administering a sweepstakes or contest. Information will be shared with such contractors only to the extent reasonably necessary for them to perform services on our behalf, and pursuant to confidentiality obligations;
-  * If we sell or otherwise transfer substantially all of our assets related to any web site that we own or operate and any product or service that we offer. In that event, we will require such third party to honor our then-current Privacy Policy, until the third party provides you with notice of changes to our Privacy Policy and permits you to exercise any rights you may have under applicable law to limit disclosures of information about you;
-  * We may disclose all the information we collect as described above to other companies such as direct marketers to perform marketing services on our behalf, or to third parties with whom we have joint marketing agreements; and
-  * We may share with third parties certain pieces of  _aggregated, non-personal information_ , such as the number of users who clicked on a particular link or how many users clicked on a particular advertisement. Such information does not identify you individually.
+  * To respond to your inquiries and fulfill your requests, such as to send you newsletters or whitepapers.
+  * To send administrative information to you, such as information regarding the Services and changes to our terms, conditions and policies. 
+  * To complete and fulfill your purchase, including to process your payment, have your order delivered to you, communicate with you regarding your purchase and provide you with related customer service.
+  * To send you marketing communications that we believe may be of interest to you, subject to any choices you have expressed with respect to such communications. 
+  * To personalize your experience on the Services by presenting content, products and offers tailored to you.
+  * To request your participation in surveys and to administer such surveys.  We may use the results of such surveys to understand user engagement, as well as for marketing purposes.  In addition, some of our columnists will on occasion take polls of their readers.  Such polls are solely for the editorial use of the individual columnists, and participation is voluntary.
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities.  Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information.  We suggest that you read any such rules carefully.
+  * To facilitate social sharing functionality.
+  * To allow you to send messages to a friend through the Services.
+  * To identify the pricing for which you are eligible, such as if you are a student.
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities. 
 
 
 
-**PUBLIC FORUMS**
+**How Personal Information May Be Disclosed**
 
-Chat rooms, forums, message boards, and/or news groups are available to you through our Web site. Please remember that any information disclosed in these areas becomes public information. If you post personal information online that is accessible to the public, you may receive unsolicited responses. You should exercise caution when deciding to disclose any of your personal information in a public forum.
+Your Personal Information may be disclosed:  
 
-**CORRECTING AND UPDATING THE INFORMATION**
+  * To our affiliates The Deal, BoardEx, RateWatch, and Management Diagnostics Limited, for the purposes described in this Privacy Policy.    
+  * To our third-party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing and other services.
+  * To third parties with whom we have joint marketing agreements, to permit them to send you marketing communications, subject to any choices you have expressed. 
+  * To third parties, to permit them to send you marketing communications.
+  * To a third-party provider of a product or service that you purchase through the Services. 
+  * To third-party sponsors of events and sweepstakes, contests and similar promotions.
+  * To identify you to anyone to whom you send messages through the Services. 
+  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials.  Please note that any information you post or disclose through these services may be available to other users and the general public.  We urge you to be very careful when deciding to disclose any information on the Services. 
+  * To your friends associated with your social media account, to other users of the Services and to your social media account provider, in connection with your social sharing activity, such as if you connect your social media account to your Services account or log into your Services account from your social media account.  By connecting your Services account and your social media account, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media site’s privacy policy. 
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
 
-TheStreet offers to its members the ability to correct or update online the information we collected during registration by visiting the [ **Your Account page**](https://secure2.thestreet.com/cap/selfserve/). You may also contact our customer service department by email at [ **members@thestreet.com**](mailto:members@thestreet.com) or by telephone at (866) 321-TSCM (8726), between the hours of 8:00 a.m. and 9:00 p.m. ET.
+
+
+**Other Uses and Disclosures**
+
+We also may use and disclose your Personal Information as we believe to be necessary or appropriate:  (a) under applicable law, which may include laws outside your country of residence; (b) to respond to requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities, which may include such authorities outside your country of residence; (d) to enforce our terms and conditions; and (e) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others.
+
+**OTHER Information**
+
+**Other Information We May Collect**
+
+“ **Other Information** ” is any information that does not reveal your specific identity or does not directly relate to an identifiable individual, such as:
+
+  * Browser and device information
+  * App usage data
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic and other information provided by you
+  * Aggregated information
+
+
+
+If we are required to treat Other Information as Personal Information under applicable law, then we may use it for the purposes for which we use and disclose Personal Information as detailed in this Privacy Policy.
+
+**How We May Collect Other Information**
+
+We and our third-party service providers may collect Other Information in a variety of ways, including: 
+
+  * **Through your browser or device** :  Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language and Internet browser type and version.  We use this information to ensure that the Services function properly. 
+  * **Through your use of the App** :  When you download and use the App, we may track and collect App usage data, such as the date and time the App on your device accesses our servers, the pages you use and what information and files have been downloaded to the App based on your device number.
+  * **Using cookies** :  Cookies are pieces of information stored directly on your computer.  Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data.  We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, to personalize your experience while using the Services and to recognize your computer in order to assist your use of the Services.  We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions about them.  Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on certain of the Services.  We may also use cookies or other technologies to track responses to our online advertisements.  At this time, we do not respond to browser do-not-track signals.    
+  * If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies or be given choices on how to manage them.  You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>.  If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services.  For example, we may not be able to recognize your computer, and you may need to log in every time you visit.
+  * **Using pixel tags and** **similar technologies** :  Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Services to, among other things, track the actions of users (including email recipients), measure the success of our marketing campaigns and compile statistics about use of the Services and response rates. 
+  * **Analytics** :  We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends.  This service may also collect information regarding the use of other websites, apps and online resources.  You can learn about Google’s practices by going to [www.google.com/policies/privacy/‌partners/](http://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>. 
+  * **IP Address** :  Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider.  An IP address may be logged automatically in our server log files whenever you access the Services, along with the time of the visit and the pages visited.  Collecting IP addresses is done automatically by many websites, applications and other services.  We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services.  We may also derive your approximate location from your IP address.
+  * **Physical Location:**   We and our service providers may collect the physical location of your device by, for example, using satellite, cell phone tower, or WiFi signals.  We and our service providers may use your device’s physical location to provide you with personalized location-based services, content, notice of events, and advertisements.  In some instances, you may be permitted to allow or deny such collection or use of your device’s location, but, if you do, we may not be able to provide you with the applicable personalized services and content.   
+  * **From you** :  We collect your preferred means of communication, your gender, your investment and other preferences, and other information when you voluntarily provide it. 
+  * **By aggregating information** :  Aggregated Personal Information does not personally identify you (for example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code).
+
+
+
+**How We May Use and Disclose Other Information**
+
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law.  If we combine Other Information with Personal Information, we will treat the combined information as Personal Information as long as it is combined.
+
+**OUR ADVERTISING   **
+
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites or online services, based on information relating to your access to and use of the Services and other websites or online services on any of your devices, as well as on information received from third parties.  To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags).  They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop.  If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit _<http://www.networkadvertising.org/managing/opt_out.asp>_ and _<http://www.aboutads.info/>_.  You may download the AppChoices app at [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices) to opt out in mobile apps. 
+
+**THIRD PARTY SERVICES**
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link.  The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
+
+In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer; app, social media platform, operating system or wireless service provider; or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Apps. 
 
 **SECURITY**
 
-TheStreet limits access to personal information about you to those employees whom we determine need access to that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your personal information. However, no security system is impenetrable. We cannot guarantee the security of our servers, nor can we guarantee that information that users supply will not be intercepted while being transmitted to us over the Internet.
+We use reasonable organizational, technical and administrative measures designed to protect Personal Information within our organization.  Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure.  Please also be aware that we may use third-party cloud service providers that provide hosting, data storage and other services pursuant to standard terms and conditions that may be non-negotiable; these service providers have informed us or the general public that they apply security measures they consider adequate for the protection of information within their systems, or they have a general reputation for applying such measures.
 
-**FORMER CUSTOMERS**
+If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the _“Contacting Us”_ section below.
 
-TheStreet discloses personal information about former customers only in accordance with this Privacy Policy.
+**CHOICES AND ACCESS**
 
-**YOUR INDEPENDENT RELATIONSHIPS WITH OTHER COMPANIES**
+**Your choices regarding our use and disclosure of your Personal Information**
 
-Please note that this Privacy Policy will not apply to your independent relationships with other companies that from time to time may offer you products and services on TheStreet's sites. Those companies' privacy policies will govern how they collect, use and disclose personal information that you provide to them. TheStreet is not responsible for the privacy practices or content of those websites. We encourage you to review the privacy policy of any company before submitting your personal information.
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. 
 
-Questions or comments regarding this policy should be directed to [ **privacy@thestreet.com**](mailto:privacy@thestreet.com). TheStreet reserves the right to modify this policy.
+You may opt-out from:
+
+  * **Receiving text alerts from us.**  You can unsubscribe from delivery of our text alerts by responding “STOP” to any such text message.
+  * **Our sharing of your Personal Information with affiliates for their direct marketing purposes** :  If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by writing to us at [members@thestreet.com](mailto:members@thestreet.com).
+  * **Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes** :  If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by writing to us at [members@thestreet.com](mailto:members@thestreet.com). 
+
+
+
+We will try to comply with your request(s) as soon as reasonably practicable.  Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
+
+**How you can access and update your Personal Information   **
+
+If you would like to review and update the Personal Information collected from you during registration, you may visit the Your Account page.  You may also contact our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com) or by telephone at (866) 321-8726, between the hours of 8:00 a.m. and 9:00 p.m. ET. 
+
+For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request.  We will try to comply with your request as soon as reasonably practicable.  Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change.
+
+**USE OF SERVICES BY MINORS**
+
+The Services are not directed to individuals under the age of eighteen (18).  We do not knowingly collect Personal Information from such individuals, and we request that they not provide Personal Information through the Services.
+
+**CROSS-BORDER TRANSFER**
+
+Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and, by using the Services, you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country.  In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information.
+
+**SENSITIVE INFORMATION**
+
+we ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , Social Security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics or criminal background) on or through the Services or otherwise to us.
+
+**UPDATES TO THIS PRIVACY POLICY**
+
+We may change this Privacy Policy.  The “ _Last Updated_ ” legend at the top of this page indicates when this Privacy Policy was last revised.  Any changes will become effective when we post the revised Privacy Policy on the Services.  Your use of the Services following these changes means that you accept the revised Privacy Policy. 
+
+**CONTACTING US**
+
+If you have any questions about this Privacy Policy, please contact us at [privacy@thestreet.com](mailto:privacy@thestreet.com) or:
+
+           Customer Service  
+           TheStreet, Inc.  
+           14 Wall Street  
+           New York, NY 10005
+
+Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
