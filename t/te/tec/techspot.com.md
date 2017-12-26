@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techspot.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625080157id_/http%3A//www.techspot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techspot.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226094837id_/https%3A//www.techspot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TechSpot
 
