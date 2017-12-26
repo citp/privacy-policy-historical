@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonusbagging.co.uk privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626041348id_/http%3A//www.bonusbagging.co.uk/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonusbagging.co.uk privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226230537id_/http%3A//www.bonusbagging.co.uk/privacypolicy.php) for the most accurate reproduction.*
 
 # Bonus Bagging Privacy Policy
 
@@ -50,4 +50,4 @@ Bonus Bagging will occasionally update this Statement of Privacy to reflect comp
 
 ## Contact Information
 
-Bonus Bagging welcomes your comments regarding this Statement of Privacy. If you believe that Bonus Bagging has not adhered to this Statement, [please contact Bonus Bagging](https://web.archive.org/web/20170626041348id_/http%3A//www.bonusbagging.co.uk/contact_us.php). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Bonus Bagging welcomes your comments regarding this Statement of Privacy. If you believe that Bonus Bagging has not adhered to this Statement, [please contact Bonus Bagging](https://web.archive.org/web/20171226230537id_/http%3A//www.bonusbagging.co.uk/contact_us.php). We will use commercially reasonable efforts to promptly determine and remedy the problem.
