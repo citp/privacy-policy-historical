@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the empressgist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063208id_/http%3A//empressgist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empressgist.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226200802id_/http%3A//empressgist.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – EMPRESS GIST
 
 1\. All User information supplied by Users of Empressgist.com as defined under this Terms & Conditions is covered by the Data Protection Act 1998.  
-2\. Users can amend information provided at any time by contacting admin@Empressgist.com.  
-3\. Users can access the data held on them by Empressgist.com by contacting us at admin@Empressgist.com  
+2\. Users can amend information provided at any time by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+3\. Users can access the data held on them by Empressgist.com by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 4\. User information will not be disclosed to a third party without Users’ permission. User details will be used only to provide service(s) specifically requested by the User.  
 5\. Users’ details may be transferred to another company if ownership of Empressgist.com changes.  
 6\. The Empressgist.com website uses cookies. Users may choose not to accept cookies but this will prevent proper functioning of the services of the website.  
 7\. Whenever a User requests a page, username, IP address, browser and version of operating system are stored in a log file. This information is only used for statistical purposes to help improve this site and provide accurate statistics to advertisers in the form of aggregated data.  
 8\. Empressgist.com Limited cannot guarantee that third party services accessible through Empressgist.com services operate the same Privacy Policy.  
 9\. Empressgist.com Limited reserves the right to update and change this Privacy Policy at any time. However, Empressgist.com Limited will not use information submitted by a User under this current notice in a way not currently described herein without also notifying the User of such change, and giving the User an opportunity to opt-out, or otherwise prevent that new use of your information.  
-10\. If you have any questions concerning this Privacy Policy or would like us to amend or do away with your details please contact us at admin@Empressgist.com
+10\. If you have any questions concerning this Privacy Policy or would like us to amend or do away with your details please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
  **Cookies & 3rd Party Advertisements**
 
