@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithit.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630001306id_/http%3A//faithit.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithit.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226212035id_/https%3A//faithit.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Faithit
 
@@ -14,7 +14,7 @@ Cookies & Tracking Pixels: We collect non-personally identifiable information th
 
 Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>.
 
-Questions or concerns regarding FaithIt.com’s privacy policy may be directed to our Managing Editor, FaithIt.com, 5550 Tech Center Drive, Colorado Springs, CO 80919, (800) 991-6011, support@faithit.com.
+Questions or concerns regarding FaithIt.com’s privacy policy may be directed to our Managing Editor, FaithIt.com, 5550 Tech Center Drive, Colorado Springs, CO 80919, (800) 991-6011, [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Terms of Use**
 
@@ -22,7 +22,7 @@ The content and software on this site is the property of FaithIt.com and/or its 
 
 FaithIt.com is provided to you for your own personal use, and it may not be used for any commercial purpose. If you wish to use any portion of FaithIt.com for a commercial purpose, please contact us for more information. Any use of the site that infringes upon FaithIt.com’s intellectual property rights or that is for commercial purposes will be considered a legal violation, and FaithIt.com maintains the right to take appropriate civil and criminal legal action.
 
-Requests for permission to reproduce or distribute materials found on this site can be made by contacting our Managing Editor, FaithIt.com, 5550 Tech Center Drive, Colorado Springs, CO 80919, (800) 991-6011, support@faithit.com.
+Requests for permission to reproduce or distribute materials found on this site can be made by contacting our Managing Editor, FaithIt.com, 5550 Tech Center Drive, Colorado Springs, CO 80919, (800) 991-6011, [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **COMMENTS**
 
