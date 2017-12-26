@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell4me.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628120613id_/http%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell4me.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226222940id_/http%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy) for the most accurate reproduction.*
 
 # Privacy Statement Regarding Customer and Online User Information | Dell
 
