@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inffuse.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001033920id_/http%3A//www.inffuse.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inffuse.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227000450id_/http%3A//www.inffuse.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inffuse
 
