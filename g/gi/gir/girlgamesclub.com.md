@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlgamesclub.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612171230id_/http%3A//www.girlgamesclub.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgamesclub.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227002610id_/http%3A//www.girlgamesclub.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy By Girl Games Club
 
