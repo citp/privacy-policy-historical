@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalfreepress.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620041232id_/http%3A//ufpnews.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalfreepress.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226234057id_/http%3A//ufpnews.com/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy ⋆ UFP NEWS
 
