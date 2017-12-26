@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wp-answers.com privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630085613id_/http%3A//wp-answers.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wp-answers.com privacy policy that was archived on 2017-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171226104828id_/http%3A//wp-answers.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-US"><head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,163 +31,9 @@
 <link rel="alternate" type="application/rss+xml" title="WP-Answers: WordPress Question &amp; Answer Plugin / Theme » Comments Feed" href="http://wp-answers.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="WP-Answers: WordPress Question &amp; Answer Plugin / Theme » Privacy Policy Comments Feed" href="http://wp-answers.com/privacy-policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/wp-answers.com\/wp-includes\/js\/wp-emoji.js","twemoji":"http:\/\/wp-answers.com\/wp-includes\/js\/twemoji.js"}};
-			( function( window, document, settings ) {
-	var src, ready, ii, tests;
-
-	/*
-	 * Create a canvas element for testing native browser support
-	 * of emoji.
-	 */
-	var canvas = document.createElement( 'canvas' );
-	var context = canvas.getContext && canvas.getContext( '2d' );
-
-	/**
-	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
-	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
-	 *
-	 * @since 4.2.0
-	 *
-	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
-	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
-	 */
-	function browserSupportsEmoji( type ) {
-		var stringFromCharCode = String.fromCharCode,
-			flag, flag2, technologist, technologist2;
-
-		if ( ! context || ! context.fillText ) {
-			return false;
-		}
-
-		// Cleanup from previous test.
-		context.clearRect( 0, 0, canvas.width, canvas.height );
-
-		/*
-		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
-		 * it doesn't work when the font is bolder than 500 weight. So, we
-		 * check for bold rendering support to avoid invisible emoji in Chrome.
-		 */
-		context.textBaseline = 'top';
-		context.font = '600 32px Arial';
-
-		switch ( type ) {
-			case 'flag':
-				/*
-				 * This works because the image will be one of three things:
-				 * - Two empty squares, if the browser doesn't render emoji
-				 * - Two squares with 'U' and 'N' in them, if the browser doesn't render flag emoji
-				 * - The United Nations flag
-				 *
-				 * The first two will encode to small images (1-2KB data URLs), the third will encode
-				 * to a larger image (4-5KB data URL).
-				 */
-				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
-				if ( canvas.toDataURL().length < 3000 ) {
-					return false;
-				}
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				/*
-				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
-				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
-				 * Unicode support is up to date.
-				 *
-				 * To test for support, we try to render it, and compare the rendering to how it would look if
-				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
-				 */
-				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
-				flag = canvas.toDataURL();
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
-				flag2 = canvas.toDataURL();
-
-				return flag !== flag2;
-			case 'emoji4':
-				/*
-				 * Emoji 4 has the best technologists. So does WordPress!
-				 *
-				 * To test for support, try to render a new emoji (woman technologist: medium skin tone),
-				 * then compare it to how it would look if the browser doesn't render it correctly
-				 * (woman technologist: medium skin tone + personal computer).
-				 */
-				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 8205, 55357, 56507), 0, 0 );
-				technologist = canvas.toDataURL();
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 55357, 56507), 0, 0 );
-				technologist2 = canvas.toDataURL();
-
-				return technologist !== technologist2;
-		}
-
-		return false;
-	}
-
-	function addScript( src ) {
-		var script = document.createElement( 'script' );
-
-		script.src = src;
-		script.defer = script.type = 'text/javascript';
-		document.getElementsByTagName( 'head' )[0].appendChild( script );
-	}
-
-	tests = Array( 'flag', 'emoji4' );
-
-	settings.supports = {
-		everything: true,
-		everythingExceptFlag: true
-	};
-
-	for( ii = 0; ii < tests.length; ii++ ) {
-		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
-
-		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
-
-		if ( 'flag' !== tests[ ii ] ) {
-			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
-		}
-	}
-
-	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
-
-	settings.DOMReady = false;
-	settings.readyCallback = function() {
-		settings.DOMReady = true;
-	};
-
-	if ( ! settings.supports.everything ) {
-		ready = function() {
-			settings.readyCallback();
-		};
-
-		if ( document.addEventListener ) {
-			document.addEventListener( 'DOMContentLoaded', ready, false );
-			window.addEventListener( 'load', ready, false );
-		} else {
-			window.attachEvent( 'onload', ready );
-			document.attachEvent( 'onreadystatechange', function() {
-				if ( 'complete' === document.readyState ) {
-					settings.readyCallback();
-				}
-			} );
-		}
-
-		src = settings.source || {};
-
-		if ( src.concatemoji ) {
-			addScript( src.concatemoji );
-		} else if ( src.wpemoji && src.twemoji ) {
-			addScript( src.twemoji );
-			addScript( src.wpemoji );
-		}
-	}
-
-} )( window, document, window._wpemojiSettings );
-		</script><script src="http://wp-answers.com/wp-includes/js/twemoji.js" type="text/javascript" defer=""></script><script src="http://wp-answers.com/wp-includes/js/wp-emoji.js" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/wp-answers.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://wp-answers.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -204,7 +50,7 @@ img.emoji {
 </style>
 <link rel="stylesheet" id="wpt-css-default-css" href="http://wp-answers.com/wp-content/plugins/kento-pricing-table-free/themes/default/style.css" type="text/css" media="all">
 <link rel="stylesheet" id="wpt-css-css" href="http://wp-answers.com/wp-content/plugins/kento-pricing-table-free/css/style.css" type="text/css" media="all">
-<link rel="stylesheet" id="wp-color-picker-css" href="http://wp-answers.com/wp-admin/css/color-picker.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-color-picker-css" href="http://wp-answers.com/wp-admin/css/color-picker.min.css" type="text/css" media="all">
 <link rel="stylesheet" id="contact-form-7-css" href="http://wp-answers.com/wp-content/plugins/contact-form-7/includes/css/styles.css" type="text/css" media="all">
 <link rel="stylesheet" id="smile-modal-style-css" href="http://wp-answers.com/wp-content/plugins/convertplug/modules/modal/assets/css/modal.min.css" type="text/css" media="all">
 <link rel="stylesheet" id="cp-perfect-scroll-style-css" href="http://wp-answers.com/wp-content/plugins/convertplug/modules/slide_in/../../admin/assets/css/perfect-scrollbar.min.css" type="text/css" media="all">
@@ -220,7 +66,7 @@ var wpt_ajax = {"wpt_ajaxurl":"http:\/\/wp-answers.com\/wp-admin\/admin-ajax.php
 <link rel="https://api.w.org/" href="http://wp-answers.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wp-answers.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wp-answers.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.7.5">
+<meta name="generator" content="WordPress 4.7.8">
 <link rel="shortlink" href="http://wp-answers.com/?p=119">
 <link rel="alternate" type="application/json+oembed" href="http://wp-answers.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwp-answers.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://wp-answers.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwp-answers.com%2Fprivacy-policy%2F&amp;format=xml">
@@ -422,12 +268,12 @@ WP-Answers is a <a href="http://wp-answers.com">WordPress Question and Answer Pl
 				var timerRunning = false;
 				var x = new Date() ;
 				var now = x.getTime() ;
-				var gmt = 1498812974 * 1000 ;
+				var gmt = 1514285308 * 1000 ;
 				var diffms = (now - gmt) ;
 				</script>
-	             <style type="text/css"></style><link rel="stylesheet" type="text/css" id="cp-google-fonts" href="https://fonts.googleapis.com/css?family=Bitter|Lato|Libre+Baskerville|Montserrat|Neuton|Open+Sans|Pacifico|Raleway|Roboto|Sacramento|Varela+Round|Lato|Open Sans|Libre Baskerville|Montserrat|Neuton|Raleway|Roboto|Sacramento|Varela Round|Pacifico|Bitter">	<div data-class-id="content-5956122e8b941" data-referrer-domain="" data-referrer-check="hide" data-after-content-value="50" class="cp-onload overlay-show cp-cp_id_3cf75 cp-modal-global" data-overlay-class="overlay-zoomin" data-onload-delay="" data-onscroll-value="" data-exit-intent="enabled" data-closed-cookie-time="10" data-conversion-cookie-time="90" data-modal-id="cp_id_3cf75" data-modal-style="cp_id_3cf75" data-option="smile_modal_styles" data-custom-class="cp-cp_id_3cf75 cp-modal-global" data-load-on-refresh="enabled" data-dev-mode="disabled"></div>
+	             <style type="text/css"></style><link rel="stylesheet" type="text/css" id="cp-google-fonts" href="https://fonts.googleapis.com/css?family=Bitter|Lato|Libre+Baskerville|Montserrat|Neuton|Open+Sans|Pacifico|Raleway|Roboto|Sacramento|Varela+Round|Lato|Open Sans|Libre Baskerville|Montserrat|Neuton|Raleway|Roboto|Sacramento|Varela Round|Pacifico|Bitter">	<div data-class-id="content-5a4228fc804d0" data-referrer-domain="" data-referrer-check="hide" data-after-content-value="50" class="cp-onload overlay-show cp-cp_id_3cf75 cp-modal-global" data-overlay-class="overlay-zoomin" data-onload-delay="" data-onscroll-value="" data-exit-intent="enabled" data-closed-cookie-time="10" data-conversion-cookie-time="90" data-modal-id="cp_id_3cf75" data-modal-style="cp_id_3cf75" data-option="smile_modal_styles" data-custom-class="cp-cp_id_3cf75 cp-modal-global" data-load-on-refresh="enabled" data-dev-mode="disabled"></div>
 	<div data-form-layout="cp-form-layout-1" class="cp-modal-popup-container cp_id_3cf75 cp-jugaad-container">
-		<div class="cp-overlay  smile-bounceInDown content-5956122e8b941 global_modal_container " data-placeholder-font="" data-class="content-5956122e8b941" style=" background:rgba(0, 0, 0, 0.71)" data-closed-cookie-time="10" data-conversion-cookie-time="90" data-modal-id="cp_id_3cf75" data-modal-style="cp_id_3cf75" data-option="smile_modal_styles" data-custom-class="cp-cp_id_3cf75 cp-modal-global" data-load-on-refresh="enabled" data-scheduled="false" data-timezone="0" data-timezonename="" data-placeholder-color="" data-image-position="" data-hide-img-on-mobile="768" data-affiliate_setting="0" data-overlay-animation="smile-bounceInDown" data-redirect-to="self" data-tz-offset="0">
+		<div class="cp-overlay  smile-bounceInDown content-5a4228fc804d0 global_modal_container " data-placeholder-font="" data-class="content-5a4228fc804d0" style=" background:rgba(0, 0, 0, 0.71)" data-closed-cookie-time="10" data-conversion-cookie-time="90" data-modal-id="cp_id_3cf75" data-modal-style="cp_id_3cf75" data-option="smile_modal_styles" data-custom-class="cp-cp_id_3cf75 cp-modal-global" data-load-on-refresh="enabled" data-scheduled="false" data-timezone="0" data-timezonename="" data-placeholder-color="" data-image-position="" data-hide-img-on-mobile="768" data-affiliate_setting="0" data-overlay-animation="smile-bounceInDown" data-redirect-to="self" data-tz-offset="0">
 	    	<div class="cp-modal cp-modal-custom-size" style="width:100%;height:auto;max-width:700px;">
 	      		<div class="cp-animate-container" data-overlay-animation="smile-bounceInDown" data-exit-animation="smile-fadeOutDown">
 	      			<div class="cp-modal-content " style="box-shadow:0px 0px 5px 0px rgba(86,86,131,0.6);-webkit-box-shadow:0px 0px 5px 0px rgba(86,86,131,0.6);-moz-box-shadow:0px 0px 5px 0px rgba(86,86,131,0.6);border-radius: 2px 2px 2px 2px;-moz-border-radius: 2px 2px 2px 2px;-webkit-border-radius: 2px 2px 2px 2px;border-style: none;border-color: rgb(255,255, 255);border-width:  px;border-width:0px;;">
@@ -459,15 +305,15 @@ WP-Answers is a <a href="http://wp-answers.com">WordPress Question and Answer Pl
 			</div>
 			<div class="cp-form-container">
 				
-		<style type="text/css" class="cp-form-css">.content-5956122e8b941 .cp-form-container label {    display:none;}.content-5956122e8b941 .cp-form-container label {    color: rgb(153, 153, 153);   font-size: 15px;	font-family:; 	text-align: left;} .content-5956122e8b941 .cp-form-container .cp-form-field select {    text-align-last: left;   direction: ltr;}.content-5956122e8b941 .cp-form-container input:focus:not([type='radio']):not([type='checkbox']):not([type='range']), .content-5956122e8b941 .cp-form-container textarea:focus, .content-5956122e8b941 .cp-form-container .cp-form-field button, .content-5956122e8b941 .cp-form-container .cp-form-field input, .content-5956122e8b941 .cp-form-container .cp-form-field select, .content-5956122e8b941 .cp-form-container .cp-form-field textarea {  	text-align: left; 	font-size: 15px; 	font-family: ; 	color: rgb(153, 153, 153); 	background-color: rgb(255, 255, 255); 	border-color: rgb(191, 190, 190); 	padding-top: 10px; 	padding-bottom: 10px; 	padding-left: 15px; 	padding-right: 15px; 	border-radius: 3px;}.content-5956122e8b941 .cp-form-container .cp-submit {  	padding-top: 5px; 	padding-bottom: 5px; 	padding-left: 15px; 	padding-right: 15px;}.content-5956122e8b941 .cp-form-container .cp-submit.cp-btn-flat {  	background: #EA773D!important;border-radius:3px;}.content-5956122e8b941 .cp-form-container .cp-submit.cp-btn-flat:hover {  	background: #dd6a30!important;}.content-5956122e8b941 .cp-form-field.cp-enable-box-shadow > div { border-radius: 3px;}</style>
+		<style type="text/css" class="cp-form-css">.content-5a4228fc804d0 .cp-form-container label {    display:none;}.content-5a4228fc804d0 .cp-form-container label {    color: rgb(153, 153, 153);   font-size: 15px;	font-family:; 	text-align: left;} .content-5a4228fc804d0 .cp-form-container .cp-form-field select {    text-align-last: left;   direction: ltr;}.content-5a4228fc804d0 .cp-form-container input:focus:not([type='radio']):not([type='checkbox']):not([type='range']), .content-5a4228fc804d0 .cp-form-container textarea:focus, .content-5a4228fc804d0 .cp-form-container .cp-form-field button, .content-5a4228fc804d0 .cp-form-container .cp-form-field input, .content-5a4228fc804d0 .cp-form-container .cp-form-field select, .content-5a4228fc804d0 .cp-form-container .cp-form-field textarea {  	text-align: left; 	font-size: 15px; 	font-family: ; 	color: rgb(153, 153, 153); 	background-color: rgb(255, 255, 255); 	border-color: rgb(191, 190, 190); 	padding-top: 10px; 	padding-bottom: 10px; 	padding-left: 15px; 	padding-right: 15px; 	border-radius: 3px;}.content-5a4228fc804d0 .cp-form-container .cp-submit {  	padding-top: 5px; 	padding-bottom: 5px; 	padding-left: 15px; 	padding-right: 15px;}.content-5a4228fc804d0 .cp-form-container .cp-submit.cp-btn-flat {  	background: #EA773D!important;border-radius:3px;}.content-5a4228fc804d0 .cp-form-container .cp-submit.cp-btn-flat:hover {  	background: #dd6a30!important;}.content-5a4228fc804d0 .cp-form-field.cp-enable-box-shadow > div { border-radius: 3px;}</style>
 			<div class="form-main cp-form-layout-1">
 
 		        <form id="smile-optin-form" class="cp-form  ">
 
 					
 		<input type="hidden" name="cp-page-url" value="http://wp-answers.com/privacy-policy">
-		<input type="hidden" name="param[user_id]" value="cp-uid-5a008807f87a3559d53ce4999826cf96">
-        <input type="hidden" name="param[date]" value="30-6-2017">
+		<input type="hidden" name="param[user_id]" value="cp-uid-b6451610dc4b89b367e7026c4df11cae">
+        <input type="hidden" name="param[date]" value="26-12-2017">
 		<input type="hidden" name="list_parent_index" value="1">
         <input type="hidden" name="option" value="cp_mailchimp_wp-answers_subscription_list">
 		<input type="hidden" name="action" value="mailchimp_add_subscriber">
@@ -557,7 +403,7 @@ WP-Answers is a <a href="http://wp-answers.com">WordPress Question and Answer Pl
 				var timerRunning = false;
 				var x = new Date() ;
 				var now = x.getTime() ;
-				var gmt = 1498812974 * 1000 ;
+				var gmt = 1514285308 * 1000 ;
 				var diffms = (now - gmt) ;
 				</script>
 	            	            <script type="text/javascript" id="slidein">
@@ -587,7 +433,7 @@ WP-Answers is a <a href="http://wp-answers.com">WordPress Question and Answer Pl
 				var timerRunning = false;
 				var x = new Date() ;
 				var now = x.getTime() ;
-				var gmt = 1498812974 * 1000 ;
+				var gmt = 1514285308 * 1000 ;
 				var diffms = (now - gmt) ;
 				</script>
 	            <link rel="stylesheet" id="bsf-core-frosty-style-css" href="http://wp-answers.com/wp-content/plugins/convertplug/admin/bsf-core/assets/css/frosty.css" type="text/css" media="all">
@@ -599,7 +445,7 @@ var _wpcf7 = {"loaderUrl":"http:\/\/wp-answers.com\/wp-content\/plugins\/contact
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://wp-answers.com/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
-<script type="text/javascript" src="http://wp-answers.com/wp-includes/js/wp-embed.js"></script>
+<script type="text/javascript" src="http://wp-answers.com/wp-includes/js/wp-embed.min.js"></script>
 <script type="text/javascript" src="http://wp-answers.com/wp-content/plugins/convertplug/admin/bsf-core/assets/js/frosty.js"></script>
 <script type="text/javascript" src="http://wp-answers.com/wp-content/plugins/convertplug/modules/assets/js/idle-timer.min.js"></script>
 <script type="text/javascript">
