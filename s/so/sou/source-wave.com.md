@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the source-wave.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521134050id_/http%3A//source-wave.com/product/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the source-wave.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226211538id_/http%3A//source-wave.com/product/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Source Wave Marketing
 
@@ -66,7 +66,7 @@ Source-Wave.com is dedicated to ensuring compliance with the Can-Spam Act, 
 
 To ensure compliance with the Can-Spam Act, Source-Wave.com has implemented the following guidelines for email delivery:
 
-  1. All emails sent to you by Source-Wave.com will clearly identify Source-Wave.com as the sender. FROM / SENDER: someone@Source-Wave.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @Source-Wave.com).
+  1. All emails sent to you by Source-Wave.com will clearly identify Source-Wave.com as the sender. FROM / SENDER: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) (NOTE: The actual sender will alter from department to department, but all from addresses will end with @Source-Wave.com).
   2. Any email from Source-Wave.com will include the ability to unsubscribe from future email messages.
   3. Unsubscribing will ensure the customer is removed from ALL lists at Source-Wave.com; this excludes customer service emails regarding the processing and status of a current product.
   4. All emails sent to you directly by Source-Wave.com include valid postal address information in the footer.
