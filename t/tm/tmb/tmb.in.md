@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmb.in privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626052626id_/http%3A//www.tmb.in/policy_privacy/click_here_to_see_our_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmb.in privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226225958id_/http%3A//www.tmb.in/policy_privacy/click_here_to_see_our_privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Click Here To See Our Privacy Policy : Get the Best Interest Rates on Deposits from the Best Indian Bank for NRI Deposits
 
