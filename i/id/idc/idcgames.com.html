@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the idcgames.com privacy policy that was archived on 2017-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627032849id_/https%3A//en.idcgames.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idcgames.com privacy policy that was archived on 2017-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171226224611id_/https%3A//en.idcgames.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -57,8 +57,8 @@
         <meta name="DC.Subject" content="News Games online, MMO, MMORPG, RTS">
         <link rel="icon" type="image/x-icon" href="//www.idcgames.com/img/favicon.ico">
         <link rel="shortcut icon" href="//www.idcgames.com/img/favicon.ico">
-        <link href="https://plus.google.com/110959600206128711708/videos" rel="publisher">
-        <script src="https://www.idcgames.com/js/jquery-1.11.1.min.js"></script>
+        <link href="//plus.google.com/110959600206128711708/videos" rel="publisher">
+        <script src="//www.idcgames.com/js/jquery-1.11.1.min.js"></script>
         <!--<script src="//www.idcgames.com/js/minihead.js" type="text/javascript"></script>-->
         <script>document.cookie="idioma=en;domain=.idcgames.com; path=/";</script>
         
@@ -135,8 +135,9 @@
         <link rel="alternate" hreflang="ar" href="https://ar.idcgames.com/privacy-policy">
         <link rel="alternate" hreflang="ko" href="https://ko.idcgames.com/privacy-policy">
         
-
-        <script>     
+<!--
+<meta name="apple-itunes-app" content="app-id=myAppStoreID, affiliate-data=myAffiliateData, app-argument=myURL">
+<link rel="manifest" href="/manifest.json">-->        <script>     
   var _gaq = _gaq || [];
 
   _gaq.push(['_setAccount', 'UA-43282477-1']);    
@@ -176,395 +177,819 @@
                 <script src="//www.idcgames.com/js/crypto.js"></script>
 
 <script> 
+
 var token='49e3df939ffed67c3b7a70487d5b1754';
+
 /*function loadNotifications(user,red,token,isBarUpdate){ 
+
     var result='';        
+
     var htmlResponse='';
+
     var isBarUpdate = isBarUpdate || 0;      
+
     $.ajax({
+
         type: "GET",
+
         url: "/unifriend/ListarSolicitudPendiente.php",
+
         dataType: "json",
+
         contentType: "application/json; charset=utf-8",
+
         data : "cLogin="+user+"&cRed="+red+"&cToken="+token,
+
         async:true,
+
         error: function(objeto, quepaso, otroobj){
+
             console.log('error'+objeto);
+
             console.log('error'+quepaso);
+
             },
+
         success:function (json){
+
             console.log("loadNotifBar11");
+
             console.log(json);
+
             var str = JSON.stringify(json);
+
             var obj = JSON.parse(str);
+
             try{   
+
                 obj.TSolicitud.TSolicitudRow=new Array(obj.TSolicitud.TSolicitudRow); 
+
                 totalSolicitudes=obj.TSolicitud.TSolicitudRow.length;
+
             }catch(e){
+
                 console.log("try-catch");
+
                 obj.TSolicitud.TSolicitudRow=new Array(obj.TSolicitud.TSolicitudRow);  
+
                 totalSolicitudes=obj.TSolicitud.TSolicitudRow.length;
+
             }
+
             console.log("ts: "+totalSolicitudes);
+
             if (totalSolicitudes>1){ 
+
                 
+
                 $('#badge-bar').html(totalSolicitudes);     
+
                 $('#button-friend-idcbar').removeClass('btn-bar-inactive'); 
+
             }
+
             console.log($('#badge-bar').text());
+
         }
+
      });                
+
 } */
+
 function loadNotifications(user,red,token,isBarUpdate){ 
+
     console.log("####### load #######");
+
     var result='';        
+
     var htmlResponse='';
+
     var isBarUpdate = isBarUpdate || 0;     
+
     $.ajax({
+
         type: "GET",
+
         url: "/unifriend/ListarSolicitudPendiente.php",
+
         dataType: "json",
+
         contentType: "application/json; charset=utf-8",
+
         data : "cLogin="+user+"&cRed="+red+"&cToken="+token,
+
         async:true,
+
         error: function(objeto, quepaso, otroobj){
+
             console.log('error'+objeto);
+
             console.log('error'+quepaso);
+
             },
+
         success:function (json){
+
             var str = JSON.stringify(json);
+
             var obj = JSON.parse(str);
+
             try{
+
                 totalSolicitudes=obj.TSolicitud.TSolicitudRow.length;
+
             }catch(e){
+
                 totalSolicitudes=0;
+
                 obj.TSolicitud.TSolicitudRow=new Array(obj.TSolicitud.TSolicitudRow);
+
             }
+
             if (totalSolicitudes==undefined){obj.TSolicitud.TSolicitudRow=new Array(obj.TSolicitud.TSolicitudRow);totalSolicitudes=obj.TSolicitud.TSolicitudRow.length;}
+
             
+
             if (isBarUpdate==0){
+
                 $('#notificationsBox').html('');
-                $('#notificationsBox').html('<div class="row"> \
-                <div class="col-xs-12">');
+
+                $('#notificationsBox').html('<div class="row"> <div class="col-xs-12">');
+
             }
+
             if (totalSolicitudes){
+
                 if (isBarUpdate==0){
-                    $('#notificationsBox').append('<div class="header-square-sidebar m-0"> \
-                        <h3 class="text-left">Notifications <span id="badgeSideBar" class="badge badges-idc-friends-sidebar">'+totalSolicitudes+'</span></h3></div>');
+
+                    $('#notificationsBox').append('<div class="header-square-sidebar m-0"> <h3 class="text-left">Notifications <span id="badgeSideBar" class="badge badges-idc-friends-sidebar">'+totalSolicitudes+'</span></h3></div>');
+
                 }  
+
                 $('#badge-bar').html(totalSolicitudes);
+
                 $('#button-friend-idcbar').removeClass('btn-bar-inactive');
+
             }
+
             
+
         }
+
      });                
+
 }
+
 loadNotifications('','',token,1);
+
 </script>
+
 <script>setRememberCookie('unirem',true,100);</script>
+
+
 <div style="position: relative;width: 100%; height: 40px; z-index: 100; ">
-<nav id="navbar-menu-superior" class="navbar navbar-inverse navbar-fixed-top" role="navigation" data="">
+
+
+<nav id="navbar-menu-superior" class="navbar navbar-inverse navbar-fixed-top" role="navigation" data="0">
+
+
 
         <div class="container-fluid">
-                    <!--IDIOMAS-->
+
+        
+            <!--IDIOMAS-->
+
                 
+
             <ul id="selector-idiomas" onclick="showLanguages()">
+
                 
+
                 <li>
+
                     <a class="opcion_en" title="CHANGE LANGUAGE">
+
                     <span>EN</span>
+
                     <img src="//cdn6.idcgames.com/images/flags/flag-en.png" width="27" height="19" alt="flag-en">
+
                     </a>
+
                         <ul id="selector-flags" style="visibility:hidden">
-                                        <li>                                                                
-                                            <a class="opcion_es" title="ES" onclick="cambiaridiomaIp(&quot;es&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_es" title="ES" onclick="cambiaridiomaIp(&quot;es&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>ES</span>
+
                                             <img src="//cdn9.idcgames.com/images/flags/flag-es.png" width="27" height="19" title="ES" alt="flag-es">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_de" title="DE" onclick="cambiaridiomaIp(&quot;de&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_de" title="DE" onclick="cambiaridiomaIp(&quot;de&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>DE</span>
+
                                             <img src="//cdn4.idcgames.com/images/flags/flag-de.png" width="27" height="19" title="DE" alt="flag-de">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_fr" title="FR" onclick="cambiaridiomaIp(&quot;fr&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_fr" title="FR" onclick="cambiaridiomaIp(&quot;fr&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>FR</span>
-                                            <img src="//cdn3.idcgames.com/images/flags/flag-fr.png" width="27" height="19" title="FR" alt="flag-fr">
+
+                                            <img src="//cdn4.idcgames.com/images/flags/flag-fr.png" width="27" height="19" title="FR" alt="flag-fr">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_cs" title="CS" onclick="cambiaridiomaIp(&quot;cs&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_cs" title="CS" onclick="cambiaridiomaIp(&quot;cs&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>CS</span>
-                                            <img src="//cdn9.idcgames.com/images/flags/flag-cs.png" width="27" height="19" title="CS" alt="flag-cs">
+
+                                            <img src="//cdn8.idcgames.com/images/flags/flag-cs.png" width="27" height="19" title="CS" alt="flag-cs">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_pl" title="PL" onclick="cambiaridiomaIp(&quot;pl&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_pl" title="PL" onclick="cambiaridiomaIp(&quot;pl&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>PL</span>
-                                            <img src="//cdn8.idcgames.com/images/flags/flag-pl.png" width="27" height="19" title="PL" alt="flag-pl">
+
+                                            <img src="//cdn3.idcgames.com/images/flags/flag-pl.png" width="27" height="19" title="PL" alt="flag-pl">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_pt" title="PT" onclick="cambiaridiomaIp(&quot;pt&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_pt" title="PT" onclick="cambiaridiomaIp(&quot;pt&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>PT</span>
-                                            <img src="//cdn6.idcgames.com/images/flags/flag-pt.png" width="27" height="19" title="PT" alt="flag-pt">
+
+                                            <img src="//cdn2.idcgames.com/images/flags/flag-pt.png" width="27" height="19" title="PT" alt="flag-pt">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_it" title="IT" onclick="cambiaridiomaIp(&quot;it&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_it" title="IT" onclick="cambiaridiomaIp(&quot;it&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>IT</span>
-                                            <img src="//cdn9.idcgames.com/images/flags/flag-it.png" width="27" height="19" title="IT" alt="flag-it">
+
+                                            <img src="//cdn6.idcgames.com/images/flags/flag-it.png" width="27" height="19" title="IT" alt="flag-it">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_tr" title="TR" onclick="cambiaridiomaIp(&quot;tr&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_tr" title="TR" onclick="cambiaridiomaIp(&quot;tr&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>TR</span>
-                                            <img src="//cdn2.idcgames.com/images/flags/flag-tr.png" width="27" height="19" title="TR" alt="flag-tr">
+
+                                            <img src="//cdn9.idcgames.com/images/flags/flag-tr.png" width="27" height="19" title="TR" alt="flag-tr">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_el" title="EL" onclick="cambiaridiomaIp(&quot;el&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_el" title="EL" onclick="cambiaridiomaIp(&quot;el&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>EL</span>
-                                            <img src="//cdn9.idcgames.com/images/flags/flag-el.png" width="27" height="19" title="EL" alt="flag-el">
+
+                                            <img src="//cdn3.idcgames.com/images/flags/flag-el.png" width="27" height="19" title="EL" alt="flag-el">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_ro" title="RO" onclick="cambiaridiomaIp(&quot;ro&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_ro" title="RO" onclick="cambiaridiomaIp(&quot;ro&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>RO</span>
-                                            <img src="//cdn2.idcgames.com/images/flags/flag-ro.png" width="27" height="19" title="RO" alt="flag-ro">
+
+                                            <img src="//cdn3.idcgames.com/images/flags/flag-ro.png" width="27" height="19" title="RO" alt="flag-ro">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_ru" title="RU" onclick="cambiaridiomaIp(&quot;ru&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_ru" title="RU" onclick="cambiaridiomaIp(&quot;ru&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>RU</span>
-                                            <img src="//cdn2.idcgames.com/images/flags/flag-ru.png" width="27" height="19" title="RU" alt="flag-ru">
+
+                                            <img src="//cdn6.idcgames.com/images/flags/flag-ru.png" width="27" height="19" title="RU" alt="flag-ru">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_vi" title="VI" onclick="cambiaridiomaIp(&quot;vi&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_vi" title="VI" onclick="cambiaridiomaIp(&quot;vi&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>VI</span>
-                                            <img src="//cdn5.idcgames.com/images/flags/flag-vi.png" width="27" height="19" title="VI" alt="flag-vi">
+
+                                            <img src="//cdn8.idcgames.com/images/flags/flag-vi.png" width="27" height="19" title="VI" alt="flag-vi">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_ja" title="JA" onclick="cambiaridiomaIp(&quot;ja&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_ja" title="JA" onclick="cambiaridiomaIp(&quot;ja&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>JA</span>
-                                            <img src="//cdn2.idcgames.com/images/flags/flag-ja.png" width="27" height="19" title="JA" alt="flag-ja">
+
+                                            <img src="//cdn7.idcgames.com/images/flags/flag-ja.png" width="27" height="19" title="JA" alt="flag-ja">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_ar" title="AR" onclick="cambiaridiomaIp(&quot;ar&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_ar" title="AR" onclick="cambiaridiomaIp(&quot;ar&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>AR</span>
-                                            <img src="//cdn8.idcgames.com/images/flags/flag-ar.png" width="27" height="19" title="AR" alt="flag-ar">
+
+                                            <img src="//cdn4.idcgames.com/images/flags/flag-ar.png" width="27" height="19" title="AR" alt="flag-ar">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_th" title="TH" onclick="cambiaridiomaIp(&quot;th&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_th" title="TH" onclick="cambiaridiomaIp(&quot;th&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>TH</span>
-                                            <img src="//cdn5.idcgames.com/images/flags/flag-th.png" width="27" height="19" title="TH" alt="flag-th">
+
+                                            <img src="//cdn2.idcgames.com/images/flags/flag-th.png" width="27" height="19" title="TH" alt="flag-th">
+
                                             </a>
+
                                         </li>
-                                        <li>                                                                
-                                            <a class="opcion_ko" title="KO" onclick="cambiaridiomaIp(&quot;ko&quot;,&quot;privacy-policy&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
+                                        <li>                                                                                                                                                                                 
+
+                                            <a class="opcion_ko" title="KO" onclick="cambiaridiomaIp(&quot;ko&quot;,&quot;&quot;,&quot;0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;);">
+
                                             <span>KO</span>
-                                            <img src="//cdn5.idcgames.com/images/flags/flag-ko.png" width="27" height="19" title="KO" alt="flag-ko">
+
+                                            <img src="//cdn7.idcgames.com/images/flags/flag-ko.png" width="27" height="19" title="KO" alt="flag-ko">
+
                                             </a>
+
                                         </li></ul>
+
                     </li>
-        </ul>            <!--FIN IDIOMAS-->
+
+        </ul>
+            <!--FIN IDIOMAS-->
+
+
 
             <!-- Brand and toggle get grouped for better mobile display -->
+
             <div class="navbar-header">
+
              
 
+
+
                 <div class="btn-menu-idc-mobile">
-                                        <a href="#menu-toggle" id="menu-toggle-mobile" class="navbar-toggle">
+
+                
+                        <a href="#menu-toggle" id="menu-toggle-mobile" class="navbar-toggle">
+
                             <span class="sr-only">IDC/Games</span>
+
                             <span class="icon-bar"></span>
+
                             <span class="icon-bar"></span>
+
                             <span class="icon-bar"></span>
+
                          </a>
+
                     </div>
-                    
-                                        
+
                     
 
+                    
+                    
+
+                    
+
+
+
                     <div class="logo-idc-mobile">
+
                         <span class="sr-only">IDC/Games, MMO free to play online games. MMORPG, MOBA, RTS... Best multiplayer online games. Don’t wait any longer and play for free!</span>
+
                         <a href="/" class="logo-idc-top"><img src="//www.idcgames.com/images/logo-idc-top.png" height="36" title="IDC/Games – All your online games for free - MMORPG, MOBA, RTS" alt="IDC/Games"></a>
+
                     </div>
+
+
+
 
 
                     <a href="#" class="btn-login-mobile">
+
                         <span class="sr-only"></span>
+
                         <img style="margin: 5px 0;" src="//www.idcgames.com/images/icon-reg.png" width="40" height="27" alt="icon-registro">
+
                     </a>
 
+
+
                 <button type="button" class="navbar-toggle navbar-user" style="padding: 0 !important;" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+
                     <span class="sr-only"></span>
+
                     <!--<img style="margin: 2px 0;" src="//www.idcgames.com/images/icon-menu-user-mobile.png" width="45" height="27" alt="icon-registro">-->
+
                     <!--<i class="fa fa-user"></i><i class="fa fa-bars"></i>-->
+
            
+
                    <script>
-                        $(document).ready(function() {
+
+                        $(document).ready(function() {  
+
                             if (readCookie('idc--avatar')){
-                                                            }else{
-                                                            }
+
+                                
+                            }else{
+
+                                
+                            } 
+
                         });
+
                            
+
                    </script>
 
-                    <div class="icon-avatar-mobile" type="button"><img id="img-abatar-m" src="//www.idcgames.com/images/avatar/avatar-default.jpg" width="38" height="38" alt="IDC/GAMES AVATAR"></div>
+
+
+                    <!--<div class="icon-avatar-mobile" type="button"><img id="img-abatar-m" src="//www.idcgames.com/images/avatar/avatar-default.jpg" width="38" height="38" alt="IDC/GAMES AVATAR"></div>-->
+
+                    <div class="icon-avatar-mobile" type="button"><img id="img-abatar-m" onerror="this.onerror=null;this.src='//www.idcgames.com/images/avatar/avatar-default.jpg'" src="//www.idcgames.com/images/avatar/avatar-default.jpg" width="38" height="38" alt="IDC/GAMES AVATAR"></div>
+
                     <div class="arrow-down-mobile"><i class="fa fa-angle-down"></i></div>
+
                 </button>
 
 
+
+
+
             </div>
+
             <!-- Collect the nav links, forms, and other content for toggling -->
+
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
+
+
                 <ul class="nav navbar-nav nav-web">
+
                     <li>
+
                         <a href="//en.idcgames.com/" class="logo-idc-top"><img src="//www.idcgames.com/images/logo-idc-top.png" title="IDC/Games – All your online games for free - MMORPG, MOBA, RTS" height="36" alt="IDC/GAMES"></a>
+
                     </li>
+
                     <li>
-                                                <a href="#menu-toggle" id="menu-toggle" class="navbar-toggle">
+
+                        
+                        <a href="#menu-toggle" id="menu-toggle" class="navbar-toggle">
+
                             <span class="sr-only">IDC/Games</span>
+
                             <span class="icon-bar"></span>
+
                             <span class="icon-bar"></span>
+
                             <span class="icon-bar"></span>
+
                          </a>
+
                     </li>
+
                     
+
                     
-                                        <li>
+
+
+                    
+                    <li>
+
                         <a href="//en.idcgames.com/launcher/" title="Download IDC/Games" class="idc-download-top">
+
                             <i class="fa fa-download"></i>
+
                             <span>Download IDC/Games</span>
+
                          </a>
+
                     </li>
-                                    </ul>
+
+                    
+                </ul>
+
+
 
                   
-                
+
                 
 
-                                <div id="login" style="display: block;">   
+                
+
+
+
+                
+                <div id="login" style="display: block;">   
+
                     
+
                     <form id="logarse_form_barra_max" name="logarse_form_barra_max" class="form_reg" method="post">
 
+
+
                         <ul id="login-top">
+
                             <li class="remember_pass"><a target="_blank" href="/forget?game_id=0" data-toggle="tooltip" data-placement="bottom" data-original-title="Forgot your password?"><i class="fa fa-question-circle"></i></a></li>
+
                             <li class="log_user"><input type="text" name="user_log" id="user_log" class="form-control" placeholder="User / Email" required="">
+
                             </li>
+
                             <li class="pass_user"><input type="password" name="passw_log" id="passw_log" class="form-control" placeholder="Password" required="">
+
                             </li>
+
                             <li class="log">
-                                <button class="btn-entrar-top" type="submit">Enter                                    <span class="loading_1" id="btnloading_bar" style="display:none;float: right;margin-left: 10px;margin-right: -18px;">
+
+                                <button class="btn-entrar-top" type="submit">Enter
+                                    <span class="loading_1" id="btnloading_bar" style="display:none;float: right;margin-left: 10px;margin-right: -18px;">
+
                                         <span class="sr-only"></span>
+
                                         <img src="//www.idcgames.com/img/ajaxboton.gif" alt="IDC/Games Loading" width="16" height="16">
+
                                     </span>
+
                                 </button>
+
                             </li>
+
                         </ul>
+
                         <ul id="connect-reg-top">
+
                             <li class="reg"><button title="Facebook Social Login" id="fbBtnPortada" class="btn-connect-fb-top " type="button"><i class="fa fa-facebook"></i></button></li>
+
                             <!--<li class="reg"><button id="gplusbtnRegistro" class="btn-connect-gp-top" type="button"><i class="fa fa-google-plus"></i></button></li>-->
+
                             <li class="reg"><button title="G+ Social Login" id="gplusbtnLoginRegistro" class="btn-connect-gp-top" type="button"><i class="fa fa-google-plus"></i></button></li>
+
                             <li class="reg"><button title="Register Now For Free" id="btnRegIdcTop" class="btn-reg-idc-top" type="button"><!--<img src="//www.idcgames.com/images/icon-reg.png" width="40" height="27" alt="icon-registro">--><i class="fa fa-user-plus"></i></button></li>
+
                         </ul>
+
                         <input type="hidden" name="game_id_log" id="game_id_log" value="0">
+
                         <input type="hidden" name="click_bar" id="click_bar" value="">
+
                         <input type="hidden" name="autologin_login" id="autologin_login" value="1">
-                        <input type="hidden" name="ref_login" id="ref_login" value="http://cronix.idcgames.com/en/">
+
+                        <input type="hidden" name="ref_login" id="ref_login" value="">
+
                         <input type="hidden" name="a3m_login" id="a3m_login" value="">
+
                         <input type="hidden" name="friendly_name_lfbm" id="friendly_name_lfbm" value="">
+
                     </form>
 
 
+
+
+
                 </div>
+
                 
 
+
+
+
             </div>
+
             <!-- /.navbar-collapse -->
+
         </div>
+
         <!-- /.container -->
+
     </nav>
+
     </div>
+
       <div id="sidebar-wrapper">
+
             <ul class="sidebar-nav">
+
                 <li class="sidebar-menu-icon"><img src="//www.idcgames.com/images/icon-games_2015.png" alt="MMO Games" width="30" height="30"></li>
-                                
+
+                
+                
+
                 <li class="sidebar-menu-sub special-word"><a href="//en.idcgames.com/featured-games/">Featured</a></li>
-                                                <!--<li class="sidebar-menu-sub"><a href="//"><i class="fa fa-shield" style="margin-right: 5px; color: #ff6200;" width="16" height="16" alt="IDC/Games Shield"></i></a></li>-->
-                                                <li class="sidebar-menu-sub special-word"><a href="//en.idcgames.com/novelty-games/">Novelty</a></li>
+
                 
-                                                <!--<li class="sidebar-menu-sub"><a href="//"><i class="fa fa-star" style="margin-right: 5px; color: #f3b31b;"  width="16" height="16" alt=""></i></a></li>-->
-                                
+                                <!--<li class="sidebar-menu-sub"><a href="//"><i class="fa fa-shield" style="margin-right: 5px; color: #ff6200;" width="16" height="16" alt="IDC/Games Shield"></i></a></li>-->
+
+                
+                
+                <li class="sidebar-menu-sub special-word"><a href="//en.idcgames.com/new-releases-games/">New Releases</a></li>
+
+                
+
+                
+                                <!--<li class="sidebar-menu-sub"><a href="//"><i class="fa fa-star" style="margin-right: 5px; color: #f3b31b;"  width="16" height="16" alt=""></i></a></li>-->
+
+                
+                
+
                 <li class="separador"></li>
+
             
-                                                <li class="sidebar-menu-sub">
-                                    <a href="//en.idcgames.com/adventure-games/">Adventure</a>
-                                </li>
-                                                <li class="sidebar-menu-sub">
-                                    <a href="//en.idcgames.com/strategy-games/">Strategy</a>
-                                </li>
-                                                <li class="sidebar-menu-sub">
-                                    <a href="//en.idcgames.com/mmo-games/">Mmo</a>
-                                </li>
-                                                <li class="sidebar-menu-sub">
-                                    <a href="//en.idcgames.com/rpg-games/">Rpg</a>
-                                </li>
-                                                <li class="sidebar-menu-sub">
-                                    <a href="//en.idcgames.com/sports-games/">Sports</a>
-                                </li>
-                                                <li class="sidebar-menu-sub">
-                                    <a href="//en.idcgames.com/action-games/">Action</a>
-                                </li>
-                                                <li class="sidebar-menu-sub">
-                                    <a href="//en.idcgames.com/shooter-games/">Shooter</a>
-                                </li>
-                                                <li class="sidebar-menu-sub">
-                                    <a href="//en.idcgames.com/-games/"></a>
-                                </li>
+
                 
+                                <li class="sidebar-menu-sub">
+
+                                    <a href="//en.idcgames.com/adventure-games/">Adventure</a>
+
+                                </li>
+
+                
+                                <li class="sidebar-menu-sub">
+
+                                    <a href="//en.idcgames.com/strategy-games/">Strategy</a>
+
+                                </li>
+
+                
+                                <li class="sidebar-menu-sub">
+
+                                    <a href="//en.idcgames.com/mmo-games/">Mmo</a>
+
+                                </li>
+
+                
+                                <li class="sidebar-menu-sub">
+
+                                    <a href="//en.idcgames.com/rpg-games/">Rpg</a>
+
+                                </li>
+
+                
+                                <li class="sidebar-menu-sub">
+
+                                    <a href="//en.idcgames.com/sports-games/">Sports</a>
+
+                                </li>
+
+                
+                                <li class="sidebar-menu-sub">
+
+                                    <a href="//en.idcgames.com/action-games/">Action</a>
+
+                                </li>
+
+                
+                                <li class="sidebar-menu-sub">
+
+                                    <a href="//en.idcgames.com/shooter-games/">Shooter</a>
+
+                                </li>
+
+                
+                                <li class="sidebar-menu-sub">
+
+                                    <a href="//en.idcgames.com/-games/"></a>
+
+                                </li>
+
+                
+
+
+
 
                 <!--<li class="sidebar-menu-sub"><a href=""></a></li>-->
 
+
+
                 <!--<li class="sidebar-menu-secc">Download Games</li>-->
-                                <!--<li class="sidebar-menu-sub"><a href="https://en.idcgames.com//"></a></li>-->
+
                 
-                                
+                <!--<li class="sidebar-menu-sub"><a href="https://en.idcgames.com/the-fate-of-nations/">The Fate of Nations</a></li>-->
+
                 
+
+                
+                
+
+                
+
                 <li class="sidebar-menu-icon" style="margin-top: 20px;"><img src="//www.idcgames.com/images/icon-community.png" width="30" height="30" alt="IDC/Games RRSS"></li>
 
+
+
                 
+
                 <li class="sidebar-menu-sub"><a href="//en.idcgames.com/promotions">Promotions</a></li>
+
+                
+
+
+
+                
+
+                <li class="sidebar-menu-sub"><a href="//en.idcgames.com/news">News</a></li>
+
+                <li class="sidebar-menu-sub">
+
+                    
+
+                    <a style="cursor: pointer" href="//en.idcgames.com/forums">
+
+                            Forums
+                        </a>
+
+                </li>
+
+                <li class="sidebar-menu-sub"><a href="https://idcgames.com/login">Support</a></li>
+
+                <li class="sidebar-menu-sub"><a href="//en.idcgames.com/faq">FAQ</a></li>
+
                 
 
                 
-                <li class="sidebar-menu-sub"><a href="//en.idcgames.com/news">News</a></li>
-                <li class="sidebar-menu-sub">
-                    
-                    <a style="cursor: pointer" href="//en.idcgames.com/forums">
-                            Forums                        </a>
-                </li>
-                <li class="sidebar-menu-sub"><a href="https://idcgames.com/login">Support</a></li>
-                <li class="sidebar-menu-sub"><a href="//en.idcgames.com/faq">FAQ</a></li>
-                
-                
+
                  <li class="sidebar-menu-icon" style="margin-top: 20px;"><img src="//www.idcgames.com/images/icon-idc.png" alt="IDC/Games MMO" width="30" height="30"></li>
+
                                              
-                                <li class="sidebar-menu-sub"><a href="/register?game_id=0">Register</a></li>
-                <li class="sidebar-menu-sub"><a href="/login?game_id=0">Enter</a></li>
-                <li class="sidebar-menu-sub"><a href="/forget?game_id=0" style="cursor:pointer;">Forgot your password?</a></li>
+
                 
-                                
-                                
+                <li class="sidebar-menu-sub"><a href="/register?game_id=0">Register</a></li>
+
+                <li class="sidebar-menu-sub"><a href="/login?game_id=0">Enter</a></li>
+
+                <li class="sidebar-menu-sub"><a href="/forget?game_id=0" style="cursor:pointer;">Forgot your password?</a></li>
+
+                
+
+                
+                
+
+                
+                
+
                  
+
             </ul>
+
         </div>            </header>
             
             
@@ -694,17 +1119,12 @@ to which it belongs, or its partners.</p>                    </div>
                                         <div class="col-xs-12 col-md-3 col-footer-seo-links">
                         <ul style="padding: 0;">
                             <li><h4><a href="//en.idcgames.com/berserk-cataclysm/news" title="">Berserk The Cataclysm</a></h4></li>
-                            <li><a href="//en.idcgames.com/berserk-cataclysm/3x1-on-territory-packs-NT2477.html">3x1 on territory packs!</a></li><li><a href="//en.idcgames.com/berserk-cataclysm/lxxi-clan-war-NT2472.html">LXXI Clan War</a></li><li><a href="//en.idcgames.com/berserk-cataclysm/changes-on-plains-cards-NT2465.html">Changes on Plains Cards!</a></li>                        </ul>
-                    </div>
-                                        <div class="col-xs-12 col-md-3 col-footer-seo-links">
-                        <ul style="padding: 0;">
-                            <li><h4><a href="//en.idcgames.com/ragnarok-online/news" title="">Ragnarök Online</a></h4></li>
-                            <li><a href="//en.idcgames.com/ragnarok-online/13-00am-gmt-—-server-maintenance-complete-NT2188.html">13.00AM (GMT),— Server Maintenance complete</a></li><li><a href="//en.idcgames.com/ragnarok-online/12-30am-gmt-—-server-maintenance-complete-NT2163.html">12.30AM (GMT),— Server Maintenance complete</a></li><li><a href="//en.idcgames.com/ragnarok-online/11-20am-gmt-—-server-maintenance-complete-NT2124.html">11.20AM (GMT),— Server Maintenance complete</a></li>                        </ul>
+                            <li><a href="//en.idcgames.com/berserk-cataclysm/lxxix-clans-war-NT2767.html">LXXIX Clans War</a></li><li><a href="//en.idcgames.com/berserk-cataclysm/20-discount-on-the-apprentice-pack-and-the-master-pack-NT2762.html">20% Discount on the Apprentice Pack and the Master Pack!</a></li><li><a href="//en.idcgames.com/berserk-cataclysm/ranked-ladder-season-46--NT2756.html">Ranked Ladder: Season 46 </a></li>                        </ul>
                     </div>
                                         <div class="col-xs-12 col-md-3 col-footer-seo-links">
                         <ul style="padding: 0;">
                             <li><h4><a href="//en.idcgames.com/metal-assault/news" title="">Metal Assault</a></h4></li>
-                            <li><a href="//en.idcgames.com/metal-assault/fall-in-love-with-the-30-discount-on-valentines-day--NT2323.html">Fall in love with the 30% discount on Valentine's Day </a></li><li><a href="//en.idcgames.com/metal-assault/best-ones-of-the-week-30-01-05-02-NT2315.html">Best ones of the week (30/01- 05/02)</a></li><li><a href="//en.idcgames.com/metal-assault/best-ones-of-the-week-23-01-29-01-NT2307.html">Best ones of the week (23/01- 29/01)</a></li>                        </ul>
+                            <li><a href="//en.idcgames.com/metal-assault/patchnotes-17-10-2017-NT2649.html">Patchnotes [17/10/2017]</a></li><li><a href="//en.idcgames.com/metal-assault/fall-in-love-with-the-30-discount-on-valentines-day--NT2323.html">Fall in love with the 30% discount on Valentine's Day </a></li><li><a href="//en.idcgames.com/metal-assault/best-ones-of-the-week-30-01-05-02-NT2315.html">Best ones of the week (30/01- 05/02)</a></li>                        </ul>
                     </div>
                                         <div class="col-xs-12 col-md-3 col-footer-seo-links">
                         <ul style="padding: 0;">
@@ -724,7 +1144,7 @@ to which it belongs, or its partners.</p>                    </div>
                                         <div class="col-xs-12 col-md-3 col-footer-seo-links">
                         <ul style="padding: 0;">
                             <li><h4><a href="//en.idcgames.com/zula/news" title="">Zula</a></h4></li>
-                            <li><a href="//en.idcgames.com/zula/tournament-streaming-NT2479.html">Tournament Streaming!</a></li><li><a href="//en.idcgames.com/zula/zula-tournament-day-1-referees-and-matches-june-tdm-tournament-NT2478.html">Zula Tournament - Day 1 - Referees and Matches - June TDM Tournament</a></li><li><a href="//en.idcgames.com/zula/​special-mission-time-NT2476.html">​Special Mission: Time</a></li>                        </ul>
+                            <li><a href="//en.idcgames.com/zula/special-mission-time-NT2771.html">Special Mission: Time</a></li><li><a href="//en.idcgames.com/zula/zula-europe-pro-league-winner-NT2770.html">Zula Europe Pro League - Winner</a></li><li><a href="//en.idcgames.com/zula/battleye-faq-NT2769.html">BattlEye FAQ</a></li>                        </ul>
                     </div>
                                     </div>
 
@@ -735,7 +1155,7 @@ to which it belongs, or its partners.</p>                    </div>
                 <div class="menu-footer col-xs-12 col-md-6">
                     <h4>IDC/GAMES</h4>
                         <ul>
-                            <li><a title="Berserk The Cataclysm" href="//en.idcgames.com/berserk-cataclysm/">Berserk The Cataclysm</a></li><li><a title="Ragnarök Online" href="//en.idcgames.com/ragnarok-online/">Ragnarök Online</a></li><li><a title="Habbo Hotel" href="//en.idcgames.com/habbo/">Habbo Hotel</a></li><li><a title="Metal Assault" href="//en.idcgames.com/metal-assault/">Metal Assault</a></li><li><a title="Lost Sector Online" href="//en.idcgames.com/lost-sector-online/">Lost Sector Online</a></li><li><a title="Warside" href="//en.idcgames.com/warside/">Warside</a></li><li><a title="Weapons Of Mythology - New Age" href="//en.idcgames.com/weapons-of-mythology/">Weapons Of Mythology - New Age</a></li><li><a title="Zula" href="//en.idcgames.com/zula/">Zula</a></li><li><a title="Margonem" href="//en.idcgames.com/margonem/">Margonem</a></li><li><a title="Orbit Legends" href="//en.idcgames.com/orbit-legends/">Orbit Legends</a></li>                        </ul>
+                            <li><a title="Berserk The Cataclysm" href="//en.idcgames.com/berserk-cataclysm/">Berserk The Cataclysm</a></li><li><a title="Habbo Hotel" href="//en.idcgames.com/habbo/">Habbo Hotel</a></li><li><a title="Metal Assault" href="//en.idcgames.com/metal-assault/">Metal Assault</a></li><li><a title="Lost Sector Online" href="//en.idcgames.com/lost-sector-online/">Lost Sector Online</a></li><li><a title="Warside" href="//en.idcgames.com/warside/">Warside</a></li><li><a title="Weapons Of Mythology - New Age" href="//en.idcgames.com/weapons-of-mythology/">Weapons Of Mythology - New Age</a></li><li><a title="Zula" href="//en.idcgames.com/zula/">Zula</a></li><li><a title="Margonem" href="//en.idcgames.com/margonem/">Margonem</a></li>                        </ul>
                 </div>
                 <div class="menu-footer col-xs-12 col-md-6">
                                         <h4>PromoCoins</h4>
@@ -753,15 +1173,13 @@ to which it belongs, or its partners.</p>                    </div>
                 <div class="menu-footer col-xs-12 col-md-6">
                     <h4>Shop</h4>
                         <ul>
-                            <li><a href="https://en.idcgames.com/ragnarok-online/shop">Ragnarök Online</a></li><li><a href="https://en.idcgames.com/metal-assault/shop">Metal Assault</a></li><li><a href="https://en.idcgames.com/lost-sector-online/shop">Lost Sector Online</a></li><li><a href="https://en.idcgames.com/warside/shop">Warside</a></li><li><a href="https://en.idcgames.com/weapons-of-mythology/shop">Weapons Of Mythology - New Age</a></li><li><a href="https://en.idcgames.com/margonem/shop">Margonem</a></li><li><a href="https://en.idcgames.com/orbit-legends/shop">Orbit Legends</a></li>                        </ul>
+                            <li><a href="https://en.idcgames.com/metal-assault/shop">Metal Assault</a></li><li><a href="https://en.idcgames.com/lost-sector-online/shop">Lost Sector Online</a></li><li><a href="https://en.idcgames.com/warside/shop">Warside</a></li><li><a href="https://en.idcgames.com/weapons-of-mythology/shop">Weapons Of Mythology - New Age</a></li><li><a href="https://en.idcgames.com/margonem/shop">Margonem</a></li>                        </ul>
                 </div>
                 <div class="menu-footer col-xs-12 col-md-6">
                     <h4>Forums</h4>
                         <ul>
                             <li>
                                             <a style="cursor: pointer" onclick="mostrar('loginlayover_91')">Berserk The Cataclysm</a>
-                                        </li><li>
-                                            <a style="cursor: pointer" onclick="mostrar('loginlayover_91')">Ragnarök Online</a>
                                         </li><li>
                                             <a style="cursor: pointer" onclick="mostrar('loginlayover_91')">Metal Assault</a>
                                         </li><li>
@@ -786,7 +1204,7 @@ to which it belongs, or its partners.</p>                    </div>
                 <div class="menu-footer col-xs-12 col-md-6">
                     <h4>Media</h4>
                         <ul>
-                            <li><a href="//en.idcgames.com/berserk-cataclysm/media">Berserk The Cataclysm</a></li><li><a href="//en.idcgames.com/ragnarok-online/media">Ragnarök Online</a></li><li><a href="//en.idcgames.com/habbo/media">Habbo Hotel</a></li><li><a href="//en.idcgames.com/metal-assault/media">Metal Assault</a></li><li><a href="//en.idcgames.com/lost-sector-online/media">Lost Sector Online</a></li><li><a href="//en.idcgames.com/warside/media">Warside</a></li><li><a href="//en.idcgames.com/weapons-of-mythology/media">Weapons Of Mythology - New Age</a></li><li><a href="//en.idcgames.com/zula/media">Zula</a></li><li><a href="//en.idcgames.com/margonem/media">Margonem</a></li><li><a href="//en.idcgames.com/orbit-legends/media">Orbit Legends</a></li>                        </ul>
+                            <li><a href="//en.idcgames.com/berserk-cataclysm/media">Berserk The Cataclysm</a></li><li><a href="//en.idcgames.com/habbo/media">Habbo Hotel</a></li><li><a href="//en.idcgames.com/metal-assault/media">Metal Assault</a></li><li><a href="//en.idcgames.com/lost-sector-online/media">Lost Sector Online</a></li><li><a href="//en.idcgames.com/warside/media">Warside</a></li><li><a href="//en.idcgames.com/weapons-of-mythology/media">Weapons Of Mythology - New Age</a></li><li><a href="//en.idcgames.com/zula/media">Zula</a></li><li><a href="//en.idcgames.com/margonem/media">Margonem</a></li>                        </ul>
                 </div>
                 <div class="menu-footer col-xs-12 col-md-6">
                     <h4>My IDC</h4>
@@ -811,11 +1229,11 @@ to which it belongs, or its partners.</p>                    </div>
 
                 <div class="menu-footer col-xs-12 col-md-6">
                     <h4>Privacy Policy</h4>
-                            <ul>
-                                <li><a href="//en.idcgames.com/terms" target="_blank">Legal Conditions</a></li>
-                                <li><a href="//en.idcgames.com/privacy-policy" target="_blank">Privacy Policy</a></li>
-                                <li><a href="//en.idcgames.com/legal-warning" target="_blank">Legal Warning</a></li>
-                                                            </ul>
+                    <ul>
+                        <li><a href="//en.idcgames.com/terms" target="_blank">Legal Conditions</a></li>
+                        <li><a href="//en.idcgames.com/privacy-policy" target="_blank">Privacy Policy</a></li>
+                        <li><a href="//en.idcgames.com/legal-warning" target="_blank">Legal Warning</a></li>
+                                            </ul>
                 </div>
 
                 <div class="menu-footer col-xs-12 col-md-6">
@@ -823,13 +1241,11 @@ to which it belongs, or its partners.</p>                    </div>
     <ul>
     <li><a href="/tag/single-player-games/"><span>Single-player games</span></a></li><li><a href="/tag/multi-player-games/"><span>Multi-player games</span></a></li><li><a href="/tag/online-multi-player-games/"><span>Online Multi-Player games</span></a></li><li><a href="/tag/local-multi-player-games/"><span>Local Multi-Player games</span></a></li><li><a href="/tag/co-op-games/"><span>Co-op games</span></a></li><li><a href="/tag/online-co-op-games/"><span>Online Co-op games</span></a></li><li><a href="/tag/cross-platform-multiplayer-games/"><span>Cross-Platform Multiplayer games</span></a></li>    </ul>
 </div>
-
                 </div>
-
 
                 <div class="otros-logos" style="float:none;  text-align:center; margin: 0 auto;padding-top: 25px; clear: both;"><a href="https://www.idcgames.com/" target="_blank"><img class="logo-pegi" src="https://www.idcgames.com/images/logo-idc-white.png" title="IDC/Games" alt="IDC/Games IDC/Games"></a>
 <a href="#" target="_blank"><img class="logo-pegi" src="https://www.idcgames.com/images/awards-idc.png" title="IDC/Games Awards" alt="IDC/Games IDC/Games Awards"></a>
-</div>
+<a href="https://web.comvive.es/"><img class="logo-pegi" src="//idcgames.com/images/logo_comvive.png" alt="Comvive"></a></div>
                 <a rel="license" href="//creativecommons.org/licenses/by/4.0/" target="_blank">
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png">
 </a>
@@ -875,8 +1291,7 @@ to which it belongs, or its partners.</p>                    </div>
         <span>© IDC GAMES 2017. All rights reserved</span>
     </div>
 
-
-
+                
 
 
 
@@ -890,7 +1305,10 @@ to which it belongs, or its partners.</p>                    </div>
 </div>
             
             
-                                    <a class="go-top" href="#"><i class="fa fa-arrow-up"></i></a>
+
+       <script src="//www.idcgames.com/js/snow_2016.js"></script>  
+
+                                            <a class="go-top" href="#"><i class="fa fa-arrow-up"></i></a>
                     </div> <!--fin footer-->
                 </div>
             </div> <!--secc-content-->
@@ -913,8 +1331,8 @@ to which it belongs, or its partners.</p>                    </div>
             $("#wrapper").toggleClass("toggled");
         });
     </script>
-        <script src="//www.idcgames.com/js/antizp/functionsIDC2016.js.php?DF=0&amp;CH=0&amp;tk=b4e90403fb1c41b9c711d58abad23c0f&amp;aid=0&amp;ts=1498534130" type="text/javascript"></script>
-        <script src="//www.idcgames.com/js/functionsIDC2016.js?ts=1498534130" type="text/javascript"></script>
+        <script src="//www.idcgames.com/js/antizp/functionsIDC2016.js.php?DF=0&amp;CH=0&amp;tk=45c97b624ba4839ecd4836e48b96d431&amp;aid=0&amp;ts=1514328369" type="text/javascript"></script>
+        <script src="//www.idcgames.com/js/functionsIDC2016.js?ts=1514328369" type="text/javascript"></script>
         <script async="" src="//www.idcgames.com/js/dollar_get.min.js" type="text/javascript"></script>
         <script async="" src="//www.idcgames.com/js/gconnect_idc2017.js?game_id=0&amp;lang=en_EN&amp;game_type=browser&amp;ssl_url_game=0&amp;friendly_name=&amp;subdomain_name=" type="text/javascript"></script>
         <script async="" src="//www.idcgames.com/js/fb_social2017.js?game_id=0&amp;lang=en_EN&amp;article_id=" type="text/javascript"></script>
@@ -971,7 +1389,7 @@ to which it belongs, or its partners.</p>                    </div>
             <input type="hidden" name="passIDC" id="passIDC" value="">
             <input type="hidden" name="passGAME" id="passGAME" value="">
             <input type="hidden" name="emailIDC" id="emailIDC" value="">
-            <input type="hidden" name="ipIDC" id="ipIDC" value="207.241.229.149">
+            <input type="hidden" name="ipIDC" id="ipIDC" value="54.173.35.129">
             <input type="hidden" name="gameIdIDC" id="gameIdIDC" value="0">
             <input type="hidden" name="origenIDC" id="origenIDC" value="">
             <input type="hidden" name="idiomaIDC" id="idiomaIDC" value="en">
