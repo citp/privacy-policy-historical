@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bongachats.ru privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625130216id_/http%3A//bongachats.ru/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongachats.ru privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226133022id_/http%3A//bongachats.ru/privacy) for the most accurate reproduction.*
 
-# Live Sexcams: XXX Adult Shows, Free Porn Chat - BongaChats - секс видеочат
+# Live Sexcams: XXX Adult Shows - Free Porn Chat - BongaChats - секс видеочат
 
 ## LAST REVISION: SEPTEMBER 19, 2013
 
