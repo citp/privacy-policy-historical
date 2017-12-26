@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627001517id_/http%3A//fico.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226080929id_/http%3A//www.fico.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FICO® Privacy Policy
 
@@ -12,9 +12,9 @@ _“Using FICO Customer Communication Services, we get a secure, highly flexible
 
 \- Wayne Orchowski, CEO BMW
 
-###  FICO Analytic Cloud, democratizing analytics through the cloud. 
+###  FICO Analytic Cloud: Your portal for operationalizing analytics and decisioning. 
 
-Customer data is more widely available than ever, but leveraging data to drive smarter decisions requires new thinking and a new kind of agility. As companies develop strategies for both cloud computing and for using Big Data to improve customer relationships, analytically-empowered solutions, cloud-based applications and a flexible cloud-based Decision Management development platform become essential. 
+Customer data is more widely available than ever, but leveraging data to drive smarter decisions requires new thinking and a new kind of agility. Cloud-based decision management – the seamless marriage of data-driven insights and codified decision logic with applications that reach your customers where and when they want – is the key to operationalizing analytics to automate and optimize customer engagements. The FICO Analytic Cloud is where this journey begins… 
 
 ###  Learn about FICO Products and Solutions whenever is convenient for you. 
 
