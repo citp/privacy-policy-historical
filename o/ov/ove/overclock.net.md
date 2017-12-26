@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the overclock.net privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230093731id_/http%3A//www.overclock.net/a/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overclock.net privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226040829id_/http%3A//www.overclock.net/a/privacy) for the most accurate reproduction.*
 
 # Privacy - Overclock.net Community
 
-Posted 11/2/12  • Last updated 8/18/15  • 1,385 views 
+Posted 11/2/12  • Last updated 8/18/15  • 2,522 views 
 
 This policy outlines the information that is collected by Overclock.net, and how that information is used. Overclock.net is operated by Performance Computing Enthusiast Forum, Inc. (including its affiliates, the “Company”), a subsidiary of Wikia, Inc.  Please be aware that when you follow a link to another site, this privacy policy does not apply, and the Company has no control over what information they collect from you. Please further note that in the event that this policy conflicts with our terms of use, the terms of use controls.
 
