@@ -1,143 +1,176 @@
-> *The following text is extracted and transformed from the mandatory.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909195730id_/http%3A//www.mandatory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandatory.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227003140id_/http%3A//www.craveonline.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Mandatory
+# Privacy Policy - CraveOnline
 
-**Effective Date: January 15, 2016**
+  **Privacy Policy**
 
-This Privacy Policy (“Policy”) describes the privacy practices for www.Mandatory.com website (the “Site”), which is owned and operated by Whalerock Digital Media, LLC d/b/a Whalerock Industries (“Company” or “We”). This Policy applies only to information we collect on the Site. This Policy does not apply to information that we collect offline or on any other Company websites or apps, including websites you may access through this Site or you provide to or is collected by any third party. Our websites and apps and these third parties may have their own privacy policies, which we encourage you to read before providing information on or through them. 
+This privacy policy was last modified on September 4, 2014 (the “Effective Date”).
 
-Please read this Policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, do not use the Site. By using the Site, you agree to this Policy. This Policy may change from time to time. Your continued use of the Site after we make changes is deemed to be acceptance of those changes, so please check the Policy periodically for updates. 
+CraveOnline Media (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.craveonline.com](http://www.craveonline.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com).
 
-## Children under the Age of 13
-
-The Site is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at privacy@whalerockindustries.com. 
-
-## Information We Collect and How We Collect It
-
-We may collect information from and about users of our Site directly from you when you provide it to us and/or automatically when you use the Site. 
-
-### Information You Provide to Us.
-
-When you register with or use this Site, we may ask you to provide information by which you may be personally identified, such as name, postal address, e-mail address, telephone number, credit card number, geolocation, device identification number, or any other identifier by which you may be contacted online or offline (“personal information”), or that is about you but individually does not identify you.  
-This information includes: (i) Information that you provide by filling in forms on the Site. This includes information provided at the time of registering to use the Site, subscribing to any service, posting material, and requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with the Site; (ii) records and copies of your correspondence (including e-mail addresses and phone numbers), if you contact us; (iii) Your responses to surveys that we might ask you to complete for research purposes; (iv) Details of transactions you carry out through the Site and of the fulfillment of any orders (note that you may be required to provide financial information before placing an order through the Site); (v) Your search queries on the Site; and (vi) Your appearance at events where you use a QR code at the event location to indicate to us that you attended the event. You may be able to access features of the Site by using your Facebook or other social media accounts. Your privacy settings on your Facebook or other social media accounts, as well as the social media companies’ respective privacy policies, will determine the personal and other information that may be shared with us when you access the Site.  
-You may provide information to be published or displayed (“Posts” or “Posted”) on public areas of the Site (collectively, “User Contributions”). Your User Contributions and Posts may be transmitted to others at your own risk. We cannot control the actions of third parties with whom you may choose to share your User Contributions. Therefore, we cannot guarantee that your User Contributions will not be viewed by unauthorized persons. 
-
-### Automatic Information Collection And Tracking.
-
-When you access and use the Site, it may use technology to automatically collect certain information, including but not limited to: 
-
-  * **Usage Details.** When you access and use the Site, we may automatically collect the domain name and host from which you access the Internet and the Internet address of the website from which you direct-linked to the Site, the date and time you access the Site and pages you visit, traffic data, location data, logs and other communication data and the resources that you access and use on or through the Site.
-  * **Device Information.** We may collect information about your computer’s or device’s IP address and information about its operating system, platform, location, and the web browser type and version you use.
-  * **Location and Other Information.** We may collect real-time information about the location of your device as well as demographic, usage patterns and other non-personally identifiable profile information about you.
+  1. [Scope](http://www.craveonline.com/privacy#scope)
+  2. [What information the Site collects](http://www.craveonline.com/privacy#collect)
+  3. [How we use the information that we collect](http://www.craveonline.com/privacy#info)
+  4. [Information sharing](http://www.craveonline.com/privacy#share)
+  5. [Your choices](http://www.craveonline.com/privacy#choices)
+  6. [Access](http://www.craveonline.com/privacy#access)
+  7. [Confidentiality and security](http://www.craveonline.com/privacy#security)
+  8. [Visitors from outside of the United States](http://www.craveonline.com/privacy#visitors)
+  9. [Children under 13](http://www.craveonline.com/privacy#children)
+  10. [Changes to the privacy policy](http://www.craveonline.com/privacy#policy)
+  11. [Questions and suggestions](http://www.craveonline.com/privacy#questions)
 
 
 
-We also may use technologies to collect information about your usage of the Site over time. We do not respond to web browser “do not track” signals. 
+**1\. Scope**
 
-### Information Collection And Tracking Technologies.
+This privacy policy applies only to the Site. This policy does not apply to information collected through any other website or to the practices of companies that the Company does not control. Please note that the Site may contain links to other websites. For example, if you click on an advertisement on the Site and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit.
 
-The technologies we use for automatic information collection may include: 
+**2\. What information the Site collects**
 
-  * **Cookies.** A cookie is a small file placed on your computer’s hard drive through your web browser to enable our systems to recognize your browser. While you may block or disable cookies, if you do, the Site may not function and appear as designed.
-  * **Beacons.** Pages of the Site or our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related statistics (for example, recording the popularity of certain content and verifying system and server integrity).
+**Information you provide directly to us:**
 
+You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including:
 
-
-## Third-party Information Collection
-
-When you use the Site or its content, certain third parties may use automatic information collection technologies to collect information about you or your device. These third parties may include: advertisers, ad networks and ad servers, analytics companies your device manufacturer, etc.  
-These third parties may use tracking technologies to collect information about you when you use this Site. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites, apps and other online services or websites. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.  
-We do not control these third parties’ tracking technologies or how they may be used. If you would like more information about this practice and to know your choices about not having this information used by these third-parties, please go to http://www.networkadvertising.org/choices. 
-
-## How We Use Your Information
-
-We use information that we collect about you or that you provide to us, including any personal information, to: 
-
-  * Provide you with the Site and its contents, and any other information, products or services that you request from us.
-  * Fulfill any other purpose for which you provide it.
-  * Give you notices about your account or subscription.
-  * Carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
-  * Notify you when Site updates are available, and of changes to any products or services we offer or provide though it.
+  * contact information, such as name and email address;
+  * username and password;
+  * information posted in community discussions and other interactive online features;
+  * search queries conducted on the Site; and
+  * correspondence you send to us.
 
 
 
-The usage information we collect helps us to improve our Site and to deliver a better and more personalized experience by enabling us to: 
+**Information automatically collected when you visit and interact with the Site:**
 
-  * Estimate our audience size and usage patterns.
-  * Store information about your preferences, allowing us to customize our Site according to your individual interests.
-  * Speed up your searches.
-  * Recognize you when you use the Site.
+When you visit and interact with the Site, certain information may be collected automatically, including:
 
-
-
-We may also use your information to contact you about our own and third parties’ goods and services that may be of interest to you. We may use the information we collect to display advertisements to our advertisers’ target audiences. If you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria. 
-
-## Disclosure of Your Information
-
-We may disclose aggregated and de-identified information about our users without restriction. In addition, we may disclose personal information that we collect or you provide: 
-
-  * To our subsidiaries and affiliates. 
-  * To contractors, service providers, content providers, and other third parties we use to support our business.
-  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our App users is among the assets transferred.
-  * To third parties to personalize services and products offered to you.
-  * To fulfill the purpose for which you provide it.
-  * For any other purpose disclosed by us when you provide the information.
-  * With your consent.
-  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * To enforce our rights arising from any contracts entered into between you and us, including the Terms of Use, this Policy, and for billing and collection.
-  * If we believe disclosure is necessary or appropriate to protect our rights, property, or safety or that of our customers, users, contractors or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+  * your computer’s Internet Protocol (IP) address;
+  * your browser type and operating system;
+  * the web pages you were visiting immediately before and after you came to the Site;
+  * activities within community discussions;
+  * web pages and advertisements that you view, and links that you click on, within the Site;
+  * your bandwidth speed and information about the software programs that are installed on your computer;
+  * aggregated data about email click-through rates and user video viewing;
+  * standard server log information; and
+  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of [cookies and other tracking technologies.](http://www.craveonline.com/cookies)
 
 
 
-## Accessing, Correcting and Deleting Your Information
+**Information we collect from other sources:**
 
-You may review and change your personal information by logging into the Site and visiting your account profile page. You can request and obtain removal of your Posts and User Contributions by emailing [contactus@mandatory.com](mailto:contactus@mandatory.com) with your request and specifying the particular Post or User Contribution you seek to remove. We may not accommodate a request to change or delete any information if we believe such action would violate any law or legal requirement or cause the information to be incorrect. Removal of your Posts or User Contributions from the Site does not ensure complete or comprehensive removal of such Posts or User Contributions from the Site as copies may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. You can unsubscribe from any newsletters or various promotional emails at any time by clicking on the “unsubscribe” links provided in such communications. You may not opt out of Site-related communications, such as account verification, purchase confirmations and administrative messages, so long as you are registered with the Site. As we develop our business, we might buy or sell businesses or their assets, or engage in transfers, acquisitions, mergers, restructurings, changes of control, or other transactions. In such transactions, customer information generally is one of the transferred business assets and your information may be subject to such a transfer. You agree to and do hereby consent to any such transfer. Also, in the unlikely event of a bankruptcy, your information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser. 
+We may access information about you from third-party sources and platforms (such as Google Analytics Demographics and Interest Reporting, social networking sites, databases, online marketing firms, and ad targeting firms), including:
 
-## Links to Third-Party Sites
-
-The Site contains links to other websites. We are not responsible for the privacy practices of such other websites. We encourage you to be aware when you leave the Site and to read the privacy statements of every website that collects your personal information. This Policy applies only to information collected by the Site. 
-
-## Social Media Plug-ins
-
-We may integrate social media application program interfaces or plug-ins (“Plug-ins”) from social networks, including Facebook, Twitter, Instagram, Tumblr, Pinterest and others, into our Site. Plug-ins may transfer information about you to the Plug-in’s respective platform without action by you. This information may include your platform user identification number, which website you are on, and more. Interacting with a Plug-in will transmit information directly to that Plug-in’s social network and that information may be visible by others on that platform. Plug-ins are controlled by the respective platform’s privacy policy, and not by our Policy. 
-
-## Processing Your Information
-
-The Site is hosted in the United States. Your use of the Site from the European Union or any other place in the world means you agree to transfer, store and process your personal information to and in the United States, which laws may not provide the same level of protection of those in your country. We may limit the availability of the Site or any service or product described on the Site to any person or geographic area at any time. If you choose to access the Site from outside the United States, you do so at your own risk. 
-
-## Your California Privacy Rights
-
-California Civil Code Section 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at [privacy@whalerockindustries.com](mailto:privacy@whalerockindustries.com). 
-
-## Data Security
-
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Site, you are responsible for keeping this password confidential. You should not share your password with anyone. Unfortunately, the transmission of information via the Internet and mobile platforms is not completely secure. Although we take reasonable precautions to protect your personal information, we cannot guarantee the security of your personal information. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures we provide. 
-
-## Changes to Our Policy
-
-We may update our Policy from time to time. Non-material changes will take effect immediately. If we make material changes, we will notify you by email (at the email address you have provided to us) or through notice on the home page of the Site, and will also indicate as much at the top of this page. Material changes will take effect 30 days after such notice. We encourage you to review this Policy at least every 30 days to check for material changes. 
-
-## Intellectual Property Rights Policy; DMCA Notification
-
-We respect the rights of intellectual property holders. If you believe that any content on the Site violates your intellectual property rights, you can report such violation to us in accordance with the Digital Millennium Copyright Act (17 U.S.C. §512). In the case of an alleged infringement, please provide the following information: 
-
-  * A description of the copyrighted work or other intellectual property that you claim has been infringed;
-  * A description of where the material that you claim is infringing is located on the Site (including the exact URL);
-  * An address, a telephone number, and an e-mail address where we can contact you;
-  * A statement that you have a good faith belief that the use is not authorized by the copyright or other intellectual property rights owner, by its agent, or by law;
-  * A statement by you under penalty of perjury that the information in your notice is accurate and that you are the copyright or intellectual property owner or are authorized to act on the owner's behalf; and
-  * Your electronic or physical signature, or that of the person authorized to act on behalf of the owner of the copyright or other right being infringed.
+  * if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services;
+  * demographic data, such as age range, gender, and interests;
+  * advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and
+  * unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.
 
 
 
-We may request additional information before we remove allegedly infringing material. You may report a copyright violation by providing the above information to the Whalerock designated agent listed below. 
+Please note that the Site may combine the information that we collect with information we obtain from third-party sources.
 
-Contract Administrator, Whalerock Industries, Legal Affairs, Pacific Design Center, Red Building West, 750 N. San Vicente Blvd., 9th Floor, West Hollywood, CA 90069; Phone: (310) 255-7110 Fax: (310) 255-7058 Email: [copyright@whalerockindustries.com](mailto:copyright@whalerockindustries.com).
+**3\. How we use the information that we collect**
 
-We will terminate the user account of any user who repeatedly submits content that violates our intellectual property policies. A repeat infringer is a user who has been notified of infringing activity more than twice and/or has had Content removed from the Site more than twice.
+**Email Communications:**
 
-## Contact Information
+We may use the information that we collect to send you e-mail communications, such as information about your account or changes to the Site, promotional messages about our own or our marketing partners’ products and services, and our email newsletters.
 
-Privacy Concerns. If you have any concern or complaint about privacy on the Site, please contact us at Whalerock Digital Media, LLC., Attn: Legal Affairs, Pacific Design Center, Red Building West, 750 N. San Vicente Blvd., 9th Floor, West Hollywood, CA, 90069, U.S.A. or email us at [privacy@whalerockindustries.com](mailto:privacy@whalerockindustries.com). We will do our best to respond to you in a timely and professional manner in order to answer your questions and resolve your concerns. 
+**Advertising:**
 
-© Whalerock Digital Media, LLC. All rights reserved. Mandatory and www.Mandatory.com are trademarks of Whalerock Digital Media, LLC 
+In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other tracking technologies](http://www.craveonline.com/cookies).
+
+Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on [third-party online advertising](http://www.craveonline.com/third-party). Please remember that the information practices of third-party advertisers or platforms collecting data on our Site are not covered by this privacy policy.
+
+**User Accounts:**
+
+To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, our forum moderators monitor discussions and delete comments that we deem inappropriate in our forums.  For more information on this process, please see the Site’s community rules, forum rules or comment policies about comment moderation guidelines.
+
+**Request Fulfillment:**
+
+We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer service requests or to enable you to participate in features on the Site such as surveys, polls, sweepstakes, and message boards.
+
+**Statistical Analysis:**
+
+In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site’s functionality, and to better tailor our content and design to suit our visitors’ needs.
+
+**Enforcement:**
+
+We may use the information that we collect to prevent illegal activities, to enforce the Site’s [Terms and Conditions](http://www.craveonline.com/termsofuse), and to otherwise protect our rights and the rights of our users.
+
+By using the Site, you consent to the uses identified above and any other use of information identified in this privacy policy.  In addition, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
+
+**4\. Information sharing**
+
+The Company values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:
+
+  * We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site unless you opt-in or otherwise agree to have such information shared with or otherwise disclosed to a third party for marketing purposes.
+  * We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
+  * If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions.
+  * We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place.
+  * We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s [Terms and Conditions](http://www.craveonline.com/termsofuse), or as otherwise required by law.
+  * We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.
+  * In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
+
+
+
+Once we share your information with another party, the information received by that party becomes subject to the other party’s privacy policies.  Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on [cookies and other tracking technologies](http://www.craveonline.com/cookies) and [third-party online advertising](http://www.craveonline.com/third-party).
+
+**5\. Your choices**
+
+**Deactivating your account**
+
+If the Site functionality permits, you can deactivate your account at any time by visiting the preferences page for your profile or delete any content you provide from the Site, though we may retain a copy of any deactivated accounts or deleted content for compliance purposes. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our [Terms and Conditions](http://www.craveonline.com/termsofuse).
+
+**Cookies and other tracking technologies**
+
+As discussed in the sections on [cookies and other tracking technologies](http://www.craveonline.com/cookies) and [third-party online advertising](http://www.craveonline.com/third-party), some information is collected about you automatically through cookies and other tracking technologies.
+
+  * _Cookies._ You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. To opt out of having information collected by third party ad networks, advertising agencies, advertisers, and audience segment providers used for behavioral advertising, to obtain information about the technologies these third parties might use, and to view information regarding their privacy policies, please visit <http://www.aboutads.info/choices> if you are located in the United States, [www.youronlinechoices.com](http://www.youronlinechoices.com/) if you are located in Europe, youradchoices.ca/choices if you are located in Canada, or [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/) if you are located in Australia .         
+  * _Flash Cookies_. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies’ storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) to automatically delete your Flash cookies every time you close your browser.
+
+
+
+If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third-party online advertising](http://www.craveonline.com/third-party) and visit the [NAI’s website](http://www.networkadvertising.org/choices/).
+
+**Do Not Track**
+
+We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.  To learn about Do Not Track, please click [here](http://www.allaboutdnt.com/).
+
+**California Residents**
+
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail to legal@evolvemediallc.com.
+
+**6\. Access**
+
+If you choose to share personal information with us, you may update or amend this information by contacting us at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com). Please include in your email the name of the Site to which you provided the information you wish to amend.
+
+**7\. Confidentiality and security**
+
+We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration.
+
+Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us.
+
+**8\. Visitors from outside the United States**
+
+The Site’s offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States.
+
+**9\. Children under 13**
+
+Protecting the privacy of young children is especially important.  The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian.  If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address.  
+
+The Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.
+
+If you believe that we might have any information from or about a child under 13, please contact us at legal@evolvemediallc.com.
+
+**10\. Changes to the privacy policy**
+
+We reserve the right to change this policy at any time.  Please check this page periodically for changes.  Your continued use of our Site following the posting of changes to these terms will constitute acceptance of those changes.  Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.
+
+**11\. Questions and suggestions**
+
+If you have questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com), or send mail to:
+
+Evolve Media, LLC       
+5140 W. Goldleaf Circle, Third Floor    
+Los Angeles, CA   90056           
+Attn:  General Counsel 
