@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applian.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623180908id_/http%3A//applian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applian.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226235136id_/http%3A//applian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,7 +75,7 @@ Attn:  Customer Service
 
   * **[General Inquiries](http://support.applian.com/support/tickets/new)**
   * **[Technical Support](https://web.archive.org/support/?data-filter=.products) **
-  * [**Sales**](mailto:sales@applian.com)
+  * [**Sales**](https://web.archive.org/cdn-cgi/l/email-protection#d8abb9b4bdab98b9a8a8b4b1b9b6f6bbb7b5)
   * FAX: 415-480-1748 (USA)
 
 
