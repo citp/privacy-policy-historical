@@ -1,272 +1,200 @@
-> *The following text is extracted and transformed from the newlook.co.uk privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506024631id_/http%3A//www.newlook.com/furniture/help_centre_faq.jsp%3FpageName%3DPrivacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlook.co.uk privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226213934id_/http%3A//www.newlook.com/uk/help/privacy-policy/security) for the most accurate reproduction.*
 
-# Help Centre | New Look
+# Security | New Look UK
 
-Privacy policy
+If you’ve got any questions, comments and requests about your account security, then please use the [Contact Us](http://www.newlook.com/uk/help/contact-us#/Top) form.
 
-  *     * ## Our privacy policy
+For your security, any new password you create with us has to be at least 7 characters and contain a mix of letters and numbers. However, we recommend that you set a password of at least 10 characters including capital letters, lowercase letters, numbers and symbols. 
 
-Here at New Look we have recently completed a review of all the cookies on our website. We will soon be making some small changes to provide our customers with a bit more information about them. In the meantime if you have any questions you can always contact us <http://www.newlook.com/furniture/contact_us.jsp>
+To access your stored data on our sites, you’ll need to sign in with your username and password. It’s your responsibility to keep these details secret and to ensure you don’t let anyone else use your account. If you have any concerns about your sign in details or think they’ve been misused, please contact us straight away and we can put your account on hold immediately. 
 
-      * ### What's our privacy policy?
+From time to time, we may make services provided by third parties available through our sites. To use these services, you must register with these third parties and deal with them direct. We have no control over the content of those third party sites or the performance of these services. Please note, that you use these services at your own risk and that we can't accept any responsibility for them or for any loss or damage that may arise from your use of them. Please check third parties privacy policies before you submit any personal data to these websites.
 
-At New Look we take your privacy very seriously. This Privacy Policy and our 'Terms of Website Use' explain how we use any personal information we collect about you and your rights to access the personal information we hold about you.  
-Information about us: This site is operated by New Look Retailers Limited (we, our, us). We are registered in England and Wales under company number 1618428. Our VAT number is GB 429214460. We are registered under the Data Protection Act 1998 under number Z5298484.
+We use the Verified by Visa and MasterCard SecureCode schemes to help stop unauthorised purchases with your debit or credit card.
 
-Close
+When you reach our secure checkout you can choose to register for Verified by Visa or MasterCard SecureCode. Just sign up using the on-screen prompts, create a password then continue shopping. You only have to sign up once – then you can use your password when you shop with us or with other participating online stores.
 
-      * ### What information do we collect?
+For security, this password will be linked to your debit or credit card, and not your New Look account or your computer.
 
-When you set up an account on newlook.com or daily.newlook.com, place an order, enter any competition, promotion or prize draw, upload an image or comment, or sign up for our newsletter we may collect your name, date of birth, address, email address, telephone number, mobile number and a password. We will also require your credit/debit card details (except if you are paying via PayPal), when you are placing an order. Required information is identified by an asterisk.  
+Alternatively, you can contact your bank directly for more information. Please note, if you decide not to register, we may need to ask you for an alternative payment method to complete your purchase.
+
+We take your privacy very seriously. The sections below make up our privacy policy. It sets out the rules we follow regarding how we use any personal information we collect about you and your rights to access the personal information we hold about you.
+
+Any changes we make to our privacy policy in the future will be posted on this page. Last updated: July 2016.
+
+If you have any concerns or questions about our privacy policy or your personal information, please contact us at _[privacy@newlook.com](mailto:privacy@newlook.com)_.
+
+This section describes how and when we may collect your personal information.
+
+‘Personal information’ means any information relating to an individual, which can identify them – either directly or indirectly. It can refer, amongst other things, to an identification number, or to one or more specific identifying pieces of information, such as an address or date of birth.
+
+When you do any of these:
+
+• Set up an account on any New Look website 
+
+• Place an order
+
+• Enter any competition, promotion or prize draw
+
+• Upload an image or comment
+
+• Sign up for our newsletter or subscribe to any other services that we offer
+
+• Fill out any forms on any New Look website
+
+• Correspond with us, whether by phone, email or chat facility 
+
+Then, we may collect your personal information, including:
+
+• Name
+
+• Date of birth
+
+• Address
+
+• Email address
+
+• Phone/ mobile number
+
+• Password
+
+• Technical information about how you access and use our websites, including your IP address browser type and operating system.  For further information about the use of your IP address and technical information please see our 
+
+_[cookies policy](http://www.newlook.com/uk/help/privacy-policy/security)_
+
+.
+
+We might sometimes ask you other details, but any required information is identified by an asterisk.
+
+We’ll also require your credit or debit card details when you place an order (unless you pay with PayPal).
+
+We use your information for the following:
+
+  * So we can personalise your shopping experience on our sites
+  * To allow is to handle your orders, deliver products and process your payments and refunds
+  * To let you know about your orders
+  * To update our records and generally maintain your account with us
+  * To keep a record of when and why you contact us and to keep your contact details up-to-date
+  * For our statistical or survey purposes – so we can improve our websites and their services to you
+  * To prevent or detect fraud or abuses of our sites. Also to enable third parties to carry out technical, logistical or other functions on our behalf
+  * If you consent, to notify you of products or special offers that may be of interest to you
+  * To process your application when you enter a competition promotion or prize draw. (If there are other purposes specific to that competition promotion or prize draw, these will be explained in the applicable Competition Terms & Conditions)
 
 
-Close
 
-      * ### What do we use your information for?
+If you sign up to our newsletter, or ask us to send it to you, we may keep you informed by post, email, text or other electronic means about our products and special offers that we think you’ll like.
 
-We use your information for the following purposes:
+You have the right to ask us not to process your personal information for marketing purposes, or to change your mind at any time.
 
-        * To serve website content to you
+You can opt out by:
 
-        * To handle orders, deliver products and process payments and refunds.
+  * Choosing not to sign up for our newsletter and other marketing offers when you create your account.
+  * Changing your _[Mailing Me](https://web.archive.org/uk/my-account/profile)_ preferences at any time. You can do this in the Personal Details section in My Account, or you can tell us by using our _[Contact Us](https://web.archive.org/uk/help/contact-us)_ form (don’t forget to give full name, address and postcode). 
+  * Unsubscribing from our newsletters by following the link on the newsletter (every newsletter we send you will include a link to allow you to opt out)
 
-        * To communicate with you about your orders.
 
-        * To update our records and generally maintain your account with us.
 
-        * If you contact us, we may keep a record of that correspondence and your contact details.
+We’ll try our best to process request promptly but it may take a few days for your opt-out or unsubscribe request to be changed.
 
-        * For our statistical or survey purposes to improve this website and its services to you.
+Our sites use up-to-date industry procedures to protect your personal information. We also protect the security of your data during transmission using Secure Sockets Layer (SSL) encryption software. We may vary this in the future if we feel you will benefit from greater security whilst using our sites.
 
-        * To prevent or detect fraud or abuses of our site and enable third parties to carry out technical, logistical or other functions on our behalf.
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you via our sites.
 
-        * If you consent, to notify you of products or special offers that may be of interest to you.
+We may disclose your personal information to our service providers who operate elements of our service and process data on our behalf. These may include businesses who provide technology services such as hosting for our servers and email distribution, and business partners who provide delivery fulfilment services. Where such disclosures are made, this will be under contractual arrangements with us and carried out in accordance with the requirements of UK and German data protection laws. 
 
-        * To enter you in any competition, promotion or prize draw and for the purposes explained in the terms and conditions applicable to the competition, promotion or prize draw.
-
-Close
-
-      * ### What if I don't want to receive marketing information?
-
-If you give your consent or sign up to our newsletter we may keep you informed by post, email, text or other electronic means about our products and special offers that may be of interest to you  
-If you prefer not to receive promotional or marketing information from New Look, please un-tick the appropriate box as you go through the registration process.  
-Alternatively, you can opt-out of receiving promotional or marketing information at any time by changing your contact preferences in [My Account](https://www.newlook.com/secure/myaccount/login.jsp), emailing us via our [Contact Us](http://www.newlook.com/furniture/contact_us.jsp) form quoting your full name, address and postcode.  
-Please remember to include your name, address and postcode along with any correspondence reference you may have.  
-Please note that that we will endeavour to process your opt-out or unsubscribe request promptly but it may take up to 28 days for your marketing preferences to be changed.  
-Close
-
-      * ### How do I unsubscribe from newsletters?
-
-If you wish to unsubscribe from our newsletter contact list, you should use the link on our emails, or for registered customers - change your contact preferences in [My Account](https://www.newlook.com/secure/myaccount/login.jsp)
-
-Close
-
-      * ### How do we protect your information?
-
-Our site uses up-to-date industry procedures to protect your personal information. We also protect the security of your data during transmission using Secure Sockets Layer (SSL) encryption software.  
-We may vary this in the future if we feel you will benefit from greater security whilst using our site.  
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you via our site.
-
-Close
-
-      * ### Disclosure of your information
-
-We may disclose your personal information to our service providers who operate elements of our service and process data on our behalf. These may include businesses who provide technology services such as hosting for our servers and email distribution, and business partners who provide delivery fulfilment services. Where such disclosures are made, this will be under contractual arrangements with us and carried out in accordance with the requirements of UK data protection law. Your personal information may be processed by us or our service providers outside the European Economic Area in countries that do not have the same standards of protection for personal information as the UK. If your personal information is processed outside the European Economic Area we will take reasonable steps to ensure that your personal information will be adequately protected as required by UK data protection law.
+Your personal information may be processed by us or our service providers outside the European Economic Area in countries that don’t have the same standards of protection for personal information as the UK. If your personal information is processed outside the European Economic Area we will ensure that your personal information will be adequately protected as required by data protection law.
 
 We may also disclose your personal information to our subsidiaries and affiliated companies for data processing, service and administration purposes. In addition, we may disclose your personal information to any successors in title to our business or to a buyer in the event that we or any of our assets are acquired by a third party (as your information may be one of the transferring assets).
 
-Your personal information and payment card details will be processed by CyberSource Limited and CyberSource Corporation (together "CyberSource") for the purposes of dealing with payment transactions and to protect against fraud. Your personal information will be processed on our behalf by CyberSource and your credit/debit card details are shared with CyberSource and stored by CyberSource outside of the European Economic Area.
+Your personal information and payment card details will be processed by CyberSource Limited and CyberSource Corporation (together "CyberSource") for the purposes of dealing with payment transactions and to protect against fraud. Your personal information will be processed on our behalf by CyberSource and your credit/debit card details are shared with CyberSource and stored by CyberSource outside of the European Economic Area. We will ensure that your personal information will be adequately protected as required by data protection law.
 
 We may carry out fraud and security checks with CyberSource and other organisations involved in fraud prevention. If we or they suspect or identify fraud we and/or they may record this and may also pass this information to other organisations for the purpose of fraud prevention. We, CyberSource and these other organisations may use this information for fraud prevention purposes in the future.
 
 We will also disclose any of your personal information to any third party where we are under a duty to do so in order to comply with any legal obligation, or in order to enforce or protect any of our rights, property or safety (or those of our customers).
 
-Close
+Our sites may also contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that they have their own privacy policies and that we don’t accept any responsibility or liability for these policies. Please check these websites’ privacy policies before you submit any personal information to them.
 
-      * ### What does third party services mean?
+This site is operated by New Look Retailers Limited of New Look House, Mercery Road, Weymouth, Dorset, DT3 5HJ (referred to in this privacy policy as ‘we’, ‘our’ and ‘us’) registered in England and Wales under company number 1618428.  
 
-We may from time to time make available through our site certain services provided by third parties. To gain access to these services, you must register with these third parties and deal with them direct. We have no control over the content of those third party sites or the performance of these services. Please do note that you use these services at your own risk and that we can't accept any responsibility for them or for any loss or damage that may arise from your use of them. Please check these policies before you submit any personal data to these websites.
+For the purposes of data protection legislation we are the data controller for your personal data. We are registered with the Information Commissioner’s Office in the UK with reference number Z5298484.
 
-Close
+The sections below make up our cookies policy. By using our websites, you consent to cookies being used in accordance with this cookies policy. This policy also explains how you can opt out of the use of cookies on our websites.
 
-      * ### Do I have access to my information?
+Cookies are small files that are downloaded onto your computer, mobile, or other device when you access certain websites. Cookies allow a website to recognise your device. They help your browser to navigate through the website by allowing you to sign in automatically and by remembering settings you selected during earlier visits (among other functions). Cookies don’t harm your computer or device. 
 
-UK data protection law gives you the right to access information held about you. Your right of access can be exercised in accordance with UK data protection law. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You can exercise this right at any time by contacting us via our [Contact Us](http://www.newlook.com/furniture/contact_us.jsp) form.
+Most web browsers automatically accept cookies. Unless you’ve adjusted your browser settings to refuse cookies, cookies will be sent when you access our websites. Find out how to do this, in our ‘ _How to change your cookie settings_ ’  section below.
 
-If you believe that your details are incorrect, you can amend your details by logging onto the [My Account](https://www.newlook.com/secure/myaccount/login.jsp) section on the website.
+You can learn more about cookies by visiting _[allaboutcookies.org](http://www.allaboutcookies.org/)_. 
 
-Close
+Cookies help us to provide you with a good experience when you browse our websites. They allow you to make full use of our online shopping and personalised features. 
 
-      * ### How can I find out about changes to New Look's privacy policy?
+We don’t use cookies to collect or record information such as your name, address or payment details.
 
-Any changes we may make to our privacy policy in the future will be posted on this page. This Privacy Policy was last updated on 14th march 2010.
+ **Here’s how we use cookies:**
 
-Close
+  * For essential technical reasons – such as keeping track of your current shopping session and enabling you to pay for your products in checkout
+  * To distinguish you from other website users. This helps us to:
+    * remember you when you return and to personalise our website to you, such as saving your bag or remembering what you last viewed or searched for.
+    * target advertising towards you based on what you like and what you view and search for
+  * To collect statistical and analytical information about how visitors use our websites – so we can improve the way our sites work and to measure the success of our competitions and campaigns
+  * To enable us to fulfil our contractual obligations to third parties – for example to pay a partner if you’ve made a purchase on one of our websites by following a link from their website.
 
-### Who can I contact at New Look?
 
-If you have any concerns or questions about our Privacy Policy or your Personal Data, please contact us at privacy@newlook.com 
 
-Close
+We use both ‘persistent’ and ‘session’ cookies:
 
-      *         * ## Cookie policy
+  * **Persistent cookies** are stored by your browser and on your device until their set expiry date (unless you delete them first)
+  * **Session cookies** expire as soon as you close your web browser 
 
-          * ### What are cookies?
 
-Cookies are small files of letters and numbers that are downloaded onto your computer or mobile phone or other handheld device when you access certain websites. Cookies allow a website to recognise a user’s device and help your browser navigate through the website by allowing you to log in automatically or remembering settings you selected during earlier visits (among other functions). Cookies do not harm your computer/device. If you would like to learn more about cookies in general and how to manage them you can visit www.allaboutcookies.org.
 
-Close
+**We use some, or all, the following types of cookies on our sites:**
 
-          * ###  Use of cookies on this website 
+  * **Strictly Necessary Cookies:** These are essential cookies. They’re used to carry out requests you make when you use our sites – for example, remembering information provided by you, such as the items you’ve put in your shopping bag. If you choose to opt out of getting these cookies, then won’t be able to use our sites properly. You’ll still be able to browse, but you won’t be able to put anything in your shopping bag or buy it. 
+  * **Performance Cookies:** These cookies allow us to collect data about the way you’ve used our websites, so we can record information about what you’ve viewed. We use these cookies to measure if our customers are getting the most from our sites. We then use this information to improve our sites and help us understand how our customers move around them. These cookies may also be provided by a third party analytic tool, but will only be used for purposes related to our websites.
+  * **Functionality Cookies:** These cookies allow websites to remember choices you’ve previously made that are specific to you – for example your country selection, language preferences or when you choose to remain signed-in.
+  * **Targeting Cookies:** These cookies remember information regarding how you’ve used our websites and other websites, so that we can show you promotional and other targeted information based upon the things you like and what you’ve searched for and viewed.
+  * **Web Beacons:** We place small images or ‘beacons’ on many of the pages on our website and in online advertising with third parties. We use these beacons, in connection with cookies, to collect non-personal data on the usage of our website. This includes (amongst other things) the date and time of your visit, the pages you looked at, the page you came from, the type of browser, the type of operating system and the domain name of your internet service provider (ISP). This information is collected about thousands of site visits and analysed as a whole and is useful in many ways, including tracking the performance of our online advertising (such as online banner ads) and to determine where to place future advertising on other websites.
+  * **Google Analytics Cookies:** Our sites use Google Analytics, a web analysis tool provided by Google Inc. (‘Google’). Google Analytics uses cookies to track your use of the website. This information (including your IP address) is sent to Google’s servers in the USA where it’s used to prepare analysis and reports for us on the use and effectiveness of our websites. Google will not associate your IP address with any other data held by them. Visit _[Google Support](https://support.google.com/analytics/answer/181881?hl=en)_  to learn more about Google Analytics, including browser tools to prevent this tracking.
 
-Cookies help us to provide you with a good experience when you browse this website and allow you to make full use of the online shopping and personalised features available on this website. We do not use cookies to collect or record information such as your name, address or payment details.
 
-We use cookies on this website for the following main purposes:
 
-            * For technical purposes essential for the operation of this website, such as keeping track of your current shopping session and enabling you to proceed to checkout and pay for products.
+We’re constantly developing our site, so the cookies we use may change from time to time. If you’d like a list of the cookies we’re currently using, please use our _[Contact Us](https://web.archive.org/uk/help/contact-us)_  form.
 
-            * To distinguish you from other users of this website, so we can personalise your shopping experience by making this website and the advertising displayed on it more relevant to your interests and so we can remember choices you make when you return to visit this website.
+We may display video content on this website using Adobe Flash Player. Adobe uses Flash cookies to improve your experience. If you want to disable or delete a Flash cookie, please visit _[Adobe Flash Player global security settings](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html#117502)_. 
 
-            * To collect statistical information about how visitors use this website, so we can improve the way this website works and measure the success of competitions and campaigns; and 
+Please bear in mind that if you disable Flash cookies you won’t be able to access certain content on our website which uses Adobe Flash Player, such as videos.
 
-            * To enable us to fulfil our contractual obligations to third parties, for example to pay a partner if you have made a purchase on this website by following a link from their website.
+Some cookies may be set by third parties when you visit our websites. These third parties may be suppliers who partner with us to deliver our websites, companies that participate with us in joint marketing programmes, as well as other third parties. 
 
-Most web browsers automatically accept cookies. Unless you have adjusted your browser settings so that it will refuse cookies, cookies will be set when you access this website. By using and browsing this website, you consent to cookies being used in accordance with this Cookie Policy. If you do not consent, you must either disable cookies or refrain from using this website. Please go to the ‘How To Manage Cookies’ section for information on how to manage and disable cookies. You can also find information on popular browsers and how to adjust your cookie preferences at the following websites:
+These cookies are controlled by the third parties, so please check the third-party website for more information and to find out how to manage their cookies. These third party cookies don’t collect personal information that could identify individual customers.
 
-            * Microsoft Internet Explorer: http://www.microsoft.com/info/cookies.htm
+If you’re not happy with the way that we use cookies then you could choose to:
 
-            * Netscape Navigator: http://www.netscape.com/legal_notices/cookies.html
+  * Disable cookies on your computer or device
+  * Delete New Look cookies after you’ve visited one of our sites
+  * Use your browser’s anonymous setting (called ‘Incognito’ in Chrome, ‘InPrivate’ for Internet Explorer, ‘Private Browsing’ in Firefox and Safari)
 
-Close
 
-          * ### Flash Cookies
 
-We may display video content on www.newlook.com using Adobe Flash Player. Adobe uses flash cookies to improve your experience as a user. If you wish to disable or delete a Flash cookie, please visit Adobe Flashplayer Security Settings. Please bear in mind that if you disable Flash cookies you will be unable to access certain content on our website with uses Adobe Flash Player, such as videos.
+ **To disable (or enable) cookies…  **
 
-Close
+You can enable or disable cookies in your website browser settings. How you do this will depend on which browser you’re using.
 
-          * ### Third Party Cookies
+ **Important! Our sites use cookies for technical functionality. If all cookies are disabled on your computer or device, you’ll still be able to browse, but you won’t be able to add products to your shopping bag and buy them.**
 
-Some cookies may be set by third parties when you visit this website. These third parties may be suppliers who partner with us to delivery our website, companies that participate with us in affliate marketing programmes and other third parties. These cookies are controlled by the third parties, so please check the third-party website for more information about these cookies and how to manage them. These third party cookies do not collect personal data from which the third party would be able to identify individual customers.
+If you disable third party cookies only, some elements of our sites may not function properly (eg. targeted advertising) but you’ll still be able to add products to your shopping bag and buy them.  
 
-Close
+To learn how to manage cookies using the latest browser versions, you can follow these links:
 
-          * ### Social Buttons
+  *  _[Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform=Desktop&hl=en)_
+  *  _[Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)_  
+  *  _[Safari](https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=en_US)_
+  *  _[Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)_
+  *  _[Flash Cookies](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html#117502)_
 
-If you 'share' newlook.com content with friends through social networks (such as Facebook, Google and Twitter) you may be sent cookies from these third party websites. We do not control the setting of these cookies, so we advise you to check third-party websites for more information about their cookies and how to manage them.
 
-Close
 
-          * ### How to manage cookies
+For further help, visit  _[allaboutcookies.org](http://www.allaboutcookies.org/)_  
 
-You can enable or disable cookies by changing your website browser settings to accept or reject cookies as required. How to do this will depend on the browser you use. We have provided further information below on how to check which browser you use and how to manage cookies. Please bear in mind that if cookies are not enabled on your computer, your activities will be restricted to browsing this website and you will not be able to add products to your shopping bag and buy them.
-
-Close
-
-          * ### Checking which browser you are
-
-If you are using a PC - go to 'Help' and select the 'About' option. If you are using a MAC - click on the Apple menu within the browser and select the 'About' option.
-
-Once you know which browser you are using, follow the instructions below to check you have cookies enabled on your computer:
-
-**Checking Cookies - PC**
-
-Microsoft Internet Explorer 6,7,8
-
-            * Go to 'Tools' at the top of your browser window. Select 'Internet Options'. Click on the 'Privacy tab'. 
-
-            * Ensure that your Privacy level is set to Medium or below to enable cookies.
-
-Mozilla Firefox
-
-            * Go to 'Tools' and select Options.
-
-            * Click the Privacy icon.
-
-            * Click on Cookies and choose 'allow sites to set cookies'.
-
-Google Chrome
-
-            * Go to 'Tools' and select Options.
-
-            * Click 'Under the Hood' and select the 'Content settings' button within the 'Privacy' section.
-
-            * Choose 'Allow local data to be set'.
-
-**Checking Cookies - MAC**
-
-Safari on OSX
-
-            * Click 'Safari' and select 'Preferences'.
-
-            * Click 'Security' and then 'Accept cookies'.
-
-Mozilla and Netscape on OSX
-
-            * Click on 'Mozilla' or 'Netscape' and select 'Preferences'.
-
-            * Find 'Cookies' under 'Privacy and Security'.
-
-            * Select 'Enable cookies for the originating web site only'.
-
-Microsoft Internet Explorer on OSX
-
-            * Click 'Explorer' and select 'Preferences'.
-
-            * Find 'Cookies' under 'Receiving Files.
-
-            * Select 'Never Ask'.
-
-Opera
-
-            * Click 'Menu' and select 'Settings'.
-
-            * Select 'Preferences' and then 'Advanced'.
-
-            * Select 'Accept cookies'.
-
-If you are not happy with the way that we use cookies then you should delete New Look cookies having visited the site, or you should browse the site using your browsers anonymous usage setting (called "Incognito" in Chrome, "InPrivate" for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
-
-Close
-
-            *               * ## Account security
-
-                * ### Why do I need a password for my account?
-
-To access your stored data on our site, you will need to input your account and password details (login details). You're responsible for maintaining the confidentially of your login details and any activities that occur under your account. If you have any concerns about your login details or think they have been misused, please contact Customer Services straight away to let us know. We can deactivate your account at any time.
-
-Third party services
-
-We may from time to time make available through our site certain services provided by third parties. To gain access to these services, you must register with these third parties and deal with them direct. We have no control over the content of those third party sites or the performance of these services. Please do note that you use these services at your own risk and that we can't accept any responsibility for them or for any loss or damage that may arise from your use of them. Please check these policies before you submit any personal data to these websites.
-
-Close
-
-                * ### Improving your Password Security
-
-In September 2010 we made the way we handle your passwords even more secure. After this date if you have forgotten your password, want to create a new account or want to update an existing password it now has to be at least 7 characters and contain a mix of letters and numbers. Passwords created before this date will continue to work as normal.  
-Close
-
-                * ### How secure is my payment?
-
-We're working with Visa and MasterCard to make shopping online with a credit card even safer, and to help protect your card against unauthorised use, just like Chip and Pin does. If your bank or card issuer is already part of this scheme, you may have already seen the Verified by Visa or MasterCard SecureCode page when shopping online. If your bank hasn't yet introduced these measures, here's what you need to know: \- Shop online with added security and peace of mind \- Your password will be linked to your card, not your computer \- This will help prevent unauthorised purchases. How it works: When you reach the checkout at newlook.com (or any other participating store), you can register for Verified by Visa or MasterCard SecureCode. Just sign up using the on-screen prompts, create a password, and continue shopping. You only have to sign up once, and can then use your password for any future online purchases. Alternatively, you can contact your bank directly for more information. Please note that if you choose not to register during your order today, we may need to ask you for an alternative payment method to complete your purchase.
-
-Close
-
-                * ### Your rights
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us via the contact form.
-
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-Close
-
-                * ### Contact
-
-Questions, comments and requests regarding this privacy policy are welcomed and should be sent via the contact form on the [Contact Us](http://www.newlook.com/furniture/contact_us.jsp) page
-
-Close
-
-
-
-
-Still not found what you were looking for? [Contact Us](https://web.archive.org/furniture/contact_us.jsp "Contact Us")
+If you have any concerns or questions about our use of cookies or our cookie policy, please  _[contact us](https://web.archive.org/uk/help/contact-us)_.  
