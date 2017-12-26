@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the changeip.com privacy policy that was archived on 2017-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627073052id_/http%3A//www.changeip.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the changeip.com privacy policy that was archived on 2017-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171226223333id_/http%3A//www.changeip.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="UTF-8">
@@ -8,7 +8,8 @@
 <link rel="stylesheet" type="text/css" href="css/grid.css">
 <link rel="stylesheet" type="text/css" href="css/fonts.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"><script type="text/javascript" async="" src="https://widget.intercom.io/widget/aeh7d16f"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"></head><body id="company"><img style="display:none;" src="//5a42ce1e65c6a0.11079475.changeip.com/images/spacer.png">
+<script type="text/javascript" async="" src="https://widget.intercom.io/widget/aeh7d16f"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>
 	$(document).ready(function(){
 		$('.hosting-ul').hide();
@@ -23,13 +24,19 @@
 			$(this).fadeOut();
 			$('#mobileNav').removeClass('close');
 		});
-		$('#hosting-dropdown').click(function() {
+		/*$('#hosting-dropdown').click(function() {
 			$('.hosting-ul').fadeToggle();
-		});
-		$('#hosting1-dropdown').click(function() {
+		});*/
+		/*$('#hosting1-dropdown').click(function() {
 			$('.hosting1-ul').fadeToggle();
-		});
+		});*/
+		$(".dropNav ul li").hover(function(){
 		
+			$(this).find('>ul').stop(true, false).slideToggle(200);     
+			}, function(){
+			
+			$(this).find('>ul').stop(true, false).slideToggle(200);   
+		});
 		
 var dark = document.getElementById("mobileNav");
  if(window.location.pathname == '/dns.php') {
@@ -66,15 +73,16 @@ if(window.location.pathname == '/domains.php') {
 	 });
 	 
 </script>
+
 <style>
 	p {
 		font-size: 17px!important;
 	}
 	</style>
 
-</head>
 
-<body id="company">
+
+
 	<div id="secondaryNav" style="display: none;">
 	<div class="container">
 		<div class="four columns">
@@ -109,12 +117,13 @@ if(window.location.pathname == '/domains.php') {
 				<li><a href="http://www.changeip.com/accounts/index.php">Your Account</a></li>
 				<li><a href="coupons.php">Coupons</a></li>
 				<li><a href="how-to-vpn.php">VPN Video Tutorials</a></li>
+				<li><a href="http://resources.changeip.com">Resources</a></li>
 			</ul>
 		</div>
 	</div>
 </div>
 	<div class="top-section">
-	<img style="display:none;" src="//595209ac499c20.76622447.changeip.com/images/spacer.png"><header>
+	<header>
 	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57a8dce7b99ab865"></script>
 <script src="//my.hellobar.com/0c3b56764d550dd25da902b4dc5dea6ac3d83891.js" type="text/javascript" charset="utf-8" async="async"></script>
 
@@ -155,7 +164,7 @@ if(window.location.pathname == '/domains.php') {
                 	<a href="ssl.php">SSL</a>
                 </li>
                 <li class="menu-item-5">
-                	<a id="hosting-dropdown">Hosting</a>
+                	<a id="hosting-dropdown" href="hosting.php">Hosting</a>
                 	<ul class="hosting-ul">
 	                	<li><a href="ssd-cloud-servers.php">Virtual Private Servers</a></li>
                     <li><a href="ssd-web-hosting.php">Shared Linux Hosting</a></li>
@@ -164,7 +173,7 @@ if(window.location.pathname == '/domains.php') {
                 </li>
                 
                 <li class="menu-item-3">
-                	<a href="http://resources.changeip.com/">Resources</a>
+                	<a href="https://www.changeip.com/accounts/">Login</a>
                 </li>
                 
             </ul>
