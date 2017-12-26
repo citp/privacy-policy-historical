@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the timvandevall.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608002925id_/http%3A//www.timvandevall.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timvandevall.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226044807id_/http%3A//www.timvandevall.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tim's Printables
+
+Post Views:  203
 
 Dutch Renaissance Press LLC is deeply committed to your right to privacy and takes your privacy seriously. We have very strict privacy policies and we strive to keep your personal and financial information secure.
 
@@ -54,4 +56,6 @@ We strive to make certain that our servers and connections incorporate the lates
 
 Dutch Renaissance Press has security measures in place to prevent the loss, misuse, destruction and alteration of the information that you provide us or we obtain from you. We will have no liability to you or to any third party arising out of any such loss, misuse, destruction, or alternation.
 
-IF FOR ANY REASON YOU BELIEVE THAT YOUR PRIVACY HAS BEEN BREACHED THROUGH THE USE OF OUR WEB SITE, YOU MAY CONTACT US IMMEDIATELY.
+IF FOR ANY REASON YOU BELIEVE THAT YOUR PRIVACY HAS BEEN BREACHED THROUGH THE — USE OF OUR WEB SITE, YOU MAY CONTACT US IMMEDIATELY.
+
+« [Printable Calendar Template – 2017 and Blank Calendars](https://www.timvandevall.com/printable-calendar-templates/) [Terms and Conditions](https://www.timvandevall.com/info/terms-and-conditions/) »
