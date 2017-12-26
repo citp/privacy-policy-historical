@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626195405id_/http%3A//www.kgoradio.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226231608id_/http%3A//www.kgoradio.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KGO-AM
 
