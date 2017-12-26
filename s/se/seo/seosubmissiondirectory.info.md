@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seosubmissiondirectory.info privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115031122id_/http%3A//www.seosubmissiondirectory.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seosubmissiondirectory.info privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226173650id_/http%3A//www.seosubmissiondirectory.info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Submission Directory
 
