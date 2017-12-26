@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myschool.edu.au privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630174930id_/http%3A//www.acara.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschool.edu.au privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226222846id_/http%3A//www.acara.edu.au/privacy.html) for the most accurate reproduction.*
 
 # ACARA - Privacy
 
-**Version 4.0, last updated: May 2017**
+**Version 5.0, last updated: December 2017**
 
 ###  Note:
 
@@ -42,7 +42,7 @@ Our approach is consistent with the Office of the Australian Information Commiss
 
 _[The central object of the privacy policy] “is to ensure that entities manage personal information in an open and transparent manner. The policy is not expected to contain detail about all the practices, procedures and systems adopted to ensure APP compliance. The policy also differs from a collection notice provided to an individual under APP 5.1, which will provide specific information relevant to a particular collection of personal information”._
 
-_ _ This part of our privacy policy provides you with a high level overview of how we handle your personal information.
+__This part of our privacy policy provides you with a high level overview of how we handle your personal information.
 
 #### 2 **. ACARA’s functions and purposes**
 
@@ -87,7 +87,7 @@ In drafting this policy, we have adopted the ‘layered’ privacy policy approa
   * [Part A. Online collection of personal information](https://web.archive.org/contact-us/privacy#PartA)
   * [Part B. Personal information and Australian Curriculum teaching resources](https://web.archive.org/contact-us/privacy#PartB)
   * [Part C. Personal information and the National Assessment Program – Literacy and Numeracy (NAPLAN)](https://web.archive.org/contact-us/privacy#PartC)
-  * [NAPLAN 2017 privacy otice and Infographic](http://www.nap.edu.au/naplan/parent-carer-support) (click on link to access).
+  * [NAPLAN 2017 privacy notice](http://www.nap.edu.au/docs/default-source/default-document-library/acara-privacy-notice-naplan-2017.pdf?sfvrsn=2) (PDF 72 kb).
 
 
 
@@ -105,12 +105,12 @@ Student and parent/guardian data are generally collected from state and territor
 
 We collect a range of personal information including:
 
-  * email and portal subscriber lists – [part A – email and portal subscriber lists](file:///C:/Users/NWisdom/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WR2Q9KH7/ACARA%20privacy%20policy%20version%204%20\(May%202017\)%20\(approved%20by%20SMG%20Mon%2022%20May%202017\).docx#Part_A_Subscriber_and_email_lists) (click on the hyperlink for more detail);
+  * email and portal subscriber lists – [part A – email and portal subscriber lists](http://www.acara.edu.au/contact-us/privacy#A) (click on the hyperlink for more detail);
   * membership details of ACARA’s working and reference groups, advisory and expert panels and Board members;
   * prospective and current employee records, including sensitive information;
   * records of consultants, contractors and creditors, including finance records;
-  * student and teacher personal information collected in relation to [part B – Australian Curriculum teaching resources](file:///C:/Users/NWisdom/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WR2Q9KH7/ACARA%20privacy%20policy%20version%204%20\(May%202017\)%20\(approved%20by%20SMG%20Mon%2022%20May%202017\).docx#Part_B_personal_information_and_Australi) (click on the hyperlink for more detail);
-  * student and parent data, collected in relation to the reporting of the National Assessment Program – Literacy and Numeracy ( **NAPLAN** ) tests – [part C – NAPLAN](file:///C:/Users/NWisdom/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WR2Q9KH7/ACARA%20privacy%20policy%20version%204%20\(May%202017\)%20\(approved%20by%20SMG%20Mon%2022%20May%202017\).docx#Part_C_NAPLAN); 
+  * student and teacher personal information collected in relation to [part B – Australian Curriculum teaching resources](http://www.acara.edu.au/contact-us/privacy#B) (click on the hyperlink for more detail);
+  * student and parent data, collected in relation to the reporting of the National Assessment Program – Literacy and Numeracy ( **NAPLAN** ) tests – [part C – NAPLAN](http://www.acara.edu.au/contact-us/privacy#C); 
   * student data, collected in relation to the National Assessment Program ( **NAP** ) Sample Assessments; and
   * student data, collected in relation to ACARA’s other testing programs including, for example, trialling and equating tests, research and development tests and other student testing programs conducted in accordance with directions from the Education Council. 
 
@@ -306,14 +306,14 @@ This part A of our privacy policy provides you with information regarding how we
 
 ACARA’s public websites are hosted by organisations other than ACARA. Our two (2) service providers are:
 
-  * Education Services Australia Limited ( **ESA** ) – hosts the [Australian Curriculum website](http://www.australiancurriculum.edu.au/). ESA is a national, not-for-profit company owned by all Australian education ministers. For more information, please read[ ESA’s privacy policy](https://web.archive.org/web/20170630073104id_/http://www.acara.edu.au/contact-us/www.esa.edu.au/contact-us/privacy). 
+  * Education Services Australia Limited ( **ESA** ) – hosts the [Australian Curriculum website](http://www.australiancurriculum.edu.au/). ESA is a national, not-for-profit company owned by all Australian education ministers. For more information, please read[ ESA’s privacy policy](https://web.archive.org/web/20171226222846id_/http://www.acara.edu.au/contact-us/www.esa.edu.au/contact-us/privacy). 
   * Microsoft Azure – hosts the [ACARA corporate website](http://www.acara.edu.au/), the [Australian Curriculum resources portal](http://resources.australiancurriculum.edu.au/), the  _[ _My School_ website](http://www.myschool.edu.au/)_, the  _[ _My School_ Principals’ Portal](https://schools.myschool.edu.au/)_, the [National Assessment Program website](http://www.nap.edu.au/) and the [NAP reports](http://www.nap.edu.au/results-and-reports/test-results.html). These hosting services are located within Australia. For more information, please read [Microsoft Azure’s privacy policy](https://www.microsoft.com/en-us/TrustCenter/Privacy/default.aspx).
 
 
 
 Both our service providers are contractually required to ensure the privacy of our online users is protected.
 
-There are several methods that we use to collect visitor behaviours on each of our online platforms. We use Google Analytics on our websites. Information and data collected through Google Analytics is stored by Google on servers in the United States of America, Belgium and Finland. For more information, please read [Google’s privacy policy](https://web.archive.org/web/20170630073104id_/http://www.acara.edu.au/contact-us/www.google.com.au/intl/en/policies/privacy/). You can opt out of the collection of information via Google Analytics by downloading the [Google Analytics Opt-out browser add on](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
+There are several methods that we use to collect visitor behaviours on each of our online platforms. We use Google Analytics on our websites. Information and data collected through Google Analytics is stored by Google on servers in the United States of America, Belgium and Finland. For more information, please read [Google’s privacy policy](https://web.archive.org/web/20171226222846id_/http://www.acara.edu.au/contact-us/www.google.com.au/intl/en/policies/privacy/). You can opt out of the collection of information via Google Analytics by downloading the [Google Analytics Opt-out browser add on](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
 
 When you visit any of our online platforms, our metric tools may collect the following information about your visit for statistical purposes:
 
@@ -356,7 +356,7 @@ We will arrange for the deletion or correction of any personal information that 
 
 #### **6\. Data security**
 
-There are inherent risks in transmitting information across the internet and we do not have the ability to control the security of information collected and stored on third party platforms. In relation to our own servers, we take reasonable steps to manage data stored on our servers to ensure data security. In relation to Google Analytics, please read [Google’s privacy policy](https://web.archive.org/web/20170630073104id_/http://www.acara.edu.au/contact-us/www.google.com.au/intl/en/policies/privacy/).
+There are inherent risks in transmitting information across the internet and we do not have the ability to control the security of information collected and stored on third party platforms. In relation to our own servers, we take reasonable steps to manage data stored on our servers to ensure data security. In relation to Google Analytics, please read [Google’s privacy policy](https://web.archive.org/web/20171226222846id_/http://www.acara.edu.au/contact-us/www.google.com.au/intl/en/policies/privacy/).
 
 ### Part B. Personal information and Australian Curriculum teaching resources
 
@@ -379,7 +379,7 @@ In relation to some student work samples published on the public Australian Curr
 
 The Australian Curriculum website includes links to films hosted on external platforms such as You Tube including (without limitation), illustrations of primary curriculum management and student diversity. These films have been created by ACARA or its contractor and are presented as resources for principals, schools and teachers. The films provide advice on relevant matters and illustrate how, for example, the Australian Curriculum enables students with diverse needs to access and participate in learning. 
 
-** ** Some of the published films contain personal information. This might include, for example, a film of a group of students interacting with a teacher. Prior to publishing these materials, privacy consent is obtained from the relevant parents/guardians/students. 
+****Some of the published films contain personal information. This might include, for example, a film of a group of students interacting with a teacher. Prior to publishing these materials, privacy consent is obtained from the relevant parents/guardians/students. 
 
 ### Part C. Personal information handling practices relating to the National Assessment Program – Literacy and Numeracy (NAPLAN)
 
@@ -397,9 +397,9 @@ This part of our privacy policy only covers our collection of personal informati
 
 **Online tests**
 
-NAPLAN will soon commence its transition to online testing. The transition is expected to take two (2) years. During the transition period, the NAPLAN tests will be both paper-based and online. More information about the move to NAPLAN Online is available at the [NAP website](https://web.archive.org/web/20170630073104id_/http://www.acara.edu.au/contact-us/www.nap.edu.au/online-assessment).
+NAPLAN will soon commence its transition to online testing. The transition is expected to take two (2) years. During the transition period, the NAPLAN tests will be both paper-based and online. More information about the move to NAPLAN Online is available at the [NAP website](https://web.archive.org/web/20171226222846id_/http://www.acara.edu.au/contact-us/www.nap.edu.au/online-assessment).
 
-Education Services Australia Limited ( **ESA** ) will operate the platform that will deliver NAPLAN Online. ESA is a national, not-for-profit company owned by all Australian education ministers. More information about ESA can be found at the [ESA website](https://web.archive.org/web/20170630073104id_/http://www.acara.edu.au/contact-us/www.esa.edu.au/). The records containing personal information are stored on the platform by ESA on behalf of the relevant state/territory test administration authority. Test administration authorities (and the Queensland Department of Education and Training in respect of Queensland government school data) have responsibility for holding these records. Data stored on the platform are separated into tenancies, which allows the relevant state/territory test administration authority to retain ownership and control of the records stored within their respective tenancies in the platform. ACARA does not access these records.
+Education Services Australia Limited ( **ESA** ) will operate the platform that will deliver NAPLAN Online. ESA is a national, not-for-profit company owned by all Australian education ministers. More information about ESA can be found at the [ESA website](https://web.archive.org/web/20171226222846id_/http://www.acara.edu.au/contact-us/www.esa.edu.au/). The records containing personal information are stored on the platform by ESA on behalf of the relevant state/territory test administration authority. Test administration authorities (and the Queensland Department of Education and Training in respect of Queensland government school data) have responsibility for holding these records. Data stored on the platform are separated into tenancies, which allows the relevant state/territory test administration authority to retain ownership and control of the records stored within their respective tenancies in the platform. ACARA does not access these records.
 
 This part of our privacy policy covers both the paper-based NAPLAN tests for 2017 and the transition to online testing (comprising paper-based and online tests).
 
@@ -420,7 +420,7 @@ We collect and hold a range of student data as part of the NAPLAN datasets, comp
   * school geographical location classification;
   * school sector (government, Catholic, Independent, home school);
   * date of birth;
-  * sex (male, female);
+  * sex;
   * Aboriginal and Torres Strait Islander status;
   * language background other than English;
   * test participation for each domain (reading, writing, language conventions and numeracy); and
@@ -443,7 +443,7 @@ ACARA does **not** collect or hold student and parent/guardian names in relation
 
 A list of deidentified data fields (data not connected with student names) that ACARA collects in relation to the NAPLAN tests, for the paper-based format, can be found [on the ACARA website](http://www.acara.edu.au/contact-us/acara-data-access).
 
-Participating state and territory test administration authorities will upload a more comprehensive set of data, including student names, onto the online platform as part of preparing for online testing. A full list of data fields (including student names) collected on the online platform by ESA on behalf of state and territory education authorities can be found on the [National Schools Interoperability Program website](https://github.com/nsip).
+Participating state and territory test administration authorities will upload a more comprehensive set of data, including student names, onto the online platform as part of preparing for online testing. A full list of data fields (including student names) collected on the online platform by ESA on behalf of state and territory education authorities can be found in the technical documentation available on the [National Schools Interoperability Program’s GitHub site](https://github.com/nsip/registration-data-set).
 
 In respect of NAPLAN 2016 and earlier years, ACARA collected additional student and parent/guardian background personal information in relation to NAPLAN. This information is held in a separate dataset. ACARA is not collecting these additional data for NAPLAN 2017 onwards. The additional student and parent/guardian personal information that ACARA has collected in the past comprises:
 
