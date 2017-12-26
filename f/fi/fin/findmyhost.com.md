@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmyhost.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513102645id_/http%3A//www.findmyhost.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmyhost.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226103559id_/http%3A//findmyhost.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # WEB HOSTING : Compare Prices, Consumer Reviews, Uptime Statistics. Guides, Cheap Web Hosting To Virtual Private Servers
 
