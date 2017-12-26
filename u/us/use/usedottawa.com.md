@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usedottawa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062652id_/http%3A//www.usedottawa.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedottawa.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226145856id_/http%3A//www.usedottawa.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Used stuff in Ottawa for sale - UsedOttawa.com - buy and sell free classified ads
 
@@ -15,7 +15,7 @@ This Policy explains how we collect, use, disclose and protect your Personal Inf
 Throughout this policy:
 
   1. "Personal Information" means information that can be used to identify you as an individual but does not include business contact information or information that has been made anonymous. 
-  2. “Services” includes any of our [local Used.ca websites](http://www.used.ca/sites/) and our related services, tools, or applications, including applications for mobile devices.
+  2. “Services” includes any of our [local Used.ca websites](https://www.used.ca/sites/) and our related services, tools, or applications, including applications for mobile devices.
   3. “we” “us” or “our” refers to Black Press Group Ltd. and its divisions, subsidiaries, or assigns.
 
 
@@ -26,6 +26,10 @@ By using our Services, you expressly consent to our collection, use, disclosure 
 Social Media
 
 You may access or use our Services through various third party social media websites (e.g. Facebook or Twitter). In doing so, you may choose to provide us with Personal Information stored by such websites. The Personal Information we have access to varies by website and is controlled by your privacy settings on that website and your consent. By associating an account managed by a third party with your account with us and authorizing us to have access to your Personal Information, you agree that we may collect, use and store your Personal Information from these websites in accordance with this Policy.
+
+Web to Print
+
+By agreeing to allow your online posting to be included in the Black Press community newspapers, you give permission to reproduce your photos, ad content and contact number or email in the greater Victoria area newspapers. There is no guarantee that your ad will be selected for publication. Once permission is granted, it can not be revoked. We will endeavour to exclude ads that have been marked as sold before the publication deadline.
 
 * ### Collection of Personal Information
 
@@ -112,7 +116,7 @@ We may contract with certain third parties, such as DoubleClick or Google Analyt
 
 By visiting our websites or using our Services, you consent to our use of Cookies as explained above. If you do not wish for us to use Cookies, you can delete Cookies from your hard drive and disable Cookies in your browser at any time. Please note that disabling Cookies may affect the functionality of our Services.
 
-You may also opt out of specific networks being able to provide personalized advertising by going to [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
+You may also opt out of specific networks being able to provide personalized advertising by going to [http://www.networkadvertising.org/managing/opt_out.asp.](https://www.networkadvertising.org/managing/opt_out.asp)
 
 * ### Protecting and Retaining Your Personal Information
 
