@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodlanddirect.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623045802id_/http%3A//www.woodlanddirect.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodlanddirect.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226085643id_/http%3A//www.woodlanddirect.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
