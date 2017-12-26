@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimix.asia privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607141956id_/http%3A//www.i-click.com/privacy-policy-and-data-ownership) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimix.asia privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226074812id_/http%3A//www.i-click.com/privacy-policy-and-data-ownership) for the most accurate reproduction.*
 
 # Privacy Policy And Data Ownership
 
