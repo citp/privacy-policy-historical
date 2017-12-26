@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the worldsciencefestival.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403190852id_/http%3A//www.worldsciencefestival.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsciencefestival.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226025849id_/http%3A//www.worldsciencefestival.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - World Science Festival
+# Privacy Policy | World Science Festival
 
-### INTRODUCTION
+#### INTRODUCTION
 
 World Science Foundation, d/b/a World Science Festival (referred to collectively in this policy as “WSF,” “we” or “us”) is a 501(c)(3) nonprofit educational organization. Through the website(s) operated at the [worldsciencefestival.com](http://www.worldsciencefestival.com/) (the “Sites”), an annual festival, and other programs, WSF seeks to cultivate a general public informed by science, inspired by wonder, convinced of its value, and prepared to engage with its implications for the future. Sometimes that means obtaining and utilizing, in certain specified ways, personal information from the users of our Sites. This privacy policy (“Privacy Policy”) applies to the personal information we collect about you through the Sites, regardless of media platform (e.g., computer, smartphone, tablet, etc.). (Please note that World Science Festival may operate other websites, including [worldscienceu.com](http://www.worldscienceu.com/), which have their own separate privacy policies that are not applicable here.) Your privacy is important to us, and this Privacy Policy is designed to make clear our intentions and approach to the collection and use of personal information in connection with our Sites and the choices you have. If you have any questions regarding this Privacy Policy, please reach out to us at [info@worldsciencefestival.com](mailto:info@worldsciencefestival.com).
 
-### CONSENT
+#### CONSENT
 
 By using the Sites, you agree to the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please refrain from using the Sites. Specifically, by submitting any **Personal Information** (as defined below in “Information We Collect & How We Collect It”) to us, you consent and agree that we may collect, use and disclose that **Personal Information** in accordance with this Privacy Policy, and as permitted or required by law. You have the option of refraining from submitting **Personal Information** and reviewing, updating and deleting **Personal Information** you have submitted (by contacting [info@worldsciencefestival.com](mailto:info@worldsciencefestival.com)), and can limit your use of the Sites to those aspects that do not require **Personal Information** if you do not agree with our practices outlined in this Privacy Policy regarding **Personal Information**.
 
-### INFORMATION WE COLLECT & HOW WE COLLECT IT
+#### INFORMATION WE COLLECT & HOW WE COLLECT IT
 
 For the purposes of operating, improving, and monitoring the user experience on our Sites and World Science Festival operations generally, we collect various information from those using the Sites. This information is broadly of two types: **Personal Information** (meaning information which is personal to you and can be used to identify you, like your name and email address) and **General Information** (meaning information which cannot be used to identify you, like the number of users—but not their names—who have viewed an article).
 
@@ -34,11 +34,11 @@ We only collect **Personal Information** when you provide it to us directly, for
 • If you add yourself to a waitlist.  
 • If you post comments. WSF offers some interactive features on our Sites, such as the ability to comment on content. If you post Personal Information in comments, we may also collect that information.
 
-### A NOTE ABOUT COMMENT FEATURES ON OUR SITE AND OTHER WSF FORUMS
+#### A NOTE ABOUT COMMENT FEATURES ON OUR SITE AND OTHER WSF FORUMS
 
 WSF uses a technology called livefyre to transfer and post on our Sites comments originally posted on the WSF Facebook page or other WSF social media forums, including, without limitation, LinkedIn and Twitter (collectively, “WSF Forums”). Therefore, if you post comments on the WSF Facebook page or other WSF Forums, those comments, and any Personal Information associated with these comments, may appear on our Sites and may be collected by us. (Additional information about livefyre is available at [http://web.livefyre.com](http://web.livefyre.com/).)
 
-### HOW WE USE PERSONAL INFORMATION WE COLLECT
+#### HOW WE USE PERSONAL INFORMATION WE COLLECT
 
 We use Personal Information we collect on our Sites as described below.
 
@@ -61,7 +61,7 @@ _**Comments**_
 
 We may republish and reuse your comments with your username or other Personal Information you include in comments and may archive this information for use in future communications with you.
 
-### DISCLOSURE OF PERSONAL INFORMATION
+#### DISCLOSURE OF PERSONAL INFORMATION
 
 Except as set forth in this Privacy Policy or as specifically agreed to by you, WSF will not disclose any **Personal Information** we gather from you on the Sites.
 
@@ -77,37 +77,37 @@ Legal and Governmental Authorities/Protection.** To comply with legal requiremen
 
 **Aggregated Data.** We may share **General Information** , aggregated data or publish information based on aggregated data. However, we will only do so in a way that your personal identity is protected.
 
-### ACCESS, REVIEW, CHANGING AND DELETING PERSONAL INFORMATION
+#### ACCESS, REVIEW, CHANGING AND DELETING PERSONAL INFORMATION
 
 You may review, edit and delete the Personal Information you have provided to us by contacting us at [info@worldsciencefestival.com](mailto:info@worldsciencefestival.com). Please note, however, that even if you delete your information, there may still residual information about you in our systems, for example in our log files.
 
-### YOUR RESPONSIBILITIES
+#### YOUR RESPONSIBILITIES
 
 You are responsible for ensuring the accuracy of the **Personal Information** you submit to WSF. Submitting inaccurate information, or failing to maintain the accuracy of information that changes (for example, a change of email address) may disrupt your ability to use receive newsletters, may affect the information you receive from us, and may impact our ability to contact you. You can update your **Personal Information** at any time by logging into WSF. and visiting your user account page.
 
-### EXTERNAL LINKS
+#### EXTERNAL LINKS
 
 WSF may occasionally provide links to sites operated by outside parties (“Third Party Sites”) that we believe may be of interest to you. We do not disclose your **Personal Information** to these Third Party Sites without obtaining your consent. In addition, from our Sites you may be able to interact with social media sites (“Social Media Platforms”), for example, by “liking” us on Facebook. If you choose to click on a link to one of these Third Party Sites or chose to interact with or through a Social Media Platform, your activities are not governed by this Privacy Policy and will be governed by the privacy policy on that Third Party Site or Social Media Platform. Please review their privacy policies and terms of service before disclosing any Personal Information there. WSF does not review and expressly does not endorse and is not responsible for the privacy practices of these Third Party Sites and Social Media Platforms.
 
 We may also maintain a WSF page on Facebook or other WSF Forum (as defined in “A Note about Comment Features on Our Sites and WSF Forums” above). Those pages and your interaction with them are governed by the privacy policies of Facebook or other relevant WSF Forum site and not our Privacy Policy. We may, however, use livefyre to automatically or selectively post comments from WSF Forums on our Sites. As with other Third Party Sites, WSF expressly does not endorse and is not responsible for the privacy practices of WSF Forums, although we may have a presence on them.
 
-### SECURITY
+#### SECURITY
 
 World Science Festival is committed to protecting the security of our users’ Personal Information. To that end, WSF uses industry standard security practices to keep your **Personal Information** private, and to protect it from disclosure to or access by third parties. We will not share it with third parties, except as directed by you or as otherwise specified in this Privacy Policy. Please note, however, that we do not and cannot guarantee the security of Personal Information, and there is some risk that an unauthorized third party may find a way to circumvent our security systems, or that transmission of your information over the Internet will be intercepted.
 
-### CHANGING OUR PRIVACY POLICY
+#### CHANGING OUR PRIVACY POLICY
 
 We review our privacy practices from time to time, and these practices are subject to changes and updates, which will be effective immediately. We will notify you of any material change to this Privacy Policy by posting a notice on our homepage(s) for a reasonable period of time following such update, by reflecting the change on this Privacy Policy page, and by updating the Effective Date located at the bottom of this page. To ensure familiarity with the current version of our Privacy Policy, return to this page periodically. We will not apply any changes retroactively.
 
-### PROTECTING CHILDREN’S PRIVACY
+#### PROTECTING CHILDREN’S PRIVACY
 
 WSF strongly believes in protecting the privacy of children. We do not knowingly collect or maintain any **Personal Information** on our Sites from persons under 13 years of age, and no part of our Sites are directed to persons under 13 years of age. Upon learning of the existence of **Personal Information** concerning persons less than 13 years of age that has been collected on our Sites without verified parental consent, we will take appropriate steps to delete it. If you are at least 13, but not yet 18 years of age, you must obtain the permission of a parent or legal guardian before using any of the interactive features of our Sites, such as subscribing to our newsletter, commenting, donating or purchasing tickets.
 
-### GOVERNING LAW; INTERNATIONAL USERS
+#### GOVERNING LAW; INTERNATIONAL USERS
 
 This Privacy Policy shall be governed by the laws of the State of New York (United States), excluding any laws that might direct the application of the laws of another jurisdiction. Note that we may store and process **Personal Information** on servers or on a cloud located in the United States or elsewhere. The data protection laws of New York and the United States generally may not be as comprehensive or the same as those in the country where you are located. By using our Sites, you agree and consent that your **Personal Information** may be transferred to our facilities in the United States or elsewhere and those of the third parties with whom we share it as described in this Privacy Policy.
 
-### QUESTIONS OR CONCERNS
+#### QUESTIONS OR CONCERNS
 
 If you have any trouble logging in, or have any privacy-related questions or unresolved problems, contact us via [info@worldsciencefestival.com](mailto:info@worldsciencefestival.com).
 
