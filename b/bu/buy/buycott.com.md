@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buycott.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626131806id_/http%3A//buycott.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buycott.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226174610id_/http%3A//www.buycott.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Buycott
 
