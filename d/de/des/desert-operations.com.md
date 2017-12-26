@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desert-operations.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622184944id_/http%3A//www.desert-operations.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desert-operations.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226071834id_/http%3A//www.desert-operations.us/privacy.html) for the most accurate reproduction.*
 
 # Desert Operations
 
@@ -37,12 +37,12 @@ Our online portal containes links to other websites. We have no influence on whe
 
 ## Access Right
 
-You have the right to obtain information about your personal data, its origin and recipient and the purpose of storage. Our data protection supervisor Andreas Planer will give you information about the stored data.
+You have the right to obtain information about your personal data, its origin and recipient and the purpose of storage. Our data protection supervisor Remco Westermann will give you information about the stored data.
 
 ## More information
 
-Your trust is important to us. Therefore we will always to justify ourself to you concerning the processing of your personal data. If you have any questions, you are not answered by this privacy policy, or if you want more in-depth information, please contact our data protection supervisor Andreas Planer at any time.
+Your trust is important to us. Therefore we will always to justify ourself to you concerning the processing of your personal data. If you have any questions, you are not answered by this privacy policy, or if you want more in-depth information, please contact our data protection supervisor Remco Westermann at any time.
 
 ## Personal Data
 
-To delete your personal data, please contact us via email to our data protection officer Andreas Planer.
+To delete your personal data, please contact us via email to our data protection officer Remco Westermann.
