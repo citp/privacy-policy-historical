@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.af privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622021449id_/http%3A//www.jobs.af/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.af privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226072859id_/http%3A//www.jobs.af/privacy) for the most accurate reproduction.*
 
 # Jobs in Afghanistan - Your recruitment and jobs source in Afghanistan
 
