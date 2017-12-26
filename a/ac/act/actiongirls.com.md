@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actiongirls.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626154900id_/http%3A//www.actiongirls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actiongirls.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226202103id_/http%3A//www.actiongirls.com/privacy.html) for the most accurate reproduction.*
 
 # Actiongirls.com
 
