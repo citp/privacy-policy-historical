@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touchdown.co.uk privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627204227id_/http%3A//touchdown.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchdown.co.uk privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226070736id_/http%3A//touchdown.co.uk/privacy) for the most accurate reproduction.*
 
 # Touchdown HolidaysPrivacy Policy
 
@@ -40,8 +40,8 @@ As discussed above, you can always choose not to provide certain information, ev
 1\. You can modify your subscription at any time by clicking on Manage Account. You need to be logged in to see this option.  
 2\. You can send an e-mail to [privacy@touchdown.co.uk](mailto:privacy@touchdown.co.uk)  
 3\. You can send mail to the following postal address:  
-Touchdown, Suite 9, Gatwick House, Peeks Brook Lane, Horley, Surrey, RH6 9ST  
-4\. You can call: 0844 873 3000
+Touchdown, Suite 5F, Gatwick House, Peeks Brook Lane, Horley, Surrey, RH6 9ST  
+4\. You can call: 0800 619 0707
 
 **Amendments**  
 We may from time to time revise this policy by updating this posting. Amendments to this policy will be effective when posted. You should therefore periodically visit this page to review the current Site Privacy Policy, so you are aware of any such revisions to which you are bound.
