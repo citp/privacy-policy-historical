@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjablaster.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609120320id_/http%3A//ninjablaster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjablaster.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226205502id_/http%3A//ninjablaster.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Ninja Blaster
 
