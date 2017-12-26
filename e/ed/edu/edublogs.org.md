@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edublogs.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623210714id_/http%3A//edublogs.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edublogs.org privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226222433id_/https%3A//edublogs.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -Edublogs – education blogs for teachers, students and schools
+# Privacy Policy – Edublogs – free blogs for education
 
 Please find our [Terms of Service here](http://edublogs.org/terms-of-service/).
 
@@ -40,20 +40,6 @@ Using Ads Settings, visitors can [opt-out of Google Analytics](https://tools.goo
 **Protection of Certain Personally-Identifying Information**
 
 Edublogs discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Edublogs’s behalf or to provide services available at Edublogs’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Edublogs’s websites, you consent to the transfer of such information to them. Edublogs will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Edublogs discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Edublogs believes in good faith that disclosure is reasonably necessary to protect the property or rights of Edublogs, third parties or the public at large. If you are a registered user of an Edublogs website and have supplied your email address, Edublogs may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Edublogs and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Edublogs takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
-
-**US-EU and US-Swiss Safe Harbor Framework**  
-Edublogs and our parent company, Incsub, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Incsub, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Incsub, LLC’s certification, please visit http://www.export.gov/safeharbor/
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Incsub commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Incsub at:
-
-support@edublogs.org
-
-Incsub,LLC  
-11900 Jollyville Rd. #202546  
-Austin, TX 78720  
-USA
-
-Incsub has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Incsub, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 **Cookies**
 
