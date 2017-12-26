@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627114002id_/http%3A//www.melaleuca.com/ProductStore/PromoContent.aspx%3FPage%3Dfooter-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226213831id_/http%3A//www.melaleuca.com/ProductStore/PromoContent.aspx%3FPage%3Dfooter-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
