@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indiegogo.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629221226id_/https%3A//learn.indiegogo.com/privacy-policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiegogo.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226213711id_/https%3A//learn.indiegogo.com/privacy-policy-en) for the most accurate reproduction.*
 
 # Privacy Policy - Indiegogo
 
 ## Indiegogo, Inc.
 
-This Privacy Policy was last modified on and is effective as of October 4, 2016.
+This Privacy Policy was last modified on and is effective as of August 1, 2017.
 
 Indiegogo, Inc. (“ **Indiegogo** ,” “ **we** ,” or “ **us** “, “ **our** “) **knows** that you care how Personal Information about you is collected, used, shared and stored. “ **Personal Information** ” means information which personally identifies you or another.
 
@@ -12,11 +12,9 @@ This Privacy Policy explains what Personal Information will be collected by Indi
 
 This Privacy Policy should be read along with our Terms of Use posted at: <https://www.indiegogo.com/about/terms> (“ **Agreement** “), the Partner Terms posted at: <https://www.indiegogo.com/partners/terms>, and Indiegogo’s Cookie Policy posted at: [https://www.indiegogo.com/about/cookies](https://learn.indiegogo.com/cookie-policy/) and all other operating rules, policies and procedures and additional terms and conditions published on our Website (all of which are incorporated by reference) which governs your use of our Website and Service. Capitalized terms, if not defined in this Privacy Policy, are defined in the Agreement.
 
-### EU-US Privacy-Shield
+### EU-US & Swiss-US Privacy-Shield
 
-Indiegogo, Inc. complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Indiegogo, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Indiegogo, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
-
-Indiegogo, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, <https://www.privacyshield.gov/list>.
+Indiegogo, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, including the onward transfer liability provisions.
 
 We are responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
