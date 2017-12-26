@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentsamurai.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617033046id_/http%3A//www.contentsamurai.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentsamurai.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226020735id_/http%3A//www.contentsamurai.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Content Samurai
 
