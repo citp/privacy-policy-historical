@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relayhero.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625204709id_/http%3A//www.relayhero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relayhero.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226233334id_/http%3A//www.relayhero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Relay Hero
 
@@ -14,7 +14,7 @@ Our Privacy Policy explains:
 
 
 
-By using our website, mobile application and services you consent to our collection and use of your personal data described in this Privacy Policy. If you have any questions about this Privacy Policy or would like to know more about what information we collect and store, please contact us at: info@relayhero.com
+By using our website, mobile application and services you consent to our collection and use of your personal data described in this Privacy Policy. If you have any questions about this Privacy Policy or would like to know more about what information we collect and store, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Information we collect**
 
@@ -115,7 +115,7 @@ Some of our pages utilize framing techniques to serve content to from our partne
 
 **Comments Section / Forum**
 
-Our website offers publicly accessible comments section or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our comments section or community forum, contact us at info@relayhero.com_  
+Our website offers publicly accessible comments section or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our comments section or community forum, contact us at[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_  
 In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Links to 3 rd Party Sites**
@@ -144,7 +144,7 @@ You should be aware that when you leave our website, whether via a link on our w
 
 **Children Under 13**
 
-Our website is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our website, please contact us at info@relayhero.com.
+Our website is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our website, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Our Services are Located in  United States of America**
 
@@ -152,7 +152,7 @@ Our website and associated services are hosted in United States of America. If y
 
 **Enforcement and Dispute Resolution**
 
-We regularly review our compliance with our Privacy Policy. When we receive formal written complaints at info@relayhero.com, we will contact the person who made the complaint to follow up.
+We regularly review our compliance with our Privacy Policy. When we receive formal written complaints at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), we will contact the person who made the complaint to follow up.
 
 **Changes**
 
