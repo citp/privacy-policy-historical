@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphaindustries.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151848id_/http%3A//www.alphaindustries.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphaindustries.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226040109id_/http%3A//www.alphaindustries.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Alpha Industries
 
