@@ -1,72 +1,86 @@
-> *The following text is extracted and transformed from the shawacademy.com privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114030936id_/http%3A//www.shawacademy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawacademy.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226032604id_/https%3A//www.shawacademy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Shaw Academy
 
 -
 
-## Privacy Policy
+## Shaw Academy Website Privacy Statement
 
-This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices.
+Shaw Academy is committed to protecting your privacy and takes its responsibility regarding the security of customer information very seriously. Our website Privacy Statement sets out what information we collect, how we collect it, what we do with it and how we protect this information. Any personal data is collected and processed in accordance with Irish and EU data protection laws.
 
-This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+## Collection of Personal Data
 
-By submitting your information you consent to the use of that information as set out in this policy.
+In order to facilitate the provision of education, we collect personal details from you together with information we learn about you from your use of our website. These details may include (where applicable) your name, address, telephone number, e-mail and IP addresses, credit/debit card or other payment details. To provide location-based services we may collect, use, and share precise location data, including the real-time geographic location of your computer or device through GPS, Bluetooth, and your IP address, along with crowd-sourced Wi-Fi hotspot and cell tower locations. This location data is collected anonymously, unless you provide consent. You may withdraw consent to Shaw Academy and our partners’ collection, use, transmission, processing and maintenance of location and account data at any time by not using the location-based features and turning off the Location Services settings (as applicable) on your device and computer.
 
-## This Privacy Policy protects your privacy by:
+Your data may be used for the following purposes: providing products and services you request, contacting you regarding your course, credit or other payment card verification/screening, legal purposes, statistical and marketing analysis, systems testing, customer surveys, customer relations communications and offering you services and products we believe may interest you.
 
-  1. The types of personal information we collect about you through our Web sites;
-  2. How it collects that information;
-  3. The general purposes for which it collects such information;
-  4. The types of organizations to which it discloses the information;
-  5. The choices and means by which individuals may limit its use and disclosure.
+## Sharing information about you
+
+We follow strict security procedures in the storage and disclosure of student information.
+
+We may disclose your information to trusted contracted companies who act as "data processors" on our behalf for the purposes set out in this Privacy Statement. Shaw Academy has transfer agreements in place with all entities to which it transfers data for processing on its behalf. The agreements provide for specific and limited processing of user data in service of Shaw Academy’s operations and have been prepared so as to meet the requirements of Irish and EU law.
+
+We may also pass your information on to government authorities or enforcement bodies for compliance with legal requirements.
+
+Shaw Academy operates businesses in multiple jurisdictions, some of which are not located in the European Economic Area (EEA). While countries outside the EEA do not always have strong data protection laws, we will ensure that Shaw Academy and our services providers process your information in a secure manner and in accordance with this Privacy Statement.
+
+You may be able to access third party social media services through our website or before coming to our website. When you are registered with your social service account, we will obtain the personal information you choose to share with us through these social media services pursuant to their privacy settings in order to improve and personalize your use of our website. This may include a list of friends and reviews of other users in your network. We may also use social media plugins on our website. As a result your information will be shared with your social media provider and possibly presented on your social media profile to be shared with others in your network. Please refer to the privacy policy of these third-party social media providers to find out more about these practices. 
+
+## Shaw Academy Student Area
+
+All data collected upon registration in Shaw Academy will be processed in line with this Privacy Statement. In your personal Shaw Academy student area we store all your course information, so that you can access it whenever you wish.
+
+We understand the importance of taking extra precautions to protect the privacy and safety of children. Accordingly, children under 16 will not be permitted to open a Shaw Academy account. We will take reasonable steps to delete any Shaw Academy account or information created by a child under 16, as soon as we learn about it.
+
+All payment details are transmitted over a secure connection (Secure Socket Layer-SSL) across dedicated network infrastructure (Multiprotocol Label Switching-MPLS) and stored in compliance with Payment Card Industry Data Security Standards (PCI DSS).
+
+You will have the option to stay signed-in into your Shaw Academy account by checking the “remember me” box. This option will only apply to the computer / device and the browser that you're using when you select the box. If you do not wish to stay signed on a particular browser, simply sign out of your Shaw Academy account on that browser.
+
+You may delete your Shaw Academy account by contacting Shaw Academy support [here](http://shawacademy.com/contact).
+
+## Direct Marketing Material
+
+From time to time we or our selected partners may contact you with information regarding course promotions and ancillary products via email. However, you will be given the opportunity on every e-communication that we or our trusted partners send you to indicate that you no longer wish to receive our or their direct marketing material.
+
+## Site tracking
+
+We use tracking software to monitor customer traffic patterns and site usage to help us develop the design and layout of the websites. This software does not enable us to capture any personal passenger information.
+
+## Cookies
+
+This site uses cookies to enable us to improve our service to you and to provide certain features that you may find useful (click here for Shaw Academy’s Cookie Policy).
+
+Cookies are small text files that are transferred to your computer's hard drive through your web browser to enable us to recognise your browser and help us to track visitors to our site; thus enabling us to understand better the products and services that will be most suitable to you. A cookie contains your contact information and information to allow us to identify your computer when you travel around our site for the purpose of helping you accomplish your registration. Most Web browsers automatically accept cookies, but, if you wish, you can set your browser to prevent it from accepting cookies. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. The cookies we use do not detect any information stored on your computers.
+
+For more information about cookies and how to stop cookies being installed visit the following website: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+
+## Links to Third Party Websites
+
+This privacy statement only covers websites that we own and control. It does not cover links to other websites and accordingly any information collected by those parties that own and control those websites or their use of cookies set from their domains when you visit their websites. Please be aware that individual third-party organizations operate their own policies regarding the use and sale of personal information and the use of cookies. If you have a concern regarding the way your personal information will be used on other sites or on the type of cookies used and how they are being used then you are advised to read the relevant privacy statement and cookie policy or in the absence of such a statement and policy on the site, contact the company concerned. Any data stored by third party websites are stored completely separately by third party.
+
+## Security
+
+We take great care to ensure the security of our website. The data you provide to us is protected using SSL (Secure Socket Layer) technology. SSL is the industry standard method of encrypting personal information and credit card details so that they can be securely transferred over the Internet.
+
+## Your Rights
+
+You may ask in writing for a copy of the information we hold about you (for which we may charge a maximum fee of €6.35). You also have the right to request correction of any inaccuracies in your personal data or, where appropriate, the erasure of such data.
+
+For this purpose, you must provide the following documents: 
+
+  * A signed request;
+  * A copy of your passport or national ID, so that we can verify your identity;
+  * A signed authority from any third party whose data you request on their behalf.
 
 
 
-## Empowering you to choose:
+## Our registered address is:
 
-  1. Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  2. Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
+Shaw Academy   
+Block P4B, Eastpoint Business Park   
+Dublin 3   
+Ireland
 
+## Changes to Privacy Statement
 
-
-## Assuring you that the Shaw Academy:
-
-  1. Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  2. Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  3. Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  4. Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
-
-
-
-## Ensuring accountability
-
-Only those the Shaw Academy employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by an Shaw Academy employee is prohibited and constitutes grounds for disciplinary action.
-
-## Notification of Changes
-
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. Continued use of the service will signify that you agree to any such changes. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to privacy@shawacademy.com.
-
-If you have any questions regarding this Privacy Policy, please contact privacy@shawacademy.com
-
-## Definitions
-
-In these terms and conditions:
-
-  1. 'This website' means our presence on the Internet;
-  2. 'our', 'we' and 'us' means the Shaw Academy and, where applicable, its officers, employees and authorised agents; and
-  3. 'you' and 'your' refer to any individual, company or business (whether registered by us as an investor or not) to whom we provide Services by means, including but not limited to, telephone, face-to-face contact, postal correspondence, electronic mail or via our website www.Shaw Academy.com hereon referred to as the website.
-
-
-
-## Policy for Display Advertising
-
-  1. Google is a registered trademark of Google Inc.
-  2. We've implemented and use Display Advertising.
-  3. The Google Analytics features we've implemented based on Displayed Advertising (e.g., Remarketing, affinity audiences, custom affinity audiences, in-market audiences, similar audiences, demographic and location targeting).
-  4. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager.  
-<https://www.google.com/settings/u/0/ads/authenticated?hl=en>
-  5. We use Remarketing with Google Analytics to advertise online.
-  6. Third-party vendors, including Google, show Our ads on sites across the Internet.
-  7. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Double click)
-
-
+Our Privacy Statement may change from time to time and any changes to the statement will be posted on this page.
