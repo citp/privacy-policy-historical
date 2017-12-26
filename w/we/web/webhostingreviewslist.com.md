@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingreviewslist.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627100822id_/http%3A//www.webhostingreviewslist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingreviewslist.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226085421id_/http%3A//www.webhostingreviewslist.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Web Hosting Review Boards ™
 
