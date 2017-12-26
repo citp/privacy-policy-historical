@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the spectacles.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611181810id_/https%3A//www.snap.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectacles.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226135935id_/https%3A//www.snap.com/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Center – Snap Inc.
 
-Last Modified: April 12, 2017
+Last Modified: September 26, 2017
 
-Snapchat is a fast and fun way to share experiences with your friends and the world around you. You can send a photo or video Snap to friends, chronicle your day through Story, touch base using Chat, immerse yourself in global events through Live, and enjoy handcrafted stories from the world’s top publishers on Discover.
+Snap Inc. is a camera company. Our services—including Snapchat, Bitmoji, and others that link to this Privacy Policy—provide fast and fun ways to express yourself, live in the moment, learn about the world, and have fun together!
 
-When you use these services—and any others we in the Snap Inc. corporate family roll out, whether in the Snapchat app or elsewhere—you’ll share some information with us. We get that that can affect your privacy. So we want to be upfront about the information we collect, how we use it, whom we share it with, and the choices we give you to control, access, and update your information.
+When you use these services, you’ll share some information with us. So we want to be upfront about the information we collect, how we use it, whom we share it with, and the choices we give you to control, access, and update your information.
 
 That’s why we’ve written this Privacy Policy. And it’s why we’ve tried to write it in a way that’s blissfully free of the legalese that often clouds these documents. Of course, if you still have questions about anything in our Privacy Policy, just [contact us](https://support.snapchat.com/).
 
@@ -30,21 +30,24 @@ When you interact with our services, we collect the information that you choose 
 
 Of course, you’ll also provide us whatever information you send through the services, such as Snaps and Chats to your friends. Keep in mind that the users you send Snaps, Chats, and any other content to can always save that content or copy it outside the app. So, the same common sense that applies to the internet at large applies to Snapchat as well: Don’t send messages or share content that you wouldn’t want someone to save or share.
 
-It probably goes without saying, but we’ll say it anyway: When you contact Snapchat Support or communicate with us in any other way, we’ll collect whatever information you volunteer.
+It probably goes without saying, but we’ll say it anyway: When you contact customer support or communicate with us in any other way, we’ll collect whatever information you volunteer.
 
 ### Information We Get When You Use Our Services
 
-When you use our services, we collect information about which of those services you’ve used and how you’ve used them. We might know, for instance, that you watched a particular Live Story, saw a specific ad for a certain period of time, and sent a few Snaps to friends. Here’s a fuller explanation of the types of information we collect when you use our services :
+When you use our services, we collect information about which of those services you’ve used and how you’ve used them. We might know, for instance, that you watched a particular Live Story, saw a specific ad for a certain period of time, and sent a few Snaps to friends. Here’s a fuller explanation of the types of information we collect when you use our services:
 
   * **Usage Information.** We collect information about your activity through our services. For example, we may collect information about: 
     * how you interact with the services, such as which filters you view or apply to Snaps, which channels you watch on Discover, or which search queries you submit.
     * how you communicate with other Snapchatters, such as their names, the time and date of your communications, the number of messages you exchange with your friends, which friends you exchange messages with the most, and your interactions with messages (such as when you open a message or capture a screenshot).
-  * **Content Information.** We collect information about the content you provide, such as if the recipient has viewed the content and the metadata that is provided with the content.
-  * **Device Information.** We collect device-specific information, such as the hardware model, operating system version, advertising identifier, unique application identifiers, unique device identifiers, browser type, language, wireless network, and mobile network information (including the mobile phone number).
+  * **Content Information.** We collect content you create on our services, such as custom stickers, and information about the content you create or provide, such as if the recipient has viewed the content and the metadata that is provided with the content.
+  * **Device Information.** We collect information from and about the devices you use. For example, we collect: 
+    * information about your hardware and software, such as the hardware model, operating system version, device memory, advertising identifiers, unique application identifiers, apps installed, unique device identifiers, browser type, language, battery level, and time zone;
+    * information from device sensors, such as accelerometers, gyroscopes, compasses, microphones, and whether you have headphones connected; and
+    * information about your wireless and mobile network connections, such as mobile phone number, service provider, and signal strength.
   * **Device Phonebook.** Because Snapchat is all about communicating with friends, we may—with your consent—collect information from your device’s phonebook.
   * **Camera and Photos.** Many of our services require us to collect images and other information from your device’s camera and photos. For example, you won’t be able to send Snaps or upload photos from your camera roll unless we can access your camera or photos.
   * **Location Information.** When you use our services we may collect information about your location. With your consent, we may also collect information about your precise location using methods that include GPS, wireless networks, cell towers, Wi-Fi access points, and other sensors, such as gyroscopes, accelerometers, and compasses.
-  * **Information Collected by Cookies and Other Technologies.** Like most online services and mobile applications, we may use cookies and other technologies, such as web beacons, web storage, and unique advertising identifiers, to collect information about your activity, browser, and device. We may also use these technologies to collect information when you interact with services we offer through one of our partners, such as commerce features. Most web browsers are set to accept cookies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies could affect the availability and functionality of our services. To learn more about how we use cookies and your choices, please check out our [Cookie Statement](https://web.archive.org/en-US/cookie-policy/). To learn more about how third parties use these technologies on our services, be sure to read the Analytics and Advertising Services Provided by Others section of our Privacy Policy.
+  * **Information Collected by Cookies and Other Technologies.** Like most online services and mobile applications, we may use cookies and other technologies, such as web beacons, web storage, and unique advertising identifiers, to collect information about your activity, browser, and device. We may also use these technologies to collect information when you interact with services we offer through one of our partners, such as [advertising and commerce features](https://web.archive.org/en-US/cookie-policy/). Most web browsers are set to accept cookies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies could affect the availability and functionality of our services. To learn more about how we use cookies and your choices, please check out our [Cookie Policy](https://web.archive.org/en-US/cookie-policy/). To learn more about how third parties use these technologies on our services, be sure to read the Analytics and Advertising Services Provided by Others section of our Privacy Policy.
   * **Log Information.** We also collect log information when you use our website. That information includes, among other things: 
     * details about how you’ve used our services.
     * device information, such as your web browser type and language.
@@ -58,7 +61,7 @@ When you use our services, we collect information about which of those services 
 
 ### Information We Collect from Third Parties
 
-We may collect information that other users provide about you when they use our services. For example, if another user allows us to collect information from their device phonebook—and you’re one of that user’s contacts—we may combine the information we collect from that user’s phonebook with other information we have collected about you. We may also obtain information from other companies that are owned or operated by us, or any other third-party sources, and combine that with the information we collect through our services.
+We may collect information that other users provide about you when they use our services. For example, if another user allows us to collect information from their device phonebook—and you’re one of that user’s contacts—we may combine the information we collect from that user’s phonebook with other information we have collected about you. We may also obtain information from our [affiliates](https://support.snapchat.com/a/snap-affiliates), or any other third-party sources, and combine that with the information we collect through our services.
 
 ## How We Use Information
 
@@ -69,7 +72,7 @@ What do we do with the information we collect? The short answer is: Provide you 
   * monitor and analyze trends and usage.
   * personalize the services by, among other things, suggesting friends or profile information, or customizing the content we show you, including ads.
   * contextualize your experience by, among other things, tagging your Memories content using your precise location data (if, of course, you’ve consented to us collecting that data) and applying other labels based on the content.
-  * improve ad targeting and measurement, including through the use of your precise location data (again, if you’ve consented to us collecting that data). See the Control Over Your Information section below for more information about Snap Inc.’s advertising practices and your choices.
+  * provide and improve ad targeting and measurement, including through the use of your precise location data (again, if you’ve consented to us collecting that data), both on and off our services. See the Control Over Your Information section below for more information about Snap Inc.’s advertising practices and your choices.
   * enhance the safety and security of our products and services.
   * verify your identity and prevent fraud or other unauthorized or illegal activity.
   * use information we’ve collected from cookies and other technology to enhance the services and your experience with them.
@@ -86,14 +89,14 @@ We may share information about you in the following ways:
   * **With other Snapchatters.** We may share the following information with other Snapchatters: 
     * information about you, such as your username, name, and Bitmoji.
     * information about how you have interacted with the services, such as your Snapchat “score,” the names of Snapchatters you are friends with, and other information that will help Snapchatters understand your connections with others using the services. For example, because it may not be clear whether a new friend request comes from someone you actually know, we may share whether you and the requestor have Snapchat friends in common.
-    * any additional information you have consented for us to share. For example, when you let us access your device phonebook, we may share information about you with other users who have your phone number in their device phonebook.
+    * any additional information you have consented for us to share.
     * content you post or send will be shared with other Snapchatters; how widely your content is shared depends on your personal settings and the type of service you are using. For example, a Snap may be sent to just a single friend you select, but your My Story content may be seen by any Snapchatter whom you allow to see your My Story.
   * **With all Snapchatters, our business partners, and the general public.** We may share the following information with all Snapchatters as well as with our business partners and the general public: 
     * public information like your name, username, Snapcode and profile pictures.
-    * any content that you submit to Live, Local, or any other crowd-sourced service. If a Live, Local, or any other crowd-sourced service is streamed on the web or broadcast in some other media, it may be viewed by the public at large or rebroadcast by our business partners.
-  * **With our affiliates.** We may share information with entities within the Snap Inc. family of companies.
+    * any content that you submit to Our Story or any other crowd-sourced service. If an Our Story or any other crowd-sourced service is streamed on the web or broadcast in some other media, it may be viewed by the public at large or rebroadcast by our business partners.
+  * **With our affiliates.** We may share information with entities within the [Snap Inc. family of companies](https://support.snapchat.com/a/snap-affiliates).
   * **With third parties.** We may share your information with the following third parties: 
-    * **With service providers, sellers, and partners.** We may share information about you with service providers who perform services on our behalf, sellers that provide goods through our services, and business partners that provide services and functionality.
+    * **With service providers, sellers, and partners.** We may share information about you with service providers who perform services on our behalf, sellers that provide goods through our services, and business partners that provide services and functionality. For more information about data collected by third parties on our services, see below.
     * **With third parties for legal reasons.** We may share information about you if we reasonably believe that disclosing the information is needed to: 
       * comply with any valid legal process, governmental request, or applicable law, rule, or regulation.
       * investigate, remedy, or enforce potential Terms of Service violations.
@@ -107,19 +110,25 @@ We may also share with third parties—such as advertisers—aggregated, non-per
 
 ## Third-Party Content and Integrations
 
-The services may also contain third-party links and search results, include third-party integrations, or offer a co-branded or third-party-branded service. Through these links, third-party integrations, and co-branded or third-party-branded services, you may be providing information (including personal information) directly to the third party, us, or both. You acknowledge and agree that we are not responsible for how those third parties collect or use your information. As always, we encourage you to review the privacy policies of every third-party website or service that you visit or use, including those third parties you interact with through our services.
+The services may also contain third-party links and search results, include third-party integrations, or offer a co-branded or third-party-branded service. Through these links, third-party integrations, and co-branded or third-party-branded services, you may be providing information (including personal information) directly to the third party, us, or both. You acknowledge and agree that we are not responsible for how those third parties collect or use your information. As always, we encourage you to review the privacy policies of every third-party service that you visit or use, including those third parties you interact with through our services. To learn more about third-party services in Snapchat, visit our [Support Site](https://support.snapchat.com/article/integrated-features).
 
-## Analytics and Advertising Services Provided by Others
+## Analytics and Advertising Services
 
-We may let other companies use cookies, web beacons, and similar tracking technologies on our services. These companies may collect information about how you use our services and other websites and online services over time and across different services. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, and better understand your online activity.
+### Provided by Others
 
-Additionally, some companies may use information collected on our services to deliver targeted advertisements on behalf of us or other companies, including on third-party websites and apps. For more information about interest-based ads and the choices available to you, go [here](https://support.snapchat.com/a/advertising-preferences).
+We may let other companies use cookies, web beacons, and similar technologies on our services. These companies may collect information about how you use our services over time and combine it with similar information from other services and companies. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, and better understand your online activity.
+
+Additionally, some companies, including our [affiliates](https://support.snapchat.com/a/snap-affiliates), may use information collected on our services to measure the performance of ads and deliver more relevant ads on behalf of us or other companies, including on third-party websites and apps. For more information about interest-based ads and the choices available to you, go [here](https://support.snapchat.com/a/advertising-preferences).
+
+### Provided by Us
+
+We may collect information about your activity on third-party services that use cookies and other technologies provided by us. We use this information to improve our advertising services, including measuring the performance of ads and showing you more relevant ads. Visit our [Advertising Preferences](https://support.snapchat.com/a/advertising-preferences) page to learn more about Snapchat advertising and how you can control the information used to select the ads you see.
 
 ## How Long We Keep Your Content
 
 Snapchat lets you capture what it’s like to live in the moment. On our end, that means that we automatically delete the content of your Snaps (the photo and video messages that you send your friends) from our servers after we detect that a Snap has been opened by all recipients or has expired. But remember: There are various ways Snapchatters can save your content and also upload it to Snapchat (like as an attachment in Chat). We go into more detail below about how users can save Snapchat content.
 
-Outside of Snaps, the rest of our services may use content for longer periods of time, which means those services may follow different deletion protocols. So, for example, we retain your Story content a bit longer than Snaps. Or, if you submit content to one of our inherently public features, such as Live, Local, or any other crowd-sourced service, we may retain the content as long as necessary to offer and improve the services. If you have any questions about how a feature works you can just pop on over to our [Support Site](https://support.snapchat.com/).
+Outside of Snaps, the rest of our services may use content for longer periods of time, which means those services may follow different deletion protocols. So, for example, we retain your Story content a bit longer than Snaps. Or, if you submit content to one of our inherently public features, such as Our Story or any other crowd-sourced service, we may retain the content as long as necessary to offer and improve the services. If you have any questions about how a feature works you can just pop on over to our [Support Site](https://support.snapchat.com/).
 
 Finally—and this is important—you should understand that users who see the content you provide can always save it using any number of techniques: screenshots, in-app functionality, or any other image-capture technology. It’s also possible, as with any digital information, that someone might be able to access messages forensically or find them in a device’s temporary storage. Keep in mind that, while our systems are designed to carry out our deletion practices automatically, we cannot promise that deletion will occur within a specific timeframe. And we may need to suspend those deletion practices if we receive valid legal process asking us to preserve content or if we receive reports of abuse or other Terms of Service violations. Finally, we may also retain certain information in backup for a limited period of time or as required by law.
 
