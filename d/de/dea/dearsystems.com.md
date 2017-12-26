@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dearsystems.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628190457id_/http%3A//dearsystems.com/inventory-software/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dearsystems.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226202851id_/http%3A//dearsystems.com/inventory-software/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DEAR Cloud Inventory Management
 
