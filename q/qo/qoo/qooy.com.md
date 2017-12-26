@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qooy.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622195454id_/http%3A//qooy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qooy.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227001801id_/http%3A//qooy.com/privacy.php) for the most accurate reproduction.*
 
 # QOOY - Pick your file host - Privacy Policy
 
