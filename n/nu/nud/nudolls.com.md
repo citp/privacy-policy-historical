@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nudolls.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615060952id_/http%3A//nudolls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nudolls.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226055440id_/http%3A//www.nudolls.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
