@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129090938id_/https%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226221128id_/https%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
 
 # Brad's Deals Privacy Policy
 
