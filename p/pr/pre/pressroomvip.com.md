@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressroomvip.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110243id_/http%3A//www.pressroomvip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressroomvip.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226232205id_/http%3A//pressroomvip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PressRoomVIP
 
@@ -37,7 +37,7 @@ We use Third Party Advertising Companies to serve ads. Advertisers may collect d
 
 You can prevent these companies from showing you targeted ads by submitting opt-outs. Opting-out will only prevent targeted ads so you may continue to see generic (non-targeted ads) from these companies after you opt-out. 
 
-To opt out you can can visit the the Digital Advertising Alliance’s opt-out page to opt-out by clicking [here](http://www.aboutads.info/choices/).
+To opt-out, you can visit the opt-out page by clicking [here](https://info.evidon.com/more_info/103099)
 
 You may opt in to behaviorally targeted ads anytime by deleting your browser’s cookies.
 
