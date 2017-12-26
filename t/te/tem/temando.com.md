@@ -1,24 +1,27 @@
-> *The following text is extracted and transformed from the temando.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625174949id_/http%3A//temando.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temando.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227001301id_/http%3A//temando.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Temando
 
 [](https://privacy.truste.com/privacy-seal/Temando/validation?rid=97cff6d5-e7d5-470f-a5f7-e0f371c25efb "TRUSTe online privacy certification")
 
+## Temando LLC  
+
+
 Temando is committed to protecting and respecting your privacy. Indeed, protection of your personal information is one of the key success criteria by which we measure our performance. 
 
-This document discloses the privacy practices for both Temando Pty Limited ACN 120 582 738 and Temando Holdings Pty Limited ACN 122 087 512.  The websites [www.temando.com](http://www.temando.com/), and [www.temando.com.au are](http://www.temando.com.au%20are/) owned and operated by Temando Pty Ltd (Site). This Privacy Policy describes how Temando collects, uses, shares and secures the personal information you provide. It also describes your choices regarding use, access and correction of your personal information. The use of information collected through our fulfilment software platform shall be limited to the purpose of providing the Services for which our Clients have engaged us. 
+This document discloses the privacy practices for both Temando Pty Limited ACN 120 582 738 and Temando Holdings Pty Limited ACN 122 087 512.  The website [www.temando.com](http://www.temando.com/), is owned and operated by Temando Pty Ltd (Site). This Privacy Policy describes how Temando collects, uses, shares and secures the personal information you provide. It also describes your choices regarding use, access and correction of your personal information. The use of information collected through our fulfilment software platform shall be limited to the purpose of providing the Services for which our Clients have engaged us. 
 
 **Questions or Complaints**
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us here or email us at  [privacy@temando.com](mailto:privacy@temando.com). We will review your complaint and respond to you within 30 days.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-**Information We Collect  **
+**Information We Collect** ** **
 
 We collect personal information online via our Site and Platform.  Our main goal in collecting personal information from you is to provide you with a  **smooth, efficient, and personalized experience**  while using our services. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience easier and quicker.
 
 To fully use our services,  **you will need to register**  using our online registration form, where you will be required to provide us with your contact information (e.g. e-mail address, full name, mailing address, telephone number).  If you do not provide this information we may not be able to respond to your enquiry or provide the services you request. 
 
-We automatically **  track certain information** about you based upon your behaviour on our site. We use this information to do **  internal research** on our users' demographics, interests, and behaviour to better understand and serve our users. This information is compiled and analysed on an  **aggregated basis**.
+We automatically **  track certain information** about you based upon your behavior on our site. We use this information to do **  internal research** on our users' demographics, interests, and behaviour to better understand and serve our users. This information is compiled and analysed on an  **aggregated basis**.
 
 Technologies such as: COOKIES and similar technologies are used by Temando and our partners, Adroll, Google Analytics and Salesforce. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
@@ -68,7 +71,7 @@ We also use information in the database file we maintain about you, and other in
 
 **Our Disclosure of Your Information**
 
-We may disclose your personal information to third parties who provide services to us, including related bodies corporate, affiliates, partners, carriers, carrier intermediaries, e-commerce platforms, contractors and third party service (“ **Temando Service Providers** ”) that assist us with our business activities, including as set out below _._ Some of these entities may be overseas including in the United States, United Kingdom, European Union, Singapore, Hong Kong, the Philippines Vietnam and New Zealand. Your information may be transferred internationally for the purposes of processing by Temando or Temando Service Providers. Where we disclose your personal information to Temando Service Providers located outside of Australia, we will do so in accordance with the requirements of the Australian privacy laws. By providing us with your personal information, you consent to the disclosure of your personal information to Temando Service Providers located overseas.  
+We may disclose your personal information to third parties who provide services to us, including related bodies corporate, affiliates, partners, carriers, carrier intermediaries, e-commerce platforms, contractors and third party service (“ **Temando Service Providers** ”) that assist us with our business activities, including as set out below _._ Some of these entities may be overseas including in Australia, United Kingdom, European Union, Singapore, Hong Kong, the Philippines Vietnam and New Zealand. Your information may be transferred internationally for the purposes of processing by Temando or Temando Service Providers. By providing us with your personal information, you consent to the disclosure of your personal information to Temando Service Providers located overseas.  
 
 These services include: 
 
@@ -114,7 +117,7 @@ Our Web site includes Social Media Features, such as the Facebook button and Wid
 
 Our Site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our Site and to read the privacy policies of each and every Web site that collects personal information. 
 
-**Single Sign-On**
+**Single** **Sign** **-On**
 
 You can log in to our website using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity, provide you the option to share certain personal information (such as your name and email address) with us, and to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.
 
@@ -140,7 +143,7 @@ We will retain your information for as long as your account is active or as need
 
 Upon request Temando will provide you with information about whether we hold any of your personal information.
 
- You can at any time review and change the information you submitted during registration by visiting the settings page on the site.
+You can at any time review and change the information you submitted during registration by visiting the settings page on the site.
 
 You can at any time ask to see and have changed, updated, amended or removed any personal information that we have stored on you, though we reserve the right to charge a reasonable fee for this service. Please contact us if you would like access to your personal information for any reason. We will respond to your request to access within 30 days. Upon request, your personal information will be deleted unless we are required to retain such information for the purposes of the provision of services or the performance of business and legal obligations by Temando or a Temando Service Provider. Furthermore, we will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our User Agreement. If you would like access to your personal information, please contact us at [privacy@temando.com](mailto:privacy@temando.com)
 
@@ -148,7 +151,7 @@ You can at any time ask to see and have changed, updated, amended or removed any
 
 Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them.
 
-**How we hold your Personal Information and Security**
+**How we hold your Personal Information and** **Security**
 
 In order to process and protect your credit card details, our payment provider eWAY uses SSL (secure sockets layer) encryption. The secure server is hosted by eWAY and not Temando.
 
@@ -168,18 +171,16 @@ Temando will retain personal data we process on behalf of our Clients for as lon
 
 **Changes to Privacy Policy**
 
-We will update this Privacy Policy if our information handling practices change.  If we make any material changes we will publicise changes on our website or notify you by email (sent to the e-mail address specified in your account) prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We will update this Privacy Policy if our information handling practices change.  If we make any material changeswe will publicise changes on our website or notify you by email (sent to the e-mail address specified in your account) prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **Contact Details**
 
-Temando Pty Ltd
+Temando LLC 
 
-Level 8, 100 Skyring Terrace
+550 Montgomery Street
 
-Newstead QLD 4006
-
-Tel: 
+San Francisco CA 94111
 
 [privacy@temando.com](mailto:privacy@temando.com) 
 
-Effective:  10 May, 2017
+Effective: 10 May, 2017
