@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginiadot.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630032419id_/http%3A//www.virginiadot.org/info/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginiadot.org privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226060903id_/http%3A//www.virginiadot.org/info/legal.asp) for the most accurate reproduction.*
 
 # Legal
 
