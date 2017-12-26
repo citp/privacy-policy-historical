@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxasian.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619220205id_/http%3A//boxasian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxasian.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226083638id_/http%3A//boxasian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
