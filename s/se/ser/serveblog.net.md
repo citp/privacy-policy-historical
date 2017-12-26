@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serveblog.net privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626001425id_/http%3A//www.noip.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serveblog.net privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226010141id_/http%3A//www.noip.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - No-IP
 
@@ -87,4 +87,4 @@ No-IP.com allows you to change or modify your personal Information by sending e-
 
 This site contains links to other sites. No-IP.com is not responsible for the content or privacy practices of these sites.
 
-Please [contact us](http://www.noip.com/contact) if you have any questions about our privacy policy.
+Please [contact us](https://www.noip.com/contact) if you have any questions about our privacy policy.
