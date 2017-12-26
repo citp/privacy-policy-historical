@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starfall.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609111944id_/http%3A//more.starfall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfall.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226210547id_/http%3A//more.starfall.com/privacy.php) for the most accurate reproduction.*
 
 # Starfall Education Privacy Policy
 
@@ -28,7 +28,7 @@ When you use Starfall on a computer or mobile device, we collect some basic tech
 
 ### Social Media & Advertising
 
-Starfall does not place third party advertisements or links to advertisements on our websites or other services. We strongly believe that children should not be the targets of marketing efforts during their educational experience. Resources for grown-ups, specifically those found on the Starfall Teachers' Lounge and The Starfall Store, may contain links to social media services, but are kept separate from children's activities and safeguarded behind a parent gate. 
+Starfall does not place third party advertisements or links to advertisements on our websites or other services. We strongly believe that children should not be the targets of marketing efforts during their educational experience. Resources for grown-ups, specifically those found on the Starfall Parent-Teacher Center and The Starfall Store, may contain links to social media services, but are kept separate from children's activities and safeguarded behind a parent gate. 
 
 ### Disclosure of Information
 
