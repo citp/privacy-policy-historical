@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologiesaintjoseph.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610072402id_/http%3A//www.technologiesaintjoseph.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologiesaintjoseph.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227000532id_/http%3A//technologiesaintjoseph.com/privacy) for the most accurate reproduction.*
 
 # Wajam.com | Privacy
 
@@ -135,4 +135,4 @@ We reserve the right to periodically amend or revise the Privacy Policy; materia
 
 ### How to contact us
 
-you may contact us at Wajam Room 1708 ,1708, Kai Tak Commercial Building, 317-319 Des Voeux Road, Central Hong Kong SAR or by email at: [feedback@wajam.com](mailto:feedback@wajam.com). Instructions on how to uninstall Wajam can be found at our [How to Uninstall Wajam](http://www.technologiesaintjoseph.com/howto/uninstall) page. If you need any additional information, you may contact us at [support@wajam.com](mailto:support@wajam.com).
+you may contact us at Wajam 11F. Anton Building, Anton street 1, Wan Chai, Hong Kong or by email at: [feedback@wajam.com](mailto:feedback@wajam.com). Instructions on how to uninstall Wajam can be found at our [How to Uninstall Wajam](http://www.technologiesaintjoseph.com/howto/uninstall) page. If you need any additional information, you may contact us at [support@wajam.com](mailto:support@wajam.com).
