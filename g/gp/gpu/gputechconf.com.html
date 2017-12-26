@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gputechconf.com privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630165554id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gputechconf.com privacy policy that was archived on 2017-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171226105821id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="html-page  js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us"><!--<![endif]--><head>
 	
@@ -15,6 +15,9 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="keywords" content="">
 <meta name="description" content="Privacy Policy">
+
+
+
 
 
 
@@ -67,6 +70,10 @@
 
                       
 
+
+
+
+
 <script type="text/javascript">
 
 var NVIDIAGDC = NVIDIAGDC || {};
@@ -87,13 +94,12 @@ var NVIDIAGDC = NVIDIAGDC || {};
             }    
         }
     };
-    
-    
-        
-    
-    nvidiaGDC.addProperty('Header', 'AgeGateThreshold', '');
-    nvidiaGDC.addProperty('Header', 'DateFormat', 'mm/dd/yyy');
-   
+    nvidiaGDC.addProperty('Accounts', 'LoginPage', 'https://www.nvidia.com/en-us/account/');
+    nvidiaGDC.addProperty('Accounts', 'accountsJarvisSrvcBase', 'https://accounts.nvgs.nvidia.com');
+    nvidiaGDC.addProperty('Accounts', 'accountsJarvisHeaderMagicValue', '');
+    nvidiaGDC.addProperty('Accounts', 'accountsJarvisHeaderCFGRefereID', 'Account Mini-Site');
+    nvidiaGDC.addProperty('Accounts', 'accountsJarvisHeaderCFGRefereID', 'Account Mini-Site');
+    nvidiaGDC.addProperty('apps', 'endpoint', 'https://app.nvidia.com');
 
 })(NVIDIAGDC);
 </script>
@@ -192,7 +198,7 @@ var nvidiaGDClog = function() {
 
 <style>
 
-    .rawHtml li {
+.rawHtml li {
 	list-style: none;
 }
 
@@ -237,27 +243,6 @@ var nvidiaGDClog = function() {
 		width: 50%;
 
 	}
-
-    .background-white .shift-down-tablet .column .color-white {
-			color:black;
-	   }
-	   
-	   .background-black .shift-down-tablet .column .color-black {
-			color:white;
-	   }
-
-
-    .background-white .shift-down-tablet .column .color-brand-greene {
-			color: #76b900 !important;
-	   }
-	   
-	   .background-black .shift-down-tablet .column .color-white {
-			color:black !important;
-	   }
-
-     .background-white .shift-down-tablet .column .color-black {
-			color:black !important;
-	   }
 
       
 }
@@ -854,7 +839,7 @@ first">
 						</ul></li>
 				</ul></li>
 			<li class="top"><a href="http://www.nvidia.com/page/support.html"><div class="title">Support</div></a></li>
-			<li class="top"><a href="http://www.nvidia.com/page/shop.html"><div class="title">Shop</div></a></li>
+			<li class="top"><a href="https://store.nvidia.com/store?Action=DisplayHomePage&amp;Locale=en_US&amp;SiteID=nvidia"><div class="title">Shop</div></a></li>
 			<li class="top" aria-haspopup="true"><a href="http://www.nvidia.com/object/about-nvidia.html"><div class="title">About NVIDIA</div>
 					<div class="arrow"></div></a>
 			<ul class="nav first">
@@ -1109,7 +1094,15 @@ Corporate:
                       
 <script type="text/javascript" src="/etc/designs/nvidiaGDC/clientlibs_base.min.js"></script>
 
-<script type="text/javascript" src="/etc/designs/nvidiaGDC/clientlibs-all.min.js?new=1234"> </script>
+<script type="text/javascript" src="/etc/designs/nvidiaGDC/clientlibs-all.min.js?v=121620171"></script><script type="text/vbscript">
+Function IEBinary_getByteAt(strBinary, iOffset)
+ IEBinary_getByteAt = AscB(MidB(strBinary,iOffset+1,1))
+End Function
+Function IEBinary_getLength(strBinary)
+ IEBinary_getLength = LenB(strBinary)
+End Function
+</script>
+
 
 <script type="text/javascript">
 		NVIDIAGDC.funcQueue.executeQueue();
@@ -1117,6 +1110,161 @@ Corporate:
 		if(typeof _satellite !== "undefined"){
 			_satellite.pageBottom();
 		}
+		
+		/*Logic to handle window resize , All window resize should be handled here at global Level*/
+		var windowResizeID,
+		screenWidth,
+		pixelSize = window.devicePixelRatio,
+		largeDesktopBreakpoint = 1281,
+		desktopBreakpoint = 1025,
+		tabletBreakpoint = 768; 
+		var preResizeViewPort=NVIDIAGDC.Browser.getViewport();
+		$(window).resize(function() {
+		    clearTimeout(windowResizeID);
+		    windowResizeID = setTimeout(handleWindowResizing, 500);
+		    
+		});
+
+		function handleWindowResizing(){
+			/*HeroBanner resizing handle*/
+			var heroBannerarticles=$(".heroBanner").find("article");
+			var articleLength=heroBannerarticles.length;
+			heroBannerarticles.each(function(index,element) {
+				var viewPort = NVIDIAGDC.Browser.getViewport();		
+				var bcgImagePath = '';
+				if(viewPort!==preResizeViewPort) {
+					if (index === (length - 1)) {
+						preResizeViewPort=viewPort;
+					}
+					if(viewPort === "mobile"){
+						bcgImagePath = $(this).attr('data-bcgimagemobile');
+					} else if(viewPort === "tablet"){
+						bcgImagePath = $(this).attr('data-bcgimagetablet'); 
+					} else if(viewPort === "desktop"){
+						bcgImagePath = $(this).attr('data-bcgimagepc');
+					}
+					if(bcgImagePath !== "undefined" && bcgImagePath !== "" ){
+						$(this).css("background-image" , "url('" + bcgImagePath +"')");
+					}
+				}
+			});
+			
+			/*Column Component resizing handle resizing column height and width*/
+			var columncomponents=$(".columnLayout").find(".row.equial-h-col");
+			columncomponents.each(function(){
+				//checks the height of section which is inside column and makes highest height to all sections
+					var count=0;
+					screenWidth = $(document).width();
+					var setEquiHeight=false;
+					var colsize=$(this).find('>.column').length;
+					var colEle=$(this).find('>.column')[0];
+					var isMobileNonResponsive= ((colsize==4 && $(colEle).hasClass('small-3')) || (colsize==3 && $(colEle).hasClass('small-4')) || (colsize==2 && $(colEle).hasClass('small-2')) );
+					var isTabletNonresponsive = ((colsize==4 && $(colEle).hasClass('medium-3')) || (colsize==3 && $(colEle).hasClass('medium-4')) || (colsize==2 && $(colEle).hasClass('medium-2')) );
+					var isTabSingleCol = (colsize==2 || colsize==4) && $(colEle).hasClass('medium-12') ; 
+					if(screenWidth >= desktopBreakpoint || isMobileNonResponsive || (screenWidth >= tabletBreakpoint && colsize==2 && !isTabSingleCol) || (screenWidth >= tabletBreakpoint && colsize==4 && !isTabSingleCol) || (screenWidth >= tabletBreakpoint && colsize>2 && isTabletNonresponsive)){
+						setEquiHeight=true; 
+					}
+					if (setEquiHeight) {
+						var columnHeightArr = [];
+						var sectionHeightArr = [];
+						var txtHeightArr = [];
+						var CardHeightArr = [];
+						$(this).find('>.column').each(function() {
+							$(this).css('min-height','');
+							var sectionHeight =0;
+							var txtHeight =0;
+							var cardHeight=0;
+							if($(this).find('.sectionWrapper').length==1){
+								$(this).find('.sectionWrapper').find('.general-container').css('min-height','');
+								sectionHeight = $(this).find('.sectionWrapper').find('.general-container').height();
+							}else if($(this).find('.textcomp').length==1){
+								//TODO: rethink this
+								//txtHeight = $(this).find('.textcomp').find('.general-container-text').height();
+							}
+							sectionHeightArr[count]=sectionHeight;
+							//TODO: rethink this
+							//txtHeightArr[count]=txtHeight;
+
+							if($(this).find('.equi-height-col').length){
+								$(this).find('.equi-height-col').css('min-height','');
+								cardHeight = $(this).find('.equi-height-col').height();
+							}
+							CardHeightArr[count]=cardHeight;
+
+							var columnHeight = $(this).height();
+							columnHeightArr[count]= columnHeight;
+							count++;		    			
+							
+						});
+						if( $(this).parent().hasClass("full-width")){
+							columnHeightArr[count]= "360";
+						}
+						var maxSectionHeight=Math.max.apply(null, sectionHeightArr);
+						var maxheight=Math.max.apply(null, columnHeightArr);
+						var maxColCardHeight=Math.max.apply(null, CardHeightArr);
+						//TODO: rethink this
+						//var maxColTextHeight=Math.max.apply(null, txtHeightArr);
+						
+						
+						if(NVIDIAGDC.Browser.getViewport() == "tablet" && colsize == '4' && !isTabletNonresponsive) {	
+							var columnsArray = $(this).find('>.column');
+							$(columnsArray).addClass('tablet-clear');	
+							var colCardArray=$(columnsArray).find('>.column >.equi-height-col');
+							var sectionArray=$(columnsArray).find('.sectionWrapper >section >.general-container');
+							var textArray=$(columnsArray).find('.textcomp');
+							for (i = 0; i < 4; i++) {
+								if(i<2){							
+									var firstRowColumns=Math.max.apply(Math,columnHeightArr.slice(0, 2));							
+									$(columnsArray[i]).css('min-height',firstRowColumns);
+									if(colCardArray.length){
+										var firstRowCardCols=Math.max.apply(Math,cardHeightArray.slice(0, 2));							
+										$(colCardArray[i]).css('min-height',firstRowCardCols);
+									}
+									if(sectionArray.length){
+										var firstRowSectionHeight=Math.max.apply(Math,sectionHeightArr.slice(0, 2));							
+										$(sectionArray[i]).css('min-height',firstRowSectionHeight);
+									}else if(textArray.length){
+										//TODO: rethink this
+										//var firstRowtextHeight=Math.max.apply(Math,txtHeightArr.slice(0, 2));							
+										//$(textArray[i]).css('min-height',firstRowtextHeight);
+									}
+								}else {	
+									var secondRowColumns=Math.max.apply(Math,columnHeightArr.slice(2, 4));							
+									$(columnsArray[i]).css('min-height',secondRowColumns);
+									if(colCardArray.length){
+										var secondRowCardCols=Math.max.apply(Math,cardHeightArray.slice(2, 4));							
+										$(colCardArray[i]).css('min-height',secondRowCardCols);
+									}
+									if(sectionArray.length){
+										var secondRowSectionHeight=Math.max.apply(Math,sectionHeightArr.slice(2, 4));							
+										$(sectionArray[i]).css('min-height',secondRowSectionHeight);
+									}else if(textArray.length){
+										//TODO: rethink this
+										//var secondRowtextHeight=Math.max.apply(Math,txtHeightArr.slice(0, 2));							
+										//$(textArray[i]).css('min-height',secondRowtextHeight);
+									}
+								}						
+							}
+						}else {
+							$(this).find('>.column').css('min-height',maxheight);
+							if($(this).find('>.column').find('.sectionWrapper').length==colsize){
+								$(this).find('>.column').find('.sectionWrapper').find('.general-container').css('min-height',maxSectionHeight);
+							}else if($(this).find('>.column').find('.textcomp').length==colsize){
+								//TODO: rethink this
+								//this.$element.find('>.column').find('.textcomp').find('.general-container-text').css('min-height',maxColTextHeight);
+							}
+							if($(this).find('>.column >.equi-height-col').length){
+								$(this).find('>.column >.equi-height-col').css('min-height',maxColCardHeight);
+							}
+						}
+						
+							
+							
+					}
+				
+			});
+		}
+		
 </script>
 
 
