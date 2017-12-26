@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zero10.net privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618040116id_/http%3A//zero10.net/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zero10.net privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226230327id_/http%3A//zero10.net/index.php/privacy) for the most accurate reproduction.*
 
 # Zero10 | Privacy
 
@@ -6,7 +6,7 @@
 
 **Privacy Policy for www.zero10.net/**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _admin@zero10.net_.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_.
 
 At www.zero10.net/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.zero10.net/ and how it is used.
 
