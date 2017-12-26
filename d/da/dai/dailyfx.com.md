@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624050020id_/https%3A//www.dailyfx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226211926id_/https%3A//www.dailyfx.com/privacy-policy) for the most accurate reproduction.*
 
 # DailyFX Privacy Policy
 
@@ -13,7 +13,7 @@ This privacy policy discloses the privacy practices for this web site. This priv
 
 #### Information Collection, Use, and Sharing
 
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you.
 
 We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfil your request, e.g. to manage a webinar.
 
