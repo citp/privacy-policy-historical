@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loot.co.za privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013090518id_/http%3A//www.loot.co.za/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loot.co.za privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226144911id_/https%3A//www.loot.co.za/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -313,4 +313,4 @@ We are not responsible for, give no warranties, nor make any representations in 
 
 If you have any questions or concerns arising from this privacy policy or the way in which we handle personal information, please contact us.
 
-Last updated: 11/04/2016
+Last updated: 02/11/2016
