@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invisionapp.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630000519id_/https%3A//www.invisionapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionapp.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226211642id_/https%3A//www.invisionapp.com/privacy) for the most accurate reproduction.*
 
 # InVision | Privacy Policy
 
