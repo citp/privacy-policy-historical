@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nootropicsdepot.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415051728id_/http%3A//nootropicsdepot.com/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nootropicsdepot.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226125433id_/http%3A//nootropicsdepot.com/privacy-policy) for the most accurate reproduction.*
 
-# Contact Us - Privacy Policy - Nootropics Depot
+# Nootropics Depot Privacy Policy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected from or submitted to NootropicsDepot.com web site. Our web site may contain links to other web sites operated by third parties. NootropicsDepot.com is not responsible for the privacy practices or policies of such third party web sites.
 
@@ -38,14 +38,13 @@ Support**](http://nootropicsdepot.com/mitochondrial-support/ "Buy Mitochondrial 
 Capsules**](http://nootropicsdepot.com/racetam-capsules/)** | ****[Sample  
 Packs](http://nootropicsdepot.com/sample-packs/ "Buy Nootropic Sample Packs")****  
   
-**Browse More:  [Fitness](http://nootropicsdepot.com/fitness/ "Buy Fitness Supplements")  |  [Metabolic Support](http://nootropicsdepot.com/metabolism/ "Buy Metabolic Support Supplements")  |  [Natural Plant Extracts](http://nootropicsdepot.com/natural-extracts/ "Buy Natural Plant Extract Supplements")  |  [Natural Nootropic Capsules](http://nootropicsdepot.com/natural-capsules/ "Buy Natural Nootropic Capsules")  | **   **[Patented Extracts](http://nootropicsdepot.com/brands/ "Buy Patented, Clinically Tested Natural Plant Extracts")  
-**
+******Browse More:  [Ayurveda ](http://nootropicsdepot.com/ayurveda/ "Buy Ayurveda Supplements") |  [Fitness ](http://nootropicsdepot.com/fitness/ "Buy Fitness Supplements")[Supplements](http://nootropicsdepot.com/fitness/ "Buy Fitness Supplements")  |  [Immune Support](http://nootropicsdepot.com/health-immunity/ "Buy Immune Support Supplements")  |  [Metabolic Support](http://nootropicsdepot.com/metabolism/ "Buy Metabolic Support Supplements")  |  [Natural Plant Extracts](http://nootropicsdepot.com/natural-extracts/ "Buy Natural Plant Extract Supplements")  |  [Natural Nootropic Capsules](http://nootropicsdepot.com/natural-capsules/ "Buy Natural Nootropic Capsules")  |  [Natural Pain Relief](http://nootropicsdepot.com/pain-management/)  | **   **[Patented Extracts](http://nootropicsdepot.com/brands/ "Buy Patented, Clinically Tested Natural Plant Extracts")******
 
 #### In-House Purity Testing
 
-Did you know we have an in-house testing lab with equipment from Thermo Scientific and Agilent Technologies to ensure product purity?
+Did you know we have an in-house testing lab with equipment from Thermo Scientific and Agilent Technologies to ensure product purity and identity?
 
-[ **Click here**](http://nootropicsdepot.com/in-house-lab-testing/) to learn more about our In-House Lab Testing. 
+[ **Click here**](http://nootropicsdepot.com/articles/nootropics-depot-purity-testing/) to learn more about our In-House Lab Testing. 
 
 
 
