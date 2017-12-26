@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginatlantic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025346id_/http%3A//www.virginatlantic.com/gb/en/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginatlantic.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226211821id_/https%3A//www.virginatlantic.com/gb/en/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | Virgin Atlantic
 
@@ -56,4 +56,4 @@ By participating in Flying Club, we will collect and use the information you pro
 
 Your data may from time to time be supplied to Virgin Group Companies, service partners, marketing partners (providing services on our behalf), other airlines and Flying Club partners (who may be located outside the EEA), data processing companies and other agents or contractors for the purpose of Flying Club programme fulfilment and customer analytics\market research analysis.
 
-If you change your mind about your marketing preferences at any time, simply navigate to [www.virgin-atlantic.com/flyingclub](https://web.archive.org/content/vaa/gb/en/redirects/flying-club.html), log into your account and change your personal details, or contact your local Flying Club office.
+If you change your mind about your marketing preferences at any time, simply navigate to [www.virgin-atlantic.com/flyingclub](https://web.archive.org/gb/en/redirects/flying-club.html), log into your account and change your personal details, or contact your local Flying Club office.
