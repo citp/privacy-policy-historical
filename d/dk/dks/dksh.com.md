@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dksh.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626031918id_/http%3A//dksh.com/global-en/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dksh.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227000034id_/http%3A//www.dksh.com/global-en/home/privacy) for the most accurate reproduction.*
 
 # Privacy
 
