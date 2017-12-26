@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapto.org privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509100416id_/http%3A//www.noip.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapto.org privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226010141id_/http%3A//www.noip.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - No-IP
 
