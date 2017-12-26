@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612155757id_/http%3A//www.ripoffreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226213613id_/http%3A//www.ripoffreport.com/privacy-policy) for the most accurate reproduction.*
 
 # Ripoff Report | Privacy Policy
 
@@ -35,7 +35,7 @@ If you believe that our website has collected incorrect information or if you wo
 
 ## Privacy Policy
 
-Protecting your private information is our priority. This Statement of Privacy applies to the [www.ripoffreport.com](http://www.ripoffreport.com/) and governs data collection and usage of such data. For the purposes of this Privacy Policy, unless otherwise noted, all references to Ripoff Report includes [www.ripoffreport.com](http://www.ripoffreport.com/). By using the Ripoff Report website, you consent to the data practices described in this statement. 
+Protecting your private information is our priority. This Statement of Privacy applies to the [www.ripoffreport.com](https://web.archive.org/) and governs data collection and usage of such data. For the purposes of this Privacy Policy, unless otherwise noted, all references to Ripoff Report includes [www.ripoffreport.com](https://web.archive.org/). By using the Ripoff Report website, you consent to the data practices described in this statement.
 
 Collection of your Personal Information
 
@@ -87,7 +87,7 @@ Opt-Out & Unsubscribe
 
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Ripoff Report by contacting us here: 
 
-\- Web page: [www.ripoffreport.com](http://www.ripoffreport.com/)
+\- Web page: [www.ripoffreport.com](https://web.archive.org/)
 
 \- Email: [support@ripoffreport.com](mailto:support@ripoffreport.com) with the Subject Box Titled “RIPOFF REPORT - OPT OUT/UNSUBSCRIBE” 
 
