@@ -1,28 +1,22 @@
-> *The following text is extracted and transformed from the hubspot.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630170816id_/https%3A//legal.hubspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubspot.net privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226220137id_/https%3A//legal.hubspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Last Modified: September 30, 2016 
 
 We at HubSpot (HubSpot, Inc. and our affiliates) are committed to protecting your privacy. This Privacy Policy applies to both our websites (Websites), including www.hubspot.com, www.inbound.com, and our Subscription Service (the Subscription Service), including our associated mobile applications (Mobile Apps) owned and controlled by HubSpot. This Privacy Policy governs our data collection, processing and usage practices. It also describes your choices regarding use, access and correction of your personal information. By using the Websites or the Subscription Service, you consent to the data practices described in this Privacy Policy. If you do not agree with the data practices described in this Privacy Policy, you should not use the Websites or the Subscription Service. 
 
 We periodically update this Privacy Policy. If you subscribe to the Subscription Service, then you will receive notice when this Privacy Policy is modified. The notice will be delivered through the Notification app in the HubSpot portal used to access your HubSpot subscription. We encourage you to review this Privacy Policy periodically.
 
-#### **EU – U.S. Privacy Shield**
+#### **EU–U.S. Privacy Shield and Swiss–U.S. Privacy Shield**
 
-HubSpot participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. The following affiliated entities adhere to the Privacy Shield principles: HubSpot Ireland Limited, HubSpot Australia Pty Ltd, HubSpot Asia Pte. Ltd., and HubSpot Japan KK. HubSpot is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+HubSpot participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss–U.S. Privacy Shield Framework. The following affiliated entities adhere to the Privacy Shield principles: HubSpot Ireland Limited, HubSpot Australia Pty Ltd, HubSpot Asia Pte. Ltd., and HubSpot Japan KK. HubSpot is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
-HubSpot is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. HubSpot complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+HubSpot is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. HubSpot complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, HubSpot is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, HubSpot may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-You may direct any inquiries or complaints related to our Privacy Shield compliance to privacy@hubspot.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+You may direct any inquiries or complaints related to our Privacy Shield compliance to privacy@hubspot.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-#### **U.S. – Swiss Safe Harbor**
-
-HubSpot complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from Switzerland. HubSpot has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view HubSpot's certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 ## **1\. Important Information**
 
@@ -58,7 +52,7 @@ This refers to credit or debit card numbers, personal financial account informat
 
 #### **3.1. When You Visit our Websites**
 
-You are free to explore the Websites without providing any information about yourself. When you visit the Websites or register for the Subscription Service, we request that you provide Personal Information about yourself, and we collect Navigational Information. 
+You are free to explore the Websites without providing any Personal Information about yourself. When you visit the Websites or register for the Subscription Service, we request that you provide Personal Information about yourself, and we collect Navigational Information. 
 
 #### **3.2. When You Use our Mobile Application**
 
@@ -96,7 +90,9 @@ We will never sell your Personal Information to any third party. 
 
 #### **4.3. Use of Personal Information**
 
-In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to: (a) improve your browsing experience by personalizing the Websites and to improve the Subscription Service; (b) send information to you which we think may be of interest to you by post, email, or other means; (c) send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, and (d) provide other companies with statistical information about our users -- but this information will not be used to identify any individual user. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, we do not transfer your unique Personal Information to the third party. In addition, we may share data with trusted partners to contact you based on your request to receive such communications, help us perform statistical analysis, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information.
+In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to: (a) improve your browsing experience by personalizing the Websites and to improve the Subscription Service; (b) send information to you which we think may be of interest to you by post, email, or other means; (c) send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, and (d) provide other companies with statistical information about our users -- but this information will not be used to identify any individual user. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, we do not transfer your unique Personal Information to the third party. In addition, we may share data with trusted partners to contact you based on your request to receive such communications, help us perform statistical analysis, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information. If you do not want us to share your personal information with these companies, contact us at [privacy@hubspot.com](mailto:privacy@hubspot.com). 
+
+We use the information collected through our Subscription Service by our customers for the following purposes: (a) to provide the Subscription Service (which may include the detection, prevention and resolution of security and technical issues); (b) to respond to customer support requests; and (c) otherwise to fulfill the obligations under the HubSpot Customer Terms of Service. 
 
 #### **4.4. Use of Navigational Information**
 
@@ -118,7 +114,7 @@ We employ other companies and people to provide services to visitors to our Webs
 
 We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. We secure the Personal Information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When sensitive Personal Information (such as a credit card number and/or geo-location data) is collected on our Websites and/or transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
-If you have any questions about the security of your Personal Information, you can contact us at [privacy@hubspot.com](mailto:privacy@hubspot.com).
+If you have any questions about the security of your Personal Information, you can contact us at [privacy@hubspot.com](mailto:privacy@hubspot.com).
 
 #### **4.9. Social Media Features**
 
@@ -176,7 +172,7 @@ You can log in to our site using a Single Sign-on (SSO) service like your Google
 
 #### **5.6. Flash Cookies and Other Third Party Tracking Technologies**
 
-The Adobe Flash Player (and similar applications) use technology to remember settings, preferences and usage similar to browser cookies but these are managed through a different interface than the one provided by your Web browser. This technology creates locally stored objects that are often referred to as "Flash cookies." HubSpot does not use Flash cookies. However, our customers of our software platform may create pages on the HubSpot platform that employ Adobe Flash cookies.  HubSpot does not have access or control over our customers' Flash cookies, but you may access your Flash management tools from Adobe's web site directly.
+The Adobe Flash Player (and similar applications) use technology to remember settings, preferences and usage similar to browser cookies but these are managed through a different interface than the one provided by your Web browser. This technology creates locally stored objects that are often referred to as "Flash cookies." HubSpot does not use Flash cookies. However, our customers of our software platform may create pages on the HubSpot platform that employ Adobe Flash cookies.  HubSpot does not have access or control over our customers' Flash cookies, but you may access your Flash management tools from Adobe's web site directly [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
 
 Similarly, our customers may create pages using the HubSpot Subscription Service that use technology from tracking utility companies, such as cookies and web beacons.   The use of these technologies by our customers is not covered by our Privacy Policy.  We do not have access or control over these third party tracking technologies.
 
@@ -186,7 +182,7 @@ We partner with a third party ad network to either display advertising on our We
 
 #### **5.8. Third Party Tracking Technologies**
 
-The use of cookies and web beacons by any tracking utility company is not covered by our Privacy Policy. We do not have access or control over these third party tracking technologies.
+The use of cookies and web beacons by any tracking utility company is not covered by our Privacy Policy. 
 
 ## **6\. Opting Out and Unsubscribing  **
 
@@ -207,7 +203,7 @@ To exercise any of these rights, please contact us at privacy@hubspot.com or by 
 
 #### **6.2. Anti-Spam Policy**
 
-Our Acceptable Use Policy, at [http://legal.hubspot.com/acceptable-use](https://web.archive.org/acceptable-use), applies to us and to our customers and, among other things, prohibits use of the Subscription Service to send unsolicited commercial email in violation of applicable laws, and requires the inclusion in every email sent using the Subscription Service of an "opt-out" mechanism and other required information. We require all of our customers to agree to adhere to the Acceptable Use Policy at all times, and any violations of the Acceptable Use Policy by a customer can result in immediate suspension or termination of the Subscription Service.
+Our Acceptable Use Policy, at [http://legal.hubspot.com/acceptable-use](https://legal.hubspot.com/acceptable-use), applies to us and to our customers and, among other things, prohibits use of the Subscription Service to send unsolicited commercial email in violation of applicable laws, and requires the inclusion in every email sent using the Subscription Service of an "opt-out" mechanism and other required information. We require all of our customers to agree to adhere to the Acceptable Use Policy at all times, and any violations of the Acceptable Use Policy by a customer can result in immediate suspension or termination of the Subscription Service.
 
 #### **6.3. To Unsubscribe From Our Communications**
 
