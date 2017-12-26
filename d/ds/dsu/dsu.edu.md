@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsu.edu privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628024514id_/http%3A//dsu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsu.edu privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226203703id_/http%3A//dsu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | Dakota State University
 
@@ -34,7 +34,7 @@ The University makes resourcees available to a variety of audiences in the DSU c
 
 Some pages may contain links to websites created outside of the University, this does not suggest DSU endorses or approves the content of these pages.
 
-The [Department of Public Relations and Marketing](https://dsu.edu/about-dsu/public-relations-and-marketing) is responsible for the design and content of the official University site. It is not responsible for the timeliness or completeness of pages or information created by other departments or individuals.
+The [Department of Public Relations and Marketing](http://dsu.edu/about-dsu/public-relations-and-marketing) is responsible for the design and content of the official University site. It is not responsible for the timeliness or completeness of pages or information created by other departments or individuals.
 
 ## Copyright
 
@@ -63,13 +63,13 @@ In notifying us of the alleged copyright infringement, please include the follow
 
 ## Trademarks and Licensing
 
-Dakota State University protects the use of any logo, wordmark, nicknames and other identifiable marks associated with DSU that are distinguishable from other universities. Any use of these marks without written consent of the University is prohibited. For information regarding the usage or to report inappropriate usage, please contact the[ Department of Public Relations and Marketing](https://dsu.edu/about-dsu/public-relations-and-marketing).
+Dakota State University protects the use of any logo, wordmark, nicknames and other identifiable marks associated with DSU that are distinguishable from other universities. Any use of these marks without written consent of the University is prohibited. For information regarding the usage or to report inappropriate usage, please contact the[ Department of Public Relations and Marketing](http://dsu.edu/about-dsu/public-relations-and-marketing).
 
 ## Accessibility
 
 The University is committed to providing meaningful accessibility on our website and other online activities provided by DSU to all users. We strive to deliver a website that meets or exceeds accessibility and usability standards.   Our website has been designed to meet with accesssbility standards established by the World Wide Web Consortium (WC3).
 
-In accordance with the American's with Disabilities Act, the information on this site is available in alternate formats upon request. Please contact our [Disability Services Office](https://dsu.edu/student-life/disability-services) for more information.  
+In accordance with the American's with Disabilities Act, the information on this site is available in alternate formats upon request. Please contact our [Disability Services Office](http://dsu.edu/student-life/disability-services) for more information.  
  
 
 ## Equal Opportunity Policy
