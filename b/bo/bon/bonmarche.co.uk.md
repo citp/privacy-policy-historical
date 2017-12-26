@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the bonmarche.co.uk privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607012443id_/http%3A//www.bonmarche.co.uk/privacy-and-cookies/privacy-and-cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonmarche.co.uk privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226010628id_/http%3A//www.bonmarche.co.uk/privacy-and-cookies/privacy-and-cookies.html) for the most accurate reproduction.*
 
 # Privacy & Cookies | Bonmarché
 
 ##  Privacy & cookies 
+
+Whenever you shop or interact with Bonmarche, you are likely to share your personal information with us. This Privacy and Cookie Policy sets out how we collect this information and what we do to make sure it is safe in our hands. 
 
 We take data protection seriously and safeguarding the privacy of our website visitors is important to us. This policy (Privacy & Cookies Policy) sets out the basis of any personal information we may collect from you, or you provide to us, will be processed and used by us. 
 
@@ -10,11 +12,19 @@ It also describes how we use cookies and how you can manage them.
 
 ###  Privacy Policy 
 
-We are committed to protecting the privacy of our site visitors and customers and treat all your personal information as confidential, though we do reserve the right to disclose this information in specific circumstances as described in this policy. We confirm that any personal information that you provide to us is held in accordance with UK data protection legislation. Please be aware some information (including cookies) will be processed and stored in the United States, a jurisdiction in which the data protection and privacy laws may not offer the same level of protection as those in the country where you reside or are a citizen. By using our Services and providing information to us, you consent to the transfer to and processing of the information in the United States. 
+We are committed to protecting the privacy of our site visitors and customers and treat all your personal information as confidential, though we do reserve the right to disclose this information in specific circumstances as described in this policy. We confirm that any personal information that you provide to us is held in accordance with UK data protection legislation. 
 
-Your personal information may be disclosed to third parties who assist us in processing your order. We require all such third parties to treat your personal information as confidential and to comply with all applicable UK data protection legislation. 
+###  When do we collect your information? 
 
-You should be aware that if we are requested by the police or any other regulatory or government authority investigating suspected illegal activities to provide your personal Information and /or user information, we may be required to do so even if you do not consent. 
+  * When you use our website to view or buy products etc
+  * When you buy products in our stores
+  * When you take part in customer research
+  * When you contact us with a comment, question or complaint or respond to a message that we send to you
+  * When you agree to go on our mailing list
+
+
+
+###  Personal data we collect and how we use it 
 
 We continuously monitor this website and may capture information about your visit that will help us improve our service to you. When using this website, we will collect personal information from you such as your name, address, e-mail address, telephone number, payment information and a password. 
 
@@ -26,6 +36,18 @@ We use your personal information for the following purposes:
   * To make your experience more efficient and relevant and provide you with a personalised service
 
 
+
+###  Providing your personal data to others 
+
+Your personal information may be disclosed to third parties who assist us in processing your order. We require all such third parties to treat your personal information as confidential and to comply with all applicable UK data protection legislation. 
+
+You should be aware that if we are requested by the police or any other regulatory or government authority investigating suspected illegal activities to provide your personal Information and /or user information, we may be required to do so even if you do not consent. 
+
+###  International transfer of your personal data 
+
+Please be aware some information (including cookies) will be processed and stored in the United States, a jurisdiction in which the data protection and privacy laws may not offer the same level of protection as those in the country where you reside or are a citizen. By using our Services and providing information to us, you consent to the transfer to and processing of the information in the United States. 
+
+###  Consent and consent withdrawal 
 
 If you consent, to notify you of products or special offers that may be of interest to you. When you register or order online you will be given the opportunity to receive information from us about our products, promotions or special offers. If you do not wish to be contacted for such purposes, please ensure that you tick the appropriate box as you go through the process. You may unsubscribe from our contact list at any time by clicking on the unsubscribe button on your email or by changing your preferences in the “My Account” section of the Website. 
 
