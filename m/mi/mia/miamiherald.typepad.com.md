@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miamiherald.typepad.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626230010id_/http%3A//www.miamiherald.com/site-services/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamiherald.typepad.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226050726id_/http%3A//www.miamiherald.com/site-services/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
-# Privacy Policy | MiamiHerald.com & Miami Herald
+# Privacy Policy | Miami Herald
 
 **Effective Date: March 2014**
 
