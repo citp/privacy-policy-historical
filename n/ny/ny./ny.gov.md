@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ny.gov privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212051010id_/http%3A//www.ny.gov/node/56891) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ny.gov privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226143643id_/http%3A//www.ny.gov/node/56891) for the most accurate reproduction.*
 
 # Privacy Policy | The State of New York
 
@@ -66,7 +66,7 @@ Retention of Information Collected Through this Website
 
 Retention of Information Collected Through this Website 
 
-The information collected through this website is retained by NYS in accordance with the records retention and disposition requirements of the New York State Arts & Cultural Affairs Law. Information on the requirements of the Arts & Cultural Affairs Law may be found at [http://www.archives.nysed.gov/a/records/mr_laws_state.shtml.](http://www.archives.nysed.gov/a/records/mr_laws_state.shtml)
+The information collected through this website is retained by NYS in accordance with the records retention and disposition requirements of the New York State Arts & Cultural Affairs Law. Information on the requirements of the Arts & Cultural Affairs Law may be found at <http://www.archives.nysed.gov/records/mr_laws.shtml>. 
 
 Information, including personal information, that you submit in an e-mail or when you initiate an online transaction such as a survey, registration form, or order form is retained in accordance with the records retention and disposition schedule established for the records of the program unit to which you submitted the information. Information concerning these records retention and disposition schedules may be obtained through the Internet privacy policy contact listed in this policy. 
 
