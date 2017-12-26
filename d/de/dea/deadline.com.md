@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deadline.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521083215id_/http%3A//pmc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deadline.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226233521id_/http%3A//pmc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Penske Media Corporation | PMC |
 
@@ -114,17 +114,21 @@ Some of the advertising service providers may be members of the Network Advertis
 **5\. Subscriber Preferences.**  
 Subscribers to our Publications may change their subscription-related mail and email preferences at any time as follows:
 
-**WWD:**  
-Log into Customer Care at [wwd.com/customerservice](http://wwd.com/customerservice) and update your mailing preferences on the “Change My Mailing Preferences” page, or call us at 1-866-401-7801 or 1-515-237-3650
-
 **FN:**  
-Log into Customer Care at [footwearnews.com/customerservice](http://footwearnews.com/customerservice) and update your mailing preferences on the “Change My Mailing Preferences” page, or call us at 1-866-963-7335 or 1-515-237-3650
+Log into Customer Care at [footwearnews.com/customerservice](http://footwearnews.com/customerservice) and update your mailing preferences on the “Change My Mailing Preferences” page, or call us at 1-866-963-7335 or 1-515-237-3650.
+
+**Robb Report:**  
+Log into Subscriber Services at <https://ssl.palmcoastd.com/19301/apps/LOGINSSO>,  
+click on “Manage your Privacy Settings” and update your mailing preferences, or call us at 1-800-967-7472.
 
 **Variety:**  
-Send an email to [variety@pubservice.com](mailto:variety@pubservice.com) asking to have your name removed from the direct mail promotion list, or call us at 1-86-22-552-3632 or 1-818-487-4550
+Send an email to [variety@pubservice.com](mailto:variety@pubservice.com) asking to have your name removed from the direct mail promotion list, or call us at 1-86-22-552-3632 or 1-818-487-4550.
 
 **Variety Insight and Vscore:**  
-Log into [Varietyinsight.com](http://varietyinsight.com/) and go to My Account to update your communication preferences, or call us at 1-323-617-9555
+Log into [Varietyinsight.com](http://varietyinsight.com/) and go to My Account to update your communication preferences, or call us at 1-323-617-9555.
+
+**WWD:**  
+Log into Customer Care at [wwd.com/customerservice](http://wwd.com/customerservice) and update your mailing preferences on the “Change My Mailing Preferences” page, or call us at 1-866-401-7801 or 1-515-237-3650.
 
 **NOTE: changing your subscription-related preferences does not change your non-subscription-related email preferences, including for email alerts and newsletters, special offers from our brands, and promotional emails from third parties, which are set via the preference center on each individual Website.**  
 Despite your indicated preferences, we may send you service related communications, including notices about your subscription, and we may continue disclosing your information to third parties under the Service Provider Use, the Legal Use and the Acquisition Use described above.
