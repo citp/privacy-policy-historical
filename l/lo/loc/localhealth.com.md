@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the localhealth.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624044925id_/http%3A//www.healthgrades.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localhealth.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226212103id_/https%3A//www.healthgrades.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Healthgrades - Privacy Policy
+# Healthgrades - Privacy Policy | Healthgrades.com
 
 ## Healthgrades' Privacy Policy
 
-Healthgrades Operating Company, Inc. (" **Healthgrades** ," " **We** ," " **Us** " or " **Our** ") has developed for the benefit of the users of its website (" **You** ," " **Your** " and " **Yourself** ") at [http://www.healthgrades.com](http://www.healthgrades.com/ "Healthgrades") (the " **Site** ") this privacy policy (" **Privacy Policy** ") to demonstrate Our serious commitment to protecting the privacy of the information that We collect through the Site. This Privacy Policy summarizes how Healthgrades handles the personally identifying information that You voluntarily provide when You use the Site and that We may automatically collect when You visit the Site (" **Personal Information** ").
+Healthgrades Operating Company, Inc. (" **Healthgrades** ," " **We** ," " **Us** " or " **Our** ") has developed for the benefit of the users of its website (" **You** ," " **Your** " and " **Yourself** ") at [https://www.healthgrades.com](https://www.healthgrades.com/ "Healthgrades") (the " **Site** ") this privacy policy (" **Privacy Policy** ") to demonstrate Our serious commitment to protecting the privacy of the information that We collect through the Site. This Privacy Policy summarizes how Healthgrades handles the personally identifying information that You voluntarily provide when You use the Site and that We may automatically collect when You visit the Site (" **Personal Information** ").
 
 If You are accessing, using or browsing this Site on behalf of an individual other than Yourself, which may be either a natural person or an entity other than Yourself:
 
