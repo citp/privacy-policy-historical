@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindugodwallpaper.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626135758id_/http%3A//hindugodwallpaper.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindugodwallpaper.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226183214id_/http%3A//hindugodwallpaper.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HinduGodWallpaper.com
 
@@ -44,6 +44,6 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 **By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us  
-**If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, Please **[Contact Us](https://web.archive.org/web/20170626135758id_/http%3A//contact_us.html)** here.
+**If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, Please **[Contact Us](https://web.archive.org/web/20171226183214id_/http%3A//contact_us.html)** here.
 
 This document was last updated on August 1, 2016
