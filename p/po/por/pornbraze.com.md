@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornbraze.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609042918id_/http%3A//pornbraze.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornbraze.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226065948id_/http%3A//pornbraze.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,4 +48,4 @@ CONTACTING THE OPERATOR
 
 For any questions or concerns about this Policy or the use of personal information, please contact the Operator using the contact form.
 
-Mail to THERESAMARTIN5121@GMAIL.COM
+Mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
