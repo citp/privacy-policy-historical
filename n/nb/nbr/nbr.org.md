@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbr.org privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608223615id_/http%3A//www.nbr.org/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbr.org privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227005148id_/http%3A//www.nbr.org/privacypolicy.aspx) for the most accurate reproduction.*
 
 # NBR - Privacy Policy
 
