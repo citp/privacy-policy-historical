@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theatlanticwire.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626181015id_/https%3A//www.theatlantic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatlanticwire.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227000645id_/https%3A//www.theatlantic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Atlantic
 
-**_Effective: April 17, 2017            _**
+**_Effective: June 26, 2017            _**
 
-At the Atlantic Monthly Group, Inc. ("The Atlantic"), we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy.  Our privacy policy is applicable to The Atlantic, and The Atlantic’s affiliates and subsidiaries whose websites, mobile applications and other online services are directly linked (the “Sites”).  The privacy policy describes the kinds of information we may gather during your visit to these Sites, how we use your information, when we might disclose your personally identifiable information, and how you can manage your information.
+At the Atlantic Monthly Group LLC ("The Atlantic"), we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy.  Our privacy policy is applicable to The Atlantic, and The Atlantic’s affiliates and subsidiaries whose websites, mobile applications and other online services are directly linked (the “Sites”).  The privacy policy describes the kinds of information we may gather during your visit to these Sites, how we use your information, when we might disclose your personally identifiable information, and how you can manage your information.
 
 This privacy policy does not apply to Sites maintained by other companies or organizations to which we may link or who may link to us. We are not responsible for the actions and privacy policies of third party websites.
 
@@ -167,7 +167,7 @@ If you have an account with _The Atlantic_ , you may review and change your info
 (515) 237-3670 (International)
 
 **Postal Service:**  
-Atlantic Monthly Group, Inc.  
+Atlantic Monthly Group LLC  
 ATTN: General Counsel  
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
