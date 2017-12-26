@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the gosimian.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110838id_/https%3A//www.gosimian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosimian.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226222616id_/http%3A//gosimian.com/privacy) for the most accurate reproduction.*
 
 # Simian - Media Sharing. Evolved.
 
 [](https://www.gosimian.com/home "Return Home")
 
   * [Features](https://www.gosimian.com/home#Features "Features")
+  * [Apps & Integrations](https://www.gosimian.com/apps "Apps")
   * [Resources](https://www.gosimian.com/resources "Resources")
   * [Pricing](https://www.gosimian.com/pricing "Pricing")
   * [Free Trial](https://www.gosimian.com/free-trial "Free Trial")
