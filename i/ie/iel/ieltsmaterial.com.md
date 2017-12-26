@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ieltsmaterial.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512010827id_/http%3A//ieltsmaterial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieltsmaterial.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226031924id_/http%3A//ieltsmaterial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -130,6 +130,10 @@ _Subscribe for free IELTS lessons/Books/Tips/Sample Answers/Advice from our IELT
 
 Did not See What You Were Looking For? - Try Search!  
 Search for:
+
+Privacy Policy
+
+5 (100%) 2 votes 
 
   
 
