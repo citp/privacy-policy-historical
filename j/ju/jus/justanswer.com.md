@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justanswer.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602161901id_/http%3A//ww2.justanswer.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justanswer.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226203227id_/http%3A//ww2.justanswer.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | JustAnswer
 
@@ -49,7 +49,7 @@ JustAnswer will share your personal information with third parties only in the w
 
 
 
-We may provide your personally identifiable information to companies that provide services to help us with our business activities such as payment processing, sending marketing communications or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. We may also share your personal information with other companies from whom you request to receive a specific product or service so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us [HERE](mailto:support@justanswer.com).
+We may provide your personally identifiable information to companies that provide services to help us with our business activities such as payment processing, sending marketing communications or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. We may also share your personal information with other companies from whom you request to receive a specific product or service so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us [HERE](https://web.archive.org/cdn-cgi/l/email-protection#9cefe9ececf3eee8dcf6e9efe8fdf2efebf9eeb2fff3f1).
 
 JustAnswer LLC may share your PII with any parent company, subsidiaries, joint venturers, or other companies under common control, in which event it will require that such companies follow this Policy with respect to your PII, unless you are provided with prior written notice. 
 
@@ -101,4 +101,4 @@ JustAnswer reserves the right to update this policy at any time without prior no
 
 **Contact Us**
 
-If you have questions or suggestions regarding this Privacy Policy, please contact us by clicking [HERE](mailto:support@justanswer.com) or mail us at 38 Keyes Avenue, Suite 150, San Francisco, CA 94129.
+If you have questions or suggestions regarding this Privacy Policy, please contact us by clicking [HERE](https://web.archive.org/cdn-cgi/l/email-protection#186b6d6868776a6c58726d6b6c79766b6f7d6a367b7775) or mail us at 38 Keyes Avenue, Suite 150, San Francisco, CA 94129.
