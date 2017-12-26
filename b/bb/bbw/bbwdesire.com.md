@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbwdesire.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615100739id_/http%3A//www.bbwdesire.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbwdesire.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226213845id_/http%3A//www.bbwdesire.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds4) for the most accurate reproduction.*
 
 # BBW Desire
 
