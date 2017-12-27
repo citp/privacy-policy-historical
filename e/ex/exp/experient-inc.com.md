@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experient-inc.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502035832id_/http%3A//www.experient-inc.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experient-inc.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227140925id_/http%3A//www2.experient-inc.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
