@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the omegle.me privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624082136id_/https%3A//www.godaddy.com/agreements/showdoc.aspx%3Fplid%3D1%26pageid%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omegle.me privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003654id_/https%3A//www.godaddy.com/agreements/showdoc.aspx%3Fpageid%3DPRIVACY) for the most accurate reproduction.*
 
-# Privacy Policy | GoDaddy Respects Your Privacy - GoDaddy
+# Legal Agreement
 
-**Last Revised: June 8, 2017**
+**Last Revised: August 15, 2017**
 
 GoDaddy Respects your privacy
 
-This Privacy Policy describes how we collect and use the personally identifiable information you provide on our Sites that link to this Privacy Policy and in our mobile applications.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update that information.
+This Privacy Policy describes how we collect and use the personally identifiable information you provide on our Sites that link to this Privacy Policy and in our mobile applications.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update that information.  Personally identifiable information (also known as 'personal data') is information about you that can be used, directly or indirectly, to identify you (name, address, telephone number, date of birth, email address, etc.).  Data that does not allow identification of you, for example data anonymized, is not considered personally identifiable information.  
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=97e75c6a-f9e7-467c-aa50-37378aff5354)
 
-## **EU-U.S. Privacy Shield**
+**EU-U.S. Privacy Shield**
 
 Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Wild West Domains, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Locu, Inc. and Mad Mimi, Inc.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Go Daddy Operating Company, LLC is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of [Commerce’s Privacy Shield List](https://www.privacyshield.gov/list)
 
@@ -26,6 +26,8 @@ Under certain conditions, more fully described on the [Privacy Shield website](h
 
 **Information Collection and Use**
 
+A).  Contact Forms
+
 Our Site and mobile applications use forms to collect contact information (including your name, address, telephone number, and email address) so you can place orders, request information and support, and make product suggestions. For certain services, we may also request a credit card number, government identification number, or other financial information. We will then create an account number for you.
 
 We receive and store any information you enter on our Site or mobile applications, or give us in any other way, including through email, telephone, or other communications with our customer service department. If you contact us for support, we will keep an internal record of what support was given.
@@ -36,23 +38,33 @@ We may also use your information to present a co-branded offer with our partners
 
 Certain services offered may allow you to import contacts by uploading a file or copying and pasting from a spreadsheet to add to your account (e.g., using Mad Mimi to send emails on your behalf).  We will only use this information for your legitimate business purpose of importing the contacts as directed by you.  When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [privacy@godaddy.com](mailto:privacy@godaddy.com).
 
-Our Site and mobile applications use cookies and/or other tracking technologies to identify you so you don't need to log in each time you visit our Site or mobile applications. The cookies are linked to your customer number, which is associated with the information in your account.  You can control the use of cookies, at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+B.  Cookies and Other Tracking Technologies 
+
+Our Site and mobile applications use cookies and/or other tracking technologies to identify you so you don't need to log in each time you visit our Site or mobile applications. The cookies are linked to your customer number, which is associated with the information in your account.  You can control the use of cookies, at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.   ** _For additional information, and to manage how we use cookies, web beacons and similar technologies on your devices, please click  [here](http://www.godaddy.com/agreements/ShowDoc.aspx?pageid=24668). _**
 
 Within our Site and mobile applications we and our partners, affiliates, and/or analytics or service providers use technologies such as cookies, beacons, tags and scripts to analyze trends, administer the Site and mobile applications, track users' movements around the Site and mobile applications, and to gather demographic information about our user base as a whole.  We may receive reports based on the use of these technologies by these companies on an individual or aggregated basis. 
 
+C.  Protocol Data
+
 As is true of most websites, we gather certain information automatically and store it in log files.  This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and/or clickstream data.  We use this information gathered about you from our Site or mobile application to help personalize search results, diagnose problems with our server, and to administer our Site and mobile applications. We also gather broad demographic information from this data to help us improve our Site and mobile applications and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+
+D.  Tracking
 
 We also use tracking technologies such as:  CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes, attached to purchases at an item level, used to determine where within the application a product was added).  Our mobile applications automatically collect the device's operating system, phone model, app version, and device ID, and customer number.  We report this data back to our GoDaddy web services.  These results are not shared with any third parties and are used solely for deciding when to retire SDKs/OS versions and to identify characteristics of major users so that we may optimize our applications and services for those user types. 
 
-With your express consent, we may access and track location data from your mobile device in order to personalize results such as user favorite domain name selections.  We do not tie any personally identifiable information about you to any of the location tracking technologies that we use, and we do not track location data when our mobile applications are not in use.  You may withdraw your consent for us to use location data at any time by turning off the location services setting on your device. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+E.  Geographic Data
+
+With your express consent, we may access and track location data from your device in order to personalize results such as user favorite domain name selections.  We do not tie any personally identifiable information about you to any of the location tracking technologies that we use, and we do not track location data when our mobile applications are not in use.  You may withdraw your consent for us to use location data at any time by turning off the location services setting on your device. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+
+F.  Mobile Applications
 
 We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone.  This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.  We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile applications. 
 
 This Site and our mobile applications contain links to third party websites. Unfortunately, GoDaddy is not responsible for the privacy practices or the content of such sites.  We encourage you to carefully read the privacy statement of any website you visit.
 
-For domain name registrations, please review the privacy portion (where available) of the [Registry Policies](http://www.godaddy.com/agreements/ShowDoc.aspx?pageid=20012) for the top-level domain in which you wish to or have registered a domain name to better understand how your WHOIS data is utilized by the individual registry.
+G.  Whois Data
 
-**_For additional information, and to manage how we use cookies, web beacons and similar technologies on your devices, please click  [here](http://www.godaddy.com/agreements/ShowDoc.aspx?pageid=24668). _**
+For domain name registrations, please review the privacy portion (where available) of the [Registry Policies](http://www.godaddy.com/agreements/ShowDoc.aspx?pageid=20012) for the top-level domain in which you wish to or have registered a domain name to better understand how your WHOIS data is utilized by the individual registry.
 
 **Security**
 
@@ -63,7 +75,7 @@ We follow generally accepted standards to protect the personal information trans
 **Contacting You  
 **
 
-From time to time, GoDaddy or someone acting on behalf of GoDaddy may contact you, to confirm your orders, to send information to you, and to provide you with offers for services.  The contacts may occur by e-mail, telephone, or text message.  By providing your telephone or mobile number, you consent to receive marketing telephone calls from or on behalf of GoDaddy that may be initiated by an automatic telephone dialing system and/or use an artificial or prerecorded voice. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy.  By providing your mobile number, you consent to receive marketing text messages from or on behalf of GoDaddy that may be sent by an automatic telephone dialing system. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy. Message and data rates may apply. 
+From time to time, GoDaddy or someone acting on behalf of GoDaddy may contact you, to confirm your orders, to send information to you, and to provide you with offers for services.  The contacts may occur by e-mail, telephone, or text message.  In accdordance with applicable law, and where you have provided valid consent, you may receive marketing telephone calls from or on behalf of GoDaddy, which may be initiated by an automatic telephone dialing system and/or use an artificial or prerecorded voice. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy.  By providing your mobile number, you consent to receive marketing text messages from or on behalf of GoDaddy that may be sent by an automatic telephone dialing system. You understand that providing consent is not a condition of purchasing any good or service from GoDaddy. Message and data rates may apply. 
 
 Any information you send to us may be stored and used to improve this Site, our mobile application, and our products, or it may be reviewed and discarded.
 
@@ -164,5 +176,3 @@ ATTN: Web Team
 14455 North Hayden Rd.  
 Suite 219   
 Scottsdale, AZ, 85260, U.S.A.
-
-To avoid any confusion here we would suggesting expanding the transfers section of the GoDaddy privacy policy, to also make clear that, if a user requests a product support call this may be resourced from  GoDaddy's wider Global support team resulting in a transfer of their contact information across international boundaries and the follow up call being made by one of GoDaddy's international support team members. 
