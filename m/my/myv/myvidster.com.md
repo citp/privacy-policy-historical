@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvidster.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200654id_/http%3A//www.myvidster.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvidster.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235439id_/http%3A//www.myvidster.com/docs/privacy) for the most accurate reproduction.*
 
 # MyVidster - Privacy Policy
 
@@ -46,6 +46,11 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
     * Estimate and report our total audience size and traffic. 
     * Conduct research to improve MyVidster's content and services. 
   * MyVidster may let other companies (such as Google) that show advertisements on some of our pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to MyVidster's cookies. 
+  * Third Party Cookie Sharing  
+We work with several third-party partner to help us send personalised communication and adverts. We always uses a de-identified non-human readable version of your email for matching to other data. At no time is your actual email address shared with any of these partners.  
+Partners who we work with are:  
+LiveRamp  
+The purpose of LiveRamp's service is to help brands use their data to improve customer interactions on any channel and device. LiveRamp may place an anonymous cookie and use a de-identified, non-human readable version of your email address for matching to other data about you to improve the relevance of online advertising and personalization. To learn more or opt out of LiveRamp click [here](http://liveramp.com/service-privacy-policy). 
 
 **Information Sharing and Disclosure**
 
