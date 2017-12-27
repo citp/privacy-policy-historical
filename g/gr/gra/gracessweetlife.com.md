@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gracessweetlife.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614163623id_/http%3A//gracessweetlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gracessweetlife.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227025211id_/http%3A//gracessweetlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for the Grace's Sweet Life Website
 
