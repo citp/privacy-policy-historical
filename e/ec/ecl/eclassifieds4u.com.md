@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eclassifieds4u.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044227id_/http%3A//www.eclassifieds4u.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclassifieds4u.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227053925id_/http%3A//www.eclassifieds4u.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - eClassifieds 4U
+
+You do not have enough previledges to visit that URL. Please login!
 
 This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the eClassifieds4U website (“eClassifieds4U”) work and to keep it safe (details below). This policy is effective 1 June 2006.  
 
