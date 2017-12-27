@@ -1,75 +1,67 @@
-> *The following text is extracted and transformed from the blogsell.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120061852id_/http%3A//www.blogsell.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsell.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000609id_/http%3A//www.namejet.com/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - BlogSell
+# Privacy Policy - NameJet Domain Name Services
 
-Last Updated: January 12, 2008
+NameJet knows that you care about how personal information about you is used and shared and we appreciate your trust that we will do so carefully and sensibly. This notice describes our Privacy Policy. By visiting NameJet , you are accepting the practices described in this Privacy Policy. For questions regarding this Privacy Policy please contact NameJet using our [contact form](https://web.archive.org/Pages/Contact.aspx).
 
-BlogSell.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
+###  What Personal Information About Users Does NameJet Gather?
 
-**How we gather information from users**
+Information You Give Us:
+     We collect and store personal information you enter on our Web site or give us in any other way. We use the information that you provide us for such purposes as enhancing the experience of users in our network, responding to your requests, providing our services (e.g., domain Backorder requests, auctions, and purchases), and communicating with you about offers that may be of interest to you.
+Automatic Information:
+     Our Web site has features that collect information from users to assist us in creating Web sites that honor our users' preferences and serve their interests and needs.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. Fo
+Our Web site places cookies, which are small data files on the user's hard drive when you visit our Web site. A cookie cannot read data off your hard drive. You may refuse cookies by turning them off in your browser; however, if you reject the placement of cookies, you may be limited in using some areas of our Web site. Some cookies are used to improve your user experience by making login to our Web site easier, such as by remembering usernames and passwords. Cookies can also enable us to monitor users' movements through our Web site so that we may target user interests to enhance their experience at our Web site. We may also collect click stream data such as the full Uniform Resource Locators (URL) and assign unique identifiers to our users for the purpose of tracking user behaviors. Information obtained with these technologies may be associated with the personal information you have provided us. Besides using the information as described above, NameJet may utilize cookies to control operations such as the flow of the ordering processes related to your online transactions.
 
-r example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. 
+We, or our third-party advertising partners, may also place cookies to provide advertisements about goods or services that may be of interest to you. Since our advertisers and other third parties whose products or services are promoted on our Web site may also use cookies or other technology, we advise you to check the advertisers' privacy policies for information about their privacy practices.
 
-Like most Web sites, BlogSell.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. 
+We may also gather general information such as the date, time, browser type, operating system, platform, navigation history, and IP address of all users to our site(s). We use this information for our internal security audit log, trend analysis, and system administration, and to gather broad demographic information about our users. We may also associate this general information with your personal information. By visiting our site, you affirmatively consent to our collection, use, and distribution of your general and personal information and other related data to our partners and advertisers. If you do not want us to share information about you with our partners or advertisers, you may opt-out of receiving information by doing the following:
 
-Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. 
+  1. Login to "My Account".
+  2. Click on "Edit my Account Settings".
+  3. Select the "My Preferences" tab.
+  4. Choose your email settings under "Email Preferences"
+  5. Select the option not to receive advertisements.
 
-In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
 
-**What we do with the information we collect**
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+###  Does NameJet Share the Information It Receives?
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. 
+Yes, we do share information with at least the entities listed below:
 
-Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+WHOIS:
+     We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. ICANN then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive Web page and a "port 43" WHOIS service. For the purposes of this Privacy Policy we will refer to this information as your "WHOIS Information." Please note that we may not be able to control how members of the public may use the WHOIS Information.
+Advertisers:
+     We will share aggregated demographic information with our partners and advertisers.
+Partners:
+     We partner with other third party providers of specific services. When the user signs up for these services, we will share names, e-mail addresses, or other contact information that is necessary for the third party to provide these services.
+Agents:
+     We engage other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to user information needed to perform their functions for the benefit of the user. These companies may, or may not, retain, share, store or use personally identifiable information that you provide to NameJet for any secondary purposes.
+Service Providers:
+     We engage other companies and individuals to perform enhanced services on our behalf. For example, we my engage another service provider to provide free electronic mail services to our domain name registrants. Many of our service providers have access to personal information needed to perform these kinds of services.
+Business Transfer:
+     As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if NameJet , or substantially all of its assets, were ever to be acquired, customer information will of course be one of the transferred assets.
+Compliance:
+     We release account and other personal information when we believe release is required to comply with federal or state law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of NameJet , our users, or others. This includes at least exchanging information with other companies, organizations and members of law enforcement to protect against fraud or other criminal activity.
 
-We may use Personally Identifiable Information collected on BlogSell.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by BlogSell.com and other topics we think you might find of interest.
+###  How Secure Is Information About Me?
 
-Personally Identifiable Information collected by BlogSell.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. 
+The information we receive from or about you is stored on systems designed to prevent the loss, disclosure, or destruction of that information. We protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input and the information we may send to our agents. NameJet has gone to great lengths to ensure your information is securely obtained. For example, we encrypt your credit card number before it is stored in our database. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses.
+###  What Information Can I Access?
 
-In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+NameJet gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, log-in to your account. When you update information, we usually keep a copy of the prior version for our records.
 
-**Affiliated sites, linked sites and advertisements**
+###  Links
 
-BlogSell.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. 
+Sites provided by NameJet contain links to other Web sites. Please be aware that we are not responsible for the privacy practices of such other Web sites. We encourage our users to be aware when they leave our Web site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-For example, during your visit to our site you may link to, or view as part of a frame on a BlogSell.com page, certain content that is actually created or hosted by a third party. 
+###  Children
 
-Also, through BlogSell.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. BlogSell.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+NameJet does not sell services for purchase by children under the age of 18. If you are under 18, you may use our services only with involvement of a parent or guardian.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information.
+###  Conditions of Use, Notices, and Revisions
 
-BlogSell.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+If you choose to visit NameJet 's Web site, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at NameJet , please send us your concern using our [contact form](https://web.archive.org/Pages/Contact.aspx), and we will address it. Our business changes constantly. This Privacy Policy and the Terms of Use will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may e-mail periodic reminders of our policy and conditions but you should check this Privacy Policy posted on our Web site frequently to see recent changes.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of BlogSell.com and this policy.
-
-**Children**
-
-BlogSell.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe BlogSell.com has any information from or about anyone under 13, please contact us at the address listed below.
-
-**Contacting Us**
-
-You can easily contact us via our support desk at: [http://support.incomattic.com](http://support.incomattic.com/)
-
-Our physical address and contact details are as below: 
-
-> Incomattic Sdn Bhd,   
->  No 3B, Second Floor, Jalan 14/20,   
->  Petaling Jaya 46200, Selangor,   
->  Malaysia. 
-
-**Changes to this Policy**
-
-BlogSell.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.  
-Governing law
-
-This policy and the use of this Site are governed by Kuala Lumpur, Malaysia law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Kuala Lumpur, Malaysia. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
-
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Kuala Lumpur, Malaysia, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
-
-BlogSell.com is controlled, operated and administered entirely by **Incomattic Sdn Bhd** within Petaling Jaya, Malaysia. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+If you feel that NameJet , or any of its agents, representatives, or employees are violating this Privacy Policy, please contact us via e-mail using the [contact form](https://web.archive.org/Pages/Contact.aspx) or by telephone at 1-425-974-4687.
