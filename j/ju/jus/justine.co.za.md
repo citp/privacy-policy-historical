@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justine.co.za privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131623id_/http%3A//www.justine.co.za/PRSuite/privacy_security.page%3Ffooter%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justine.co.za privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003703id_/http%3A//www.justine.co.za/PRSuite/privacy_security.page%3Ffooter%3DY) for the most accurate reproduction.*
 
 # Justine - cosmetics, beauty, make-up, skincare, fragrance, work from home
 
