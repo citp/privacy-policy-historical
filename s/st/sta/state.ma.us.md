@@ -1,245 +1,197 @@
-> *The following text is extracted and transformed from the state.ma.us privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626164612id_/http%3A//www.baynote.com/baynote-services-privacy-policy) for the most accurate reproduction.*
-
-# Baynote Services Privacy Policy - Baynote Baynote
-
-### **Baynote Service Privacy Policy (“BSPP”)**
-
-UPDATED – January 1, 2014
-
-This notice describes the privacy policy and practices of Baynote, Inc. (“Baynote”) and describes how Baynote collects  
-and leverages user information collected from our corporate client’s website(s) and applications. The BSPP is  
-designed to assist Baynote clients in understanding how we collect and use the website and user information clients  
-provide to Baynote related to the provisioning of the Baynote service. Baynote’s clients have their own websites,  
-mobile sites, applications, touch points and their own privacy policies. Baynote is not responsible for the privacy  
-practices or the content of client websites, applications or touch points. The BSPP applies solely to the information  
-collected by the Baynote Service when website users visit our client’s website(s) and applications.
-
-Baynote is a technology company that personalizes consumer experiences for users on our client’s websites and other  
-digitally enabled touch points (the “Service”). Baynote collects information about users as they visit our client’s websites  
-enabling the client to deliver engaging experiences on their websites, emails, text messages, mobile sites, mobile  
-applications, tablet sites, tablet applications, and in other digitally enabled touch points such as kiosks, chat, or call center interactions.
-
-Baynote leverages website user information to deliver personalized and relevant product and content  
-recommendations, to reorder onsite search results, and to deliver client specific offers. These personalized interactions  
-make it easier for website users to find what they are looking for, discover new and interesting products and generally are  
-valuable for website users. Baynote supports SSL encryption for all external communications to ensure information  
-security and integrity.
-
-**Information Baynote collects**
-
-The Baynote Service may collect any or all of the following information from website users on our client’s touch points:  
-1\. The search terms and keywords used to find the client website. (Typically entered into a search engine like Google,  
-Bing or Yahoo);  
-2\. The search terms or keywords used while on the client website. (Typically entered into the website search box  
-located on the client website);  
-3\. The client’s product or content items clicked on and viewed on the client website along with other client website  
-navigation data, including following links from the client website to URLs within and outside of the client website,  
-and any browser action that can be triggered by clicking on a link, including script activations, email actions and  
-form posting;  
-4\. The client’s product or content items placed in groups such as favorites, wish lists or registries;  
-5\. The client’s product placed in shopping carts or purchases;  
-6\. Additional information is collected by Baynote that is automatically provided to the website user’s computer browser  
-including the IP address, date and time of a user session and browser type;  
-7\. Various browser and server dates and times including page load, recommendation request, link click, page exit and  
-durations computable from the collected dates and times.  
-8\. Baynote may leverage website user’s IP address, or some other device specific enabled location service, to provide  
-the website user’s approximate location; and,  
-9\. Where our client’s privacy policy allows the sharing of such information, Baynote’s clients may also provide known  
-user or anonymous user information such as purchase history, segment membership, location or other related  
-attributes.
-
-Baynote does not collect or store any sensitive or personally identifiable information such as the website user’s  
-name, email address, home address, phone number, credit card numbers or social security numbers.
-
-**Cookies and Image Tags**
-
-The Baynote Service uses industry standard cookies and image tags to collect website user information on our client’s  
-websites. These standard technologies allow for the exchange of information between the website user’s browser and the  
-Baynote Service. The Baynote Service allows our clients to use first-party cookies instead of third-party cookies, helping  
-make the website user comfortable about avoiding browser-level information integrity issues.
-
-**Persistent and Session Cookies**
-
-The Baynote Service uses two kinds of cookies called session cookies and persistent cookies. A session cookie is  
-created when a website user arrives on a client website and expires when the website user closes their browser after  
-viewing the client website. A persistent cookie is also stored on the website user’s hard drive for a period of time. The  
-Baynote Service may store information about the website user’s browsing history while on the client website or other  
-client website information in a persistent cookie.
+> *The following text is extracted and transformed from the state.ma.us privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227221338id_/https%3A//www.mass.gov/privacypolicy) for the most accurate reproduction.*
 
-**Disabling or Removing Cookies (“Do Not Track”)**
+# Mass.gov® Privacy Policy | Mass.gov
 
-Website users can disable or delete the Baynote Service cookies from their computer by following the directions in the  
-help area of the website user’s browser. While the Baynote Service may use cookies to help personalize the website  
-user’s experience on the client website, the Baynote Service is still able to personalize the website user’s experience  
-without cookies. When cookies are disabled or deleted, the Baynote Service uses different personalization approaches  
-that do not require a cookie.
+**_Effective_** : 10/31/2016
 
-**How the Baynote Service leverages website user information**
+Welcome to the Mass.gov website (“Mass.gov”). Your privacy is one of our top priorities. The following policy applies only to the use of Mass.gov. As you navigate Mass.gov, you will see links that, when clicked, will take you to other websites operated by state agencies (the “Other Commonwealth Websites”) or to other websites external to Massachusetts state government. The Other Commonwealth Websites have individual privacy policies tailored to the interactions available through each site. You may also see links that will take you to websites external to Massachusetts state government.
 
-The Baynote Service uses anonymous website user information collected to personalize our client’s website user  
-experience and to apply that collective intelligence to personalize the client website experiences for other client  
-website users. The Baynote Service may associate the client’s website user information with an anonymous user  
-identifier. This identifier is also associated with the persistent cookie that is placed in the website user’s browser on  
-their computer. Website user information that is collected and stored as part of provisioning the Baynote Service is  
-shared only with the related Baynote client whose site or application the website user visited.
+In particular, please note that although some of the social media pages used by Mass.gov might appear to be part of Mass.gov or at a web page under control of Mass.gov, some of these sites are actually hosted by a third party provider. Thus when visiting these third party social media sites, you are subject to different privacy policies and terms of service. Please review [**Mass.gov's Social Media Policy**](https://web.archive.org/social-media-policy) to review more detailed information on how Mass.gov uses specific social media sites and for links to the relevant terms of service and privacy policies for those sites. We strongly suggest that you read the site policies, including the privacy policies, for each Commonwealth website that you visit and any external site that you visit through a link appearing at Mass.gov.
 
-Website user information is observed by the Baynote Service’s analytics technology to help identify useful patterns of  
-behavior or connections. Patterns are formed when many website users exhibit the same types of behavior. The  
-Baynote Service’s analytic technology recognizes these patterns and uses recognition techniques to personalize  
-website user experiences including the following:
+### A privacy partnership
 
-1\. To show relevant client product or content recommendations on the client’s website, in email, chat or other digitally  
-enabled touch points;  
-2\. To deliver relevant client offers;  
-3\. To reorder client onsite search results to make them more relevant to client website users;  
-4\. To create segments of visitors and to identify visitors as members of existing client segments or Baynote derived  
-segments that may be used to drive marketing or other client initiatives outside the Baynote Service.  
-5\. To inform the client’s advertising partners about relevant client products or content that client website visitors may  
-be interested in; and,  
-6\. To research and develop new website user personalization products, techniques, or technologies.
+Your privacy with respect to the use of Mass.gov results from a partnership between the Commonwealth and you, the user. At Mass.gov, we attempt to protect your privacy to the maximum extent possible. However, because some of the information that we receive through Mass.gov is subject to the [**Public Records Law, Massachusetts General Laws Chapter 66, Section 10**](https://web.archive.org/legis/laws/mgl/66-10.htm) , we cannot ensure absolute privacy. Information that you provide to us through Mass.gov may be made available to members of the public under that law. This policy informs you of the information that we collect from you at Mass.gov, what we do with it, to whom it may be disseminated, and how you can access it. Based on this information, you can make an informed decision about your use of Mass.gov. You can maximize the benefits of your privacy partnership with the Commonwealth by making informed decisions about whether to share personally identifiable information with us through Mass.gov.
 
-**How long does Baynote keep website user information?**
+### Personally identifiable information
 
-Baynote adheres to existing laws regarding information retention. Unless prevented by law, the Baynote Service  
-retains the anonymous website user information collected for as long it is relevant and meaningful to our clients in  
-delivering enhanced website experiences to their website users. Baynote will retain collected information as long as is  
-required to meet service agreements with our clients and as required by law or to protect Baynote’s rights or property.
+We use the term “personally identifiable information” to mean any information that could reasonably be used to identify you, including your name, address, telephone number, email address, Social Security number, birth date, bank account information, credit card information, or any combination of information that could be used to identify you.
 
-**How does the Baynote Service deliver personalized emails if the Service does not track website user email addresses?**
+### Information voluntarily provided by you
 
-The Baynote is not an email company or email service provider. Baynote clients have their own email applications or  
-service providers. The Baynote Service integrates with our client’s email systems and/or service providers. Baynote’s  
-clients maintain email addresses and systems. The Baynote Service delivers client recommendations or offers to the  
-email system or provider and the email system or service provider sends the emails.
+Mass.gov collects voluntary information from you through surveys, online forms, any emails sent to Mass.gov and comments posted on pages hosted by Mass.gov (such as blogs or wikis). All such information, including comments and emails sent by you to Mass.gov may contain personally identifiable information.
 
-**How Baynote Protects your Information**
+While Mass.gov is intended as a medium for disseminating information from state agencies, if you need to contact a state agency that is part of Mass.gov, you should use the contact information for that state agency posted on its Mass.gov website.
 
-Baynote takes reasonable measures to protect systems and information from unauthorized access or alteration,  
-disclosure, or destruction. Baynote’s production environment is located in a secure co-location facility, with accesscontrolled via two factor biometric authentication. Additionally, our network is protected in line with industry defense-indepth  
-best practices. Baynote also routinely performs security audits and reviews. No security system is 100% secure,  
-however. While Baynote has taken reasonable precautions to safeguard the information that we collect, we cannot  
-guarantee that it will not be accessed or disclosed either through the unauthorized acts of users of Baynote systems.
+### Information automatically collected and stored by Mass.gov
 
-**Information Sharing**
+Mass.gov employs the use of "Persistent Cookies." The purpose of these Persistent Cookies is to collect and aggregate data regarding Mass.gov’s visitor activity in order for the Mass.gov Office to continuously evaluate and improve its website services, including on Mass.gov or affiliated websites such as sites hosted at http://blog.mass.gov (collectively, the “Offerings”). You may elect to disable the Persistent Cookies. Please be advised that disabling the Persistent Cookies may affect your ability to view or interact with Mass.gov.
 
-Unless provided for in this Privacy Policy, Baynote does not sell, trade, rent or share any personal information about client  
-website users with third parties.
+Mass.gov does collect and store your “Internet Protocol (“IP”) address,” (which does not identify you as an individual) indefinitely, as well as information about the date and time of your visit, whether a file you have requested exists, and how many “bytes” of information were transmitted to you over the Web from Mass.gov. We use your IP address to assess the frequency of visits to Mass.gov and the popularity of its various pages and functions. We will not attempt to match any personally identifiable information that you provide to us with your IP address, unless there are reasonable grounds to believe that doing so would provide information that is relevant and material to a criminal investigation. The one exception is that when you fill out information in a form on Mass.gov, we do receive your IP address along with this submission. We do not use this form-related IP address information unless it may be relevant and material to a criminal investigation.
 
-**Advertising Partners**
+### Usage data and known persistent cookies
 
-Baynote is not an advertising company. Baynote does not create, distribute, or deliver advertisements. We do, however,  
-work with partners who are advertising companies who create and deliver ads. We do not share any client website user  
-information with client’s advertising partners. Instead, the Baynote Service is able, at the client’s option, to share  
-recommended client products or content that website users are likely to be interested in. Client advertising partners use  
-this information to create and deliver relevant, targeted ads to website users. Any information about those website users  
-that is used to target the ads is part of client partner systems and is subject to their privacy policies.
+Mass.gov uses (or may use) the following tools (each a “Tool” and collectively, the “Tools”):
 
-**Law Enforcement**
+#### Tool name: Google Analytics™
 
-The website user information that Baynote collects may be requested by law enforcement in connection with a legal  
-investigation. Baynote will comply with relevant laws, regulations, subpoenas or warrants. Baynote will protect and defend the rights and safety of Baynote, Baynote employees, clients, or other persons.
+**Purpose:** Collect information about use of the Mass.gov 
 
-**Anonymous Information**
+**Data collected:** Google Analytics collects information such as how often users visit Mass.gov, what pages they visit when they do so, and what other sites they used prior to coming to Mass.gov.
 
-Baynote may share anonymous website information, aggregated across many users, or outputs of Baynote analytics  
-technology with clients, investors, prospective investors, business partners, marketing partners, or other third parties. This anonymous information includes how users of Baynote systems interacted with Baynote recommendations, offers and other services. This information does not identify any user or their responses to content or offers and cannot be used to identify a user or contact a user.
+**Privacy policy:** [**www.google.com/privacypolicy.html**](http://www.google.com/privacypolicy.html)
 
-### **Baynote Website Privacy Policy**
+**Terms of use:** [**www.google.com/analytics/tos.html**](http://www.google.com/analytics/tos.html)
 
-This notice describes the Website Privacy Policy of Baynote, Inc. (“Baynote”). By visiting www.baynote.com, you are accepting the practices described in this Website Privacy Policy, effective of as of January 1, 2014.
+**Express opt out:** N/A
 
-Our Website Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our website (www.baynote.com).
+**Special notes:** N/A
 
-**Collection of Personal Information**
+#### Tool Name: Google Site Search™
 
-When you register for certain customer services, register for certain webinars, request product or service information, download resource materials from our website, request customer service or other similar requests, we may collect the following types of information from you:
+**Purpose:** This is the tool that powers the search box on [**Mass.gov**](http://mass.gov/). It allows for better search results for users of [**Mass.gov**](http://mass.gov/).
 
-  * Name;
-  * job title;
-  * business email address;
-  * business physical address; and,
-  * business phone number.
+**Data collected:** Google Site Search may collect and store certain information related to your searches of [**Mass.gov**](http://mass.gov/) including: your search queries, links that you clicked on in search results, IP addresses, location information, and cookies.
 
+**Privacy policy:** [**www.google.com/policies/privacy/**](https://www.google.com/policies/privacy/)
 
+**Terms of Use:**[ **www.google.com/policies/terms/**](https://www.google.com/policies/terms/)
 
-The registration information you provide on our website may be retained as part of our prospect and customer marketing database for an indefinite length of time.
+**Express opt out:** Visitors can opt out by not using the search function on [**Mass.gov**](http://mass.gov/). They can also go to the [**Transparency and choice**](https://www.google.com/policies/privacy/) section of Google’s Privacy Policy for additional information on opting out.
 
-You may; however, visit our site anonymously.
+**Special notes:** If you have a Google account (such as Gmail), Google may be able to link the information that it collects from Google Site Search with personally identifiable information from your Google account (such as your name or mobile phone number).
 
-**Children’s Online Privacy Protection Act Compliance**
+#### Tool name: ForeSee™ provided by ForeSee Results
 
-We are in compliance with the requirements of COPPA (“Children’s Online Privacy Protection Act”), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+**Purpose:** ForeSee is a survey tool that collects voluntary information from you through surveys posted at Mass.gov.
 
-**Collection of Web Site Use Information (Non-personal)**
+**Data collected:** Surveys may collect personally identifiable information you voluntarily submit, such as name, email address or phone number, so that we may contact you for follow up to your question, concern or recommendation.
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. We, our advertisers and ad serving companies may also use small pieces of code including, but not limited to, “web beacons” or “clear gifs” to determine which advertisements and promotions users have seen and how users responded to them.
+**Privacy policy:**[ **www.foreseeresults.com**](http://www.foreseeresults.com/)
 
-**What Are Cookies?**
+**Terms of use:**[ **www.foreseeresults.com**](http://www.foreseeresults.com/)
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+**Express opt out:** You can opt out of ForeSee collecting information via the survey by declining to participate in the survey when the invitation pops up on Mass.gov. If you do opt out of completing the survey or you have completed a survey, ForeSee uses a persistent cookie so that it does not offer the survey to you again when you revisit Mass.gov.
 
-**How Do We Use the Personal Information That You Provide to Us?**
+#### Tool name: Twitter™ widget
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other information regarding products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable.
+**Purpose:** Display various Twitter feeds on Mass.gov
 
-**How Can You Access and Correct Your Personal Information?**
+**Data collected:** The Twitter widget uses Twitter’s persistent cookie(s) to allow you to retweet from and access other Twitter functions related to your account. Twitter accesses this cookie on every page where the Twitter widget is displayed. This could allow Twitter to determine which websites you have visited.
 
-You may request access, review, and request changes, to all your personally identifiable information that we collect online and maintain in our database by emailing info@baynote.com.
+**Privacy policy:**[ **http://twitter.com/privacy**](http://twitter.com/privacy)
 
-You may notify us at any time if you do not wish to receive these offers by emailing us at [info@baynote.com](mailto:info@baynote.com).
+**Terms of use:**[ **http://twitter.com/tos**](http://twitter.com/tos)
 
-**How Do We Use Information We Collect from Cookies?**
+**Express Opt Out:**
 
-As you interact with our Web site, the site uses its cookies to differentiate you from other users so your account is only available to you. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any information that you provided to us in your cookies.
+1) [**https://support.twitter.com/articles/20169421**](https://support.twitter.com/articles/20169421)
 
-**Choosing to enable or disable your cookies?**
+2) You are not required to log in to your Twitter account (if you have one) to use Mass.gov.
 
-We encourage you to allow cookies from our website because it helps us improve the user experience. If you do not want to save cookies from our website, you can choose to disable them in your internet browser. However, by disabling necessary First-Party Cookies that Baynote uses (outlined above), certain services users have asked for cannot be provided. Depending on your web browser type, you can access these controls through your web browser’s Help section.
+**Special notes:** Twitter may personalize your user experience on Twitter based on what pages you have visited that contain a Twitter widget.
 
-**Do we disclose any information to outside parties?**
+#### Tool Name: Facebook™ “Like” widget
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We do not sell, trade, or otherwise transfer to outside parties your personal information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, or other uses.
+**Purpose:** Allows user to “Like” a web page and also displays whether user has already “Liked” the webpage.
 
-**Certain Disclosures**
+**Data collected:** The Facebook widget uses Facebook’s persistent cookie(s) to determine whether you have “Liked” a page. Facebook accesses this cookie on every page where the Facebook “Like” widget is displayed. This could allow Facebook to determine which websites you have visited.
 
-We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Service and other agreements; or protect the rights, property, or safety of Baynote, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+**Privacy policy:**[ **www.facebook.com/help/186325668085084/**](http://www.facebook.com/help/186325668085084/) and [**www.facebook.com/about/privacy/**](http://www.facebook.com/about/privacy/)
 
-**Security**
+**Terms of use:**[ **www.facebook.com/policies/**](http://www.facebook.com/policies/)
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us using the contact information below.
+**Express opt out:** You are not required to log in to your Facebook account (if you have one) to use Mass.gov.
 
-**Compromise of Personal Information**
+#### Tool name: Crazy Egg™
 
-In the event that personal information is compromised as a result of a breach of security, Baynote will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Website Privacy Policy, or as otherwise required by applicable law.
+**Purpose:** Collect information about use of Mass.gov.
 
-**Third party links**
+**Data collected:** Including through the use of cookies, Crazy Egg collects user information such as browser information and IP address as well as usage data such as where people click on Mass.gov and how far down people are scrolling before they abandon a page. Note: Mass.gov has not activated Crazy Egg’s ability to track users’ keystrokes or information submitted by users on forms.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+**Privacy policy:** www.crazyegg.com/privacy
 
-**Conditions of Use, Notices, and Revisions**
+**Terms of use:**[ **www.crazyegg.com/terms**](https://www.crazyegg.com/terms)
 
-If you choose to visit www.baynote.com, your visit and any dispute over privacy is subject to this Website Privacy Policy and our Terms of Service, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at www.baynote.com please contact us with a thorough description, and we will try to resolve it.
+**Express opt out:** www.crazyegg.com/opt-out
 
-Our business changes constantly, and our Website Privacy Policy and the Terms of Service will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Website Privacy Policy applies to all information that we have about you and your account.
+**Special notes:** N/A
 
-**Notification Procedures**
+#### Tool name: Treejack™
 
-It is the policy of Baynote to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our customers or website users, via E-mail notice, written or hard copy notice, or through conspicuous posting of such notice on our Web site page, www.baynote.com, as determined by Baynote in its sole discretion. Notwithstanding the foregoing, Baynote reserves the right to determine the form and means of providing notifications to our customers or website users.
+**Purpose:** Determine whether Mass.gov is well structured and whether information is findable.
 
-**Your Consent**
+**Data collected:** Treejack is a voluntary testing activity that tracks how successfully users can navigate their way to the information they’re looking for.
 
-By using our website you consent to our collection and use of your personal information as described in this Website Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+**Privacy policy:**[ **www.optimalworkshop.com/privacy**](https://www.optimalworkshop.com/privacy)
 
-**Contacting Us**
+**Terms of use:**[ **www.optimalworkshop.com/terms**](http://www.optimalworkshop.com/terms)
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+**Express opt out:** You can opt out of Treejack testing by not clicking on the solicitation to test.
 
-www.baynote.com
+**Special notes:** N/A
 
-Baynote, Inc.
+#### Tool Name: InVision™
 
-Attn: CFO
+**Purpose:** InVision allows users to view and click through high-fidelity mockups of webpages.
 
-333 W. San Carlos St., Suite 700
+**Data collected:** Invision is a voluntary preview activity that allows users to see samples of potential Mass.gov page designs, tracks user activity on these samples, and solicits feedback from users.
 
-San Jose, CA 95110
+**Privacy policy:**[ **www.invisionapp.com/privacy**](http://www.invisionapp.com/privacy)
+
+**Terms of use:**[ **www.invisionapp.com/terms**](https://www.invisionapp.com/terms)
+
+**Express opt out:** You can opt out of Invision by not clicking on the sample preview pages. Additionally, Invision’s Terms of Use provide information on how to opt out of third-party advertising cookies used on Invision’s website.
+
+**Special notes:** N/A
+
+### Additional general information related to tools
+
+We use the information we get from the Tools only to improve the Offerings. The Tools may also collect data such as browser information, operating system, and page views through the implementation of session cookies or persistent cookies. Except as set forth in this privacy policy (e.g., possibly in response to a public records request), we do not combine the information collected through the use of any Tool with personally identifiable information. Although each of the Tools plants a persistent cookie on your web browser to identify you as a unique user the next time you visit Mass.gov, the cookie cannot be used by anyone but Mass.gov and/or the software publisher of the respective Tool (the “Software Publisher”). The Software Publisher’s ability to use and share information collected by the Software Publisher about your visits to Mass.gov is restricted by the Software Publisher’s Terms of Use and Privacy Policy, links to which have been provided above. You may prevent the Tools from using persistent cookies by disabling cookies on your browser. Some of the Tools permit you to opt-out of the Tool by allowing that Tool to plant a persistent cookie on your web browser indicating that you have opted out. If you disable cookies on your browser or use a different browser, different computer, different user account, etc., you will need to opt-out again. If you allow persistent cookies in your web browser, Software Publishers have the technical ability to track your activity, even if you change your IP address, so long as you are using the web browser where the persistent cookie was planted. You should refer to the Software Publisher’s Privacy Policy and Terms of Use to determine whether they do, in fact, track you via the persistent cookie.
+
+### Links to social media sites
+
+Certain links on Mass.gov (whether integrated with Tools or otherwise) facilitate interaction with third-party social media sites. Accessing third-party social media functions (whether through a Tool or otherwise) may require you to log in to your social media provider, and that social media provider may plant a persistent cookie on your web browser to keep you logged in. Any interaction with any such social media provider (whether through a Tool or otherwise) is subject to such social media provider’s site policies, and such provider may plant one or more additional persistent cookies on your web browser as a result of your interaction with it.
+
+### Online forms on Mass.gov
+
+Online forms may be provided by a third party service Formstack. When you use this service, your form submission is securely made to Formstack and stored there. Form submissions are then transmitted to state government staff. State government staff will delete form submissions from Formstack when there is no longer any administrative need to retain them there. Formstack only uses your form submissions for internal purposes and the data is considered private. Formstack will not distribute or sell your information to a third party unless required by law or a valid government request. Formstack may also share information if it is acquired by or merged with another company. Please see the Formstack privacy policy at [**www.formstack.com/privacy**](http://www.formstack.com/privacy).
+
+### Dissemination of your personally identifiable information
+
+We do not sell any personally identifiable information collected through Mass.gov or submitted to the Commonwealth in conjunction with using functions on Mass.gov, and there is no direct or online public access to the information. However, once you voluntarily submit personally identifiable information to us related to your use of Mass.gov, its dissemination is governed by the “Public Records Law,” the “Fair Information Practices Act” (Massachusetts General Laws Chapter 66A), [**Executive Order 504**](https://web.archive.org/courts/docs/lawlib/eo500-599/eo504.pdf) , and other applicable laws and regulations. **For this reason, part or all of the information you send us may be provided to a member of the public in response to a public records request.** There are pieces of information, such as credit card numbers, TIN, username, or password that are not considered public for the purposes of a public records request. For more information on types of data exempted from disclosure under the Public Records Law, please read the [**Secretary of the Commonwealth’s Public Records Law.**](http://www.sec.state.ma.us/pre/preidx.htm)
+
+In addition, the information that you voluntarily submit will be disclosed only to Commonwealth employees or officials, or those under contract with the Commonwealth, with a “need to know” for purposes of fulfilling their job responsibilities. The information will be used for such purposes as; answering your questions, responding to any requests for assistance, generating summary statistics about usage, auditing applications and detecting fraud, aiding in the planning, design and development of Mass.gov, and fulfilling the Commonwealth's legal obligations.
+
+We will collect and aggregate the information you provide through surveys and through Mass.gov’s collection of non-personally identifying analytics data for purposes of market research to improve the Offerings by making them more responsive to customer needs. Where appropriate, we may provide the information you submitted voluntarily through an email to the person or company that is the subject of your inquiry, or to a government agency responsible for the matters referred to in your communication.
+
+### Your access and opportunity to correct
+
+The “Public Records Law” and the “Fair Information Practices Act” provide you certain rights to get information about you that is in our records. To learn more about the circumstances under which you can get and correct this information, please click on the above references to these laws.
+
+### Security
+
+Because information sent to the Commonwealth is not encrypted, you should not send messages containing information that you consider highly sensitive to Mass.gov. We use standard security measures to ensure that information provided by you, including your personally identifiable information, is not lost, misused, altered, or unintentionally destroyed. We also use software to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations, no attempts are made to identify individual users or their usage habits.
+
+### Special protections against misuse of personally identifiable information within Commonwealth offices
+
+[**Executive Order 504**](https://web.archive.org/courts/docs/lawlib/eo500-599/eo504.pdf) issued in 2008, which enhanced the privacy protection given to any information about you as a named individual held by the Executive Department of state government. Executive Order 504 limits the collection and dissemination of personally identifiable information within the Executive Department and requires Executive Department agencies to greatly enhance the security and integrity of such data. This website complies with Executive Order 504, so all of the personally identifiable information that you submit to Mass.gov is given the privacy protections set forth in Executive Order 504.
+
+### Policy changes
+
+We will post substantive changes to this policy at least 30 days before they take effect. Any information we collect under the current privacy policy will remain subject to the terms of this policy. After any changes take effect, all new information we collect, if any, will be subject to the new policy.
+
+### Contact Information
+
+For questions about your privacy while using Mass.gov, please contact [**mass.gov@state.ma.us**](mailto:mass.gov@state.ma.us).
+
+### Definitions
+
+**Cookies** are files that a website can place on your computer. A cookie file contains unique information that a website can use to track such things as your password, lists of Web pages you have visited, and the date when you last looked at a specific Web page, or to identify your session at a particular website. A cookie file allows the website to recognize you as you click through pages on the site and when you later revisit the site. A website can use cookies to “remember” your preferences, and to record your browsing behavior on the Web. Although you can prevent websites from placing cookies on your computer by using your browser’s preference menu, disabling cookies may affect your ability to view or interact with some websites.
+
+**An “Internet Protocol Address” or “IP Address”** is a series of numbers that identifies each computer and machine connected to the Internet. An IP address enables a server on a computer network to send you the file that you have requested on the Internet. The IP address disclosed to us may identify the computer from which you are accessing the Internet, or a server owned by your Internet Service Provider. Because it is machine-specific, rather than person-specific, an IP address is not, in and of itself, personally identifiable information.
+
+**Social Media:** A social media website is a website or a social media application that is usually maintained by an individual and has regular entries of commentary, descriptions of events, or other material such as graphics or video. A social media identity is a specific user identity that has been registered on a third party social media site and is associated with the Agency. Government social media sites or identities typically provide forums for commentary or news on topics related to the government agency that hosts the social media site or has secured the social media identity. A typical social media site (whether hosted by the Agency or a third party) combines text, images, and links to other websites including blogs, wikis, and other media related to the topic and enables readers to leave comments in an interactive format.
+
+**“Weblog” or “Blog”:** A weblog or blog is a Web site, usually maintained by an individual with regular entries of commentary, descriptions of events, or other material such as graphics or video. Government blogs typically provide commentary and news on topics related to the government agency hosting the blog. A typical blog combines text, images, and links to other blogs, Web pages, and other media related to the topic, and enables readers to leave comments in an interactive format.
+
+**“Wiki”:** A wiki is a website that uses collaboration software to enable the creation of a number of interlinked web pages. Many authors can contribute to the website and upload content to the site. Government wikis typically provide a venue for commentary and discussion regarding topics related to the government agency hosting the wiki. A typical wiki combines text, images, and links to other web pages outside the wiki also related to the topic, and enables readers to leave comments in an interactive format.
