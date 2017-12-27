@@ -1,67 +1,80 @@
-> *The following text is extracted and transformed from the fabricgirl.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911123751id_/http%3A//fabricgirl.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabricgirl.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-##  [ Privacy Policy](http://fabricgirl.com/index.php/privacy-policy)
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-Privacy Policy We request you to review the policy from time to time because it is in our sole discretion that we may amend and/or append our policy at any time.
+**What information do we collect?**
 
-WHAT PERSONAL INFORMATION DO WE COLLECT?
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Personal information may be collected in a number of ways when you visit our Site. We may collect certain information you voluntarily provide to us which may contain or may be tied to personal information. For example, we may collect information, such as your name, postal address, e-mail address, phone number, and other contact and demographic information such as age, gender, zipcode, health-related information, interests and preferences. We may collect this and other information when you create a profile, register for our newsletter(s), leave comments or post content, respond to surveys, participate in promotions or contact us by e mail or other means for any reason. We may supplement this information with information collected from other companies.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-We may also collect “aggregate” information, which is data we collect about the use of the Site or about a group or category of products, services or users, from which individual identities or other personal information has been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users’ needs so that we can better consider new features or otherwise tailor our Site. This policy in no way restricts or limits our collection and use of aggregate information.
+**What do we use your information for?**
 
-When you visit the Site, some information is also automatically collected, such as your computer’s Internet Protocol (IP) address, your computer’s operating system, the browser type, the address of a referring website, and your activity on the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above.
+Any of the information we collect from you may be used in one of the following ways: 
 
-Cookies and Clear Gifs (Web Beacons).
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-We may also automatically collect certain information through the use of “cookies” or “clear gifs.” Cookies are small data files that are stored on a user’s hard drive at the request of a website to enable the site to recognize users who have previously visited them and retain certain information such as customer preferences and history. Clear gifs (also know as web bugs or web beacons) are small, invisible graphic images that may be used on the Site and in e-mails to collect certain information about your use of and activity with our Site and emails. If we combine cookies or clear gifs with or link them to any of the personally identifying information, we would treat this information as personal information.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-Third Party Advertisements.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-We may also use third parties to serve ads on the Site. These third parties may collect information about your visits to this and other Web sites, your IP address, your ISP, the browser you use to visit our Site (but not your name, address, email address or telephone number). They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology.
+• To process transactions
 
-Third Party Comment System. We use a third party online comment system called Disqus. Disqus is not acting as our agent. Disqus is a third party application that allows visitors to post comments on our site and connect those and other comments across multiple sites. When you post a comment on our site, Disqus will collect information about your visit to this and other Web sites, including information you post and your IP address. If you register with and use Disqus, Disqus may collect and use other information from and about you. This policy does not apply to, and we are not responsible for, Disqus’ collection or use of your information. HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT?
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-In general, we use personal information we collect to process your requests or transactions, to provide you with information or services you request, to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use of, and our administration and operation of, the Site and the choiceyoursecondcarservices, and for the purpose for which the information was provided. For example, we may use the information we collect:
+• To send periodic emails
 
-· to send you a welcoming e-mail and to contact you about your use of the Site and the choiceyoursecondcarservices, such as for administrative purposes or to provide you with customer service;
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-· to provide you with all of the services, features, and functionality included within the choiceyoursecondcarservices, to provide other services or information you request and to complete any transactions in connection therewith;
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-· to respond to your e-mails, submissions, comments, requests or complaints;
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-· to request feedback and to enable us to develop, customize and improve the Site and our publications, products and services;
+**How do we protect your information?**
 
-· to personalize and improve Site content and features and your experience on the Site, such as providing ads, content or features to match your profile and interests;
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-· to contact you about our or a third party’s services, products, activities, special events or offers and for other marketing, informational, product development and promotional purposes (including, without limit, to notify promotion winners); and
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-· for the specific purpose for which the information was provided or collected.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Policy governs this information.
+**Do we use cookies?**
 
-SHARING OF PERSONAL INFORMATION
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-Except as described below, we do not share your personally identifying information with third parties for their own use without your consent. If you choose to let us share your personally identifiable information with third parties, we are not responsible for the actions of such third party companies, nor are we responsible for any additional information you provide directly to these or to any other third parties.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-You understand that when you use the choiceyoursecondcarservices, certain information you post on publicly available portions of the Site may be shared with other users and posted on other portions of the Site, including without limitation your comments to articles, name, profile details, images, and messages to other users on the Site. Your use of the choiceyoursecondcarservices constitutes your consent to share this information in such manner and all such sharing of information is done at your own risk. Please keep in mind that if you directly disclose personal information when posting comments or other information or content to the Site or through the choiceyoursecondcarservice, this information may become publicly available and may be collected and used by others. We recommend that you be cautious in giving out personal information to others in public online forums.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-We may also share personal information with third party vendors, consultants and other service providers who are engaged by or working with us in connection with the operation of the Site and the choiceyoursecondcarservices and who need access to such information to carry out their work for us.
+**Do we disclose any information to outside parties?**
 
-In addition, we may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to lawful requests, any claims, or to protect the rights, property or safety of womenhealth, our users, our employees or the public, including without limitation to protect womenhealth or our users from fraudulent, abusive, inappropriate or unlawful use of our Site or the choiceyoursecondcarservices. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition, an insolvency, bankruptcy or receivership or in any other situation where personal information may be transferred as one of the business assets of choiceyoursecondcar.
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-WHAT STEPS DO WE TAKE TO PROTECT PERSONAL INFORMATION ONLINE?
+**Online Privacy Policy Only**
 
-We have worked to put into place reasonable security measures in an effort to protect personal information while it is under our control. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable. You should also note that e-mail is not secure, and you should not send any confidential or sensitive information to us via an unsecured e-mail. To protect the confidentiality of personal information, you must keep any password used on the Site confidential and not disclose it to any other person. You are responsible for all uses of our Site by any person using your password. Please advise us immediately if you believe your password has been misused.
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-WHAT CHOICES DO YOU HAVE REGARDING THE USE OF YOUR INFORMATION?
+**Terms and Conditions**
 
-We will send you news, updates and information via e-mail. You may choose to not receive promotional communications at any time by notifying choiceyoursecondcareither through the opt-out link in the footer of every e-mail or by calling customer service at (800) 637-9382. Please note, however, that you may not “opt-out” of receiving service related communications such as account-related e-mails from choiceyoursecondcar.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-LINKS TO OTHER WEBSITES
+**Your Consent**
 
-Our Site contains links to other Web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. We are not responsible for the content or privacy and security practices and policies of Web sites to which we link. Links from our Site to third parties or to other Web sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. HOW CAN YOU CORRECT AND UPDATE YOUR PERSONAL INFORMATION OR OBTAIN ADDITIONAL INFORMATION?
+By using our site, you consent to our web site privacy policy. 
 
-If you have any questions or comments about this Policy or the practices relating to this Site or the choiceyoursecondcarservices, or you wish to request changes to your preferences relating to any personal information we have collected, please contact us at [admin@fabricgirl.com](mailto:admin@fabricgirl.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it This e-mail address is being protected from spambots. You need JavaScript enabled to view it and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate to the extent possible. You may also contact us by mail at the following address:
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
