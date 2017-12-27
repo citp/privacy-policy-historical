@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hpdriver.net privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626052209id_/http%3A//www.hpdriver.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpdriver.net privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235323id_/http%3A//www.hpdriver.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HP Drivers Downloads | Hewlett-Packard | hpdriver.net
+
+### Privacy Policy
 
 We belong to all the drivers and software manufacturers. After you install the downloaded files for viruses. Our system(webpage) is not responsible for problems that may have downloaded the files to your computer.
 
@@ -24,10 +26,10 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 **Advertising Privacy Policy**
 
-hpdriver.net use Google Adsens ads network.. This network has used cookies to [DoubleClick Dart](http://www.hpdriver.net/goto/http://www.google.com/doubleclick/) for Google Publishers’s web sites. Google ,used this cookies for publish to ads of Advertiser’s as3 th. Part seller. Using this section, pusblish the ads which of the thesame as like to content around the Internet. Visit to [Google Privacy Policy](http://www.hpdriver.net/goto/http://www.google.com/policies/privacy/ads/), you can suspend the DART cookies how to make it.
+hpdriver.net use Google Adsens ads network.. This network has used cookies to [DoubleClick Dart](http://www.google.com/doubleclick/) for Google Publishers’s web sites. Google ,used this cookies for publish to ads of Advertiser’s as3 th. Part seller. Using this section, pusblish the ads which of the thesame as like to content around the Internet. Visit to [Google Privacy Policy](http://www.google.com/policies/privacy/ads/), you can suspend the DART cookies how to make it.
 
 When the Google visit our web sites, use 3th part ads network ( etc. Adnet, Adcash … ) services fort this. This Ads Networks; use your personal informations ( name, address, email or gsm numbers ) for the their services; view ads to visitors interested to products and service around the internet.
 
-For all this to, Privacy Policy and Rules which of used the Networks, you can download or read atteched file [NAI Self- Regulatory Principles For Publishers ( PDF )](http://www.hpdriver.net/goto/http://www.networkadvertising.org/sites/default/files/imce/principles.pdf)
+For all this to, Privacy Policy and Rules which of used the Networks, you can download or read atteched file [NAI Self- Regulatory Principles For Publishers ( PDF )](http://www.networkadvertising.org/sites/default/files/imce/principles.pdf)
 
-> By downloading, you agree to the terms and conditions of the [HP Software License Agreement](http://www.hpdriver.net/goto/http://h20000.www2.hp.com/bizsupport/TechSupport/softwareLicense.jsp?lang=en&cc=tr&prodTypeId=18972&prodSeriesId=377934&prodNameId=306510&taskId=135).
+> By downloading, you agree to the terms and conditions of the [HP Software License Agreement](http://h20000.www2.hp.com/bizsupport/TechSupport/softwareLicense.jsp?lang=en&cc=tr&prodTypeId=18972&prodSeriesId=377934&prodNameId=306510&taskId=135).
