@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624110336id_/https%3A//www.terapeak.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003438id_/https%3A//www.terapeak.com/policies/privacy) for the most accurate reproduction.*
 
 # Terapeak | Item Pricing, Online Sales Reports | eBay Research Tools & Market Data
 
-**Last Updated: 2017-04-12**
+**The recent changes to this Privacy Policy were made in contemplation of the recent announcement by eBay of its intention to acquire Terapeak (Canada) Inc. Following the closing of the transaction, eBay will become the data controller with respect to your data processed prior to, and after the close of the transaction. This notice is to provide you with 30 days to notify Terapeak (Canada) Inc. in the event you would like your account terminated, in which case the data related to your account will no longer be processed to maintain your account.**
+
+**Last Updated: 2017-11-27**
 
 Terapeak (Canada) Inc., a Canadian company and its wholly owned subsidiary Terapeak Inc., a Delaware company (collectively “Terapeak”) are committed to protecting the privacy of users of the website terapeak.com (the “Website”) and our online products and services (the “Products and Services”) in accordance with the requirements of Canadian federal and provincial privacy laws.
 
@@ -79,13 +81,7 @@ We use the information obtained through the tracking of our users activities to 
 
 ### Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by Terapeak and our marketing partners and service providers . These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole.
-
-We use cookies to remember users’ settings (e.g. language preference, for authentication and tracking users’ movements around the site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-We use Local Storage Objects (LSOs) such as HTML5 to store user information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
-
-Various browsers may offer their own management tools for removing HTML5 LSOs.
+Terapeak and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 ### Behavioral Targeting / Re-Targeting
 
@@ -129,7 +125,7 @@ We may provide your personal information to our service providers that provide s
 
 ### Business Transitions
 
-In the event that we go through a business transition such as a merger, acquisition by another company, or the sale of some or all of our assets, personal information of our users will, in all likelihood, be part of the assets transferred. We will post a prominent notice of any such transition on the Website for at least 30 days prior to such a business transition and if a user’s personal information will be used in a manner different from that stated at the time of collection such a user will be given a choice consistent with our Notification of Changes section.
+In the event that we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information.
 
 ### Credit Reporting
 
