@@ -1,31 +1,80 @@
-> *The following text is extracted and transformed from the geekfriends.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202160008id_/http%3A//www.geekfriends.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekfriends.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy policy
+# HugeDomains.com - Privacy Policy
 
-We have developed this policy to ensure that your privacy is protected while using our service. Our policy only addresses the use and disclosure of information we collect from you. 
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-**About geek friends and Information We Collect**
+**What information do we collect?**
 
-geek friends is an online network which provides you useful tools and communities to build relationships online. geek friends adheres to the requirement of Data Protection Act. In our online ANONYMOUS registration form, we ask you to provide us with certain information such as your birth date and the type of relationship you are looking for etc. However, NONE of the personally identifiable information can be accessed or used by the public to identify a specific individual. 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-**Our Use of Your Information**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-We internally use personally identifiable information of our users to statistically analyze site usage, to improve our content and service offerings as well as to customize our site's content and layout. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs. We also send periodic informational updates to our users via email. 
+**What do we use your information for?**
 
-**Our Disclosure of Your Information**
+Any of the information we collect from you may be used in one of the following ways: 
 
-We DO NOT sell, rent or disclose any personally identifiable information about you to any third party. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**Your use of Other Users' Information**
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-We and our users do not tolerate spam, harassment, or threats. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**Control of Your Password**
+• To process transactions
 
-You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you loose control of your password, you may loose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password. 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-**Update/Delete Profiles**
+• To send periodic emails
 
-Our users can modify or delete their information from our database by logging in with their password. Once deleted, it is gone for good and cannot be retrieved by us. 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-If you have any questions or suggestions regarding our privacy policy, please use the form on the [Contact Us](http://geekfriends.com/contact.php) page to contact our customer service department. 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
