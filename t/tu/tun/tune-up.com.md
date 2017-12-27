@@ -1,79 +1,171 @@
-> *The following text is extracted and transformed from the tune-up.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007091824id_/http%3A//www.tune-up.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tune-up.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002756id_/https%3A//www.avg.com/en-us/privacy) for the most accurate reproduction.*
 
-# TuneUp Utilities 2014 - Company - Privacy Policy
+# Privacy Policy | We are serious about your privacy | AVG
 
-This privacy policy is designed to inform users of TuneUp websites about how TuneUp (“TuneUp” or “we”) gathers and uses anonymous and profile information, and in what circumstances TuneUp will disclose such information. TuneUp will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws.
+## Our Privacy Policy
 
-## Enforcement
+  
+We (Avast Software B.V. and our affiliates) last changed our privacy policy on March 23, 2017. If you’re interested to see what changed, please [click here](https://web.archive.org/en-us/privacy#what-changes-have-you-recently-made). AVG is part of the [Avast Group](https://www.avast.com/). This Privacy Policy applies to all the AVG branded products. Please note that specific privacy policies apply for [Avast](https://www.avast.com/privacy-policy) branded products, [HideMyAss](https://www.hidemyass.com/legal/privacy) branded products, [Norman](https://web.archive.org/en-us/norman-privacy) branded products, [TuneUp](https://web.archive.org/en-us/app-specific-tuneup-utilities) branded products and the [Ally App](http://chimewifi.com/privacypolicy/), as well as the processing of personal data by [Location Labs Inc.](https://www.locationlabs.com/privacy-policy) and [Jumpshot Inc](https://www.jumpshot.com/privacy-policy/). Furthermore, our website provides you with [specific additional information](https://web.archive.org/en-us/app-specific) for certain apps. 
 
-If you believe that TuneUp has not complied with this Privacy Policy, or if you have any other complaint with regard to collection, use or disclosure of personal information by TuneUp, you may send a written notice of complaint to: 
+## Why do you collect my data?
 
-TuneUp Software GmbH.  
-Eschenheimer Anlage 1, 60316 Frankfurt am Main  
-Germany  
-[Contact us](http://www.tune-up.com/support/)
+It’s simple. We provide products and services to help you secure your data, devices, and personal privacy. We use data to improve those products and services; provide support; send notifications, offers, and promotions; and to make money from our free offerings so that we can continue to offer them for free.
 
-## What Information Do We Collect and How Do We Use It?
+We use data that can identify you, called personal data, to:
 
-_General data transmission and logging upon Internet access_
+  * Enable you to purchase and download products, obtain access to services and engage in offered activities;
+  * Provide you information about virus alerts, new and upgraded products and services, and other information you have requested;
+  * Provide you with service messages to your device;
+  * Alert you if we determine that your files, applications or emails are potentially malicious;
+  * Send you newsletters, informative emails or other information regarding AVG; and
+  * Provide you special opportunities, including offers relating to third-party products and services
 
-To the extent your web browser, upon accessing our website, automatically transmits data such as date and time of access, URL of the referring website, accessed files, quantity of transmitted data, browser type and version, operating system and/or your IP address, these data will be stored separately from other data that you may provide to TuneUp. These data will be evaluated for statistical purposes and then promptly deleted. 
 
-_Information acquired through voluntary submissions by users_
 
-On some of our sites, we offer a form which allows you to provide us with further items of information, including one or more of the following: your name, gender, date of birth, email address, language, country, currency and ratings of products. We use this information to deliver email newsletters and general promotional and marketing materials on topics of interest to you. If you do not wish for your information to be used in this way, do not request such services or opt out of such use and disclosure in accordance with this Privacy Policy. 
+We use data that does not identify you, called non-personal data, for lots of purposes, including to improve our products and services and to help keep our free offerings free. In particular, we may use non-personal data to build anonymous data profiles and provide segmented marketing, generate aggregate statistical information, and to improve and administer our current products and create new products.
 
-_Inventory and usage data_
+You can be assured that we protect the information we collect. By using our products or services, you agree to the collection, use and sharing of your data in accordance with this Privacy Policy. Unless the specific product states otherwise, all AVG products and services are included under this Privacy Policy.
 
-TuneUp will collect and use your personal data for the purpose of providing services to you, including completing any and all transactions.  
-TuneUp further collects and uses personal data from you to the extent necessary to enable the use of, or billing for, its internet offerings (usage data). In particular, such data include indicators of your identity and information regarding the beginning and end of, and scope of, the usage of our offerings. For purposes of advertising, market research and tailoring of our internet offerings to market needs, we may create user profiles under pseudonyms. You have the right to refuse this use of your data, as further described in this Privacy Policy. We may not combine a user profile that has been created under a pseudonym with the data of the individual to whom the applicable pseudonym relates. 
+If you are really interested in this privacy stuff, we’ve put together [a few videos](http://www.youtube.com/officialavg) and to help explain what we do, why we do it, and how.
 
-_Cookies_
+## How do you collect my data?
 
-In order to permit full use of the functionality of its internet offerings, TuneUp uses so-called “cookies,” which enable data to be stored on your computer when you access our website. To the extent you disagree with this, you may refuse to allow cookies to be saved.
+  
+We collect information in three ways: when you provide us information, automatically, when you use our website or products, and when provided to us by third parties. Much of our automatic collection is done through the use of things like cookies and tracking beacons. If you are curious what is meant by a cookie or a tracking beacon, please [click here](http://www.allaboutcookies.org/web-beacons/). You can find comprehensive information on how we use cookies and third-party tracking and analytics services [here](https://web.archive.org/en-us/cookies.html). Additionally, if you have the option enabled, we may scan web traffic (including encrypted traffic) for known virus threats.
 
-## What Information Do We Disclose to Third Parties?
+## What do you collect that can identify me?
 
-_Forwarding to Google Analytics_
+Like many companies, some of the information we collect, known as personal data, can identify you. An example of personal data might be your name or email address.
 
-Our website uses Google Analytics, an internet evaluation service of Google, Inc. (“Google”). Google uses the information stored by cookies (as described above) to evaluate your use of the website, to prepare reports of website activities for website operators and to provide other services associated with website and internet usage. Google processes data on its servers in the United States and in certain circumstances provides compiled, anonymized information to third party developers. You can obtain information about the scope and purpose of the analyses at [www.google.com/analytics/tos.html](http://www.google.com/analytics/tos.html), and you can find Google’s data privacy policies at [www.google.com/privacy.html](http://www.google.com/privacy.html). By using this website, you agree to the forwarding of data to Google and the processing by Google of the data collected from you in the manner and for the purposes described above. If you disagree with this, you may refuse to allow cookies to be saved.  
-Profile information provided to us by you is, however, subject to disclosure pursuant to any applicable laws. 
+Some personal data we collect only when you provide it to us. This information may include your name, address, email address, telephone number, and if you pay by credit card, your payment information. This may happen when you:
 
-_Third Party Service Providers to TuneUp_
+  * Create a user account, place an order, or register a product;
+  * Request product support or other services;
+  * Request information about products; or
+  * Participate in surveys.
 
-In the event that we contract with a third party to provide some part of the information or service that you have requested, TuneUp may provide your information to such third party, or such third party may collect information from you on our behalf. By written agreement, these third parties are required to implement similar security measures and to process your information only as authorized by TuneUp in accordance with this Privacy Policy.  
-Please note that personal information provided to this site may be subject to disclosure pursuant to judicial or other government subpoenas, warrants or orders.
 
-## How Can You Opt Out of Use and Disclosure of Your Information?
 
-TuneUp will only use your user profile information for the purposes described in this Privacy Policy or subsequently authorized by you. 
+Some personal data we collect automatically when you use our website or products. This information may include some or all of the following types of information:
 
-If you would like information about you (that is not necessary for the completion of a transaction you initiated) to be deleted from the TuneUp database, please contact us at support_en(at)tune-up.com and we will remove your user profile information. 
+  * Your Internet Protocol ("IP") address;
+  * User and account names and related data;
+  * Phone number;
+  * SIM (Subscriber Identification Module) card number;
+  * Device ID numbers, including Machine ID, IMEI and/or MEID;
+  * AVG product license and identification numbers; and
+  * Geographic location based on GPS/Wi -Fi/communications network local information.
 
-_Access and Updating of Information_
 
-The instructions to review, amend, or delete your information may be found support_en(at)tune-up.com. Users may change information at any time and as often as necessary, including by withdrawing your consent to use your data to the extent you had previously consented to such use (such as subscribing to the TuneUp newsletter).
 
-## General
+Unless we need the data to retain its personally identifiable characteristics, we anonymize the data we collect and store it in a manner that does not identify you. For instance, when we collect your IP address, we may anonymize your IP address by obfuscating the last group of digits (e.g., changing 192.168.1.1 to 192.168.1.XXX).
 
-_Security_
+## What do you collect that cannot identify me?
 
-TuneUp has implemented reasonable security measures to protect information from loss, misuse and unauthorized access, disclosure, alteration or destruction. Our security systems include authenticated access to internal databases, audits of procedures, and regular reviews of overall web security. 
+We collect many types of data, called non-personal data that does not personally identify you. While we cannot list out each and every type of non-personal data that we collect, we’ve tried below to give you a general understanding of what types of non-personal data we collect and examples to help you see what we mean.
 
-_Links_
+We collect non-personal data to improve our products and services, including:
 
-TuneUp websites contain links to other websites. TuneUp is not responsible for the privacy practices or the content of those sites. Users should be aware of this when they leave our sites and review the privacy statements of each website they visit that collects information. This Privacy Policy applies solely to information collected by TuneUp websites. 
+  * data concerning potential malware threats to your device and the target of those threats, including copies of files or emails marked as potential malware, file names, cryptographic hash, vendor, size, date stamps, associated registry keys, etc.;
+  * information about how you use our products and their features, including information about your particular device, installation and uninstallation rates, language, technical parameters and manufacturer of a device, device security information (password attributes, encryption level), etc.; and
+  * information about where our products and services are used, including approximate location, zip code, area code, time zone, and the URL you came from to reach our products.
 
-_Business Transfers_
 
-We are always seeking to improve our website and our business. If all or part of TuneUp is sold, merged or otherwise transferred to another entity, the Profile Information and Activity Data that you have provided to us may be transferred as part of that transaction. In these circumstances, TuneUp will require that the profile information be used by its successor in a manner that is consistent with the TuneUp Privacy Policy in effect at the time TuneUp received the information. 
 
-_Amendments_
+We collect non-personal data to make money from our free offerings so we can keep them free, including:
 
-TuneUp may modify or amend this policy from time to time. If we make any material changes in the way in which your profile information is collected, used or transferred, we will notify you of these changes on our website or by e-mail and provide a link to the new privacy statement. If you object to any of the changes, you can have us delete your information from our database by contacting support_en(at)tune-up.com. 
+  * Advertising ID associated with your device;
+  * Browsing and search history, including meta data;
+  * Internet service provider or mobile network you use to connect to our products; and
+  * Information regarding other applications you may have on your device and how they are used.
 
-_Options_
 
-Users who opt-in may also remove themselves from emailing lists at any time by following the instructions at the end of any email they received from TuneUp. 
 
-Effective Date: [May 18, 2010]
+Sometimes browsing history or search history contains terms that might identify you. If we become aware that part of your browsing history might identify you, we will treat that portion of your history as personal data, and will anonymize this information. We may also aggregate and/or anonymize personal data we collect about you. For instance, although we would consider your precise location to be personal data if stored separately, if we combined the locations of our users into a data set that could only tell us how many users were located in a particular country, we would not consider this aggregated information to be personally identifiable.
+
+## Do you share my data?
+
+Yes, though when and how we share it depends on whether it is personal data or non-personal data. AVG may share non-personal data with third parties and may publicly display aggregate or anonymous information.
+
+We do not sell or rent your personal data to third parties.
+
+We may share certain personal and non-personal data with:
+
+  * Any of our affiliated companies;
+
+
+
+AVG is part of the [Avast Group](https://www.avast.com/).
+
+The Avast Group acts globally, comprising many companies in many offices around the world. In order to do business around the globe, we may share your personal data across our offices and companies which may be in countries with different laws regarding the collection and use of personal data than the country we collected it from.
+
+  * Search providers;
+
+
+
+Certain of our search providers may require us to share your full IP address with them in order to fulfill your search requests. Please note that the search providers have their own privacy policies that govern the privacy of these requests. We encourage you to read these privacy policies before deciding to use these services.
+
+  * Selected AVG resellers, distributors and other partners performing services on our behalf.
+
+
+
+We may share some of your personal data, such as your email address, with certain selected resellers, distributors and other partners to enable them to contact you on our behalf about products, services or offers we believe are important to you or your business, to fulfill any terms under your licensing and service relationship with AVG, or to provide you local technical and customer support.
+
+Lastly, we may share your personal data:
+
+  * when necessary to deliver the product or service you require such as with a payment card provider who we use to process your credit card transaction;
+  * when authorized by law or necessary to comply with a valid legal process;
+  * when required to protect and defend the rights or property of AVG, including the security of our products and services;
+  * when necessary to protect the personal safety, property or other rights of the public, AVG or its customers or employees; or
+  * in connection with a sale of all or part of our business.
+
+
+
+If we are legally compelled to disclose your personal data to a third party, we will use commercially reasonable efforts to notify you in advance of a disclosure unless legally prohibited. If we are involved in a merger, acquisition or asset sale, we will abide by this Privacy Policy, and any affected users will be informed if we transfer any personal data to a third party or if personal data becomes subject to a different privacy policy as a result.
+
+## What rights do I have over my data?
+
+You have the right to ask us about the personal data we process about you, the purpose and nature of the processing, and to provide information on who we share it with.
+
+You have the right to request that we update, correct, or delete (assuming that this does not impact the services we are providing to you) your personal data at any time. Please note that we may reject requests which risk the privacy of others or are unreasonable or repetitive, or would require disproportionate effort. Unless you request us to delete your data, please note that we may keep your personal data for one year after you stop being a customer (but we typically keep your personal data no longer than is reasonably necessary given the purposes for which the data was collected).
+
+You have the right to opt out of the use or collection of certain data by us or by third parties, including personal data and non-personal data, by following the instructions [here](https://web.archive.org/en-us/privacy-preferences.html).
+
+You have the right to opt-out of receiving our email newsletters, bulletins, or other information at any time by following the instructions [here](https://web.archive.org/en-us/privacy-preferences.html) or the relevant unsubscribe process outlined in the applicable email or newsletter. Please be aware that our emails may include important or useful information about your AVG Products, including information about your license number or the status of your orders or accounts.
+
+You have the right to expect us to protect your personal data and keep it safe. We work hard to protect AVG and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of the information we hold. In particular:
+
+  * We abide by this Privacy Policy at all times with respect to all data that we collect from you;
+  * We limit the use and disclosure of your personal data, and work to ensure that anyone with whom we share such information treats that information with the privacy and security it deserves; and
+  * We have put in place industry-accepted physical, technical and administrative practices to safeguard and secure the information we collect.
+
+
+
+## What changes have you recently made?
+
+We reserve the right to change this Privacy Policy at any time, and will indicate the date the Privacy Policy was most recently updated. If there have been significant changes, we will highlight any such changes, and will attempt to directly alert you when possible. We will also keep prior versions of this Privacy Policy in an archive for your review.
+
+Changes to our privacy policy since the latest version include:
+
+  * We’ve changed our privacy policy to reflect that we have been acquired by and are now part of the Avast Group. 
+
+
+
+Follow [this link](https://web.archive.org/en-us/privacy-archive) to access previous versions of the AVG Privacy Policy.
+
+## How can I contact you?
+
+If have any questions about this policy or any of the above, please email us at [privacy@avg.com](mailto:privacy@avg.com) or see instructions in the product or service you are using. You may contact us by mail at:
+
+Avast Software B.V.  
+Gatwickstraat 9-39,   
+1043 GL Amsterdam  
+The Netherlands
+
+## Is there anything else I need to know?
+
+Periodically, our site or products may contain links to and from websites or other external destinations managed by third parties. If you follow a link to any of these destinations (like offers on mobile app stores etc.), please note that those sites have their own privacy policy. When you are on those sites you are subject to those policies, and should therefore read and understand them before you submit any personal data to those sites. 
+
+We may also link to co-branded websites or products that are maintained by Avast Software B.V. and one or more of our business partners. Please note that these co-branded websites and products may have their own privacy policy, which we encourage you to read and understand.  
+
+Skip to content Skip to menu
