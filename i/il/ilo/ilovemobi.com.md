@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ilovemobi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145613id_/http%3A//ilovemobi.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovemobi.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235322id_/http%3A//ilovemobi.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Home | iLovemobi
+# Privacy Policy
 
 ## PRIVACY POLICY
 
