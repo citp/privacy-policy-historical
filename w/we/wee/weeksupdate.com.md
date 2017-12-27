@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeksupdate.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518165905id_/http%3A//www.weeksupdate.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeksupdate.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227023512id_/http%3A//www.weeksupdate.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy « WeeksUpdate
 
