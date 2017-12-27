@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reference.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629235827id_/https%3A//www.reference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reference.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234744id_/https%3A//www.reference.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reference.com
 
