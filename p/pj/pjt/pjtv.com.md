@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the pjtv.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630191033id_/https%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pjtv.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001103id_/https%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PJ Media
+
+12-22-2017 09:40:32 AM -0800
+
+06-07-2017 12:17:49 PM -0700
+
+05-09-2017 03:25:43 PM -0700
+
+04-26-2017 09:52:11 AM -0700
+
+It looks like you've previously blocked notifications. If you'd like to receive them, please update your browser permissions. 
+
+Desktop Notifications are   | 
+
+Get instant alerts on your desktop. 
+
+Turn on desktop notifications? 
 
 [](https://web.archive.org/)
 
