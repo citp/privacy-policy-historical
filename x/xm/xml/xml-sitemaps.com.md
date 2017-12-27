@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the xml-sitemaps.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630011246id_/https%3A//www.xml-sitemaps.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml-sitemaps.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002732id_/https%3A//www.xml-sitemaps.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - XML Sitemaps Generator
-
-## XML Sitemaps Privacy Policy
 
 We at XML Sitemaps guarantee our commitment to respecting and protecting your online privacy. This includes your need and your right to know what we do with the personal information you share with us. It also guides our company's policies regarding the management of this data, including how the information is collected, processed, and for what purposes. 
 
