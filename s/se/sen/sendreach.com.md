@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendreach.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021171011id_/http%3A//www.sendreach.com/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendreach.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000014id_/https%3A//sendreach.com/privacy_policy.pdf) for the most accurate reproduction.*
 
 # LEGAL PRIVACY POLICY
 
