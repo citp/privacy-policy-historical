@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paper.li privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628084415id_/http%3A//paper.li/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paper.li privacy policy that was archived on 2017-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171227235301id_/https%3A//paper.li/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" xmlns:paperli="http://paper.li/ns#"><head>
     
@@ -9,7 +9,7 @@
       <meta content="Paper.li - Collect great content" data-react-helmet="true" property="og:title">
   <meta content="Collect content that's aligned with your customers' interests, and deliver it wherever they are. Automatically share content on social media, publish your own web newspaper and send email newsletters." data-react-helmet="true" property="og:description">
   <meta content="website" property="og:type">
-  <meta content="http://paper.li/privacy.html" property="og:url">
+  <meta content="https://paper.li/privacy.html" property="og:url">
   <meta content="http://d197nsfq0bri0.cloudfront.net/images/fb-post-logo-new.png" property="og:image">
   <meta content="paper.li" property="og:site_name">
   <meta content="362293833600" property="fb:app_id">
@@ -37,20 +37,18 @@
   <link rel="dns-prefetch" href="//img.paper.li">
   <link rel="dns-prefetch" href="//d38hokjm2drjyk.cloudfront.net">
   <link rel="dns-prefetch" href="//d2k854fi3lpqb8.cloudfront.net">
-  <link rel="dns-prefetch" href="//ppr.li">
-  <link rel="dns-prefetch" href="//ads.paper.li">
   <link rel="dns-prefetch" href="//connect.facebook.net">
   <link rel="dns-prefetch" href="//www.googletagmanager.com">
   <link rel="dns-prefetch" href="//fonts.googleapis.com">
   <link rel="dns-prefetch" href="//platform.twitter.com">
 
     
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk/xfbml.ad.js#xfbml=1&amp;version=v2.5&amp;appId=362293833600"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WHR7NJ"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
+    <script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WHR7NJ"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
       paperli = window.paperli || {};
       paperli.locale = 'en';
       paperli.logged_in = false;
       paperli.host = 'paper.li';
-      paperli.imageproxy_token = {"tokenValidity":"1498640655500","token":"c378d2dac88f7054a2447981d0301f473e2d14b6"};
+      paperli.imageproxy_token = {"tokenValidity":"1514419982118","token":"2f15cd69ae3ae9602ba7ea0b1829f3f327c2b21c"};
       paperli.images_host = "d38hokjm2drjyk.cloudfront.net";
     </script>
 
@@ -154,7 +152,7 @@
     <script src="//d2k854fi3lpqb8.cloudfront.net/assets/vendor-5474affe5c6cfbf4cc1872e748e60f66.js" type="text/javascript"></script>
 
     <!-- language -->
-    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/en-102de61815397a3098b26a6942b392e5.js" type="text/javascript"></script>
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/en-c14fb7192cfdde1051f0f2ee0481c02c.js" type="text/javascript"></script>
     <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/left-sidebar/en-a6024d774e6d0492c4890c426ac9249a.js" type="text/javascript"></script>
     <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/i18n-b7fb7788d0db87c7a1285ccc95fce495.js" type="text/javascript"></script>
 
@@ -164,7 +162,7 @@
 
     
     <!-- main inclusion -->
-    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/app-4f3e4a4b05619ef90fca001c68c11fad.js" type="text/javascript"></script>
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/app-fce6e7411a4082b418d0d99594bb88c6.js" type="text/javascript"></script>
 
       <link href="//d2k854fi3lpqb8.cloudfront.net/assets/static-439f498dafc0720383474eae2da1dc77.css" media="all" rel="stylesheet" type="text/css">
 
@@ -182,6 +180,11 @@
     assets_host: 'd2k854fi3lpqb8.cloudfront.net'
   };
 
+
+  if (!paperli.conf) {
+    paperli.conf = {};
+  }
+  paperli.conf.ui_options = null;
 </script>
   </head>
   <body class=" ">
@@ -205,49 +208,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script>
   "seo ignore"; // seo hint;
 
-  var existingFbAsyncInit = window.fbAsyncInit;
   window.fbAsyncInit = function() {
-    existingFbAsyncInit && existingFbAsyncInit();
+    FB.init({
+      appId            : '362293833600',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v2.11'
+    });
 
     // Additional initialization code here
     $(document).trigger('fb.init');
     
     _ga.trackFacebook(); // Google Analytics tracking
-
-    // ad handler
-    FB.Event.subscribe(
-      'ad.loaded',
-      function(placementId) {
-        // ad loaded, nothing to do
-      }
-    );
-    FB.Event.subscribe(
-      'ad.error',
-      function(errorCode, errorMessage, placementId) {
-        loadDFP(placementId); // failover to dfp
-      }
-    );
   };
 
-  function loadDFP(placementId){
-    var $block = $('#dfp_for_placement_' + placementId);
-    var dfp = $block.data('dfp');
-
-    if ($block.length > 0 && dfp){
-      $block.html('<div id="' + dfp + '"><script type="text/javascript">'+
-        'googletag.cmd.push(function() { googletag.display("' + dfp + '"); });</scr'+
-        'ipt></div>');
-    }
-  }
-
-  // Load the SDK Asynchronously
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_GB/sdk/xfbml.ad.js#xfbml=1&version=v2.5&appId=362293833600";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
 </script>
 
     <div class="page-wrapper">
@@ -365,10 +346,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!-- ALERTS AND NOTIFICATIONS AREA -->
         <div id="alerts">
           
-<div id="cookies_banner" class="m-banner m-warning">
-  <div class="message"></div>
-</div>
-          
 <div id="ie_banner" class="m-banner m-warning">
   <a class="close hide-me pull-right" href="#"><i class="fa fa-times"></i></a>
   <div class="message"></div>
@@ -396,8 +373,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li>
                 <a href="/introduction.html">About Paper.li</a>
             </li>
-            <li><a href="http://blog.paper.li">Blog</a></li>
-            <li><a href="http://support.paper.li">Help</a></li>
+            <li><a href="https://blog.paper.li">Blog</a></li>
+            <li><a href="https://support.paper.li">Help</a></li>
             <li><a href="/stop-mentions.html">Stop mentions</a></li>
             <li><a href="/terms.html">Terms</a></li>
             <li><a href="/privacy.html">Privacy</a> </li>
@@ -431,15 +408,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <!-- Specific page javascripts -->
       <script>
-      $(document).ready(function() {
-        if (navigator.cookieEnabled === false) {
-          $('#cookies_banner')
-            .find('.message').html(paperli.util.translate('banner.cookies.disabled')).end()
-            .slideDown();
-        }
-      });
-  </script>
-  <script>
     $(document).ready(function(){
       if ($.browser.msie && parseInt($.browser.version) <= 8){
         $('#ie_banner')
