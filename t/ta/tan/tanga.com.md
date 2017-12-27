@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630190810id_/https%3A//www.tanga.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228005716id_/https%3A//www.tanga.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Daily Deals - Tanga
+# Tanga's Privacy Policy - Tanga
 
 Tanga.com LLC and its affiliates (collectively, the “ **Company** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the personal information we collect from users of our websites and applications that link to this Privacy Policy, including tanga.com, bellechic.com, and lolshirts.com (each, a “ **Site** ” and collectively, the “ **Sites** ”), our mobile applications (each, an “ **Application** ”), and our online services (the “ **Services** ”, which term includes Site and Application).
 
