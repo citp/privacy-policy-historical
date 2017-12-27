@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the unbounce.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200811id_/https%3A//unbounce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unbounce.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000251id_/https%3A//unbounce.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Last Updated: July 31, 2017
 
 Thank you for using the Site and/or Services of Unbounce Marketing Solutions Inc. (“Unbounce”, “we”, “us”, or “our”). We take your privacy very seriously, and this Privacy Policy explains the ways in which we collect, use, disclose, and protect information relating to our Site and Services.
 
@@ -26,6 +28,14 @@ You agree that you are responsible for adhering to all laws, policies, and other
 **User Contributions** : You may also provide information to be published or displayed on public areas of the Site and/or Services, or transmitted to other users of the Site and/or Services (collectively, “User Contributions”). Your User Contributions are posted and transmitted to others at your own risk. We cannot control the actions of other users of the Site with whom you may choose your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
 By maintaining an Account with us, you voluntarily consent to the collection, storage, use, and disclosure of Personal Information as specified in this Privacy Policy. Without limiting the foregoing, we may on occasion ask you to consent when we collect, store, use, or disclose your Personal Information in specific circumstances. These circumstances may include, but are not limited to, Trial Programs, Beta Tests, research and development, and other changes, updates, or additions to the Services. Sometimes your consent will be implied through your conduct with us if the purpose of the collection, storage, use, or disclosure is obvious and you voluntarily provide the information. We do not knowingly or intentionally provide the Services to, and will not knowingly or intentionally collect Personal Information from individuals under the age of consent.
+
+**WordPress Plugin** : You have the option of adding a “Wordpress Domain” to your account. A WordPress Domain is a domain you have purchased from a hosting provider or domain name seller and onto which you have installed wordpress.org software. In order to publish Unbounce webpages to your WordPress Domain, you will need to install Unbounce’s Plugin for WordPress (“the Plugin”) in your WordPress account.
+
+When installing or updating the Plugin, Unbounce will collect and store certain data from your WordPress environment. This data includes, but is not limited to: WordPress version number, PHP version number, cURL version number, the names of other WordPress plugins installed on your domain, the names of other PHP extensions installed on your domain, your operating system, and key PHP configuration settings.
+
+We are collecting this information in order to better support the Plugin and the environments on to which it is installed. Among other things, we will collect and store this data in order to inform our decisions on minimum configuration and testing requirements, and to improve the stability of Plugin updates.
+
+You hereby consent to the collection and storage of this information in your use, installation and updating of the Plugin. If you do not consent to the collection and storage of this information, you may not use the Plugin.
 
 ## How We May Use Information We Collect from You
 
