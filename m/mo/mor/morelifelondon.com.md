@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morelifelondon.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820181045id_/http%3A//www.morelifelondon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morelifelondon.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227155701id_/http%3A//www.morelifelondon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – morelifeLONDON.com
 
