@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isource.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627192927id_/http%3A//isource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isource.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227075948id_/http%3A//isource.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iSource
 
