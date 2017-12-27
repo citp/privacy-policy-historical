@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nanohub.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630185354id_/http%3A//nanohub.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanohub.org privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227174039id_/https%3A//nanohub.org/legal/privacy) for the most accurate reproduction.*
 
 # nanoHUB.org - Privacy Policy
 
 We respect your privacy. We will never sell your e-mail address or other personally identifiable information to third parties, or make that information publicly available without your permission.
 
-We are a scientific project and we provide a free service, so we do track your activities on this site. We combine your usage metrics with others to create an aggregate picture of how the site is being used, and we report [that usage](https://nanohub.org/usage) publicly on our site and send similar quarterly reports to our program sponsors. However, such usage reports never contain detailed information about your activities as an individual without your prior consent.
+We are a scientific project and we provide a free service, so we do track your activities on this site. We combine your usage metrics with others to create an aggregate picture of how the site is being used, and we report [that usage](http://nanohub.org/usage) publicly on our site and send similar quarterly reports to our program sponsors. However, such usage reports never contain detailed information about your activities as an individual without your prior consent.
 
 From time to time, we work with other other projects that seek to study social interactions on the site. We may share your activities with those groups, but they are bound by a Memorandum of Understanding to follow our policies and respect your privacy in the same way that we do. We may contact you on their behalf and ask you to participate in their study, but your participation is voluntary, and your information will not be publicly released without your prior consent.
 
