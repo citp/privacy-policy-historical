@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the ligatus.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421150642id_/http%3A//www.ligatus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ligatus.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227231647id_/https%3A//www.ligatus.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Ligatus
-
-## Privacy Policy
+# Privacy Policy | Ligatus
 
 ### (Information in accordance with Section 13 Para. 1 Telemediengesetz [German Telemedia Act])
 
-This Privacy Policy applies to the web services and websites of Ligatus GmbH, Hohenstaufenring 30-32, D-50674 Cologne, Germany - hereinafter referred to as „Ligatus“ - and also to the microsites operated by Ligatus for its customers and, if applicable, further advertising materials which are maintained by Ligatus for its customers, in particular also advertising materials for the delivery of personalised and behaviour-based advertising for the Internet (see section 4 of this data protection declaration).
+This Privacy Policy applies to the web services and websites of Ligatus GmbH, Hildeboldplatz 20, 50672 Cologne, Germany - hereinafter referred to as „Ligatus“ - and also to the microsites operated by Ligatus for its customers and, if applicable, further advertising materials which are maintained by Ligatus for its customers, in particular also advertising materials for the delivery of personalised and behaviour-based advertising for the Internet (see section 4 of this data protection declaration).
 
- **This Privacy Policy is always to be regarded as part of the respective web presence which directly refers to this site (e.g. under “Privacy” or “Privacy Policy”).**
+**This Privacy Policy is always to be regarded as part of the respective web presence which directly refers to this site (e.g. under “Privacy” or “Privacy Policy”).**
 
-Ligatus takes the protection of your personal data very seriously. We would like to inform you about when we collect what data and how we use it. We have implemented extensive technical and organisational measures to ensure compliance with applicable provisions on data protection and data security by Ligatus and as well contracted third party providers. Please note that amendments to this Privacy Policy may be required due to the ongoing development of our websites and the implementation of new technologies to improve our web services. We therefore recommend frequently referring back to this Privacy Policy and reading through the current up-to-date version, which is always available online under <http://www.ligatus.com/privacy-policy>.
+Ligatus takes the protection of your personal data very seriously. We would like to inform you about when we collect what data and how we use it. We have implemented extensive technical and organisational measures to ensure compliance with applicable provisions on data protection and data security by Ligatus and as well contracted third party providers. Please note that amendments to this Privacy Policy may be required due to the ongoing development of our websites and the implementation of new technologies to improve our web services. We therefore recommend frequently referring back to this Privacy Policy and reading through the current up-to-date version, which is always available online under [http://www.ligatus.com/en/privacy-policy](https://web.archive.org/en/privacy-policy).
 
 ### What is personal information?
 
@@ -18,7 +16,7 @@ Personal information is any information that can be used to obtain personal or f
 
 ### What information do we collect and process?
 
-You can use a portion of our online content without providing personal information. 
+You can use a portion of our online content without providing personal information.
 
 _a) Contact forms_
 
@@ -28,7 +26,7 @@ _b) User account (Direct Ads)_
 
 Certain services on our websites are only available to paying users and can only be used by registered users with a user account. We store your e-mail address during registration. The e-mail address serves as a user name to identify your member account, and to conduct relevant correspondence with you (e.g. setting up and maintaining your user account). As part of the registration process, we also collect your first and last name, your gender, and information about your company affiliation, mailing address, and telephone, as well as information regarding your chosen means of payment, credit card, and bank account information, if applicable, in order to bill you for the services you choose to use and to ensure that you receive personalised, competent service. All mandatory information required in order to register is marked accordingly. All further information is provided voluntarily; this data is used for the purposes stated, or to improve our online services.
 
-By registering with our websites, you declare your agreement with the [General Terms and Conditions](http://www.ligatus.com/terms-and-conditions) of Ligatus and the use by Ligatus of your abovementioned personal information in accordance with this Privacy Policy.
+By registering with our websites, you declare your agreement with the [General Terms and Conditions](http://www.ligatus.com/en/terms-and-conditions) of Ligatus and the use by Ligatus of your abovementioned personal information in accordance with this Privacy Policy.
 
 If you wish to register as a user of our web services and open a user account, please select for your own safety a secret and secure password in order to ensure the confidentiality of your data. Your password is transmitted to and stored on our servers in encrypted form, and we are unable to access and read it; in the event that you forget your password, please use the “Forgot your password?” function provided on the website to create a new, secure password.
 
@@ -38,8 +36,9 @@ _c) Ligatus newsletter_
 
 As part of our web services, we offer a regular subscription to our Ligatus newsletter. When requested, the newsletter provides you with free, up-to-date information on selected top investment opportunities and financial planning and insurance products. To register without Ligatus newsletter service, we need your first and last name, your gender, and the e-mail address at which you wish to receive the newsletter. If you wish to subscribe to the Ligatus newsletter, we ask that you provide us with the following declaration of consent:
 
-> _I would like to regularly receive the Ligatus newsletter, and agree that my e-mail address, my first and last name, and my gender, as well as any data voluntarily provided, be used for this purpose. I can revoke this declaration of consent at any time by an e-mail sent to info@ligatus.com, or by writing to Ligatus GmbH, Hohenstaufenring 30-32, D-50674 Cologne, Germany, such revocation to take effect for the future. No additional fees beyond the normal transmission fees of my e-mail or Internet provider shall apply. In the event that my consent is revoked, I shall not, or shall no longer, be able to receive the Ligatus newsletter. I have read and accept the current privacy policy._
+> _I would like to regularly receive the Ligatus newsletter, and agree that my e-mail address, my first and last name, and my gender, as well as any data voluntarily provided, be used for this purpose. I can revoke this declaration of consent at any time by an e-mail sent to info@ligatus.com, or by writing to Ligatus GmbH, Hildeboldplatz 20, 50672 Cologne, Germany, such revocation to take effect for the future. No additional fees beyond the normal transmission fees of my e-mail or Internet provider shall apply. In the event that my consent is revoked, I shall not, or shall no longer, be able to receive the Ligatus newsletter. I have read and accept the current privacy policy._
 
+  
 _d) “Double opt-in procedure”_
 
 In order to verify your registration when setting up a user account and/or to acquire your consent when ordering the Ligatus newsletter, we use the “double opt-in procedure”. This means that we will only set up your user account or send you the Ligatus newsletter once you have confirmed your registration via a confirmation e-mail sent to you for this purpose, by clicking on the link contained therein. By doing this, we wish to ensure that only you yourself as the owner of the e-mail address given are able to make use of our services.
@@ -48,7 +47,7 @@ In order to verify your registration when setting up a user account and/or to ac
 
 Personal information is also requested by us for billing and promotional purposes and processed by us or by our partners and customers (e.g. when ordering information or premiums). The usage of your personal information varies depending on the relevant campaign and customer. You will be informed thoroughly about any usage of your personal information on the relevant website or within the relevant campaign.
 
-Your personal information is not used for purposes that you did explicitly agree to when requesting our services or within the scope of the relevant campaign. Without your consent, your information will not be used e.g. for marketing purposes. You will only receive advertising if you have given your explicit consent. You can revoke your consent any time by using [our contact form](http://www.ligatus.com/#footer) or sending an email to info@ligatus.com. However, in this case Ligatus may no longer be able to provide the offered services. 
+Your personal information is not used for purposes that you did explicitly agree to when requesting our services or within the scope of the relevant campaign. Without your consent, your information will not be used e.g. for marketing purposes. You will only receive advertising if you have given your explicit consent. You can revoke your consent any time by using [our contact form](http://www.ligatus.com/#footer) or sending an email to info@ligatus.com. However, in this case Ligatus may no longer be able to provide the offered services.
 
 In addition to personal information collected about you via our contact forms or microsites operated on behalf of our customers or business partners, which will strictly be used to provide the relevant services to you, our web servers log general information on the usage of our websites (such as: date and time, visited websites - e.g. when each page was viewed or which page was visited most frequently).
 
@@ -66,31 +65,29 @@ User data is processed exclusively in European computer centres.
 
 Ligatus has voluntarily obliged itself to comply with the [OBA framework of the EDAA / AB Europe](http://www.youronlinechoices.com/uk/wp-content/uploads/2012/08/2012-06-08_iab_europe_oba_framework.pdf) and provides regular proof of this within the framework of its annual certification in accordance with these parameters.
 
-[](http://www.eprivacyconsult.com/oba "EDAA Trust Seal awarded to Ligatus www.ligatus.com ")
-
- _a) How does behavioral targeting work in individual cases?_
+_a) How does behavioral targeting work in individual cases?_
 
 When visiting the website of one of our partners or customers, a cookie file is stored on your computer. Cookies are small text files which are deposited by your web browser in a folder on your computer which is designated for this purposes and which contains a single character string as a means of identification. The cookie does not store your IP address or any data that allows you to be identified. The same character string is also saved on our servers. The next time you visit one of our partners' websites, only the character string is read which identifies the Internet browser you are using. This allows us, for example, to identify which page you have accessed for our partner and which advert you have been shown, without this being linked to your identity. Furthermore, all of the cookies created by us are given an expiry data and automatically expire after no more than 13 months. Without a valid cookie file, the character strong saved on our servers is no longer to be assigned for us.
 
- **Important:** Using cookies we cannot ever collect your personal data. For example, when you enter an email address or delivery address, or any other personal data, we cannot see your input and cannot therefore process or store it. We do not know your name, address or workplace, nor do we know your gender, age, email address or any other personally identifiable information about you. Even the IP address of your computer is not stored! You can view the data stored in the cookie on your computer. Please refer to your web browser’s help directory or your web browser’s FAQ to learn how cookies are stored and how to read their content. The information contained within the cookie is the exact data that we can see Cookie technology does not allow viruses, trojans or other harmful programs to be placed on your computer.
+**Important:** Using cookies we cannot ever collect your personal data. For example, when you enter an email address or delivery address, or any other personal data, we cannot see your input and cannot therefore process or store it. We do not know your name, address or workplace, nor do we know your gender, age, email address or any other personally identifiable information about you. Even the IP address of your computer is not stored! You can view the data stored in the cookie on your computer. Please refer to your web browser’s help directory or your web browser’s FAQ to learn how cookies are stored and how to read their content. The information contained within the cookie is the exact data that we can see Cookie technology does not allow viruses, trojans or other harmful programs to be placed on your computer.
 
 A full list of the cookies used by Ligatus and their individual functions can be downloaded [here](http://i.ligatus.com/privacytext/de/Ligatus_Cookie_Documentation.pdf) at any time. Should you not agree to the saving of cookies on our part, you can retrieve your cookie status here at any time, and also deactivate the saving of behavioral targeting cookies by us. Therefore you can object to the personalised adverts from Ligatus at any time.
 
- _b) How can I check whether personalised advertising from Ligatus is enabled on my computer?_
+_b) How can I check whether personalised advertising from Ligatus is enabled on my computer?_
 
-[Here](http://www.ligatus.com/privacy-policy#cookie_status) you can check whether personalised advertising from Ligatus is enabled (“Opt-In”) or disabled (“Opt-Out”) in your computer.
+[Here](http://www.ligatus.com/en/privacy-policy#cookie_status) you can check whether personalised advertising from Ligatus is enabled (“Opt-In”) or disabled (“Opt-Out”) in your computer.
 
- _c) How can I disable personalised advertising from Ligatus banners?_
+_c) How can I disable personalised advertising from Ligatus banners?_
 
-If you do not agree to the storing of cookies by us, you can check your cookie status at any time [here](http://www.ligatus.com/privacy-policy#cookie_status) and disable the storage of retargeting cookies by us and therefore decline personalised adverts from Ligatus.
+If you do not agree to the storing of cookies by us, you can check your cookie status at any time [here](http://www.ligatus.com/en/privacy-policy#cookie_status) and disable the storage of retargeting cookies by us and therefore decline personalised adverts from Ligatus.
 
 This means that in future you will receive random advertising that is not targeted to your interests. Please note that the "opt-out" and "opt-in" functions offered are also controlled using cookies. This means that deleting all cookies on your computer means that you will have to opt-out again.
 
-It is also the case that the deletion of all cookies on your computer does not lead to no personalised advertising being notified to you on a permanent basis. Therefore, you must use the following link to the "opt out" function which is provided, should you not wish for behaviour-based advertising to be delivered to your computer or your end devices. At the following address http://www.ligatus.com/privacy-policy#cookie_status you can change your current cookie status at any time.
+It is also the case that the deletion of all cookies on your computer does not lead to no personalised advertising being notified to you on a permanent basis. Therefore, you must use the following link to the "opt out" function which is provided, should you not wish for behaviour-based advertising to be delivered to your computer or your end devices. At the following address http://www.ligatus.com/en/privacy-policy#cookie_status you can change your current cookie status at any time.
 
 Finally, please note that we are continuously expanding our range of products. As this will technically involve a new system, the introduction of a new opt-out may be necessary, even if you have already opted prior to its introduction.
 
- _d) Can other forms of personalised advertising be disabled in addition to Ligatus?_
+_d) Can other forms of personalised advertising be disabled in addition to Ligatus?_
 
 The options described in this section refer only to the personalised adverts offered by Ligatus. If you wish to disable personalised advertising from other providers, you can do this via their respective websites.
 
@@ -108,13 +105,13 @@ Further information and a full list of the cookies which are used by Ligatus on 
 
 ### Usage of Google Analytics and Google Remarketing
 
-a) The Ligatus websites use Google Analytics, a web analytics service provided by Google, Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA („Google“). Google Analytics uses cookies, which are text files placed on your computer or your mobile device, to help the website analyse how users use the site. The information generated by the cookie about your use of the website will be transmitted and stored by Google on servers in the United States. 
+a) The Ligatus websites use Google Analytics, a web analytics service provided by Google, Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA („Google“). Google Analytics uses cookies, which are text files placed on your computer or your mobile device, to help the website analyse how users use the site. The information generated by the cookie about your use of the website will be transmitted and stored by Google on servers in the United States.
 
-Please note, that the application of Google Analytics within our web services has been enhanced with the code „gat._anonymizeIp();“ to enable the anonymous logging of IP addresses (so-called “IP-masking”). Prior to the transmission, your IP address will be truncated by Google within the member states of the European Union or other parties to the accord on the European Economic Area. Only in exceptional cases is the full IP address sent to a Google server in the USA and truncated there. Google will not associate your IP address with any other data collected or held by Google. 
+Please note, that the application of Google Analytics within our web services has been enhanced with the code „gat._anonymizeIp();“ to enable the anonymous logging of IP addresses (so-called “IP-masking”). Prior to the transmission, your IP address will be truncated by Google within the member states of the European Union or other parties to the accord on the European Economic Area. Only in exceptional cases is the full IP address sent to a Google server in the USA and truncated there. Google will not associate your IP address with any other data collected or held by Google.
 
 Google uses this information on our behalf to evaluate your use of the website, to compile reports on website activity and to provide the website operator with more services related to the website and internet use. Google may also transmit the information to third parties when required by law or when third parties process the information on behalf of Google.
 
-You can disable the use of cookies by selecting the appropriate settings on your browser, however please note, that if you do so, you may not be able to use the full functionalities of this website. 
+You can disable the use of cookies by selecting the appropriate settings on your browser, however please note, that if you do so, you may not be able to use the full functionalities of this website.
 
 You can also disable the collection of the information generated by the cookie concerning your use of the websites and the processing of these data by Google, by installing the browser plug-in available for download via the following link: <http://tools.google.com/dlpage/gaoptout?hl=en>.
 
@@ -142,9 +139,9 @@ In addition, as a general matter, you can prevent the placing of cookies by adju
 
 A forwarding on of your data to other companies, such as our co-operation or advertising partners, only takes place if your have expressly agreed to a transmission of your data and receipt of adverts from these companies within the framework of the respective campaign.
 
-In certain cases, we are also required by law to disclose your personal information to third parties. This is for example the case when the suspicion of a criminal offence or a misuse of our websites occurs. We are then required to disclose your data to law enforcement authorities. 
+In certain cases, we are also required by law to disclose your personal information to third parties. This is for example the case when the suspicion of a criminal offence or a misuse of our websites occurs. We are then required to disclose your data to law enforcement authorities.
 
-Outside of the cases described in this data protection declaration, your data is not forwarded on to third parties and, your information is solely stored in our databases / on our servers (or on the servers of third party providers). 
+Outside of the cases described in this data protection declaration, your data is not forwarded on to third parties and, your information is solely stored in our databases / on our servers (or on the servers of third party providers).
 
 ### Hyperlinks to other websites
 
@@ -172,8 +169,8 @@ If we are storing erroneous personal information about you despite our attempts 
 In these cases please refer to:
 
 Ligatus GmbH  
-Hohenstaufenring 30-32  
-D-50674 Cologne  
+Hildeboldplatz 20  
+50672 Cologne  
 Germany  
 E-Mail: info@ligatus.com
 
@@ -181,7 +178,7 @@ E-Mail: info@ligatus.com
 
 If you have further comments or questions about our Privacy Policy or general privay issues at our company, please contact our Data Privacy Officer (DPO):
 
-Stephan Krämer, LL.M., Attorney at Law (Germany)  
+Rechtsanwalt Stephan Krämer, LL.M., Attorney at Law (Germany)  
 Kinast & Partner Rechtsanwälte
 
 http://www.kinast-partner.de/
