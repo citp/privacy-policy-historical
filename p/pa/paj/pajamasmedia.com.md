@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the pajamasmedia.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630191033id_/https%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pajamasmedia.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001103id_/https%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PJ Media
+
+12-22-2017 09:40:32 AM -0800
+
+06-07-2017 12:17:49 PM -0700
+
+05-09-2017 03:25:43 PM -0700
+
+04-26-2017 09:52:11 AM -0700
+
+It looks like you've previously blocked notifications. If you'd like to receive them, please update your browser permissions. 
+
+Desktop Notifications are   | 
+
+Get instant alerts on your desktop. 
+
+Turn on desktop notifications? 
 
 [](https://web.archive.org/)
 
@@ -10,7 +26,7 @@ Your friends will think you read the whole newspaper
 
 In addition to the Privacy Policy and Rights applicable to all users of our Websites, California residents have some additional rights.
 
-If you are a California resident and you provided your email address to PJ Media, LLC ("PJM,” “Us” or “We”), then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please send an E-mail to [webmaster@pjmedia.com](mailto:webmaster@pjmedia.com) with "Request for California Privacy" in the subject line.
+If you are a California resident and you provided your email address to PJ Media, LLC ("PJM,” “Us” or “We”), then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please send an E-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#017664636c607275647341716b6c646568602f626e6c) with "Request for California Privacy" in the subject line.
 
 Within 30 days of receiving your request, we will send you a list of the names and addresses of these other companies during the immediately preceding calendar year.
 
@@ -94,7 +110,7 @@ We may disclose and use Personally Identifiable Information and other informatio
 
  **MEMBER MESSAGES**
 
-If you subscribe to any members-only area of the Sites, to special email lists, or to any other voluntary subscription-based program, you may occasionally receive email messages about the Sites that are intended to assist you in making the most out of your subscription. These member messages contain a link that you may use to opt out of receiving further member messages. You may also decline to receive them by contacting [support@pjmedia.com](mailto:support@pjmedia.com).
+If you subscribe to any members-only area of the Sites, to special email lists, or to any other voluntary subscription-based program, you may occasionally receive email messages about the Sites that are intended to assist you in making the most out of your subscription. These member messages contain a link that you may use to opt out of receiving further member messages. You may also decline to receive them by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7e0d0b0e0e110c0a3e0e14131b1a171f501d1113).
 
  **YOUR RIGHTS**
 
@@ -104,7 +120,7 @@ To protect your privacy and security, we take reasonable steps (such as requesti
 
 If you would like more information about opting out or having your information used by some Third Party Service Providers, [please visit here](http://www.networkadvertising.org/optout_nonppii.asp).
 
- **How to Review, Correct or Delete Your Information:** You may review, and update the Personally Identifiable Information/registration information that you have provided to us by contacting Customer Service at [support@pjmedia.com](mailto:support@pjmedia.com). You may also delete your account through Customer Service at the links provided.
+ **How to Review, Correct or Delete Your Information:** You may review, and update the Personally Identifiable Information/registration information that you have provided to us by contacting Customer Service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#41323431312e333501312b2c242528206f222e2c). You may also delete your account through Customer Service at the links provided.
 
  **Email and Newsletter Opt-Out:** We give our users the option to sign up for email lists and newsletters.  However, you may change your mind about a subscription, or we may make a mistake and add you to a mailing list you didn’t request.  In either case, you can always click on the “opt-out” link at the bottom of each email or newsletter we might send.
 
@@ -136,7 +152,7 @@ PJM is hosted in the United States.  If you are a member or user accessing PJM 
 
 In the event that PJM is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our members and users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [support@pjmedia.com](mailto:support@pjmedia.com).
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c2b1b7b2b2adb0b682b2a8afa7a6aba3eca1adaf).
 
  **COOKIE DISCLOSURE STATEMENT**
 
