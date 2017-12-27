@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radaris.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627085252id_/https%3A//radaris.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radaris.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227220317id_/https%3A//radaris.com/page/privacy) for the most accurate reproduction.*
 
 # Radaris Privacy Policy
 
@@ -8,7 +8,7 @@ Public Records Deep SearchBackground check, contact information, mentions monito
 
 Radaris has developed this privacy policy in order to demonstrate our commitment to maintaining the privacy of the information that you provide when using Radaris' application. Our site also uses data from publicly accessible sources like telephone directories and from third party public data suppliers. As a consumer, you have the ability to make certain choices on the Radaris website that will govern how Radaris will handle your personal information and provide you with control over how Radaris shares that information.
 
-This privacy policy explains the source of site information and how specific information is protected, collected and used by Radaris. This policy may be occasionally updated by Radaris. Radaris will, however, provide notice of significant changes to this privacy policy by posting a notice on the Radaris.com web site.
+This privacy policy explains the source of site information and how specific information is protected, collected and used by Radaris. This policy may be occasionally updated by Radaris. Radaris will, however, provide notice of significant changes to this privacy policy by posting a notice on the https://radaris.com/ web site.
 
 In Radaris' account settings, you can remove certain information on Radaris completely from the public eye. However, information is updated daily. Control of information obtained from publicly accessible external sources is beyond our control as billions of records are updated monthly. Please contact these sources directly to remove certain information.Please see our FAQ section for a list of sources of information.
 
@@ -58,10 +58,10 @@ Radaris prohibits using of its web site for people under the age 18. Radaris mak
 
 **DISCLOSURE.**
 
-ALTHOUGH WE MAKE EVERY ATTEMPT POSSIBLE TO KEEP THE INFORMATION AS SECURE AS POSSIBLE, RADARIS IS NOT COMPLETELY IMMUNE TO SECURITY BREACHES AND UNAUTHORIZED ACCESS. WE CANNOT GUARANTEE YOU COMPLETE PROTECTION OF YOUR CONTENT. WE URGE YOU TO BE CONSCIOUS ABOUT THE PERSONAL INFORMATION THAT YOU ARE SHARING.
+ALTHOUGH WE MAKE EVERY ATTEMPT POSSIBLE TO KEEP THE INFORMATION AS SECURE AS POSSIBLE, Radaris IS NOT COMPLETELY IMMUNE TO SECURITY BREACHES AND UNAUTHORIZED ACCESS. WE CANNOT GUARANTEE YOU COMPLETE PROTECTION OF YOUR CONTENT. WE URGE YOU TO BE CONSCIOUS ABOUT THE PERSONAL INFORMATION THAT YOU ARE SHARING.
 
 **CONTACT US:**
 
-Should you have any questions or concerns regarding this Privacy Policy, please contact us using the "contact us" form on the Radaris.com web site.
+Should you have any questions or concerns regarding this Privacy Policy, please contact us using the "contact us" form on the https://radaris.com/ web site.
 
 _This Policy was last updated on November 29, 2012._
