@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapistmagazine.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624044250id_/https%3A//www.escapistmagazine.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapistmagazine.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003248id_/https%3A//www.escapistmagazine.com/content/privacy) for the most accurate reproduction.*
 
 # The Escapist : Privacy Policy
 
