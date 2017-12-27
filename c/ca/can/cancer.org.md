@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancer.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628021917id_/https%3A//www.cancer.org/about-us/policies/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancer.org privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001847id_/http%3A//www.cancer.org/about-us/policies/privacy-statement.html) for the most accurate reproduction.*
 
 # Offline Privacy Policy
 
