@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624070425id_/http%3A//www.moneysavingexpert.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004035id_/http%3A//www.moneysavingexpert.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ For all the latest deals, guides and loopholes - join the 12m who get it. _Don't
 
 ### 1\. About us
 
-Welcome to MoneySavingExpert.com and our related applications (our "Site"). Our Site is owned and operated by MoneySavingExpert.com Limited ('we', 'us' or 'our') and was founded by its Executive Chairman Martin Lewis, the MoneySaving broadcaster and journalist. Our Privacy Policy explains the information we collect about you and the steps we take to ensure your information is kept secure and confidential. It should be read together with our Site [Terms and Conditions of Use](http://www.moneysavingexpert.com/site/terms-conditions).
+Welcome to MoneySavingExpert.com and our related applications (our "Site"). Our Site is owned and operated by MoneySavingExpert.com Limited ('we', 'us' or 'our') and was founded by its Executive Chairman Martin Lewis, the MoneySaving broadcaster and journalist. Our Privacy Policy explains the information we collect about you and the steps we take to ensure your information is kept secure and confidential. It should be read together with our Site [Terms and Conditions of Use](https://www.moneysavingexpert.com/site/terms-conditions).
 
 _Please read this Privacy Policy carefully. If you use our Site, you will be regarded as having read and accepted this Privacy Policy. If you don't wish to be bound by what you read below, you shouldn't use our Site._
 
@@ -22,7 +22,7 @@ If you have any queries relating to our use of your personal information or any 
 
 We collect your email address when you register to receive MSE's Money Tips email. We usually send our email weekly, but on occasion we may send a "special" edition. We only send these special editions when we have something really important to share with you and it doesn't happen very often.
 
-If you wish to stop receiving MSE's Money Tips email, you can do so at any time by entering your email address and clicking the 'Stop it' button [here](http://www.moneysavingexpert.com/site/money-tips-email-faqs) or clicking 'Unsubscribe' [here](http://www.moneysavingexpert.com/latesttip/).
+If you wish to stop receiving MSE's Money Tips email, you can do so at any time by entering your email address and clicking the 'Stop it' button [here](https://www.moneysavingexpert.com/site/money-tips-email-faqs) or clicking 'Unsubscribe' [here](https://www.moneysavingexpert.com/latesttip/).
 
 **2.2 Forum**
 
@@ -137,7 +137,7 @@ The information derived from our use of cookies will be aggregated to provide st
 
 Some third-party technology we use (eg, embedded videos, social sharing) also drop cookies to improve your experience on their sites. 
 
-For details on what cookies we do use, information on how to stop them being stored or how to delete ones already stored, read our [Cookies Policy](http://www.moneysavingexpert.com/site/cookies-qa). 
+For details on what cookies we do use, information on how to stop them being stored or how to delete ones already stored, read our [Cookies Policy](https://www.moneysavingexpert.com/site/cookies-qa). 
 
 ### 6\. Links
 
