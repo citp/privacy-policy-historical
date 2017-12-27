@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resultgovbd.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611194928id_/http%3A//resultgovbd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultgovbd.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227104951id_/http%3A//resultgovbd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Page of resultgovbd.com
 
@@ -120,6 +120,10 @@ Dhaka, Dhaka 1215
 
 Bangladesh
 
-shohan201092@gmail.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 8801675418893
+
+### You have come here for
+
+DU admission test question ka unit com;
