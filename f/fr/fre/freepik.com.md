@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freepik.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624131122id_/http%3A//www.freepik.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepik.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001216id_/http%3A//www.freepik.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 ### May 2017
 
-The website located at the addresses [http://www.FreePik.com](http://www.freepik.com/) and [http://www.FreePik.es](http://www.freepik.es/), including any of their sub-domains or sections (henceforth referred to as 'the Website') is operated by Graphic Resources S.L. (henceforth referred to as 'FreePik'); having its place of business located at Molina Lario 13 street, 5th floor, 29015 Málaga, España.
+The website located at the addresses [https://www.FreePik.com](https://www.freepik.com/) and [https://www.FreePik.es](https://www.freepik.es/), including any of their sub-domains or sections (henceforth referred to as 'the Website') is operated by Graphic Resources S.L. (henceforth referred to as 'FreePik'); having its place of business located at Molina Lario 13 street, 5th floor, 29015 Málaga, España.
 
 This Privacy Policy and Cookies regulates how the personal data of the Website users (henceforth referred to as 'User' or 'Users') will be treated by FreePik in the Website, in the framework of the services provided by the Website (henceforth referred to as 'the Services').
 
@@ -128,4 +128,4 @@ This Website has also access to the IP address from which Users visit it. The Us
 
 Third-parties who advertise in the Website or those to which the User gets connected through plugins might use cookies or 'web beacons' that FreePik doesn't control, so FreePik would not be responsible and they would not be covered by this Privacy and Cookies Policy, thus, it is the responsibility of the Users to configure their browser to make sure that cookies are only used according to their preferences.
 
-**IMPORTANT NOTICE:** THIS AGREEMENT **IS A TRANSLATION OF AN ORIGINAL LEGAL TEXT** WRITTEN IN SPANISH. PLEASE READ THE ORIGINAL DOCUMENT, IN SPANISH, AVAILABLE [HERE](http://www.freepik.es/privacy_policy) **.**
+**IMPORTANT NOTICE:** THIS AGREEMENT **IS A TRANSLATION OF AN ORIGINAL LEGAL TEXT** WRITTEN IN SPANISH. PLEASE READ THE ORIGINAL DOCUMENT, IN SPANISH, AVAILABLE [HERE](https://www.freepik.es/privacy_policy) **.**
