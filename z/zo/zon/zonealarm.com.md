@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zonealarm.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627062904id_/http%3A//www.zonealarm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zonealarm.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227231634id_/http%3A//www.zonealarm.com/privacy) for the most accurate reproduction.*
 
 # ZoneAlarm Privacy Policy - Firewall & Antivirus Software
-
-Coming Soon! ZoneAlarm Anti-Ransomware \- Sign-up to receive news about this exciting launch. [Learn more.](https://web.archive.org/anti-ransomware/)
 
 This document was last updated January 20, 2015.
 
