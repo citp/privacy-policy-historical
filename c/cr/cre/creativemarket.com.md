@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativemarket.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629205247id_/https%3A//creativemarket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativemarket.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003519id_/https%3A//creativemarket.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Creative Market
 
@@ -83,5 +83,5 @@ We may update its Privacy Policy from time to time, and so you should review thi
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [privacy@creativemarket.com](mailto:privacy@creativemarket.com), or send mail to:
 
 Creative Market Labs, Inc.  
-333\. S. State St. Suite V #232  
-Lake Oswego, OR 97034 US
+50 Pacific Ave  
+San Francisco, CA 94111 US
