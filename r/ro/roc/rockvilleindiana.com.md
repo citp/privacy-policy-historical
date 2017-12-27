@@ -1,45 +1,80 @@
-> *The following text is extracted and transformed from the rockvilleindiana.com privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310004027id_/http%3A//www.citiesunlimited.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockvilleindiana.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Cities Unlimited - Your "Home" Page
+# HugeDomains.com - Privacy Policy
 
-CitiesUnlimited, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: CitiesUnlimited.com.
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
+**What information do we collect?**
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis (no individual user information).
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+**What do we use your information for?**
 
-### Public Forums
+Any of the information we collect from you may be used in one of the following ways: 
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-### Security
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-### Choice/Opt-Out
+• To process transactions
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+• To send periodic emails
 
-  1. You can send email to [postoffice@citiesunlimited.com](mailto:postoffice@citiesunlimited.com)
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-### Correct/Update
+**How do we protect your information?**
 
-This site gives users the following options for changing and modifying information previously provided.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-  1. email [update@citiesunlimited.com](mailto:update@citiesunlimited.com)
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
+**Do we use cookies?**
 
-### Contacting the Web Site
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-CitiesUnlimited, Inc.  PO Box 2474  Mission, KS 66201  [info@citiesunlimited.com](mailto:info@citiesunlimited.com)     _Citiesunlimited.com works with a third party that serves ads to this site. To find out more about how DoubleClick manages the privacy of information in conjunction with serving ads on this site, please go to_ _[http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1= &](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&)_
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
