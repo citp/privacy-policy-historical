@@ -1,603 +1,1622 @@
-<!--The following is the downloaded HTML source of the trademonster.com privacy policy that was archived on 2017-02-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170221141913id_/https%3A//www.optionshouse.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trademonster.com privacy policy that was archived on 2017-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171227235536id_/https%3A//us.etrade.com/l/f/privacy-statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
-	<script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-9QWZ"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"af237bcf2c",applicationID:"18470056",sa:1,agent:"js-agent.newrelic.com/nr-918.min.js"}</script><script src="//cdn.optimizely.com/js/992423734.js"></script>
+<!DOCTYPE html><html lang="en" class="gte-ie9 no-js" data-placeholder-focus="false"><!--<![endif]--><!--<![endif]--><head><meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="keywords">
+<meta name="description">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta http-equiv="ImageToolbar" content="No">
+<meta http-equiv="content-language" content="en-US">
+<meta name="title" content="E*TRADE Privacy Statement">
 
-	<meta charset="UTF-8">
-	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="pingback" href="https://www.optionshouse.com/xmlrpc.php">
-	<title>Privacy Statement | OptionsHouse</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="generator" content="Total WordPress Theme 3.3.1">
+<title>E*TRADE Privacy Statement</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v4.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="OptionsHouse shares your concerns about your privacy, and we are committed to protecting your privacy online. This Privacy Statement and Policy describe the type of information that we collect, how we collect that information, and why we collect it. It also details how you can update and correct the information we collect from you, the choices that you have on our collection of your information, cookies, the security measures we take, and how we update our privacy policy.">
-<meta name="robots" content="noodp">
-<link rel="canonical" href="https://www.optionshouse.com/privacy/">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Statement | OptionsHouse">
-<meta property="og:description" content="OptionsHouse shares your concerns about your privacy, and we are committed to protecting your privacy online. This Privacy Statement and Policy describe the type of information that we collect, how we collect that information, and why we collect it. It also details how you can update and correct the information we collect from you, the choices that you have on our collection of your information, cookies, the security measures we take, and how we update our privacy policy.">
-<meta property="og:url" content="https://www.optionshouse.com/privacy/">
-<meta property="og:site_name" content="OptionsHouse">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Include CSS -->
+<!--[if lt IE 10]>
+	<link REL="stylesheet" HREF="https://cdn.etrade.net/1/17112021490.0/aempros/etc/designs/responsive-etrade/styles/styles-ie9.css" TYPE="text/css" >
+<![endif]-->
+<!--[if gt IE 9]>
+	<link REL="stylesheet" HREF="https://cdn.etrade.net/1/17112021490.0/aempros/etc/designs/responsive-etrade/styles/styles.css" TYPE="text/css" >
+<![endif]-->
+<!--[if !IE]><!-->
+	<link rel="stylesheet" href="https://cdn.etrade.net/1/17112021490.0/aempros/etc/designs/responsive-etrade/styles/styles.css" type="text/css">
+<!--<![endif]-->
+
+<script src="https://cdn.etrade.net/1/16072721320.0/aempros/etc/designs/responsive-etrade/clientlibs.libs/js/jquery.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    var tagmanagement = 'true';
+    var sHostName = window.location.hostname;
+    var srcVal="";
+    var isEtradeProElite = (sHostName.indexOf('etradeproelite.com') != -1) ? true : false;
+	if (tagmanagement === 'true') {
+		var script = document.createElement('script');
+		if ( (sHostName.indexOf('lxdm') != -1) || (sHostName.indexOf('sit') != -1) ){
+			if(isEtradeProElite) {
+				script.src = 'https://nexus.ensighten.com/etrade/micpro-sit/Bootstrap.js';
+			} else {
+				script.src = 'https://nexus.ensighten.com/etrade/sit/Bootstrap.js';
+			}
+		} else if ( sHostName.indexOf('uat') != -1 ){
+			if(isEtradeProElite) {
+				script.src = 'https://nexus.ensighten.com/etrade/micpro-uat/Bootstrap.js';
+			} else {
+				script.src = 'https://nexus.ensighten.com/etrade/uat/Bootstrap.js';
+			}
+		} else {
+			if(isEtradeProElite) {
+				script.src = 'https://nexus.ensighten.com/etrade/micpro-prod/Bootstrap.js';
+			} else {
+				script.src = 'https://nexus.ensighten.com/etrade/Bootstrap.js';
+			}
+		}
+		document.write(script.outerHTML);
+	}
+	
+	var ETRADER = ETRADER || {};
+	ETRADER.components = {};
+	ETRADER.components.config = {};
+	ETRADER.components.config.list = [];
+
+	ETRADER.global = ETRADER.global || {};
+	ETRADER.global.config = ETRADER.global.config || {};
+	ETRADER.global.config.inhouse = true;
+	ETRADER.global.config.isCustomerLoggedIn = false;
+	ETRADER.global.config.akamaiCDNUrl = 'https://cdn.etrade.net/1';
+	ETRADER.global.config.consumerKey = '843c7d3799883583225a6a99a05a6bc0';
+	ETRADER.global.config.aggregatorApiUrlPrefix = 'https://us.etrade.com';
+	ETRADER.global.config.accountsComboUrl = 'https://us.etrade.com/e/t/accounts/accountscombo';
+	ETRADER.global.config.ipUtilURL = 'https://us.etrade.com/apiprospect/v1/market/client/remoteaddress.json';
+	ETRADER.global.config.swfFilePath = 'https://us.etrade.com/etc/designs/etrade/clientlibs.global/flash/rsa_fso_neo.swf';
+</script><script src="https://nexus.ensighten.com/etrade/Bootstrap.js"></script>
+
+<script src="https://cdn.etrade.net/1/17051820280.0/aempros/etc/designs/responsive-etrade/scripts/customercheck.js" type="text/javascript"></script>
+
+
+
+<!-- Canonical URL's -->
+
+
+<!-- Twitter Tags -->
 <meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="OptionsHouse shares your concerns about your privacy, and we are committed to protecting your privacy online. This Privacy Statement and Policy describe the type of information that we collect, how we collect that information, and why we collect it. It also details how you can update and correct the information we collect from you, the choices that you have on our collection of your information, cookies, the security measures we take, and how we update our privacy policy.">
-<meta name="twitter:title" content="Privacy Statement | OptionsHouse">
-<!-- / Yoast SEO plugin. -->
+<meta name="twitter:site">
+<meta name="twitter:creator">
 
-<link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="OptionsHouse » Feed" href="https://www.optionshouse.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="OptionsHouse » Comments Feed" href="https://www.optionshouse.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="OptionsHouse » Privacy Statement Comments Feed" href="https://www.optionshouse.com/privacy/feed/">
-<link rel="stylesheet" id="footnotes-style-css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/plugins/OH-footnotes/footnotes.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/css/dashicons.min.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="wp-jquery-ui-dialog-css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/css/jquery-ui-dialog.min.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="js_composer_front-css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.11.2" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="wpProQuiz_front_style-css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css?ver=0.37" type="text/css" media="all">
-<link rel="stylesheet" id="parent-style-css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/Total/style.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="wpex-font-awesome-css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/Total/css/lib/font-awesome.min.css?ver=4.3.0" type="text/css" media="all">
-<link rel="stylesheet" id="wpex-style-css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/total-optionshouse/style.css?ver=3.4" type="text/css" media="all">
-<link rel="stylesheet" id="wpex-visual-composer-css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/Total/css/wpex-visual-composer.css?ver=3.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="wpex-visual-composer-extend-css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/Total/css/wpex-visual-composer-extend.css?ver=3.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="wpex-responsive-css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/Total/css/wpex-responsive.css?ver=3.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="lightboxStyle-css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2" type="text/css" media="screen">
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/total-optionshouse/js/freshair.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/total-optionshouse/js/custom.js?ver=1.0.0"></script>
-<link rel="https://api.w.org/" href="https://www.optionshouse.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.optionshouse.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.optionshouse.com/wp-includes/wlwmanifest.xml"> 
-<link rel="shortlink" href="https://www.optionshouse.com/?p=364">
-<link rel="alternate" type="application/json+oembed" href="https://www.optionshouse.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.optionshouse.com%2Fprivacy%2F">
-<link rel="alternate" type="text/xml+oembed" href="https://www.optionshouse.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.optionshouse.com%2Fprivacy%2F&amp;format=xml">
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/Total/css/ie8.css" media="screen"><![endif]--><!--[if IE 9]><link rel="stylesheet" type="text/css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/Total/css/ie9.css" media="screen"><![endif]--><!--[if lt IE 9]><script src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/Total/js/html5.js"></script><![endif]--><!-- Retina Logo -->
-		<script type="text/javascript">
-			var $wpexRetinaLogo = "https://www.optionshouse.com/wp-content/uploads/OptionsHouse-by-ETRADE_full.svg",
-				$wpexRetinaLogoHeight = "45";
-			jQuery(function($){
-				if ( window.devicePixelRatio >= 2 ) {
-					$("#site-logo img").attr("src", "https://www.optionshouse.com/wp-content/uploads/OptionsHouse-by-ETRADE_full.svg");
-					$("#site-logo img").css("max-height", "45px");
-				}
-			});
-		</script>
-<link rel="shortcut icon" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/uploads/favicon-32x32.png">
-<link rel="apple-touch-icon-precomposed" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/uploads/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/uploads/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/uploads/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/uploads/apple-touch-icon-152x152.png"><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- TOTAL CSS -->
-<style type="text/css">
-/*ACCENT COLOR*/.wpex-carousel-woocommerce .wpex-carousel-entry-details,a,.wpex-accent-color,#site-navigation .dropdown-menu a:hover,#site-navigation .dropdown-menu >.current-menu-item >a,#site-navigation .dropdown-menu >.current-menu-parent >a,h1 a:hover,h2 a:hover,a:hover h2,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.entry-title a:hover,.modern-menu-widget a:hover,.theme-button.outline,.theme-button.clean{color:#36856b}.vcex-skillbar-bar,.vcex-icon-box.style-five.link-wrap:hover,.vcex-icon-box.style-four.link-wrap:hover,.vcex-recent-news-date span.month,.vcex-pricing.featured .vcex-pricing-header,.vcex-testimonials-fullslider .sp-button:hover,.vcex-testimonials-fullslider .sp-selected-button,.vcex-social-links a:hover,.vcex-testimonials-fullslider.light-skin .sp-button:hover,.vcex-testimonials-fullslider.light-skin .sp-selected-button,.wpex-accent-bg,.background-highlight,input[type="submit"],.theme-button,button,.theme-button.outline:hover,.active .theme-button,.theme-button.active,#main .tagcloud a:hover,.post-tags a:hover,.wpex-carousel .owl-dot.active,.navbar-style-one .menu-button >a >span.link-inner,.wpex-carousel .owl-prev,.wpex-carousel .owl-next,body #header-two-search #header-two-search-submit,.theme-button:hover,.modern-menu-widget li.current-menu-item a,#wp-calendar caption,#site-scroll-top:hover,input[type="submit"]:hover,button:hover,.wpex-carousel .owl-prev:hover,.wpex-carousel .owl-next:hover,#site-navigation .menu-button >a >span.link-inner,#site-navigation .menu-button >a >span.link-inner:hover,.navbar-style-six .dropdown-menu >.current-menu-item >a,.navbar-style-six .dropdown-menu >.current-menu-parent >a{background-color:#36856b}.vcex-heading-bottom-border-w-color{border-bottom-color:#36856b}.wpb_tabs.tab-style-alternative-two .wpb_tabs_nav li.ui-tabs-active a{border-bottom-color:#36856b}.theme-button.outline{border-color:#36856b}#searchform-dropdown{border-color:#36856b}.toggle-bar-btn:hover{border-top-color:#36856b;border-right-color:#36856b}body #site-navigation-wrap.nav-dropdown-top-border .dropdown-menu >li >ul{border-top-color:#36856b}/*VC META CSS*/.vc_custom_1456950764988{padding-top:30px !important}/*TYPOGRAPHY*/body{font-family:proxima;font-weight:400;font-size:14px;color:#363636;line-height:1.5}#site-navigation .dropdown-menu a{font-weight:600;font-size:15px;letter-spacing:-0.1px}#site-navigation .dropdown-menu ul a{font-weight:600}.single-post-title{font-size:32px}h1,h2,h3,h4,h5,h6,.theme-heading,.heading-typography,.widget-title,.wpex-widget-recent-posts-title,.comment-reply-title{letter-spacing:-0.1px}.sidebar-box .widget-title{color:#7f7f7f}{font-family:proxima}/*CUSTOMIZER STYLING*/@media only screen and (min-width:960px){#site-logo img{max-width:230}}@media only screen and (min-width:768px) and (max-width:959px){#site-logo img{max-width:230}}@media only screen and (max-width:767px){#site-logo img{max-width:230}}a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.entry-title a:hover{color:#35856b}a:hover{color:#d87544}.theme-button,input[type="submit"],button{border-radius:2px;color:#ffffff;background:#d87544}.navbar-style-one .menu-button >a >span.link-inner:hover{color:#ffffff;background:#d87544;background:#f2b34b}.theme-button:hover,input[type="submit"]:hover,button:hover{background:#f2b34b}.full-width-main-layout .container,.full-width-main-layout .vc_row-fluid.container,.boxed-main-layout #wrap{width:1200px}#site-logo{padding-top:10px;padding-bottom:10px}#site-logo img{}#site-navigation .dropdown-menu >li >a:hover{color:#36856b}#site-navigation .dropdown-menu >.current-menu-item >a,#site-navigation .dropdown-menu >.current-menu-parent >a,#site-navigation .dropdown-menu >.current-menu-item >a:hover,#site-navigation .dropdown-menu >.current-menu-parent >a:hover{color:#40bd58}#wpex-mobile-menu-fixed-top,#wpex-mobile-menu-navbar{background:#25414a}#sidr-main{background-color:#25414a}.sidr a,.sidr-class-dropdown-toggle{color:#ffffff}.sidr-class-mobile-menu-searchform input{color:#0a0a0a;background:#e5e5e5}.sidr-class-mobile-menu-searchform input:focus{color:#0a0a0a}.sidr-class-mobile-menu-searchform button{color:#0a0a0a}.wpex-vc-column-wrapper{margin-bottom:40px}
-</style></head>
-<body class="page-template-default page page-id-364 wp-custom-logo wpex-theme wpex-responsive full-width-main-layout skin-base has-composer wpex-live-site has-sidebar content-right-sidebar has-topbar smooth-fonts wpex-mobile-toggle-menu-icon_buttons has-mobile-menu comment-avatars-disabled wpb-js-composer js-comp-ver-4.11.2 vc_responsive" itemscope="itemscope" itemtype="http://schema.org/WebPage">
-			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-9QWZ"
-		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-9QWZ');</script>
-			<div id="outer-wrap" class="clr">
-				<div id="wrap" class="clr">
-			<div id="oh-mobile-top-menu" class="clr wpex-top-bar-sticky">
-				<div class="menu-mobile-top-site-functions-container"><ul id="menu-mobile-top-site-functions" class="menu"><li id="menu-item-11808" class="login-optionshouse menu-item menu-item-type-custom menu-item-object-custom menu-item-11808"><a href="https://www.trademonster.com/login.jsp">Log in</a></li>
-<li id="menu-item-11809" class="oh-open-account menu-item menu-item-type-custom menu-item-object-custom menu-item-11809"><a href="https://www.trademonster.com/accountapplication/">Open an Account</a></li>
-</ul></div>			</div>
-			
-
-	<div id="top-bar-wrap" class="clr wpex-top-bar-sticky">
-
-		<div id="top-bar" class="clr container">
-
-			
-    <div id="top-bar-content" class="wpex-clr top-bar-right">
-
-        <ul id="menu-top-site-functions" class="top-bar-menu"><li id="menu-item-11807" class="login-optionshouse menu-item menu-item-type-custom menu-item-object-custom menu-item-11807"><a title="Login to manage your account and launch the platform" href="https://www.trademonster.com/login.jsp"><span class="link-inner">Log in</span></a></li>
-</ul>
-        
-    </div><!-- #top-bar-content -->
-
-			
-			
-		</div><!-- #top-bar -->
-
-	</div><!-- #top-bar-wrap -->
+<!-- Twitter Summary Large Image Card -->
 
 
+<!-- Twitter Gallery Card -->
 
-<header id="site-header" class="header-one fixed-scroll clr" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
 
+<!-- Twitter App Card -->
+
+
+<!-- OG Tags -->
+<meta name="og:title">
+<meta name="og:description">
+<meta name="og:image">
+<meta name="og:type">
+<meta name="og:url">
+
+             
+       
+                
+       
+    
+</head>
+    <body class=" et-responsive prospect"><!-- Navigation -->
+
+<header>
 	
-	<div id="site-header-inner" class="container clr">
-
-		
-<div id="site-logo" class="site-branding clr header-one-logo">
-
-	<div id="site-logo-inner" class="clr">
-
-		
-						
-				<a href="https://www.optionshouse.com/" title="OptionsHouse" rel="home" class="main-logo">
-					<img src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/uploads/OptionsHouse-logo-retina.png" alt="OptionsHouse" width="230" height="45" data-no-retina="">
+		<nav class="nav-header whiteNav no-top" data-drawer-display="hide" data-drawer-num="">
+	
+	
+	
+	<div class="primary" role="menubar">
+		<div class="inner">
+			
+			<span class="menu left-rail menu-group">
+				<a href="/home" class="logo-link">					
+					
+						<img src="https://cdn.etrade.net/1/17092613100.0/aempros/content/dam/etrade/retail/en_US/images/global/logos/etrade-logo-rgb-144x22.svg" alt="ETrade logo">
+					
+										
 				</a>
-
-			
-			
-		
-	</div><!-- #site-logo-inner -->
-
-</div><!-- #site-logo -->
-	
-	<div id="site-navigation-wrap" class="navbar-style-one wpex-dropdowns-caret wpex-dropdowns-shadow-four clr">
-
-		<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
-
-			
-				<ul id="menu-primary-cme" class="dropdown-menu sf-menu"><li id="menu-item-15063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-15063"><a href="https://www.optionshouse.com/why-optionshouse/"><span class="link-inner">Why OptionsHouse</span></a>
-<ul class="sub-menu">
-	<li id="menu-item-15065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15065"><a href="https://www.optionshouse.com/trading-products/product-development/"><span class="link-inner">What’s New</span></a></li>
-</ul>
-</li>
-<li id="menu-item-16130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-16130"><a href="https://www.optionshouse.com/trading-products/options/"><span class="link-inner">Investment Products</span></a>
-<ul class="sub-menu">
-	<li id="menu-item-15958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15958"><a href="https://www.optionshouse.com/trading-products/options/"><span class="link-inner">Trading Options</span></a></li>
-	<li id="menu-item-15945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15945"><a href="https://www.optionshouse.com/trading-products/equities/"><span class="link-inner">Trading Equities</span></a></li>
-	<li id="menu-item-15946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15946"><a href="https://www.optionshouse.com/trading-products/futures/"><span class="link-inner">Trading Futures</span></a></li>
-</ul>
-</li>
-<li id="menu-item-15066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-15066"><a href="https://www.optionshouse.com/rates/"><span class="link-inner">Rates</span></a>
-<ul class="sub-menu">
-	<li id="menu-item-15067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15067"><a href="https://www.optionshouse.com/rates/"><span class="link-inner">Our Rates</span></a></li>
-	<li id="menu-item-15068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15068"><a href="https://www.optionshouse.com/rates/compare/"><span class="link-inner">Compare Our Rates</span></a></li>
-	<li id="menu-item-15069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15069"><a href="https://www.optionshouse.com/rates/fees/"><span class="link-inner">Standard Fees</span></a></li>
-	<li id="menu-item-15070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15070"><a href="https://www.optionshouse.com/rates/margin-interest-rates/"><span class="link-inner">Margin &amp; Interest Rates</span></a></li>
-</ul>
-</li>
-<li id="menu-item-15071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-15071"><a href="https://www.optionshouse.com/technology/"><span class="link-inner">Trading Technology</span></a>
-<ul class="sub-menu">
-	<li id="menu-item-15072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15072"><a href="https://www.optionshouse.com/technology/platform/"><span class="link-inner">Trading Platform</span></a></li>
-	<li id="menu-item-16905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16905"><a href="https://www.optionshouse.com/technology/mobile/iphone/"><span class="link-inner">iPhone App</span></a></li>
-	<li id="menu-item-16906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16906"><a href="https://www.optionshouse.com/technology/mobile/android-phone/"><span class="link-inner">Android App</span></a></li>
-</ul>
-</li>
-<li id="menu-item-15074" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-15074"><a href="/new-customers/trading-on-the-optionshouse-platform/"><span class="link-inner">Learning &amp; Resources</span></a>
-<ul class="sub-menu">
-	<li id="menu-item-15898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15898"><a target="_blank" href="https://welcome.optionshouse.com/?utm_source=marketingnav&amp;utm_medium=marketingsite"><span class="link-inner">Welcome Center</span></a></li>
-	<li id="menu-item-15223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15223"><a href="https://www.optionshouse.com/new-customers/trading-on-the-optionshouse-platform/"><span class="link-inner">Platform Education</span></a></li>
-	<li id="menu-item-16071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16071"><a target="_blank" href="https://welcome.optionshouse.com/learning-resources/options-fundamentals/?utm_source=marketingnav&amp;utm_medium=marketingsite"><span class="link-inner">Options Education</span></a></li>
-	<li id="menu-item-16072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16072"><a target="_blank" href="https://welcome.optionshouse.com/start-trading/place-a-stock-trade/?utm_source=marketingnav&amp;utm_medium=marketingsite"><span class="link-inner">Stocks Education</span></a></li>
-	<li id="menu-item-16073" class="nav-child menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-16073"><a href="http://www.optionshouse.com/why-trade-futures/"><span class="link-inner">Futures Education</span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-15081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15081"><a href="https://www.optionshouse.com/why-trade-futures/"><span class="link-inner">Why Trade Futures</span></a></li>
-		<li id="menu-item-15082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15082"><a href="https://www.optionshouse.com/futures-trading-insights/"><span class="link-inner">Trading Insights</span></a></li>
-		<li id="menu-item-15080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15080"><a href="https://www.optionshouse.com/futures-product-indexes/"><span class="link-inner">Product Indexes</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-15083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15083"><a href="https://www.optionshouse.com/webinars/"><span class="link-inner">Webinars</span></a></li>
-	<li id="menu-item-15084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15084"><a href="https://www.optionshouse.com/blog/"><span class="link-inner">Blog</span></a></li>
-	<li id="menu-item-15224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15224"><a href="/faq/general/"><span class="link-inner">FAQs</span></a></li>
-</ul>
-</li>
-<li id="menu-item-15078" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15078"><a href="https://www.trademonster.com/accountapplication/?PC=60free1"><span class="link-inner">Open an Account</span></a></li>
-</ul>
-			
-		</nav><!-- #site-navigation -->
-
-	</div><!-- #site-navigation-wrap -->
-
-	
-
-<div id="mobile-menu" class="clr wpex-hidden">
-			<a href="#" class="mobile-menu-toggle"><span class="fa fa-navicon"></span></a>
-		</div><!-- #mobile-menu -->
-	</div><!-- #site-header-inner -->
-
-	
-</header><!-- #header -->
-
-						<div id="oh-mobile-menu" class="clr">
-				<div class="menu-mobile-primary-container"><ul id="menu-mobile-primary" class="menu"><li id="menu-item-11811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11811"><a href="https://www.optionshouse.com/rates/">Rates</a></li>
-<li id="menu-item-11812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11812"><a href="https://www.optionshouse.com/technology/">Trading Technology</a></li>
-<li id="menu-item-13920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13920"><a href="https://www.optionshouse.com/trading-products/product-development/">What’s New</a></li>
-<li id="menu-item-13922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13922"><a href="https://www.optionshouse.com/trading-products/futures/">Futures</a></li>
-</ul></div>			</div>
-			<main id="main" class="site-main clr" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/WebPageElement">
 				
-
-<header class="page-header wpex-supports-mods">
+				<button class="question js-link" role="link"><a href="/contact-us" aria-label="Customer Support"></a></button>
+			</span>
+			<span class="right-rail menu-group">
+				
+				
+					<a role="button" aria-label="Login" href="https://us.etrade.com/e/t/user/login" class="btn btn-icon">
+						<i class="material-icons person"></i>Log on
+					</a>
+				
+					
+			</span>
+		</div>
+	</div>
 
 	
-	<div class="container clr page-header-inner">
-
-		<span class="page-header-title">Privacy Statement</span>
-	</div><!-- .page-header-inner -->
+	
+</nav>
+<a id="page-content"></a>
 
 	
-</header><!-- .page-header -->
+</header>
 
+<!-- page content -->
+<div class="page-content" role="main">
+	
 
-    <div id="content-wrap" class="container clr">
-
-        
-        <div id="primary" class="content-area clr">
-
-            
-            <div id="content" class="clr site-content">
-
-                
-                
-                    <article class="clr">
-
-                        
-                        <div class="entry-content entry clr">
-
-                            
-<div class="wpex-vc-row-wrap clr">
-
-	<div class="vc_row wpb_row vc_row-fluid">
-
+	<div class="row-fluid detail-page">
+	<div class="span12">
 		
-			<div class="wpex-vc-columns-wrap clr">				<div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr"><div class="vc_wp_custommenu wpb_content_element oh-secondary-navbar"><div class="widget widget_nav_menu"><div class="menu-security-container"><ul id="menu-security" class="menu"><li id="menu-item-403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-403"><a href="https://www.optionshouse.com/security/">Security Practices</a></li>
-<li id="menu-item-11611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11611"><a href="/risk-statements/">Risk Statements &amp; Disclosures</a></li>
-<li id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-364 current_page_item menu-item-393"><a href="https://www.optionshouse.com/privacy/">Privacy Statement</a></li>
-<li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="https://www.optionshouse.com/termsandconditions/">Terms &amp; Conditions</a></li>
-</ul></div></div></div><h1 class="vcex-heading reset-styles vcex-heading-plain wpex-responsive-txt" style="font-size:42px;"><span class="vcex-heading-inner clr">OptionsHouse Privacy Statement</span></h1>
-	<div class="wpb_text_column wpb_content_element">
-		<div class="wpb_wrapper">
-			<p>We want to make sure you are aware of our <a href="/docs/optionshouse-privacy-policy.pdf" target="_blank">Privacy Policy <i class="fa fa-file-pdf-o"></i></a>. This Privacy Statement and our Privacy Policy disclose privacy practices for OptionsHouse on <a href="/" target="_parent">www.optionshouse.com</a>.</p>
-<p><strong>Purpose of this Privacy Statement &amp; Policy</strong><br>
-We share your concerns about your privacy, and we are committed to protecting your privacy online. This Privacy Statement and Policy describe the type of information that we collect, how we collect that information, and why we collect it. It also details how you can update and correct the information we collect from you, the choices that you have on our collection of your information, cookies, the security measures we take, and how we update our privacy policy.</p>
-<p><strong>Types of Information We Collect</strong><br>
-We collect two types of information about our users: personally identifiable information and non-personally identifiable information.</p>
-<p><em>Personally Identifiable Information:</em> The term “personally identifiable information” refers to information that lets us know the specifics of who you are. When you open an account with us, you provide certain information about yourself by filling out and submitting an account application.&nbsp; That application includes personal information, such as your first and last name, mailing address, email address, telephone number, social security number, date of birth, employer, job title, and other personal information.</p>
-<p><em>Non-personally Identifiable Information:</em> The term “non-personally identifiable information” refers to information that does not by itself identify a specific individual. We gather that information based upon where you visit on our site in several ways.&nbsp; We then compile that information and analyze it on a personal and aggregate basis. The information may include whether you used a mobile device to access our site, the type of mobile device, the device’s operating system, usage length, screens visited in the mobile application, touch gestures, and scrolling activity. The information may also include the Uniform Resource Locator (“URL”) that you just came from, which URL you go to next, which browser you may be using, your Internet Protocol (“IP”) address, and your location information.&nbsp; A URL is the global address of documents and other resources on the web.&nbsp; An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (“TCP/IP”) network, such as the web. Networks like the web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet.</p>
-<p><strong>How We Collect Information</strong><br>
-We collect personally identifiable information when you voluntarily provide it to us.&nbsp; You provide personally identifiable information to us when you open an account, send email messages, submit forms or transmit other information by telephone, email, or letter, submit information to deposit or withdraw funds, or place orders to buy or sell securities.&nbsp; We may also collect information from you at other points on our site.</p>
-<p>We use third parties to gather our customers’ data from financial institutions. By using our service, you grant the third-party provider the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution according to terms of the third party’s privacy policy.</p>
-<p>We, or our third party ad server and/or content server, may also collect certain non-personally identifiable information. We automatically collect IP addresses and website usage information from you when you visit our website. This information helps us evaluate how our users navigate and use our website, and we may use it to locate prospects. Our third party ad servers may also provide us with summary, but not individual, reports that tell us how many ads were presented and clicked upon.</p>
-<p><strong>How We Use the Information</strong><br>
-We will primarily use your personally identifiable information to provide our services to you. We also use that information for statistical and research purposes; to enable us to further develop, customize, and improve our website or services based on subscribers’ common preferences, uses, attributes, and analyzed data; to improve our marketing and promotional efforts; to improve our product and service offerings and to customize our site’s content, layout, and services. We may use personally identifiable information to deliver information to you and to contact you, to resolve disputes, troubleshoot problems, and enforce our agreements with you. We may also use information you have provided online with information we have obtained through third party sources to enhance our ability to market products or services that may be of interest to you or others.</p>
-<p><strong>How We Release the Information</strong><br>
-We do not sell your personally identifiable information to others. We do provide some of our services through contracts with affiliates, service providers, partners, and other third parties. We and our service partners use your personally identifiable information to operate our sites, deliver services, and market our services. The use of your personally identifiable information by those service partners is governed by their own privacy policies.&nbsp; Those policies are not subject to our control.</p>
-<p>We may share or disclose personally identifiable information about you to other companies or individuals when:</p>
+<div class="aem-Grid aem-Grid--12">
+    <div class="parbase aem-GridColumn componentContainer">
+
+
+	<section class="light-grey" style="padding-top:50px;padding-bottom:50px;background-color:#light-grey;">
+
+	<div class="container">
+		
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><h1>E*TRADE Privacy Statement</h1>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div style="padding-top: 10px;">
+	<span><span class="subhead text-bold">Last Updated: August 10, 2017</span></span>
+</div>
+</div></div>
+
+
+
+	</div>
+</section>
+</div>
+<div class="parbase aem-GridColumn componentContainer">
+
+
+	<section class="Other" style="padding-top:50px;padding-bottom:50px;">
+
+	<div class="container">
+		
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><h3>Privacy Policy</h3>
+
+<p><span class="span-block vertical-offset-md">This Privacy Policy ("Policy") covers the following affiliated companies in the E*TRADE family of companies: E*TRADE Financial Corporation, E*TRADE Securities LLC, E*TRADE Futures LLC, E*TRADE Capital Management, LLC, E*TRADE Insurance Services, Inc., E*TRADE Financial Corporate Services, Inc., E*TRADE Bank, E*TRADE Savings Bank, and ETRADE Securities (Hong Kong) Limited (including its Singapore branch office). These entities are collectively referred to as "affiliated companies," "we," "us," and "our" throughout this Policy</span></p>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><h3>Privacy is our priority.</h3>
+
+<p>We are committed to maintaining the privacy and confidentiality of our customers' personal information. In the course of offering and providing financial products and services, we collect and maintain certain personal information. This Policy explains what personal information we collect and how we use and share such personal information. It also explains what you can do to limit the use and sharing of your personal information.</p>
+
+<p><span class="span-block vertical-offset-md">We do not disclose personal information about our customers to non-affiliated third parties, except as described below.</span></p>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><h3>What types of information do we collect?</h3>
+
+<p>When you apply for a financial product or service, open or maintain an account with us, or when you agree to allow us to provide personalized advisory services, we may collect the following types of information:</p>
+
 <ul>
-<li>we have your consent to share the information;</li>
-<li>we utilize third party service providers to provide products, services or functions on our behalf and require these service providers to agree to maintain the confidentiality of your personally identifiable information. For example, we provide information to companies that prepare and mail account statements and transaction confirmations.</li>
-<li>we have entered into a business relationship with a third party company or an individual whom we believe will conform with our Privacy Statement and Policy;</li>
-<li>we need to protect our legal rights;</li>
-<li>we comply with applicable laws to cooperate with regulators or law enforcement authorities. These parties include government/regulatory organizations, such as the Internal Revenue Service, the Securities and Exchange Commission, as well as any of the securities exchanges, self-regulatory organizations and states we are registered with, and to parties under court order or subpoena requests; and</li>
-<li>in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of our business.</li>
+<li>Information you provide online and on applications or other forms, or through discussions we have with you or your representatives, such as your name, address, social security number, date of birth, income, employment information, investment experience, risk tolerance, and information about your personal investment goals or objectives;</li>
+<li>Information about your transactions with or through us, such as your account balance, trading activity, loan amount, and account history, if applicable;</li>
+<li>Information about you from consumer reporting agencies and other third parties, such as your credit score;</li>
+<li>Information you provide us about your external financial accounts in order for us to provide you with special product and service features; and</li>
+<li>Technical, navigational and other information transferred when visiting our websites or using our mobile applications, such as IP address, device type, and browser type.</li>
 </ul>
-<p>Aggregate information is information that we (or third party service providers on our behalf) collect about OptionsHouse website users on an anonymous basis. We may share aggregate demographic and usage information with our prospective and actual business partners, advertisers and other third parties.</p>
-<p><strong>How to Update &amp; Correct Your Information</strong><br>
-We believe that you should have the ability to access and edit the personally identifiable information that you provide to us.&nbsp; You may change any of your personally identifiable information in your account online. You may also access and correct your personal information and privacy preferences by contacting us at (877) 598-3190 or <a href="mailto:customerservice@optionshouse.com">customerservice@optionshouse.com</a>. We encourage you to update your personally identifiable information if it changes. You may ask to have the information on your account deleted or removed, but, because we are legally required to keep this information, we cannot delete it.</p>
-<p><strong>Your Choices on Collection &amp; Use of Information</strong><br>
-We may send you emails regarding our products or services. We may also send you information regarding others’ products and services that we feel may be of interest to you. In addition, our affiliates may send you emails regarding their products or services. If you do not want to receive such information, simply let us know by contacting (877) 598-3190 or <a href="mailto:customerservice@optionshouse.com">customerservice@optionshouse.com</a>. We can edit your account information to no longer receive such offers. The marketing emails we send to you or those from our affiliates will also have instructions on how to unsubscribe, which is usually located at the bottom of the email message.</p>
-<p><strong>Cookies</strong><br>
-When you use our site, we will store cookies on your computer to facilitate and customize your use of our site. A cookie is a small data text file, which a website stores on your computer’s hard drive (if your web browser permits) that can later be retrieved to identify you to us. Cookies can note that your browser was used to visit certain sites, pages, or advertisements on a certain date. Our cookies may store randomly assigned user identification numbers and the country where you are located. Cookies do not contain personal information about you (unless you knowingly provide it). You can regularly delete or decline our cookies if your browser permits. That may affect the interaction with the web server.</p>
-<p>We may use an outside ad serving company to display advertisements on our site. As part of their service, they may place a separate cookie on your computer. That third party may collect and use information about you, which may include your IP address, browser type, the server your computer logged into, the area code and zip code associated with your server, and whether you responded to a particular ad. We may allow others to place banner ads on our site in the same manner.</p>
-<p><strong>Online Behavioral Advertising &amp; Tracking</strong><br>
-We use online behavior advertising that is directed to you based, in part, on your browsing behavior on the internet.&nbsp; The information that we collect may include the name of the pages that you have viewed, your IP address, the time of your visit, information about your device, and other identifiers. We do not share this information with third parties, but third parties may also track such information when you visit our website. “Do-Not-Track” signals may allow a user to active browser software to notify websites that they do not wish to be tracked. Given these signals have not yet been standardized, most websites, including our website, does not alter its behavior when such a signal is received.</p>
-<p><strong>Children’s Privacy</strong><br>
-You must be at least 18 years old to have our permission to use our site. Our website is not targeted to those under the age of 13.&nbsp; We do not knowingly collect, use, or disclose personally identifiable information from individuals who are under the age of 13. If you believe we have accidentally received information from a child under age 13, please contact us at (877) 598-3190 or <a href="mailto:customerservice@optionshouse.com">customerservice@optionshouse.com</a>.</p>
-<p><strong>Security</strong><br>
-We maintain physical, electronic, and procedural safeguards that meet or exceed industry standards to guard your personally identifiable information. The importance of security for all personally identifiable information associated with our customers is of utmost concern to us. We protect your personally identifiable information in a number of different ways. Access by you to personally identifiable information is available through a password and unique customer ID selected by you. Your password is encrypted. In addition, your personally identifiable information resides on a secure server to which only selected personnel and contractors have access. And, we encrypt your personally identifiable information to prevent unauthorized parties from viewing that information when it is transmitted from us or to us.</p>
-<p>You can also take steps to maximize your security online and to protect your confidential information. First and foremost, do not choose a trivial password and do not post your password on your computer. Do not use a public computer unless you can verify that it is not capturing key strokes and that you can erase all of your information from it once you have finished. Make sure you are using the latest version of your browser software and have downloaded all browser security patches.</p>
-<p><strong>This Privacy Statement &amp; Policy Applies to OptionsHouse</strong><br>
-This policy applies to <a href="/">www.optionshouse.com</a> and services offered on it. It does not apply to services offered by other companies or individuals or other companies’ websites, even if those products or sites may be displayed on our website and even if our site is displayed on their website.</p>
-<p><strong>Changes to the Privacy Statement &amp; Policy </strong><br>
-We may change this policy at any time. We will post those changes to this website, and they may be effective immediately. We encourage you to refer back to this policy each time that you visit. Your use of OptionsHouse’s website after any changes have been posted will constitute your agreement to the modified Privacy Statement &amp; Policy. We may also send updates to our Privacy Statement &amp; Policy by issuing an email to the email address you have provided us. By using this website, you acknowledge and agree that it is your responsibility to maintain a valid email address with us and to update us if that email address changes.</p>
-<p><strong>Risk &amp; Disclosure Information</strong><br>
-The products and services offered by OptionsHouse inherently have risk and no warranty against loss can be provided. All account holders are responsible for understanding the systems, products and limitations of trading. System response and account access times may vary due to a variety of factors, including trading volumes, market volatility, system performance, and other factors. You should consider all risk factors including your personal financial situation before trading. Options involve risk and may not be suitable for all investors.</p>
 
-		</div>
+<p><span class="span-block vertical-offset-md">In addition, we may compile aggregate, anonymous, or de-identified data from various sources, including but not limited to accounts and transactions. This data, which we may use for our business purposes consistent with applicable law, does not identify individual customers.</span></p>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><h3>When do we disclose personal information and to what types of entities do we disclose personal information?</h3>
+
+<p>We may disclose personal information we collect, such as the categories described above, to make our financial products and services, as well as those offered by our service providers, available to you. We may also use and disclose personal information with your consent. If you decide to withhold certain information, it may limit our ability to provide you with the services or products you requested or that may be of interest to you. We do not disclose personal information about former customers to anyone outside of our affiliated companies except as permitted or required by law; to cooperate with regulators and law enforcement authorities; and to current or former corporate customers of E*TRADE Financial Corporate Services, Inc. to provide reporting and other services consistent with the terms of an employee stock plan.</p>
+
+<p>We may disclose your personal information to the following entities:</p>
+
+<ul>
+<li>our affiliated companies (please see below to learn how you may limit the sharing of some of this information for marketing purposes by our affiliated companies);</li>
+<li>non-affiliated third parties that perform services, such as marketing or market research, on our behalf (for example, we may provide your name, address, phone number, or e-mail address to third parties that send e-mail or regular mail on our behalf);</li>
+<li>non-affiliated third parties that service, maintain, or process your transactions and accounts (for example, companies that provide administrative, telecommunications, computer, trade execution, payment, and securities clearing services, and that prepare and mail account statements and transaction confirmations and other services in connection with the operation of our business);</li>
+<li>non-affiliated third parties as permitted or required by law, or to cooperate with government agencies or regulators, (including for tax purposes), securities exchanges, self-regulatory bodies (such as FINRA and NFA) and law enforcement officials (for example, for reporting suspicious activity or transactions);</li>
+<li>non-affiliated third parties in order to protect against actual or potential fraud or unauthorized transactions, and to protect the security of our records and systems, unless prohibited by law;</li>
+<li>non-affiliated third parties at your direction or for which you have provided your express consent (for example, banking or financial institutions and professional service providers);</li>
+<li>non-affiliated third parties in connection with E*TRADE Financial Corporate Services, Inc.’s provision of services to employee stock plan sponsors, but only in connection with activities associated with your E*TRADE Securities Stock Plan account; and</li>
+<li>non-affiliated third parties in connection with the proposed or actual financing, insuring, sale, securitization,assignment, or other disposal of all or part of our business or assets (including accounts) for the purposes of evaluating and performing the proposed transaction.</li>
+</ul>
+
+<p>We require that commercial entities (as described above) with which we share your personal information agree to keep your information confidential. We also prohibit those entities from using or disclosing your information except for a limited purpose and to the persons for whom disclosure was intended, or as otherwise permitted or required by law. Service providers to whom we disclose personal information must agree to contractual requirements consistent with our privacy and security policies. We prohibit our service providers from using personal information except for the specific purpose for which we provide to them, and we require them to comply with legal obligations applicable to the personal information at issue.</p>
+
+<p>We may disclose information about your external financial accounts to our affiliated companies to provide you with account aggregation services and for marketing purposes unless you opt-out of such sharing.</p>
+
+<p><span class="span-block vertical-offset-md">We will request your consent before we use or disclose your personal information for a materially different purpose than those set forth in this Policy. Consent may be obtained by any legally sufficient method. For example, depending on the circumstances and applicable laws, consent may be obtained by providing you with notice and the opportunity to opt-out.</span></p>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><h3>How may you limit the sharing of your personal information?</h3>
+
+<p>You may limit or "opt-out" of our sharing your personal information with non-affiliated third parties for their marketing purposes. However, because we do not currently share your personal information with any non-affiliated third party in a manner that would trigger this opt-out right, there is no need at this time for you to opt-out or take any other action telling us not to share such information with non-affiliated third parties.</p>
+
+<p>You may also opt-out of our sharing certain personal information (for example, information other than your transactions and experiences with us, such as your credit report) among our affiliated companies. However, because we only share information about your transactions and experiences (for example, account balance, trading activity, loan amount, and account history) with our affiliated companies, there is no need at this time for you to exercise your opt-out right.</p>
+
+<p>Finally, you may also limit certain kinds of marketing from our affiliated companies. You may elect to restrict our affiliated companies from marketing their products or services to you based on information about you that we share with them. Since our affiliated companies engage in such marketing from time to time, we are providing you with the ability to opt-out so that you do not receive these marketing communications in the future. <b>To limit these marketing offers, please contact us by using the mail or telephone contact information provided below.</b></p>
+
+<p><span class="span-block vertical-offset-md">Your choice to limit marketing offers from our affiliated companies will apply until you tell us otherwise. You may change your opt-out status at any time. For consumers with joint accounts, an opt-out direction by one joint account holder will be treated as applying to all of the associated joint account holders.</span></p>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><h3>Where do we store personal information?</h3>
+
+<p>The personal information that we collect from you will be stored in the United States and other countries that may have different privacy laws and standards than those in your country of residence. Your personal information may be transferred to or processed in the United States by us or by a third party service provider working for us. By submitting personal information via our website or other means, you agree to such storage, transfers and processing.</p>
+
+<p><span class="span-block vertical-offset-md">Our third party service providers may hold your personal information in countries other than your own, including the United States. You acknowledge and understand that the protection of your personal information will be subject to the applicable laws of each such jurisdiction, which may not provide for the same protection as your country of residence. For example, government entities in the United States and other countries may have certain rights to access your personal information. If you have questions about our policies and practices with respect to service providers outside your jurisdiction, including the collection, use, disclosure, or storage of personal information by our service providers worldwide, and you are entitled by applicable law to be provided this information, you may contact our Chief Privacy Officer by e-mail at <a href="mailto:CPO@etrade.com" alt="Click to contact our Chief Privacy Officer">CPO@etrade.com</a>. Please provide your first and last name and street address in your request.</span></p>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><h3>How do we protect the confidentiality and security of personal information?</h3>
+
+<p>We maintain reasonable physical, administrative, and technical safeguards to protect your personal information. Our employees and third party service providers have access to your personal information only on a "need to know" basis. We conduct regular internal audits of our business practices and procedures in order to protect your personal information.</p>
+
+<p><span class="span-block vertical-offset-md">In addition to our security measures, you can also take steps to maximize your security online and to protect your confidential information. Additional information on these topics can be found on our website at the <a alt="Click to view the Security Center" href="/security-center">Security Center</a> link.</span></p>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><h3>What should I know about tracking technologies, “interest-based advertising” and “do not track”?</h3>
+
+<h4>Tracking Technologies</h4>
+
+<p>We and our third-party service providers may collect and store certain information when you visit or interact with our website (“Usage Information”). This Usage Information may be stored or accessed using tracking technologies such as “cookies” and “web beacons” that may be downloaded to your personal computer, tablet, mobile phone or other device (“Device”) when you visit or interact with our website. Usage Information may include but is not limited to:</p>
+
+<ul>
+<li>IP address, UDID or other unique device identifier, a number that is automatically assigned to your Device and used by us to identify your Device;</li>
+<li>Device functionality and characteristics (including browser, operating system, hardware, and mobile network information);</li>
+<li>the URL that referred you to our website;</li>
+<li>the areas within our website that you visit and your activities, including remembering your preferences; and</li>
+<li>Device location.</li>
+</ul>
+
+<p>"Cookies" are small amounts of data that a website can send to your web browser and store on your computer. Cookies do not contain personal information (unless you knowingly provide it). We use both HTML cookies and Local Shared Objects (sometimes referred to as Flash cookies) that are built for use with the Adobe® Flash® Player for authentication purposes and to enhance navigation and website functionality. If you access your account online, cookies may be used to verify your identity, to authenticate you as a user on our system and to personalize aspects of your experience on our website. We also use cookies to let us know how our customers and other visitors are using our website so that we can optimize their experience. We permit certain third party advertising providers to set cookies and use related technology such as web beacons or “clear GIFs” through our website and other websites on which we advertise, and via HTML email messages, to track performance of advertisements and to collect aggregate data on web page viewing.</p>
+
+
+<p>Most web browsers can be set to notify you when an HTML cookie is placed on your computer. You can manually delete HTML cookies and set most browsers to refuse to accept HTML cookies, although doing so may affect your website experience. Flash cookies may be removed by managing your Adobe® Flash® Player settings. <a name="aboutads"></a>To delete or prevent placement of Flash cookies, you will need to visit the Adobe® Flash® Player Help site at <a alt="Click to visit http://www.adobe.com/go/settingsmanager" href="http://www.adobe.com/go/settingsmanager" target="_blank">www.adobe.com/go/settingsmanager</a>, click on the hyperlink for "Website Privacy Settings Panel" on the left side of the screen, and follow the instructions for preventing third party Flash content from storing data on your computer.</p>
+
+<p><span class="span-block vertical-offset-sm">Additional information about tracking technologies can be found on our website. Visit the <b><a alt="Click to visit the Security Center" href="/security-center" class="text-bold">Security Center</a></b> link on our website and select <b><a alt="Click to visit Information about Tracking Technologies" href="https://us.etrade.com/e/t/estation/pricing?id=1220300000" class="text-bold">Information about Tracking Technologies</a></b>.</span></p>
+
+<h4>Interest-based advertising</h4>
+
+<p>We use "interest-based" ads, which are also known as "online behavioral advertising." We may partner with ad networks and other advertising providers (“Advertising Providers”) who serve ads on behalf of us and others on non-affiliated sites. Some of these third parties may use cookies and other technologies to collect information about your online activities over time and across third party websites or online services to deliver advertising based on your interests and preferences, as inferred from your browsing history. Some of these ads may be personalized, meaning that they are intended to be relevant to you based on information that E*TRADE and its Advertising Providers collect about your visits to this site and elsewhere over time.</p>
+
+<p><span class="span-block vertical-offset-sm">To learn more about this type of advertising and how to opt-out of this form of advertising, you may either visit <a alt="Click to visit http://www.aboutads.info/" href="http://www.aboutads.info/" target="_blank">www.aboutads.info</a> to opt-out of sites and services participating in the Digital Advertising Alliance (“DAA”) self-regulatory program, or visit <a alt="Click to visit http://www.networkadvertising.org/choices/" href="http://www.networkadvertising.org/choices/" target="_blank">www.networkadvertising.org/choices/</a> to opt-out of this form of advertising by members of the Network Advertising Initiative (“NAI”). Note that electing to opt-out will not stop advertising from appearing in your browser or applications, although it may make the ads you see less relevant to your interests. In addition, if you use a different browser or erase cookies from your browser, you may need to renew your opt-out choice.</span></p>
+
+<h4>Do Not Track</h4>
+
+<p><span class="span-block vertical-offset-md">Various third parties are developing or have developed signals or other mechanisms for the expression of consumer choice regarding the collection of information about an individual consumer’s online activities over time and across third party web sites or online services (for example, browser “do not track” signals). Because a “Do Not Track” protocol has not been finalized, the information collection and disclosure practices of our website, and the choices that our website provides to consumers, will continue to operate as described in this Policy, whether or not a Do Not Track signal is received. Currently, we do not monitor or take any action with respect to these signals or other similar mechanisms.</span></p>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><h3>How can customers access and update or correct their personal information?</h3>
+
+<p>As a customer, you may access and update some of your personal information. You may log on to our website using your user name and password and, from the home page, click on <b>My Profile</b> just under the <b>Accounts</b> tab and select the information you want to change.</p>
+
+
+<p>We make reasonable efforts to maintain your personal information in an accurate, complete and up-to-date form. Please contact us if you believe that your personal information is inaccurate, incomplete, or out-of-date. Or, where entitled by applicable law, you may request access to your personal information by sending an e-mail to <a alt="Click to email CPO@etrade.com" href="mailto:CPO@etrade.com">CPO@etrade.com</a>. Please include your first and last name and street address in your request. You may also update your information by calling or writing us using the contact information provided below. We will process your request in compliance with local laws and our policies and procedures. Please note that before we are able to provide you with any information or correct any inaccuracies, we may ask you for additional information to verify your identity.</p>
+
+<p><span class="span-block vertical-offset-md">Under certain circumstances, we may be unable to provide access to all of your personal information. We may deny or restrict access or deny your request to change your personal information for legally permissible reasons, such as where the information contains references to other individuals and is not reasonably severable; where it cannot be disclosed for legal, security, or commercial proprietary reasons; or where we have your personal information in our capacity as a third party administrative record keeper. We will advise you of any reason for denying or restricting an access request to the extent permitted by law, rule, or regulation.</span></p>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><h3>Updates to this Policy</h3>
+
+<p><span class="span-block vertical-offset-md">We may update this Policy from time to time, and will review it at least annually. We encourage you to periodically check back to this Policy to learn about updates to our privacy practices.</span></p>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><h3>Notice to California residents</h3>
+
+<p><span class="span-block vertical-offset-sm">California law requires that we obtain your affirmative consent before we share your non-public personal information with non-affiliated third parties for their own marketing purposes. However, because we do not currently share personal information about you with any non-affiliated third party in a manner that would trigger this requirement, there is no need at this time for us to seek your consent.</span></p>
+
+<h4>To limit the sharing of your personal information</h4>
+
+<p>If you wish to opt-out of our sharing your personal information with our affiliated companies for marketing purposes, please contact us by telephone or mail:</p>
+
+<p>E*TRADE Financial Corporation<br>
+P.O. Box 484<br>
+Jersey City, NJ 07303-0484</p>
+
+<p>From within the U.S.: 1-800-ETRADE-1 (1-800-387-2331)<br>
+From outside the U.S.: 001-800-387-2331</p>
+
+<p>For questions regarding our Privacy Statement, please visit the <a alt="Click to visit the Contact Us page" href="/contact-us" class="text-bold">Contact Us</a> page on our website or call 1-800-ETRADE-1 (1-800-387-2331).</p>
+
+<p><span class="span-block vertical-offset-md">© 2002-2017 E*TRADE Financial Corporation. All rights reserved.</span></p>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div style="padding-bottom: 20px;">
+	<span><table width="100%">
+<tbody><tr><td style="padding: 20.0px;background-color: rgb(235,235,235);" width="20%"><span class="small-header"><b>FACTS</b></span></td>
+<td style="padding: 20.0px;background-color: rgb(242,242,242);">WHAT DOES E*TRADE DO WITH YOUR PERSONAL INFORMATION?</td>
+</tr></tbody></table>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div style="padding-bottom: 20px;">
+	<span><table width="100%">
+<tbody><tr><td style="padding: 20.0px;background-color: rgb(235,235,235);" width="20%"><span class="small-header"><b>WHY?</b></span></td>
+<td style="padding: 20.0px;background-color: rgb(242,242,242);">Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.</td>
+</tr></tbody></table>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div style="padding-bottom: 20px;">
+	<span><table width="100%">
+<tbody><tr><td style="padding: 20.0px;background-color: rgb(235,235,235);" width="20%"><span class="small-header"><b>WHAT?</b></span></td>
+<td style="padding: 20.0px;background-color: rgb(242,242,242);"><p>The types of personal information we collect and share depend on the product or service you have with us. This information can include:</p>
+<ul>
+<li>Social Security number and income</li>
+<li>account balances and transaction history</li>
+<li>assets and credit history</li>
+</ul>
+<p>When you are no longer our customer, we may continue to share your information as described in this notice.</p>
+</td>
+</tr></tbody></table>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div style="padding-bottom: 40px;">
+	<span><table width="100%">
+<tbody><tr><td style="padding: 20.0px;background-color: rgb(235,235,235);" width="20%"><span class="small-header"><b>HOW?</b></span></td>
+<td style="padding: 20.0px;background-color: rgb(242,242,242);">All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons E*TRADE chooses to share; and whether you can limit this sharing.</td>
+</tr></tbody></table>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div style="padding-bottom: 20px;">
+	<span><table class="table table-striped-alt" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><th scope="col" width="50%">Reasons we can share your personal information</th>
+<th scope="col" width="25%">Does E*TRADE share?</th>
+<th scope="col" width="25%">Can you limit this sharing?</th>
+</tr><tr><td><b>For our everyday business purposes –</b><br>
+such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus</td>
+<td>Yes</td>
+<td>No</td>
+</tr><tr><td><b>For our marketing purposes –</b><br>
+to offer our products and services to you</td>
+<td>Yes</td>
+<td>No</td>
+</tr><tr><td><b>For joint marketing with other financial companies</b></td>
+<td>No</td>
+<td>We do not share</td>
+</tr><tr><td><b>For our affiliates' everyday business purposes –</b><br>
+information about your transactions and experiences</td>
+<td>Yes</td>
+<td>No</td>
+</tr><tr><td><b>For our affiliates' everyday business purposes –</b><br>
+information about your creditworthiness</td>
+<td>No</td>
+<td>We do not share</td>
+</tr><tr><td><b>For our affiliates to market to you</b></td>
+<td>Yes</td>
+<td>Yes</td>
+</tr><tr><td><b>For non-affiliates to market to you</b></td>
+<td>No</td>
+<td>We do not share</td>
+</tr></tbody></table>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div style="padding-bottom: 20px;">
+	<span><table width="100%">
+<tbody><tr><td style="padding: 20.0px;background-color: rgb(235,235,235);" width="20%"><span class="small-header"><b>To limit our sharing</b></span></td>
+<td style="padding: 20.0px;background-color: rgb(242,242,242);"><p>Call 1-800-ETRADE-1 (1-800-387-2331) - one of our representatives will assist you.</p>
+<p><b>Please note:</b> If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we may continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.</p>
+</td>
+</tr></tbody></table>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div style="padding-bottom: 40px;">
+	<span><table width="100%">
+<tbody><tr><td style="padding: 20.0px;background-color: rgb(235,235,235);" width="20%"><span class="small-header"><b>Questions?</b></span></td>
+<td style="padding: 20.0px;background-color: rgb(242,242,242);"><p><b>Call 1-800-ETRADE-1</b> (1-800-387-2331)</p>
+</td>
+</tr></tbody></table>
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="parbase componentContainer">
+
+
+	<section class="dark-grey" style="padding-top:10px;padding-bottom:10px;background-color:#dark-grey;">
+
+	<div class="container">
+		
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><b>Who we are</b></span>
+</div>
+</div></div>
+
+
+
 	</div>
-</div></div></div>			</div><!-- .wpex-vc-columns-wrap -->
+</section>
+</div>
 
+
+    
+    
+    
+    <div class="parbase componentContainer">
+
+
+	<section class="Other" style="padding-top:10px;padding-bottom:20px;">
+
+	<div class="container">
 		
+
+    
+    
+    
+    <div class="columncontrol">
+<div class="row">
 		
-		
-	</div>
-
-	
-</div><!-- .wpex-vc-row-wrap -->
-
-                            
-                        </div><!-- .entry-content -->
-
-                        
-                    </article><!-- #post -->
-
-                    
-                
-                
-            </div><!-- #content -->
-
-            
-        </div><!-- #primary -->
-
-        
-
-<aside id="sidebar" class="sidebar-container sidebar-primary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
-
-	
-	<div id="sidebar-inner" class="clr">
-
-		
-	</div><!-- #sidebar-inner -->
-
-	
-</aside><!-- #sidebar -->
-
-
-    </div><!-- #content-wrap -->
-
-
-                    </main>                
-
-	
-		<div id="footer-builder" class="footer-builder clr">
-			<div class="footer-builder-content clr container">
-				
-<div class="wpex-vc-row-wrap clr">
-
-	<div class="vc_row wpb_row vc_row-fluid">
-
-		
-			<div class="wpex-vc-columns-wrap clr">				<div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr ">
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
+		<div class="col-xs-12 col-sm-5 vertical-offset-0 ">
 			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
 
+
+<div>
+	<span><b>Who is providing this notice?</b></span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
 		</div>
-	</div>
-<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey"><span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
-</div></div></div></div>			</div><!-- .wpex-vc-columns-wrap -->
-
 		
-		
-		
-	</div>
+		<div class="col-xs-12 col-sm-7 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
 
-	
-</div><!-- .wpex-vc-row-wrap -->
-<div class="wpex-vc-row-wrap clr">
 
-	<div class="vc_row wpb_row vc_row-fluid">
+<div>
+	<span>E*TRADE Financial Corporation and its affiliates listed below.</span>
+</div>
+</div></div>
 
-		
-			<div class="wpex-vc-columns-wrap clr">				<div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr "><div class="vc_wp_custommenu wpb_content_element"><div class="widget widget_nav_menu"><h2 class="widgettitle">About OptionsHouse</h2><div class="menu-about-optionshouse-container"><ul id="menu-about-optionshouse" class="menu"><li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="https://www.optionshouse.com/company-info/about-us/">About Us</a></li>
-<li id="menu-item-12167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12167"><a href="https://www.optionshouse.com/company-info/press-releases/">Press Releases</a></li>
-<li id="menu-item-7318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7318"><a href="https://www.optionshouse.com/awards/">Awards</a></li>
-<li id="menu-item-10758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10758"><a target="_blank" href="http://careers.optionshouse.com/">Careers</a></li>
-<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://www.optionshouse.com/company-info/affiliate-program/">Affiliate Program</a></li>
-</ul></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr "><div class="vc_wp_custommenu wpb_content_element"><div class="widget widget_nav_menu"><h2 class="widgettitle">Customer Service</h2><div class="menu-sub-customer-service-container"><ul id="menu-sub-customer-service" class="menu"><li id="menu-item-8320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8320"><a href="https://www.optionshouse.com/faq/">Frequently Asked Questions – FAQs</a></li>
-<li id="menu-item-8321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8321"><a></a><a id="liveagent_button_online_5731a000000CgPr" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('5731a000000CgPr')">Live Chat</a><a id="liveagent_button_offline_5731a000000CgPr" class="liveagent-tooltip" style="display: none;">Live Chat Offline<span>Customer service is available Monday – Friday, 8 a.m – 8 p.m ET (except exchange holidays)</span></a><script type="text/javascript"> if (!window._laq) { window._laq = []; } window._laq.push(function(){liveagent.showWhenOnline('5731a000000CgPr', document.getElementById('liveagent_button_online_5731a000000CgPr')); liveagent.showWhenOffline('5731a000000CgPr', document.getElementById('liveagent_button_offline_5731a000000CgPr')); });</script></li>
-<li id="menu-item-557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="https://www.optionshouse.com/forms/">Customer Forms</a></li>
-<li id="menu-item-7239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7239"><a href="/application-help">Application Help</a></li>
-<li id="menu-item-438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-438"><a href="https://www.optionshouse.com/contact/">Contact Us</a></li>
-</ul></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr "><div class="vc_wp_custommenu wpb_content_element"><div class="widget widget_nav_menu"><h2 class="widgettitle">Resources</h2><div class="menu-sub-resources-container"><ul id="menu-sub-resources" class="menu"><li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="https://www.optionshouse.com/blog/">Blog</a></li>
-<li id="menu-item-504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://www.optionshouse.com/webinars/">Webinars</a></li>
-<li id="menu-item-753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-753"><a href="https://www.optionshouse.com/margins-buying-power/">Margins &amp; Buying Power</a></li>
-<li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="https://www.optionshouse.com/taxcenter/">Tax Center</a></li>
-<li id="menu-item-12498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12498"><a href="https://www.optionshouse.com/special-offer/">Special Offers</a></li>
-</ul></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr "><div class="vc_wp_custommenu wpb_content_element"><div class="widget widget_nav_menu"><h2 class="widgettitle">Security</h2><div class="menu-security-container"><ul id="menu-security-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-403"><a href="https://www.optionshouse.com/security/">Security Practices</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11611"><a href="/risk-statements/">Risk Statements &amp; Disclosures</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-364 current_page_item menu-item-393"><a href="https://www.optionshouse.com/privacy/">Privacy Statement</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="https://www.optionshouse.com/termsandconditions/">Terms &amp; Conditions</a></li>
-</ul></div></div></div></div></div></div>			</div><!-- .wpex-vc-columns-wrap -->
-
-		
-		
-		
-	</div>
-
-	
-</div><!-- .wpex-vc-row-wrap -->
-<div class="wpex-vc-row-wrap clr">
-
-	<div class="vc_row wpb_row vc_row-fluid">
-
-		
-			<div class="wpex-vc-columns-wrap clr">				<div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr ">
-	<div class="wpb_text_column wpb_content_element  broker-check">
-		<div class="wpb_wrapper">
-			<p>FINRA BrokerCheck reports for OptionsHouse and its investment professionals are available at <a href="http://www.finra.org/brokercheck" target="_blank">www.finra.org/brokercheck</a></p>
-
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
 		</div>
+		
+</div>
+
+</div>
+
+
+
 	</div>
-</div></div></div>			</div><!-- .wpex-vc-columns-wrap -->
+</section>
+</div>
 
+
+    
+    
+    
+    <div class="parbase componentContainer">
+
+
+	<section class="dark-grey" style="padding-top:10px;padding-bottom:10px;background-color:#dark-grey;">
+
+	<div class="container">
 		
-		
-		
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><b>What we do</b></span>
+</div>
+</div></div>
+
+
+
 	</div>
+</section>
+</div>
 
-	
-</div><!-- .wpex-vc-row-wrap -->
-<div class="wpex-vc-row-wrap clr wpex-vc-row-stretch_row">
 
-	<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid optionshouse-footer-disclaimer vc_custom_1456950764988">
+    
+    
+    
+    <div class="parbase componentContainer">
 
+
+	<section class="Other" style="padding-top:10px;padding-bottom:20px;">
+
+	<div class="container">
 		
-			<div class="wpex-vc-columns-wrap clr">				<div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr ">
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<p>OptionsHouse does not provide investment, tax or legal advice. Options and futures transactions involve risk and are not suitable for all investors. Electronic trading poses unique risk to investors. System response and access times may vary due to market conditions, system performance and other factors. Refer to&nbsp;<a href="http://www.optionsclearing.com/components/docs/riskstoc.pdf" target="_blank">Characteristics and Risks of Standardized Options</a>&nbsp;| <a href="/risk-statements/" target="_blank">Futures Agreement and Risk Disclosure Statements</a> |&nbsp;<a href="/risk-statements/">Risk Statements and Disclosures</a>&nbsp;|&nbsp;<a href="/privacy/">Privacy Statement</a>&nbsp;|&nbsp;<a href="/termsandconditions/">Terms &amp; Conditions</a>, copies of which can also be obtained by contacting our Customer Service Department at 1-877-598-3190 or&nbsp;<a href="mailto:customerservice@optionshouse.com">customerservice@optionshouse.com</a>. An investor should understand these and additional risks before trading.</p>
-<p>© 2017 E*TRADE Financial Corporation. All rights reserved. Securities and futures products and services offered by OptionsHouse. Member <a href="http://www.finra.org" target="_blank">FINRA</a> | <a href="http://www.sipc.org" target="_blank">SIPC</a> | <a href="http://www.nfa.org" target="_blank">NFA</a>. OptionsHouse is a subsidiary of E*TRADE Financial Corporation. <a href="/contact/">Contact us</a> </p>
 
+    
+    
+    
+    <div class="columncontrol">
+<div class="row">
+		
+		<div class="col-xs-12 col-sm-5 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
+
+
+<div>
+	<span><b>How does E*TRADE protect my personal information?</b></span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
 		</div>
-	</div>
-</div></div></div>			</div><!-- .wpex-vc-columns-wrap -->
-
 		
-		
-		
-	</div>
+		<div class="col-xs-12 col-sm-7 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
 
-	<div class="vc_row-full-width"></div>
-</div><!-- .wpex-vc-row-wrap -->
-<div class="wpex-vc-row-wrap clr">
 
-	<div class="vc_row wpb_row vc_row-fluid">
+<div>
+	<span>We use reasonable safeguards to protect your personal information, including placing account information on a secure part of our site and using firewalls and other technologies to protect our network.</span>
+</div>
+</div></div>
 
-		
-			<div class="wpex-vc-columns-wrap clr">				<div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr ">
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
-		<div class="wpb_wrapper">
-			<a href="https://twitter.com/optionshouse" target="_blank"><img src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/total-optionshouse/images/twitter.png" alt="Follow OptionsHouse on Twitter" align="left" style="padding-right: 15px;"></a>
-
-<a href="https://www.facebook.com/OptionsHouse-322924327829908/" target="_blank"><img src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/total-optionshouse/images/facebook.png" alt="Follow OptionsHouse on Facebook" align="left" style="padding-right: 15px;"></a>
-
-<a href="https://plus.google.com/+OptionshouseOfficial" target="_blank"><img src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/uploads/google-plus-icon.png" alt="Follow OptionsHouse on Google Plus" align="left"></a>
-
-<style>
-    #broker-check { display: inline; }
-</style>
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
 		</div>
+		
+</div>
+
+</div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><hr>
+
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="columncontrol">
+<div class="row">
+		
+		<div class="col-xs-12 col-sm-5 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
+
+
+<div>
+	<span><b>How does E*TRADE collect my personal information?</b></span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
+		</div>
+		
+		<div class="col-xs-12 col-sm-7 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
+
+
+<div>
+	<span><p>We collect your personal information, for example, when you</p>
+
+<ul>
+<li>open an account</li>
+<li>tell us about your investment or retirement portfolio</li>
+<li>direct us to buy or sell securities in your account</li>
+<li>make deposits or withdrawals from your account</li>
+</ul>
+
+<p>We also collect your personal information from other companies such as credit bureaus and affiliates.</p>
+
+
+</span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
+		</div>
+		
+</div>
+
+</div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><hr>
+
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="columncontrol">
+<div class="row">
+		
+		<div class="col-xs-12 col-sm-5 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
+
+
+<div>
+	<span><b>Why can't I limit all sharing?</b></span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
+		</div>
+		
+		<div class="col-xs-12 col-sm-7 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
+
+
+<div>
+	<span><p>Federal law gives you the right to limit only</p>
+
+<ul>
+<li>sharing for affiliates' everyday business purposes–information about your creditworthiness</li>
+<li>affiliates from using your information to market to you</li>
+<li>sharing for non-affiliates to market to you</li>
+</ul>
+
+<p>State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.</p>
+
+
+</span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
+		</div>
+		
+</div>
+
+</div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><hr>
+
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="columncontrol">
+<div class="row">
+		
+		<div class="col-xs-12 col-sm-5 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
+
+
+<div>
+	<span><b>What happens when I limit sharing for an account I hold jointly with someone else?</b></span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
+		</div>
+		
+		<div class="col-xs-12 col-sm-7 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
+
+
+<div>
+	<span>Your choices will apply to everyone on your account – unless you tell us otherwise.</span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
+		</div>
+		
+</div>
+
+</div>
+
+
+
 	</div>
-</div></div></div>			</div><!-- .wpex-vc-columns-wrap -->
+</section>
+</div>
 
+
+    
+    
+    
+    <div class="parbase componentContainer">
+
+
+	<section class="dark-grey" style="padding-top:10px;padding-bottom:10px;background-color:#dark-grey;">
+
+	<div class="container">
 		
-		
-		
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><b>Definintions</b></span>
+</div>
+</div></div>
+
+
+
 	</div>
+</section>
+</div>
 
-	
-</div><!-- .wpex-vc-row-wrap -->			</div><!-- .footer-builder-content -->
-		</div><!-- .footer-builder -->
 
+    
+    
+    
+    <div class="parbase componentContainer">
+
+
+	<section class="Other" style="padding-top:10px;padding-bottom:20px;">
+
+	<div class="container">
+		
+
+    
+    
+    
+    <div class="columncontrol">
+<div class="row">
+		
+		<div class="col-xs-12 col-sm-5 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
+
+
+<div>
+	<span><b>Affiliates</b></span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
+		</div>
+		
+		<div class="col-xs-12 col-sm-7 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
+
+
+<div>
+	<span><p>Companies related by common ownership or control. They can be financial and nonfinancial companies.</p>
+
+<ul>
+<li>For purposes of this notice our affiliates include companies with the E*TRADE name including E*TRADE Securities LLC, E*TRADE Capital Management, LLC, E*TRADE Futures LLC, E*TRADE Insurance Services, Inc., E*TRADE Financial Corporate Services, Inc., E*TRADE Bank, and E*TRADE Savings Bank.</li>
+</ul>
+
+
+</span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
+		</div>
+		
+</div>
+
+</div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><hr>
+
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="columncontrol">
+<div class="row">
+		
+		<div class="col-xs-12 col-sm-5 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
+
+
+<div>
+	<span><b>Non-Affiliates</b></span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
+		</div>
+		
+		<div class="col-xs-12 col-sm-7 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
+
+
+<div>
+	<span><p>Companies not related by common ownership or control. They can be financial and nonfinancial companies.</p>
+
+<ul>
+<li>E*TRADE does not share your personal information with nonaffiliates for their marketing purposes.</li>
+</ul>
+
+
+</span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
+		</div>
+		
+</div>
+
+</div>
+
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><hr>
+
+
+
+</span>
+</div>
+</div></div>
+
+
+    
+    
+    
+    <div class="columncontrol">
+<div class="row">
+		
+		<div class="col-xs-12 col-sm-5 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
+
+
+<div>
+	<span><b>Joint Marketing</b></span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
+		</div>
+		
+		<div class="col-xs-12 col-sm-7 vertical-offset-0 ">
+			
+<div class="aem-Grid aem-Grid--12">
+    <div class="richTextEditor aem-GridColumn"><div>
+
+
+<div>
+	<span><p>A formal agreement between non-affiliated financial companies that together market financial products or services to you.</p>
+
+<ul>
+<li>E*TRADE does not jointly market.</li>
+</ul>
+
+
+</span>
+</div>
+</div></div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
+		</div>
+		
+</div>
+
+</div>
+
+
+
+	</div>
+</section>
+</div>
+
+
+    
+    
+    
+    <div class="parbase componentContainer">
+
+
+	<section class="dark-grey" style="padding-top:10px;padding-bottom:10px;background-color:#dark-grey;">
+
+	<div class="container">
+		
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><b>Other important information</b></span>
+</div>
+</div></div>
+
+
+
+	</div>
+</section>
+</div>
+
+
+    
+    
+    
+    <div class="parbase componentContainer">
+
+
+	<section class="Other" style="padding-top:10px;padding-bottom:20px;">
+
+	<div class="container">
+		
+
+    
+    
+    
+    <div class="richTextEditor"><div>
+
+
+<div>
+	<span><p><b>CALIFORNIA RESIDENTS: </b>We do not share your personal information unless applicable law (1) permits us to do so without first obtaining your prior consent, or (2) we first provide you an opportunity to limit this sharing.</p>
+
+
+<p><b>NEVADA RESIDENTS: </b>Nevada law requires us to disclose that you may elect to be placed on our internal do-not-call list by calling us at 1-800-ETRADE-1 (1-800-387-2331). For further information, contact the Nevada Attorney General’s office at 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101; by phone at 702-486-3132; or by email at <a alt="Click to email BCPINFO@ag.state.nv.us" href="mailto:BCPINFO@ag.state.nv.us">BCPINFO@ag.state.nv.us</a>.</p>
+
+
+</span>
+</div>
+</div></div>
+
+
+
+	</div>
+</section>
+</div>
+
+
+
+	</div>
+</section>
+</div>
+
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>   
+	</div>
+</div>
+</div>
+
+<footer class="page-footer">
 	
-    </div>    </div>
-<div id="mobile-menu-alternative" class="wpex-hidden">
-    <div class="menu-mobile-sidebar-container"><ul id="menu-mobile-sidebar" class="dropdown-menu"><li id="menu-item-16131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-16131"><a href="https://www.optionshouse.com/why-optionshouse/">Why OptionsHouse</a>
-<ul class="sub-menu">
-	<li id="menu-item-16132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16132"><a href="https://www.optionshouse.com/trading-products/product-development/">What’s New</a></li>
+		
+<div class="aem-Grid aem-Grid--12">
+    
+    <div class="new section aem-Grid-newComponent">
+</div>
+</div>
+<footer class="footer">
+	<div>
+		<div class="container">
+			<div class="row">
+				<div class="col-centered-10">
+					
+					<div>
+						<div class="row">
+							<div class="footer-container">
+	<div class="footer-customized">
+		<div class="footer-group">
+			<div class="panel-defaults col-sm-3 col-xs-12 vertical-offset-md">
+				<div class="panel-columns">
+					<h4 class="panel-title">
+						<a class="accordion-toggle" data-target="#about"><strong>About Us</strong></a>
+						<i class="material-icons add-icon"></i>
+					</h4>
+				</div>					
+				<div class="panel-content" id="about">
+					<div><div>
+
+
+<div>
+	<span><ul>
+<li><a href="https://about.etrade.com/index.cfm" target="_blank">Company Overview</a></li>
+<li><a href="https://about.etrade.com/results.cfm" target="_blank">Investor Relations</a></li>
+<li><a href="https://about.etrade.com/newsroom-overview.cfm" target="_blank">Newsroom</a></li>
+<li><a href="https://www.etradecareers.com" target="_blank">Careers</a></li>
+<li><a alt="Click here to read our privacy statement" href="/l/f/privacy-statement" target="_blank">Privacy Statement</a></li>
+<li><a alt="Click here to learn about our ads" href="/l/f/privacy-statement#aboutads" target="_blank">About Our Ads</a></li>
+<li><a alt="Click here to learn about E*TRADE accessibility" href="/accessibility" attr_class="openpopup" attr_height="1200" attr_width="800">Accessibility at E*TRADE</a></li>
 </ul>
-</li>
-<li id="menu-item-16134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-16134"><a href="https://www.optionshouse.com/trading-products/options/">Investment Products</a>
-<ul class="sub-menu">
-	<li id="menu-item-16133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16133"><a href="https://www.optionshouse.com/trading-products/options/">Trading Options</a></li>
-	<li id="menu-item-16140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16140"><a href="https://www.optionshouse.com/trading-products/equities/">Trading Equities</a></li>
-	<li id="menu-item-16139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16139"><a href="https://www.optionshouse.com/trading-products/trading-futures/">Trading Futures</a></li>
+
+
+</span>
+</div>
+</div></div>
+				</div>
+			</div>
+			<div class="panel-defaults col-sm-3 col-xs-12 vertical-offset-md">
+				<div class="panel-columns">
+					<h4 class="panel-title">
+						<a class="accordion-toggle" data-target="#why"><strong>Service</strong></a>
+						<i class="material-icons add-icon"></i>
+					</h4>
+				</div>					
+				<div class="panel-content" id="why">
+					<div><div>
+
+
+<div>
+	<span><ul>
+<li><a alt="Click here to contact us" href="/contact-us">Contact Us</a></li>
+<li><a alt="Click here to Find a Branch" href="/contact-us">Find a Branch</a></li>
+<li><a alt="Click here for Frequently Asked Questions" href="/frequently-asked-questions">FAQs</a></li>
+<li><a href="/forms-applications" alt="Click to view all forms and applications">Forms and Applications</a></li>
+<li><a alt="Click here to speak with a financial consultant " href="/what-we-offer/financial-consultants">Financial Consultants</a></li>
 </ul>
-</li>
-<li id="menu-item-11814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11814"><a href="https://www.optionshouse.com/rates/">Rates</a>
-<ul class="sub-menu">
-	<li id="menu-item-16135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16135"><a href="https://www.optionshouse.com/rates/">Our Rates</a></li>
-	<li id="menu-item-16136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16136"><a href="https://www.optionshouse.com/rates/compare/">Compare Our Rates</a></li>
-	<li id="menu-item-16137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16137"><a href="https://www.optionshouse.com/rates/fees/">Standard Fees</a></li>
-	<li id="menu-item-16138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16138"><a href="https://www.optionshouse.com/rates/margin-interest-rates/">Margin &amp; Interest Rates</a></li>
+
+
+</span>
+</div>
+</div></div>
+				</div>
+			</div>
+			<div class="panel-defaults col-sm-3 col-xs-12 vertical-offset-md">
+				<div class="panel-columns">
+					<h4 class="panel-title">
+						<a class="accordion-toggle" data-target="#quicklinks"><strong>Quick Links</strong></a>
+						<i class="material-icons add-icon"></i>
+					</h4>
+				</div>					
+				<div class="panel-content" id="quicklinks">
+					<div><div>
+
+
+<div>
+	<span><ul>
+<li><a alt="Click to view open an account" href="/what-we-offer/our-accounts">Open An Account</a></li>
+<li><a alt="Click to view Fund my account" href="/what-we-offer/our-accounts/fund-my-account">Fund My Account</a></li>
+<li><a alt="Click to view Employee Stock Plans" href="/stock-plans">Stock Plans</a></li>
+<li><a alt="Click here for the Security Center" href="/security-center">Security Center</a></li>
+<li><a alt="Click here to view our RIA Services" href="/l/independent-advisors">RIA Services</a></li>
+<li><a alt="Click to view our Site Map" href="/sitemap">Site Map</a></li>
 </ul>
-</li>
-<li id="menu-item-11815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11815"><a href="https://www.optionshouse.com/technology/">Trading Technology</a>
-<ul class="sub-menu">
-	<li id="menu-item-16141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16141"><a href="https://www.optionshouse.com/technology/platform/">Trading Platform</a></li>
-	<li id="menu-item-16911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16911"><a href="https://www.optionshouse.com/technology/mobile/iphone/">iPhone App</a></li>
-	<li id="menu-item-16912" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16912"><a href="https://www.optionshouse.com/technology/mobile/android-phone/">Android App</a></li>
-</ul>
-</li>
-<li id="menu-item-16143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16143"><a href="/new-customers/trading-on-the-optionshouse-platform/">Learning &amp; Resources</a>
-<ul class="sub-menu">
-	<li id="menu-item-16144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16144"><a target="_blank" href="https://welcome.optionshouse.com/?utm_source=marketingnav&amp;utm_medium=marketingsite">Welcome Center</a></li>
-	<li id="menu-item-16145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16145"><a href="https://www.optionshouse.com/new-customers/trading-on-the-optionshouse-platform/options-walkthrough/">Platform Education</a></li>
-	<li id="menu-item-16146" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16146"><a target="_blank" href="https://welcome.optionshouse.com/learning-resources/options-fundamentals/?utm_source=marketingnav&amp;utm_medium=marketingsite">Options Education</a></li>
-	<li id="menu-item-16147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16147"><a target="_blank" href="https://welcome.optionshouse.com/start-trading/place-a-stock-trade/?utm_source=marketingnav&amp;utm_medium=marketingsite">Stock Education</a></li>
-	<li id="menu-item-16148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-16148"><a href="https://www.optionshouse.com/why-trade-futures/">Futures Education</a>
-	<ul class="sub-menu">
-		<li id="menu-item-16149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16149"><a href="https://www.optionshouse.com/why-trade-futures/">Why Trade Futures</a></li>
-		<li id="menu-item-16150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16150"><a href="https://www.optionshouse.com/futures-product-indexes/">Product Indexes</a></li>
-		<li id="menu-item-16151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16151"><a href="https://www.optionshouse.com/futures-trading-insights/">Trading Insights</a></li>
+
+
+</span>
+</div>
+</div></div>
+				</div>
+			</div>
+			<div class="footer-offers col-sm-3 col-xs-12 vertical-offset-md">
+				<div class="footer-offer-columns">
+					<div><div>
+
+
+<div>
+	<span><h4>Connect with us</h4>
+
+<p><a attr_class="openpopup" attr_height="545" attr_width="465" alt="Click to chat" href="https://us.etrade.com/e/t/webchat/WebChatRequest?workgroup=prospect_customerservice_visitor&amp;referrer=/footerPan"><i class="material-icons" style="color: inherit;">chat_bubble</i> Chat</a></p>
+
+<p><a alt="Click to call" href="Tel:1-800-387-2331"><i class="material-icons" style="color: inherit;">phone</i> 1-800-387-2331</a></p>
+
+<p><a alt="Click to find a branch" href="/contact-us#branch"><i class="material-icons" style="color: inherit;">location_on</i> Find a Branch</a></p>
+
+
+</span>
+</div>
+</div></div>
+				</div>
+				<div class="footer-share-columns">
+					<div><div class="footer-share">
+	<ul class="list-unstyled list-inline">
+	
+		<li><a href="https://www.facebook.com/ETRADE" target="New Window"><span class="social-icon facebook"></span></a></li>
+			
+	
+		<li><a href="https://twitter.com/etrade" target="New Window"><span class="social-icon twitter"></span></a></li>
+			
+	
+		<li><a href="https://www.linkedin.com/company/etrade" target="New Window"><span class="social-icon linkedin"></span></a></li>
+			
+	
+		<li><a href="https://www.youtube.com/user/etrade" target="New Window"><span class="social-icon youtube"></span></a></li>
+			
+	
+		<li><a href="https://plus.google.com/+etrade" target="New Window"><span class="social-icon googleplus"></span></a></li>
+	
 	</ul>
-</li>
-	<li id="menu-item-16657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16657"><a href="https://www.optionshouse.com/webinars/">Webinars</a></li>
-	<li id="menu-item-16152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16152"><a href="https://www.optionshouse.com/blog/">Blog</a></li>
-	<li id="menu-item-16153" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16153"><a href="/faq/general/">FAQs</a></li>
-</ul>
-</li>
-<li id="menu-item-16154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16154"><a href="https://www.trademonster.com/accountapplication/?PC=60free1">Open an Account</a></li>
-</ul></div></div><!-- #mobile-menu-alternative -->
-<div id="mobile-menu-search" class="clr wpex-hidden">
-	<form method="get" action="https://www.optionshouse.com/" class="mobile-menu-searchform">
-		<input type="search" name="s" autocomplete="off" placeholder="Search">
-				<button type="submit" class="searchform-submit">
-			<span class="fa fa-search"></span>
-		</button>
-	</form>
-</div><!-- .mobile-menu-search -->			<div id="sidr-close"><a href="#sidr-close" class="toggle-sidr-close"></a></div>
-	<!-- Lightbox Plus Colorbox v2.7.2/1.5.9 - 2013.01.24 - Message: 1-->
-<script type="text/javascript">
-jQuery(document).ready(function($){
-  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8});
-  $(".lbp_secondary").colorbox({speed:300,width:"60%",innerWidth:"50%",innerHeight:"50%",initialWidth:"60%",initialHeight:"40%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,iframe:true});
-});
-</script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/js/wpdialog.min.js?ver=4.7.2"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var wpexLocalize = {"isRTL":"","mainLayout":"full-width","menuSearchStyle":"disabled","hasStickyHeader":"1","siteHeaderStyle":"one","superfishDelay":"600","superfishSpeed":"fast","superfishSpeedOut":"fast","mobileMenuStyle":"sidr","localScrollUpdateHash":"1","localScrollSpeed":"800","windowScrollTopSpeed":"800","carouselSpeed":"150","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, #bbp_stick_topic_select, #bbp_topic_status_select, #bbp_destination_topic, .single-product .variations_form .variations select","milestoneDecimalFormat":",","sidrSource":"#sidr-close, #mobile-menu-alternative, #mobile-menu-search","sidrDisplace":"","sidrSide":"right","sidrSpeed":"300","sidrDropdownTarget":"arrow","stickyShrinkOffset":"0","hasStickyMobileHeader":"1","overlayHeaderStickyTop":"0","stickyHeaderBreakPoint":"960","stickyTopBarBreakPoint":"960","hasStickyTopBarMobile":"1","iLightbox":{"auto":false,"skin":"minimal","path":"horizontal","controls":{"arrows":true,"thumbnail":true,"fullscreen":true,"mousewheel":false},"effects":{"loadedFadeSpeed":50,"fadeSpeed":500},"show":{"title":true,"speed":200},"hide":{"speed":200},"overlay":{"blur":true,"opacity":0.9},"social":{"start":true,"show":"mouseenter","hide":"mouseleave","buttons":false}}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/themes/Total/js/total-min.js?ver=3.3.1"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=4.7.2"></script>
-<script type="text/javascript" src="https://21cmsx1r3ihdnahht14c8lcu-wpengine.netdna-ssl.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.11.2"></script>
-    <script>
-        (function($) {
-        'use strict';
-            // Auto add lightbox to entry images
-            $( '.single-blog-article .entry a:has(img)' ).each( function() {
-                var $this   = $(this),
-                    $img    = $this.find( 'img' ),
-                    $src    = $img.attr( 'src' ),
-                    $ref    = $this.attr( 'href' );
-                if ( $src == $ref ) {
-                    $this.iLightBox( {
-                        skin        : wpexLocalize.lightboxSkin,
-                    } );
-                }
-            } );
-        } ) ( jQuery );
-    </script>
-
-<script type="text/javascript" src="https://tags.crwdcntrl.net/c/6655/cc.js?ns=_cc6655" id="LOTCC_6655"></script>
-<script type="text/javascript">_cc6655.bcp();</script>
-
-<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4017781"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=4017781&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" alt="" /></noscript>
-
-<script type="text/javascript" src="https://c.la4-c2-was.salesforceliveagent.com/content/g/js/35.0/deployment.js"></script> <script type="text/javascript"> liveagent.init('https://d.la4-c2-was.salesforceliveagent.com/chat', '5721a000000Cff8', '00D1a000000ZDYn'); </script>
-
-<script type="text/javascript"> 
-
-	etradeDisclaimer = function(){
-
-			jQuery('<p style="display: inline">Aperture Group, LLC and OptionsHouse are separate but affiliated companies and subsidiaries of E*TRADE Financial Corporation.</p>').appendTo('#broker-check');
-
-	};
-
-	etradeDisclaimer();
+</div></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+						</div>
+					</div>
+					<hr class="vertical-offset-md">
+					<div class="row">
+						<div><div>
 
 
- </script>
+<div>
+	<span></span>
+</div>
+</div></div>
+					</div>
+					<div><section id="prospect-disclosures">
+		
+			<div class="legal-disclosures-footer">
+				<div class="row">
+					<div class="col-xs-12">
+					
+						<p></p><div>
 
 
+<div>
+	<span><h4 style="text-align: center;" class="vertical-offset-md">Check the background of E*TRADE Securities LLC on&nbsp;<a alt="Click to check out the background of E*TRADE Securities LLC on FINRA's BrokerCheck site" href="http://brokercheck.finra.org/Firm/29106" target="_blank">FINRA's BrokerCheck</a>.</h4>
+
+<table class="vertical-offset-md" cellspacing="0" border="1" align="center">
+<tbody><tr><td style="text-align: center;padding: 10.0px 20.0px;border: 1.0px solid rgb(219,219,219);"><b>Investment Products • Not FDIC Insured • No Bank Guarantee • May Lose Value</b></td>
+</tr></tbody></table>
+
+<h4 class="vertical-offset-lg"><b>PLEASE READ THE IMPORTANT DISCLOSURES BELOW.</b></h4>
+
+
+</span>
+</div>
+</div><p></p>
+					
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-12">
+					<ol>
+						
+					</ol>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-12">
+					
+						<p></p><div>
+
+
+<div>
+	<span>
+<p><br>
+Securities products and services offered by E*TRADE Securities LLC, Member&nbsp;<a href="http://www.finra.org/"><b>FINRA</b></a>/<a href="http://www.sipc.org/"><b>SIPC</b></a>. Investment advisory services are offered through E*TRADE Capital Management, LLC, a Registered Investment Advisor.&nbsp;Commodity futures and options on futures products and services offered by E*TRADE Futures LLC, Member <a attr_class="openpopup" attr_height="800" attr_width="1000" alt="Click to go to www.nfa.futures.org" href="http://www.nfa.futures.org/"><b>NFA</b></a>. Banking products and services are offered by E*TRADE Bank, a federal savings bank,&nbsp;<a href="https://us.etrade.com/e/t/estation/help?id=1600000001"><b>Member FDIC</b></a>, or its subsidiaries. E*TRADE Securities LLC, E*TRADE Capital Management LLC, E*TRADE Futures LLC, and E*TRADE Bank are separate but affiliated companies.</p>
+
+<p><b>System response and account access times may vary due to a variety of factors, including trading volumes, market conditions, system performance, and other factors.</b></p>
+
+<p><a href="https://us.etrade.com/e/t/welcome/welstatic?gxml=financialcondition.html" target="_blank"><b>Statement of Financial Condition</b></a>&nbsp;|<a href="https://us.etrade.com/e/t/welcome/welstatic?gxml=brk_insurance.html" target="_blank"><b>&nbsp;About Asset Protection</b></a>&nbsp;|&nbsp;<a href="https://us.etrade.com/e/t/prospectestation/pricing?id=1201070000" target="_blank" alt="Click here to read the Customer Account Agreements"><b>Customer Account Agreements</b></a>&nbsp;|&nbsp;<a href="/l/quarterly-order-routing-report" target="_blank" alt="Click to view the Quarterly 606 Report"><b>Quarterly 606 Report</b></a>&nbsp;|&nbsp;<a></a><a attr_class="openpopup" attr_height="1000" attr_width="1000" href="https://us.etrade.com/e/t/prospectestation/pricing?id=1209028000"><b>Business Continuity Plan</b></a></p>
+
+<p>©2017 E*TRADE Financial Corporation. All rights reserved.&nbsp;<a href="https://us.etrade.com/landing/copyright-policy"><b>E*TRADE Copyright Policy</b></a></p>
+
+
+</span>
+</div>
+</div><p></p>
+					
+					</div>
+				</div>
+			</div>
+		
+</section></div>
+					<hr class="vertical-offset-md">
+					<div><section class="legal">
+		<div class="row">
+			<div class="legal-icons-footer">
+				<ul>
+					
+						
+							
+							<li>
+								
+
+
+
+
+	<a href="/e/t/home/securityguarantee" target="_blank"><img class="responsive-imageET" src="https://cdn.etrade.net/1/16080510380.0/aempros/content/dam/etrade/retail/en_US/images/global/protection.png" data-desktop="https://cdn.etrade.net/1/16080510380.0/aempros/content/dam/etrade/retail/en_US/images/global/protection.png" alt="Click to see E*TRADE Complete Protection Gaurantee" aria-label="Click to see E*TRADE Complete Protection Gaurantee"></a>
+		
+
+							</li>
+						
+							
+							<li>
+								
+
+
+
+
+	<a href="/e/t/estation/pricing?id=1600000003" target="New Window"><img class="responsive-imageET" src="https://cdn.etrade.net/1/16081009300.0/aempros/content/dam/etrade/retail/en_US/images/global/footer/icon-sipc-content-new.png" data-desktop="https://cdn.etrade.net/1/16081009300.0/aempros/content/dam/etrade/retail/en_US/images/global/footer/icon-sipc-content-new.png" alt="Click to see SiPC Protection" aria-label="Click to see SiPC Protection"></a>
+		
+
+							</li>
+						
+					
+				</ul>
+			</div>
+		</div>
+</section></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+	
+
+	
+		<div style="text-align:center;color:#CCC;font-size:12px;">62w22m3-121w22m3</div>
+	
+</footer>
+
+<input id="DeviceTokenFSO" value="" type="hidden" name="DeviceTokenFSO">
+<input id="RSADevicePrint" value="" type="hidden" name="RSADevicePrint">
+<div id="flash-object-div" name="flash-object-div" style="height: 1px; width: 1px"></div>
+
+<!-- Include JS -->
+<script src="https://cdn.etrade.net/1/17120821570.0/aempros/etc/designs/responsive-etrade/scripts/scripts.js" type="text/javascript"></script>
 </body></html>
