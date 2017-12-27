@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsbullet.in privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624065832id_/http%3A//www.abplive.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbullet.in privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227231701id_/http%3A//www.abplive.in/privacy-policy) for the most accurate reproduction.*
 
 # Latest News, News Today, Breaking News, Live News Updates
 
@@ -40,4 +40,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us at: **Kishan Singh Rawat** Head- Admin & Regulatory Off address: A-37, Sector 60, Noida, U.P. 201307 E-mail :[ kishanr@abpnews.in](mailto:kishanr@abpnews.in) This e-mail address is being protected from spambots. You need JavaScript enabled to view it However, before making a complaint viewers are encouraged to go through the Code of Ethics & Broadcasting Standards, News Broadcasting Standards (Disputes Redressal) Regulations and Guide to the Complaints Process. These details are available on the website of NBA [www.nbanewdelhi.com*](https://web.archive.org/web/20170624065832id_/http%3A//www.abplive.in/www.nbanewdelhi.com)
+If there are any questions regarding this privacy policy you may contact us at: **Kishan Singh Rawat** Head- Admin & Regulatory Off address: A-37, Sector 60, Noida, U.P. 201307 E-mail :[ kishanr@abpnews.in](mailto:kishanr@abpnews.in) This e-mail address is being protected from spambots. You need JavaScript enabled to view it However, before making a complaint viewers are encouraged to go through the Code of Ethics & Broadcasting Standards, News Broadcasting Standards (Disputes Redressal) Regulations and Guide to the Complaints Process. These details are available on the website of NBA [www.nbanewdelhi.com*](https://web.archive.org/web/20171227231701id_/http%3A//www.abplive.in/www.nbanewdelhi.com)
