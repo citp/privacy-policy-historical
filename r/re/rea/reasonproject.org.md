@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reasonproject.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134103id_/http%3A//reason.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reasonproject.org privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000634id_/http%3A//reason.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Reason.com
 
