@@ -1,265 +1,206 @@
-> *The following text is extracted and transformed from the starwoodcareers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606194146id_/http%3A//www.starwoodhotels.com/corporate/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwoodcareers.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235827id_/http%3A//www.marriott.com/about/privacy.mi) for the most accurate reproduction.*
 
-# Starwood Hotels & Resorts
+# Marriott Online Privacy Policy | Hotel Privacy Policy Information
 
-**Updated May 31, 2017**
+Last Updated: July 1, 2016
 
-**Our Mission**
+The [Marriott Group](https://web.archive.org/Media/PDF/Foreign%20Subsidiaries%20-%20Country%20of%20Incorporation/2015%2010K_Entity%20Only.pdf) , which includes Marriott International, Inc. and its affiliates, including The Ritz-Carlton Hotel Company, L.L.C., values you as our guest and recognizes that privacy is important to you. We want you to be familiar with how we collect, use and disclose information. This Privacy Statement describes the privacy practices of the Marriott Group in connection with information that we collect through websites operated by us from which you are accessing this Privacy Statement, including Marriott.com, Ritz-Carlton.com and other websites owned or controlled by the Marriott Group (collectively, the **“Websites”** ), through the software applications made available by us for use on or through computers and mobile devices (the **“Apps”** ), through our social media pages that we control from which you are accessing this Privacy Statement (collectively, our **“Social Media Pages”** ), through HTML-formatted email messages that we send to you that link to this Privacy Statement, and through your communications with us and when you stay as a guest at one of our hotels or other properties (collectively, including the Websites, the Apps and our Social Media Pages, the **“Online Services,”** and together with offline channels, the **“Services”** ). By providing Personal and Other Information to us, you agree to the terms and conditions of this Privacy Statement.
 
-We at Starwood Hotels & Resorts Worldwide, LLC (a subsidiary of Marriott International, Inc.) (“Starwood”) are dedicated to protecting your privacy and safeguarding your personal data. Our mission is to consistently exceed our guests' expectations in terms of the products and services we provide to our business and leisure travelers. We strive to create an experience that is responsive to our guests' needs by using the information you entrust us with responsibly. We are committed to respecting your privacy and adhering to the principles of applicable data protection and privacy laws throughout the world.
+Drawers
 
-We have provided this Privacy Statement as an explanation of how we collect, how the use of this information can benefit your experience on our web sites and during your relationship with us, with whom and for what purposes we may share the information, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
+Collection of Personal Information
+    
 
-  * THE WORLD OF STARWOOD
-  * PURPOSE FOR COLLECTION
-  * TYPES OF INFORMATION WE COLLECT
-  * CONSENT
-  * TRANSFERRING
-  * MOVING DATA ACROSS INTERNATIONAL BORDERS
-  * SAFE HARBOR
-  * DELETION AND RETENTION OF YOUR PERSONAL DATA
-  * ACCESSING, UPDATING AND REMOVING YOUR PERSONAL DATA
-  * SECURITY SAFEGUARDS
-  * ON-LINE TECHNOLOGIES
-  * LINKS TO OTHER WEB SITES
-  * MINORS
-  * CONTACT US
-  * UPDATES TO THE PRIVACY STATEMENT
+**“Personal Information”** is information that identifies you as an individual or relates to an identifiable individual. We may collect Personal Information such as:
 
-  
+  * Name, gender, home and work address, telephone number and email address, your business title, date and place of birth, nationality, passport, visa or other government-issued identification information;
+  * Guest stay information, including the hotels where you have stayed, date of arrival and departure, goods and services purchased, special requests made, information and observations about your service preferences (including room type, facilities, holiday preferences, amenities requested, ages of children or any other aspects of the Services used);
+  * Telephone numbers dialed, faxes sent/received or receipt of telephone messages when connected to the telephone services we may provide guests during their stay;
+  * Credit and debit card number;
+  * Marriott or Ritz-Carlton Rewards information, online user accounts details, profile or password details and any frequent flyer or travel partner program affiliation;
+  * Employer or other relevant details if you are an employee of a corporate account, a vendor or other type of business partner (e.g., travel agent or meeting and event planner);
+  * Additional contact information about you that we may obtain through third parties with whom we do business (e.g. travel agents or similar providers);
+  * Profile picture;
+  * Social media account ID or user ID.
 
 
-## THE WORLD OF STARWOOD:
 
-This Privacy Statement applies to all of the hotel brands managed or licensed by Starwood Hotels & Resorts Worldwide, LLC. and its affiliates as a subsidiary of Marriott International, Inc., including the Starwood Preferred Guest program (the “Starwood Group”). To learn more about the world of Starwood, please [click here](http://www.starwoodhotels.com/preferredguest/common/components/content/global_footer_brand_popup.html)
+If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services (e.g., if you make a reservation for another individual), you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Statement.
 
-## PURPOSE FOR COLLECTION:
+We and our service providers may collect Personal Information in a variety of ways, including:
 
-We are fully committed to providing you with information about the collection and use of personal data furnished by, or collected from you while using our web sites, products and services. It is our standard practice not to ask you for information unless we need it.
+  * **Through Our Online Services:** We may collect Personal Information when you make a reservation or otherwise purchase goods and services from us, communicate with us via online chat services, inform us of any special requests or preferences you may have, or sign up for a newsletter or participate in a survey, contest, or promotional offer.
+  * **Through Our Offline Services:** We may collect Personal Information from you offline, such as when you visit one of our branded properties, make a reservation over the phone or contact customer service.
+  * **From Other Sources:** We may receive your Personal Information from other sources, such as public databases, joint marketing partners, and other third parties. This may include information from your travel agent, airline, credit card, and other partners, and from social media platforms (including from people with whom you are friends or otherwise connected). For example, if you elect to login to, connect with or link to, the Online Services using your social media account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles.
+  * **From Authorized Licensees:** Marriott Group companies may from time to time enter into a license or similar agreement with a third party to sell products and services under a Marriott Group brand. Such an “Authorized Licensee” is independent from the Marriott Group. Examples of Authorized Licensees include entities such as Marriott Vacations Worldwide Corporation, the operator of the Marriott Vacation Club, developers of Marriott and Ritz-Carlton branded real estate, such as the Ritz-Carlton Residences, and the issuer of the Marriott Rewards Credit Card.
+  * **From Owners and Franchisees:** We will receive Personal Information about you from owners and franchisees of Marriott branded properties such as stay information, payment information, and observations about service preferences.
 
-The main purpose for collecting your personal data is to allow us to provide you with the requested services such as processing a transaction. In addition, information may be collected for the following purposes:
 
-  * fulfilling reservation or information requests;
-  * purchasing products or services;
-  * registering for program membership;
-  * responding to our communications (e.g., surveys, promotional offers, or reservation confirmations);
-  * accommodating your personal preferences;
-  * fulfilling requests for services or recommendations we provide you;
-  * working with third party sources with your consent, including processing information you make available via social networking and other web sites, to better assist us with understanding your interests and to serve you better;
-  * your use of our apps on your electronic devices;
-  * updating your contact information including your address; or
-  * facilitating the transmission of forward to a friend email at your request.
 
+Use of Personal Information
+    
 
+We may use Personal Information in a variety of ways, including:
 
-We may also ask your permission to use your personal data for the following purposes:
+  * To provide the services you request, such as to facilitate reservations, send confirmations or pre-arrival messages, to assist you with meetings, events or celebrations, and provide you with other information about the area and the hotel at which you are scheduled to stay.
+  * To complete and fulfill your reservation and stay, for example, to process your payment, ensure that your room is available, and provide you with related customer service.
+  * In connection with our eFolio program. Your Marriott or Ritz-Carlton Rewards number, as entered on your reservation, acts as an eFolio identifier, allowing the transmission of your bill to your email address. If your Marriott or Ritz-Carlton Rewards number is applied to another person's room reservation, or if you make a reservation for another person and provide your email address for that reservation, that person's bill will be transmitted to your email address as well. It is your responsibility to inform that person that his or her bill will be emailed to you when your Marriott or Ritz-Carlton Rewards number or email address is attached to his/her reservation unless he/she makes alternative arrangements with a front desk during the stay.
+  * To send you administrative information, marketing communications, promotional offers, periodic customer satisfaction, market research or quality assurance surveys.
+  * To personalize your experience when you stay in one of our hotels and with respect to the Online Services by presenting products and offers tailored to you.
+  * To allow you to participate in sweepstakes, contests and other promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information. We suggest that you read any such rules carefully.
+  * For our business purposes, such as data analysis, audits, security and fraud monitoring and prevention (including through the use of closed circuit television, card keys, and other security systems), developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
 
-  * Sending you direct marketing messages and communications in relation to the products and services offered by Starwood, our strategic marketing partners, and other trusted third parties;
-  * Performing market research via surveys to better serve your needs, improve the effectiveness of our web sites, your hotel experience, our various types of communications, advertising campaigns, and/or promotional activities.
 
 
+We may also use Personal Information in connection with loyalty programs such as Marriott or Ritz-Carlton Rewards to:
 
-We may also analyze personal data we process for the above-mentioned purposes to better understand our customers’ needs, improve our services and the way we operate. The outcome of such analysis will only be aggregate data that will not to be used to identify, single out, or take action towards an individual, but only to analyze trends and other behavior at aggregate level.
+  * Send you information regarding your account status and activities;
+  * Assess the benefits to which you are entitled;
+  * Administer points earned through the Marriott Rewards Credit Card;
+  * Manage your choices regarding how you wish to earn points (e.g., participating airlines and other company loyalty programs) and track your points and transaction activity.
 
-Back to Top
 
-## TYPES OF INFORMATION WE COLLECT:
 
-We collect information about our hotel guests and web site visitors so that we can provide an experience that is responsive to our guests' and visitors' needs. In order to fulfil the above mentioned purposes, we may collect personal data or information relating to you that can identify you, directly or indirectly. Such data may primarily include your name, home, work and e-mail addresses, telephone, mobile telephone, and fax numbers, credit card information, date of birth, gender, and lifestyle information such as room preferences, leisure activities, names and ages of children, and other information necessary to fulfill special requests (e.g., health conditions that require special room accommodations).
+Disclosure of Personal Information 
+    
 
-When you visit our websites, we may also collect internet log information and details of visitor behavior patterns which we only process in a way which does not identify you (or anyone else). If we use your data in this way, we do not attempt to identify you or to single out information on an individual level. If we do want to identify you or single you out, we will make it clear when we collect the information and will explain what we intend to do with it.
+Your Personal Information may be disclosed in connection with the following services that we provide as a global hotel company:
 
-Back to Top
+  * **Reservations:** The Personal Information you provide to us for making a reservation is made available to the applicable hotel for the purpose of meeting your reservation request. The hotel may be owned and managed by Marriott or it may be owned or managed by a third party. After your stay we retain your Personal Information including details of your stay, preferences, room/accommodation type and amenities used.
+  * **Within the Marriott Group:** We may disclose your Personal Information to other companies within the [Marriott Group](https://web.archive.org/Media/PDF/Foreign%20Subsidiaries%20-%20Country%20of%20Incorporation/2015%2010K_Entity%20Only.pdf) for the purposes described in this Privacy Statement, such as providing you with services associated with your stay at one of our hotels and for the purpose of sending you marketing communications, consistent with your choices.
+  * **To Service Providers:** We may disclose Personal Information to our third party service providers who provide services such as spa and restaurants within our hotels, website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing and other services.
+  * **To Authorized Licensees:** We may disclose your Personal Information to an Authorized Licensee in connection with the Services, including with respect to a reservation you book through us, in connection with offerings of Travel Related Services or to developers of Marriott and Ritz-Carlton branded real estate, or to enable an Authorized Licensee to market and operate the business that it licenses. Such Personal Information may also include, for example, Marriott or Ritz-Carlton Rewards information. Please note that, if you visit a website operated by an Authorized Licensee, such as Marriott Vacation Club, any Personal Information you provide through that website will be subject to the privacy policy of that Authorized Licensee and not to this Privacy Statement.
+  * **To Franchisees:** We may disclose your Personal Information to franchisees in connection with the Services, including with respect to a reservation you book through us.
+  * **Travel Related Services:** We may share your Personal Information with select third-parties with whom we have agreements allowing them to offer Marriott- or Ritz-Carlton branded products to you. For example, this sharing enables these third-parties to provide you with a single source for purchasing packages that include other travel-related services such as airline tickets or rental cars. Please note that this Privacy Statement does not address any information you subsequently provide directly to one of these third-parties, such as information necessary to reserve a rental car.
+  * **eFolio Program:** If you are an employee of a company that participates in Marriott's eFolio Program and pay for your hotel expenses (hotel folio) at a Marriott participating property using the corporate credit card that your employer provided to you, an extract of your hotel folio detailing the goods and services provided to you during your hotel stay will be sent to the credit card company or its agents, who will in turn provide that extract to your employer to facilitate employee expense processing. This Privacy Statement does not apply to the handling of your Personal Information by your employer, any credit card companies, banks or their respective agents, and we are not responsible for their practices.
+  * **Sponsors of Sweepstakes, Contests and other Promotions.**
+  * **Through Social Media:** We may disclose your Personal Information to your friends associated with your social media account, to other website users and to your social media account provider, in connection with your social sharing activity, such as if you connect your social media account to your Online Services account or log-into your Online Services account from your social media account. By connecting your Online Services account and your social media account, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media site’s privacy policy. If you do not want your Personal Information shared with other users or with your social media account provider, please do not connect your social media account with your Online Services account and do not participate in social sharing on the Online Services.
 
-## CONSENT:
+In addition, when you elect to post information on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including, without limitation, our Social Media Pages) any such information you post or disclose through these services will become public and may be available to other users and the general public. We urge you to be very careful when deciding to disclose any information on the Online Services.
 
-You may opt out of Starwood surveys and marketing emails relating to Starwood’s offerings and services, when we collect your information and at any time by clicking on the link included in such communications, or by contacting us directly to opt out of direct marketing, telemarketing, emails or surveys. Please click here to see the Updating Your Communication Preferences in the Contact Us section of this privacy statement. You will always be offered the choice not to submit your personal data to our strategic marketing partners and other trusted third parties for marketing communications or to decide what communications you want to receive from us and them.
+  * **Corporate Reorganization:** We may disclose your Personal Information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
 
-If you are a Starwood Preferred Guest (“SPG”) program member, you may also change your communication choices by updating your communication preferences in your individual membership profile.
 
-In some cases your permission will be implied from the nature of the service requested or transaction undertaken. For example, we may collect and use personal data that you volunteer, or behavioral data or other information collected in the aggregate. In addition, your permission will be deemed given for communications from us that are necessary to fulfill transactions and services that you request.
 
-In certain circumstances, we will seek your express permission when we collect information that is regarded under certain data privacy regulations to be sensitive in nature (e.g., information revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, sex life, health conditions or judicial data) as permitted or required by the applicable law.
+We may also use and disclose Personal Information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-Back to Top
+Collection of Other Information
+    
 
-## TRANSFERRING:
+**“Other Information”** is any information that does not reveal your specific identity or does not directly relate to an individual, such as:
 
-In most cases, the information you provide is added to a Starwood local or global database. In the course of processing your information, it may be necessary to transfer your personal data to Starwood's affiliates, properties within the Starwood Group and/or third party service providers located in the United States and throughout the world for the purposes outlined within this Privacy Statement. Unless otherwise precluded or governed by legal requirements and/or process, Starwood subsidiaries, affiliates and property owners that may receive your information are obligated to follow similar privacy requirements relating to your personal data. As a general practice, we do not sell, rent, or give physical possession of your personal data to unaffiliated third parties outside the Starwood system.
+  * Browser and device information
+  * App usage data
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information
 
-Situations in which we may share your information to others include:
 
-  * when we have received your consent to do so,
-  * In situations where sharing or disclosing your information is required in order to offer you products or services you desire (e.g., a vacation package),
-  * when companies or service providers that perform business activities on behalf of Starwood require such information in order to conduct the tasks defined in their agreements with Starwood (e.g., credit card processing, customer support services, market research administration or database management services),
-  * when a hotel or other property leaves the Starwood system and access to your personal data is necessary to facilitate business operations or meet contractual obligations in connection with the fulfillment of reservations that are booked for future stays or events,
-  * in the event Starwood is merged or acquired by another company,
-  * to comply with legal or regulatory requirements or obligations in accordance with applicable law, a court order or a subpoena,
-  * in case of emergency such as to safeguard the life, health, or property of an individual.
 
+If we are required to treat Other Information as Personal Information under applicable law, then we may use it for the purposes for which we use and disclose Personal Information as detailed in this Statement.
 
+We and our third party service providers may collect Other Information in a variety of ways, including:
 
-If information is shared as mentioned above, we seek to limit the scope of information that is furnished to the amount necessary for the performance of the specific purpose.
+  * **Through your browser or device:** Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Online Services (such as the Apps) you are using. We use this information to ensure that the Online Services function properly.
+  * **Through your use of the Apps:** When you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
+  * **Using cookies:** Cookies are pieces of information stored directly on the computer or mobile device that you are using. Cookies allow us to collect information such as browser type, time spent on the Online Services, pages visited, referring URL, language preferences, and other aggregated traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, to collect statistical information, to personalize your experience while using the Online Services and to recognize your computer in order to assist your use of the Online Services, such as for the online reservation process. We also gather statistical information about use of the Online Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions regarding them.
 
-Unless otherwise precluded by legal process, third parties are obligated to protect your personal data in line with our policy and abide by applicable privacy laws and regulations.
+Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Online Services or to send you advertisements and marketing emails. We may also use cookies or other technologies to track responses to our online advertisements and marketing emails. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html> . You can choose whether to accept cookies by changing the settings on your browser or by managing your tracking preferences by clicking on “Tracking Preferences” at [Marriott.com](http://marriott.com/). If, however, you do not accept cookies, you may experience some inconvenience in your use of the Online Services. For example, we may not be able to recognize your computer, and you may need to log in every time you visit. You also may not receive advertising or other offers from us that are relevant to your interests and needs. At this time, we do not respond to browser “Do-Not-Track” signals.
 
-Back to Top
+  * **Using pixel tags and other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Online Services to, among other things, track the actions of users of the Online Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Online Services and response rates. We also use Google Analytics and Adobe Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. These services may collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/) , and opt-out by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout> . You can learn more about Adobe and opt-out by visiting <http://www.adobe.com/privacy/opt-out.html> .
+  * **Using Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”)) and other similar technologies:** We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Online Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) . You can also control Flash LSOs by going to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to as “information” on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including those used in connection with the Online Services. For more information, you may also wish to refer to <https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>
+  *   * **IP Address:** Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP address may be identified and logged automatically in our server log files whenever a user accesses the Online Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Online Services. We may also derive your approximate location from your IP address.
+  *   * **Physical Location & Mobile Location-Based Services: **We may collect the physical location of your device by, for example, using satellite, cell phone tower, WiFi signals, or other technologies. We may use your device’s physical location to provide you with personalized location-based services and content, including enabling you to find a hotel near you.
 
-## MOVING DATA ACROSS INTERNATIONAL BORDERS:
+If you have downloaded one of our Apps, you may enroll to receive special offers by agreeing to the use of technologies that enable us to collect information about your location when you are in our near participating hotels through your mobile device’s Bluetooth or similar capabilities. We will collect this information if you opt-in through the App (either during your initial login or later) to receive the special offers and by enabling these capabilities on your mobile device. If you have done so, the App will continue to collect location information when you are in or near a participating hotel until you log off (i.e., the App will collect this information if it is running in the background) or use your phone’s or other device’s setting to disable your mobile device’s applicable similar capabilities for the Marriott App.
 
-We endeavor to provide you with the same outstanding service in New York City, as you would find in Paris or Beijing. To achieve this goal, we have established a global network comprised of properties, offices, data centers, trusted strategic marketing partners, service providers, customer contact centers, and trained associates around the globe. The nature of our business and our operations require us to transfer your personal data, to other Group companies, properties, centers of operations, data centers, or service providers that may be located in countries outside of your own. We may transfer your personal data to countries other than the country in which the personal data was originally collected. Although the data protection and other laws of these various countries may not be as comprehensive as those in your own country, Starwood will take appropriate steps to ensure that your personal data is protected and handled as described in this Privacy Statement. If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal data to countries outside of the European Economic Area or Switzerland. To satisfy our requirements globally, we have committed to Binding Corporate Rules, called the Starwood Guest Data Protection Standards. The Guest Data Protection Standards have been approved by European data protection authorities and will be applied uniformly by all Starwood Group members subject to them. More information on our Binding Corporate Rules can be found on our dedicated page  
-[http://www.starwoodhotels.com/html/HTML_Blocks/Corporate/GDPS.htm](https://web.archive.org/html/HTML_Blocks/Corporate/GDPS.htm)
+We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content.
 
-Back to Top
+  * **By aggregating information:** Aggregated Personal Information does not personally identify you or any other user of the Services (for example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code).
 
-## SAFE HARBOR:
 
-In addition, Starwood is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of PII transferred from the European Economic Area or Switzerland to the U.S. Please note that since October 6, 2015, the European Union no longer recognizes Safe Harbor. Nonetheless, Starwood upholds to comply with the Safe Harbor Privacy Principles.
 
-Back to Top
+Use and Disclosure of Other Information 
+    
 
-## DELETION AND RETENTION OF YOUR PERSONAL DATA:
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information (such as combining your name with your location). If we do, we will treat the combined information as Personal Information as long as it is combined.
 
-Your personal data will be kept in a form which enables to identify you for no longer than it is necessary for the purposes for which we collected and use your data. Your personal data may be retained in certain files for a period of time as required by applicable law and following Starwood’s data retention policies in order to comply with such financial or legal requirements, to properly resolve disputes or to troubleshoot problems. In addition, some types of information may be stored indefinitely due to technical constraints, and will be blocked from further processing for purposes which are not mandatory by law.
+  * **Third Party Services:** This Privacy Statement does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link, third party payment services, or any third-party website that is the landing page of the high-speed Internet providers at our hotels. The inclusion of a link on the Online Services does not imply endorsement of the linked site or service by us or by our affiliates. We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.
 
-Back to Top
 
-## ACCESSING, UPDATING AND REMOVING YOUR PERSONAL DATA:
 
-You may request to have access to your personal data we keep or to have your personal data updated, erased or blocked unless this proves impossible or involves a disproportionate effort. You have may request confirmation as to whether we process your personal data and what that data constitutes.
+In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
 
-Where allowed under local law, you may request us to erase your personal data, if one of the following circumstances exist:
+Drawers
 
-  * your personal data are no longer necessary for the purposes for which they were collected or otherwise processed;
-  * if the processing was based on your consent and if you have withdrawn your consent, your consent has expired, or where there is no longer a legal ground for the processing of your personal data;
-  * If the processing is for direct marketing purposes or if you make a justifiable objection ;
-  * a court or regulatory authority has ruled that your personal data concerned must be erased;
-  * your personal data was unlawfully processed.
+Security
+    
 
+We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of your account has been compromised), please immediately notify us in accordance with the _“Contacting Us”_ section below.
 
+Choices, Access and Retention
+    
 
-To ensure that your personal data is accurate and up to date, we encourage you to regularly review and update your information as appropriate (e.g., in the event your home or e-mail address changes, or you wish to add an additional method for us to communicate with you). If you are an SPG program member, you can review and update your individual membership profile on-line or with the assistance of a Starwood customer service representative. If you are not a SPG program member you can review and update your personal data by contacting our Consumer Affairs Team or Privacy Office and requesting an access form. Please note that in an effort to prevent the unauthorized disclosure of your personal data, you may be asked to provide proof of identity (or other authentication materials) together with the completed access request form. Access to personal data for non-SPG program members cannot be provided by telephone
+If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out by visiting our [unsubscribe page](https://web.archive.org/profile/email/unsubscribeChallenge.mi) or by following the instructions in any such email you receive from us.
 
-If, upon review, you wish to deactivate your SPG program member profile, or update your personal data, we will endeavor to do so in a timely manner. Occasionally, information that you request to be removed will be retained as explained above
+In addition, members of Marriott Rewards and The Ritz-Carlton Rewards can also opt-out from communications through their Rewards account, or by sending a letter to Internet Customer Care - Unsubscribe, 1818 North 90 Street, Omaha, Nebraska 68114-1315 USA.
 
-Therefore, for the above reasons you should not always expect that all of your personal data will be completely removed from our databases in response to your request, even though we are regularly reviewing our data retention practices to ensure that personal data, while residing on the systems of Starwood and/or Starwood’s strategic marketing partners and service providers, will not be actively processed and will be accessed only if required by law.
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
 
-Please refer to the appropriate contact information below to contact us about updating your communication preferences, removal from our marketing lists, or to submit a general question or request.
+**Special Notice for California Residents:** Individual customers who reside in California and have provided their Personal Information to us may request information about our sharing of certain categories of Personal Information to third parties, including affiliates within the Marriott Group, for their direct marketing purposes. Such requests should be submitted to us at [privacy@marriott.com](mailto:%20privacy@marriott.com), or:
 
-Back to Top
+Marriott International, Inc.  
+Global Compliance, Privacy  
+10400 Fernwood Road  
+Bethesda, MD 20817  
+United States of America  
+ 
 
-## SECURITY SAFEGUARDS:
+Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted to addresses other than the addresses specified in this paragraph.
 
-Starwood recognizes the importance of information security, and is constantly reviewing and enhancing our technical, physical, and logical security rules and procedures. All Starwood owned web sites and servers have security measures in place to help protect your personal data against accidental, loss, misuse, unlawful or unauthorized access, disclosure, or alteration while under our control. Although "guaranteed security" does not exist either on or off the Internet, we safeguard your information using appropriate administrative, procedural and technical safeguards, including password controls, "firewalls" and the use of up to 256-bit encryption based on a Class 3 Digital Certificate issued by VeriSign, Inc. This allows for the use of Secure Sockets Layer (SSL), an encryption method used to help protect your data from interception and hacking while in transit.
+**How you can access, change or suppress your Personal Information:**
 
-Back to Top
+If you would like to review, correct, update, suppress or delete Personal Information that you have previously provided to us, you may contact us at [privacy@marriott.com](mailto:%20privacy@marriott.com), or:
 
-## ON-LINE TECHNOLOGIES:
+Marriott International, Inc.  
+Global Compliance, Privacy  
+10400 Fernwood Road  
+Bethesda, MD 20817  
+United States of America  
+ 
 
-Starwood and its third party marketing partners may use cookies, invisible pixels, and web beacons to obtain information about you while visiting our web sites. A cookie is a very small text file that is sent to your browser from a web server and stored on your computer's hard drive. Starwood cookies assign your computer with a unique identifier, which in turn, becomes your identification card whenever you return to a Starwood web site.
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database, or other limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
 
-Cookies are designed to save you time because they help us to provide you with a customized experience without you having to remind us of your preferences each time you return to our web pages. Starwood cookies are not designed to damage your files, nor can they read information from other files on your computer hard drive.
+**Retention:** Unless specifically requested, we ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, national identification number, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.
 
-Cookies can also help us provide you with a personalized experience in the following ways:
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or reservation, or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase, reservation, or promotion). There may also be residual information that will remain within our databases and other records, which will not be removed. In addition, there may be certain information to which we are unable to enable you to review, for legal, security, or other reasons.
 
-  * remembering your user name and password for future visits so log-in is easier and faster.
-  * ensuring you are provided with the appropriate frames and content.
-  * ensuring you obtain all requested information.
-  * helping us deliver communications that are relevant and responsive to your interests and location.
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Statement unless a longer retention period is required or permitted by law.
 
+Use of Services by Minors
+    
 
+The Services are not directed to individuals under the age of thirteen (13), and we request that they not provide Personal Information through the Services.
 
-Starwood cookies are limited to our sites and services only and are not designed to follow you when traveling on the Internet after leaving. We track the usage of our web sites in order to better meet your needs and to help make it easier for you to find information in the future. Please note that in addition to Starwood cookies, various third parties may also place cookies on your computer's hard drive. Starwood is not responsible for the presence or absence of third party cookies, or for the technological capabilities or practices employed by third parties in connection with third party cookies.
+Cross-Border Transfer
+    
 
-If you would prefer not to have the benefits of cookies, your Internet browser can be adjusted to treat cookies in different ways. Depending upon the type of browser you are using, you may be able to configure your browser so that:
+Marriott Group is a global organization and provides a global service. Sharing information cross border is essential to the Services so that you receive the same high quality service wherever you are in the world. As a result, we may, subject to applicable law, transfer Personal and Other Information collected in connection with the Services, to these entities in countries where information protection standards may differ from those in the country where you reside. By making a reservation, staying at a Marriott property or using any Marriott-branded service, you understand that we may transfer your personal information globally.
 
-  * you are prompted to accept or reject cookies on an individual basis or ,
-  * you may be able to prevent your browser from accepting any cookies at all.
+Updates to This Privacy Statement
+    
 
+We may change this Privacy Statement. The _“LAST UPDATED”_ legend at the top of this page indicates when this Privacy Statement was last revised. Any changes will become effective when we post the revised Privacy Statement on the Online Services. Your use of the Services following these changes means that you accept the revised Privacy Statement.
 
+Contacting Us
+    
 
-You should refer to the supplier or manufacturer of your web browser for specific details about cookie security. However, you should also understand that rejecting cookies might affect your ability to perform certain transactions on our web sites and our ability to recognize your browser from one visit to the next.
+If you have any questions about this Privacy Statement, please contact us at [privacy@marriott.com](mailto:%20privacy@marriott.com), or:
 
-Starwood also uses invisible pixels, sometimes called web beacons, to count how many people visit certain web pages. Information collected from invisible pixels is used and reported in the aggregate and does not contain personal data. Starwood may use this information to improve marketing programs and content.
+Marriott International, Inc.  
+Global Compliance, Privacy  
+10400 Fernwood Road  
+Bethesda, MD 20817  
+United States of America
 
-We also work with vendors and strategic marketing partners to help deliver advertisements and personalized content that we believe will be of interest to you. These vendors and other partners include advertisers, advertising agencies, advertising networks, audience segment providers, data exchanges, analytics providers, and other similar providers. Please click here for a current list of the agencies and providers with which we work. These partners and vendors use cookies and web beacons to collect information about your online activity (e.g., the sites and pages you have visited at Starwood sites and other third party sites) in order to help Starwood (and in some cases, third party advertisers) deliver personalized content and advertising to you while you are on Starwood or other sites.
-
-We may also engage one of these vendors to deliver our advertisements to consumers whose online behaviors on sites other than the Starwood sites indicate that they may be interested in travel. In other instances, we engage in special arrangements with certain advertisers with which we think our web site visitors would have an interest. We allow these advertisers to deliver co-branded messages (e.g., Starwood and the advertiser) directly to consumers who have visited our web pages. These types of cobranded advertisements may appear on Starwood sites or on third party sites. In general, you can opt out of our vendors' use of cookies to tailor personalized content or advertising to you by visiting [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and[ http://www.aboutads.info/choices.](http://www.aboutads.info/choices)
-
-For a detailed list of the cookies used on Starwood websites and your cookie settings, please [click here.](http://info.evidon.com/pub_info/566?v=1&nt=1&nw=false)
-
-Back to Top
-
-## LINKS TO OTHER WEB SITES:
-
-In order to anticipate your needs, our website provides links to other web sites and third parties for your convenience and information. We are not responsible for the collection, use, maintenance, sharing or disclosure of data (including personal data) by such third parties. We encourage you to contact these third parties to ask questions about their privacy practices, policies and security measures before disclosing any personal data. We recommend that you review the privacy statements and policies of linked web sites to understand how those web sites collect, use and store information.
-
-Back to Top
-
-## MINORS:
-
-We do not seek to obtain nor does it wish to receive personal data directly from minors; however, we cannot always determine the age of persons who access and use our web sites. If a minor (as defined by applicable law) provides us with his/her data without parental or guardian consent, we encourage the parent or guardian to contact us to have this information removed and to unsubscribe the minor from future Starwood marketing communications.
-
-Back to Top
-
-## CONTACT US:
-
-**Updating Your Communication Preferences**
-
-If you would like to update your information, modify your communication preferences, or if you do not want to receive marketing communications from Starwood in the future, you can contact us:
-
-by e-mail:  
-[starwood.preferred.guest@starwoodhotels.com](mailto:starwood.preferred.guest@starwoodhotels.com)
-
-by telephone:  
-1-888-625-4988 or 1-519-637-6500
-
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 20190  
-St. Thomas, ON Canada N5P 4H4
-
-**Customer Service**
-
-If you would like to contact Starwood’s Customer Service Department, please choose the most convenient method from the following:
-
-by e-mail:  
-[consumer.privacy@starwoodhotels.com](mailto:consumer.privacy@starwoodhotels.com)
-
-by telephone:  
-1-800-328-6242
-
-by writing to us at:  
-Starwood Preferred Guest Program  
-Corporate Customer Service  
-P.O. Box 6020  
-Lancaster, California 93539-6020
-
-USA
-
-Attention: Customer Service
-
-**Data Privacy**
-
-If you have comments or questions regarding Starwood's data privacy practices or this Privacy Statement, you may contact us by choosing the most convenient method from the following:
-
-by e-mail:  
-[consumer.privacy@starwoodhotels.com](mailto:consumer.privacy@starwoodhotels.com)
-
-by writing to us at:
-
-Starwood Hotels & Resorts Worldwide, LLC.
-
-One StarPoint
-
-Stamford, CT 06902
-
-USA
-
-Attention: Consumer Affairs – Privacy
-
-## UPDATES TO THE PRIVACY STATEMENT:
-
-This Statement was last updated to include Starwood’s adoption of Binding Corporate Rules by way of Starwood’s Guest Data Protection Standards. Starwood may amend this Privacy Statement from time to time in order to meet changes in the regulatory environment, business needs, or to satisfy the needs of our guests, properties, strategic marketing partners, and service providers. Updated versions will be posted to our web site and date stamped so that you are always aware of when the Privacy Statement was last updated.
-
-Back to Top
+Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
