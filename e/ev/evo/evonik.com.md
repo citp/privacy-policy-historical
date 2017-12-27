@@ -1,30 +1,82 @@
-> *The following text is extracted and transformed from the evonik.com privacy policy that was archived on 2017-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170109151325id_/http%3A//www72.evonik.com/footer/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evonik.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227195844id_/http%3A//corporate.evonik.com/en/footer-en/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Evonik Rexim SAS and Evonik Rexim (Nanning) Pharmaceutical Co., Ltd - Privacy Statement
+# Privacy Policy - Evonik Industries AG
 
-Modern information and communications technologies are playing an ever-increasing role in the activities of organisations such as Degussa Fine Chemcials. That is why we take the protection of your privacy, together with the personal data that you provide us with, very seriously. It goes without saying that we comply with the stipulations of the Federal Data Protection Law. In the paragraphs below we specify the data that we, i. e. Degussa Exclusive Synthesis & Catalysts and its subsidiaries, gather if necessary and explain how we treat such data.
+### Protection of data privacy: Your right—our obligation
 
-**Which personal data are gathered and processed?**  
-You can visit our web-sites without having to provide us with any personal data. We will be informed only of the name of your Internet service provider, the web-site from which you are visiting us and the web-site of ours that you are visiting. Personal data are gathered and processed only if you use particular services and a login is required. The menu will notify you of this in detail.   
-We do not collect personal information about our visitors from other sources, such as public records or bodies, or private organizations. In addition to that, Degussa Exclusive Synthesis & Catalysts does not automatically log personal data nor we link information automatically logged by other means with specific data about specific individuals. 
+You can count on us to protect the privacy of your personal data because protecting your privacy when we process your data is a matter of importance to Evonik Industries AG that is taken into consideration in all of our business processes. 
 
-**For what purposes do we gather and process personal data?**   
-Since we are constantly endeavoring to achieve a continuous process of improvement in both our service offerings and your own experience with our web-sites, we conduct statistical analyses of the above-mentioned general data. To do this, however, we also need to be aware of your own personal opinions and your environment. That is why you will be asked to provide additional information at several points. The information in question is voluntary and will, of course, be treated confidentially.  
-If you use services which are on offer, it is generally the case that only the data that we require to render those services will be gathered. If we ask you for more detailed data, the information in question is voluntary. The personal data are processed exclusively for the rendering of the requested service and for safeguarding our own justified commercial interests.
+We’d therefore like to take this opportunity to explain to you the guidelines that we apply to the processing of personal data. The present declaration and any further information that may be pertinent to the processing and use of your personal data will be provided at any location on this site where we ask you to supply such data.
 
-**Are personal data forwarded to third parties?**   
-We will forward your personal data to third parties only as far as is absolutely necessary for the rendering of the requested service. Beyond that we will neither disclose, permit the use of, sell or otherwise market your personal data to other companies or institutions without receiving an express declaration of consent from you. Other conditions shall apply if we are obliged by the law or a court judgment to disclose and communicate the data.
+### Data that we collect 
 
-**Cookies**  
-In some areas of our web-sites we use cookies. These are data pads which enable us to make our services available to you on a more individual basis during your visit. We do not use cookies to gather personal data. If you would like to be informed about the use of cookies on your browser, or if you would like to rule out their use, you should activate the appropriate browser settings.
+You can use almost the entirety of Evonik Industries AG website without ever having to supply us with personal data. Only a fraction of the information and services located on our website require you to enter personal data in order to use them.   
+Whenever you use the Evonik Industries AG website, the Evonik Industries AG Internet server (web server) automatically records and evaluates technical access data. However, this data cannot be attributed to a specific person, which means that the individual user remains anonymous. 
 
-**Children**   
-Personal data pertaining to children are not knowingly gathered or used in any way. We are not generally aware of the age of the users of our web-sites. We have, however, taken no specific steps to give special protection to such data.. 
+### Compilation of technical access data 
 
-**Security**  
-We have taken technical and organizational steps to protect the personal data which you provided against loss, destruction, manipulation and unauthorized access. All of our employees and third parties who are involved in data processing are obliged to observe the Federal Data Protection Law and the confidential treatment of personal data.  
-We reserve the right to amend this declaration at any time. This declaration shall not justify any contractual or other formal right vis-à-vis or by order of one party.
+This technical access data includes, for example, the name of your internet service provider, the IP address, information about the internet browser and the operating system that are in use, the domain name of the website that acts as a platform for a visit to our own website, the average duration of a visit to our website, and the pages called from our website. This data is sent to our web server when individual internet pages are called by your internet browser. 
 
-If you have any problems or queries, please get in touch with our Data Protection Officer, who will be glad to help you:  
-Klaus Gowik  
-Tel: +49-211-65041-326
+### Cookies 
+
+We also add cookies to some areas of our website. Cookies are small data elements that an internet server can send to your computer, thereby allowing it to be identified during your visit to our website and making it easier for you to use our website. Cookies do not cause any damage on your computer and do not contain viruses. We don’t use cookies to gather personal data. You can set your internet browser to tell you whether cookies are being accepted or refused. For more information on cookies, consult the help files in your internet browser. Deactivating cookies may limit this website’s functionality.   
+We use this technical access data to continually enhance the appeal, usability and contents of our website, and to detect any technical problems with the site. 
+
+### Personal data 
+
+We collect, process and utilize your personal data only if you provide us with it voluntarily.   
+This can occur in connection with a query, an opinion survey, a desire on your part to contact us, an order placed by you, etc.   
+We also require your personal data when you wish to make use of particular services (insofar as such services may be offered) on the Evonik Industries AG website such as the newsletter or forums. Should you decide to avail yourself of such a service, you will find for each service extensive information and pointers about the type, scope and utilization of the data that is required in order to use the service in question. 
+
+### Protecting the privacy of children who use the internet 
+
+Personal data pertaining to children are not knowingly gathered or used in any way. We are not generally aware of the age of the user of our websites. We have, however, taken no specific steps to give special protection to such data.   
+As protecting children who use the internet is a matter of great importance to Evonik Industries AG. Evonik Industries AG therefore advises all parents and persons acting in loco parentis to show children how to deal responsibly and safely with personal data on the internet.   
+Children should not send any personal data to Evonik Industries AG without the express permission of parents or a person acting in loco parentis. 
+
+### How we use your data 
+
+Evonik Industries AG collects, processes and utilizes all personal data stemming from your visit to the Evonik Industries AG website strictly in accordance with the applicable legal regulations.   
+We use this personal data only for the purposes specified in the present declaration (e.g., to process a query or in connection with the utilization of internet services). In addition, we will only gather, process or use personal data if we need to do so in order to protect the legitimate business interests of Evonik Industries AG.   
+Evonik Industries AG will not provide third parties with any personal data that you may have sent without first obtaining your express written permission. 
+
+You can withdraw the consent you gave to use your personal data at any time with future effect by sending an email to the email address provided in the Legal Notice or to the data protection officer.   
+We retain control over and take responsibility for the use of the personal data that you send to us. It is possible that some or all of this data is stored or processed in other countries (for example in the United States) that have different data protection laws from your country of residence. In this case, we will ensure that the company commissioned to process the data has taken appropriate steps to protect your personal data in accordance with the requirements applicable in your country of residence. 
+
+### Information, changes and deletions with respect to your data 
+
+Pursuant to the applicable legal regulations, you are entitled to query us in writing at any time as to which (if any) of your personal data we are currently archiving. We will then send you a letter containing the information requested. Please address your inquiry to the data protection officer. You may also arrange with him to have changes made in your data or to have such data deleted. 
+
+### Retention of your data 
+
+We will store personal data for as long as it is necessary to perform a service that you requested or to which you gave your consent, providing no legal requirements exist to the contrary such as retention periods under commercial and tax law or deadlines in connection with ongoing legal proceedings.   
+
+
+### Protecting your data
+
+Any data provided by you to Evonik Industries AG will be protected by suitable technical and organizational mechanisms against adventitious or intentional manipulation, loss or destruction, access by unauthorized persons, and against unauthorized disclosure to third parties. With this goal in mind, our security measures are continually monitored and enhanced in accordance with technological advances and organizational resources.   
+
+
+###   
+Use of social plugins 
+
+Our website does not use any plugins for social networks. When integrating the icons of social networks such as Facebook, Twitter, XING, and LinkedIn, we only make reference to these networks with an external link. In some cases, the link takes you to a share function of the network in question. This means that you can share our website, which you called up, with other users directly using the page of the social network to which the sharing button belongs.   
+
+
+### The Evonik Industries AG data protection officer 
+
+Should you have any questions regarding the processing of your personal data, please do not hesitate to contact our data protection officer who, along with his team, will be more than happy to help you if you need any further information or have any complaints or problems in connection with the security of your data.
+
+Evonik Industries AG  
+Data protection officer  
+Dr. Eduard Wessel  
+Rellinghauser Straße 1—11  
+45128 Essen  
+Germany  
++49 201 177-2151  
+[privacy-policy@evonik.com](mailto:privacy-policy@evonik.com)
+
+Please note that this data protection declaration is subject to change in order to meet current requirements.
+
+© Evonik Industries AG, latest update: November 1, 2016  
+
