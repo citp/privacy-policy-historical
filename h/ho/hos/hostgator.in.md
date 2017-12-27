@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostgator.in privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223085829id_/https%3A//www.hostgator.in/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostgator.in privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002206id_/https%3A//www.hostgator.in/support/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | HostGator India
 
