@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the langara.ca privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320014502id_/http%3A//langara.ca/about-langara/records-management-and-privacy/privacy/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the langara.ca privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227223015id_/https%3A//langara.ca/about-langara/records-management-and-privacy/privacy/privacy-statement.html) for the most accurate reproduction.*
 
 # Langara. About Langara : Records Management and Privacy: Privacy: Privacy Statement
 
@@ -25,6 +25,14 @@ The website search function collects information to remember the information you
 ### **Cookies**
 
 A cookie is a small file that a website creates when you visit the site. It can track and store information about you such as how and when you use a site and which site you visited immediately before. Cookies cannot be used to run programs or deliver viruses to your computer. Our website may use session cookies which are stored in temporary memory and are not retained after you sign out or close the browser session. 
+
+Third parties may use cookies, web beacons and similar technologies to collect or receive information from Langara’s website and elsewhere on the internet and use that information to provide measurement services and target ads. You can opt-out of the collection and use of information for ad targeting by visiting: [www.aboutads.info/choices](http://www.aboutads.info/choices).
+
+### **Web Analytics and Remarketing**
+
+Langara College use web analytics tools on our website to collect data about site traffic to improve visitors’ online experience. These tools tag web pages to capture a limited amount of non-personal information such as the internet protocol (IP) address of the computer, device or network a visitor uses to access pages on the site. Langara College will never use this information for any reason other than to analyze site usage, or combine it with any personal information about you.
+
+This site also uses remarketing tools to allow the College to serve previous visitors to our site with advertisements on third party websites (such as Google). Third parties, including Google, use cookies (small files stored on a computer’s web browser) to serve ads based on a person’s past visits to Langara’s website. You may refuse the use of cookies by selecting the appropriate settings on your browser (please note that if you do this you may not be able to use the full functionality of this website). Some service providers also allow you to set preferences or opt out of interest-based advertising entirely, e.g., Google Ads: [Opt out of seeing personalized ads](https://support.google.com/ads/answer/2662922?hl=en).
 
 ### **Use**
 
