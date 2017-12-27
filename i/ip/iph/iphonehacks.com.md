@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphonehacks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033819id_/http%3A//www.iphonehacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonehacks.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227221141id_/http%3A//www.iphonehacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
