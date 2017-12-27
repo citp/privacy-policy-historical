@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warriorplus.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043959id_/https%3A//warriorplus.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warriorplus.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235906id_/https%3A//warriorplus.com/legal/privacy.php) for the most accurate reproduction.*
 
 # WarriorPlus
 
@@ -53,7 +53,7 @@ Your information may be transferred to - and maintained on - computers located o
 
 A NOTE FOR CALIFORNIA RESIDENTS (ONLINE PRIVACY PROTECTION ACT OF 2003 - OPPA)
 
-WarriorPlus intends to comply with the California Business and Professions Code Â§Â§ 22575-22579, created by the Online Privacy Protection Act of 2003. If you are a California resident, you can request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Act. To obtain information about our Privacy collection practices in regard to California law, you may request a copy of our privacy information free of charge once per year. To obtain our privacy information please email us at privacy@warriorplus.com.
+WarriorPlus intends to comply with the California Business and Professions Code §§ 22575-22579, created by the Online Privacy Protection Act of 2003. If you are a California resident, you can request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Act. To obtain information about our Privacy collection practices in regard to California law, you may request a copy of our privacy information free of charge once per year. To obtain our privacy information please email us at privacy@warriorplus.com.
 
 Amendments
 
