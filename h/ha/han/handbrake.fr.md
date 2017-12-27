@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handbrake.fr privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610151919id_/https%3A//handbrake.fr/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handbrake.fr privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000401id_/https%3A//handbrake.fr/privacy.php) for the most accurate reproduction.*
 
 # HandBrake: Privacy Policy
 
