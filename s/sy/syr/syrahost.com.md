@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syrahost.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624191247id_/https%3A//www.crazydomains.com.au/privacy/terms-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syrahost.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002805id_/https%3A//www.crazydomains.com.au/privacy/terms-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Terms of Service | CrazyDomains.com.au
 
