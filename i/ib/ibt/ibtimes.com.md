@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibtimes.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630235020id_/http%3A//www.ibtimes.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibtimes.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235854id_/http%3A//www.ibtimes.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -189,14 +189,3 @@ Under the California "Shine The Light" law, California Civil Code Section § 179
 ### SAFE HARBOR PRIVACY PRINCIPLES
 
 The Company adheres to the Safe Harbor Frameworks concerning the transfer of personal data from the European Union and Switzerland to the United States of America. Accordingly, we follow the Safe Harbor Privacy Principles published by the U.S. Department of Commerce (the “Principles”) with respect to all such data. The Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. This privacy policy outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it and the notice and choice you have regarding our use of and your ability to correct that information. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce’s Safe Harbor website at <http://export.gov/safeharbor/>.
-
-### Safe Harbor Enforcement and Dispute Resolution
-
-In compliance with the US-EU Safe Harbor and U.S. Swiss Safe Harbor Privacy Principles, the Company is committed to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact the Company at:
-
-General Counsel  
-IBT Media Inc  
-7 Hanover Square, 5th Floor  
-New York, NY 10004
-
-We are further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Company, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
