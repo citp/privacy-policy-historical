@@ -1,21 +1,80 @@
-> *The following text is extracted and transformed from the pkstation.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121155915id_/http%3A//xyz.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkstation.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy – Domain Names for Generation XYZ®
+# HugeDomains.com - Privacy Policy
 
-We respect your privacy. XYZ® has created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for this website, xyz.xyz (the "Website”, "Us”, "Our”). By using the Website you agree to the privacy practices disclosed below.
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-## Privacy Practices
+**What information do we collect?**
 
-  * We do not give third parties access to your personal information other than as outlined in this privacy policy.
-  * We only send email to you if you have elected to receive it.
-  * If we determine that any account with us is being used for the purpose of sending spam or engaging in malicious activities, we will take action to shut it down as soon as possible.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
+**What do we use your information for?**
 
-We will never give any information about you to others without your express permission. Our site uses forms in which you give us contact information (like your name, address, phone number, and email address) so you can create an account, place orders, request information, etc. We may share specific information with business partners or contractors when the information is needed to fulfill your request for a product or service. We also use your contact information when it will be important for us to contact you regarding functionality changes to our products, our website, new services and special offers we think you’ll find valuable, and provide customer service.
+Any of the information we collect from you may be used in one of the following ways: 
 
-We use information gathered about you from our site statistics via log files provided by third party tracking partners (for example your IP address) to help diagnose problems with our server, and to administer our website. We also gather broad demographic information from this data to help us improve our site and your experience. This information collection is not linked to any personally identifiable information. Our site uses cookies to keep track of your session information and to provide you with customized information. We do link the information we store in cookies to personally identifiable information you submit while on our site.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-We may use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided by your internet browser (ex: Mozilla Firefox or Internet Explorer).
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-We also may use cookies to store your username if you request to remember your username during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
+
+• To process transactions
+
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
