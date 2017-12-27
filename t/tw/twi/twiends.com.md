@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628043857id_/http%3A//twiends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235209id_/https%3A//twiends.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Twiends
 
@@ -70,7 +70,7 @@ We may obtain information about your general internet usage by using a cookie fi
 
 The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be handled by PayPal or WorldPay and encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+All information you provide to us is stored on our secure servers. Any payment transactions will be handled by PayPal or Stripe and encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
@@ -80,7 +80,7 @@ We use information held about you in the following ways:
 
 7.1 To ensure that content from our site is presented in the most effective manner for you and for your computer.
 
-7.2 To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+7.2 To provide you with information, products or services that you request from us or which we feel may interest you, or where you have consented to be contacted for such purposes.
 
 7.3 To carry out our obligations arising from any contracts entered into between you and us. 
 
