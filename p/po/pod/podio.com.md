@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podio.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628045903id_/https%3A//podio.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podio.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001330id_/https%3A//podio.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Podio
 
