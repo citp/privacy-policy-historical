@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkresearchtools.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623002133id_/http%3A//www.linkresearchtools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkresearchtools.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000103id_/http%3A//www.linkresearchtools.com/privacy) for the most accurate reproduction.*
 
 # LinkResearchTools Privacy Statement - LinkResearchTools
 
@@ -11,16 +11,17 @@
 Owner, publisher, and editor:
 
 **LinkResearchTools** GmbH  
-Leonard-Bernstein-Strasse 10/ Floor 7  
-Saturn Tower  
+Am Langen Felde 12 / Top 2  
 1220 Vienna, Austria, Europe
 
 [www.LinkResearchTools.de](http://www.linkresearchtools.de/)  
 [www.LinkResearchTools.com ](http://www.linkresearchtools.com%20%0d)
 
-Phone AT: +43 720 116 440  
-Phone US: +1 (866) 347-3660  
-Phone UK: +44 800 011 9736
+**LRT Germany:**  +49 894 120 7070  
+**LRT Canada:**  (204) 808-0736  
+**LRT Austria:**  +43 720 883 736  
+**LRT US:**  (619) 832-0736  
+**LRT UK:**  +44 144 360 6363
 
 E-mail: [feedback@LinkResearchTools.com](mailto:feedback@linkresearchtools.com)
 
