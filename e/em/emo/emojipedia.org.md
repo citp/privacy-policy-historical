@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emojipedia.org privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603235604id_/http%3A//emojipedia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emojipedia.org privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227172247id_/https%3A//emojipedia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,6 +19,8 @@ Please rest assured that this site shall only collect personal information that 
 Emojipedia Pty Ltd may have the occasion to collect anonymous demographic information, such as age, gender, household income, political affiliation, race and religion at a later time.We may also gather information about the type of browser you are using, IP address or type of operating system to assist us in providing and maintaining superior quality service.
 
 It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent as a means to better understand the way in which other websites garner, make use of and share information collected. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Use of Information Collected**
 
@@ -42,7 +44,7 @@ Emojipedia Pty Ltd does not knowingly collect personal identifiable information 
 
 **Unsubscribe or Opt-Out**
 
-All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to Info@emojipedia.org. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. 
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. 
 
 **Links to Other Web Sites**
 
@@ -66,15 +68,15 @@ Through the use of this website, you are hereby accepting the terms and conditio
 
 If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
 
-**Email:** info@emojipedia.org
+**Email:** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Telephone Number:** +61 3 9015 9618
 
 **Mailing Address:**
 
 Emojipedia Pty Ltd  
-222 La Trobe St  
-Melbourne, VIC 3000, Australia
+121 Burwood Hwy  
+Melbourne, VIC 3125, Australia
 
 
 
