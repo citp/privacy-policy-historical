@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the match.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630003507id_/http%3A//www.match.com/registration/privacystatement.aspx%3Flid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the match.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002305id_/https%3A//www.match.com/registration/privacystatement.aspx%3Flid%3D4) for the most accurate reproduction.*
 
 # Match.com - Find Singles with Match.com's Online Dating Personals Service
 
 _Last Updated: December 19, 2016_
 
-Match.com, L.L.C., as regards users originating from within the United States, and Match.com Global Services Limited, as regards users originating from outside the United States, ("Match.com") respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, application, or other online services, you are accepting the practices described in this Privacy Policy. 
+Match Group, LLC, as regards users originating from within the United States, and Match.com Global Services Limited, as regards users originating from outside the United States, ("Match.com") respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, application, or other online services, you are accepting the practices described in this Privacy Policy. 
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us. 
 
