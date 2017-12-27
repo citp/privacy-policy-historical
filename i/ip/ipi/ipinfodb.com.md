@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipinfodb.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627203332id_/http%3A//ipinfodb.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipinfodb.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227174956id_/http%3A//www.ipinfodb.com/privacy_policy.php) for the most accurate reproduction.*
 
 # IP location XML API
 
