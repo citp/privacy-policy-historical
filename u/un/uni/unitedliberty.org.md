@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedliberty.org privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622052359id_/http%3A//www.unitedliberty.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedliberty.org privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234437id_/http%3A//www.unitedliberty.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | United Liberty | Free Market - Individual Liberty - Limited Government
 
@@ -40,7 +40,7 @@ We take all efforts to make sure that your information is never stolen, lost, al
 
 Throughout United Liberty, you will find many links to 3rd party websites.  Linking to these sites doesn’t constitute an endorsement or necessarily mean the staff at United Liberty agrees with the opinions expressed at these sites.  Please visit them at your own risk.
 
-Thank you again for visiting United Liberty and we hope that you will come to our Site frequently.  If you have questions or concerns about our Privacy Policy, feel free to send us an email at [info@unitedliberty.org](mailto:info@unitedliberty.org).
+Thank you again for visiting United Liberty and we hope that you will come to our Site frequently.  If you have questions or concerns about our Privacy Policy, feel free to send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0a63646c654a7f64637e6f6e6663686f787e732465786d).
 
 United Liberty reserves the right to change or alter this Privacy Policy at any time.
 
