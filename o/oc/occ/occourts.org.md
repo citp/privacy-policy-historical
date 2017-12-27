@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the occourts.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628114643id_/http%3A//www.occourts.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the occourts.org privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227172917id_/http%3A//www.occourts.org/privacy-policy.html) for the most accurate reproduction.*
 
 # The Superior Court of California - County of Orange
 
