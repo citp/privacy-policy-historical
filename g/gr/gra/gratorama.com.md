@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gratorama.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623071605id_/http%3A//www.gratorama.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gratorama.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227065541id_/http%3A//www.gratorama.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
 
 # Gratorama - Privacy and Security policy
 
@@ -41,7 +41,7 @@ The Company may, from time to time, offer you special promotions. These promoti
 
 As part of the account registration process, We also offer our customers registering with us the opportunity to "opt out" from keeping them informed of future events, offers and promotions from Gratorama. Visitors interested in opting out can simple click on the unsubscribe button in our marketing mailers or should 'uncheck' the relevant box in the registration process. You may update Your marketing preferences at any time through by contacting our friendly Customer agents.
 
-If you have chosen to receive information on future events, offers and promotions by SMS message to your cellular telephone, You may "opt out" from receiving such information at any time by sending an email to [support@Gratorama.com](mailto:support@Gratorama.com) or contacting our customer service agents replying with the word "STOP". To opt out of third party analytics please email us at [support@Gratorama.com](mailto:support@Gratorama.com) and include your device identifier, and once processed, our third party analytics provider will discontinue any analytics  on that particular device.
+If you have chosen to receive information on future events, offers and promotions by SMS message to your cellular telephone, You may "opt out" from receiving such information at any time by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#04777174746b767044437665706b766569652a676b69) or contacting our customer service agents replying with the word "STOP". To opt out of third party analytics please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#74070104041b060034330615001b061519155a171b19) and include your device identifier, and once processed, our third party analytics provider will discontinue any analytics  on that particular device.
 
 About us
 
