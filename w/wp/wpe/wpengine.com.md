@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpengine.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624074237id_/https%3A//wpengine.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpengine.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001019id_/https%3A//wpengine.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WordPress Hosting by @WPEngine
 
@@ -7,23 +7,21 @@
 [](https://privacy.truste.com/privacy-seal/validation?rid=adea0a9b-3ecd-4256-b923-4907cbf8d0a6)
 
    
-WP Engine, Inc. (“we”, “us”, or “our”) respects your privacy and is committed to maintaining the privacy and confidentiality of any personal data we collect either through WPEngine.com (“Site”) or through the provision our managed hosting services (“Services”). The purpose of this Privacy Policy is to inform you of our personal data collection, use, and processing practices. This Privacy Policy also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. If you have any questions about this Privacy Policy, please feel free to contact us at the information provided below.
+Effective Date: 9/08/2017
 
-### EU – U.S. Privacy Shield
+WP Engine, Inc. (“WP Engine”,“we”, “us”, or “our”) respects your privacy and is committed to maintaining the privacy and confidentiality of any personal data we collect either through WPEngine.com (“Site”) or through the provision our managed hosting services (“Services”). The purpose of this Privacy Policy is to inform you of our personal data collection, use, and processing practices. This Privacy Policy also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. If you have any questions about this Privacy Policy, please feel free to contact us at the information provided below.
 
-We (and our subsidiary companies WP Engine (UK) Limited and WP Engine Ireland Limited) participate in and have certified our compliance with the EU – U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+### EU – U.S. PRIVACY SHIELD AND SWISS – U.S. PRIVACY SHIELD
 
-Under the Privacy Shield Framework, we are responsible for the processing of personal data that we collect from you and subsequently transfer to a third party acting as an agent on our behalf.  We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU including the onward transfer liability provisions.
+We (and our subsidiary companies WP Engine (UK) Limited and WP Engine Ireland Limited) participate in and have certified our compliance with the EU – U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Frameworks, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including requests made to meet national security or law enforcement requirements.
+Under the Privacy Shield Framework, we are responsible for the processing of personal data that we collect from you and subsequently transfer to a third party acting as an agent on our behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including requests made to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 Under certain conditions more fully described on the Privacy Shield website (<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>) you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-### U.S. – Swiss SAFE HARBOR
-
-We comply with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program and to view our certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
 ### PERSONAL DATA WE COLLECT AT YOUR DIRECTION
 
@@ -57,15 +55,15 @@ We disclose personal data only to our employees and third parties (such as the s
 
 Some of the employees or third parties providing these services may be located outside of your home country (e.g. in the United States). By using the Site or signing up for the Services you consent to the transfer of your information to them.
 
-We will not rent or sell personal data to anyone other than in conjunction with the sale of our business. Other than described in this Privacy Policy, we disclose personal data only when required to do so by law, such as to comply with a subpoena or other legal process. When we believe in good faith that disclosure is reasonably necessary to (i) protect our property or other rights, protect the property or other rights of third parties, or protect the public at large; (ii) investigate fraud; or (iii) respond to a government request.
+We will not rent or sell personal data to anyone other than in conjunction with the sale of our business. Other than described in this Privacy Policy, we disclose personal data only when required to do so by law, such as to comply with a subpoena or other legal process. When we believe in good faith that disclosure is reasonably necessary to (i) protect our property or other rights, protect the property or other rights of third parties, or protect the public at large; (ii) investigate fraud; or (iii) respond to a government request.
 
 If you are our customer, we will occasionally send you emails to tell you about new features, solicit your feedback, or keep you up to date with what is going on at WP Engine. If you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. We own all such feedback.
 
 ### CHANGING INFORMATION
 
-Upon request, we will provide you with details regarding whether we hold any of your personal information. If you would like to change information that we maintain about you, you may log into your account and change it. If you would like to change information that you are unable to access, you may contact us at legalrequest@wpengine.com or through our user portal for assistance in making your requested changes. Information covered by this Privacy Policy may be deleted upon your request, provided that such deletion may impact our ability to provide you with the use of our Services. Also, you may request that we update or correct your personal data by contacting us at legalrequest@wpengine.com or by writing us at: WP Engine, Inc. ATTN: General Counsel, 504 Lavaca St., Suite 1000, Austin, Texas 78701. We will respond to your request within a reasonable timeframe.
+Upon request, we will provide you with details regarding whether we hold any of your personal information. If you would like to change information that we maintain about you, you may log into your account and change it. If you would like to change information that you are unable to access, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or through our user portal for assistance in making your requested changes. Information covered by this Privacy Policy may be deleted upon your request, provided that such deletion may impact our ability to provide you with the use of our Services. Also, you may request that we update or correct your personal data by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by writing us at: WP Engine, Inc. ATTN: General Counsel, 504 Lavaca St., Suite 1000, Austin, Texas 78701. We will respond to your request within a reasonable timeframe.
 
-We acknowledge that you have the right to access your personal information, but – with respect to the data that we collect at the direction of our customers – we have no direct relationship with the individuals whose personal data we process. An individual who seeks to access, correct, amend, or delete inaccurate data maintained by one of our customers should direct their query to that customer acting as the data controller.
+We acknowledge that you have the right to access your personal information, but – with respect to the data that we collect at the direction of our customers – we have no direct relationship with the individuals whose personal data we process. An individual who seeks to access, correct, amend, or delete inaccurate data maintained by one of our customers should direct their query to that customer acting as the data controller. If you request to remove data we will respond within a reasonable timeframe.
 
 We may keep your personal information and the data we process on your behalf as covered by this Privacy Policy for as long as needed to provide the Services to you or for a period of twelve months from the date you terminate your relationship with us. Additionally, we will retain this information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -85,7 +83,7 @@ Although most changes are likely to be minor, we may change this Privacy Policy 
 
 We have put in place reasonable measures and appropriate procedures for implementing these policies and for safeguarding the information we collect from you. However, we cannot guarantee that personal data we collect will never be disclosed in a manner inconsistent with this Privacy Policy.
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at legalrequest@wpengine.com.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### DMCA WEBSITE NOTICE
 
@@ -96,7 +94,7 @@ ATTN: General Counsel
 WP Engine, Inc.  
 504 Lavaca, Suite 1000  
 Austin, TX  78701  
-[abuse@wpengine.com](mailto:abuse@wpengine.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dfbebdaaacba9fa8afbab1b8b6b1baf1bcb0b2)
 
 Section 512(c) of the DMCA requires that a notice include all of the following in order to be valid:
 
