@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastminute.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627202138id_/http%3A//www.lastminute.com/terms/terms-and-conditions-lastminute-group.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastminute.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001623id_/http%3A//www.lastminute.com/terms/terms-and-conditions-lastminute-group.html%23privacy) for the most accurate reproduction.*
 
 # Terms and conditions lastminute group
 
