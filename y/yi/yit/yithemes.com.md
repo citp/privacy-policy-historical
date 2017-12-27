@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yithemes.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624080001id_/https%3A//yithemes.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yithemes.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228005526id_/https%3A//yithemes.com/cookie-policy) for the most accurate reproduction.*
 
 # Cookie policy
 
@@ -66,7 +66,7 @@ This type of services allows this Application to manage RSS feeds and the distri
 
 #### Feedburner (Google)
 
-Feedburner is a service to manage RSS feeds provided by Google Inc. It allows the collection of statistics on what content is consumed and to insert ads in it. Personal Data collected: Cookies and Usage data. Place of processing: US – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+Feedburner is a service to manage RSS feeds provided by Google Inc. It allows the collection of statistics on what content is consumed and to insert ads in it. Personal Data collected: Cookies and Usage data. Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
 
 
 
