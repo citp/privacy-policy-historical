@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the four-pins.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630225757id_/http%3A//www.complex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the four-pins.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003836id_/http%3A//www.complex.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Complex
+
+__
 
 This Privacy Policy describes how Complex Media, Inc., together with its parents, partners and affiliates (collectively, “ **Complex** ,” “ **we** ”, “ **us** ” and “ **our** ”) collects, uses, and discloses your information when you visit websites (including mobile-optimized versions) and applications which have an authorized link to this Privacy Policy (each a “ **Site** ” and collectively, “ **Sites** ”).
 
@@ -72,6 +74,7 @@ We use information we collect from you to provide you with access to the Sites a
   * Processing a transaction that you initiate with us or with our business partners through the Sites (for example, a purchase from the [Complex Shop](https://shop.complex.com/#/))
   * Internal uses such as market and content offering analysis
   * Assessing and tracking effectiveness of our advertising campaigns and the campaigns of our business partners
+  * Participating in affiliate marketing programs via links to third-party retailers (you may find more information about Skimlinks, the affiliate marketing service we use, [here](https://skimlinks.com/privacy-policy)) ​
 
 
 
@@ -93,7 +96,7 @@ _Third-Party Service Providers.   _We use third-party service providers to prov
 
 _Third Parties Conducting Contests and Sweepstakes_.  If you have entered a contest or sweepstakes sponsored by a third party, we may share the information you provide with that third party for any purpose that you have consented to under the terms of the contest or sweepstakes.  You should read the terms for participating in the contest or sweepstakes carefully, and should not enter the contest or sweepstakes if you do not agree to how your information will be shared or used under those terms. In addition, the privacy policies of such third party companies may apply to their use and disclosure of your information.
 
-_Third Parties Providing Ad Services:_   In addition to ads and content that we serve you directly, we use third-party advertising companies and marketing services companies to serve ads and other content when you visit our Sites.  Both we and these companies may use information about your visits to our Sites and your use of our applications to serve ads and other content to you.  We and they may target advertising towards you by tailoring advertising to interests that we or they infer from your interactions on our Sites.  If you would like more information about this practice and to know your choices about not having your information used in this manner by third-party advertising companies, please visit <http://www.networkadvertising.org/choices/> or <http://www.aboutads.info/choices/>. The collection of information via certain ads served to users in Canada may be managed by visiting <http://youradchoices.ca/choices/>, and via certain ads served to users in Europe may be managed at <http://youronlinechoices.com/>.  
+_Third Parties Providing Ad Services:_   In addition to ads and content that we serve you directly, we use third-party advertising companies and marketing services companies to serve ads and other content when you visit our Sites.  Both we and these companies may use information about your visits to our Sites and your use of our applications to serve ads and other content to you.  We and they may target advertising towards you by tailoring advertising to interests that we or they infer from your interactions on our Sites.  If you would like more information about this practice and to know your choices about not having your information used in this manner by third-party advertising companies, please visit <http://www.networkadvertising.org/choices/> or <http://www.aboutads.info/choices/>. The collection of information via certain ads served to users in Canada may be managed by visiting <http://youradchoices.ca/choices/>, and via certain ads served to users in Europe may be managed at <http://youronlinechoices.com/>.  You may also opt out of data collection related to the affiliate marketing programs in which we participate [here](http://optout.skimlinks.com/?tested=1cosmo).
 
 For mobile devices, you can limit the use of information for this type of advertising using options presented in your device setting controls which limit ad tracking or reset your advertising identifier.
 
@@ -101,7 +104,7 @@ _Third Parties Involved in a Business Transfer._   If we sell, merge, or otherw
 
 _Third Parties Involved in Protecting Us and Others.   _We may disclose your Personally Identifiable Information when we believe in good faith that the disclosure is necessary to: comply with a law, regulation, legal or regulatory process (including investigations), subpoena, warrant, or other legal order; to enforce or apply our Terms of Service and other Site policies; or protect the rights, property, or safety of us, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction, and for debt collection.
 
-**Is Personally Identiable Information About Me Secure?**
+**Is Personally Identifiable Information About Me Secure?**
 
 We use industry-standard security technologies and procedures to help protect your Personally Identifiable Information from unauthorized access, use, or disclosure.  However, no method of transmission over the Internet, or method of electronic storage, is 100% secure and we cannot guarantee absolute security or your Personally Identifiable Information.
 
@@ -151,4 +154,4 @@ We may amend this Privacy Policy from time to time. Use of Personally Identifiab
 
 If you have any questions or concerns regarding privacy while using the Sites, you may contact us at [legal@complex.com](mailto:legal@complex.com).  We will make every effort to resolve your concerns.
 
-_Effective Date: May 16, 2017_
+_Effective Date: August 1, 2017_
