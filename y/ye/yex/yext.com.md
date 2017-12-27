@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627032723id_/http%3A//www.yext.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228005256id_/http%3A//www.yext.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Our Privacy Policy | Information We Collect - Yext
 
 **Yext, Inc. Privacy Policy**  
 (Effective Date: May 3rd, 2017)
