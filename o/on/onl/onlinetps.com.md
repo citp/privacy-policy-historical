@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the onlinetps.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628084358id_/http%3A//www.onlinetps.com/shop/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetps.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227191752id_/http%3A//www.onlinetps.com/shop/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : OnlineTPS.com, Welcome to the World of Electronics
 
-www.onlineTPS.com and its affiliates (Total Project Solutions) respect your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by www.onlinetps.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by www.onlinetps.com you agree to the collection and use of your data by www.onlinetps.com in the manner provided in this Privacy Policy.  
-   
-We want you to
+www.onlineTPS.com and its affiliates (Total Project Solutions) respect your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by www.onlinetps.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by www.onlinetps.com you agree to the collection and use of your data by www.onlinetps.com in the manner provided in this Privacy Policy.
+
+  We want you to
 
     * feel comfortable using our website  
     * feel secure submitting information to us  
     * contact us with your questions or concerns about privacy on this site  
-    * know that by using our sites you are consenting to the collection of certain data  
-   
-What information is, or may be, collected from you?  
-   
-We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from a
+    * know that by using our sites you are consenting to the collection of certain data
+
+  What information is, or may be, collected from you?
+
+  We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from a
 
     * web server cookie stored on your hard drive  
     * an IP address, assigned to the computer which you use  
@@ -38,17 +38,17 @@ We may also collect the following information:
     * • The number of times you access the page  
     * • The number of times you have shopped on our web site
 
-You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.  
-   
-Who collects the information?
+You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
+
+  Who collects the information?
 
 We will collect anonymous traffic information from you when you visit our site. We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof.
 
 Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.
 
-The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.  
-   
-How is the information used?
+The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.
+
+  How is the information used?
 
 We use your personal information to:
 
@@ -85,4 +85,6 @@ We do not rent, sell or share your personal information and we will not disclose
     * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of www.onlinetps.com's terms of use or to defend against legal claims  
     * Special circumstances such as compliance with subpoenas, court orders, requests/order, notices from legal authorities or law enforcement agencies requiring such disclosure
 
-We share your information with advertisers on an aggregate basis only. The management of Total Project Solutions reserves the right to  _change_  the above Terms and conditions  _without prior notice_
+We share your information with advertisers on an aggregate basis only. 
+
+The management of Total Project Solutions reserves the right to  _change_  the above Terms and conditions  _without prior notice_
