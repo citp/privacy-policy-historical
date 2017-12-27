@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharestills.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626052856id_/http%3A//sharestills.com/common/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharestills.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227232124id_/http%3A//sharestills.com/common/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
