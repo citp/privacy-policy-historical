@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialexpress.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627204841id_/http%3A//www.financialexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialexpress.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228005732id_/http%3A//www.financialexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # OUR ONLINE PRESENCE - The Financial Express
 
