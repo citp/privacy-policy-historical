@@ -1,34 +1,56 @@
-> *The following text is extracted and transformed from the funny-pictures-blog.com privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308065728id_/http%3A//funny-pictures-blog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-pictures-blog.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235947id_/https%3A//www.viralviralvideos.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Viral Viral Videos
 
-## Privacy Policy
+This Privacy Policy governs the manner in which Viral Viral Videos collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https:/www.viralviralvideos.com](https://web.archive.org/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Viral Viral Videos.
 
-[](http://funny-pictures-blog.com/wp-content/uploads/2012/07/thinking-meme.png)
+ **Personal identification information**
 
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+ **Non-personal identification information**
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url: http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Funny Pictures Blog has no access or control over these cookies that may be used by third party advertisers.
+ **Web browser cookies**
 
-**Collection of Personal Information**  
-When visiting Funny Pictures Blog, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+ **How we use collected information**
 
-**Facebook:**
+Viral Viral Videos may collect and use Users personal information for the following purposes:
 
-As a registered Facebook user, you are also subject to Facebook’s privacy policy. Please check your Facebook account privacy settings for further information. When you first access the App, you will be presented with a Facebook permissions page, which will advise you about the Facebook information you will be sharing with the App and other Facebook users. You can then decide whether or not to share your Facebook information by using the App. If you decide not to grant permission you will not be able to use the App. By granting permission you will be agreeing to share your Facebook user details (including your name, profile picture, gender, networks, user ID and any other information you choose to share according to your Facebook account settings) as well as the user details of your Facebook friends, and information about your use of the App, for example, the articles you are reading. If you choose to post content or other data on the App, for example, by commenting on an article, this can be accessed by all of your Facebook friends. If you decide not to share information with your Facebook friends about a particular article you have accessed you can make your reading private using the “remove from timeline” facility at the top of the article page. To unsubscribe go to our Facebook page and at the top of the article page and select “Remove this application”. Alternatively, remove the App by accessing the application settings in your Facebook account settings. Once you remove the App we no longer have permission to access your Facebook information and your data will be removed from the App.
+  *  _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  *  _– To improve our Site_ We may use feedback you provide to improve our products and services.
 
-“This blog is in no way sponsored, endorsed or administered by, or associated with, Facebook”
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Funny Pictures Blog, then you may contact us [here](http://funny-pictures-blog.com/about-funny-pictures-lolpics-and-memes/)
+ **How we protect your information**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+ **Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+ **Google Adsense**
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+**Changes to this privacy policy**
+
+Viral Viral Videos has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+ **Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+ **Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+[Viral Viral Videos](https://web.archive.org/)
+
+[https:/www.viralviralvideos.com](https://web.archive.org/)
+
+This document was last updated on December 2, 2016
