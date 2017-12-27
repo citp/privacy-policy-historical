@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fadisk.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626192733id_/http%3A//www.fadisk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fadisk.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227221520id_/http%3A//www.fadisk.com/privacy) for the most accurate reproduction.*
 
 # privacy | Tech News : Fadisk.Com
 
