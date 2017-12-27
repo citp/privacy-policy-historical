@@ -1,911 +1,599 @@
-<!--The following is the downloaded HTML source of the discountanabolics.com privacy policy that was archived on 2005-03-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050304033831id_/http%3A//www.discountanabolics.com/page/DA/CTGY/Security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discountanabolics.com privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228000609id_/http%3A//www.namejet.com/Pages/Privacy.aspx) for the most accurate reproduction.-->
 
-<html><head><title>Security &amp; Privacy: Discount Anabolics</title><meta http-equiv="Content-Language" content="en-us"><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><meta name="Author" content="Discount Anabolics"><meta name="keywords" content="Security &amp; Privacy"><meta name="description" content="Security &amp; Privacy"><meta name="copyright" content="Copyright (c)2005 Discount Anabolics. All rights reserved."><base href="http://www.discountanabolics.com/Merchant2/">
-<script language="JavaScript">
-<!--
+<!DOCTYPE html><html class=" js flexbox rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent"><head id="ctl00_Head1">
 
-//Disable right click script III- By Renigade (renigade@mediaone.net)
-//For full source code, visit http://www.dynamicdrive.com
+    <!-- Google Tag Manager -->
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5THBLS"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5THBLS');</script>
+    <!-- End Google Tag Manager -->
 
-var message="";
-///////////////////////////////////
-function clickIE() {if (document.all) {(message);return false;}}
-function clickNS(e) {if 
-(document.layers||(document.getElementById&&!document.all)) {
-if (e.which==2||e.which==3) {(message);return false;}}}
-if (document.layers) 
-{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
-else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><title>
+	Privacy Policy - NameJet Domain Name Services
+</title>
 
-document.oncontextmenu=new Function("return false")
-// --> 
+    <script type="text/javascript">
+        function RemoveThisItem(domainName) {
+            var chk = $(".chk");
+            chk.each(function () {
+                if ($(this).attr("title").toString().toLowerCase() == domainName.toLowerCase()) {
+                    $(this).children().attr('checked', true);
+                    var hDiv = $(this).parent();
+
+                    $(this).parent().parent().parent().parent().parent().remove();
+                    $("#ctl00_ContentPlaceHolder1_BrowseDomainListPage_RemovedDomains").val($("#ctl00_ContentPlaceHolder1_BrowseDomainListPage_RemovedDomains").val() + "," + domainName);
+
+                    var pd = false;
+                    var pa = false;
+                    var pr = false;
+                    var wl = false;
+                    var d = $(".hDiv");
+                    d.each(function () {
+                        if ($(this).attr("title") == "Pending Deletion")
+                            pd = true;
+                        if ($(this).attr("title") == "Public Auctions")
+                            pa = true;
+
+                        if ($(this).attr("title") == "Pre Release")
+                            pr = true;
+
+                        if ($(this).attr("title") == "Wish List")
+                            wl = true;
+                    });
+
+                    if (!wl)
+                        $("#wlAuctions").html("<div class='sNoResults'>No wish list auctions found!</div>");
+                    if (!pd)
+                        $("#pdAuctions").html("<div class='sNoResults'>No pending delete domains found!</div>");
+                    if (!pa)
+                        $("#pAuctions").html("<div class='sNoResults'>No public auctions found!</div>");
+                    if (!pr)
+                        $("#prAuctions").html("<div class='sNoResults'>No pre release auctions found!</div>");
+                }
+            });
+        }
+
+        function RemoveHiddenDomains() {
+            var rDomains = $("#ctl00_ContentPlaceHolder1_BrowseDomainListPage_RemovedDomains").val();
+
+            if (rDomains != "" && rDomains != null) {
+                var arr = rDomains.split(",");
+                for (var g = 0; g < arr.length; g++) {
+
+
+                    RemoveThisItem(arr[g]);
+                }
+            }
+        }
+    </script>    
+
+	    
+	<meta name="keywords" content="NameJet Privacy Policy, NameJet Policy">
+
+	<meta name="description" content="NameJet Privacy Policy - NameJet provides domain auction services and backorder domain registration.">
+<link rel="shortcut icon" href="/_images/global/favicon.ico"><link rel="stylesheet" media="all" href="/_css/global.css?20150803">
+                
+    <script src="/_js/vendor/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="/_js/global.js"></script>
+	<script src="/_js/vendor/bootstrap.min.js"></script>
+	<script type="text/javascript">
+	    $(function () {	        
+	        if ($('#njtopimg').css('display') == 'none') {
+	            $('#njtopimg').parent().html("<img src='../../ba/__top-default.png' />");
+	        };
+
+			$('.carousel').carousel();
+		})
+	</script>
+        
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '390719754625481', { });
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" 
+    src="https://www.facebook.com/tr?id=390719754625481&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
+
+    <link rel="stylesheet" media="all" href="/_css/responsive.css"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"></head>
+    <body id="ctl00_MasterBody">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5THBLS"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <!--[if lt IE 7 ]><div class="ie6"><![endif]-->
+<!--[if IE 7 ]><div class="ie7"><![endif]-->
+<!--[if IE 8 ]><div class="ie8"><![endif]-->
+<!--[if IE 9 ]><div class="ie9"><![endif]-->
+
+        <!-- SJL0VWNAMEJET01 -->
+        
+        
+	    <form name="aspnetForm" method="post" action="./Privacy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAyNzk3NTcyOA9kFgJmD2QWAgIDD2QWAgIBD2QWBgICDw8WAh4LTmF2aWdhdGVVcmwFFmh0dHA6Ly93d3cubmFtZWpldC5jb21kZAIID2QWAmYPZBYGAgEPZBYCAgEPDxYCHgRUZXh0ZWRkAgMPZBYCAgEPDxYCHwFlZGQCCQ9kFgICAQ8PFgIfAWVkZAISDw8WAh4HVmlzaWJsZWhkFgQCAQ88KwARAgEQFgAWABYADBQrAABkAgMPPCsAEQIBEBYAFgAWAAwUKwAAZBgCBRZjdGwwMCRHcmlkVmlld0RlYnVnUHJjD2dkBRtjdGwwMCRHcmlkVmlld0RlYnVnQXBpTGlua3MPZ2T9WqPaHL7+vJ1hW9te58ozJlZ02A==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
 </script>
-<link rel="Start" title="StoreMap" type="text/html" href="http://www.discountanabolics.com/store_map_DA.html">
-</head>
-<body bgcolor="black" text="white" link="004EFF" alink="FFAE00" vlink="004EFF">
 
-<style>
-A {color: #0099FF;}
-A:hover {color: #FFAE00;}
-A:active {color: blue;}
-BODY {scrollbar-arrow-color:orange;
-scrollbar-base-color: rgb(59,64,78);
-scrollbar-track-color: rgb(33,33,33)}
-</style>
-<div align="left">
-<table border="1" width="100%" cellspacing="0" cellpadding="0" bordercolor="#000000" style="border-width: 0">
-<tbody><tr>
-<td width="100%" valign="top" align="left" style="border-style: none; border-width: medium">
-<table border="0" width="100%" cellspacing="0" cellpadding="0" background="../images/header2.gif" style="border-collapse: collapse" bordercolor="#111111">
-<tbody><tr>
-<td valign="top" align="left" width="458"><font face="Arial">
-<a href="http://www.discountanabolics.com/">
-<img src="../images/site_logo.gif" border="0" alt="Security &amp; Privacy"></a></font></td>
-<td valign="top" align="left">&nbsp;</td>
-<td align="center" width="156"><font face="Arial"><b><i>
-<font color="#ffae00">FREE <br>
-UPS SHIPPING</font><br>
-<font color="#ffffff" size="1">On Orders $199+<br>
-Just $5.95 Otherwise</font></i></b></font></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top" align="left" style="border-style: none; border-width: medium">
-<div align="left">
-<table border="0" width="100%" cellspacing="0" cellpadding="0" background="../bar_bg.gif">
-<tbody><tr>
-<td valign="top" align="center">
-<a href="http://www.discountanabolics.com">
-<img border="0" src="../bar_01.gif" width="58" height="29"></a></td>
-<td valign="top" align="center">
-<a href="http://www.discountanabolics.com/page/DA/SFNT">
-<img border="0" src="../bar_03.gif" width="75" height="29"></a></td>
-<td valign="top" align="center">
-<a href="http://www.discountanabolics.com/page/DA/SRCH">
-<img border="0" src="../bar_07.gif" width="66" height="29"></a></td>
-<td valign="top" align="center">
-<a href="http://www.discountanabolics.com/page/DA/LOGN">
-<img border="0" src="../bar_05.gif" width="54" height="29"></a></td>
-<td valign="top" align="center">
-<a href="http://www.discountanabolics.com/forum/">
-<img border="0" src="../forum.gif"></a></td>
-<td valign="top" align="center">
-<a href="http://www.discountanabolics.com/page/DA/BASK">
-<img border="0" src="../basket2.gif" width="83" height="29"></a></td>
-<td valign="top" align="right">
-<a href="http://www.discountanabolics.com/page/DA/BASK">
-<img border="0" src="../checkout2.gif" width="140" height="29"></a></td>
-</tr>
-</tbody></table>
+
+<script src="/WebResource.axd?d=hYUe6bQljX4qTr6WqidE3678iWty2-wEfJG1o-hTt5zhd3nM1i2arRE7l8unBdcv7SQgX_s2BaiaGvXRSUc3SL64iXA1&amp;t=636354655360000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=QHpwminn2u_NZ1qiy_f378GroH6NWx8_xmv8TbQdgzDXuOJ8JTYjV2mqw9-rcr_xU0FZMcC1pHWml3a9SDQyhjqW6C6MOU0FykLF1hGD9c1_b66N41r-CiPqoIBgZa08EJumDXJdvUqTN8m2xTsu_4TCFJE1&amp;t=3d6efc1f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=D_zRKFqv5XyFWxQvMt2f2MDxYh2K1f9hJwRFjMdiaQ84IebS3d6DJ2G28OFbvXvWGXul0FStj4iSLTXWd_ecmDYhYQ1rFmpO0k1n0zm5SA2P3uSS8C5n001mxRb_Uj84BDSyukpAe_TTaacJ3uCcuDFeWZf4hKIaRu12qWUR59a4qony0&amp;t=3d6efc1f" type="text/javascript"></script>
+<script src="/Script/ajax_error_override.js" type="text/javascript"></script>
+<script src="/Script/SafariAjaxFix.js" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7558CF4A">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAW0ADveDhvI/4bpv3JhcRuIcGFkvIpl/077I1BA1REzyyXtNVOi2r2f18ZSxPhMFRBjCLvIvNIw+1OlnOJtWXXrZu5x1d6Uv0to/9msEL+c43/uWblGKTr6wRlqXqnx80yTjkZu">
+</div>	        
+
+
+	        
+	            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$cphScriptManager$ScriptManager', 'aspnetForm', ['tctl00$udpBulkSubmit',''], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+            
+
+	        <!--[if lt IE 8]>
+		        <div class="sIEfix">
+                    <div class="sub">
+			            <div>
+                            <strong>You are using an outdated browser.</strong>
+                            <span>For a better experience using this site, please upgrade to a modern web browser.</span>
+                        </div>
+                        <ul>
+                            <li class="icon chrome"><a href='http://www.google.com/chrome' target='_blank'>Chrome</a></li>
+                            <li class="icon firefox"><a href='http://www.firefox.com' target='_blank'>Firefox</a></li>
+                            <li class="icon safari"><a href='http://www.apple.com/safari/download/' target='_blank'>Safari</a></li>
+                            <li class="icon ie-latest"><a href='http://windows.microsoft.com/en-us/internet-explorer/products/ie/home' target='_blank'>IE9+</a></li>
+                        </ul>
+			        </div>
+		        </div>
+            <![endif]-->
+
+		    <div class="sWrp">
+            <div class="sWrp2">
+		       
+                <div class="sSliver">
+                    <em class="sNote">The Premier Domain Name Aftermarket Service</em>
+	            </div>
+          
+			    <a name="top"></a>
+                <!-- <div id="ctl00_pnlS2N" class="sS2N">
+	<a href="#nav">Skip to Nav</a>
+</div> -->
+                
+                <div id="divMobileApp">   
+                    <!-- <a href="https://itunes.apple.com/us/app/namejet/id875473995" target="_blank">
+                       <img src="/Images/iphone-banner-v3.png" alt="iPhone NameJet Mobile App" />                    
+                    </a> -->
+                    <a href="http://www.namejet.com/featuredauctions/liveauction" target="_blank">
+                       <img id="njtopimg" src="../../ba/namesconlive-full-011.png" alt="NamesCon">                        
+                    </a>
+                </div>
+
+			    <div class="sHdr">
+				    <div class="logo">
+				        <a id="ctl00_lnkHome" href="http://www.namejet.com">
+                            <span>NameJet</span>
+                        </a>
+                    </div>
+			    </div>
+
+			    <a name="nav"></a>
+
+                <div id="ctl00_mainNav" class="sNv1">
+	
+                    <div>
+					    <ul>                                                  
+                            <li class="sNv1-0"><a href="/featuredauctions/liveauction">NamesCon</a></li>                                  				    
+						    <li class="sNv1-1"><a href="/Pages/Auctions/BrowseDomains.aspx">Search</a></li>                            
+                            <li class="sNv1-3"><a href="/Pages/Auctions/featuredauctions.aspx">Featured</a></li>
+                            <li class="sNv1-2"><a href="/Pages/Downloads.aspx">Downloads</a></li>
+                            <li class="sNv1-4"><a href="/Pages/support.aspx">Help Center</a></li>
+						    <li class="sNv1-5"><a href="/Pages/MyAccount/Dashboard.aspx"><span class="sHDm">My</span> Account</a></li>
+					    </ul>
+                    </div>
+                
 </div>
-</td>
-</tr>
-</tbody></table>
-</div><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="left" valign="top" bgcolor="black">
-<table border="0" cellspacing="0" cellpadding="10">
-<tbody><tr><td align="left" valign="top" nowrap=""><font face="Arial" size="2"><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2">
-    </font><font face="Arial" size="2"><font face="Arial" size="2">
-    </font></font><font face="Arial" size="2"><font face="Arial" size="2">
-    </font></font><font face="Arial" size="2"><font face="Arial" size="2">
-    </font></font><font face="Arial" size="2"><font face="Arial" size="2">
-    </font></font><font face="Arial" size="2"><font face="Arial" size="2">
-    </font></font><font face="Arial" size="2"><font face="Arial" size="2">
-    </font></font><font face="Arial" size="2"><font face="Arial" size="2">
-    </font></font><table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width=; border-left-width:0; border-right-width:0; border-top-width:0" id="AutoNumber1" height="547" bordercolor="#596478">
-  <tbody><tr>
-    <td width="152" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium" height="15" background="http://www.discountanabolics.com/Merchant2/graphics/00000001/bar.gif" bordercolor="#596478">
-    <b><a href="http://www.discountanabolics.com/page/DA/CTGY/M">
-    <font size="1" face="Arial" color="#FFFFFF">Manufacturers</font></a></b></td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-style:solid; border-width:1; " bordercolor="#596478" height="25">
-    <div style="border-style: solid; border-width: 0; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1">
-      <font face="Arial" size="2">
-      <select name="jumpto" onchange="location=this.options[this.selectedIndex].value" style="font-size:8pt;font-family:Arial">
-      <option>Go to...</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/ACCUFITNESS">
-      AccuFitness</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/AST">AST Sports 
-      Science</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/AXIS_LABS">Axis 
-      Labs</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/bgn">Bill Grant 
-      Nutrition</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/BIOTEST">Biotest
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/BFX">Body Fx
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/BBS">BBS
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/BSN">BSN
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/CRC">Carter-Reed 
-      Company</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/CHAMPION">Champion 
-      Nutrition</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/cj">Chef Jays 
-      (Tri-o-Plex)</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/CYTODYNE">Cytodyne
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/cytosport">CytoSport
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/DS">Designer 
-      Supplements</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/DA">DiscountAnabolics.com
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/DYA">Dorian Yates 
-      Appoved</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/dymatize">Dymatize
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/DL">Dynamic Life
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/EAS">EAS
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/ECLIPSE">Eclipse
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/EGOCEUTICAL">
-      EGOceutical</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/EDT">Elite Delivery 
-      Tech</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/ENDUROX">Endurox
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/ERGOPHARM">ErgoPharm
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/EBS">Extreme 
-      BioSciences</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/FE">Fitness Enterprise
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/FS">Five Star
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/fpt">Fizogen
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/GASPARI">Gaspari 
-      Nutrition</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/GAT">German American 
-      Tech</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/HFTS">Health 
-      From the Sun</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/HIMALAYA">Himalaya 
-      USA</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/INSTONE">Instone
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/ISATORI">iSatori 
-      (Lean System 7)</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/iss">ISS Research
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/JAN_TANA">Jan 
-      Tana</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/KETO">Keto Concepts
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/KB">Klein-Becker
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/LABRADA">Labrada
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/LEGAL_GEAR">Legal 
-      Gear</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/MAN">MAN
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/MAXUS">Maxus 
-      (Ignite)</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/MP">Mega-Pro
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/METRX">Met-Rx
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/MHP">MHP
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/MISSION_NUTRITION">
-      Mission Nutrition</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/MOLECULAR_NUTRITION">
-      Molecular Nutrition</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/MM">Muscle Marketing 
-      USA</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/MUSCLE_SANDWICH">
-      Muscle Sandwich</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/MUSCLEMANIA">
-      MuscleMania</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/MUSCLETECH">Muscletech
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/MYOCHEM">MyoChem
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/NATURES_BEST">
-      Nature's Best</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/NP">Next Proteins
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/NUTRABOLICS">
-      Nutrabolics</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/NUTRA-SPORT">
-      NutraSport</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/Nutrex">Nutrex
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/nve">NVE Pharm 
-      (Stacker 2)</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/NXCARE">NxCare
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/PHARMAGENX">PharmaGenX
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/PINNACLE">Pinnacle
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/POWERBUTTER">
-      Power Butter</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/PREMIER">Premier 
-      Nutrition</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/PROLAB">ProLab
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/PROMATRIX">Promatrix
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/PROMAX">Promax 
-      Bars</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/RTO">RTO Sportsgear
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/SAN">SAN Nutrition
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/scitec">Scitec
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/SNS">Serious 
-      Nutrition Sltns.</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/Sopharma">Sopharma 
-      (Tribestan)</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/SSUSA">Strength 
-      Systems USA</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/SYNTRAX">Syntrax
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/THERMOLIFE">ThermoLife
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/TIGERS_MILK">
-      Tiger's Milk</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/trimspa">TrimSpa
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/TWINLAB">TwinLab
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/UDOS">Udo's Choice
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/ULTIMATE">Ultimate 
-      Nutrition</option>
-      <option value="http://www.discountanabolics.com/page/DA/PROD/ACCESSORIES/AUS">
-      Ultimate Shaker</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/ultralab">Ultra-Lab
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/un">Universal 
-      Nutrition</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/UTRITION">Utrition 
-      (Liquid Vitamin)</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/VNS">VNS (Jacked)
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/VPX_SPORTS">VPX 
-      Sports</option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/VYO-TECH">Vyo-Tech
-      </option>
-      <option value="http://www.discountanabolics.com/page/DA/CTGY/WORLDSIZE">WorldSize
-      </option>
-      </select></font><font size="1" face="Arial"> </font>
-      
-    </div>
-    </td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-bottom-style:none; border-bottom-width:medium" height="15">
-    </td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium" height="15" background="http://www.discountanabolics.com/Merchant2/graphics/00000001/bar.gif" bordercolor="#596478">
-    <b><a href="http://www.discountanabolics.com/page/DA/CTGY/C">
-    <font size="1" face="Arial" color="#FFFFFF">Categories</font></a></b></td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-style:solid; border-width:1; " bordercolor="#596478" height="25">
-    <select name="jumpto" onchange="location=this.options[this.selectedIndex].value" style="font-size:8pt;font-family:Arial">
-    <option selected="">Go to...</option>
-    <option style="COLOR: #ffffff; BACKGROUND-COLOR: #333333">Cell Volumizing
-    </option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/CM">&nbsp; Citrulline 
-    Malate</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/CEE">&nbsp; Creatine 
-    Ethyl Ester</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/NO">&nbsp; NO2 
-    Nitric Oxide</option>
-    <option style="COLOR: #ffffff; BACKGROUND-COLOR: #333333" value="http://www.discountanabolics.com/page/DA/CTGY/PH">
-    Pro-Hormone</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/ANTI-ESTROGEN">&nbsp; 
-    Anti-Estrogen</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/HGH">&nbsp; hGH
-    </option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/DHEA">&nbsp; DHEA
-    </option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/PH">&nbsp; Prohormone
-    </option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/SC">&nbsp; Stacks 
-    and Cycles</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/TRIBULUS">&nbsp; 
-    Tribulus Terrestris</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/ZMA">&nbsp; ZMA
-    </option>
-    <option style="COLOR: #ffffff; BACKGROUND-COLOR: #333333" value="http://www.discountanabolics.com/page/DA/CTGY/P">
-    Protein</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/MRP">&nbsp; Meal 
-    Replacements</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/bars">&nbsp; Protein 
-    Bars</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/Protein">&nbsp; 
-    Protein Powder</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/WG">&nbsp; Weight 
-    Gainer</option>
-    <option style="COLOR: #ffffff; BACKGROUND-COLOR: #333333" value="http://www.discountanabolics.com/page/DA/CTGY/WL">
-    Weight Loss</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/AS">&nbsp; Appetite 
-    Suppressant</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/CAFFEINE">&nbsp; 
-    Caffeine</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/CLA">&nbsp; CLA
-    </option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/EF">&nbsp; Ephedra 
-    Free</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/THERMOGENICS">&nbsp; 
-    Thermogenics</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/CG">&nbsp; Topical 
-    Fat Loss</option>
-    <option style="COLOR: #ffffff; BACKGROUND-COLOR: #333333" value="http://www.discountanabolics.com/page/DA/CTGY/C">
-    MORE</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/ALA">Alpha Lipoic 
-    Acid</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/RTO">Belts/Straps/Gloves
-    </option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/CREATINE">Creatine
-    </option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/glutamine">Glutamine/Amino 
-    Acids</option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/js">Joint Support
-    </option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/ME">Mood Enhancers
-    </option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/MI">Myostatin Blockers
-    </option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/ACCESSORIES">Shakers/T-Shirts/Books
-    </option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/SS">Sexual Stimulants
-    </option>
-    <option value="http://www.discountanabolics.com/page/DA/CTGY/VITAMINS">Vitamins
-    </option>
-    </select> </td>
-    
-  </tr>
-  <tr>
-    <td width="154" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-bottom-style:none; border-bottom-width:medium" height="1">
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    </td>
-    
-  </tr>
-  <tr>
-    <td width="154" align="center" style="border-style:none; border-width:medium; " height="18">
-    <font face="Arial" color="#ffffff" size="2">
-    <img src="http://www.discountanabolics.com/logos.gif" border="0" width="120" height="72"></font></td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium" height="15" background="http://www.discountanabolics.com/Merchant2/graphics/00000001/bar.gif" bordercolor="#596478">
-    <b><font size="1" face="Arial" color="#FFFFFF">
-    <a href="http://www.discountanabolics.com/page/DA/SRCH">
-    <font color="#FFFFFF">Product Search</font></a></font></b></td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-style: solid; border-width: 1; " bordercolor="#596478" height="22">
-    <form action="http://www.discountanabolics.com/Merchant2/merchant.mv?" method="post">
-      <font size="1" face="Arial">
-      <input type="hidden" value="DA" name="Store_Code">
-      <input type="hidden" value="SRCH" name="Screen"></font><font size="1">
-      <input name="Search" size="10" style="font-family: Arial; font-size: 8pt"></font><font size="1" face="Arial">
-      </font>
-      <input type="submit" value="GO" style="font-size: 8pt; font-family: Arial">
-    </form>
-    </td>
-    
-  </tr>
-  <tr>
-    <td width="154" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-bottom-style:none; border-bottom-width:medium" height="15">
-    <font size="1">&nbsp;</font></td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium" height="15" background="http://www.discountanabolics.com/Merchant2/graphics/00000001/bar.gif" bordercolor="#596478">
-    <b><font face="Arial" size="1" color="#FFFFFF">Product Guide</font></b></td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-style: solid; border-width: 1; " bordercolor="596478" height="26">
-    <p align="left"><font face="Arial" size="1">&nbsp;</font><font color="#FFFFFF" face="Arial" size="1"><a href="http://www.discountanabolics.com/page/DA/CTGY/MF">for 
-    Men</a></font><font face="Arial" size="1"><br>
-&nbsp;</font><font color="#FFFFFF" face="Arial" size="1"><a href="http://www.discountanabolics.com/page/DA/CTGY/WF">for 
-    Women</a></font></p>
-    </td>
-    
-  </tr>
-  <tr>
-    <td width="154" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-bottom-style:none; border-bottom-width:medium" height="13">
-    </td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium" height="15" background="http://www.discountanabolics.com/Merchant2/graphics/00000001/bar.gif" bordercolor="#596478">
-    <b><font face="Arial" size="1" color="#FFFFFF">
-    <a href="http://www.discountanabolics.com/page/DA/CTGY/si">
-    <font color="#FFFFFF">Store Information</font></a></font></b></td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-style: solid; border-width: 1; " bordercolor="#596478" height="106">
-    <p align="left"><font color="#FFFFFF" face="Arial" size="1">&nbsp;</font><font face="Arial" size="2"><font face="Arial" color="#ffffff" size="1"><a href="http://www.discountanabolics.com/page/DA/CTGY/Aboutus">About 
-    Us</a><br>
-&nbsp;<a href="http://www.discountanabolics.com/page/DA/CTGY/CONTACT_US">Contact 
-    Us</a> / <a href="http://www.discountanabolics.com/helpdesk">Help Desk</a><br>
-&nbsp;<a href="http://www.discountanabolics.com/page/DA/CTGY/FAQ">FAQ</a><br>
-&nbsp;<a href="http://www.discountanabolics.com/forum/">Forum</a> /
-    <a href="http://www.discountanabolics.com/forum/viewforum.php?f=13">Articles</a>
-    </font><font face="Arial" color="#ffa500" size="1">NEW</font><font face="Arial" color="#ffffff" size="1"><br>
-&nbsp;<a href="http://www.discountanabolics.com/subscribe2/index.mv">Newsletter</a>
-    </font><font face="Arial" color="orange" size="1">SIGN UP</font><font face="Arial" color="#ff0000" size="1"><br>
-&nbsp;<a href="http://www.discountanabolics.com/page/DA/CTGY/ot">Order Status System</a></font><font face="Arial" color="#ffffff" size="1"><br>
-&nbsp;</font></font><font face="Arial" size="1"><a href="http://www.discountanabolics.com/page/DA/CTGY/TU">Ordering 
-    Policies</a></font><br>
-    <font face="Arial" color="#ffffff" size="1">&nbsp;<a href="http://www.discountanabolics.com/page/DA/CTGY/Security">Security 
-    and Privacy</a></font></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-bottom-style:none; border-bottom-width:medium" bordercolor="#596478" height="1">
-    </td>
-    
-  </tr>
-  <tr>
-    <td width="154" align="center" style="border-style:none; border-width:medium; " height="12">
-    </td>
-  </tr>
-  <tr>
-    <td width="154" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium" height="12" background="http://www.discountanabolics.com/Merchant2/graphics/00000001/bar.gif">
-    <b><font face="Arial" color="#ffffff" size="1">Slamn' Special</font></b></td>
-  </tr>
-  <tr>
-    <td width="154" align="center" style="border-style:solid; border-width:1; " height="12" bordercolor="#596478">
-    <a href="http://www.discountanabolics.com/page/DA/PROD/SN12">
-    <img alt="CVM Xtreme" src="http://www.discountanabolics.com/Merchant2/graphics/00000001/cvm_xtreme_tn.gif" border="0" width="70" height="90"><br>
-    </a><font face="Arial" size="1">
-    <a href="http://www.discountanabolics.com/page/DA/PROD/SN12">CVM Xtreme</a><br>
-    </font><font face="Arial" size="1" color="#FFFFFF">Cell Volumizing Matrix</font><font face="Arial" size="2"><font face="Arial" size="1"><br>
-    </font><font color="#ffffff" size="1" face="Arial"><strike>$59.95</strike><b>
-    </b></font><b><font face="Arial" color="#ffae00" size="1">$34.95</font></b></font></td>
-  </tr>
-  <tr>
-    <td width="154" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-bottom-style:none; border-bottom-width:medium" height="12">
-    </td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium" height="15" background="http://www.discountanabolics.com/Merchant2/graphics/00000001/bar.gif">
-    <font face="Arial" size="1" color="#FFFFFF"><b>Hottest Sellers</b></font></td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-style: solid; border-width: 1; " bordercolor="#596478" height="193">
-    <font face="Arial" size="2">
-    </font><p align="left"><font face="Arial" size="2"><font face="Arial" color="#ffffff" size="1">01.
-    <a href="http://www.discountanabolics.com/page/DA/PROD/MP01">VasoPro Ephedrine 
-    HCl</a><br>
-    02. <a href="http://www.discountanabolics.com/page/DA/PROD/HRX">Hot-Rox A7-E</a><br>
-    03. <a href="http://www.discountanabolics.com/page/DA/PROD/BN1">Nitrix</a><br>
-    04. <a href="http://www.discountanabolics.com/page/DA/PROD/BS01">NO-Xplode</a><br>
-    05. <a href="http://www.discountanabolics.com/page/DA/PROD/6OXO">6-OXO</a><br>
-    06. <a href="http://www.discountanabolics.com/page/DA/PROD/AUS">Ultimate Shaker</a><br>
-    07. <a href="http://www.discountanabolics.com/page/DA/PROD/CJT">Tri-O-Plex</a><br>
-    08. <a href="http://www.discountanabolics.com/page/DA/PROD/CSMM">Muscle Milk</a><br>
-    09. <a href="http://www.discountanabolics.com/page/DA/PROD/NPD">Designer Whey</a><br>
-    10. <a href="http://www.discountanabolics.com/page/DA/PROD/BS02">CellMass</a><br>
-    11. <a href="http://www.discountanabolics.com/page/DA/PROD/VP04">VPX CEX</a><br>
-    12. <a href="http://www.discountanabolics.com/page/DA/PROD/TRB">Tribestan</a><br>
-    13. <a href="http://www.discountanabolics.com/page/DA/PROD/LP6">Lipo-6</a><br>
-    14. <a href="http://www.discountanabolics.com/page/DA/PROD/A2B">Anabolics 2005</a><br>
-    15. <a href="http://www.discountanabolics.com/page/DA/PROD/MT08">Thermo-Gain</a><br>
-    16. <a href="http://www.discountanabolics.com/page/DA/PROD/MRB">Big 100 Bars</a><br>
-    17. <a href="http://www.discountanabolics.com/page/DA/PROD/MIC">Micellean 2lb</a><br>
-    18. <a href="http://www.discountanabolics.com/page/DA/PROD/3004">SAN Tight</a><br>
-    19. <a href="http://www.discountanabolics.com/page/DA/PROD/VRL">VPX RedLine</a><br>
-    20. </font></font><font face="Arial" color="#ffffff" size="1">
-    <a href="http://www.discountanabolics.com/page/DA/PROD/SA01">V12 Turbo</a></font></p>
-    </td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-bottom-style:none; border-bottom-width:medium" height="19">&nbsp;</td>
-    
-  </tr>
-  <tr>
-    <td width="152" align="center" style="border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-top-style:none; border-top-width:medium" height="15" background="http://www.discountanabolics.com/Merchant2/graphics/00000001/bar.gif" bordercolor="#596478">
-    <b><font face="Arial" size="1" color="#FFFFFF">Customer Testimonials</font></b></td>
-    
-  </tr>
-  <tr>
-    <td width="152" style="border-style: solid; border-width: 1; " bordercolor="#596478" height="1">
-    <p align="left"><font size="1" face="Arial">
-    <script language="JavaScript1.2">
-/*
-Fading Scroller- By DynamicDrive.com
-For full source code, and usage terms, visit http://www.dynamicdrive.com
-This notice MUST stay intact for use
-*/
 
-var delay=4000 //set delay between message change (in miliseconds)
-var fcontent=new Array()
-begintag='<font face="Arial" size=1>' //set opening tag, such as font declarations
-fcontent[0]="I have searched all over the web and your site has the best prices by far. Literally half of what I pay at my local store. <b>- W. Foster, CA</b>"
-fcontent[1]="<FONT face=Arial size=1>How do you get everything in stock before everyone else?...You havn't missed yet! <b>- A. Jones, FL</b>"
-fcontent[2]="Man that was fast...<br>You guys have got yourselves a <u>customer for life!</u> <b>- M. Richardson, AZ</b></a>"
-closetag='</font>'
+                <div id="ctl00_pnlAccountStatus" class="aSt sAtten1">
+	<span id="ctl00_AccountStatusLabel"></span>
+</div>			
 
-var fwidth=155 //set scroller width
-var fheight=70 //set scroller height
-
-var fadescheme=1 //set 0 to fade text color from (white to black), 1 for (black to white)
-var fadelinks=1  //should links inside scroller content also fade like text? 0 for no, 1 for yes.
-
-///No need to edit below this line/////////////////
-
-var hex=(fadescheme==0)? 255 : 0
-var startcolor=(fadescheme==0)? "rgb(255,255,255)" : "rgb(0,0,0)"
-var endcolor=(fadescheme==0)? "rgb(0,0,0)" : "rgb(255,255,255)"
-
-var ie4=document.all&&!document.getElementById
-var ns4=document.layers
-var DOM2=document.getElementById
-var faderdelay=0
-var index=0
-
-if (DOM2)
-faderdelay=2000
-
-//function to change content
-function changecontent(){
-if (index>=fcontent.length)
-index=0
-if (DOM2){
-document.getElementById("fscroller").style.color=startcolor
-document.getElementById("fscroller").innerHTML=begintag+fcontent[index]+closetag
-linksobj=document.getElementById("fscroller").getElementsByTagName("A")
-if (fadelinks)
-linkcolorchange(linksobj)
-colorfade()
-}
-else if (ie4)
-document.all.fscroller.innerHTML=begintag+fcontent[index]+closetag
-else if (ns4){
-document.fscrollerns.document.fscrollerns_sub.document.write(begintag+fcontent[index]+closetag)
-document.fscrollerns.document.fscrollerns_sub.document.close()
-}
-
-index++
-setTimeout("changecontent()",delay+faderdelay)
-}
-
-// colorfade() partially by Marcio Galli for Netscape Communications.  ////////////
-// Modified by Dynamicdrive.com
-
-frame=20;
-
-function linkcolorchange(obj){
-if (obj.length>0){
-for (i=0;i<obj.length;i++)
-obj[i].style.color="rgb("+hex+","+hex+","+hex+")"}}
-
-function colorfade() {	         	
-// 20 frames fading process
-if(frame>0) {	
-hex=(fadescheme==0)? hex-12 : hex+12 // increase or decrease color value depd on fadescheme
-document.getElementById("fscroller").style.color="rgb("+hex+","+hex+","+hex+")"; // Set color value.
-if (fadelinks)
-linkcolorchange(linksobj)
-frame--;
-setTimeout("colorfade()",20);	
-}
-
-else{
-document.getElementById("fscroller").style.color=endcolor;
-frame=20;
-hex=(fadescheme==0)? 255 : 0
-}   
-}
-
-if (ie4||DOM2)
-document.write('<div id="fscroller" style="border:1px solid black;width:'+fwidth+';height:'+fheight+';padding:2px"></div>')
-
-window.onload=changecontent
-              </script></font></p><div id="fscroller" style="border: 1px solid black; width: 155px; height: 70px; padding: 2px; color: rgb(255, 255, 255);"><font face="Arial" size="1">I have searched all over the web and your site has the best prices by far. Literally half of what I pay at my local store. <b>- W. Foster, CA</b></font></div><font size="1" face="Arial">
-    </font><p></p>
-    </td>
-    
-  </tr>
-</tbody></table><font face="Arial" size="2">
-</font>
-
-<a href="http://www.discountanabolics.com/page/DA/CTGY/C"><img src="graphics/00000001/dot.gif" alt="Categories" border="0"></a><br>
-<a href="http://www.discountanabolics.com/page/DA/CTGY/M"><img src="graphics/00000001/dot.gif" alt="Manufacturers" border="0"></a><br>
-<a href="http://www.discountanabolics.com/page/DA/CTGY/si"><img src="graphics/00000001/dot.gif" alt="Store Information" border="0"></a><br>
-</font></td></tr></tbody></table></td><td align="left" valign="top" width="80%"><br><blockquote>
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber1">
-  <tbody><tr>
-    <td width="90%" bgcolor="#000000"><i><b>
-    <font size="2" color="#FFFFFF" face="Arial"> Navigate
-</font></b></i></td>
-  </tr>
-  <tr>
-    <td width="90%" bgcolor="#333333">
-    <font size="2" face="Arial">&nbsp;<a href="/" class="nbbreadcrumbs">Home</a> &gt;&nbsp;<a href="http://www.discountanabolics.com/Merchant2/merchant.mv?Screen=CTGY&amp;Category_Code=si" class="nbbreadcrumbs">Store Information</a> &gt;&nbsp;Security &amp; Privacy<br></font></td>
-  </tr>
-</tbody></table><p>
-</p><h2><font face="Arial" size="3" color=""><b>Security &amp; Privacy</b></font></h2>
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><font face="Arial" size="2"></font><li><font face="Arial" size="2"><a href="http://www.discountanabolics.com/page/DA/CTGY/CVV2" class="nbsubcatnav">CVV2 Code</a>&nbsp;&nbsp;&nbsp;<br></font></li></td></tr></tbody></table>
-<table border="0" cellpadding="2" cellspacing="0"></table><font face="Arial" size="2"><p>
-</p><div align="left">
-  <table border="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber1">
-    <tbody><tr>
-      <td width="100%" bgcolor="#333333">
-      <p align="left"><b><font size="2" face="Arial"><font color="#FFAE00">Secure 
-      Server Certificate</font> </font></b></p>
-      </td>
-    </tr>
-  </tbody></table>
+                <div id="ctl00_pnlSearchBox" class="sNv2s" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ImageButtonSearch')">
+	
+			        <div class="search">
+                        <div>
+    			            <input name="ctl00$TextBoxSearch" type="text" value="Search Domains" id="ctl00_TextBoxSearch" class="text" placeholder="Search Domains" onfocus="javascript:if (this.defaultValue==this.value) this.value = '';this.style.color = 'black';" defaultbutton="ImageButtonSearch">
+				            <input type="submit" name="ctl00$ImageButtonSearch" value="Search" id="ctl00_ImageButtonSearch" class="button sRCLx">
+                        </div>
+                    </div>			        
+                
 </div>
-<p><font face="Arial" size="-1">All orders are processed with Equifax Secure Socket 
-Layer (SSL), which support 128-bit encryption, an industry standard for protecting 
-your personal information while and after your order is placed. Our SSL certificate 
-is up-to-date and ready to protect your information while checking out. This system 
-will protect all of your private information, including credit card number, from 
-ever being retrieved from potentially mischievous hackers.</font></p>
-<p><font face="Arial" size="-1">Don't take our word for it, verify our certificate 
-yourself.&nbsp; During the checkout process, you will be browsing through our SSL.&nbsp; 
-On your browser window, down in the right had corner, you will see a pad lock.&nbsp; 
-Double click the pad lock to reveal our certificate and its expiration date.</font></p>
-<p><font face="Arial" size="2">RMSN guarantees that every order placed will be 100% 
-Safe and Secure.&nbsp; No customer will be held liable for any unauthorized purchases 
-made on this site.&nbsp; If you feel for any reason that your privacy or security 
-has been breached, please contact us immediately.</font></p>
-<div align="left">
-  <table border="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber3">
-    <tbody><tr>
-      <td width="100%" bgcolor="#333333"><font face="Arial"><b>
-      <font size="2" color="#FFAE00">Privacy Policy</font></b></font></td>
-    </tr>
-  </tbody></table>
-</div>
-<p><font size="2" face="Arial">During the checkout process, we collect only the 
-information we need to process your order efficiently and effectively.&nbsp; RMSN 
-will not release <u>any</u> of your private information to <u>any</u> third party 
-organization or agency. Your information is kept safe and secure.&nbsp; Most importantly, 
-your information will not be used by RMSN for any unauthorized marketing.&nbsp; 
-Any phone calls or emails from RMSN will only be to collect additional information 
-to complete an existing order.</font></p>
-</font></blockquote></td><td align="left" valign="top"><br><center>
-<!--- START SCANALERT CODE --->
-<a target="_blank" href="//www.scanalert.com/RatingVerify?ref=www.discountanabolics.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.discountanabolics.com/12.gif" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
-<!--- END   SCANALERT CODE --->
-</center>
-<font></font>
 
+                <div id="ctl00_pnlLogin" class="sNv2">
 	
-	
-	
-	
-			
+                    <ul>
+                        
+                        <li id="createAcct"><a id="ctl00_plCreate" href="/Pages/Login.aspx">Create an Account</a></li>
+					    <li id="login"><a id="ctl00_plLogin" href="/Pages/Login.aspx">Log In</a></li>
+					</ul>
+                    <!-- // REVIEW THIS <span id="help"><a id="ctl00_lnkHelp" href="javascript:__doPostBack(&#39;ctl00$lnkHelp&#39;,&#39;&#39;)">Help</a></span> -->			
+				
+</div>
+				
+
+                <div class="sCnt">
+			        <div id="ctl00_udpBulkSubmit">
 	
 
-	
-	
-	<br>
-<div align="right">
-<table border="1" cellpadding="0" cellspacing="0" bordercolor="#596478" style="border-collapse: collapse; border-left-width:0; border-right-width:0; border-top-width:0" width="155" height="1">
-<tbody><tr>
-<td width="152" align="center" style="border-bottom-style:solid; border-bottom-width:1; border-left:1px solid #596478; border-right-color:#596478" bordercolor="#596478" height="39">
-<p align="center"><font size="1" face="Arial" color="#FFFFFF">Order By Phone<br>
-</font><b><font size="2" face="Arial" color="#FFAE00">1.800.475.7975</font></b><font size="1" face="Arial" color="#FFFFFF"><br>
-Mon-Fri 9am-5pm MST</font></p>
-</td>
-</tr>
-<tr>
-<td width="143" height="2" style="border-left:medium none #596478; border-right:medium none #596478; border-bottom-style:none; border-bottom-width:medium" bordercolor="#596478" align="center">&nbsp;</td>
-</tr>
-<tr>
-<td width="143" height="15" style="border-left-style:none; border-left-width:1px; border-right-style:none; border-right-width:1px; border-top-style:none; border-top-width:medium" bordercolor="#596478" background="http://www.discountanabolics.com/Merchant2/graphics/00000001/bar.gif">
-<p align="center"><font size="1" face="Arial" color="#FFFFFF">Free Email Newsletter</font></p>
-</td>
-</tr>
-<tr>
-<td width="155" height="87" style="border:1px solid #596478; " bordercolor="#596478">
-<font face="Arial" size="1">
-<form action="http://www.discountanabolics.com/subscribe2/index.mv?" method="POST">
-<input type="hidden" name="subscribe_task" value="subscribe">
-<input type="hidden" name="subscribe_action" value="process_action">
-<input type="hidden" name="subscribe_method" value="Manual"><center>
-<font color="#FFFFFF">Subscribe to our Newsletter for Specials, Coupons 
-and News!<br>
-Name: <input name="subscribe_name" size="15" style="font-size: 8pt"><br>
-Email: <input name="subscribe_email" size="15" style="font-size: 8pt"><br>
-<input type="submit" value=" Subscribe " style="font-size: 8pt"></font></center>
-</form>
-</font></td>
-</tr>
-<tr>
-<td width="143" height="14" style="border-left:1px none #596478; border-right:1px none #596478; border-bottom-style:none; border-bottom-width:medium" bordercolor="#596478">
-</td>
-</tr>
-<tr>
-<td width="143" height="15" style="border-left-style:none; border-left-width:1px; border-right-style:none; border-right-width:1px; border-top-style:none; border-top-width:medium" bordercolor="#596478" background="http://www.discountanabolics.com/Merchant2/graphics/00000001/bar.gif">
-<p align="center"><font size="1" face="Arial" color="#FFFFFF">Mini Basket</font></p>
-</td>
-</tr>
-<tr>
-<td width="143" height="51" style="border-left:1px solid #596478; border-right:1px solid #596478; border-bottom-style: solid; border-bottom-width: 1; border-top-style:solid; border-top-width:1" bordercolor="#596478">
-<p align="left"><font face="Arial" size="1"><font color="#FFFFFF">&nbsp;Items: 
-0<br>
-&nbsp;Sub-Total: $0.00</font><br>
-&nbsp;<a href="http://www.discountanabolics.com/Merchant2/merchant.mv?Screen=BASK&amp;Store_Code=DA">Basket</a> 
-|
-<a href="http://www.discountanabolics.com/Merchant2/merchant.mv?Screen=BASK&amp;Store_Code=DA">
-Checkout</a></font></p>
-</td>
-</tr>
-<tr>
-<td width="143" height="14" style="border-left:1px none #596478; border-right:1px none #596478; border-bottom-style:none; border-bottom-width:medium" bordercolor="#596478">
-</td>
-</tr>
-<tr>
-<td width="143" height="14" style="border-left:medium none #596478; border-right:medium none #596478; border-bottom-style:none; border-bottom-width:medium; border-top-style:none; border-top-width:medium" bordercolor="#596478">
-<p align="center"><b><font face="Arial" size="2">
-<a href="http://www.discountanabolics.com/page/DA/PROD/DA/DA02">Request a 
-Catalog</a></font></b></p>
-</td>
-</tr>
-<tr>
-<td width="143" height="14" style="border-left:1px none #596478; border-right:1px none #596478; border-bottom-style:none; border-bottom-width:medium; border-top-style:none; border-top-width:medium" bordercolor="#596478">
-</td>
-</tr>
-<tr>
-<td width="143" height="14" style="border-left:medium none #596478; border-right:medium none #596478; border-top-style:none; border-top-width:medium" bordercolor="#596478" background="http://www.discountanabolics.com/Merchant2/graphics/00000001/bar.gif">
-<p align="center"><font face="Arial" size="1" color="#FFFFFF">What's New</font></p>
-</td>
-</tr>
-<tr>
-<td width="143" height="14" style="border-left:1px solid #596478; border-right:1px solid #596478; border-bottom-style:solid; border-bottom-width:1; border-top-style:solid; border-top-width:1" bordercolor="#596478">
-<p align="center">
-<a href="http://www.discountanabolics.com/page/DA/PROD/AX01">
-<font face="Arial" size="2">
-<img alt="Creatine Ethyl Ester" src="http://www.discountanabolics.com/Merchant2/graphics/00000001/creatine_ethyl_ester_tn.gif" border="0" width="45" height="90"></font><br>
-<font face="Arial" size="1">Creatine Ethyl Ester</font></a><br>
-<font face="Arial" size="1" color="#FFFFFF"><strike>$49.95</strike> </font>
-<font face="Arial" size="1" color="#FFAE00">$29.95</font></p>
-</td>
-</tr>
-<tr>
-<td width="143" height="14" style="border-left:1px none #596478; border-right:1px none #596478; border-bottom-style:none; border-bottom-width:medium" bordercolor="#596478">
-</td>
-</tr>
-<tr>
-<td width="143" height="15" style="border-top-style: none; border-top-width: medium; border-left-style:none; border-left-width:1px; border-right-style:none; border-right-width:1px" bordercolor="#596478" background="http://www.discountanabolics.com/Merchant2/graphics/00000001/bar.gif">
-<p align="center"><font face="Arial" size="1" color="#FFFFFF">What's New Cont.</font></p>
-</td>
-</tr>
-<tr>
-<td width="143" height="1" style="border-left:1px solid #596478; border-right:1px solid #596478; border-top-style:solid; border-top-width:1; border-bottom-style:solid; border-bottom-width:1" bordercolor="#596478" bordercolorlight="#596478" bordercolordark="#596478">&nbsp;<font face="Arial" size="1" color="#FFFFFF"><a href="http://www.discountanabolics.com/page/DA/PROD/BT03">Biotest 
-Alpha Male</a><br>
-&nbsp;<strike>$89.95</strike> </font>
-<font face="Arial" size="1" color="#FFAE00">$47.95</font><hr width="90%" color="#596478" size="1">
-<font face="Arial" size="1">&nbsp;<a href="http://www.discountanabolics.com/page/DA/PROD/IS02">Oh 
-Yeah Bars</a><br>
-<font color="#FFFFFF">&nbsp;<strike>$36.95</strike> </font>
-<font color="#FFAE00">$23.95</font></font><hr width="90%" color="#596478" size="1">
-<font face="Arial" size="1">&nbsp;<a href="http://www.discountanabolics.com/page/DA/PROD/SA07">SAN 
-Nutrition CM2</a><br>
-<font color="#FFFFFF">&nbsp;<strike>$44.95</strike> </font>
-<font color="#FFAE00">$27.95</font></font><hr width="90%" color="#596478" size="1">
-<font face="Arial" size="1" color="#FFFFFF">&nbsp;<a href="http://www.discountanabolics.com/page/DA/CTGY/DYMATIZE">Dymatize</a>
-<a href="http://www.discountanabolics.com/page/DA/PROD/DY18">Mega Milk</a></font><font face="Arial" size="1"><br>
-</font><font face="Arial" size="1" color="#FFFFFF">&nbsp;<strike>$35.95</strike>
-</font><font face="Arial" size="1" color="#FFAE00">$18.95</font><hr width="90%" color="#596478" size="1">
-<font size="1" face="Arial">&nbsp;<a href="http://www.discountanabolics.com/page/DA/CTGY/VPX_SPORTS">VPX</a>
-<a href="http://www.discountanabolics.com/page/DA/PROD/VP10">Dietex</a><br>
-<font color="#FFFFFF">&nbsp;<strike>$32.95</strike> </font>
-<font color="#FFAE00">$16.95</font></font><hr width="90%" color="#596478" size="1">
-<font face="Arial" size="1">&nbsp;<a href="http://www.discountanabolics.com/page/DA/CTGY/LEGAL_GEAR">Legal 
-Gear</a> <font color="#FFFFFF">
-<a href="http://www.discountanabolics.com/page/DA/PROD/LG12">NO Infuse</a></font><br>
-</font><font face="Arial" size="1" color="#FFFFFF">&nbsp;<strike>$64.95</strike>
-</font><font face="Arial" size="1" color="#FFAE00">$39.95</font><hr width="90%" color="#596478" size="1">
-<font face="Arial" size="1">&nbsp;<font color="#FFFFFF"><a href="http://www.discountanabolics.com/page/DA/CTGY/GASPARI">Gaspari</a>
-<a href="http://www.discountanabolics.com/page/DA/PROD/GN07">Novedex XT</a></font><br>
-<font color="#FFFFFF">&nbsp;<strike>$59.95</strike> </font>
-<font color="#FFAE00">$34.95</font></font><hr width="90%" color="#596478" size="1">
-<font face="Arial" size="1">&nbsp;<a href="http://www.discountanabolics.com/page/DA/PROD/VN01">VNS 
-Jacked</a><br>
-<font color="#FFFFFF">&nbsp;<strike>$79.95</strike> </font>
-<font color="#FFAE00">$44.95</font></font><hr width="90%" color="#596478" size="1">
-<font face="Arial"><font size="1">&nbsp;<font color="#FFFFFF"><a href="http://www.discountanabolics.com/page/DA/CTGY/MUSCLETECH">Muscletech</a></font>
-<a href="http://www.discountanabolics.com/page/DA/PROD/MT08">Thermo-Gain</a><br>
-&nbsp;</font><font size="1" color="#FFFFFF"><strike>$49.95</strike> </font>
-<font size="1" color="#FFAE00">$29.95</font></font><hr width="90%" color="#596478" size="1">
-<font face="Arial" size="1">&nbsp;<a href="http://www.discountanabolics.com/page/DA/PROD/PN01">Esterified 
-Creatine 4000</a><br>
-<font color="#FFFFFF">&nbsp;<strike>$49.05</strike></font>
-<font color="#FFAE00">$29.95</font></font></td>
-</tr>
-</tbody></table>
-</div>
-</td></tr></tbody></table><p align="center"><img src="/images/cards.gif" border="0"><img src="/images/paypal.gif" border="0"><img src="/images/ssl.gif" border="0"><a target="_blank" href="http://www.bbbonline.org/cks.asp?id=1040322851641001"><img src="/images/bbb.gif" border="0" alt="Better Business Bureau Member"></a><img src="/images/scanalert.gif" border="0"></p>
-<p align="center"><a href="http://www.discountanabolics.com/page/DA/PROD/NO/NSS"><img src="/images/nitric_banner.gif" border="0" alt="Nitric Suspension"></a></p>
-<div align="left">
-<table cellspacing="0" cellpadding="0" width="100%" border="0" style="border-collapse: collapse" bordercolor="#111111" height="1">
-<tbody><tr>
-<td valign="top" align="left"><font face="Arial" color="#333333" size="1">
-No claims found on this web page or in print have been evaluated by the Food 
-and Drug Administration. None of the products listed on this web page are 
-intended to diagnose, treat, cure, or prevent any disease. No claim or opinion 
-on this web page is intended to be, nor should be construed to be, medical 
-advice. Please consult with a healthcare professional before starting any 
-diet or exercise program. Descriptions and images are the property of the 
-respective manufacturers. Actual product may differ from image posted.
-</font><font color="#333333" size="1" face="Arial">This site is best 
-viewed in 1024x768</font></td>
-</tr>
-</tbody></table>
-</div>
-<font face="Arial" color="lightgrey" size="1">
-<div align="left">
-<table cellspacing="0" cellpadding="0" width="100%" background="../bar_bottom.gif" border="0" style="border-collapse: collapse" height="25">
-<tbody><tr>
-<td width="22%" style="border-style: none; border-width: medium" align="left">
-<font color="#FFFFFF">&nbsp;</font><font color="#ffffff" size="1" face="Arial"><a href="http://www.discountanabolics.com/page/DA/CTGY/Security"><font color="#FFFFFF">Security/Privacy</font></a></font><font size="1" face="Arial" color="#FFFFFF"> 
-|&nbsp; </font><a href="http://www.discountanabolics.com/page/DA/CTGY/TU">
-<font size="1" face="Arial" color="#FFFFFF">Terms of Use</font></a><font color="#FFFFFF"></font></td>
-<td width="60%" style="border-style: none; border-width: medium" align="center">
-<p align="center"><font size="1" face="Arial" color="#FFFFFF">Copyright © 
-2005 Rocky Mountain Sports Nutrition LLC, Inc. All Rights Reserved</font></p>
-</td>
-<td width="22%" style="border-style: none; border-width: medium" align="right">
-<p align="right"><font size="1" color="#FFFFFF" face="Arial">
-<a href="http://www.discountanabolics.com/page/DA/CTGY/CONTACT_US">
-<font color="#FFFFFF">Contact Us</font></a> |
-<a href="http://www.discountanabolics.com/store_map_DA.html">
-<font color="#FFFFFF">Site Map</font></a><font size="1" face="Arial">
-</font></font></p>
-</td>
-</tr>
-</tbody></table>
-</div>
-</font>
-<ov version="4.936">
-<osv version="4.936">
-<mmv version="4.13">
-<mv version="Redirect/3.9700">
-<ot time="01s7330u">
-<tt time="02s0897u">
+			                
+        			    
+			                
 
-</tt></ot></mv></mmv></osv></ov></body></html>
+			                
+        			    
+			                
+        			    			    
+			                
+        			    
+			                <div id="AjaxError" class="sError" style="display:none">
+	                            <div id="Notice6">
+                                    <a onclick="javascript:document.getElementById('Notice6').style.visibility='hidden';" class="sFR">close</a>
+	                                <span id="ctl00_ajaxLabel"></span>
+                                </div>
+	                        </div>	
+
+			            
+</div>
+
+				    
+
+    <h1 class="sMTx sMBsm">NameJet Privacy Policy</h1>
+	
+
+
+	<p>
+		NameJet
+		knows that you care about how personal information about you is used and shared
+		and we appreciate your trust that we will do so carefully and sensibly. This notice
+		describes our Privacy Policy. By visiting
+		NameJet
+		, you are accepting the practices described in this Privacy Policy. For questions
+		regarding this Privacy Policy please contact
+		NameJet
+		using our <a href="/Pages/Contact.aspx">contact form</a>.</p>
+	<h3>
+		What Personal Information About Users Does
+		NameJet
+		Gather?</h3>
+	<dl>
+		<dt>Information You Give Us:</dt>
+		<dd>
+			We collect and store personal information you enter on our Web site or give us in
+			any other way. We use the information that you provide us for such purposes as enhancing
+			the experience of users in our network, responding to your requests, providing our
+			services (e.g., domain Backorder requests, auctions, and purchases), and communicating
+			with you about offers that may be of interest to you.</dd>
+		<dt>Automatic Information:</dt>
+		<dd>
+			Our Web site has features that collect information from users to assist us in creating
+			Web sites that honor our users' preferences and serve their interests and needs.</dd>
+	</dl>
+	<p>
+		Our Web site places cookies, which are small data files on the user's hard drive
+		when you visit our Web site. A cookie cannot read data off your hard drive. You
+		may refuse cookies by turning them off in your browser; however, if you reject the
+		placement of cookies, you may be limited in using some areas of our Web site. Some
+		cookies are used to improve your user experience by making login to our Web site
+		easier, such as by remembering usernames and passwords. Cookies can also enable
+		us to monitor users' movements through our Web site so that we may target user interests
+		to enhance their experience at our Web site. We may also collect click stream data
+		such as the full Uniform Resource Locators (URL) and assign unique identifiers to
+		our users for the purpose of tracking user behaviors. Information obtained with
+		these technologies may be associated with the personal information you have provided
+		us. Besides using the information as described above,
+		NameJet
+		may utilize cookies to control operations such as the flow of the ordering processes
+		related to your online transactions.</p>
+	<p>
+		We, or our third-party advertising partners, may also place cookies to provide advertisements
+		about goods or services that may be of interest to you. Since our advertisers and
+		other third parties whose products or services are promoted on our Web site may
+		also use cookies or other technology, we advise you to check the advertisers' privacy
+		policies for information about their privacy practices.</p>
+	<p>
+		We may also gather general information such as the date, time, browser type, operating
+		system, platform, navigation history, and IP address of all users to our site(s).
+		We use this information for our internal security audit log, trend analysis, and
+		system administration, and to gather broad demographic information about our users.
+		We may also associate this general information with your personal information. By
+		visiting our site, you affirmatively consent to our collection, use, and distribution
+		of your general and personal information and other related data to our partners
+		and advertisers. If you do not want us to share information about you with our partners
+		or advertisers, you may opt-out of receiving information by doing the following:</p>
+	<ol class="sOL">
+		<li>Login to "My Account".</li>
+		<li>Click on "Edit my Account Settings".</li>
+		<li>Select the "My Preferences" tab.</li>
+		<li>Choose your email settings under "Email Preferences"</li>
+		<li>Select the option not to receive advertisements.</li>
+	</ol>
+	<h3>
+		Does
+		NameJet
+		Share the Information It Receives?</h3>
+	<p>
+		Yes, we do share information with at least the entities listed below:</p>
+	<dl>
+		<dt>WHOIS:</dt>
+		<dd>
+			We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"),
+			the organization that assumes responsibility for domain name allocation, to collect
+			information about you during the domain name registration process. This information
+			includes your full name, mailing address, phone number, email address, and, where
+			provided, your facsimile number. ICANN then requires all registrars to make your
+			full name, mailing address, phone number, email address, and, where provided, your
+			facsimile number, as well as the creation and expiration dates of your domain name
+			registration and the name server information associated with your domain name, to
+			the public via an interactive Web page and a "port 43" WHOIS service. For the purposes
+			of this Privacy Policy we will refer to this information as your "WHOIS Information."
+			Please note that we may not be able to control how members of the public may use
+			the WHOIS Information.</dd>
+		<dt>Advertisers:</dt>
+		<dd>
+			We will share aggregated demographic information with our partners and advertisers.</dd>
+		<dt>Partners:</dt>
+		<dd>
+			We partner with other third party providers of specific services. When the user
+			signs up for these services, we will share names, e-mail addresses, or other contact
+			information that is necessary for the third party to provide these services.</dd>
+		<dt>Agents:</dt>
+		<dd>
+			We engage other companies and individuals to perform functions on our behalf. Examples
+			include processing credit card payments, providing marketing assistance, providing
+			customer services, sending postal mail and email to you, removing repetitive information
+			from customer lists, and analyzing data. These persons have access to user information
+			needed to perform their functions for the benefit of the user. These companies may,
+			or may not, retain, share, store or use personally identifiable information that
+			you provide to
+			NameJet
+			for any secondary purposes.</dd>
+		<dt>Service Providers:</dt>
+		<dd>
+			We engage other companies and individuals to perform enhanced services on our behalf.
+			For example, we my engage another service provider to provide free electronic mail
+			services to our domain name registrants. Many of our service providers have access
+			to personal information needed to perform these kinds of services.</dd>
+		<dt>Business Transfer:</dt>
+		<dd>
+			As we continue to develop our business, we might sell or buy businesses or their
+			assets. In such transactions, customer information generally is one of the transferred
+			business assets. Also, if
+			NameJet
+			, or substantially all of its assets, were ever to be acquired, customer information
+			will of course be one of the transferred assets.</dd>
+		<dt>Compliance:</dt>
+		<dd>
+			We release account and other personal information when we believe release is required
+			to comply with federal or state law; enforce or apply our Terms of Use and other
+			agreements; or protect the rights, property, or safety of
+			NameJet
+			, our users, or others. This includes at least exchanging information with other
+			companies, organizations and members of law enforcement to protect against fraud
+			or other criminal activity.</dd>
+	</dl>
+	<h3>
+		How Secure Is Information About Me?</h3>
+	<p>
+		The information we receive from or about you is stored on systems designed to prevent
+		the loss, disclosure, or destruction of that information. We protect the security
+		of your information during transmission by using Secure Sockets Layer (SSL) software,
+		which encrypts information you input and the information we may send to our agents.
+		NameJet
+		has gone to great lengths to ensure your information is securely obtained. For example,
+		we encrypt your credit card number before it is stored in our database. It is important
+		for you to protect against unauthorized access to your password and to your computer.
+		Be sure to sign off when finished using a shared computer.</p>
+	<h3>
+		What Information Can I Access?</h3>
+	<p>
+		NameJet
+		gives you access to certain information about you for the limited purpose of viewing
+		and, in certain cases, updating that information. To view or change this information,
+		log-in to your account. When you update information, we usually keep a copy of the
+		prior version for our records.</p>
+	<h3>
+		Links</h3>
+	<p>
+		Sites provided by
+		NameJet
+		contain links to other Web sites. Please be aware that we are not responsible for
+		the privacy practices of such other Web sites. We encourage our users to be aware
+		when they leave our Web site and to read the privacy statements of each and every
+		Web site that collects personally identifiable information. This privacy statement
+		applies solely to information collected by this Web site.</p>
+	<h3>
+		Children</h3>
+	<p>
+		NameJet
+		does not sell services for purchase by children under the age of 18. If you are
+		under 18, you may use our services only with involvement of a parent or guardian.</p>
+	<h3>
+		Conditions of Use, Notices, and Revisions</h3>
+	<p>
+		If you choose to visit
+		NameJet
+		's Web site, your visit and any dispute over privacy is subject to this Privacy
+		Policy and our Terms of Use, including limitations on damages, arbitration of disputes,
+		and application of the law of the Commonwealth of Virginia. If you have any concern
+		about privacy at
+		NameJet
+		, please send us your concern using our <a href="/Pages/Contact.aspx">contact form</a>,
+		and we will address it. Our business changes constantly. This Privacy Policy and
+		the Terms of Use will change also, and use of information that we gather now is
+		subject to the Privacy Policy in effect at the time of use. We may e-mail periodic
+		reminders of our policy and conditions but you should check this Privacy Policy
+		posted on our Web site frequently to see recent changes.</p>
+	<p>
+		If you feel that
+		NameJet
+		, or any of its agents, representatives, or employees are violating this Privacy
+		Policy, please contact us via e-mail using the <a href="/Pages/Contact.aspx">contact
+			form</a> or by telephone at 1-425-974-4687.</p>
+
+
+
+
+			    </div>
+                
+                <div id="ctl00_pnlB2T2" class="sB2T sHDd">
+	<a href="#" onclick="window.scrollTo(0,0); return false">Back To Top</a>
+</div>
+                
+                <div class="sFtr sCF">
+
+                    <div id="ctl00_pnlFooterNav" class="sNv3 sFR">
+	
+				        <ul>
+					        <li><a id="ctl00_lnkHome2" href="../Default.aspx">Home</a></li>
+                            <li><a id="ctl00_lnkPress" href="press-releases/default.aspx">Press Releases</a></li>
+					        <li><a id="ctl00_lnkAbout" href="About.aspx">About Us</a></li>
+					        <li><a id="ctl00_lnkContact" href="Contact.aspx">Contact Us</a></li>
+					        <li class="sHDm"><a id="ctl00_lnkSupport2" href="Support.aspx">Help</a></li>
+					        
+                            <li><a id="ctl00_lnkSiteMap" href="SiteMap.aspx">Site Map</a></li>
+                       </ul>
+                    
+</div>
+
+                    <div class="sNote sFL">
+                        © 2017 NameJet, All rights reserved.
+                        <span id="ctl00_lblLegalNav"><a id="ctl00_lnkTerms" href="Terms.aspx">Terms</a> |
+					        <a id="ctl00_lnkPrivacy" href="Privacy.aspx">Privacy</a></span>
+                    </div>
+
+
+			    </div>
+
+                <div class="sFtr2 sCF sMBsm">
+
+                    <div class="sFR contact">
+                        <span class="sub1"><strong>Questions? Call Us At</strong></span>
+                        <span class="sub2">1.425.974.4687</span>
+                        <span class="sub3 sHDm">Visit our <a href="/Pages/Support.aspx">Help Center</a> for simple and quick support.</span>
+                    </div>
+
+                    <div class="sFL badges sCF">
+                        <span class="sFL" style="margin-right:15px;margin-top:-20px;display:inline-block">
+                            <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.namejet.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+                        </span>
+                        <span class="sFL" style="margin-right:15px;display:inline-block">
+                            <script type="text/javascript">                                var bbbprotocol = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-alaskaoregonwesternwashington.bbb.org' + unescape('%2Flogo%2Fnamejet-22427364.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-alaskaoregonwesternwashington.bbb.org/logo/namejet-22427364.js" type="text/javascript"></script>
+                            <a target="_blank" id="bbblink" class="ruhzbus" href="http://www.bbb.org/western-washington/business-reviews/internet-web-hosting/namejet-in-bellevue-wa-22427364#bbblogo" title="NameJet LLC, Internet - Aftermarket Domains, Kirkland, WA"><img style="border:none;" id="bbblinkimg" src="//seal-alaskaoregonwesternwashington.bbb.org/logo/ruhzbus/namejet-22427364.png" width="200" height="45" alt="NameJet LLC, Internet - Aftermareket Domains, Kirkland, WA"></a>
+                        </span>
+                        <span class="sFL" style="display:inline-block">
+                            <a target="_blank" href="http://www.domaining.com" class="sHDm"><img src="/_images/global/badge-domaining.gif" alt=" "></a> 
+                        </span>
+                    </div>
+
+                 </div>
+
+                <div id="ctl00_pnlSocialNav" class="sNv5">
+	                    
+                    <ul>
+                        <li class="sNv5-0">User Guide: </li>                                 
+					    <li class="sNv5-1"><a href="/Pages/UserGuide.aspx">English User Guide</a></li>
+                        <li class="sNv5-2"><a href="/Pages/UserGuide.aspx?l=cn">Chinese User Guide</a></li>
+                        <li class="sNv5-3"><a href="/Pages/Support.aspx">Visit our help center</a></li>
+                    </ul>
+                
+</div>
+
+		        <input type="hidden" name="ctl00$HiddenFieldFristNav" id="ctl00_HiddenFieldFristNav">
+		    </div>
+
+            <div class="sAC sMTsm sSm sMsBtn">
+                <a id="ctl00_HyperLink1" href="../Default.aspx?DisableMobile=1">Disable Mobile Scaling</a>
+                
+            </div>
+
+            </div>
+
+	        
+	        
+	        
+	    </form>
+        <!--[if (lte IE 8)]> 
+            <script type="text/javascript">
+                function BindControlEventsIE() {
+                    //jQuery is wrapped in BindEvents function so it can be re-bound after each callback.
+                    $('TABLE.sTbl TBODY TR:odd').addClass('alt-row'); //Alternating Rows Fix         
+                }
+
+                //Initial bind
+                $(document).ready(function () {
+                    BindControlEventsIE();
+                });
+
+                //Re-bind for callbacks
+                var prm = Sys.WebForms.PageRequestManager.getInstance();
+                prm.add_endRequest(function() { 
+                    BindControlEventsIE();
+                });
+		    </script>
+        <![endif]--> 
+        
+        <script type="text/javascript">
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-2685714-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+
+        <!--[if lt IE 7 ]></div><![endif]-->
+        <!--[if IE 7 ]></div><![endif]-->
+        <!--[if IE 8 ]></div><![endif]-->
+        <!--[if IE 9 ]></div><![endif]-->
+
+    
+</body></html>
