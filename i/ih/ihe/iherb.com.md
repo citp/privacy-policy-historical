@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630061330id_/https%3A//www.iherb.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000227id_/https%3A//www.iherb.com/info/privacy) for the most accurate reproduction.*
 
 # iHerb.com - Privacy Policy
 
@@ -32,4 +32,4 @@ While this statistical data is collected, it is important to note that iHerb doe
 
 Contact Us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with our website, you can contact us at: [info@iHerb.com](https://web.archive.org/web/20170630061330id_/https%3A//www.iherb.com/info/info@iherb.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with our website, you can contact us at: [[email protected]](https://web.archive.org/web/20171228000227id_/https%3A//www.iherb.com/info/info@iherb.com)
