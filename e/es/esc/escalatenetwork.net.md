@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escalatenetwork.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629233109id_/http%3A//www.hasoffers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escalatenetwork.net privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235710id_/http%3A//www.hasoffers.com/privacy-policy) for the most accurate reproduction.*
 
 # HasOffers Privacy Policy
 
@@ -90,7 +90,7 @@ Signing up as a Client requires setting up a HasOffers account. To do this, we w
 
 ## What Information Does Hasoffers Share With Third Parties?
 
-HasOffers may, to operate or enhance HasOffers’ services, provide data collected on the Platform to clients, partners, and service providers, but only with the client’s consent. HasOffers may provide, or enable others to collect, information for purposes of detecting and preventing malicious activity or invalid traffic. In addition, HasOffers may disclose such information in the event we reasonably suspect malicious activity or invalid traffic, or believe that we are legally required to do so. HasOffers may also share aggregated data derived from the Platform, including, for example, statistics about Platform activity. Finally, we may transfer Platform data to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+HasOffers may, to operate or enhance HasOffers’ services, provide data collected on the Platform to clients, partners, and service providers, but only with the client’s consent. HasOffers may also provide, collect or enable others to collect, or share with third parties information, including Affiliate or Publisher information, for purposes of assessing, detecting and preventing malicious or unlawful activity, or invalid traffic. In addition, HasOffers may disclose such information in the event we reasonably suspect malicious activity or invalid traffic, or believe that we are legally required to do so. HasOffers may also share aggregated data derived from the Platform, including, for example, statistics about Platform activity. Finally, we may transfer Platform data to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
 
 ## Does Hasoffers Have A Datat Retention Term?
 
