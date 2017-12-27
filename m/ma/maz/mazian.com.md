@@ -1,82 +1,80 @@
-> *The following text is extracted and transformed from the mazian.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407043204id_/http%3A//www.flavopages.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazian.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# FlavoPages | Privacy
+# HugeDomains.com - Privacy Policy
 
-Privacy Policy
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-This privacy policy is about the usage of data that Flavopages.com collects from its user (s) .This policy is a public statement and acknowledgment of what type of information our website (site) collects from the user(s) that visits our website. This policy is applicable for all pages, posts, products and services that this website (site) offers.
+**What information do we collect?**
 
-## Personal Information of User(s)
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Personal information that we can ask a user to give use when he visits and registers on our websites includes but not limited to) 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-  * Name
-  * Email Address
-  * Mailing Address
-  * Contact No
-  * Male
+**What do we use your information for?**
 
+Any of the information we collect from you may be used in one of the following ways: 
 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-This information will be recorded only if the user agrees to submit this information to avail the services on our website. He can refuse to disclose this information. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-## Non-Personal Information of the User(s)
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-We will collect Non-Personal Information of the user who visits our website.Non Personal information may include:
+• To process transactions
 
-  * Browser name
-  * IP
-  * ISP 
-  * Operating Software
-  * Type of Computer
-  * Type of Internet Connection
-  * Other technical information
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
+• To send periodic emails
 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-We may or may not inform users about Non-Personal Information recording.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-## Browser Cookies
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-For maximizing users experience on our website, we may user browsers cookies. Browsers keep cookies safe in their hard drive in order to use them for improving user experience or for tracking users. You can easily change your browser’s setting and can refuse to give cookies data or at least can ask browsers to alert you when cookies are being recorded. 
+**How do we protect your information?**
 
-## Why we collect Personal Information and how we use them?
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-We collect personal or non-personal information of our website users for various purposes. Here is how we use it.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-  * Improving Customer Services
-  * Improving User Experience
-  * Periodic Email Alerts
-  * Referral Programs
-  * Share with Law Enforcement Authorities
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
+**Do we use cookies?**
 
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-## Protection of Your Data
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-We adopt all steps to ensure protection of your personal data. We do not give any authorized person or company access to your data. We neither sell nor let any use your personal data (or any piece of data) for any unauthorized use. We do not share your personalized data to any third party for any advertising purpose, yet any ads on our ‘own website’ where your data is stored may use your stored cookies for displaying relevant ads to you.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-Using this website (site) confirms that you are agreed with Terms and Conditions of this website and hence you cannot challenge them in any court of law.
+**Do we disclose any information to outside parties?**
 
-Our customer service officers are always there to help you. If you have any query or want to know anything about your privacy, just call us or send us an email on given email address.
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-## DMCA NOTICE
+**Online Privacy Policy Only**
 
-**Notice of Copyright Infringement.** If you believe that any Content or Submission appearing on the Site has been used in a manner that infringes upon your copyrights, you or your authorized agent may submit a notification pursuant to the Digital Millennium Copyright Act ("DMCA") by providing our Copyright Agent with the following information in writing (see 17 U.S.C 512(c)(3) for further detail): 
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-  * (a) An electronic or physical signature of a person authorized to act on behalf of the owner of the exclusive right that is allegedly infringed;
-  * (b) Identification of the material that is claimed to be infringing or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works on the Site;
-  * (c) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit the Company to locate the material;
-  * (d) Information reasonably sufficient to permit the Company to contact you, such as your address, telephone number or e-mail address;
-  * (e) A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and 
-  * (f) A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+**Terms and Conditions**
 
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
+**Your Consent**
 
-Revised September 25th 2014
+By using our site, you consent to our web site privacy policy. 
 
-### Sponsorised
+**Changes to our Privacy Policy**
 
-##### advertise with us
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-### Featured
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
