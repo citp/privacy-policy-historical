@@ -1,27 +1,80 @@
-> *The following text is extracted and transformed from the onepiecehq.com privacy policy that was archived on 2008-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080309085735id_/http%3A//www.onepiecehq.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepiecehq.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - One Piece HQ
+# HugeDomains.com - Privacy Policy
 
-The following webpage outlines OnePieceHQ.com's collection and use of personal information from it's users. OnePieceHQ.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to OnePieceHQ.com with anyone. This includes your e-mail address, name, and location. Upon logging on to OnePieceHQ.com such things as your IP address and hostname are logged for statistical and security reasons.
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
- **Cookies**  
-A cookie is a very small text file placed on your system upon logging on to OnePieceHQ.com (and most other websites). This file serves as your identification card and is uniquely yours, and can only be read by the server that gave it to you. Cookies tell us that you have returned to a specific web page on OnePieceHQ.com and help us track your preferences and transactional habits. The basic function of cookies is to help our server remember who you are.
+**What information do we collect?**
 
- **Children's Privacy**  
-OnePieceHQ.com does not knowingly collect personal data from children under the age of 13. We make reasonable efforts to prevent someone who is underage from joining as a member of OnePieceHQ.com, and will not collect information from them. If OnePieceHQ.com learns that a child under the age of 13 has become a member, we will close that child's account and delete any information collected about the child.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Not withstanding the foregoing, OnePieceHQ.com may choose to retain some personal information such as the child's e-mail address as a means to prevent the child from re-registering at our website. The Children's Online Privacy Protection Act (COPPA) went into effect in April 2000, and as a result websites all over the world wide web had to change their standards to not collect any information from a child.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
- **Disclosing Information**  
-OnePieceHQ.com may store and disclose personal information allowed or required by applicable law or when deemed advisable by us. This means that we may make disclosures that are necessary to conform to legal and regulatory requirements or processes and to protect the rights, safety, and property of OnePieceHQ.com, users of the OnePieceHQ.com website, and the public.
+**What do we use your information for?**
 
- **Security**  
-At OnePieceHQ.com we make reasonable efforts to protect personal information such as passwords and use technology such as encryption, access control procedures, firewalls, and physical security. We urge you to use a unique password with both letters and numbers to protect your account on OnePieceHQ.com and it's affiliated websites. If others, including family, friends or other household members access and use the message board through your login credentials, you are responsible for the actions of that individual. Only in extreme cases will your account be fully terminated.
+Any of the information we collect from you may be used in one of the following ways: 
 
- **Third Parties**  
-Third Party websites may collect information from users of OnePieceHQ.com, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. Some programs that may collect this information include: eXTReMe Tracking, Nedstat, and Webalizer.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
- **Website Policy Changes**  
-OnePieceHQ.com reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regaurding this policy, or any other policy you may send them to us at [xsilverblade[at]gmail.com](mailto:xsilverblade@gmail.net).
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-By continuing to access OnePieceHQ.com and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of OnePieceHQ.com, and are also in agreeance with our [Disclaimer](https://web.archive.org/legal-disclaimer.html) and [Terms of Use](https://web.archive.org/terms-of-use.html). 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
+
+• To process transactions
+
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
