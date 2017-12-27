@@ -1,38 +1,49 @@
-> *The following text is extracted and transformed from the yatragenie.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317040635id_/https%3A//www.yatragenie.com/newPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatragenie.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227194011id_/http%3A//yatragenie.com/PrivacyAndPolicy.html) for the most accurate reproduction.*
 
-# YatraGenie|Your Travel Genius!
+# Yatragenie.com | Privacy And Policy
 
-### **To Our Individual Clients:**
+  
 
-Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicitations. A recent law change requires us (along with banks, brokerage houses, and other financial institutions) to disclose our Privacy Policy to you â€“ which we are more than happy to do. We hope that by taking a few minutes to read it, you will have a better understanding of what we do with the information you provide us and how we keep it private and secure. 
 
-**A. Types of Information**
+## Privacy Policy
 
-We Collect certain personal information about you but only when that information is provided by you or is obtained by us with your authorization. We use that information to prepare your personal income tax returns and may also provide various tax and financial planning services to you at your request.   
-Examples of sources from which we collect information include:   
-  interviews and phone calls with you,   
-  letters or e-mails from you,   
-  tax return or financial planning organizers, and   
-  financial history questionnaires. 
+### To Our Individual Clients:
 
-**B. Parties to Whom We Disclose Information**
+Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicitations. A recent law change requires us (along with banks, brokerage houses, and other financial institutions) to disclose our Privacy Policy to you - which we are more than happy to do. We hope that by taking a few minutes to read it, you will have a better understanding of what we do with the information you provide us and how we keep it private and secure. 
+
+### A . Types of Information :
+
+We Collect certain personal information about you but only when that information is provided by you or is obtained by us with your authorization. We use that information to prepare your personal income tax returns and may also provide various tax and financial planning services to you at your request. 
+
+#### Examples of sources from which we collect information include: 
+
+  1. interviews and phone calls with you,
+  2. letters or e-mails from you, 
+  3. tax return or financial planning organizers, and 
+  4. financial history questionnaires. 
+
+
+
+### B . Parties to Whom We Disclose Information:
 
 As a general rule, we do not disclose personal information about our clients or former clients to anyone. However, to the extent permitted by law and any applicable state Code of Professional Conduct, certain nonpublic information about you may be disclosed in the following situations: 
 
-  To comply with a validly issued and enforceable subpoena or summons. 
+To comply with a validly issued and enforceable subpoena or summons. 
 
-  In the course of a review of our firm practices under the authorization of a state or national licensing board, or as necessary to properly respond to an inquiry or complaint from such a licensing board of organization. 
+In the course of a review of our firm practices under the authorization of a state or national licensing board, or as necessary to properly respond to an inquiry or complaint from such a licensing board of organization. 
 
-  In conjunction with a prospective purchase, sale, or merger of all or part of our practice, provided that we take appropriate precautions (for example, through a written confidentiality agreement) so the prospective purchaser or merger partner does not disclose information obtained in the course of the review. 
+In conjunction with a prospective purchase, sale, or merger of all or part of our practice, provided that we take appropriate precautions (for example, through a written confidentiality agreement) so the prospective purchaser or merger partner does not disclose information obtained in the course of the review. 
 
-  As a part of any actual or threatened legal proceedings or alternative dispute resolution proceedings either initiated by or against us, provided we disclose only the information necessary to file, pursue, or defend against the lawsuit and take reasonable precautions to ensure that the information disclosed does not become a matter of public record. 
+As a part of any actual or threatened legal proceedings or alternative dispute resolution proceedings either initiated by or against us, provided we disclose only the information necessary to file, pursue, or defend against the lawsuit and take reasonable precautions to ensure that the information disclosed does not become a matter of public record. 
 
-  To provide information to affiliates of the firm and non-affiliated third parties who perform services or functions for us in conjunction with our services to you, but only if we have a contractual agreement with the other party which prohibits them from disclosing or using the information other than for the purposes for which it was disclosed. (Examples of such disclosures include using an outside service bureau to process tax returns or engaging a records-retention agency to store prior year records.) 
+To provide information to affiliates of the firm and non-affiliated third parties who perform services or functions for us in conjunction with our services to you, but only if we have a contractual agreement with the other party which prohibits them from disclosing or using the information other than for the purposes for which it was disclosed. (Examples of such disclosures include using an outside service bureau to process tax returns or engaging a records-retention agency to store prior year records.) 
 
-**C. Confidentiality and Security of non-public Personal Information**
+### C . Confidentiality and Security of non-public Personal Information:
 
 Except as otherwise described in this notice, we restrict access to non-public personal information about you to employees of our firm and other parties who must use that information to provide services to you. Their right to further disclose and use the information is limited by the policies of out firm, applicable law, our Code of Professional Conduct, and non-disclosure agreements where appropriate. We also maintain physical, electronic, and procedural safeguards in compliance with applicable laws and regulations to guard your personal information from unauthorized access, alteration, or premature destruction. 
 
-Thank you for allowing us to serve your accounting, tax, and financial planning needs. We value your business and are committed to protecting you privacy. We hope you view our firm as your most trusted advisor and we will work to continue earning your trust. Please call us if you have any questions or if we can be of further service.   
-Best regards,   
-YatraGenie Services 
+Thank you for allowing us to serve your accounting, tax, and financial planning needs. We value your business and are committed to protecting you privacy. We hope you view our firm as your most trusted advisor and we will work to continue earning your trust. Please call us if you have any questions or if we can be of further service. 
+
+#### Best regards,
+
+#### YatraGenie Services
