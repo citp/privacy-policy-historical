@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallseotools.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618040905id_/http%3A//smallseotools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallseotools.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003302id_/https%3A//smallseotools.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -38,16 +38,16 @@ Links to Other Websites
 
 Our website contains links to other sites that are not owned or controlled by Us. Please be aware that we are not responsible for the privacy practices of such third party websites and this Policy does not govern such other websites or your use of them. This Policy applies only to information collected by our website. We encourage you to be aware when you leave our site and to read the privacy policies of each and every website that collects personally identifiable information.
 
-  1. . For a comprehensive list of definitions and what constitutes “personally identifiable information” please visit http://www.w3.org/TR/1998/WD-P3P10-harmonization-19980330
-  2. . For more information Regarding Cookies please see – http://www.bbbonline.org/UnderstandingPrivacy/toolbox/cookies.asp
+  1. . For a comprehensive list of definitions and what constitutes “personally identifiable information” please visit https://www.w3.org/TR/1998/WD-P3P10-harmonization-19980330
+  2. . For more information Regarding Cookies please see – https://www.bbbonline.org/UnderstandingPrivacy/toolbox/cookies.asp
 
 
 
 Additional Information Regarding Online Privacy Can Be Found At:
 
-[http://www.bbbonline.org](http://www.bbbonline.org/)  
-[http://www.privacyalliance.org](http://www.privacyalliance.org/)  
-[http://www.truste.org](http://www.truste.org/)
+[https://www.bbbonline.org](https://www.bbbonline.org/)  
+[https://www.privacyalliance.org](https://www.privacyalliance.org/)  
+[https://www.truste.org](https://www.truste.org/)
 
 Cookies & 3rd Party Advertisements
 
@@ -55,4 +55,4 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google�
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit
 
-<http://www.networkadvertising.org/managing/opt_out.asp.>
+<https://www.networkadvertising.org/managing/opt_out.asp.>
