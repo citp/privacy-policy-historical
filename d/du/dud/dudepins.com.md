@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dudepins.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052010id_/http%3A//dudepins.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudepins.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227075012id_/http%3A//www.dudepins.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6) for the most accurate reproduction.*
 
 # The Site for Men & Manly Interests. Dudepins. Discover Stuff for Guys.
 
