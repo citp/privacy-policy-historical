@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmobi.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626090348id_/http%3A//inmobi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmobi.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004459id_/http%3A//www.inmobi.com/privacy-policy) for the most accurate reproduction.*
 
 # InMobi | Monetization | Advertising | Remarketing | Video
 
@@ -38,7 +38,7 @@ InMobi may collect the geo-location of your device only when an app or site, whi
 
 InMobi also collects some or all of the following information about an ad presented on your device: (i) the content type of the ad (what the ad is about, e.g. games, finance, entertainment, news); (ii) the ad type (e.g. whether the ad is a text, image, or video based ad); (iii) where the ad is being served (e.g. the address of the site on which the ad appears); and (iv) certain information about post-click activity in relation to the ad including user interaction with such ad.
 
-On occasion, our partnering mobile publishers or app developers may also disclose to us certain information they have separately collected about you so that we can improve the relevance of the ads we serve on their behalf. They do this in accordance with their own specific privacy policies and subject to their own applicable legal requirements. We do not use the information they provide to us for any purpose other than serving you with interest based ads or for reporting or analytical purpose(s).
+On occasion, our partnering mobile publishers or app developers may also disclose to us certain information including email addresses of users in a hashed format (not in raw format) they have separately collected about you so that we can improve the relevance of the ads we serve on their behalf. They do this in accordance with their own specific privacy policies and subject to their own applicable legal requirements. We do not use the information they provide to us for any purpose other than serving you with interest-based ads or for reporting or analytical purpose(s).
 
 2.3 HOW DO WE USE INFORMATION THAT WE COLLECT?
 
@@ -54,7 +54,7 @@ InMobi may share the information we collect or receive regarding you as describe
 
 (b) With InMobi Affiliates
 
-We may also share your information among InMobi affiliates so that we can better provide advertising that is relevant to you.
+We may also share your information with InMobi affiliates so that we can better provide advertising that is relevant to you.
 
 (c) Sharing Info with third parties such as advisors and law enforcement authorities
 
@@ -68,7 +68,7 @@ InMobi uses reasonable technical and organisational measures to protect the info
 
 2.6 HOW LONG DO WE KEEP INFORMATION FOR?
 
-InMobi may retain the information relating to your device collected from partnering mobile publishers or app developers for a period of up to thirteen (13) months, unless otherwise required by law or applicable contract.
+InMobi may retain the information relating to your device collected from partnering mobile publishers or app developers for a period of up to thirteen (13) months, unless otherwise required by law or applicable contract. After the 13-month period, InMobi may retain and use such data in an aggregated format, as necessary for internal analytical purposes, to comply with its legal obligations, resolve disputes and enforce agreements.
 
 2.7 OPTING OUT OF INTEREST-BASED ADVERTISING
 
