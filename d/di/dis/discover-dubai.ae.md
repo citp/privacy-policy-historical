@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discover-dubai.ae privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627181550id_/http%3A//discover-dubai.ae/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discover-dubai.ae privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227181959id_/http%3A//www.discover-dubai.ae/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Discover Dubai
 
@@ -6,7 +6,7 @@ All rights reserved. No part of this site may be reproduced without our written 
 
 **Our Commitment To Your Privacy**
 
-Discover Dubai is committed to ensuring your privacy is protected. This privacy policy sets out how [www.discover-dubai.ae](http://www.discover-dubai.ae/) uses and protects any information you provide when using this website.  
+Discover Dubai is committed to ensuring your privacy is protected. This privacy policy sets out how [www.discover-dubai.ae](http://www.discover-dubai.ae/) uses and protects any information you provide when using this website.  
 Should we ask you to provide information by which you can be identified; you can be assured that it will only be used in accordance with this privacy statement. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required to do so by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting, unless you tell us you do not wish this to happen.
 
 **What we collect**
@@ -35,7 +35,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 **How we use cookies**
 
-A cookie is a small file which asks permission to be placed on your computer´s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for internal statistical analysis purposes.
 
@@ -45,14 +45,14 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 **Links to other websites**
 
-Our website may contain links to other websites of interest. However, we do not have any control over these websites and cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution when leaving [www.discover-dubai.ae](http://www.discover-dubai.ae/) and look at the privacy statement applicable to the website you are visiting.
+Our website may contain links to other websites of interest. However, we do not have any control over these websites and cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution when leaving [www.discover-dubai.ae](http://www.discover-dubai.ae/) and look at the privacy statement applicable to the website you are visiting.
 
-[www.discover-dubai.ae](http://discover-dubai.ae/) may change this policy from time to time by updating this page. You should check this page on occasion to ensure that you are happy with any changes. This policy is effective from 1st July 2015.
+[www.discover-dubai.ae](http://discover-dubai.ae/) may change this policy from time to time by updating this page. You should check this page on occasion to ensure that you are happy with any changes. This policy is effective from 1st July 2015.
 
 **Disclaimer**
 
-The information contained in this website is for general information purposes only. The information is provided by [www.discover-dubai.ae](http://discover-dubai.ae/) and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+The information contained in this website is for general information purposes only. The information is provided by [www.discover-dubai.ae](http://discover-dubai.ae/) and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
-Through this website you are able to link to other websites which are not under the control of [www.discover-dubai.ae](http://discover-dubai.ae/). We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+Through this website you are able to link to other websites which are not under the control of [www.discover-dubai.ae](http://discover-dubai.ae/). We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
 
-Every effort is made to keep the website up and running smoothly. However, [www.discover-dubai.ae](http://discover-dubai.ae/) takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control. 
+Every effort is made to keep the website up and running smoothly. However, [www.discover-dubai.ae](http://discover-dubai.ae/) takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control. 
