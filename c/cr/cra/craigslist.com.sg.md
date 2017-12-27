@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the craigslist.com.sg privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602024527id_/https%3A//www.craigslist.org/about/privacy.policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craigslist.com.sg privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228005555id_/https%3A//www.craigslist.org/about/privacy.policy) for the most accurate reproduction.*
 
 # craigslist | privacy policy
 
-[craigslist](https://web.archive.org/) > [about](https://web.archive.org/about/) > privacy policy 
-
 ## craigslist Privacy Policy (updated July 9, 2015)
 
-[terms of use](https://web.archive.org/web/20160602024527id_/https%3A//www.craigslist.org/about/terms.of.use)  |   [feedback](https://forums.craigslist.org/?forumID=8)
+[terms of use](https://web.archive.org/web/20171228005555id_/https%3A//www.craigslist.org/about/terms.of.use)  |   [feedback](https://forums.craigslist.org/?forumID=8)
 
-This policy details how data about you is used when you access our websites and services (together, "CL") or interact with us. If we update it, we will revise the date, place notices on CL if changes are material, and/or obtain your consent as required by law.
+This policy details how data about you is used when you access our websites and services (together, "CL") or interact with us. If we update it, we will revise the date, place notices on CL if changes are material, and/or obtain your consent as required by law. 
 
 ### 1\. Protecting your privacy
 
