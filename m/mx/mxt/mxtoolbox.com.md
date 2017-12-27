@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxtoolbox.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200650id_/https%3A//mxtoolbox.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxtoolbox.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003650id_/https%3A//mxtoolbox.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # MxToolbox - Privacy - Managed IT Services for Small Business
 
