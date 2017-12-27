@@ -1,41 +1,98 @@
-<!--The following is the downloaded HTML source of the zbigz.com privacy policy that was archived on 2017-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170617120948id_/http%3A//zbigz.com/page-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zbigz.com privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228000329id_/http%3A//www.zbigz.com/page-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>ZbigZ – personal cloud storage. Sweet home for your private files.</title>
+		<title>ZbigZ – Online torrent client.</title>
 		<meta name="keywords" content="">
 		<meta name="description" content="">
                     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 
-<link rel="stylesheet" href="/css/style.min.css?v=1.42" type="text/css" media="screen">  
+<!--<link rel="stylesheet" href="/css/style.min.css?v=0.42" type="text/css" media="screen">-->  
+<link rel="stylesheet" href="/css/stream-play.css?v=0.42" type="text/css" media="screen">  
 <link rel="stylesheet" href="/css/hint.min.css" type="text/css" media="screen">
 
 
-<!--<link rel="stylesheet" href="css/style.css?v=1.35" type="text/css" media="screen">
+<link rel="stylesheet" href="css/style.css?v=1.37" type="text/css" media="screen">
 <link rel="stylesheet" href="css/paypopup.css?v=1.35" type="text/css" media="screen">
 <link rel="stylesheet" href="css/royalslider.css">
-<link rel="stylesheet" href="css/royalslider-skins/iskin/iskin.css">-->
+<link rel="stylesheet" href="css/royalslider-skins/iskin/iskin.css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
-<script type="text/javascript" src="js/core_api.js"></script>
-<script type="text/javascript" src="js/core_api2.js"></script>
+<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="js/core_api.js?v=0.45"></script>
+<script type="text/javascript" src="js/core_api2.js?v=0.42"></script>
 <script type="text/javascript" src="js/jquery.easing.1.3.min.js"></script>
 <script type="text/javascript" src="js/jquery-ui-1.8.18.custom.min.js"></script>
 <script type="text/javascript" src="js/royal-slider-8.1.min.js"></script>
 <script type="text/javascript" src="js/jquery.filtertable.js"></script>
-<script src="js/smartajax/load.smartajax.js"></script>
-<script type="text/javascript" src="js/scripts.js?v=1.39"></script>
-<script type="text/javascript" src="js/paypopup.js"></script>
-
+<script type="text/javascript" src="js/smartajax/load.smartajax.js"></script>
+<script type="text/javascript" src="js/scripts.js?v=0.44"></script>
+<script type="text/javascript" src="js/paypopup.js?v0.45"></script>
+<script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="4fb22mq5282ahy3"></script>
 
 <!--<script type="text/javascript" src="/js/script.min.js?v=1.38"></script>
 -->
 <!--<script src="/js/smartajax/load.smartajax.js"></script> 
 -->
 <!--<script src="/js/fingerprint2.min.js"></script>
--->
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-20549564-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'UA-20549564-4');
+</script>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '143262569741191');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=143262569741191&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<link rel="manifest" href="/manifest.json">
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+var OneSignal = window.OneSignal || [];
+OneSignal.push(["init", {
+    appId: "1b452f8b-ee82-423f-b0f4-6a726346e031",
+    autoRegister: true,
+    welcomeNotification: {
+        disable: true
+    },
+    notifyButton: {
+        enable: true,
+        displayPredicate: function() {
+            return OneSignal.isPushNotificationsEnabled()
+                .then(function(isPushEnabled) {
+                /* The user is subscribed, so we want to return "false" to hide the notify button */
+                return !isPushEnabled;
+                });
+        },
+        size: 'medium',
+        position: 'bottom-left'
+    },
+    safari_web_id: 'web.onesignal.auto.2c53d929-118c-4db5-ba77-650d97dbe49e'
+}]);
+</script>
+<script type="text/javascript" src="js/timer.js?v=0.52"></script>
 
 <script>
 SmartAjax_load('/js/smartajax/', function(){
@@ -132,33 +189,26 @@ SmartAjax_load('/js/smartajax/', function(){
 
 <script src="https://d29l98y0pmei9d.cloudfront.net/js/widget.min.js?k=Y2xpZW50SWQ9NjUmaG9zdE5hbWU9emJpZ3ouc3VwcG9ydGhlcm8uaW8="></script>
                 <script type="text/javascript">
-
-                var _gaq = _gaq || [];
-                _gaq.push(['_setAccount', 'UA-20549564-4']);
-                _gaq.push(['_setDomainName', 'zbigz.com']);
-                _gaq.push(['_trackPageview']);
-
-                (function() {
-                  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                })();
                 var clientCountry = 'USA';
-                                var localUploadsPath = 'http:///upload1';
+                                var localUploadsPath = 'http:///upload2';
                 var localUploadsHost = '';
 
                 var uid = 0;
                 </script>
                 
                 <script src="https://www.google.com/recaptcha/api.js"></script>
-	</head>
+                
+	<script>
+  fbq('track', 'ViewContent');
+</script></head>
+        
 	<body>
 		<!-- statusbar -->
 <div id="statusbar" class=""> <!-- class="login-yes"  class="premium-yes"-->
 	<ul>
-		<li class="separator-inverse"></li>
+		<li class="separator"></li>
 
-		<li id="sb-main" class="active"><a href="/" rel="ajax">Main</a></li>
+		<li id="sb-main" class=""><a href="/" rel="ajax">Main</a></li>
 
 		<li class="separator" id="before-mf"></li>
 
@@ -510,7 +560,7 @@ SmartAjax_load('/js/smartajax/', function(){
 					</label>
 				</div>
                         </div>
-                        <!--<div class="g-recaptcha" data-sitekey="6LeJrQYTAAAAABoMMU_j-1BDcPfFUzYp8yToSFkv"></div>-->
+<!--                        <div class="g-recaptcha" data-sitekey="6LeJrQYTAAAAABoMMU_j-1BDcPfFUzYp8yToSFkv"></div>-->
                     </form>
 		</div>
 
@@ -584,18 +634,18 @@ SmartAjax_load('/js/smartajax/', function(){
 	</div>
 	<div id="help-label"></div>
 	<div id="main-help">
-		<form name="support-form" class="login-forms" method="post" action="support.php">
+		<form id="support-form" name="support-form" class="login-forms" method="post" action="support.php">
 			<textarea name="message" id="help-textarea" cols="" rows="" placeholder="Type your message here..."></textarea>
 			<div id="send-btn2"></div>
+                        <div id="support-recaptcha" style="left:0;" class="g-recaptcha" data-sitekey="6LfPtjAUAAAAABnK7dDQP1puDjhFtO6RVfSRd8Ah" data-callback="onSubmitSupport"></div>
 			<input id="support-email" type="hidden" name="user-email">
                         <input type="hidden" name="support-reqnum" value="">
 		</form>
 		<span class="prldr"></span>
-        
 		<div id="input-wrapper-7">
-            <label>
-				<span class="input-title0"> Your e-mail: </span><input class="input" id="input0" title="" name="" type="text">
-			</label>
+                    <label>
+                        <span class="input-title0"> Your e-mail: </span><input class="input" id="input0" title="" name="" type="text">
+                    </label>
 		</div>
 	</div>
 </div>
@@ -603,7 +653,7 @@ SmartAjax_load('/js/smartajax/', function(){
 
 <script>
     function ShowNewPayments() {
-        _gaq.push(['_trackEvent', 'IndiaRessellerOpenWND','Window','Click']);
+//        _gaq.push(['_trackEvent', 'IndiaRessellerOpenWND','Window','Click']);
         zIndexStack = 9999;
     	$('#newpayment-window').css({'z-index': zIndexStack}).animate({'top': '50%', 'left': '50%', 'margin-left': '-260px'},{duration:700, easing:'easeOutExpo'});
     }
@@ -713,7 +763,7 @@ SmartAjax_load('/js/smartajax/', function(){
     
 <div style="text-align: center; margin-top: 80px; color: #AFAFAF;font-family: Helvetica,Verdana,Arial,sans-serif;">
     <p>We started to cooperate with the new reseller in India. Please try it:</p>
-    <p><a onclick="_gaq.push(['_trackEvent', 'IndiaRessellerClick','RessellerClick','Click']);" target="_blank" href="http://www.365premium.com/Buy-zbigz-Premium-account-from-official-reseller-63-0.aspx">http://www.365premium.com/</a></p>
+    <p><a target="_blank" href="http://www.365premium.com/Buy-zbigz-Premium-account-from-official-reseller-63-0.aspx">http://www.365premium.com/</a></p>
     <br>
     <p>You may buy premium using Credit Card, Debit Card (India 52 Banks),</p>
     <p>Net Banking,Cash Deposit (ICICI &amp; SBI Bank), NEFT, Paypal,</p>
@@ -728,7 +778,7 @@ We hope you will like it. Please let us know if you faced with ANY problems rega
 	
 	<div id="logo"><a href="/" rel="ajax"><img src="img/logo.png" alt="ZbigZ" width="132" height="58"></a></div>
 	<form id="main-form" enctype="multipart/form-data" name="upload-torrent" method="post" action="/myfiles">
-            <input type="text" id="text-link-input" name="url" value="Paste a link to your file here. Then press “GO!” button.">
+            <input type="text" id="text-link-input" name="url" value="Paste your torrent or magnet link here ... Then press “GO!” button.">
             <div id="go-btn">
                 <!-- <input type="image" src="img/go-go.png" alt="go-go"> -->
             </div>
@@ -813,7 +863,9 @@ Zbigz.com may update this privacy policy at any time without additional notifica
                             }, 1000);
                         }
                     </script>
-          
+                    
+                    <!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter45941298 = new Ya.Metrika({ id:45941298, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, ut:"noindex" }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/45941298?ut=noindex" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+                    
 		</div>
         <!-- footer -->
 <div id="footer">
@@ -826,13 +878,16 @@ Zbigz.com may update this privacy policy at any time without additional notifica
                         <!-- <li><a href="" >Anonymizer</a></li>  -->
                         <li><a style="color: red" href="http://m.zbigz.com/">Simplified (mobile) site</a></li>
                         <!--<li id="page-cooperation"><a href="page-cooperation">Webmasters </a></li>-->
+                        <li id="page-affiliate"><a href="http://affiliate.zbigz.com/" target="_blank" style="color: red;">Affiliate program</a></li>
                         <li><a href="/page-resellers">Resellers</a></li>
-                        <li><a target="_blank" href="http://zbz.idea.informer.com/">Idea Box</a></li>
+                        
                 </ul>
                 <ul id="ul-documents">
                         <li class="li-hr">Documents</li>
                         <li id="page-copyright"><a href="/page-copyright">Copyright </a></li>
-                        <li id="page-privacy"><a href="/page-privacy">Privacy policy</a></li>
+                        <li id="page-privacy" class="active"><a href="/page-privacy">Privacy policy</a></li>
+                        
+                        
                         <li id="page-affiliate"><a href="/affiliate" style="color: red;">Trackers affiliate program</a></li>
                         <li><a href="/page-become-a-reseller">Become a reseller</a></li>
                 </ul>
@@ -840,7 +895,7 @@ Zbigz.com may update this privacy policy at any time without additional notifica
                         <li class="li-hr">Help info</li>
                         <li id="page-quickstart"><a href="/page-faq">FAQ</a>,<a href="/page-terms-of-use">TOS</a></li>
                         <li id="page-quickstart"><a href="/page-quickstart">Quick start guide </a></li>
-                        <li id="page-features"><a href="/page-features">Features </a></li>
+                        <li id="page-features"><a href="/page-features">Features</a>,<a href="http://zbz.idea.informer.com/" target="_blank">Ideabox</a></li>
                         <li id="page-how-it-works"><a href="/page-how-it-works">How it works? </a></li>
                 </ul>
                 <ul id="ul-share">
