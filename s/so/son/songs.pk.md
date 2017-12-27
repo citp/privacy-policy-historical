@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songs.pk privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425195314id_/http%3A//www.songspk.io/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songs.pk privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235804id_/https%3A//songs.pk/page/privacy) for the most accurate reproduction.*
 
 # Privacy Page - Songs.pk
 
