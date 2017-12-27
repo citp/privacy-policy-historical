@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the autozone.com privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630005220id_/http%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autozone.com privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228000824id_/http%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en"><head>
  <meta http-equiv="X-UA-Compatible" content="IE=edge"><title>
 				AutoZone.com | Privacy Policy</title>
-				<link rel="stylesheet" href="/css-build-7.7.0.14/autozone.css" type="text/css">
-		<link rel="stylesheet" href="/css-build-7.7.0.14/contactus.css" type="text/css">
+				<link rel="stylesheet" href="/css-build-9.0.4/autozone.css" type="text/css">
+		<link rel="stylesheet" href="/css-build-9.0.4/contactus.css" type="text/css">
 		<!--[if IE 6]>
-	<link rel="stylesheet" href="/css-build-7.7.0.14/overrides_ie6.css" type="text/css" />
+	<link rel="stylesheet" href="/css-build-9.0.4/overrides_ie6.css" type="text/css" />
 	<![endif]-->
-	<link rel="stylesheet" href="/css-build-7.7.0.14/print.css" type="text/css" media="print">
-	<!--  <link rel="stylesheet" href="/css-build-7.7.0.14/shoprunner.css" type="text/css" /> -->
-	<link rel="stylesheet" href="/css-build-7.7.0.14/grid.css" type="text/css">
-	<link rel="stylesheet" href="/css-build-7.7.0.14/ymmeOverlay.css" type="text/css">
+	<link rel="stylesheet" href="/css-build-9.0.4/print.css" type="text/css" media="print">
+	<!--  <link rel="stylesheet" href="/css-build-9.0.4/shoprunner.css" type="text/css" /> -->
+	<link rel="stylesheet" href="/css-build-9.0.4/grid.css" type="text/css">
+	<link rel="stylesheet" href="/css-build-9.0.4/ymmeOverlay.css" type="text/css">
 
 	<style type="text/css">
 							/* Global CSS */
@@ -240,6 +240,7 @@ position: absolute;
 top: 250px;
 left: -2000px;
 background: none;
+z-index: 1;
 }
 
 .site-homepage h3.branded {text-transform: uppercase;}
@@ -248,16 +249,60 @@ background: none;
 #globalHeader #headerPromoArea>div>div>pencilAd,
 #globalHeader #headerPromoArea>div>div>p>code {
    font-size: 17px !important;
+}
+
+#searchRecommendations {
+   display: none;
+}
+/* Mixed content url fix */
+.facebook, .youtube, .twitter{
+  background:none !important;
+}
+#cont h2.fancy-divider{
+  background:url("/images/common/bg-heading.gif") repeat 0 0 !important;
+}
+
+.home-sprite {
+   background: url('/images/home/home-sprite.png') no-repeat !important;
+}
+
+#main-body .same-day-pickup {
+    background-position: 4px 18px !important;
+}
+#main-body .circular-savings {
+    background-position: -111px 7px !important;
+}
+#buy-with-confidence .core-parts {
+    background-position: 1px -98px !important;
+}
+#buy-with-confidence .free-shipping {
+    background-position: -42px -94px !important;
+}
+#buy-with-confidence .return-anywhere {
+    background-position: -93px -93px !important;
+}
+#buy-with-confidence .store-pickup {
+    background-position: -151px -89px !important;
+}
+#AutoZone-FREE-Shipping h2 span.promoCode {
+    font-size: 22px !important;
+}
+#AutoZone-FREE-Shipping p {
+    font-size:16px !important;
 }</style>
 					<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/433648989528448346/bc.vms4/vms.js"></script><script src="//tags.tiqcdn.com/utag/autozone/main/dev/utag.js" type="text/javascript" async=""></script><script type="text/javascript">
 		var javaScriptCompressed = true;
+		var isProduction = true;
+		var bvPDP = false;
+		var bvShelf = false;
+		var bvProductsObject = {};
 		</script>
 	<!--[if lt IE 9]>
-		<script src="/js-build-7.7.0.14/html5shiv.js"></script>
+		<script src="/js-build-9.0.4/html5shiv.js"></script>
 	<![endif]-->
-	<script type="text/javascript" src="/js-build-7.7.0.14/lib/jquery/jquery-1.7.1.js"></script>
+	<script type="text/javascript" src="/js-build-9.0.4/lib/jquery/jquery-1.7.1.js"></script>
 
-	<script type="text/javascript" src="/js-build-7.7.0.14/inline.jsp?devmode=&amp;noMonetate="></script>
+	<script type="text/javascript" src="/js-build-9.0.4/inline.jsp?devmode=&amp;noMonetate="></script>
 	<script type="text/javascript">
 		$(document).ready(function () {
 			require(['autozone.views.dropdown']);
@@ -285,540 +330,641 @@ background: none;
 		}
 		var params = getSearchParameters();
 	</script>
-	<script type="text/javascript">
+<script type="text/javascript">
 		
-			var srMinDate = 'Jul  04',
-				srMaxDate = 'Jul  05';
-			var arrMin=[],arrMax=[],monthMin="",monthMax="",year="",srMinDateFormatted="",srMaxDateFormatted="",srMinNoYear="",srMaxNoYear="";srMinDate=srMinDate.split(" ");arrMin.push(srMinDate.shift());arrMin.push(srMinDate.join(""));srMaxDate=srMaxDate.split(" ");arrMax.push(srMaxDate.shift());arrMax.push(srMaxDate.join(""));monthMin=arrMin[0];monthMax=arrMax[0];"Jan"==monthMin&&(monthMin="01");"Feb"==monthMin&&(monthMin="02");"Mar"==monthMin&&(monthMin="03");"Apr"==monthMin&&(monthMin="04");
-"May"==monthMin&&(monthMin="05");"Jun"==monthMin&&(monthMin="06");"Jul"==monthMin&&(monthMin="07");"Aug"==monthMin&&(monthMin="08");"Sep"==monthMin&&(monthMin="09");"Oct"==monthMin&&(monthMin="10");"Nov"==monthMin&&(monthMin="11");"Dec"==monthMin&&(monthMin="12");"Jan"==monthMax&&(monthMax="01");"Feb"==monthMax&&(monthMax="02");"Mar"==monthMax&&(monthMax="03");"Apr"==monthMax&&(monthMax="04");"May"==monthMax&&(monthMax="05");"Jun"==monthMax&&(monthMax="06");"Jul"==monthMax&&(monthMax="07");
-"Aug"==monthMax&&(monthMax="08");"Sep"==monthMax&&(monthMax="09");"Oct"==monthMax&&(monthMax="10");"Nov"==monthMax&&(monthMax="11");"Dec"==monthMax&&(monthMax="12");"12"==monthMin&&"01"==monthMax?(year=(new Date).getFullYear(),year+=1):year=(new Date).getFullYear();var srMinNoYear=monthMin+"-"+arrMin[1],srMaxNoYear=monthMax+"-"+arrMax[1],srMinDateFormatted=year+"-"+srMinNoYear,srMaxDateFormatted=year+"-"+srMaxNoYear,_shoprunner_com={};
-(function(){function b(){_shoprunner_com.docReady=!0;"undefined"!==typeof sr_$&&sr_$.run()}_shoprunner_com.version=2;_shoprunner_com.enabled=!0;_shoprunner_com.retailerID="AUZN";_shoprunner_com.loginValidationURL="/shoprunner/login.jsp";sr_pageRefreshes=!0;_shoprunner_com.environmentID=2;_shoprunner_com.sendOrderConfirm=!0;_shoprunner_com.onLoadCallCustomFunction="";"-"!=srMinNoYear&&"-"!=srMaxNoYear?(_shoprunner_com.cart={},_shoprunner_com.cart.expectedDeliveryDate={min:srMinDateFormatted,max:srMaxDateFormatted}):
-"-"!=srMinNoYear&&(_shoprunner_com.cart={},_shoprunner_com.cart.expectedDeliveryDate={min:srMinDateFormatted});_shoprunner_com.checkout={};_shoprunner_com.checkout.enabled=!1;_shoprunner_com.checkout.singleProductBuyNowEnabled=!1;_shoprunner_com.checkout.cartBuyNowEnabled=!1;_shoprunner_com.checkout.partnerAPIEndPoint="";_shoprunner_com.prefix=window.parent.document.location.protocol+"//";if(_shoprunner_com.enabled){switch(_shoprunner_com.environmentID){case 1:_shoprunner_com.sr_jsContentURL=_shoprunner_com.prefix+
-"staging-content.shoprunner.com/staging";break;case 2:_shoprunner_com.sr_jsContentURL=_shoprunner_com.prefix+"content.shoprunner.com";break;default:_shoprunner_com.sr_jsContentURL=_shoprunner_com.prefix+"staging-content.shoprunner.com/staging"}var c="https://"==_shoprunner_com.prefix?_shoprunner_com.sr_jsContentURL+"/Secure"+_shoprunner_com.retailerID+".css":_shoprunner_com.sr_jsContentURL+"/"+_shoprunner_com.retailerID+".css",d=_shoprunner_com.sr_jsContentURL+"/"+_shoprunner_com.retailerID+".js";
-setTimeout(function(){var a=document.createElement("link");a.href=c;a.type="text/css";a.rel="stylesheet";document.getElementsByTagName("head")[0].appendChild(a);a=document.createElement("script");a.src=d;a.type="text/javascript";document.getElementsByTagName("head")[0].appendChild(a)},1)}_shoprunner_com.docReady=!1;document.addEventListener?document.addEventListener("DOMContentLoaded",b,!1):document.attachEvent&&document.attachEvent("onreadystatechange",b);window.addEventListener?window.addEventListener("load",
-b,!1):window.attachEvent&&window.attachEvent("onload",b)})();function storeSREDID(){var a=document.location.search;start=a.indexOf("SREDID=");if(-1!=start){var b=a.indexOf("&",start);-1==b&&(b=a.length);var c=new Date;c.setTime(c.getTime()+2592E6);document.cookie=a.substring(start,b)+"; expires="+c.toGMTString()+"; path=/"}}function getSREDID(){var a=document.cookie,b=a.indexOf("SREDID=");if(-1==b)return null;var b=b+7,c=a.indexOf(";",b);-1==c&&(c=a.length);return a.substring(b,c)};</script>
-
+			var srMinDate = 'Jan  01',
+				srMaxDate = 'Jan  02';
+			var arrMin=[],arrMax=[],monthMin="",monthMax="",year="",srMinDateFormatted="",srMaxDateFormatted="",srMinNoYear="",srMaxNoYear="";srMinDate=srMinDate.split(" "),arrMin.push(srMinDate.shift()),arrMin.push(srMinDate.join("")),srMaxDate=srMaxDate.split(" "),arrMax.push(srMaxDate.shift()),arrMax.push(srMaxDate.join("")),monthMin=arrMin[0],monthMax=arrMax[0],"Jan"==monthMin&&(monthMin="01"),"Feb"==monthMin&&(monthMin="02"),"Mar"==monthMin&&(monthMin="03"),"Apr"==monthMin&&(monthMin="04"),"May"==monthMin&&(monthMin="05"),"Jun"==monthMin&&(monthMin="06"),"Jul"==monthMin&&(monthMin="07"),"Aug"==monthMin&&(monthMin="08"),"Sep"==monthMin&&(monthMin="09"),"Oct"==monthMin&&(monthMin="10"),"Nov"==monthMin&&(monthMin="11"),"Dec"==monthMin&&(monthMin="12"),"Jan"==monthMax&&(monthMax="01"),"Feb"==monthMax&&(monthMax="02"),"Mar"==monthMax&&(monthMax="03"),"Apr"==monthMax&&(monthMax="04"),"May"==monthMax&&(monthMax="05"),"Jun"==monthMax&&(monthMax="06"),"Jul"==monthMax&&(monthMax="07"),"Aug"==monthMax&&(monthMax="08"),"Sep"==monthMax&&(monthMax="09"),"Oct"==monthMax&&(monthMax="10"),"Nov"==monthMax&&(monthMax="11"),"Dec"==monthMax&&(monthMax="12"),"12"==monthMin&&"01"==monthMax?(year=(new Date).getFullYear(),year+=1):year=(new Date).getFullYear(),srMinNoYear=monthMin+"-"+arrMin[1],srMaxNoYear=monthMax+"-"+arrMax[1],srMinDateFormatted=year+"-"+srMinNoYear,srMaxDateFormatted=year+"-"+srMaxNoYear;var _shoprunner_com=new Object;!function(){function n(){_shoprunner_com.docReady=!0,"undefined"!=typeof sr_$&&sr_$.run()}if(_shoprunner_com.version=2,_shoprunner_com.enabled=!0,_shoprunner_com.retailerID="AUZN",_shoprunner_com.loginValidationURL="/shoprunner/login.jsp",sr_pageRefreshes=!0,_shoprunner_com.environmentID=2,_shoprunner_com.sendOrderConfirm=!0,_shoprunner_com.onLoadCallCustomFunction="","-"!=srMinNoYear&&"-"!=srMaxNoYear?(_shoprunner_com.cart=new Object,_shoprunner_com.cart.expectedDeliveryDate={min:srMinDateFormatted,max:srMaxDateFormatted}):"-"!=srMinNoYear&&(_shoprunner_com.cart=new Object,_shoprunner_com.cart.expectedDeliveryDate={min:srMinDateFormatted}),_shoprunner_com.checkout=new Object,_shoprunner_com.checkout.enabled=!1,_shoprunner_com.checkout.singleProductBuyNowEnabled=!1,_shoprunner_com.checkout.cartBuyNowEnabled=!1,_shoprunner_com.checkout.partnerAPIEndPoint="",_shoprunner_com.prefix=window.parent.document.location.protocol+"//",_shoprunner_com.enabled){switch(_shoprunner_com.environmentID){case 1:_shoprunner_com.sr_jsContentURL=_shoprunner_com.prefix+"staging-content.shoprunner.com/staging";break;case 2:_shoprunner_com.sr_jsContentURL=_shoprunner_com.prefix+"content.shoprunner.com";break;default:_shoprunner_com.sr_jsContentURL=_shoprunner_com.prefix+"staging-content.shoprunner.com/staging"}if("https://"==_shoprunner_com.prefix)var e=_shoprunner_com.sr_jsContentURL+"/Secure"+_shoprunner_com.retailerID+".css";else e=_shoprunner_com.sr_jsContentURL+"/"+_shoprunner_com.retailerID+".css";var o=_shoprunner_com.sr_jsContentURL+"/"+_shoprunner_com.retailerID+".js";setTimeout(function(){var n=document.createElement("link");n.href=e,n.type="text/css",n.rel="stylesheet",document.getElementsByTagName("head")[0].appendChild(n);var r=document.createElement("script");r.src=o,r.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(r)},1)}if(_shoprunner_com.docReady=!1,document.addEventListener?document.addEventListener("DOMContentLoaded",n,!1):document.attachEvent&&document.attachEvent("onreadystatechange",n),window.addEventListener)window.addEventListener("load",n,!1);else if(window.attachEvent)window.attachEvent("onload",n)}();function storeSREDID(){var t=document.location.search;if(start=t.indexOf("SREDID="),-1!=start){var e=t.indexOf("&",start);-1==e&&(e=t.length);var n=new Date;n.setTime(n.getTime()+2592e6),document.cookie=t.substring(start,e)+"; expires="+n.toGMTString()+"; path=/"}}function getSREDID(){var t=document.cookie,e=t.indexOf("SREDID=");if(-1==e)return null;e+="SREDID=".length;var n=t.indexOf(";",e);return-1==n&&(n=t.length),t.substring(e,n)}</script>
 	<script type="text/javascript">
 		/* Global JS */
 if (document.all && !document.addEventListener) {
-/*
- HTML5 Shiv v3.7.0 | @afarkas @jdalton @jon_neal @rem | MIT/GPL2 Licensed
-*/
-(function(l,f){function m(){var a=e.elements;return"string"==typeof a?a.split(" "):a}function i(a){var b=n[a[o]];b||(b={},h++,a[o]=h,n[h]=b);return b}function p(a,b,c){b||(b=f);if(g)return b.createElement(a);c||(c=i(b));b=c.cache[a]?c.cache[a].cloneNode():r.test(a)?(c.cache[a]=c.createElem(a)).cloneNode():c.createElem(a);return b.canHaveChildren&&!s.test(a)?c.frag.appendChild(b):b}function t(a,b){if(!b.cache)b.cache={},b.createElem=a.createElement,b.createFrag=a.createDocumentFragment,b.frag=b.createFrag();
-a.createElement=function(c){return!e.shivMethods?b.createElem(c):p(c,a,b)};a.createDocumentFragment=Function("h,f","return function(){var n=f.cloneNode(),c=n.createElement;h.shivMethods&&("+m().join().replace(/[\w\-]+/g,function(a){b.createElem(a);b.frag.createElement(a);return'c("'+a+'")'})+");return n}")(e,b.frag)}function q(a){a||(a=f);var b=i(a);if(e.shivCSS&&!j&&!b.hasCSS){var c,d=a;c=d.createElement("p");d=d.getElementsByTagName("head")[0]||d.documentElement;c.innerHTML="x<style>article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}mark{background:#FF0;color:#000}template{display:none}</style>";
-c=d.insertBefore(c.lastChild,d.firstChild);b.hasCSS=!!c}g||t(a,b);return a}var k=l.html5||{},s=/^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$/i,r=/^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$/i,j,o="_html5shiv",h=0,n={},g;(function(){try{var a=f.createElement("a");a.innerHTML="<xyz></xyz>";j="hidden"in a;var b;if(!(b=1==a.childNodes.length)){f.createElement("a");var c=f.createDocumentFragment();b="undefined"==typeof c.cloneNode||
-"undefined"==typeof c.createDocumentFragment||"undefined"==typeof c.createElement}g=b}catch(d){g=j=!0}})();var e={elements:k.elements||"abbr article aside audio bdi canvas data datalist details dialog figcaption figure footer header hgroup main mark meter nav output progress section summary template time video",version:"3.7.0",shivCSS:!1!==k.shivCSS,supportsUnknownElements:g,shivMethods:!1!==k.shivMethods,type:"default",shivDocument:q,createElement:p,createDocumentFragment:function(a,b){a||(a=f);
-if(g)return a.createDocumentFragment();for(var b=b||i(a),c=b.frag.cloneNode(),d=0,e=m(),h=e.length;d<h;d++)c.createElement(e[d]);return c}};l.html5=e;q(f)})(this,document);
-}
-/*if (typeof pluckAppProxy !== 'undefined') {
-	pluckAppProxy.registerActivityCallback('PublicVideosGalleriesRendered', function (args) {
-		$('.pluck-publicVideos-gallery-wrap[gallerykey=47759a67-b340-4e07-a4e5-ddb80030b599]').hide();
-		$('.pluck-publicVideos-gallery-wrap[gallerykey=a9004f85-9cc1-4e8c-ac82-ce5a1802aeb1]').hide();
-		$('.pluck-publicVideos-gallery-wrap[gallerykey=3ef15b70-ae0f-4426-8903-25f560305cbc]').hide();
-		$('.pluck-publicVideos-gallery-wrap[gallerykey=2b6da2fa-ec74-4dad-b52e-49252110e526]').hide();
-	});
-}*/
-
-$(window).load(function () {
-	if (window.host && window.host !== '.boldchat.com/aid/')
-		window.host = '.boldchat.com/aid/';
-/*Fix for ECBC-6975 - Trim white space */
-		var pp_SkuId= $("#product-data").find("#SkuId").text().trim();
-		var pp_lineCode= $("#product-data").find("#lineCode").text().trim();
-		var pp_productLine= $("#product-data").find("#productLine").text().trim();
-		var pp_configureTechResponse= $("#product-data").find("#configureTechResponse").text().trim();
-		var pp_vehicledescription= $("#product-data").find("#vehicledescription").text().trim();
-		var pp_skuInCart= $("#product-data").find("#skuInCart").text().trim();
-		var pp_parentSku= $("#product-data").find("#parentSku").text().trim();		
-		var pp_parentProductId= $("#product-data").find("#parentProductId").text().trim();
-		var pp_hasWebStore= $("#product-data").find("#hasWebStore").text().trim();
-		var pp_storeNo= $("#product-data").find("#storeNo").text().trim();
-		
-		$("#product-data").find("#SkuId").text(pp_SkuId);
-		$("#product-data").find("#lineCode").text(pp_lineCode);
-		$("#product-data").find("#productLine").text(pp_productLine);
-		$("#product-data").find("#configureTechResponse").text(pp_configureTechResponse);
-		$("#product-data").find("#vehicledescription").text(pp_vehicledescription);
-		$("#product-data").find("#skuInCart").text(pp_skuInCart);
-		$("#product-data").find("#parentSku").text(pp_parentSku);
-		$("#product-data").find("#parentProductId").text(pp_parentProductId);
-		$("#product-data").find("#hasWebStore").text(pp_hasWebStore);
-		$("#product-data").find("#storeNo").text(pp_storeNo);
-/*End Fix for ECBC-6975  - Trim white space */
-/*Fix for ECBC-4720 */
-$('#parts-zone a.needsYMME').click(function (e) {
-	window.location = $(this).attr('href');
-	setTimeout(function () {
-	$("[aria-describedby=ymmePage]:visible").hide();
-	$('.ui-widget-overlay.ui-front').hide();
-	}, 10);
-});
-/*End Fix for ECBC-4720 */
-/* Fix for ECBC-4784 */
-var isDiagram = window.location.href.match(/jobDiagram\.jsp/);
-if (isDiagram && isDiagram.length) {
-	$('#cont').attr('id','');
-}
-/* End Fix for ECBC-4784 */
-if(window.location.pathname == "/parts") {
-$( "div#internalAd img" ).attr("src","/images/MEDIA_ProductCatalog/m3550001_parts_banner.jpg" );
-}
-/* Fix for ECBC-8037 */
-$('.rating-link').text('See Reviews');
-$('.rating-link').show();
-$('.pluck-review-rollup-review-meta-count').text('See Reviews');
-$('.ratingsReviews a').text('See Reviews');
-$('.ratingsReviews a').show();
-/* End for for ECBC-8037 */
-require(['autozone.components.Jspop'], function (Pop) {
-	$('.jspop-checkout,.jspop-warranty').each(function() {
-		new Pop({
-			el: $(this)
-		}).assignListeners();
-	});
-});
-});
-
-/* Fix for soft 404 page */
-require(['autozone.utils'], function (utils) {
-	var errorSource = utils.getUrlVar('errorSource'),
-		kwRegX = /[a-zA-Z0-9-_]+\/([a-zA-Z0-9-_]+)/,
-		azRegX = /\/autozone\//,
-		kwMatch,
-		search,
-		path;
-	if (errorSource && errorSource.length) {
-		path = decodeURIComponent(errorSource).split('?')[0];
-		path = path.replace(azRegX, '/');
-		kwMatch = kwRegX.exec(path) ? kwRegX.exec(path)[1] : null;
-		if (kwMatch && kwMatch.length) {
-			search = kwMatch.replace(/[-]/g, ' ');
-		}
-                   if(errorSource == '/Rewards') {
-                                  window.location.href = 'http://www.autozonerewards.com';
-		} else if (search.length) {
-			window.location.href = '/searchresult?searchText=' + search;
-		}
-	}
-});
-            /* Generic Link Tracking */
-            jQuery('body').delegate('a[class^="trackLink"]', 'click', function (e) {
-                  /*
-                  * If the 'trackLink' className string comes first in the class attribute,
-                  * you may use multiple classNames for other purposes. An example trackLink string
-                  * for a footer link is: 'trackLink:community:footer'
-                  */
-                  var linkName = this.className.split(' ')[0];
-                  js_track.s_trackLink(linkName);
-            });
-function imposeMaxLength(Object, MaxLen)
-{
-  if (Object.value.length > MaxLen) {
-       Object.value = Object.value.substring(0, MaxLen);
+  /*
+   HTML5 Shiv v3.7.0 | @afarkas @jdalton @jon_neal @rem | MIT/GPL2 Licensed
+  */
+  (function(l,f){function m(){var a=e.elements;return"string"==typeof a?a.split(" "):a}function i(a){var b=n[a[o]];b||(b={},h++,a[o]=h,n[h]=b);return b}function p(a,b,c){b||(b=f);if(g)return b.createElement(a);c||(c=i(b));b=c.cache[a]?c.cache[a].cloneNode():r.test(a)?(c.cache[a]=c.createElem(a)).cloneNode():c.createElem(a);return b.canHaveChildren&&!s.test(a)?c.frag.appendChild(b):b}function t(a,b){if(!b.cache)b.cache={},b.createElem=a.createElement,b.createFrag=a.createDocumentFragment,b.frag=b.createFrag();
+  a.createElement=function(c){return!e.shivMethods?b.createElem(c):p(c,a,b)};a.createDocumentFragment=Function("h,f","return function(){var n=f.cloneNode(),c=n.createElement;h.shivMethods&&("+m().join().replace(/[\w\-]+/g,function(a){b.createElem(a);b.frag.createElement(a);return'c("'+a+'")'})+");return n}")(e,b.frag)}function q(a){a||(a=f);var b=i(a);if(e.shivCSS&&!j&&!b.hasCSS){var c,d=a;c=d.createElement("p");d=d.getElementsByTagName("head")[0]||d.documentElement;c.innerHTML="x<style>article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}mark{background:#FF0;color:#000}template{display:none}</style>";
+  c=d.insertBefore(c.lastChild,d.firstChild);b.hasCSS=!!c}g||t(a,b);return a}var k=l.html5||{},s=/^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$/i,r=/^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$/i,j,o="_html5shiv",h=0,n={},g;(function(){try{var a=f.createElement("a");a.innerHTML="<xyz></xyz>";j="hidden"in a;var b;if(!(b=1==a.childNodes.length)){f.createElement("a");var c=f.createDocumentFragment();b="undefined"==typeof c.cloneNode||
+  "undefined"==typeof c.createDocumentFragment||"undefined"==typeof c.createElement}g=b}catch(d){g=j=!0}})();var e={elements:k.elements||"abbr article aside audio bdi canvas data datalist details dialog figcaption figure footer header hgroup main mark meter nav output progress section summary template time video",version:"3.7.0",shivCSS:!1!==k.shivCSS,supportsUnknownElements:g,shivMethods:!1!==k.shivMethods,type:"default",shivDocument:q,createElement:p,createDocumentFragment:function(a,b){a||(a=f);
+  if(g)return a.createDocumentFragment();for(var b=b||i(a),c=b.frag.cloneNode(),d=0,e=m(),h=e.length;d<h;d++)c.createElement(e[d]);return c}};l.html5=e;q(f)})(this,document);
   }
-}
+  
+  $(window).load(function () {
+    if (window.host && window.host !== '.boldchat.com/aid/')
+      window.host = '.boldchat.com/aid/';
+  /*Fix for ECBC-6975 - Trim white space */
+      var pp_SkuId= $("#product-data").find("#SkuId").text().trim();
+      var pp_lineCode= $("#product-data").find("#lineCode").text().trim();
+      var pp_productLine= $("#product-data").find("#productLine").text().trim();
+      var pp_configureTechResponse= $("#product-data").find("#configureTechResponse").text().trim();
+      var pp_vehicledescription= $("#product-data").find("#vehicledescription").text().trim();
+      var pp_skuInCart= $("#product-data").find("#skuInCart").text().trim();
+      var pp_parentSku= $("#product-data").find("#parentSku").text().trim();
+      var pp_parentProductId= $("#product-data").find("#parentProductId").text().trim();
+      var pp_hasWebStore= $("#product-data").find("#hasWebStore").text().trim();
+      var pp_storeNo= $("#product-data").find("#storeNo").text().trim();
+  
+      $("#product-data").find("#SkuId").text(pp_SkuId);
+      $("#product-data").find("#lineCode").text(pp_lineCode);
+      $("#product-data").find("#productLine").text(pp_productLine);
+      $("#product-data").find("#configureTechResponse").text(pp_configureTechResponse);
+      $("#product-data").find("#vehicledescription").text(pp_vehicledescription);
+      $("#product-data").find("#skuInCart").text(pp_skuInCart);
+      $("#product-data").find("#parentSku").text(pp_parentSku);
+      $("#product-data").find("#parentProductId").text(pp_parentProductId);
+      $("#product-data").find("#hasWebStore").text(pp_hasWebStore);
+      $("#product-data").find("#storeNo").text(pp_storeNo);
+  /*End Fix for ECBC-6975  - Trim white space */
+  /*Fix for ECBC-4720 */
+  $('#parts-zone a.needsYMME').click(function (e) {
+    window.location = $(this).attr('href');
+    setTimeout(function () {
+    $("[aria-describedby=ymmePage]:visible").hide();
+    $('.ui-widget-overlay.ui-front').hide();
+    }, 10);
+  });
+  /*End Fix for ECBC-4720 */
+  /* Fix for ECBC-4784 */
+  var isDiagram = window.location.href.match(/jobDiagram\.jsp/);
+  if (isDiagram && isDiagram.length) {
+    $('#cont').attr('id','');
+  }
+  /* End Fix for ECBC-4784 */
+  if(window.location.pathname == "/parts") {
+  $( "div#internalAd img" ).attr("src","/images/MEDIA_ProductCatalog/m3550001_parts_banner.jpg" );
+  }
+  require(['autozone.components.Jspop'], function (Pop) {
+    $('.jspop-checkout,.jspop-warranty').each(function() {
+      new Pop({
+        el: $(this)
+      }).assignListeners();
+    });
+  });
+  
+  });
+  
+  /* Fix for soft 404 page */
+  require(['autozone.utils'], function (utils) {
+    var errorSource = utils.getUrlVar('errorSource'),
+      kwRegX = /[a-zA-Z0-9-_]+\/([a-zA-Z0-9-_]+)/,
+      azRegX = /\/autozone\//,
+      kwMatch,
+      search,
+      path;
+    if (errorSource && errorSource.length) {
+      path = decodeURIComponent(errorSource).split('?')[0];
+      path = path.replace(azRegX, '/');
+      kwMatch = kwRegX.exec(path) ? kwRegX.exec(path)[1] : null;
+      if (kwMatch && kwMatch.length) {
+        search = kwMatch.replace(/[-]/g, ' ');
+      }
+                     if(errorSource == '/Rewards') {
+                                    window.location.href = 'http://www.autozonerewards.com';
+      } else if (search.length) {
+        window.location.href = '/searchresult?searchText=' + search;
+      }
+    }
+  });
+              /* Generic Link Tracking */
+              jQuery('body').delegate('a[class^="trackLink"]', 'click', function (e) {
+                    /*
+                    * If the 'trackLink' className string comes first in the class attribute,
+                    * you may use multiple classNames for other purposes. An example trackLink string
+                    * for a footer link is: 'trackLink:community:footer'
+                    */
+                    var linkName = this.className.split(' ')[0];
+                    js_track.s_trackLink(linkName);
+              });
+  function imposeMaxLength(Object, MaxLen)
+  {
+    if (Object.value.length > MaxLen) {
+         Object.value = Object.value.substring(0, MaxLen);
+    }
+  }
+  
+  $( document ).ready(function() {
+          if ((document.location.href).indexOf("/checkout/orderSummaryAndPayment.jsp") > -1) {
+            if ($('.gc_applied').length >= 4) {
+              $('#accountNumber').prop('disabled', true);
+              $('#accountSecurityCode').prop('disabled', true);
+              $('#addGiftMerchCardBtn').addClass('disabled');
+              $('.gcBlock').hide();
+              $('#redeem').remove();
+              $('#giftcard_list').append('<div id="redeem" class="gc_header" style="line-height: 17px;">YOU HAVE REACHED THE MAXIMUM NUMBER OF GIFT CARDS ALLOWED PER TRANSACTION.</div>');
+            }
+            $('#addGiftMerchCardBtn').click(function() {
+              setTimeout(function(){
+                if ($('.gc_applied').length >= 4) {
+                  $('#accountNumber').prop('disabled', true);
+                  $('#accountSecurityCode').prop('disabled', true);
+                  $('#addGiftMerchCardBtn').addClass('disabled');
+                  $('.gcBlock').hide();
+                  $('#redeem').remove();
+                  $('#giftcard_list').append('<div id="redeem" class="gc_header" style="line-height: 17px;">YOU HAVE REACHED THE MAXIMUM NUMBER OF GIFT CARDS ALLOWED PER TRANSACTION.</div>');
+                } else {
+                  $('#accountNumber').prop('disabled', false);
+                  $('#accountSecurityCode').prop('disabled', false);
+                  $('#addGiftMerchCardBtn').removeClass('disabled');
+                  $('.gcBlock').show();
+                  $('#redeem').remove();
+                  $('#giftcard_list').append('<div id="redeem" class="gc_header">REDEEM ANOTHER CARD.</div>');
+                }
+              }, 2000);
+            });
+            $('body').on('click', '.gc_remove', function(){
+              setTimeout(function(){
+                if ($('.gc_applied').length >= 4) {
+                  $('#accountNumber').prop('disabled', true);
+                  $('#accountSecurityCode').prop('disabled', true);
+                  $('#addGiftMerchCardBtn').addClass('disabled');
+                  $('.gcBlock').hide();
+                  $('#redeem').remove();
+                  $('#giftcard_list').append('<div id="redeem" class="gc_header" style="line-height: 17px;">YOU HAVE REACHED THE MAXIMUM NUMBER OF GIFT CARDS ALLOWED PER TRANSACTION.</div>');
+                } else {
+                  $('#accountNumber').prop('disabled', false);
+                  $('#accountSecurityCode').prop('disabled', false);
+                  $('#addGiftMerchCardBtn').removeClass('disabled');
+                  $('.gcBlock').show();
+                  $('#redeem').remove();
+                  $('#giftcard_list').append('<div id="redeem" class="gc_header">REDEEM ANOTHER CARD.</div>');
+                }
+              }, 1000);
+            });
+          }
+          $('.shipping-option').click(function(e){
+            var rewardsData = $('#rewardsRedeemLine')[0].outerHTML;
+            $(this).ajaxComplete(function(){
+              updateRewards();
+              $('#rewardsRedeemLine').replaceWith(rewardsData);
+              if ($('#rewardsTvalue').text() !== '') {
+                $('#rewardsRedeemLine').show();
+              }
+            });
+          });
+  });
+  
+  function sr_updateMessages() {}
+  
+  $(function() {
+    //mx site changes
+    if(window.location.href.indexOf(".mx") > -1) {
 
-$( document ).ready(function() {
-				if ((document.location.href).indexOf("/checkout/orderSummaryAndPayment.jsp") > -1) {
-					if ($('.gc_applied').length >= 4) {
-						$('#accountNumber').prop('disabled', true);
-						$('#accountSecurityCode').prop('disabled', true);
-						$('#addGiftMerchCardBtn').addClass('disabled');
-						$('.gcBlock').hide();
-						$('#redeem').remove();
-						$('#giftcard_list').append('<div id="redeem" class="gc_header" style="line-height: 17px;">YOU HAVE REACHED THE MAXIMUM NUMBER OF GIFT CARDS ALLOWED PER TRANSACTION.</div>');
-					}
-					$('#addGiftMerchCardBtn').click(function() {
-						setTimeout(function(){
-							if ($('.gc_applied').length >= 4) {
-								$('#accountNumber').prop('disabled', true);
-								$('#accountSecurityCode').prop('disabled', true);
-								$('#addGiftMerchCardBtn').addClass('disabled');
-								$('.gcBlock').hide();
-								$('#redeem').remove();
-								$('#giftcard_list').append('<div id="redeem" class="gc_header" style="line-height: 17px;">YOU HAVE REACHED THE MAXIMUM NUMBER OF GIFT CARDS ALLOWED PER TRANSACTION.</div>');
-							} else {
-								$('#accountNumber').prop('disabled', false);
-								$('#accountSecurityCode').prop('disabled', false);
-								$('#addGiftMerchCardBtn').removeClass('disabled');
-								$('.gcBlock').show();
-								$('#redeem').remove();
-								$('#giftcard_list').append('<div id="redeem" class="gc_header">REDEEM ANOTHER CARD.</div>');
+    if(window.location.href.indexOf("/myzone/loggedIn") > -1) {
+      $('#repair-information-zone').siblings('div.clear').css({
+        'height': '150px',
+        /* margin: 20px 0 -50px 0; use this if you want #container to have a 'bottom padding', in this case of 20px */
+        'background': 'transparent' /* you'll need this if #container's parent element has a different background from #container itself */
+      });
+    }
+
+      //href change: pick up in store
+      $('a.store-pickup-mx').attr(
+        'href',
+        'http://www.autozone.com.mx/landing/page.jsp?name=recoge-en-tienda'
+      )
+  
+      //href change: search recommendations
+      if ($('#searchRecommendations a').length > 0) {
+        var srLink = $('#searchRecommendations a').attr('href');
+        srLink = srLink.replace('parts', 'refacciones');
+        $('#searchRecommendations a').attr('href', srLink);
+      }
+    }
+  });
+  
+  function SubForm()
+  {
+      var postData = $('#battSignup').serializeArray();
+      var formURL = $('#battSignup').attr("action");
+    $('#monetate_lightbox_content_container').replaceWith('<div id="monetate_lightbox_content_container" style="transform: translate3d(0px, 0px, 0px); height: 292px; left: 0px; margin: 0px auto; position: relative; right: 0px; top: 162px; width: 638px; opacity: 1; display: block;" class="battSignup"><div id="monetate_success_creative" style="position: relative;"><img src="http://b.monetate.net/img/1/362/769561.jpg" usemap="#monetate_success_creativeMap" style="border: none; outline: none;"><map id="monetate_success_creativeMap" name="monetate_success_creativeMap"><area shape="rect" coords="0,0,637,291" href="#close" onclick="$(\'#monetate_lightbox\').remove();" target="_self" style="outline: none; cursor: pointer;"></map></div></div>');
+  
+      $.ajax(
+      {
+          url : formURL,
+          type: "POST",
+          data : postData,
+          success:function(data, textStatus, jqXHR)
+          {
+            //data: return data from server
+          },
+          error: function(jqXHR, textStatus, errorThrown)
+          {
+           //if fails
+          }
+      });
+      e.preventDefault(); //STOP default action
+      e.unbind(); //unbind. to stop multiple form submit.
+  
+  };
+  
+
+		// BAZAARVOICE START INITIAL CONFIGS
+		$(document).ready(function () {
+			//checks to make sure this file is not loaded in one of these iframes...
+			if (location.pathname != "/catalog/common/enlargedImageOverlay.jsp" && location.pathname != "/catalog/common/storeLocatorDetail_grid.jsp" ){
+				var BVenableShelf = 'false',
+					BVenablePDP = 'false',
+					BVtagShelf = '',
+					BVtagPDP = '';
+				//set flag to turn BazaarVoice on or off by checking BCC configs service
+				if ((typeof bvPDP != "undefined" && bvPDP === true) || (typeof bvShelf != "undefined" && bvShelf === true)){
+					$.ajax({
+						url: "/rest/bean/autozone/diy/multisite/service/AZSiteConfigurationService/globalConfigs?atg-rest-depth=1",
+						data: {"arg1": "RR_AZRWEB_SHELF_ENABLED,RR_AZRWEB_PDP_ENABLED,RR_AZRWEB_PDP_TAG,RR_AZRWEB_SHELF_TAG"},
+						type: "GET",
+						dataType: "json",
+						success: function(response){
+							var configData = response.globalConfigs;
+							var bvConfigs = configData.globalConfigs
+							BVenableShelf = bvConfigs.RR_AZRWEB_SHELF_ENABLED;
+							BVenablePDP = bvConfigs.RR_AZRWEB_PDP_ENABLED;
+							BVtagShelf = bvConfigs.RR_AZRWEB_SHELF_TAG;
+							BVtagPDP = bvConfigs.RR_AZRWEB_PDP_TAG;
+							//if Shelf BazaarVoice is enabled and we are on the shelf page...
+							if (BVenableShelf === 'true' && bvShelf === true){
+								//production script for Bazaar Voice (inline ratings)
+								$.getScript(BVtagShelf).done(function(script, status){
+									$BV.ui('rr', 'inline_ratings', {
+										productIds: bvProductsObject,
+										containerPrefix: 'BVRRInlineRating'
+									});
+								});
 							}
-						}, 2000);
-					});
-					$('body').on('click', '.gc_remove', function(){
-						setTimeout(function(){
-							if ($('.gc_applied').length >= 4) {
-								$('#accountNumber').prop('disabled', true);
-								$('#accountSecurityCode').prop('disabled', true);
-								$('#addGiftMerchCardBtn').addClass('disabled');
-								$('.gcBlock').hide();
-								$('#redeem').remove();
-								$('#giftcard_list').append('<div id="redeem" class="gc_header" style="line-height: 17px;">YOU HAVE REACHED THE MAXIMUM NUMBER OF GIFT CARDS ALLOWED PER TRANSACTION.</div>');
-							} else {
-								$('#accountNumber').prop('disabled', false);
-								$('#accountSecurityCode').prop('disabled', false);
-								$('#addGiftMerchCardBtn').removeClass('disabled');
-								$('.gcBlock').show();
-								$('#redeem').remove();
-								$('#giftcard_list').append('<div id="redeem" class="gc_header">REDEEM ANOTHER CARD.</div>');
+							//if Product Detail page is enabled and we are on a detail page...
+							if (BVenablePDP === 'true' && bvPDP === true){
+								//production script for Bazaar Voice
+								var bvTag = document.createElement('script');
+								bvTag.setAttribute('async', '');
+								bvTag.src = BVtagPDP;
+								document.head.appendChild(bvTag);
+								$('#reviewsBVoice').show();
+								$('#ratingsTop').fadeIn(300);
 							}
-						}, 1000);
+						}
 					});
 				}
-				//Rewards temp fixes
-				// $('#rewardsBoxCart').find('.rewardsLessPadTop').hide();
-				// $('.rewards_redeem p:eq(0)').hide();
-				// $('.rewards_redeem p:eq(2)').hide();
-				// if ($('#rewardsHead').length > 0){
-				// 	var rewardsRedeemMsg = '<p id="redeemErrMsg" style="clear: both; padding: 15px 0 0 5px; margin-right: 0 !important;">We apologize. Currently, you are unable to redeem your Rewards balance.<br />We are working to restore this feature of the Rewards Program as quickly as possible.</p>';
-				// 	$(rewardsRedeemMsg).appendTo('#rewardsHead');
-				// 	$('#ospRewardsBalance').hide();
-				// }
-        $('.shipping-option').click(function(e){
-          var rewardsData = $('#rewardsRedeemLine')[0].outerHTML;
-          $(this).ajaxComplete(function(){
-            updateRewards();
-            $('#rewardsRedeemLine').replaceWith(rewardsData);
-            if ($('#rewardsTvalue').text() !== '') {
-              $('#rewardsRedeemLine').show();
-            }
-          });
-        });
-});
+			}
+		});
+		//END BAZAARVOICE CONFIGS
+	</script>
+	<script src="//tags.tiqcdn.com/utag/autozone/main/prod/utag.sync.js" type="text/javascript"></script>
 
-function sr_updateMessages() {}
-
-$(function() {
-	if(window.location.href.indexOf(".mx") > -1) {
-		if ($('#searchRecommendations a').length > 0) {
-			var srLink = $('#searchRecommendations a').attr('href');
-			srLink = srLink.replace('parts', 'refacciones');
-			$('#searchRecommendations a').attr('href', srLink);
-		}
-	}
-});
-function SubForm()
-{
-    var postData = $('#battSignup').serializeArray();
-    var formURL = $('#battSignup').attr("action");
-	$('#monetate_lightbox_content_container').replaceWith('<div id="monetate_lightbox_content_container" style="transform: translate3d(0px, 0px, 0px); height: 292px; left: 0px; margin: 0px auto; position: relative; right: 0px; top: 162px; width: 638px; opacity: 1; display: block;" class="battSignup"><div id="monetate_success_creative" style="position: relative;"><img src="http://b.monetate.net/img/1/362/769561.jpg" usemap="#monetate_success_creativeMap" style="border: none; outline: none;"><map id="monetate_success_creativeMap" name="monetate_success_creativeMap"><area shape="rect" coords="0,0,637,291" href="#close" onclick="$(\'#monetate_lightbox\').remove();" target="_self" style="outline: none; cursor: pointer;"></map></div></div>');
-
-    $.ajax(
-    {
-        url : formURL,
-        type: "POST",
-        data : postData,
-        success:function(data, textStatus, jqXHR) 
-        {
-          //data: return data from server
-        },
-        error: function(jqXHR, textStatus, errorThrown) 
-        {
-         //if fails      
-        }
-    });
-    e.preventDefault(); //STOP default action
-    e.unbind(); //unbind. to stop multiple form submit.
-	
-};
-
-
-</script>
-	<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <link href="https://content.shoprunner.com/SecureAUZN.css" type="text/css" rel="stylesheet"><script src="https://content.shoprunner.com/AUZN.js" type="text/javascript"></script></head><body><ins class="adsbygoogle ad1" style="width:160px; height:600px" data-ad-client="ca-pub-1121694687301938" data-ad-slot="3810397666"></ins>
 <ins class="adsbygoogle ad2" style="width:160px; height:600px" data-ad-client="ca-pub-1121694687301938" data-ad-slot="3810397666"></ins>
 <ins class="adsbygoogle ad3" style="width:728px; height:90px" data-ad-client="ca-pub-1121694687301938" data-ad-slot="3810397666"></ins>
-
+<ins class="adsbygoogle ad4" style="width:160px; height:600px" data-ad-client="ca-pub-1121694687301938" data-ad-slot="3810397666"></ins>
+<ins class="adsbygoogle ad5" style="width:160px; height:600px" data-ad-client="ca-pub-1121694687301938" data-ad-slot="3810397666"></ins>
 
 <script type="text/javascript">
 $(document).ready(function() {
-	var url = window.location.href,
-		hname = window.location.hostname,
-		bcText = $('.breadcrumb li:nth-child(2)').text();
-	bcText = bcText.trim();
-	if (hname == 'www.autozone.com') {
-		if (url == 'http://www.autozone.com/') {
-			$('.ad1').css('height', '90px');
-			$('.ad1').css('width', '728px');
-			(adsbygoogle = window.adsbygoogle || []).push({});
-			    $('.ad1').insertAfter('#buy-with-confidence');
-			    $('.ad1').css('top', '10px');
-			    $('.ad1').css('left', '130px');
-			    $('.ad1').css('position', 'relative');
-			    $('.ad1 ').css('display ', 'inline - block ');
-		} else if ((bcText == 'Tools and Equipment') || (bcText == 'Parts') || (bcText == 'Replacement Parts') || (bcText == 'Interior Accessories') || (bcText == 'Exterior Accessories') || (bcText == 'Truck And Towing') || (bcText == 'Chemicals And Fluids') || (bcText == 'Fluids And Chemicals') || (bcText == 'Performance')) {
-			// RIGHT SIDE AD
-			(adsbygoogle = window.adsbygoogle || []).push({});
-				var offset = $('#cont').offset();
-				var adleft = offset.left + 1005;
-				$('.ad1').css('left', adleft);
-				$('.ad1').css('position', 'absolute');
-				$('.ad1').css('display', 'inline-block');
-			if (($('.breadcrumb li:nth-child(3)').text() == 'Brakes And Traction Control') && ($('.breadcrumb li:nth-child(4)').text() == '')) {
-				// LEFT SIDE AD
-				(adsbygoogle = window.adsbygoogle || []).push({});
-					var offset = $('#cont').offset();
-					var adleft = offset.left - 179;
-					$('.ad2').css('left', adleft);
-					$('.ad2').css('top', 980);
-					$('.ad2').css('position', 'absolute');
-					$('.ad2').css('display', 'inline-block');
-			} else {
-				// LEFT SIDE AD
-				(adsbygoogle = window.adsbygoogle || []).push({});
-					var offset = $('#cont').offset();
-					var adleft = offset.left - 179;
-					$('.ad2').css('left', adleft);
-					$('.ad2').css('position', 'absolute');
-					$('.ad2').css('display', 'inline-block');
-			}
-			// BOTTOM AD
-			$('.ad3').css('height', '90px');
-			$('.ad3').css('width', '728px');
-			(adsbygoogle = window.adsbygoogle || []).push({});
-			    $('.ad3').insertAfter('#buy-with-confidence');
-			    $('.ad3').css('top', '10px');
-			    $('.ad3').css('left', '130px');
-			    $('.ad3').css('position', 'relative');
-			    $('.ad3').css('display ', 'inline - block ');
-		} else if ((url.indexOf('/repairinfo/repairInfoLanding.jsp') > 0) || (url.indexOf('/myzone/profile/login.jsp') > 0) || (url.indexOf('/myzone/loggedIn.jsp') > 0) ) {
-			(adsbygoogle = window.adsbygoogle || []).push({});
-				var offset = $('#cont').offset();
-				var adleft = offset.left + 1005;
-				$('.ad1').css('left', adleft);
-				$('.ad1').css('position', 'absolute');
-				$('.ad1').css('display', 'inline-block');
-		}
-	}
+
+  var url = window.location.href.split('//')[1],
+    hname = window.location.hostname,
+    path = window.location.pathname
+    bcText = $('.breadcrumb li:nth-child(2)').text().trim().toLowerCase(),
+    bcTextWhitelist = ["tools and equipment", "parts", "auto parts", "replacement parts", "interior accessories", "exterior accessories", "truck and towing", "chemicals and fluids", "fluids and chemicals", "performance", "repair help"],
+    offset = 0,
+    adleft = 0,
+    contHeight = $('#cont').height();
+
+  if ((url.indexOf('enlargedImageOverlay.jsp') < 0) && (url.indexOf('searchAnotherStore.jsp') < 0)) {
+
+    //if we are on a page that needs ads and the window is big enough to accept gutter ads
+    if (bcTextWhitelist.indexOf(bcText) !== -1 || url == "www.autozone.com/" || url.indexOf('searchresult?searchText') !== -1 || url.indexOf('landing/page.jsp') !== -1) {
+
+      // RIGHT SIDE AD 1
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      offset = $('#cont').offset();
+      adleft = offset.left + 1005;
+      $('.ad1').css({
+        'left': adleft,
+        'position': 'absolute',
+        'display': 'inline-block'
+      });   
+
+      // LEFT SIDE AD 1         
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      offset = $('#cont').offset();
+      adleft = offset.left - 179;
+      $('.ad2').css({
+        'left': adleft,
+        'position': 'absolute',
+        'display': 'inline-block'
+      });
+
+      if (contHeight > 1080) {
+        //LEFT SIDE AD 2
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        offset = $('#cont').offset();
+        adleft = offset.left - 179;
+        $('.ad4').css({
+          'left': adleft,
+          'top': '980px',
+          'position': 'absolute',
+          'display': 'inline-block',
+          'top': '905px'
+        }); 
+
+        // RIGHT SIDE AD 2
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        offset = $('#cont').offset();
+        adleft = offset.left + 1005;
+        $('.ad5').css({
+          'left': adleft,
+          'position': 'absolute',
+          'display': 'inline-block',
+          'top': '905px'
+        });
+      }
+    }
+
+    if ((bcTextWhitelist.indexOf(bcText) !== -1 && bcTextWhitelist.indexOf('repair help') < 0) || url == "www.autozone.com/" || url.indexOf('searchresult?searchText') > 0) {
+      // BOTTOM AD
+      (adsbygoogle = window.adsbygoogle || []).push({});
+        $('.ad3').insertAfter('#buy-with-confidence');
+        $('.ad3').css({
+        'height': '90px',
+        'width': '728px',
+          'top': '10px',
+          'left': '130px',
+          'position': 'relative',
+          'display ': 'inline-block '
+        });
+    }
+
+    if ((url.indexOf('landing/page.jsp') > 0) || (bcTextWhitelist.indexOf('repair help') > 0)) {
+      // BOTTOM AD
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      offset = $('#cont').offset();
+      adleft = offset.left + 125;
+      $('.ad3').insertAfter('#cont');
+      $('.ad3').css({
+        'height': '90px',
+        'width': '728px',
+        'top': '10px',
+        'left': adleft,
+        'position': 'relative',
+        'display ': 'inline-block '
+      });
+
+    }
+
+
+
+    //if we are on any one of the pages in this conditional
+    if ((path == '/myzone/profile/login.jsp' ) || (path == '/myzone/loggedIn.jsp')) {
+      (adsbygoogle = window.adsbygoogle || []).push({});
+        var offset = $('#cont').offset();
+        var adleft = offset.left + 1005;
+        $('.ad1').css({
+          'left': adleft,
+          'position': 'absolute',
+          'display': 'inline-block'
+        });
+    }
+
+
+
+    if( window.innerWidth <= 1360){
+      $('.ad1, .ad2, .ad4, .ad5').remove()
+    }
+  }
 });
+
 </script><meta name="msapplication-config" content="none">
  
 		
 <script type="text/javascript">
-	var renderStart = new Date().getTime(),
-		t_env = 'dev',
-		jSessionId = '2E6CDD75AC2B4A3AA329603A2AB8F71C.diyprod5-b2c10';;
-	if (window.location.hostname=="www.autozone.com" || window.location.hostname=="www.autozone.com.mx") {
-		t_env='prod';
-	} else if(window.location.hostname=="diyuat.autozone.com" || window.location.hostname=="diyuatmx1.autozone.com.mx") {
-		t_env='qa';
-	} else if(window.location.hostname=="diyqa.autozone.com" || window.location.hostname=="diyqa.autozone.com.mx") {
-		t_env='qa';
-	}
-	$('body').addClass('loading');
-	function getDoubleClickData() {
-		var homePage = /autozone\.com$|homePage.jsp/,
-			cart = /\/cart\/cart\.jsp/,
-			shippingBilling = /\/checkout\/shippingAndBillingAddress\.jsp/,
-			orderSummary = /\/checkout\/orderSummaryAndPayment\.jsp/,
-			orderConfirmation = /\/checkout\/webstore\/onlineOrderConfirmation\.jsp/,
-			services = /\/inourstores\/services\.jsp/,
-			loan = /\/landing\/page\.jsp\?name=loan-a-tool/,
-			bopus = /\/landing\/page\.jsp\?name=buy_online_pickup_in_store/,
-			deals = /\/deals\/\?footer=true&showDeal=true/,
-			circular = /\/inourstores\/circular\.jsp/,
-			storeLocator = /\/storelocator\/storeLocatorMain\.jsp/,
-			category = '',
-			type = '',
-			href = window.location.href;
-		if (homePage.test(href)) {
-			category = 'hpg_h0';
-			type = 'autoz00';
-		} else if (cart.test(href)) {
-			category = 'eng_s0';
-			type = 'autoz002';
-		} else if (shippingBilling.test(href)) {
-			category = 'eng_s00';
-			type = 'autoz002';
-		} else if (orderSummary.test(href)) {
-			category = 'eng_o0';
-			type = 'autoz002';
-		} else if (orderConfirmation.test(href)) {
-			/* This will need a different pixel
-				https://1104996.fls.doubleclick.net/activityi;src=1104996;type=autoz003;cat=ecm_c0;qty=1;cost=[Revenue];ord=[OrderID]?
-			*/
-			category = 'ecm_c0';
-			type = 'autoz003';
-		} else if (services.test(href)) {
-			category = 'cnt_i0';
-			type = 'autoz004';
-		} else if (loan.test(href)) {
-			category = 'cnt_l0';
-			type = 'autoz004';
-		} else if (bopus.test(href)) {
-			category = 'cnt_b0';
-			type = 'autoz004';
-		} else if (deals.test(href)) {
-			category = 'eng_d0';
-			type = 'autoz002';
-		} else if (circular.test(href)) {
-			category = 'eng_s000';
-			type = 'autoz002';
-		} else if (storeLocator.test(href)) {
-			category = 'eng_s001';
-			type = 'autoz002';
-		}
-		return {
-			category: category,
-			type: type
-		};
-	}
-	function getDataLayer () {
-		return {
+            if (utag_data) {
+                $.extend(utag_data, {"cartProductTitles":[],"cartProductPartIds":[],"cartProductSkus":[],"cartProductVendors":[]});
+            } else {
+                var utag_data = {"cartProductTitles":[],"cartProductPartIds":[],"cartProductSkus":[],"cartProductVendors":[]};
+            }
+        </script>
+    <script type="text/javascript">
+        var renderStart = new Date().getTime(),
+                t_env = 'dev',
+                jSessionId = 'k+QWuHmzpiN3nucmm9bPAMWk.pr-camaro1-xl09-EStore02';;
+        if (window.location.hostname=="www.autozone.com" || window.location.hostname=="www.autozone.com.mx") {
+                t_env='prod';
+        } else if(window.location.hostname=="diyuat.autozone.com" || window.location.hostname=="diyuatmx1.autozone.com.mx") {
+                t_env='qa';
+        } else if(window.location.hostname=="diyqa.autozone.com" || window.location.hostname=="diyqa.autozone.com.mx") {
+                t_env='qa';
+        }
+        $('body').addClass('loading');
+        function getDoubleClickData() {
+                var homePage = /autozone\.com$|homePage.jsp/,
+                        cart = /\/cart\/cart\.jsp/,
+                        shippingBilling = /\/checkout\/shippingAndBillingAddress\.jsp/,
+                        orderSummary = /\/checkout\/orderSummaryAndPayment\.jsp/,
+                        orderConfirmation = /\/checkout\/webstore\/onlineOrderConfirmation\.jsp/,
+                        services = /\/inourstores\/services\.jsp/,
+                        loan = /\/landing\/page\.jsp\?name=loan-a-tool/,
+                        bopus = /\/landing\/page\.jsp\?name=buy_online_pickup_in_store/,
+                        deals = /\/deals\/\?footer=true&showDeal=true/,
+                        circular = /\/inourstores\/circular\.jsp/,
+                        storeLocator = /\/storelocator\/storeLocatorMain\.jsp/,
+                        category = '',
+                        type = '',
+                        href = window.location.href;
+                if (homePage.test(href)) {
+                        category = 'hpg_h0';
+                        type = 'autoz00';
+                } else if (cart.test(href)) {
+                        category = 'eng_s0';
+                        type = 'autoz002';
+                } else if (shippingBilling.test(href)) {
+                        category = 'eng_s00';
+                        type = 'autoz002';
+                } else if (orderSummary.test(href)) {
+                        category = 'eng_o0';
+                        type = 'autoz002';
+                } else if (orderConfirmation.test(href)) {
+                        /* This will need a different pixel
+                                https://1104996.fls.doubleclick.net/activityi;src=1104996;type=autoz003;cat=ecm_c0;qty=1;cost=[Revenue];ord=[OrderID]?
+                        */
+                        category = 'ecm_c0';
+                        type = 'autoz003';
+                } else if (services.test(href)) {
+                        category = 'cnt_i0';
+                        type = 'autoz004';
+                } else if (loan.test(href)) {
+                        category = 'cnt_l0';
+                        type = 'autoz004';
+                } else if (bopus.test(href)) {
+                        category = 'cnt_b0';
+                        type = 'autoz004';
+                } else if (deals.test(href)) {
+                        category = 'eng_d0';
+                        type = 'autoz002';
+                } else if (circular.test(href)) {
+                        category = 'eng_s000';
+                        type = 'autoz002';
+                } else if (storeLocator.test(href)) {
+                        category = 'eng_s001';
+                        type = 'autoz002';
+                }
+                return {
+                        category: category,
+                        type: type
+                };
+        }
+        function getDataLayer () {
+                return {
   doubleClickCategory: getDoubleClickData().category,
-			doubleClickType: getDoubleClickData().type,
-			user_vehicle_count: '12',
-			authenticationStatus: false,
-			profile_id: '3639838062',
-			preferredStoreId: '3805',
-			preferredZipCode: '32132',
-			preferredVehicleName: '2006 Dodge/Ram Truck Dakota 4WD 3.7L FI SOHC 6cyl',
-			preferredVehicleEngine: '3.7L FI SOHC 6cyl',
-			preferredVehicleId: '3031601',
-			preferredVehicleMake: 'Dodge/Ram Truck',
-			preferredVehicleModel: 'Dakota 4WD',
-			preferredVehicleYear: '2006',
-			jSessionId: jSessionId,
-			rewardsId: ''
-		};
-	}
+                        doubleClickType: getDoubleClickData().type,
+                        user_vehicle_count: '0',
+                        authenticationStatus: false,
+                        profile_id: '4430480615',
+                        preferredStoreId: '',
+                        preferredZipCode: '',
+                        preferredVehicleName: '',
+                        preferredVehicleEngine: '',
+                        preferredVehicleId: '',
+                        preferredVehicleMake: '',
+                        preferredVehicleModel: '',
+                        preferredVehicleYear: '',
+                        jSessionId: jSessionId,
+                        rewardsId: ''
+                };
+        }
 
-	if (utag_data) {
-		$.extend(utag_data, getDataLayer());
-	} else {
-		var utag_data = getDataLayer();
-	}
+        if (utag_data) {
+                $.extend(utag_data, getDataLayer());
+        } else {
+                var utag_data = getDataLayer();
+        }
 
 
 var combinedOrderTotal = 0
-	combinedOrderId = '';
+        combinedOrderId = '';
 if (typeof(certonaOnlineId) !== 'undefined') {
-	combinedOrderId = certonaOnlineId;
+        combinedOrderId = certonaOnlineId;
 }
 if (typeof(certonaStoreId) !== 'undefined') {
-	if (combinedOrderId.length) {
-		combinedOrderId = combinedOrderId + '|' + certonaStoreId;
-	} else {
-		combinedOrderId = certonaStoreId;
-	}
+        if (combinedOrderId.length) {
+                combinedOrderId = combinedOrderId + '|' + certonaStoreId;
+        } else {
+                combinedOrderId = certonaStoreId;
+        }
 }
 if (typeof(certonaOnlineTotal) !== 'undefined') {
-	combinedOrderTotal = parseFloat(certonaOnlineTotal);
+        combinedOrderTotal = parseFloat(certonaOnlineTotal);
 }
 if (typeof(certonaStoreTotal) !== 'undefined') {
-	combinedOrderTotal = parseFloat(combinedOrderTotal) + parseFloat(certonaStoreTotal);
+        combinedOrderTotal = parseFloat(combinedOrderTotal) + parseFloat(certonaStoreTotal);
 }
 if (combinedOrderTotal > 0) {
-	utag_data.combinedOrderTotal = combinedOrderTotal.toString();
+        utag_data.combinedOrderTotal = combinedOrderTotal.toString();
 }
 if (combinedOrderId.length) {
-	utag_data.combinedOrderId = combinedOrderId;
+        utag_data.combinedOrderId = combinedOrderId;
 }
 </script>
 
 <!-- Loading script asynchronously -->
-	<script type="text/javascript">
-		(function(a, b, c, d) {
-			if ((window.location.hostname).indexOf(".mx") > -1) {
-				a = '//tags.tiqcdn.com/utag/autozone/webmexico/' + t_env
-						+ '/utag.js';
-			} else {
-				a = '//tags.tiqcdn.com/utag/autozone/main/' + t_env
-						+ '/utag.js';
-			}
-			b = document;
-			c = 'script';
-			d = b.createElement(c);
-			d.src = a;
-			d.type = 'text/java' + c;
-			d.async = true;
-			a = b.getElementsByTagName(c)[0];
-			a.parentNode.insertBefore(d, a);
-		})();
-	</script>
-	<script async="" type="text/javascript" src="/js-build-7.7.0.14/analytics.js"></script>
+        <script type="text/javascript">
+                (function(a, b, c, d) {
+                        if ((window.location.hostname).indexOf(".mx") > -1) {
+                                a = '//tags.tiqcdn.com/utag/autozone/webmexico/' + t_env
+                                                + '/utag.js';
+                        } else {
+                                a = '//tags.tiqcdn.com/utag/autozone/main/' + t_env
+                                                + '/utag.js';
+                        }
+                        b = document;
+                        c = 'script';
+                        d = b.createElement(c);
+                        d.src = a;
+                        d.type = 'text/java' + c;
+                        d.async = true;
+                        a = b.getElementsByTagName(c)[0];
+                        a.parentNode.insertBefore(d, a);
+                })();
+        </script>
+        <script async="" type="text/javascript" src="/js-build-9.0.4/analytics.js"></script>
 <script type="text/javascript">
-	/* Global Analytics */
-	if (window.location.href.indexOf('loggingIn=true') !== -1) {
-		js_track.s_login();
-	}
-	$(document).ready(function() {
-		//js_track.s_renderTime(renderStart, new Date().getTime());
-		var errors = $('.error,.errorMessages'),
-			cartPage = $('#site-shopping-cart');
-		if (errors.length > 0) {
-			errors.each(function() {
-				if ($(this).find('li').size() > 0) {
-					var context = $(this),
-						errorMsg = [],
-						msg = '';
-					$(context).find('li').each(function() {
-						msg = $(this).text();
-						msg = msg.trim();
-						errorMsg.push(msg);
-					});
-					errorMsg = errorMsg.join(' | ');
-					js_track.s_serverSideErrorTracking(errorMsg);
-				} else {
-					if (cartPage <= 0) {
-						var context = $(this),
-							errorMsg = [],
-							msg = '';
-						if ($(context).css('display') == 'block') {
-							msg = $(this).text();
-							msg = msg.trim();
-							errorMsg.push(msg);
-						}
-						if (errorMsg.length > 0) {
-							errorMsg = errorMsg.join(' | ');
-							js_track.s_serverSideErrorTracking(errorMsg);
-						}
-					}
-				}
-			});
-		}
+        /* Global Analytics */
+       
+        $(document).ready(function() {
+        	 if (window.location.href.indexOf('loggedIn') !== -1) {
+                 js_track.s_login();
+         }
+                //js_track.s_renderTime(renderStart, new Date().getTime());
+                var errors = $('.error,.errorMessages'),
+                        cartPage = $('#site-shopping-cart');
+                if (errors.length > 0) {
+                        errors.each(function() {
+                                if ($(this).find('li').size() > 0) {
+                                        var context = $(this),
+                                                errorMsg = [],
+                                                msg = '';
+                                        $(context).find('li').each(function() {
+                                                msg = $(this).text();
+                                                msg = msg.trim();
+                                                errorMsg.push(msg);
+                                        });
+                                        errorMsg = errorMsg.join(' | ');
+                                        js_track.s_serverSideErrorTracking(errorMsg);
+                                } else {
+                                        if (cartPage <= 0) {
+                                                var context = $(this),
+                                                        errorMsg = [],
+                                                        msg = '';
+                                                if ($(context).css('display') == 'block') {
+                                                        msg = $(this).text();
+                                                        msg = msg.trim();
+                                                        errorMsg.push(msg);
+                                                }
+                                                if (errorMsg.length > 0) {
+                                                        errorMsg = errorMsg.join(' | ');
+                                                        js_track.s_serverSideErrorTracking(errorMsg);
+                                                }
+                                        }
+                                }
+                        });
+                }
 
-		$('input[type=text],textarea,select').on('focus', function () {
-			var parent = $(this).parents('form:first'),
-				formName;
-			if (parent.length && !parent.hasClass('started')) {
-				parent.addClass('started');
-				formName = parent.attr('name');
-				if (formName != 'searchformlet') {
-					js_track.s_formStart(formName);
-				}
-			}
-		});
-		$('form').on('submit', function () {
-			var form = $(this),
-				readableName = form.find('#readable-form-name').attr('value'),
-				formName = '';
-			if (readableName) {
-				formName = readableName;
-			} else {
-				formName = form.attr('name');
-			}
-			if (form.hasClass('started')) {
-				form.removeClass('started');
-				if (formName != 'searchformlet') {
-					js_track.s_formEnd(formName);
-				}
-			}
-		});
-	});
-	$(window).load(function () {
-		//js_track.s_loadTime(renderStart, new Date().getTime());
-		var breadcrumbs = $('#bct,.breadcrumb'),
-			crumbs = [];
+                $('input[type=text],textarea,select').on('focus', function () {
+                        var parent = $(this).parents('form:first'),
+                                formName;
+                        if (parent.length && !parent.hasClass('started')) {
+                                parent.addClass('started');
+                                formName = parent.attr('name');
+                                if (formName != 'searchformlet') {
+                                        js_track.s_formStart(formName);
+                                }
+                        }
+                });
+                $('form').on('submit', function () {
+                        var form = $(this),
+                                readableName = form.find('#readable-form-name').attr('value'),
+                                formName = '';
+                        if (readableName) {
+                                formName = readableName;
+                        } else {
+                                formName = form.attr('name');
+                        }
+                        if (form.hasClass('started')) {
+                                form.removeClass('started');
+                                if (formName != 'searchformlet') {
+                                        js_track.s_formEnd(formName);
+                                }
+                        }
+                });
+        });
+        $(window).load(function () {
+                //js_track.s_loadTime(renderStart, new Date().getTime());
+                var breadcrumbs = $('#bct,.breadcrumb'),
+                        crumbs = [];
 
-		crumbs = $.map(breadcrumbs.find('li'), function (val) {
-			var crumb = $(val).text().replace('/', '');
-			return $.trim(crumb);
-		});
-		js_track.s_setHierarchy(crumbs.join(' | '));
-	});
+                crumbs = $.map(breadcrumbs.find('li'), function (val) {
+                        var crumb = $(val).text().replace('/', '');
+                        return $.trim(crumb);
+                });
+                js_track.s_setHierarchy(crumbs.join(' | '));
+        });
 </script>
 
 <div id="fb-root"></div>
@@ -832,41 +978,44 @@ if (combinedOrderId.length) {
 </div>
 		<ul>
 			<li>
-				<a title="Terms and Conditions" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=termsAndConditions&amp;pageCategory=termsAndConditions">Terms and Conditions
+				<a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=termsAndConditions&amp;pageCategory=termsAndConditions" title="Terms and Conditions">Terms and Conditions
 </a></li>
 			<li>
-				<a title="Logins and Cookies" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=loginsAndCookies&amp;pageCategory=loginsAndCookies">Logins and Cookies
+				<a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=loginsAndCookies&amp;pageCategory=loginsAndCookies" title="Logins and Cookies">Logins and Cookies
 </a></li>
 			<li>
-				<a title="Rules and Regulations" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=RulesAndRegulations&amp;pageCategory=RulesAndRegulations">Rules and Regulations
+				<a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=RulesAndRegulations&amp;pageCategory=RulesAndRegulations" title="Rules and Regulations">Rules and Regulations
 </a></li>
 
 			<li>
-				<a title="Use of Community" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=useOfCommunity&amp;pageCategory=useOfCommunity">Use of Community
+				<a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=useOfCommunity&amp;pageCategory=useOfCommunity" title="Use of Community">Use of Community
 </a></li>
 		<li>
-				<a title="Linking Agreement" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=LinkingAgreement&amp;pageCategory=LinkingAgreement">Linking Agreement
+				<a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=LinkingAgreement&amp;pageCategory=LinkingAgreement" title="Linking Agreement">Linking Agreement
 </a></li>
 			<li class="selected"><strong>
-					<a title="Privacy Policy" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=privacyPolicy&amp;pageCategory=privacyPolicy">Privacy Policy
+					<a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=privacyPolicy&amp;pageCategory=privacyPolicy" title="Privacy Policy">Privacy Policy
 </a></strong></li>
 			<li>
-				<a title="Warranties" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=warranties&amp;pageCategory=warranties">Warranties
+				<a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=warranties&amp;pageCategory=warranties" title="Warranties">Warranties
 </a></li>
 			<li>
-				<a title="Return Policy" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=returnsPolicy&amp;pageCategory=returnsPolicy">Return Policy
+				<a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=returnsPolicy&amp;pageCategory=returnsPolicy" title="Return Policy">Return Policy
 </a></li>
 			<li>
-				<a title="Secure Shopping" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=secureShopping&amp;pageCategory=secureShopping">Secure Shopping
+				<a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=secureShopping&amp;pageCategory=secureShopping" title="Secure Shopping">Secure Shopping
 </a></li>
 			<li>
-				<a title="Using Gift Cards/Merchandise Credit" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=giftMerchCard&amp;pageCategory=giftMerchCard">Using Gift Cards/Merchandise Credit</a></li><li>
-				<a title="Pricing and Invoices" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=pricingAndInvoices&amp;pageCategory=pricingAndInvoices">Pricing and Invoices
+				<a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=giftMerchCard&amp;pageCategory=giftMerchCard" title="Using Gift Cards/Merchandise Credit">Using Gift Cards/Merchandise Credit</a></li><li>
+				<a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=pricingAndInvoices&amp;pageCategory=pricingAndInvoices" title="Pricing and Invoices">Pricing and Invoices
 </a></li>
+			
 			<li>
-				<a title="Free Shipping" href="/customerservice/freeShipping.jsp?leftNavPage=freeShipping&amp;pageCategory=freeShipping">Free Shipping
+				<a href="/customerservice/nextDayShipping.jsp?leftNavPage=nextDayShipping&amp;pageCategory=nextDayShipping" title="Next Day Shipping">Next Day Shipping
+				</a></li><li>
+				<a href="/customerservice/freeShipping.jsp?leftNavPage=freeShipping&amp;pageCategory=freeShipping" title="Free Shipping">Free Shipping
 </a></li><li>
-				<a title="SMS Terms and Conditions" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=smsTermsAndConditions&amp;pageCategory=smsTermsAndConditions">SMS Terms and Conditions
+				<a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=smsTermsAndConditions&amp;pageCategory=smsTermsAndConditions" title="SMS Terms and Conditions">SMS Terms and Conditions
 </a></li>
 		</ul>
 </div>
@@ -874,10 +1023,10 @@ if (combinedOrderId.length) {
 
 					<div id="rightcontent">
 		<div id="bct">
-		<ul>
-			<li class="toplevel"><a href="/;jsessionid=2E6CDD75AC2B4A3AA329603A2AB8F71C.diyprod5-b2c10">HOME</a>&nbsp;/</li>
-			<li><a href="/termsandconditions/termsAndConditionsHome.jsp;jsessionid=2E6CDD75AC2B4A3AA329603A2AB8F71C.diyprod5-b2c10">TERMS AND CONDITIONS</a>&nbsp;/</li>
-						<li>PRIVACY POLICY
+		<ul class="breadcrumb inline clearfix">
+			<li class="toplevel"><a href="/;jsessionid=k+QWuHmzpiN3nucmm9bPAMWk.pr-camaro1-xl09-EStore02">Home</a></li>
+			<li><a href="/termsandconditions/termsAndConditionsHome.jsp;jsessionid=k+QWuHmzpiN3nucmm9bPAMWk.pr-camaro1-xl09-EStore02">Terms and Conditions</a></li>
+						<li>Privacy Policy
 </li>
 					</ul>
 	</div>
@@ -946,7 +1095,7 @@ June 13,2013
 </h4>
 					  <p style="margin-bottom: 3px;">
 					  	If you have questions about this privacy statement, the practices of this site or your dealings with this site, please contact AutoZone via
-&nbsp;<a title="Contact Us" href="/contactus/contactUs.jsp">e-mail.
+&nbsp;<a href="/contactus/contactUs.jsp" title="Contact Us">e-mail.
 </a></p>
 	 			   </div>
 	 			</div>
@@ -958,14 +1107,46 @@ June 13,2013
 				</div>
 				</div>
 					<header id="globalHeader">
-	<div id="freeShip" style="text-align: center; background-color: #fff; border-bottom: 2px solid #404042;">
-<div id="AutoZone-FREE-Shipping" style="text-align: center; max-width= 100%"><img alt="In-Stock Items And Ship-To-Home Only. Offer Ends June 3, 2017 11:59:59 PM Central Time!" src="/images/MEDIA_ProductCatalog/m7900002_FY17P11_701-Tippy-Top-Free-Shipping.jpg" title="FREE GROUND SHIPPING - NO MINIMUM - Ending Soon -  In-Stock Items And Ship-To-Home Only. Offer Ends July 1, 2017 11:59:59 PM Central Time!"></div>
+	<style>
+
+	#AutoZone-FREE-Shipping p {
+    	        display: inline;
+    	        font-family: "AutoZoneCond",Arial,sans-serif;
+    	        font-size: 16px;
+         }
+
+        #AutoZone-FREE-Shipping a {
+                  text-decoration: none;
+        }
+
+	#AutoZone-FREE-Shipping h2{
+	        font-size: 22px;
+    	        margin: 0;
+    	        padding: 5px;
+    	        font-family: "AutoZoneCond-Medium",Arial,sans-serif;
+	}
+
+	#AutoZone-FREE-Shipping h2 sup{
+	        top:-.03em;
+	}
+	#AutoZone-FREE-Shipping h2 span.promoCode{
+	        font-size: 1.25rem;
+	        color:#D52B1E;
+	}
+</style>
+
+<div id="freeShip" style="text-align: center; background-color: #fff; border-bottom: 2px solid #404042;">
+	<div id="AutoZone-FREE-Shipping" style="text-align: center; max-width= 100%">
+		<a href="/landing/page.jsp?name=autozone-savings&amp;intcmp=20171224_20171230_hp_tippy-top_HOLIDAY20">
+		<h2>20% OFF FOR ONLINE SHIP-TO-HOME ORDERS OF $125 OR MORE.<sup>*</sup> <p>Use Code:</p> <span class="promoCode">HOLIDAY20</span><p style="color:#F37F00; padding-left:10px; font-weight:normal;">See Details › </p></h2>	
+		</a>
+	</div>
 </div><div id="toolbar">
 				<div class="inner clearfix">
 					<ul id="related_sites" class="no-bullet">
-						<li class="first"><a title="FIND A REPAIR SHOP" href="/landing/page.jsp?name=find-a-repair-shop">FIND A REPAIR SHOP
+						<li class="first"><a href="/landing/page.jsp?name=find-a-repair-shop" title="FIND A REPAIR SHOP">FIND A REPAIR SHOP
 </a></li>
-						<li><a title="For The Professional" href="http://www.autozonepro.com/">For The Professional
+						<li><a href="http://www.autozonepro.com/" title="For The Professional">For The Professional
 </a></li>
 						</ul>
 				<div id="profilenav" class="anonymous">
@@ -1012,7 +1193,7 @@ June 13,2013
 		<div id="hd">
 					<div class="inner clearfix">
 						<div class="grid-8 flush-left">
-							<div id="siteLogo"><a title="Home" href="/">AutoZone
+							<div id="siteLogo"><a href="/" title="Home">AutoZone
 <span></span></a></div>
 		<form id="searchformlet" name="searchformlet" method="get" action="/searchresult" accept-charset="UTF-8">
 				<input type="hidden" id="ymme-search" value="">
@@ -1119,7 +1300,7 @@ var SetStoreByZipLanguage = {
 					new SearchBar({
 
 						formSelector : '#searchformlet',
-						needsStore: !true,
+						needsStore: !false,
 						countryCode: 'US',
 						languageList : {
 							InlineYmme : InlineYmmeLanguage,
@@ -1167,78 +1348,10 @@ var SetStoreByZipLanguage = {
 	</div>
 </div>
 						<div id="manage-vehicles" class="grid-4 header-block">
-	<h3 class="simple"><a href="/myzone/vehicles/manageMyVehicles.jsp" class="showDropDown">My Vehicles
-</a></h3>
-				<p>2006 Dodge/Ram Truck Dakota 4WD 3.7L FI SOHC 6cyl</p>
-					<div class="dropDown">
-					<div class="close">CLOSE
-</div>
-					<div class="header">
-								<p><strong>Currently showing products for:
-</strong>2006 Dodge/Ram Truck Dakota 4WD 3.7L FI SOHC 6cyl</p>
-								</div>
-						<div class="body">
-							<p><strong>Choose Another Vehicle:
-</strong></p>
-									<ul class="myVehicles">
-									<li><a href="#" data-endeca-id="31040901" id="vehicle-1273486432" class="setVehicleLink">1989 Ford Truck Aerostar 2WD 3.0L MFI OHV 6cyl</a></li>
-													<li><a href="#" data-endeca-id="31041202" id="vehicle-1273486433" class="setVehicleLink">1989 Ford Truck E150 1/2 ton Van 5.0L MFI OHV 8cyl</a></li>
-													<li><a href="#" data-endeca-id="31036101" id="vehicle-1273486430" class="setVehicleLink">1989 Nissan/Datsun Sentra 1.6L FI SOHC 4cyl</a></li>
-													<li><a href="#" data-endeca-id="31040202" id="vehicle-1273486431" class="setVehicleLink">1989 Ford Escort 1.9L TBI SOHC 4cyl</a></li>
-													<li><a href="#" data-endeca-id="31012402" id="vehicle-1273486426" class="setVehicleLink">1990 Ford Truck Bronco 5.0L MFI OHV 8cyl</a></li>
-													<li><a href="#" data-endeca-id="31006201" id="vehicle-1273486425" class="setVehicleLink">1990 Chevrolet Truck V1500 1/2 ton Sub 4WD 5.7L TB</a></li>
-													<li><a href="#" data-endeca-id="31006002" id="vehicle-1273486424" class="setVehicleLink">1990 Chevrolet Truck S10 P/U 2WD 2.8L TBI OHV 6cyl</a></li>
-													<li><a href="#" data-endeca-id="31003202" id="vehicle-1273486423" class="setVehicleLink">1990 Cadillac Fleetwood Brougham 5.7L TBI OHV 8cyl</a></li>
-													<li><a href="#" data-endeca-id="31034501" id="vehicle-1273486429" class="setVehicleLink">1989 Chevrolet Truck V2500 3/4 ton Sub 4WD 5.7L TB</a></li>
-													<li><a href="#" data-endeca-id="31032102" id="vehicle-1273486428" class="setVehicleLink">1989 Chevrolet Camaro 5.0L TBI OHV 8cyl</a></li>
-													<li><a href="#" data-endeca-id="31021901" id="vehicle-1273486427" class="setVehicleLink">1990 Oldsmobile 88 Custom Cruiser 5.0L 4BL OHV 8cy</a></li>
-													</ul>
-								<strong class="centered margins">-or-
-</strong> <a class="viewAllLink" href="#">Show products for all vehicles
-</a></div>
-
-					<div class="footer">
-						<ul class="inline">
-							<li>
-								<a href="/ymme/selector.jsp" id="myzone-overlay-ymme" class="myVehiclesYmme">Add a Vehicle
-</a>
-							</li>
-							<li><a id="manageMyVehiclesTopLnk" title="My Vehicles" href="/myzone/vehicles/manageMyVehicles.jsp">Manage My Vehicles
-</a></li>
-						</ul>
-					</div>
-					<div class="arrow"></div>
-				</div>
-
-				<script type="text/javascript">
-					var urlItems = 0;
-					if ($('.breadcrumb li').length == 6) {
-						urlItems = 3;
-					} else if ($('.breadcrumb li').length == 5) {
-						if ($('.nav-selection li').length == 2) {
-							urlItems = 3;
-						} else {
-							urlItems = 4;
-						}
-					} else if ($('.breadcrumb li').length == 4) {
-						urlItems = 3;
-					} else if ($('.breadcrumb li').length == 3) {
-						urlItems = 2;
-					} else if ($('.breadcrumb li').length == 2) {
-						urlItems = 1;
-					}
-					require(['autozone.components.ManageCurrentVehicle'], function (ManageVehicle) {
-						new ManageVehicle({
-							userProfileId: "3639838062",
-							setYmmeUrl: '/rest/bean/autozone/diy/commerce/vehicle/VehicleServices/updatePreferedVehicle?atg-rest-depth=2',
-							setLinks: $('.setVehicleLink'),
-							viewAllLinks: $('.viewAllLink'),
-							makeModel: false,
-							urlItems: urlItems,
-							fromHeader: true
-						});
-					});
-				</script>
+	<h3 class="simple">My Vehicles
+</h3>
+				<p><strong><a href="#" id="myzone-overlay-ymme" class="myVehiclesYmme">Add a Vehicle
+</a></strong></p>
 			<script type="text/javascript">
  var InlineYmmeLanguage = {
 		 YMME_TEXT: [
@@ -1304,7 +1417,7 @@ var SetStoreByZipLanguage = {
 						new YMME({
 							openers: $('.myVehiclesYmme'),
 							successAction: { action: 'refresh' },
-							needsStore: !true,
+							needsStore: !false,
 							makeModel: false,
 							urlItems: urlItems,
 							languageList :{
@@ -1317,25 +1430,11 @@ var SetStoreByZipLanguage = {
 				</script>
 			</div>
 <div id="myStore" class="grid-5 header-block flush">
-	<script>var storeNo = 3805</script>
-										 <h3 class="simple"><a id="id3805" href="/storelocator/storeLocatorMain.jsp" class="showDropDown myStoreHours ">My Store
-</a></h3>
-											<p style="width: 195px;">
-											<span id="mystoreaddress">1720 S Ridgewood Ave</span><br>
-												<span id="mystoreCity">Edgewater, FL&nbsp;32132</span><br>
-											<span id="mystorePhone">(386) 427-1210</span><br>
-											</p>
-											<div class="currentStoreStatus" style="width: 195px;">
-											<span class="operatingHours">
-															<span class="openClose">Open
-</span> until
-9:00 PM&nbsp;today
-</span>
-														</div>
-											<div id="myStoreNum" style="display:none">3805</div>
-											<div id="myStoreZip" style="display:none">32132</div>
-
-									 <div id="storeLocatorToolTip" class="dropDown">
+	<h3 class="simple">Find a Store
+</h3>
+										 <strong><a href="/storelocator/storeLocatorMain.jsp" title="Store Locator" class="showDropDown findStore-header">Select Store
+</a></strong>
+									<div id="storeLocatorToolTip" class="dropDown">
 						
 		<div class="close">CLOSE</div>
 		<div class="header"></div>
@@ -1414,9 +1513,10 @@ var MyStoreManagerLanguage = {
 </script><script type="text/javascript">
 		require(['autozone.components.MyStoreManager'], function (Manager) {
 			new Manager ({
-				storeNumber: '3805',
+				storeNumber: '',
 				view: $('#storeLocatorToolTip'),
 				showStoreOpenCloseStatus: 'true',
+				dealsUrl: '/deals/hotDeal',
 				languageList: {
 					FindAStore : FindAStoreLanguage,
 					LocationList : LocationListLanguage,
@@ -1486,8 +1586,8 @@ var MyStoreManagerLanguage = {
 				<div id="usNav" class="topnav clearfix">
 				<ul id="mainNav" class="clearfix">
 					<li>
-											<a class="mainNavLink" href="/parts" data-path="/parts" data-category="parts" data-parent="" data-vehicle="3031601">
-														Replacement Parts</a>
+											<a class="mainNavLink" href="/parts" data-path="/parts" data-category="parts" data-parent="" data-vehicle="">
+														Auto Parts</a>
 												</li>
 									<li>
 											<a class="mainNavLink" href="/interior-accessories" data-path="/accessories" data-category="accessories" data-parent="/Interior-Accessories/_/N-27ds">
@@ -1498,7 +1598,7 @@ var MyStoreManagerLanguage = {
 														Exterior Accessories</a>
 												</li>
 									<li>
-											<a class="mainNavLink" href="/truck-and-towing" data-path="/parts" data-category="parts" data-parent="/Truck-And-Towing/_/N-2i50zj" data-vehicle="3031601">
+											<a class="mainNavLink" href="/truck-and-towing" data-path="/parts" data-category="parts" data-parent="/Truck-And-Towing/_/N-2i50zj" data-vehicle="">
 														Truck &amp; Towing</a>
 												</li>
 									<li>
@@ -1518,7 +1618,7 @@ var MyStoreManagerLanguage = {
 														Repair Help</a>
 												</li>
 									<li>
-										<a href="/deals/?footer=true&amp;showDeal=true" class="nav-static-1  mainNavLink">
+										<a href="/deals/hotDeal" class="nav-static-1  mainNavLink">
 												<!-- The following should be added to a label, once font updates are in an environment with a stable BCC -->
 												
 														Hot<br>Deals
@@ -1754,6 +1854,15 @@ var MyStoreManagerLanguage = {
 		SEE_ALL : 'See More'
 	}
 </script><script type="text/javascript">
+					
+					require(['tealeaf/tealeaf']);
+					
+					
+					require(['tealeaf/tealeaf']);
+					
+					
+					require(['tealeaf/tealeaf']);
+					
 					require(['autozone.views.Meganav', 'autozone.views.StaticMeganav', 'autozone.utils'], function (Nav, StaticNav, utils) {
 						var loggedIn = 'false',
 							navs = [],
@@ -1829,9 +1938,9 @@ var MyStoreManagerLanguage = {
 				</script>
 			<div id="headerPromoArea" class="clearfix">
 					<div class="grid-24 flush" style="margin-top: 10px;">
-  <div class="grid-24" style="padding:10px 0;">
-<pencilad style="font-size: 20px;">20% OFF + GET A $10 GIFT CARD FOR ONLINE SHIP-TO-HOME ORDERS OF $100 OR MORE.</pencilad><p>Use Code: <code style="font-size: 20px; padding:0;">20PLUS10</code></p><a href="/landing/page.jsp?name=autozone-savings&amp;intcmp=20170625_20170701_pencil_hp_top_20PLUS10">See Details</a>
-  </div>
+<div class="grid-24" style="padding:10px 0;">
+<pencilad style="font-size: 22px;">FREE GROUND SHIPPING OVER $35*</pencilad><p style="font-size: 12px;">In-stock items and ship-to-home only. Ends 01/13/2018.</p><a href="/customerservice/freeShipping.jsp?intcmp=20171226_20171231_hp_pencil-ad_free-shipping-35">See Details</a>
+</div>
 </div></div>
 			</header>
 	<script type="text/javascript">
@@ -1839,15 +1948,15 @@ var MyStoreManagerLanguage = {
 	</script>
 <div id="optIn" class="clearfix">
 		<div class="inner">
-		<img height="24" alt="label.common.footer.alt.autozoneLogo" width="163" class="left" src="/images/common/azLogo_color_sm.png"><form id="footerOptInForm" name="footerOptInForm" action="https://www.autozone.com/optIn/preferenceConfirm.jsp?_DARGS=/common/footer/optInForm.jsp" class="azForm noHelperText" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="5436503967605999712" type="hidden"> </div><fieldset class="email required">
-				<legend>Sign Up to Get Special
+		<img src="/images/common/azLogo_color_sm.png" alt="label.common.footer.alt.autozoneLogo" width="163" class="left" height="24"><form method="post" name="footerOptInForm" action="https://www.autozone.com/optIn/preferenceConfirm.jsp?_DARGS=/common/footer/optInForm.jsp" id="footerOptInForm" class="azForm noHelperText"><div style="display:none"><input name="_dyncharset" type="hidden" value="UTF-8"> </div><div style="display:none"><input name="_dynSessConf" type="hidden" value="-649211421172525825"> </div><fieldset class="email required">
+                                <legend>Sign Up to Get Special
 <br> <span>Offers &amp; Savings!
 </span></legend>
-				<input type="text" value="" id="optInEmail" title="Enter Email Address for Special Offers
+                                <input type="text" value="" id="optInEmail" title="Enter Email Address for Special Offers
 ">
-				<button id="optInEmailSignUpButton" class="button white" type="submit" style="padding: 5px 17px;"><span>Sign Up</span></button>
-			</fieldset>
-		</form><script type="text/javascript">
+                                <button id="optInEmailSignUpButton" class="button white" type="submit" style="padding: 5px 17px;"><span>Sign Up</span></button>
+                        </fieldset>
+                </form><script type="text/javascript">
 
 var FieldsetLanguage = {
 	EMAIL_ERROR: 'Please enter a valid email address',
@@ -1879,68 +1988,69 @@ var FooterOptInLanguage = {
 		PLACEHOLDER_TEXT : "Enter your email address"
 }
 </script><script type="text/javascript">
-	/*require(['autozone.views.footerOptIn']);*/
-	require(['autozone.views.footerOptIn'], function (FooterOptIn) {
+        /*require(['autozone.views.footerOptIn']);*/
+        require(['autozone.views.footerOptIn'], function (FooterOptIn) {
 
-		new FooterOptIn({
-			    optInForm: $('#optIn form'),
- 				languageList: {
- 					Form: FormLanguage,
- 					Fieldset:FieldsetLanguage,
- 					FooterOptIn:FooterOptInLanguage
- 				}
- 			});
- 		});
-	var subscribeURL = $('#footerOptInForm').prop('action');
-	$('#optIn form').on('submit', function(e) {
-		e.preventDefault();
-		$('#optInEmail').focus();
-		$('#optInEmail').blur();
-		var region = 'footer_widget',
-			email = $('#optInEmail').val(),
-			optinLocation = 'quickSignUp';
-		$('#optInErrMess').remove();
-		js_track.s_quickSubscribe(email, region);
-		//console.log(email.trim());
-		if ($.trim(email) == "" || email == "Enter your email address" || $('#footerOptInForm').find('.errorText').is(":visible")){
-			$('#optInEmail').focus();
-			$('#optInEmail').blur();
-			return false;
-		}
-		else {
-			$.ajax({
-				type: "POST",
-				url: "/rest/bean/atg/userprofiling/ProfileServices/quickSubscribe",
-				data: {'arg1':email,'arg2':optinLocation},
-				error: function(err, err2, err3){
-					var errorMessage = "<span id='optInErrMess' class='errorText' style='display:none; width: 300px;'>" + err3 + "</span>";
-					$(errorMessage).insertAfter($('#optInEmail').prev().prev());
-					$('#optInErrMess').fadeIn(400);
-				},
-				success: function(data){
-					if (data.atgResponse.STATUS_CODE === 200){
-						window.location = subscribeURL + "&ajax=true&optLoc=quickSignUp&subem="+encodeURIComponent(email);
-					}
-					else {
-						var errorMessage = "<span id='optInErrMess' class='errorText' style='display:none; width: 403px; margin-left: 13%;'>" + data.atgResponse.ERROR_MESSAGE + "</span>";
-						$(errorMessage).insertAfter($('#optInEmail').prev().prev());
-						$('#optInErrMess').fadeIn(400);
-					}
-				}
-			});
-		}
-	});
-	</script>
+                new FooterOptIn({
+                            optInForm: $('#optIn form'),
+                                languageList: {
+                                        Form: FormLanguage,
+                                        Fieldset:FieldsetLanguage,
+                                        FooterOptIn:FooterOptInLanguage
+                                }
+                        });
+                });
+        var subscribeURL = $('#footerOptInForm').prop('action');
+        $('#optIn form').on('submit', function(e) {
+                e.preventDefault();
+                $('#optInEmail').focus();
+                $('#optInEmail').blur();
+                var region = 'footer_widget',
+                        email = $('#optInEmail').val(),
+                        optinLocation = 'quickSignUp';
+                $('#optInErrMess').remove();
+                js_track.s_quickSubscribe(email, region);
+                //console.log(email.trim());
+                if ($.trim(email) == "" || email == "Enter your email address" || $('#footerOptInForm').find('.errorText').is(":visible")){
+                        $('#optInEmail').focus();
+                        $('#optInEmail').blur();
+                        return false;
+                }
+                else {
+                        $.ajax({
+                                type: "POST",
+                                url: "/rest/bean/atg/userprofiling/ProfileServices/quickSubscribe",
+                                data: {'arg1':email,'arg2':optinLocation},
+                                error: function(err, err2, err3){
+                                        var errorMessage = "<span id='optInErrMess' class='errorText' style='display:none; width: 300px;'>" + err3 + "</span>";
+                                        $(errorMessage).insertAfter($('#optInEmail').prev().prev());
+                                        $('#optInErrMess').fadeIn(400);
+                                },
+                                success: function(data){
+                                        if (data.atgResponse.STATUS_CODE === 200){
+                                                var encryptedEmail = data.atgResponse.ENCRYPT_EMAIL;
+                                                window.location = subscribeURL + "&ajax=true&optLoc=quickSignUp&subem="+encodeURIComponent(encryptedEmail);
+                                        }
+                                        else {
+                                                var errorMessage = "<span id='optInErrMess' class='errorText' style='display:none; width: 403px; margin-left: 13%;'>" + data.atgResponse.ERROR_MESSAGE + "</span>";
+                                                $(errorMessage).insertAfter($('#optInEmail').prev().prev());
+                                                $('#optInErrMess').fadeIn(400);
+                                        }
+                                }
+                        });
+                }
+        });
+        </script>
 </div>
 	</div>
 	<div class="ft">
 		<div class="inner">
 			<div class="ft_width first">
 						<ul class="unstyled">
-						<li>Shop AutoZone.com
+						<li class="footer-nav-item">Shop AutoZone.com
 <ul class="unstyled">
 		<li>
-	<a href="/parts">Replacement Parts
+	<a href="/parts">Auto Parts
 </a>
 	</li>
 		<li>
@@ -1969,7 +2079,7 @@ var FooterOptInLanguage = {
 </a>
 	</li>
 
-			<li><a title="Brands" href="/brands">Brands
+			<li><a href="/brands" title="Brands">Brands
 </a></li>
 		<li><a href="/shopbymake">Shop By Make
 </a></li>
@@ -1977,15 +2087,15 @@ var FooterOptInLanguage = {
 </a></li>
 		<li><a href="/shopping/giftCard.jsp?categoryId=cat10053&amp;productId=prod40002&amp;skuId=987129&amp;giftCardInfo=false">Gift Cards
 </a></li>
-		<li><a href="/deals/?footer=true&amp;showDeal=true">Deals &amp; Savings
+		<li><a href="/deals/hotDeal">Deals &amp; Savings
 </a></li>
-				<li><a title="Site Map" href="/sitemap/siteMap.jsp">Site Map
+				<li><a href="/sitemap/siteMap.jsp" title="Site Map">Site Map
 </a></li>
 		</ul>
 </li>
-								<li>Payment Methods:
+								<li class="footer-nav-item">Payment Methods:
 <ul class="unstyled">
-								<li id="payment-footer">
+								<li id="payment-footer" class="footer-nav-item">
 									<div class="payment-methods-sprite">
 			<ul class="footer">
 							<li class="default"><a href="/customerservice/payments.jsp?breadcrumb=payments"></a></li>
@@ -2001,7 +2111,7 @@ var FooterOptInLanguage = {
 					</div>
 					<div class="ft_width">
 						<ul class="unstyled">
-							<li>Accounts &amp; Orders
+							<li class="footer-nav-item">Accounts &amp; Orders
 <ul class="unstyled">
 		<li>
 				<a href="/myzone/profile/login.jsp?myZoneLanding=myZoneLanding">MyZone℠
@@ -2009,76 +2119,77 @@ var FooterOptInLanguage = {
 			<li>
 					<a href="/rewards">AutoZone Rewards
 </a></li>
-			<li><a title="Order Status" href="/customerservice/orderStatus.jsp?breadcrumb=orderstatus">Track My Order
+			<li><a href="/customerservice/orderStatus.jsp?breadcrumb=orderstatus" title="Order Status">Track My Order
 </a></li>
-			<li><a title="Free Shipping" href="/customerservice/freeShipping.jsp">Free Shipping
+			<li><a href="/customerservice/freeShipping.jsp" title="Free Shipping">Free Shipping
 </a></li>
-			<li><a title="Online Payment Info" href="/customerservice/payments.jsp?breadcrumb=payments">Online Payment Info
+			<li><a href="/customerservice/payments.jsp?breadcrumb=payments" title="Online Payment Info">Online Payment Info
 </a></li>
-		<li><a title="Return Policy" href="/termsandconditions/termsAndConditionsHome.jsp?selectContactUs=FAQS&amp;pageCategory=returnsPolicy&amp;breadcrumb=returnsPolicy">Return Policy
+		<li><a href="/termsandconditions/termsAndConditionsHome.jsp?selectContactUs=FAQS&amp;pageCategory=returnsPolicy&amp;breadcrumb=returnsPolicy" title="Return Policy">Return Policy
 </a></li>
 		<li><a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=warranties&amp;pageCategory=warranties ">Warranties
 </a></li>
 			</ul>
 </li>
-							<li>Mobile
+							<li class="footer-nav-item">Mobile
 <ul class="unstyled">
 									<script type="text/javascript">
 												//
 												function switchToMobile() {
-													document.cookie = 'sitePreference=mobile;domain=.autozone.com;path=/;expires=Sun, 30 Jul 2017 00:52:20 GMT';
+													document.cookie = 'sitePreference=mobile;domain=.autozone.com;path=/;expires=Sat, 27 Jan 2018 00:08:25 GMT';
 													var url = '';
 													if(url){
-														 window.location.href = 'http://m.autozone.com' + url;
+														 window.location.href = 'https://m.autozone.com' + url;
 														}else{
 															 url = window.location.pathname+window.location.search;
-															 window.location.href = 'http://m.autozone.com' + url;
+															 window.location.href = 'https://m.autozone.com' + url;
 														}
 												}
 												//
 											</script>
-											<li><a href="http://m.autozone.com" onclick="javascript:switchToMobile();return false;" title="View Mobile Site"> View Mobile Site
+											<li class="footer-nav-item"><a href="https://m.autozone.com" onclick="javascript:switchToMobile();return false;" title="View Mobile Site"> View Mobile Site
 </a></li>
-										<li><a title="Get Mobile App" href="/landing/page.jsp?name=autozone-mobile-app">Get Mobile App
+										<li class="footer-nav-item"><a href="/landing/page.jsp?name=autozone-mobile-app" title="Get Mobile App">Get Mobile App
 </a></li>
 								</ul></li>
-								<li class="srfooterDiv">Partners
+								<li class="srfooterDiv footer-nav-item">Partners
 <ul class="unstyled">
-										<li><img height="16" alt="ShopRunner" width="12" src="/images/shoprunner/shoprunner_logo.png"><a href="/shoprunner/index.jsp">ShopRunner
+										<li><img src="/images/shoprunner/shoprunner_logo.png" alt="ShopRunner" width="12" height="16"><a href="/shoprunner/index.jsp">ShopRunner
 </a></li>
 									</ul></li>
 							</ul>
 					</div>
 					<div class="ft_width">
 						<ul class="unstyled">
-							<li>AUTOZONE STORES
+							<li class="footer-nav-item">AUTOZONE STORES
 <ul class="unstyled">
-		<li><a title="Store Locator" href="/storelocator/storeLocatorMain.jsp">Store Locator
+		<li><a href="/storelocator/storeLocatorMain.jsp" title="Store Locator">Store Locator
 </a></li>
-		<li><a title="Store Circular" href="/inourstores/circular.jsp">Store Circular
+		<li><a href="/inourstores/circular.jsp" title="Store Circular">Store Circular
 </a></li>
-		<li><a title="In-Store Services" href="/inourstores/services.jsp">In-Store Services
+		<li><a href="/inourstores/services.jsp" title="In-Store Services">In-Store Services
 </a></li>
 		<li><a href="/landing/page.jsp?name=buy_online_pickup_in_store">Buy Online Pick Up In Store
 </a></li>
-		<li><a title="Customer Satisfaction Survey" href="http://www.autozonecares.com">Customer Satisfaction Survey
+		<li><a href="http://www.autozonecares.com" title="Customer Satisfaction Survey">Customer Satisfaction Survey
 </a></li>
-		<li><a title="AutoZone Locations" href="http://www.autozone.com/locations/">AutoZone Locations</a></li>
-	</ul>
+		<li>
+				<a href="https://www.autozone.com/locations/" title="AutoZone Locations">AutoZone Locations</a></li>
+		</ul>
 </li>
-							<li>AutoZone Websites
+							<li class="footer-nav-item">AutoZone Websites
 <ul class="unstyled">
-		<li><a title="AutoZonePro" href="http://www.autozonepro.com">AutoZonePro
+		<li><a href="http://www.autozonepro.com" title="AutoZonePro">AutoZonePro
 </a></li>
-			<li><a title="Duralast Parts" href="http://www.duralastparts.com">Duralast
+			<li><a href="https://www.autozone.com/duralast" title="Duralast Parts">Duralast
 </a></li>
-			<li><a title="Government Agencies" href="http://www.autozonepro.com/info/governmentAgencies/governmentAgencies.jsp">Government Agencies
+			<li><a href="https://www.autozonepro.com/info/governmentAgencies/governmentAgencies.jsp" title="Government Agencies">Government Agencies
 </a></li>
-			<li><a title="ALLDATA Repair" href="http://www.alldatapro.com/includes/main.jsp">ALLDATA Repair
+			<li><a href="http://www.alldatapro.com/includes/main.jsp" title="ALLDATA Repair">ALLDATA Repair
 </a></li>
-			<li><a title="ALLDATAdiy" href="http://www.alldatadiy.com">ALLDATA Diy
+			<li><a href="https://www.alldatadiy.com" title="ALLDATAdiy">ALLDATA Diy
 </a></li>
-			<li><a title="AutoZoneMX" href="http://www.autozone.com.mx">AutoZone MX
+			<li><a href="https://www.autozone.com.mx" title="AutoZoneMX">AutoZone MX
 </a></li>
 		</ul>
 </li>
@@ -2086,40 +2197,42 @@ var FooterOptInLanguage = {
 					</div>
 					<div class="ft_width">
 						<ul class="unstyled">
-							<li>COMPANY INFORMATION
+							<li class="footer-nav-item">COMPANY INFORMATION
 <ul class="unstyled">
-	<li><a title="Investor Relations" href="http://phx.corporate-ir.net/phoenix.zhtml?c=76792&amp;p=irol-irhome">Investor Relations
+	<li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=76792&amp;p=irol-irhome" title="Investor Relations">Investor Relations
 </a></li>
-		<li><a title="Careers" href="http://www.autozoneinc.com/careers/index.html">Careers
+		<li><a href="/company/careers/" title="Careers">Careers
 </a></li>
-		<li><a title="AutoZoner Services" href="http://www.autozoners.com">AutoZoner Services
+		<li><a href="https://www.autozoners.com" title="AutoZoner Services">AutoZoner Services
 </a></li>
-		<li><a title="About AutoZone" href="http://www.autozoneinc.com/about_us/index.html">About AutoZone
+		<li><a rel="nofollow" href="https://sp7.benefitfocus.com/sp/startSSO.ping?PartnerIdpId=AutoZone-BenefitFocus-IDP&amp;TargetResource=https%3A//autozone.hrintouch.com/platform/ssoInbound.aspx%3FApplicationID%3DHRInTouch" title="About AutoZone">AutoZoner Benefits Login
+</a></li>
+		<li><a href="/company/" title="AutoZoner Benefits Login">About AutoZone
 </a></li>
 			<li><a href="/affiliates/autozone_affiliate_program.jsp">Affiliate Program
 </a></li>
-			<li><a title="Environmental Responsibility" href="http://www.autozoneinc.com/about_us/environmental_responsibility/">Environmental Responsibility
+			<li><a href="/company/environmental-responsibility/" title="Environmental Responsibility">Environmental Responsibility
 </a></li>
-		<li><a title="California Supply Chain Disclosure" target="_blank" href="/pdfs/california_human_trafficking_statement.pdf">California Supply Chain Disclosure
+		<li><a href="/pdfs/california_human_trafficking_statement.pdf" title="California Supply Chain Disclosure" target="_blank">California Supply Chain Disclosure
 </a></li>
-		<li><a href="http://www.autozoneinc.com/about_us/vendor_info/">Vendor Information
+		<li><a href="/company/vendor-info/">Vendor Information
 </a></li>
 	</ul>
 </li>
-							<li>REPAIR HELP
+							<li class="footer-nav-item">REPAIR HELP
 <ul class="unstyled">
-	<li id="checkEngineLink"><a title="Check Engine Light Help" href="/landing/page.jsp?name=vehicle-warning-indicators">Check Engine Light Help
-</a></li><li id="footerVideoLink"><a title="Video Library" href="/video/video.jsp">Video Library
+	<li id="checkEngineLink"><a href="/landing/page.jsp?name=vehicle-warning-indicators" title="Check Engine Light Help">Check Engine Light Help
+</a></li><li id="footerVideoLink"><a href="/video/video.jsp" title="Video Library">Video Library
 </a></li>
-	<li><a title="Repair Help" href="/repairinfo/repairInfoLanding.jsp">Repair Help
+	<li><a href="/repairinfo/repairInfoLanding.jsp" title="Repair Help">Repair Help
 </a></li>
-		<li><a title="Troubleshooting Guide" href="/repairinfo/common/repairInfoMain.jsp?leftNavPage=troubleShooting&amp;targetPage=troubleShooting">Troubleshooting Guide
+		<li><a href="/repairinfo/common/repairInfoMain.jsp?leftNavPage=troubleShooting&amp;targetPage=troubleShooting" title="Troubleshooting Guide">Troubleshooting Guide
 </a></li>
-		<li><a title="Automotive Glossary" href="/repairinfo/common/repairInfoMain.jsp?leftNavPage=glossary&amp;targetPage=glossaryNavigation">Automotive Glossary
+		<li><a href="/repairinfo/common/repairInfoMain.jsp?leftNavPage=glossary&amp;targetPage=glossaryNavigation" title="Automotive Glossary">Automotive Glossary
 </a></li>
-		<li><a title="Loan-A-Tool" href="/landing/page.jsp?name=loan-a-tool">Loan-A-Tool
+		<li><a href="/landing/page.jsp?name=loan-a-tool" title="Loan-A-Tool">Loan-A-Tool
 <sup style="vertical-align: text-top;">®</sup></a></li>
-			<li><a title="Find a Repair Shop" href="/landing/page.jsp?name=find-a-repair-shop">Find a repair shop
+			<li><a href="/landing/page.jsp?name=find-a-repair-shop" title="Find a Repair Shop">Find a Repair Shop
 </a></li>
 			</ul>
 </li>
@@ -2127,41 +2240,41 @@ var FooterOptInLanguage = {
 					</div>
 					<div class="ft_width">
 						<ul class="unstyled">
-							<li>CONNECT WITH US:
+							<li class="footer-nav-item">CONNECT WITH US:
 <ul class="socialMedia unstyled clearfix">
-										<li class="facebook"><a href="https://www.facebook.com/autozone" target="_blank">Facebook
+										<li class="facebook footer-nav-item"><a href="https://www.facebook.com/autozone" target="_blank">Facebook
 </a></li>
-										<li class="youtube"><a href="http://www.youtube.com/user/AutoZone" target="_blank">YouTube
+										<li class="youtube"><a href="https://www.youtube.com/user/AutoZone" target="_blank">YouTube
 </a></li>
 										<li class="twitter"><a href="https://twitter.com/autozone" target="_blank">Twitter
 </a></li>
 									</ul>
 								</li>
-							<li>AutoZone Community
+						<li class="footer-nav-item">AutoZone Community
 <ul class="unstyled">
-		<li><a title="Community Home" class="trackLink:community:footer" href="/community/index.jsp">Community Home
+		<li><a href="/community/index.jsp" title="Community Home" class="trackLink:community:footer">Community Home
 </a></li>
-		<li><a title="Community" href="/community/forums">Forums
+		<li><a href="/community/forums" title="Community">Forums
 </a></li>
-		<li><a title="Community" href="/community/photos">Photo Galleries
+		<li><a href="/community/photos" title="Community">Photo Galleries
 </a></li>
-		<li><a title="Community" href="/community/videos">Video Galleries
+		<li><a href="/community/videos" title="Community">Video Galleries
 </a></li>
 	</ul>
 </li>
 
-					<li>CUSTOMER SERVICE
+						<li class="footer-nav-item">CUSTOMER SERVICE
 <ul class="unstyled">
-		<li><a title="FAQs" href="/customerservice/faqs.jsp?breadcrumb=faqs">FAQs
+		<li><a href="/customerservice/faqs.jsp?breadcrumb=faqs" title="FAQs">FAQs
 </a></li>
-	<li><a title="Customer Testimonials" href="/landing/page.jsp?name=customer-testimonials">Customer Testimonials
+	<li><a href="/landing/page.jsp?name=customer-testimonials" title="Customer Testimonials">Customer Testimonials
 </a></li>
 		
-			<li><a title="Recalls" href="/customerservice/recalls.jsp?breadcrumb=recalls">Product Recalls
+			<li><a href="/customerservice/recalls.jsp?breadcrumb=recalls" title="Recalls">Product Recalls
 </a></li>
-			<li><a title="Legal Notices" href="/customerservice/legalNotices.jsp?breadcrumb=legalNotices">Legal Notices
+			<li><a href="/customerservice/legalNotices.jsp?breadcrumb=legalNotices" title="Legal Notices">Legal Notices
 </a></li>
-		<li><a title="Contact Us" href="/contactus/contactUs.jsp?breadcrumb=contactus">Contact Us
+		<li><a href="/contactus/contactUs.jsp?breadcrumb=contactus" title="Contact Us">Contact Us
 </a></li>
 		
 		</ul>
@@ -2171,14 +2284,14 @@ var FooterOptInLanguage = {
 					</div>
 				<div class="bottom clearfix">
 				<div class="left">
-					<a title="label.common.azcomLogo.title.viewAutozoneSite" href="/"><img height="19" alt="label.common.azcomLogo.alt.viewAutozoneSite" width="155" class="azLogo" src="/images/common/azcom_logo.png"></a><ul class="legal">
-				<li><a title="Contact Us" href="/contactus/contactUs.jsp?breadcrumb=contactus">Contact Us
+					<a href="/" title="label.common.azcomLogo.title.viewAutozoneSite"><img src="/images/common/azcom_logo.png" alt="label.common.azcomLogo.alt.viewAutozoneSite" width="155" class="azLogo" height="19"></a><ul class="legal">
+				<li><a href="/contactus/contactUs.jsp?breadcrumb=contactus" title="Contact Us">Contact Us
 </a></li>
-				<li><a title="Terms  &amp; Conditions" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=termsAndConditions">Terms  &amp; Conditions
+				<li><a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=termsAndConditions" title="Terms  &amp; Conditions">Terms  &amp; Conditions
 </a></li>
-				<li><a title="Privacy Policy" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=privacyPolicy&amp;pageCategory=privacyPolicy">Privacy Policy
+				<li><a href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=privacyPolicy&amp;pageCategory=privacyPolicy" title="Privacy Policy">Privacy Policy
 </a></li>
-				<li class="last"><a title="Privacy Policy" href="/customerservice/orderStatus.jsp?breadcrumb=orderstatus">Track My Order
+				<li class="last"><a href="/customerservice/orderStatus.jsp?breadcrumb=orderstatus" title="Privacy Policy">Track My Order
 </a></li>
 				</ul>
 		<p class="copyright">
@@ -2255,19 +2368,7 @@ var FooterOptInLanguage = {
 					js_track.s_join_now_rewards_landing();
 				});
 			</script>
-			<script type="text/javascript">
-					//price cut badge
-					var pricecutHTML = '<div class="badgeoutter"><div class="pcutBadge"><img src="/images/common/pcut.png" alt="Price Cut"></div></div>';
-					var detPricecutHTML = '<div class="badgeoutter"><div class="detPcutBadge"><img src="/images/common/pcut.png" alt="Price Cut"></div></div>';
-
-					var setbadges = function(){
-						if ($('#prices_wrapper').find('.deal').length > 0){
-							$(detPricecutHTML).insertBefore($('#enlargedImage'));
-						}
-					};
-					$(window).load(setbadges);
-				</script>
-			</div>
+		</div>
 	</div>
 	<script type="text/javascript">
 		$(document).ready(function() {
