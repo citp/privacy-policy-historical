@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extjs.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217202702id_/https%3A//www.sencha.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extjs.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227230139id_/https%3A//www.sencha.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Sencha
+# Privacy Policy | Sencha.com
 
 Sencha Inc., and its affiliates and subsidiaries (collectively “Sencha”) recognize the importance of keeping the personal information you provide to us private and secure. Sencha has developed a comprehensive privacy policy and we use the latest technology to ensure that your personal information is secure. 
 
