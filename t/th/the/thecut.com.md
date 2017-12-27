@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecut.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630063928id_/http%3A//nymag.com/newyork/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecut.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004325id_/https%3A//nymag.com/newyork/privacy) for the most accurate reproduction.*
 
 # New York Magazine - Nymag.com - Privacy Policy
 
@@ -54,7 +54,7 @@ Please do not hesitate to contact us if you have any questions about this Privac
 
 _Contact us at:_
 
-Attn: General Manager, Digital Media  
+Attn: Chief Operating Officer  
 75 Varick Street, 4th Floor, New York, New York 10013   
 Phone: (212) 508-0700  
 Email: [privacy@nymag.com](mailto:privacy@nymag.com)
@@ -186,7 +186,7 @@ We have developed our Sites to appeal to visitors over the age of 13, and we do 
 Please do not hesitate to contact us if you have any questions about this Privacy Policy. 
 
 _Contact us at:_  
-Attn: General Manager, Digital Media  
+Attn: Chief Operating Officer  
 75 Varick Street, 4th Floor, New York, New York 10013   
 _Phone:_ (212) 508-0700  
 _E-mail:_ [privacy@nymag.com](mailto:privacy@nymag.com)
