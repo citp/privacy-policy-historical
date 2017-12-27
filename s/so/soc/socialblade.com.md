@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialblade.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624050549id_/https%3A//socialblade.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialblade.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000837id_/https%3A//socialblade.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Blade
 
@@ -46,8 +46,12 @@ You are welcome to post content on our Forum, Chat, or other Services. If you po
 
 Social Blade’s Site includes links to third-party websites. Access to and use of linked websites is governed by those third-party websites’ privacy policies. Social Blade is not responsible for their information practices.
 
+### Data Sources
+
+In order to keep statistical data updated, Social Blade utilizes API services of third parties including but not limited to Facebook, Instagram, Twitch, Twitter, and [YouTube](https://www.youtube.com/t/terms). Unless specific access is asked for at time of use (i.e. to validate your identity), we are only gathering publicly available data from each of the API services, not anything private about your account.
+
 ### CONTACT US
 
 If you have questions about either our Agreement or Policy, or would like to make a complaint, please file a support ticket.
 
-This Document is Effective as of March 20th, 2013. Last Updated: February 23rd, 2015.
+This Document is Effective as of March 20th, 2013. Last Updated: September 15th, 2017.
