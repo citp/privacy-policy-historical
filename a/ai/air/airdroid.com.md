@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airdroid.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529200432id_/https%3A//www.airdroid.com/en/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airdroid.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234804id_/https%3A//www.airdroid.com/en/legal/privacy.html) for the most accurate reproduction.*
 
 # AirDroid | Delight Your Multi-Screen Life
 
@@ -11,6 +11,8 @@ When ordering or registering on our site or software, as appropriate, you may be
 ## What information can AirDroid access?
 
 Depending on the Android permissions you have granted to AirDroid, AirDroid may be able to access your personal or sensitive data (including personally identifiable information, financial and payment information, authentication information, phonebook or contact data, microphone and camera sensor data, and sensitive device data), to provide you relevant features, like viewing mobile app notifications, managing photos, view and edit contacts, record phone screen and audio, take photos, etc.. AirDroid doesn't store those information on its server without your explicit consent.
+
+This app uses the Device Administrator permission on Android. It is used for the Find Phone feature. To improve security, the “Password enabled” and “Maximum inactivity time lock” security policies will also be enforced upon the activation of the Device Administrator permission.
 
 ## Why AirDroid installs Bonjour?
 
