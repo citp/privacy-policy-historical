@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft112.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624050937id_/http%3A//www.soft112.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft112.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235604id_/http%3A//www.soft112.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for soft112.com
 
@@ -40,7 +40,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
   * Google, as a third party vendor, uses cookies to serve ads on **soft112.com**
   * Google's use of the DART cookie enables it to serve ads to visitors based on their visit to **soft112.com** , and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
 
 
