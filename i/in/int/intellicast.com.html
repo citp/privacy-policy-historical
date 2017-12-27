@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the intellicast.com privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628045826id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intellicast.com privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228001829id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head id="ctl00_ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
 	Intellicast - Privacy Policy
 </title><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="description" content="Intellicast.com: The Authority in Expert Weather"><meta name="google-site-verification" content="Ty8E9HwyYpwnoH6SWxOoDkwWIpfXZbnXYxSKIJKinLw"><meta name="google-site-verification" content="OwqzWim3JgPf7WONV8sYyMir93oTT-JmWDKQW-IApCI"><meta name="verify-v1" content="bwhh8UmywoDXIeujVrNoVWPt5FmUdjfYgs0MgjMjouc="><meta name="msvalidate.01" content="2625493FFF704B18B25610DED3DC742E"><meta name="y_key" content="66d7db7fca59b234"><meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; for &quot;http://www.intellicast.com&quot; on &quot;1998.08.31T21:19-0800&quot; r (n 0 s 0 v 0 l 0))&quot;"><meta http-equiv="cache-control" content="no-cache"><meta http-equiv="expires" content="0"><meta http-equiv="pragma" content="no-cache"><meta id="ctl00_ctl00_adsmetrics_zone" name="adsmetrics_zone" value="home"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.ico" type="image/x-icon"><link href="http://images.intellicast.com/Styles/normalize.rexive.css" rel="stylesheet"><link href="http://images.intellicast.com/Styles/main_20160121.css" rel="stylesheet"><link href="http://images.intellicast.com/Styles/Stylesheet_20131220.css" rel="stylesheet">
-  
+
   <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="http://icons.wxug.com/scripts/modernizr/2.8.2/modernizr.min.js"></script>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
+  <script src="http://images.intellicast.com/Scripts/ads-sdk-full-v3.js"></script>
   <script>
     try { // change delimiters to mustache syntax
       _.templateSettings.interpolate = /\{\{=([\s\S]+?)\}\}/g;
       _.templateSettings.evaluate = /\{\{([\s\S]+?)\}\}/g;
-      _.templateSettings.escape = /\{\{-([\s\S]+?)\}\}/g; 
+      _.templateSettings.escape = /\{\{-([\s\S]+?)\}\}/g;
     } catch (e) { /*ignore*/ }
   </script>
   <script type="text/javascript">
@@ -19,15 +20,14 @@
     var locationId = 'USWA0395';
 	</script>
 
-  <script type="text/javascript" src="http://images.intellicast.com/Scripts/ads_2016010601.js"></script>
+	<script type="text/javascript" src="http://images.intellicast.com/Scripts/ads_20170629.js"></script>
   
 
 	<!-- BEGIN New Ads -->
-	<script async="" src="https://tags.crwdcntrl.net/c/1884/cc.js?ns=_cc1884" id="LOTCC_1884"></script>
 	<script src="http://images.intellicast.com/Scripts/Vendor/twc-jquery-1.10.2.min.js"></script>
 	
-  <script src="http://images.intellicast.com/App_Scripts/ad.min.20161202.js"></script>
-  
+  <script src="http://images.intellicast.com/Scripts/ad-v3.js"></script>
+
 
   <!-- Initialize PCO -->
 	<script>
@@ -64,17 +64,270 @@
 
   <!-- load Tealium -->
 	<script>
-	  $(document).ready(function () {
-	    TWC.Events.getEvent('utag_dataReady').done(function () {
-	      utag_data['js_page.positions'] = ['WX_Top300Variable', 'WX_WindowShade', 'WX_Mid300', 'WX_PaidSearch', 'WX_Tile1', 'WX_Tile2', 'WX_BottomLeaderboard'];
-	      jQuery.ajax({
-	        'url': 'https://tags.tiqcdn.com/utag/weather/intellicast/prod/utag.js',
-	        'dataType': 'script',
-	        'success': void (0),
-	        'cache': true
-	      });
-	    });
-	  });
+	  // var TWC = TWC || {};
+		// TWC.Events = TWC.Events || {};
+		// TWC.Events.getEvent = TWC.Events.getEvent || function () { return { done: function () {}, resolve: function () {} }; };
+
+		var getScreenSize = function () {
+	    var browserWidth = window.innerWidth || document.body.clientWidth;
+
+	    if (browserWidth < 768) return 'mobile';
+	    if (browserWidth < 1025) return 'tablet';
+	    return 'desktop';
+	  };
+	  var getSaveZipCd = function () {
+	    var e = jQuery;
+	    var t = TWC;
+	    var n = jQuery.jStorage.get("user");
+	    var a = t && t.pco && t.pco.getNodeValue && t.pco.getNodeValue("page", "currentLocation");
+	    var r = a && a.zipCd || n && n.lastVisitedLocation && n.lastVisitedLocation.zipCd || n && n.savedLocations && jQuery.isArray(n.savedLocations) && n.savedLocations[0] && n.savedLocations[0].zipCd || n && n.recentSearchLocations && e.isArray(n.recentSearchLocations) && n.recentSearchLocations[0] && n.recentSearchLocations[0].zipCd || "";
+
+	    return r;
+	  };
+
+	  var getBrowser = function () {
+	    var userAgent = navigator && navigator.userAgent
+	    meta = userAgent && userAgent.match(/chrome|firefox|safari|trident/i);
+
+	    if (meta && jQuery.isArray(meta)) {
+	      switch (meta[0].toLowerCase()) {
+	        case "chrome":
+	          return "twcchrome";
+	        case "firefox":
+	          return "twcff";
+	        case "safari":
+	          return "twcsafari";
+	        case "trident":
+	          return "twcie";
+	        default:
+	          return "twcnative"
+	      }
+	    }
+	  };
+
+		  $(document).ready(function () {
+	      setTimeout(function () {
+	        TWC.Events.getEvent('lotameReady').resolve();
+	      }, 1000);
+
+		    TWC.Events.getEvent('utag_dataReady').done(function () {
+		      utag_data['js_page.positions'] = ['WX_Top300Variable', 'WX_WindowShade', 'WX_Mid300', 'WX_PaidSearch', 'WX_Tile1', 'WX_Tile2', 'WX_BottomLeaderboard'];
+		      // jQuery.ajax({
+		      //   'url': 'https://tags.tiqcdn.com/utag/weather/intellicast/prod/utag.js',
+		      //   'dataType': 'script',
+		      //   'success': void (0),
+		      //   'cache': true
+		      // });
+
+					window.twcMoney = window.twcMoney || {};
+					window.twcMoney.cmd = window.twcMoney.cmd || [];
+					window.twcMoney.cmd.push(function() {
+		        var locale = TWC.Configs.sunTurbo.locale;
+		        var staticAdPositions = utag_data['js_page.positions'];
+		        var zone = utag_data['js_page.zone'];
+		        var custParams = {};
+
+		        var localeA = TWC && TWC.Configs && TWC.Configs.dsx && TWC.Configs.dsx.locale
+		          , amznId = "de_DE" === localeA && "3128" || "1004";
+
+		        var thirdParties = [
+		          {
+		            id: 'amznslots',
+		            amznId: amznId,
+		            async: true,
+		            timeout: 500
+		          },
+		          {
+		            id: 'criteo',
+		            netId: 2305,
+		            timeout: 500,
+		            async: true
+		          },
+		          {
+		            id: 'wfxtg',
+		            acctid: getScreenSize() !== 'mobile' ? '4C2383' : '5B3739',
+		            timeout: 500,
+		            params: {
+		              activeLocation: window.getSaveZipCd() || '30334',
+		            },
+		            async: true,
+		          },
+		          {
+		            id: 'lotame',
+		            clientId: 2215,
+		            async: true,
+		            timeout: 500,
+		            params: {
+		              metrics: TWC.pco.getNodeValue("metrics") || '',
+		              location: {
+		                dmaCd: TWC.pco.getNodeValue("ad", "location").dmaCd || ''
+		              },
+		              adzone: zone,
+		              lang: TWC.pco.getNodeValue("page", "lang") || ''
+		            }
+		          }
+		        ];
+		        var customAdConfig = {
+		          preparePositions: function (requestObj) {
+		            var positions = [
+		              {
+		                "id": "WX_Top300Variable",
+		                "pos": "wx_300var",
+		                "sizes": [
+		                  [300, 600],
+		                  [300, 251],
+											[300, 250],
+		                  [300, 1050],
+		                  [300, 276]
+		                ]
+		              },
+		              {
+		                "id": "WX_WindowShade",
+		                "pos": "wx_ws",
+		                "sizes": [
+		                  [300, 276],
+		                  [728, 91],
+											[728, 90],
+		                  [728, 50],
+		                  [970, 250]
+		                ],
+		                "device": [ "desktop" ]
+		              },
+		              {
+		                "id": "WX_Mid300",
+		                "pos": "wx_mid300",
+		                "sizes": [[300, 251], [300, 250], [320, 300]]
+		              },
+		              {
+		                "id": "WX_PaidSearch",
+		                "pos": "wx_pds",
+		                "sizes": [[300, 251], [300, 250]]
+		              },
+		              // {
+		              //    "id": "WX_Tile1",
+		              //    "pos": "wx_t1",
+		              //    "sizes": [[125, 125]]
+		              // },
+		              // {
+		              //   "id": "WX_Tile2",
+		              //   "pos": "wx_t2",
+		              //   "sizes": [[125, 125]]
+		              // },
+		              {
+		                "id": "WX_BottomLeaderboard",
+		                "pos": "wx_botldr",
+		                "sizes": [[728, 91], [728, 90]]
+		              }
+		            ];
+
+		            console.log('========');
+		            console.log(requestObj);
+		            console.log('========');
+
+		            return positions.filter(function (item) {
+		              return requestObj.positions.indexOf(item.id) >= 0;
+		            });
+		          },
+		          getAdUnit: function (locale, deviceType) {
+		            var adUnit = null;
+		            var js_page_ad_unit = utag_data['js_page.ad_unit'].split('/');
+
+		            adUnit = {
+		              adUnit: js_page_ad_unit[2] || '',
+		              networkCode: '/' + (js_page_ad_unit[1] || '')
+		            };
+
+		            return adUnit;
+		          },
+		          getCustParams: function () {
+		            return {
+		              refurl: "intellicast",
+		              browser: getBrowser(),
+		              cc: TWC.pco.getNodeValue("user", "currentLocation").cntryCd,
+		              ct: TWC.pco.getNodeValue("user", "currentLocation").cityNm,
+		              dma: TWC.pco.getNodeValue("ad", "location").dmaCd,
+		              ent: utag_data["js_page.ent"],
+		              impression_id: TWC.pco.getNodeValue("ad", "impression_id"),
+		              intl: utag_data["js_page.gpr"],
+		              lang: TWC.pco.getNodeValue("page", "lang"),
+		              lat: TWC.pco.getNodeValue("ad", "location").lat,
+		              lon: TWC.pco.getNodeValue("ad", "location").long,
+		              loc: utag_data["js_page.locid"],
+		              ord: utag_data["js_page.ord"],
+		              plat: utag_data["js_page.plat"],
+		              refurl: utag_data["js_page.refurl"],
+		              rmid: utag_data["js_page.rmid"],
+		              st: TWC.pco.getNodeValue("user", "currentLocation").stCd,
+		              zip: utag_data["js_page.zip"],
+		              tf: utag_data["js_page.zone"]
+		            };
+		          }
+		        };
+
+		        var adLocation = TWC.pco.getNodeValue("ad", "location");
+		        var geocode = adLocation.lat + ',' + adLocation.long;//'42.36,-71.06'
+
+		        window.twcMoney.SunDataService.fetchData({ geocode: geocode })
+		          .then(function(result) {
+		            var custParams = result.custParams;
+
+		            console.log('========');
+		            console.log(result);
+		            console.log('========');
+
+		            window.twcMoney.moneyTree({ useLightSpeed: false, locale: locale })
+		              .start({
+		                adZone: zone,
+		                locale: locale,
+		                thirdParties: thirdParties,
+		                custParams: custParams,
+		                pageAdPositions: [],
+		                staticAdPositions: staticAdPositions,
+		                processStatic: true,
+
+		                adConfig: customAdConfig
+		              })
+									.then(function () {
+										window.twcMoney.moneyTree().getBidProcessPromise('lotame')
+										.then(function () {
+											var lotameData = {};
+											var jStorage = JSON.parse(localStorage
+												&& localStorage.jStorage);
+											var lotameRaw = jStorage && jStorage.lotameRaw || {};
+
+											var lot_abbr, lot_id, lotameData;
+											if (lotameData = TWC.pco.getNodeValue("user", "lotame") || {},
+											lotameData.lot_tpid = lotameRaw
+												&& lotameRaw.Profile
+												&& lotameRaw.Profile.tpid || lotameData.lot_tpid,
+											lotameData.lot_pid = lotameRaw
+												&& lotameRaw.Profile
+												&& lotameRaw.Profile.pid || lotameData.lot_pid,
+											lot_abbr = lotameData && lotameData.lot_abbr || "",
+											lot_id = lotameData && lotameData.lot_id || "",
+											audienceLength = lotameRaw
+												&& lotameRaw.Profile
+												&& lotameRaw.Profile.Audiences
+												&& lotameRaw.Profile.Audiences.Audience
+												&& lotameRaw.Profile.Audiences.Audience.length,
+											audienceLength > 0) {
+													lot_abbr = "",
+													lot_id = "";
+													for (var c = 0; c < audienceLength; c++)
+															lot_abbr += lotameRaw.Profile.Audiences.Audience[c].abbr + (c < audienceLength - 1 ? "," : ""),
+															lot_id += lotameRaw.Profile.Audiences.Audience[c].id + (c < audienceLength - 1 ? "," : "");
+
+													lotameData.lot_abbr = lot_abbr,
+													lotameData.lot_id = lot_id
+											}
+
+											TWC.pco.setNodeValue("user", "lotame", lotameData);
+										});
+									});
+		          });
+					});
+		    });
+		  });
 	</script>
 
   <!-- Optimizely -->
@@ -85,62 +338,54 @@
   <script src="http://www.intellicast.com/Scripts/AppMeasurement.js"></script>
 
   <script type="text/javascript">
-    (function () {
-      var _recentLocations = [];
-      
-      _recentLocations.push(5);
-        
-      _recentLocations.push("USWA0395");
-          
-      _recentLocations.push("USNV0049");
-          
-      _recentLocations.push("USPA1290");
-          
-      _recentLocations.push("USMI0229");
-          
-      _recentLocations = _recentLocations.join();
+	(function () {
+		var _recentLocations = [];
 
-      var _brdcrmb = window.location.pathname !== "/" ? window.location.pathname.substring(1).split("/") : ["Home"];
-      if (_brdcrmb.length > 1) {
-        _brdcrmb.unshift("Home");
-        _brdcrmb[_brdcrmb.length - 1] = _brdcrmb[_brdcrmb.length - 1].substring(0, _brdcrmb[_brdcrmb.length - 1].indexOf("."));
-      }
-      s.pageName = document.title;
-      s.prop2 = s.evar4 = _brdcrmb.join(" > "); // sub section e.g. home > maps > regionmap
-      s.prop6 = s.evar6 = "Seattle:WA:US"; // city:state:country
-      s.prop8 = s.evar8 = "98101"; // dma id
-      s.prop9 = s.evar9 = "98158"; // zip code    
-      s.evar23 = ""; // marketing campaigns
-      s.evar24 = window.location.href; // full url
-      //SiteCatalyst Beacon Parameter: event15 Page View Event
+		_recentLocations.push(1);
 
-      s.prop10 = _recentLocations; // recent locations, number then location id
-      s.prop14 = ""; // intra-page actions
-      s.evar10 = _recentLocations; // saved locations, number then location id
+		_recentLocations = _recentLocations.join();
 
-      s.evar11 = ""; // internal search term
-      s.evar12 = ""; // member type (member, non-member)
-      s.evar13 = ""; // weather map layer
-      s.evar14 = ""; // boating map layer
-      s.evar17 = ""; // search type (other or zip)
-      s.evar18 = ""; // search error message
-      /*
-        event7: Membership Signup
-        event8: Sign-Ins
-        event9: Sign-Outs
-      */
-      var s_code = s.t();
-      if (s_code) document.write(s_code);
-    }());
+		var _brdcrmb = window.location.pathname !== "/" ? window.location.pathname.substring(1).split("/") : ["Home"];
+		if (_brdcrmb.length > 1) {
+			_brdcrmb.unshift("Home");
+			_brdcrmb[_brdcrmb.length - 1] = _brdcrmb[_brdcrmb.length - 1].substring(0, _brdcrmb[_brdcrmb.length - 1].indexOf("."));
+		}
+		s.pageName = document.title;
+		s.prop2 = s.evar4 = _brdcrmb.join(" > "); // sub section e.g. home > maps > regionmap
+		s.prop6 = s.evar6 = "::"; // city:state:country
+		s.prop8 = s.evar8 = ""; // dma id
+		s.prop9 = s.evar9 = ""; // zip code
+		s.evar23 = ""; // marketing campaigns
+		s.evar24 = window.location.href; // full url
+		//SiteCatalyst Beacon Parameter: event15 Page View Event
+
+		s.prop10 = _recentLocations; // recent locations, number then location id
+		s.prop14 = ""; // intra-page actions
+		s.evar10 = _recentLocations; // saved locations, number then location id
+
+		s.evar11 = ""; // internal search term
+		s.evar12 = ""; // member type (member, non-member)
+		s.evar13 = ""; // weather map layer
+		s.evar14 = ""; // boating map layer
+		s.evar17 = ""; // search type (other or zip)
+		s.evar18 = ""; // search error message
+		/*
+			event7: Membership Signup
+			event8: Sign-Ins
+			event9: Sign-Outs
+		*/
+		var s_code = s.t();
+		if (s_code) document.write(s_code);
+	}());
   </script>
 
   <!-- END Omniture -->
 
   <!-- END New Ads -->
-	
+
   <script src="http://images.intellicast.com/App_Scripts/icast.storage.min.js"></script>
 	<script src="http://images.intellicast.com/App_Scripts/jquery-autocomplete.min.js"></script>
-	
+
 	
 	
 
@@ -190,7 +435,7 @@
 	<script type="text/javascript">var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "9576127", c3: "", c4: window.location.href }); (function () { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();</script>
 	<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=9576127&c3=&c4=www.intellicast.com/About/Privacy.aspx&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="position:absolute;top:-1000px;" /></noscript>
 	<!-- End comScore Tag -->
-	
+
 	<header id="header" class="site-header">
 		<div class="container">
 			<div class="row">
@@ -207,8 +452,8 @@
               <i style="position:relative;top:2px;left:-2px;display:inline-block;height:15px;width:16px;
               background:no-repeat url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuElEQVQ4jcWSsQ3CMBBFn12giAmyAQukpYIpEEU6tqBlByoWyQLZgFUoeDRHlAQkAhT5kiXLd+//s2WYW0ndApsf+Qa1UWs1f7lqtclACyyAXUrpPmUBu2DaDJBSOgNLdf9p5uhZBkPuHmOCyRgeGHwyeQe/GIRuwLpvEvt11AYaGKh1THIACvWoHoEizrqePnR6FsZFtVTLccizTz2lMLhG8uXNlV7UC1ploALyVLgXlIHq/688ux5tZJukD8upVQAAAABJRU5ErkJggg==) center center;"></i>
               Weather Emails</a>
-						<a class="alerts" href="/Storm/Severe/Bulletins.aspx"><i class="icon"></i>Alerts</a>
-						<a class="hurricane" active-alert""="" href="/Storm/Hurricane/Track.aspx"><i class="icon"></i>Hurricanes</a>
+						<a class="alerts active-alert" href="/Storm/Severe/Bulletins.aspx?location=USWA0395"><i class="icon"></i>Alerts</a>
+						<a class="hurricane" ""="" href="/Storm/Hurricane/Track.aspx"><i class="icon"></i>Hurricanes</a>
 						<a class="help" href="/Help/Default.aspx"><i class="icon"></i>Help</a>
 						
 					</div>
@@ -566,7 +811,7 @@
 						</a>
 						
 						<ul class="recent-locations">
-							<li class="header">Recent Locations</li> 
+							<li class="header">Recent Locations</li>
 							
 									<li><a href="/Local/Weather.aspx?location=USWA0395">Seattle, Washington</a></li>
 							
@@ -580,7 +825,7 @@
 						
 					</div>
 					<div class="uni-time">
-						<strong>Universal Time:</strong>&nbsp;Wednesday, 28 Jun 2017, 04:58 
+						<strong>Universal Time:</strong>&nbsp;Thursday, 28 Dec 2017, 00:18
 					</div>
 				</div>
 			</div>
@@ -825,34 +1070,45 @@
       
     </div>
   </div>
-  <div id="WX_Top300Variable">
-    
+  <div>
+    <div id="WX_Top300Variable">
+      
+    </div>
   </div>
   <!-- Promo ad for storm/icast mobile -->
 	<div id="promoAd" style="position:relative;">
-    <img style="display:block;" src="http://images.intellicast.com/App_Images/Storm_IntellicastHouseAd_300x125.png" alt="Track Severe Weather on mobile">
-		<a style="position:absolute;display:block;width:138px;height:41px;top:80px;left:102px;" href="https://go.onelink.me/534401470?pid=Web_Intellicast&amp;c=StormHouseAd" target="_blank"></a>
+    <a href="https://go.onelink.me/RFZA?pid=Intellicast&amp;c=Display" target="_blank">
+			<img style="display:block;" src="http://images.intellicast.com/App_Images/STORM_BANNERS_S7_300X125.jpg" alt="Storm Radar with NOAA Weather">
+		</a>
 	</div>
-  <div id="WX_Mid300">
-    
+  <div>
+    <div id="WX_Mid300">
+      
+    </div>
   </div>
-  <div id="WX_Hidden">
-    
+  <div>
+    <div id="WX_Hidden">
+      
+    </div>
   </div>
-  <div id="WX_Tiles">
-		<div style="float:left;">
-      <div id="WX_Tile1">
-        
-      </div>
-		</div>
-		<div style="float:right;">
-      <div id="WX_Tile2">
-        
-      </div>
-		</div>
-	</div>
-  <div id="WX_PaidSearch">
-    
+  <div>
+    <div id="WX_Tiles">
+  		<div style="float:left;">
+        <div id="WX_Tile1">
+          
+        </div>
+  		</div>
+  		<div style="float:right;">
+        <div id="WX_Tile2">
+          
+        </div>
+  		</div>
+  	</div>
+  </div>
+  <div>
+    <div id="WX_PaidSearch">
+      
+    </div>
   </div>
   <!-- New Ads -->
 </div>
@@ -882,7 +1138,7 @@
 					
 					<span>Version 4.6.201311.1</span>
 				</div>
-				<!-- MACHINE NAME: ICAST-WEB1 -->
+				<!-- MACHINE NAME: ICAST-WEB4 -->
 			</div>
 		</footer>
 	
@@ -892,7 +1148,7 @@
 	
   
 	<script type="text/javascript" src="http://images.intellicast.com/Scripts/core_20150225.js"></script>
-  
+
   <script>
     var cod = {
       latitude: '47.6',
