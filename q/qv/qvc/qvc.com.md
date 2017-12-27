@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qvc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053855id_/http%3A//www.qvc.com/FAQPrivacy.content.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvc.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004242id_/http%3A//www.qvc.com/FAQPrivacy.content.html) for the most accurate reproduction.*
 
 # The QVC Privacy Statement — Customer Service — QVC.com
 
