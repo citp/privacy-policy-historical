@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603062054id_/https%3A//www.heartinternet.uk/terms/heart-internet-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234153id_/https%3A//www.heartinternet.uk/terms/heart-internet-privacy-statement) for the most accurate reproduction.*
 
 # Heart Internet Privacy Statement
 
