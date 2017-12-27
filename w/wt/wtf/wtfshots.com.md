@@ -1,51 +1,80 @@
-> *The following text is extracted and transformed from the wtfshots.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530030656id_/http%3A//www.wtfshots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtfshots.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# WTFShots.com - Funny Pictures, Epic Fails, Funny Shots, iPhone Autocorrects, Awkward Texts, LOL Photos, WTFShots.com, Hilarious, Animal LOLs, Troll Comics, Gags, Cartoon
+# HugeDomains.com - Privacy Policy
 
-WTFShots.com respects the privacy concerns of the users of its Internet Sites ("Sites"), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used. 
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-Use of Information 
+**What information do we collect?**
 
-As a general policy, no personally identifiable information, such as your name or address, is automatically collected from your visit to WTFShots.com. However, certain non-personal information is recorded by the standard operation of WTFShots.com's Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience. For example, it may be used to tailor content and advertising to your interests. 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-In special cases, WTFShots.com may disclose user information when there is reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to, or interference (either intentionally or unintentionally) with, WTFShots.com's rights or property, other WTFShots.com web site users, or anyone else that could be harmed by such activities. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Security 
+**What do we use your information for?**
 
-Security for all personally identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information, WTFShots.com cannot ensure or warrant the security of any information you transmit to us or from our online forms, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-Use of Cookies 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Cookies are pieces of information that a website transfers to an individual's computer hard drive for record keeping purposes. Cookies are used to track visits to our Sites and to personalize the Sites for new and current subscribers. Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. (Note: you will need to consult the help area of your browser application for instructions.) If you choose to disable your cookies setting or refuse to accept a cookie, some parts of WTFShots.com's web sites may not function properly. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-Use of IP Addresses 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-An IP address is a number that's automatically assigned to your computer by your Internet provider whenever you surf the Web. When you request pages from WTFShots.com Sites, our servers log your IP address. WTFShots.com collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our Site. We may use your IP addresses in cooperation with your Internet provider to identify you if we deem it necessary to enforce compliance with our Terms of Use or to protect our service, Sites, customers, or others. 
+• To process transactions
 
-Links to Other Sites 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-WTFShots.com is not responsible for the content or practices of third party websites that may be linked to our Sites. Our Sites may link to websites operated by other companies; we are not responsible for the privacy practices of such websites. Visitors to these web sites should refer to each web site's respective privacy policies and practices. 
+• To send periodic emails
 
-Third Party Cookies 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-In the course of serving advertisements to our sites, our third-party advertisers may place or recognize a unique "cookie" on your browser. 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit the Network Advertising Initiative or Self-Regulatory Program for Online Behavioral Advertising. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Google, as a third party vendor, uses cookies to serve ads on our websites. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+**How do we protect your information?**
 
-BlueKai, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the BlueKai cookie by visiting the BlueKai Preference Manager. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-Exelate, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Exelate cookie by visiting the Exelate Preference Manager. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-Brilig, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Brilig cookie by visiting the Brilig Preference Manager. 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-Contact Us 
+**Do we use cookies?**
 
-If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can email us 
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-Information provided by you via general email inquiries to WTFShots.com such as your email address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-Your Acceptance of These Terms 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-By using WTFShots.com and its Sites, you signify your acceptance of the WTFShots.com Privacy Policy. If you do not agree to this policy, please do not use our Sites. WTFShots.com reserves the right to modify, alter or otherwise update this policy at any time. We encourage visitors to review this policy from time to time. Your continued use of the WTFShots.com Sites following the posting of changes to these terms indicates your acceptance of these changes 
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
