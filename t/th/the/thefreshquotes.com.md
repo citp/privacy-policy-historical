@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefreshquotes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003505id_/http%3A//www.thefreshquotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreshquotes.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227143918id_/https%3A//www.thefreshquotes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Quotes & Wishes
+# Privacy Policy - Quotes & Sayings
 
 This Privacy Policy governs the manner in which TheFreshQuotes collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.TheFreshQuotes.com](http://www.generateprivacypolicy.com/account/policies/edit/www.TheFreshQuotes.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by TheFreshQuotes.
 
