@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624040336id_/https%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003535id_/https%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# VoucherCodes.co.uk Data Protection and Privacy Policy
+# VoucherCodes Data Protection and Privacy Policy
 
-RetailMeNot UK Ltd, trading as VoucherCodes.co.uk, ("we", “our”, “us”) are committed to protecting and respecting your privacy.
+RetailMeNot UK Ltd, trading as VoucherCodes, ("we", “our”, “us”) are committed to protecting and respecting your privacy.
 
 This policy (together with our website terms and conditions that apply to your use of our website and our mobile application terms and conditions that apply to your use of our mobile application) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -148,9 +148,9 @@ We may disclose your personal information to other third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-  * If VoucherCodes.co.uk or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If VoucherCodes or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website terms and conditions, mobile application terms and conditions and other agreements; or to protect the rights, property, or safety of VoucherCodes.co.uk, our customers, or others.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website terms and conditions, mobile application terms and conditions and other agreements; or to protect the rights, property, or safety of VoucherCodes, our customers, or others.
 
   * We may share information submitted as part of third party promotional activities only when you agree the specific Terms and Conditions of the promotion by opting in to the promotion.
 
