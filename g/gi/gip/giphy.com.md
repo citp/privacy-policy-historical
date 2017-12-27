@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giphy.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229054839id_/http%3A//giphy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giphy.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000034id_/https%3A//giphy.com/privacy) for the most accurate reproduction.*
 
 # Search, Discover, Share, and Create Animated GIFs | GIPHY
 
