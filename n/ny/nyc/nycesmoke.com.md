@@ -1,81 +1,80 @@
-> *The following text is extracted and transformed from the nycesmoke.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317195113id_/http%3A//www.nycesmoke.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycesmoke.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# NYCe Smoke terms
+# HugeDomains.com - Privacy Policy
 
-PRIVACY STATEMENT 
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-Your privacy is important to NYCeSmoke.com. This privacy statement provides information about the personal information that NYCeSmoke.com collects, and the ways in which NYCeSmoke.com uses that personal information.  
-Personal information collection  
-NYCSmoke.com may collect and use the following kinds of personal information:  
-[information about your use of this website (including Purchases from I.P addresses to combat fraud)  
-[information that you provide using for the purpose of registering with the website (including Names & Email Address]  
-[information about transactions carried out over this website (including Names , Email Address and Volunteered Registered Info )  
-[information that you provide for the purpose of subscribing to the website services (including Email Address and Volunteered Registered Info and I.P addresses]  
-[any other information that you send to NYCeSmoke.com]  
-Using personal information  
-NYCeSmoke.com may use your personal information to:  
-Provide verification of age through contact  
-[personalize the website for you;]  
-[enable your access to and use of the website services;]  
-[publish information about you on the website; If Requested ]  
-[send to you products that you purchase;]  
-[supply to you services that you purchase;]  
-[send to you statements and invoices;]  
-[collect payments from you; and]  
-[send you marketing communications. At your request]  
-Where NYCeSmoke.com discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.  
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, [NAME] may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.  
-Securing your data  
-NYCeSmoke.com will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.  
-NYCeSmoke.com will store all the personal information you provide [on its secure servers].  
-[Information relating to electronic transactions entered into via this website will be protected by 128 bit encryption technology.]  
-Cross-border data transfers  
-Information that NYCeSmoke.com collects may be stored and processed in and transferred between any of the countries in which NYCeSmoke.com operates to enable the use of the information in accordance with this privacy policy.  
-[In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.]  
-You agree to such cross-border transfers of personal information.  
-Updating this statement  
-NYCeSmoke.com may update this privacy policy by posting a new version on this website.  
-You should check this page occasionally to ensure you are familiar with any changes.  
-Other websites  
-This website contains links to other websites that are secured, to process you payment through secure gateways etc..  
-NYCeSmoke.com is not responsible for the privacy policies or practices of any third party.  
-About this privacy statement  
-Contact Managing Partner : P.Vincent Robinson  
-If you have any questions about this privacy policy or NYCeSmoke.com treatment of your personal information, please write:  
-by email to support@NYCeSmoke.com ; or  
-by post to 757 Siesta Key Tr. Suite 1126  
-Deerfield Beach, FL 33441
+**What information do we collect?**
 
-Why NYCe Smoke  
-electronic cigarette?
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Green products, Smoke anytime, anywhere, not banned
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Lower cost than traditional smoking
+**What do we use your information for?**
 
-Virtually odorless, tastes similar to tobacco
+Any of the information we collect from you may be used in one of the following ways: 
 
-Minimal of first or second-hand vapor
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Won't stain teeth or damage skin
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-No tar, ash, butts, carbon monoxide, cyanide, lead, arsenic or other carcinogenic (Substances found in traditional cigarettes)
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-Easy to use, convenient (doesn’t require matches, lighters or ignition)
+• To process transactions
 
-Call or email with any questions toll free at :
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-     1-866-966-8577  Ext.2
+• To send periodic emails
 
-CUSTOMER SUPPORT :
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-[](mailto:support@nycesmoke.com)[support@NYCeSmoke.com  
-](mailto:support@nycesmoke.com)  
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-24 x 7 please allow up one business day to respond .  
-Thank you for your interest.
+**How do we protect your information?**
 
-THE MOST ADVANCED ELECTRONIC CIGARETTES 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-© 2005 Robinson & Benders Capital Imports, LLC. All Rights Reserved. 757 Siesta Key TR. Deerbeach, FL 33441 E-mail support@NYCeSmoke.com - Fax: (914) 500-6703
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
