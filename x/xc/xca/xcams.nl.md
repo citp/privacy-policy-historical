@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcams.nl privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222080236id_/https%3A//www.xcams.nl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcams.nl privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227051112id_/https%3A//www.xcams.nl/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -31,7 +31,7 @@ We also collect personal information when you send us an email to report a probl
 
   4. ## Information bulletin
 
-When you sign up, you may receive information on webcams, new features, offers, and services by email. These emails will be sent by DNX Network SARL, 6 rue Henri Schnadt, L-2530 Luxembourg, Luxembourg - Telephone No.: +352 2088 0401 – [support@dnxnetwork.lu](mailto:support@dnxnetwork.lu). If you do not wish to receive this information, go to the "My Account" section, visible at the bottom of every page. 
+When you sign up, you may receive information on webcams, new features, offers, and services by email. These emails will be sent by DNX Network SARL, 6 rue Henri Schnadt, L-2530 Luxembourg, Luxembourg - Telephone No.: +352 2786 20 29 – [support@dnxnetwork.lu](mailto:support@dnxnetwork.lu). If you do not wish to receive this information, go to the "My Account" section, visible at the bottom of every page. 
 
   5. ## Data protection and security measures
 
