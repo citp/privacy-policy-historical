@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileconvertor.org privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615215555id_/http%3A//fileconvertor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileconvertor.org privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227173614id_/http%3A//fileconvertor.org/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy FileConvertor.org
 
@@ -6,7 +6,7 @@
 
 FileConvertor.org
 
-**Convert & Edit PDF Documents – 7-Day FREE Trial!**
+**Convert & Edit PDF Documents**
 
 **Last Updated october 25, 2016**
 
@@ -64,4 +64,4 @@ Tightrope Interactive, Inc.
 588 Sutter St #551  
 San Francisco, CA 94102 
 
-Alternatively, if you would like, contact us via e-mail at webmaster@fileconvertor.org 
+Alternatively, if you would like, contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
