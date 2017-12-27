@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexpeacearmy.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610154410id_/http%3A//www.forexpeacearmy.com/community/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexpeacearmy.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227220452id_/http%3A//www.forexpeacearmy.com/community/help/privacy) for the most accurate reproduction.*
 
 # Privacy and Legal | Forex Peace Army - Your Forex Trading Forum
 
@@ -62,11 +62,13 @@ In order to defend the integrity of the Forex Peace Army's forums and reviews ag
 
 ### Legal.
 
+**Governing Law.** All terms and conditions of this website are subject to and to be interpreted by the laws of the United States of America and the State of California. Any disputes arising with regard to this website or its content will be brought only in the courts of the State of California or the United States District Court for the Central District of California.
+
 Per Forex Peace Army policy, any legal threats or implied legal threats made against the Forex Peace Army by any means may be published in part or in whole, including the contents of any email message headers. We reserve the right to edit these, and may include the name, IP, location, and other contact information of the person making the threat. We are always willing to discuss how to deal with any incorrect information that may get posted on our site. Please use the "Contact Us" link and open a civilized dialog with us instead of making threats. We greatly prefer to see problems between companies and clients get resolved. If you see that someone has made a post about you or your company that you feel violates the law, contact us and we'll let you know what you can do about it. If there is an illegal copy of your company's products on our site, let us know and we'll take care of the situation.
 
 Any threats of an illegal nature against ForexPeaceArmy.com or its employees will also be considered to be a waiver of privacy rules. In addition to everything that may be done with a legal threat, these may also be reported to law enforcement and financial regulators.
 
-### Cookie Policy
+### Cookie Policy.
 
 Be aware, much of the functionality of the ForexPeaceArmy.com site relies on cookies. If you continue to use this site, you are consenting to our use of cookies. You are always free to erase them after each visit.
 
