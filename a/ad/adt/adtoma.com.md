@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtoma.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201102551id_/http%3A//www.adtoma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtoma.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227051103id_/http%3A//wp-admin.adtoma.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Adtoma AB
 
@@ -78,4 +78,4 @@ Signia Creative Intelligence AB
 Narvavägen 7, SE-114 60 Stockholm, Sweden  
 E-mail: [info@signia.se](mailto:info@signia.se)
 
-This website uses cookies to improve your experience. [Privacy Policy](http://www.adtoma.com/privacy/) We'll assume you're ok with this, but you can opt-out if you wish. Accept
+This website uses cookies to improve your experience. [Privacy Policy](http://wp-admin.adtoma.com/privacy/) We'll assume you're ok with this, but you can opt-out if you wish. Accept
