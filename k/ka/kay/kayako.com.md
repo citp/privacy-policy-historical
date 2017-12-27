@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624062851id_/https%3A//www.kayako.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227232534id_/https%3A//www.kayako.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kayako
 
