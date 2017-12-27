@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companycheck.co.uk privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627145228id_/https%3A//companycheck.co.uk/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companycheck.co.uk privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235310id_/https%3A//companycheck.co.uk/cookies) for the most accurate reproduction.*
 
 # Company Check - Cookie Compliance
 
