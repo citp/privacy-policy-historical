@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metwashairports.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515014145id_/http%3A//metwashairports.com/about/privacy-statement-and-website-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metwashairports.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227023419id_/http%3A//www.metwashairports.com/about/privacy-statement-and-website-policy) for the most accurate reproduction.*
 
 # Privacy Statement and Website Policy | Metropolitan Washington Airports Authority
 
