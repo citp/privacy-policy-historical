@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nextworth.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328160111id_/https%3A//www.nextworth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextworth.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227163733id_/https%3A//www.nextworth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – NextWorth
+# NextWorth - Privacy Policy
 
 **Effective Date: April 7, 2014**
 
@@ -9,8 +9,6 @@
 Your privacy is our priority and we understand that you entrust us with the security of your information.
 
 This Privacy Policy outlines the collection of, type of and use and disclosure of Personal Information that is collected by NextWorth Solutions, Inc. (NextWorth, we, us, our) from consumers and our Client on our Web site www.nextworth.com and through the NextWorth Platform and how we use and protect it. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged NextWorth Solutions, Inc.
-
-NextWorth Solutions, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements and TRUSTed Cloud Program Requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at customerservice@nextworth.com. If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program only covers information collected on www.nextworth.com and through the NextWorth platform and does not cover information that may be collected through printed promotional materials, comment cards, sweepstakes entry forms, or other mail-in offers or telephone calls.
 
 NextWorth Solutions, Inc. complies with the U.S. E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. NextWorth Solutions, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view NextWorth Solutions, Inc.s certification, please visit http://www.export.gov/safeharbor/.
 
@@ -83,6 +81,4 @@ We will retain your information for as long as your account is active or as need
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Please write to us at CustomerService@NextWorth.com or at NextWorth Solutions, Inc. 900 Technology Park Drive, Suite 200, Billerica, MA 01821, or call us at 888-969-4763 if you have any comments or questions about this Privacy Policy.
-
-[](http://privacy.truste.com/privacy-seal/NextWorth-Solutions-Inc-/validation?rid=b05054d1-097a-4527-af01-4ebb744a312b)
+Please write to us at CustomerService@NextWorth.com or at NextWorth Solutions, Inc. 900 Technology Park Drive, Suite 200, Billerica, MA 01821, or call us at 888-400-3021 if you have any comments or questions about this Privacy Policy.
