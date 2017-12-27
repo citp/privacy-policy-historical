@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bathandbodyworks.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626224804id_/http%3A//www.bathandbodyworks.com/customer-care/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathandbodyworks.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001726id_/http%3A//www.bathandbodyworks.com/customer-care/privacy-and-security.html) for the most accurate reproduction.*
 
-# Privacy & Security | Bath And Body Works
+# Privacy & Security | Bath & Body Works
 
 This privacy policy explains what personal information is collected through our various online channels, how that information is used, to whom it's disclosed, and how it's safeguarded. This policy applies only to personal information collected through the online channel where this policy is displayed or linked by us, such as the Web site or Site (www.bathandbodyworks.com); our mobile websites, microsites; and Bath & Body Works pages on social media sites, ("BBW social media page"). By "personal information" we mean your identifying information (like name, home address, and email address), and possibly descriptive information (like tastes and preferences) if coupled with your identifying information ("personally identifying information"). We may refer to Bath & Body Works as "BBW," "we," "us," or "our" throughout this privacy policy.
 
@@ -131,7 +131,7 @@ In the event we sell or transfer all or a portion of our business assets, consum
 If at any time you'd like to stop future delivery of our email offers, simply follow the removal instructions located at the bottom of each message This will stop future email offers from us, but won't stop operational or transactional messages such as email confirmations of your online orders, or customer service communications. You may also [click here](https://www.bathandbodyworks.com/customer-care/contact-us "Contact Us") or call us at 1-800-756-5005. For Bath & Body Works Direct TDD, call 1-877-215-5245.
 
 Accessibility Support: 1-800-531-4504  
-See our [policy](https://www.bathandbodyworks.com/customer-care/accessibility-policy.html "Privacy Policy") on accommodating assistive readers for visiting our website. 
+See our [policy](http://www.bathandbodyworks.com/customer-care/accessibility-policy.html "Privacy Policy") on accommodating assistive readers for visiting our website. 
 
 We may occasionally provide you with the opportunity to opt in to receive email messages from third parties. If you do opt in, we'll share your email address with the specific third party with which you have opted in. Please review their privacy policies to see how they treat your personal information.
 
@@ -140,7 +140,7 @@ We may occasionally provide you with the opportunity to opt in to receive email 
 If you've signed up for recurring mobile messaging (e.g., SMS and MMS) offers but later decide you no longer wish to receive them, simply follow the applicable opt-out instructions, which are usually included in the mobile message itself. You may also [click here](https://www.bathandbodyworks.com/customer-care/contact-us "Contact Us") or call us at 1-800-756-5005. For Bath & Body Works Direct TDD, call 1-877-215-5245.
 
 Accessibility Support: 1-800-531-4504  
-See our [policy](https://www.bathandbodyworks.com/customer-care/accessibility-policy.html "Privacy Policy") on accommodating assistive readers for visiting our website. 
+See our [policy](http://www.bathandbodyworks.com/customer-care/accessibility-policy.html "Privacy Policy") on accommodating assistive readers for visiting our website. 
 
 3\. Postal Mailers
 
@@ -159,7 +159,7 @@ If you don't want your basic contact and purchase information shared with other 
 If you would like to request that our affiliates do not use your name, postal address, email address and purchase information for marketing purposes, please contact us at 1-800-395-1001 to make a request. For Bath & Body Works Store Relations TDD, call 1-866-315-3129.
 
 Accessibility Support: 1-800-531-4504  
-See our [policy](https://www.bathandbodyworks.com/customer-care/accessibility-policy.html "Privacy Policy") on accommodating assistive readers for visiting our website. 
+See our [policy](http://www.bathandbodyworks.com/customer-care/accessibility-policy.html "Privacy Policy") on accommodating assistive readers for visiting our website. 
 
 ### Does our policy differ for visitors from outside the U.S.?
 
@@ -170,7 +170,7 @@ All our online channels are based in the U.S. This privacy policy governs the in
 We prefer to keep your personal information accurate and up-to-date. You may update or modify your billing- and shipping-related information by logging onto [Your Account](https://www.bathandbodyworks.com/my-account "Account"), or by calling us at 1-800-756-5005. For Bath & Body Works Direct TDD, call 1-877-215-5245.
 
 Accessibility Support: 1-800-531-4504  
-See our [policy](https://www.bathandbodyworks.com/customer-care/accessibility-policy.html "Privacy Policy") on accommodating assistive readers for visiting our website. 
+See our [policy](http://www.bathandbodyworks.com/customer-care/accessibility-policy.html "Privacy Policy") on accommodating assistive readers for visiting our website. 
 
 ### How do we address children's privacy?
 
@@ -200,6 +200,6 @@ US
 
 ### When was this policy last updated?
 
-Please [click here](https://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwd96b0b69/docs/FINAL_Underlined_BBW%20Privacy%20Policy_121713.pdf) to view any material and substantive changes made since the last revision of this privacy policy. If you're concerned about how your personal information is used, please visit our site often for this and other important announcements about BathandBodyWorks.com.
+Please [click here](http://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwd96b0b69/docs/FINAL_Underlined_BBW%20Privacy%20Policy_121713.pdf) to view any material and substantive changes made since the last revision of this privacy policy. If you're concerned about how your personal information is used, please visit our site often for this and other important announcements about BathandBodyWorks.com.
 
 This privacy policy is effective August 5, 2016.
