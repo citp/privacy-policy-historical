@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypal.co.uk privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624094527id_/https%3A//www.paypal.com/uk/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal.co.uk privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227022118id_/https%3A//www.paypal.com/uk/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
 
 # Privacy Policy for PayPal Services
 
