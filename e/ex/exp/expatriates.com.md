@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatriates.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628205918id_/https%3A//www.expatriates.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatriates.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001123id_/https%3A//www.expatriates.com/html/privacy.html) for the most accurate reproduction.*
 
 # expatriates.com - Privacy Statement
 
@@ -28,4 +28,4 @@ Expatriates.com provides a bulletin board for classified ads and a discussion bo
 
 #### Contacting Us
 
-If you have any questions about this privacy statement, please send a message to [contact@expatriates.com](mailto:contact@expatriates.com). 
+If you have any questions about this privacy statement, please send a message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6b0804051f0a081f2b0e131b0a1f19020a1f0e1845080406). 
