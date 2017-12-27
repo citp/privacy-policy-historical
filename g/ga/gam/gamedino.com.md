@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamedino.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063536id_/http%3A//www.gamesgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedino.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227222147id_/http%3A//www.gamesgames.com/privacy-policy) for the most accurate reproduction.*
 
-# Games - Free Online Games, Free Games Online! - GamesGames.com
+# Our Privacy Policy | Games - Free Online Games, Free Games Online! - GamesGames.com
 
 This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to our websites and to all games and other activities that are offered by us on or through our websites. (Our websites, all the web pages that are part of the websites, and such games and activities are hereafter collectively referred to as the "Websites.") SPIL GAMES BV, having its registered office at Mussenstraat 15, 1223 RB, Hilversum, the Netherlands (hereafter referred to as "SPIL"), is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet Bescherming Persoonsgegevens). SPIL may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Websites. By using or accessing our Websites, you are accepting the practices described in this Privacy Policy.
 
