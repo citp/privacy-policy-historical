@@ -1,49 +1,80 @@
-> *The following text is extracted and transformed from the rudepirate.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609083641id_/http%3A//www.gaymoviedome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rudepirate.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# GayMovieDome, the hardest gay porn on the web- Privacy policy
+# HugeDomains.com - Privacy Policy
 
-GayMovieDome, the hardest gay porn on the web Limited recognizes that its customers, visitors, users, and others who use GayMovieDome, the hardest gay porn on the web Video value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the GayMovieDome, the hardest gay porn on the web Video site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site. 
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-Please note that any video, image, or other content posted at the direction of users onto the GayMovieDome, the hardest gay porn on the web Video site becomes published content and is not considered personally identifiable information subject to this privacy notice. 
+**What information do we collect?**
 
-The Information GayMovieDome, the hardest gay porn on the web Limited Collects
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-**User-provided information:** You provide certain personally identifiable information (such as your name and email address) to GayMovieDome, the hardest gay porn on the web Video when choosing to participate in various activities on the sites such as uploading videos or posting messages. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**Cookies Information:** When you visit the GayMovieDome, the hardest gay porn on the web Video site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. GayMovieDome, the hardest gay porn on the web Video uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the GayMovieDome, the hardest gay porn on the web Video site may not function properly if the ability to accept cookies is disabled. 
+**What do we use your information for?**
 
-**Log File Information:** When you use the GayMovieDome, the hardest gay porn on the web Video site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser 
+Any of the information we collect from you may be used in one of the following ways: 
 
-The Way GayMovieDome, the hardest gay porn on the web Video Retains Information
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-To preserve the integrity of website databases, GayMovieDome, the hardest gay porn on the web Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to GayMovieDome, the hardest gay porn on the web Video, you are consenting to store that information indefinitely. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-The Way GayMovieDome, the hardest gay porn on the web Limited Uses Information 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-If you submit personally identifiable information to us through the GayMovieDome, the hardest gay porn on the web Video website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site. 
+• To process transactions
 
-Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the GayMovieDome, the hardest gay porn on the web Video site, and other users can contact you through messages and comments. Any videos that you submit to the GayMovieDome, the hardest gay porn on the web Video site may be redistributed through the Internet and other media channels, and may be viewed by the general public. 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes. 
+• To send periodic emails
 
-When GayMovieDome, the hardest gay porn on the web Video Discloses Information 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. 
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. 
+**How do we protect your information?**
 
-GayMovieDome, the hardest gay porn on the web Limited also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of our company, our users or others. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-Our Commitment to Legal-Age Usage 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-Protecting children from adult content is especially important. For that reason, GayMovieDome, the hardest gay porn on the web Limited does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the GayMovieDome, the hardest gay porn on the web Video site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the GayMovieDome, the hardest gay porn on the web Video site at any time or in any manner. If GayMovieDome, the hardest gay porn on the web Limited learns that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information. 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-In the Event of Merger, Sale, or Bankruptcy
+**Do we use cookies?**
 
-In the event that GayMovieDome, the hardest gay porn on the web Limited is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used. 
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-Changes and updates to this Privacy Notice
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the GayMovieDome, the hardest gay porn on the web Video site constitutes your agreement to this privacy notice and any future revisions. 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
