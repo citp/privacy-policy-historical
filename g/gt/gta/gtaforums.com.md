@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtaforums.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624100512id_/http%3A//gtaforums.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtaforums.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227021139id_/http%3A//gtaforums.com/privacypolicy) for the most accurate reproduction.*
 
 # Cookies and Privacy Policy - GTAForums
 
