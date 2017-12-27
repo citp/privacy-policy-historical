@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhomebasedwork.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152401id_/http%3A//www.dreamhomebasedwork.com/privacy-policy_1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhomebasedwork.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227140744id_/https%3A//www.dreamhomebasedwork.com/privacy-policy_1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Other Third Party ad servers or ad networks may also use cookies to track users 
 
 ### **Disclosure of Information**
 
-_Why We Collect Information From You_. Like any business, it’s important for us to know our readers — their needs, their likes, what they want and expect from us. Unlike most businesses, however, we deliver a valuable product to our customers without asking for anything in return. Since we make most of this Service available without charge to you, we rely heavily on advertisers to produce the income necessary to operate our Service. Advertisers are like most people: They expect something in return for the money they spend. They want to know how many people will see their ad and how often our users are looking at their ads on our Service — in other words, how effective their ad is likely to be. So it’s important that we be able to tell advertisers who our audience is. Except as expressly set forth in this privacy statement, we will not provide, sell or rent to any third party any personally identifying information that we collect from you through your use of this Service.
+_Why We Collect Information From You_. Like any business, it's important for us to know our readers — their needs, their likes, what they want and expect from us. Unlike most businesses, however, we deliver a valuable product to our customers without asking for anything in return. Since we make most of this Service available without charge to you, we rely heavily on advertisers to produce the income necessary to operate our Service. Advertisers are like most people: They expect something in return for the [money](https://www.dreamhomebasedwork.com/go/InboxDollars "Inbox Dollars") they spend. They want to know how many people will see their ad and how often our users are looking at their ads on our Service — in other words, how effective their ad is likely to be. So it's important that we be able to tell advertisers who our audience is. Except as expressly set forth in this privacy statement, we will not provide, sell or rent to any third party any personally identifying information that we collect from you through your use of this Service.
 
 ### **Collection of Personal Information**
 
