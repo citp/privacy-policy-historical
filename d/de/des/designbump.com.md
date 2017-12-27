@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the designbump.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118135422id_/https%3A//designbump.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbump.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227210046id_/https%3A//designbump.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -DesignBump
 
 ## What is this Privacy Policy for?
 
-This privacy policy is for this website [[www.designbump.com](http://www.designbump.com/)] and served by [Infospot Limited] and governs the privacy of its users who choose to use it.
+This privacy policy is for this website [[www.designbump.com](https://www.designbump.com/)] and served by [Infospot Limited] and governs the privacy of its users who choose to use it.
 
 The privacy policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
