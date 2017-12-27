@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627125450id_/http%3A//eligiblegreeks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227062724id_/http%3A//eligiblegreeks.com/privacy) for the most accurate reproduction.*
 
 # EligibleGreeks.com
 
