@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051508id_/https%3A//www.publix.com/publix-website-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001315id_/https%3A//www.publix.com/publix-website-policies) for the most accurate reproduction.*
 
 # 
 
-**Last updated:**  February 29, 2016
+**Last updated:**  January 25, 2017
 
 ## Table of Contents
 
@@ -136,11 +136,11 @@ We may also receive information about you from other sources, including third pa
 
 ### Information We Collect Automatically
 
-When you use the Services, we may collect information about how you access, use, or otherwise interact with the Services, our emails, and online advertising. We do so for various reasons, including to help ensure that the Services continue to work correctly, to improve the Services, to support marketing campaigns, to understand our customers and how they use the Services, and to offer you a more personalized experience. The information we collect may include technical information such as your IP address, the type of device that you use to access the Services, the operating system on your device, the website or other online service that directed you to our Services, and the content that you view on the Services. For more information about how we collect this information, please see our Cookies and Other Tracking Technologies section below.
+When you use the Services, we or our third-party service providers may collect information about how you access, use, or otherwise interact with the Services, our emails, and online advertising. This information is collected for various reasons, including to help ensure that the Services continue to work correctly, to improve the Services, to support marketing campaigns, to understand our customers and how they use the Services, and to offer you a more personalized experience. The information collected may include technical information such as your IP address, the type of device that you use to access the Services, the operating system on your device, the website or other online service that directed you to our Services, and the content that you view on the Services. For more information about how this information is collected, please see our Cookies and Other Tracking Technologies section below.
 
 ### Information Collected from Mobile Devices
 
-When you access our Services via a mobile device, we may collect various information, including the type of mobile device you use, the temporary or persistent device identifier associated with your device, the IP address of your mobile device, the device's operating system, the browser you use to access the Services, information about how you use the Services, and your device's location as described below.
+When you access our Services via a mobile device, Publix or its third-party service providers may collect various information, including the type of mobile device you use, the temporary or persistent device identifier associated with your device, the IP address of your mobile device, the device's operating system, the browser you use to access the Services, information about how you use the Services, and your device's location as described below.
 
 You may be able to use our mobile applications to scan barcodes or take images of products or prescription bottles in order to create shopping lists or conduct transactions. To do so, our mobile applications may request permission to access your camera and photo files. Please note that some features of our mobile applications and/or Services may not be usable or available to you if you do not grant us such permission.
 
