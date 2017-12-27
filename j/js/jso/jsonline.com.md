@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622175434id_/http%3A//static.jsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227173501id_/http%3A//static.jsonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Milwaukee Journal Sentinel
 
