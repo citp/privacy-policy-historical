@@ -1,116 +1,180 @@
-> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229061425id_/http%3A//www.shoes.com/Info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227054314id_/https%3A//www.shoes.com/info/privacy) for the most accurate reproduction.*
 
-# Shoes.com
+# Privacy Policy - Shoes.com - FREE Shipping & Exchanges
 
-Last Updated February 2, 2012
+Your Privacy Rights  
+_Last Updated: April 25, 2017_
 
-For more than 40 years, our family business has been building relationships with our customers based on respect and integrity. We appreciate the trust and confidence you place in us when you visit our website and provide us with information.
+Shoebuy.com, Inc. respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of Shoebuy.com, Inc.'s web sites and services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
-That's why we protect your personal information and utilize the utmost care in how your information is collected and kept confidential.
+We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. Shoebuy.com, Inc. is a part of the Walmart family of companies.
 
-We (and our service providers, as described below) may collect and use your personal information and aggregated user information for the following purposes:
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-  1. To help provide you with a smooth, efficient shopping experience that is tailored to you. For example, we will use your personal information to:
-    * help you quickly find information, products, and services;
-    * make our Site easier for you to use by eliminating the need for you to repeatedly enter the same information;
-    * help us create content that is customized to your particular preferences or interests; and
-    * make third-party offers of products and/or services more relevant to you.
-  2. To alert you to products, services, and promotional offers that may be of interest to you, through email, direct mail or other methods of delivery, such as mobile content delivery programs.
-  3. To fulfill your order, to communicate with you about your order and to provide customer service.
-  4. To assist in our marketing efforts.
-  5. To improve our Site's content, layout and design, and vendor selection.
-  6. To monitor the usage and performance of our Site and to conduct system administration and system troubleshooting 
+## Information we collect about you
+
+In General, We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
+
+  * Information you provide. We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address, e-mail address, telephone number and fax number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender and age, other demographic information and reviews of our web site or products that we sell. 
+  * Information from other sources. We may also periodically obtain both personal and non-personal information about you from Walmart business partners, contractors and other third parties and add it to our account information or other information we have collected. Examples of information that we may receive include updated delivery and address information, purchase history, and additional demographic information. 
+  * Information about others. We may also collect and store personal information about other people that you provide to us. If you use our website to send others (friends, relatives, colleagues, etc.) a product as a gift, information that may interest them or messages (such as invitations) through our system, we may store your personal information, and the personal information of each such recipient.
 
 
 
-Information collected while you shop our Site may be combined with information we collect by other means (for example, information from someone who calls or emails us).
+Use of cookies and other technologies to collect information. We use various technologies to collect information from your computer and about your activities on our site.
 
-By visiting our Site directly or through another website, you consent to the collection, use and disclosure of your personal information in accordance with the terms of this Privacy Policy.
+  * Information collected automatically.
 
-This Privacy Policy applies only to [www.Shoes.com](https://web.archive.org/) (including sub-domains and interface variations delivered by Shoes.com servers, regardless of access device) and any other website operated by Gerler and Son, Inc. dba Shoes.com (collectively, our "Site").We are not responsible for the content or privacy practices on any website not operated by Gerler and Son, Inc. to which our Site links or that links to our Site.
+We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
 
-**Information Collection**
+  * Cookies.
 
-_Information We Collect Directly From You_
+When you visit our website, we may assign your computer one or more [cookies](https://web.archive.org/web/20171227054314id_/https%3A//www.shoes.com/info/privacy-info#cookies), to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline [cookies](https://web.archive.org/info/privacy-info#cookies), please note that you may not be able to sign in or use some of the interactive features offered on our website.
 
-You can visit our Site without entering any personal information and browse to your heart's content. However, if you want to make it a great shopping experience and access all of our features, promotional offers and special programs (including gift certificates), or if you want to make a purchase, we may ask for certain personal information. For example, we will collect certain personal information if you choose to join our loyalty program, if you subscribe to any of our email programs, if you participate in creating and sharing wish list information, if you write product reviews, if you choose to enter contests or sweepstakes, or if you "Like" us on Facebook. But trust us, the benefits are so worth it.
+  * Other Technologies.
 
-Depending on the purpose, the personal information that we may collect may include (but is not limited to) your name, phone number, email address, shipping and billing addresses, zip code and credit card information. In addition, we may collect your purchase history, preference information (such as specific styles or brands that you prefer) and certain other demographic information that you may provide to us (such as gender, age or income range).
+We may use standard Internet technology, such as [web beacons](https://web.archive.org/info/privacy-info#beacon) and other similar technologies, to track your use of our site. We also may include web beacons in e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising and content or other activities.
 
-User-generated content on our Site, such as product reviews, product ratings and wish lists created by users, may include personal information. Any personal information submitted with or included in the user-generated content is collected and may be posted on our Site.
+  * Information collected by third-parties.
 
-_Information Collected Automatically_
+We may allow third-parties, including our authorized service providers, Walmart, advertising companies, and ad networks, to display advertisements on and off our site. These companies may use tracking technologies, such as [cookies](https://web.archive.org/info/privacy-info#cookies), to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers a single location to opt out of ad targeting from member companies.
 
-We automatically collect information about your visit to our Site, including what pages you view, the amount of data transferred, the links you click, the materials you access, and other actions you take within our Site. We may also collect standard information that your browser sends to every website you visit, such as your Internet Protocol (IP) address, your geographic location as determined by your IP address, your browser type and capabilities, your operating system, the date and time you access our Site, session information (such as page response times) and the website from which you linked to or from our Site.
+  * Do Not Track.
 
-Additionally, we may collect your click-stream data and preference information. Click-stream data represents a page-by-page history of your usage. Your preference data includes search and purchase information and other preference-related information that you submit to our Site (such as the styles and brands you prefer, what activities you enjoy and other lifestyle information).
-
-_Aggregate Information_
-
-From time to time, we may collect general, non-personal, statistical information about the use of our Site, such as how many visitors visit a specific page on our Site, how long they stay on that page, and which links, if any, they click on. We use this information, which we collect through the use of cookies and other technologies (discussed in greater detail below), to help us determine which areas of our Site are most popular so we can enhance your visit. We may also group this information into aggregate visitor data in order to describe Site usage. This information represents a generic overview of our user base and our users' collective viewing, search and shopping habits and allows us, our vendors and our business partners to tailor content and discounts based on user traffic and otherwise support and enhance your experience.
-
-_Cookies and Web Beacons_
-
-Cookies are small files that your Internet browser stores on your hard disk or in your browser's memory. Cookies enable you to select, place and purchase products in our shopping cart. Cookies are also used to make it easier for you to navigate our Site (such as by storing an encrypted link to your account information, so you don't have to enter that information more than once) and enhance your shopping experience. We may also use cookies to track the number of times users have visited our Site, to determine and analyze their use of our Site, to store information that they provide (such as preferences), to store technical information useful for interactions with our Site, and to track the number of visitors to our Site. 
-
-Our Site uses two kinds of cookies: session ID and persistent cookies. A session ID cookie expires when you close your browser while a persistent cookie remains on your hard drive for an extended period of time but can be removed by following directions provided in your Internet browser's "help" file. Most Internet browsers are initially set to automatically accept cookies, but you can usually modify your browser settings to decline cookies or to notify you when a cookie is being placed on your computer. However, if you choose to decline cookies, you may not be able to access or use some portions and features of our Site and may not get the best shopping experience possible.
-
-You may occasionally get cookies from our business partners (e.g., advertisers, tracking utilities, and partner programs on our Site, such as the Google Trusted Stores program) or other third parties with links on our Site. While this is a standard practice, we have no control or access to these cookies and, thus, our Privacy Policy will not cover the use of these cookies by third parties.
-
-Our Site also may contain electronic images known as web beacons—sometimes called single-pixel gifs or action tags—that assist in delivering cookies and allow us to count the number of users who have visited pages on our Site. Web beacons may also be included in promotional emails in order to determine whether the emails have been opened and acted upon.
-
-We may use third-party advertising companies to help us tailor site and email content to our users, to send promotional e-mails for us or to serve ads for us. These companies may employ cookies, web beacons or similar technologies to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount), to understand shopping patterns, and to determine whether you have seen a particular ad before so as to avoid duplication.
-
-**When You Subscribe To Email and Mobile Content Programs**
-
-You can choose to receive emails from us or access our content through a mobile application. To help ensure that we are providing materials of interest to you, we may include software code in our emails to monitor whether you opened a particular email, whether you have clicked on the images and/or links in the email, the date and time the message was opened and whether your computer is capable of receiving HTML-based email, all of which is standard practice for most e-commerce sites.
-
-You may unsubscribe at any time from our email programs by clicking on the unsubscribe link at the bottom of any email message. We reserve the right to send you service announcements or similar administrative messages (for example, if we need to temporarily suspend our Site for maintenance), without offering you the opportunity to opt out of receiving them. In addition, because we must communicate with you about orders that you have placed, you cannot opt out of receiving emails relating to your orders.
-
-You may opt out at any time from other Shoes.com correspondence by sending an email to [privacy@Shoes.com](mailto:privacy@Shoes.com). You may also access and edit your personal information, including your email address and whether you have elected to receive promotional emails, in the "Your Account" page of our Site.
-
-**Disclosure and External Use of Your Personal Information**
-
-Except as described in this Privacy Policy, personal information you provide to us will not be shared with or used by third parties without your permission. 
-
-  1. _Service providers._ We contract with other companies to provide services on our behalf, such as shipping orders, fulfilling certain orders, processing payments, hosting our Site and product review pages, sending out information or promotional offers, providing customer service and analyzing data from our Site. We provide these companies with only those elements of your personal information that they need to deliver those services. These companies and their employees are prohibited from using that personal information for any other purpose.
-  2. _Aggregate Data._ We may share aggregated, non-personal data with service providers, advertisers or other existing or potential business partners to enable our users to receive targeted information (such as product recommendations) and/or discounts and to optimize third-party offers of products and/or services.
-  3. _Compliance with Law and Policies; Protection of Rights._ We may disclose your personal information and aggregated user information as necessary to respond to subpoenas, court orders and requests from law enforcement officials or government investigations; to comply with applicable law; to protect our legal rights; to enforce our Terms of Use or other policies or agreements; and to protect ourselves or others (for example, to reduce the risk of fraud or the use of our Site for illegal reasons).
-  4. _Partner Programs._ From time to time, we may partner with companies that, in conjunction with trusted store or similar programs, subscription services, rewards programs or other membership programs, require that we disclose purchasing or other personal information about their members who visit our Site (for example, to obtain purchase protection or to earn points or discounts for purchases made on our Site through links from the partner site). We will disclose your personal information to the partner companies when you consent to that disclosure, including consent implied by your agreement to the applicable membership or participation rules. And then we will disclose only the personal information required to make these programs work for you and support your membership in them.
-  5. _Contest Winners._ We may publicly disclose the name, city and state of winners of our contests and sweepstakes.
-  6. _Acquisitions or divestitures._ We may decide to sell, buy or merge our own or other businesses. Such a transaction may involve the disclosure of personal and other information to prospective or actual purchasers, or receiving it from sellers. It is our practice to seek appropriate protection for information in these types of transactions. In the event that we or all of our assets are acquired in such a transaction, customer information would be one of the transferred assets.
+Do Not Track is a voluntary program among Internet advertisers that is intended to give users the ability to opt out of behaviorial targeting and advertising. At this time, we do not respond to "do not track" settings from browsers.
 
 
 
-**Security**
 
-As you can see, the security of your personal information is extremely important to us. That’s why we maintain physical, electronic, and procedural safeguards, consistent with industry standards, such as firewalls and encryption technology, to protect your information. However, since no security system is impenetrable and "perfect security" does not exist on the Internet, we cannot guarantee the security of our databases or that information you supply will not be intercepted while being transmitted to us over the Internet. Of course, any information you post to any message board, discussion group, or other public posting area on our Site is available to anyone with Internet access.
+## How we use the information we collect
 
-If you create an account on our Site, you may be asked to choose a password for your account, in which case your online account information shall be protected by your password. We recommend that you do not disclose your password to any other person. You are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your password or account.
+In general. We may use information that we collect about you to:
 
-**Links To Other Sites**
+  * deliver the products and services that you have requested; 
+  * manage your account and provide you with customer support; 
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others; 
+  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, Walmart, or other third parties; 
+  * develop and display content and advertising tailored to your interests on our site and other sites; 
+  * verify your eligibility and deliver prizes in connection with contests and sweepstakes; 
+  * enforce our terms and conditions; 
+  * manage our business; and 
+  * perform functions as otherwise described to you at the time of collection.
 
-Our Site contains links to other third-party websites. Please be aware that we are not responsible for the privacy practices of any other website. If you submit any personal information to a third-party website or transact a purchase after clicking on a link from our Site, you are not submitting that information to Shoes.com and we have no control over the collection and/or disclosure of that submitted information. We encourage our users to be aware when they leave our Site and to familiarize themselves with the privacy statements of every website that collects personal information.
 
-**Children's Privacy**
 
-We do not seek or knowingly collect any personal information about children under 13 years of age. If we become aware that we have unknowingly collected personal information from a child under the age of 13, we will make commercially reasonable efforts to delete such information from our database. If you are under the age of 13, please do not submit any personal information through our Site, and rely on a parent or guardian to help you use our Site.
+Financial information. We may use financial information or payment method to process payment for any purchases made on our website, enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
 
-**Updates to this Privacy Policy**
+Job applicants. If your personal information is submitted through our website when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions. This information may be shared with our Walmart companies for the purpose of evaluating your qualifications for other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings.
 
-We reserve the right to update our Privacy Policy from time to time. When we do, we will revise the "Last Modified" date at the top of this Privacy Policy. We encourage you to check this page periodically for any updates (or if you need some good reading material in bed). Your continued use of our Site following the posting of updates to this Privacy Policy will mean you accept those updates.
+Please review "Your choices about collection and use of your information" below.
 
-**Governing Law; Visitors Residing Outside The United States**
+## With whom we share your information
 
-This Privacy Policy and the privacy practices of our Site and Gerler & Son, Inc. will be subject exclusively to the laws of the State of Washington within the United States of America, without regard to its conflict of law principles. Visitors who use our Site and reside outside the United States are responsible for compliance with local laws. If you reside outside of the United States, by using our Site, you consent to the collection, transfer, storage, processing and use of your personal information in the United States of America in accordance with this Privacy Policy.
+We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our web site or while using our services.
 
-**Contact Us**
+Personal information. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with: 
 
-Thanks for reading. Hope we made you feel a little more comfortable about shopping here at Shoes.com.
+  * Authorized service providers:
 
-But if you continue to have questions about how we treat your privacy (or are still trying to decipher "aggregated," "divestitures," and any of our other legalese), just let us know. You can email us at [privacy@Shoes.com](mailto:privacy@Shoes.com) or give us a call at 1.888.233.6743. We'll even keep your call private and confidential. Promise.
+We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
-**Address:**  
-Shoes.com  
-221 Yale Avenue N., Suite 350  
-Seattle, WA 98109 
+  * Business partners:
+
+When you make purchases, reservations or engage in promotions offered through our website, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.
+
+  * Other Walmart businesses.
+
+We are part of the Walmart corporate family of businesses, which include Wal-Mart Stores, Inc., Walmart.com, Jet.com, Hayneedle.com, Samsclub.com, VUDU and others. We may share information we collect, including personal information, with Walmart companies. Sharing information with Walmart companies enables us to provide you with information about a variety of products and services that might interest you.
+
+  * Other Situations.
+
+We also may disclose your information:
+
+    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
+
+    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. The personal information which you provide to us is an asset of Shoebuy.com, Inc. and may be included in the assets transferred in the event of a substantial corporate transaction.
+
+
+
+
+Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
+
+Aggregated and non-personal information. We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties and Walmart to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
+
+## Third-party websites
+
+There are a number of places on our website where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement or a search result on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the web page you are visiting.
+
+## How you can access your information
+
+If you have an online account with us, you have the ability to review and update your personal information online by [logging into your account](https://www.shoes.com/cust/login). You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
+
+Your choices about collection and use of your information
+
+  * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website.  
+
+  * At any time you can choose to no longer receive commercial or promotional emails from us by accessing [www.shoes.com/info/remove](https://web.archive.org/info/remove) and enter your email address. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them.  
+
+  * You may tell us not to share your personal information with non-affiliated third parties (i.e. entities outside of Walmart) for direct marketing purposes by accessing [www.shoes.com/info/remove](https://web.archive.org/info/remove) or by sending a written request to the email address or mailing address below:
+
+[privacy@shoes.com](mailto:privacy@shoes.com)  
+or  
+Privacy Officer  
+Shoebuy.com, Inc.  
+One Constitution Wharf, Suite 200  
+Charlestown, MA 02129-2025
+
+
+
+
+## How we protect your personal information
+
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information. 
+
+We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the [Federal Trade Commission](http://www.consumer.ftc.gov/) for information about how to protect yourself against identity theft.
+
+## Reviews and other posted information
+
+We may provide areas on our websites where you can post information including reviews of products. Such postings are governed by our [Terms of Use](https://web.archive.org/info/terms). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you will not be able to edit or delete such information.
+
+## Children's privacy
+
+Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13. 
+
+## Your California privacy rights
+
+Under California law, if you are a resident of California, you have the right to control how your personal information is shared with third parties for their direct marketing purposes. Following receipt of a request from you, we will provide you with a cost free means of informing us that you do not want your personal information to be shared with third parties for the direct marketing purposes of such third parties. For purposes of this notice, third parties do not include Walmart.
+
+We provide you with a cost free means of informing us that you do not want your personal information to be shared with third parties for the direct marketing purposes of such third parties. If you would like to exercise your right under California law to tell us that you do not wish your personal information to be shared with third parties for their direct marketing purposes, you should send your written request to the email address or the mailing address below. We will respond to your request within 30 days.
+
+  
+
+
+[privacy@shoes.com](mailto:privacy@shoes.com)  
+or  
+Privacy Officer  
+Shoebuy.com, Inc.  
+One Constitution Wharf, Suite 200  
+Charlestown, MA 02129-2025
+
+## Visiting our websites from outside the United States
+
+This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy. 
+
+## Changes to this Privacy Policy
+
+We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an email address), and/or by prominently posting notice of the changes on our website. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. The form of our Privacy Policy in effect from time to time will apply to all information that we have collected.
+
+## How to contact us
+
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows:
+
+Privacy Officer  
+Shoebuy.com, Inc.  
+One Constitution Wharf, Suite 200  
+Charlestown, MA 02129-2025  
+[privacy@shoes.com](mailto:privacy@shoes.com)
+
+© 2017 Walmart Stores, Inc. All rights reserved.
