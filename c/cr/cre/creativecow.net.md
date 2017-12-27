@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativecow.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630003330id_/https%3A//www.creativecow.net/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativecow.net privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234956id_/https%3A//www.creativecow.net/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Creative COW Privacy Policy
 
