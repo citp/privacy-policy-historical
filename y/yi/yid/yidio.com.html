@@ -1,41 +1,48 @@
-<!--The following is the downloaded HTML source of the yidio.com privacy policy that was archived on 2017-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624054844id_/https%3A//www.yidio.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yidio.com privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228003749id_/https%3A//www.yidio.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#">
+<meta charset="UTF-8">
 <title>Yidio Privacy Policy</title>
 <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="">
-<link href="http://ajax.googleapis.com" rel="preconnect">
+<link href="https://ajax.googleapis.com" rel="preconnect">
 <link rel="shortcut icon" href="//cfm.yidio.com/favicon.ico">
 <link rel="apple-touch-icon" href="//cfm.yidio.com/app/apple-touch-icon-175x175-precomposed.png">
-<link rel="apple-touch-icon-precomposed" href="//cfm.yidio.com/app/apple-touch-icon-57x57-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//cfm.yidio.com/app/apple-touch-icon-72x72-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//cfm.yidio.com/app/apple-touch-icon-114x114-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//cfm.yidio.com/app/apple-touch-icon-144x144-precomposed.png">
-<meta http-equiv="Content-Type" content="text/html; charset= utf-8">
 <meta name="Description" content="Yidio privacy page describes how Yidio uses information provided by the user.">
+<link href="https://www.yidio.com/privacy" rel="canonical">
 
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script id="twitter-wjs" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+
+
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-347064-8', 'auto');
+	ga('send', 'pageview');
+</script>
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script>
+
+<script type="text/javascript">
 	// No console in IE
 	if (typeof console == 'undefined') {
 		this.console = {log: function() {}};
 	}
-	
+
 	// Client-side Error Logging
 	window.onerror = function(message, file, line, col, error) {
 		var page = '';
 		if (typeof globals.page != 'undefined' && globals.page != '') page = ' (' + globals.page + ')';
 		var url = window.location.href;
-		
+
 		var label = '[URL]: ' + url;
 		if (file != '' && file != url) label += ' [File]: ' + file;
 		if (typeof error != 'undefined') label += ' [Trace]: ' + error.stack;
 		label += ' [User Agent]: ' + navigator.userAgent;
-		
-	  _gaq.push(['_trackEvent', 'Errors' + page, '(' + line + '): ' + message, label]);
+
+	  ga('send', 'event', 'Errors' + page, '(' + line + '): ' + message, label);
 	  console.log('[Error]: ' + message + ' ' + label);
 	}
 </script>
-	
+
 
 
 <script type="text/javascript">
@@ -46,17 +53,18 @@
 	}
 	window['optimizely'] = window['optimizely'] || [];
 </script>
-	
 
-	<link rel="stylesheet" type="text/css" href="//cfm.yidio.com/css/all.css">
+
+	<link rel="stylesheet" type="text/css" href="//cfm.yidio.com/css/all.css?version=1">
+
+
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js" type="text/javascript" charset="utf-8" crossorigin="anonymous"></script>
-<link rel="stylesheet" type="text/css" href="//cfm.yidio.com/css/new-header-footer.css">
+<link rel="stylesheet" type="text/css" href="//cfm.yidio.com/css/new-header-footer.css?version=1">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">
 
-	
-<script type="text/javascript"> 
-	var globals={}; 
+<script type="text/javascript">
+	var globals={};
 	globals.page = 'static_page';
 	var fbAppId = '54975784392';
 	var fbAppPerms = 'email,user_birthday,user_location,public_profile';
@@ -64,8 +72,8 @@
 				globals.custom_js_link = '';
 				globals.user_name = '';
 				globals.user_id = 0;
-	   	
-  		globals.premium_user = '';
+	  			globals.premium_user = '0';
+				globals.user_premium_channels  = [];
 				globals.header_all_utm_params = '';
 		globals.header_t_source = '';
 	globals.utm_source = '';
@@ -79,8 +87,8 @@
     globals.main_country_cookie = "US";
 	globals.site_device_type  = "0";
 
-	var MAIN_RANDOM_VARIABLE = "40";
-	var overlay_timer = 1000;	
+	var MAIN_RANDOM_VARIABLE = "80";
+	var overlay_timer = 1000;
 	var overlay_position = 200;
 	var slide_ad_on = 0;
 	var gen_var_opt = 0;
@@ -102,13 +110,17 @@
 <script type="text/javascript">
 globals.show_is_prime="0";
 </script>
-<script type="text/javascript" src="//cfm.yidio.com/js/jquery.main.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="//cfm.yidio.com/js/jquery.main.js?version=6" crossorigin="anonymous"></script>
 <script async="" src="https://cdn.boomtrain.com/analyticstrain/yidio/analyticstrain.min.js"></script>
-<script type="text/javascript" src="//cfm.yidio.com/js/new-header-js.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="//cfm.yidio.com/js/new-header-js.js?version=1" crossorigin="anonymous"></script>
 <!--[if lt IE 8]>
-	<script type="text/javascript" src="//cfm.yidio.com/js/ie-hover.js"></script>
-	<link rel="stylesheet" type="text/css" href="//cfm.yidio.com/css/lt7.css" />
+	<script type="text/javascript" src="//cfm.yidio.com/js/ie-hover.js?version=1"></script>
+	<link rel="stylesheet" type="text/css" href="//cfm.yidio.com/css/lt7.css?version=1" />
 <![endif]-->
+
+
+
+
 
 
 
@@ -116,14 +128,10 @@ globals.show_is_prime="0";
 <script type="text/javascript">
 	var googletag = googletag || {};
 	googletag.cmd = googletag.cmd || [];
-  
+
 	googletag.cmd.push(function() {
 		googletag.pubads().disableInitialLoad();
   });
-	
-	
-	
- 
 	(function() {
 		var gads = document.createElement("script");
 		gads.async = true;
@@ -135,33 +143,37 @@ globals.show_is_prime="0";
 	})();
 </script>
 
- 
- 
 
-	
 <script type="text/javascript">
 	
 
 
 </script>
+
+
+
+<link rel="stylesheet" type="text/css" href="//cfm.yidio.com/css/modal.css?version=5">
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '772716306073427'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=772716306073427&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
 
 </head>
 <body>
-
-
-
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-347064-8']);
-_gaq.push(['_trackPageview']);
-_gaq.push(['_trackPageLoadTime']);
-
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
 
  
             
@@ -434,109 +446,66 @@ As part of the California Online Privacy Protection Act, all users of our site m
 		</div>
 		<!--sidebar-->
 		<div id="sidebar">
-<div class="placeh-sb" id="new_netflix_small_ad"><script>if (typeof netflix_hulu_small_inline === 'function') {netflix_hulu_small_inline();}</script></div>
-     <div class="placeh-sb">
-	<!-- homepage_300x250_top -->
-    <div id="div-gpt-ad-1407445172800-9" style="width:300px; height:250px;">
-	<script type="text/javascript">
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1407445172800-9'); });
-    </script>
-    </div>
-  </div>
-        <div id="right-side-box">
-  	<script type="text/javascript">$j(document).ready(function(){show_right_box("rest");});</script>
-  </div>  
-      
-    
+            
       </div> </div>
 </div>
 </div>
 </div>
 
-<script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-  _fbq.push(['addPixelId', '772716306073427']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
 
-
-<script type="text/javascript">
-     (function() {
-        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-        po.src = 'https://apis.google.com/js/plusone.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-})();
-</script> 
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 window.google_trackConversion({
-  google_conversion_id: 1015188629, 
+  google_conversion_id: 1015188629,
   google_custom_params: {
-    google_conversion_language: 'en', 
-    google_conversion_format: '3', 
-	google_conversion_color: '666666', 
-	google_conversion_label: 'yKD6CKPqswIQlZmK5AM', 
-	google_conversion_value: 0, 
+    google_conversion_language: 'en',
+    google_conversion_format: '3',
+	google_conversion_color: '666666',
+	google_conversion_label: 'yKD6CKPqswIQlZmK5AM',
+	google_conversion_value: 0,
   },
   google_remarketing_only: true
 });
 //]]>
 </script>
-<script> 
-if(jQuery('#select_alpha').length > 0) 
-{ 
-	var google_tag_params = { 
-	dynx_itemid: '', 
-	dynx_pagetype: 'searchresult', 
-	dynx_totalvalue: '' 
-	}; 
-} 
-if(window.location.pathname == '/') 
-{ 
-	var google_tag_params = { 
-	dynx_itemid: '', 
-	dynx_pagetype: 'home', 
-	dynx_totalvalue: '' 
-	}; 
-} 
-if(globals.link_id != undefined) 
-{ 
-	var id = globals.link_id; 
-	var google_tag_params = { 
-	dynx_pagetype: 'offerdetail', 
-	dynx_itemid: id, 
-	dynx_totalvalue: '' 
-	}; 
-} 
-</script> 
+<script>
+if(jQuery('#select_alpha').length > 0)
+{
+	var google_tag_params = {
+	dynx_itemid: '',
+	dynx_pagetype: 'searchresult',
+	dynx_totalvalue: ''
+	};
+}
+if(window.location.pathname == '/')
+{
+	var google_tag_params = {
+	dynx_itemid: '',
+	dynx_pagetype: 'home',
+	dynx_totalvalue: ''
+	};
+}
+if(globals.link_id != undefined)
+{
+	var id = globals.link_id;
+	var google_tag_params = {
+	dynx_pagetype: 'offerdetail',
+	dynx_itemid: id,
+	dynx_totalvalue: ''
+	};
+}
+</script>
 <script type="text/javascript">
 /* <![CDATA[ */
 window.google_trackConversion({
-  google_conversion_id: 950560406, 
+  google_conversion_id: 950560406,
   google_custom_params: window.google_tag_params,
   google_remarketing_only: true
 });
 //]]>
 </script>
  
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.async=true;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-
-
-<link rel="stylesheet" type="text/css" href="//cfm.yidio.com/css/modal.css">
-
-
 
 <div id="fb-root"></div>
 
@@ -556,27 +525,26 @@ globals.getLoginStatus_firstime="0";
 globals.utm_source_Outbrain="";
 globals.utm_source_taboola="";
 </script>
-<script type="text/javascript" src="//cfm.yidio.com/js/common_header_code_fbconnect.js" async=""></script>
+<script type="text/javascript" src="//cfm.yidio.com/js/common_header_code_fbconnect.js?version=1" async=""></script>
 
 
 
-			
-	 </div></div>
-		
-		
-		
-	<footer>												<a class="get-app" href="https://www.yidio.com/app/">
-											
-					<div class="cta">Get the app now on iOS, Android and Kindle!</div>
-					<div class="button app">Get the App</div>
-					<img data-src="//cfm.yidio.com/redesign/img/iphone-angled.jpg" width="762" height="196" alt="" src="//cfm.yidio.com/redesign/img/iphone-angled.jpg" class="lazy-loaded">
-				</a>				<div class="links">
+			 </div></div>
+	
+	
+	
+	<footer>
+				<div class="links">
 					<nav class="main">
 			      <ul class="first-line">
-			        <li><a href="https://www.yidio.com/aboutus">About</a></li>
-			        <li><a href="https://www.yidio.com/help.php">Help</a></li>
+							<li><a href="https://www.yidio.com/">Home</a></li>
+							<li><a href="https://www.yidio.com/tv-shows">Top Shows</a></li>
+							<li><a href="https://www.yidio.com/movies">Top Movies</a></li>
+							<li><a href="https://www.yidio.com/watchlist">Watchlist</a></li>
+			        <li><a href="https://help.yidio.com/support/home" rel="nofollow noopener noreferrer">Help</a></li>
+							<li><a href="https://www.yidio.com/app/">Download App</a></li>
+							<li><a href="https://www.yidio.com/aboutus">About</a></li>
 			        <li><a href="https://www.yidio.com/jobs">Careers</a></li>
-			        <li><a href="http://blog.yidio.com" rel="nofollow">Blog</a></li>
 			      </ul>
 			      <ul class="second-line">
 			        <li><span>© 2017 Yidio LLC</span></li>
@@ -595,6 +563,36 @@ globals.utm_source_taboola="";
 				</div>
 			</footer>
 </div>
+
+
+	
+	<!-- begin Wootric code -->
+	<script type="text/javascript">
+
+					var wooPremiumUser = 'no';
+		
+
+	  window.wootricSettings = {
+				
+	      account_token: 'NPS-309df75d', // This is your unique account token.
+				properties:{
+					platform: 'web',
+					premium: wooPremiumUser,
+					country: globals.main_country_cookie,
+					device: 'desktop',
+					
+					registered_user: 'no'
+					
+				}
+	  };
+	</script>
+	<script type="text/javascript" src="https://disutgh7q0ncc.cloudfront.net/beacon.js"></script>
+	<script type="text/javascript">
+	  // This loads the Wootric survey
+	  window.wootric('run');
+	</script>
+	<!-- end Wootric code -->
+	
 
 
 
