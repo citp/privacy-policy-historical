@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addictivetips.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627201202id_/http%3A//www.addictivetips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictivetips.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235916id_/https%3A//www.addictivetips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AddictiveTips
 
@@ -18,4 +18,4 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information, please use the contact form [here](http://www.addictivetips.com/contact/).
+For any other information, please use the contact form [here](https://www.addictivetips.com/contact/).
