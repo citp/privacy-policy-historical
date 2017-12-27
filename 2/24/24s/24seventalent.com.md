@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 24seventalent.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072534id_/http%3A//www.24seventalent.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24seventalent.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227093942id_/https%3A//www.24seventalent.com/en-us/privacy-policy) for the most accurate reproduction.*
 
-# 24 SEVEN PRIVACY POLICY - 24Seven Talent
+# 24 SEVEN PRIVACY POLICY | 24Seven Talent
 
 This is the privacy policy (“Privacy Policy”) for the sites operated by 24 Seven LLC and its affiliated entities (“24 Seven,” “we,” “us,” “our”) in the United States (the “US Sites”) and the United Kingdom (the “UK Site” and together with the US Sites and various related services collectively referred to herein as the “Sites”).  The Sites include those located at [www.24seveninc.com](http://www.24seveninc.com/),  [www.24seventalent.com](http://www.24seventalent.com/) and [www.24seveninc.co.uk](http://www.24seveninc.co.uk/).   
 
@@ -62,7 +62,7 @@ Notwithstanding the above, your option not to receive promotional and marketing 
 
 **Special Offers, Newsletter**.
 
-Established members of the Talent Site may occasionally receive information on products, services, special deals, other promotional announcements, surveys and our newsletter.  Out of respect for the privacy of our users we present you with the option to not receive these types of communications in the future.  Please [click here](http://24seven.petroldev.com/en-us/about/optout/) to choose opting out of all or any such communications.
+Established members of the Talent Site may occasionally receive information on products, services, special deals, other promotional announcements, surveys and our newsletter.  Out of respect for the privacy of our users we present you with the option to not receive these types of communications in the future.
 
 **Service Announcements**.
 
