@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99designs.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043719id_/https%3A//99designs.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99designs.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000456id_/https%3A//99designs.com/legal/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -59,7 +59,7 @@ Our Service is not offered to persons under the age of 13. Thus, we do not inten
 
 ### c. Google Analytics.
 
-We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: <http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>. You can also opt-out of Google Analytics for Display Advertising by going to [the Google Ads Preferences Manager](https://web.archive.org/web/20170624043719id_/https%3A//99designs.com/legal/www.google.com/ads/preferences/).
+We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: <http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>. You can also opt-out of Google Analytics for Display Advertising by going to [the Google Ads Preferences Manager](https://web.archive.org/web/20171228000456id_/https%3A//99designs.com/legal/www.google.com/ads/preferences/).
 
 ### d. ThreatMetrix.
 
