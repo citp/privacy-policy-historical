@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicgfvideos.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045403id_/http%3A//www.publicgfvideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicgfvideos.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234930id_/http%3A//publicgfvideos.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
