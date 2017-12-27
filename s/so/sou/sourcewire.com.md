@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcewire.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630022900id_/http%3A//www.responsesource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcewire.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227083835id_/http%3A//www.responsesource.com/privacy) for the most accurate reproduction.*
 
 # ResponseSource Privacy Policy
 
