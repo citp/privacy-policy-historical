@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portableapps.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629033335id_/http%3A//portableapps.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portableapps.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227225958id_/https%3A//portableapps.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | PortableApps.com - Portable software for USB, portable and cloud drives
 
