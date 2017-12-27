@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchestereveningnews.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115729id_/http%3A//www.manchestereveningnews.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchestereveningnews.co.uk privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227205052id_/http%3A//www.manchestereveningnews.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Manchester Evening News: Number one for news, opinion, sport & celebrity gossip
 
@@ -36,7 +36,7 @@ We compile anonymous records of user trends which we may make use of ourselves, 
 
 We may collect information from you when you fill in an online registration form for any of the services available on our Website, (e.g., chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.
 
-We collect information about your use of the Website and services it offers through "cookies". For more information on "cookies" please see our [Cookie Policy](http://reg-cms1a.manchestereveningnews.co.uk:8080/cookie-policy/) which forms part of this Privacy Policy.
+We collect information about your use of the Website and services it offers through "cookies". For more information on "cookies" please see our [Cookie Policy](https://web.archive.org/cookie-policy/) which forms part of this Privacy Policy.
 
 In addition to personal information, we may also collect information about you automatically when you visit the Website by using cookies (small text files) trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties and our advertising partner may also use cookies to serve advertisements that it believes are most likely to be of use or interest to you. For more information about cookies, including how to turn this feature off, please visit our [Cookie Policy](https://web.archive.org/cookie-policy/).
 
