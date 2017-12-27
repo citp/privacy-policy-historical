@@ -1,30 +1,80 @@
-> *The following text is extracted and transformed from the forcedfuckers.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425022416id_/http%3A//cash.pornocruto.es/paysites/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forcedfuckers.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy policy
+# HugeDomains.com - Privacy Policy
 
-**Tritax Investments Limited** and associated companies and affiliated companies hereinafter to be collectively reffered to as Tritax Investments Limited through its websites hereinafter to be collectively called "the Site" is committed to providing a secure experience and safeguarding your personal information. This Privacy Statement was created to explain why we collect particular information and how we will protect your personal privacy within our Web site. We reserve the right to change this policy at any time, and will post any new privacy policy here. By using or navigating around the Site or utilizing any of the services we provide here, you acknowledge that you have read and understand and agree to be bound by this Privacy Statement. If you do not agree to be so bound, do not remain on the Site.
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-Contact Information. Some areas of our Site request or require you to provide your contact information (such as your name and email address). Your contact information may be used to communicate with you when necessary with respect to transactions conducted through the Site and material changes in the Site's policies. We may also send you information about **Tritax Investments Limited** and/or promotional materials from the Site and some of our partners. We will not sell, share or rent any contact information collected from you except as disclosed in this Privacy Statement. All contact information provided to the Site is maintained on our secure servers. 
+**What information do we collect?**
 
-Financial Information. We or the third party billing companies acting as our authorised resellers collect financial information (such as your credit card information) on an as-needed basis to bill you for products and services you purchase through the Site and to fulfill your orders. If we have trouble processing an order, the contact information discussed above will be used to get in touch with you. We will not sell, share or rent any financial information collected from you except as necessary to fulfill your order. All financial information provided to the Site is maintained on our secure servers and   
-similar rules are applied to our third party authorised resellers.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Demographic Information. We collect anonymous demographic information (such as your zip code, gender and age), and may use this data to tailor your experience at our Site, provide content that we think you might be interested in, and display the content according to your preferences. Such demographic information may be shared with partners, market researchers and other third parties on an aggregate, non-personally identifiable basis. No personally identifiable information will be linked to aggregated demographic information.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Internet Protocol Address. We collect an IP address from all visitors to our Site. We use your IP address for purposes of traffic analysis.
+**What do we use your information for?**
 
-Third Party Service Providers. We sometimes use third party vendors and service providers to manage certain aspects of the services we provide, such as maintaining our servers and processing or fulfilling orders for products and services you purchase through the Site. In those instances, your contact and financial information may either be collected by or shared by us with such third party service providers as necessary to fulfill your requests and, in some cases, your information may be retained by such third party service providers for their records. We generally require that such third party service providers agree to safeguard your information with at least the same level of protection as afforded by our Privacy Policy.
+Any of the information we collect from you may be used in one of the following ways: 
 
-Other. We may disclose your personal information in special cases if required to do so by law, court order or other government or law enforcement authority; or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact or bring legal action against someone who may be causing injury to or interfering with the rights or property of **Tritax Investments Limited** , another user or anyone else that could be harmed by such activities.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Cookies. The Site uses "cookie" technology to enhance your online experience by making it easier for you to navigate through our Site or to make a feature work better. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. We do not extract information about individual users or their computers during this process. It is not necessary to accept a cookie to navigate the Site, but you must accept a cookie in order to purchase access to the Site.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-Consumer Research. We may monitor your use of this service (such as your session time and clickstream data), and use or disclose any such information gathered as part of our evaluation and operation of the Site and the services we make available. We may develop and use, in our sole discretion, consumer research which may be based on your use of such services. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-All marketing information shall be subject, in all cases, to compliance with the applicable rules and regulations of the Federal Communications Commission, EU IT directive, Dutch IT law and other relevant laws and regulations, as the same may be amended from time to time. No personally identifiable information will be shared or is linked to consumer research.
+• To process transactions
 
-Security. We are committed to maintaining the security of your personally identifiable information and have measures in place to protect against the loss, misuse and alteration of the information under our control. All credit transactions occur in a secure area of the Site using Secure Sockets Layer ("SSL") software to process orders. SSL encrypts the information you input on the Site. In addition, all user information is stored in a secure location behind a firewall with limited administrative access.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-Public Forums. This Site makes available chat rooms, forums, message boards, and/or news groups to our users. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information.
+• To send periodic emails
 
-Third Party Links. The Site contains links to other World Wide Web Internet sites, resources and sponsors of **Tritax Investments Limited**. Selection of an ad banner or link will redirect you off of the Site to a third party Web site. **Tritax Investments Limited** is not responsible for the privacy practices of such sites. You should make sure that you read and understand the privacy policies of these sites and direct any concerns regarding any external link to the site administrator or Webmaster of that third party Web site.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
