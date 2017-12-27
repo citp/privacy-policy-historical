@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvssavingscentral.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630215927id_/http%3A//www.cvs.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvssavingscentral.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001113id_/http%3A//www.cvs.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CVS pharmacy
 
@@ -6,7 +6,7 @@ Effective Date: June 13, 2017
 
 This Privacy Policy describes how CVS Pharmacy, Inc. ("CVS," "we" or "us") may collect information about you through your interactions with us in our stores, or on our websites and mobile applications (collectively, the "Services"). By using the Services, you agree to the terms of this Privacy Policy. If you have any questions or concerns about this Privacy Policy, or about the way your information is collected and used, please call us toll-free at (888) 607-4287.
 
-**To the extent that information collected through the Services is patient information provided to obtain pharmacy services, this information is governed by the CVS/pharmacy[Notice of Privacy Practices](http://www.cvshealth.com/patient-privacy) and not this Privacy Policy.** If you have questions about which policy applies to information you have provided, please do not hesitate to [Contact Us](https://web.archive.org/help/help_contact_us.jsp), or call us toll-free at (888) 607-4287.
+**To the extent that information collected through the Services is patient information provided to obtain pharmacy services, this information is governed by the CVS/pharmacy[Notice of Privacy Practices](https://web.archive.org/content/patient-privacy) and not this Privacy Policy.** If you have questions about which policy applies to information you have provided, please do not hesitate to [Contact Us](https://web.archive.org/help/help_contact_us.jsp), or call us toll-free at (888) 607-4287.
 
 We may change this Privacy Policy. The "Effective Date" legend at the top of this page indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
 
