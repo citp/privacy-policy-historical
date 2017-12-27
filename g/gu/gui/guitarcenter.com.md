@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624080350id_/http%3A//www.guitarcenter.com/pages/privacy-rights-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228005641id_/http%3A//www.guitarcenter.com/pages/privacy-rights-policy) for the most accurate reproduction.*
 
 # Privacy Rights | Guitar Center
 
@@ -120,7 +120,7 @@ If you prefer not to allow us to use “cookies” to collect information, you c
 
 _Advertising Opt Out:_
 
-To learn more about the use of your information for advertising or to choose not to have your information used by our third-party advertising partners by opting out, please visit the Network Advertising Initiative by clicking [here](http://www.networkadvertising.org/). You also may be able to opt-out of receiving interest-based advertisements through the App or on your mobile device generally by managing the settings on your mobile device.
+To learn more about the use of your information for advertising or to choose not to have your information used by our third-party advertising partners by opting out, please visit the Network Advertising Initiative by clicking [here](https://www.networkadvertising.org/). You also may be able to opt-out of receiving interest-based advertisements through the App or on your mobile device generally by managing the settings on your mobile device.
 
 _Location:_
 
