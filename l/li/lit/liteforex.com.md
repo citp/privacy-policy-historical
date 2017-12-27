@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229063542id_/https%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003925id_/https%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The official language of the company is English. For a more complete description of the Company's activity, please visit the English version of the site. information translated into languages other than English is for information purposes only and has no legal force, the Company is not responsible for the accuracy of the information provided in other languages.
 
-Liteforex (ex. Mayzus) respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients. We kindly ask that you read the following information.
+LiteForex Investments Limited respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients. We kindly ask that you read the following information.
 
 1\. GENERAL PROVISIONS
 
-1.1 The present Privacy Policy is an integral part of the public documents package, pursuant to which the Liteforex (ex. Mayzus) officially represented by its Affiliated Partners (hereinafter referred to as the Company), provides various services (including services of financial and informational nature, etc.) to its Clients.
+1.1 The present Privacy Policy is an integral part of the public documents package, pursuant to which the LiteForex Investments Limited officially represented by its Affiliated Partners (hereinafter referred to as the Company), provides various services (including services of financial and informational nature, etc.) to its Clients.
 
 1.2. By choosing the Company's services, the Client fully agrees to all the terms and conditions of the public documents. The same applies to the interactions between the Client and the Company, during which trading and investment operations are performed, various informational materials are used, payments and transfers are arranged, etc. Should the Client disagree with any condition of the public documents package, she/he should cease all interaction with the Company. In case the Client deems the conditions of the present Privacy Policy unacceptable for any reason whatsoever, she/he shall cease all interaction with the Company, including terminating all financial operations carried out with Company mediation.
 
@@ -32,7 +32,9 @@ Liteforex (ex. Mayzus) respects each individual's right to privacy. We value our
 
 2.1.4. Information about subscriptions - information such as signals, alerts, news category and price subscriptions.
 
-2.2. The above is not inclusive. The Company reserves the right to require other information from the Client in the case that it is necessary for complying to the regulations of existing legislation.
+2.2. The Company does not collect nor store credit /debit card details of any customer in its database.
+
+2.3. The above is not inclusive. The Company reserves the right to require other information from the Client in the case that it is necessary for complying to the regulations of existing legislation.
 
 3\. ABOUT "COOKIES"
 
@@ -43,6 +45,8 @@ Liteforex (ex. Mayzus) respects each individual's right to privacy. We value our
 4.1. The Company uses Secure Socket Layer (SSL) encryption technology in order to protect certain information submitted by its Clients. This technology protects the Client from having his/her information intercepted by anyone other than the Company while it is being transmitted. The Company works hard to ensure that its Web servers (sites) are secure and that they meet industry standards. The Company also uses other safeguards such as firewalls, authentication systems (e.g., passwords and personal identification numbers) and access control mechanisms to control unauthorized access to systems and data.
 
 4.2. The Company reserves the right to choose technologies and methods of data protection at its own discretion, and to cooperate in this field with contractors which appear to be reliable to the Company.
+
+4.3. In accordance with the recommendations of Payment Card Industry Security Standards Council, customer card details are protected using Transport Layer encryption — TLS 1.2 and application layer with algorithm AES and key length 256 bit.
 
 5\. SHARING INFORMATION WITH THE COMPANY'S AFFILIATED PARTNERS
 
