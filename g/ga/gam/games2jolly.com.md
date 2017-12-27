@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games2jolly.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629042846id_/http%3A//www.games2jolly.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2jolly.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227221345id_/http%3A//www.games2jolly.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Escape Games - New Escape Games Every Day
 
