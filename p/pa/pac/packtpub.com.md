@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packtpub.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625065937id_/https%3A//www.packtpub.com/books/info/packt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packtpub.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003544id_/https%3A//www.packtpub.com/books/info/packt/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PACKT Books
 
@@ -25,7 +25,7 @@ This policy applies to all web sites and email services provided by Packt Publis
 
 Packt Publishing Ltd 2nd Floor Livery Place, 35 Livery Street Colmore Business District Birmingham B3 2PB United Kingdom T : +44 (0) 121 265 6484 F: +44 (0) 121 212 1419
 
-[ contact@packtpub.com](mailto:contact@packtpub.com)
+[ customercare@packtpub.com](mailto:contact@packtpub.com)
 
 **  
 Shop with confidence**  
