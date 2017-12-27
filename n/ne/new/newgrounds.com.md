@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200825id_/http%3A//www.newgrounds.com/wiki/help-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003843id_/https%3A//www.newgrounds.com/wiki/help-information/privacy-policy) for the most accurate reproduction.*
 
 # Newgrounds Wiki - Privacy Policy
 
@@ -37,6 +37,14 @@ Our site's registration form requires users to give us contact information (like
 Unique identifiers (such as email address) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. If your account is linked to illegal activity, threats of harm to others or to yourself, your registration info may be made available to law enforcement personnel.
 
 We do not collect home and / or cell phone numbers.
+
+**Collected Google/Facebook User Data**
+
+Users may opt to sign in using a Google or Facebook User account. 
+
+When creating or linking an account, Newgrounds will access your first and last name, your profile image, your email address, and the unique user id associated with your account, which are then used to pre-fill our registration form. 
+
+Once you submit the form, we will collect and store your email address and the user id associated with your account. We collect the email address to ensure you have a valid point of contact, and we collect the user id to associate your Newgrounds account with your Google or Facebook account. Each time you sign in via Google or Facebook, we access your user id in order to look up the appropriate Newgrounds account to sign you into.
 
 **Order Forms**
 
