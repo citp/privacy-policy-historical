@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fenomen-games.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509211758id_/http%3A//www.fenomen-games.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fenomen-games.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227031418id_/http%3A//fenomen-games.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Fenomen Games Official Website
 
