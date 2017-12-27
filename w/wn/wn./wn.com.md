@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wn.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627211831id_/https%3A//wn.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wn.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004759id_/https%3A//wn.com/privacypolicy) for the most accurate reproduction.*
 
 # Worldnews - Privacy Policy
 
@@ -39,3 +39,9 @@ The advertising banners and other forms of advertising appearing on this Web sit
 ### 4\. Business Transfers
 
 As we continue to develop our business, we might sell certain aspects of our entities or assets. In such transactions, user information, including personally identifiable information, generally is one of the transferred business assets, and by submitting your personal information on Wn.com you agree that your data may be transferred to such parties in these circumstances. 
+
+### 5\. Third Party Services
+
+World News (WN) Network makes use of data from some third party services.
+
+World News (WN) Network makes use of [YouTube API Services](https://developers.google.com/youtube/terms/developer-policies#definition-youtube-api-services). By making use of the World News (WN) Network you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms) and the [Google Privacy Policy](http://www.google.com/policies/privacy).
