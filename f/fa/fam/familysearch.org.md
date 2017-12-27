@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familysearch.org privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624070524id_/https%3A//familysearch.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familysearch.org privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227231757id_/https%3A//www.familysearch.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — FamilySearch.org
 
