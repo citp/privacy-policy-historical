@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friv-games.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623014004id_/http%3A//friv-games.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friv-games.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227061556id_/http%3A//friv-games.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - FRIV GAMES ONLINE
 
