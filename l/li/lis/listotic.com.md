@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listotic.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123030507id_/http%3A//www.listotic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listotic.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227040029id_/http%3A//www.listotic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Listotic
 
@@ -12,7 +12,7 @@ From time to time and under certain circumstances, we may use cookies to store p
 
 In certain pages throughout the site, we may use third party advertisements at Listotic.com to support our site; some of these advertisers may use technology which includes cookies and/or web beacons that may direct your query to an alternate website. If you click on a link on Listotic.com which directs you to an offsite website–such as a link through one of our affiliate partners or Google Adsense– information including your IP address, browser type and additional information pertaining to your browser may be stored. This information is generally used for quality improvements to the website to ensure web visitors have an enjoyable experience.
 
-If you browser permits, you may be able to selectively disable or turn off cookies from within your browser settings which prevents such information from automatically appearing in server logs and tracking files, although this may have an impact on your browsing experience including the inability to log in, make comments or fill out online forms.
+If your browser permits, you may be able to selectively disable or turn off cookies from within your browser settings which prevents such information from automatically appearing in server logs and tracking files, although this may have an impact on your browsing experience including the inability to log in, make comments or fill out online forms.
 
 Google is one of the most popular search engines in the world, and as such, may use technology to track it’s visitors throughout the Google network and through websites which use services provided by Google such as Listotic.com. The following paragraph pertains to Google and the information that it may collect.
 
