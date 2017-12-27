@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dyndns.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630004511id_/http%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyndns.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001008id_/http%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
 
-# Oracle's Privacy Policy For Dyn Services - Dyn
+# Oracle's Privacy Policy
 
 _Dyn has been[acquired](https://www.oracle.com/corporate/acquisitions/dyn/index.html) by Oracle and will soon transition to the Oracle Privacy Policy. Click here to view the Oracle Privacy Policy. Please note that the provisions of Oracle’s Privacy Policy for Dyn Services below will remain active until the policy transition is complete_
 
-Last Modified: April 1, 2017
+Last Modified: August 29, 2017
 
 **ORACLE’S PRIVACY POLICY FOR DYN SERVICES (“Privacy Policy”)**
 
@@ -92,7 +92,7 @@ This Privacy Policy applies to Sites and Services that make specific reference t
 
 **EU US PRIVACY SHIELD**
 
-Oracle complies with the EU-U.S. Privacy Shield framework and adheres to the Privacy Shield Principles with respect to personal data that is received from the European Union and Switzerland. The Department of Commerce lists the participants in the Privacy Shield at [https://www.privacyshield.gov/list](https://www.privacyshield.gov/list).
+Oracle complies with the EU-U.S. Privacy Shield framework and adheres to the Privacy Shield Principles with respect to personal data that is received from the European Union. The Department of Commerce lists the participants in the Privacy Shield at [https://www.privacyshield.gov/list](https://www.privacyshield.gov/list).
 
 Oracle is accountable for personal data received under the Privacy Shield and that is subsequently transferred to a third party as described in the Privacy Shield Principles. Oracle remains responsible and liable under the Privacy Shield Principles if Oracle’s third-party agents process the personal data on Oracle’s behalf in a manner inconsistent with the Principles, unless Oracle proves that it is not responsible for the event giving rise to the damage.
 
