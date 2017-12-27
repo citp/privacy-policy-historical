@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox40.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629193852id_/http%3A//privacy.tribunemedia.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox40.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227120129id_/http%3A//privacy.tribunemedia.com) for the most accurate reproduction.*
 
 # Tribune Media | Privacy Policy
 
