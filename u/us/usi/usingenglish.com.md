@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615194858id_/https%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234730id_/https%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - UsingEnglish.com
+
+  * [About Us ](https://web.archive.org/about/)
+  * [Advertising ](https://web.archive.org/about/advertising/)
+  * [Copyright ](https://web.archive.org/about/copyright/)
+  * [Terms & Conditions ](https://web.archive.org/about/terms/)
+  * [Privacy & Cookies ](https://web.archive.org/about/privacy/)
+  * [Disclaimer ](https://web.archive.org/about/disclaimer/)
+
+
 
 **Effective from: 26th May 2012**
 
@@ -21,7 +30,7 @@ Contact information may be used to maintain a mailing list which is used by the 
 
 ## Use of Cookies
 
-**Cookies and similar technology**
+ **Cookies and similar technology**
 
 The Site uses cookies, web beacons and similar technical tools to collect information about your access to the Site and the services we provide. **Please be aware that restricting cookies will have an impact on the functionality of the Site and may prevent you using our services.**
 
@@ -62,44 +71,44 @@ Note:
 
 #### Essential Cookies:
 
-Cookie name | Purpose | Type and duration (i.e. session only or persistent)  
+Cookie name| Purpose| Type and duration (i.e. session only or persistent)  
 ---|---|---  
-PHPSESSID | This is a temporary session cookie that is set whenever you visit the site and is used to record a session/visit to the website. The contents of these cookies is usually a singly unique ID number. If you do not intend to ever log in, you may deny this cookie, but you cannot log in without it.  | At end of session.  
-AdvancedPoll[] | This cookie used to track votes in our online language polls. It contains a number representing the response ID of the vote cast.  | Persistent: 4 days.  
-bb_userid | This vBulletin cookie stores your user ID. It is checked every time a page loads. | Persistent: 1 year  
-bb_lastvisit | This vBulletin cookie updates the last visit and last activity times for guests and registered users (differently). Last visit is set to the last activity time (before it's updated). Last activity is always set to the specified time.  | Persistent: 1 year  
-bb_lastactivity | This vBulletin cookie checks what you did when you last used the Site. This is a constantly updated cookie.  | Persistent: 1 year  
-bb_password | This vBulletin cookie stores an encrypted version of your password, when you are logged into the Site. It's checked every time the page loads.  | Persistent: 1 year  
-bb_sessionhash | This vBulletin cookie is needed for maintaining session state and security. It's checked on every page load.  | At end of session.  
-bb_thread_lastview[] | This vBulletin cookie last visit time of specific thread. |    
-IDStack | Cookie used to store a list of login names used from the same computer. | Persistent: 4 months  
-skimlinks_enabled | Cookie used by Skimlinks software to determine if functionality is enabled. | At end of session.  
-vbseo_loggedin | This vBulletin plugin cookie tracks whether a user is currently logged in or not. | Persistent: 60 minutes  
+PHPSESSID| This is a temporary session cookie that is set whenever you visit the site and is used to record a session/visit to the website. The contents of these cookies is usually a singly unique ID number. If you do not intend to ever log in, you may deny this cookie, but you cannot log in without it. | At end of session.  
+AdvancedPoll[]| This cookie used to track votes in our online language polls. It contains a number representing the response ID of the vote cast. | Persistent: 4 days.  
+bb_userid| This vBulletin cookie stores your user ID. It is checked every time a page loads.| Persistent: 1 year  
+bb_lastvisit| This vBulletin cookie updates the last visit and last activity times for guests and registered users (differently). Last visit is set to the last activity time (before it's updated). Last activity is always set to the specified time. | Persistent: 1 year  
+bb_lastactivity| This vBulletin cookie checks what you did when you last used the Site. This is a constantly updated cookie. | Persistent: 1 year  
+bb_password| This vBulletin cookie stores an encrypted version of your password, when you are logged into the Site. It's checked every time the page loads. | Persistent: 1 year  
+bb_sessionhash| This vBulletin cookie is needed for maintaining session state and security. It's checked on every page load. | At end of session.  
+bb_thread_lastview[]| This vBulletin cookie last visit time of specific thread.|    
+IDStack| Cookie used to store a list of login names used from the same computer.| Persistent: 4 months  
+skimlinks_enabled| Cookie used by Skimlinks software to determine if functionality is enabled.| At end of session.  
+vbseo_loggedin| This vBulletin plugin cookie tracks whether a user is currently logged in or not.| Persistent: 60 minutes  
   
 #### Performance Cookies:
 
-Cookie name | Purpose | Type and duration (i.e. session only or persistent) | More Info  
+Cookie name| Purpose| Type and duration (i.e. session only or persistent)| More Info  
 ---|---|---|---  
-_gads | This cookie is used by Google for a variety of purposes (eg, ensuring Frequency Caps work correctly) which include Adsense if you have Adsense enabled.  | Persistent: 2 years | [Click Here](http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=2551880)  
-_utma | This Google Analytics cookie is used to determine the number of unique visitors to our website and it is updated with each page viewed.  | Persistent: 2 years | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
-_utmb | This Google Analytics cookie is used to establish and continue a user session with this site | Session: expires after 30 minutes of inactivity. | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
-_utmc | This Google Analytics cookie is a tracking code to determine session status. | At end of session. | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
-_utmv | This Google Analytics cookie allows custom variables to be associated with a |   | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
-_utmz | This Google Analytics cookie stores the type of referral used by the visitor to reach your site. | Persistent: 6 months | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
-_utmx | This Google Analytics Website Optimiser cookie stores the variation this visitor is assigned to for each experiment, so the visitor has a consistent experience on this site.  | Persistent: 2 years | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
-_utmxx | This Google Analytics Website Optimiser cookie stores the variation this visitor is assigned to for each experiment, so the visitor has a consistent experience on this site.  | Persistent: 2 years | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
+_gads| This cookie is used by Google for a variety of purposes (eg, ensuring Frequency Caps work correctly) which include Adsense if you have Adsense enabled. | Persistent: 2 years| [Click Here](http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=2551880)  
+_utma| This Google Analytics cookie is used to determine the number of unique visitors to our website and it is updated with each page viewed. | Persistent: 2 years| [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
+_utmb| This Google Analytics cookie is used to establish and continue a user session with this site| Session: expires after 30 minutes of inactivity.| [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
+_utmc| This Google Analytics cookie is a tracking code to determine session status.| At end of session.| [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
+_utmv| This Google Analytics cookie allows custom variables to be associated with a|  | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
+_utmz| This Google Analytics cookie stores the type of referral used by the visitor to reach your site.| Persistent: 6 months| [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
+_utmx| This Google Analytics Website Optimiser cookie stores the variation this visitor is assigned to for each experiment, so the visitor has a consistent experience on this site. | Persistent: 2 years| [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
+_utmxx| This Google Analytics Website Optimiser cookie stores the variation this visitor is assigned to for each experiment, so the visitor has a consistent experience on this site. | Persistent: 2 years| [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
   
 ### b) Third party cookies
 
 Cookies are also set by third parties on the Site. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website. 
 
-Name | Purpose/typical content | Type and duration | How to reject or delete this cookie  
+Name| Purpose/typical content| Type and duration| How to reject or delete this cookie  
 ---|---|---|---  
-Addthis | Addthis set cookies to deliver advertisements that are relevant to your interests or behaviour online such as visiting a particular advertisers website and products.  | Persistent up to 3 years. | [www.addthis.com/privacy/opt-out](http://www.addthis.com/privacy/opt-out)  
-Doubleclick (Google) | This cookie is used to serve advertising, deliver and report on ads served on the website. The cookie also tracks what advertisments the user has seen and how often.  | Persistent 2 years. | [www.google.co.uk/privacy/ads/](http://www.google.co.uk/privacy/ads/)  
-Facebook | The facebook cookies are used to let Facebook know you are logged in to Facebook, to help you use social plugins and share buttons.  | Persistent up to 2 years. | [www.facebook.com/help/?page=176591669064814](http://www.facebook.com/help/?page=176591669064814)  
-Google Analytics | These cookies collect statistics on visitors to the site, where vistors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site.  | Persistent 2 years. | [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)  
-Twitter.com |  Twitter use cookies to better understand how you interact with their Services. |  At end of session. | [twitter.com/privacy](http://twitter.com/privacy)  
+Addthis| Addthis set cookies to deliver advertisements that are relevant to your interests or behaviour online such as visiting a particular advertisers website and products. | Persistent up to 3 years.| [www.addthis.com/privacy/opt-out](http://www.addthis.com/privacy/opt-out)  
+Doubleclick (Google)| This cookie is used to serve advertising, deliver and report on ads served on the website. The cookie also tracks what advertisments the user has seen and how often. | Persistent 2 years.| [www.google.co.uk/privacy/ads/](http://www.google.co.uk/privacy/ads/)  
+Facebook| The facebook cookies are used to let Facebook know you are logged in to Facebook, to help you use social plugins and share buttons. | Persistent up to 2 years.| [www.facebook.com/help/?page=176591669064814](http://www.facebook.com/help/?page=176591669064814)  
+Google Analytics| These cookies collect statistics on visitors to the site, where vistors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site. | Persistent 2 years.| [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)  
+Twitter.com|  Twitter use cookies to better understand how you interact with their Services.|  At end of session.| [twitter.com/privacy](http://twitter.com/privacy)  
   
 This Site uses third-party advertising companies (such as Google AdSense) to serve ads when you visit our website. These companies may set their own cookies and/or may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This information includes the user's browser, operating system, IP address, ISP etc. If you would like more information about such practices click [here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html") . Please also note that: 
 
@@ -111,57 +120,57 @@ This Site uses third-party advertising companies (such as Google AdSense) to ser
 
 The following is a list of sources of third party AdSense ads. This list as of time of viewing, may not be up to date as Google may add others in the future, To see the latest list provided by Google, please visit [Google Adsense Third Party Vendors](https://www.google.com/adsense/support/bin/answer.py?answer=94149 "Google Adsense Third Party Vendors").
 
-Goodle Adsense Third Party Vendor | Address  
+Goodle Adsense Third Party Vendor| Address  
 ---|---  
-Adacado / Healthpricer Interactive | [www.adacado.com](http://www.adacado.com/ "www.adacado.com")  
-Adform | [www.adform.com](http://www.adform.com/ "www.adform.com")  
-ADITION | [www.adition.com](http://www.adition.com/ "www.adition.com")  
-AdMotion | [www.admotion.com](http://www.admotion.com/ "www.admotion.com")  
-AdOcean | [www.adoceanglobal.com](http://www.adoceanglobal.com/ "www.adoceanglobal.com")  
-Adrime | [www.adrime.com](http://www.adrime.com/ "www.adrime.com")  
-ADTECH | [www.adtech.com](http://www.adtech.com/ "www.adtech.com")  
-Atlas | [www.atlassolutions.com](http://www.atlassolutions.com/ "www.atlassolutions.com")  
-ATK Media | [www.atk.com/MediaCenter/mediacenter_default.asp](http://www.atk.com/MediaCenter/mediacenter_default.asp)  
-DC Storm | [www.dc-storm.com](http://www.dc-storm.com/ "www.dc-storm.com")  
-Bluestreak | [www.bluestreak.com](http://www.bluestreak.com/ "www.bluestreak.com")  
-Broadband Enterprises/Vindico | [www.bbe.com](http://www.bbe.com/ "www.bbe.com")  
-Cossette | [www.cossette.com](http://www.cossette.com/ "www.cossette.com")  
-Digital Control | [www.digital-control.biz/](http://www.digital-control.biz/)  
-DoubleClick | [www.doubleclick.com](http://www.doubleclick.com/ "www.doubleclick.com")  
-ebookers SA | [www.ebookers.com](http://www.ebookers.com/ "www.ebookers.com")  
-e-planning | [www.e-planning.net](http://www.e-planning.net/ "www.e-planning.net")  
-eBay | [www.ebay.com](http://www.ebay.com/ "www.ebay.com")  
-Emediate | [www.emediate.biz](http://www.emediate.biz/ "www.emediate.biz")  
-Eulerian Technologies | [www.eulerian.net](http://www.eulerian.net/ "www.eulerian.net")  
-Experteer | [www.experteer.de](http://www.experteer.de/ "www.experteer.de")  
-Facilitate Digital | [www.facilitatedigital.com](http://www.facilitatedigital.com/ "www.facilitatedigital.com")  
-Flashtalking | [www.flashtalking.com](http://www.flashtalking.com/ "www.flashtalking.com")  
-gemiusDirectEffect | [www.gemius.pl](http://www.gemius.pl/ "www.gemius.pl")  
-HQ Professional Service | [www.adnet.de](http://www.adnet.de/ "www.adnet.de")  
-iCrossing | [www.icrossing.com](http://www.icrossing.com/ "www.icrossing.com")  
-MediaMind | [www.mediamind.com](http://www.mediamind.com/ "www.mediamind.com")  
-Mediaplex | [www.mediaplex.com](http://www.mediaplex.com/ "www.mediaplex.com")  
-MetaPeople | [www.metapeople.com](http://www.metapeople.com/ "www.metapeople.com")  
-Newtention | [www.newtention.com](http://www.newtention.com/ "www.newtention.com")  
-Optimum Response | [www.optimumresponse.net](http://www.optimumresponse.net/ "www.optimumresponse.net")  
-Quisma Tracker | [www.quisma.com](http://www.quisma.com/ "www.quisma.com")  
-QuisMatch | [www.quisma.com](http://www.quisma.com/ "www.quisma.com")  
-SMART AdServer | [www.smartadserver.com](http://www.smartadserver.com/ "www.smartadserver.com")  
-Tassimo | [media.tassimodirect.com](http://media.tassimodirect.com/ "media.tassimodirect.com")  
-TradeDoubler | [www.tradedoubler.com](http://www.tradedoubler.com/ "www.tradedoubler.com")  
-TruEffect | [www.trueffect.com](http://www.trueffect.com/ "www.trueffect.com")  
-Wall Street on Demand/Adhesion | [ad.wsod.com](http://ad.wsod.com/ "ad.wsod.com")  
-Weborama/AdPerf | [www.weborama.com](http://www.weborama.com/ "www.weborama.com")  
+Adacado / Healthpricer Interactive| [www.adacado.com](http://www.adacado.com/ "www.adacado.com")  
+Adform| [www.adform.com](http://www.adform.com/ "www.adform.com")  
+ADITION| [www.adition.com](http://www.adition.com/ "www.adition.com")  
+AdMotion| [www.admotion.com](http://www.admotion.com/ "www.admotion.com")  
+AdOcean| [www.adoceanglobal.com](http://www.adoceanglobal.com/ "www.adoceanglobal.com")  
+Adrime| [www.adrime.com](http://www.adrime.com/ "www.adrime.com")  
+ADTECH| [www.adtech.com](http://www.adtech.com/ "www.adtech.com")  
+Atlas| [www.atlassolutions.com](http://www.atlassolutions.com/ "www.atlassolutions.com")  
+ATK Media| [www.atk.com/MediaCenter/mediacenter_default.asp](http://www.atk.com/MediaCenter/mediacenter_default.asp)  
+DC Storm| [www.dc-storm.com](http://www.dc-storm.com/ "www.dc-storm.com")  
+Bluestreak| [www.bluestreak.com](http://www.bluestreak.com/ "www.bluestreak.com")  
+Broadband Enterprises/Vindico| [www.bbe.com](http://www.bbe.com/ "www.bbe.com")  
+Cossette| [www.cossette.com](http://www.cossette.com/ "www.cossette.com")  
+Digital Control| [www.digital-control.biz/](http://www.digital-control.biz/)  
+DoubleClick| [www.doubleclick.com](http://www.doubleclick.com/ "www.doubleclick.com")  
+ebookers SA| [www.ebookers.com](http://www.ebookers.com/ "www.ebookers.com")  
+e-planning| [www.e-planning.net](http://www.e-planning.net/ "www.e-planning.net")  
+eBay| [www.ebay.com](http://www.ebay.com/ "www.ebay.com")  
+Emediate| [www.emediate.biz](http://www.emediate.biz/ "www.emediate.biz")  
+Eulerian Technologies| [www.eulerian.net](http://www.eulerian.net/ "www.eulerian.net")  
+Experteer| [www.experteer.de](http://www.experteer.de/ "www.experteer.de")  
+Facilitate Digital| [www.facilitatedigital.com](http://www.facilitatedigital.com/ "www.facilitatedigital.com")  
+Flashtalking| [www.flashtalking.com](http://www.flashtalking.com/ "www.flashtalking.com")  
+gemiusDirectEffect| [www.gemius.pl](http://www.gemius.pl/ "www.gemius.pl")  
+HQ Professional Service| [www.adnet.de](http://www.adnet.de/ "www.adnet.de")  
+iCrossing| [www.icrossing.com](http://www.icrossing.com/ "www.icrossing.com")  
+MediaMind| [www.mediamind.com](http://www.mediamind.com/ "www.mediamind.com")  
+Mediaplex| [www.mediaplex.com](http://www.mediaplex.com/ "www.mediaplex.com")  
+MetaPeople| [www.metapeople.com](http://www.metapeople.com/ "www.metapeople.com")  
+Newtention| [www.newtention.com](http://www.newtention.com/ "www.newtention.com")  
+Optimum Response| [www.optimumresponse.net](http://www.optimumresponse.net/ "www.optimumresponse.net")  
+Quisma Tracker| [www.quisma.com](http://www.quisma.com/ "www.quisma.com")  
+QuisMatch| [www.quisma.com](http://www.quisma.com/ "www.quisma.com")  
+SMART AdServer| [www.smartadserver.com](http://www.smartadserver.com/ "www.smartadserver.com")  
+Tassimo| [media.tassimodirect.com](http://media.tassimodirect.com/ "media.tassimodirect.com")  
+TradeDoubler| [www.tradedoubler.com](http://www.tradedoubler.com/ "www.tradedoubler.com")  
+TruEffect| [www.trueffect.com](http://www.trueffect.com/ "www.trueffect.com")  
+Wall Street on Demand/Adhesion| [ad.wsod.com](http://ad.wsod.com/ "ad.wsod.com")  
+Weborama/AdPerf| [www.weborama.com](http://www.weborama.com/ "www.weborama.com")  
   
 In addition to Adsense, this Site sells advertising slots to other third-party advertising networks and providers and these will change on a frequent basis. Below is a list of some of the more frequent advertisors used on this Site: 
 
-Third Party Advertising Vendor | Address  
+Third Party Advertising Vendor| Address  
 ---|---  
-Commission Junction | [www.cj.com](http://www.cj.com/)  
-HotChalk, Inc. | [www.hotchalk.com/education-network/](http://www.hotchalk.com/education-network/)  
-i-to-i TEFL | [www.i-to-i.com](http://www.i-to-i.com/)  
-AdMotion | [www.onlinetefl.com](http://www.onlinetefl.com/)  
-Whitesmoke | [www.whitesmoke.com](http://www.whitesmoke.com/)  
+Commission Junction| [www.cj.com](http://www.cj.com/)  
+HotChalk, Inc.| [www.hotchalk.com/education-network/](http://www.hotchalk.com/education-network/)  
+i-to-i TEFL| [www.i-to-i.com](http://www.i-to-i.com/)  
+AdMotion| [www.onlinetefl.com](http://www.onlinetefl.com/)  
+Whitesmoke| [www.whitesmoke.com](http://www.whitesmoke.com/)  
   
 In addition to cookies we use the following similar technologies in respect of your use of the Site:
 
@@ -170,7 +179,7 @@ In addition to cookies we use the following similar technologies in respect of y
 
 
 
-**Use of Your Information**
+ **Use of Your Information**
 
 By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which includes (without limitation):
 
@@ -184,7 +193,7 @@ By using this Site, you agree that we may collect, hold, process and use your in
 
 
 
-**Sharing Your Personal Information**
+ **Sharing Your Personal Information**
 
 We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer. 
 
@@ -194,7 +203,7 @@ We may transfer, sell or assign any of the information described in this policy 
 
 We will not sell or distribute your personal information to third parties unless we have your permission or are required by law to do so.
 
-**Keeping Your Personal Information Secure**
+ **Keeping Your Personal Information Secure**
 
 We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England. 
 
@@ -217,6 +226,6 @@ We may charge a small administration fee (not exceeding the maximum permitted by
 
 If you wish to unsubscribe from newsletters from usingenglish.com, please click on the unsubscribe link in your email or amend your email preferences [here](https://www.usingenglish.com/members/settings.php "here"). Other parts of the site may send you emails including notifications and reminders which you can control by modifying your user options from within your profile control panel [here](https://www.usingenglish.com/forum/profile.php?do=editoptions).
 
-**Changes to this Privacy Policy**
+ **Changes to this Privacy Policy**
 
 If we change this privacy policy, we will post the revised privacy policy here with an updated effective date. If we make significant changes to the privacy policy, we may also notify you by other means such as sending an email or posting a notice on our home page.
