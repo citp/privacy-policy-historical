@@ -1,112 +1,599 @@
-<!--The following is the downloaded HTML source of the blogsell.com privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120061852id_/http%3A//www.blogsell.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blogsell.com privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228000609id_/http%3A//www.namejet.com/Pages/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy - BlogSell</title>
-<link href="style.css" rel="stylesheet" type="text/css">
-<script src="/js-global/FancyZoom.js" type="text/javascript"></script>
-<script src="/js-global/FancyZoomHTML.js" type="text/javascript"></script>
-<meta name="Description" content="BlogSell is a turnkey, affordable blogging and blog management software. Completely web based and easy to use.">
-<meta name="Keywords" content="blog software, blogging software, start a blog">
-</head>
-<body onload="setupZoom()"><div id="ZoomSpin" style="position: absolute; left: 10px; top: 10px; visibility: hidden; z-index: 525;"><img id="SpinImage" src="/images-global/zoom/zoom-spin-1.png"></div><div id="ZoomBox" style="position: absolute; left: 10px; top: 10px; visibility: hidden; z-index: 499;"><img src="/images-global/zoom/spacer.gif" id="ZoomImage" border="0" style="box-shadow: rgba(0, 0, 0, 0) 0px 5px 25px; display: block; width: 10px; height: 10px; cursor: pointer;"><div id="ZoomClose" style="position: absolute; left: -15px; top: -15px; visibility: hidden;"><img src="/images-global/zoom/closebox.png" width="30" height="30" border="0" style="cursor: pointer;"></div></div><div id="ZoomCapDiv" style="position: absolute; visibility: hidden; margin-left: auto; margin-right: auto; z-index: 501;"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><img src="/images-global/zoom/zoom-caption-l.png" width="13" height="26" style="display: block;"></td><td background="/images-global/zoom/zoom-caption-fill.png" id="ZoomCaption" valign="middle" style="font-size: 14px; font-family: Helvetica; font-weight: bold; color: rgb(255, 255, 255); text-shadow: rgb(0, 0, 0) 0px 2px 4px; white-space: nowrap;"></td><td><img src="/images-global/zoom/zoom-caption-r.png" width="13" height="26" style="display: block;"></td></tr></tbody></table></div>
-<!-- Start Top Navigation -->
-<div class="navigation">
-<div class="container">
-<div class="left">
-  <ul>
-    <li><a href="http://www.blogsell.com">Home</a></li>
-  </ul>
-</div>
-<div class="right"></div>
-</div>
-</div>
-<!-- End Top Navigation -->
-<!-- Start Featured Section -->
-<div class="featured">
-<div class="container">
-<table cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td><div class="logo2"><img src="images/logo-small.png" alt="blogsell"></div>
-      </td>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
+<!DOCTYPE html><html class=" js flexbox rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent"><head id="ctl00_Head1">
 
+    <!-- Google Tag Manager -->
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5THBLS"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5THBLS');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><title>
+	Privacy Policy - NameJet Domain Name Services
+</title>
+
+    <script type="text/javascript">
+        function RemoveThisItem(domainName) {
+            var chk = $(".chk");
+            chk.each(function () {
+                if ($(this).attr("title").toString().toLowerCase() == domainName.toLowerCase()) {
+                    $(this).children().attr('checked', true);
+                    var hDiv = $(this).parent();
+
+                    $(this).parent().parent().parent().parent().parent().remove();
+                    $("#ctl00_ContentPlaceHolder1_BrowseDomainListPage_RemovedDomains").val($("#ctl00_ContentPlaceHolder1_BrowseDomainListPage_RemovedDomains").val() + "," + domainName);
+
+                    var pd = false;
+                    var pa = false;
+                    var pr = false;
+                    var wl = false;
+                    var d = $(".hDiv");
+                    d.each(function () {
+                        if ($(this).attr("title") == "Pending Deletion")
+                            pd = true;
+                        if ($(this).attr("title") == "Public Auctions")
+                            pa = true;
+
+                        if ($(this).attr("title") == "Pre Release")
+                            pr = true;
+
+                        if ($(this).attr("title") == "Wish List")
+                            wl = true;
+                    });
+
+                    if (!wl)
+                        $("#wlAuctions").html("<div class='sNoResults'>No wish list auctions found!</div>");
+                    if (!pd)
+                        $("#pdAuctions").html("<div class='sNoResults'>No pending delete domains found!</div>");
+                    if (!pa)
+                        $("#pAuctions").html("<div class='sNoResults'>No public auctions found!</div>");
+                    if (!pr)
+                        $("#prAuctions").html("<div class='sNoResults'>No pre release auctions found!</div>");
+                }
+            });
+        }
+
+        function RemoveHiddenDomains() {
+            var rDomains = $("#ctl00_ContentPlaceHolder1_BrowseDomainListPage_RemovedDomains").val();
+
+            if (rDomains != "" && rDomains != null) {
+                var arr = rDomains.split(",");
+                for (var g = 0; g < arr.length; g++) {
+
+
+                    RemoveThisItem(arr[g]);
+                }
+            }
+        }
+    </script>    
+
+	    
+	<meta name="keywords" content="NameJet Privacy Policy, NameJet Policy">
+
+	<meta name="description" content="NameJet Privacy Policy - NameJet provides domain auction services and backorder domain registration.">
+<link rel="shortcut icon" href="/_images/global/favicon.ico"><link rel="stylesheet" media="all" href="/_css/global.css?20150803">
+                
+    <script src="/_js/vendor/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="/_js/global.js"></script>
+	<script src="/_js/vendor/bootstrap.min.js"></script>
+	<script type="text/javascript">
+	    $(function () {	        
+	        if ($('#njtopimg').css('display') == 'none') {
+	            $('#njtopimg').parent().html("<img src='../../ba/__top-default.png' />");
+	        };
+
+			$('.carousel').carousel();
+		})
+	</script>
+        
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '390719754625481', { });
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" 
+    src="https://www.facebook.com/tr?id=390719754625481&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
+
+    <link rel="stylesheet" media="all" href="/_css/responsive.css"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"></head>
+    <body id="ctl00_MasterBody">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5THBLS"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <!--[if lt IE 7 ]><div class="ie6"><![endif]-->
+<!--[if IE 7 ]><div class="ie7"><![endif]-->
+<!--[if IE 8 ]><div class="ie8"><![endif]-->
+<!--[if IE 9 ]><div class="ie9"><![endif]-->
+
+        <!-- SJL0VWNAMEJET01 -->
+        
+        
+	    <form name="aspnetForm" method="post" action="./Privacy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAyNzk3NTcyOA9kFgJmD2QWAgIDD2QWAgIBD2QWBgICDw8WAh4LTmF2aWdhdGVVcmwFFmh0dHA6Ly93d3cubmFtZWpldC5jb21kZAIID2QWAmYPZBYGAgEPZBYCAgEPDxYCHgRUZXh0ZWRkAgMPZBYCAgEPDxYCHwFlZGQCCQ9kFgICAQ8PFgIfAWVkZAISDw8WAh4HVmlzaWJsZWhkFgQCAQ88KwARAgEQFgAWABYADBQrAABkAgMPPCsAEQIBEBYAFgAWAAwUKwAAZBgCBRZjdGwwMCRHcmlkVmlld0RlYnVnUHJjD2dkBRtjdGwwMCRHcmlkVmlld0RlYnVnQXBpTGlua3MPZ2T9WqPaHL7+vJ1hW9te58ozJlZ02A==">
 </div>
-</div>
-<!-- End Featured Section -->
-<!-- Start Main Content -->
-<div class="content">
-<div class="container">
-<table width="100%" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td valign="top"><h1>Privacy Policy</h1>
-          <p>Last Updated: January 12, 2008</p>
-          <p>BlogSell.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."</p>
-          <p><strong>How we gather information from users</strong></p>
-          <p>How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. Fo</p>
-          <p>r example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. </p>
-          <p>Like most Web sites, BlogSell.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. </p>
-          <p>Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. </p>
-          <p>In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.</p>
-          <strong>What we do with the information we collect</strong>
-          <p>Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.</p>
-          <p>Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. </p>
-          <p>Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.</p>
-          <p>We may use Personally Identifiable Information collected on BlogSell.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by BlogSell.com and other topics we think you might find of interest.</p>
-          <p>Personally Identifiable Information collected by BlogSell.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. </p>
-          <p>Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses.</p>
-          <p> In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.</p>
-          <strong>Affiliated sites, linked sites and advertisements</strong>
-          <p>BlogSell.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. </p>
-          <p>For example, during your visit to our site you may link to, or view as part of a frame on a BlogSell.com page, certain content that is actually created or hosted by a third party. </p>
-          <p align="left">Also, through BlogSell.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. BlogSell.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.</p>
-          <p>While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information.</p>
-          <p> BlogSell.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.</p>
-          <p>You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of BlogSell.com and this policy.</p>
-          <strong>Children</strong>
-          <p>BlogSell.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe BlogSell.com has any information from or about anyone under 13, please contact us at the address listed below.</p>
-          <strong>Contacting Us</strong>
-          <p>You can easily contact us via our support desk at: <a href="http://support.incomattic.com" target="_blank">http://support.incomattic.com</a></p>
-          <p>Our physical address and contact details are as below: </p>
-          <blockquote>
-            <p>
-              Incomattic Sdn Bhd, <br>
-              No 3B, Second Floor, Jalan 14/20, <br>
-              Petaling Jaya 46200, Selangor, <br>
-              Malaysia.
-            </p>
-          </blockquote>
-          <p><strong>Changes to this Policy</strong> </p>
-          <p>BlogSell.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.<br>
-            Governing law</p>
-          <p>This policy and the use of this Site are governed by Kuala Lumpur, Malaysia law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Kuala Lumpur, Malaysia. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.</p>
-          <p>If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Kuala Lumpur, Malaysia, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.</p>
-          <p>BlogSell.com is controlled, operated and administered entirely by <strong>Incomattic Sdn Bhd</strong> within Petaling Jaya, Malaysia. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.</p>
-        <p></p></td>
-      </tr>
-    </tbody></table>
-</div>
-</div>
-<!-- End Main Content -->
-<!-- Start Footer -->
-<div class="footer">
-<div class="container">
-<p>Copyright 2010 BlogSell.com </p>
-</div>
-</div>
-<!-- End Footer -->
- <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-6815895-39");
-pageTracker._setDomainName(".blogsell.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
+
+<script src="/WebResource.axd?d=hYUe6bQljX4qTr6WqidE3678iWty2-wEfJG1o-hTt5zhd3nM1i2arRE7l8unBdcv7SQgX_s2BaiaGvXRSUc3SL64iXA1&amp;t=636354655360000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=QHpwminn2u_NZ1qiy_f378GroH6NWx8_xmv8TbQdgzDXuOJ8JTYjV2mqw9-rcr_xU0FZMcC1pHWml3a9SDQyhjqW6C6MOU0FykLF1hGD9c1_b66N41r-CiPqoIBgZa08EJumDXJdvUqTN8m2xTsu_4TCFJE1&amp;t=3d6efc1f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=D_zRKFqv5XyFWxQvMt2f2MDxYh2K1f9hJwRFjMdiaQ84IebS3d6DJ2G28OFbvXvWGXul0FStj4iSLTXWd_ecmDYhYQ1rFmpO0k1n0zm5SA2P3uSS8C5n001mxRb_Uj84BDSyukpAe_TTaacJ3uCcuDFeWZf4hKIaRu12qWUR59a4qony0&amp;t=3d6efc1f" type="text/javascript"></script>
+<script src="/Script/ajax_error_override.js" type="text/javascript"></script>
+<script src="/Script/SafariAjaxFix.js" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7558CF4A">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAW0ADveDhvI/4bpv3JhcRuIcGFkvIpl/077I1BA1REzyyXtNVOi2r2f18ZSxPhMFRBjCLvIvNIw+1OlnOJtWXXrZu5x1d6Uv0to/9msEL+c43/uWblGKTr6wRlqXqnx80yTjkZu">
+</div>	        
+
+
+	        
+	            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$cphScriptManager$ScriptManager', 'aspnetForm', ['tctl00$udpBulkSubmit',''], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+            
+
+	        <!--[if lt IE 8]>
+		        <div class="sIEfix">
+                    <div class="sub">
+			            <div>
+                            <strong>You are using an outdated browser.</strong>
+                            <span>For a better experience using this site, please upgrade to a modern web browser.</span>
+                        </div>
+                        <ul>
+                            <li class="icon chrome"><a href='http://www.google.com/chrome' target='_blank'>Chrome</a></li>
+                            <li class="icon firefox"><a href='http://www.firefox.com' target='_blank'>Firefox</a></li>
+                            <li class="icon safari"><a href='http://www.apple.com/safari/download/' target='_blank'>Safari</a></li>
+                            <li class="icon ie-latest"><a href='http://windows.microsoft.com/en-us/internet-explorer/products/ie/home' target='_blank'>IE9+</a></li>
+                        </ul>
+			        </div>
+		        </div>
+            <![endif]-->
+
+		    <div class="sWrp">
+            <div class="sWrp2">
+		       
+                <div class="sSliver">
+                    <em class="sNote">The Premier Domain Name Aftermarket Service</em>
+	            </div>
+          
+			    <a name="top"></a>
+                <!-- <div id="ctl00_pnlS2N" class="sS2N">
+	<a href="#nav">Skip to Nav</a>
+</div> -->
+                
+                <div id="divMobileApp">   
+                    <!-- <a href="https://itunes.apple.com/us/app/namejet/id875473995" target="_blank">
+                       <img src="/Images/iphone-banner-v3.png" alt="iPhone NameJet Mobile App" />                    
+                    </a> -->
+                    <a href="http://www.namejet.com/featuredauctions/liveauction" target="_blank">
+                       <img id="njtopimg" src="../../ba/namesconlive-full-011.png" alt="NamesCon">                        
+                    </a>
+                </div>
+
+			    <div class="sHdr">
+				    <div class="logo">
+				        <a id="ctl00_lnkHome" href="http://www.namejet.com">
+                            <span>NameJet</span>
+                        </a>
+                    </div>
+			    </div>
+
+			    <a name="nav"></a>
+
+                <div id="ctl00_mainNav" class="sNv1">
+	
+                    <div>
+					    <ul>                                                  
+                            <li class="sNv1-0"><a href="/featuredauctions/liveauction">NamesCon</a></li>                                  				    
+						    <li class="sNv1-1"><a href="/Pages/Auctions/BrowseDomains.aspx">Search</a></li>                            
+                            <li class="sNv1-3"><a href="/Pages/Auctions/featuredauctions.aspx">Featured</a></li>
+                            <li class="sNv1-2"><a href="/Pages/Downloads.aspx">Downloads</a></li>
+                            <li class="sNv1-4"><a href="/Pages/support.aspx">Help Center</a></li>
+						    <li class="sNv1-5"><a href="/Pages/MyAccount/Dashboard.aspx"><span class="sHDm">My</span> Account</a></li>
+					    </ul>
+                    </div>
+                
+</div>
+
+                <div id="ctl00_pnlAccountStatus" class="aSt sAtten1">
+	<span id="ctl00_AccountStatusLabel"></span>
+</div>			
+
+                <div id="ctl00_pnlSearchBox" class="sNv2s" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ImageButtonSearch')">
+	
+			        <div class="search">
+                        <div>
+    			            <input name="ctl00$TextBoxSearch" type="text" value="Search Domains" id="ctl00_TextBoxSearch" class="text" placeholder="Search Domains" onfocus="javascript:if (this.defaultValue==this.value) this.value = '';this.style.color = 'black';" defaultbutton="ImageButtonSearch">
+				            <input type="submit" name="ctl00$ImageButtonSearch" value="Search" id="ctl00_ImageButtonSearch" class="button sRCLx">
+                        </div>
+                    </div>			        
+                
+</div>
+
+                <div id="ctl00_pnlLogin" class="sNv2">
+	
+                    <ul>
+                        
+                        <li id="createAcct"><a id="ctl00_plCreate" href="/Pages/Login.aspx">Create an Account</a></li>
+					    <li id="login"><a id="ctl00_plLogin" href="/Pages/Login.aspx">Log In</a></li>
+					</ul>
+                    <!-- // REVIEW THIS <span id="help"><a id="ctl00_lnkHelp" href="javascript:__doPostBack(&#39;ctl00$lnkHelp&#39;,&#39;&#39;)">Help</a></span> -->			
+				
+</div>
+				
+
+                <div class="sCnt">
+			        <div id="ctl00_udpBulkSubmit">
+	
+
+			                
+        			    
+			                
+
+			                
+        			    
+			                
+        			    			    
+			                
+        			    
+			                <div id="AjaxError" class="sError" style="display:none">
+	                            <div id="Notice6">
+                                    <a onclick="javascript:document.getElementById('Notice6').style.visibility='hidden';" class="sFR">close</a>
+	                                <span id="ctl00_ajaxLabel"></span>
+                                </div>
+	                        </div>	
+
+			            
+</div>
+
+				    
+
+    <h1 class="sMTx sMBsm">NameJet Privacy Policy</h1>
+	
+
+
+	<p>
+		NameJet
+		knows that you care about how personal information about you is used and shared
+		and we appreciate your trust that we will do so carefully and sensibly. This notice
+		describes our Privacy Policy. By visiting
+		NameJet
+		, you are accepting the practices described in this Privacy Policy. For questions
+		regarding this Privacy Policy please contact
+		NameJet
+		using our <a href="/Pages/Contact.aspx">contact form</a>.</p>
+	<h3>
+		What Personal Information About Users Does
+		NameJet
+		Gather?</h3>
+	<dl>
+		<dt>Information You Give Us:</dt>
+		<dd>
+			We collect and store personal information you enter on our Web site or give us in
+			any other way. We use the information that you provide us for such purposes as enhancing
+			the experience of users in our network, responding to your requests, providing our
+			services (e.g., domain Backorder requests, auctions, and purchases), and communicating
+			with you about offers that may be of interest to you.</dd>
+		<dt>Automatic Information:</dt>
+		<dd>
+			Our Web site has features that collect information from users to assist us in creating
+			Web sites that honor our users' preferences and serve their interests and needs.</dd>
+	</dl>
+	<p>
+		Our Web site places cookies, which are small data files on the user's hard drive
+		when you visit our Web site. A cookie cannot read data off your hard drive. You
+		may refuse cookies by turning them off in your browser; however, if you reject the
+		placement of cookies, you may be limited in using some areas of our Web site. Some
+		cookies are used to improve your user experience by making login to our Web site
+		easier, such as by remembering usernames and passwords. Cookies can also enable
+		us to monitor users' movements through our Web site so that we may target user interests
+		to enhance their experience at our Web site. We may also collect click stream data
+		such as the full Uniform Resource Locators (URL) and assign unique identifiers to
+		our users for the purpose of tracking user behaviors. Information obtained with
+		these technologies may be associated with the personal information you have provided
+		us. Besides using the information as described above,
+		NameJet
+		may utilize cookies to control operations such as the flow of the ordering processes
+		related to your online transactions.</p>
+	<p>
+		We, or our third-party advertising partners, may also place cookies to provide advertisements
+		about goods or services that may be of interest to you. Since our advertisers and
+		other third parties whose products or services are promoted on our Web site may
+		also use cookies or other technology, we advise you to check the advertisers' privacy
+		policies for information about their privacy practices.</p>
+	<p>
+		We may also gather general information such as the date, time, browser type, operating
+		system, platform, navigation history, and IP address of all users to our site(s).
+		We use this information for our internal security audit log, trend analysis, and
+		system administration, and to gather broad demographic information about our users.
+		We may also associate this general information with your personal information. By
+		visiting our site, you affirmatively consent to our collection, use, and distribution
+		of your general and personal information and other related data to our partners
+		and advertisers. If you do not want us to share information about you with our partners
+		or advertisers, you may opt-out of receiving information by doing the following:</p>
+	<ol class="sOL">
+		<li>Login to "My Account".</li>
+		<li>Click on "Edit my Account Settings".</li>
+		<li>Select the "My Preferences" tab.</li>
+		<li>Choose your email settings under "Email Preferences"</li>
+		<li>Select the option not to receive advertisements.</li>
+	</ol>
+	<h3>
+		Does
+		NameJet
+		Share the Information It Receives?</h3>
+	<p>
+		Yes, we do share information with at least the entities listed below:</p>
+	<dl>
+		<dt>WHOIS:</dt>
+		<dd>
+			We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"),
+			the organization that assumes responsibility for domain name allocation, to collect
+			information about you during the domain name registration process. This information
+			includes your full name, mailing address, phone number, email address, and, where
+			provided, your facsimile number. ICANN then requires all registrars to make your
+			full name, mailing address, phone number, email address, and, where provided, your
+			facsimile number, as well as the creation and expiration dates of your domain name
+			registration and the name server information associated with your domain name, to
+			the public via an interactive Web page and a "port 43" WHOIS service. For the purposes
+			of this Privacy Policy we will refer to this information as your "WHOIS Information."
+			Please note that we may not be able to control how members of the public may use
+			the WHOIS Information.</dd>
+		<dt>Advertisers:</dt>
+		<dd>
+			We will share aggregated demographic information with our partners and advertisers.</dd>
+		<dt>Partners:</dt>
+		<dd>
+			We partner with other third party providers of specific services. When the user
+			signs up for these services, we will share names, e-mail addresses, or other contact
+			information that is necessary for the third party to provide these services.</dd>
+		<dt>Agents:</dt>
+		<dd>
+			We engage other companies and individuals to perform functions on our behalf. Examples
+			include processing credit card payments, providing marketing assistance, providing
+			customer services, sending postal mail and email to you, removing repetitive information
+			from customer lists, and analyzing data. These persons have access to user information
+			needed to perform their functions for the benefit of the user. These companies may,
+			or may not, retain, share, store or use personally identifiable information that
+			you provide to
+			NameJet
+			for any secondary purposes.</dd>
+		<dt>Service Providers:</dt>
+		<dd>
+			We engage other companies and individuals to perform enhanced services on our behalf.
+			For example, we my engage another service provider to provide free electronic mail
+			services to our domain name registrants. Many of our service providers have access
+			to personal information needed to perform these kinds of services.</dd>
+		<dt>Business Transfer:</dt>
+		<dd>
+			As we continue to develop our business, we might sell or buy businesses or their
+			assets. In such transactions, customer information generally is one of the transferred
+			business assets. Also, if
+			NameJet
+			, or substantially all of its assets, were ever to be acquired, customer information
+			will of course be one of the transferred assets.</dd>
+		<dt>Compliance:</dt>
+		<dd>
+			We release account and other personal information when we believe release is required
+			to comply with federal or state law; enforce or apply our Terms of Use and other
+			agreements; or protect the rights, property, or safety of
+			NameJet
+			, our users, or others. This includes at least exchanging information with other
+			companies, organizations and members of law enforcement to protect against fraud
+			or other criminal activity.</dd>
+	</dl>
+	<h3>
+		How Secure Is Information About Me?</h3>
+	<p>
+		The information we receive from or about you is stored on systems designed to prevent
+		the loss, disclosure, or destruction of that information. We protect the security
+		of your information during transmission by using Secure Sockets Layer (SSL) software,
+		which encrypts information you input and the information we may send to our agents.
+		NameJet
+		has gone to great lengths to ensure your information is securely obtained. For example,
+		we encrypt your credit card number before it is stored in our database. It is important
+		for you to protect against unauthorized access to your password and to your computer.
+		Be sure to sign off when finished using a shared computer.</p>
+	<h3>
+		What Information Can I Access?</h3>
+	<p>
+		NameJet
+		gives you access to certain information about you for the limited purpose of viewing
+		and, in certain cases, updating that information. To view or change this information,
+		log-in to your account. When you update information, we usually keep a copy of the
+		prior version for our records.</p>
+	<h3>
+		Links</h3>
+	<p>
+		Sites provided by
+		NameJet
+		contain links to other Web sites. Please be aware that we are not responsible for
+		the privacy practices of such other Web sites. We encourage our users to be aware
+		when they leave our Web site and to read the privacy statements of each and every
+		Web site that collects personally identifiable information. This privacy statement
+		applies solely to information collected by this Web site.</p>
+	<h3>
+		Children</h3>
+	<p>
+		NameJet
+		does not sell services for purchase by children under the age of 18. If you are
+		under 18, you may use our services only with involvement of a parent or guardian.</p>
+	<h3>
+		Conditions of Use, Notices, and Revisions</h3>
+	<p>
+		If you choose to visit
+		NameJet
+		's Web site, your visit and any dispute over privacy is subject to this Privacy
+		Policy and our Terms of Use, including limitations on damages, arbitration of disputes,
+		and application of the law of the Commonwealth of Virginia. If you have any concern
+		about privacy at
+		NameJet
+		, please send us your concern using our <a href="/Pages/Contact.aspx">contact form</a>,
+		and we will address it. Our business changes constantly. This Privacy Policy and
+		the Terms of Use will change also, and use of information that we gather now is
+		subject to the Privacy Policy in effect at the time of use. We may e-mail periodic
+		reminders of our policy and conditions but you should check this Privacy Policy
+		posted on our Web site frequently to see recent changes.</p>
+	<p>
+		If you feel that
+		NameJet
+		, or any of its agents, representatives, or employees are violating this Privacy
+		Policy, please contact us via e-mail using the <a href="/Pages/Contact.aspx">contact
+			form</a> or by telephone at 1-425-974-4687.</p>
+
+
+
+
+			    </div>
+                
+                <div id="ctl00_pnlB2T2" class="sB2T sHDd">
+	<a href="#" onclick="window.scrollTo(0,0); return false">Back To Top</a>
+</div>
+                
+                <div class="sFtr sCF">
+
+                    <div id="ctl00_pnlFooterNav" class="sNv3 sFR">
+	
+				        <ul>
+					        <li><a id="ctl00_lnkHome2" href="../Default.aspx">Home</a></li>
+                            <li><a id="ctl00_lnkPress" href="press-releases/default.aspx">Press Releases</a></li>
+					        <li><a id="ctl00_lnkAbout" href="About.aspx">About Us</a></li>
+					        <li><a id="ctl00_lnkContact" href="Contact.aspx">Contact Us</a></li>
+					        <li class="sHDm"><a id="ctl00_lnkSupport2" href="Support.aspx">Help</a></li>
+					        
+                            <li><a id="ctl00_lnkSiteMap" href="SiteMap.aspx">Site Map</a></li>
+                       </ul>
+                    
+</div>
+
+                    <div class="sNote sFL">
+                        © 2017 NameJet, All rights reserved.
+                        <span id="ctl00_lblLegalNav"><a id="ctl00_lnkTerms" href="Terms.aspx">Terms</a> |
+					        <a id="ctl00_lnkPrivacy" href="Privacy.aspx">Privacy</a></span>
+                    </div>
+
+
+			    </div>
+
+                <div class="sFtr2 sCF sMBsm">
+
+                    <div class="sFR contact">
+                        <span class="sub1"><strong>Questions? Call Us At</strong></span>
+                        <span class="sub2">1.425.974.4687</span>
+                        <span class="sub3 sHDm">Visit our <a href="/Pages/Support.aspx">Help Center</a> for simple and quick support.</span>
+                    </div>
+
+                    <div class="sFL badges sCF">
+                        <span class="sFL" style="margin-right:15px;margin-top:-20px;display:inline-block">
+                            <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.namejet.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+                        </span>
+                        <span class="sFL" style="margin-right:15px;display:inline-block">
+                            <script type="text/javascript">                                var bbbprotocol = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-alaskaoregonwesternwashington.bbb.org' + unescape('%2Flogo%2Fnamejet-22427364.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-alaskaoregonwesternwashington.bbb.org/logo/namejet-22427364.js" type="text/javascript"></script>
+                            <a target="_blank" id="bbblink" class="ruhzbus" href="http://www.bbb.org/western-washington/business-reviews/internet-web-hosting/namejet-in-bellevue-wa-22427364#bbblogo" title="NameJet LLC, Internet - Aftermarket Domains, Kirkland, WA"><img style="border:none;" id="bbblinkimg" src="//seal-alaskaoregonwesternwashington.bbb.org/logo/ruhzbus/namejet-22427364.png" width="200" height="45" alt="NameJet LLC, Internet - Aftermareket Domains, Kirkland, WA"></a>
+                        </span>
+                        <span class="sFL" style="display:inline-block">
+                            <a target="_blank" href="http://www.domaining.com" class="sHDm"><img src="/_images/global/badge-domaining.gif" alt=" "></a> 
+                        </span>
+                    </div>
+
+                 </div>
+
+                <div id="ctl00_pnlSocialNav" class="sNv5">
+	                    
+                    <ul>
+                        <li class="sNv5-0">User Guide: </li>                                 
+					    <li class="sNv5-1"><a href="/Pages/UserGuide.aspx">English User Guide</a></li>
+                        <li class="sNv5-2"><a href="/Pages/UserGuide.aspx?l=cn">Chinese User Guide</a></li>
+                        <li class="sNv5-3"><a href="/Pages/Support.aspx">Visit our help center</a></li>
+                    </ul>
+                
+</div>
+
+		        <input type="hidden" name="ctl00$HiddenFieldFristNav" id="ctl00_HiddenFieldFristNav">
+		    </div>
+
+            <div class="sAC sMTsm sSm sMsBtn">
+                <a id="ctl00_HyperLink1" href="../Default.aspx?DisableMobile=1">Disable Mobile Scaling</a>
+                
+            </div>
+
+            </div>
+
+	        
+	        
+	        
+	    </form>
+        <!--[if (lte IE 8)]> 
+            <script type="text/javascript">
+                function BindControlEventsIE() {
+                    //jQuery is wrapped in BindEvents function so it can be re-bound after each callback.
+                    $('TABLE.sTbl TBODY TR:odd').addClass('alt-row'); //Alternating Rows Fix         
+                }
+
+                //Initial bind
+                $(document).ready(function () {
+                    BindControlEventsIE();
+                });
+
+                //Re-bind for callbacks
+                var prm = Sys.WebForms.PageRequestManager.getInstance();
+                prm.add_endRequest(function() { 
+                    BindControlEventsIE();
+                });
+		    </script>
+        <![endif]--> 
+        
+        <script type="text/javascript">
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-2685714-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+
+        <!--[if lt IE 7 ]></div><![endif]-->
+        <!--[if IE 7 ]></div><![endif]-->
+        <!--[if IE 8 ]></div><![endif]-->
+        <!--[if IE 9 ]></div><![endif]-->
+
+    
 </body></html>
