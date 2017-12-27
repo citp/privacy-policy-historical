@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the yesmail.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310022222id_/http%3A//www.yesmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmail.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227201037id_/http%3A//www.yeslifecyclemarketing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Yesmail
+# Privacy Policy | Yes Lifecycle Marketing
 
-## Yesmail Privacy Statements and Policies
+## Yes Lifecycle Marketing Privacy Statements and Policies
 
-Yes Lifecycle Marketing including Yesmail is a division of Infogroup.
+Yes Lifecycle Marketing is a division of Infogroup.
 
 **1\. Introduction to Infogroup’s Services**  
-Infogroup and its various affiliates and subsidiaries provide to clients a wide variety of data management, distribution, analytic and marketing services, which help our clients and the platforms and partners they work with to provide more relevant marketing and communications, and to understand their consumers better.  These clients may reach their customers and others, for instance, through direct mail, email, display, mobile and multi-media channels.  Many of these services are described in greater detail on our website, <http://www.yesmail.com/>.  
+Infogroup and its various affiliates and subsidiaries provide to clients a wide variety of data management, distribution, analytic and marketing services, which help our clients and the platforms and partners they work with to provide more relevant marketing and communications, and to understand their consumers better.  These clients may reach their customers and others, for instance, through direct mail, email, display, mobile and multi-media channels.  Many of these services are described in greater detail on our website,[ ](http://www.yeslifecyclemarketing.com/)[www.yeslifecyclemarketing.com](http://www.yeslifecyclemarketing.com/)[. ](http://www.yeslifecyclemarketing.com/) 
 
 Most of the information that we handle is not collected on this website, but rather through relationships we have with other companies such as data suppliers, business partners (such as ad networks and other online partners), data services providers, agencies and our clients.  We nonetheless provide this Privacy Policy as a service to consumers and others who want to learn more about the data we handle and how we use it.  If you are interested particularly in the information we collect on this website, please go to the Section titled “[ ** _Data Collected On Our Website_**](https://web.archive.org/privacy-policy#Data%20Collected%20On%20Our%20Website)."
 
@@ -16,7 +16,7 @@ Infogroup is a member of the Direct Marketing Association (“DMA”), and we ad
 **2\. The Types of Data That We Obtain and Use**  
 Infogroup receives data from, and handles data on behalf of, a variety of consumer-facing companies, applications and services, business-facing companies, and data compilers and suppliers.  We also may obtain data through public sources, such as census data and other public records.  Some of the data we receive, use and make available is Personal Information (“PI”) or is linked to PI. PI includes, for instance, name, postal address, telephone number or email address.  In addition, some of our services involve using and making available “business to business” data, which is obtained from a number of sources, including public directories, filings and publications, surveys and subscriptions.
 
-We also collect certain information when you visit our website, <http://www.yesmail.com/>, as described in the below section titled “[ ** _Data Collected On Our Website_**](https://web.archive.org/privacy-policy#Data%20Collected%20On%20Our%20Website).” 
+We also collect certain information when you visit our website,[ ](http://www.yeslifecyclemarketing.com/)[w](http://www.yeslifecyclemarketing.com/)[ww.yeslifecyclemarketing.com](https://web.archive.org/home), as described in the below section titled “[ ** _Data Collected On Our Website_**](https://web.archive.org/privacy-policy#Data%20Collected%20On%20Our%20Website).” 
 
 **3\. Our Services, and How We Use Personal Information**  
 We use and make available Personal Information for various purposes.  For instance,
@@ -58,7 +58,7 @@ Infogroup may share data, including Personal Information and Data Segments, as f
   * **Agents and Service Providers:** We may share data, including PI and Data Segments, with agents, business partners and service providers who work on our behalf, or to help us provide services requested by our customers, including to perform any of the services described in this Privacy Policy.  We may do so, for instance, to help send or target advertising on behalf of our clients (or ourselves), for analytical purposes, to measure campaigns, or inform future campaigns. We may do so to facilitate the sending of display media, email, or other requested services.
   * **Partners** : We may share data, including PI and Data Segments, with business and data partners (such as business partners who provide to marketers their own applications or data services) or with clients, to help provide more tailored advertising and for analytical purposes.
   * **Corporate transfers** : If Infogroup or its significant assets are purchased by another entity, our data will likely be transferred to that entity, including for due diligence prior to any such potential purchase.
-  * **Affiliates, Parents and Subsidiaries** :  We may share some or all of the data in our possession with affiliated or subsidiary companies.  Our affiliates and subsidiaries include (but are not limited to): Direct Media Holdings, Inc.; Direct Media, LLC; GoTime Corporation; infoUSA Inc.; infoUSA Marketing, Inc.; Walter Karl, Inc.; Yesmail, Inc.; and Yesmail International Holdings, Inc.  (You may learn more about several of these on this website.)
+  * **Affiliates, Parents and Subsidiaries** :  We may share some or all of the data in our possession with affiliated or subsidiary companies.  Our affiliates and subsidiaries include (but are not limited to): Direct Media Holdings, Inc.; Direct Media, LLC; GoTime Corporation; infoUSA Inc.; infoUSA Marketing, Inc.; Walter Karl, Inc.; and Yes Lifecycle Marketing. (You may learn more about several of these on this website.)
   * **As Required by Law or to Protect Any Party** : Infogroup may disclose data if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) to protect or otherwise defend the rights, property or safety of Infogroup or any other party.
   * **Data We Collect on Our Website**.  We use data that you provide to us on our website to market, we may use this data for our business purposes.  For instance, if you provide us with your name and email address, we may put your into our proprietary database and send you newsletters about our company, our services, and events.  We will provide you a way to opt out of these emails, usually through a link in the email footer.  
 
@@ -96,7 +96,7 @@ Infogroup takes steps to ensure that the data we possess is housed and transmitt
 
 **9\. International Users, EU-U.S. Privacy Shield Policy and U.S.-Swiss Safe Harbor Framework**
 
-Infogroup and its Covered Entities participate in, and have certified their compliance with, the EU-U.S. Privacy Shield Framework (“Privacy Shield Framework”). As part of its self-certification to the Privacy Shield Framework, Infogroup has adopted a **EU-US Privacy Shield Policy** in regards to human resource (“HR”) and NON-HR EU personal data, which policy with dispute resolution is incorporated into this Privacy Policy via the following link: [http://www.yesmail.com/privacy-shield-policy](https://web.archive.org/privacy-shield-policy).
+Infogroup and its Covered Entities participate in, and have certified their compliance with, the EU-U.S. Privacy Shield Framework (“Privacy Shield Framework”). As part of its self-certification to the Privacy Shield Framework, Infogroup has adopted a **EU-US Privacy Shield Policy** in regards to human resource (“HR”) and NON-HR EU personal data, which policy with dispute resolution is incorporated into this Privacy Policy via the following link: [http://www.yeslifecyclemarketing.com/privacy-shield-policy](https://web.archive.org/privacy-shield-policy).
 
 Infogroup complies with the principles of the U.S.-Swiss Safe Harbor Framework regarding Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to the personal information we receive from Switzerland, effective as of the date our certification is posted to the U.S Department of Commerce website at <http://safeharbor.export.gov/list.aspx>. To exercise their rights under Safe Harbor or file a complaint, residents of Switzerland may contact us as described below.
 
