@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successce.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319171040id_/https%3A//www.successce.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successce.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227142434id_/https%3A//www.successce.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
