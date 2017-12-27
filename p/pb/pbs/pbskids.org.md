@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630193324id_/http%3A//pbskids.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002405id_/http%3A//pbskids.org/privacy) for the most accurate reproduction.*
 
 # PBS KIDS . Privacy Policy
 
-## Last modified: May 16, 2017
+## Last modified: July 5, 2017
 
 You have trusted us for many years to make safe and quality educational children's content that family members of all ages can enjoy. We understand how important privacy is to you and your family, which is why we are committed to creating a safe and secure environment that family members of all ages can enjoy. As a not-for-profit public institution, our goal is to collect only the information about our users and their use of our services that will help us provide the best online experience possible and implement PBS's mission. 
 
@@ -44,7 +44,7 @@ We generally use the information that we collect about you or your child to:
   * Customize the content displayed when you or your child use the Services
   * Analyze use of the Services to understand and improve our service offerings, such as determining which pages are most popular, which browsers are most used, how long users spend on the Services, and which websites they come from
   * Otherwise support the internal operations of the Services
-  * Prevent potentially prohibited or illegal activities and enforce the [Terms of Use](https://web.archive.org/web/20170630193324id_/http%3A//pbskids.org/termsofuse.html)
+  * Prevent potentially prohibited or illegal activities and enforce the [Terms of Use](https://web.archive.org/web/20171228002405id_/http://pbskids.org/privacy/termsofuse.html)
   * For any other purposes disclosed to you or your child at the time we collect the information or pursuant to your consent
 
 
@@ -77,7 +77,7 @@ We may use cookies, web beacons, Local Shared Objects, and other similar technol
 
 We use these technologies, for example, to help us recognize your or your child's browser as a previous user and save and remember any preferences that may have been set; to help us customize the content shown while you or your child use the Services; to provide you or your child with content customized to your interests and to understand whether users read e-mail messages and click on links contained within those messages so that we can deliver relevant content and offers; and to help measure and research the effectiveness of our Services, interactive online content, features, and other communications. 
 
-We may allow third parties to place and read their own cookies, web beacons, and similar technologies to collect information through the Services. These third parties may collect information about a userâ€™s online activities over time and across sites, services, and devices to, for example, help us with traffic measurement, research, and analytics and serve you more relevant advertising on third party sites and services. These third parties may participate in programs that allow you to opt out of targeted advertising. To learn more and opt out, visit the Network Advertising Initiative and Digital Advertising Alliance. 
+We may allow third parties to place and read their own cookies, web beacons, and similar technologies to collect information through the Services. For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics. 
 
 You may be able to refuse or disable cookies by adjusting your web browser settings. Because each web browser is different, please consult the instructions provided by your web browser (typically in the "help" section). Please note that you may need to take additional steps to refuse or disable Local Shared Objects and similar technologies. For example, Local Shared Objects may be controlled through the instructions on Adobe's [Setting Manager page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html "ADOBE's Setting Manager"). If you choose to refuse, disable, or delete these technologies, some of the functionality of our site may no longer be available to you or your child.
 
