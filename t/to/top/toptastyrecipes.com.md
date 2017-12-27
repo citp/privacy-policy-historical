@@ -1,67 +1,80 @@
-> *The following text is extracted and transformed from the toptastyrecipes.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103060215id_/http%3A//www.irecipesonline.com/%3Fpage_id%3D169) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptastyrecipes.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy | I Recipes Online
+# HugeDomains.com - Privacy Policy
 
-We will not share any lists of e-mail addresses or other personal information with any third party. In any such e-mail from us, we will provide a way for you to “opt out” or choose to decline to receive promotional e-mail from us. We may occasionally find a third-party offer in which we believe you might be interested and may send you information, but we will not provide your e-mail address to the third party.
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-We may also offer various surveys on the site. If the survey is a news survey or about service satisfaction, we will not share that information. Certain other surveys and contests are promotional in nature, and are often sponsored by or hosted and run by our advertisers.
+**What information do we collect?**
 
-In such cases, we disclose that we collect and may share the information you provide to enter the contest or complete the survey with the advertiser. Of course, you will always have the choice of whether to enter the contest or complete such a survey, and therefore you will control the decision about sharing your information.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-Note to parents and children:
+**What do we use your information for?**
 
-We fully support the intent of the Children’s Online Privacy Protection Act, which forbids the collection of personally identifiable information about children under the age of thirteen without the express written permission of their parents. We ask that children do not submit any information about themselves. Anyone using this Site or the Services warrants and promises that they are 13 years of age or older.
+Any of the information we collect from you may be used in one of the following ways: 
 
-Some of the content on our site, including advertising, is provided directly from web servers owned and operated by third parties, and we do not control, and cannot be held responsible for, their use of any information they may collect.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-We do not routinely disclose any of our individual reader information to third parties. We may disclose this information in special cases when we have reason to believe that doing so is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of takearecipe.com or anyone else that could be harmed by such activities. We may also disclose information to third parties when we believe in good faith that we are required by law to do so, or as otherwise provided in the Site’s Terms of Use.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-You can learn more about privacy on the Internet from the following resources: Electronic Frontier Foundation – a civil liberties organization working to protect your rights online. Electronic Privacy Information Center – established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure. Privacy Issues Page – from the Center for Democracy and Technology (CDT). Cookie Central — dedicated to provide full information upon Internet Cookies. The EPIC Cookies Page – links, news, and explanations.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-A last word on internet privacy:
+• To process transactions
 
-Please keep in mind that whenever you voluntarily disclose personal information online – for example in the forums, through email, or in chat areas – that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you’re online.
+• To send periodic emails
 
-We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-takearecipe.com comment forum rules of conduct
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-takearecipe.com welcomes your participation in our discussion forums. These forums offer you the chance to interact with leaders and experts in our community, along with the journalists, editors and management of takearecipe.com, and with other takearecipe.com users.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-We ask that you post with respect for all players people in the news, journalists, fellow forum participants, etc. This is a community. So, when you post, we encourage you to tell your fellow community members a little about who you are not just a screen name or an E-mail address, but a bit of a bio. It enriches the discussion to know who behind the post.
+**How do we protect your information?**
 
-In order to keep these forums enjoyable and interesting for all of our users, we ask that you follow these simple rules. By participating in the discussion forums, you are consenting to these rules. Violators may be warned, suspended from posting, or banned from the forums or chats, at the sole discretion of the takearecipe.com staff.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-In order to keep these forums enjoyable and interesting for all of our users, we ask that you follow these simple rules. By participating in the discussion forums, you are consenting to these rules. Violators may be warned, suspended from posting, or banned from the forums or chats, at the sole discretion of the takearecipe.com staff.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-1\. Exercise common sense and be considerate toward your fellow users. Diversity of opinion and intelligent civil discourse is encouraged; by the same token, insults and flaming will not be tolerated. Disagreeing with an idea of another community member is different from attacking that individual.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-2\. Do not post off-topic. Please keep your comments consistent with the subject and purpose of the conversation thread. Deliberate disruption such as consistent off-topic or frivolous commentary â€œ will not be tolerated such posts will be deleted. takearecipe.com and its moderators reserve the right to delete posts and/or whole conversations we determine are of an irrelevant, abusive or disruptive nature. This is your community. Let us or your fellow posters know if you feel things are getting off-topic or inappropriate.
+**Do we use cookies?**
 
-3\. No all-caps (FOR EXAMPLE, LIKE THIS) or all-bolds please. It is extremely hard to read. Posts submitted in all-caps or all-bolds will be deleted automatically.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-4\. Although we love the extra information and sources you bring to this ‘micro blog sphere’ due to copyright and space issues, please do not quote entire news articles from other sources; small excerpts and/or a link keeps things legal. Please provide a link. Cutting and pasting of outside content is limited to three sentences. Any more than three, the whole post will be deleted. Also, to keep the discussion and dialogue moving, please keep posts to a reasonable length. Excessively long posts will be deleted. If you have that much to say, talk to us about a blog piece.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-5\. You must use your real full name when posting and provide an e-mail address where we may contact you, if necessary, during the registration process. Your e-mail address will not be published on the site, except by you actively choosing to do so. You are limited to one user account on the system. Under no circumstances may you create alternate names, assume secondary identities or use someone else’s name for your name.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-6\. You alone are responsible for the material you post. You will not knowingly post content or links to content that violates the copyright, trademark, patent or other intellectual property right of any third party and that you will remove the same should you discover that you have violated this provision. Likewise, you may not post content or links to content that is libelous, defamatory, offensive, obscene, racist, abusive, that violates a third party’s right to privacy, that otherwise violates any applicable local, state, national or international law, or that is otherwise inappropriate. You will indemnify takearecipe.com, its employees, agents, and affiliates from any and all claims and/or damages (including but not limited to reasonable attorneys fees) resulting from any claim brought by any third party relating to content you have posted. We shall have the right, but not the obligation, to monitor the content of the forums to determine compliance with all sections of this Agreement and any other operating rules established by us. We shall have the right in our sole discretion to edit, refuse to post, remove, or otherwise alter any material submitted to or posted on the chats or forums. Without limiting the foregoing, we shall have the right to remove any material that we, in our sole discretion, find to be in violation of this agreement or inappropriate for any reason whatever without consent. Notwithstanding all of the foregoing, users remain solely responsible for the content of their messages.
+**Do we disclose any information to outside parties?**
 
-7\. We further reserve the right, in our sole discretion, to remove a users privilege to post content in our discussion forums. Suspended members who re-register with new accounts will have those accounts deactivated without notice. Repeated attempts will result in our contacting your ISP with a complaint.
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-8\. You understand and agree that takearecipe.com is not responsible for any content posted by third parties. We are a distributor of content supplied by third parties and users of the chats and forums. Any opinions, advice, statements, services, offers, or other information or content expressed or made available by third parties, or any other user of the forums, are those of the respective author(s) or distributor(s) and not of us.
+**Online Privacy Policy Only**
 
-9\. You acknowledge and agree that you use and/or rely on any information obtained through the discussion forums at your own risk. takearecipe.com is not in any manner endorsing the content of the discussion groups and cannot and will not vouch for its reliability. The disclaimer of liability contained in this section applies to any damages or injury caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft or destruction or unauthorized access to, alteration of, or use of record, whether for breach of contract, tortuous behavior, negligence, or under any other cause of action. Each user specifically acknowledges that we are not liable for the defamatory, offensive or illegal conduct of third parties, subscribers, members or other users of the forums and that the risk of injury from the foregoing rests entirely with each user.
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-10\. You understand and agree that these discussion forums are to be used only for non-commercial purposes. You may not solicit funds, promote commercial entities or otherwise engage in commercial activity in the chats or forums. You may not contact other participants privately by any means without their express prior permission.
+**Terms and Conditions**
 
-11\. The discussion forums are for text only. Use of graphics and audio in the forums is not appropriate. For details on submitting this kind of content, contact the Web editor.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-12\. For any content that you post, you hereby grant to takearecipe.com the royalty-free, irrevocable, perpetual, exclusive and fully sub-licensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such content in whole or in part, world-wide and to incorporate it in other works, in any form, media or technology now known or later developed.
+**Your Consent**
 
-13\. Commenting on student sports – no comment may identify a player by name at any time. This is to keep student from being targeted for unfair criticism. Comments may be edited or deleted.
+By using our site, you consent to our web site privacy policy. 
 
-14\. Comments to communicate off-topic messages to other users or to the takearecipe.com staff will be deleted.
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
