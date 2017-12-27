@@ -1,70 +1,80 @@
-> *The following text is extracted and transformed from the y8friv.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626182448id_/http%3A//www.y8.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y8friv.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Y8.com - Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-PRIVACY POLICY Last modified: January 15, 2013
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to Our websites and to all games and other activities that are offered by Us on or through Our websites. (Our websites, all the web pages that are part of the websites, and such games and activities are hereafter collectively referred to as the "Websites.") Web Entertainment Limited (hereafter referred to as "WEL" or any second-person pronoun), is the responsible party as referred to in the Hong Kong Personal Data Protection Act. WEL may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Websites. By using or accessing Our Websites, You are accepting the practices described in this Privacy Policy.
+**What information do we collect?**
 
-Y8 is committed to providing an entertaining, fun and educational service. Y8.com is a property of WEL. WEL respects the privacy concerns of visitors to Y8 network websites. It does not target its Website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while being online. For example, We do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-1\. INFORMATION YOU PROVIDE TO US
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-We may log IP addresses and/or drop cookies and/or flash cookies to prevent abuse of Our website and or to provide and or to enhance services. Email addresses of persons under 13 years of age are not stored. They are encrypted into an unrecoverable format using a one way hash. Of those users who choose to register, You provide Us with Your date of birth, username, password and email address.
+**What do we use your information for?**
 
-Y8 Network website does not require persons under 13 years of age to disclose any more information than is reasonably necessary to participate in the activity as a condition of participation.
+Any of the information we collect from you may be used in one of the following ways: 
 
-2\. INFORMATION WE RECEIVE ABOUT YOU
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-The information that We receive about You concerns
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-  * Non-personal information 
-    1. Data in relation to the use of the Website and Our services, such as high scores, game rankings game challenges, avatars, etc.;
-    2. Keyword popularity reports regionally Website migration patterns;
-  * Technical information, including: 
-    1. Your IP address;
-    2. Your browser;
-    3. the Operating system You use;
-    4. if You are logged in to id.net, Your User ID.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
+• To process transactions
 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-3\. HOW WE USE THE INFORMATION
+• To send periodic emails
 
-We do not retain any information You provide to Us beyond the time it is needed. We may use information to ensure that users are in compliance with Our terms. Persons over 13 years of age authorize Us to send them email notifications related to Y8.com products and services including the Y8 Newsletter. Y8 Network may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Y8 network’s property, visitors, or anyone else that could be harmed by such activities.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-We may sometimes use non-personal information that We receive about You to improve the design and content of Our website, to personalize Our visitors' experience or to offer products, programs and services. We may also use this information in the aggregate to analyze website usage, as well as to offer products, programs, or services.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-4\. INFORMATION WE SHARE, THIRD PARTY AND SPONSORS
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-We do not disclose personally identifiable information of users under 13 years of age to third parties.
+**How do we protect your information?**
 
-We use Google AdSense to serve ads when You visit Our website. WEL may use share information (not including your name, address, email address or telephone number) about Your visits to this and other websites in order to provide advertisements on this website and other websites about goods and services that may be of interest to You. Third parties and/or WEL may be placing and reading standard and or flash cookies on Your browser and machine, or using web beacons to collect receive information about Your use of on the website, and in the course of ads being served.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-We will share Your information with Our business partners or clients, with Your consent, so that they may improve their services. Third parties such as advertisers, games companies and or developers may ask for information from You which would be governed by the privacy policy of those other companies in which case they should provide adequate disclosure of their privacy policies to You. We may use Your information to improve Our services and or to help serve advertising to You.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-You may manage or opt out of your flash cookies here You may manage or opt out of Your standard cookies via Your web browser and if You would like more information about this practice and to know Your options in order to prevent these companies from using this information, please click here.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-5\. SECURITY
+**Do we use cookies?**
 
-We have implemented appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information We receive from You.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-6\. THIRD PARTY LOGIN SYSTEM ID.NET
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-We offer You the opportunity to login to Our Website through the use of Your id.net identity linked to Our Website.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-Id.net is a login system that allows You to create an id.net account that gathers a set of id.net identities. The purpose of having id.net identities is so that You can determine under which one You want to access third party websites and what information You want to share. In addition, You can review which information You share with third party websites.
+**Do we disclose any information to outside parties?**
 
-Only Your information about Your id.net identity linked to Our Website, such as Your nickname, email, date of birth, country and gender from Your id.net account will be sent to Us when You use it to register or login. We do not have access or receive any information about Your id.net account without Your consent.
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-For Members who are already registered and have an Account on Our Website, You agree and consent to the migration of Your account to an id.net account and id.net identity linked to Our Website.
+**Online Privacy Policy Only**
 
-7\. PARENTAL REVIEW
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-Parents, if you would like to review your child's personal information, ask to have it deleted, and refuse to allow any further collection or use of the child's information then please send a letter to Our Privacy Manager at Web Entertainment Limited, Room 409 Yu To Sang Building, 37 Queen's Road Central Hong Kong SAR. Please be sure to include your email address and a telephone number where We can reach you. To protect your child's privacy and security, We will take reasonable steps to help verify your identity before granting you access to the personal information that We collect and maintain about your child.
+**Terms and Conditions**
 
-8\. CHANGES TO THE PRIVACY POLICY
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-We may change from time to time the terms of Our Privacy Policy. The mention of the terms "Last modified" followed by a date shall indicate You of this occurrence.
+**Your Consent**
 
-If you have any questions, you can contact us through our [contact form](https://web.archive.org/contact/new).
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
