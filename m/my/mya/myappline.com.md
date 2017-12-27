@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myappline.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628122727id_/http%3A//www.myappline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myappline.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227224503id_/https%3A//www.myappline.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - myAppline
 
 Love receiving free software? We too! That’s why we’re committed to providing our visitors witha huge library of free and free-to-try software products that are fast, easy and safe toreceive. We aim to be a one-stop place for every software enthusiast, so be prepared to findsoftware from a wide range of industries.
 
-myAppline regards privacy issues at the utmost seriousness. myAppline is firmly commitment to theprivacy of its users. The following discloses our information gathering and dissemination practicesfor this website: [www.myAppline.com](http://www.myappline.com/), operated by myAppline.These and myAppline's Terms of Service (" **Terms** ") are the accesses and terms of your use onthe site.
+myAppline regards privacy issues at the utmost seriousness. myAppline is firmly commitment to theprivacy of its users. The following discloses our information gathering and dissemination practicesfor this website: [www.myAppline.com](https://www.myappline.com/), operated by myAppline.These and myAppline's Terms of Service (" **Terms** ") are the accesses and terms of your use onthe site.
 
 ## Information We Collect
 
