@@ -1,43 +1,80 @@
-> *The following text is extracted and transformed from the naijamayor.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328063150id_/http%3A//naijamayor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijamayor.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - NIGERIA ENTERTAINMENT
+# HugeDomains.com - Privacy Policy
 
-It is our policy to respect the privacy of the people who access and use our network of websites, including the site you linked from (the “Site”) and the services we provide to you on the Site (Naijamayor.com).  This Privacy Policy applies to information that you provide to us through the Site and our Services, and when you access, download or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site.
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
 **What information do we collect?**
 
-We (Naijamayor.com) collect information from you when you subscribe to our newsletter or contact us, as appropriate, you may be asked to enter your: name, e-mail address. You may, however, visit our site anonymously.
+We collect information from you when you register on our site, place an order or fill out a form. 
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways:
+Any of the information we collect from you may be used in one of the following ways: 
 
-_To send periodic  emails_  
-The email address you provide, will only be used to send you information and updates. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-**Cookies?**
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-We may uses cookies on certain pages of our service. Cookies are small pieces of information that your Web browser places on your computers hard drive. Cookies can help us personalize our Web site and provide information that is targeted to the interests of individual Users so you don’t see the same advertisements repeatedly.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our site Naijamayor.com.
+• To process transactions
 
-**Childrens Online Privacy Protection**
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age.  If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [mayorbosspromo@gmail.com](https://web.archive.org/web/20160328063150id_/http://naijamayor.com/privacy-policy/mayorbosspromo@gmail.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+• To send periodic emails
 
-We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-### LINKS TO OTHER SITES
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-Our site and Services may contain links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-This policy was last modified on July 2012
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
 
-## Mayorbosspromo@gmail.com  
-Skype: Mayor Boss  
-Facebook: [NIGERIA ENTERTAINMENT](https://www.facebook.com/nigeriaentertainment)  
-Twitter: [NigeriaHiphop](https://twitter.com/NIGERIAHIPHOP)
+HugeDomains.com
