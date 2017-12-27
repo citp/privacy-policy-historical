@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitcorner.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526132333id_/http%3A//submitcorner.com/Inside/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitcorner.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227050734id_/http%3A//www.submitcorner.com/Inside/privacy.shtml) for the most accurate reproduction.*
 
 # Submit Corner - Privacy Policy
 
