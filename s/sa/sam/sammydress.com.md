@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611184836id_/http%3A//www.sammydress.com/m-article-id-27.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227233200id_/https%3A//www.sammydress.com/m-article-id-27.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Sammydress.com
 
@@ -24,10 +24,14 @@ After registering, you will receive our newsletters with information about sales
 > #### Email Addresses:
 > 
 > You register for placing an order and receiving free promotional notices; we notify you when we receive a new brand, or new product style; to get there great offers, you simply sign up for our email newsletter. Your participation in a contest is completely voluntary, and you may choose whether to participate and disclose information to us. 
+> 
+> #### How do we protect your information:
+> 
+> Customers are responsible for their own username and password safety and security on Sammydress. We recommend choosing a strong password and changing it frequently. Please do not use the same login details (email and password) across multiple websites. That said, we do implement a variety of security measures including offering the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. Our servers and website are security scanned and fully verified externally by McAfee Secure from Symantec on a daily basis to protect you online. 
 
 #### 3\. Privacy Security
 
-We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. We use the latest in encryption technology, and all employees that we do hire have to sign a confidentiality agreement that forbids them from disclosing any information to which the employee has access, to other individuals or entities. 
+Customers must protect their own password and user safety and security on our site. We highly recommend that passwords are changed frequently and that a combination of numbers and letters are used. Please do not use the same login details (email and password) as other websites.We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. To protect our customers online we use the latest in encryption technology, and all employees that we do hire have to sign a confidentiality agreement that forbids them from disclosing any information to which the employee has access, to other individuals or entities.
 
 #### What kind of email do you send to the customer?
 
@@ -36,14 +40,8 @@ Transaction mail, Shipping notification, Weekly deal, Promotion, Activity.
 
 #### How do I unsubscribe?
 
-You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.
-
-The purpose of Criteo Dynamic Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails.Criteo uses cookies to single out users and then personalize ads based on their browsing experience.To learn more or opt out of Criteo Dynamic Email [click here](http://edm.sammydress.com/?email={$email}). 
+You can unsubscribe by using the link from the top of any email newsletter or your personal subscribe setting after logging in. 
 
 #### Contact Details
 
-Tel : 0755-84358466-8055 
-
 Email : support@sammydress.com 
-
-Advancer Limited  Address: Third Floor  207 Regent Street  W1B 3HH London UK
