@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikman.lk privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624062615id_/https%3A//ikman.lk/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikman.lk privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002029id_/https%3A//ikman.lk/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ikman.lk
 
