@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalacademies.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627210058id_/http%3A//www.nationalacademies.org/legal/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalacademies.org privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227132233id_/http%3A//www.nationalacademies.org/legal/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy | National-Academies.org | Where the Nation Turns for Independent, Expert Advice
 
