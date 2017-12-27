@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funkypickens.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112127id_/http%3A//www.funkypickens.com/wordpress/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkypickens.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227220505id_/http%3A//www.funkypickens.com/wordpress/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Funky Pickens
 
@@ -30,6 +30,10 @@ Privacy Contact Information
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.  
 All facts and images are copyrighted by their respective copyright owners mentioned in source, in any concern you can contact us at  
 cliffstr@hotmail.com – All Rights Reserved
+
+### Comments
+
+comments
 
   * 
 
