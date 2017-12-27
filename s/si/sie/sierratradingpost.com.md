@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624051557id_/http%3A//www.sierratradingpost.com/lp2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004848id_/https%3A//www.sierratradingpost.com/lp2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - We Are All Explorers.
+# 
 
 This policy will be effective starting February 11, 2013
 
@@ -47,10 +47,9 @@ When we collect information from you, we may use it for a number of purposes, in
   * Create and manage online accounts you establish;
   * Enroll you in and administer our loyalty and other rewards programs upon your request;
   * Administer your participation in promotions, contests and sweepstakes;
-  * Verify your identity in certain instances (such as when you pay by check, return merchandise, or request a refund); 
+  * Verify your identity in certain instances (such as when you pay by check, return merchandise, or request a refund);
   * Protect against, identify and help prevent fraud, unauthorized activity, claims and other liabilities and minimize credit risk; 
-  * Comply with and enforce applicable legal requirements, industry standards, our policies, and our [Terms of Use](https://web.archive.org/lp2/terms-of-use/); and
-  * Operate, evaluate and improve our business (including developing new products and services, managing our communications, performing market research, and administering our Website).
+  * Comply with and enforce applicable legal requirements, industry standards, our policies, and our [Terms of Use](https://web.archive.org/lp2/terms-of-use/); and performing market research, and administering our Website).
 
 
 
