@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywire.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024854id_/http%3A//www.hollywire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywire.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227232403id_/http%3A//www.hollywire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hollywire
 
@@ -6,4 +6,4 @@
 
 If we decide to change our privacy policy, we will post the changes on this page so that you are aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, **Hollywire** may provide aggregate statistics about our traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
 
-To get in touch with **Hollywire** , please email us at: [info@hollywire.com](mailto:info@hollywire.com)
+To get in touch with **Hollywire** , please email us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0861666e674860676464717f617a6d266b6765)
