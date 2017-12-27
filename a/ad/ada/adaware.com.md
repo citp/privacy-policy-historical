@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the adaware.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221073231id_/https%3A//www.adaware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaware.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227221613id_/https%3A//www.adaware.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Adaware: The best FREE Antivirus & ad block
 
 adaware is a leading actor within the IT security field and makes every effort to protect the privacy of the users of the adaware web sites*, software, and mobile apps (the "adaware Sites").* The overall purpose with this privacy policy (the "Privacy Policy") is to advise you ("You") of what type of personal information that adaware collects about You as a result of Your use of the adaware Sites, if any, and describe the limited purposes for which adaware uses, processes and shares such collected information.
 
 ### Collection of Personal Information
 
 The web search services provided herein are provided by third parties. For further information on data collection please visit the search provider's privacy policy, as applicable.
+
+Some of the web search services provided herein are provided by providers of third party web search services. For information on the web search services data collection, please visit the end user privacy statements of our 3rd party web search services providers by clicking [_here_](https://www.codefuel.com/legal/end_user_privacy_policy/) and Bing at _<http://go.microsoft.com/fwlink/?LinkId=521839>,_ both as updated from time to time and at any successor locations.
 
 adaware may request that You provide certain Personal Information in order to use certain services or pursue certain activities on the adaware Sites, as further specified below. For the purpose of this Privacy Policy "Personal Information" means any information that identifies You as an individual, including but not limited to Your name, postal address and e-mail address. adaware does not collect any sensitive Personal Information through the adaware Sites, such as social security number, credit card number or other personally identifiable financial information, however please note that certain of adaware's service providers and co-operation partners may collect such sensitive Personal Information in connection with activities that are initiated by You through the adaware Sites, as further detailed below. Those providers and partners, as discussed below, are contractually restricted as to how they may utilize the Personal Information obtained through adaware. adaware is, with the exceptions set out below, the sole owner of the information collected through the adaware Sites and adaware will not share such information with any third party unless to the extent and for the purposes as specified by this Privacy Policy.
 
