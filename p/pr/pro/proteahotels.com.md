@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proteahotels.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626164112id_/http%3A//www.marriott.com/about/privacy.mi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proteahotels.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235827id_/http%3A//www.marriott.com/about/privacy.mi) for the most accurate reproduction.*
 
 # Marriott Online Privacy Policy | Hotel Privacy Policy Information
 
