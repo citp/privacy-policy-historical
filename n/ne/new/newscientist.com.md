@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624111413id_/https%3A//newscientist.com/in9-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235809id_/https%3A//www.newscientist.com/in9-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | New Scientist
 
@@ -109,11 +109,11 @@ Your personal information will be transferred to and stored in servers and facil
 
 ## 10\. Contacting us
 
-If you have any questions, comments or requests regarding this privacy policy or our processing of your personal information, please contact: attn. Company Secretary, Reed Business Information, Quadrant House, The Quadrant, Sutton, Surrey SM2 5AS, United Kingdom.
+If you have any questions, comments or requests regarding this privacy policy or our processing of your personal information, please contact: attn. Company Secretary, New Scientist Limited, 110 High Holborn, London, WC1V 6EU, United Kingdom.
 
-Email: dataprotection@rbi.co.uk
+Email: customerhelp@newscientist.com
 
-Last updated: 10 May 2017
+Last updated: 9 August 2017
 
 ## Use of cookies
 
@@ -208,4 +208,4 @@ In addition, third-party advertisers run campaigns on newscientist.com.
 
 If you would like to block cookies being set by third-party networks you may do so through the preference settings on your browser.
 
-To contact us about the use of cookies on this site please email eucookies@rbi.co.uk.
+To contact us about the use of cookies on this site please email [customerhelp@newscientist.com](mailto:customerhelp@newscientist.com?subject=EU%20cookie%20law).
