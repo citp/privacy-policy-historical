@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postimg.io privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514033058id_/http%3A//postimg.io/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postimg.io privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235205id_/http%3A//postimages.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Postimage.io
+# Privacy Policy — Postimage.org
 
 ## Privacy policy
 
