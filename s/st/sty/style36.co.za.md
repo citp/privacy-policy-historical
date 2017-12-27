@@ -1,26 +1,55 @@
-> *The following text is extracted and transformed from the style36.co.za privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926104624id_/http%3A//www.style36.co.za/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the style36.co.za privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002646id_/http%3A//www.style36.co.za/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy – Style36
 
-We respect your privacy and take all reasonable steps to protect the personal information you give us. We need certain of your information (including your name, ID number, delivery address, email address and/or contact number) to verify your identity when making online purchases, and to ensure that you receive the products purchased by you (and in this regard, you understand that we will need to disclose certain of such information to our courier company). However, we will only contact you for marketing purposes (to tell you about competitions, special offers, etc) if you have given your prior consent thereto and you may at any time elect not to receive such communications. Note that our website, just like most other websites, makes use of cookies in order to compile non-personal statistical information about browsing habits, click-patterns and access to the website, but such information is collected on an anonymous basis.
+## Privacy Policy for STYLE36
 
-**Unsubscribing from newsletter and promotional emails**
+At http://www.style36.co.za, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by http://www.style36.co.za and how we use it.
 
-You can update your email subscription preferences by following these steps.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at **info@style36.co.za.**
 
-1) In the footer of such email's, click on the "unsubscribe from this list" link. You will then be unsubscribed and removed from our mailing list  
-2) Alternatively, please contact us either via phone (078 943 9409) or email [care@style36.co.za](mailto:care@style36.co.za) and request to be unsubscribed. Our customer service team will remove you from our mailing list and confirm when this has been completed.
+**Log Files**
 
-Our mailing address is:
+http://www.style36.co.za follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.
 
-Style36  
-3rd Floor  
-263 Victoria Rd  
-Rex Trueform Office Park  
-Salt River, Cape Town, 7925
+### Cookies and Web Beacons
 
-Our contact number:  
-078 943 9409
+Like any other website, http://www.style36.co.za uses ‘cookies’. These cookies are used to store information including visitors’ preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users’ experience by customizing our web page content based on visitors’ browser type and/or other information.
 
-Customer Care email:  
-[care@style36.co.za](mailto:care@style36.co.za)
+### Our Advertising Partners
+
+Some of advertisers on our site may use cookies and web beacons. Our advertising partners include:
+
+  * Google
+
+
+
+Each of our advertising partners has their own Privacy Policy for their website. For easier access, an updated and hyperlinked resource is maintained here:
+
+**Privacy Policies**
+
+You may consult this list to find the Privacy Policy for each of the advertising partners of http://www.style36.co.za.
+
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on http://www.style36.co.za, which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+
+Note that http://www.style36.co.za has no access to or control over these cookies that are used by third-party advertisers.
+
+**Third Part Privacy Policies**
+
+http://www.style36.co.za’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
+
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites. What Are Cookies?
+
+**Children’s Information**
+
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+http://www.style36.co.za does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**
+
+This privacy policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in http://www.style36.co.za. This policy is not applicable to any information collected offline or via channels other than this website.
+
+**Consent**
+
+By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
