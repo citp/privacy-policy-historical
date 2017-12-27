@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630152955id_/https%3A//www.justia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235908id_/https%3A//www.justia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Justia
 
@@ -16,7 +16,7 @@ Justia collects personal information, such as your e-mail address, name, home or
 
 Information from Web Server Logs 
 
-Justia records and saves information about you from our web server logs such as your Internet [Protocol] (IP) address, the time day you visited and your browser type. This information is used to verify our records and to provide better services to you. 
+Justia records and saves information about you from our web server logs such as your Internet [Protocol] (IP) address, the time and day you visited and your browser type. This information is used to verify our records and to provide better services to you. 
 
 Information from Cookies 
 
@@ -35,6 +35,14 @@ Justia will not willfully disclose any individually identifiable information abo
 Certain Justia services and content may be co-branded with another company. If you register for or use such services, both Justia and the other company may receive information collected in conjunction with the co-branded services. In such cases, either a joint privacy statement or a link to the other company's privacy statement will be provided, which will provide you with information about how the other company will use the information and how you can contact the other company with requests to access the information or other inquiries. 
 
 The Justia Lawyer Directory will be sharing all user information with Cornell's Legal Information Institute for their version of the lawyer directory. We may also co-brand the lawyer directory with other third parties, but will not share information marked private or non-public email addresses with those other third parties. 
+
+Advertising Campaigns on Third-Party Websites 
+
+Justia advertises on third-party websites to reach people who have previously visited our website. We contract with third-party vendors, including Facebook and Google, to implement this type of advertising campaign, known as remarketing. Based on information collected in cookies, web beacons or other storage technologies from your prior visits to Justia, our advertising vendors will serve ads promoting Justia services to you as you visit their websites or other sites across the Internet, as well as provide us with measurement services on the effectiveness of our ads. 
+
+You can opt out of Google's use of cookies by visiting [Google's Ad settings](https://adssettings.google.com/authenticated). Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+You can opt out of Facebook’s use of cookies and web beacons by visiting the [Digital Advertising Alliance’s Consumer Choice Tool for Web](http://www.aboutads.info/choices) and [Your Online Choices: A Guide to Online Behavioral Advertising](http://www.youronlinechoices.eu/). 
 
 Content Submitted Or Made Available For Inclusion On The Service 
 
