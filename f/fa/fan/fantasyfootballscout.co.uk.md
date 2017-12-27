@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootballscout.co.uk privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521161501id_/http%3A//www.fantasyfootballscout.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballscout.co.uk privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227021528id_/http%3A//www.fantasyfootballscout.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fantasy Football Tips, News and Views from Fantasy Football Scout
 
@@ -12,9 +12,9 @@ For the purpose of the Data Protection Act 1998 our data controller is Fantasy F
 
 ### Use of Cookies
 
-Like most websites, we use cookies to improve your user experience by enabling our site to “remember” you and your settings for your next visit.
+Like most websites, we use cookies to improve your user experience by enabling our site to “remember” you and your settings for your next visit. 
 
-A cookie is small text file, stored on your computer or mobile device. It will contain an anonymous identifier so that our site can recognise you when you use the same browser to return.
+A cookie is small text file, stored on your computer or mobile device. It will contain an anonymous identifier so that our site can recognise you when you use the same browser to return. 
 
 Cookies do various tasks on our site, like remembering you’re logged in, remembering that you’ve voted in our polls and whether you’ve chosen to hide or show comment replies. We also use cookies to measure traffic to our site. Without a cookie, our site will identify you as a new user on every visit.
 
@@ -24,16 +24,16 @@ Advertisers sometimes use their own cookies to provide you with targeted adverti
 
 Although cookies are used across almost every site on the internet, some users do not like the idea of this information being stored on their computer. Through your browser settings, it is possible to delete existing cookies and block them from being used in the future. However, this will mean you could lose some functionality on our site – such as the ability for us to remember if you’re logged in.
 
-This website – [www.aboutcookies.org](https://web.archive.org/web/20170521161501id_/http://www.fantasyfootballscout.co.uk/privacy-policy/www.aboutcookies.org) – will help you explore your options when it comes to removing and turning off cookies in your browser. We’ve listed links below to all the major browsers and mobile browsers offering instructions on how to change your settings.
+This website – [www.aboutcookies.org](https://web.archive.org/web/20171227021528id_/http%3A//www.fantasyfootballscout.co.uk/www.aboutcookies.org) – will help you explore your options when it comes to removing and turning off cookies in your browser. We’ve listed links below to all the major browsers and mobile browsers offering instructions on how to change your settings.
 
- **Browsers**  
+**Browsers**  
 [Internet Explorer](http://support.microsoft.com/kb/196955)  
 [Chrome](http://www.google.com/support/chrome/bin/answer.py?answer=95647)  
 [Safari](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html)  
 [Firefox](http://support.mozilla.com/en-US/kb/Enabling%20and%20disabling%20cookies)  
 [Opera](http://www.opera.com/browser/tutorials/security/privacy/)
 
- **Mobile Devices**  
+**Mobile Devices**  
 [Android](http://www.google.com/support/mobile/bin/answer.py?hl=en&answer=169022)  
 [Safari](http://support.apple.com/kb/HT1677)  
 [Windows](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx)  
