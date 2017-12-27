@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uncrate.com privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628230428id_/https%3A//uncrate.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uncrate.com privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228002103id_/https%3A//uncrate.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -10,23 +10,22 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="apple-itunes-app" content="app-id=450084793">
+<meta name="referrer" content="always">
 
-<link rel="stylesheet" type="text/css" href="//cloud.typography.com/81102/691166/css/fonts.css">
 
-<link rel="stylesheet" type="text/css" href="/css/style.css?v=6.1.11">
-<link rel="stylesheet" type="text/css" href="/css/cart.css?v=6.1.11"> 
+  <link rel="stylesheet" type="text/css" href="//cloud.typography.com/81102/691166/css/fonts.css">
+<link rel="stylesheet" type="text/css" href="/css/style.css?v=6.2.5">
+<link rel="stylesheet" type="text/css" href="/css/cart.css?v=6.2.5"> 
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/uncrate">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://feeds.feedburner.com/uncrate">
 
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="//sdks.shopifycdn.com/js-buy-sdk/latest/shopify-buy.polyfilled.globals.min.js"></script>
+<script type="text/javascript">var blogURL = 'https://uncrate.com/';</script>
 
-
-
-  <script type="text/javascript" src="/js/min.js?v=5.3.13"></script>
-  <script type="text/javascript" src="/js/stash-counts.js?v=1498691100"></script>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/core-min.js"></script>
+<script type="text/javascript" src="/js/min.js?v=5.3.24"></script>
+<script type="text/javascript" src="/js/stash-counts.js?v=1514420400"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/core-min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/md5.js"></script>
 <script type="text/javascript">
 function getParameterByName(name) {
@@ -86,12 +85,18 @@ function getParameterByName(name) {
         var url_partz=urlTargeting.furl.split("?"); 
         var hash=CryptoJS.MD5(url_partz[0]);
         urlTargeting.surl=hash.toString();
+        
+        
 
         googletag.cmd.push(function() {
+            var mapping = googletag.sizeMapping().
+              addSize([0, 0], []).
+              addSize([1050, 200], [970, 250]). // Desktop
+              build();
+          
             googletag.defineSlot('/1014223/Uncrate-300x250', [300, 250], 'lead-story-rectangle').addService(googletag.pubads());
-            //googletag.defineSlot('/1014223/Uncrate-728x90', [[728, 90], [970, 90]], 'leaderboard').addService(googletag.pubads());
-            googletag.defineSlot('/1014223/Uncrate-970x250_row2', [[970, 90], [970, 250]], 'leaderboard').addService(googletag.pubads());
-            googletag.defineSlot('/1014223/Uncrate-970x250', [970, 250], 'billboard').addService(googletag.pubads());
+            googletag.defineSlot('/1014223/Uncrate-970x250_row2', [[970, 90], [970, 250]], 'leaderboard').defineSizeMapping(mapping).addService(googletag.pubads());
+            googletag.defineSlot('/1014223/Uncrate-970x250', [970, 250], 'billboard').defineSizeMapping(mapping).addService(googletag.pubads());
             googletag.defineSlot('/1014223/Uncrate-728x90-roadblock', [728, 90], 'leaderboard-roadblock').addService(googletag.pubads());
             googletag.defineSlot('/1014223/Uncrate-300x250-roadblock', [300, 250], 'lead-story-rectangle-roadblock').addService(googletag.pubads());
 
@@ -113,8 +118,6 @@ function getParameterByName(name) {
 
 
 
-
-
 </head>
 
 <body>
@@ -124,24 +127,24 @@ function getParameterByName(name) {
   <div id="fixed-header" class="animated">
     <div class="grid">
       <a href="#" id="mobile-nav-toggle"><span></span></a>
-      <a id="fixed-header-logo" href="/" title="Uncrate"><img src="//uncrate.com/img/fixed-header-logo.png" alt=""></a>
+      <a id="fixed-header-logo" href="https://uncrate.com/" title="Uncrate"><img src="//uncrate.com/img/fixed-header-logo.png" alt=""></a>
       <ul id="fixed-nav" class="nav">
-        <li><a href="/gear/">Gear</a></li>
-        <li><a href="/style/">Style</a></li>
-        <li><a href="/cars/">Cars</a></li>
-        <li><a href="/tech/">Tech</a></li>
-        <li><a href="/shelter/">Shelter</a></li>
-        <li><a href="/vices/">Vices</a></li>
-        <li><a href="/body/">Body</a></li>
-        <li><a href="/etc/">Etc</a></li>
-        <li><a href="/tv/">Videos</a></li>
+        <li><a href="https://uncrate.com/gear/">Gear</a></li>
+        <li><a href="https://uncrate.com/style/">Style</a></li>
+        <li><a href="https://uncrate.com/cars/">Cars</a></li>
+        <li><a href="https://uncrate.com/tech/">Tech</a></li>
+        <li><a href="https://uncrate.com/shelter/">Shelter</a></li>
+        <li><a href="https://uncrate.com/vices/">Vices</a></li>
+        <li><a href="https://uncrate.com/body/">Body</a></li>
+        <li><a href="https://uncrate.com/etc/">Etc</a></li>
+        <li><a href="https://uncrate.com/tv/">Videos</a></li>
       </ul>
 
       <a id="cart-icon-link-fixed" href="https://store.uncrate.com/cart">
         <img src="//uncrate.com/img/shopify/cart.png" style="width:22px;height:auto;" alt="Visit Cart">
       </a><!-- // cart-icon-link -->
 
-      <a class="search remove" id="search-toggle-sticky" href="/search/">Search</a>
+      <a class="search remove" id="search-toggle-sticky" href="https://uncrate.com/search/">Search</a>
     </div>
   </div>
 
@@ -158,13 +161,13 @@ function getParameterByName(name) {
           </ul>
         </div>
       </div>
-      <a class="logo" href="http://uncrate.com">
+      <a class="logo" href="https://uncrate.com/">
         
           <img src="//uncrate.com/img/uncrate.png" srcset="//uncrate.com/img/uncrate.png 1x, //uncrate.com/img/uncrate@2x.png 2x" alt="Uncrate">
         
       </a>
       <div class="search-nav" id="search-nav">
-        <a id="search-toggle" href="/search/">Search</a>
+        <a id="search-toggle" href="https://uncrate.com/search/">Search</a>
       </div>
 
      <a id="cart-icon-link" href="https://store.uncrate.com/cart">
@@ -177,27 +180,28 @@ function getParameterByName(name) {
     <div class="navigation grid">
       <div class="main-nav full" id="main-nav">
         <ul class="nav">
-          <li><a href="/gear/">Gear</a></li>
-          <li><a href="/style/">Style</a></li>
-          <li><a href="/cars/">Cars</a></li>
-          <li><a href="/tech/">Tech</a></li>
-          <li><a href="/shelter/">Shelter</a></li>
-          <li><a href="/vices/">Vices</a></li>
-          <li><a href="/body/">Body</a></li>
-          <li><a href="/etc/">Etc</a></li>
-          <li><a href="/tv/">Videos</a></li>
+          <li><a href="https://uncrate.com/gear/">Gear</a></li>
+          <li><a href="https://uncrate.com/style/">Style</a></li>
+          <li><a href="https://uncrate.com/cars/">Cars</a></li>
+          <li><a href="https://uncrate.com/tech/">Tech</a></li>
+          <li><a href="https://uncrate.com/shelter/">Shelter</a></li>
+          <li><a href="https://uncrate.com/vices/">Vices</a></li>
+          <li><a href="https://uncrate.com/body/">Body</a></li>
+          <li><a href="https://uncrate.com/etc/">Etc</a></li>
+          <li><a href="https://uncrate.com/tv/">Videos</a></li>
         </ul>
       </div>
       <div class="sub-nav full" id="sub-nav">
         <ul class="nav stuff-nav">
-          <li><a href="/magazine/">Magazine</a></li>
+          <li><a href="https://uncrate.com/magazine/">Magazine</a></li>
+
 <li><a href="http://un.cr/appleapp" target="_blank">iPhone App</a></li>
 <li><a href="http://un.cr/androidapp" target="_blank">Android App</a></li>
-<li><a href="/wanted/">Most Wanted</a></li>
-<li><a href="/random/">Random Thing</a></li>
-<li><a href="/enlist/">Enlist</a></li>
-<li><a href="http://instagram.com/uncrate" target="_blank">Instacrate</a></li>
-<li><a href="/about/stash/" id="stash-nav">Members</a></li>
+<li><a href="https://uncrate.com/wanted/">Most Wanted</a></li>
+<li><a href="https://uncrate.com/random/">Random Thing</a></li>
+<li><a href="https://uncrate.com/enlist/">Enlist</a></li>
+<li><a href="https://instagram.com/uncrate" target="_blank">Instacrate</a></li>
+<li><a href="https://uncrate.com/about/stash/" id="stash-nav">Members</a></li>
 
   
 
@@ -231,52 +235,210 @@ function getParameterByName(name) {
 
 
 
-<div class="wrapper footer-wrapper">
-  <div class="footer grid">
-    <div class="footer-nav full">
-      <ul class="nav">
-        <li>Copyright © MMXVII</li>
-        <li>Uncrate, LLC</li>
-        <li><a href="/about/">About</a></li>
-        <li><a href="/contact/">Contact</a></li>
-        <li><a href="/advertise/">Advertise</a></li>
-        <li><a href="/privacy/">Privacy</a></li>
-        <li><a href="/terms/">Terms</a></li>
-      </ul>
+<div class="main-footer-wrapper">
+  <footer class="main-footer">
+    <!-- Upper footer modules. -->
+    <div class="footer-modules upper-footer">
+      <div class="footer-module footer-connect clearfix">
+        <div class="newsletter-subscription">
+          <h4>Get on the Black List.</h4>
+          <p>Be the first to know about the newest gear, automobiles, and apparel for men.</p>
+
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+          
+          <form action="https://uncrate.us1.list-manage.com/subscribe/post?u=125c5c5823653b64c4aee90cc&amp;id=e896b3ec40" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate clearfix" target="_blank" novalidate="">
+              <div id="mc_embed_signup_scroll">
+          
+          <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div> -->
+          <div class="mc-field-group">
+          	<input type="email" value="" name="EMAIL" class="newsletter-email" id="mce-EMAIL" placeholder="YOUR EMAIL" onfocus="this.placeholder = ''">
+          </div>
+          	<div id="mce-responses" class="clear">
+          		<div class="response" id="mce-error-response" style="display:none"></div>
+          		<div class="response" id="mce-success-response" style="display:none">YOU’RE NOW ON THE LIST.</div>
+          	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_125c5c5823653b64c4aee90cc_e896b3ec40" tabindex="-1" value=""></div>
+              <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="newsletter-submit"></div>
+              </div>
+          </form>
+          
+          </div>
+          <script type="text/javascript" src="/js/mc-validate.js"></script>
+        </div>
+      </div>
+
+      <div class="footer-module footer-text-box">
+        <div class="footer-quote">
+          <div class="rte">
+            <h3>“If James Bond were to make an app for the stuff he wanted to buy, this would be the app.”</h3>
+          </div>
+          <p>— Doug Stephens, Retail Futurist</p>
+        </div>
+
+        <div class="footer-app-links">
+<!--
+          <div class="footer-app-text">
+            <h3>Download the Uncrate app free.</h3>
+          </div>
+-->
+          <div class="footer-app-devices">
+            <img src="//uncrate.com/img/app-devices.png">
+          </div>
+          <div class="footer-app-buttons">
+            <a href="http://un.cr/appleapp" target="_blank" class="footer-app-button"><img src="/img/app-store.jpg"></a>
+            <a href="http://un.cr/androidapp" target="_blank" class="footer-app-button"><img src="/img/google-play.jpg"></a>
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
+
+    <!-- Lower footer modules. -->
+
+    <div class="footer-modules lower-footer">
+      <div class="footer-module footer-link-lists">
+        <div class="footer-link-list">
+          <h4>Uncrate.com</h4>
+          <ul>
+            <li><a href="/gear/">Gear</a></li>
+            <li><a href="/style/">Style</a></li>
+            <li><a href="/cars/">Cars</a></li>
+            <li><a href="/shelter/">Shelter</a></li>
+            <li><a href="/vices/">Vices</a></li>
+            <li><a href="/etc/">Etc.</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-link-list">
+          <h4>Uncrate.tv</h4>
+          <ul class="top-footer-link-list">
+            <li><a href="/tv/">Latest Videos</a></li>
+            <li><a href="/tv/channels/">Channels</a></li>
+          </ul>
+          
+          <h4>Magazine</h4>
+          <ul>
+            <li><a href="/magazine/">Buy Issues</a></li>
+            <li><a href="/magazine#magazine-stockists">Stockists</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-link-list">
+          <h4>Uncrate.Supply</h4>
+          <ul>
+            <li><a href="/supply/">New Arrivals</a></li>
+            <li><a href="/supply/shipping/#returns">Returns</a></li>
+            <li><a href="/supply/shipping/">Shipping</a></li>
+            <li><a href="/supply/affiliates/">Affiliates</a></li>
+            <li><a href="#" data-email="service">Help</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-link-list">
+          <h4>Elsewhere</h4>
+          <ul>
+            <li><a href="http://www.twitter.com/uncrate">Twitter</a></li>
+            <li><a href="http://www.instagram.com/uncrate">Instagram</a></li>
+            <li><a href="http://www.facebook.com/uncrate">Facebook</a></li>
+            <li><a href="http://www.youtube.com/uncrate">Youtube</a></li>
+            <li><a href="http://uncrate.tumblr.com">Tumblr</a></li>
+            <!--<li><a href="http://www.snapchat.com/uncrate">Snapchat</a></li> -->
+          </ul>
+        </div>
+
+        <div class="footer-link-list">
+          <h4>Global</h4>
+          <ul>
+            <li><a href="/es/">Español</a></li>
+            <li><a href="/fr/">Français</a></li>
+            <li><a href="/de/">Deutsche</a></li>
+            <li><a href="/jp/">日本語</a></li>
+            <li><a href="/cn/">中文</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-link-list">
+          <h4>Imprint</h4>
+          <ul>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/contact/">Contact</a></li>
+            <li><a href="/advertise/">Advertise</a></li>
+            <li><a href="/privacy/">Privacy</a></li>
+            <li><a href="/terms/">Terms</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Footer Mobile LinkLists -->
+
+      <div class="footer-module mobile-footer-link-lists">
+        <div class="mobile-footer-link-list">
+          <ul>
+            <li><a href="/">Uncrate.com</a></li>
+            <li><a href="/supply/">Uncrate.supply</a></li>
+            <li><a href="/tv/">Uncrate.tv</a></li>
+          </ul>
+          <ul>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/contact/">Contact</a></li>
+            <li><a href="/advertise/">Advertise</a></li>
+            <li><a href="/privacy/">Privacy</a></li>
+            <li><a href="/terms/">Terms</a></li>
+          </ul>
+          <ul>
+            <li><a href="/es/">Español</a></li>
+            <li><a href="/fr/">Français</a></li>
+            <li><a href="/de/">Deutsche</a></li>
+            <li><a href="/jp/">日本語</a></li>
+            <li><a href="/cn/">中文</a></li>
+          </ul>          
+        </div>
+      </div>
+    </div>
+
+
+    <div class="copyright">
+      <div class="footer-logo"><img src="//uncrate.com/img/footer-uncrate-logo.png"></div>
+      <p role="contentinfo">© 2017 
+        Uncrate LLC. All rights reserved. <br>Independently published since 2005.</p>
+    </div>
+
+  </footer>
 </div>
+
+
+
 <div id="mobile-nav-wrapper" class="animated">
 <ul id="mobile-nav">
-  <li><a href="/">Newest</a></li>
-  <li><a href="/wanted/">Popular</a></li>
-  <li><a href="/about/stash/">Members</a></li>
+  <li><a href="https://uncrate.com/">Newest</a></li>
+  <li><a href="https://uncrate.com/wanted/">Popular</a></li>
+  <li><a href="https://uncrate.com/about/stash/" class="stash-nav">Members</a></li>
   <li class="spacer-li"><span></span></li>
-  <li><a href="/gear/">Gear</a></li>
-  <li><a href="/style/">Style</a></li>
-  <li><a href="/cars/">Cars</a></li>
-  <li><a href="/tech/">Tech</a></li>
-  <li><a href="/shelter/">Shelter</a></li>
-  <li><a href="/vices/">Vices</a></li>
-  <li><a href="/travel/">Travel</a></li>
-  <li><a href="/body/">Body</a></li>
-  <li><a href="/etc/">ETC</a></li>
+  <li><a href="https://uncrate.com/gear/">Gear</a></li>
+  <li><a href="https://uncrate.com/style/">Style</a></li>
+  <li><a href="https://uncrate.com/cars/">Cars</a></li>
+  <li><a href="https://uncrate.com/tech/">Tech</a></li>
+  <li><a href="https://uncrate.com/shelter/">Shelter</a></li>
+  <li><a href="https://uncrate.com/vices/">Vices</a></li>
+  <li><a href="https://uncrate.com/travel/">Travel</a></li>
+  <li><a href="https://uncrate.com/body/">Body</a></li>
+  <li><a href="https://uncrate.com/etc/">ETC</a></li>
   <li class="spacer-li"><span></span></li>
   <li><a href="/magazine/">Magazine</a></li>
-  <li><a href="http://appstore.com/uncrate" target="_blank">App</a></li>
-  <li><a href="/enlist/">Dispatch</a></li>
-  <li><a href="http://instagram.com/uncrate" target="_blank">Instacrate</a></li>
+  <li><a href="https://appstore.com/uncrate" target="_blank">App</a></li>
+  <li><a href="https://uncrate.com/enlist/">Dispatch</a></li>
+  <li><a href="https://instagram.com/uncrate" target="_blank">Instacrate</a></li>
 </ul><!-- mobile-nav -->
 </div><!-- mobile-nav-wrapper -->
 
- </div><!-- .site-wrapper -->
 
+ </div><!-- .site-wrapper -->
 
 
 <script type="text/javascript">
   googletag.cmd.push(function() {
     googletag.pubads().setTargeting('ad_basenames', adBasenames);
-    // googletag.pubads().setTargeting('lead_basename', leadBasename);
+    googletag.pubads().setTargeting('lead_basename', leadBasename);
     googletag.pubads().refresh();
   });
 </script>
@@ -314,7 +476,7 @@ function getParameterByName(name) {
   				<p class="cart-fine-print">
   						Free ground shipping in the U.S.
   						<br> International rates at checkout.
-  						<br><a href="https://uncrate.supply/2486216/policies/1597145.html" target="_blank">Returns &amp; Refunds</a>
+  						<br><a href="https://uncrate.com/supply/shipping/" target="_blank">Returns &amp; Refunds</a>
   				</p>
   		</div>
   		<!-- .cart-bottom end -->
@@ -361,7 +523,7 @@ function getParameterByName(name) {
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-<script type="text/javascript" src="http://s.skimresources.com/js/54000X1299460.skimlinks.js"></script>
+<script type="text/javascript" src="//s.skimresources.com/js/54000X1299460.skimlinks.js"></script>
 
 <!-- Quantcast Tag -->
 <script type="text/javascript">
