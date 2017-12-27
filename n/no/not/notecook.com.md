@@ -1,63 +1,80 @@
-> *The following text is extracted and transformed from the notecook.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910123358id_/http%3A//notecook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notecook.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy | Notecook
+# HugeDomains.com - Privacy Policy
 
-1\. General .
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-a. Notecook regards the privacy of your personal information very seriously. This Privacy Policy describes the manner in which Notecook treats and uses personal information that Notecook will receive and collect from you.
+**What information do we collect?**
 
-b. Personal information refers to information about you that is personally identifiable, as further detailed herein, that is provided by you and which is not otherwise publicly available.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-c. Please review the ter ms of this Privacy Policy carefully. By accepting the Privacy Policy and the Notecook Standard Ter ms of Use you shall be deemed to have expressly consented to the use of your personal information in the manner described herein.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-d. This policy may be revised by Notecook from time to time, and at any time. Any material changes will be effective only after Notecook will provide prior notice of the amended Privacy Policy at least 10 days in advance. Notice of the amended Privacy Policy may be given by general notice on the Web-Site ( http://www.notecook.com ) (the “ Site ”) or by e-mail. Any amended Privacy Policy will be clearly posted on the Site. If such changes will result in the use or disclosure of your personal information in a manner materially different from that stated at the time Notecook collected the information, you will have choice whether or nor Notecook shall use or disclose your information in accordance with the amended Privacy Policy. Notice of your choice not to disclose your information is to be delivered in the manner instructed on the Site.
+**What do we use your information for?**
 
-e. This Privacy Policy applies to the practices of Notecook and its affiliates only. Other Web-Sites to which the Site is linked may be governed by their own privacy policies and statements, and Notecook is not and shall not be responsible for their operation, including but not limited to their information practices. Submission of information to or through these third party Web-Sites should be made by you after reviewing the privacy policies and statements of these sites.
+Any of the information we collect from you may be used in one of the following ways: 
 
-2\. Information Collected .
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-a. Notecook collects personal information when you register with Notecook for the purpose of receiving Notecook’s newsletters.. Notecook may also collect personal information and/or install a “cookie” on your personal computer when you use, access or logon other products or services provided by Notecook, when you visit pages of certain partners of Notecook, and when you enter certain links or other promotional features on the Site.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-b. Personal information which we will collect shall include information such as (but not limited to) your full name, email/IP address, and any such other general information Notecook may request.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-c. The information collected by Notecook is used primarily for the delivery of Notecook newsletters, but may be used for other general purposes, such as trying to understand user preferences; customize promotional and advertising content users see;; improve services provided; contact users
+• To process transactions
 
-d. Notecook may offer, from time to time, optional questionnaires, surveys and user services correspondences for the purpose of collecting information assessing users’ interests and needs (“Informative Data Requests”). Any use of any personal information collected in such Informative Date Requests shall be explained in advance and in detail.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-3\. Use and Disclosure of Information .
+• To send periodic emails
 
-a. Notecook collects, stores and processes your personal information on serves located in San Francisco, CA, USA. Notecook shall use your personal information for such purposes stated above in Section 2(e);
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-b. Unless otherwise expressly provided herein Notecook will not sell, lease or otherwise share or provide your personal information to any third parties, without your express permission. Notwithstanding the above, there may be certain circu ms tances in which some of your personal information will be shared with third parties, under strict restrictions, as further provided in this Privacy Policy.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-c. Notecook may disclose personal information collected as provided herein:
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-(1) Notecook shall disclose information that it, in good faith, believes is appropriate to cooperate in investigations of suspected fraud or other illegal activity, situations involving potential threat to the physical safety of any person, or to conduct investigations of violation of its Publishing Agreement; or any such similar information.
+**How do we protect your information?**
 
-(2) Notecook shall disclose information in response to a subpoena, warrant, court order, levy, attachment, or any comparable or applicable process; or otherwise to establish or exercise Notecook’s legal rights or to defend against legal clai ms .
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-(3) Notecook may share information with or disclose information to its employees, officers, directors, consultants, advisors, subsidiaries, affiliates, business partners, joint ventures, provided such disclosure is on a need-to-know basis, and subject to confidentiality provisions.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-(4) Notecook may share aggregated statistic data provided such information is not connected with personally identifiable data.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-(5) In the event that v is merged with or acquired by another entity, the successor entity will have access to the information maintained by Notecook. In such case the successor entity shall continue to be bound by the provisions of this Privacy Policy, unless and until amended in accordance with the provisions in this Privacy Policy.
+**Do we use cookies?**
 
-(6) We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-4\. Communications .
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-a. Notecook will generally communicate with its users via email. Notecook further reserves the right to use your email address to send you other communications, such as periodic newsletters, user questionnaires and surveys, and any other communications.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-b. You will be able to choose whether to receive these communications, in whole or in part, upon completing a standard registration form, or at any time thereafter, by changing your preferences as instructed on the Site.
+**Do we disclose any information to outside parties?**
 
-5\. Changing your Information .
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-You can review the personal information you have provided us and make any desired changes to such information including deleting information, at any time, by changing the preferences and information as instructed on the Site.
+**Online Privacy Policy Only**
 
-6\. Security .
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-Notecook is committed to handling your personal information with the highest standards of security information. Notecook shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly.
+**Terms and Conditions**
 
-7\. Contact .
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-If you have any questions about this Privacy Policy or your dealings with Notecook, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@notecook.com .
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
