@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanduel.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603022422id_/https%3A//www.fanduel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanduel.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235000id_/https%3A//www.fanduel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FanDuel
 
@@ -111,7 +111,7 @@ _3.1.2_ processing and responding to enquiries;
 
  _4.2_ When you choose to share information with social media services about your activities on FanDuel by, for example, connecting your social media account to our Service, then FanDuel may share your personal information and information about your use of the Service with such social media sites. Please make sure to read the terms and privacy statements of such sites prior to connecting to our Service in this way.
 
- _4.3_ In the event that you win a prize we may contact use your personal information (such as your name and photo) in connection with publicity purposes. 
+ _4.3_ In the event that you win a prize we may use your personal information (such as your name and photo) in connection with publicity purposes. 
 
 _4.4_ In the event that you win a promotion run by us we may be required to either publish or make available upon request your name and county in accordance with applicable legislation.
 
