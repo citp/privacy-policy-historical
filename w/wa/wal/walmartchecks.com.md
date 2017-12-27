@@ -1,8 +1,37 @@
-> *The following text is extracted and transformed from the walmartchecks.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628162312id_/http%3A//corporate.walmart.com/privacy-security/walmart-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmartchecks.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002250id_/http%3A//corporate.walmart.com/privacy-security/walmart-privacy-policy) for the most accurate reproduction.*
 
 # Walmart Privacy Policy
 
-At Walmart, our customers are number one - always. That's why everything we do is focused on providing excellent customer service and delivering low prices.
+We recently updated our Privacy Policy.
+
+**Does the updated Privacy Policy apply to me?**  
+If you register for your Walmart.com account or make a purchase from Walmart.com on or after 11pm PST November 28, 2017, you will, upon registration or at the time of purchase, agree to our new Privacy Policy below.
+
+If you registered for your Walmart.com account or made a purchase from walmart.com before November 28, 2017, our [previous Privacy Policy](https://corporate.walmart.com/privacy-security/walmart-privacy-policy) will apply to you until you make a new purchase from Walmart.com.
+
+If you have not registered for a Walmart.com account and only shop with us in store, this policy will apply to any transactions in store on or after 11pm PST November 28, 2017.
+
+Learn more about what changed.
+
+__More
+
+  
+**What changed in the Privacy Policy?**  
+Updates to our Privacy Policy include:
+
+  * We clarified how cookies and similar technologies are used on our site
+  * We updated our terms related to automated phone calls and text messages
+  * We updated our terms related to sharing of information between 
+  * Walmart and our co-branded partners
+
+
+
+ **Who do I contact for more information?**  
+If you have any questions, please see the "Who Can I Contact at Walmart About the Privacy Policy?" section of our Privacy Policy.
+
+## Walmart Privacy Policy Summary
+
+_At Walmart, our customers are number one - always. That's why everything we do is focused on providing excellent customer service and delivering low prices._
 
 The information you share with Walmart allows us to provide the products and services you need and want while giving you the very best shopping experience. 
 
@@ -17,8 +46,8 @@ Our Policy outlines:
 
 
 
- **[En Español>](http://corporate.walmart.com/privacy-security/politica-de-privacidad-de-walmart "Link: http://prod.walmart.psdops.com/newcorpus/privacy-security/politica-de-privacidad-de-walmart")  
-[Walmart Privacy Policy Frequently Asked Questions >](http://corporate.walmart.com/privacy-security/walmart-privacy-policy/walmart-privacy-policy-frequently-asked-questions "Link: http://corporate.walmart.com/privacy-security/walmart-privacy-policy/walmart-privacy-policy-frequently-asked-questions")**  
+[ **En Español >**](http://corporate.walmart.com/article/politica-de-privacidad-de-walmart)  
+ **[Walmart Privacy Policy Frequently Asked Questions>](http://corporate.walmart.com/privacy-security/walmart-privacy-policy/walmart-privacy-policy-frequently-asked-questions "Link: http://corporate.walmart.com/privacy-security/walmart-privacy-policy/walmart-privacy-policy-frequently-asked-questions")**  
 
 
 ## What Does Our Privacy Policy Include?
@@ -72,8 +101,11 @@ You share information with us in various ways in our stores and online. For exam
 
 
 
-When you engage in these activities, you may share different types of personal information with us, such as your name, email address, physical or postal address, phone number, date of birth, and payment information.  
-You also provide us information in other ways through technology. Some of this information may be linked to you personally. This information helps our websites and mobile services work correctly and supports our customer marketing and analytics efforts – our work to understand our customers’ needs and provide information about our products and services. Here are some examples:
+  
+When you engage in these activities, you may share different types of personal information with us, such as your name, email address, physical or postal address, phone number, date of birth, and payment information.
+
+You also provide us information in other ways through technology. Some of this information may be linked to you personally. This information helps our websites and mobile services work correctly and supports our customer marketing and analytics efforts – our work to understand our customers’ needs and provide information about our products and services. Here are some examples:  
+
 
   *  **Device Information** : We collect technical information when you visit our websites or use our mobile applications or services. This includes information such as Internet Protocol (IP) address, the type of mobile device you use, your device operating system and browser type, a unique device identifier, the address of a referring websites, the path you take through our websites, and other information about your session on our websites.
   *  **Browsing Information** : We use technologies such as cookies, web beacons, and mobile device identifiers to collect information about the use of our websites and mobile services.  Cookies allow us to provide you relevant information as you use or return to our sites. Web beacons allow us to know if a certain page was visited, an email was opened, or if ad banners on our websites and other sites were effective. We use these tools to provide a continuous and more personalized shopping experience for you.  _See “What Are Your Choices?” below for more information_.
@@ -117,23 +149,23 @@ __More
 
 We will not share your personal information outside of our corporate family of companies, except in the following circumstances:
 
- **Service Providers  **  
-We share personal information about you with service providers that help with our business activities, including shipping vendors, billing and refund vendors, payment card processors, and companies that help us improve our products and services. We require our service providers to keep your personal information secure. We do not allow our service providers to use or share your personal information for any purpose other than providing services on our behalf.  Your personal information may be stored and processed by our service providers in the United States or other locations where the service providers or Walmart maintain facilities. 
+ **Service Providers**  
+We share personal information about you with service providers that help with our business activities, including shipping vendors, billing and refund vendors, payment card processors, and companies that help us improve our products and services. We require our service providers to keep your personal information secure. We do not allow our service providers to use or share your personal information for any purpose other than providing services on our behalf. Your personal information may be stored and processed by our service providers in the United States or other locations where the service providers or Walmart maintain facilities. 
 
- **Products and Services Offered by Other Businesses**  
-We will sometimes enable other businesses to make products or services available to our customers, such as through Walmart.com Marketplace retailers. You may purchase products or services from these other businesses at our stores or through our websites or mobile services. We indicate when products or services are offered by other businesses and share with these businesses personal information related to your purchase of their products and services. 
+**Products and Services Offered by Other Businesses**  
+We will sometimes enable other businesses to make their products or services available to our customers, such as through Walmart.com Marketplace retailers. You may purchase products or services from these other businesses at our stores or through our websites or mobile services. When you purchase these products or services, we identify the other business and share with this business personal information related to your purchase of their products and services. 
+
+**Co-Branded Products and Services**  
+We may share your personal information with companies that offer co-branded products or services, such as our co-branded Walmart credit card offered by Synchrony Bank. These companies are prohibited from using your personal information for purposes other than offering you these co-branded products and services.
 
  **Legal Requirements and Protection of Our Company and Others**  
 We may share your personal information in other special circumstances, which include situations when sharing is required by law, or we believe sharing will help to protect the safety, property, or rights of Walmart, our customers, our associates, or other persons. Examples include: 
 
   * Protecting the health or safety of customers;
   * Addressing crimes committed on Walmart property;
-  * Identifying and addressing fraud or financial risk;  
-
-  * Providing personal information from cameras to law enforcement at their written request;  
-
-  * Responding to a search warrant or other valid legal inquiry; and   
-
+  * Identifying and addressing fraud or financial risk;
+  * Providing personal information from cameras to law enforcement at their written request;
+  * Responding to a search warrant or other valid legal inquiry; and 
   * Responding to an investigative body in the case of a breach of an agreement or violation of law.
 
 
@@ -147,11 +179,16 @@ In any circumstance other than those described above, we will ask for your affir
 
 ## What are Your Choices?
 
-You have choices about the various ways we collect, use, and share your personal information. 
+You have choices about the various ways we collect, use, and share your personal information.  
 
-  * We may send you marketing communications. You can tell us your marketing preferences by visiting our [Communication Preferences & Alerts page](http://www.walmart.com/privacypreferences?adid=1500000000000006858130 "Link: null").
-  * We also personalize your experience on our sites and mobile services by showing you advertisements from Walmart or our advertising partners that are tailored to your interests.  [Learn more about interest-based advertising, including how to opt out.](http://corporate.walmart.com/privacy-security/notices/#0000014f-f201-d36d-adcf-fa2bfaf30000)
-  * Some of our mobile services use your device’s location information. You can adjust the settings of your mobile device at any time to control whether your device communicates this location information.   We may also offer additional controls on our use of your mobile location information. 
+
+  * We may send you marketing communications. You can tell us your marketing preferences with Walmart by visiting the Walmart [Communication Preferences & Alerts page,](https://corporate.walmart.com/privacy-security/communication-preferences-alerts) and your preferences with Vudu by visiting the VUDU Communication Preferences section on the [Account Information page](https://my.vudu.com/AccountManage.html#accountInfo/).
+  * We also personalize your experience on our sites and mobile services by showing you advertisements from Walmart or our advertising partners that are tailored to your interests. [Learn more about interest-based advertising, including how to opt out](https://corporate.walmart.com/privacy-security/notices/#0000014f-f201-d36d-adcf-fa2bfaf30000).
+
+
+
+Some of our mobile services use your device’s location information. You can adjust the settings of your mobile device at any time to control whether your device communicates this location information. We may also offer additional controls on our use of your mobile location information.   
+
 
 __More
 
@@ -248,21 +285,17 @@ We have additional [specific notices](http://corporate.walmart.com/privacy-secu
 
 ## Who Can I Contact at Walmart About the Privacy Policy?
 
-You can contact the Walmart Privacy Office online or by postal mail.  
-
+Contact our [Customer Service Team](https://corporate.walmart.com/contact-us) or write the Walmart Privacy Office with any questions or comments about this Policy or about how we handle your personal information.
 
 __More
 
-Contact [Customer Service](http://corporate.walmart.com/contact-us/store-corporate-feedback "Link: http://corporate.walmart.com/contact-us/store-corporate-feedback") for store experience, marketing preferences, and general feedback/questions.
-
-[Contact the Privacy Office](http://corporate.walmart.com/contact-us "Link: http://corporate.walmart.com/contact-us") \- Please feel free to contact the privacy office with any questions or comments about this Policy or about how your personal information is handled. You can also contact us via the address below:
-
-Mail:  
+The Privacy Office’s address is:  
 Walmart Corporate  
 Privacy Office, MS #0160  
 702 SW 8th Street  
-Bentonville, AR 72716-0160  
+Bentonville, AR 72716-0160
 
+For store experience, marketing preferences, and general feedback/questions, visit [Store and Corporate Feedback](https://corporate.walmart.com/contact-us/store-corporate-feedback).
 
 ## What Are Your California Privacy Rights?
 
@@ -271,12 +304,17 @@ Our Privacy Policy describes how we share information for marketing purposes. Th
 __More
 
   * We share personal information with others outside of Walmart for direct marketing of their products only if we have your affirmative consent (opt in). See  _“How Do We Share Your Personal Information Outside Walmart?”_
-  * We share personal information with other businesses within our corporate family, such as Sam's Club and Vudu.  _See “How Do We Use Your Personal Information?”_
+  * We share personal information with other businesses within our corporate family, such as Sam's Club and Vudu. See “How Do We Use Your Personal Information?”
 
 
 
-Please [Contact Us](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#ContactUs "Link: null") with any questions, or to request a list of third parties to whom we may share personal information for their marketing purposes and the categories of information we may disclose.  
+To request a list of third parties to whom we may share personal information for their marketing purposes and the categories of information we may disclose, please mail your request to the address listed below:
 
+Mail:  
+Walmart Corporate  
+Privacy Office, MS #0160  
+702 SW 8th Street  
+Bentonville, AR 72716-0160
 
 ## How Will I Know if this Policy Changes?
 
