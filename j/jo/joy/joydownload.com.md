@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joydownload.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617064103id_/http%3A//www.joydownload.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joydownload.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227232213id_/http%3A//www.joydownload.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - JoyDownload
 
