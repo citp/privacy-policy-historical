@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kmall24.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609065520id_/http%3A//www.kmall24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmall24.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227040916id_/http%3A//kmall24.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy - The Best Online Store for Fans of Korea
+# privacy-policy - KMALL24
 
 This privacy policy sets out how Kmall24 uses and protects any information that you give Kmall24 when you use this website. Kmall24 is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement and the site Terms and Conditions. Kmall24 may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
