@@ -1,114 +1,80 @@
-> *The following text is extracted and transformed from the 2leads2cash.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812174046id_/http%3A//www.2leads2cash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2leads2cash.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# 2Leads2Cash-
+# HugeDomains.com - Privacy Policy
 
-**Our Privacy Policy** has been developed as an extension of our commitment to combine quality products and services with integrity in dealing with users. The Policy is designed to assist you in the understanding of how we collect, use and protect the personal information provided to us.  
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
+**What information do we collect?**
 
-##   
-**What Information Do We Collect?**
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-**When you visit our site,** we collect two types of information: personal information you actively choose to disclose ("Active Information") and Use information collected, in a way not visible to you, on an aggregate anonymous basis as you and other users browse our site ("Passive Information").
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**1\. Personally Identifiable Information**
+**What do we use your information for?**
 
-This refers to information that lets us know specifically about you i.e. profile information.
+Any of the information we collect from you may be used in one of the following ways: 
 
-**A. Registration**  
-When you register to become an authorized reseller of our products or services, we will collect Personally Identifiable Information (such as name, address, email address, and telephone number). This Personally Identifiable Information is securely stored and may be accessed on our website.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-You are assigned an identification number and select your own password, both are needed to enter the Site and to access your Contact Information. Please safeguard your password in a secure location as we are not responsible for breaches into the system when access is willingly provided.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-**B. Ordering**  
-When you place an order for products or services, we collect Personally Identifiable Information (such as name, contact and billing information, credit card, and other transactional information). We use this information to deliver your order, process payment, and to communicate the status of your order.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-**C. Credit Card Storage**  
-Credit card information collected at registration or for product orders is used only to process payment for the transaction and, generally, is not retained on our Site. However, you may voluntarily elect to securely store multiple credit cards to be used for product orders.
+• To process transactions
 
-**D. Surveys and Promotions**  
-Occasionally, you may voluntarily provide Personally Identifiable Information to complete surveys and questionnaires or to participate in user polls. We use this information to improve our products and services and to ensure that we're providing accurate disclosures.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-We may also use your Personally Identifiable Information to provide you newsletters and other marketing information that coincide with your preferences. You may customize your marketing preferences, or let us know if you do not wish to receive any promotional materials, by adjusting your Subscriptions & Email options on the Site.
+• To send periodic emails
 
-**2\. Aggregate Information**  
-This refers to information that does not, by itself, identify you as a specific individual. Such information would include the Uniform Resource Locator ("URL") of the website that referred you to our Site, your Internet Protocol ("IP") address (a number automatically assigned to your computer whenever you surf the web), your operating system and browser type, and any search terms that you enter on our Site.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Our web server aggregates this information in order to monitor the level of activity on our Site, evaluate its effectiveness, and improve the content or our Site in order to make your visit an easy and enjoyable experience.  
-We may collect, compile, store, publish, promote, report, or otherwise disclose or use any Aggregate Information, provided that such information does not personally identify you.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-We do not correlate any Personally Identifiable Information with the Aggregate Information that we collect on our Site. If we do correlate any Aggregate Information to you, it will be protected like any other Personally Identifiable Information under this Privacy Statement.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Active Information You Choose to Provide In order to gain use of the site (become a "user"), we require you to disclose the following information: Name, Address and Phone Number.
+**How do we protect your information?**
 
-We use secure socket layer (SSL) encryption to protect the transmission of the information you submit to us when you use our secure online forms. The information you provide to us is stored securely.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-## **Passive Information Collected**
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-**What is a Cookie?**  
-Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a site. They are small pieces of data stored by a user's browser to simplify subsequent interactions with the site. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-Our site utilizes cookies to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after visiting our site. If you do not wish to transmit "cookie" information about yourself, you may turn off the cookie function in your web browser.
+**Do we use cookies?**
 
-Our site's servers also automatically identify your computer by its Internet Protocol address, which is a unique string of numbers that are assigned to your computer by your Internet Service Provider. The IP address may be used to address problems with our server or to gather broad demographic information about our users. We passively collect your IP Address.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-## **How Do We Use the Information Collected?**
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-Broadly speaking, persons we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing customer support and making available other products or services we think might be of interest to our users.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-We may use the Active Information or Passive Information you provide to contact you about various changes to our site, new services, features or products we offer. If at any time you do not wish to receive such information, you may "opt-out" of doing so by adjusting your email settings in the back office of the website.
+**Do we disclose any information to outside parties?**
 
-We use Passive Information to gather information about our users and to enhance our site to make it easier, faster and friendlier for users. Additionally, cookies help us better understand the usage pattern of the people that visit our site, which helps us improve our services. Passive Information may result in your viewing of particular advertising based on your user habits.
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-**Your Information In Relation to Others We Link To**
+**Online Privacy Policy Only**
 
-  
-You might be able to access other websites through our site via hyperlinks. When you do so, you are subjecting yourself to their privacy policies and data collection. Please read the privacy policies of those sites to ensure you agree with the terms before using such sites.
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-**Sharing Information with Advertisers or Other Third Parties**
+**Terms and Conditions**
 
-We may disclose anonymous information about user habits to advertisers on our site. The parties who perform services for us (credit card processors, merchant bank, Internet Service Provider) may also have access to your information in performing such services.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-Should we buy or sell assets of our company, another company may need to review our company's assets, which might include your information, to make business decisions as to whether to acquire such assets.
+**Your Consent**
 
-**Sharing Information with the Government or As Otherwise Required by Law**
+By using our site, you consent to our web site privacy policy. 
 
-  
-We may be required by subpoena, law or government agency to disclose both Active and Passive Information you have provided to us.
+**Changes to our Privacy Policy**
 
-**How Do We Secure Active Information and Passive Information?**
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss of Active and Passive Information.
+This policy was last modified on 1/10/2012 
 
-Individual postings on this site and other communications to our office via email or standard mail may not be secure unless we advise you that security measures are in place prior to your submission of information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we respectfully request that you do not send or post sensitive information through these means.
+**Contacting Us**
 
-**Accessing and Correcting Your Information**
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
 
-  
-We take reasonable measures to ensure that any Personally Identifiable Information we collect on our Site is accurate, current, complete, and reliable for its intended use. If you wish to update or otherwise correct Personally Identifiable Information provided to us, you may edit your information online.
-
-**Protecting Your Information**
-
-We acknowledge your trust and are committed to take reasonable steps to protect Personally Identifiable Information provided from loss, misuse, and unauthorized access. We employ physical, electronic, and managerial processes to safeguard and secure your information.
-
-It is you responsibility to safeguard the password you use to access our Site and to promptly advise us if you ever suspect that your password has been compromised. We strongly encourage you to change your password regularly to prevent unauthorized access. Because your identification number and password are specific to you, you acknowledge sole responsibility for any and all use of our Site conducted with your identification number and password.
-
-**Links to Other Websites**
-
-  
-Links to third-party websites may be provided solely for your information and convenience or to provide additional shopping for various other goods and services through our Merchant and Services Partners. If you use these links, you will leave our Site. This Privacy Statement does not cover the information practices of those websites nor do we control their content or privacy policies. We suggest that you carefully review the privacy policies of each site you visit.
-
-**Children's Privacy Protection**
-
-  
-We take special care to protect the privacy needs of children and encourage parents to be an active participant in their child's online activities. Our Site does not target and is not intended for children under the age of 18, and we will not knowingly collect Personally Identifiable Information from them. If we discover personal data from a child through our site, we will eliminate that (data. You) may learn more about protecting children's privacy online by visiting: <http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm>.
-
-  
-Any updates or changes to the terms of this Privacy Statement will be posted on our Site and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use. 
-
-**YOUR USE OF OUR SITE MEANS THAT YOU ACCEPT THE PRACTICES SET FORTH IN THIS POLICY.** **YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES.**
-
-  
-[](http://www.2leads2cash.com/trr.php?id=641)  
-[](http://www.2leads2cash.com/trr.php?id=297)  
-  
-
+HugeDomains.com
