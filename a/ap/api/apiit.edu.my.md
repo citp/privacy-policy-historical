@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apiit.edu.my privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626033134id_/http%3A//www.apiit.edu.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apiit.edu.my privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227055706id_/http%3A//www.apiit.edu.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Asia Pacific Institute of Information Technology (APIIT)
 
