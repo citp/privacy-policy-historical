@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the wwe.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053024id_/http%3A//www.wwe.com/main-help/generalfaq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwe.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003632id_/http%3A//www.wwe.com/main-help/generalfaq/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | WWE
 
 **World Wrestling Entertainment, Inc. Privacy Policy**  
- **Updated** **August 26, 2016**  
+ **Updated December 1** **, 2017**  
  
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=a75f44c1-6c97-42d6-80f8-67bf441d3db4 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=e1e47a0e-b39a-45a5-90c5-c22adf404e85)
 
 ### **Introduction**
 
-The websites <http://network.wwe.com/>, <https://shop.wwe.com/>, <https://euroshop.wwe.com/>, <http://auction.wwe.com/>, <https://shopexpress.wwe.com/>, [www.wwe.com](http://www.wwe.com/ "www.wwe.com"), [www.WWEToughEnough.com](https://www.wwetoughenough.com/) and our WWE Mobile Application (collectively, the “Services”) you have entered are owned and operated by, or on behalf of, World Wrestling Entertainment, Inc. or its affiliates (collectively, "WWE", "we" or "us"). This Privacy Policy applies to the Services unless we have posted a special Privacy Policy to a particular website, in which case the special Privacy Policy terms apply to that website or service to the extent that they are different from this Privacy Policy.
+The websites <http://network.wwe.com/>, <https://shop.wwe.com/>, <https://euroshop.wwe.com/>, <http://auction.wwe.com/>, <http://www.tapout.com/>, <https://shopexpress.wwe.com/>, [www.wwe.com](http://www.wwe.com/ "www.wwe.com"), [www.WWEToughEnough.com](https://www.wwetoughenough.com/), [http://corporate.wwe.com](http://corporate.wwe.com/) and our WWE Mobile Application (collectively, the “Services”) you have entered are owned and operated by, or on behalf of, World Wrestling Entertainment, Inc. or its affiliates (collectively, "WWE", "we" or "us"). This Privacy Policy applies to the Services unless we have posted a special Privacy Policy to a particular website, in which case the special Privacy Policy terms apply to that website or service to the extent that they are different from this Privacy Policy.
 
 Please note that this Privacy Policy contains capitalized words or phrases. These words and phrases are defined terms. Their definitions are found either in this Privacy Policy or in our [Terms and Conditions of Use](http://www.wwe.com/main-help/generalfaq/terms-and-conditions-wwe "Terms and Conditions of Use") ("Terms of Use"). To help you use this Privacy Policy and our Terms of Use, we have made some words, phrases and headings into hyperlinks. These words, phrases and headings have color highlighting.
 
-WWE has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have questions about our privacy practices or Privacy Policy, please contact us at [privacy@wwe.com](mailto:privacy@wwe.com).
+The WWE’s privacy practices, described in this Privacy Policy, comply with the APEC Cross Border Privacy Rules System.  The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies.  More information about the APEC framework can be [found here](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx).
 
-The TRUSTe certification covers our collection, use and disclosure of information we collect through the Services.
-
-If you have a privacy or data use concern that we have not addressed satisfactorily in this Privacy Policy, please contact us at [privacy@wwe.com](mailto:privacy@wwe.com).  If your concern remains unresolved, please contact TRUSTe at [https://feedback-form.truste.com/watchdog](https://feedback-form.truste.com/watchdog/request).
+If you have a privacy or data use concern that we have not addressed satisfactorily in this Privacy Policy, please contact us at [privacy@wwe.com](mailto:privacy@wwe.com).  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 WWE wants to help you make the most of your use of our Services, and that includes helping to protect your personal privacy. Most of the features on our Services are offered without collecting any Personal Information (defined below) from you; however, some features require you to provide your Personal Information. For example, when you make a purchase or sign up for a paid service (such as in the WWE Shop), you are required to submit Personal Information in connection with our providing various products and services to you. You may also submit content of your own in areas of our Services, and some of that User-Generated Content may contain Personal Information. For those aspects of our Services that do require us to collect Personal Information or allow voluntary submission of Personal Information, this Privacy Policy will offer suggestions on how to make good decisions for yourself and your family.
 
@@ -140,7 +138,7 @@ We take what we believe to be appropriate physical, administrative and technical
 
 ### **Managing Your Preferences**
 
-In general, features on our websites requiring registration allows you to either opt-in or opt-out from receiving updates, special offers, promotions, marketing or other correspondence from either us or our business affiliates or advertising partners. You can reverse your decision any time by following the unsubscribe instructions contained in the e-mail communications you receive. In addition, if after registering you would no longer like to receive such information, click [here](https://secure.net.wwe.com/enterworkflow.do?flowId=account.profile) and sign into your account. After signing in, select My Preferences. Below the Superstars are the e-mail preferences. Clicking Uncheck All and Save Changes will remove you from all of our mailing lists. Indicate your preference to "unsubscribe," and we will remove you from our list. Alternatively, please contact us at [privacy@wwe.com](mailto:privacy@wwe.com) with your request. In each case please be sure to include your name and e-mail address in the e-mail, and all other relevant information, so that we can properly action your request and remove that information from our list.
+In general, features on our websites requiring registration allows you to either opt-in or opt-out from receiving updates, special offers, promotions, marketing or other correspondence from either us or our business affiliates or advertising partners. You can reverse your decision any time by following the unsubscribe instructions contained in the e-mail communications you receive. Alternatively, please contact us at [privacy@wwe.com](mailto:privacy@wwe.com) with your request. In each case please be sure to include your name and e-mail address in the e-mail, and all other relevant information, so that we can properly action your request and remove that information from our list.
 
 We partner with a third party ad network to either display advertising on our websites and mobile application or to manage our advertising on other sites. To learn more, please read our [Cookie Policy](http://www.wwe.com/help/generalfaq/data-preferences).
 
