@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyst.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226220059id_/https%3A//www.lyst.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyst.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227225206id_/https%3A//www.lyst.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ This Policy covers Lyst’s treatment of personal data that Lyst gathers when yo
 
 The information we gather enables us to personalize and improve our services or complete a transaction on your behalf.
 
-We use the information to deliver the Services to you and, amongst other things, to: process payments, communicate with you about your orders, as well as products, services and promotional offers; administer your accounts and update our records; display Content such as "My Lysts" and recommend merchandise and services that might be of interest to you; improve our store and platform, prevent or detect abuses of our Services and enable third parties to carry out technical, logistical or other functions on our behalf.
+We use the information to deliver the Services to you and, amongst other things, to: process payments, communicate with you about your orders, as well as products, services and promotional offers; administer your accounts and update our records; display Content and recommend merchandise and services that might be of interest to you; improve our store and platform, prevent or detect abuses of our Services and enable third parties to carry out technical, logistical or other functions on our behalf.
 
 We retain personal information no longer than is legally permissible and delete personal information when it is no longer necessary for the purposes set out in this Policy. We collect the following types of information from our users:
 
@@ -86,7 +86,7 @@ We employ other companies and people to perform tasks on our behalf and need to 
 
 ##### vi. User Profiles and Other Information You Post
 
-User profile information including your username, name, email address, and other information you enter (“User Submissions”) may be displayed to other users to facilitate user interaction within the Services and allow you to follow other users, and them to follow you. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Any personal data or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, through reviews in product pages, etc.), as well as the items and "Lysts" you compile on the Services, become publicly available and can be viewed, collected and used by others. Any images, captions, physical descriptions, personal interests or other content that you submit to the Services may be redistributed through the Internet and other media channels, and may be viewed by the general public.
+User profile information including your username, name, email address, and other information you enter (“User Submissions”) may be displayed to other users to facilitate user interaction within the Services and allow you to follow other users, and them to follow you. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Any personal data or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, through reviews in product pages, etc.) become publicly available and can be viewed, collected and used by others. Any images, captions, physical descriptions, personal interests or other content that you submit to the Services may be redistributed through the Internet and other media channels, and may be viewed by the general public.
 
 Please be aware that whenever you voluntarily post information to public areas on the Services or any other public forums, such information can be accessed by the public.
 
