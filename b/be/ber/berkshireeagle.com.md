@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkshireeagle.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625190939id_/http%3A//berkshireeagle.com/privacy-policy/berkshire-eagle) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkshireeagle.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227045732id_/http%3A//berkshireeagle.com/privacy-policy/berkshire-eagle) for the most accurate reproduction.*
 
 # The Berkshire Eagle | Pittsfield Breaking News, Sports, Weather, Traffic
 
