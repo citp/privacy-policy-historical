@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happyplace.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627015009id_/https%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyplace.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001752id_/https%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Someecards.com
+# Privacy Policy | someecards.com
 
 At Someecards we believe information privacy is an important issue. Therefore, we have developed the following policy. This policy may be updated, revised and re-posted from time to time. This policy applies to all visitors to Someecards.com. By visiting Someecards, and any other linked pages, features, content, or application services offered from time to time by Someecards in connection therewith (collectively, the "Site"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
@@ -95,29 +95,20 @@ Information collected by Someecards is stored in secure operating environments t
 
 #### SUMMARY
 
-What visitor information is collected upon a Someecards.com visit?
+  * What visitor information is collected upon a Someecards.com visit?
+    * Cookie Markers, Unique visitor counts, User preference settings.
+  * What information is collected during a Someecards send?
+    * Sender's name and e-mail address, Recipient's name and e-mail address, card note, Sender's IP address, browser type.
+  * How is this used?
+    * Card delivery, Site support, demographic reports, recipient privacy, Card pick up assistance.
+  * How can I review, edit or delete this information?
+    * An opportunity for editing is provided after a "card build" and before a site send.
+  * What information is collected during a Someecards pickup?
+    * IP of Pickup person
+  * Why? How is this used?
+    * Site support, demographic reports, recipient privacy, card pick up assistance.
 
-Cookie Markers, Unique visitor counts, User preference settings.
 
-What information is collected during a Someecards send?
-
-Sender's name and e-mail address, Recipient's name and e-mail address, card note, Sender's IP address, browser type.
-
-How is this used?
-
-Card delivery, Site support, demographic reports, recipient privacy, Card pick up assistance.
-
-How can I review, edit or delete this information?
-
-An opportunity for editing is provided after a "card build" and before a site send.
-
-What information is collected during a Someecards pickup?
-
-IP of Pickup person
-
-Why? How is this used?
-
-Site support, demographic reports, recipient privacy, card pick up assistance.
 
 #### QUESTIONS AND COMMENTS
 
@@ -130,74 +121,3 @@ Someecards may amend this Privacy Policy from time to time. If we decide to chan
 #### Last Updated: July 7, 2009
 
 someecards, inc. P.O. Box 695 New York, NY 10159
-
-## When you care enough to hit send
-
-Almost Done!
-
-Choose an available username to complete sign up
-
-Forgot Password
-
-Enter the email associated with your account and you will be emailed instructions to reset your password
-
-Forgot Password
-
-A recovery link has been sent to your email.
-
-Activation Link Was Emailed
-
-There's one last annoying step. Please confirm your account by clicking the activation link that was just sent to your email address. (Check your spam folder if you don't see it in your inbox)
-
-Almost Done!
-
-We require an email to sign up
-
-Choose an available username to complete sign up
-
-Reactivate Account
-
-This account has been deactivated or was never activated. You must reactivate it in order to continue using it.
-
-Reactivate Account
-
-A reactivation link has been sent to your email address.
-
-Confirm Your Email Address
-
-We have sent you an email with a link to confirm and activate your account.
-
-Get the Newsletter  
-You'll love not unsubscribing.
-
-You're really close. To complete your subscription, click on the activation link in the email you've been sent.
-
-Enter your email to unsubscribe from our newsletter
-
-We're sorry to see you go. To complete your unsubscription, click on the link in the email you've been sent.
-
-Email:
-
-To:
-
-Message (Optional):
-
-To:
-
-Message:
-
-Delivery:
-
-Hi ,
-
-We need to confirm your email address for this account.
-
-Email
-
-Thanks for Signing Up!
-
-We have sent you an email so you can confirm the email address you provided.
-
-An unknown error occured
-
-Try again or [send us an email](mailto:feedback@someecards.com)
