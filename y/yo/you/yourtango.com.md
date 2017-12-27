@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourtango.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628045101id_/http%3A//www.yourtango.com/tango-publishing-corporation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtango.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003202id_/http%3A//www.yourtango.com/tango-publishing-corporation-privacy-policy) for the most accurate reproduction.*
 
 # Tango Publishing Corp Privacy Policy – Updated 2014 | YourTango
 
