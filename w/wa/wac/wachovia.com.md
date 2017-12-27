@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628124841id_/https%3A//www.wellsfargo.com/privacy-security/privacy/online) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004723id_/https%3A//www.wellsfargo.com/privacy-security/privacy/online) for the most accurate reproduction.*
 
 # Digital Privacy and Cookies Policy – Privacy and Security – Wells Fargo
 
