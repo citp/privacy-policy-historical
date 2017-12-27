@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardiffmet.ac.uk privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627184956id_/http%3A//cardiffmet.ac.uk/about/Pages/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardiffmet.ac.uk privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227220254id_/http%3A//www.cardiffmet.ac.uk/about/Pages/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
