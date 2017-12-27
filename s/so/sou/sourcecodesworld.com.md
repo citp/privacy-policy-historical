@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcecodesworld.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527205336id_/http%3A//www.sourcecodesworld.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcecodesworld.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227075925id_/http%3A//www.sourcecodesworld.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
