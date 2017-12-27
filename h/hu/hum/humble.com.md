@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the humble.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624062415id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humble.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227232239id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date: October 18, 2016 
+Effective Date: September 14, 2017 
 
 Humble Bundle, Inc. ("Humble Bundle," "we," "us," or "our") has created the following Privacy Policy to let users of [humblebundle.com](https://web.archive.org/) or Humble Bundle’s mobile application (individually and collectively, the “Service”), know what information we collect when you visit the Service, why we collect it, and how it is used. This Privacy Policy explains the data collection and use practices of the Service; it does not apply to other online or offline Humble Bundle sites, products or services. The terms "you," "your," and "yours" refer to users of our Service. By using the Service, you consent to the data practices prescribed in this Privacy Policy and agree to our [Terms and Conditions](https://web.archive.org/terms). 
 
@@ -10,11 +10,13 @@ Humble Bundle, Inc. ("Humble Bundle," "we," "us," or "our") has created the foll
 
 We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy and remain informed about any changes to it, so we encourage you to visit this page often. If a material change is made to this Privacy Policy, then Humble Bundle will post a notice on [humblebundle.com](https://web.archive.org/). Your continued use of the Service constitutes your agreement to this Privacy Policy and any updates. 
 
-**Privacy Shield.**
+**Privacy Shield and International Transfer.**
 
-Humble Bundle has applied to participate in the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union, European Economic Area, and Switzerland. Humble Bundle has certified or will certify to the Department of Commerce that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. For purposes of this section, Humble Bundle refers to the following U.S. legal entities: Humble Bundle, Inc. 
+We are based in the U.S. and the information we and our service providers collect is governed by U.S. law. If you are accessing the Service from outside of the U.S., please be aware that information collected through the Service may be transferred to, processed, stored and used in the U.S. Data protection laws in the U.S. may be different from those of your country of residence. Your use of the Service or provision of any information therefore constitutes your consent to the transfer to and from, processing, usage, sharing and storage of your information, including Personal Information (defined below), in the U.S. as set forth in this Privacy Policy. 
 
-In accordance with our obligations under the Privacy Shield, and subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission, we hereby affirm our commitment to subject to the Privacy Shield Principles all personal information transferred from the European Union, European Economic Area or Switzerland in reliance on the Privacy Shield. This means that, in addition to our other obligations under the Privacy Shield Principles, we shall be liable to you for any third party agent to which we transfer your personal information and that processes such personal information in a manner that violates the Privacy Shield Principles, unless we can demonstrate that we are not responsible for the resulting damages. 
+Humble Bundle has applied to participate in the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from the European Union, European Economic Area, and Switzerland. Humble Bundle has certified or will certify to the Department of Commerce that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. For purposes of this section, Humble Bundle refers to the following U.S. legal entities: Humble Bundle, Inc. 
+
+In accordance with our obligations under the Privacy Shield, and subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission, we hereby affirm our commitment to subject to the Privacy Shield Principles all Personal Information transferred from the European Union, European Economic Area or Switzerland in reliance on the Privacy Shield. This means that, in addition to our other obligations under the Privacy Shield Principles, we shall be liable to you for any third party agent to which we transfer your Personal Information and that processes such Personal Information in a manner that violates the Privacy Shield Principles, unless we can demonstrate that we are not responsible for the resulting damages. 
 
 For inquiries or complaints regarding our compliance with Privacy Shield, please send us an email or letter at the Privacy Shield address specified in the "Contacting Humble Bundle" section below. If we are unable to resolve your complaint directly, you may submit your complaint at no cost to you to JAMS at <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>. In the event there are residual complaints that have not been resolved by JAMS, or any other means, you may seek a non-monetary remedy through binding arbitration to be provided to you in accordance with the Privacy Shield Principles. 
 
@@ -57,7 +59,7 @@ For further information on tracking technologies and your choices regarding them
 
 **Information from Other Sources.**
 
-We may obtain information about you from other sources, including service providers and third party billing processors such as Amazon and PayPal, and combine such information with information we have collected about you. To the extent we combine such third party sourced information with Personal Information we have collected about you on the Service, we will treat the combined information as Personal Information under this Privacy Policy. We are not responsible for the accuracy of any information provided by third parties or third party policies or practices. 
+We may obtain information about you from other sources, including service providers and third parties, and combine such information with information we have collected about you. For example, we may obtain information about purchases you make from our billing processors such as Amazon and PayPal or, if you link your Humble Bundle account to Steam, information related to your Steam account, including information about the games you own on the service (for more information on account linking, see the sections entitled “Third Party Features and Links to Other Web Sites” and “Unlinking your Humble Bundle Account from Third Party Services” below). To the extent we combine such third party sourced information with Personal Information we have collected about you on the Service, we will treat the combined information as Personal Information under this Privacy Policy. We are not responsible for the accuracy of any information provided by third parties or third party policies or practices. 
 
 **How Is Such Information Used?**
 
@@ -71,7 +73,7 @@ We use information about you, including your Personal Information, for any purpo
   * Coordinate your payments and where your money goes. 
   * Improve the Service or other Humble Bundle websites, applications, marketing efforts, products and services. 
   * Analyze how the Service is used, diagnose service or technical problems, maintain security, and personalize content. 
-  * Send you advertisements and communicate with you regarding our and third party products, services, offers, promotions, rewards and events we think you may be interested in (for information about how to manage these communications, see the "Analytics and Advertising Tracking Technologies" and "Communications" sections below). 
+  * Send you advertisements and communicate with you regarding our and third party products, services, offers, promotions, discounts, rewards and events we think you may be interested in (for information about how to manage these communications, see the "Analytics and Advertising Tracking Technologies" and "Communications" sections below). 
   * Fulfill any other purpose disclosed at the time you provide Personal Information. 
 
 
@@ -97,11 +99,11 @@ We must disclose Personal Information about you in response to lawful requests b
 
 In addition, from time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events. 
 
-**Social Features and Links to Other Web Sites.**
+**Third Party Features and Links to Other Web Sites.**
 
-Certain functionalities on the Service permit interactions that you initiate between the Service and certain third party services, such as third party social networks ("Social Features"). Examples of Social Features include "liking" or "sharing" our content and otherwise connecting our Service to a third party service. If you use Social Features, and potentially other third party services, information you post or provide access to may be publicly displayed on our Service or by the third party service that you use. Similarly, if you post information on a third party service that references our Service (e.g., by using a hashtag associated with Humble Bundle in a tweet or status update), your post may be used on or in connection with our Service. Also, both Humble Bundle and the third party may have access to certain information about you and your use of our Service and the third party service. 
+Certain functionalities on the Service permit interactions that you initiate between the Service and certain third party services ("Third Party Features"). Examples of Third Party Features include "liking" or "sharing" content over social media platforms through our Service or linking your Humble Bundle account to a third party service such as Steam, Twitch, or Battle.net. If you use Third Party Features, both Humble Bundle and the third party may have access to certain information about you and your use of our Service and the third party service. For example, if you link your Humble Bundle account to Steam, we may receive information related to your Steam account for the duration of the linking, including information about the games you own on the service. Similarly, if you post information on a third party service that references our Service (e.g., by using a hashtag associated with Humble Bundle in a tweet or status update), your post may be used on or in connection with our Service or that third party service. 
 
-We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding. 
+We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein or any information third parties obtain through your use of Third Party Features. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding. 
 
 **Analytics and Advertising Tracking Technologies.**
 
@@ -121,25 +123,29 @@ Your browser settings may allow you to automatically transmit a "Do Not Track" s
 
 **Accessing and Changing Your Information.**
 
-You have the right to access the Personal Information we have about you. You can access, modify, and remove your information by contacting us at [contact@humblebundle.com](mailto:contact@humblebundle.com). We may require additional information from you to allow us to confirm your identity. Please note that we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+You have the right to access the Personal Information we have about you. You can access, modify, and remove your information by contacting us at <https://support.humblebundle.com/hc/en-us/requests/new>. We may require additional information from you to allow us to confirm your identity. Please note that we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 **Communications.**
 
-You can opt out of receiving certain promotional communications (e-mails and push notifications) from us at any time by (i) for e-mails, unchecking the "Notify me about future Humble Bundle promotions" checkbox in your account settings, following the instructions as provided in e-mails to click on the unsubscribe link, or contacting us at [contact@humblebundle.com](mailto:contact@humblebundle.com) with the word UNSUBSCRIBE in the subject field of the e-mail; and (ii) for push notifications or in-app messages, adjusting the permissions in your mobile device. Please note that your opt-out is limited to the e-mail address or device used and will not affect subsequent subscriptions or non-promotional communications, such as those about your account, transactions, servicing, or Humble Bundle's ongoing business relations. 
+You can opt out of receiving certain promotional communications (e-mails and push notifications) from us at any time by (i) for e-mails, unchecking the "Notify me about future Humble Bundle promotions" checkbox in your account settings, following the instructions as provided in e-mails to click on the unsubscribe link, replying to the original newsletter with the word UNSUBSCRIBE in the subject field, or contacting us at <https://support.humblebundle.com/hc/en-us/requests/new>; and (ii) for push notifications or in-app messages, adjusting the permissions in your mobile device. Please note that your opt-out is limited to the e-mail address or device used and will not affect subsequent subscriptions or non-promotional communications, such as those about your account, transactions, servicing, or Humble Bundle's ongoing business relations. 
+
+**Unlinking your Humble Bundle Account from Third Party Services.**
+
+If you have linked your Humble Bundle account with certain third party services, such as Steam, Twitch, or Battle.net, you may unlink your accounts at any time by visiting your Humble Bundle account settings. Please note that unlinking your accounts will not affect any information previously shared through the linking, and Humble Bundle may continue to use and share that information in accordance with this Privacy Policy. Humble Bundle is not responsible for any third party data practices, and we recommend that you carefully review their online policies. Steam (which is owned and operated by Valve Corporation) has a privacy policy available at <http://store.steampowered.com/privacy_agreement/>. 
 
 **Your California Privacy Rights.**
 
 California's "Shine the Light" law permits customers in California to request certain details about how certain types of their information are shared with third parties and, in some cases, affiliates, for those third parties' and affiliates' own direct marketing purposes. Under the law, a business should either provide California customers certain information upon request or permit California customers to opt in to, or opt out of, this type of sharing. 
 
-Humble Bundle may share "personal information" as defined by California's "Shine the Light" law with third parties for such third parties own direct marketing purposes. California residents may obtain information about our compliance with this law by contacting us at [contact@humblebundle.com](mailto:contact@humblebundle.com) or by sending a letter to Humble Bundle, Inc., 201 Post St, Floor 11, San Francisco, California 94108 (Attn: Legal Department). Requests must include "California Privacy Rights Request" in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that Humble Bundle is not required to respond to requests made by means other than through the provided e-mail address or mail address. 
+Humble Bundle may share "personal information" as defined by California's "Shine the Light" law with third parties for such third parties own direct marketing purposes. California residents may obtain information about our compliance with this law by contacting us at <https://support.humblebundle.com/hc/en-us/requests/new> or by sending a letter to Humble Bundle, Inc., 201 Post St, Floor 11, San Francisco, California 94108 (Attn: Legal Department). Requests must include "California Privacy Rights Request" in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that Humble Bundle is not required to respond to requests made by means other than through the provided e-mail address or mail address. 
 
 **Your European Privacy Rights.**
 
-If you are a resident of Europe and would like us not to process your personal information (or not to provide it to third parties to process) for direct marketing purposes, please send us an email or letter at the Privacy Shield address specified in the "Contacting Humble Bundle" section below. We will try to make the requested changes in our active databases as soon as reasonably practical. 
+If you are a resident of Europe and would like us not to process your Personal Information (or not to provide it to third parties to process) for direct marketing purposes, please send us an email or letter at the Privacy Shield address specified in the "Contacting Humble Bundle" section below. We will try to make the requested changes in our active databases as soon as reasonably practical. 
 
 **Children.**
 
-Humble Bundle does not knowingly collect personal information from children age 13 and under as defined by the U.S. Children's Privacy Protection Act ("COPPA"). Parents or legal guardians who believe Humble Bundle has collected such information in a manner not permitted by COPPA may contact us at [contact@humblebundle.com](mailto:contact@humblebundle.com). 
+Humble Bundle does not knowingly collect personal information from children age 13 and under as defined by the U.S. Children's Privacy Protection Act ("COPPA"). Parents or legal guardians who believe Humble Bundle has collected such information in a manner not permitted by COPPA may contact us at <https://support.humblebundle.com/hc/en-us/requests/new>. 
 
 **The Security of Your Information.**
 
@@ -147,7 +153,7 @@ We take reasonable measures to help protect information about you from loss, the
 
 **Contacting Humble Bundle.**
 
-If you have any questions about this Privacy Policy or the privacy practices of Humble Bundle, please contact us at: [contact@humblebundle.com](mailto:contact@humblebundle.com). 
+If you have any questions about this Privacy Policy or the privacy practices of Humble Bundle, please contact us at: <https://support.humblebundle.com/hc/en-us/requests/new>. 
 
 Humble Bundle, Inc.  
 Attn: Legal Department  
@@ -155,7 +161,7 @@ Attn: Legal Department
 San Francisco, CA  
 94108 
 
-For any questions or complaints regarding our compliance with Privacy Shield, please contact us at: [contact@humblebundle.com](mailto:contact@humblebundle.com) . 
+For any questions or complaints regarding our compliance with Privacy Shield, please contact us at: <https://support.humblebundle.com/hc/en-us/requests/new>. 
 
 Humble Bundle, Inc.  
 Attn: Privacy Shield  
