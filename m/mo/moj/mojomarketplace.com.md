@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mojomarketplace.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624042016id_/https%3A//www.mojomarketplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojomarketplace.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001519id_/https%3A//www.mojomarketplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Terms & Conditions](https://web.archive.org/terms) [Privacy Policy](https://web.archive.org/privacy-policy) [Service Agreement](https://web.archive.org/service-agreement)
+[Terms & Conditions](https://web.archive.org/terms) [Privacy Policy](https://web.archive.org/privacy-policy) [Service Agreement](https://web.archive.org/service-agreement) [Arbitration](https://web.archive.org/arbitration) [Affiliates](https://web.archive.org/affiliates_and_disclosure_requirements) [Seller Agreement](https://web.archive.org/seller-agreement)
 
 **Introduction.** MOJO Marketplace, Inc. respects your privacy and is committed to protecting personal information which you provide to us and which we collect about you in connection with your accessing and use of this website and services associated with it, including uploading and downloading products and accessing chat rooms, message boards and other services (collectively, the “Services”). Introduction. MOJO collects information in various ways from visitors and users. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in certain limited circumstances, such as when we believe that such disclosure is required or permitted by law or other special cases described below.
 
