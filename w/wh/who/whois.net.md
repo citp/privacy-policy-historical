@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whois.net privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042509id_/https%3A//www.whois.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whois.net privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235138id_/https%3A//www.whois.net/privacy.aspx) for the most accurate reproduction.*
 
 # Whois Lookup & IP | Whois.net
 
