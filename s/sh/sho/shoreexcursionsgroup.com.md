@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoreexcursionsgroup.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628130017id_/http%3A//www.shoreexcursionsgroup.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoreexcursionsgroup.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227205503id_/https%3A//www.shoreexcursionsgroup.com/terms-privacy) for the most accurate reproduction.*
 
-# Terms: Privacy
+# Shore Excursions Group
 
 ### What information do we collect?
 
