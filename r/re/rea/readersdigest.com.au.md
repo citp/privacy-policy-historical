@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630112238id_/http%3A//www.readersdigest.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227174242id_/http%3A//www.readersdigest.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Reader's Digest Australia
+# Privacy Policy | Reader's Digest
 
 ## TO SERVE YOU BETTER...
 
@@ -72,7 +72,7 @@ At any time that your personal information is transferred to overseas recipients
 
  **Information by mail**
 
-Reader's Digest appreciates that some people may not wish to submit information via email or the Internet. If you do not wish to submit personal information to RD through our websites or via email, you can write to Customer Service Office, Reader's Digest (Australia) Pty Limited, GPO Box 4353, Sydney NSW 2001
+Reader's Digest appreciates that some people may not wish to submit information via email or the Internet. If you do not wish to submit personal information to RD through our websites or via email, you can write to Customer Service Office,  Reader's Digest, Reply Paid 89033, Frenchs Forest, NSW 2086.
 
  **How can you access, update or correct information that is held in your Reader's Digest customer file?**
 
@@ -82,15 +82,7 @@ We are happy to provide you with details of information held about you on our cu
 
 If you have any questions regarding any matters related to your privacy, if you wish to cease receiving materials from RD, or if you believe there has been a breach of your privacy and wish to make a complaint or enquiry, please contact us on:
 
- **The Privacy Office**  
-Direct Publishing Pty Limited  
-GPO Box 4353  
-Sydney NSW 2001
-
  **Email**  
-[privacy.au@readersdigest.com](mailto:privacy.au@readersdigest.com)
-
- **Our Privacy Hotline**  
-1300 133 176
-
- _Our Privacy Office will deal with any queries or complaints as soon as is practicable during business hours. Each communication with the Privacy Office will be dealt with as efficiently as possible to ensure that RD continues to be a privacy compliant company._
+[sales@readersdigest.com.au](mailto:sales@readersdigest.com.au)  
+ **Phone**  
+1300 300 030
