@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woopra.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627201148id_/https%3A//www.woopra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woopra.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235834id_/https%3A//www.woopra.com/privacy) for the most accurate reproduction.*
 
 # Woopra, Inc. Privacy Policy — Woopra
 
@@ -10,13 +10,13 @@ By using any of our Services, you agree that your information, including persona
 
 ## EU & Swiss Privacy Shield
 
-Woopra, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from EU member countries and Switzerland in reliance on each Privacy Shield Framework and the Privacy Shield principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement, and Liability (collectively, the “Principles”). To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s [Privacy Shield website](https://www.privacyshield.gov/). [https://www.privacyshield.gov] We collect, process, disclose, and transfer personal data from the EU as described in this Policy.
+Woopra, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from EU member countries and Switzerland in reliance on each Privacy Shield Framework and the Privacy Shield principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement, and Liability (collectively, the “Principles”). To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s [Privacy Shield website](https://www.privacyshield.gov/). [https://www.privacyshield.gov] We collect, process, disclose, and transfer personal data from the EU member countries and Switzerland as described in this Policy.
 
-Woopra is responsible for the processing of personal data it receives under the Privacy Shield Frameworks then subsequently transfers to a third party, and Woopra will remain liable under the Principles if a third party processes personal data in a manner inconsistent with the Principles, unless Woopra proves that it is not responsible for the event giving rise to the damage.
+Woopra, Inc. is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Woopra, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Woopra is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
-We encourage EU individuals who have questions or complaints about how we process their personal data under either Privacy Shield Framework to contact us directly at [privacy@woopra.com](mailto:privacy@woopra.com). We will work to resolve your issue as quickly as possible, but in any event no later than 45 days of receipt. If you have an unresolved concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
+We encourage individuals from the EU member countries and Switzerland who have questions or complaints about how we process their personal data under either Privacy Shield Framework to contact us directly at [privacy@woopra.com](mailto:privacy@woopra.com). We will work to resolve your issue as quickly as possible, but in any event no later than 45 days of receipt. If you have an unresolved concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
@@ -117,6 +117,6 @@ San Francisco, CA 94104
 
 This Policy is current as of the Effective Date set forth below. We may update this Policy to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of a notice on this website prior to the material change becoming effective with regard to Customer personal data. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Last updated on May 18, 2017.
+Last updated on July 3rd, 2017.
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=3096fb69-39a7-4dd3-921a-3e7b1767600c)
