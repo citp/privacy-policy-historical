@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholicherald.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630213029id_/http%3A//www.catholicherald.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicherald.co.uk privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227040514id_/http%3A//catholicherald.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CatholicHerald.co.uk
 
