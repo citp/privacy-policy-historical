@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spyka.net privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624111335id_/http%3A//www.spyka.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyka.net privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227214710id_/http%3A//www.spyka.co.uk/privacy) for the most accurate reproduction.*
 
 # spyka Web Group - Privacy and Cookies Policy
 
