@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelchocolat.co.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609151703id_/http%3A//www.hotelchocolat.com/uk/help/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelchocolat.co.uk privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227211244id_/http%3A//www.hotelchocolat.com/uk/help/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy Policy Information - Hotel Chocolat
 
