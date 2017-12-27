@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hotshame.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429044149id_/http%3A//www.hotshame.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotshame.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235323id_/http%3A//hotshame.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Police
+# Privacy policy
 
-Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of Hotshame.com (the “Website”), including information you provide when using it.
+Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of HotShame.com (the “Website”), including information you provide when using it.
 
 We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
@@ -46,4 +46,4 @@ If you have an account on the Website and have a password giving you access to c
 
 While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us. Any information or content you transmit to us is done at your own risk.
 
-You may request to access, correct or delete your information on the Website by contacting us at admin@Hotshame.com.
+You may request to access, correct or delete your information on the Website by contacting us at admin@HotShame.com.
