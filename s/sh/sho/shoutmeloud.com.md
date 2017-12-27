@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shoutmeloud.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627202453id_/https%3A//www.shoutmeloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutmeloud.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004612id_/https%3A//www.shoutmeloud.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+What information do we collect?
 
 We collect information from you when you register on our site, subscribe to our newsletter, fill out a form or comment on the site. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or website URL. You may, however, visit our site anonymously.
 
@@ -60,4 +62,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 > [Home](https://www.shoutmeloud.com/)
 
   
-admin@shoutmeloud.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
