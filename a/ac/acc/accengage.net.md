@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accengage.net privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607100045id_/http%3A//www.accengage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accengage.net privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227172424id_/http%3A//www.accengage.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Accengage | The #1 Mobile Engagement Solution for Push Notifications, Mobile Retargeting, Tracking & Analytics
 
@@ -65,7 +65,7 @@ Accengage takes reasonable measures to help protect information about Customers 
 
 Modifications
 
-We may change this Privacy Policy from time to time.  If we make changes, we will provide notice of such changes by revising the date at the top of the policy and, in some cases, we may provide additional notice (such as by adding a statement to our website at [www.accengage.com](http://www.accengage.com/) or by providing notice via email).  If you have any questions about this Privacy Policy, please contact us at:  [contact@accengage.com](mailto:contact@accengage.com).
+We may change this Privacy Policy from time to time.  If we make changes, we will provide notice of such changes by revising the date at the top of the policy and, in some cases, we may provide additional notice (such as by adding a statement to our website at [www.accengage.com](https://www.accengage.com/) or by providing notice via email).  If you have any questions about this Privacy Policy, please contact us at:  [contact@accengage.com](mailto:contact@accengage.com).
 
 Contact Us
 
@@ -75,4 +75,4 @@ Accengage.
 75002 PARIS, FRANCE  
 [contact@accengage.com](http://mailto:contact@accengage.com/)
 
-En savoir plus sur la [politique de protection des données personnelles.](http://www.accengage.com/politique-de-protection-des-donnees-personnelles/)
+En savoir plus sur la [politique de protection des données personnelles.](https://www.accengage.com/politique-de-protection-des-donnees-personnelles/)
