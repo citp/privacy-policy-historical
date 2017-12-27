@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626105545id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235235id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - The University of Utah
 
