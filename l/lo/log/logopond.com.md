@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the logopond.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617112033id_/https%3A//logopond.com/algae/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logopond.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001752id_/https%3A//logopond.com/algae/pp) for the most accurate reproduction.*
 
 # Logopond - Logo, Brand & Identity Inspiration
 
 Created: June 13, 2010 
 
-At Logopond we recognize that privacy is important. This Privacy Policy applies to all of the products, and websites offered by Logopond collectively, Logopond’s “services.” If you have any questions about this Privacy Policy, please feel free to [contact us](mailto:cd@climaxdesigns.com)
+At Logopond we recognize that privacy is important. This Privacy Policy applies to all of the products, and websites offered by Logopond collectively, Logopond’s “services.” If you have any questions about this Privacy Policy, please feel free to [contact us](https://web.archive.org/cdn-cgi/l/email-protection#a4c7c0e4c7c8cdc9c5dcc0c1d7cdc3cad78ac7cbc9)
 
 **Information we collect and how we use it**
 
@@ -69,7 +69,7 @@ When you use Logopond, we make good faith efforts to provide you with access to 
 
 **Enforcement**
 
-Logopond regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Logopond’s treatment of personal information by [contacting us](mailto:cd@climaxdesigns.com)
+Logopond regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Logopond’s treatment of personal information by [contacting us](https://web.archive.org/cdn-cgi/l/email-protection#2546416546494c48445d4140564c424b560b464a48)
 
 When we receive formal written complaints at this address, it is Logopond’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Logopond and an individual. 
 
