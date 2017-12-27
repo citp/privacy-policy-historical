@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamlovedate.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031300id_/http%3A//www.anastasiadate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamlovedate.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234802id_/http%3A//www.anastasiadate.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -138,5 +138,3 @@ AnastasiaDate.com reserves the right to change, modify or amend this policy at a
 ### Effective Date
 
 This privacy statement was last revised on August 23, 2016.
-
-### Registered addresses:
