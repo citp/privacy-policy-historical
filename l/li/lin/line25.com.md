@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line25.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624052213id_/https%3A//line25.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line25.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000438id_/https%3A//line25.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Line25
 
