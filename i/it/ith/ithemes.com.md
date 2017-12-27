@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ithemes.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630005311id_/https%3A//ithemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ithemes.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000048id_/https%3A//ithemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ iThemes.com is committed to ensuring compliance with the Can-Spam Act, which too
 
 To ensure compliance with the Can-Spam Act, iThemes has implemented the following guidelines for email delivery:
 
-All emails sent to you by iThemes.com will clearly identify iThemes.com as the sender. FROM / SENDER: updates@ithemes.com or someone@ithemes.com (NOTE: The actual sender may alter, but all from addresses will end with @iThemes.com).
+All emails sent to you by iThemes.com will clearly identify iThemes.com as the sender. FROM / SENDER: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) (NOTE: The actual sender may alter, but all from addresses will end with @iThemes.com).
 
 Any marketing/promotional email from iThemes.com will include the ability to unsubscribe from future email messages. Unsubscribing will ensure the customer is removed from ALL marketing lists at iThemes.com; this excludes customer service emails regarding the processing and status of transactions, products and membership.
 
