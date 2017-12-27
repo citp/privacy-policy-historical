@@ -1,139 +1,120 @@
-> *The following text is extracted and transformed from the picturelife.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913211618id_/https%3A//www.streamnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturelife.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003922id_/https%3A//www.smugmug.com/about/privacy) for the most accurate reproduction.*
 
-# StreamNation | Your Video Collection Anywhere & Everywhere
+# Privacy Policy | SmugMug
 
-Welcome to StreamNation, a service offered by Milestone Project. Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service, accessible at [www.streamnation.com/tos](http://www.streamnation.com/tos)). This Privacy Policy applies only to those websites, services, software and mobile applications included within “Services” and doesn’t apply to any third-party websites, services, software or mobile applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service. 
+**Date of Last Revision: September 27, 2013**
 
-By accepting this Privacy Policy, you hereby enter into an agreement made between you and Milestone Project, Inc., a Delaware Corporation. Milestone Project, together with its parent, subsidiaries and affiliates are collectively referred to herein as “MP”, “we”, “our” or “us”. 
+At SmugMug, Inc. ( ** _"SmugMug"_** , **_"we"_** or **_"us"_** ), we are passionately committed to the privacy of our customers.
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE SERVICES. BY USING THE SERVICES, YOU EXPLICITLY ACCEPT THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU SHOULD LEAVE THE SITE IMMEDIATELY AND CEASE ALL YOUR USE OF THE SERVICES. 
+This Privacy Policy ( ** _"Privacy Policy"_** ) explains how information about you is collected, used and disclosed by SmugMug. This Privacy Policy applies to information we collect when you use our website, www.smugmug.com, our mobile application and other products and services that link to this Privacy Policy (collectively, the **_"Services"_** ).
 
-## How do we collect and use information?
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
 
-Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services. 
+For information about how to change your privacy preferences for your photo galleries, please see: [http://help.smugmug.com/customer/portal/articles/1229910](https://help.smugmug.com/customer/portal/articles/1229910).
 
-MP uses your personal information to provide you with a superior customer experience and, as necessary, to administer our business. We use your personal information for, inter alia, the following purposes: 
+## Collection of Information
 
-• Provide you with services and information, through e-mails from MP, the Site, your electronic devices, Apps and Software; 
+### Information You Provide to Us
 
-• Provide customer service; 
+We collect information you provide directly to us. For example, we collect information when you:
 
-• Conduct research and perform analysis in order to measure, maintain, protect, develop and improve our Services; 
+  * Create an account and subscribe to our digital photography, media hosting or other services;
+  * Purchase photo prints or other products or services;
+  * Participate in a survey, contest or sweepstakes;
+  * Contact us by email for any reason, such as to request help with the Services or to provide us with your comments/feedback;
+  * Post information in connection with your photos and galleries (e.g., in a photo caption) or in other forums or interactive areas of the Services; or
+  * Otherwise communicate with SmugMug.
 
-• Administer sweepstakes, contests, promotions or surveys and provide appropriate notifications; 
 
-• Communicate with you about special offers, events, or new products or services that may be of interest to you; 
 
-• Customize and enhance the Services; 
+The types of information we may collect include your name, email address, postal address, phone number, fax number, credit card information and other contact or identifying information you choose to provide. 
 
-• Make communications necessary to notify you regarding security, privacy, and administrative issues; and 
+You have the option of telling us how you wish to be identified in connection with your photos, galleries, comments and elsewhere using the Services. If you choose to use your real name (or include any identifying information as part of your "nickname") that information will be publicly displayed through the Services. Therefore, please use caution in determining how you wish to be identified in using the Services.
 
-• Manage our business. 
+### Information We Collect Automatically When You Use the Services
 
-## Clarity
+When you access or use our Services, we automatically collect information about you, including:
 
-We strive to communicate clearly about your privacy and how we handle your personal information. 
+  * **Log Information** : We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+  * **Device Information** : We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, screen resolution, color and depth, unique device identifiers and mobile network information.
+  * **Location Information** : We may collect information about the location of your device each time you access or use one of our mobile applications or otherwise consent to the collection of this information. For more details, please see "Your Choices" below.
+  * **Information Collected by Cookies and Other Tracking Technologies** : We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We use cookies to keep you logged in to the Services, to count the number of unique computers using the Services and to record your user preferences. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see "Your Choices" below.
 
-## Security
 
-We follow security standards, processes and procedures that are designed to protect your personal information. 
 
-## Integrity
+### Information We Collect From Other Sources
 
-We do not sell or rent your personal information and respect your preferences with respect to your personal information. 
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site. We may receive updated information about you, such as an updated billing address, from the financial institution issuing your credit card in connection with our billing for the Services.
 
-## What is the personal information that we collect?
+## Use of Information
 
-When you create an Account we’ll collect certain information that can be used to identify you (“Personally Identifiable Information” or “PII”), such as your email address, username and password. If you purchase a subscription to use the Services, we (or our third party payment processor e.g. PayPal ®) may also collect billing information such as your credit card information and billing address. 
+We may use information about you for various purposes, including to:
 
-### Your User Content
+  * Provide, maintain and improve our Services;
+  * Provide and deliver the products you order, process your subscription to the Services and other transactions, and send you related information, including confirmations and invoices;
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service and support for the Services;
+  * Facilitate your use of, and our administration and operation of the Services;
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by SmugMug and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests;
+  * Process and deliver contest entries and rewards;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose for which the information was collected.
 
-We collect and store the User Content you upload, stream or access via the Services. 
 
-### Information Collected Using Cookies.
 
-We collect certain information through the use of “cookies,” which are small text files that are saved by your browser when you access our Services. Cookies help us to: (1) speed navigation; (2) remember information you gave us so that you do not have to re-enter it; and (3) monitor the total number of visitors, pages viewed, and the total number of banners displayed. We may use both session cookies and persistent cookies to identify that you’ve logged in to the Services and to tell us how and when you interact with our Services. We may also use cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent cookies, session cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept cookies, you can change your browser options to stop automatically accepting cookies or to prompt you before accepting cookies. Please note, however, that if you don’t accept cookies, you may not be able to access all portions or features of the Services. Some third-party services providers that we engage may also place their own cookies on your browser. Note that this Privacy Policy covers only our use of cookies and does not include use of cookies by such third parties. 
+SmugMug is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. ****
 
-### Information Related to Use of the Services.
+## Sharing of Information
 
-Our servers automatically record certain information about how a person uses our Services (we refer to this information as “Log Data”), including both Account holders and non-Account holders (either, a “User”). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type, operating system, links on our Services that a User clicked on, duration of use of the Services, Content playback time, the amount of storage used in a User’s Account, the amount of Content a User accesses via the Services, the number of times our Services are used and other statistics. We use this information to administer the Services and we analyze (and may engage third parties to analyze) this information to improve and enhance the Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s IP address to fight spam, malware and identity theft. We also use the IP address to generate aggregate, non-identifying information about how our Services are used. 
+We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-We use service providers such as Google Analytics and Mixpanel to collect, monitor and analyze this information in order to increase our Services’ functionality and user-friendliness, and to better tailor our Services to our visitors’ needs. We also use this information to verify that visitors to our Site and our mobile applications meet the criteria required to process their requests. Accordingly, Log Data is shared with Google and Mixpanel, which have their own privacy policies (accessible at [www.google.com/policies/privacy/](http://www.google.com/policies/privacy/) and <https://mixpanel.com/privacy/>, respectively) addressing how each party uses such information. 
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * If you purchase prints or other products from one of our subscribers (e.g., a professional photographer whose site is maintained or hosted by SmugMug), so that such subscriber may provide you with assistance or answer questions you may have in connection with your purchases;
+  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of SmugMug or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
+  * With your consent or at your direction, including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information.
 
-### Location Information.
 
-When you use our App we collect and store information about where you are located, such as by converting your IP address into a rough geolocation. 
 
-Most of mobile devices allow you to switch off the geolocation feature. If you do not wish that data regarding your location be collected, stored and processed by MP, you should modify the personal settings of your mobile device. 
+We may also share aggregated or anonymized information that does not directly identify you.
 
-##  BY DOING BUSINESS WITH OR INTERACTING WITH MP, YOU CONSENT TO THE USE OF THE TRACKING TECHNOLOGIES AS DESCRIBED ABOVE. 
+### Social Sharing Features
 
-### Inviting Friends to use the Services or Access User Content.
+The Services may offer social sharing features and other integrated tools which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-Account holders can invite their friends to use the Services via their Accounts in connection with our Referral Program. Account holders can also send invitations to their friends to obtain access to User Content collections. In connection with these features of the Services, Account holders may connect their Accounts with their accounts with certain third-party services such as Facebook (each, a “Third Party Account”) to enable Account holders to contact their friends and contacts via such Third Party Accounts. If an Account holder chooses to connect with a Third Party Account via the Services, the Account holder may have to provide us with his or her username (or userID) so that his or her identity can be authenticated by the Third Party Account. When the authentication is complete, we’ll be able to access certain information such as lists of Third Party Account friends or contacts and other information that the Account holder’s privacy settings on the Third Party Account permit us to access in order to present such friends or contacts to the Account holder via the Services, as applicable. We don’t receive or store passwords for any Third Party Accounts. Alternatively, if an Account holder provides MP with the email address of a friend, a message will be sent from MP to such friend on the applicable Account holders’ behalf, inviting the friend to use the Services.  These email addresses will be used only for the purpose of sending the one-time communication to the friends and for analyzing the success of this feature of the Services. Invited friends may request that MP delete their PII by contacting us at theteam@streamnation.com. In any case, after 6 months, email addresses of friends who have not created an Account will be automatically deleted from our system. 
+### Advertising and Analytics Services Provided by Others
 
-## What Information Do We Share With Third Parties?
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by SmugMug and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices](https://www.aboutads.info/choices).
 
-We will not share any PII that we have collected from you except as described in this Policy:
+### Security
 
-### Your Use of the Services.
+SmugMug takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
-The Services provide features that allow other Account holders to access your User Content and consequently, if you choose to utilize these features, other Account holders will have access to such User Content in accordance with the selections you make via the Services and the permitted functionality of the Services. Such User Content will be accessible in connection with your Account user name. 
+### Your Choices
 
-### Information Shared with Our Services Providers.
+#### Account Information
 
-We may engage third party service providers to work with us to administer and provide the Services. These third-party services providers have access to your PII only for the purpose of performing services on our behalf, can only process your personal information upon express request from us and are expressly obligated not to disclose or use your PII for any other purpose. 
+You may update, correct or delete information about you at any time by logging into your online account or emailing us at [help@smugmug.com](mailto:help@smugmug.com). You may delete your account or terminate your subscription pursuant to SmugMug's Terms of Use, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
 
-### Information Shared with Third Parties.
+#### Location Information
 
-We may share aggregated information and non-identifying information with third parties for industry analysis, demographic profiling and other similar purposes. MP do not sell or rent your personal information to third parties. 
+When you first launch any of our mobile applications that collect location information, you will be asked to consent to the application's collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device. You may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications from your device.
 
-### Information Disclosed in Connection with Business Transactions.
+#### Cookies
 
-Information that we collect from our users, including PII, is considered to be a business asset. As a result, you agree that if we go out of business or enter bankruptcy or if we are acquired as a result of a transaction such as a merger, acquisition or asset sale or part of a restructuring or a reorganization, your PII may be disclosed to the entities and advisors involved subject to a confidentiality agreement and may also be transferred as part of such sale, restructuring, reorganization, bankruptcy, merger or similar event.. 
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. To delete or disable flash cookies please visit [www.adobe.com/products/flashplayer/security](https://www.adobe.com/products/flashplayer/security) for more information. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
 
-### Information Disclosed for Our Protection and the Protection of Others.
+#### Promotional Communications
 
-It is our policy to protect you from having your privacy violated through abuse of the legal systems, whether by individuals, entities or government, and to contest claims that we believe to be invalid under applicable law. However, it is also our policy to cooperate with government and law enforcement officials and private parties. Accordingly, we reserve the right to disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary: (i) to satisfy or comply with any applicable law, regulation or legal process or to respond to lawful requests, including subpoenas, warrants or court orders; (ii) to protect our property, rights and safety and the rights, property and safety of third parties or the public in general; and (iii) to prevent or stop activity we consider to be illegal or unethical. 
+You may opt out of receiving promotional communications from SmugMug by following the instructions in those communications or by emailing us at [help@smugmug.com](mailto:help@smugmug.com). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
 
-## The Security of Your Information
+#### Your California Privacy Rights
 
-We take significant and appropriate measures to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. While we are focused on the security of your personal information and follow strict standards, processes and procedures that are designed to protect your personal information, you must remember that the Internet is a global communications vehicle open to threats, viruses and intrusions from others and so we cannot promise, and you should not expect, that we will be able to protect your personal information at all times and in all circumstances. 
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at [help@smugmug.com](mailto:help@smugmug.com).
 
-## Links to Other Sites
+#### Contact Us
 
-Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our Privacy Policy does not apply to such websites or services and we’re not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access. 
-
-## Modifying Your Information
-
-You can access at reasonable intervals and at no charge the PII we process, the purpose of the processing, the categories of personal information we process as well as the third parties to whom your PII may be communicated. You have the right to ask us not to use your PII for direct marketing purposes. 
-
-You have the right (i) to oppose, at any moment, for personal legitimate and primordial reasons, to the processing of your PII; (ii) to oppose, upon request and at no charge, to the processing of your PII for prospecting purposes and (iii) to be informed prior to any communication of your PII to a third party for prospecting purposes and to oppose (at no charge) to the communication of your PII to such third party. 
-
-In case of incomplete or inaccurate PII, you have the right to ask us to modify or delete your PII and your Account, in that case, please contact us at theteam@streamnation.com with your request. We’ll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law. 
-
-## International Transfer
-
-You acknowledge and hereby explicitly agree that your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. For example, we may transfer your PII to the European Union and process it there. 
-
-## Our Policy Toward Children
-
-MP is committed to complying with all applicable laws and regulations regarding the collection, storage and use of PII of Minors. 
-
-Except as noted below: (i) our services are marketed for and directed towards purchase by adults or with the consent of adults; (ii) Individuals under the age of 18 ("Minors") are not permitted to use the Services without the supervision of a parent or legal guardian; (iii) we do not knowingly collect or solicit personal information from children under the age of 18 or knowingly allow such persons to register for an online account or to post personal information on the Site; and (iv) should we learn that someone under the age of 18 has provided any personal information to or on any of the Site, we will remove that information as soon as possible. 
-
-## Changes to Privacy Policy
-
-Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any changes to this Privacy Policy, we’ll notify you of such changes by posting them on the Services or by sending you an email or other notification, and we’ll indicate when such changes will become effective. 
-
-## Dispute
-
-Any dispute between you and us regarding the privacy of your personal information is subject to this Privacy Policy and the Terms of Service, including (but not limited to) those provisions related to limitation on damages, resolution of disputes, and governing law. 
-
-## Notices
-
-Any notices or other communications provided by MP under this Privacy Policy, including those regarding modifications to this Privacy Policy, will be given by MP: (i) via email; or (ii) by posting to the Services. For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted. You hereby consent to receive electronic notices from us, whether addressed to the email address associated with your Account or another email address that you provide to us. To the maximum extent permitted by applicable local law, you acknowledge and agree that any communication via email or by postings to the Services satisfies any legal requirement that such communications be made in writing. You may give notice to us via email to the following address: [theteam@streamnation.com](mailto:theteam@streamnation.com)
-
-## Questions?
-
-Please contact us at [theteam@streamnation.com](mailto:theteam@streamnation.com) if you have any questions about our Privacy Policy. 
+We welcome your feedback. If you have any comments or concerns about this Privacy Policy or would like to contact us for any reason, you may reach us via email at [help@smugmug.com](mailto:help@smugmug.com).
