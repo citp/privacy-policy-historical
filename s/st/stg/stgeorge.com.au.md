@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624041721id_/https%3A//www.stgeorge.com.au/online-services/security-centre/we-protect-you/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000034id_/https%3A//www.stgeorge.com.au/online-services/security-centre/we-protect-you/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | St.George Bank
 
