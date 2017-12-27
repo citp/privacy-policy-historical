@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zbigz.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617120948id_/http%3A//zbigz.com/page-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zbigz.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000329id_/http%3A//www.zbigz.com/page-privacy) for the most accurate reproduction.*
 
-# ZbigZ – personal cloud storage. Sweet home for your private files.
+# ZbigZ – Online torrent client.
 
 We take your privacy very seriously. We do not collect any personal information about our users except information which is necessary for administrative purposes. 
 
