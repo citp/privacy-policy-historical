@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gocricket.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630013350id_/http%3A//www.cricbuzz.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gocricket.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228005156id_/http%3A//www.cricbuzz.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cricbuzz.com
 
@@ -115,7 +115,7 @@ HN Plaza,100 Ft Ring road,
 6th Main, BSK 3rd Stage,  
 Bangalore . 560085, INDIA  
 Ph: 080-40965631  
-Email: [grievance@cricbuzz.com](mailto:grievance@cricbuzz.com)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0661746f6370676865634665746f6564737c7c2865696b)
 
 We request you to please provide the following information in your complaint:
 
