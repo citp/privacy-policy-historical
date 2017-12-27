@@ -1,71 +1,80 @@
-> *The following text is extracted and transformed from the travideos.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826004939id_/http%3A//travideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travideos.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Travel Videos | Travel The World With Videos!
+# HugeDomains.com - Privacy Policy
 
-**WHAT THIS PRIVACY POLICY COVERS**
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-**How Travel Videos ("Travel Videos") Uses Your Personal Information**
+**What information do we collect?**
 
-This policy covers how Travel Videos treats personal information that Travel Videos collects and receives, including information related to your past use of Travel Videos products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-This privacy policy only applies to Travel Videos.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-This policy does not apply to the practices of companies that Travel Videos does not own or control or to people that Travel Videos does not employ or manage.
+**What do we use your information for?**
 
-**INFORMATION COLLECTION AND USE**
+Any of the information we collect from you may be used in one of the following ways: 
 
-**General**
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-Travel Videos collects personal information when you register with Travel Videos, when you use Travel Videos products or services, when you visit Travel Videos pages or the pages of certain Travel Videos partners, and when you enter promotions or sweepstakes. Travel Videos may combine information about you that we have with information we obtain from business partners or other companies.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with Travel Videos and sign in to our services, you are not anonymous to us.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-Travel Videos collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
+• To process transactions
 
-Travel Videos automatically receives and records information from your computer and browser, including your IP address, Travel Videos cookie information, software and hardware attributes, and the page you request.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-Travel Videos uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+• To send periodic emails
 
-**Children**
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Children under 13 are not allowed to register on Travel Videos.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-**INFORMATION SHARING AND DISCLOSURE**
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Travel Videos does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+**How do we protect your information?**
 
-• We provide the information to trusted partners who work on behalf of or with Travel Videos under confidentiality agreements. These companies may use your personal information to help Travel Videos communicate with you about offers from Travel Videos and our marketing partners. However, these companies do not have any independent right to share this information.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-• We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-• We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Travel Videos's Terms Of Service, or as otherwise required by law.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-• We transfer information about you if Travel Videos is acquired by or merged with another company. In this event, Travel Videos will notify you before information about you is transferred and becomes subject to a different privacy policy. Travel Videos displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, men ages 20-30 from a particular geographic area.
+**Do we use cookies?**
 
-• Travel Videos does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-• Travel Videos advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-**COOKIES**
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-Travel Videos may set and access Travel Videos cookies on your computer.
+**Do we disclose any information to outside parties?**
 
-Travel Videos lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Travel Videos's cookies.
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-Travel Videos uses web beacons to access Travel Videos cookies inside and outside our network of web sites and in connection with Travel Videos products and services.
+**Online Privacy Policy Only**
 
-**YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES**
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-You can edit your Travel Videos Account Information at any time. You can also cancel your account by following the instructions you will find on your Account page.
+**Terms and Conditions**
 
-We reserve the right to send you certain communications relating to the Travel Videos service, such as service announcements, administrative messages and the Travel Videos Newsletter, that are considered part of your Travel Videos account, without offering you the opportunity to opt out of receiving them.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-**CONFIDENTIALITY AND SECURITY**
+**Your Consent**
 
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+By using our site, you consent to our web site privacy policy. 
 
-**CHANGES TO THIS PRIVACY POLICY**
+**Changes to our Privacy Policy**
 
-Travel Videos may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Travel Videos account or by placing a prominent notice on our site.
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-**Last updated June 1st, 2013**
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
