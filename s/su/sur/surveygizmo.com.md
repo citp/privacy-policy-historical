@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the surveygizmo.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624071646id_/https%3A//www.surveygizmo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveygizmo.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227233558id_/https%3A//www.surveygizmo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy ~ SurveyGizmo
+
+**Last Modified:** November 30, 2017  
+**Effective Date:** July 31, 2017
 
 ## Introduction
 
@@ -73,7 +76,7 @@ We may use information about you for the following purposes:
 
 ### Sharing of Information
 
-We may disclose your Personal Information to our agents, vendors, consultants and other service providers to carry out work on our behalf. These entities acting on our behalf are prohibited from using your Personal Information for any purpose other than to provide this assistance.
+We may disclose your Personal Information to our agents, vendors, consultants and other service providers to carry out work on our behalf. These entities acting on our behalf are prohibited from using your Personal Information for any purpose other than to provide this assistance. We may be liable for the onward transfer of EU and Swiss personal data to third parties.
 
 We must disclose your Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -89,7 +92,7 @@ In addition, we may share information about you as follows:
 
 
 
-In our sole discretion, we may also share aggregated or de-identified information, which cannot reasonably be used to identify you. 
+In our sole discretion, we may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
 ### Referrals and Promotions.
 
@@ -132,7 +135,7 @@ We take reasonable measures to help protect information about you from loss, the
 
 ## Data Retention
 
-We take reasonable steps to delete your information collected through the Website if you opt out of receiving further communications from us (see the section entitled Your Choices below) or if you ask us to delete your information. 
+We take reasonable steps to delete your information collected through the Website if you opt out of receiving further communications from us (see the section entitled Your Choices below) or if you ask us to delete your information.
 
 SurveyGizmo retains data that we process on behalf of our customers, and collect from our customers directly, for as long as it is needed to provide services to our customers. SurveyGizmo will retain and use this data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -148,9 +151,21 @@ The Website is not intended for children and is not targeted to children under t
 
 We strive for compliance with HIPAA (the Health Insurance Portability and Accountability Act). However, if you are transmitting or storing personal health information or HIPAA applies to you in any other way, you are obligated to notify us and engage in our HIPAA compliance procedures, which may include signing a Business Associate Agreement (BAA) with us as well as ensuring that your account tier includes the feature of data encryption at-rest and in transit that individual users (e.g. you) must ensure is enabled. For other compliance measures, you may be obligated to perform yourself within your account, including turning on data encryption in-transfer (SSL links).
 
-## Privacy Shield
+## EU – US Privacy Shield
 
-We are currently working toward the Self-Certification for Privacy Shield. Please check back periodically as we will update this section once we are complete.
+SurveyGizmo complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.  (Your organization name) has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit: <https://www.privacyshield.gov/>.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, SurveyGizmo is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, SurveyGizmo may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. In compliance with the Privacy Shield Principles, SurveyGizmo commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss individuals with inquiries or complaints regarding this privacy policy should first contact SurveyGizmo at: [Compliance@SurveyGizmo.com](mailto:Compliance@SurveyGizmo.com).
+
+SurveyGizmo has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/EU-privacy-shield/for-eu-consumers for more information and to file a complaint. Note the possibility, under certain limited conditions, for individuals to invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission.
+
+### Sub Processors
+
+We use third party data centers to host data. We use third party email hosting services to send email. We use third party customer relationship management tools to help with management of business related data. We use third party billing and credit card merchant systems to process payments. We use third party ticketing and help systems.
+
+### General Data Protection Regulation
+
+SurveyGizmo is aware of the passage of the General Data Protection Regulation (GDPR), however; the deadline for compliance with its terms is not until May 2018. Until then, we are evaluating any additional requirements or restrictions imposed by the GDPR to ensure that we handle customer data in compliance with applicable law by the 2018 deadline. Please check back periodically as we will update this section with additional information.
 
 ## Your Choices
 
@@ -162,7 +177,7 @@ Upon request, SurveyGizmo will provide you with information about whether we hol
 
 You can opt out of receiving promotional emails from us at any time by following the instructions provided in those communications or emailing us at [marketing@surveygizmo.com](mailto:marketing@surveygizmo.com) with the subject of Unsubscribe. You may also remove yourself from our email list by clicking on the unsubscribe link presented in all promotional emails we send to our customers. Please note that even if you opt out of receiving promotional communications, we may continue to send you non-promotional emails, such as those about your account, servicing, or our ongoing business relations.
 
-## Changes to Our Privacy Policy 
+## Changes to Our Privacy Policy
 
 It is our policy to post any changes we make to our Privacy Policy on this page. In some cases, we may provide additional notice of changes. If we make material changes to how we treat our users’ Personal Information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the Privacy Policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this Privacy Policy to check for any changes.
 
@@ -170,7 +185,4 @@ It is our policy to post any changes we make to our Privacy Policy on this page.
 
 To ask questions or comment about this Privacy Policy and our privacy practices, contact us at:
 
-[compliance@surveygizmo.com](mailto:compliance@surveygizmo.com) or Attention: SurveyGizmo Compliance, 4888 Pearl East Circle, Suite 100W, Boulder, CO 80301
-
-**Last Modified:** April 14, 2017  
-**Effective Date:** April 17, 2017
+[compliance@surveygizmo.com](mailto:compliance@surveygizmo.com) or Attention: SurveyGizmo Compliance, 4888 Pearl East Circle, Suite 100W, Boulder, CO 80301 
