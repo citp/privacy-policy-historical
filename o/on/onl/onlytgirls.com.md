@@ -1,63 +1,80 @@
-> *The following text is extracted and transformed from the onlytgirls.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120102221id_/http%3A//www.onlytgirls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlytgirls.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - only t girls
+# HugeDomains.com - Privacy Policy
 
-This Privacy Policy governs the manner in which OnlyTGirls.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [OnlyTGirls.com](http://top10adultdatingsites.com/) website (“Site”). This privacy policy applies to the Site and all services offered by OnlyTGirls.com.
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-### PERSONAL IDENTIFICATION INFORMATION
+**What information do we collect?**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-### NON-PERSONAL IDENTIFICATION INFORMATION
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**What do we use your information for?**
 
-### WEB BROWSER COOKIES
+Any of the information we collect from you may be used in one of the following ways: 
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-### HOW WE USE COLLECTED INFORMATION
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-OnlyTGirls.com may collect and use Users personal information for the following purposes:
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-  * To improve customer service
-  * Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * To personalize user experience
-  * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * To improve our Site
-  * We may use feedback you provide to improve our products and services.
-  * To share your information with third parties
-  * We may share information with third parties for marketing or other purposes.
-  * To run a promotion, contest, survey or other Site feature
-  * To send Users information they agreed to receive about topics we think will be of interest to them.
+• To process transactions
 
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
+• To send periodic emails
 
-### HOW WE PROTECT YOUR INFORMATION
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information and data stored on our Site.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-### THIRD PARTY WEBSITES
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+**How do we protect your information?**
 
-### ADVERTISING
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
-### CHANGES TO THIS PRIVACY POLICY
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-OnlyTGirls.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**Do we use cookies?**
 
-### YOUR ACCEPTANCE OF THESE TERMS
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-### CONTACTING US
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+**Do we disclose any information to outside parties?**
 
-OnlyTGirls.com  
-[privacy@OnlyTGirls.com](mailto:privacy@top10adultdatingsites.com)
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-This document was last updated on January 6, 2016
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
