@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avforums.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630040956id_/https%3A//www.avforums.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avforums.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227022133id_/https%3A//www.avforums.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AVForums
 
@@ -31,7 +31,7 @@ Although AVForums is generally targeted at an adult audience, we welcome the par
 
 **Cyber Bullying  
 **  
-AVForums operates a zero tolerance policy toward online bullying. If any member has a concern about any message they see on the website, they can report that content and our moderating team will investigate. We expect members of our community to treat each other with respect. The rules for using AVForums can be found [here](https://web.archive.org/web/20170630040956id_/https://www.avforums.com/pages/privacy-policy/pages/rules/).
+AVForums operates a zero tolerance policy toward online bullying. If any member has a concern about any message they see on the website, they can report that content and our moderating team will investigate. We expect members of our community to treat each other with respect. The rules for using AVForums can be found [here](https://web.archive.org/web/20171227022133id_/https://www.avforums.com/pages/privacy-policy/pages/rules/).
 
 **Data Protection Act**
 
@@ -39,6 +39,6 @@ AVForums complies fully with the UK data protection act. The personal data we st
 
 **Changing or Updating Personal Information  
 **  
-If members wish to update or change their profile on AVForums, they may [click here](https://web.archive.org/web/20170630040956id_/https://www.avforums.com/pages/privacy-policy/account/personal-details/).
+If members wish to update or change their profile on AVForums, they may [click here](https://web.archive.org/web/20171227022133id_/https://www.avforums.com/pages/privacy-policy/account/personal-details/).
 
-If you have questions regarding your information, please [contact us](https://web.archive.org/web/20170630040956id_/https://www.avforums.com/pages/privacy-policy/pages/contact-us/).
+If you have questions regarding your information, please [contact us](https://web.archive.org/web/20171227022133id_/https://www.avforums.com/pages/privacy-policy/pages/contact-us/).
