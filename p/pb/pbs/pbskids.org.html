@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pbskids.org privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630193324id_/http%3A//pbskids.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pbskids.org privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228002405id_/http%3A//pbskids.org/privacy) for the most accurate reproduction.-->
 
 <html lang="en"><head>
 <title>PBS KIDS . Privacy Policy</title>
@@ -17,10 +17,99 @@ h2 {color: white; font-size: 14px;}
 <script type="text/javascript" src="http://www-tc.pbskids.org/includes/javascript/bridge.js"></script>
 </head>
 <body bgcolor="#9EC3EF" background="../hybrid/hybrid-background-lblue.gif" marginheight="0" topmargin="0">
+<script>
+    var lookupTable = {
+    "": "UA-4005001-1,ET-4005001-3",
+    "aaworld": "UA-4005001-1,UA-3968572-1,UA-3999801-1,ET-3999801-2",
+    "arthur": "UA-4005001-1,UA-3966576-1,UA-3999950-1,ET-3999950-2",
+    "beeswax": "UA-4005001-1,UA-3966576-1,UA-10616832-1,ET-10616832-2",
+    "berenstainbears": "UA-4005001-1,UA-3968098-1,UA-3994369-1,ET-3994369-2",
+    "buster": "UA-4005001-1,UA-3966576-1,UA-3999991-1,ET-3999991-2",
+    "caillou": "UA-4005001-1,UA-3967441-1,UA-3993958-1,ET-3993958-2",
+    "caillou_french": "UA-4005001-1,UA-3967441-1,UA-3993993-1,ET-3993993-2",
+    "catinthehat": "UA-4005001-1,UA-16154142-1,UA-16155509-1,ET-16155509-2",
+    "chuck": "UA-4005001-1,UA-3968372-1,UA-21787719-1,ET-21787719-2",
+    "clifford": "UA-4005001-1,UA-3968372-1,UA-3999587-1,ET-3999587-2",
+    "clifford/parentsteachers": "UA-1996666-1,UA-3964855-1,UA-3978951-1,ET-3978951-2,UA-3968372-1,UA-3999587-1",
+    "curiousgeorge": "UA-4005001-1,UA-3966576-1,UA-4000040-1,ET-4000040-2",
+    "curiousgeorge/parentsteachers": "UA-1996666-1,UA-3964855-1,UA-3978951-1,ET-3978951-2,UA-3966576-1,UA-4000040-1",
+    "cyberchase": "UA-4005001-1,UA-3968572-1,UA-2223922-1,ET-2223922-2",
+    "cyberchase/parentsteachers": "UA-1996666-1,UA-3964855-1,UA-3978951-1,ET-3978951-2,UA-3966759-1,UA-2223922-1",
+    "daniel": "UA-4005001-1,UA-3967651-1,UA-30580064-1,ET-30580064-2",
+    "designsquad": "UA-4005001-1,UA-3966576-1,UA-4000083-1,ET-4000083-2",
+    "dinosaurtrain": "UA-4005001-1,UA-10166412-1,UA-10166683-1,ET-10166683-2",
+    "dontbuyit": "UA-4005001-1,UA-3967876-1,UA-3994203-1,ET-3994203-2",
+    "dragonflytv": "UA-4005001-1,UA-3965989-1,UA-3999924-1,ET-3999924-2",
+    "earthday": "UA-4005001-1,UA-3964855-1,UA-3994540-1,ET-3994540-2",
+    "eekoworld": "UA-4005001-1,UA-3967115-1,UA-3993810-1,ET-3993810-2",
+    "electriccompany": "UA-4005001-1,UA-3968507-1,UA-5414685-1,ET-5414685-2",
+    "fetch": "UA-4005001-1,UA-3966576-1,UA-4000129-1,ET-4000129-2",
+    "frannysfeet": "UA-4005001-1,UA-3968572-1,UA-3999901-1,ET-3999901-2",
+    "healthysummer": "UA-4005001-1,UA-3964855-1,UA-3994602-1,ET-3994602-2",
+    "hooper": "UA-4005001-1,UA-3964855-1,UA-3994749-1,ET-3994749-2",
+    "in_your_town": "UA-4005001-1,UA-3964855-1,UA-3994707-1,ET-3994707-2",
+    "island": "UA-4005001-1,UA-3964855-1,UA-3992719-1,ET-3992719-2",
+    "itsmylife": "UA-4005001-1,UA-3967369-1,UA-3993912-1,ET-3993912-2",
+    "lab": "UA-4005001-1,UA-3964855-1,UA-26042731-1,ET-26042731-2",
+    "lifeboat": "UA-4005001-1,UA-10617025-1,UA-10617056-1,ET-10617056-2",
+    "lions": "UA-4005001-1,UA-3966576-1,UA-4000155-1,ET-4000155-2",
+    "lomax": "UA-4005001-1,UA-6719338-1,UA-6719298-1,ET-6719298-2",
+    "loopscoops": "UA-4005001-1,UA-3966576-1,UA-20228423-1,ET-20228423-2",
+    "lunchlab": "UA-4005001-1,UA-10616664-1,UA-10616734-1,ET-10616734-2",
+    "martha": "UA-4005001-1,UA-3966576-1,UA-5036549-1,ET-5036549-2",
+    "mayaandmiguel": "UA-4005001-1,UA-3968372-1,UA-3999619-1,ET-3999619-2",
+    "noah": "UA-4005001-1,UA-3968572-1,UA-21783296-1,ET-21783296-2",
+    "pets": "UA-4005001-1,UA-3964855-1,UA-3994771-1,ET-3994771-2",
+    "pinkalicious": "UA-4005001-1,UA-10166412-1,UA-101627795-1,UA-101627795-2,ET-101627795-2",
+    "readytolearn": "UA-4005001-1,UA-3964855-1,UA-26042731-3,UA-26042731-4",
+    "retired_backyardjungle.html": "UA-4005001-1,UA-3967720-1,UA-3994136-1,ET-3994136-2",
+    "rogers": "UA-4005001-1,UA-3967651-1,UA-3994102-1,ET-3994102-2",
+    "scigirls": "UA-4005001-1,UA-3965989-1,UA-10617102-1,ET-10617102-2",
+    "sesame": "UA-4005001-1,UA-3968507-1,UA-3999779-1,ET-3999779-2",
+    "sid": "UA-4005001-1,UA-3963045-1,UA-5035505-1,ET-5035505-2",
+    "speakout": "UA-4005001-1,UA-3964855-1,UA-6307581-1,ET-6307581-2",
+    "storyfactory": "UA-4005001-1,UA-3964855-1,UA-3994817-1,ET-3994817-2",
+    "superwhy": "UA-4005001-1,UA-3968166-1,UA-3994472-1,ET-3994472-2",
+    "talentshow": "UA-4005001-1,UA-3964855-1,UA-3999413-1,ET-3999413-2",
+    "thomasandfriends": "UA-4005001-1,UA-3967794-1,UA-42889099-1,ET-42889099-2",
+    "toopyandbinoo": "UA-4005001-1,UA-6043722-1,UA-6043633-1,ET-6043633-2",
+    "video": "UA-4005001-1,ET-4005001-5",
+    "wildkratts": "UA-4005001-1,UA-3967957-1,UA-18413296-1,ET-18413296-2",
+    "wilsonandditch": "UA-4005001-1,UA-10166412-1,UA-10616776-1,ET-10616776-2",
+    "wordgirl": "UA-4005001-1,UA-3968372-1,UA-3999648-1,ET-3999648-2",
+    "wordquest": "UA-4005001-1,UA-3964855-1,UA-15498767-1,ET-15498767-2",
+    "wordworld": "UA-4005001-1,UA-3968877-1,UA-4000339-1,ET-4000339-2",
+    "writerscontest": "UA-4005001-1,UA-3964855-1,UA-15499539-1,ET-15499539-2",
+    "zoboo": "UA-4005001-1,UA-3967957-1,UA-3994275-1,ET-3994275-2",
+    "zoom": "UA-4005001-1,UA-3966576-1,UA-4000252-1,ET-4000252-2",
+    "readyjetgo": "UA-4005001-1,UA-69435322-1,UA-68471816-1,ET-68471816-2",
+    "naturecat": "UA-4005001-1,UA-69435628-1,UA-68465755-1,ET-68465755-2",
+    "plumlanding": "UA-4005001-1,UA-3966576-1,UA-47836444-1,ET-47836444-2",
+    "oddsquad": "UA-4005001-1,UA-3967651-1,UA-50934115-1,ET-50934115-2",
+    "bobthebuilder": "UA-4005001-1,UA-3967794-1,UA-68468616-1,ET-68468616-2",
+    "peg": "UA-4005001-1,UA-24428255-1,ET-24428255-2",
+    "splashandbubbles": "UA-4005001-1,UA-10166412-1,UA-77875190-1,ET-77875190-2"
+};
+var ua_codes = "";
+try {
+    var pathArray = window.location.pathname.split( '/' );
+    ua_codes = lookupTable[pathArray[1]];
+    if (ua_codes == "" || ua_codes == null) {
+        ua_codes = "UA-4005001-1,ET-4005001-3";
+    }
+} catch (e) {
+    ua_codes = "UA-4005001-1,ET-4005001-3";
+}
+</script>
 
-                
-  
-    <!-- Google Tag Manager --> 
+
+
+
+
+
+
+
+<!-- Google Tag Manager --> 
 <noscript>
   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MR8JHB" height="0" width="0" style="display:none;visibility:hidden"></iframe>
 </noscript> 
@@ -127,7 +216,9 @@ var ua_codes = "";
     "oddsquad": "UA-4005001-1,UA-3967651-1,UA-50934115-1,ET-50934115-2",
     "bobthebuilder": "UA-4005001-1,UA-3967794-1,UA-68468616-1,ET-68468616-2",
     "peg": "UA-4005001-1,UA-24428255-1,ET-24428255-2",
-    "splashandbubbles": "UA-4005001-1,UA-10166412-1,UA-77875190-1,ET-77875190-2"
+    "splashandbubbles": "UA-4005001-1,UA-10166412-1,UA-77875190-1,ET-77875190-2",
+    "ruff": "UA-10166412-1,UA-101859894-1,UA-101859894-2,ET-101859894-2",
+    "pinkalicious":"UA-10166412-1,UA-101627795-1,UA-101627795-2,ET-101627795-2"
 };
 try {
     var pathArray = window.location.pathname.split( '/' );
@@ -200,10 +291,10 @@ document.write(unescape("%3Cscript src='" + GA_jshost + "google-analytics.com/ga
 
 
 
-       
+   
 
 
-  <link rel="stylesheet" type="text/css" href="http://www-tc.pbskids.org/shell/styles/css/producer-headband.css">
+  <link rel="stylesheet" type="text/css" href="https://www-tc.pbskids.org/shell/styles/css/producer-headband.css">
 
   <div id="headband-container" class="producer-headband  ">
     <div class="headband-nav">
@@ -251,11 +342,7 @@ document.write(unescape("%3Cscript src='" + GA_jshost + "google-analytics.com/ga
   </div> <!-- End Headband -->
 
 
-    <script type="text/javascript" src="http://www-tc.pbskids.org/js/loader/lib/PBS.KIDS.require.js" data-main="http://pbskids.org/js/loader/loaders/producers.require.config.js"></script>
-
-  
-
-
+<script type="text/javascript" src="https://www-tc.pbskids.org/js/loader/lib/PBS.KIDS.require.js" data-main="https://pbskids.org/js/loader/loaders/producers.require.config.js"></script>
 
 <!-- HEADER TABLE START -->
 <table width="650" cellpadding="0" cellspacing="0" border="0" align="center">
@@ -266,7 +353,7 @@ document.write(unescape("%3Cscript src='" + GA_jshost + "google-analytics.com/ga
 <div style="width: 575px; margin: 0 auto;">
 
     <h1>For Families Visiting PBS KIDS:</h1>
-    <h2>Last modified: May 16, 2017</h2>
+    <h2>Last modified: July 5, 2017</h2>
     
     <p>You have trusted us for many years to make safe and quality educational children's content that family members of all ages can enjoy.  We understand how important privacy is to you and your family, which is why we are committed to creating a safe and secure environment that family members of all ages can enjoy.  As a not-for-profit public institution, our goal is to collect only the information about our users and their use of our services that will help us provide the best online experience possible and implement PBS's mission.
     <br>
@@ -353,7 +440,7 @@ This Privacy Policy describes how we use, share, and protect information that we
 <br><br>
 We use these technologies, for example, to help us recognize your or your child's browser as a previous user and save and remember any preferences that may have been set; to help us customize the content shown while you or your child use the Services; to provide you or your child with content customized to your interests and to understand whether users read e-mail messages and click on links contained within those messages so that we can deliver relevant content and offers; and to help measure and research the effectiveness of our Services, interactive online content, features, and other communications. 
 <br><br>
-We may allow third parties to place and read their own cookies, web beacons, and similar technologies to collect information through the Services.  These third parties may collect information about a userâ€™s online activities over time and across sites, services, and devices to, for example, help us with traffic measurement, research, and analytics and serve you more relevant advertising on third party sites and services. These third parties may participate in programs that allow you to opt out of targeted advertising. To learn more and opt out, visit the Network Advertising Initiative and Digital Advertising Alliance.
+We may allow third parties to place and read their own cookies, web beacons, and similar technologies to collect information through the Services. For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics.
 <br><br>
 You may be able to refuse or disable cookies by adjusting your web browser settings.  Because each web browser is different, please consult the instructions provided by your web browser (typically in the "help" section).  Please note that you may need to take additional steps to refuse or disable Local Shared Objects and similar technologies.  For example, Local Shared Objects may be controlled through the instructions on Adobe's <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html" title="ADOBE's Setting Manager" target="_blank">Setting Manager page</a>.  If you choose to refuse, disable, or delete these technologies, some of the functionality of our site may no longer be available to you or your child.</p>
 <br>
