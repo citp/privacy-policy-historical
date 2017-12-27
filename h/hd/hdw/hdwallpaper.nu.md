@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpaper.nu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084701id_/http%3A//www.hdwallpaper.nu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpaper.nu privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227205242id_/http%3A//www.hdwallpaper.nu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HD Wallpaper .NU
 
