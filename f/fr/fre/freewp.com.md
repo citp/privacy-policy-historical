@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewp.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223102143id_/https%3A//www.wphub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewp.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234931id_/https%3A//www.wphub.com/privacy-policy) for the most accurate reproduction.*
 
 # WPHUB Privacy Policy
 
@@ -106,7 +106,7 @@ The Personal Data collected to complete the payment may concern the credit card,
 
   *     * ### Data owner
 
-WPHUB.com - 16541 Redmond Way Ste 452-C, Redmond WA 98052, support@wphub.com
+WPHUB.com - 16541 Redmond Way Ste 452-C, Redmond WA 98052, [[email protected]](https://www.wphub.com/cdn-cgi/l/email-protection)
 
 
 
@@ -116,7 +116,7 @@ WPHUB.com - 16541 Redmond Way Ste 452-C, Redmond WA 98052, support@wphub.com
 ## Data Controller and Owner
 
 WPHUB.com - 16541 Redmond Way Ste 452-C, Redmond WA 98052,  
-support@wphub.com  
+[[email protected]](https://www.wphub.com/cdn-cgi/l/email-protection)  
 
 
 ## Types of Data collected
