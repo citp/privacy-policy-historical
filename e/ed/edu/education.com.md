@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624084412id_/https%3A//www.education.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227010103id_/https%3A//www.education.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Education.com
 
@@ -58,7 +58,7 @@ We will also collect any other information that you provide through our Services
 
 ### Information We Collect from Third Parties
 
-You can create an account with us, by logging in through certain third-party accounts, such as Facebook, Google, and Clever. By logging in through a third-party account, you grant Education.com permission to access certain information from that third-party account as explained on the permissions page when you log in, including: your name, email and public profile ID.
+You can create an account with us, by logging in through certain third-party accounts, such as Facebook, Google, Amazon, and Clever. By logging in through a third-party account, you grant Education.com permission to access certain information from that third-party account as explained on the permissions page when you log in, including: your name, email and public profile ID.
 
 ### Information We Collect Automatically
 
