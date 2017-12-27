@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soccerinbox.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413015202id_/http%3A//www.soccerinbox.com/index.php%3Fmain_page%3Dpage%26id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccerinbox.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227203756id_/http%3A//www.soccerinbox.com/index.php%3Fmain_page%3Dpage%26id%3D6) for the most accurate reproduction.*
 
-# Privacy : Soccerinbox -Soccer Jersey -National Team Soccer Jersey-Kids Soccer Jersey
+# Privacy : Soccerinbox-Wholesale Top Quality Soccer Jersey Kids jersey And Soccer Tracksuit
 
 **Can you tell me how you deal with privacy issues?  
 **  
