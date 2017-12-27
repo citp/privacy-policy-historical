@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wallpapers-diq.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630003800id_/http%3A//wallpapers-diq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapers-diq.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227223301id_/http%3A//wallpapers-diq.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for WALLPAPERS-DIQ.COM < Desktop Wallpaper
 
-"Wallpaper" was the term used in Microsoft Windows before Windows Vista (where it is called the "desktop background"), while Mac OS X calls it "desktop picture". (Previously, the term desktop pattern was used to refer to a small pattern that was repeated to fill the screen.) [— en.wikipedia.org](https://en.wikipedia.org/wiki/Wallpaper_%28computing%29)
+Since computer screens are essentially two-dimensional, 3D graphics are just 2D optical illusions that trick your brain into thinking it is seeing a 3D object. A 3D graphics engine works by calculating what 2D shapes a 3D object would project on to the screen. [— petercollingridge.appspot.com](https://petercollingridge.appspot.com/3D-tutorial)
 
 Your privacy on the Internet is of the utmost importance to us. This document outlines the types of information we receive and collect when you use our services and what we do with them.
 
