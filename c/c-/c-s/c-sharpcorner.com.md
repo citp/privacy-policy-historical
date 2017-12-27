@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c-sharpcorner.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609001200id_/http%3A//www.c-sharpcorner.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-sharpcorner.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227221842id_/http%3A//www.c-sharpcorner.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # C# Corner : Privacy Policy
 
