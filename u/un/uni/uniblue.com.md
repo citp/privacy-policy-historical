@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniblue.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624103126id_/http%3A//www.uniblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniblue.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235728id_/http%3A//www.uniblue.com/privacy) for the most accurate reproduction.*
 
 # Uniblue Privacy and Cookies Policy
 
@@ -23,7 +23,7 @@ We may also collect and store certain types of data as described in more detail 
 
 ### Cookies
 
-**1\. Cookies and Web Beacons** \- When you visit our Websites, we or our service providers, advertisers or partners, may send one or more cookies to your computer or use web beacons to improve the quality of our service by analyzing traffic pattern, tracking user trends and conducting optional research surveys. A cookie is a small file containing a string of characters that uniquely identifies your browser and a web beacon is a single pixel or clear GIF which are small pieces of code placed on a web page. Most browsers are initially set up to accept cookies and similar technologies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Web beacons may also be disabled by disabling JavaScript on your computer. However, alteration of such settings may affect the functionality of our Websites. For more information on how to disable cookies, you may visit [www.aboutcookies.org](http://www.aboutcookies.org/). 
+**1\. Cookies and Web Beacons** \- When you visit our Websites, we or our service providers, advertisers or partners, may send one or more cookies to your computer or use web beacons to improve the quality of our service by analyzing traffic pattern, tracking user trends and conducting optional research surveys. A cookie is a small file containing a string of characters that uniquely identifies your browser and a web beacon is a single pixel or clear GIF which are small pieces of code placed on a web page. Most browsers are initially set up to accept cookies and similar technologies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Web beacons may also be disabled by disabling JavaScript on your computer. However, alteration of such settings may affect the functionality of our Websites. For more information on how to disable cookies, you may visit [www.aboutcookies.org](https://www.aboutcookies.org/). 
 
 **2\. Third party cookies**
 
@@ -69,7 +69,7 @@ Uniblue processes personal information in Malta. Information is retained on our 
 
 ### Data integrity
 
-We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. You are therefore kindly requested to inform us of any change referring to your personal data held by us. You have the right to access the personal information that we may hold about you, to rectify this data or object to the storage of the data for legitimate purposes by contacting us at [http://www.uniblue.com/support/ticket/](https://web.archive.org/support/ticket/). 
+We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. You are therefore kindly requested to inform us of any change referring to your personal data held by us. You have the right to access the personal information that we may hold about you, to rectify this data or object to the storage of the data for legitimate purposes by contacting us at [https://www.uniblue.com/support/ticket/](https://web.archive.org/support/ticket/). 
 
 ### Privacy of business partners
 
@@ -85,4 +85,4 @@ The Uniblue Websites are not aimed at children and we do not knowingly collect a
 
 ### Changes to this policy
 
-Please note that this policy may change from time to time. All updates will be published on the Uniblue Websites and, if the changes are significant, the changes will be posted on the Websites and on this page [http://www.uniblue.com/privacy/](https://web.archive.org/privacy/) thirty days prior to taking effect. Each version of this policy will be identifiable at the top of this document by its effective date. We encourage you to refer to this policy periodically. 
+Please note that this policy may change from time to time. All updates will be published on the Uniblue Websites and, if the changes are significant, the changes will be posted on the Websites and on this page [https://www.uniblue.com/privacy/](https://web.archive.org/privacy/) thirty days prior to taking effect. Each version of this policy will be identifiable at the top of this document by its effective date. We encourage you to refer to this policy periodically. 
