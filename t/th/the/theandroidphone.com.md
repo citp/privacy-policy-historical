@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theandroidphone.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624070630id_/http%3A//www.androidauthority.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theandroidphone.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234956id_/http%3A//www.androidauthority.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Android Authority
 
 _This policy was last updated February 2, 2017._
 
-At Android Authority, we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy. Our privacy policy is applicable to Android Authority, and Android Authority’s affiliates and subsidiaries whose websites, mobile applications and other online services are directly linked (the “Sites”). These include TabTimes, VR Source, Sound Guys, and Charged. 
+At Android Authority, we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy. Our privacy policy is applicable to Android Authority, and Android Authority’s affiliates and subsidiaries whose websites, mobile applications and other online services are directly linked (the “Sites”).
 
 The privacy policy describes the kinds of information we may gather during your visit to these Sites, how we use your information, when we might disclose your personally identifiable information, and how you can manage your information.
 
@@ -66,7 +66,49 @@ We will not disclose your personally identifiable information collected from the
 
 **Third-Party Agents**
 
-We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, including, but not limited to, hosting, content syndication, content management tools, social media integration, marketing, analytics, billing and customer service. These entities may have access to personally identifiable information if needed to perform their functions. If such access is required, the third parties will be obligated to maintain the confidentiality and security of that personally identifiable information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Sites.
+We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, including, but not limited to, hosting, content syndication, content management tools, social media integration, marketing, analytics, billing and customer service. These entities may have access to personally identifiable information if needed to perform their functions. If such access is required, the third parties will be obligated to maintain the confidentiality and security of that personally identifiable information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Sites. Below is a list of Third-party scripts or SDKS that may be used on Android Authority:
+
+_**Google Analytics (Google Inc.)**_  
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
+Personal Data collected: Cookies and Usage Data.  
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
+
+_**Spot.IM Commenting  
+**_SpotIM is commenting software. [Privacy Policy](https://www.spot.im/privacy/)
+
+_**Facebook Analytics for Apps (Facebook, Inc.)**_  
+Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.  
+Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service.  
+Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/)
+
+_**Facebook Like button and social widgets (Facebook, Inc.)**_  
+The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.  
+Personal Data collected: Cookies and Usage Data.  
+Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation)
+
+_**Twitter Tweet button and social widgets (Twitter, Inc.)**_  
+The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.  
+Personal Data collected: Cookies and Usage Data.  
+Place of processing: US – [Privacy Policy](https://twitter.com/privacy)
+
+_**Facebook Analytics for Apps (Facebook, Inc.)**_  
+Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.  
+Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service.  
+Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/)
+
+_**YouTube video widget (Google Inc.)**_  
+YouTube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.  
+Personal Data collected: Cookies and Usage Data.  
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
+
+_**Google Analytics for Firebase (Google Inc.)**_  
+Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google Inc. In order to understand Google’s use of Data, consult Google’s partner policy.  
+Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other tools used by the Owner.  
+This Application uses identifiers for mobile devices (including Android Advertising ID or Advertising Identifier for iOS, respectively) and technologies similar to cookies to run the Firebase Analytics service.  
+Users may opt-out of certain Firebase features through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other Firebase related sections of this privacy policy, if available.  
+Personal Data collected: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.  
+Place of processing: USA – [Privacy Policy](https://www.google.com/policies/privacy/)
 
 **Business Partners and Other Third Parties**
 
