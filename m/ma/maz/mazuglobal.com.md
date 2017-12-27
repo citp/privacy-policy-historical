@@ -1,86 +1,80 @@
-> *The following text is extracted and transformed from the mazuglobal.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207025104id_/http%3A//www.mazuglobal.com/Mazu_Global_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazuglobal.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004021id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# MAZU GLOBAL PRIVACY STATEMENT
+# HugeDomains.com - Privacy Policy
 
-                  MAZU GLOBAL PRIVACY STATEMENT
-Mazu Global values the privacy and security of the information that you share with us
-through Mazu Global. It is important that you understand how we collect, use, and
-maintain your information. This Privacy Statement explains our online information
-practices, the choices you may make about how we collect and use your information at
-this Web Site, and the ways you may contact us.
-We may change this Privacy Statement from time to time. Changes to this Privacy
-Statement are effective upon posting. Please check back periodically for updates.
-Definitions
-"Personal Information" includes, your name, address information, personal e-mail
-address and URL, telephone number, account username and password, as well as other,
-similar information.
-"Prospect Information" includes the same information as Personal Information except
-that Prospect Information is information that is submitted by an individual who is not the
-subject of the data submitted.
-"Non-Identifying Personal Information" includes information about you, including,
-without limitation, your Internet service provider, browser type, domain name, the Web
-Site that referred you to us, the web pages you request, the date and time of those
-requests, and entry and exit points.
-Collection of Personal Information or Prospect Information
-Mazu Global may collect Personal Information from you, but only if you provide it to us
-voluntarily. We also collect Personal Information that you provide to us so that we can
-fulfill your order. In addition, in certain situations, such as when a purchaser buys a
-product as a gift and supplies the recipients' name and address, we collect Prospect
-Information.
-Collection and Use of Non-Identifying Personal Information
-During your use of our Web Site, we will collect certain Non-Identifying Personal
-Information to enhance the functionality of the Web Site and to make your access more
-convenient and efficient. We retain Non-Identifying Personal Information and use it to
-establish Web Site activity trends, monitor Web Site performance, improve Web Site
+[Home](https://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
+**What information do we collect?**
 
-design and functionality, fulfill orders, inform current and potential customers and
-suppliers about our services, and for other business purposes. Our collection of Non-
-Identifying Personal Information may involve the use of cookies. Among other uses,
-cookies allow us to deliver content specific to your interests, to save you from re-entering
-your registration data at each connection, and to provide features such as online customer
-payment and shopping carts. The Help portion of the toolbar on most browsers will tell
-you how to configure your web browser to accept cookies, to prevent your browser from
-accepting new cookies, to have the browser notify you when you receive a new cookie, or
-to disable cookies altogether. No personal or unencrypted information will be encoded in
-cookies that are stored on your computer.
-Children
-Mazu Global does not sell products for purchase by children, but we do sell children's
-products for purchase by adults. We do not knowingly collect, maintain, or use Personal
-Information or Prospect Information from children under age 18. If you are under age 18,
-do not share personal information with us.
-Use of Personal Information
-Mazu Global may use and disclose Personal Information or Prospect Information as
-described in this document. In addition to the uses described in this document, we may
-use Personal Information or Prospect Information for purposes that include maintaining
-the Web Site, order fulfillment and administration, and product surveys, administrative
-and analytical purposes like accounting, billing and audits, and information system
-management, and other, similar uses. We may also use Personal Information or Prospect
-Information to provide current and potential customers and suppliers with information
-about our services.
-We only collect, use, and disclose Personal Information or Prospect Information for
-purposes that are reasonable in the circumstances. We use only fair and lawful means to
-collect Personal Information or Prospect Information.
-Protection of Mazu Global and Others
-We may use or disclose Personal Information or Prospect Information without your
-consent in certain circumstances:
-* If we are required by law or by an order or requirement of a court, administrative
-agency, or other government entity, or by court rules concerning the production of
-records;
+We collect information from you when you register on our site, place an order or fill out a form. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-* If we have reasonable grounds to believe that use or disclosure is necessary to protect
-the rights, privacy, property, or safety of our users or others;
-*If we have reasonable grounds to believe that the information relates to breach of an
-agreement or violation of the law that has been, is being, or is about to be committed;
-* If it is necessary for fraud protection, risk reduction, or the establishment or collection
-of funds owed to us;
-* If it is necessary to enforce or apply our Terms of Use and other agreements, to pursue
-remedies, or to limit damages to Mazu Global;
-* If the information is public;
-* For other reasons allowed or required by law.
-When we are required or permitted to disclose information without consent, we will not
-disclose more information than is necessary to fulfill the disclosure purpose.
-Links to Other Web Sites
-When you click on a link on this Web Site that takes you to a web site operated by
-another company, you will be subject to that company's web site privacy policies.
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways: 
+
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
+
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
+
+• To process transactions
+
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
