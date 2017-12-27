@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellectualtakeout.org privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609015851id_/http%3A//www.intellectualtakeout.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellectualtakeout.org privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227042621id_/http%3A//www.intellectualtakeout.org/privacy-policy) for the most accurate reproduction.*
 
 # Intellectual Takeout Privacy Policy | Intellectual Takeout
 
