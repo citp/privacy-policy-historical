@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpay.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630015440id_/https%3A//jpay.com/LegalAgreementsOut.aspx%3FPanel%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpay.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228094219id_/http%3A//jpay.com/LegalAgreementsOut.aspx%3FPanel%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Legal Agreements
 
@@ -6,8 +6,7 @@
   * Email Terms of Service
   * Video Visitation Terms of Service
   * Subpoena Policy
-  * Player Purchase Terms and Conditions
-  * Player Accessory Warranty
+  * Player Purchase Terms and Conditions and Warranty Policy
   * Consumer Protection
   * Privacy Policy
 
