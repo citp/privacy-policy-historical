@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the joann.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628060159id_/https%3A//www.joann.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joann.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228142904id_/http%3A//www.joann.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Jo-Ann
+# Privacy Policy | JOANN
 
 ### Privacy Policy
 
 At Jo-Ann Fabric and Craft Stores™, your trust and satisfaction is a priority. We know that your privacy is important, and that is why we take care to safeguard the confidentiality and security of your information. This Privacy Policy is intended to inform you of our policies and practices regarding our use and disclosure of the information that you submit to us, and the information that we collect from you through our web site, our mobile applications, and in our retail stores.
 
-Whenever we use the words "we" or "us" or “Jo-Ann,” we are referring to Jo-Ann Stores LLC, (doing business as Jo-Ann Fabric and Craft Stores™), and to other affiliates and parent companies of Jo-Ann Stores, LLC, including Joann.com, LLC, which is a wholly owned subsidiary of Jo-Ann Stores, LLC. Whenever we use the words "our web site," we are referring to [http://www.joann.com](http://www.joann.com/).
+Whenever we use the words "we" or "us" or “Jo-Ann,” or or “JOANN,” we are referring to Jo-Ann Stores LLC, (doing business as Jo-Ann Fabric and Craft Stores™), and to other affiliates and parent companies of Jo-Ann Stores, LLC, including Joann.com, LLC, which is a wholly owned subsidiary of Jo-Ann Stores, LLC. Whenever we use the words "our web site," we are referring to [http://www.joann.com](http://www.joann.com/).
 
 This Privacy Policy is divided into the following sections:
 
@@ -53,7 +53,7 @@ Our web site is maintained in the state of Ohio in the United States, and by sub
 
 When you submit Personal Information and De-identified Information to us, either through our web site, in our stores, or by other avenues, it means that you have agreed to this Privacy Policy, and that you expressly consent to the use of your Personal Information in the United States, according to this Privacy Policy.
 
-Please note that your Personal Information may be used by Jo-Ann in the country where it was collected, as well as in the United States, where laws regarding the use of Personal Information may be less strict than the laws in your country.
+Please note that your Personal Information may be used by JOANN in the country where it was collected, as well as in the United States, where laws regarding the use of Personal Information may be less strict than the laws in your country.
 
 Back to top
 
@@ -86,21 +86,21 @@ We (or our business partners, on our behalf) collect and keep Personal Informati
   * When you enter a sweepstakes, we collect your name, postal address, country, email address and any other information required to enter the sweepstakes.
   
 
-  * When you use our Career Center (which is operated by a third party service provider) and create a profile to search for a job, we collect the following information: (a) your name, telephone number, postal address, and any licensing, certification or other credentials you may have; (b) information about your education and qualifications; (c) your salary expectations; (d) your availability; and (e) other information relevant to your possible employment, as well as any other information you choose to submit. This information is made available only to our employees involved in the recruitment process, and it is used only for recruitment purposes. Employees of our third party service provider have access to your Personal Information, and they are subject to the same privacy protection requirements as our employees, and they may use the information only for the purpose of providing us with technical support. (This paragraph is not applicable in Canada as there are no Jo-Ann stores in Canada).
+  * When you use our Career Center (which is operated by a third party service provider) and create a profile to search for a job, we collect the following information: (a) your name, telephone number, postal address, and any licensing, certification or other credentials you may have; (b) information about your education and qualifications; (c) your salary expectations; (d) your availability; and (e) other information relevant to your possible employment, as well as any other information you choose to submit. This information is made available only to our employees involved in the recruitment process, and it is used only for recruitment purposes. Employees of our third party service provider have access to your Personal Information, and they are subject to the same privacy protection requirements as our employees, and they may use the information only for the purpose of providing us with technical support. (This paragraph is not applicable in Canada as there are no JOANN stores in Canada).
   
 
-  * When you sign up to receive text messages, we collect your mobile telephone number. We also collect your name and zip code if you choose to provide it. For more information about text messages from Jo-Ann and how to stop them, go to this link: [www.joann.com/SMS](https://web.archive.org/SMS)
+  * When you sign up to receive text messages, we collect your mobile telephone number. We also collect your name and zip code if you choose to provide it. For more information about text messages from JOANN and how to stop them, go to this link: [www.joann.com/SMS](https://web.archive.org/SMS)
   
 
-  * When you submit product reviews on our web site, Jo-Ann and our business partner that operates the review platform will collect Personal Information from you such as email address, location information, and age and gender. For more information, go to this link: http://www.bazaarvoice.com/privacy-policy/
+  * When you submit product reviews on our web site, JOANN and our business partner that operates the review platform will collect Personal Information from you such as email address, location information, and age and gender. For more information, go to this link: http://www.bazaarvoice.com/privacy-policy/
   
 
   * When we receive Personal Information about you from other sources, we will add this information to the information we have already collected from you.
   
 
   * When you call, email or chat with our customer service, we may collect all or some of the following: name, email address, postal address (shipping address and billing address), telephone number(s), credit card information (number, type of card [Visa, MasterCard, etc.] and expiration date, order number, merchandise to be purchased, other information that you provide during the interaction.
-  *  
-
+  
+  
 
 
 On our web site, we (or our business partners, on our behalf) also collect other information from you automatically, through the use of technology, without you taking steps to submit that information, whenever you use our website for any purpose (shopping, submitting a request to customer service, researching projects and merchandise, searching the career center, etc.), in the following ways:
@@ -108,15 +108,15 @@ On our web site, we (or our business partners, on our behalf) also collect other
   * As you navigate our web site, we collect information including your IP address, browser type, domain names, access times, operating system, and other device identification information.
   
 
-  * We also use Cookies (described in Section 1, “Definitions”), pixels, and navigational data like uniform resource locators (URL) to collect information regarding the date and time of your visit, the products for which you searched and viewed, and the other resources on our web site that you used or visited. In addition, our web site and emails from Jo-Ann may contain code or pixels that cause Cookies to be placed in, or read or modified from, a user's or email recipient's browser cache.
+  * We also use Cookies (described in Section 1, “Definitions”), pixels, and navigational data like uniform resource locators (URL) to collect information regarding the date and time of your visit, the products for which you searched and viewed, and the other resources on our web site that you used or visited. In addition, our web site and emails from JOANN may contain code or pixels that cause Cookies to be placed in, or read or modified from, a user's or email recipient's browser cache.
   
 
   * When you access our web site from mobile devices (such as smart phones or tablets), we collect information including access times, the operating system, the products for which you searched and viewed, and the other resources on our web site that you used or visited.
   
 
   * We may use and associate historical data with a computer or device as part of our efforts to prevent fraud, credit card fraud, or other illegal activity.
-  *  
-
+  
+  
 
 
 In our stores, we (or our business partners, on our behalf) also collect other information from you automatically, through the use of technology, without you taking steps to submit that information, as follows:
@@ -124,12 +124,12 @@ In our stores, we (or our business partners, on our behalf) also collect other i
   * When you enter our store with a mobile device (phone), we collect the following information: the presence of the mobile device, its Media Access Control (MAC) address, the mobile device’s manufacturer (Samsung, LG, Apple, etc.), the mobile device’s signal strength (RSS), and if the device is currently connected to a Wi-Fi network, the name of the network.
   
 
-  * When you log-in to Jo-Ann’s in-store wireless (Wi-Fi) network through a mobile device, we collect the following information: all the information listed in the paragraph immediately above, your name, your email address, your birth date, your age, your gender, city and county location of the mobile device.
+  * When you log-in to JOANN’s in-store wireless (Wi-Fi) network through a mobile device, we collect the following information: all the information listed in the paragraph immediately above, your name, your email address, your birth date, your age, your gender, city and county location of the mobile device.
   
 
-  * Please see the privacy policy of our contractor (<http://euclidanalytics.com/about/privacy-statement/>) for a summary of the collection and use of personally identifiable information by our contractor. By granting the registration consent (as a part of your acceptance of the in-store Wireless Network Terms of Use), you consent to the following: (a) the sharing of registration information with third parties for the purposes described in this Privacy Policy and in our contractor’s privacy policy, including, without limitation, personalizing shopping experiences and improving business operations; (b) the linking of your registration information with your past, present, and future location data, as described in this Privacy Policy and in our contractor’s privacy policy; and (c) the granting of a license for third parties to continue to share your registration information until you elect to not share your registration information, subject to the opt-out described in the contractor’s privacy policy, by visiting https://smart-places.org.
-  *  
-
+  * Please see the privacy policy of our contractor ([http://euclidanalytics.com/about/privacy-statement/](http://euclidanalytics.com/about/privacy-statement/)) for a summary of the collection and use of personally identifiable information by our contractor. By granting the registration consent (as a part of your acceptance of the in-store Wireless Network Terms of Use), you consent to the following: (a) the sharing of registration information with third parties for the purposes described in this Privacy Policy and in our contractor’s privacy policy, including, without limitation, personalizing shopping experiences and improving business operations; (b) the linking of your registration information with your past, present, and future location data, as described in this Privacy Policy and in our contractor’s privacy policy; and (c) the granting of a license for third parties to continue to share your registration information until you elect to not share your registration information, subject to the opt-out described in the contractor’s privacy policy, by visiting https://smart-places.org.
+  
+  
 
 
 Back to top
@@ -158,9 +158,9 @@ Back to top
 
 Except as otherwise stated in this Privacy Policy, we do not sell, rent, or share your Personal Information with third parties. When you purchase a product or a service from our web site, or when you special order a product or service from our stores, we will share Personal Information with third party fulfillment companies in the United States, in order to deliver the product or service to you. We also share your Personal Information with third party service providers in the United States that provide advertising and marketing services for us, including distribution of postal mail, electronic alerts, email, electronic (digital) advertisements, and mobile text messages to our customers and potential customers. These third party service providers are required not to use your Personal Information, except to provide the services requested by us, and they are bound by confidentiality agreements for their use of your Personal Information. You expressly consent to the sharing of your Personal Information with our third party service providers in the United States.
 
-We reserve the right to share some or all of your Personal Information with our subsidiaries, joint ventures, and other companies in the United States under the common control of Jo-Ann (collectively, "Affiliates"), for the purposes described in this policy. We will require our Affiliates to honor this Privacy Policy.
+We reserve the right to share some or all of your Personal Information with our subsidiaries, joint ventures, and other companies in the United States under the common control of JOANN (collectively, "Affiliates"), for the purposes described in this policy. We will require our Affiliates to honor this Privacy Policy.
 
-Regardless of any choices you make regarding your Personal Information, we may disclose your Personal Information if we believe in good faith that disclosure is necessary to (a) comply with laws or to respond to subpoenas or other judicial orders served on us, or (b) to protect and defend the rights or property of Jo-Ann or third parties.
+Regardless of any choices you make regarding your Personal Information, we may disclose your Personal Information if we believe in good faith that disclosure is necessary to (a) comply with laws or to respond to subpoenas or other judicial orders served on us, or (b) to protect and defend the rights or property of JOANN or third parties.
 
 To provide offers that are of interest to you, we may allow other companies to place advertisements and other technology on our web site. As a result of your visit to our web site, advertisement server companies may collect information such as your domain type, your IP address, and clickstream information.
 
@@ -178,17 +178,17 @@ We use "interest-based" advertisements, also known as "online behavioral adverti
 
 In connection with online behavioral advertising, some third parties involved in advertising operations may maintain their own proprietary consumer databases that allow them to personally identify or track website visitors. Other third parties have proprietary technologies to determine what additional devices you may use, and they may then display advertisements on those additional devices.
 
-Do-Not-Track is a public-private initiative that has developed a “flag” or signal that an internet user may activate in the user’s browser software to notify websites that the user does not wish to be “tracked” by third parties as defined by the initiative. For more information, visit <http://www.w3.org/>.  As explained below, some web sites, including our web site, will ignore a “do-not-track” signal.
+Do-Not-Track is a public-private initiative that has developed a “flag” or signal that an internet user may activate in the user’s browser software to notify websites that the user does not wish to be “tracked” by third parties as defined by the initiative. For more information, visit [http://www.w3.org/](http://www.w3.org/).  As explained below, some web sites, including our web site, will ignore a “do-not-track” signal.
 
 As required by Section 22575 of the California Business and Professions Code, the following disclosure is made to California residents and to residents of other states: Our web site does not alter its behavior or change its services when it receives a “do-not-track” flag or signal from your browser. As described in Section 3, “How We Collect Personal Information,” we use Cookies and other tools to collect information about you when you visit our web site to better tailor the features, performance and support of our products, services, stores, and web site. After you leave our web site, we do not track your online activity on other web sites, but third parties (and their affiliates) may track your online activity to offer you advertisements.
 
-You can make decisions about your privacy and the ads you receive. You can control whether companies serve you on-line behavioral advertising by visiting the Digital Advertising Alliance website and using its opt-out: <http://www.aboutads.info/choices/>. The DAA opt-out requires that cookies not be blocked in your browser. As explained in section 11, we do not represent or warrant that the actions taken on other web sites will be effective.
+You can make decisions about your privacy and the ads you receive. You can control whether companies serve you on-line behavioral advertising by visiting the Digital Advertising Alliance website and using its opt-out: [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/). The DAA opt-out requires that cookies not be blocked in your browser. As explained in section 11, we do not represent or warrant that the actions taken on other web sites will be effective.
 
-For mobile devices and applications, you can visit the following website to opt-out of behavioral advertising: <http://www.aboutads.info/appchoices>. As explained in section 11, we do not represent or warrant that the actions taken on other web sites will be effective.
+For mobile devices and applications, you can visit the following website to opt-out of behavioral advertising: [http://www.aboutads.info/appchoices](http://www.aboutads.info/appchoices). As explained in section 11, we do not represent or warrant that the actions taken on other web sites will be effective.
 
 As an alternative to the DAA opt-out, you can also elect to block all Cookies from first parties (such as those from our website) and Cookies from third parties (such as advertisers) by using the cookie blocking options built into your browser software. For example, in Internet Explorer 9, you can block both first-party and third-party cookies by selecting those options at Tools/Internet Options/Privacy/Settings-Advanced/Override Automatic Cookie Handling. Also, if you are using Firefox 25, you can "uncheck" Accept All Cookies under Firefox Preferences/Privacy-Use Custom Settings For History/Accept Cookies from Sites. If you block Cookies, some parts of our website may not function correctly. We do not represent or warrant that these actions will be effective to accomplish their purpose.
 
-We use a third party service provider to manage our product review system. When you submit product reviews on our website, our third party service provider may place Cookies on your browser and offer advertising to you. For more information on how this provider uses your information, please visit this link: <http://go.bazaarvoice.com/848PGD1740001EG001ipQ00>
+We use a third party service provider to manage our product review system. When you submit product reviews on our website, our third party service provider may place Cookies on your browser and offer advertising to you. For more information on how this provider uses your information, please visit this link: [http://go.bazaarvoice.com/848PGD1740001EG001ipQ00](http://go.bazaarvoice.com/848PGD1740001EG001ipQ00)
 
 Back to top
 
