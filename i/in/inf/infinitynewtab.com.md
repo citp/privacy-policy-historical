@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinitynewtab.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123073128id_/http%3A//www.infinitynewtab.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitynewtab.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229001102id_/http%3A//www.infinitynewtab.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Infinity New Tab
 
@@ -36,7 +36,8 @@ Some of the web search services provided herein are provided by Trovi Search and
 
 Sharing your personal information 
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.   
+Some of the data collected from you in connection with your use of this addon, as applicable, is shared or otherwise made available to third parties with whom we are affiliated, and is collected, stored and used in accordance with the third-party privacy policy set forth at: <http://addons-privacy.com/>
 
 Changes to this privacy policy 
 
@@ -47,3 +48,5 @@ Your acceptance of these terms
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
 This document was last updated on March 26, 2015. Questions can be send to infinitynewtab#gmail.com(replaced # with @). 
+
+Aztec Media Inc., Post Office Box 51968, Limassol, Cyprus.
