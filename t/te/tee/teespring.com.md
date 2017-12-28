@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628135548id_/https%3A//teespring.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228011424id_/https%3A//teespring.com/policies/privacy) for the most accurate reproduction.*
 
 # About Teespring / Privacy Policy | Teespring
 
@@ -71,9 +71,8 @@ We follow generally accepted standards to protect the personal information submi
 Teespring may periodically make changes to this Privacy Policy that will be posted on our website (teespring.com) or communicated to you through other reasonable means (e.g. email or mobile alerts). We encourage you to periodically review this page for the latest information on our privacy practices.
 
 Teespring  
-460 Bryant St, Suite 200  
-San Francisco, CA 94107  
-Customer support: [contact here](https://web.archive.org/email_us)  
-Telephone: 1-855-TEESPRING (1-855-833-7774)
+77 Geary St, Level 5  
+San Francisco, CA 94103  
+Customer support: [contact here](https://web.archive.org/email_us)
 
- _Updated on July 6, 2016_
+ _Updated on July 20, 2017_
