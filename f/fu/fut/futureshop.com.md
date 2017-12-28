@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futureshop.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222055430id_/http%3A//www.bestbuy.ca/en-CA/help/privacy-policy/hc1139.aspx%3FNVID%3Dfooter%3Blegal%3Bprivacy%3Ben) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futureshop.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228011852id_/https%3A//www.bestbuy.ca/en-CA/help/privacy-policy/hc1139.aspx%3FNVID%3Dfooter%3Blegal%3Bprivacy%3Ben) for the most accurate reproduction.*
 
 # Privacy Policy - Best Buy Canada
 
@@ -6,8 +6,24 @@ At Best Buy we know how important it is to protect your personal information. Wh
 
 This Policy applies to our retail stores, our Web Sites, and all other channels in which Best Buy collects and uses your personal information.
 
-  1.   2.   3.   4.   5.   6.   7. 
+  1. ## What we collect
 
+  2. ## How we collect information
+
+  3. ## How we use the information we collect
+
+  4. ## How we share your information
+
+  5. ## How we protect your information
+
+  6. ## How you can protect your information
+
+  7. ## How to contact us
+
+
+
+
+## What we collect
 
 At Best Buy, we collect two types of information: personal information and non-personal information. The types of information we collect depend on the nature of your interaction with us.
 
@@ -41,6 +57,8 @@ You may choose not to provide us with your personal information. However, if you
 From time to time we may supplement information you give us with information from other sources, such as information validating your address or other available information you have provided us. This is to help us maintain the accuracy of the information we collect and to help us provide better service.
 
 Top↑
+
+## How we collect information
 
 **Collected from you**
 
@@ -136,6 +154,8 @@ In some cases, we automatically collect certain information.
 
 Top↑
 
+## How we use the information we collect
+
 Best Buy may use your personal information for a number of different business purposes, for example to:
 
   * fulfill orders and requests for products, services or information;
@@ -161,6 +181,8 @@ Best Buy may use your personal information for a number of different business pu
 We keep your information only as long as we need it for legitimate business purposes and to meet any legal requirements. We have retention standards that meet these parameters. We destroy your information when it is no longer needed, or we remove your personally identifiable information to render it anonymous.
 
 Top↑
+
+## How we share your information
 
 Best Buy does not sell or rent our customers’ personal information to any other party. However, in the normal course of business we may share some of your personal information within our corporate family and with third parties acting on our behalf or as permitted or required by law.
 
@@ -192,6 +214,8 @@ Some of these operations may result in personal information collected by Best Bu
 
 Top↑
 
+## How we protect your information
+
 The security of your personal information is a high priority for Best Buy. We maintain appropriate safeguards and current security standards to protect your personal information, whether recorded on paper or captured electronically, against unauthorized access, disclosure, or misuse. For example, electronic records are stored in secure, limited-access servers; we employ technological tools like firewalls and passwords; and we ensure our employees are trained on the importance of maintaining the security and confidentiality of personal information.
 
 > **SSL Technology**
@@ -207,6 +231,8 @@ The security of your personal information is a high priority for Best Buy. We ma
 > When you create an online account on our Web Sites, you need to select a personal password. To maximize your level of protection, you should choose at least 6 characters including a combination of both letters and numbers. You are solely responsible for maintaining the secrecy of your password and any account information. Best Buy will never send an unsolicited communication asking you for your password or requesting that you update your account credentials. To learn more about email fraud, please [click here.](http://www.bestbuy.ca/en-CA/help/how-can-i-learn-to-protect-myself-from-email-fraud/hc1146.aspx?path=58cd06432d03774f76f46c5982c096aeen06&HelpCategoryId=Shopping%20Online&CategoryName=Shopping%20Online&ReferringPageTitle=Help%20Customer%20Service)
 
 Top↑
+
+## How you can protect your information
 
 **Steps to protect your online accounts  **
 
@@ -289,6 +315,8 @@ When returning products which may contain stored or recorded personal informatio
 If you no longer wish to be contacted regarding promotions, new product and entertainment releases and how to make the most of the latest technology [click here.](https://www-ssl.bestbuy.ca/en-CA/secure/newsletter-unsubscribe.aspx)
 
 Top↑
+
+## How to contact us
 
 Best Buy is responsible for all personal information under its control. Our Privacy Manager is accountable for Best Buy's compliance with the principles described here. If you have any questions, concerns or complaints about the privacy practices of our organization please contact us at the following:
 
