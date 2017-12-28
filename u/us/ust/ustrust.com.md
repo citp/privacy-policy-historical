@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustrust.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630024603id_/http%3A//www.bankofamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustrust.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228032943id_/http%3A//www.bankofamerica.com/privacy) for the most accurate reproduction.*
 
 # Bank of America Privacy and Security
 
@@ -141,7 +141,7 @@ We may provide links to third party sites, such as credit bureaus, service provi
 
 #### Social media sites
 
-Bank of America provides experiences on social media platforms including, but not limited to, Facebook®, Twitter®, YouTube® and LinkedIn® that enable online sharing and collaboration among users who have registered to use them. Any content you post on official Bank of America managed social media pages, such as pictures, information, opinions, or any Personal Information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those respective platforms. Please refer to them to better understand your rights and obligations with regard to such content.  In addition, please note that when visiting any official Bank of America social media pages, you are also subject to Bank of America's Privacy Notices, [Social Media User Terms](http://about.bankofamerica.com/en-us/social-media/terms-of-use.html#fbid=44ruMLjSRZK) and [Community Guidelines](http://social.bankofamerica.com/)
+Bank of America provides experiences on social media platforms including, but not limited to, Facebook®, Twitter®, YouTube® and LinkedIn® that enable online sharing and collaboration among users who have registered to use them. Any content you post on official Bank of America managed social media pages, such as pictures, information, opinions, or any Personal Information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those respective platforms. Please refer to them to better understand your rights and obligations with regard to such content.  In addition, please note that when visiting any official Bank of America social media pages, you are also subject to Bank of America's Privacy Notices, [Social Media User Terms](https://about.bankofamerica.com/en-us/social-media/terms-of-use.html#fbid=44ruMLjSRZK) and [Community Guidelines](https://social.bankofamerica.com/)
 
 #### Security
 
