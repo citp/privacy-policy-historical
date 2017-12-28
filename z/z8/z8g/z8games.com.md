@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the z8games.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611055516id_/http%3A//www.z8games.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the z8games.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228014812id_/http%3A//www.z8games.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Z8Games - Free Gaming. Evolved.
 
