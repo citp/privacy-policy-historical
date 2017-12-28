@@ -1,23 +1,19 @@
-<!--The following is the downloaded HTML source of the groupon.at privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630000230id_/https%3A//www.groupon.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the groupon.at privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228024017id_/https%3A//www.groupon.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="ls-html" class="ui-v3" lang="en"><head data-app="content-pages" data-country="US" data-lang="en" data-locale="en_US" data-domain=".groupon.com" data-brand="groupon" data-categoryid="">
   <title>GROUPON, INC. PRIVACY STATEMENT</title>
-  <link rel="preconnect" href="//img.grouponcdn.com/">
-  <link rel="preconnect" href="//www1.grouponcdn.com/">
-  <link rel="preconnect" href="//www2.grouponcdn.com/">
-  <link rel="preconnect" href="//assets1.grouponcdn.com/">
-  <link rel="preconnect" href="//assets2.grouponcdn.com/">
-  <link rel="preconnect" href="//assets3.grouponcdn.com/">
-  <link rel="preconnect" href="//assets4.grouponcdn.com/">
-  <link rel="dns-prefetch" href="//mapproxy.groupon.com/">
-  <link rel="dns-prefetch" href="//maps.googleapis.com/">
-  <link rel="dns-prefetch" href="//maps.gstatic.com/">
+  <link rel="preconnect" href="//img.grouponcdn.com" pr="1.0">
+  <link rel="preconnect" href="//www1.grouponcdn.com" pr="1.0" crossorigin="">
+  <link rel="preconnect" href="//www2.grouponcdn.com" pr="1.0" crossorigin="">
+  <link rel="dns-prefetch" href="//mapproxy.groupon.com" pr-="0.2">
+  <link rel="dns-prefetch" href="//maps.googleapis.com" pr-="0.2">
+  <link rel="dns-prefetch" href="//maps.gstatic.com" pr-="0.2">
 
   <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff2" href="//www2.grouponcdn.com/layout/assets/OpenSansRegular-4511fb0ce0.woff2">
-  <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff2" href="//www2.grouponcdn.com/layout/assets/Groupon-d4c144a404.woff2">
-    <link href="//www2.grouponcdn.com/layout/assets/brnd-grpn-gig-v7.2.7-abb0791462.css" rel="stylesheet" type="text/css" id="gig-css">
-    <link href="//www2.grouponcdn.com/layout/assets/brnd-grpn-sls-resp-v6.0.33-33f315c5ef.css" rel="stylesheet" type="text/css">
+  <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff2" href="//www2.grouponcdn.com/layout/assets/Groupon-434a662d94.woff2">
+    <link href="//www2.grouponcdn.com/layout/assets/brnd-grpn-gig-v7.7.1-ad4840917d.css" rel="stylesheet" type="text/css" id="gig-css">
+    <link href="//www2.grouponcdn.com/layout/assets/brnd-grpn-sls-resp-v6.0.47-f0966ed428.css" rel="stylesheet" type="text/css">
   
     <link href="/pages-assets/content_pages-443beebd89.css" rel="stylesheet" type="text/css">
 
@@ -40,13 +36,17 @@
 
 
 
-    <meta name="csrf-token" content="Ck7HuEm7-M787ysGWIEH6021U9YGP-sxAEkM">
+
+
+    <meta name="csrf-token" content="M1X1acem-e68KN9WzPR79tbN9vyZ02Pz24Sk">
 
 
 
 
+<link rel="manifest" href="/groupon/manifest.json">
 
-<meta name="request-id" content="d21d4a2a-1a65-4d04-b7c6-6f0406b8f20a">
+
+<meta name="request-id" content="3eeccf92-eaee-42df-af74-468f58e11aaa">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0">
 
 
@@ -72,7 +72,7 @@
 </script>
 <script id="ls-groupon-config">
   window.Groupon || (window.Groupon = {});
-    Groupon.division = {"uuid":"04fc4937-96a6-46ed-895a-94e2dc47734a","id":"san-francisco","name":"San Francisco","country":"USA","areas":[],"timezone":"Pacific Daylight Time","timezoneIdentifier":"America/Los_Angeles","lat":37.7752,"lng":-122.419,"defaultLocale":"en_US","selectCurrentDivision":"selected"};
+    Groupon.division = {"uuid":"04fc4937-96a6-46ed-895a-94e2dc47734a","id":"san-francisco","name":"San Francisco","country":"USA","areas":[],"timezone":"Pacific Standard Time","timezoneIdentifier":"America/Los_Angeles","lat":37.7752,"lng":-122.419,"defaultLocale":"en_US","selectCurrentDivision":"selected"};
   Groupon.Performance = {
     boomerangUrl: "//www2.grouponcdn.com/layout/assets/boomerang-basic-custom-0_9_3-b6ee9d9cb3.js"
   };
@@ -80,14 +80,20 @@
       showCart: true,
   };
   Groupon.endpoints = {
-          cart: "/cart/widget",
-          cartSize: "/cart/size",
-        user: "/layout/calls/user",
+        cart: "/cart/widget",
+        cartSize: "/cart/size",
+      autocomplete: "/layout/calls/autocomplete", 
+      cards: "/layout/calls/cards", 
+      places_autocomplete: "/layout/calls/places/autocomplete",
+      places_details: "/layout/calls/places/details",
+      users: "/layout/calls/users",
+      
+      my_places: "/layout/calls/myplaces",
       verifyCookies: "/verify_cookies",
   };
   Groupon.versions = {
-    sls: '6.0.33',
-    gig: 'v7.2.7'.replace(/^v/, ''),
+    sls: '6.0.47',
+    gig: 'v7.7.1'.replace(/^v/, ''),
   };
   Groupon.charMapping = {"A":"ÀÁÂÃÄÅ","AE":"Æ","C":"Ç","D":"Ð","E":"ÈÉÊË","I":"ÌÍÎÏ","N":"Ñ","O":"ÒÓÔÕÖŐØ","TH":"Þ","U":"ÙÚÛÜŰ","Y":"Ý","a":"àáâãäå","ae":"æ","c":"ç","d":"ð","e":"èéêë","i":"ìíîï","n":"ñ","o":"òóôõöőø","ss":"ß","th":"þ","u":"ùúûüű","y":"ýÿ","-":" "};
   Groupon.LS = {
@@ -95,18 +101,21 @@
       geolocationOptions: {"maximumAge":1800000},
     },
     data: {
-      searchBarConfig: {"division":{"uuid":"04fc4937-96a6-46ed-895a-94e2dc47734a","id":"san-francisco","name":"San Francisco","country":"USA","areas":[],"timezone":"Pacific Daylight Time","timezoneIdentifier":"America/Los_Angeles","lat":37.7752,"lng":-122.419,"defaultLocale":"en_US","selectCurrentDivision":"selected"},"google_geo_url":"//mapproxy.groupon.com/maps/api/js","gmapResultTypes":["country","street_address","intersection","political","administrative_area_level_1","administrative_area_level_2","administrative_area_level_3","administrative_area_level_4","administrative_area_level_5","colloquial_area","locality","ward","sublocality","neighborhood","premise","subpremise","natural_feature","airport","park","point_of_interest","subpremise","postal_code"]},
+      searchBarConfig: {"division":{"uuid":"04fc4937-96a6-46ed-895a-94e2dc47734a","id":"san-francisco","name":"San Francisco","country":"USA","areas":[],"timezone":"Pacific Standard Time","timezoneIdentifier":"America/Los_Angeles","lat":37.7752,"lng":-122.419,"defaultLocale":"en_US","selectCurrentDivision":"selected"},"google_geo_url":"//mapproxy.groupon.com/maps/api/js","gmapResultTypes":["country","street_address","intersection","political","administrative_area_level_1","administrative_area_level_2","administrative_area_level_3","administrative_area_level_4","administrative_area_level_5","colloquial_area","locality","ward","sublocality","neighborhood","premise","subpremise","natural_feature","airport","park","point_of_interest","subpremise","postal_code"]},
       charMapping: {"A":"ÀÁÂÃÄÅ","AE":"Æ","C":"Ç","D":"Ð","E":"ÈÉÊË","I":"ÌÍÎÏ","N":"Ñ","O":"ÒÓÔÕÖŐØ","TH":"Þ","U":"ÙÚÛÜŰ","Y":"Ý","a":"àáâãäå","ae":"æ","c":"ç","d":"ð","e":"èéêë","i":"ìíîï","n":"ñ","o":"òóôõöőø","ss":"ß","th":"þ","u":"ùúûüű","y":"ýÿ","-":" "},
-      searchOverrides: [{"link":"/merchant/get-started?utm_medium=referral&utm_campaign=groupon-search-bar&utm_source=groupon","terms":["work with groupon","create a groupon deal","groupon merchant","deal builder","advertise on groupon","get featured","run a groupon deal","sell on groupon"]},{"link":"/occasion/doorbusters","terms":["doorbusters","doorbuster"]},{"link":"/forgot_password","terms":["password reset","reset password","forgot password","change password","password change","forgot my password"]},{"link":"/occasion/gifts-for-women","terms":["gifts for women","gift for women","women gifts"]},{"link":"/occasion/gifts-for-men","terms":["gifts for men","gift for men","men gifts"]},{"link":"/occasion/bestofgroupon","terms":["best","best of","best of groupon","best groupons","top","top rated"]},{"link":"http://www.grouponworks.com/get-featured","terms":["advertise on groupon","get featured","run a groupon deal","sell on groupon"]},{"link":"/groupon-promise","terms":["claim refund","refund","request refund","return policy","returns","return","return item","return items","return goods","cancel","cancel order"]},{"link":"/customer_support","terms":["customer service","customer support","help"]},{"link":"https://merchants.groupon.com","terms":["merchant center"]},{"link":"https://breadcrumb.groupon.com/","terms":["breadcrumb","point of sale","pos"]},{"link":"https://breadcrumb.groupon.com/payments","terms":["payments"]},{"link":"https://grassroots.groupon.com/","terms":["charity","grassroots"]},{"link":"/giftcards","terms":["gift card","gift cards"]},{"link":"/subscription_center","terms":["unsubscribe","how to unsubscribe","unsubscribe from groupon","manage subscriptions","my email subscriptions"]},{"link":"/mygroupons","terms":["my groupons","my groupon","my gropons","my coupons","mygroupons","mygroupon","my grouping","my groupings","my","purchase item","purchased items"]},{"link":"/myaccount","terms":["my account","account","my stuff","my profile","profile"]},{"link":"/goods/all?discount=gg-clearance","terms":["clearance"]},{"link":"/mobile","terms":["groupon app","groupon mobile app"]},{"link":"/faq","terms":["faq"]},{"link":"http://jobs.groupon.com","terms":["jobs","jobs at groupon"]},{"link":"/occasion/black-friday-deals","terms":["black friday","blackfriday","black friday deals","gg black friday preview 2015"]},{"link":"/occasion/cyber-monday-deals","terms":["cyber monday","cybermonday","cyber monday deals"]},{"link":"/browse/chicago?category=things-to-do&category2=kids-activities","locations":["chicago"],"terms":["kids","kids activities"]}],
+      searchOverrides: [{"link":"/merchant/get-started?utm_medium=referral&utm_campaign=groupon-search-bar&utm_source=groupon","terms":["work with groupon","create a groupon deal","groupon merchant","deal builder","advertise on groupon","get featured","run a groupon deal","sell on groupon"]},{"link":"/occasion/doorbusters","terms":["doorbusters","doorbuster"]},{"link":"/forgot_password","terms":["password reset","reset password","forgot password","change password","password change","forgot my password"]},{"link":"/occasion/gifts-for-women","terms":["gifts for women","gift for women","women gifts"]},{"link":"/occasion/gifts-for-men","terms":["gifts for men","gift for men","men gifts"]},{"link":"/occasion/bestofgroupon","terms":["best","best of","best of groupon","best groupons","top","top rated"]},{"link":"http://www.grouponworks.com/get-featured","terms":["advertise on groupon","get featured","run a groupon deal","sell on groupon"]},{"link":"/groupon-promise","terms":["claim refund","refund","request refund","return policy","returns","return","return item","return items","return goods","cancel","cancel order"]},{"link":"/customer_support","terms":["customer service","customer support","help"]},{"link":"https://merchants.groupon.com","terms":["merchant center"]},{"link":"https://breadcrumb.groupon.com/","terms":["breadcrumb","point of sale","pos"]},{"link":"https://breadcrumb.groupon.com/payments","terms":["payments"]},{"link":"https://grassroots.groupon.com/","terms":["charity","grassroots"]},{"link":"/giftcards","terms":["gift card","gift cards"]},{"link":"/subscription_center","terms":["unsubscribe","how to unsubscribe","unsubscribe from groupon","manage subscriptions","my email subscriptions"]},{"link":"/mygroupons","terms":["my groupons","my groupon","my gropons","my coupons","mygroupons","mygroupon","my grouping","my groupings","my","purchase item","purchased items"]},{"link":"/myaccount","terms":["my account","account","my stuff","my profile","profile"]},{"link":"/goods/all?discount=gg-clearance","terms":["clearance"]},{"link":"/mobile","terms":["groupon app","groupon mobile app"]},{"link":"/faq","terms":["faq"]},{"link":"http://jobs.groupon.com","terms":["jobs","jobs at groupon"]},{"link":"/occasion/doorbusters","terms":["black friday","blackfriday","black friday deals","gg black friday preview 2015"]},{"link":"/occasion/doorbusters","terms":["cyber monday","cybermonday","cyber monday deals"]},{"link":"/occasion/gift-shop","terms":["christmas"]},{"link":"/occasion/doorbusters","terms":["doorbusters"]},{"link":"/browse/?category=things-to-do","terms":["new years eve","nye"]}],
       
       appName: 'content-pages',
+        googleClientId: '169314272487.apps.googleusercontent.com',
+      cloModal: {"images":[{"media_query":"(min-width:625px)","urls_by_density":[{"4x":"https://img.grouponcdn.com/test/2ZY5tBxfZCAEDWGLJPyWJtqnmPWD/2Z-2500x1816"},{"3x":"https://img.grouponcdn.com/test/QuRM4Y6fjoiGHCRR9wf2Rd2ESky/Qu-1875x1362"},{"2x":"https://img.grouponcdn.com/test/AV5N2fQZgwh7gKgwi7N2McSHm3r/AV-1250x908"},{"1.5x":"https://img.grouponcdn.com/test/ChxK6bzPJxd6CbVAQjiwZVq95bu/Ch-938x681"},{"1x":"https://img.grouponcdn.com/test/Cus2C3SswaJ1FnE3adRPM4oDpN5/Cu-625x454"}]},{"media_query":"(min-width:320px)","urls_by_density":[{"4x":"https://img.grouponcdn.com/test/27DVnW69xozVqorL4cR53N14gmDA/27-1436x1724"},{"3x":"https://img.grouponcdn.com/test/2GnTnJidQ1LNAU4MxcewmYEZuo2c/2G-1077x1293"},{"2x":"https://img.grouponcdn.com/test/44oAdqKNxzXUBZRscbKbuZsZZcru/44-718x862"},{"1.5x":"https://img.grouponcdn.com/test/3haiLCPkm2EP8xcRfFymRD1TpgTv/3h-539x647"},{"1x":"https://img.grouponcdn.com/test/28VX8ykuFrQZvLaxEwQC5oqqFCtq/28-359x431"}]}]},
     },
     experiments: {
+      showSigninFlyout: true, 
       
       
     },
     translations: {
-        userNav: {"about":"About Groupon","language":"Language","browseByCategories":"Browse By Categories","cart":"Cart","cartLink":"/cart","help":"Help","helpLink":"/customer_support","userLink":"/mystuff","userHeadline":"My Stuff","myAccount":"Account","myAccountLink":"/myaccount","myProfile":"Profile","myGroupons":"My Groupons","myGrouponsLink":"/mystuff","myWishlist":"My Wishlist","myWishlistLink":"/wishlist","mySubscriptions":"Subscriptions","mySubscriptionsLink":"/subscription_center","myGiftcard":"Redeem Gift Card","myGiftcardLink":"/giftcards","customerSupport":"Customer Support","customerSupportLink":"/customer_support","privacyPolicy":"Privacy Statement","privacyPolicyLink":"/privacy","termsOfUse":"Terms of Use","termsOfUseLink":"/terms","userLanguage":"Language","signInLink":"/login","signInMessage":"Sign in to access your Groupons","signInOrSignUp":"Sign in or Sign up","signOut":"Sign Out","signOutLink":"/logout","merchantSignUp":"Sell on Groupon","merchantSignUpLink":"/merchant/get-started?utm_medium=referral&utm_campaign=groupon-header-mweb1&utm_source=groupon","downloadApp":"Download Groupon App","referAFriendLink":"/visitor_referral","myMerchantCenter":"My Merchant Center","myMerchantCenterLink":"https://merchants.groupon.com/","myReservations":"My Reservations","myFood":"My Food","myEmailSubsLink":"/subscription_center","myEmailSubs":"Subscriptions","mycardLinkedDeals":"My Card-Linked Deals","mycardLinkedDealsLink":"/mylinkeddeals","headerMerchant":"Sell","headerMerchantLink":"/merchant/get-started?utm_medium=referral&utm_campaign=groupon-header1&utm_source=groupon","imprint":"Imprint","imprintLink":"/impressum","mobileAppBanner":{"image_alt":"download Groupon app","heading_h4":"Get the Groupon app","txt":"Over {amount} Five-Star Ratings","cta":"Download App","footnote":"* Globally, across all versions"}},
+        userNav: {"about":"About Groupon","language":"Language","browseByCategories":"Browse By Categories","cart":"Cart","cartLink":"/cart","help":"Help","helpLink":"/customer_support","userLink":"/mystuff","userHeadline":"My Stuff","myAccount":"Account","myAccountLink":"/myaccount","signInFlyoutProfile":"Deal Preferences","myProfile":"Profile","myProfileLink":"/myprofile","myGroupons":"My Groupons","myGrouponsLink":"/mystuff","myWishlist":"My Wishlist","myWishlistLink":"/wishlist","mySubscriptions":"Subscriptions","mySubscriptionsLink":"/subscription_center","myGiftcard":"Redeem Gift Card","myGiftcardLink":"/giftcards","customerSupport":"Customer Support","customerSupportLink":"/customer_support","privacyPolicy":"Privacy Statement","privacyPolicyLink":"/privacy","termsOfUse":"Terms of Use","termsOfUseLink":"/terms","userLanguage":"Language","signInLink":"/login","signInMessage":"Sign in to access your Groupons","signInOrSignUp":"Sign in or Sign up","signInFlyoutSignUp":"Not a Member? Sign Up","signUp":"Sign Up","signUpLink":"/signup","signOut":"Sign Out","signOutLink":"/logout","merchantSignUp":"Sell on Groupon","merchantSignUpLink":"/merchant/get-started?utm_medium=referral&utm_campaign=groupon-header-mweb1&utm_source=groupon","downloadApp":"Download Groupon App","referAFriendLink":"/visitor_referral","myBeautyAppointments":"My Beauty Appointments","myBeautyAppointmentsLink":"/beautynow/appointments","myMerchantCenter":"My Merchant Center","myMerchantCenterLink":"https://merchants.groupon.com/","myReservations":"My Reservations","myFood":"My Food","myEmailSubsLink":"/subscription_center","myEmailSubs":"Subscriptions","myGrouponPlusDeals":"My Groupon+ Deals","myCardLinkedDeals":"My Groupon+ Deals","myCardLinkedDealsLink":"/mylinkeddeals","headerMerchant":"Sell","headerMerchantLink":"/merchant/get-started?utm_medium=referral&utm_campaign=groupon-header1&utm_source=groupon","imprint":"Imprint","imprintLink":"/impressum","voucherArchive":"Vouchers bought before May 2017","voucherArchiveLink":"/ls_voucher_archive","signInFlyoutRequired":"REQUIRED","signInFlyoutRequiredEmail":"Enter Email","signInFlyoutRequiredPassword":"Enter Password","signInFlyoutInvalidEmail":"Invalid Email Address","signInFlyoutInvalidEmailOrPassword":"Incorrect email or password. Try again","signInflyoutUnknownError":"There was an unexpected error. Please reload the page and try again.","gtg":{"image_alt":"Groupon TO GO. Now delivering savings and food. Literally. Save on restaurants. Get it delivered."},"mobileAppBanner":{"image_alt":"download Groupon app","heading_h4":"Get the Groupon app","txt":"Over {amount} Five-Star Ratings","cta":"Download App","footnote":"* Globally, across all versions"}},
         cart: {"cart":{"cart":"Cart","desc":"Your Cart","quantity":"Qty","price":"Price","subtotal":"Subtotal","view_cart":"View Cart","proceed_to_checkout":"Proceed to Checkout","loading_cart":"Loading your cart...","cart_error":"Sorry, we ran into an error getting your cart. Please try again in a few minutes.","empty_cart":"Your Shopping Cart is Empty!","empty_text":"Time to fill this bad boy with great products like gadgets, electronics, housewares, gifts and other great offerings from","groupon_goods":"Groupon Goods"}},
       ax: {
         close: "close",
@@ -130,7 +139,7 @@
         clearall: "Clear All",
 
       },
-      myStuff: {"about":"About Groupon","language":"Language","browseByCategories":"Browse By Categories","cart":"Cart","cartLink":"/cart","help":"Help","helpLink":"/customer_support","userLink":"/mystuff","userHeadline":"My Stuff","myAccount":"Account","myAccountLink":"/myaccount","myProfile":"Profile","myGroupons":"My Groupons","myGrouponsLink":"/mystuff","myWishlist":"My Wishlist","myWishlistLink":"/wishlist","mySubscriptions":"Subscriptions","mySubscriptionsLink":"/subscription_center","myGiftcard":"Redeem Gift Card","myGiftcardLink":"/giftcards","customerSupport":"Customer Support","customerSupportLink":"/customer_support","privacyPolicy":"Privacy Statement","privacyPolicyLink":"/privacy","termsOfUse":"Terms of Use","termsOfUseLink":"/terms","userLanguage":"Language","signInLink":"/login","signInMessage":"Sign in to access your Groupons","signInOrSignUp":"Sign in or Sign up","signOut":"Sign Out","signOutLink":"/logout","merchantSignUp":"Sell on Groupon","merchantSignUpLink":"/merchant/get-started?utm_medium=referral&utm_campaign=groupon-header-mweb1&utm_source=groupon","downloadApp":"Download Groupon App","referAFriendLink":"/visitor_referral","myMerchantCenter":"My Merchant Center","myMerchantCenterLink":"https://merchants.groupon.com/","myReservations":"My Reservations","myFood":"My Food","myEmailSubsLink":"/subscription_center","myEmailSubs":"Subscriptions","mycardLinkedDeals":"My Card-Linked Deals","mycardLinkedDealsLink":"/mylinkeddeals","headerMerchant":"Sell","headerMerchantLink":"/merchant/get-started?utm_medium=referral&utm_campaign=groupon-header1&utm_source=groupon","imprint":"Imprint","imprintLink":"/impressum","mobileAppBanner":{"image_alt":"download Groupon app","heading_h4":"Get the Groupon app","txt":"Over {amount} Five-Star Ratings","cta":"Download App","footnote":"* Globally, across all versions"}}
+      myStuff: {"about":"About Groupon","language":"Language","browseByCategories":"Browse By Categories","cart":"Cart","cartLink":"/cart","help":"Help","helpLink":"/customer_support","userLink":"/mystuff","userHeadline":"My Stuff","myAccount":"Account","myAccountLink":"/myaccount","signInFlyoutProfile":"Deal Preferences","myProfile":"Profile","myProfileLink":"/myprofile","myGroupons":"My Groupons","myGrouponsLink":"/mystuff","myWishlist":"My Wishlist","myWishlistLink":"/wishlist","mySubscriptions":"Subscriptions","mySubscriptionsLink":"/subscription_center","myGiftcard":"Redeem Gift Card","myGiftcardLink":"/giftcards","customerSupport":"Customer Support","customerSupportLink":"/customer_support","privacyPolicy":"Privacy Statement","privacyPolicyLink":"/privacy","termsOfUse":"Terms of Use","termsOfUseLink":"/terms","userLanguage":"Language","signInLink":"/login","signInMessage":"Sign in to access your Groupons","signInOrSignUp":"Sign in or Sign up","signInFlyoutSignUp":"Not a Member? Sign Up","signUp":"Sign Up","signUpLink":"/signup","signOut":"Sign Out","signOutLink":"/logout","merchantSignUp":"Sell on Groupon","merchantSignUpLink":"/merchant/get-started?utm_medium=referral&utm_campaign=groupon-header-mweb1&utm_source=groupon","downloadApp":"Download Groupon App","referAFriendLink":"/visitor_referral","myBeautyAppointments":"My Beauty Appointments","myBeautyAppointmentsLink":"/beautynow/appointments","myMerchantCenter":"My Merchant Center","myMerchantCenterLink":"https://merchants.groupon.com/","myReservations":"My Reservations","myFood":"My Food","myEmailSubsLink":"/subscription_center","myEmailSubs":"Subscriptions","myGrouponPlusDeals":"My Groupon+ Deals","myCardLinkedDeals":"My Groupon+ Deals","myCardLinkedDealsLink":"/mylinkeddeals","headerMerchant":"Sell","headerMerchantLink":"/merchant/get-started?utm_medium=referral&utm_campaign=groupon-header1&utm_source=groupon","imprint":"Imprint","imprintLink":"/impressum","voucherArchive":"Vouchers bought before May 2017","voucherArchiveLink":"/ls_voucher_archive","signInFlyoutRequired":"REQUIRED","signInFlyoutRequiredEmail":"Enter Email","signInFlyoutRequiredPassword":"Enter Password","signInFlyoutInvalidEmail":"Invalid Email Address","signInFlyoutInvalidEmailOrPassword":"Incorrect email or password. Try again","signInflyoutUnknownError":"There was an unexpected error. Please reload the page and try again.","gtg":{"image_alt":"Groupon TO GO. Now delivering savings and food. Literally. Save on restaurants. Get it delivered."},"mobileAppBanner":{"image_alt":"download Groupon app","heading_h4":"Get the Groupon app","txt":"Over {amount} Five-Star Ratings","cta":"Download App","footnote":"* Globally, across all versions"}}
     },
     flags: {
       enableLocationImprovements: true,
@@ -146,23 +155,24 @@
       showMyReservationsTab: true,
       showMyLinkedDealsTab: true,
       showMyProfile: true,
-      enableFingerprint: true,
       showGiftCards: true,
       useCardatronNavCards: true,
       'showWishlist': true,
       'updateLocationCookies': true,
       
+      enableRecentLocations: true, 
+      showMyLinkedDealsLink: true, 
     },
-  }
+  };
   Groupon.Modules = {
     SearchBar: {
-      Config: {"division":{"uuid":"04fc4937-96a6-46ed-895a-94e2dc47734a","id":"san-francisco","name":"San Francisco","country":"USA","areas":[],"timezone":"Pacific Daylight Time","timezoneIdentifier":"America/Los_Angeles","lat":37.7752,"lng":-122.419,"defaultLocale":"en_US","selectCurrentDivision":"selected"},"google_geo_url":"//mapproxy.groupon.com/maps/api/js","gmapResultTypes":["country","street_address","intersection","political","administrative_area_level_1","administrative_area_level_2","administrative_area_level_3","administrative_area_level_4","administrative_area_level_5","colloquial_area","locality","ward","sublocality","neighborhood","premise","subpremise","natural_feature","airport","park","point_of_interest","subpremise","postal_code"]},
-    },
-  }
+      Config: {"division":{"uuid":"04fc4937-96a6-46ed-895a-94e2dc47734a","id":"san-francisco","name":"San Francisco","country":"USA","areas":[],"timezone":"Pacific Standard Time","timezoneIdentifier":"America/Los_Angeles","lat":37.7752,"lng":-122.419,"defaultLocale":"en_US","selectCurrentDivision":"selected"},"google_geo_url":"//mapproxy.groupon.com/maps/api/js","gmapResultTypes":["country","street_address","intersection","political","administrative_area_level_1","administrative_area_level_2","administrative_area_level_3","administrative_area_level_4","administrative_area_level_5","colloquial_area","locality","ward","sublocality","neighborhood","premise","subpremise","natural_feature","airport","park","point_of_interest","subpremise","postal_code"]},
+    }
+  };
 </script>
 
 <script> window.Optimize = (function (arg) { var appConfig, appName, channel, config, cookieDomain, deepmerge, isObject, layoutConfig, page, pageType, suiteData; appConfig = arg.appConfig, appName = arg.appName, channel = arg.channel, cookieDomain = arg.cookieDomain, pageType = arg.pageType, layoutConfig = arg.layoutConfig; isObject = function(x) { return typeof x === 'object' && !Array.isArray(x) && x !== null; }; deepmerge = function(a, b) { var key, results, value; results = []; for (key in b) { value = b[key]; if (b.hasOwnProperty(key)) { if (a[key] && value && isObject(a[key]) && isObject(value)) { results.push(deepmerge(a[key], value)); } else { results.push(a[key] = value); } } else { results.push(void 0); } } return results; }; suiteData = layoutConfig.suiteData; config = suiteData.config; deepmerge(config, appConfig); page = config.page; suiteData.pageType = page.type = pageType || page.type; suiteData.channel = page.channel = channel || page.channel; suiteData.cookieDomain = config.cookieDomain != null ? config.cookieDomain : config.cookieDomain = cookieDomain; suiteData.app = page.app != null ? page.app : page.app = appName; return layoutConfig; })({
-  appConfig: {"cookieDomain":".groupon.com","seed":"e5150e15-8b1e-45a1-b37b-37e0576759e7","page":{"id":"e5150e15-8b1e-45a1-b37b-37e0576759e7-1498780950909-TH0","app":"content-pages","channel":"content_pages","country":"US","brand":"groupon","division":"san-francisco","parentEventId":null,"parentPageId":null,"url":"http%3A%2F%2Fwww.groupon.com%2Fprivacy","bindingsVersion":"2.0.6","requestId":"d21d4a2a-1a65-4d04-b7c6-6f0406b8f20a","type":"content_page"},"user":{"browser":"Other","browserId":"d9956299-9f94-52e9-dc7e-c48cae4ea6fc","browserVersion":"Other","consumerId":null,"consumerIdSource":null,"device":"Spider","deviceType":"Spider","lat":37.7811,"lng":-122.4625,"loggedIn":false,"os":"Other","permalink":null,"scid":null,"userAgent":"Mozilla\/5.0 (compatible; heritrix\/3.3.0-SNAPSHOT-20140702-2247 +http:\/\/archive.org\/details\/archive.org_bot)","visit":null,"platform":"desktop"},"session":{"id":"e5150e15-8b1e-45a1-b37b-37e0576759e7"},"advancedAnalytics":{"enabled":false,"serverDimensions":{}}},
+  appConfig: {"cookieDomain":".groupon.com","seed":"0f3dff3d-d83b-4aa5-be5d-28788a899230","page":{"id":"0f3dff3d-d83b-4aa5-be5d-28788a899230-1514428818223-TH0","app":"content-pages","channel":"content_pages","country":"US","brand":"groupon","division":"san-francisco","parentEventId":null,"parentPageId":null,"url":"https%3A%2F%2Fwww.groupon.com%2Fprivacy","bindingsVersion":"2.0.6","requestId":"3eeccf92-eaee-42df-af74-468f58e11aaa","type":"content_page"},"user":{"browser":"Other","browserId":"b2636b64-30de-20b7-db43-254c47cfea7a","browserVersion":"Other","consumerId":null,"consumerIdSource":null,"device":"Spider","deviceType":"Spider","lat":37.7811,"lng":-122.4625,"loggedIn":false,"os":"Other","permalink":null,"scid":null,"userAgent":"Mozilla\/5.0 (compatible; heritrix\/3.3.0-SNAPSHOT-20140702-2247 +http:\/\/archive.org\/details\/archive.org_bot)","visit":null,"platform":"desktop"},"session":{"id":"0f3dff3d-d83b-4aa5-be5d-28788a899230"},"advancedAnalytics":{"enabled":false,"serverDimensions":{}}},
   appName: "content-pages",
   channel: "",
   cookieDomain: ".groupon.com",
@@ -174,11 +184,11 @@ window.Optimize.delayBloodhound = true;
 <script>
   Optimize.finchConfig = (function () {
     var appConfig =
-        {"sms-download-link-experiment":{"experiments":{"sms-download-link-experiment":{"name":"sms-download-link-experiment","tracking":true,"variants":["control","sms_download_link"],"variant_settings":{"control":null,"sms_download_link":null},"control":"control","bucket_min":0,"bucket_max":249,"buckets":"0..249"}},"bucketing_salt":"sms-download-link-experiment","diversion_type":"CookieDiversion"},"LS-Display-Android-Native-App-Install-Banner":{"experiments":{"LS-Display-Android-Native-App-Install-Banner":{"name":"LS-Display-Android-Native-App-Install-Banner","tracking":true,"variants":["EnableNativeAppInstallBanner"],"variant_settings":{"Control":null,"EnableNativeAppInstallBanner":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-Display-Android-Native-App-Install-Banner","diversion_type":"CookieDiversion"},"VariantSettingsQA":{"experiments":{"VariantSettingsQA":{"name":"VariantSettingsQA","tracking":true,"variants":["Control","Treatment","Treatment2"],"variant_settings":{"Control":{},"Treatment":{"Birdcage->fontColor":"black","Birdcage->buyButtonColor":"red"},"Treatment2":{"Birdcage->fontColor":"green"}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"VariantSettingsQA","diversion_type":"CookieDiversion"},"LS-2465-ShowPrompt":{"experiments":{"LS-2465-ShowPrompt":{"name":"LS-2465-ShowPrompt","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-2465-ShowPrompt","diversion_type":"ConsumerIdDiversion"}}
+        {"sms-download-link-experiment":{"experiments":{"sms-download-link-experiment":{"name":"sms-download-link-experiment","tracking":true,"variants":["control","sms_download_link"],"variant_settings":{"control":null,"sms_download_link":null},"control":"control","bucket_min":0,"bucket_max":249,"buckets":"0..249"}},"bucketing_salt":"sms-download-link-experiment","diversion_type":"CookieDiversion"},"LS-Display-Android-Native-App-Install-Banner":{"experiments":{"LS-Display-Android-Native-App-Install-Banner":{"name":"LS-Display-Android-Native-App-Install-Banner","tracking":true,"variants":["EnableNativeAppInstallBanner"],"variant_settings":{"Control":null,"EnableNativeAppInstallBanner":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-Display-Android-Native-App-Install-Banner","diversion_type":"CookieDiversion"},"LS-2465-ShowPrompt":{"experiments":{"LS-2465-ShowPrompt":{"name":"LS-2465-ShowPrompt","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-2465-ShowPrompt","diversion_type":"ConsumerIdDiversion"},"VariantSettingsQA":{"experiments":{"VariantSettingsQA":{"name":"VariantSettingsQA","tracking":true,"variants":["Control","Treatment","Treatment2"],"variant_settings":{"Control":{},"Treatment":{"Birdcage->fontColor":"black","Birdcage->buyButtonColor":"red"},"Treatment2":{"Birdcage->fontColor":"green"}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"VariantSettingsQA","diversion_type":"CookieDiversion"}}
         
 ;
     var layoutConfig =
-      {"sms-download-link-experiment":{"experiments":{"sms-download-link-experiment":{"name":"sms-download-link-experiment","tracking":true,"variants":["control","sms_download_link"],"variant_settings":{"control":null,"sms_download_link":null},"control":"control","bucket_min":0,"bucket_max":249,"buckets":"0..249"}},"bucketing_salt":"sms-download-link-experiment","diversion_type":"CookieDiversion"},"LS-Display-Android-Native-App-Install-Banner":{"experiments":{"LS-Display-Android-Native-App-Install-Banner":{"name":"LS-Display-Android-Native-App-Install-Banner","tracking":true,"variants":["EnableNativeAppInstallBanner"],"variant_settings":{"Control":null,"EnableNativeAppInstallBanner":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-Display-Android-Native-App-Install-Banner","diversion_type":"CookieDiversion"},"VariantSettingsQA":{"experiments":{"VariantSettingsQA":{"name":"VariantSettingsQA","tracking":true,"variants":["Control","Treatment","Treatment2"],"variant_settings":{"Control":{},"Treatment":{"Birdcage->fontColor":"black","Birdcage->buyButtonColor":"red"},"Treatment2":{"Birdcage->fontColor":"green"}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"VariantSettingsQA","diversion_type":"CookieDiversion"},"LS-2465-ShowPrompt":{"experiments":{"LS-2465-ShowPrompt":{"name":"LS-2465-ShowPrompt","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-2465-ShowPrompt","diversion_type":"ConsumerIdDiversion"},"LS-2925-StickySearchBar":{"experiments":{"LS-2925-StickySearchBar":{"name":"LS-2925-StickySearchBar","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-2925-StickySearchBar","diversion_type":"CookieDiversion"},"LS-3105-TouchIAMDealPage":{"experiments":{"LS-3105-TouchIAMDealPage":{"name":"LS-3105-TouchIAMDealPage","tracking":false,"variants":["Control","NewIAM","NoIAM-disabled!"],"variant_settings":{"Control":{},"NewIAM":{},"NoIAM-disabled!":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"3c7ef1e9-2719-4459-888f-da0d49976c9b","diversion_type":"CookieDiversion"},"LS-3153-RecentLocationsDesktop":{"experiments":{"LS-3153-RecentLocationsDesktop":{"name":"LS-3153-RecentLocationsDesktop","tracking":true,"variants":["Control","RecentLocations"],"variant_settings":{"Control":{},"RecentLocations":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-3153-RecentLocationsDesktop","diversion_type":"CookieDiversion"},"LS-3106-AddressAutocomplete":{"experiments":{"LS-3106-AddressAutocomplete":{"name":"LS-3106-AddressAutocomplete","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-3106-AddressAutocomplete","diversion_type":"CookieDiversion"}}
+      {"sms-download-link-experiment":{"experiments":{"sms-download-link-experiment":{"name":"sms-download-link-experiment","tracking":true,"variants":["control","sms_download_link"],"variant_settings":{"control":null,"sms_download_link":null},"control":"control","bucket_min":0,"bucket_max":249,"buckets":"0..249"}},"bucketing_salt":"sms-download-link-experiment","diversion_type":"CookieDiversion"},"LS-Display-Android-Native-App-Install-Banner":{"experiments":{"LS-Display-Android-Native-App-Install-Banner":{"name":"LS-Display-Android-Native-App-Install-Banner","tracking":true,"variants":["EnableNativeAppInstallBanner"],"variant_settings":{"Control":null,"EnableNativeAppInstallBanner":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-Display-Android-Native-App-Install-Banner","diversion_type":"CookieDiversion"},"LS-2465-ShowPrompt":{"experiments":{"LS-2465-ShowPrompt":{"name":"LS-2465-ShowPrompt","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-2465-ShowPrompt","diversion_type":"ConsumerIdDiversion"},"VariantSettingsQA":{"experiments":{"VariantSettingsQA":{"name":"VariantSettingsQA","tracking":true,"variants":["Control","Treatment","Treatment2"],"variant_settings":{"Control":{},"Treatment":{"Birdcage->fontColor":"black","Birdcage->buyButtonColor":"red"},"Treatment2":{"Birdcage->fontColor":"green"}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"VariantSettingsQA","diversion_type":"CookieDiversion"},"LS-3105-TouchIAMDealPage":{"experiments":{"LS-3105-TouchIAMDealPage":{"name":"LS-3105-TouchIAMDealPage","tracking":false,"variants":["NewIAM"],"variant_settings":{"Control":{},"NewIAM":{},"NoIAM-disabled!":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"3c7ef1e9-2719-4459-888f-da0d49976c9b","diversion_type":"CookieDiversion"},"LS-2925-StickySearchBar":{"experiments":{"LS-2925-StickySearchBar":{"name":"LS-2925-StickySearchBar","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-2925-StickySearchBar","diversion_type":"CookieDiversion"},"LS-3153-RecentLocationsDesktop":{"experiments":{"LS-3153-RecentLocationsDesktop":{"name":"LS-3153-RecentLocationsDesktop","tracking":false,"variants":["RecentLocations"],"variant_settings":{"Control":{},"RecentLocations":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-3153-RecentLocationsDesktop","diversion_type":"CookieDiversion"},"LS-3106-AddressAutocomplete":{"experiments":{"LS-3106-AddressAutocomplete":{"name":"LS-3106-AddressAutocomplete","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-3106-AddressAutocomplete","diversion_type":"CookieDiversion"},"LS-2614-MyPlaces_relevance":{"experiments":{"LS-2614-MyPlaces_relevance":{"name":"LS-2614-MyPlaces_relevance","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-2614-MyPlaces_relevance","diversion_type":"CookieDiversion"},"LS-3667-NewIAMv2":{"experiments":{"LS-3667-NewIAMv2":{"name":"LS-3667-NewIAMv2","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-3667-NewIAMv2","diversion_type":"CookieDiversion"},"LS-3747-RVDinSearch":{"experiments":{"LS-3747-RVDinSearch":{"name":"LS-3747-RVDinSearch","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-3747-RVDinSearch","diversion_type":"CookieDiversion"},"LS-3928-AutocompleteLatLong":{"experiments":{"LS-3928-AutocompleteLatLong":{"name":"LS-3928-AutocompleteLatLong","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-3928-AutocompleteLatLong","diversion_type":"CookieDiversion"}}
       ;
     for (var key in layoutConfig) {
       if(layoutConfig.hasOwnProperty(key)) {
@@ -190,14 +200,14 @@ window.Optimize.delayBloodhound = true;
 </script>
 
 
+  <script async="" src="//www2.grouponcdn.com/layout/assets/grpn-fingerprint-cf57f874ba.js"></script>
 <meta name="referrer" type="origin-when-crossorigin"></head>
 <body dir="ltr" id="ls-body" class="
   brand-groupon
   
   no-js 
     
-    responsive ls-resp
-    
+      responsive ls-resp
     
     is-web ltr
     
@@ -212,25 +222,25 @@ window.Optimize.delayBloodhound = true;
           <header data-bhw="Header" role="banner" class="header
              big-searchbar" id="ls-header">
             <div class="ls-header-top">
-              <div class="row ls-header-top-row" id="ls-header-top-row">
+              <div class="row ls-header-top-row ls-header-with-signin-flyout" id="ls-header-top-row">
                     <a href="/" id="ls-groupon-logo" class="ls-groupon-logo" data-bhw="Logo" aria-label="Groupon">
               <img src="//www2.grouponcdn.com/layout/assets/grpn_logo_white-b8a7246dbd.svg" alt="Groupon">
           </a>
             <div id="ls-header-main" class="ls-clearfix alternative-search">
                     <div id="ls-search-bar-wrapper" class="columns search-bar-wrapper">
-            <form class="search-bar-v2 ls-two-fields" id="search-bar" data-bhw="SearchBar" role="search" action="" aria-label="What are you looking for?">
+            <form class="search-bar-v2 ls-two-fields" id="ls-search-form" data-bhw="SearchBar" role="search" action="" aria-label="What are you looking for?">
               <div class="icon-magnifying-glass search-box deal-search search-bar-icon">
-                <label id="placeholderSearch" class="ls-flex-placeholder" for="search">
+                <label id="placeholderSearch" class="ls-flex-placeholder" for="ls-search">
                       Search Groupon
                 </label>
-                <input type="search" name="search" id="search" data-bhw="FreeTextSearchField" maxlength="50" autocomplete="off" spellcheck="false" aria-labelledby="placeholderSearch" aria-autocomplete="list" aria-haspopup="true" aria-owns="autocomplete-list" aria-busy="true" role="combobox">
+                <input type="search" name="search" id="ls-search" data-bhw="FreeTextSearchField" maxlength="50" autocomplete="off" spellcheck="false" aria-labelledby="placeholderSearch" aria-autocomplete="list" aria-haspopup="true" aria-owns="autocomplete-list" aria-busy="true" role="combobox">
               </div>
-              <label for="location" class="search-box location-search search-bar-icon icon-marker">
+              <label for="ls-location" class="search-box location-search search-bar-icon icon-marker">
                 <span id="placeholderLocation" class="ls-flex-placeholder">
                   
                   Zip Code, Neighborhood, City
                 </span>
-                <input type="text" name="location" id="location" data-bhw="LocationBarField" autocomplete="off" spellcheck="false" maxlength="50" aria-labelledby="placeholderLocation" aria-autocomplete="list" aria-haspopup="true" aria-owns="autocomplete-list" aria-busy="true" role="combobox">
+                <input type="text" name="location" id="ls-location" data-bhw="LocationBarField" autocomplete="off" spellcheck="false" maxlength="50" aria-labelledby="placeholderLocation" aria-autocomplete="list" aria-haspopup="true" aria-owns="autocomplete-list" aria-busy="true" role="combobox">
               </label>
               <button id="ls-header-search-button" class="ls-header-search-button icon-magnifying-glass" type="submit" data-bhw="LocationBarFindDeals">
                 <span class="accessibility-hidden">Search</span>
@@ -239,6 +249,84 @@ window.Optimize.delayBloodhound = true;
                 <ul id="autocomplete-list" role="list" aria-busy="true"></ul>
               </div>
             </form>
+
+              <div id="ls-header-lower-signin-container" class="ls-header-lower-signin-container">
+                <div id="ls-header-signin-flyout-container">
+                  <a class="first user-menu-item user-menu-action signin-flyout-menu-item referrer-link ls-hide-visibility" id="ls-user-signin-with-flyout" data-bhw="UserSignIn" href="/login">
+          Sign In
+          |
+          My Stuff
+        </a>
+        <div id="ls-signin-flyout" class="ls-signin-flyout ls-prompt my-stuff signin-flyout">
+          <div class="ls-signin-flyout-container">
+              <div id="ls-signin-flyout-mystuff-pane" class="ls-signin-flyout-mystuff-pane" role="menu">
+      </div>
+      <div id="ls-signin-flyout-signin-pane" class="ls-signin-flyout-signin-pane">
+        <div class="ls-signin-error-msg" id="ls-signin-error"></div>
+        <form id="ls-signin-form" class="form-v2-1 ls-signin-form" data-bhw="ls-signin-form" method="post" action="/login?metric=layout_login" novalidate="">
+          <fieldset>
+            <input type="hidden" name="_csrf" value="M1X1acem-e68KN9WzPR79tbN9vyZ02Pz24Sk">
+            <div class="gig-field field-inputs">
+              <label for="ls-signin-email">Email</label>
+              <input class="field-input" id="ls-signin-email" type="email" tabindex="0" name="email" autocorrect="off">
+              <span class="icon icon-email"></span>
+            </div>
+            <div class="gig-field field-inputs" id="field-password-input">
+              <label for="ls-signin-pw">Password</label>
+              <input class="field-input" id="ls-signin-pw" type="password" tabindex="0" name="password">
+              <span class="icon icon-key"></span>
+            </div>
+            <div class="signin-remember-forgot">
+              <div class="signin-remember">
+                <input type="checkbox" id="ls-remember-me" name="remember_me" checked="" data-bhc="checkbox:remember_me" tabindex="0">
+                <label for="ls-remember-me">Remember Me</label>
+              </div>
+              <div class="signin-forgot">
+                <a id="ls-forgot-password" href="/forgot_password" tabindex="0">Forgot Password?</a>
+              </div>
+            </div>
+            <button class="btn-cta btn-signin" type="submit" tabindex="0">Sign In</button>
+          </fieldset>
+        </form>
+        <div class="ls-signin-flyout-or">Or sign in with</div>
+        <div class="ls-signin-flyout-passports">
+          <div class="facebook-login" data-bhw="FacebookLogin">
+            <button class="btn-cta btn-facebook" id="ls-btn-facebook" tabindex="0">
+              <span class="passport-icon icon-facebook"></span>
+              <span class="passport-text">Facebook</span>
+            </button>
+          </div>
+            <div class="google-plus-login" data-bhw="GoogleLogin">
+              <button class="btn-cta btn-google-plus" id="ls-btn-google" tabindex="0">
+                <span class="passport-icon icon-google-plus"></span>
+                <span class="passport-text">Google</span>
+              </button>
+            </div>
+        </div>
+      </div>
+  </div>
+        </div>
+
+        <div id="ls-fb-auth-modal" class="modal ls-social-modal">
+  <div class="modal-body">
+    <div>
+      <div class="fb-reauth" data-bhw="FacebookReauth">
+        <div class="row">
+          <div class="text-center">
+            <h3 class="section-title">Groupon didn't get your email from Facebook, but we need it to sign you up.</h3>
+          </div>
+          <p>If you'd like to share it with us so you can take advantage of Facebook Login, you can update your Facebook permissions to give us access to your email. If not, you can always sign up for a Groupon account without using Facebook.</p>
+        </div>
+        <div class="row text-center">
+          <button class="btn" id="fb-auth">Update Facebook Permissions</button>
+          <a class="close-modal" id="fb-auth-close">No, thanks</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      </div>
+              </div>
           </div>
                   <div class="columns user-wrapper">
 
@@ -254,15 +342,12 @@ window.Optimize.delayBloodhound = true;
                         <a id="user-help" class="responsive-hide-500 user-menu-item user-help" href="/customer_support" data-bhw="user-help-link">
                           Help
                         </a>
-                        <a class="first user-menu-item user-menu-action" id="ls-user-signin" data-bhw="UserSignIn" href="/login">
-                          Sign In
-                        </a>
-                        <a class="last user-menu-item user-menu-action" id="ls-user-signup" data-bhw="UserSignUp" href="/signup">
+                        <a class="last user-menu-item user-menu-action referrer-link ls-hide" id="ls-user-signup" data-bhw="UserSignUp" href="/signup">
                           Sign Up
                         </a>
+                          <div id="ls-header-upper-signin-container" class="ls-header-upper-signin-container"></div>
                       </nav>
                     </div>
-
                   </div>
                 </div>
               </div>
@@ -290,7 +375,7 @@ window.Optimize.delayBloodhound = true;
                   Getaways
                 </a>
               </li>
-              <li id="goods-lightning-flash-tab" class="primary-nav-tab" data-bhw="NavGoodsLightningFlash">
+              <li id="goods-deal-of-day-tab" class="primary-nav-tab" data-bhw="NavGoodsLightningFlash">
                 <a href="/occasion/deals-of-the-day">
                   Deals of the Day
                 </a>
@@ -301,8 +386,8 @@ window.Optimize.delayBloodhound = true;
                 </a>
               </li>
               <li id="occasion-tab" class="primary-nav-tab Occasion" data-bhw="NavOccasions">
-                <a class="G_event E-GobalTopNavNH_GrouponOccasion" href="/occasion/top-deals" data-bhc="NavOccasions:top-deals">
-                  Top Deals
+                <a class="G_event E-GobalTopNavNH_GrouponOccasion" href="/occasion/sale" data-bhc="NavOccasions:sale">
+                  Sale
                 </a>
               </li>
         </ul>
@@ -310,1371 +395,550 @@ window.Optimize.delayBloodhound = true;
       <div id="ls-rail" class="ls-rail row"><span id="ls-rail-slide"></span></div>
   <nav class="subnav">
       <nav class="subnav-flyout local-tab-flyout row hide" id="subnav-local-tab" data-bhw="SubNav-local-tab">
-        <div class="ls-flex-wrap">
-                <div class="flyout-column subnav-categories">
-                    <a class="subnav-link subnav-link-count" href="/browse/san-francisco?context=local" data-bhc="category:local-tab-all-deals" id="all-deals">
-                      All Deals
-                        <span class="count">8540</span>
-                    </a>
-                    <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=automotive" data-bhc="category:local-tab-automotive" id="automotive">
-                      Automotive
-                        <span class="count">202</span>
-                    </a>
-                    <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=beauty-and-spas" data-bhc="category:local-tab-beauty-and-spas" id="beauty-and-spas">
-                      Beauty &amp; Spas
-                        <span class="count">978</span>
-                    </a>
-                    <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=food-and-drink" data-bhc="category:local-tab-food-and-drink" id="food-and-drink">
-                      Food &amp; Drink
-                        <span class="count">580</span>
-                    </a>
-                    <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=health-and-fitness" data-bhc="category:local-tab-health-and-fitness" id="health-and-fitness">
-                      Health &amp; Fitness
-                        <span class="count">956</span>
-                    </a>
-                    <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=home-improvement" data-bhc="category:local-tab-home-improvement" id="home-improvement">
-                      Home Services
-                        <span class="count">188</span>
-                    </a>
+            <div class="ls-flex-wrap">
+                    <div class="flyout-column one-up subnav-categories">
+                        <a class="subnav-link subnav-link-count" href="/browse/san-francisco?context=local" data-bhc="category:local-tab-all-deals">
+              All Deals
+              <span class="count">6785</span>
+              
+            </a>
+            <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=automotive" data-bhc="category:local-tab-automotive">
+              Automotive
+              <span class="count">189</span>
+              
+            </a>
+            <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=beauty-and-spas" data-bhc="category:local-tab-beauty-and-spas">
+              Beauty &amp; Spas
+              <span class="count">829</span>
+              
+            </a>
+            <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=food-and-drink" data-bhc="category:local-tab-food-and-drink">
+              Food &amp; Drink
+              <span class="count">578</span>
+              
+            </a>
+            <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=health-and-fitness" data-bhc="category:local-tab-health-and-fitness">
+              Health &amp; Fitness
+              <span class="count">643</span>
+              
+            </a>
+            <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=home-improvement" data-bhc="category:local-tab-home-improvement">
+              Home Services
+              <span class="count">81</span>
+              
+            </a>
               </div>
-              <div class="flyout-column subnav-categories">
-                    <a class="subnav-link subnav-link-count" href="/occasion/food-and-wine-delivery" data-bhc="category:local-tab-meal-prep" id="meal-prep">
-                      Meal Prep &amp; Wine Delivery
-                        <span class="count">116</span>
-                    </a>
-                    <a class="subnav-link subnav-link-count" href="/occasion/online-learning" data-bhc="category:local-tab-online-learning" id="online-learning">
-                      Online Learning
-                        <span class="count">117</span>
-                    </a>
-                    <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=personal-services" data-bhc="category:local-tab-personal-services" id="personal-services">
-                      Personal Services
-                        <span class="count">1781</span>
-                    </a>
-                    <a class="subnav-link subnav-link-count" href="/occasion/customizable" data-bhc="category:local-tab-local-customizable" id="local-customizable">
-                      Personalized Items
-                        <span class="count">2049</span>
-                    </a>
-                    <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=retail" data-bhc="category:local-tab-retail" id="retail">
-                      Retail
-                        <span class="count">3557</span>
-                    </a>
-                    <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=things-to-do" data-bhc="category:local-tab-things-to-do" id="things-to-do">
-                      Things To Do
-                        <span class="count">897</span>
-                    </a>
+                  <div class="flyout-column one-up subnav-categories">
+                        <a class="subnav-link subnav-link-count" href="/occasion/food-and-wine-delivery" data-bhc="category:local-tab-meal-prep">
+              Meal Prep &amp; Wine Delivery
+              <span class="count">131</span>
+              
+            </a>
+            <a class="subnav-link subnav-link-count" href="/occasion/online-learning" data-bhc="category:local-tab-online-learning">
+              Online Learning
+              <span class="count">77</span>
+              
+            </a>
+            <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=personal-services" data-bhc="category:local-tab-personal-services">
+              Personal Services
+              <span class="count">1134</span>
+              
+            </a>
+            <a class="subnav-link subnav-link-count" href="/occasion/customizable" data-bhc="category:local-tab-local-customizable">
+              Personalized Items
+              <span class="count">1577</span>
+              
+            </a>
+            <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=retail" data-bhc="category:local-tab-retail">
+              Retail
+              <span class="count">2031</span>
+              
+            </a>
+            <a class="subnav-link subnav-link-count" href="/browse/san-francisco?category=things-to-do" data-bhc="category:local-tab-things-to-do">
+              Things To Do
+              <span class="count">918</span>
+              
+            </a>
               </div>
-                      <div class="flyout-column subnav-cardatron">
-
-            </div>
-                  </div>
-        </nav>
+                          <div class="flyout-column subnav-cardatron"></div>
+                      </div>
+      </nav>
       <nav class="subnav-flyout goods-tab-flyout row hide" id="subnav-goods-tab" data-bhw="SubNav-goods-tab">
-        <div class="ls-flex-wrap">
-            <div data-bhw="goods-flyout" class="ls-gcx-flyout-menu-container">
-              <ul class="ls-gcx-flyout-menu">
-                  <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-nested-links">
-                  <a class="ls-gcx-flyout-link" href="/goods/for-the-home">
-                    <div data-bhc="flyout-label:for-the-home" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">For the Home</div>
-                      <div class="ls-gcx-flyout-left-nav-count">84459</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                    <div data-bhc="flyout-content:for-the-home" class="ls-gcx-flyout-item-content ls-exclude-resp-sub-nav">
-                      <div class="ls-gcx-flyout-item-title"><a class="ls-gcx-flyout-link" href="/goods/for-the-home">Shop All For the Home</a></div>
-                      <div class="ls-gcx-flyout-item-content-children">
-                        <div class="ls-gcx-flyout-item-content-children-left">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/art">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Art</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">47399</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Canvas, Framed Art, Photography, Prints...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/bath">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Bath</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">1340</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bath Accessories &amp; Sets, Bath Rugs, Bath...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/bedding">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Bedding</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">2446</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bed Pillows, Bedding Collections &amp; Sets...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/floor-care-and-cleaning">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Floor Care &amp; Cleaning</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">370</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Brooms, Mops &amp; Dusters, Vacuums</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/furniture">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Furniture</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">3553</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Accent Furniture, Baby &amp; Kid's Furniture...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v-heating-and-cooling">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Heating &amp; Cooling</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">710</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Air Conditioners, Air Purifiers, Dehumid...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/appliances-goods">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Home Appliances</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">2189</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Dishwashers, Freezers, Irons &amp; Garment C...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/art-and-home-decor">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Home Décor</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">8064</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Candles &amp; Holders, Home Accents, Lamps &amp;...</div>
-              </a>
-            </div>
-        </div>
-                        <div class="ls-gcx-flyout-item-content-children-right">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/kitchen-and-dining">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Kitchen &amp; Dining</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">8773</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bakeware, Cookbooks, Cookware, Cutlery...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/luggage">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Luggage</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">1624</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Backpacks, Briefcases &amp; Laptop Bags, Car...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v1-mattresses">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Mattresses &amp; Accessories</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">307</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Innerspring Mattresses, Mattress Toppers...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v-office-and-school-supplies">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Office &amp; School Supplies</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">3710</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Home Office Furniture, Organization, Pac...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/patio-and-garden">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Patio &amp; Garden</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">5134</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bird Feeders &amp; Food, Fire Pits &amp; Outdoor...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v1-storage-and-organization">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Storage &amp; Organization</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">2336</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bathroom Storage, Closet Storage, Garage...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/wall-accents">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Wall Accents</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">1228</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label"></div>
-              </a>
-            </div>
-        </div>
-                      </div>
-
-                      <div class="ls-gcx-flyout-image-message-container">
-                          <img class="ls-gcx-flyout-category-image ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/goods-flyout-for-the-home-fed2b42be2.png" alt="For the Home">
-                        <div class="ls-gcx-flyout-message-container">
-                            <span class="ls-gcx-flyout-free-shipping">FREE Shipping</span> <span>with $34.99 Purchase</span> <span class="ls-gcx-flyout-free-shipping-pipe">|</span> <span class="ls-gcx-flyout-free-shipping">FREE Returns</span>
-                        </div>
-                      </div>
-                    </div>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-nested-links">
-                  <a class="ls-gcx-flyout-link" href="/goods/electronics">
-                    <div data-bhc="flyout-label:electronics" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Electronics</div>
-                      <div class="ls-gcx-flyout-left-nav-count">25976</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                    <div data-bhc="flyout-content:electronics" class="ls-gcx-flyout-item-content ls-exclude-resp-sub-nav">
-                      <div class="ls-gcx-flyout-item-title"><a class="ls-gcx-flyout-link" href="/goods/electronics">Shop All Electronics</a></div>
-                      <div class="ls-gcx-flyout-item-content-children">
-                        <div class="ls-gcx-flyout-item-content-children-left">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/camera-video-and-surveillance">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Camera, Video &amp; Surveillance</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">1717</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Action Cameras &amp; Drones, Camcorders, Das...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/car-electronics-and-gps">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Car Electronics &amp; GPS</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">956</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Car Audio, Car Mounts &amp; Accessories, Car...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/cell-phones-and-accessories">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Cell Phones &amp; Accessories</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">14011</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Backup Batteries, Bluetooth Devices, Cab...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/computers-and-tablets">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Computers &amp; Tablets</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">3413</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Computer Accessories, Desktops, Monitors...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/musical-instruments">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Musical Instruments</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">593</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Accessories, Amplifiers &amp; Effects, Brass...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/office-and-school-supplies">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Office Electronics &amp; Supplies</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">783</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Printers &amp; Scanners, Scanners, Shredders...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/portable-audio">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Portable Audio</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">1769</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bluetooth &amp; Wireless Speakers, Docks, Ra...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/software">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Software</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">25</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Business &amp; Home Office, Children's, Educ...</div>
-              </a>
-            </div>
-        </div>
-                        <div class="ls-gcx-flyout-item-content-children-right">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/television-and-home-theater">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Television &amp; Home Theater</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">1620</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Blu Ray &amp; DVD Players, Home Audio, Home...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v2-gaming">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Video Games</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">729</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Game Consoles, Game Gear, Games, Video G...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/wearable-technology">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Wearable Technology</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">703</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label"></div>
-              </a>
-            </div>
-        </div>
-                      </div>
-
-                      <div class="ls-gcx-flyout-image-message-container">
-                          <img class="ls-gcx-flyout-category-image ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/goods-flyout-electronics-46cf6d06ba.png" alt="Electronics">
-                        <div class="ls-gcx-flyout-message-container">
-                            <span class="ls-gcx-flyout-free-shipping">FREE Shipping</span> <span>with $34.99 Purchase</span> <span class="ls-gcx-flyout-free-shipping-pipe">|</span> <span class="ls-gcx-flyout-free-shipping">FREE Returns</span>
-                        </div>
-                      </div>
-                    </div>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-nested-links">
-                  <a class="ls-gcx-flyout-link" href="/goods/health-and-beauty">
-                    <div data-bhc="flyout-label:health-and-beauty" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Health &amp; Beauty</div>
-                      <div class="ls-gcx-flyout-left-nav-count">46855</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                    <div data-bhc="flyout-content:health-and-beauty" class="ls-gcx-flyout-item-content ls-exclude-resp-sub-nav">
-                      <div class="ls-gcx-flyout-item-title"><a class="ls-gcx-flyout-link" href="/goods/health-and-beauty">Shop All Health &amp; Beauty</a></div>
-                      <div class="ls-gcx-flyout-item-content-children">
-                        <div class="ls-gcx-flyout-item-content-children-left">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/bath-and-body">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Bath &amp; Body</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">1471</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Accessories, Bath Soaks &amp; Bubble Baths...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/cosmetics">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Cosmetics</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">5787</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bags &amp; Cases, Brushes &amp; Applicators, Eye...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/fragrances">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Fragrance</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">13032</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Men's Fragrance, Women's Fragrance</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/funeral">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Funeral</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">4</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Caskets, Keepsakes &amp; Memorials, Urns</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v1-hair-care">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Hair Care</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">5492</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Hair &amp; Scalp Treatment, Hair Accessories...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/health-care">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Health Care</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">3334</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Compression, Daily Living Aids, First Ai...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/massage-and-relaxation">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Massage &amp; Relaxation</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">2186</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Acupuncture &amp; Acupressure, Foot &amp; Leg Ma...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/men">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Men's Health &amp; Beauty</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">3019</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bath &amp; Body, Hair Care, Shaving &amp; Groomi...</div>
-              </a>
-            </div>
-        </div>
-                        <div class="ls-gcx-flyout-item-content-children-right">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/mobility-and-safety">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Mobility &amp; Safety</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">1076</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bathroom Safety, Bedroom Safety, Canes &amp;...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v1-personal-care">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Personal Care</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">3845</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Body Treatments, Deodorants &amp; Antiperspi...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v1-sexual-health">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Sexual Wellness</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">2771</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Adult Books, Adult Games, Adult Toys for...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v1-skin-care">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Skin Care</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">5431</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Cellulite &amp; Stretch Marks, Cleanse, Exfo...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v3-vitamins-and-supplements">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Vitamins &amp; Supplements</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">3716</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Detox &amp; Superfoods, Protein, Sports Nutr...</div>
-              </a>
-            </div>
-        </div>
-                      </div>
-
-                      <div class="ls-gcx-flyout-image-message-container">
-                          <img class="ls-gcx-flyout-category-image ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/goods-flyout-health-and-beauty-477b156b34.png" alt="Health &amp; Beauty">
-                        <div class="ls-gcx-flyout-message-container">
-                            <span class="ls-gcx-flyout-free-shipping">FREE Shipping</span> <span>with $34.99 Purchase</span> <span class="ls-gcx-flyout-free-shipping-pipe">|</span> <span class="ls-gcx-flyout-free-shipping">FREE Returns</span>
-                        </div>
-                      </div>
-                    </div>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-nested-links">
-                  <a class="ls-gcx-flyout-link" href="/goods/womens-clothing-shoes-and-accessories">
-                    <div data-bhc="flyout-label:womens-clothing-shoes-and-accessories" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Women's Fashion</div>
-                      <div class="ls-gcx-flyout-left-nav-count">27621</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                    <div data-bhc="flyout-content:womens-clothing-shoes-and-accessories" class="ls-gcx-flyout-item-content ls-exclude-resp-sub-nav">
-                      <div class="ls-gcx-flyout-item-title"><a class="ls-gcx-flyout-link" href="/goods/womens-clothing-shoes-and-accessories">Shop All Women's Fashion</a></div>
-                      <div class="ls-gcx-flyout-item-content-children">
-                        <div class="ls-gcx-flyout-item-content-children-left">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/womens-intimates">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Intimates</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">2430</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bras, Lingerie, Lounge &amp; Sleepwear, Pant...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/maternity-clothes">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Maternity Clothing</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">290</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Activewear, Bottoms, Dresses, Intimates...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/plus-size-womens-clothing">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Plus Size Clothing</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">1079</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Activewear, Bottoms, Dresses, Intimates...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/womens-accessories">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Accessories</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">6150</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Belts, Sunglasses &amp; Eyewear, Gloves, Han...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/womens-clothing">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Clothing</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">16097</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Dresses, Leggings, Skirts, Activewear, C...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/womens-shoes">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Shoes</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">2082</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Pumps &amp; Heels, Athletic, Boat Shoes, Boo...</div>
-              </a>
-            </div>
-        </div>
-                        <div class="ls-gcx-flyout-item-content-children-right">
-                        </div>
-                      </div>
-
-                      <div class="ls-gcx-flyout-image-message-container">
-                          <img class="ls-gcx-flyout-category-image ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/goods-flyout-womens-clothing-shoes-and-accessories-82e658639b.png" alt="Women's Fashion">
-                        <div class="ls-gcx-flyout-message-container">
-                            <span class="ls-gcx-flyout-free-shipping">FREE Shipping</span> <span>with $34.99 Purchase</span> <span class="ls-gcx-flyout-free-shipping-pipe">|</span> <span class="ls-gcx-flyout-free-shipping">FREE Returns</span>
-                        </div>
-                      </div>
-                    </div>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-nested-links">
-                  <a class="ls-gcx-flyout-link" href="/goods/mens-clothing-shoes-and-accessories">
-                    <div data-bhc="flyout-label:mens-clothing-shoes-and-accessories" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Men's Fashion</div>
-                      <div class="ls-gcx-flyout-left-nav-count">12226</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                    <div data-bhc="flyout-content:mens-clothing-shoes-and-accessories" class="ls-gcx-flyout-item-content ls-exclude-resp-sub-nav">
-                      <div class="ls-gcx-flyout-item-title"><a class="ls-gcx-flyout-link" href="/goods/mens-clothing-shoes-and-accessories">Shop All Men's Fashion</a></div>
-                      <div class="ls-gcx-flyout-item-content-children">
-                        <div class="ls-gcx-flyout-item-content-children-left">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/mens-accessories">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Accessories</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">4145</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bags, Belts &amp; Suspenders, Scarves, Hats...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/mens-clothing">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Clothing</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">7347</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Activewear, Button-Down Shirts, Costumes...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/mens-shoes">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Shoes</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">992</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Athletic, Boat Shoes, Boots, Casual Snea...</div>
-              </a>
-            </div>
-        </div>
-                        <div class="ls-gcx-flyout-item-content-children-right">
-                        </div>
-                      </div>
-
-                      <div class="ls-gcx-flyout-image-message-container">
-                          <img class="ls-gcx-flyout-category-image ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/goods-flyout-mens-clothing-shoes-and-accessories-f4d05608e1.png" alt="Men's Fashion">
-                        <div class="ls-gcx-flyout-message-container">
-                            <span class="ls-gcx-flyout-free-shipping">FREE Shipping</span> <span>with $34.99 Purchase</span> <span class="ls-gcx-flyout-free-shipping-pipe">|</span> <span class="ls-gcx-flyout-free-shipping">FREE Returns</span>
-                        </div>
-                      </div>
-                    </div>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-nested-links">
-                  <a class="ls-gcx-flyout-link" href="/goods/jewelry-and-watches">
-                    <div data-bhc="flyout-label:jewelry-and-watches" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Jewelry &amp; Watches</div>
-                      <div class="ls-gcx-flyout-left-nav-count">43139</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                    <div data-bhc="flyout-content:jewelry-and-watches" class="ls-gcx-flyout-item-content ls-exclude-resp-sub-nav">
-                      <div class="ls-gcx-flyout-item-title"><a class="ls-gcx-flyout-link" href="/goods/jewelry-and-watches">Shop All Jewelry &amp; Watches</a></div>
-                      <div class="ls-gcx-flyout-item-content-children">
-                        <div class="ls-gcx-flyout-item-content-children-left">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/diamond-jewelry">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Diamond Jewelry</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">2634</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Diamond Accent Jewelry, Bracelets &amp; Bang...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/fashion-jewelry">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Fashion Jewelry</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">26716</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bracelets &amp; Bangles, Collections &amp; Sets...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/fine-metal-jewelry">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Fine Metal Jewelry</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">2029</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bracelets &amp; Bangles, Collections &amp; Sets...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/gemstone-and-pearl-jewelry">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Gemstone &amp; Pearl Jewelry</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">4981</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bracelets &amp; Bangles, Collections &amp; Sets...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/jewelry-accessories-and-storage">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Jewelry Accessories &amp; Storage</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">234</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Boxes &amp; Holders, Cleaners &amp; Accessories</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/mens-jewelry">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Men's Jewelry</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">2901</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bracelets, Men's Diamond Jewelry, Earrin...</div>
-              </a>
-            </div>
-        </div>
-                        <div class="ls-gcx-flyout-item-content-children-right">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/watches">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Watches</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">3985</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Men's Watches, Smartwatches, Watch Acces...</div>
-              </a>
-            </div>
-        </div>
-                      </div>
-
-                      <div class="ls-gcx-flyout-image-message-container">
-                          <img class="ls-gcx-flyout-category-image ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/goods-flyout-jewelry-and-watches-71978f3e0b.png" alt="Jewelry &amp; Watches">
-                        <div class="ls-gcx-flyout-message-container">
-                            <span class="ls-gcx-flyout-free-shipping">FREE Shipping</span> <span>with $34.99 Purchase</span> <span class="ls-gcx-flyout-free-shipping-pipe">|</span> <span class="ls-gcx-flyout-free-shipping">FREE Returns</span>
-                        </div>
-                      </div>
-                    </div>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-nested-links">
-                  <a class="ls-gcx-flyout-link" href="/goods/sports-and-outdoors">
-                    <div data-bhc="flyout-label:sports-and-outdoors" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Sports &amp; Outdoors</div>
-                      <div class="ls-gcx-flyout-left-nav-count">14290</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                    <div data-bhc="flyout-content:sports-and-outdoors" class="ls-gcx-flyout-item-content ls-exclude-resp-sub-nav">
-                      <div class="ls-gcx-flyout-item-title"><a class="ls-gcx-flyout-link" href="/goods/sports-and-outdoors">Shop All Sports &amp; Outdoors</a></div>
-                      <div class="ls-gcx-flyout-item-content-children">
-                        <div class="ls-gcx-flyout-item-content-children-left">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/clothing-and-shoes">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Clothing &amp; Shoes</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">2073</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Men's Activewear, Men's Athletic Shoes...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v2-cycling">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Cycling</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">652</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bikes, Clothing &amp; Footwear, Parts &amp; Acce...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/exercise-and-fitness">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Exercise &amp; Fitness</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">3302</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Balance &amp; Recovery, Books &amp; Magazines, C...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/fan-shop">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Fan Shop</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">2831</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Memorabilia, MLB, MLS, NBA, NCAA, NFL, N...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/golf-goods">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Golf</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">369</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Accessories, Golf Bags and Carts, Golf B...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/outdoors">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Outdoors</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">5528</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Action Sports, Boats &amp; Water Sports, Cam...</div>
-              </a>
-            </div>
-        </div>
-                        <div class="ls-gcx-flyout-item-content-children-right">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/recreation">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Recreation</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">124</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Lawn Games, Trampolines</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/team-sports">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Team Sports</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">443</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Baseball &amp; Softball, Basketball, Footbal...</div>
-              </a>
-            </div>
-        </div>
-                      </div>
-
-                      <div class="ls-gcx-flyout-image-message-container">
-                          <img class="ls-gcx-flyout-category-image ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/goods-flyout-sports-and-outdoors-16fca26a31.png" alt="Sports &amp; Outdoors">
-                        <div class="ls-gcx-flyout-message-container">
-                            <span class="ls-gcx-flyout-free-shipping">FREE Shipping</span> <span>with $34.99 Purchase</span> <span class="ls-gcx-flyout-free-shipping-pipe">|</span> <span class="ls-gcx-flyout-free-shipping">FREE Returns</span>
-                        </div>
-                      </div>
-                    </div>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-nested-links">
-                  <a class="ls-gcx-flyout-link" href="/goods/auto-and-home-improvement">
-                    <div data-bhc="flyout-label:auto-and-home-improvement" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Auto &amp; Home Improvement</div>
-                      <div class="ls-gcx-flyout-left-nav-count">22450</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                    <div data-bhc="flyout-content:auto-and-home-improvement" class="ls-gcx-flyout-item-content ls-exclude-resp-sub-nav">
-                      <div class="ls-gcx-flyout-item-title"><a class="ls-gcx-flyout-link" href="/goods/auto-and-home-improvement">Shop All Auto &amp; Home Improvement</a></div>
-                      <div class="ls-gcx-flyout-item-content-children">
-                        <div class="ls-gcx-flyout-item-content-children-left">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/auto-parts-and-accessories">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Automotive</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">4874</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Car Audio, Car Care, Car Electronics, Ca...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/home-appliances">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Home Appliances</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">662</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Dishwashers, Freezers, Irons &amp; Garment C...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/home-improvement-goods">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Home Improvement</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">13777</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bathroom Faucets, Batteries, Electrical...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/patio-and-garden-products">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Patio &amp; Garden</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">3152</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Fire Pits &amp; Outdoor Heaters, Gardening &amp;...</div>
-              </a>
-            </div>
-        </div>
-                        <div class="ls-gcx-flyout-item-content-children-right">
-                        </div>
-                      </div>
-
-                      <div class="ls-gcx-flyout-image-message-container">
-                          <img class="ls-gcx-flyout-category-image ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/goods-flyout-auto-and-home-improvement-1ddc588ffd.png" alt="Auto &amp; Home Improvement">
-                        <div class="ls-gcx-flyout-message-container">
-                            <span class="ls-gcx-flyout-free-shipping">FREE Shipping</span> <span>with $34.99 Purchase</span> <span class="ls-gcx-flyout-free-shipping-pipe">|</span> <span class="ls-gcx-flyout-free-shipping">FREE Returns</span>
-                        </div>
-                      </div>
-                    </div>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-nested-links">
-                  <a class="ls-gcx-flyout-link" href="/goods/entertainment-and-media">
-                    <div data-bhc="flyout-label:entertainment-and-media" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Entertainment</div>
-                      <div class="ls-gcx-flyout-left-nav-count">2947</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                    <div data-bhc="flyout-content:entertainment-and-media" class="ls-gcx-flyout-item-content ls-exclude-resp-sub-nav">
-                      <div class="ls-gcx-flyout-item-title"><a class="ls-gcx-flyout-link" href="/goods/entertainment-and-media">Shop All Entertainment</a></div>
-                      <div class="ls-gcx-flyout-item-content-children">
-                        <div class="ls-gcx-flyout-item-content-children-left">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v-books">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Books</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">585</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Children &amp; Young Adult, Cookbooks, Food...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/magazines">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Magazines</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">99</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Business &amp; Finance, Food &amp; Cooking, Curr...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/movies-and-tv">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Movies &amp; TV</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">1306</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Action &amp; Adventure, Comedy, History &amp; Do...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/music">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Music</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">114</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Classical, Country, Kid's Music, Pop, R&amp;...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/novelty-games-and-gifts">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Novelty Games &amp; Gifts</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">98</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Adult Party Games, Gag Gifts</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v1-gaming">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Video Games</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">729</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Game Consoles, Game Gear &amp; Novelties, Ga...</div>
-              </a>
-            </div>
-        </div>
-                        <div class="ls-gcx-flyout-item-content-children-right">
-                        </div>
-                      </div>
-
-                      <div class="ls-gcx-flyout-image-message-container">
-                          <img class="ls-gcx-flyout-category-image ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/goods-flyout-entertainment-e1ad5b3114.png" alt="Entertainment">
-                        <div class="ls-gcx-flyout-message-container">
-                            <span class="ls-gcx-flyout-free-shipping">FREE Shipping</span> <span>with $34.99 Purchase</span> <span class="ls-gcx-flyout-free-shipping-pipe">|</span> <span class="ls-gcx-flyout-free-shipping">FREE Returns</span>
-                        </div>
-                      </div>
-                    </div>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-nested-links">
-                  <a class="ls-gcx-flyout-link" href="/goods/groceries-household-and-pets">
-                    <div data-bhc="flyout-label:groceries-household-and-pets" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Grocery, Household &amp; Pets</div>
-                      <div class="ls-gcx-flyout-left-nav-count">9691</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                    <div data-bhc="flyout-content:groceries-household-and-pets" class="ls-gcx-flyout-item-content ls-exclude-resp-sub-nav">
-                      <div class="ls-gcx-flyout-item-title"><a class="ls-gcx-flyout-link" href="/goods/groceries-household-and-pets">Shop All Grocery, Household &amp; Pets</a></div>
-                      <div class="ls-gcx-flyout-item-content-children">
-                        <div class="ls-gcx-flyout-item-content-children-left">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/alcohol">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Alcohol</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">140</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Beer, Mixers &amp; Ready To Drink, Wine</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/drinks">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Beverages</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">771</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Coconut Water, Coffee, Energy Drinks, En...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/candy-and-sweets">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Candy &amp; Sweets</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">349</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Assortments, Bakery, Caramel &amp; Toffee, C...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v-food">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Food</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">1289</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Baby Foods, Breakfast Foods, Gourmet Gif...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v-household-essentials">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Household Essentials</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">2094</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Cleaning Products, Dishwashing, Food Sto...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/pets-goods">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Pets</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">4460</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Birds, Cats, Dogs, Fish, Reptiles &amp; Amph...</div>
-              </a>
-            </div>
-        </div>
-                        <div class="ls-gcx-flyout-item-content-children-right">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/tobacco">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Tobacco</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">591</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Cigarettes, Cigars, Tobacco Accessories...</div>
-              </a>
-            </div>
-        </div>
-                      </div>
-
-                      <div class="ls-gcx-flyout-image-message-container">
-                          <img class="ls-gcx-flyout-category-image ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/goods-flyout-groceries-household-and-pets-cebefb7da1.png" alt="Grocery, Household &amp; Pets">
-                        <div class="ls-gcx-flyout-message-container">
-                            <span class="ls-gcx-flyout-free-shipping">FREE Shipping</span> <span>with $34.99 Purchase</span> <span class="ls-gcx-flyout-free-shipping-pipe">|</span> <span class="ls-gcx-flyout-free-shipping">FREE Returns</span>
-                        </div>
-                      </div>
-                    </div>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-nested-links">
-                  <a class="ls-gcx-flyout-link" href="/goods/baby-kids-and-toys">
-                    <div data-bhc="flyout-label:baby-kids-and-toys" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Baby, Kids &amp; Toys</div>
-                      <div class="ls-gcx-flyout-left-nav-count">17502</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                    <div data-bhc="flyout-content:baby-kids-and-toys" class="ls-gcx-flyout-item-content ls-exclude-resp-sub-nav">
-                      <div class="ls-gcx-flyout-item-title"><a class="ls-gcx-flyout-link" href="/goods/baby-kids-and-toys">Shop All Baby, Kids &amp; Toys</a></div>
-                      <div class="ls-gcx-flyout-item-content-children">
-                        <div class="ls-gcx-flyout-item-content-children-left">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/baby-care">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Baby Care</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">857</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Baby Diapering, Baby Feeding, Baby Gear</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/bed-and-bath">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Bedding &amp; Bath</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">325</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Baby &amp; Kids Bedding, Baby &amp; Kids Blanket...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/books-music-and-movies">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Books, Music &amp; Movies</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">428</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Family &amp; Parenting Magazines, Kid's Musi...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/boys-fashion">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Boys Fashion</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">1203</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Boys' Accessories, Boys' Clothing, Boys'...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/baby-furniture">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Furniture &amp; Décor</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">585</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Beds &amp; Cribs, Changing Tables, Nursery A...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/girls-fashion">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Girls Fashion</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">1932</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Girls' Accessories, Girls' Clothing, Gir...</div>
-              </a>
-            </div>
-        </div>
-                        <div class="ls-gcx-flyout-item-content-children-right">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/health-and-safety">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Health &amp; Safety</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">225</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Baby Monitors, Safety, Skin &amp; Health Car...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/v1-maternity-clothes">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Maternity</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">254</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Bottoms, Dresses, Tops, Nursing</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/toys">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Toys</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">12768</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Arts &amp; Crafts, Bikes &amp; Ride-ons, Books...</div>
-              </a>
-            </div>
-        </div>
-                      </div>
-
-                      <div class="ls-gcx-flyout-image-message-container">
-                          <img class="ls-gcx-flyout-category-image ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/goods-flyout-baby-kids-and-toys-8e30e524ee.png" alt="Baby, Kids &amp; Toys">
-                        <div class="ls-gcx-flyout-message-container">
-                            <span class="ls-gcx-flyout-free-shipping">FREE Shipping</span> <span>with $34.99 Purchase</span> <span class="ls-gcx-flyout-free-shipping-pipe">|</span> <span class="ls-gcx-flyout-free-shipping">FREE Returns</span>
-                        </div>
-                      </div>
-                    </div>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-nested-links">
-                  <a class="ls-gcx-flyout-link" href="/goods/collectibles">
-                    <div data-bhc="flyout-label:collectibles" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Collectibles</div>
-                      <div class="ls-gcx-flyout-left-nav-count">1408</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                    <div data-bhc="flyout-content:collectibles" class="ls-gcx-flyout-item-content ls-exclude-resp-sub-nav">
-                      <div class="ls-gcx-flyout-item-title"><a class="ls-gcx-flyout-link" href="/goods/collectibles">Shop All Collectibles</a></div>
-                      <div class="ls-gcx-flyout-item-content-children">
-                        <div class="ls-gcx-flyout-item-content-children-left">
-                            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/collectible-coins-and-paper-money">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Coins &amp; Paper Money</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">266</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Coin Sets, Individual Coins, Paper Curre...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/collectible-accessories">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Collectible Accessories</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">184</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Displays, Storage</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/entertainment-collectibles">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Entertainment</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">96</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Musical Instruments &amp; Vinyl, Props</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/historical-and-political-collectibles">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Historical &amp; Political</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">31</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label"></div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/sports-collectibles">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Sports</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">828</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Baseball, Basketball, Boxing, Football...</div>
-              </a>
-            </div>
-            <div class="ls-gcx-flyout-item-content-child">
-              <a class="ls-gcx-flyout-link" href="/goods/collectible-stamps">
-                <div class="ls-gcx-flyout-item-content-child-label ls-clearfix">
-                  <div class="ls-gcx-flyout-item-content-child-title">Stamps</div>
-                  <div class="ls-gcx-flyout-item-content-child-count">3</div>
-                </div>
-                <div class="ls-gcx-flyout-item-content-child-sub-label">Individual Stamps, Sheets &amp; Booklets</div>
-              </a>
-            </div>
-        </div>
-                        <div class="ls-gcx-flyout-item-content-children-right">
-                        </div>
-                      </div>
-
-                      <div class="ls-gcx-flyout-image-message-container">
-                          <img class="ls-gcx-flyout-category-image ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/goods-flyout-collectibles-cd830a5d7c.png" alt="Collectibles">
-                        <div class="ls-gcx-flyout-message-container">
-                            <span class="ls-gcx-flyout-free-shipping">FREE Shipping</span> <span>with $34.99 Purchase</span> <span class="ls-gcx-flyout-free-shipping-pipe">|</span> <span class="ls-gcx-flyout-free-shipping">FREE Returns</span>
-                        </div>
-                      </div>
-                    </div>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-flat-link">
-                  <a class="ls-gcx-flyout-link" href="/occasion/deals-of-the-day">
-                    <div data-bhc="flyout-label:goods-lightning-flash" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Shop Deals of the Day</div>
-                      <div class="ls-gcx-flyout-left-nav-count"></div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-flat-link">
-                  <a class="ls-gcx-flyout-link" href="/goods/all?discount=gg-clearance">
-                    <div data-bhc="flyout-label:all" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Shop All Clearance</div>
-                      <div class="ls-gcx-flyout-left-nav-count">399</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                </li>
-                <li class="ls-gcx-flyout-left-nav-item ls-exclude-resp-nav ls-gcx-flyout-flat-link">
-                  <a class="ls-gcx-flyout-link" href="/goods/all">
-                    <div data-bhc="flyout-label:all-goods" class="ls-gcx-flyout-left-nav-label ls-clearfix">
-                      <div class="ls-gcx-flyout-left-nav-title">Shop All Categories</div>
-                      <div class="ls-gcx-flyout-left-nav-count">287412</div>
-                      <div class="ls-gcx-flyout-left-nav-active-triangle"></div>
-                    </div>
-                  </a>
-                </li>
+            <div data-bhw="goods-flyout" class="flyContainer">
+              <ul class="flyMenu">
+  <li>
+  <a class="flyMenulink" href="/goods/auto-and-home-improvement" data-bhc="flyout-label:auto-and-home-improvement"><n>Auto &amp; Home Improvement</n><c>17317</c></a>
+  <div data-bhc="flyout-content:auto-and-home-improvement" class="flyContent">
+    <h4><a href="/goods/auto-and-home-improvement">Shop All Auto &amp; Home Improvement</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/auto-parts-and-accessories"><n>Automotive</n><l>Car Audio, Car Care, Car Electronics, Ca...</l><c>3704</c></a>
+<a href="/goods/home-appliances"><n>Home Appliances</n><l>Dishwashers, Freezers, Irons &amp; Garment C...</l><c>1058</c></a>
+<a href="/goods/home-improvement-goods"><n>Home Improvement</n><l>Bathroom Faucets, Batteries, Electrical...</l><c>8556</c></a>
+<a href="/goods/patio-and-garden-products"><n>Patio &amp; Garden</n><l>Fire Pits &amp; Outdoor Heaters, Gardening &amp;...</l><c>4010</c></a>
+      </div>
+    </div>
+      <img class="flyBg ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/gcx-auto-and-home-improvement-50ba035e1f.jpg" alt="Auto &amp; Home Improvement">
+  </div>
+</li>
+<li>
+  <a class="flyMenulink" href="/goods/baby-kids-and-toys" data-bhc="flyout-label:baby-kids-and-toys"><n>Baby, Kids &amp; Toys</n><c>14312</c></a>
+  <div data-bhc="flyout-content:baby-kids-and-toys" class="flyContent">
+    <h4><a href="/goods/baby-kids-and-toys">Shop All Baby, Kids &amp; Toys</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/baby-care"><n>Baby Care</n><l>Baby Diapering, Baby Feeding, Baby Gear</l><c>1251</c></a>
+<a href="/goods/bed-and-bath"><n>Bedding &amp; Bath</n><l>Baby &amp; Kids Bedding, Baby &amp; Kids Blanket...</l><c>360</c></a>
+<a href="/goods/books-music-and-movies"><n>Books, Music &amp; Movies</n><l>Family &amp; Parenting Magazines, Kid's Musi...</l><c>414</c></a>
+<a href="/goods/boys-fashion"><n>Boys Fashion</n><l>Boys' Accessories, Boys' Clothing, Boys'...</l><c>1195</c></a>
+<a href="/goods/baby-furniture"><n>Furniture &amp; Décor</n><l>Beds &amp; Cribs, Changing Tables, Dressers...</l><c>609</c></a>
+<a href="/goods/girls-fashion"><n>Girls Fashion</n><l>Girls' Accessories, Girls' Clothing, Gir...</l><c>2266</c></a>
+      </div>
+      <div class="flyCol50">
+<a href="/goods/health-and-safety"><n>Health &amp; Safety</n><l>Baby Monitors, Safety, Skin &amp; Health Car...</l><c>342</c></a>
+<a href="/goods/v1-maternity-clothes"><n>Maternity</n><l>Maternity Bottoms, Maternity Dresses, Ma...</l><c>216</c></a>
+<a href="/goods/toys"><n>Toys</n><l>Arts &amp; Crafts, Bikes &amp; Ride-ons, Books...</l><c>8633</c></a>
+      </div>
+    </div>
+      <img class="flyBg ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/gcx-baby-kids-and-toys-b118e7eb38.jpg" alt="Baby, Kids &amp; Toys">
+  </div>
+</li>
+<li>
+  <a class="flyMenulink" href="/goods/collectibles" data-bhc="flyout-label:collectibles"><n>Collectibles</n><c>1121</c></a>
+  <div data-bhc="flyout-content:collectibles" class="flyContent">
+    <h4><a href="/goods/collectibles">Shop All Collectibles</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/collectible-coins-and-paper-money"><n>Coins &amp; Paper Money</n><l>Coin Sets, Individual Coins, Paper Curre...</l><c>274</c></a>
+<a href="/goods/collectible-accessories"><n>Collectible Accessories</n><l>Displays, Storage</l><c>119</c></a>
+<a href="/goods/entertainment-collectibles"><n>Entertainment</n><l>Musical Instruments &amp; Vinyl</l><c>89</c></a>
+<a href="/goods/historical-and-political-collectibles"><n>Historical &amp; Political</n><l></l><c>19</c></a>
+<a href="/goods/sports-collectibles"><n>Sports</n><l>Baseball, Basketball, Boxing, Football...</l><c>616</c></a>
+<a href="/goods/collectible-stamps"><n>Stamps</n><l>Individual Stamps, Rare Find, Sheets &amp; B...</l><c>4</c></a>
+      </div>
+    </div>
+      <img class="flyBg ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/gcx-collectibles-683bed297c.jpg" alt="Collectibles">
+  </div>
+</li>
+<li>
+  <a class="flyMenulink" href="/goods/electronics" data-bhc="flyout-label:electronics"><n>Electronics</n><c>31770</c></a>
+  <div data-bhc="flyout-content:electronics" class="flyContent">
+    <h4><a href="/goods/electronics">Shop All Electronics</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/camera-video-and-surveillance"><n>Camera, Video &amp; Surveillance</n><l>Action Cameras &amp; Drones, Camcorders, Das...</l><c>2051</c></a>
+<a href="/goods/car-electronics-and-gps"><n>Car Electronics &amp; GPS</n><l>Car Audio, Car Mounts &amp; Accessories, Car...</l><c>988</c></a>
+<a href="/goods/cell-phones-and-accessories"><n>Cell Phones &amp; Accessories</n><l>Backup Batteries, Bluetooth Devices, Cab...</l><c>17168</c></a>
+<a href="/goods/computers-and-tablets"><n>Computers &amp; Tablets</n><l>Computer Accessories, Desktops, Monitors...</l><c>4643</c></a>
+<a href="/goods/musical-instruments"><n>Musical Instruments</n><l>Accessories, Amplifiers &amp; Effects, Brass...</l><c>592</c></a>
+<a href="/goods/office-and-school-supplies"><n>Office Electronics &amp; Supplies</n><l>Networking, Printers &amp; Scanners, Scanner...</l><c>1057</c></a>
+<a href="/goods/portable-audio"><n>Portable Audio</n><l>Bluetooth &amp; Wireless Speakers, Docks, Ra...</l><c>2134</c></a>
+<a href="/goods/software"><n>Software</n><l>Business &amp; Home Office, Children's, Educ...</l><c>47</c></a>
+      </div>
+      <div class="flyCol50">
+<a href="/goods/television-and-home-theater"><n>Television &amp; Home Theater</n><l>Blu Ray &amp; DVD Players, Home Audio, Home...</l><c>2130</c></a>
+<a href="/goods/v2-gaming"><n>Video Games</n><l>Game Consoles, Game Gear, Games, Video G...</l><c>891</c></a>
+<a href="/goods/wearable-technology"><n>Wearable Technology</n><l></l><c>654</c></a>
+      </div>
+    </div>
+      <img class="flyBg ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/gcx-electronics-126069b487.jpg" alt="Electronics">
+  </div>
+</li>
+<li>
+  <a class="flyMenulink" href="/goods/entertainment-and-media" data-bhc="flyout-label:entertainment-and-media"><n>Entertainment</n><c>3068</c></a>
+  <div data-bhc="flyout-content:entertainment-and-media" class="flyContent">
+    <h4><a href="/goods/entertainment-and-media">Shop All Entertainment</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/v-books"><n>Books</n><l>Children &amp; YA Books, Cookbooks, Food &amp; W...</l><c>533</c></a>
+<a href="/goods/magazines"><n>Magazines</n><l>Business Magazines, Cooking Magazines, H...</l><c>142</c></a>
+<a href="/goods/movies-and-tv"><n>Movies &amp; TV</n><l>Action TV Shows &amp; Movies, Comedy TV Show...</l><c>1318</c></a>
+<a href="/goods/music"><n>Music</n><l>Classical Music, Country Music, Kid's Mu...</l><c>65</c></a>
+<a href="/goods/novelty-games-and-gifts"><n>Novelty Games &amp; Gifts</n><l>Adult Party Games, Gag Gifts</l><c>116</c></a>
+<a href="/goods/v1-gaming"><n>Video Games</n><l>Game Consoles, Game Gear &amp; Novelties, Ga...</l><c>891</c></a>
+      </div>
+    </div>
+      <img class="flyBg ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/gcx-entertainment-16c86e8454.jpg" alt="Entertainment">
+  </div>
+</li>
+<li>
+  <a class="flyMenulink" href="/goods/for-the-home" data-bhc="flyout-label:for-the-home"><n>For the Home</n><c>116255</c></a>
+  <div data-bhc="flyout-content:for-the-home" class="flyContent">
+    <h4><a href="/goods/for-the-home">Shop All For the Home</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/art"><n>Art</n><l>Canvas, Framed Art, Mixed Media, Photogr...</l><c>68323</c></a>
+<a href="/goods/bath"><n>Bath</n><l>Bath Accessories &amp; Sets, Bath Rugs, Bath...</l><c>1837</c></a>
+<a href="/goods/bedding"><n>Bedding</n><l>Bed Pillows, Bedding Collections &amp; Sets...</l><c>3181</c></a>
+<a href="/goods/floor-care-and-cleaning"><n>Floor Care &amp; Cleaning</n><l>Brooms, Mops &amp; Dusters, Vacuums</l><c>629</c></a>
+<a href="/goods/furniture"><n>Furniture</n><l>Accent Furniture, Baby &amp; Kid's Furniture...</l><c>6852</c></a>
+<a href="/goods/v-heating-and-cooling"><n>Heating &amp; Cooling</n><l>Air Conditioners, Air Purifiers, Dehumid...</l><c>849</c></a>
+<a href="/goods/appliances-goods"><n>Home Appliances</n><l>Irons &amp; Garment Care, Sewing Machines, S...</l><c>2688</c></a>
+<a href="/goods/art-and-home-decor"><n>Home Decor</n><l>Candles &amp; Holders, Home Accents, Lamps &amp;...</l><c>11708</c></a>
+      </div>
+      <div class="flyCol50">
+<a href="/goods/kitchen-and-dining"><n>Kitchen &amp; Dining</n><l>Bakeware, Coffee, Tea, &amp; Espresso, Cookb...</l><c>10933</c></a>
+<a href="/goods/luggage"><n>Luggage</n><l>Backpacks, Briefcases &amp; Laptop Bags, Car...</l><c>1698</c></a>
+<a href="/goods/v1-mattresses"><n>Mattresses &amp; Accessories</n><l>Innerspring Mattresses, Mattress Toppers...</l><c>395</c></a>
+<a href="/goods/v-office-and-school-supplies"><n>Office &amp; School Supplies</n><l>Desk Accessories, Home Office Furniture...</l><c>4444</c></a>
+<a href="/goods/patio-and-garden"><n>Patio &amp; Garden</n><l>Bird Feeders &amp; Food, Fire Pits &amp; Outdoor...</l><c>6865</c></a>
+<a href="/goods/v1-storage-and-organization"><n>Storage &amp; Organization</n><l>Bathroom Storage, Closet Storage, Garage...</l><c>3571</c></a>
+      </div>
+    </div>
+      <img class="flyBg ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/gcx-for-the-home-31cc33e8b6.jpg" alt="For the Home">
+  </div>
+</li>
+<li>
+  <a class="flyMenulink" href="/goods/grocery-and-household" data-bhc="flyout-label:grocery-and-household"><n>Grocery &amp; Household</n><c>5429</c></a>
+  <div data-bhc="flyout-content:grocery-and-household" class="flyContent">
+    <h4><a href="/goods/grocery-and-household">Shop All Grocery &amp; Household</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/alcohol"><n>Alcohol</n><l>Beer, Mixers &amp; Ready To Drink, Wine</l><c>114</c></a>
+<a href="/goods/drinks"><n>Beverages</n><l>Coconut Water, Coffee, Energy Drinks, En...</l><c>905</c></a>
+<a href="/goods/candy-and-sweets"><n>Candy &amp; Sweets</n><l>Assortments, Bakery, Caramel &amp; Toffee, C...</l><c>575</c></a>
+<a href="/goods/v-food"><n>Food</n><l>Baby Foods, Breakfast Foods, Gourmet Gif...</l><c>1500</c></a>
+<a href="/goods/custom-household-essentials"><n>Household Essentials</n><l>Cleaning Products, Dishwashing, Disposab...</l><c>1723</c></a>
+<a href="/goods/tobacco"><n>Tobacco</n><l>Cigars, Tobacco Accessories, Vaporizers...</l><c>734</c></a>
+      </div>
+    </div>
+      <img class="flyBg ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/gcx-groceries-household-and-pets-fa122146e0.jpg" alt="Grocery &amp; Household">
+  </div>
+</li>
+<li>
+  <a class="flyMenulink" href="/goods/health-and-beauty" data-bhc="flyout-label:health-and-beauty"><n>Health &amp; Beauty</n><c>58462</c></a>
+  <div data-bhc="flyout-content:health-and-beauty" class="flyContent">
+    <h4><a href="/goods/health-and-beauty">Shop All Health &amp; Beauty</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/massage-and-relaxation"><n>Aromatherapy &amp; Relaxation</n><l>Acupuncture &amp; Acupressure, Aromatherapy...</l><c>2128</c></a>
+<a href="/goods/bath-and-body"><n>Bath &amp; Body</n><l>Accessories, Aromatherapy, Bath Soaks &amp;...</l><c>2668</c></a>
+<a href="/goods/cosmetics"><n>Cosmetics</n><l>Bags &amp; Cases, Brushes &amp; Applicators, Eye...</l><c>6881</c></a>
+<a href="/goods/fragrances"><n>Fragrance</n><l>Fragrance Gift Sets &amp; Coffrets, Kids Fra...</l><c>17587</c></a>
+<a href="/goods/v1-hair-care"><n>Hair Care</n><l>Hair &amp; Scalp Treatment, Hair Accessories...</l><c>6990</c></a>
+<a href="/goods/health-care"><n>Health Care</n><l>Compression, Daily Living Aids, First Ai...</l><c>4110</c></a>
+<a href="/goods/men"><n>Men's Health &amp; Beauty</n><l>Men's Bath &amp; Body, Men's Hair Care, Men'...</l><c>4557</c></a>
+<a href="/goods/mobility-and-safety"><n>Mobility &amp; Safety</n><l>Bathroom Safety, Bedroom Safety, Canes &amp;...</l><c>352</c></a>
+      </div>
+      <div class="flyCol50">
+<a href="/goods/v1-dental-care"><n>Oral Care</n><l>Denture Care, Floss &amp; Gum Care, Mouthwas...</l><c>910</c></a>
+<a href="/goods/v1-personal-care"><n>Personal Care</n><l>Body Treatments, Deodorants &amp; Antiperspi...</l><c>2641</c></a>
+<a href="/goods/v1-sexual-health"><n>Sexual Wellness</n><l>Adult Books, Adult Games, Adult Toys for...</l><c>2887</c></a>
+<a href="/goods/v1-shaving"><n>Shaving &amp; Grooming</n><l>Hair Removal, Men's Shave, Shave Accesso...</l><c>1002</c></a>
+<a href="/goods/v1-skin-care"><n>Skin Care</n><l>Cellulite &amp; Stretch Marks, Cleanse, Exfo...</l><c>7481</c></a>
+<a href="/goods/v3-vitamins-and-supplements"><n>Vitamins &amp; Supplements</n><l>Detox &amp; Superfoods, Protein, Sports Nutr...</l><c>4463</c></a>
+      </div>
+    </div>
+      <img class="flyBg ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/gcx-health-and-beauty-37a4cff3c6.jpg" alt="Health &amp; Beauty">
+  </div>
+</li>
+<li>
+  <a class="flyMenulink" href="/goods/jewelry-and-watches" data-bhc="flyout-label:jewelry-and-watches"><n>Jewelry &amp; Watches</n><c>38605</c></a>
+  <div data-bhc="flyout-content:jewelry-and-watches" class="flyContent">
+    <h4><a href="/goods/jewelry-and-watches">Shop All Jewelry &amp; Watches</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/childrens-jewelry"><n>Children's Jewelry</n><l></l><c>231</c></a>
+<a href="/goods/diamond-jewelry"><n>Diamond Jewelry</n><l>Bracelets, Diamond Accent Jewelry, Diamo...</l><c>4834</c></a>
+<a href="/goods/fashion-jewelry"><n>Fashion Jewelry</n><l>Bracelets, Fashion Collections &amp; Sets, F...</l><c>15173</c></a>
+<a href="/goods/fine-metal-jewelry"><n>Fine Metal Jewelry</n><l>Fine Metal Bracelets, Fine Metal Collect...</l><c>3972</c></a>
+<a href="/goods/gemstone-and-pearl-jewelry"><n>Gemstone &amp; Pearl Jewelry</n><l>Bracelets, Gemstone &amp; Pearl Collections...</l><c>6985</c></a>
+<a href="/goods/jewelry-accessories-and-storage"><n>Jewelry Accessories &amp; Storage</n><l>Boxes &amp; Holders, Cleaners &amp; Accessories</l><c>250</c></a>
+      </div>
+      <div class="flyCol50">
+<a href="/goods/mens-jewelry"><n>Men's Jewelry</n><l>Men's Bracelets, Men's Diamond Jewelry...</l><c>2258</c></a>
+<a href="/goods/watches"><n>Watches</n><l>Men's Watches, Smartwatches, Unisex Watc...</l><c>5277</c></a>
+      </div>
+    </div>
+      <img class="flyBg ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/gcx-jewelry-and-watches-412936d823.jpg" alt="Jewelry &amp; Watches">
+  </div>
+</li>
+<li>
+  <a class="flyMenulink" href="/goods/mens-clothing-shoes-and-accessories" data-bhc="flyout-label:mens-clothing-shoes-and-accessories"><n>Men's Fashion</n><c>8582</c></a>
+  <div data-bhc="flyout-content:mens-clothing-shoes-and-accessories" class="flyContent">
+    <h4><a href="/goods/mens-clothing-shoes-and-accessories">Shop All Men's Fashion</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/mens-accessories"><n>Men's Accessories</n><l>Men's Bags, Men's Belts &amp; Suspenders, Me...</l><c>3547</c></a>
+<a href="/goods/mens-clothing"><n>Men's Clothing</n><l>Big &amp; Tall, Men's Activewear, Men's Butt...</l><c>4314</c></a>
+<a href="/goods/mens-shoes"><n>Men's Shoes</n><l>Men's Athletic Shoes, Men's Boat Shoes...</l><c>952</c></a>
+      </div>
+    </div>
+      <img class="flyBg ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/gcx-mens-clothing-shoes-and-accessories-6b9b485165.jpg" alt="Men's Fashion">
+  </div>
+</li>
+<li>
+  <a class="flyMenulink" href="/goods/v1-personalized-items" data-bhc="flyout-label:v1-personalized-items"><n>Personalized Items</n><c>1039</c></a>
+  <div data-bhc="flyout-content:v1-personalized-items" class="flyContent">
+    <h4><a href="/goods/v1-personalized-items">Shop All Personalized Items</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/custom-baby-and-kids-items"><n>Custom Baby &amp; Kids Items</n><l>Personalized Kids Books</l><c>17</c></a>
+<a href="/goods/custom-jewelry"><n>Custom Jewelry</n><l>Custom Bracelets, Personalized Earrings...</l><c>224</c></a>
+<a href="/goods/custom-kitchen-accessories"><n>Custom Kitchen Accessories</n><l>Custom Kitchen Utensils, Custom Mugs, Pe...</l><c>156</c></a>
+<a href="/goods/custom-novelty-items"><n>Custom Novelty Items</n><l>Custom Bobbleheads, Custom Electronic Ac...</l><c>71</c></a>
+<a href="/goods/custom-photo-prints"><n>Custom Photo Prints</n><l>Acrylic Prints, Canvas Prints, Custom Po...</l><c>236</c></a>
+<a href="/goods/personalized-bags"><n>Personalized Bags</n><l></l><c>25</c></a>
+      </div>
+      <div class="flyCol50">
+<a href="/goods/personalized-clothing-and-accessories"><n>Personalized Clothing &amp; Accessories</n><l>Personalized Fashion Accessories, Person...</l><c>83</c></a>
+<a href="/goods/v1-personalized-home-decor"><n>Personalized Home Decor</n><l>Custom Holiday Decorations, Custom House...</l><c>168</c></a>
+<a href="/goods/personalized-stationery"><n>Personalized Stationery</n><l>Custom Calendars, Custom Embosser Stamps...</l><c>48</c></a>
+<a href="/goods/photo-book"><n>Photo Books</n><l></l><c>36</c></a>
+      </div>
+    </div>
+  </div>
+</li>
+<li>
+  <a class="flyMenulink" href="/goods/pet-supplies" data-bhc="flyout-label:pet-supplies"><n>Pet Supplies</n><c>5049</c></a>
+  <div data-bhc="flyout-content:pet-supplies" class="flyContent">
+    <h4><a href="/goods/pet-supplies">Shop All Pet Supplies</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/bird-supplies"><n>Bird Supplies</n><l></l><c>104</c></a>
+<a href="/goods/cat-supplies"><n>Cat Supplies</n><l>Beds &amp; Blankets, Cat Feeding &amp; Watering...</l><c>931</c></a>
+<a href="/goods/dog-supplies"><n>Dog Supplies</n><l>Dog Apparel, Dog Beds &amp; Furniture, Dog C...</l><c>3790</c></a>
+<a href="/goods/fish-supplies"><n>Fish Supplies</n><l></l><c>89</c></a>
+<a href="/goods/reptile-and-amphibian-supplies"><n>Reptile &amp; Amphibian Supplies</n><l></l><c>29</c></a>
+<a href="/goods/small-animal-supplies"><n>Small Animal Supplies</n><l></l><c>98</c></a>
+      </div>
+    </div>
+      <img class="flyBg ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/gcx-pet-supplies-emea-3b77f76470.jpg" alt="Pet Supplies">
+  </div>
+</li>
+<li>
+  <a class="flyMenulink" href="/goods/sports-and-outdoors" data-bhc="flyout-label:sports-and-outdoors"><n>Sports &amp; Outdoors</n><c>14075</c></a>
+  <div data-bhc="flyout-content:sports-and-outdoors" class="flyContent">
+    <h4><a href="/goods/sports-and-outdoors">Shop All Sports &amp; Outdoors</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/clothing-and-shoes"><n>Activewear &amp; Athletic Shoes</n><l>Men's Activewear, Men's Athletic Shoes...</l><c>1681</c></a>
+<a href="/goods/v2-cycling"><n>Cycling</n><l>Bikes, Clothing &amp; Footwear, Parts &amp; Acce...</l><c>524</c></a>
+<a href="/goods/exercise-and-fitness"><n>Exercise &amp; Fitness</n><l>Balance &amp; Recovery, Books &amp; Magazines, C...</l><c>3306</c></a>
+<a href="/goods/fan-shop"><n>Fan Shop</n><l>Bundesliga, Memorabilia, MLB, MLS, NASCA...</l><c>3041</c></a>
+<a href="/goods/golf-goods"><n>Golf Products</n><l>Golf Accessories, Golf Bags and Carts, G...</l><c>395</c></a>
+<a href="/goods/outdoors"><n>Outdoors</n><l>Action Sports, Boats &amp; Water Sports, Cam...</l><c>5387</c></a>
+      </div>
+      <div class="flyCol50">
+<a href="/goods/recreation"><n>Recreation</n><l>Lawn Games, Trampolines</l><c>147</c></a>
+<a href="/goods/team-sports"><n>Team Sports</n><l>Baseball &amp; Softball, Basketball, Footbal...</l><c>457</c></a>
+      </div>
+    </div>
+      <img class="flyBg ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/gcx-sports-and-outdoors-f5b481b0d9.jpg" alt="Sports &amp; Outdoors">
+  </div>
+</li>
+<li>
+  <a class="flyMenulink" href="/goods/womens-clothing-shoes-and-accessories" data-bhc="flyout-label:womens-clothing-shoes-and-accessories"><n>Women's Fashion</n><c>20431</c></a>
+  <div data-bhc="flyout-content:womens-clothing-shoes-and-accessories" class="flyContent">
+    <h4><a href="/goods/womens-clothing-shoes-and-accessories">Shop All Women's Fashion</a></h4>
+    <div class="ls-flex-wrap">
+      <div class="flyCol50">
+<a href="/goods/womens-intimates"><n>Intimates</n><l>Bras, Lingerie, Lounge &amp; Sleepwear, Pant...</l><c>2432</c></a>
+<a href="/goods/maternity-clothes"><n>Maternity Clothing</n><l>Maternity Activewear, Maternity Bottoms...</l><c>239</c></a>
+<a href="/goods/plus-size-womens-clothing"><n>Plus Size Clothing</n><l>Plus Size Activewear, Plus Size Bottoms...</l><c>903</c></a>
+<a href="/goods/womens-accessories"><n>Women's Accessories</n><l>Women's Belts, Women's Eyewear, Women's...</l><c>5486</c></a>
+<a href="/goods/womens-clothing"><n>Women's Clothing</n><l>Dresses, Leggings, Skirts, Women's Activ...</l><c>9385</c></a>
+<a href="/goods/womens-shoes"><n>Women's Shoes</n><l>Boots &amp; Booties, Pumps &amp; Heels, Women's...</l><c>2503</c></a>
+      </div>
+    </div>
+      <img class="flyBg ls-lazy" data-original="//www2.grouponcdn.com/layout/assets/gcx-womens-clothing-shoes-and-accessories-1e58d3abde.jpg" alt="Women's Fashion">
+  </div>
+</li>
+<li class="flyFlatLink flyFlatLinkFirst">
+  <a class="flyFlatLink" href="/occasion/deals-of-the-day" data-bhc="flyout-label:goods-lightning-flash"><n>Shop Deals of the Day</n></a>
+</li>
+<li class="flyFlatLink">
+  <a class="flyFlatLink" href="/goods/all?discount=gg-clearance" data-bhc="flyout-label:all"><n>Shop All Clearance</n><c>486</c></a>
+</li>
+<li class="flyFlatLink">
+  <a class="flyFlatLink" href="/goods/all" data-bhc="flyout-label:all-goods"><n>Shop All Categories</n><c>26553</c></a>
+</li>
             </ul>
+                <div class="flyTeaserMsg">
+                    <span>FREE Shipping</span> with $34.99 Purchase |
+                  <span>FREE Returns</span>
+                </div>
             </div>
-          </div>
-        </nav>
+      </nav>
       <nav class="subnav-flyout getaways-tab-flyout row hide" id="subnav-getaways-tab" data-bhw="SubNav-getaways-tab">
-        <div class="ls-flex-wrap">
-                <div class="flyout-column subnav-categories">
-                    <a class="subnav-link" href="/getaways?category=All+Destinations" data-bhc="category:getaways-tab-All Destinations">
-                      All Destinations
-                    </a>
-                    <a class="subnav-link" href="/getaways?category=USA+and+Canada" data-bhc="category:getaways-tab-USA &amp; Canada">
-                      USA &amp; Canada
-                    </a>
-                    <a class="subnav-link" href="/getaways?category=Mexico,+the+Caribbean,+%26+Latin+America" data-bhc="category:getaways-tab-Mexico, the Caribbean, &amp; Latin America">
-                      Mexico, the Caribbean, &amp; Latin America
-                    </a>
-                    <a class="subnav-link" href="/getaways?category=Europe,+Asia,+Africa,+%26+Oceania" data-bhc="category:getaways-tab-Europe, Asia, Africa, &amp; Oceania">
-                      Europe, Asia, Africa, &amp; Oceania
-                    </a>
+            <div class="ls-flex-wrap">
+                    <div class="flyout-column one-up subnav-categories">
+                        <a class="subnav-link" href="/getaways?category=All+Destinations" data-bhc="category:getaways-tab-all-destinations">
+              All Destinations
+              
+              
+            </a>
+            <a class="subnav-link" href="/getaways?category=USA+and+Canada" data-bhc="category:getaways-tab-usa-canada">
+              USA &amp; Canada
+              
+              
+            </a>
+            <a class="subnav-link" href="/getaways?category=Mexico%2C+the+Caribbean%2C+%26+Latin+America" data-bhc="category:getaways-tab-mexico-the-caribbean-latin-america">
+              Mexico, the Caribbean, &amp; Latin America
+              
+              
+            </a>
+            <a class="subnav-link" href="/getaways?category=Europe%2C+Asia%2C+Africa%2C+%26+Oceania" data-bhc="category:getaways-tab-europe-asia-africa-oceania">
+              Europe, Asia, Africa, &amp; Oceania
+              
+              
+            </a>
               </div>
-                      <div class="flyout-column subnav-cardatron">
-
-            </div>
-                  </div>
-        </nav>
+                          <div class="flyout-column subnav-cardatron"></div>
+                      </div>
+      </nav>
       <nav class="subnav-flyout coupons-tab-flyout row hide" id="subnav-coupons-tab" data-bhw="SubNav-coupons-tab">
             <div class="ls-flex-wrap">
-                  <div class="flyout-column subnav-categories">
-                      <a class="subnav-link" href="/coupons/stores" data-bhc="category:coupons-tab-All Stores">
-                        All Stores
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/target.com" data-bhc="category:coupons-tab-Target Coupons">
-                        Target Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/toysrus.com" data-bhc="category:coupons-tab-ToysRUs Coupons">
-                        ToysRUs Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/hrblock.com" data-bhc="category:coupons-tab-H&amp;R Block At Home Tax Coupons">
-                        H&amp;R Block At Home Tax Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/nordstrom.com" data-bhc="category:coupons-tab-Nordstrom Coupons">
-                        Nordstrom Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/bestbuy.com" data-bhc="category:coupons-tab-Best Buy Coupons">
-                        Best Buy Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/homedepot.com" data-bhc="category:coupons-tab-Home Depot Coupons">
-                        Home Depot Coupons
-                      </a>
-                </div>
-                <div class="flyout-column subnav-categories">
-                      <a class="subnav-link" href="/coupons/stores/bloomingdales.com" data-bhc="category:coupons-tab-Bloomingdale's Coupons">
-                        Bloomingdale's Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/sears.com" data-bhc="category:coupons-tab-Sears Coupons">
-                        Sears Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/babiesrus.com" data-bhc="category:coupons-tab-BabiesRUs Coupons">
-                        BabiesRUs Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/barnesandnoble" data-bhc="category:coupons-tab-Barnes &amp; Noble Coupons">
-                        Barnes &amp; Noble Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/amazon.com" data-bhc="category:coupons-tab-Amazon Coupons">
-                        Amazon Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/jcpenney.com" data-bhc="category:coupons-tab-JCPenney Coupons">
-                        JCPenney Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/kohls.com" data-bhc="category:coupons-tab-Kohl's Coupons">
-                        Kohl's Coupons
-                      </a>
-                </div>
-                <div class="flyout-column subnav-categories">
-                      <a class="subnav-link" href="/coupons/stores/macys.com" data-bhc="category:coupons-tab-Macy's Coupons">
-                        Macy's Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/saksfifthavenue.com" data-bhc="category:coupons-tab-Saks Fifth Avenue Coupons">
-                        Saks Fifth Avenue Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/ae.com" data-bhc="category:coupons-tab-American Eagle Coupons">
-                        American Eagle Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/kay.com" data-bhc="category:coupons-tab-Kay Jewelers Coupons">
-                        Kay Jewelers Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/nike.com" data-bhc="category:coupons-tab-Nike Coupons">
-                        Nike Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/walmart.com" data-bhc="category:coupons-tab-Walmart Coupons">
-                        Walmart Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/finishline.com" data-bhc="category:coupons-tab-Finish Line Coupons">
-                        Finish Line Coupons
-                      </a>
-                </div>
-                <div class="flyout-column subnav-categories">
-                      <a class="subnav-link" href="/coupons/stores/turbotax.intuit.com" data-bhc="category:coupons-tab-TurboTax Coupons">
-                        TurboTax Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/shutterfly.com" data-bhc="category:coupons-tab-Shutterfly Coupons">
-                        Shutterfly Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/oldnavy.com" data-bhc="category:coupons-tab-Old Navy Coupons">
-                        Old Navy Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/footlocker.com" data-bhc="category:coupons-tab-Foot Locker Coupons">
-                        Foot Locker Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/express.com" data-bhc="category:coupons-tab-Express Coupons">
-                        Express Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/vistaprint.com" data-bhc="category:coupons-tab-Vistaprint Coupons">
-                        Vistaprint Coupons
-                      </a>
-                      <a class="subnav-link" href="/coupons/stores/asos.com" data-bhc="category:coupons-tab-ASOS Coupons">
-                        ASOS Coupons
-                      </a>
-                </div>
+                    <div class="flyout-column one-up subnav-categories">
+                        <a class="subnav-link" href="/coupons/stores" data-bhc="category:coupons-tab-all-stores">
+              All Stores
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/target.com" data-bhc="category:coupons-tab-target-coupons">
+              Target Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/toysrus.com" data-bhc="category:coupons-tab-toysrus-coupons">
+              ToysRUs Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/hrblock.com" data-bhc="category:coupons-tab-h-r-block-at-home-coupons">
+              H&amp;R Block At Home Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/nordstrom.com" data-bhc="category:coupons-tab-nordstrom-coupons">
+              Nordstrom Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/bestbuy.com" data-bhc="category:coupons-tab-best-buy-coupons">
+              Best Buy Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/homedepot.com" data-bhc="category:coupons-tab-home-depot-coupons">
+              Home Depot Coupons
+              
+              
+            </a>
+              </div>
+                  <div class="flyout-column one-up subnav-categories">
+                        <a class="subnav-link" href="/coupons/stores/bloomingdales.com" data-bhc="category:coupons-tab-bloomingdale-s-coupons">
+              Bloomingdale's Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/sears.com" data-bhc="category:coupons-tab-sears-coupons">
+              Sears Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/babiesrus.com" data-bhc="category:coupons-tab-babiesrus-coupons">
+              BabiesRUs Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/barnesandnoble" data-bhc="category:coupons-tab-barnes-noble-coupons">
+              Barnes &amp; Noble Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/amazon.com" data-bhc="category:coupons-tab-amazon-coupons">
+              Amazon Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/jcpenney.com" data-bhc="category:coupons-tab-jcpenney-coupons">
+              JCPenney Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/kohls.com" data-bhc="category:coupons-tab-kohl-s-coupons">
+              Kohl's Coupons
+              
+              
+            </a>
+              </div>
+                  <div class="flyout-column one-up subnav-categories">
+                        <a class="subnav-link" href="/coupons/stores/macys.com" data-bhc="category:coupons-tab-macy-s-coupons">
+              Macy's Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/saksfifthavenue.com" data-bhc="category:coupons-tab-saks-fifth-avenue-coupons">
+              Saks Fifth Avenue Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/ae.com" data-bhc="category:coupons-tab-american-eagle-coupons">
+              American Eagle Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/kay.com" data-bhc="category:coupons-tab-kay-jewelers-coupons">
+              Kay Jewelers Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/nike.com" data-bhc="category:coupons-tab-nike-coupons">
+              Nike Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/walmart.com" data-bhc="category:coupons-tab-walmart-coupons">
+              Walmart Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/finishline.com" data-bhc="category:coupons-tab-finish-line-coupons">
+              Finish Line Coupons
+              
+              
+            </a>
+              </div>
+                  <div class="flyout-column one-up subnav-categories">
+                        <a class="subnav-link" href="/coupons/stores/turbotax.intuit.com" data-bhc="category:coupons-tab-turbotax-coupons">
+              TurboTax Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/shutterfly.com" data-bhc="category:coupons-tab-shutterfly-coupons">
+              Shutterfly Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/oldnavy.com" data-bhc="category:coupons-tab-old-navy-coupons">
+              Old Navy Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/footlocker.com" data-bhc="category:coupons-tab-foot-locker-coupons">
+              Foot Locker Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/express.com" data-bhc="category:coupons-tab-express-coupons">
+              Express Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/vistaprint.com" data-bhc="category:coupons-tab-vistaprint-coupons">
+              Vistaprint Coupons
+              
+              
+            </a>
+            <a class="subnav-link" href="/coupons/stores/asos.com" data-bhc="category:coupons-tab-asos-coupons">
+              ASOS Coupons
+              
+              
+            </a>
+              </div>
                                   </div>
-        </nav>
+      </nav>
   </nav>
 </nav>
 
@@ -1693,7 +957,6 @@ window.Optimize.delayBloodhound = true;
         </div>
 
       <div class="ls-resp-main">
-
                 
 
 
@@ -1704,13 +967,13 @@ window.Optimize.delayBloodhound = true;
           <h1 class="section-title">GROUPON, INC. PRIVACY STATEMENT</h1>
         <h4>PRIVACY STATEMENT</h4>
 
-<h5>Effective Date: January 31, 2017</h5>
+<h5>Effective Date: August 10, 2017</h5>
 
 <p>This Privacy Statement (“<strong>Privacy Statement</strong>”) explains how Groupon, Inc. (“<strong>Groupon</strong>,” “<strong>us</strong>,” “<strong>our</strong>,” and “<strong>we</strong>”) uses your information and applies to all who use our Web site – www.groupon.com, mobile applications, touch technologies, electronic services, social networking sites, interactive features, online services – or any of our described online activities we own or control, including any online activities owned, controlled, or operated by Groupon Affiliates, (collectively, the “<strong>Site</strong>”). In addition, please review the Site’s <strong><a href="http://www.groupon.com/terms">Terms of Use</a></strong> which governs your use of the Service, and includes, among other things, grants of rights from you, limits on our liability and your remedies, mandatory arbitration, and waiver of jury trial and class actions. <strong>By using our Site, you agree to our Terms of Service and consent to our collection, use and sharing of your information and data, and other activities, as described below.</strong></p>
 
 <p><strong>By using the Site, you agree to the terms of this Privacy Statement. If you do not agree with the practices described in this Privacy Statement, please do not provide us with your personal information or interact with the Site.</strong> </p>
 
-<p>We may modify this Privacy Statement at any time. If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of notice on the Site prior to the change becoming effective. You can determine when this Privacy Statement was last revised by referring to the "Effective Date” above. You can review the last version of this Privacy Statement <a href="https://www.groupon.com/pages/privacy-11-9-2015">here</a>.</p>
+<p>We may modify this Privacy Statement at any time. If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of notice on the Site prior to the change becoming effective. You can determine when this Privacy Statement was last revised by referring to the "Effective Date” above. You can review the last version of this Privacy Statement <a href="https://www.groupon.com/pages/privacy-1-31-2017">here</a>.</p>
 
 <p>This Privacy Statement is organized as follows: </p>
 
@@ -1793,8 +1056,9 @@ This Privacy Statement does not apply to the collection of information in any wa
 <li>Send you reminders, technical notices, updates, security alerts, support and administrative messages, service bulletins, marketing messages, and requested information, including on behalf of <a href="#Business">Business Partners</a>; </li>
 <li>Administer rewards, surveys, sweepstakes, contests, or other promotional activities or events sponsored by us or our <a href="#Business">Business Partners</a>; </li>
 <li>Manage our everyday business needs, such as administration of the Site, forum management, fulfillment, analytics, fraud prevention, and enforcement of our corporate reporting obligations and <a href="http://www.groupon.com/terms">Terms of Use</a>, or to comply with the law; </li>
-<li>Allow you to apply for a job, post a video or sign up for special offers from merchants, <a href="#Business">Business Partners</a>, or third parties through the Site and <a href="#Programs">Other Programs</a>, and to</li>
-<li>Enhance other information we have about you directly or from <a href="#Other">Other Sources</a> to help us better understand you and determine your interests.<p></p></li>
+<li>Allow you to apply for a job, post a video or sign up for special offers from merchants, <a href="#Business">Business Partners</a>, or third parties through the Site and <a href="#Programs">Other Programs</a>;</li>
+<li>Enhance other information we have about you directly or from <a href="#Other">Other Sources</a> to help us better understand you and determine your interests, and to</li>
+<li>Use your data as described in our <a href="https://www.groupon.com/pages/special-programs#card-linked-deals">Card Linked Deals</a> program, if you consented to participate in such program.<p></p></li>
 </ul>
 
 <p>We also may use information collected as described in this Privacy Statement with your consent or as otherwise required or permitted by law. </p>
@@ -1971,15 +1235,15 @@ Chicago, Illinois 60654 USA</b></p>
         </div>
         <div class="ls-footer-sitemap-col footer-links">
           <h6 class="footer-link-headline">Work with Groupon</h6>
-          <a id="ls-footer-join" href="/merchant/get-started?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" data-bhw="FooterLinkJoin">Join the Groupon Marketplace</a><a id="ls-footer-deal" href="/merchant/get-started?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" data-bhw="FooterLinkDeal">Run a Groupon Deal</a><a id="ls-footer-merchants" href="/merchant?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" data-bhw="FooterLinkMerchants">Learn About Groupon Merchant</a><a id="ls-footer-affiliates" href="http://www.grouponaffiliate.com/" data-bhw="FooterLinkAffiliates">Affiliate Program</a>
+          <a id="ls-footer-join" href="/merchant/get-started?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" data-bhw="FooterLinkJoin">Join the Groupon Marketplace</a><a id="ls-footer-deal" href="/merchant/get-started?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" data-bhw="FooterLinkDeal">Run a Groupon Deal</a><a id="ls-footer-merchants" href="/merchant?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" data-bhw="FooterLinkMerchants">Learn About Groupon Merchant</a><a id="ls-footer-affiliates" href="http://www.grouponaffiliate.com/" data-bhw="FooterLinkAffiliates">Affiliate Program</a><a id="ls-footer-vendor_code_of_conduct" href="/pages/vendor-code-of-conduct" data-bhw="FooterLinkVendorCodeOfConduct">Vendor Code of Conduct</a>
         </div>
         <div class="ls-footer-sitemap-col footer-links">
           <h6 class="footer-link-headline">More</h6>
-          <a id="ls-footer-customer_support" href="/customer_support" data-bhw="FooterLinkCustomerSupport">Customer Support</a><a id="ls-footer-promise" href="/groupon-promise" data-bhw="FooterLinkPromise">Refund Policies</a><a id="ls-footer-faq" href="/faq" data-bhw="FooterLinkFaq">FAQ</a><a id="ls-footer-coupons" href="/coupons" data-bhw="FooterLinkCoupons">Coupons</a><a id="ls-footer-giftcards" href="/giftcards" data-bhw="FooterLinkGiftcards">Gift Cards</a><a id="ls-footer-giftshop" href="/occasion/gift-shop" data-bhw="FooterLinkGiftshop">Gift Shop</a><a id="ls-footer-students" href="/programs/student" data-bhw="FooterLinkStudents">Students</a>
+          <a id="ls-footer-customer_support" href="/customer_support" data-bhw="FooterLinkCustomerSupport">Customer Support</a><a id="ls-footer-promise" href="/groupon-promise" data-bhw="FooterLinkPromise">Refund Policies</a><a id="ls-footer-faq" href="/faq" data-bhw="FooterLinkFaq">FAQ</a><a id="ls-footer-coupons" href="/coupons" data-bhw="FooterLinkCoupons">Coupons</a><a id="ls-footer-giftcards" href="/giftcards" data-bhw="FooterLinkGiftcards">Gift Cards</a><a id="ls-footer-giftshop" href="/occasion/gift-shop" data-bhw="FooterLinkGiftshop">Gift Shop</a><a id="ls-footer-students" href="/programs/student" data-bhw="FooterLinkStudents">Students</a><a id="ls-footer-loyalty" href="/programs/loyalty" data-bhw="FooterLinkLoyalty">Miles &amp; Points</a>
         </div>
         <div class="ls-footer-sitemap-col footer-links">
           <h6 class="footer-link-headline">Follow Us</h6>
-          <a id="ls-footer-twitter" target="_blank" rel="noopener" aria-label="Twitter" class="follow-us-link icon-twitter" href="https://twitter.com/groupon" data-bhw="FooterSocialTwitter"></a><a id="ls-footer-facebook" target="_blank" rel="noopener" aria-label="Facebook" class="follow-us-link icon-facebook" href="https://www.facebook.com/groupon" data-bhw="FooterSocialFacebook"></a>
+          <a id="ls-footer-twitter" target="_blank" rel="noopener" aria-label="Twitter" class="follow-us-link icon-twitter" href="https://twitter.com/groupon" data-bhw="FooterSocialTwitter"></a><a id="ls-footer-facebook" target="_blank" rel="noopener" aria-label="Facebook" class="follow-us-link icon-facebook" href="https://www.facebook.com/Groupon.US" data-bhw="FooterSocialFacebook"></a>
         </div>
       </div>
       
@@ -2015,7 +1279,7 @@ or plan a <a id="ls-footer-trip-link" class="ch-txt-ntc" data-bhw="FooterGSMUSLi
       
               
       
-          </div>
+    </div>
 
               <div class="ls-col footer-widgets" data-bhw="FooterWidgets">
           <a href="/mobile?utm_source=gp&amp;utm_medium=footer&amp;utm_campaign=mlusers" id="ls-footer-mobile_ad" class="footer-widget footer-widget-mobile" title="Groupon for mobile devices" data-bhw="FooterWidgetMobileAd">
@@ -2042,16 +1306,15 @@ or plan a <a id="ls-footer-trip-link" class="ch-txt-ntc" data-bhw="FooterGSMUSLi
         </div>
     </div>
 
-    <div id="ls-modals-wrapper" class="ls-modals-wrapper ls-hide" data-bhw="LsModal">
+    <div id="ls-modals-wrapper" class="ls-modals-wrapper ls-hide" data-bhw="clomodal">
     </div>
 
 
 
-    <script src="//www2.grouponcdn.com/layout/assets/ls-core-v6.0-92ca01f33a.js" id="ls-core"></script>
+    <script src="//www2.grouponcdn.com/layout/assets/ls-core-v6.0-e539537994.js" id="ls-core"></script>
 
-  <script src="//www2.grouponcdn.com/layout/assets/sls-v6.0.33-70a7aa9e99.js" id="sls"></script>
-  <script src="//www2.grouponcdn.com/layout/assets/gig-v7.2.7-9871d86ad8.js"></script>
-
+  <script src="//www2.grouponcdn.com/layout/assets/sls-v6.0.47-7e4155c647.js" id="sls"></script>
+  <script src="//www2.grouponcdn.com/layout/assets/gig-v7.7.1-e854979083.js"></script>
 
       
       
@@ -2063,7 +1326,7 @@ or plan a <a id="ls-footer-trip-link" class="ch-txt-ntc" data-bhw="FooterGSMUSLi
     </script>
 
 
-      <script src="/pages-assets/main-e9ed4e8896.js"></script>
+      <script src="/pages-assets/main-f72ac353c7.js"></script>
 
 
 
@@ -2081,59 +1344,14 @@ or plan a <a id="ls-footer-trip-link" class="ch-txt-ntc" data-bhw="FooterGSMUSLi
     }
   })()
 </script>
-  <div id="ls-google-tag-manager" class="ls-hide-absolute" aria-hidden="true">
-    <script>window.dataLayer = (function(gtm) {
-      var cookies = {}, c_cookie, e_cookie, readCookie;
-        readCookie =  function(name){
-          if (Object.keys(cookies).length) { return cookies[name]; };
-          var C, i, c;
-          c = document.cookie.split('; ');
-          for (i = c.length - 1; i>= 0; i--) {
-            C = c[i].split('=');
-            cookies[C[0]] = C[1];
-          };
-          return cookies[name];
-        };
-        c_cookie = readCookie('c');
-        e_cookie = readCookie('e');
-        if ((typeof c_cookie !== "undefined" && c_cookie !== null) && (typeof e_cookie !== "undefined" && e_cookie !== null)) {
-          gtm.dl_user_id = c_cookie;
-          gtm.dl_email_sha256 = e_cookie;
-        };
-      gtm.platform = "Desktop";
-      return [gtm];
-    })({})</script>
 
-    <!--
-    <noscript>
-      <iframe
-        height="0"
-        width="0"
-        style="display:none;visibility:hidden"
-        src="//www.googletagmanager.com/ns.html?id=GTM-B76Z">
-      </iframe>
-    </noscript>
-
-    <script>
-
-      var googleTagManager = function googleTagManager() {
-        setTimeout(function() {
-          (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-B76Z');
-        }, 200);
-      };
-      window.addEventListener('load', googleTagManager)
-
-    </script>
-    -->
-  </div>
-  
   
     <script type="text/javascript">
     (function () {
       function getFlags(e) {
         e.target.removeEventListener(e.type, getFlags);
         var flags = {
-          'enableResponsive': true,'pagebottom_javascript': true,'setBottomJavascript': true,'stylesheet': true,'title': true,
+          
         }, keys = Object.keys(flags);
         if (keys.length) {
           keys.map(function(key) {
@@ -2149,6 +1367,20 @@ or plan a <a id="ls-footer-trip-link" class="ch-txt-ntc" data-bhw="FooterGSMUSLi
     }());
     </script>
 
+      <script>
+        if (typeof window.fbAsyncInit === 'undefined') {
+          window.fbAsyncInit = function() {
+            FB.init({
+              appId            : '7829106395',
+              autoLogAppEvents : true,
+              xfbml            : true,
+              version          : 'v2.9'
+            });
+            FB.AppEvents.logPageView();
+          };
+        }
+      </script>
+    
         <script type="text/javascript">
           window._bcvma = window._bcvma || [];
           _bcvma.push(["setAccountID", "888454639756334259"]);
