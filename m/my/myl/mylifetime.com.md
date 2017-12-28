@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylifetime.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625235818id_/http%3A//www.aenetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylifetime.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228034351id_/http%3A//www.aenetworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | A+E Networks
 
@@ -109,7 +109,7 @@ You may choose to opt-out of certain communications or uses of information colle
 
 For more information or to opt-out of certain online behavioral advertising, please visit [http://www.aenetworks.com/adchoices.](http://www.aenetworks.com/adchoices)
 
-Facebook is an advertising partner and may collect and use data to display advertisements on all A+E Networks' digital websites and apps. For more information and to control the ads you see, visit [https://www.facebook.com/ads/about/?page_number=6.](https://www.facebook.com/ads/about/?page_number=6) ** _DO NOT TRACK SIGNALS_**
+Facebook is an advertising partner and may collect and use data to display advertisements on all A+E Networks' digital websites and apps. For more information and to control the ads you see, visit [https://m.facebook.com/ads/audience_network.](https://m.facebook.com/ads/audience_network) ** _DO NOT TRACK SIGNALS_**
 
 At this time, A+E does not respond to browser ‘Do Not Track’ signals, which is a standard still under development. To learn more please go to [www.allaboutdnt.com ](https://allaboutdnt.com/)
 
