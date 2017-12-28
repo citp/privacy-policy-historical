@@ -1,84 +1,171 @@
-> *The following text is extracted and transformed from the norman.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015043521id_/http%3A//www.norman.com/about_norman/privacy_policy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norman.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228025624id_/http%3A//www.avg.com/en-ww/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Norman — Proactive IT security
+# Privacy Policy | We are serious about your privacy | AVG
 
-**_Published 2008.02.15_**
+## Our Privacy Policy
 
-This privacy policy sets out how Norman uses and protects any information that you give Norman when you use this website.
+  
+We (Avast Software B.V. and our affiliates) last changed our privacy policy on March 23, 2017. If you’re interested to see what changed, please [click here](https://web.archive.org/en-ww/privacy#what-changes-have-you-recently-made). AVG is part of the [Avast Group](https://www.avast.com/). This Privacy Policy applies to all the AVG branded products. Please note that specific privacy policies apply for [Avast](https://www.avast.com/privacy-policy) branded products, [HideMyAss](https://www.hidemyass.com/legal/privacy) branded products, [Norman](https://web.archive.org/en-ww/norman-privacy) branded products, [TuneUp](https://web.archive.org/en-ww/app-specific-tuneup-utilities) branded products and the [Ally App](http://chimewifi.com/privacypolicy/), as well as the processing of personal data by [Location Labs Inc.](https://www.locationlabs.com/privacy-policy) and [Jumpshot Inc](https://www.jumpshot.com/privacy-policy/). Furthermore, our website provides you with [specific additional information](https://web.archive.org/en-ww/app-specific) for certain apps. 
 
-Norman is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+## Why do you collect my data?
 
-Norman may change this policy by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from the date stated at the top of this web page.
+It’s simple. We provide products and services to help you secure your data, devices, and personal privacy. We use data to improve those products and services; provide support; send notifications, offers, and promotions; and to make money from our free offerings so that we can continue to offer them for free.
 
-## What we collect
+We use data that can identify you, called personal data, to:
 
-We may collect the following information: 
-
-  * name and job title 
-  * contact information including email address 
-  * demographic information such as postcode, preferences and interests 
-  * products in our portfolio that you have expressed an interest in
-  * other information relevant to customer surveys and/or offers
-
-
-
-## What we do with the information we gather
-
-We require this information to  fulfill your specific request, understand your needs, and provide you with a better service. If you give us permission to use the information in another manner, for example if you subscribe to one of our mailing lists, we will use it accordingly.
-
-The information may also be used for the following reasons: 
-
-  * internal record keeping
-  * to improve our products and services
-  * to send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided
-  * to contact you for market research purposes
-  * to customize the website according to your interests.
+  * Enable you to purchase and download products, obtain access to services and engage in offered activities;
+  * Provide you information about virus alerts, new and upgraded products and services, and other information you have requested;
+  * Provide you with service messages to your device;
+  * Alert you if we determine that your files, applications or emails are potentially malicious;
+  * Send you newsletters, informative emails or other information regarding AVG; and
+  * Provide you special opportunities, including offers relating to third-party products and services
 
 
 
-## Security
+We use data that does not identify you, called non-personal data, for lots of purposes, including to improve our products and services and to help keep our free offerings free. In particular, we may use non-personal data to build anonymous data profiles and provide segmented marketing, generate aggregate statistical information, and to improve and administer our current products and create new products.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect.
+You can be assured that we protect the information we collect. By using our products or services, you agree to the collection, use and sharing of your data in accordance with this Privacy Policy. Unless the specific product states otherwise, all AVG products and services are included under this Privacy Policy.
 
-## How we use cookies
+If you are really interested in this privacy stuff, we’ve put together [a few videos](http://www.youtube.com/officialavg) and to help explain what we do, why we do it, and how.
 
-A cookie is a small file which asks permission to be placed on your computer. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+## How do you collect my data?
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+  
+We collect information in three ways: when you provide us information, automatically, when you use our website or products, and when provided to us by third parties. Much of our automatic collection is done through the use of things like cookies and tracking beacons. If you are curious what is meant by a cookie or a tracking beacon, please [click here](http://www.allaboutcookies.org/web-beacons/). You can find comprehensive information on how we use cookies and third-party tracking and analytics services [here](https://web.archive.org/en-ww/cookies.html). Additionally, if you have the option enabled, we may scan web traffic (including encrypted traffic) for known virus threats.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+## What do you collect that can identify me?
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Note however, that this may prevent you from taking full advantage of the website.
+Like many companies, some of the information we collect, known as personal data, can identify you. An example of personal data might be your name or email address.
 
-## Links to other websites
+Some personal data we collect only when you provide it to us. This information may include your name, address, email address, telephone number, and if you pay by credit card, your payment information. This may happen when you:
 
-Our website may contain links to enable you to visit other websites that we believe may be of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we are not responsible for the protection and privacy of any information which you provide whilst visiting such sites, and such sites are not governed by this privacy statement. Nor are we responsible for the content of these websites. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-## Distribution of Information
-
-We may share information with governmental agencies or other organizations assisting us in fraud prevention or investigation.
-
-We may do so when:
-
-  1. permitted or required by law
-  2. trying to protect against or prevent actual or potential fraud, unauthorized transactions or other criminal activity
-  3. investigating fraud or other criminal activity, which has already taken place.
+  * Create a user account, place an order, or register a product;
+  * Request product support or other services;
+  * Request information about products; or
+  * Participate in surveys.
 
 
 
-The information is not provided to these organizations for marketing purposes.
+Some personal data we collect automatically when you use our website or products. This information may include some or all of the following types of information:
 
-## Controlling your personal information
+  * Your Internet Protocol ("IP") address;
+  * User and account names and related data;
+  * Phone number;
+  * SIM (Subscriber Identification Module) card number;
+  * Device ID numbers, including Machine ID, IMEI and/or MEID;
+  * AVG product license and identification numbers; and
+  * Geographic location based on GPS/Wi -Fi/communications network local information.
 
-You may choose to restrict the collection or use of your personal information in the following ways: 
-
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes. If no such box is available on a form, the information you provide will not be used for direct marketing purposes.
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [web@norman.no](mailto:web@norman.no). You may also [unsubscribe to our mailing lists](http://www.norman.com/about_norman/subscribe_to_newsletter/) that you have previously subscribed to.
 
 
+Unless we need the data to retain its personally identifiable characteristics, we anonymize the data we collect and store it in a manner that does not identify you. For instance, when we collect your IP address, we may anonymize your IP address by obfuscating the last group of digits (e.g., changing 192.168.1.1 to 192.168.1.XXX).
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. Exempt from this are our subsidiaries, authorized employees, agents and contractors (who have agreed to keep information secure and confidential), in such a way that they are able to conduct business on behalf of us.
+## What do you collect that cannot identify me?
 
-All emails and newsletters from this site allow you to opt out of further mailings.
+We collect many types of data, called non-personal data that does not personally identify you. While we cannot list out each and every type of non-personal data that we collect, we’ve tried below to give you a general understanding of what types of non-personal data we collect and examples to help you see what we mean.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+We collect non-personal data to improve our products and services, including:
+
+  * data concerning potential malware threats to your device and the target of those threats, including copies of files or emails marked as potential malware, file names, cryptographic hash, vendor, size, date stamps, associated registry keys, etc.;
+  * information about how you use our products and their features, including information about your particular device, installation and uninstallation rates, language, technical parameters and manufacturer of a device, device security information (password attributes, encryption level), etc.; and
+  * information about where our products and services are used, including approximate location, zip code, area code, time zone, and the URL you came from to reach our products.
+
+
+
+We collect non-personal data to make money from our free offerings so we can keep them free, including:
+
+  * Advertising ID associated with your device;
+  * Browsing and search history, including meta data;
+  * Internet service provider or mobile network you use to connect to our products; and
+  * Information regarding other applications you may have on your device and how they are used.
+
+
+
+Sometimes browsing history or search history contains terms that might identify you. If we become aware that part of your browsing history might identify you, we will treat that portion of your history as personal data, and will anonymize this information. We may also aggregate and/or anonymize personal data we collect about you. For instance, although we would consider your precise location to be personal data if stored separately, if we combined the locations of our users into a data set that could only tell us how many users were located in a particular country, we would not consider this aggregated information to be personally identifiable.
+
+## Do you share my data?
+
+Yes, though when and how we share it depends on whether it is personal data or non-personal data. AVG may share non-personal data with third parties and may publicly display aggregate or anonymous information.
+
+We do not sell or rent your personal data to third parties.
+
+We may share certain personal and non-personal data with:
+
+  * Any of our affiliated companies;
+
+
+
+AVG is part of the [Avast Group](https://www.avast.com/).
+
+The Avast Group acts globally, comprising many companies in many offices around the world. In order to do business around the globe, we may share your personal data across our offices and companies which may be in countries with different laws regarding the collection and use of personal data than the country we collected it from.
+
+  * Search providers;
+
+
+
+Certain of our search providers may require us to share your full IP address with them in order to fulfill your search requests. Please note that the search providers have their own privacy policies that govern the privacy of these requests. We encourage you to read these privacy policies before deciding to use these services.
+
+  * Selected AVG resellers, distributors and other partners performing services on our behalf.
+
+
+
+We may share some of your personal data, such as your email address, with certain selected resellers, distributors and other partners to enable them to contact you on our behalf about products, services or offers we believe are important to you or your business, to fulfill any terms under your licensing and service relationship with AVG, or to provide you local technical and customer support.
+
+Lastly, we may share your personal data:
+
+  * when necessary to deliver the product or service you require such as with a payment card provider who we use to process your credit card transaction;
+  * when authorized by law or necessary to comply with a valid legal process;
+  * when required to protect and defend the rights or property of AVG, including the security of our products and services;
+  * when necessary to protect the personal safety, property or other rights of the public, AVG or its customers or employees; or
+  * in connection with a sale of all or part of our business.
+
+
+
+If we are legally compelled to disclose your personal data to a third party, we will use commercially reasonable efforts to notify you in advance of a disclosure unless legally prohibited. If we are involved in a merger, acquisition or asset sale, we will abide by this Privacy Policy, and any affected users will be informed if we transfer any personal data to a third party or if personal data becomes subject to a different privacy policy as a result.
+
+## What rights do I have over my data?
+
+You have the right to ask us about the personal data we process about you, the purpose and nature of the processing, and to provide information on who we share it with.
+
+You have the right to request that we update, correct, or delete (assuming that this does not impact the services we are providing to you) your personal data at any time. Please note that we may reject requests which risk the privacy of others or are unreasonable or repetitive, or would require disproportionate effort. Unless you request us to delete your data, please note that we may keep your personal data for one year after you stop being a customer (but we typically keep your personal data no longer than is reasonably necessary given the purposes for which the data was collected).
+
+You have the right to opt out of the use or collection of certain data by us or by third parties, including personal data and non-personal data, by following the instructions [here](https://web.archive.org/en-ww/privacy-preferences.html).
+
+You have the right to opt-out of receiving our email newsletters, bulletins, or other information at any time by following the instructions [here](https://web.archive.org/en-ww/privacy-preferences.html) or the relevant unsubscribe process outlined in the applicable email or newsletter. Please be aware that our emails may include important or useful information about your AVG Products, including information about your license number or the status of your orders or accounts.
+
+You have the right to expect us to protect your personal data and keep it safe. We work hard to protect AVG and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of the information we hold. In particular:
+
+  * We abide by this Privacy Policy at all times with respect to all data that we collect from you;
+  * We limit the use and disclosure of your personal data, and work to ensure that anyone with whom we share such information treats that information with the privacy and security it deserves; and
+  * We have put in place industry-accepted physical, technical and administrative practices to safeguard and secure the information we collect.
+
+
+
+## What changes have you recently made?
+
+We reserve the right to change this Privacy Policy at any time, and will indicate the date the Privacy Policy was most recently updated. If there have been significant changes, we will highlight any such changes, and will attempt to directly alert you when possible. We will also keep prior versions of this Privacy Policy in an archive for your review.
+
+Changes to our privacy policy since the latest version include:
+
+  * We’ve changed our privacy policy to reflect that we have been acquired by and are now part of the Avast Group. 
+
+
+
+Follow [this link](https://web.archive.org/en-ww/privacy-archive) to access previous versions of the AVG Privacy Policy.
+
+## How can I contact you?
+
+If have any questions about this policy or any of the above, please email us at [privacy@avg.com](mailto:privacy@avg.com) or see instructions in the product or service you are using. You may contact us by mail at:
+
+Avast Software B.V.  
+Gatwickstraat 9-39,   
+1043 GL Amsterdam  
+The Netherlands
+
+## Is there anything else I need to know?
+
+Periodically, our site or products may contain links to and from websites or other external destinations managed by third parties. If you follow a link to any of these destinations (like offers on mobile app stores etc.), please note that those sites have their own privacy policy. When you are on those sites you are subject to those policies, and should therefore read and understand them before you submit any personal data to those sites. 
+
+We may also link to co-branded websites or products that are maintained by Avast Software B.V. and one or more of our business partners. Please note that these co-branded websites and products may have their own privacy policy, which we encourage you to read and understand.  
+
+Skip to content Skip to menu
