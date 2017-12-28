@@ -1,62 +1,55 @@
-> *The following text is extracted and transformed from the going.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619175227id_/http%3A//privacy.aol.co.uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the going.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228044751id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
 
-# AOL UK Privacy
+# AOL Privacy
 
-The AOL company name has changed to Oath. The way we handle your information hasn't changed, so the Oath Privacy Policy will continue to govern when you are on previously branded AOL products, services, or technologies, including AOL ail, AOL.co.uk, HuffPost UK, Engadget, TechCrunch, Moviefone, and Makers.
+Oath, part of the Verizon family of companies, consists of over 50 digital and mobile [brands](http://oath.com/our-brands/) globally, including HuffPost, Yahoo News, Yahoo Sports, Tumblr, and AOL, as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini.
 
-This notice provides highlights of the [full privacy policy](http://privacy.aol.co.uk/privacy-policy/) and covers the collection and use of information when you use the Oath or HuffPost UK brand websites, services, and software (collectively the "Oath Services") and other content and offerings from Oath (UK) Limited, its subsidiaries and [Affiliates](http://privacy.aol.co.uk/definitions/) (together "AOL") ("AOL", "We" and "Us"), as well as any websites owned by or affiliated with Oath and operating under different names.
+Below are highlights of the full [Oath Privacy Policy](http://privacy.aol.com/privacy-policy/), which applies to the collection and use of information from any device used to access or connect to Oath branded or affiliated websites, services, or software that link to this Privacy Policy. Para leer este documento en español haz clic [aquí](http://privacy.aol.com/privacidad/).
 
-### Personal Information
+Similarly, the [Yahoo Privacy Policy](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm) will apply on Yahoo branded sites and affiliated products, services, and technologies that link to the Yahoo Privacy Policy. If there is a conflict between the Oath Privacy Policy and the Verizon or Yahoo privacy policies, the Oath Privacy Policy will apply when you are on an Oath product, service, or brand site that links to this policy and the Yahoo Privacy Policy will apply on Yahoo branded product, service, technology, or sites that link to the Yahoo policy. Additional privacy information is available in the [Verizon Privacy Policy](http://www.verizon.com/about/privacy/).
 
-We or data processors acting under our control may collect information which may identify you or your Oath account ("Personal Information") when you make your information known, such as by registering or logging into AOL Mail or the HuffPost UK, authenticating, making purchases, or interacting with other Oath Services.
+### What's New
 
-If you do not make yourself known to us, your use of our content and services is generally anonymous.
-
-### How we use your Information
-
-Your Personal Information is used to operate and improve our services, fulfill your requests and communicate with you, conduct research, and personalise the content and advertisements provided to you.
-
-### Information Sharing
-
-Oath (or data processors acting on our behalf) do not share, sell or rent your personal information to third parties. Your information is only shared with third parties with your permission, or in response to legal process.
-
-### Internet Advertising
-
-Our ability to provide the Oath Services depends on advertising, including advertising provided by Oath affiliates such as ONE by AOL advertising services. Some of the adverts on our services are displayed based on the page visited and some are targeted to you based on your interests and other information we have about you. We want you to understand how internet advertising works and offer resources and choices. [Learn more](http://privacy.aol.co.uk/advertising-and-privacy/).
-
-### Cookies
-
-Our services rely on the use of cookies. A cookie is a piece of data that a website stores on your device so it can recognize it at a later time.
-
-Please see our [Cookie Policy](http://privacy.aol.co.uk/cookie-information/) for more information.
-
-### NEWSLETTERS
-
-Our newsletters may contain tracking gifs and adverts. If you have subscribed to any Oath or HuffPost UK newsletters you will have consented to this.
-
-### Your Choices
-
-  * You can [opt-out](http://www.youronlinechoices.com/uk/) of the use of your data for interest-based advertising delivered by the ONE by AOL advertising services. You will still receive advertising that is not interest-based.
-  * We give you choices about how we use your personal information. If you have registered with AOL you can set your [Marketing Preferences](http://help.aol.co.uk/help_uk/microsites/microsite.do?cmd=displayKC&docType=kc&externalId=uk_110094634&sliceId=1&docTypeID=DT_AOLPRODUCTHELP_1_1&dialogID=690912081&stateId=0%200%20690908547) to control how we communicate offers to you.
-  * You can manage cookies using [browser controls](http://privacy.aol.co.uk/browser-controls).
-  * Individual products or services may offer additional controls or preferences.
+  * The [Oath Privacy Policy](http://privacy.aol.com/privacy-policy) was updated effective June 13, 2017.
+  * The AOL company name has changed to Oath. The way we handle your information hasn't changed, so the Oath Privacy Policy will continue to govern when you are on previously branded AOL products, services, or technologies, including AOL Mail, AOL.com, HuffPost, Engadget, TechCrunch, Moviefone, and Makers.
 
 
 
 ### How to Opt-Out
 
-You can [opt-out](http://www.youronlinechoices.com/uk/) of interest-based advertising delivered by the ONE by AOL advertising services. You will still receive advertising that is not interest-based.
+You can opt-out of interest-based advertising delivered by the ONE by AOL advertising services. See [Your Choices](http://privacy.aol.com/advertising-and-privacy/).
 
-You can find out more about how we use cookies and opt out by [visiting our Cookie Policy.](http://privacy.aol.co.uk/cookie-information)
+### Information We Collect and Receive
+
+We collect and receive information about you and your device when you give it to us directly, when you use our services across your devices, and from certain third-party sources.
+
+### Internet Advertising
+
+Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. [Learn more](http://privacy.aol.com/advertising-and-privacy/) about how internet advertising works and your choices.
+
+### Your Choices
+
+  * You can opt out of receiving interest-based ads from us when you browse the web by visiting the [Digital Advertising Alliance's consumer choice page](http://www.aboutads.info/choices/) and selecting "AOL Advertising," "BrightRoll," and "Yahoo Inc." If you are a Yahoo registered user, you also must opt out of ads on [Yahoo](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting).
+  * You may control how certain information from your mobile device, including your location, may be collected and used through your device and mobile application permissions.
+  * AOL services offer [Marketing Preferences](http://marketingpreferences.aol.com/) to control how we communicate offers to AOL registered users.
+  * You can control the collection and use of AOL [Search information](http://search.aol.com/aol/settings).
+  * AOL registered users can manage their accounts at [My Account](http://myaccount.aol.com/).
+  * You can manage some technologies using [browser controls](http://www.aboutads.info/consumers#cookies).
+  * Individual products or services may offer additional controls or preferences.
+
+
+
+### Information Sharing
+
+Oath may share your information in limited circumstances, including when we have your consent to do so or when sharing is necessary to protect Oath or comply with the law. Our agents and contractors may have access to your information, but only to perform services for Oath. We do not sell or rent your personal information to third parties. We may, however, share [non-personally identifiable information](http://privacy.aol.com/definitions) with select business partners.
+
+### How we use your Information
+
+The information we collect and receive is used to provide our Services, to improve our Services, and to offer effective advertising, which helps us keep most of our Services free.
 
 ### How to Contact Us
 
-If you have any questions or concerns, you may contact us at:
-
-**Data Protection Officer**  
-Oath (UK) Limited  
-11-20 Capper Street  
-London  
-WC1E 6JA 
-
-or **via email to:[datainfouk@aol.com](mailto:datainfouk@aol.com)**
+**Oath Privacy**  
+22000 AOL Way  
+Dulles, VA 20166  
+privacyquestions@aol.com
