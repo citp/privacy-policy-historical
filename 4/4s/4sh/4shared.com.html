@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the 4shared.com privacy policy that was archived on 2017-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624155359id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4shared.com privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228013020id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>4shared.com - free file sharing and storage - Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="Description" content="Online file sharing and storage - 15 GB free web space. Easy registration. File upload progressor. Multiple file transfer. Fast download.">
 <meta name="Keywords" content="file sharing, free web space, online storage, share files, photo image music mp3 video sharing, dedicated hosting, enterprise sharing, file transfer, file hosting">
-  <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/common_n.4min.css?ver=-742685716">
+  <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/common_n.4min.css?ver=1796708127">
 <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/ui/elements.4min.css?ver=1706958101">
 <link rel="stylesheet" type="text/css" href="https://static.4shared.com/auth-popup.4min.css?ver=-1494430887">
 <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/themes/account/icons.4min.css?ver=-1881612694">
@@ -36,14 +36,15 @@
   }
 
   Config.isVideo4SyncDomain = location.href.indexOf('video.4sync.com') > -1;
+  Config.video4SyncDomain = 'video.4sync.com';
   Config.mainSiteDomain = '4shared.com';
   Config.mainSiteUrlPath = 'https://www.4shared.com/';
   Config.mainSiteUrlHttpsPath  = 'https://www.4shared.com/';
   Config.isRTLLanguage = false;
   Config.currentLanguage = 'en';
-  Config.revisionNum = 58514;
+  Config.revisionNum = 59757;
   Config.syncDomain = 'https://www.4sync.com/';
-  Config.cdDomain = 'https://dc717.4shared.com/';
+  Config.cdDomain = 'https://dc626.4shared.com/';
   Config.mailPatterrn = new RegExp("^[_A-Za-z0-9-]+(?:\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(?:\\.[A-Za-z0-9-]+)+$");
   Config.isMobile = false;
   Config.isIpad = false;
@@ -51,6 +52,7 @@
   Config.isUserLoggedIn = false;
   Config.epomHost = 'adserver-e7.com';
   Config.isMobileVersion = false;
+  Config.isMobileView = Config.isMobileVersion; //'xs' & 'sm'- mobile size
   Config.detectAd = {
     allowedUri: '/empty.js',
     blockedUri: '/show_ad_.gif',
@@ -58,9 +60,13 @@
     host : ''
   };
   Config.searchDomain = 'search.4shared.com';
-  Config.searchDomainOrWWW = 'https://www.4shared.com';
+  Config.mainSiteSecure = 'https://www.4shared.com';
   Config.suggestionsDomain = 'suggestions.4shared.com';
-  Config.facebookVersion = 'v2.8';
+  Config.facebookVersion = 'v2.9';
+
+  Config.userVerifiedOrNull = true;
+  Config.userJustLogged = false;
+  Config.captchaSiteKey = '6LcAUAUTAAAAAObjLm32e3JFqsFFLC2mPXSn7zJY';
 
   if (!Config.isVideo4SyncDomain) {
     document.domain = '4shared.com';
@@ -73,8 +79,6 @@
       return "." + splited.join(".");
     })();
   }
-
-  Config.userJustLogged = false;
 
   $(function() {
     //lets detect if user just logged
@@ -110,16 +114,15 @@
     }
   }
 </script><script type="text/javascript" src="https://static.4shared.com/js/plugins/favicon.4min.js?ver=-1359120125"></script>
-<script type="text/javascript" src="https://static.4shared.com/js/header.4min.js?ver=-1316457689"></script>
+<script type="text/javascript" src="https://static.4shared.com/js/header.4min.js?ver=-616285625"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/purchaseStats.4min.js?ver=-1839898360"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/login_fnc.4min.js?ver=1858177710"></script>
-<script type="text/javascript" src="https://static.4shared.com/js/utils.4min.js?ver=-615226918"></script>
-<script type="text/javascript" src="https://static.4shared.com/js/authScripts.4min.js?ver=1179674931"></script>
+<script type="text/javascript" src="https://static.4shared.com/js/utils.4min.js?ver=1693611699"></script>
+<script type="text/javascript" src="https://static.4shared.com/js/authScripts.4min.js?ver=1629431725"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/tips.4min.js?ver=1053751440"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/cookie.4min.js?ver=355701517"></script>
-<script type="text/javascript" src="https://static.4shared.com/js/plugins/swfobject.4min.js?ver=1822999650"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/plugins/jquery.jsonWithError.4min.js?ver=-1923802015"></script>
-<script type="text/javascript" src="https://static.4shared.com/js/smallPlugins.4min.js?ver=-18564371"></script>
+<script type="text/javascript" src="https://static.4shared.com/js/smallPlugins.4min.js?ver=-1979546870"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/Events.4min.js?ver=1840410357"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/plugins/jquery.placeholder.patch.4min.js?ver=1679520602"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/plugins/jquery.cookie.4min.js?ver=1439298453"></script>
@@ -149,19 +152,31 @@
     OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600,left=50,top=50');
     OpenWindow.focus();
   }
-  function reportAbuse(alink) {
-    var windowname="abuse";
-    var link =  (alink !== undefined) ? "&aLink=" + alink : + " ";
-    var url="/web/abuse?abuseType=1" + link;
-    OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=650,left=50,top=50');
-    OpenWindow.focus();
-  }
   function reportCopyright() {
     var windowname="reportCopyright";
     var url="/web/abuse?&abuseType=2&link=" + " ";
     OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=750,left=50,top=50');
     OpenWindow.focus();
   }
+
+  $(function () {
+    reportAbuseAttachEvent();
+  });
+
+  function reportAbuseAttachEvent() {
+    $('.jsReportAbuse').click(function () {
+      reportAbuse(document.location.href);
+    });
+
+    function reportAbuse(alink) {
+      var windowname="abuse";
+      var link =  (alink !== undefined) ? "&aLink=" + alink : + " ";
+      var url="/web/abuse?abuseType=1" + link;
+      OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=650,left=50,top=50');
+      OpenWindow.focus();
+    }
+  }
+
 </script><script type="text/javascript" src="https://static.4shared.com/js/ld.4min.js?ver=1429384421"></script>
 <link rel="alternate" hreflang="de" href="https://www.4shared.com/privacy.jsp?locale=de">
 <link rel="alternate" hreflang="ru" href="https://www.4shared.com/privacy.jsp?locale=ru">
@@ -191,8 +206,9 @@
 <div id="fstickcontainer">
   <div id="fstickcontent"><link rel="stylesheet" type="text/css" href="https://static.4shared.com/js/plugins/bootstrap/css/bootstrap.min.css?ver=-1235434608">
 <script type="text/javascript" src="https://static.4shared.com/js/plugins/bootstrap/js/bootstrap.min.js?ver=1454307403"></script>
-<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/headerAndFooterResponsive.4min.css?ver=156827561">
-<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/ui/media-queries.4min.css?ver=1306197881">
+<script type="text/javascript" src="https://static.4shared.com/js/plugins/jquery.validate.min.js?ver=-1447866770"></script>
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/headerAndFooterResponsive.4min.css?ver=199530132">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/ui/media-queries.4min.css?ver=-1863088676">
 <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/common.4min.css?ver=-1058970830">
 <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/tipTip.4min.css?ver=-207359769">
 <link rel="alternate" hreflang="de" href="https://www.4shared.com/privacy.jsp?locale=de">
@@ -220,7 +236,7 @@
   <link rel="image_src" href="https://www.4shared.com/images/social/general.png">
 <meta property="og:title" content="4shared - free file sharing and storage">
 <meta property="og:description" content="4shared is a perfect place to store your pictures, documents, videos and files, so you can share them with friends, family, and the world. Claim your free 15GB now!">
-<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/common_n.4min.css?ver=-742685716">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/common_n.4min.css?ver=1796708127">
 <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/ui/elements.4min.css?ver=1706958101">
 <link rel="stylesheet" type="text/css" href="https://static.4shared.com/auth-popup.4min.css?ver=-1494430887">
 <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/themes/account/icons.4min.css?ver=-1881612694">
@@ -244,19 +260,31 @@
     OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600,left=50,top=50');
     OpenWindow.focus();
   }
-  function reportAbuse(alink) {
-    var windowname="abuse";
-    var link =  (alink !== undefined) ? "&aLink=" + alink : + " ";
-    var url="/web/abuse?abuseType=1" + link;
-    OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=650,left=50,top=50');
-    OpenWindow.focus();
-  }
   function reportCopyright() {
     var windowname="reportCopyright";
     var url="/web/abuse?&abuseType=2&link=" + " ";
     OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=750,left=50,top=50');
     OpenWindow.focus();
   }
+
+  $(function () {
+    reportAbuseAttachEvent();
+  });
+
+  function reportAbuseAttachEvent() {
+    $('.jsReportAbuse').click(function () {
+      reportAbuse(document.location.href);
+    });
+
+    function reportAbuse(alink) {
+      var windowname="abuse";
+      var link =  (alink !== undefined) ? "&aLink=" + alink : + " ";
+      var url="/web/abuse?abuseType=1" + link;
+      OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=650,left=50,top=50');
+      OpenWindow.focus();
+    }
+  }
+
 </script><script type="text/javascript" src="https://static.4shared.com/js/reloadBackground.4min.js?ver=1302265784"></script>
 <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/popup_n.4min.css?ver=414772815">
 <script type="text/javascript" src="https://static.4shared.com/js/PopupModule.4min.js?ver=-546041071"></script>
@@ -269,7 +297,7 @@
   <div class="grayPopupButton marginT15 round4 marginL10 ffshadow floatRight gaClick jsClose">Cancel</div>
   <div class="bluePopupButton marginT15 confirmPopupBlueButton round4 floatRight gaClick jsConfirmOk">Ok</div>
   <div class="clear"></div>
-</div><link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/notifyBlock.4min.css?ver=-978123093">
+</div><link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/notifyBlock.4min.css?ver=778377982">
 <script type="text/javascript" src="https://static.4shared.com/js/notifyBlock.4min.js?ver=-800405101"></script>
 <div id="notify-wrapper" class="notify-wrapper lucida" style="display: none">
   <span class="notify">
@@ -299,7 +327,7 @@
     usrName: "Login = null",
     accountType: "AccType = null",
     winSize: "Window.W = " + screen.availWidth + "\nWindow.H = " + screen.availHeight,
-    title: "Title = dc571, rev=58514"
+    title: "Title = dc571, rev=59757"
   };
 
   var userInfo = debugInfo.loc + "<br>" + debugInfo.usrAgent + "<br>" + debugInfo.usrName + "<br>" + debugInfo.accountType + "<br>" + debugInfo.winSize + "<br>" + debugInfo.title;
@@ -456,8 +484,8 @@
 </script><div class="hidden-md hidden-lg">
     <div id="epom-1d8a7f9c0ccb3eab2b4d451725ef16cc"></div>
 
-<script type="text/javascript" src="/web/escript/416199.js?ver=58514"></script>
-<script type="text/javascript" src="https://static.4shared.com/js/ads/relativeAdsScript.4min.js?ver=61499480"></script>
+<script type="text/javascript" src="/web/escript/420673.js?ver=59757"></script>
+<script type="text/javascript" src="https://static.4shared.com/js/ads/relativeAdsScript.4min.js?ver=-1343289695"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/blockDetect/blockDetect2.4min.js?ver=870673091"></script>
 <script type="text/javascript">
   prepareOrShowAds('epom-1d8a7f9c0ccb3eab2b4d451725ef16cc', '{"adsHost":"","placementInfo":"","moreParams":"xs-sm","format":"ads-async.js","width":"","key":"1d8a7f9c0ccb3eab2b4d451725ef16cc","height":""}', 'xs-sm');
@@ -472,74 +500,145 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-body">
-        <form class="loginform jsLoginForm" action="https://www.4shared.com/web/login" method="post" autocomplete="on" name="loginForm">
-          <input type="hidden" name="returnTo" class="jsReturnTo" value="https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp">
-          <div class="jsPromoCouponCode">
-            <input name="skipChoosePlanPage" type="hidden" value="true" disabled="disabled">
-            <input name="forceVerify" type="hidden" value="true" disabled="disabled">
-            <input name="couponcode" type="hidden" value="" disabled="disabled">
-          </div>
-          <h1 class="text-center">Log In</h1>
-          <div class="social-buttons-holder">
-            <div class="middleLineBG"><span>via</span></div>
-            <div class="clearfix">
-              <a href="https://www.4shared.com/servlet/signin/twitter?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconTw pull-left jsTwBtn" data-ga="login.1"><span class="hidden-xs">Twitter</span></a>
-              <a href="https://www.4shared.com/servlet/signin/facebook?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconFb pull-left jsFbBtn" data-ga="login.2"><span class="hidden-xs">Facebook</span></a>
-              <a href="https://www.4shared.com/servlet/signin/google?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconGp pull-left jsGpBtn" data-ga="login.3"><span class="hidden-xs">Google</span></a>
-              </div>
-          </div>
+        <div class="popup-logo logo-block"></div>
+        <div class="signin-form text-center">
+          <form class="loginform jsLoginForm" action="https://www.4shared.com/web/login" method="post" autocomplete="on" name="loginForm">
+            <input type="hidden" name="returnTo" class="jsReturnTo" value="https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp">
+            <div class="jsPromoCouponCode">
+              <input name="skipChoosePlanPage" type="hidden" value="true" disabled="disabled">
+              <input name="forceVerify" type="hidden" value="true" disabled="disabled">
+              <input name="couponcode" type="hidden" value="" disabled="disabled">
+            </div>
+            <h1>Sign in to your account</h1>
+            <h3><span style="display: none">File_name_here.mp3</span></h3>  <div class="social-buttons-holder">
+              <div class="clearFix">
+                <a href="https://www.4shared.com/servlet/signin/twitter?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconTw pull-left jsTwBtn" data-ga="login.1"><span class="hidden-xs">Twitter</span></a>
+                <a href="https://www.4shared.com/servlet/signin/facebook?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconFb pull-left jsFbBtn" data-ga="login.2"><span class="hidden-xs">Facebook</span></a>
+                <a href="https://www.4shared.com/servlet/signin/google?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconGp pull-left jsGpBtn" data-ga="login.3"><span class="hidden-xs">Google</span></a>
+                </div>
+            </div>
 
-          <div class="middleLineBG"><span>or</span></div>
-          <input type="text" name="login" class="big-input jsInputLogin" id="login" placeholder="E-mail" data-ga="login.4">
-          <input type="password" name="password" class="big-input jsInputPassword" id="password" placeholder="Password" data-ga="login.5">
-          <div class="alert jsErrorPlace text-center" id="iloginRejectReason" style="display:none;"></div>
-          <button type="submit" class="big-button b-w jsLogIn" data-ga="login.6">Log In</button>
+            <div class="middleLineBG"><span>or</span></div>
+            <input type="text" name="login" class="big-input jsInputLogin" id="login" placeholder="E-mail" data-ga="login.4">
+            <input type="password" name="password" class="big-input jsInputPassword" id="password" placeholder="Password" data-ga="login.5">
+            <div class="alert jsErrorPlace text-center" id="iloginRejectReason" style="display:none;"></div>
+            <button type="submit" class="big-button b-w jsLogIn" data-ga="login.6">Sign In</button>
 
-          <div class="text-center popup-text"><a href="https://www.4shared.com/remindPassword.jsp" target="_blank" data-ga="login.7">Forgot your password?</a></div>
-        </form>
-        <form class="signUpForm jsSignUpForm" action="https://www.4shared.com/web/acc/signup" method="post" autocomplete="on" name="signUpForm">
-          <input type="hidden" name="fpRedirParam" class="jsReturnTo" value="https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp">
-          <div class="text-center popup-text">Don't have an account?&nbsp;<button type="submit" data-ga="login.8">Sign Up</button></div>
-        </form>
-      </div>
+            <div class="text-center popup-text"><a href="https://www.4shared.com/remindPassword.jsp" target="_blank" data-ga="login.7">Forgot your password?</a></div>
+          </form>
+        </div>
+        <div class="text-center popup-text">Don't have an account?&nbsp;<span data-ga="login.8" class="button-clear jsVideoSyncSignupButton jsToggleLoginSignupPopup" data-toggle="modal" data-target="#signupPopup">Sign Up</span></div>
+        </div>
     </div>
   </div>
 </div>
 
 <div class="modal fade" id="signupPopup" tabindex="-1" role="dialog" aria-labelledby="signupPopupLabel">
+  <input type="hidden" class="jsReturnToOriginal" value="https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp">
   <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
 
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-body">
-        <form class="loginform jsLoginForm" action="https://www.4shared.com/web/login&quot;" method="post" autocomplete="on" name="loginForm">
-          <input type="hidden" name="returnTo" value="https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp">
-          <h1 class="text-center">Sign Up</h1>
-          <div class="social-buttons-holder">
-            <div class="middleLineBG"><span>via</span></div>
-            <div class="clearfix">
-              <a href="https://www.4shared.com/servlet/signin/twitter?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconTw button-block jsTWbutton" data-ga="signup.1">Twitter</a>
-              <a href="https://www.4shared.com/servlet/signin/facebook?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconFb button-block jsFBbutton" data-ga="signup.2">Facebook</a>
-              <a href="https://www.4shared.com/servlet/signin/google?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconGp button-block jsGPbutton" data-ga="signup.3">Google</a>
-              </div>
+        <div class="popup-logo logo-block"></div>
+
+        <div data-content="true" class="signup-form text-center jsContentSocialSignupForm" style="display: none;">
+          <form class="loginform jsLoginForm" action="https://www.4shared.com/web/login&quot;" method="post" autocomplete="on" name="loginForm">
+            <input type="hidden" name="returnTo" value="https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp">
+            <h1>Sign up for free</h1>
+            <h3>Get 15 GB free space and ability to download files</h3>
+            <div class="social-buttons-holder">
+              <div class="clearFix">
+                <a href="https://www.4shared.com/servlet/signin/twitter?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconTw button-block jsTWbutton jsTwBtn" data-ga="signup.1">Twitter</a>
+                <a href="https://www.4shared.com/servlet/signin/facebook?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconFb button-block jsFBbutton jsFbBtn" data-ga="signup.2">Facebook</a>
+                <a href="https://www.4shared.com/servlet/signin/google?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconGp button-block jsGPbutton jsGpBtn" data-ga="signup.3">Google</a>
+                </div>
+            </div>
+
+            <div class="middleLineBG"><span>or</span></div>
+            <div class="social-button button-block iconMail jsToggleRregularSignupForm" data-ga="signup.4">Email Address</div>
+            <div class="popup-text paddingT15">Already have an account?&nbsp;<span class="jsToggleLoginSignupPopup" data-toggle="modal" data-target="#loginPopup" data-ga="signup.5">Sign In</span></div>
+          </form>
+        </div>
+
+        <div data-content="true" class="signup-form text-center jsContentRegularSignupForm" style="display: none;">
+          <h1>Sign up for free</h1>
+          <h3>Get 15 GB free space and ability to download files</h3>
+          <form name="regularSignupForm" class="jsRegularSignupForm" novalidate="">
+            <input type="hidden" name="returnTo" class="jsReturnTo" value="https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp">
+            <input type="text" required="required" name="firstName" maxlength="200" class="big-input jsInputUsername jsCleanInput" placeholder="Your full name" data-ga="signup.11">
+            <input type="email" required="required" name="email" maxlength="200" class="big-input jsInputLogin jsCleanInput" placeholder="E-mail" data-ga="signup.12">
+            <input type="password" required="required" name="password" class="big-input jsInputPassword jsCleanInput" placeholder="Password" data-ga="signup.13">
+            <div class="coupon-block">
+              <span class="jsShowCouponBlock" data-ga="signup.17">Have a promo code or discount?</span>
+              <input type="text" maxlength="200" name="coupon" class="big-input jsInputCoupon jsCleanInput" placeholder="Promo code or discount" data-ga="signup.18">
+            </div>
+
+            <div class="alert jsErrorPlace text-center" style="display:none;"></div>
+            <button type="button" class="big-button b-w jsRegisterAccountButton " data-ga="signup.14">Sign Up</button>
+          </form>
+
+          <div class="popup-text terms-link">
+            By signing up you accept our <a href="/terms.jsp" target="_blank" data-ga="signup.15">Terms of Use</a></div>
+          <div class="popup-text paddingT15">Already have an account?&nbsp;<span class="jsToggleLoginSignupPopup" data-toggle="modal" data-target="#loginPopup" data-ga="signup.16">Sign In</span>
           </div>
 
-          <div class="middleLineBG"><span>or</span></div>
-          <a href="https://www.4shared.com/web/acc/signup" class="social-button button-block iconMail" data-ga="signup.4">Email Address</a>
-          <div class="text-center popup-text paddingT15">Already have an account?&nbsp;<span class="jsToggleLoginSignupPopup" data-toggle="modal" data-target="#loginPopup" data-ga="signup.5">Log In</span>
+          <div style="display: none">
+            <div class="jsFirstNameRequired">Your full name is required</div>
+            <div class="jsEmailNotValid">Your email is not a valid</div>
+            <div class="jsEmailRequired">Your email is required</div>
+            <div class="jsPasswordRequired">Your password is required</div>
           </div>
-        </form>
-      </div>
+        </div>
+
+        <div data-content="true" class="verify-form text-center jsContentVerifyEmailForm" style="display: none;">
+          <h1>Verify your email address</h1>
+          <h3 class="jsConfirmationResentMsq">to access all 4shared features. Confirmation letter was sent to <i>$[p1]</i></h3>
+
+          <div class="social-button button-block iconMail jsResendConfirmationLetter" data-ga="signup.6">Resend confirmation letter</div>
+          <div class="big-button n-a jsConfirmationResent" style="display: none;">Confirmation resent</div>
+          <div class="popup-text paddingT15">
+            Not sure about current e-mail address?&nbsp;
+            <span data-ga="signup.7" class="jsUpdateEmailForm"><a href="https://www.4shared.com/web/account/settings">Update e-mail</a></span>
+          </div>
+        </div>
+
+        <div data-content="true" class="update-email-form text-center jsContentUpdateEmail" style="display: none;">
+          <h1>Update email address</h1>
+          <h3>Your current e-mail address <i>$[p1]</i></h3>
+
+          <input type="text" name="newEmail" class="big-input jsNewEmail" value="" placeholder="Your e-mail" data-ga="signup.8">
+          <div class="social-button button-block big-button b-w jsChangeEmail" data-ga="signup.9">Update e-mail</div>
+          <span class="button-cancel" data-ga="signup.10">Cancel</span>
+        </div>
+
+        <script type="text/javascript" src="//www.google.com/recaptcha/api.js?render=explicit" async="async" defer="defer"></script>
+<script type="text/javascript" src="https://static.4shared.com/js/captcha.4min.js?ver=-83246814"></script>
+<div data-content="true" class="text-center jsContentCaptchaBlock captchaContainer" style="display: none;">
+          <div class="clearFix">
+            <h1 class="jsCaptchaMsg1"></h1>
+            <h3 class="jsCaptchaMsg2"></h3>
+            <div class="captchaImage">Prove you are not a robot</div>
+            <div id="reCaptchaBlock"></div>
+          </div>
+          <div class="jsCaptchaMessages">
+            <input type="hidden" class="jsMsgToDownload" value="Sign up to download">
+            <input type="hidden" class="jsMsgForFree" value="Sign up for free">
+            <input type="hidden" class="jsMsgFreeSpace" value="Get 15 GB free space and ability to download files">
+            <input type="hidden" class="jsMsgComment" value="Submit the comment">
+            <input type="hidden" class="jsMsgQuestion" value="Send your question">
+            <input type="hidden" class="jsMsgReportAbuse" value="Report abuse">
+          </div>
+        </div>
+        </div>
     </div>
   </div>
-</div>
-
-<div class="headerBG">
+</div><div class="headerBG">
 <div class="container responsiveHeader ">
 
-  <div class=" row header-row">
+  <div class="holidayNewYear row header-row">
     <a href="https://www.4shared.com/" class="col-xs-6 col-sm-3 col-md-2  logo-block"></a>
-    <script type="text/javascript" src="https://static.4shared.com/js/headerSearch.4min.js?ver=-273966003"></script>
+    <script type="text/javascript" src="https://static.4shared.com/js/headerSearch.4min.js?ver=-621062981"></script>
 <input type="hidden" id="sBreadcrumbsPhrase" value="Searching">
     <form name="searchform" action="" id="search">
       <div class="form-group col-sm-5 col-md-5 col-lg-6 search-holder search">
@@ -564,13 +663,11 @@
     <div class="col-xs-6 col-sm-4 col-md-5 col-lg-4  header-buttons-holder text-right">
       <button class="head-elem small-button w-b visible-xs-inline-block" type="button" data-toggle="modal" data-target="#loginPopup" data-ga="header.3">Sign In</button>
         <button class="head-elem small-button hidden-xs" type="button" data-toggle="modal" data-target="#loginPopup" data-ga="header.2">Log In</button>
-        <button class="head-elem marginL15 small-button w-b hidden-xs jsOpenSignupButton" type="button" data-toggle="modal" data-target="#signupPopup" data-ga="header.1">Sign Up</button>
+        <button class="head-elem marginL15 small-button w-b hidden-xs jsOpenSignupButton jsVideoSyncSignupButton" type="button" data-toggle="modal" data-target="#signupPopup" data-ga="header.1">Sign Up</button>
       </div>
   </div>
 </div>
 </div>
-
-<input type="hidden" class="jsNewSearchEnabled" value="true">
 
 <div class="centered mob_regular">
     <br>
@@ -611,8 +708,12 @@
 
       Additionally, we may share information with service providers who may assist us in responding to your inquiries or requests, or otherwise perform some business or operational function for us. We may also disclose personal information about you if required to do so by law, including without limitation, by search warrant, subpoena or court order; to protect our and third-party rights; and for purposes disclosed at time of collection.<br><br>
       <strong>Anonymous Data Collection:</strong> Airpush, Inc. collects data relating to your use of this and other apps and your device and use of the device, such as Bluetooth beacon data, hashed or encrypted values of your email or phone number, geolocation, and other permission-based user information.  You will see the ↓  icon whenever data is being collected. Collected data will be shared with third parties for advertising, analytics and market
-      research purposes. For further information Airpush, Inc.’s data collection and use practices, please see Airpush, Inc.’s <a target="_blank" href="http://www.airpush.com/technology_privacy/">Technology Privacy Statement</a> and
+      research purposes. For further information Airpush, Inc.'s data collection and use practices, please see Airpush, Inc.'s <a target="_blank" href="http://www.airpush.com/technology_privacy/">Technology Privacy Statement</a> and
       <a target="_blank" href="http://www.airpush.com/privacypolicy/">Privacy Policy</a>. You may opt-out of interest-based ads by clicking <a target="_blank" href="https://optout.mobi.info/">here</a>.<br><br>
+
+      We share location, network diagnostic information, sensor diagnostic information, and other data related to your use of our application with our partner, OpenSignal, Inc., but such information that we share will not include any personally identifiable information about you. OpenSignal will use the information that we share about you to create aggregated anonymous data and OpenSignal is the sole owner of that data.<br><br>
+
+      To learn more about the use of this aggregated anonymous data, we recommend that you review OpenSignal's <a href="https://opensignal.com/privacypolicy" target="_blank">Privacy Policy</a>. To opt-out of our sharing of this information with OpenSignal, please contact us at legal@4shared.com with a request that we not share your information with OpenSignal and we will honour this request.<br><br>
 
       <b class="big">Security</b><br><br>
       We take reasonable measures to help maintain data we collect through our Digital Properties in a secure manner.<br><br>
@@ -631,7 +732,7 @@
     <div class="row rich-footer hidden-xs hidden-sm">
       <div class="col-md-2">
         <span>Site Links</span>
-        <div class="footer-link"><a href="https://www.4shared.com/" data-ga="foot.0">Home</a></div><div class="footer-link"><a href="//search.4shared.com/web/q/top" data-ga="foot.1">Search</a></div><div class="footer-link"><a href="https://www.4shared.com/web/acc/signup" data-ga="foot.2">Sign Up</a></div><div class="footer-link"><a href="https://www.4shared.com/premium.jsp?ref=footer" data-ga="foot.3">Premium</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/" data-ga="foot.0">Home</a></div><div class="footer-link"><a href="//search.4shared.com/web/q/top" data-ga="foot.1">Search</a></div><div class="footer-link"><a href="#" class="jsVideoSyncSignupButton curPointer" data-toggle="modal" data-target="#signupPopup" data-ga="foot.2">Sign Up</a></div><div class="footer-link"><a href="https://www.4shared.com/premium.jsp?ref=footer" data-ga="foot.3">Premium</a></div>
         <div class="footer-link"><a href="https://www.4shared.com/links.jsp" data-ga="foot.4">Link to Us</a></div>
       </div>
       <div class="col-md-2">
@@ -761,7 +862,7 @@
 <script type="text/javascript">
   document.write("<img src='//www.jscount.com/a/4/28b1a41b/z?ref=" +
       escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none'>")
-</script><img src="//www.jscount.com/a/4/28b1a41b/z?ref=&amp;url=https%3A//web.archive.org/web/20170624155359id_/https%253A//www.4shared.com/privacy.jsp&amp;rand=0.870627278512099" width="1" height="1" alt="" style="display:none">
+</script><img src="//www.jscount.com/a/4/28b1a41b/z?ref=&amp;url=https%3A//web.archive.org/web/20171228013020id_/https%253A//www.4shared.com/privacy.jsp&amp;rand=0.5539002161626525" width="1" height="1" alt="" style="display:none">
 
 <script type="text/javascript">
   Events.addListener("countEvent", function (data) {
@@ -797,22 +898,6 @@
   }
 </script>
 
-<!-- applyDataCollect -->
-<iframe src="https://www.4shared.com/dataCollect.jsp?&amp;page=other" sandbox="allow-scripts" style="display:none" class="dataCollect"></iframe>
-<script type="text/javascript">
-  Events.addListener("search.results.reload", function (data) {
-    var category = data["category"];
-    if (category == undefined) {
-      category = 0;
-    }
-    var nameCategories = ["ALL", "AUDIO", "VIDEO", "IMAGE", "ARCHIVE", "BOOKS", "WEB", "MOBILE", "APPS"];
-    var dataCollect = $('.dataCollect');
-    var src = "https://www.4shared.com/dataCollect.jsp?category=" + nameCategories[category];
-    $('<iframe src="' + src + '" sandbox="allow-scripts" style="display:none" class="dataCollect"><\/iframe>').insertAfter(dataCollect);
-    dataCollect.remove();
-  });
-</script>
-<!-- /applyDataCollect -->
 </div>
 
 </body></html>
