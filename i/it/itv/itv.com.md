@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628120236id_/http%3A//www.itv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228052904id_/http%3A//www.itv.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for ITV services – ITV
 
@@ -8,9 +8,9 @@ Your information is very important to us and we look after your information care
 
 Please do read this policy and our [**cookie policy**](http://www.itv.com/cookies) so you know what we are doing with your information.
 
-By accessing and using our services, you are agreeing to the terms of this privacy policy and to our [**cookie policy**](http://www.itv.com/cookies).
+By accessing and using our services, you are agreeing to the terms of this privacy policy and to our **[cookie policy](http://www.itv.com/cookies).**
 
-We may update this privacy policy and our cookie policy from time to time and will post any changes on our website at [**www.itv.com**](http://www.itv.com/) so it's a good idea to come back and read through them again, from time to time. This privacy policy was last updated on 22 January 2016.
+We may update this privacy policy and our cookie policy from time to time and will post any changes on our website at [**www.itv.com**](http://www.itv.com/) so it's a good idea to come back and read through them again, from time to time. This privacy policy was last updated on 21 July 2017.
 
 ##  Which ITV companies does this policy cover? 
 
@@ -18,11 +18,11 @@ Any reference to "we", "us" and "our" is to ITV Consumer Limited, except where t
 
 ITV Consumer Limited is a company registered in England and Wales (registered number is 2937518) with registered office at The London Television Centre, Upper Ground, London SE1 9LT. Our VAT registration number is 197 0041 67.
 
-We are registered on the Data Protection Public Register. Our Data Protection Registration Number is Z7505566. To find out more information about the Data Protection Register, visit the [**Information Commissioner's Office website**.](https://ico.org.uk/)
+We are registered on the Data Protection Public Register. Our Data Protection Registration Number is Z7505566. To find out more information about the Data Protection Register, visit the [**Information Commissioner's Office website.**](https://ico.org.uk/)
 
 ##  What services does this policy cover? 
 
-Our services may include (without limitation) social media and/or interactive applications, audio visual content, text, photographs, forums, advertising and other services which we may offer at or via the website at [**www.itv.com**](http://www.itv.com/) and/or other websites or media platforms which, for example, may enable you to view our content over a mobile or wi-fi network or our ‘on-demand’ content on your television (the “Services”). This policy covers all of the Services and any reference to “you” or “your”, means you as user of our Services. This policy applies to the collection and use of your information by us and parties that we authorise (such as our suppliers and sub-contractors).
+Our services may include (without limitation) social media and/or interactive applications, audio visual content, text, photographs, forums, advertising and other services which we may offer at or via the website at **[www.itv.com](http://www.itv.com/)** and/or other websites or media platforms which, for example, may enable you to view our content over a mobile or wi-fi network or our ‘on-demand’ content on your television (the “Services”). This policy covers all of the Services and any reference to “you” or “your”, means you as user of our Services. This policy applies to the collection and use of your information by us and parties that we authorise (such as our suppliers and sub-contractors).
 
 ##  What information do you collect? 
 
@@ -58,7 +58,7 @@ We may also combine information that you provide on one Service with information
 
 ##  Cookies and similar devices
 
-In addition, in common with many other online services, we and our **[authorised third parties](http://www.itv.com/privacy/#_do-you-share-my-information)** may use "cookies" and/or other tools to store and sometimes track information about you. For more details about what cookies are, the cookies that we use and how to disable them, please see our [**cookie policy**](http://www.itv.com/cookies).
+In addition, in common with many other online services, we and our [**authorised third parties**](http://www.itv.com/privacy/#_do-you-share-my-information) may use "cookies" and/or other tools to store and sometimes track information about you. For more details about what cookies are, the cookies that we use and how to disable them, please see our [**cookie policy**](http://www.itv.com/cookies).
 
 ##  How will you use my information? 
 
@@ -69,9 +69,9 @@ Your information may be used by us and our **[authorised third parties](http://w
   * send you or provide you with product and service recommendations;
   * process payments from you to us (where applicable) on our behalf;
   * process and deal with any complaints or enquiries made by or about you;
-  * investigate any suspected breach of the [**Terms of Use**](http://www.itv.com/terms) or the breach of other terms and conditions otherwise relating to you;
+  * investigate any suspected breach of the [Terms of Use](http://www.itv.com/terms) or the breach of other terms and conditions otherwise relating to you;
   * contact you with service messages;
-  * monitor compliance with the [**Terms of Use**](http://www.itv.com/terms) or other applicable terms and conditions including by way of (i) checking postings or submissions in connection with your use of the Services, and/or (ii) using keyword triggers to investigate usage that may be inappropriate;
+  * monitor compliance with the [Terms of Use](http://www.itv.com/terms) or other applicable terms and conditions including by way of (i) checking postings or submissions in connection with your use of the Services, and/or (ii) using keyword triggers to investigate usage that may be inappropriate;
   * administer the prize if you are a prize winner, and to publish or otherwise make available a list of prize winners; and/or
   * provide you with access to one or more social networking sites from the Services or your ITV account (where available). If you choose to connect to a social networking site from your ITV account or the Services, your personal information may be shared between ITV and your social networking account(s). Any personal data shared with a third party social network provider will be processed in accordance with their own privacy policy.
 
@@ -81,15 +81,15 @@ Your information may be used by us and our **[authorised third parties](http://w
 
 Generally, we will only send you marketing messages if you indicate that you consent (e.g. by "opting-in") to receiving such messages. Where we have your consent or are otherwise permitted to do so, we may:
 
-  * send you information by email, telephone (including SMS), mail or other methods of communication about existing and new services and special offers from us;
-  * send you information by email, telephone (including SMS), mail or other methods of communication about related products or services of selected third parties that may be of interest to you; and
-  * pass your details to selected third parties so that they may send you information by email, telephone (including SMS), mail or other methods of communication about products or services that may be of interest to you.
+  * send you information by email, telephone (including SMS and MMS), mail or other methods of communication about existing and new services and special offers from us;
+  * send you information by email, telephone (including SMS and MMS), mail or other methods of communication about related products or services of selected third parties that may be of interest to you; and
+  * pass your details to selected third parties so that they may send you information by email, telephone (including SMS and MMS), mail or other methods of communication about products or services that may be of interest to you.
 
 
 
-By choosing to interact with our services by SMS text message, you will be indicating that you consent to receive marketing communications from us via SMS text message in respect of similar products and services. You can avoid receiving these communications by adding NO INFO at the end of your SMS.
+By choosing to interact with our services by SMS text message, you will be indicating that you consent to receive marketing messages from us to your device in respect of similar products and services. You can avoid receiving these communications by adding NO INFO at the end of your SMS.
 
-To stop receiving marketing communications from us, you can use the 'unsubscribe', 'stop' or similar facility contained in any such communication or you can email us at the email address set out in **["Contact Details"](http://www.itv.com/privacy/#_contact-us)** below stating that you do not wish to receive further communications from us.
+To stop receiving marketing communications from us, you can use the 'unsubscribe', 'stop' or similar facility contained in any such communication or you can email us at the email address set out in ["](http://www.itv.com/privacy/%22%20%5Cl%20%22_contact-us)[Contact us](http://www.itv.com/privacy/#_contact-us)["](http://www.itv.com/privacy/%22%20%5Cl%20%22_contact-us) below stating that you do not wish to receive further communications from us.
 
 To opt-out of receiving any such communications from a third party, you will need to contact the applicable third party. Please note that we are not responsible for the communications or the content of any communications you receive from any such third party.
 
@@ -102,17 +102,17 @@ We may pass information about you to other parties as follows:
   * to third parties authorised by us and acting on our behalf such as our employees, contractors, suppliers and/or agents including without limitation our customer care teams to administer the Services provided to you by us now or in the future;
   * where we have your consent to do so, for marketing communications (see section on "Marketing Communications" above);
   * as part of general statistical information about the Services’ user base, sales patterns, traffic volumes and related matters. These details will not include information personally identifying you;
-  * to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence, unlawful activity or suspected breach of the [**Terms of Use**](http://www.itv.com/terms) and or the breach of other terms and conditions or otherwise where required by law or where we suspect harm or potential harm to others. We will co-operate with any law enforcement authorities or court order requesting or directing us to disclose the identity or location of or any other information about anyone breaching any relevant terms and conditions or otherwise for the prevention or detection of crime or the apprehension or prosecution of offenders. We shall not be obliged to give you any further notice of this ;
+  * to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence, unlawful activity or suspected breach of the [Terms of Use](http://www.itv.com/terms) and or the breach of other terms and conditions or otherwise where required by law or where we suspect harm or potential harm to others. We will co-operate with any law enforcement authorities or court order requesting or directing us to disclose the identity or location of or any other information about anyone breaching any relevant terms and conditions or otherwise for the prevention or detection of crime or the apprehension or prosecution of offenders. We shall not be obliged to give you any further notice of this ;
   * where relevant, the user name and some profile information you voluntarily provide may be published on areas of the Services such as forums, chat rooms or pages where user submissions are displayed and this will be the identity by which you are known on those areas. Please always think carefully before disclosing information to other users or otherwise making your information publicly available;
   * if there are changes to our business (see section below on “Changes to our business”).
 
 
 
-We may also display targeted advertisements based on the personal information that we hold. We do not provide your personal information to advertisers but advertisers and ad serving companies may assume that you meet the targeting criteria for that ad, for example men aged 18-30.
+We may also display targeted advertisements based on the personal information that we hold. We do not provide your personal information to advertisers but advertisers and ad serving companies may assume that you meet the targeting criteria for that ad, for example men aged 18-30. If you register to use the ITV Hub, then from time to time we may obtain additional information about you from other trusted providers in order to bring you ads that are even more relevant to you. If you would prefer us not to obtain this additional info, you can opt out. To opt out, go to [itv.com](http://itv.com/) and log into your ITV Hub account, then click on ‘Manage Account’ and select the ‘Preferences’ tab. If you opt out, you will still see advertising, and it may be tailored based on the details that you have provided directly to us, but it will be less relevant to you.
 
 We may also share your personal information with other business units and operations within the ITV group. We share your personal information with other entities in the ITV group to: (i) provide a more personalised experience across the different Services that we offer; (ii) to provide and/or manage cross- or intergroup programmes or services; and (iii) to provide other services and products that you request or which might be of interest to you.
 
-Please note this policy does **not** cover companies, services or applications that we do not own or control, or people that we do not employ or manage, including (without limitation) third party websites or applications/widgets (e.g. from “social media” platforms such as Facebook or Twitter) which we link to or offer via our Services, nor does it cover advertisers. Also, it does not cover certain pages and services provided via our Services which are hosted, managed and operated by other parties. These services, applications and third parties may have their own privacy policies and/or terms and conditions of use, which we recommend you read before using any such services. These third parties and services are wholly independent of us and are solely responsible for all aspects of their relationship with you and any use you may make of such services.
+Please note this policy does not cover companies, services or applications that we do not own or control, or people that we do not employ or manage, including (without limitation) third party websites or applications/widgets (e.g. from “social media” platforms such as Facebook or Twitter) which we link to or offer via our Services, nor does it cover advertisers. Also, it does not cover certain pages and services provided via our Services which are hosted, managed and operated by other parties. These services, applications and third parties may have their own privacy policies and/or terms and conditions of use, which we recommend you read before using any such services. These third parties and services are wholly independent of us and are solely responsible for all aspects of their relationship with you and any use you may make of such services.
 
 ##  Service providers based outside Europe 
 
@@ -132,7 +132,7 @@ If there are changes to our business (such as a re-organisation or restructuring
 
 We endeavour to take all reasonable steps to protect your personal information. Where reasonably possible we use industry-standard technology to allow for the encryption of sensitive information.
 
-Please always think carefully before disclosing information to other users or otherwise making your information publicly available. It is important that you are aware that any information you disclose to another user may then be disclosed by that user. We have no responsibility or control over the contents of communications made between users of our Services.
+Please always think carefully before disclosing information to other users or otherwise making your information publicly available. It is important that you are aware that any information you disclose to another user may then be disclosed by that user. We have no responsibility or control over the contents of communications made between users of ourServices.
 
 ##  How can I change my details? 
 
