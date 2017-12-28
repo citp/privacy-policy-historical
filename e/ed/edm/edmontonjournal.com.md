@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmontonjournal.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627002335id_/http%3A//www.postmediaadvertising.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmontonjournal.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228094014id_/http%3A//www.postmediaadvertising.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Postmedia Integrated Advertising
 
