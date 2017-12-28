@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storyjumper.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626030307id_/https%3A//www.storyjumper.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyjumper.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228145331id_/https%3A//www.storyjumper.com/main/privacy) for the most accurate reproduction.*
 
 # StoryJumper Privacy Policy
 
