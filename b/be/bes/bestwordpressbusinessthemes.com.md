@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestwordpressbusinessthemes.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628005358id_/http%3A//bestwordpressbusinessthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwordpressbusinessthemes.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228150837id_/http%3A//bestwordpressbusinessthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Best Wordpress Themes | Best WordPress Themes 2017
 
