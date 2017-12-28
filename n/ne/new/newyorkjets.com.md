@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkjets.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607012533id_/http%3A//www.newyorkjets.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkjets.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228141953id_/http%3A//www.newyorkjets.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # New York Jets | Privacy Policy
 
@@ -46,7 +46,7 @@ You generally are not required to provide information about yourself when you vi
 
 
 
-We do not ask you for, access or track any location-based information from your mobile device at any time while downloading or using our Mobile App or services.We also may collect certain information automatically when you visit the Services, including:
+We do not access or track any location-based information from your mobile device at any time while downloading or using our Mobile App or services without you electing to provide such access through your mobile device. We also may collect certain information automatically when you visit the Services, including:
 
   * Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;
   * Other unique identifiers, including mobile device identification numbers (such as your mobile device ID, model and manufacturer), operating system and version information;
