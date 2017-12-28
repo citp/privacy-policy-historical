@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the menscrunch.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216132524id_/http%3A//bikeglam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menscrunch.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228190248id_/http%3A//bikeglam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Custom Motorcycles & Classic Motorcycles - BikeGlam
 
 **Privacy Policy for bikeglam.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@bikeglam.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At bikeglam.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by bikeglam.com and how it is used.
 
