@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnmlive.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508230348id_/https%3A//www.wnmlive.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnmlive.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228145734id_/https%3A//www.wnmlive.com/legal/privacy) for the most accurate reproduction.*
 
 # Nearby :: Privacy Policy
 
@@ -9,11 +9,11 @@ Nearby is committed to protecting your privacy and developing technology that gi
 
 ### Who We Are
 
-**SynergeTech Solutions, Inc**   
+**Social Foundry, LLC**   
 160 Lowell Avenue  
 Palo Alto, CA 94301 
 
-Nearby is owned and operated by SynergeTech Solutions, Inc.   
+Nearby is owned and operated by Social Foundry, LLC, a Delaware company.   
   
 | 
 
