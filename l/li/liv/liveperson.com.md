@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627014252id_/https%3A//www.liveperson.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228024207id_/https%3A//www.liveperson.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Live Chat for Website | LivePerson
 
-Effective Date:  January 19, 2017
+Effective Date:  August 15, 2017
 
 LivePerson values your privacy.  This privacy policy explains what personal data we collect from you and how we use it.  This privacy policy applies if you visit LivePerson’s corporate websites or social media or other web pages located on third-party websites, use any mobile application(s) provided by LivePerson or register to attend any of LivePerson’s corporate events.  This privacy policy also applies if you use LivePerson’s websites, hosted services, products, applications and/or content (collectively, the “Services”) directly or through a LivePerson customer (for example, on a LivePerson customer’s website or mobile application).
 
@@ -106,6 +106,8 @@ We may share your information if we reasonably believe that it:  (i) is necessa
 
 We may aggregate information so that it is not personally identifiable and use and share such aggregated information for training and quality assurance purposes and to deliver and improve our Services.
 
+We use a limited number of third-party service providers to assist us in making our websites and Services available to visitors and users. For example, we may share data with third parties who provide services to us, such as credit card processing services, analytics and data storage services. These third parties may access, process or store personal data in the course of providing their services.
+
 LivePerson does not sell, trade or rent personal information provided by you in any transcript, survey or recording for direct marketing or any other purpose, except as provided in this privacy policy or with your permission.  LivePerson does not disclose the contents of transcripts, surveys or recordings other than to service providers performing services on behalf of LivePerson, other than as provided in this privacy policy or with your permission.  If you engage with a brand that uses our Services, we may also share your information with the brand and our third party service providers.
 
 Access and changes to personal data
@@ -146,7 +148,7 @@ If you are located outside of the United States, please note that we may transfe
 
 We adhere to the principles of the EU-US Privacy Shield Framework regarding the collection, use and retention of personal information transferred from the European Union to the United States and have certified our compliance with the U.S. Department of Commerce.  To learn more about the Privacy Shield Framework and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield website at www.privacyshield.gov.
 
-We use a limited number of third-party service providers to assist us in making our websites and Services available to visitors and users.  For example, we may share data with third parties who provide services to us, such as credit card processing services, analytics and data storage services.  These third parties may access, process or store personal data in the course of providing their services.  We currently maintain contracts with these third parties restricting their access, use and disclosure of personal data, and are in the process of updating these contracts in compliance with our Privacy Shield obligations.  LivePerson is responsible if these third parties process personal data in violation of the Privacy Shield principles (unless LivePerson can prove that it’s not responsible for the third party’s action that violated the Privacy Shield principles).
+As mentioned above, we use a limited number of third-party service providers to make our websites and Services available that may access, process, or store personal data in the course of providing services. We currently maintain contracts with these third parties restricting their access, use and disclosure of personal data, and are in the process of updating these contracts in compliance with our Privacy Shield obligations. LivePerson is responsible if these third parties process personal data in violation of the Privacy Shield principles (unless LivePerson can prove that it’s not responsible for the third party’s action that violated the Privacy Shield principles).
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, We are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
