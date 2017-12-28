@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistblogger.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629171618id_/http%3A//twistblogger.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistblogger.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228102840id_/http%3A//twistblogger.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
