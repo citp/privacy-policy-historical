@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioalice.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623181053id_/http%3A//policies.cbslocal.com/privacy/current.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioalice.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228085735id_/http%3A//policies.cbslocal.com/privacy/current.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -115,7 +115,7 @@ CBS Local and other business units of CBS Corporation, our parent company, conti
 
 **Business Transfers**
 
-We may share your information in connection with a substantial corporate transaction, such as the sale of a CBS radio or television station participating in the CBS Local Services, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy. 
+We may share your information in connection with a substantial corporate transaction, such as the sale of a CBS television station participating in the CBS Local Services, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy. 
 
 **Legal Requirements**
 
@@ -197,9 +197,9 @@ back to top
 
 If you have questions regarding this Privacy Policy, please [contact us](http://policies.cbslocal.com/privacy/generalinfo.html) and we will endeavor to respond to your request within a reasonable period of time. You may also submit questions or comments using the postal address listed below:
 
-** CBS Radio Inc.  
-1271 Avenue of the Americas, 44th Floor  
-New York, NY 10020  
+** CBS Local Digital Media  
+1700 Broadway, 7th Floor  
+New York, NY 10019  
 Attn: General Counsel  
 **   
 We are committed to working with you to obtain a fair resolution of any privacy concern 
@@ -469,9 +469,9 @@ back to top
 
 If you need further assistance, please [contact us](http://policies.cbslocal.com/privacy/generalinfo.html). If you would prefer to submit your questions or comments by postal mail, please send a letter to the following address:
 
-** CBS Radio Inc.  
-1271 Avenue of the Americas, 44th Floor  
-New York, NY 10020  
+** CBS Local Digital Media  
+1700 Broadway, 7th Floor  
+New York, NY 10019  
 Attn: General Counsel  
 **
 
@@ -479,13 +479,13 @@ back to top
 
 #### CBS Local Digital Media Privacy Policy FAQ 
 
-We have updated our Privacy Policy to provide visitors of CBS Local Services with a single, uniform policy consistent with our core [Privacy Principles](https://web.archive.org/web/20170623181053id_/http%3A//policies.cbslocal.com/privacy/index.html). Here, you will find answers to some common questions about our new Privacy Policy. To review the current Privacy Policy, click here.
+We have updated our Privacy Policy to provide visitors of CBS Local Services with a single, uniform policy consistent with our core [Privacy Principles](https://web.archive.org/web/20171228085735id_/http%3A//policies.cbslocal.com/privacy/index.html). Here, you will find answers to some common questions about our new Privacy Policy. To review the current Privacy Policy, click here.
 
-Why are you updating your Privacy Policy? As CBS Local expands and the laws protecting individual privacy evolve, we update our Privacy Policy accordingly to ensure that we are adhering to all applicable laws and conform to a consistent set of core [Privacy Principles](https://web.archive.org/web/20170623181053id_/http%3A//policies.cbslocal.com/privacy/index.html) followed by our companies
+Why are you updating your Privacy Policy? As CBS Local expands and the laws protecting individual privacy evolve, we update our Privacy Policy accordingly to ensure that we are adhering to all applicable laws and conform to a consistent set of core [Privacy Principles](https://web.archive.org/web/20171228085735id_/http%3A//policies.cbslocal.com/privacy/index.html) followed by our companies
 
 Have you made any substantively material changes to the Privacy Policy? No, we have not made any substantively material changes to our Privacy Policy.
 
-What are the "core" privacy principles that CBS Local follows? Trust is a cornerstone of our mission at CBS Local. We are committed to gaining and maintaining your trust by following five key principles: transparency, choice, access, security, and accountability. For more information, [click here](https://web.archive.org/web/20170623181053id_/http%3A//policies.cbslocal.com/privacy/index.html).
+What are the "core" privacy principles that CBS Local follows? Trust is a cornerstone of our mission at CBS Local. We are committed to gaining and maintaining your trust by following five key principles: transparency, choice, access, security, and accountability. For more information, [click here](https://web.archive.org/web/20171228085735id_/http%3A//policies.cbslocal.com/privacy/index.html).
 
 Will you share my contact information with third parties? Like other businesses, we share contact information (such as name and email address) with vendors who process credit card transactions, with business partners who co-sponsor CBS Local Services, and when we have consent from our users. For more information, click here.
 
