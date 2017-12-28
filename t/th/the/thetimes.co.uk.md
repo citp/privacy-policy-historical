@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thetimes.co.uk privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235537id_/http%3A//www.nidp.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimes.co.uk privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228183831id_/http%3A//www.newsprivacy.co.uk/single) for the most accurate reproduction.*
 
 # News - Privacy Policy
 
 | 
 
-### Effective: 25 August 2015  
+### Effective: 10 November 2017  
   
 ---|---  
   
@@ -28,15 +28,15 @@ When you provide personal information to The Times, The Sunday Times and The Sun
 
 When you provide personal information to The Times Literary Supplement, the data controller is The Times Literary Supplements Limited.
 
-When you provide personal information to milkround.com, secondpost.com, fsmilkround.com, graduatecareer.com, milkroundonline.com or milkroundats.com (Milkround Online Network), the data controller is Milkround Holdings Limited.
-
 When you provide personal information to The Sunday Times Driving, the data controller is News UK Automotive Limited.
-
-When you provide personal information to [www.mynipp.co.uk](http://www.mynipp.co.uk/), the data controller is News International Pension Trustees Limited.
 
 When you provide personal information to [www.news.co.uk](http://www.news.co.uk/), the data controller is News UK and Ireland Limited. 
 
-When you provide personal information to The Sun's Dream Team Fantasy Football and other associated websites, the data controller is News Promotions Limited.
+When you provide personal information to News UK & Ireland Direct Limited, the data controller is News UK and Ireland Direct Limited.
+
+When you provide personal information to News UK & Ireland Trading Limited, the data controller is News UK and Ireland Trading Limited.
+
+When you provide personal information to Newsprinters Limited, the data controller is Newsprinters Limited.
 
 ## Collection of information
 
@@ -173,6 +173,12 @@ If you ask for your account to be closed, we will do this as soon as is reasonab
 
 If we withdraw a product or service, such as an online forum, we may either archive or delete the information you have provided to it.
 
+| 
+
+### Effective: 10 November 2017  
+  
+---|---  
+  
 ## Introduction
 
 This Policy covers our use of cookies, IP addresses, and other technologies. It applies to all companies identified in the News UK Privacy Policy.
@@ -242,6 +248,8 @@ Third parties that support our services by serving advertisements or providing o
 We do not control third-party cookies or other technologies. Their use is governed by the privacy policies of third parties using such technologies. You should make sure you are aware of how third parties will use cookies by checking the third party’s cookie policy. 
 
 To learn more about controlling cookies and similar technologies, please see the section below on managing cookies.
+
+We participate in an advertising platform offered by our affiliate NC Audience Exchange, LLC, News IQ, who gathers information for the purposes as described above. To learn more about News IQ, and how to opt out, please [click here](http://ncaudienceexchange.com/privacy/).
 
 ## Mobile applications
 
