@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the ihsmarkit.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606232442id_/https%3A//ihsmarkit.com/privacy-policy-cookie-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihsmarkit.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228010224id_/https%3A//ihsmarkit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IHS Markit - Privacy Policy
 
 ### IHS Markit Privacy Policy
 
-IHS Markit and its subsidiaries and affiliates (collectively " **IHS Markit** ," " **us** ," " **we** ," or " **our** ") are committed to protecting your privacy and providing you with a positive experience while using our websites, products, or services (" **Platform** ").
+IHS Markit Ltd. and its subsidiaries and affiliates (collectively " **IHS Markit** ," " **us** ," " **we** ," or " **our** ") are committed to protecting your privacy and providing you with a positive experience while using our websites, products, or services (" **Platform** ").
 
 IHS Markit reserves the right, at any time, to modify this Privacy Policy. If we make revisions that change the way we collect, use, or share personal information, we will post those changes in this Privacy Policy. If we make material changes to our Privacy Policy, we may also notify you by other means prior to the changes taking effect, such as by posting a notice on our Platform or sending you a notification. You should review this Privacy Policy periodically so that you keep up to date on our most current policies and practices. We will note the effective date of the latest version of our Privacy Policy at the end of this Privacy Policy.
+
+For IHS Markit’s advertising-related policies and consumer opt-out procedures, please see the [Advertising Privacy Policy](http://ad.wsod.com/privacy.php).
 
 #### 1\. Scope
 
@@ -136,4 +138,4 @@ Attn: Chief Privacy Officer
 
 If IHS Markit needs, or is required, to contact you concerning any event that involves information about you we may do so by email, telephone, or mail.
 
-Effective as of March 20, 2017.
+Updated December 19, 2017.
