@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burgan.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608114129id_/http%3A//www.burgan.com/SitePages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burgan.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228050910id_/http%3A//burgan.com/SitePages/privacy.aspx) for the most accurate reproduction.*
 
 # Burgan Bank Kuwait - privacy
 
@@ -57,4 +57,4 @@ Count on our commitment to your privacy
 
 You can count on us to keep you informed about how we protect your privacy and limit the sharing of information you provide to us - whether it's at a banking center, over the phone or through the Internet. 
 
-Please note that since we cannot control information on other Internet sites, we are not responsible for the content of sites linked from www.BeeeBank.com.
+Please note that since we cannot control information on other Internet sites, we are not responsible for the content of sites linked from [www.Burgan.com](https://web.archive.org/).
