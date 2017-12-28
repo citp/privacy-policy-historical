@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adecco.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621175433id_/http%3A//www.adecco.com/Pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adecco.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228022115id_/http%3A//www.adecco.com/privacy-policy) for the most accurate reproduction.*
 
 # Adecco Staffing | Privacy Policy
 
