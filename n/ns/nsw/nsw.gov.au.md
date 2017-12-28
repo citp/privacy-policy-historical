@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627203649id_/https%3A//www.nsw.gov.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228010105id_/https%3A//www.nsw.gov.au/privacy-statement) for the most accurate reproduction.*
 
 # NSW Government Website Privacy Statement » NSW Government
 
-This website is maintained by the Strategic Communications Branch in the New South Wales Department of Premier and Cabinet. This Privacy Policy applies to all the publicly accessible pages on this site located at [www.nsw.gov.au](http://www.nsw.gov.au/).
+This website is maintained by the Communications & Engagement Branch in the New South Wales Department of Premier and Cabinet. This Privacy Policy applies to all the publicly accessible pages on this site located at [www.nsw.gov.au](https://www.nsw.gov.au/).
 
 The Department of Premier and Cabinet does not have any responsibility for the privacy policies or practices of third party sites linked to this site.  If you have any questions about this site, or the application of this Privacy Policy or a request for access to information held please contact:
 
@@ -88,7 +88,7 @@ You may request access to your information at any time. To access or update your
 
 ## Who else has access to information within the Department?
 
-The Strategic Communication and Government Advertising Branch captures this information on its own computers and through the use of third-party analytical software such as Google Analytics. Access to the raw data is restricted to a limited number of officers in Strategic Communication and Government Advertising Branch, ServiceFirst - our Hosts, and the Department of Premier and Cabinet for the purpose of analysis and to report on the success of the site in meeting the Department's communication and access objectives. If you would like to access information held about you by ServiceFirst please contact:
+The Communications and Engagement Branch captures this information on its own computers and through the use of third-party analytical software such as Google Analytics. Access to the raw data is restricted to a limited number of officers in Communications and Engagement Branch, ServiceFirst - our Hosts, and the Department of Premier and Cabinet for the purpose of analysis and to report on the success of the site in meeting the Department's communication and access objectives. If you would like to access information held about you by ServiceFirst please contact:
 
 Privacy Coordinator  
 Department of Premier and Cabinet  
@@ -99,4 +99,4 @@ Ph: (02) 9228 5555
 
 ## Will this policy be updated over time?
 
-Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time. The amended policy will be posted to this site and will operate from the time it is posted
+Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time. The amended policy will be posted to this site and will operate from the time it is posted.
