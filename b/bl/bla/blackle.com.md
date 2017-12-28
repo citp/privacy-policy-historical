@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blackle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152923id_/http%3A//www.blackle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackle.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228071632id_/http%3A//www.blackle.com/privacy) for the most accurate reproduction.*
 
 # Blackle - Privacy Policy
 
-[](https://web.archive.org/web/20170606152923id_/http://blackle.com/)
+[](https://web.archive.org/web/20171228071632id_/http%3A//)
 
 ## Blackle Privacy Policy
 
