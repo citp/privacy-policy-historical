@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the when.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628150446id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the when.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228044751id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
 
 # AOL Privacy
 
