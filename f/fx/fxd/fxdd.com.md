@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxdd.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628080741id_/http%3A//www.fxdd.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxdd.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228093458id_/http%3A//www.fxdd.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # FXDD Privacy Policy | FXDD Forex Trading, FX Trade Solutions, Services
 
@@ -46,7 +46,7 @@ Should have any questions regarding your account, please contact the Compliance 
   * [Report Viewer](http://www.fxdd.com/us/en/support/forex-trading-tools/report-viewer/)
   * [iBroker Interface](http://www.fxdd.com/us/en/support/forex-trading-tools/ibroker-interface/)
   * [Site Map](http://www.fxdd.com/us/en/site-map/)
-
+  * 
 
 
 © 2017  FXDD, Newport Tower, 525 Washington Blvd #1405, Jersey City, NJ 07310
