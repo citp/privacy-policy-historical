@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629012440id_/https%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228214209id_/https%3A//veteransunited.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Veterans United Home Loans
 
@@ -23,20 +23,28 @@ The types of personal information we collect and share depend on the product or 
   * Income and Assets 
   * Employment Information and Credit History 
 
-
-
-When you are _no longer_ our customer, we continue to share your information as described in this notice.   
   
-How?  |  All financial companies need to share personal information to run their everyday business. In the section below, we list the reasons financial companies can share their personal information; the reasons Veterans United Home Loans chooses to share; and whether you can limit this sharing.   
+How?  |  All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their personal information; the reasons Veterans United Home Loans chooses to share; and whether you can limit this sharing.   
 Reasons we can share your personal information  |  Does Veterans United Home Loans share?  |  Can you limit this sharing?   
 ---|---|---  
 For our everyday business purposes - such as to process your transactions, maintain your account(s), responds to court orders and legal investigations, or report to credit bureaus  | Yes | No  
 For our marketing purposes - to offer our products and services to you | Yes | No  
 For joint marketing with other financial companies | No | We Don't Share  
 For our affiliates' everyday business purposes - information about your transactions and experiences | Yes | No  
-For our affiliates' everyday business purposes - information about your creditworthiness | No | We Don't Share  
-For our affiliates to market to you | Yes | No  
+For our affiliates' everyday business purposes - information about your creditworthiness | Yes | Yes  
+For our affiliates to market to you | Yes | Yes  
 For nonaffiliates to market to you | No | We Don't Share  
+To limit our sharing  | 
+
+  * Call 855-857-3933 — our menu will prompt you through your choices, or
+  * Visit us online: [www.VeteransUnited.com/opt-out/](https://www.veteransunited.com/opt-out/)
+
+
+
+**Please note:**  
+If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.   
+  
+---|---  
 Questions?  |  Call **1-800-884-5560** or go to [VeteransUnited.com/privacy](https://www.veteransunited.com/privacy/)  
 ---|---  
 Who we are   
@@ -51,10 +59,8 @@ To protect your personal information from unauthorized accessand use, we use sec
 
 We collect your personal information, for example, when you 
 
-  * Apply for a loan, or 
-  * Give us your income information, or 
-  * Provide employment information, or 
-  * Show you government issued ID, or 
+  * Apply for a loan or give us your income information 
+  * Provide employment information or show your government-issued ID 
   * Give us your contact information 
 
 
@@ -71,14 +77,18 @@ Federal law gives you the right to limit only
 
 
 
-State laws and individual companies may give you additional rights to limit sharing.   
+State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.   
+  
+**What happens when I limit sharing for an account I hold jointly with someone else?** | 
+
+Your choices will apply to everyone on your account.   
   
 Definitions   
 **Affiliates** | 
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-  * Veterans United Home Loans only shares with our affiliates, including Veterans United Realty and Military United Insurance. 
+  * Our affiliates include companies with a Veterans United, Military United, and Mortgage Research Center name; and nonfinancial companies such as Veterans United Realty. 
 
   
 **Nonaffiliates** | 
@@ -95,8 +105,17 @@ A formal agreement between nonaffiliated financial companies that together marke
   * Veterans United Home Loans does not jointly market. 
 
   
+Other important information   
+  
+**Vermont Residents –** Except as permitted by law, we will not share information we collect about you with nonaffiliates or affiliates. 
+
+**California Residents –** Except as permitted by law, we will not share information we collect about you with nonaffiliates or joint marketing partners while you are a resident of California. 
+
+**Nevada Residents –** Call 1-855-857-3933 to be placed on our Do-Not-Call list. For more information, mail Veterans United Home Loans Call Center, 1400 Veterans United Dr., Columbia, MO 65203 or email privacy@vu.com. You may also contact the Bureau of Consumer Protection, Office of theNevada Attorney General, 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101, call 702-486-3132, or email DBCPINFO@ag.state.nv.us. This notice is provided pursuant to state law.   
   
 [Click here to download a PDF copy of this Privacy Notice.](https://web.archive.org/assets/pdf/veterans-united-home-loans-privacy-notice.pdf)
+
+[California Residents click here to download a PDF copy of the California Privacy Notice.](https://web.archive.org/assets/pdf/vuhl-privacy-notice-california.pdf)
 
 ## Online Privacy Notice
 
@@ -142,7 +161,7 @@ We also collect Non-Personal information which includes, but is not limited to: 
 
       5. We use Mixpanel to collect site usage information, including your Operating System, IP, browser information, language, as well as interaction information including clicks, pages visted, and time on site, to improve our user experience. You may opt out of Mixpanel tracking by clicking [here](https://mixpanel.com/optout/). 
 
-      6. **California "Do Not Track" Disclosures:** While some Internet browsers have the ability to specify privacy preferences to websites, including requests not to track your usage and browsing history, Veterans United Home Loans' websites do not currently respond to these signals and may continue track your activity on this website and use gathered information as provided in this policy. 
+      6. **California "Do Not Track" Disclosures:** While some Internet browsers have the ability to specify privacy preferences to websites, including requests not to track your usage and browsing history, Veterans United Home Loans websites do not currently respond to these signals and may continue track your activity on this website and use gathered information as provided in this policy. 
 
   3. ###  How We Use Your Submitted Information 
 
@@ -192,7 +211,7 @@ We also collect Non-Personal information which includes, but is not limited to: 
 
 Customer Service  
 Veterans United Home Loans  
-1400 Veterans United Drive  
+1400 Veterans United Dr.  
 Columbia, MO 65203 
 
 
