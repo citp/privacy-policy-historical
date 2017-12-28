@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617122307id_/https%3A//www.reed.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228054643id_/https%3A//www.reed.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy - reed.co.uk
 
@@ -46,7 +46,7 @@ We use third-party advertising companies to serve ads when you visit our Website
 
 Reed uses Google Adwords conversion tracking to measure advertising performance and improve the quality of the adverts you see. Find out more about [Google Site Stats](https://services.google.com/sitestats/en.html?cid=1070115141). 
 
-To find out about all the cookies used on our Website and how to manage them, visit our [cookies page](https://web.archive.org/web/20170617122307id_/https%3A//www.reed.co.uk/clearcookies). 
+To find out about all the cookies used on our Website and how to manage them, visit our [cookies page](https://web.archive.org/web/20171228054643id_/https%3A//www.reed.co.uk/clearcookies). 
 
 ### How do you remove your name from the database?
 
@@ -54,7 +54,7 @@ You can [contact us](http://www.reed.co.uk/enquiries) to request for your accoun
 
 ### How do you unsubscribe from future mailings?
 
-If you have a reed.co.uk jobseeker account, you can stop receiving emails by [updating your contact preferences](https://web.archive.org/web/20170617122307id_/https%3A//www.reed.co.uk/account/signin?returnUrl=%2Faccount%2Fedit%2Fpreferences). 
+If you have a reed.co.uk jobseeker account, you can stop receiving emails by [updating your contact preferences](https://web.archive.org/web/20171228054643id_/https%3A//www.reed.co.uk/account/signin?returnUrl=%2Faccount%2Fedit%2Fpreferences). 
 
 **Registered Office**
 
