@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mysmartprice.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629065159id_/http%3A//www.mysmartprice.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmartprice.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228111230id_/http%3A//www.mysmartprice.com/privacy.html) for the most accurate reproduction.*
 
 # MySmartPrice Privacy Policy Price
 
    
 We, **MySmartPrice Web Technology Pvt. Ltd.** , a private limited company incorporated under the Indian Companies Act, 1956, having its registered office at **4th floor, GNR's RV Insignia, Image Gardens Road, Madhapur, Hyderabad - 500081, Telangana, India** , (where such expression shall, unless repugnant to the context thereof, be deemed to include its respective legal heirs, representatives, administrators, permitted successors and assigns), the creator of this Privacy Policy ensure our steady commitment to Your privacy with regard to the protection of your invaluable information. This privacy policy contains information about Website (Desktop website, Browser Add-on and Mobile website) and Mobile Application 'MySmartPrice' (hereinafter referred to as 'Website / Application'). In order to provide You with uninterrupted use of Our services, We may collect and, in some circumstances, disclose information about you. To ensure better protection of Your privacy, We provide this notice explaining Our information collection and disclosure policies, and the choices You make about the way Your information is collected and used. 
 
-If You have any queries or concerns regarding this privacy policy, You should contact Our Customer Support Desk by emailing Us at hi@mysmartprice.com.
+If You have any queries or concerns regarding this privacy policy, You should contact Our Customer Support Desk by emailing Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ANY CAPITALIZED WORDS USED HENCEFORTH SHALL HAVE THE MEANING ACCORDED TO THEM UNDER THIS AGREEMENT. FURTHER, ALL HEADINGS USED HEREIN ARE ONLY FOR THE PURPOSE OF ARRANGING THE VARIOUS PROVISIONS OF THE AGREEMENT. NEITHER THE USER NOR THE CREATORS OF THIS PRIVACY POLICY MAY USE THE HEADING TO INTERPRET THE PROVISIONS CONTAINED WITHIN IT IN ANY MANNER.  
   
@@ -24,26 +24,27 @@ ANY CAPITALIZED WORDS USED HENCEFORTH SHALL HAVE THE MEANING ACCORDED TO THEM UN
   
 ####  **2.OVERVIEW:**  
   
-We are committed to respecting Your online privacy. We further recognize Your need for appropriate protection and management of any Personal Information You share with us.   
-In order to fully use the services of this Website or Application, You are required to register Yourself by providing the following information which inter alia includes: 
-
-  * Profile Image
-  * Personal Information (Name, Date of Birth, Email ID, Contact Number, Address etc.)
-
-  
+We are committed to respecting Your online privacy. We further recognize Your need for appropriate protection and management of any Personal Information You share with us. Your continued use of our service means that MySmartPrice has your consent to send periodic communication regarding your usage of this site or any product or service that you purchased. This communication can be through various channels at MySmartPrice's disposal (e.g. e-mails, promotional SMS, Push Notifications etc.). MySmartPrice reserves the right to communicate with users regarding the use of the site or any product or service bought on this site.   
    
   
 ####  **3.INFORMATION COLLECTED:**  
   
 We may collect the following information: 
 
-  * Personal data of the User such as, but not limited to, Your name, Your address, Your age, Your email address and Your Phone Number 
-  * Tracking Information such as, but not limited to the IP address of Your device when connected to the Internet.
-  * Geographic location of the User, so as to be able to notify offline availability of the product near to the user's location, display relevant advertisements, etc.
-  * Web browsing activity related to ecommerce, page content from ecommerce pages. We use this data for notifying price drops, related offers and deals, trending products, order status.
-  * Screen resolution and RAM capacity of your device
-  * Web browsing activity related to non-ecommerce to enable Us to identify and advertise relevant products and services to You
-  * Access and use applications such as Calendar, Contacts, Phone's Camera, Call log etc., as detailed in our Application from time to time
+  * Your email address which is used to provide you cashback and other cashback related information based on any purchases or offers availed by you from our platform.
+  * Your Personal data such as, but not limited to, Your name, Your age, Your Phone Number and Your preferences. This information enables us to provide you the most relevant information and user-friendly experience while also building your user profile in our community.
+  * Your Tracking Information such as, but not limited to the IP address of Your device, your browser type and date and time of your visit when connected to the Internet. This information helps us to track your movement on our platform and provide appropriate cashback to your email account whenever eligible.
+  * Your Geographic location, so as to be able to notify offline availability of the product near to your location and display relevant advertisements, etc.
+  * Your Web browsing activity related to ecommerce, page content from ecommerce pages. We use this data for notifying price drops, related offers and deals, trending products and order status.
+  * Your Device ID details so as to optimize your application experience and notify you about exciting offers for your device.
+  * Screen resolution and RAM capacity of your device so as to optimize the experience of the Browser Add-Ons/Extensions.
+  * Your Web browsing activity related to non-ecommerce to enable Us to identify and advertise relevant products and services to You.
+  * Your Phone’s Camera so that you can search products by scanning the barcode as well as capture photos of products that your reviewing on our platform.
+  * Your Photos and other Media files so that you can select and upload photos of the products that you are reviewing on our platform.
+  * SMS data which is required at the time of redeeming your cashback.
+  * Your Contacts with whom you can share exciting offers as well as refer them to earn extra cashback.
+  * Your application history which enables you to view our cashback offers and discount coupon codes and helps you get a better deal.
+  * Access and use applications such as Your Calendar to inform you about upcoming sale events.
 
   
    
@@ -91,12 +92,12 @@ As a matter of policy, we do not sell or rent any Personal Information about You
   * **Law and Order:** We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can, and You so authorise Us, disclose Your Personal Information to law enforcement and other government officials as We, in Our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose Us/ Us or You to any legal liability.
 
 Any information that you make publically available on the site may be potentially viewed by any party, and by posting such material it is deemed that you consent to share such information with such parties.  
-You may request details of Your Personal Information collected and/ disclosed by Us. Such a request may be made under the Information Technology Act, 2000. If You would require such details, please email us at hi@mysmartprice.com.   
+You may request details of Your Personal Information collected and/ disclosed by Us. Such a request may be made under the Information Technology Act, 2000. If You would require such details, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
    
   
 ####  **10.ACCESSING, REVIEWING AND CHANGING YOUR PROFILE:**  
   
-Following registration, You can review and change the information You submitted at the stage of registration. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at hi@mysmartprice.com. We shall promptly correct any information found to be incorrect.  
+Following registration, You can review and change the information You submitted at the stage of registration. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We shall promptly correct any information found to be incorrect.  
 We shall retain in Our files information You have requested to remove for certain circumstances, such as to resolve disputes, troubleshoot problems and enforce Our terms and conditions. Further, such prior information is never completely removed from Our databases due to technical and legal constraints, including stored 'back up' systems. Therefore, You should not expect that all of Your personally identifiable information shall be completely removed from our databases in response to Your requests.  
    
   
