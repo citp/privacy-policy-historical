@@ -1,33 +1,44 @@
-> *The following text is extracted and transformed from the typekit.com privacy policy that was archived on 2012-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120202020556id_/https%3A//typekit.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typekit.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228011508id_/http%3A//www.adobe.com/privacy/typekit.html) for the most accurate reproduction.*
 
-# Privacy Policy | Typekit
+# Typekit
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+Last updated: August 7, 2017
 
-It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law. We transfer information about you if Typekit or Typekit is acquired by or merged with another company. In this event, Typekit will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+The [Adobe Privacy Policy](https://web.archive.org/privacy/policy.html) describes the general privacy practices of most of [Adobe’s websites and applications](https://web.archive.org/privacy/policy.html#cover), including Typekit. More privacy-related information for Typekit is provided below.
 
-## Information Gathering and Usage
+Typekit is a service that provides you with access to a library of fonts.
 
-When you register for Typekit we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card. 
+##### **How does Typekit use Cookies?**
 
-Typekit uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research. 
+In providing the Typekit website ([www.typekit.com](http://typekit.com/)), we use [cookies](https://web.archive.org/privacy/cookies.html) in accordance with our Privacy Policy.
 
-## Cookies
+In providing the Typekit service, we do not set or use cookies on websites in order to serve our fonts.
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Cookies are required to use the Typekit service. We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your Typekit Project Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents. 
+##### **What information is collected by the Typekit service?**
 
-## Data Storage
+In order to provide the Typekit service, Adobe may collect information about the fonts being served to your website. The information is used for the purposes of billing and compliance, and may include the following:
 
-Typekit uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Typekit. Although Typekit owns the code, databases, and all rights to the Typekit application, you retain all rights to your data. 
+  * Fonts served
+  * Kit ID
+  * Kit JavaScript version (string)
+  * Kit type (string "configurable" or "dynamic")
+  * Account ID (identifies the customer the kit is from)
+  * Service providing the fonts (e.g., Typekit or Edge Web Fonts)
+  * Application requesting the fonts (e.g., Adobe Muse)
+  * Server serving the fonts (e.g., Typekit servers or Enterprise CDN)
+  * Hostname of page loading the fonts
+  * The amount of time it takes the web browser to download the fonts
+  * The amount of time it takes from the web browser downloading the fonts until the fonts are applied
+  * Whether or not an ad blocker is installed to help identify whether the presence of an ad blocker affects accurate pageview tracking
 
-## Disclosure
 
-Typekit may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service. 
 
-## Changes
+##### **What does Adobe do with information that is collected?**  
 
-Typekit may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Typekit primary account holder account or by placing a prominent notice on our site. 
 
-## Questions
+Adobe uses the information received from third party websites using Typekit fonts to provision the Typekit service. Such information is also used to diagnose delivery or download problems and to pay font foundries.
 
-Any questions about this Privacy Policy should be addressed to support at Typekit, Inc., 2601 Mission Street, 9th Floor, San Francisco, CA 94110. 
+##### **Does Typekit share my personal information?**
+
+Adobe engages with font foundries to provide you with fonts through the Typekit service. Additionally, these foundries may offer fonts for sale in the Typekit Marketplace via the Typekit service. In this instance, Adobe will provide the font foundries with information such as your contact information and a purchase summary of the licensed font(s) for the purpose of enabling the font foundries to verify that you have a valid license to the font(s) acquired in the Typekit Marketplace.  
+
