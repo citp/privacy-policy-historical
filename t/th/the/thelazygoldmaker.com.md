@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelazygoldmaker.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619020015id_/http%3A//thelazygoldmaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelazygoldmaker.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228195209id_/http%3A//thelazygoldmaker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Lazy Goldmaker
 
@@ -30,3 +30,5 @@ www.thelazygoldmaker.com has no access to or control over these cookies that are
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. You can find the [privacy policy for media.net here](http://www.media.net/en/privacy-policy) and [the one for chitika.com here](http://www.chitika.net/privacy). www.thelazygoldmaker.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+[](https://www.ledgerwallet.com/r/c326?path=/products/ledger-nano-s)
