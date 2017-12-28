@@ -1,100 +1,90 @@
-> *The following text is extracted and transformed from the jobbank.gc.ca privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630224925id_/https%3A//www.canada.ca/en/transparency/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobbank.gc.ca privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228132405id_/https%3A//www.canada.ca/en/transparency/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Canada.ca
 
-## Disclaimer
+Employment and Social Development Canada (ESDC) is responsible for the administration of the Government of Canada website, Canada.ca, and for providing related services to the federal departments and agencies that publish their content to Canada.ca. ESDC is committed to respecting the privacy and protecting the information of all visitors to Canada.ca.
 
-Some of the information and services found on this website have been provided by Government of Canada departments and agencies. Employment and Social Development Canada (ESDC) is not responsible for the accuracy, reliability or currency of the information or services provided by other departments and agencies of the Government of Canada. Users wishing to rely on this information or these services should consult directly with the appropriate source.
+ESDC’s administration of Canada.ca includes various activities that may require the collection of personal information for both administrativeote 1 and non-administrativeFootnote 2 purposes.
 
-The Government of Canada is committed to protect the privacy of its visitors on its websites. This Privacy Notice summarizes the privacy policy and practices on Government of Canada websites.
+All personal information collected by ESDC about visitors to Canada.ca is authorized under legislation and is done in compliance with the [Privacy Act](http://laws.justice.gc.ca/eng/acts/P-21/index.html). This means that you will be informed when your personal information may be required, the purpose for which it is collected, and how to exercise your right of access to that information.
 
-## Your Privacy and the Internet
+While visiting Canada.ca, you may be directed to websites controlled by other Government of Canada institutions or a third-party, or to third-party social media platforms. When visiting a website outside of Canada.ca or a social media platform, personal information will be subject to the terms, conditions, and privacy policies of that other institution or third-party. In these cases, we strongly encourage you to take the time to read the specific privacy notices or statements that describe their specific terms, conditions, and policies.
 
-Specific personal information, such as your name, phone number or email address, is not automatically gathered. ESDC would only obtain this type of information if you supply it by email or by registering in a secure portion of the site for a program or service (e.g. personal information provided voluntarily when you complete an online form or request for service).
+If you have any questions, comments, concerns or complaints about the activities of ESDC in administering the Canada.ca website as they relate to the [Privacy Act](http://laws.justice.gc.ca/eng/acts/P-21/index.html), the [Department of Employment and Social Development Act](http://laws.justice.gc.ca/eng/acts/H-5.7/index.html), and privacy policies regarding Canada.ca, you can contact the ESDC [Access to Information and Privacy Coordinator](http://www.esdc.gc.ca/cgi-bin/contact/edsc-esdc/eng/contact_us.aspx?section=access-info).
 
-The nature of the Internet is such that Web servers automatically collect certain information about a visit to a website, including the visitor's Internet Protocol (IP) address. IP addresses are unique numbers assigned by Internet Service Providers (ISP) to all devices used to access the Internet. Web servers automatically log the IP addresses of visitors to their sites. The IP address, on its own, does not identify an individual. However, in certain circumstances, such as with the co-operation of an ISP for example, it could be used to identify an individual using the site. For this reason, the Government of Canada considers the IP address to be personal information, particularly when combined with other data automatically collected when a visitor requests a Web page such as the page or pages visited, date and time of the visit.
+In addition you may also contact the [Office of the Privacy Commissioner](http://www.priv.gc.ca/index_e.asp) by telephone at 1-800-282-1376.
 
-In cases where services are provided by organizations outside of the Government of Canada, such as social media platforms, search or mobile applications, IP addresses may be recorded by the third-party service provider.
+## Web Analytics
 
-All personal information created, held or collected by the Government of Canada is protected under the federal [_Privacy Act_](http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html). At any point of collection, you will be asked for consent to collect your information or you will be advised of the authority for such collection. You will also be informed of the purpose for which the personal information is being collected, and how to exercise your right of access to, and correction of, that information. In such cases, how your personal information is handled is described in a Personal Information Collection Statement.
+ESDC is responsible for the Government of Canada website, Canada.ca, as described under Orders in Council [2005-1637](http://www.pco-bcp.gc.ca/oic-ddc.asp?lang=eng&Page=secretariats&txtOICID=2005-1637&txtFromDate=&txtToDate=&txtPrecis=&txtDepartment=&txtAct=&txtChapterNo=&txtChapterYear=&txtBillNo=&rdoComingIntoForce=&DoSearch=Search+%2F+List&viewattach=13591&blnDisplayFlg=1) and [2014-0349](http://www.pco-bcp.gc.ca/oic-ddc.asp?lang=eng&Page=secretariats&txtOICID=2014-0349&txtFromDate=&txtToDate=&txtPrecis=&txtDepartment=&txtAct=&txtChapterNo=&txtChapterYear=&txtBillNo=&rdoComingIntoForce=&DoSearch=Search+%2F+List&viewattach=29136&blnDisplayFlg=1). Under the Government of Canada [Directive on the Management of Communications](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682), ESDC has also been identified as the Principal Publisher for the Canada.ca website. This includes responsibilities for web analytics, which is the collection, analysis, and reporting of web traffic data. Web analytics are done to help determine how Canada.ca can be improved to better serve Canadians and other visitors.
 
-Visitors' personal information is not usually disclosed to anyone except Government of Canada personnel who need the information to carry out their responsibilities. Any further disclosure of the personal information you provide would be in accordance with the federal [_Privacy Act_](http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html) and Part 4 of the _Department of Employment and Social Development Act ( DESDA)_ if applicable once you have selected a program or service offered by another Government of Canada department or agency, you are subject to the terms of that institution's privacy notice.
+In its role as Principal Publisher, ESDC is responsible for the administration of the tools used by the Government of Canada for web analytics. ESDC also performs government-wide web analytics under the authority of Section 5 of the [Department of Employment and Social Development Act](http://laws.justice.gc.ca/eng/acts/H-5.7/index.html).
 
-## Communicating with Government of Canada
+For the purpose of performing web analytics, ESDC tracks certain types of information during visits to Canada.ca. For the purposes of the [Privacy Act](http://laws.justice.gc.ca/eng/acts/P-21/index.html), this information is treated as personal informationFootnote 3. When your computer or other device requests a Canada.ca web page, information is collected for the purpose of web analytics. The type of information collected includes, but is not limited to:
 
-If you choose to send Canada.ca an email or complete a feedback form online, your personal information may be used in order to respond to your inquiry. ESDC does not use the information to create individual profiles. Any disclosure of your personal information is in accordance with the _Privacy Act and Part 4 of the DESDA_ if applicable.
-
-Emails and other electronic methods used to communicate with the Government of Canada are not secure unless it is specifically stated on a Web page. Therefore, it is recommended that you **do not** send sensitive personal information, such as your Social Insurance Number or your date of birth, through non-secure electronic means.
-
-Personal information from emails or completed feedback forms is collected pursuant to section 5 of the _Department of Employment and Social Development Act_ and section 4 of the _Privacy Act_. Such information may be used for statistical, evaluation and reporting purposes and is included in Personal Information Bank [_Public Communications ( PSU 914)_](http://www.infosource.gc.ca/emp/emp03-eng.asp#psu914).
-
-## Third-Party Social Media
-
-The Government of Canada's use of social media serves as an extension of its presence on the Web. Social media account(s) are public and are not hosted on Government of Canada servers. Users who choose to interact with the Government of Canada via social media should read the terms of service and privacy policies of these third-party service providers and those of any applications used to access them.
-
-## Improving your Experience on Government of Canada Websites
-
-### Digital Markers (including cookies)
-
-A digital marker is a resource created by the visitors' browser in order to remember certain pieces of information for the Web server to reference during the same or subsequent visit to the website. Examples of digital markers are "cookies" or HTML5 web storage. Some examples of what digital markers do are as follows:
-
-  * they allow a website to recognize a visitor who has previously accessed the site;
-  * they track what content is viewed on a site which helps website administrators ensure visitors find what they are looking for.
+  * IP address of the device that has contacted the Canada.ca website (which is not stored or retained in a format that can be used to identify a visitor)
+  * type of browser used
+  * type of operating system used
+  * the date and time of the visit
+  * pages visited and documents downloaded
 
 
 
-Canada.ca uses _sessional_ and _persistent_ digital markers on its website. During your on-line visit, your browser exchanges data with Canada.ca's Web server. The digital markers used do not allow Canada.ca to identify individuals and do not contain personal information.
+ESDC may also use the personal information collected for non-administrative uses, such as communications and information technology statistics, audit and evaluations, research, planning, and reporting. This personal information is not used for decision making processes about an individual or to profile individual visitors to Canada.ca.
 
-You may adjust your browser settings to reject digital markers, including cookies, if you so choose. However, it may affect your ability to interact with the _Canada.ca_ website.
+ESDC carries out web analytics using services from the third-party service providers Adobe Systems Inc. (Adobe Analytics) and Google Inc. (Google Analytics). These service providers are based in the United States of America (USA), which means that the personal information collected is transmitted outside of Canada and may be subject to USA laws, including the _USA Patriot Act_. In addition, Adobe and Google operate servers in other countries on which the web analytics data may be processed. Consequently, the data may be subject to the governing legislation of the country where it is processed. For Adobe Analytics, the Government of Canada has specified that personal information can only be stored on servers in Canada, the United States, the European Union, Australia, Israel, New Zealand, Norway, and Switzerland.
 
-### Web Analytics
+For more information about the privacy policies of these service providers, please visit their individual websites or use the following links:
 
-Web analytics is the collection, analysis, measurement, and reporting of data about Web traffic and visits for purposes of understanding and optimizing Web usage. Information in digital markers may be used in conjunction with computer request data to identify and track your online interactions with the Canada.ca website.
-
-Canada.ca uses Google Analytics and log file analysis to improve Canada.ca. When your computer requests a Canada.ca Web page, the following types of information are collected and used for Web analytics:
-
-  * the originating IP address
-  * the date and time of the request
-  * the type of browser used
-  * the page(s) visited
-  * referral website
+  * [Adobe Marketing Cloud Privacy](http://www.adobe.com/ca/privacy/marketing-cloud.html)
+  * [Google Analytics Privacy & Terms](https://www.google.com/policies/privacy/partners/)
 
 
 
-If you wish, you may opt out of being tracked by Google Analytics by disabling or refusing the cookies; by disabling JavaScript within your browser; or by using the [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout?hl=en). Disabling Google Analytics or JavaScript will still permit you to access comparable information or services from our websites. However, if you disable your session cookie option, you will still be able to access our public website, but you might have difficulties accessing any secure services.
+To track visits to Canada.ca for web analytics, both Adobe Analytics and Google Analytics require the use of digital markers (“cookies”). If you wish, you may opt out of having your visit tracked by:
 
-Canada.ca uses log file analysis internally and retains information collected for Web analytics for a maximum period of 18 months. After this period, the information must be disposed of in accordance with the _Standard on Privacy and Web Analytics_ or as authorized by the Librarian and Archivist of Canada. The information is not disclosed to an external third party service provider.
-
-Data collected for Web analytics purposes goes outside of Canada to Google servers and may be processed in any country where Google operates servers. Data may be subject to the governing legislation of that country, [for example the [_USA Patriot Act_](http://www.fincen.gov/statutes_regs/patriot/)]. For further information about Google Analytics, please refer to the [Google Analytics terms of service](http://www.google.ca/analytics/terms/us.html).
-
-Information used for the purpose of Web analytics is collected pursuant to section 5 of the _Department of Employment and Social Development Act_ and section 4 of the _Privacy Act_. Such data may be used for communications and information technology statistical purposes, audit, and evaluation, research, planning and reporting. For more information on how your privacy is safeguarded in relation to web analytics, see the _Standard on Privacy and Web Analytics_.
-
-## Protecting the Security of Government of Canada Websites
-
-Software programs are used to monitor network traffic and to identify unauthorized attempts to upload or change information, or otherwise cause damage. When you visit Canada.ca, these software programs automatically receive and temporarily store information supplied by your browser (for example, Internet explorer, Mozilla Firefox) in our Web server logs. Some of the information automatically collected by our server when you browse our website includes:
-
-  * the network location and the Internet Protocol (IP) address of the computer you used to contact our website;
-  * the name of the domain you used to access the Internet (.com, .org, .net, .ca, etc.);
-  * the type of browser you used;
-  * the type of operating system you used (Windows, Mac OS, etc.)
-  * the date and time you accessed the site;
-  * the pages you have accessed and the documents you have downloaded; and
-  * the Internet address of the website from which you linked directly to our site, if applicable.
+  * changing your browser settings to refuse cookies, disabling JavaScript within your browser, or
+  * downloading and installing a browser add-on from [Adobe](http://www.adobe.com/ca/privacy/opt-out.html) and/or [Google](https://tools.google.com/dlpage/gaoptout?hl=en) that prevents your visit data from being used.
 
 
 
-In most circumstances, this is anonymous statistical data and no attempt is made to link this data, nor the IP addresses of the computers that have contacted our website, with the identity of individuals visiting our site unless an attempt to damage the site has been detected. The programs are never used to gather specific personal information such as your name, your phone number or your email address.
+If you change your browser settings to refuse cookies or disable JavaScript so that your Canada.ca visit will not be tracked, no information will be collected but your visit may be affected in other ways, including making it difficult to access any secure services that require a username and password, such as My Service Canada Account and My VAC Account. If you use the browser add-ons from Adobe and/or Google, your Canada.ca visit will not be affected.
 
-When a threat to the Canada.ca site or computer systems of the Government of Canada is detected, information is collected pursuant to [section 161 of the _Financial Administration Act_](http://laws-lois.justice.gc.ca/eng/acts/F-11/page-70.html#s-161.). The information may be shared with appropriate law enforcement authorities if suspected criminal activities are detected. Such information may be used for network security related statistical purposes, audit, evaluation, research, planning and reporting and is included in Personal Information Bank [ _PIB Number (PIB Title) – e.g._ [_Security Incidents ( PSU 939)_](http://www.infosource.gc.ca/emp/emp03-eng.asp#psu939)].
+To further protect information about visitors to Canada.ca, ESDC uses a feature from each service provider that hides part or all of the IP address of a visitor before it is stored.
 
-## Inquiring about these Practices
+## Public Communications on Canada.ca
 
-Any questions, comments, concerns or complaints you may have regarding the administration of the _Privacy Act_ , the _Department of Employment and Social Development Act_ and privacy policies regarding Canada.ca's website may be directed to [ESDC](http://www.esdc.gc.ca/eng/home.shtml)'s Access to Information and Privacy Coordinator.
+ESDC is responsible for the Government of Canada website, Canada.ca, as described under Orders in Council [2005-1637](http://www.pco-bcp.gc.ca/oic-ddc.asp?lang=eng&Page=secretariats&txtOICID=2005-1637&txtFromDate=&txtToDate=&txtPrecis=&txtDepartment=&txtAct=&txtChapterNo=&txtChapterYear=&txtBillNo=&rdoComingIntoForce=&DoSearch=Search+%2F+List&viewattach=13591&blnDisplayFlg=1) and [2014-0349](http://www.pco-bcp.gc.ca/oic-ddc.asp?lang=eng&Page=secretariats&txtOICID=2014-0349&txtFromDate=&txtToDate=&txtPrecis=&txtDepartment=&txtAct=&txtChapterNo=&txtChapterYear=&txtBillNo=&rdoComingIntoForce=&DoSearch=Search+%2F+List&viewattach=29136&blnDisplayFlg=1). This includes engaging in general communications with visitors to the Canada.ca website under the authority of section 5 of the [Department of Employment and Social Development Act](http://laws.justice.gc.ca/eng/acts/H-5.7/index.html).
 
-If you are not satisfied with ESDC's response to your privacy concern, you may wish to contact the [Office of the Privacy Commissioner](http://www.priv.gc.ca/index_e.asp) by telephone at 1-800-282-1376.
+Canada.ca includes a general communications section called “[Questions and comments form](http://www1.canada.ca/en/contact/questions.html)”, which allows visitors to send questions and comments.. When a question or comment is about a specific activity, program, or service, it may be forwarded to the appropriate responsible officers at ESDC or at another government institution to prepare a reply.
+
+When you use the “General enquiries by email” feature, you are required to provide your email address. ESDC does not ask for or intend to use any other personal information for this activity. IP address are collected incidentally as they are a part of any Internet communication. Consequently, ESDC does not intend or try to associate you to an IP address for this activity, or to create a profile about you. **When you use the “General enquiries by email” feature, please do not include any sensitive personal information in the questions/comments box, such as your social insurance number, date of birth, personal finance data, and medical or work history.**
+
+The information you provide is collected and stored in the Personal Information Bank entitled [Public Communications (PSU 914)](http://www.infosource.gc.ca/emp/emp03-eng.asp#psu914) or in [Executive Correspondence (PSU 902)](http://www.infosource.gc.ca/emp/emp03-eng.asp#psu902).
+
+Incidental personal information for this activity is collected and stored in the Personal Information Bank [Electronic Network Monitoring Logs (PSU 905)](https://web.archive.org/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-personal-information-banks.html#psu905).
+
+## Security Incidents
+
+ESDC is responsible for the Government of Canada website, Canada.ca, as described under Orders in Council [2005-1637](http://www.pco-bcp.gc.ca/oic-ddc.asp?lang=eng&Page=secretariats&txtOICID=2005-1637&txtFromDate=&txtToDate=&txtPrecis=&txtDepartment=&txtAct=&txtChapterNo=&txtChapterYear=&txtBillNo=&rdoComingIntoForce=&DoSearch=Search+%2F+List&viewattach=13591&blnDisplayFlg=1) and [2014-0349](http://www.pco-bcp.gc.ca/oic-ddc.asp?lang=eng&Page=secretariats&txtOICID=2014-0349&txtFromDate=&txtToDate=&txtPrecis=&txtDepartment=&txtAct=&txtChapterNo=&txtChapterYear=&txtBillNo=&rdoComingIntoForce=&DoSearch=Search+%2F+List&viewattach=29136&blnDisplayFlg=1). This includes using software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. This software receives and records information including, but not limited to:
+
+  * IP address of the device that has contacted the Canada.ca website
+  * name of the domain used to access the Internet
+  * type of browser used
+  * type of operating system used
+  * the date and time of the visit
+  * pages visited and documents downloaded
+  * IP address of the website that linked directly to Canada.ca
+
+
+
+ESDC will not attempt to link these addresses with the identity of visitors to the Canada.ca website unless an attempt to damage the site is detected.
+
+ESDC engages in security monitoring and investigation of the Canada.ca website under the authority of section 161 of the [Financial Administration Act](http://laws.justice.gc.ca/eng/acts/F-11/index.html). Personal information may be shared with appropriate law enforcement authorities if suspected criminal activities are detected. It may also be used for network security-related statistical purposes, audit, evaluation, research, planning, and reporting.
+
+Personal information for this activity is collected and stored in the Personal Information Bank [Security Incidents and Privacy Breaches (PSU 939)](http://www.infosource.gc.ca/emp/emp03-eng.asp#psu939).
   *[ESDC]: Employment and Social Development Canada
+  *[]: United States of America
   *[IP]: Internet Protocol
-  *[ISP]: Internet Service Providers
-  *[ DESDA]: Department of Employment and Social Development Act
-  *[etc.]: et cetera
-  *[OS]: Opperating System
+  *[USA]: United States of America
+  *[VAC]: Veteran Affairs Canada
