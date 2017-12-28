@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquafresh.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611174626id_/http%3A//privacy.gsk.com/us/english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquafresh.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228110629id_/http%3A//privacy.gsk.com/us/english) for the most accurate reproduction.*
 
 # GSK Privacy Statement
 
