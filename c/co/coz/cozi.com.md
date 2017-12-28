@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134516id_/http%3A//www.cozi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228021125id_/http%3A//www.cozi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cozi Family Organizer
 
@@ -8,7 +8,7 @@ _Cozi is strongly committed to the privacy of all its users. We understand you v
 
 We collect and use the following information:
 
-_Information you give us._ We collect the information you give to us when you are using our Services, including the first names and email addresses of family members, calendar appointments, shopping list items, and recipes. If you choose to send text messages to your family via Cozi, we will collect phone numbers from you for that purpose.
+_Information you give us._ We collect the information you give to us when you are using our Services, including the first names and email addresses of family members, calendar appointments, shopping list items, and recipes. 
 
 ### **Usage Information**
 
@@ -89,4 +89,4 @@ Attention: Privacy Officer
 ### **Your California Privacy Rights: Notice to California Residents**
 
 California Civil Code Section 1798.83 permits customers who are California residents and who have provided Cozi with “personal information” (as that term is defined in Section 1798.83) to request certain information about the disclosure of that information to third parties for their direct marketing purposes. If you are a California resident with questions regarding this, please contact us at [www.cozi.com/support](http://www.cozi.com/support) or by mail at the address listed above.  
-Last revised: February 5, 2015
+Last revised: July 6, 2017
