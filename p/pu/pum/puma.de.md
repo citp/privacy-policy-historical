@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the puma.de privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206002220id_/http%3A//de.puma.com/de/en/privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puma.de privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228200051id_/http%3A//eu.puma.com/de/en/privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Sites-EU-Site
+
+## **PUMA Privacy Policy**
 
 The PUMA Europe GmbH (hereinafter also referred to as "PUMA", "we" or "us") is responsible for the processing of your personal data that we receive or gather from you in connection with the use of our service on or via our European websites, or in connection with the use of other PUMA applications (e.g. on mobile devices), according to the German Federal Data Protection Act (BDSG).
 
@@ -54,50 +56,76 @@ We will not pass on your personal data to anyone not included in this data priva
 
 ### **5\. Cookies**
 
-At various points on our website, we use "cookies." Cookies are small text files that the web browser stores on your hard drive. We use cookies in order to track visitor preferences, which enables us to tailor our website and improve our offer for you.
+This section contains information about our usage of cookies as well as user’s consent as to the usage of tracking and third-party cookies. 
 
-In general, no personal data is stored in the cookies that the PUMA Online Store uses. That way, none of the cookies can be attributed to you or anyone else. An identification number is assigned to a cookie when it is activated. Cookie technology only supplies us with anonymous information, for example, data regarding which pages a customer visited in our online store, which products were viewed, etc. Personal details can be saved in cookies if you give your consent. For example, in order to facilitate secure online access so that you do not have to retype your user ID and password each time you visit the site, your user ID and password can be saved in cookies to make logging in to our website easier and faster.
+_What are cookies?_
 
-Cookies make navigating and visiting web sites much more user friendly. They enable our systems, for example, to recognize your browser, save your basket between visits, or to offer you suitable products on other websites (e.g. product provided by partners whose websites contain PUMA Online Shop content).
+At various points on our website, we use "cookies." Cookies are small text files that the web browser stores on your hard drive. Cookies collect and store certain information which can be accessed by web servers.
 
-You can prevent cookies from being stored on your hard drive by setting up the necessary settings in your browser. For details on how to do this, please refer to the manual or the browser manufacturer's help function. Thereyou will learn:
+_Cookies and personal data_
+
+In general, no personal data is stored in the cookies that the PUMA Online Store uses. That way, none of the cookies can be attributed directly to you or anyone else without your prior consent. An identification number is assigned to a cookie when it is activated. So the cookie technology only supplies us with information of a user with a certain Cookie-ID (pseudonym). A combination of a Cookie-ID and personal data of the user (e.g. name, email address etc.) and thus a direct attribution of the information collected by or stored in the cookie to a certain user only takes place if the user has given his unambiguous prior consent.. For example, in order to facilitate secure online access so that you do not have to retype your user ID and password each time you visit the site, your user ID and password can be saved in cookies to make logging in to our website easier and faster.
+
+_Types and purposes of cookies used by PUMA_
+
+Necessary Cookies
+
+We use cookies which are necessary to make navigating and visiting web sites user friendly. They enable our systems, for example, to set the right language or to save your basket between visits.
+
+Tracking and third-party cookies
+
+We also use tracking cookies to analyze visitor preferences (e.g. data regarding which pages a customer visited in our online store, which products were viewed, etc.), which enables us to tailor our website and improve our offer for you. For more details which of our statistic and marketing tools use such tracking cookies and what kind of data is tracked and stored with these cookies see below under sec. 6 ff. of this Privacy Policy.
+
+Our website also uses third-party cookies for "re-targeting". We use these cookies to make our internet offers as appealing to you as possible. This technology allows internet users who are already interested in our store and our products to respond to the advertising on our partner websites. Cookie technology enables us to insert advertising on our partner pages.
+
+**With the usage of our website you consent to our usage of these tracking and third-party cookies. If you don’t want that, please ensure that (these) cookies are disabled in your browser settings. You can also at any time withdraw your consent for the future by deleting existing cookies and setting up your browser preferences appropriate to prevent that new (kinds of) cookies are set. More information about how cookies can be prevented and deleted can be found in the section (“Prevention and deletion of cookies”) below.**
+
+_Prevention and deletion of cookies_
+
+You can prevent cookies from being stored on your hard drive by setting up the necessary settings in your browser. You can also delete cookies already stored on your computer at any time. For details on how to do this, please refer to your browser’s manual or your browser manufacturer's help function. There you will learn:
 
   * – how your browser can notify you when you receive a new cookie;
   * – how to prevent your browser from accepting new cookies, or
-  * – how to disable cookies to keep them from being obtained and stored in general.
+  * – how to disable cookies to keep them from being obtained and stored in general and
+  * how to delete cookies.
 
 
 
 And of course, you can delete cookies already stored on your computer at any time.
 
-You can turn off or delete similar functions, such as flash cookies, which browser add-ons use, by changing the browser add-on settings or via the website of the browser add-on manufacturer (e.g. the Adobe Flash Player site).
+You can also turn off or delete similar functions, such as flash cookies, which browser add-ons use, by changing the browser add-on settings or via the website of the browser add-on manufacturer (e.g. the Adobe Flash Player site).
 
 Of course, you can also view our website without cookies. However, this can lead to function restrictions on our site (for example, regarding using the shopping cart).
 
-**Re-Targeting**
-
-Our website uses "re-targeting" technologies. We use these technologies to make our internet offers as appealing to you as possible. This technology allows internet users who are already interested in our store and our products to respond to the advertising on our partner websites. Cookie technology enables us to insert advertising on our partner pages. This form of advertising is done anonymously through our partner Criteo Ltd., which does not store any personal data, nor are any user profiles merged with your personal information. For more information, please refer to Criteo GmbH's privacy policies (<http://www.criteo.com/de/datenschutzrichtlinie>).
-
 ### **6\. Web Analysis**
 
-To continuously improve and optimize our service, we use Adobe Systems Incorporated and Webtrekk GmbH tracking technologies to statistically evaluate our websites.
+To continuously improve and optimize our service, we use Adobe Systems Incorporated, Webtrekk GmbH and Mapp Digital US LLC tracking technologies to statistically evaluate our websites.
 
-We use Adobe SiteCatalyst (Omniture) and Webtrekk services to collect statistical data on the use of our website. We use this data to improve the PUMA Online Shop, and to improve and optimize our offers on an ongoing basis, which makes visiting our website more exciting for you.
+We use Adobe Analytics(Omniture), Webtrekk and Mapp services to collect statistical data on the use of our website. We use this data to improve the PUMA Online Shop, and to improve and optimize our offers on an ongoing basis, which makes visiting our website more exciting for you.
 
 When visiting this site, your browser provides information that is collected and analyzed. This is done using cookie technology and pixels that are included on each site. The following data are collected: request (file name of the requested file), browser type/version, browser language, operating system, internal resolution of the browser, screen resolution, java script enabled, Java on/off cookies on/off, color depth, referring URL, IP address (will only be collected anonymously and deleted immediately after use), time of access, clicks, order values, shopping carts and form content that is rendered anonymous (for example, whether a phone number has been specified or not).
 
-None of this data can ever be directly attributed to you. The data collected is used to create anonymous user profiles, which are the basis for web stats. The data that Adobe SiteCatalyst and Webtrekk collect is not used to identify visitors to this website at any time without first obtaining the visitor's express permission, nor is it merged together with any personal data related to the bearer of a user name.
+None of this data can ever be directly attributed to you. The data collected is used to create anonymous or pseudonymized user profiles, which are the basis for web stats. The data that Adobe Analytics, Webtrekk and Mapp cookies collect is not used to identify visitors to this website at any time, nor is it merged together with any personal data related to the bearer of the profile, unless the user gives its unambiguous prior consent.
 
-Adobe SiteCatalyst and Webtrekk data collection and storage can be revoked at any time and will remain that way for the future. Please go to the following links:  
-_Adobe SiteCatalyst:_ <http://www.adobe.com/en/privacy/opt-out.html>  
-_Webtrekk:_  <http://www.webtrekk.com/en/index/dataprivacy.html>
+Adobe Analytics, Webtrekk and Mapp data collection and storage can be revoked at any time and will remain that way for the future. Please go to the following links:  
+_Adobe Analytics:_ <http://www.adobe.com/privacy/opt-out.html>  
+_Webtrekk:_  [ http://www.webtrekk.com/en/index/dataprivacy.html](http://www.webtrekk.com/en/index/dataprivacy.html)
 
-Follow each of the above-mentioned links to set an opt-out cookie. This opt-out cookie remains valid for at least 5 years. Please note that when deleting all cookies on your computer, this opt-out cookie will also be deleted, so you have to reset the opt-out cookie if you want to continue to reject anonymous data collection through Adobe SiteCatalyst and/or Webtrekk.
+_Mapp:_  
 
-The data privacy policies of Adobe SiteCatalyst and Webtrekk can be found at these websites:
+[ http://go.flx1.com/opt-out](http://go.flx1.com/opt-out)
 
-_Adobe SiteCatalyst:_ <http://www.adobe.com/privacy/analytics.html>  
-_Webtrekk:_ <http://www.webtrekk.com/en/index/dataprivacy.html>
+Follow each of the above-mentioned links to set an opt-out cookie. This opt-out cookie remains valid for at least 5 years. Please note that when deleting all cookies on your computer, this opt-out cookie will also be deleted, so you have to reset the opt-out cookie if you want to continue to reject anonymous or pseudonymized data collection through Adobe Analytics, Webtrekk and/or Mapp.
+
+The data privacy policies of Adobe Analytics, Webtrekk and Teradata Mapp can be found at these websites:
+
+_Adobe Analytics:_ [ http://www.adobe.com/privacy/analytics.html](http://www.adobe.com/privacy/analytics.html)  
+_Webtrekk:_ [ http://www.webtrekk.com/en/index/dataprivacy.html ](http://www.webtrekk.com/en/index/dataprivacy.html) _Mapp:_[ flxone.com/privacy-platform](https://web.archive.org/web/20171228200051id_/http%3A//eu.puma.com/de/en/privacy-policy/%E2%80%9D)  
+
+
+_2\. Consent (“Opt-in”) for merging pseudonymized usage profiles in DMP with personal data from the CEP_
+
+Herewith I agree that the usage data collected on our website with the help of cookies from the Mapp system as well as data from already existing (pseudonymized) usage profiles from this system (for more information see sec. 5 (“Cookies”) and 6 (“Web Analysis”) of our privacy policy) is merged with my user data, additional information regarding surf behavior on Puma’s sites and is used for advertising purposes such as behavioral targeting, specific marketing in the fields of sportswear, sports equipment and supporting sports merchandise. I acknowledge that I have the right to withdraw my consent at any time by opting out of our newsletter or sending an email to [info@puma.com]. Such a withdrawal of consent does not affect the lawfulness of data processing based on the consent before the withdrawal.
 
 ### **7\. Google Analytics**
 
@@ -109,7 +137,7 @@ You may refuse the use of cookies by selecting the appropriate settings on your 
 
 Further information concerning data privacy can be found at _https://www.google.de/intl/en/policies/_
 
-[Disable Google Analytics](https://web.archive.org/web/20161206002220id_/http%3A//de.puma.com/de/en/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
+[Disable Google Analytics](https://web.archive.org/web/20171228200051id_/http%3A//eu.puma.com/de/en/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
 
 ### **8\. The Facebook Like Button**
 
