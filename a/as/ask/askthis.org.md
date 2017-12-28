@@ -1,70 +1,125 @@
-> *The following text is extracted and transformed from the askthis.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628194340id_/http%3A//askthis.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askthis.org privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228184430id_/http%3A//askthis.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   * #### Privacy Policy
 
-### Welcome to askthis.org!
+Inuvo®, Inc. and its subsidiaries ("Inuvo" or "we") takes consumer privacy seriously. We are committed to following industry standards, best practices and guidelines relating to the use of consumer information and privacy. 
 
-Here at askthis.org we deliver highly relevant search results to our users while maintaining the most professional service standards. This means we are dedicated to treating you with care and respect.
+This privacy policy is intended to inform consumers about the way we use and protect the information we collect about customers and users. Information is collected by us through our website www.inuvo.com, through other Inuvo owned and operated websites, and across our various Advertising Technology Platforms.
 
-We encourage anyone using [www.askthis.org](http://www.askthis.org/) (our "Site") to make educated decisions about their online practices. To help you do so, this Privacy Policy details important information that will help answer questions regarding personal privacy in relation to the use of our Site. You should also review our ["Terms of Use"](http://www.askthis.org/about/terms) before using this Site.
+**INFORMATION COLLECTION AND USE**  
+_Personally Identifiable Information_
 
-### The Information askthis.org Collects:
+Personally identifiable information ("PII") is data that identifies you personally, such as your name, address, telephone number, email address, or birth date. We do not collect PII from client websites via our Advertising Technology Platforms. We do, however, collect any data that you choose to share with us on our websites, such as signing up for newsletters or opting in to receive information from us. For example, you may choose to send us PII about yourself in an email or by completing an online form on one of our websites. We use this information to contact you to respond to an inquiry, and in some instances, certain parts of our websites require requested PII for you to participate in programs and services. Once collected, we will store your PII for a reasonable time for record-keeping purposes and promotional marketing efforts.
 
-When this Privacy Policy uses the term "personal information," we mean information that might help identify a particular individual, such as the individual's name, postal address, e-mail address, and telephone number.
+We also collect PII on some of our websites when you sign up as an Account Holder. Account Holders include both Advertisers and Publishers who have been qualified and approved for access to an Inuvo Advertising Technology Platform, or Consumers who have created an account to access one of our ecommerce websites. Account Holder information collected includes PII necessary to conduct business including, but not limited to, account holder name, phone number, email address, and/or tax ID number. Payments made to and/or from Inuvo require the provision of and specified collection of additional PII which may include, but is not limited to, bank account information and credit card numbers. Phone, facsimile, email and/or cell numbers may be used to contact Account Holders as needed.
 
-We do not collect any personal information other than (i) in those cases where you are required to submit such to participate in a promotion, sweepstakes, or other contest sponsored by askthis.org or an affiliate of askthis.org
+All Account Holder information collected is maintained in a password-protected environment. This information is used for client/customer service, media delivery, contact, billing-payables and receivables and/or other reporting purposes. Account Holders may change, update or add additional information about themselves online through our various Inuvo web sites.
 
-_Log File Information:_ Using askthis.org may result in us receiving non-personal performance and usage information, such as browser type, default language setting, Internet Protocol (IP) address, platform type, the date and time of your request, number of clicks within our environment, an anonymous/random identifier, page views and/or the amount of time spent on our particular pages. We may use this type of information to power the services, identify problems, assess performance and to improve the quality and design of our Site.
+**Non-Personally Identifiable Information**
 
-_Cookies:_ We do use "cookies." The cookies we place on your computer are very small text files. They are stored on your hard drive and communicate with our servers only when you are visiting our websites. They allow us to monitor aggregate metrics such as total number of visitors and number of pages viewed. We may also use cookies to administer promotion, sweepstakes, or other contests sponsored by askthis.org or an affiliate of askthis.org. Your web browser is likely already set to accept cookies, yet you may choose to block cookies in your web browser’s settings. Note that blocking cookies may result in some features not being able to function properly.
+We also collect Non-Personally Identifiable Information (Non-PII) via our websites and our various Advertising Technology Platforms. Non-PII cannot be used to contact any single person or entity.
 
-We allow third parties that display advertisements, search listings, and other content on portions of our Site to set and access their cookies on your computer and any cookies are subject to the third parties privacy policies and not ours. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+* Cookies. We use "cookies." The cookies we place on yoru computer are very small text files that uniquely identify your browser and may be sent to your computer or mobile device. They are stored on your hard drive and communicate to our servers only when you are visiting our websites or a Client website utilizing one of our Advertising Technology Platforms. You are always free to decline cookies. You can configure your browser to accept all cookies, reject all cookies, erase cookies or notify you when a cookie is set. For more information about cookies and web beacons, visit http://www.allaboutcookies.org/cookies/.
 
-We partner with a limited number of behavioral advertising companies to serve ads and/or collect certain information when you visit our websites. Behavioral advertising companies may use cookies to collect non-personally identifiable information during your visit to our websites in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this 'behavioral advertising' practice or to opt-out of this use of your anonymous information, you can go to the National Advertising Initiative's website at <http://www.networkadvertising.org/managing/opt_out.asp>.
+* Device Information. We collect information regarding the Internet browser, computer, tablet, mobile phone, smartphone or other device utilized to access our websites or Advertising Technology Platforms.
 
-_Search Revenue_ : We do collect statistical search data. This data does not contain any personally identifying information and is passed through to our search partner for billing purposes.
+* Internet Protocol Addresses. Internet browsers automatically transmit information such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version of your computer. 
 
-_Children’s Privacy Protection_ : The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. AskThis does not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides personal information through registration or any other means to AskThis represents to us that he or she is 13 years of age or older. If AskThis learns that Personal Information has been collected from a user under 13 years of age on or through AskThis products, then AskThis will take the appropriate steps to cause this information to be deleted.
+* Location Information. On some of our mobile applications we may (or may enable a third party to) request your geolocation information. If allowed, we (or the third party) may use this information to supply you with location specific advertisements, offers and functionality. Additionally, we may (or may enable a third party to) capture geolocation information (such as IP address data) when you access our websites or via our Advertising Technology Platforms, and may use that geo-location information to targets ads, offers and functionality.
 
-If you are the parent or legal guardian of a child under 13 who has become an AskThis member, please contact AskThis at [contact@askthis.org](mailto:contact@askthis.org) to have that child's account terminated and information deleted.
+* Analytics. We use third party information, reports and analysis about the usage and browsing patterns of Internet users. We allow the third party analytics companies to include web beacons and cookies on certain of our websites and in some of our Advertising Technology Platforms. The collected information includes search terms, search parameters, click-throughs by users, and other similar information. 
 
-### Information askthis.org Discloses
+* Log Files. We may also automatically log certain anonymous information about visitors to our websites, including, but not limited to, where the user came from to visit our site, IP address, search terms utilized, browser type and a reading history of the pages viewed.
 
-We may use personal information that you submit to enter into a promotion, sweepstakes, or other contest sponsored by askthis.org or an affiliate of askthis.org to administer the promotion, sweepstakes, or contest. This may include sharing such information with a third party service provider that we may use to administer such promotions, sweepstakes, or contests. 
+* Web Beacons. We (or our third party partners) may use web beacons. Web beacons communicate information from your Internet browser to a web server. 
 
-There is certain non-personal information, as described above, that we may collect and combine with the non-personal information of other individuals (i.e. to aggregate data). Given the nature of this impersonal information, there are no restrictions under this Privacy Policy upon the right of askthis.org to aggregate your information, and AskThis may use and/or share with third parties the resulting aggregate usage data in any way.
+* Other. As new technologies develop we may implement and/or test them on our websites or in our Advertising Technology. We only utilize technologies as permitted by law.
 
-askthis.org will disclose any information it can access on a user when it believes in good faith that such disclosures are required by law, including, for example, to comply with a court order or subpoena or if we believe, in our sole discretion, that such a disclosure will help to (a) enforce our Terms of Use or any other posted rules or policies; (b) protect your safety or security, including the safety and security of property that belongs to you; and/or (c) protect the safety and security of our Site, askthis.org, its parent, affiliates and subsidiaries and/or third parties, including the safety and security of property that belongs to askthis.org or third parties.
+We use Non-PII for five basic purposes. The first is to improve and customize the content and advertisements on our websites, this includes items such as ensuring our sites and content are viewable and in the appropriate language. The second is to "frequency cap" ad campaigns that we administer. Frequency capping controls the number of times you are exposed to an ad, which results in a better experience for you and the advertiser. The third way we use Non-PII is to serve appropriate promotions from advertisers if you have expressed an implied interest by visiting that advertiser's site (known as "retargeting"). The fourth way is for Interest-Based Advertising (IBA), which uses consumer data to infer intent. We retain this data for 60 days, after which the data is aggregated and maintained for an additional two years solely for reporting purposes. The fifth way we use Non-PII is for business purposes, such as data analysis, audits, record keeping, and contractual compliance. While we also use Non-PII in a limited fashion for the administration and operation of our websites, it used primarily to improve the overall quality of experience with the information we provide on our websites. 
 
-This Privacy Policy shall not be construed as preventing us from complying with any court order, court authorized discovery, agency authorized discovery of your information, or any other legal requirement.
+**PUBLIC FORUMS**
 
-### Security of Your Personal Information
+Some of our websites make chat rooms, polls, surveys, forums, message boards, blogs commentary and/or news groups available to users. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your PII through these channels.
 
-The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect user information from unauthorized access and improper use. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our reasonable efforts, no security measures are impenetrable and any connection or information transmitted to askthis.org will be at your own risk.
+**THIRD-PARTY WEBSITES AND ADVERTISEMENTS**
 
-### Links
+Our websites may contain links to other websites, including Advertiser offers for Publisher participation. Third parties may perform functions on our behalf, such as fulfilling orders, providing promotional materials to our users, sending email, managing data, processing credit card payments or providing customer service. They have access to your personal information only to the extent necessary to perform their functions and may not use it for any other purpose.
 
-askthis.org delivers search results that link to any variety of web properties whose information practices are different than our own. We may also place links to other websites at askthis.org. askthis.org only controls information practices at its own site and visitors should consult any other sites' privacy policies when navigating off of the askthis.org domain, as we have no control over information that is collected or shared by third parties. askthis.org is, therefore, not responsible for the privacy practices or the content of such third party websites.
+Such websites may use cookies and/or other data collection tools. Inuvo is not responsible for the privacy practices, policies or content of such other websites. Inuvo encourages everyone to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. Inuvo has no control over the use of information by third-party websites, and you should exercise caution when deciding to disclose any PII to those websites.
 
-Information you share off of our domain with any website we link to is not collected by askthis.org and askthis.org will not be responsible for any such information.
+Sometimes we use third-party advertising companies to serve ads when you visit our websites. These companies may use non-personal information (i.e., information that does not include your name, address, email address or telephone number) about your visits to our and other websites in an effort to provide advertisements about goods and services that may be of interest to you. To learn more about third-party advertising, interest based advertising, or to opt-out of such advertising, you can visit both the Network Advertising Initiative and the Digital Advertising Alliance.
 
-### Changes and Updates to this Privacy Policy
+In addition to the above, on some of our websites we have implemented certain "Google Analytics" features that support display advertising, including re-targeting. Visitors to these websites may opt out of Google Analytics, customize the Google Display Network ads by using the Google Ad Preferences Manager and learn more about how Google serves ads by viewing its Customer Ads Help Center. If you do not wish to participate in Google Analytics, you may also download the Google Analytics opt-out browser add-on.
 
-askthis.org may, at its discretion, change this Privacy Policy periodically and changes will be reflected by the "Last Updated" reference below. Please revisit this page to stay aware of any changes.
+**INFORMATION SECURITY AND STORAGE . STORAGE OF PII**
 
-### Contact Information:
+All information collected via information request forms or contact us emails is only used to respond to that inquiry. Once collected, we will store your PII for a reasonable time for record-keeping purposes and promotional marketing efforts.
 
-If you have any questions or concerns about this askthis.org Privacy Policy or its implementations please contact us at the following address:
+All Account Holder information collected is maintained in a password-protected environment. This information is used for client/customer service, media delivery, contact, billing-payables and receivables and/or other reporting purposes.
 
-askthis.org  
-Attention: Privacy Issues  
-500 President Clinton Ave. Suite 300  
-Little Rock, AR 72201  
-[contact@askthis.org](mailto:contact@askthis.org)
+**INFORMATION SECURITY AND STORAGE . STORAGE OF NON-PII**
 
-**Last Updated:** January 30th, 2015
+We retain Non-PII for use to more effectively match advertisements and website content to your interests for up to 180 days and for data analysis, audits, record keeping, and contractual compliance purposes for up to two years. This data includes, but is not limited to, IP address, content viewed, ad interaction, interaction with other advertiser websites, browser type, Internet Service Provider, the time/date of the visit to our websites, the computer's operating system (e.g., Windows XP), search terms used and other click and browsing behavior. 
+
+**SECURITY**
+
+We use industry standard practices to safeguard the confidentiality of information and treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company.
+
+**INFORMATION SHARING AND DISCLOSURE**
+
+We do not sell, rent or share PII collected on Inuvo websites with non-affiliated third parties without your consent.
+
+Inuvo may share Non-PII collected via our websites and Advertising Technology Platforms with third-party service providers whom have contracted with third-party marketing partners, business partners and/or Inuvo clients, and as expressly provided for herein. Similarly, we may enhance the Non-PII collected via our websites and Advertising Technology Platforms with Non-PII collected from third-party marketing partners, business partners and/or Inuvo clients. This information cannot be used to contact or identify any person individually.
+
+We may disclose information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person.
+
+Finally, we may transfer information, including any PII collected via Inuvo websites, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+
+**COMPLIANCE WITH THE NETWORK ADVERTISING INITIATIVE**
+
+Inuvo recognizes and complies with the self-regulatory policies of the Network Advertising Initiative (NAI) and is a member of the Network Advertising Initiative (NAI) - a coalition of more than 90 leading online advertising companies championing the responsible and transparent use of information for Interest-Based Advertising. Since 2000, the NAI has been working with the leaders in online advertising to build consumer awareness and to reinforce responsible business and data management practices and standards. Inuvo will sometimes use third-party data providers to complement its product offerings, and some of these companies are also fellow members of the NAI. For more information on the NAI, or to opt out of behavioral targeting delivered by NAI member companies, please visit www.networkadvertising.org.
+
+Inuvo does not engage in retargeting campaigns that market prescription drugs. However, Inuvo may offer retargeting services for consumer health products that do not require a prescription. Examples of where retargeting might be offered include certain health categories such as fitness equipment, calorie counters, etc.
+
+**TRUSTe**
+
+Inuvo is a licensee of the TRUSTe Ads Program. TRUSTe is an independent organization with the mission to build a user's trust and confidence in the Internet by promoting the use of fair information practices.
+
+If you have any questions or concerns regarding this statement, you should first contact Inuvo using the contact information provided at the bottom of this page. If you do not receive acknowledgment of your inquiry or your inquiry has not been addressed to your satisfaction, please contact TRUSTe by visiting the following site: https://feedback-form.truste.com/watchdog/request. TRUSTe will function as a liaison with Inuvo to help resolve your concerns.
+
+**OPT-OUT . MOBILE APPLICATION OPT-OUT**
+
+Mobile devices allow users to opt-out of the collection of usage information within their mobile apps. You can choose to opt-out in your device settings by selecting "Opt out of Interest-Based Ads" on Android devices and "Limit Ad Tracking" on iOS devices. 
+
+**OPT-OUT OR UPDATE YOUR PII**
+
+As an Account Holder across our websites, you will only receive email communications from Inuvo for business administration purposes, including website and platform service updates. Any promotional emails you may receive will have an opt-out option within the footer of the email. If you opt-out, you will be removed from the promotional email list, however, as an Account Holder, you will still receive any/all business administration emails applicable to your account. As an Account Holder, you can update your PII through most of our websites yourself by simply logging into your account and modifying your account profile.
+
+If you have voluntarily submitted your PII via one of our websites through an information request form, newsletter sign up, or contact us email, then you may be receiving promotional marketing communications from Inuvo.
+
+At any time, you can unsubscribe directly from any of these communications by following the opt-out instructions included within the footer of the communication received. INFORMATION RELATED TO CHILDREN
+
+Our products and services are designated for a business audiences, and those that are 21 years of age or older. We do not knowingly collect data from children under the age of 13. If we are made aware that we have received data from anyone under the age of 13, we will take reasonable action to remove that information from our records.
+
+**COMPLIANCE WITH LEGAL PROCESS**
+
+We may disclose information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our websites; or (4) protect the personal safety or property of our users or the public.
+
+**USERS FROM OUTSIDE THE UNITED STATES**
+
+Visitors to our websites from outside the United States will have their data transferred to and stored in our servers in the U.S. By using our websites, international users are consenting to our use and collection of their data as described herein.
+
+**RIGHT TO CHANGE POLICY**
+
+Inuvo reserves the right to modify this privacy statement at any time, so please review it frequently.
+
+**CONTACT US**
+
+If you have questions about our privacy policy, please contact us at privacy@inuvo.com or by mail at: Inuvo, Inc. Attn: Marketing and Communications, 500 President Clinton Ave, Suite 300, Little Rock, AR 72201
+
+Updated November 2017
 
 
 
