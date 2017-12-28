@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the applifier.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624093218id_/https%3A//unity3d.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applifier.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228022326id_/https%3A//unity3d.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Unity - Privacy Policy
 
-[ ](https://web.archive.org/)
-
-**Last Updated: June 16, 2017**
+**Last Updated: September 21, 2017**
 
 ## 1\. Frequently Asked Questions – FAQs
 
@@ -394,7 +392,7 @@ Users: Log in to [Everyplay](https://everyplay.com/) and navigate to the user se
 
 ## 9\. Transfers out of Country of Collection
 
-  * Unity has implemented and maintains a framework consistent with applicable law for transfers of data outside of the country of collection, including for transfers out of the EEA. In addition, Unity is certified under the US-Swiss Safe Harbor Framework regarding the collection, use, and retention of personal information from Switzerland, and Unity complies with the US-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the US-Swiss Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>. 
+  * Unity has implemented and maintains a framework consistent with applicable law for transfers of data outside of the country of collection, including for transfers out of the EEA. 
 
   * Your use of the Services may involve the transfer, storage and processing of your information to and in various countries around the world where our servers are located and our databases are operated that may have different levels of privacy protection than your country. By using the Services, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy.
 
