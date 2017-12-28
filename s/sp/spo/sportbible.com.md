@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sportbible.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604054634id_/http%3A//www.ladbiblegroup.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportbible.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228051419id_/http%3A//www.ladbiblegroup.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy - LADbible Group
 
 **PRIVACY POLICY**
 
-The websites, located at <http://www.ladbible.com/> <http://www.sportbible.com/> or [http://www.pretty52.com/](https://www.pretty52.com/) (together “our sites”), ire operated by The LADbible Group Limited trading as ‘LADbible Group’ (“LBG”, “our”, “us” or “we”), a company incorporated in England (registered number 08018627) and whose registered office is at 20 Dale Street, Manchester, M1 1EZ (we, us, our). We are a private limited company.
+The websites, located at <http://www.ladbible.com/> <http://www.sportbible.com/> or <http://www.pretty52.com/> (together “our sites”), ire operated by The LADbible Group Limited trading as ‘LADbible Group’ (“LBG”, “our”, “us” or “we”), a company incorporated in England (registered number 08018627) and whose registered office is at 20 Dale Street, Manchester, M1 1EZ (we, us, our). We are a private limited company.
 
 During your use of our sites we will collect personal information about you. This Privacy Policy sets out the information practices used by us, including the type of personal information we gather, how the information is used, and with whom the information is shared.
 
@@ -94,7 +94,7 @@ We may also use such aggregate information to help advertisers reach the kind of
 8.1 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10.00 to meet our costs in providing you with details of the information we hold about you. We will respond to any access request as soon as reasonably practicable following receipt of payments by cash or cheque made payable to by The LADbible Group Limited.
 
 **COOKIES POLICY**  
-This websites, located at <http://www.ladbible.com/> <http://www.sportbible.com/> or [http://www.pretty52.com/](https://www.pretty52.com/) (together “our sites”), are operated by The LADbible Group Limited, a company incorporated in England (registered number 08018627) and whose registered office is at 20 Dale Street, Manchester, M1 1EZ (we, us, our). We are a private limited company.
+This websites, located at <http://www.ladbible.com/> <http://www.sportbible.com/> or <http://www.pretty52.com/> (together “our sites”), are operated by The LADbible Group Limited, a company incorporated in England (registered number 08018627) and whose registered office is at 20 Dale Street, Manchester, M1 1EZ (we, us, our). We are a private limited company.
 
 This Cookies Policy sets out the cookie practices used by us, including the type of cookies we may use, the purposes for using the cookies and how you may refuse to accept or block the cookies.
 
