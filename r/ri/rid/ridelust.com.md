@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ridelust.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620153642id_/http%3A//www.ridelust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridelust.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228042126id_/http%3A//www.ridelust.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
