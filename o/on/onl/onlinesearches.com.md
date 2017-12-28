@@ -1,128 +1,186 @@
-> *The following text is extracted and transformed from the onlinesearches.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624234534id_/http%3A//publicrecords.onlinesearches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesearches.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228013418id_/http%3A//publicrecords.onlinesearches.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Welcome to OnlineSearches.com, a website designed to help you find information available in public records. This privacy policy is for visitors (“you”) of OnlineSearches.com (the “service” or “the site”), which is owned and operated by Inflection.com, Inc. (“we” or “our”).
+_Update Effective: December 18th 2017_
 
-This policy discusses what information these sites collect, how we use it, and the limited circumstances we may share it in. 
+Welcome to PeopleConnect and thank you for using our services. Our web sites include PeopleConnect.us, Classmates.com, Intelius.com and USSearch.com, as well as other websites owned and operated by us (collectively, the “Websites), along with various applications and tools that we operate on third-party websites and devices, such as Facebook, smartphones or tablets (such services offered through the Websites, applications or tools collectively, the “Services”).
 
-## What is covered by this privacy policy?
+We are committed to protecting the privacy of our users' personal information as described in this Privacy Policy. The purpose of this Privacy Policy is to inform you of our information practices related to the information that you provide when using our Services, including:
 
-OnlineSearches.com is a tool designed to help you find public records information about yourself and others.  This site is not a consumer-reporting agency as defined by the [Fair Credit Reporting Act](https://www.peoplesmart.com/fcra) (FCRA). Visit [GoodHire.com](http://www.goodhire.com/gh.aspx?_act=landing&cam=6336) for all your employment screening needs.
-
-## What isn’t covered by this privacy policy?
-
-This privacy policy only applies to information collected by this website, which is owned and operated by Inflection.com, Inc. This policy does not apply to the practices of other website domains you visit because you click a link on this site, to other Inflection services, to the practices of companies that we do not own or control, or to people that we do not employ or manage.
-
-## If you want to submit an opt-out request to remove yourself from the search results of this and other people search sites we operate, please [click here](https://www.peoplesmart.com/optout). We will try our best to honor it.
-
-If you choose to opt out of search results, that choice will affect the visibility of the relevant information on our entire network of sites, which includes this website, Peoplesmart.com, Identity.com, and other affiliated properties. We try our best to honor your request, but our opt-out system is not perfect and it may miss records that don’t perfectly match the information you submit.
-
-## Your Public Records Exist Elsewhere In The World – We Do Not Control Them
-
-This site displays public records that are available in the real world, such as criminal history records from law enforcement agencies and bankruptcy records from courts. Original copies of public records can only be changed by those entities. Inflection obtains its public records through third party sources. Please note that exercising the opt-out option will not actually delete or change the original copies of such records. 
-
-**Note:** If you consent to the release of your information via another Inflection product (e.g., a background report on GoodHire.com), your public records will be shared for the purpose you specify.
-
-## Your safety and privacy are very important to us
-
-We want to minimize the risk of harm resulting from the use of public records information. Please contact us if you are particularly at risk for certain types of harm as a result of your public records being available on this site. Inflection will work with you on mitigating the risk any potential harm, including physical harm, threats to public officials such as law enforcement, and issues related to identity theft. Please send your request to our Privacy Department at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com) along with appropriate documentation.
-
-## We Collect Information Necessary for Payments and Other Products
-
-If you choose to purchase a report or subscription on this site, your purchase will be made through PeopleSmart.com and covered under its privacy policy, [available here](https://www.peoplesmart.com/privacy-policy). PeopleSmart.com is owned by our parent company, Inflection.com, Inc.
-
-When you make a purchase, PeopleSmart.com may collect information to complete it and prevent fraud, which may include your credit card information, name, email address, and physical address. For processing payments, PeopleSmart uses systems that are compliant with the Payment Card Industry Data Security Standard (PCI DSS). All payment and transaction-related information is safely stored according to PCI DSS requirements.
-
-## Information We Collect From All Visitors
-
-### Technical and Analytics Information
-
-We collect technical and analytics information from all visitors. This information includes your IP address, the URL that brought you to the service, and information about your device and browser.
-
-### Activity Information
-
-When you visit this site, we collect information about which pages you visit, who what you search for, and the products you buy.
-
-### Information collected by cookies and in the background
-
-This site makes use of tools such as cookies to collect various types of information about your activity and computer while your use the website. We only use information collected in the background to deliver and market our services — information collected by cookies and other tools is not used to augment our search results.
-
-  * **Content and preference cookies.** We use different types of cookies (both temporary and persistent) to make it easier for you to help you navigate the site, track usage of our site to improve your experience, and remember your preferences. Disabling cookies may limit your ability to use some areas of our site.
-
-  * **Technical and analytics data.** We use services such as Google Analytics to learn about how people discover, use, and interact with the site. 
-
-  * **Advertising information.** We use third party advertisers to show you ads for Inflection products on other websites. Showing you these ads involves placement of a cookie on your computer. If you would like more information about these practices and to know your choices for opting out, please visit the [Google opt out page](http://www.google.com/ads/preferences/) to opt-out of Google cookies, or the Network Advertising Initiative’s [opt out system](http://www.networkadvertising.org/choices/). We do not control the cookies and/or trackers used by the third-party resources and links provided on this site. However, we can provide visibility into the cookies and trackers used when you follow links or paths from this site to our partner site, PeopleSmart.com. For a closer look into the third-party advertising and tracking cookies involved, you can consult the [About Our Cookies page](https://www.peoplesmart.com/about-our-cookies) on PeopleSmart.com. This privacy resource provides useful information and options for opting out of these cookies.
+  * Collection and Use of Your Information
+  * Sharing Your Information
+  * Updating or Removing Your Information
+  * Communications From Us
+  * The Security of Your Information
+  * A Note About International Users
+  * A Special Note About the Privacy of Minors
+  * Changes to Our Privacy Policy
 
 
 
+Please remember that this Privacy Policy does not apply to the practices of companies that we don't own or control or to people that we don't employ or manage. We encourage you to read the privacy policies of each and every website and service that collects personal information about you. This Privacy Policy applies solely to information that we collect about you as a user of the Services. This Privacy Policy is incorporated into and subject to our [Terms of Service](http://www.peopleconnect.us/terms-of-service). Each time you use the Services, you signify that you have read, understood and agree to be bound by this Privacy Policy and the [Terms of Service](http://www.peopleconnect.us/terms-of-service). If you do not agree to the terms of this Privacy Policy, you must discontinue using the Services and terminate your membership or account.
 
-## How We Use The Information We Collect
+**1\. COLLECTION AND USE OF YOUR INFORMATION**
 
-Your information is only used to provide and market this service to you, which includes operating the website, conducting in-house research, preventing fraud or abuse, marketing you products or services offered by us, and to communicate with you and address your concerns.
+a. When You Register
 
-## We Only Share Your Information in the Following Situations
+When you register for the Services, you may be required to provide certain information, such as your name, maiden name (if applicable), mailing address and/or zip code, email address, phone number, birth date or year, marital status, password, and, in the case of the Classmates Services, one or more community affiliations (such as with a school). You may also be presented with the option to register for the Services using your Facebook login credentials or similar login processes or co-registration forms from or on other third-party websites, in which case you will be authorizing us to access certain information from your current profile on Facebook or other third-party website (which will be specified in such login process) for purposes of completing your registration. In addition, when you install certain of our applications on Facebook or other third-party websites or devices, you will also be registering for the Services by agreeing to such installation, which takes place when you "accept," "install" or "allow" (or similar language) such application. Each such application includes a disclosure that this registration will occur upon the acceptance, installation or allowance of the application.
 
-**With Your Consent:** We may share your information when you give us permission.
+For Classmates members, please keep in mind that, although much of the information described above will not be viewable by other members, once you are registered your name, community affiliations and years associated with those affiliations will be displayed on the Classmates.com Website and you will no longer be anonymous to us or to other individuals who access this Website. In addition, because this information is publicly displayed on this Website, it may be included in this Website’s "search" tools, on our other Websites as described in Section 2(b) and on third-party websites and devices as described in Section 2(h) below. We may also publicly display your general geographic location based upon the zip code or other geographical information provided to us, as another means of assisting members in finding each other. However, you have the option of opting out of having your general geographic location publicly displayed by accessing your privacy settings on this Website and changing your preferences. In addition, some of the Classmates Services may only be accessible if, based on information you have provided to us, you have an affiliation related to these Services.
 
-**With Our Parent Company:**   Inflection.com, Inc. owns a variety of services in addition to this site, including Identity.com, PeopleSmart.com, GoodHire.com, and other people search sites. Data collected under this privacy policy is shared with Inflection and stored alongside data from those other services. Your choices on one service may affect another service – for instance, opting out on PeopleSmart.com may mean that your records will not be available on Identity.com. 
+b. When You Accept an Application
 
-**With Service Providers:** We use certain trusted third parties to provide services for us such as payments processing. We only share the minimum amount of information necessary to provide the service. In addition, any third-party service provider we use is required to give your information the same protections that are outlined here in this Privacy Policy.
+Some third-party websites, such as Facebook, provide their users with access to applications or other tools, such as "social login," which allow that website's users to share certain personal information with us. When you accept or allow one of our applications or use another tool to create a connection between us and Facebook or other third-party website, you authorize us to collect, store and use (in accordance with this Privacy Policy) all information that you agreed Facebook or other third-party website could provide to us, which may include such things as your email address, birthday, profile and other photos, school and work affiliations, location, interests, activities and friend information. This authorization may also include the ability to continue to collect such information from Facebook or other third-party website on an ongoing basis. If you choose to remove or delete any such application, or otherwise break our connection with your account on Facebook or other third-party website, we will no longer be able to continue to collect your information from that website. However, deletion or removal of such application does not delete your account from the applicable Website, and we will continue to store and use information that we have previously collected. You can of course edit or delete any of your account information on the applicable Website at any time (see Section 3 below).
 
-**Deidentified and Aggregated Data:** We may share or disclose information we collect after deidentifying and aggregating it so it cannot be linked back to an individual person. We contractually require third parties to respect this practice.
+Acceptance of one of our applications may authorize us to automatically post information to your profile on Facebook or other third-party website about certain of your activities, such as looking at a reunion, liking a photo, joining a community affiliation, viewing a yearbook, tagging someone in a yearbook, becoming a reunion organizer, updating the details of a reunion, responding to a reunion invitation or tagging someone as "remembered." We may also provide you with the option to post additional information about your activities or information you have found through the Services to your profile on Facebook or other third-party website.
 
-**Business Transfers:** In the event that Inflection is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. However, the new entity will be bound by this privacy policy after the sale or transfer.
+c. When You Provide a Testimonial
 
-**Legal Process and Emergency Circumstances:** We may disclose or preserve for future disclosure your information if we believe, after due consideration, that doing so is reasonably necessary to protect Inflection’s rights or property or to comply with a law, regulation, valid legal process, or to prevent imminent and serious bodily harm to a person.
+We display personal testimonials of satisfied customers on our Websites, marketing materials and in other places, in addition to other endorsements. We may post your testimonial along with your name and geographical information. If you wish to update or delete your testimonial associated with any of our Websites, please contact Customer Support through the applicable Website.
 
-If you are a law enforcement officer seeking information from Inflection about one of our users, please reference our [Law Enforcement Guidelines](http://inflection.com/privacy/additional-privacy-resources/law-enforcement-guide) for further information.
+d. When You Use the Services
 
-Unless prohibited from doing so by law or court order, we will do our best to provide subjects of law enforcement requests with advance notice before we disclose their information to law enforcement, if we have contact information for that person. We reserve the right to withhold advance notice where it would impede an investigation of identity theft, or in situations involving imminent physical harm or harm to minors.
+Log Files
 
-##  How We Retain And Protect Your Information
+As is the case with most standard website servers, we use and maintain the information that we obtain from and through your browser on our server logs. This information can include Internet protocol (IP) addresses, browser type, Internet service provider ("ISP"), and other data. We may use this information to analyze trends, administer the Services, track user movement, detect fraud or other types of abuse, and gather broad demographic information for aggregate use. We may associate this information with your information to resolve technical issues, support security for our users, and take action on any activity that may violate this Privacy Policy or the [Terms of Service](http://www.peopleconnect.us/terms-of-service).
 
-We retain all of the information we collect or that you submit for purposes including fraud prevention, legal compliance, and to resolve disputes or enforce our agreements. If you choose to opt out of public record searches, we retain that information in order to limit the future search visibility of records relating to you on our websites. 
+Cookies
 
-Your information is stored on secure servers in Northern California. While we use acceptable industry-standard practices to protect your information, we cannot and do not guarantee that your information will be absolutely secure. 
+A cookie is a small piece of data that is sent to your browser from an email or a website's computers and stored in a browser-related file on your computer or other device. Cookies are uniquely assigned to your computer or device, and are read by a web server in the domain that issued the cookie to you. We link cookies to your unique registration number and use them to enhance and personalize your experience on the Services, including helping authenticate you when you use the Services, remembering your preferences and registration information, and customizing the content and advertisements provided to you via the Services. For example, storing a cookie on your computer or device allows you to login without typing the registered email address or registration number and password. We also use cookies to deliver information and content specific to your interests through the Services. We, our affiliates and brands, and our third-party advertising partners may also use cookies to target advertisements that you may view when visiting other websites. If you do not want these cookies stored on your computer or device you can delete and/or reject cookies by modifying your Internet browser setting accordingly (each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences). However, if you choose to delete and/or reject cookies, you may not be able to sign in or use certain portions of the Services. Please also note that certain types of emails available through the Services may automatically log you into the Services and/or set new cookies when you click on the links in the emails and that you may need to manually remove such cookies if you do not want them to be stored on your computer or device. See Section 2(d) below for additional information about cookies in regards to our relationships with third parties. We do not respond to or honor Do Not Track (DNT) signals.
 
-## Fraud and Abuse Prevention
+Web Beacons
 
-We partner with certain third party vendors to prevent fraud and abuse. To do this, we may use information that includes your IP address, browser, and operating systems to identify suspected fraudulent activity and block it. 
+A web beacon (also known as a clear gif) is a tiny graphic with a unique identifier that is placed on a web page or within an email. It is similar in function to a cookie, and is used to collect a limited set of information, such as a cookie number, time and date of page view, and a description of the page on which the web beacon resides. We, our affiliates and brands, and our third-party advertising partners may use web beacons to compile aggregate statistics about which advertisements and promotions users have seen and how users responded to them. This information helps us better manage content available on the Services by informing us about what content is effective and of interest to users. In addition, we may use web beacons in our promotional email messages to keep track of how many messages and which emails have been opened and acted upon. This use allows us to gauge the effectiveness of certain communications and our marketing campaigns. We associate web beacons with individual members for internal purposes only, in an effort to understand our members' individual preferences with our email products.
 
-## Choices And Other Privacy Information
+Local Shared Objects
 
-### Access and corrections
+We use Local Shared Objects, such as HTML5, to store content information and preferences. Third parties with which we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-You may also email our Privacy Team at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com) if you wish to access, correct, or make changes to your personal information that we possess. We will do our best to promptly respond to your request.
+e. When You Purchase a Product or Paid Services from Us
 
-### Communication Preferences
+If you choose to purchase a product or paid Services from us, you may be required to provide us with certain personal contact information, such as your name, email address and billing address. We may also require other information necessary for you to receive the product, access the paid Services and/or process any applicable payment, such as a credit card or debit card number, card security code and expiration date. We may use the information that you provide to us to bill you for products and paid Services you request, or to notify you of additional products and paid Services we may offer. When you sign-up for a product or paid Services, you are consenting to our delivery of this information to our service providers, which may include banks and credit card companies that we use to process a transaction or other third parties who may provide all or a portion of the underlying product or paid Services on our behalf. See Section 2(e) below for additional information about sharing your information with our service providers. For Classmates members, we may also show your membership status through the Services so that other members can see what options they have to contact or communicate with you.
 
-We may send you information about our products and other messages related to our people search sites, including marketing emails. You can unsubscribe by clicking on the unsubscribe link in those emails or by emailing [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com) with the email address you wish to unsubscribe from.  Please note that you may still receive account and billing notices, if applicable.
+f. When You Use Classmates Member-to-Member Communications
 
-### California’s ‘Do Not Track’ law
+The Classmates Services use a "double-blind" email system, which hides the email addresses to protect the privacy of both the sender and receiver when a member sends another member an email through these Services. When using these member-to-member communications, it is up to you to choose when you are comfortable disclosing your email address, or any other personal contact information, to others. We respect the privacy of these member-to-member communications and do not read or disclose them unless we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Privacy Policy and/or our [Terms of Service](http://www.peopleconnect.us/terms-of-service), or as otherwise permitted or required under Section 2(g) below. Please keep in mind that you will not be able to delete, revise or otherwise recover any message that you send once it has been sent.
 
-When you browse our website, we may use trusted third-party tools to analyze website usage, monitor performance, and prevent fraud. The services do not currently respond to browser settings such as Do Not Track. Third parties, such as our fraud prevention tools, may also collect personally identifiable information from you. 
+g. When You Use Classmates Comment Fields, Message Boards, Events or Other Public Forums
 
-### Data Sources
+Information and content submitted to comment fields, message boards, events and other public forums on the Classmates Services are displayed publicly, so please exercise care in deciding what information and content you wish to disclose. Because this information is publicly displayed through these Services, it may be included in these Services search tools and on third-party websites and devices as described in Section 2(h) below. Please keep in mind that, because of the interactive nature of these forums, in many cases you will not be able to remove or revise the information or content that you submit in these areas of these Services and such information or content may remain on these Services even if your membership is terminated. To protect the privacy of our members, we do not allow the public posting of personal contact information. We have the right, but not the obligation, to monitor any activity and content within the comment fields, message boards, events and other public forums on these Services. Please review our "Classmates Member Conduct - Community Guidelines" (found in our _Terms of Service_.) for more information regarding your appropriate use of these areas.
 
-You may find links on our site to PeopleSmart.com useful. For information on data sources used by PeopleSmart.com, please visit their [Data Sources Education page](https://www.peoplesmart.com/data-sources-education).
+h. When You Use Classmates "Invite-A-Friend," "Email this Page" or Other Email Referral Services
 
-### California Information-Sharing Disclosure
+If you elect to use any of our referral services for informing friends via email about the Classmates Services or any portion thereof, you will be asked to provide your friends' names and email address. We will then automatically send your friends a one-time email, plus a reminder email if you so choose (each of which will usually include your name and email address) inviting them to visit these Services. We ask for this information for the sole purpose of sending these emails and tracking the success of our email referral program.
 
-We do not share your personal information that you submit to us with third parties for direct marketing purposes without your permission.
+i. When You Build a Classmates Personal Profile
 
-### Children’s Information
+We have created tools to enable you to build a personal profile to share as much information about yourself as you wish on the Services. Except as otherwise noted, when you use a specific profile tool all information that you add to your profile is publicly viewable and may be included in the Services search tools, on our affiliates’ and brands’ Websites, and on third-party websites and devices as described in Sections 2(b) and 2(i) below. For this reason, please use care in providing information that you may not want to publicly disclose. To protect the privacy of our members, we do not allow the public posting of personal contact information. Additionally, please see the Classmates Member Conduct - Community Guidelines in our Terms of Service for more information regarding the limitations on the types of information that you may post on your personal profile and elsewhere on these Services. As provided in our Terms of Service, we may use the information you provide in your profile in a variety of our products and features, such as affiliation-specific emails. This enables us to provide our members with information in a more personalized fashion. If you feel that a profile depicting you or your likeness has been created without your consent, please contact Classmates Customer Support to request its removal.
 
-This site is not directed to individuals under the age of 13 and we do not knowingly collect personal information from children under the age of 13. If we discover that we have collected personal information on a child under the age of 13 via this site, we will promptly remove it from our systems.
+j. When You View Other Classmates Members' Profiles
 
-### Contact Information
+We give you the ability to find other members and view their personal profiles by browsing the affiliation lists, clicking on or hovering over a tagged name or photo in a yearbook, using the search functionality on the Classmates Services, or otherwise providing a link on the Classmates.com Website or in an email that takes you to a member's profile. If you view any portion of another Classmates member's profile, your name and the date of your visit will be accessible by that member as someone who visited that member's profile unless you remove that specific visit or choose to opt out of having your name automatically left on other members' profiles, which you can do by accessing the "Account" section on the Classmates.com Website and changing your preferences. If you opt out of automatically having your name left on other members' profiles, you will still have the ability to leave your name on specific members' profiles on an individual basis.
 
-We are located at 555 Twin Dolphin Drive #200, Redwood City, CA 94065. If you have any questions or concerns regarding this policy, please contact us:
+k. When You Participate in Surveys
 
-Privacy Department  
-P.O. Box 391146  
-Omaha, NE 68139
+From time-to-time we may request information from our users via surveys relating to the Services or on behalf of our affiliates or third-party advertisers. When you participate in a survey, we may request personal contact information (such as your name and email address) or demographic information (such as your zip code, age or income level). We conduct surveys relating to the Services in order to target advertising and content and to better understand members' needs and opinions. We may share, in aggregate form, information we collect from these surveys with our advertisers, partners, affiliates and the general public, but we will not share survey information containing personal information with any third party without your prior consent. Participation in these surveys is completely voluntary, such that you have the choice of whether you wish to disclose the requested information.
 
-[privacy@peoplesmart.com](mailto:privacy@peoplesmart.com)
+l. When You or Third Parties Contact Us
 
-**Last Modified:** March 30, 2016 
+If you contact us by phone, email or letter, we may keep a record of such correspondence. Thus, if you report an issue with the Services, we may collect such information in a file specific to your account. Moreover, if you contact us through our feedback area, we require your name and email address in order to send you a reply. Additionally, if other users or third parties send us correspondence about your activities or postings on the Services, we may keep the information in a file specific to you.
+
+m. How We May Supplement Your Information
+
+In order for us to provide the best overall experience for you and other members of the Services, we may from time to time supplement the information we receive through your use of the Services with information from our affiliates and brands or internal or third-party resources. For example, we may obtain updated email address information or purchase third-party marketing data and address information and add it to our existing database to update or supplement your profile.
+
+**2\. SHARING YOUR INFORMATION**
+
+a. Confidentiality
+
+We only share your personal information with others when we have your permission or under the types of circumstances described in this Privacy Policy. In addition, we limit access to your personal information to only those employees who we believe reasonably need to come into contact with that information to provide products or Services to you or to do their jobs.
+
+b. Affiliates and Brands
+
+We may share your information between the PeopleConnect brands and within the family of companies that are part of and affiliated with PeopleConnect. Our affiliates and brands are listed on the PeopleConnect.us Website. We do this so that we may combine and supplement information across different Services. For example, Intelius search results and reports may include information that is publicly available on the Classmates Service. We also may share your information with our affiliates and brands for their direct marketing purposes.
+
+Please note that if we have already shared your information with our affiliates or brands prior to your request for deletion, your information will not automatically be removed from the databases of these affiliates or brands. To request deletion of your information from our affiliates’ or brands’ databases, please contact Customer Support for the relevant Service.
+
+c. Third-Party Advertising and Ad Servers/Networks
+
+While using our Services, you may be presented with advertisements or offers from unaffiliated third parties. We may also use your information to provide you with third-party advertisements or offers that are targeted to your specific needs and interests. These advertisements link directly to third-party websites or services. If you decide to sign-up for or purchase a product or service from a third party, you are providing your information to that party and subjecting yourself to its policies and practices. We have no control over the content or privacy policies or practices of such websites or services, and therefore we encourage you to review such content and privacy policies and practices prior to submitting any personal information to them. We do not control these third parties and you agree that we are not liable for their acts or any failure to act on their part. We do share certain aggregate information, such as demographic information and the number of times that our members have viewed an advertisement, with our third-party advertisers. This information is not linked with any personal information, and we do not provide any such information to third-party advertisers except as otherwise noted in this Privacy Policy.
+
+We may use aggregated, statistical information to describe our membership and to establish advertising and other business relationships with third parties.
+
+We may serve you with targeted advertisements based on your personal information, but we do not provide any of your personal information to an advertiser or any third party with the exception of those uses expressly disclosed in this Privacy Policy. However, if you click an advertisement on the Services, then you consent to the possibility that the advertiser may assume that you meet the targeting criteria, if any, that we use to display such advertisement and, as described above, you will be subject to the advertiser's privacy policy and information collection and use practices.
+
+We may also allow other unaffiliated companies, called third-party ad servers or ad networks, to display advertisements containing cookies, pixels or web beacons on the Services. We may also share certain limited categories of information about you (such as your gender, age or geographic location), as well as other non-identifiable information (such as hashed identifiers or obfuscated user data), with these third parties to help them deliver more relevant advertisements through their ad networks, subject to their privacy policies. They may also collect information (such as your IP address, device ID, information about your browser or operating system, and depending on your device settings, your geographic location data, including GPS coordinates or similar information regarding the location of your mobile device) directly from your computer or device via the Websites or email , combine the data we shared with them with information they have obtained from other sources, and place or recognize a unique cookie, pixel or web beacon on your computer, email or other device. Doing this allows them to recognize your computer or device each time they deliver an online advertisement, either on or off the Services. In this way, ad networks may compile information about where you, or others who are using your computer or device, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you.
+
+We have no control over these parties' privacy policies or information collection and use practices.
+
+If you would like to learn more about targeted advertising served by ad networks and your ability to opt out from receiving such advertising from ad networks, [click here](http://www.peopleconnect.us/privacy).
+
+d. Contests and Sweepstakes
+
+We may run contests, sweepstakes and other promotions on the Services in which we may request entrants to provide personal information. In some cases, entrants may be required to answer survey questions about a range of topics. We use the information collected in the entry form to verify the entrant's identity and age and to communicate with the entrant. We will not share any of the entrant's personal information with any third party except to service providers (if any) as described below, as disclosed at the time of entry, if you are a contest winner, or as may be required by law. We may make information about entrants available in aggregated form to advertisers, partners and the general public or use it to supplement your profile.
+
+e. Service Providers
+
+We may use one or more third parties or affiliates to provide specific services on our behalf, including sending emails to our members, conducting member surveys, processing transactions, providing all or a portion of an underlying product or Service on our behalf, or performing statistical analysis of the Services or data relating thereto. In these cases, we may provide your personal information to these service providers. However, these third parties or affiliates are required to maintain the confidentiality of this information and are prohibited from retaining, sharing, storing or using this information for any other purposes.
+
+f. Business Transitions
+
+All of our rights and obligations under our Privacy Policy are freely assignable by us (or our parent corporation) to any of our affiliates or a third party, in connection with a business transition, such as a merger, acquisition, liquidation or sale of all or a portion of its assets, our members' personal information will, in most instances, be part of the assets transferred. Members may be notified of any such business transition via email and/or notice on the Services.
+
+g. Legal Matters; Protection of Rights, Property and Interests; Safety
+
+We may, without your consent, access and disclose your personal information, any communications sent or received by you, and any other information that we may have about you or your account: as may be permitted or required by law, regulation, rule or court order; pursuant to requests from governmental, regulatory or administrative agencies or law enforcement authorities; or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding, suspected fraud, violations of our Privacy Policy and/or Terms of Service, or activity that appears to us to be illegal, that may expose us to legal liability, or in order to protect our interests. Additionally, we may disclose your personal information in situations that we believe to be emergencies involving potential threats to the physical safety or any person or property if we believe that your personal information in any way relates to that threat.
+
+h. Display of Information on Search Engines and Third-Party Websites and Devices
+
+Any of your personal information that is publicly displayed on the Services may appear in the results of searches conducted on Internet search engines while you are a member of the Services and potentially for some time period after your membership is terminated, depending upon the search engine's indexing practices. In addition, we may create applications or other tools for use on various third-party websites and devices, through which certain portions of your information that is publicly displayed on the Services may be shown to the users of those third-party websites or devices. If you do not wish to have your information displayed on these search engines or other third-party websites or devices, you can opt-out by removing your account from the applicable Services.
+
+**3\. UPDATING OR REMOVING YOUR INFORMATION**
+
+a. Classmates
+
+For Classmates members, we provide you with ways in which you can update your personal information. To make changes to such information as your name, birth date, mailing address, email address, password and payment information, please login to the Services and go to the "Account" or similar section on these Services. We also provide you with certain privacy settings, which can generally be accessed as described above or within specific features of these Services. In addition, you can go to your profile on these Services, where you can edit various pieces of information or content that you submitted to these Services. If you have questions about updating your information, please visit the Help section on these Services.
+
+We will retain your personal information for as long as your membership is in place or as needed to provide you these Services. If you wish to have your membership canceled for any reason, please [click here](http://www.classmates.com/sitesearch/help/article?articleId=4384). If you have any problems canceling your membership, please request assistance from [Customer Support](http://www.classmates.com/sitesearch/help/contact). Upon the cancellation of your membership, we will retain and use your personal information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
+
+b. Intelius and US Search
+
+In connection with the Intelius and US Search Services, public records are available from the official public records custodian or repository to anyone who requests them. In addition to public records, personal information may be publicly or commercially available. Publicly available information consists of online and offline information that is generally available to the public such as names, addresses and telephone numbers of individuals and businesses, professional licensing and trade organization information, press releases and newspaper articles and content from blogs or social networking sites. Commercial records consist of information that is maintained by enterprises, such as marketing and telemarketing lists, phone connect and disconnect information, and business profile data.
+
+As a courtesy, we enable you to opt out your personal information from the Intelius and US Search databases. What this means is that your name as it appears in a particular record and the associated identifying information such as your address and phone number will be suppressed if you request this in the manner described below. However, please note that any time your identifying information appears in a public record or in a publicly or commercially available manner, in a way that is different from the particular record you opted out, it may again appear in our databases. For example, if your address or area code changes, your new information (including other associated identifying information) may again appear unless you opt out the new record. Similarly, if the way in which your name or address appears in a record differs from a record you opted out (e.g., "Michael" instead of "Mike," or "1212 Second AVE NE" instead of "1212 - 2nd Avenue Northeast"), we may include the differing record. Please also note that there may be more than one record in our databases associated with your personal information. Opting out one particular record will not opt out other record(s). An opt-out will apply from the processing date forward; any report purchased prior to your opt-out will still be available to the purchaser thereof in accordance with the terms of the applicable Services. There are many other companies offering public records search services, and your request that we opt out your information from our databases will not prevent your information from appearing on these other services.
+
+There are several ways to remove your information from our databases, [click here](http://www.peopleconnect.us/privacy) for your options.
+
+Your information will be removed from our database in approximately 7-14 days. Opt-out requests must be submitted to us individually by the subject of a particular record. Bulk opt-out requests will not be fulfilled.
+
+**4\. COMMUNICATIONS FROM US**
+
+As a user of the Services, you will receive our customary business communications (e.g., emails, push notifications or other communications facilitating, completing or confirming your registration, upgrade or other transaction, providing you notice of new or updated products or features, alerting you to member-to-member communications or other member activity relating to your membership, or other administrative messages). We may also send certain "welcome" messages that are informational and provide useful details about your account or product usage instructions when you sign up for an account or begin using a particular service. In addition, upon registration you may be automatically enrolled in one or more of our regularly recurring email subscription programs. You may also choose to participate in other email subscription programs that we may make available to you. We also may send you communications regarding special offers or other promotional material for our products or Services or those of our affiliated companies or advertisers. We may send all of these communications to the primary email address that you provide to us, any secondary email address that you may have provided to us if we have determined that your primary email address appears to no longer be valid or otherwise functioning properly, or any email address that we receive as described in Section 1(b) or 1(l). We may also send these communications to your inbox on the Services, if applicable.
+
+While we reserve the right to send you our customary business communications, "welcome" messages and other transactional emails without offering you the opportunity to opt out of receiving them, we do provide you with the opportunity to select whether or not you wish to continue to receive our subscription-based or commercial emails. Each subscription-based email communication from us contains instructions on how you can remove yourself from the mailing list for that specific email subscription program, and each commercial email contains instructions on how you can opt out of receiving further commercial emails from us.
+
+You can also update your email preferences by logging onto the account or similar section of the applicable Service.
+
+Please keep in mind that any changes that you make to your email preferences may take up to ten (10) business days to process and that each subscription-based email and all commercial emails have their own separate opt-out processes. If you have questions about changing your email preferences, please contact the Customer Support team of the applicable Service.
+
+**5\. THE SECURITY OF YOUR INFORMATION**
+
+We have instituted physical, electronic and procedural safeguards to store and maintain your personal information in a secure environment. For example, highly confidential information, such as a credit card or debit card number, is encrypted before being transmitted through the Services. You may also be required to use a password to access certain pages on the Services where certain types of your personal information can be changed or deleted. It is therefore important for you to protect against unauthorized access to your password, to emails which we may send you, and to your computer or other device. You take full responsibility for maintaining the confidentiality of your password. Furthermore, while we have implemented safeguards, you should be aware that Internet security technology rapidly changes. We cannot guarantee that the safeguards we employ today can protect your personal information from the threats of tomorrow. You should also be aware that despite our efforts, factors beyond our control may result in disclosure of your personal information. Accordingly, we are not in a position to guarantee that your information will be secure under all circumstances.
+
+**6\. A NOTE ABOUT INTERNATIONAL USERS**
+
+We collect, process and maintain your personal information in the United States, where privacy laws may not be as protective as in your home country. If you are using the Services from outside of the United States, by providing your personal information to us you are consenting to the transfer of your personal information to the United States for processing and maintaining in a manner consistent with this Privacy Policy.
+
+**7\. A SPECIAL NOTE ABOUT THE PRIVACY OF MINORS**
+
+Minors (those under 18) are not eligible to use the Services, and we ask that minors not submit any personal information to us or use the Services. We will not knowingly collect information from minors or allow minors to become members of our Services. If we later learn that a minor is a member, then that minor's account will be terminated. With regards to the Intelius and US Search Services, we do not knowingly publish information concerning anyone under the age of 13. If you know of information appearing in these Services concerning anyone under the age of 13, please send an email to us at [privacy@peopleconnect.us](mailto:privacy@peopleconnect.us).
+
+**8\. CHANGES TO OUR PRIVACY POLICY**
+
+We may update this Privacy Policy from time to time as our information practices are modified or changed. If we make any material changes to this Privacy Policy, we will notify you here, by email (sent to the primary email address specified in your account), or by means of a notice on the Websites. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+If you have questions or complaints regarding this Privacy Policy or practices, please contact us at: PeopleConnect, Inc., Attention: Policy Compliance, 1501 4th Avenue, Suite 400, Seattle, WA 98101, or email us at [privacy@peopleconnect.us](mailto:privacy@peopleconnect.us).
