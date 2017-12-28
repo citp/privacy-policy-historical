@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the ah-me.com privacy policy that was archived on 2017-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624120625id_/https%3A//www.ah-me.com/pages/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ah-me.com privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228061404id_/https%3A//www.ah-me.com/pages/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>Ah-me Videos, policy</title><link href="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/style.v1.1.31.min.css" rel="stylesheet" type="text/css">
+		<title>Ah-me Videos, policy</title><link href="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/style.v1.1.43.min.css" rel="stylesheet" type="text/css">
 
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.google.com/recaptcha/api.js"></script>
 <script type="text/javascript" src="https://ahmestatic3.fuckandcdn.com/ah-me/ahmestatic/v30/common/js/jquery.1.7.1.min.js"></script>
@@ -34,10 +34,10 @@ function pstop() {}
 	var STATIC_CDN_URL_1 = 'https://ahmestatic1.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/';
 	var STATIC_CDN_URL_2 = 'https://ahmestatic2.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/';
 	var STATIC_CDN_URL_3 = 'https://ahmestatic3.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/';
-	var ALBUMS_CDN_URL = 'https://ahbigpics.fuckandcdn.com/work/';
     var ADV_CDN_URL = '//spots.fuckandcdn.com/sp/delivery/js.php';
 	var PATH_WEB = 'https://www.ah-me.com/';
 	var PATH_WEB_STATISTIC = 'https://st.ah-me.com/';
+    var PATH_WEB_STAR_PHOTO = 'https://sunstatic.fuckandcdn.com/sun/sunthumbs/pornstars/';
 	var PATH_MOBILE = 'https://m.ah-me.com/';
 	var EMBED_URL = 'https://embeds.ah-me.com/';
 	var PATH_WEB_MEMBER_PHOTO = '/avatars/';
@@ -46,7 +46,9 @@ function pstop() {}
 	var THUMB_CDN_URL = 'https://ahmestatic.fuckandcdn.com/ah-me/thumbs/320x240/';
 	var ROOT_DOMAIN = 'ah-me.com';
 	var COOKIE_LANGUAGE_SITE_NAME = 'language_site_name';
-    
+    var COOKIE_HISTORY_NAME = 'hst';
+    var THUMB_PREVIEW_CDN_URL = 'https://ahmestatic.fuckandcdn.com/ah-me/thumbs/previews/';
+
     var contentObjectLiker = {
         VOTE_EXISTS_ERROR: {
             id: 1,
@@ -114,7 +116,7 @@ function pstop() {}
 
 
 <script type="text/javascript" src="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/js/dictionary.eng.js"></script>
-		<script type="text/javascript" src="https://ahmestatic1.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/guest.v1.1.31.min.js"></script>
+		<script type="text/javascript" src="https://ahmestatic1.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/guest.v1.1.43.min.js"></script>
 
 <script>
 var ppath       = [];
@@ -152,9 +154,9 @@ var mp          = [];
 
 <body class="ah-me page">
 
-<script type="text/javascript" src="https://www.ah-me.com/js/floader.js"></script>
+<script type="text/javascript" src="https://www.ah-me.com/js/floa.js"></script>
 
-<script type="text/javascript" src="/b284f7c0.js#spot=4172&amp;ea=1" async="" data-tag="na"></script>
+<script type="text/javascript" src="//cdn.mn1nm.com/e.js#spot=4172" data-tag="na"></script>
 
 
 
@@ -398,11 +400,11 @@ request us to do so by contacting us at privacy@ah-me.com.<br><br>
 <!-- FOOTER 1ST LINE ENDS -->
 
 
-<script src="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/jcore.v1.1.31.min.js"></script>
+<script src="https://ahmestatic.fuckandcdn.com/ah-me/ahmestatic/v30/common/ah-me/compiled/jcore.v1.1.43.min.js"></script>
 <script>
     $.fn.ajaxCallback
-    || document.write('<script src="https://www.ah-me.com/common/ah-me/compiled/jcore.v1.1.31.min.js"><\/script>')
-        && document.write('<link rel="stylesheet" href="https://www.ah-me.com/common/ah-me/compiled/style.v1.1.31.min.css" \/>')
+    || document.write('<script src="https://www.ah-me.com/common/ah-me/compiled/jcore.v1.1.43.min.js"><\/script>')
+        && document.write('<link rel="stylesheet" href="https://www.ah-me.com/common/ah-me/compiled/style.v1.1.43.min.css" \/>')
 </script>
 
 <!-- custom script -->
@@ -437,8 +439,10 @@ if (
 	
 		if (!$.cookie('AhIMClose')) {
 			$('#allIMwindow').animate({top:'-290px'}, 1000);
-            
-            ExoLoader.addZone({ "type": "banner", "width": "300", "height": "250", "idzone": "254160", "container": document.getElementById('imContent') });
+
+            if (typeof(ExoLoader) != 'undefined') {
+                ExoLoader.addZone({ "type": "banner", "width": "300", "height": "250", "idzone": "254160", "container": document.getElementById('imContent') });
+            }
         }
 	});
 
@@ -451,12 +455,27 @@ if (
 }
 </script>
 <script>
-    $(document).ready(function() {
-        ExoLoader.serve({ "script_url": "/bloader.php", "force": true });
-    });
+    if (typeof(ExoLoader) != 'undefined') {
+        $(document).ready(function() {
+            ExoLoader.serve({ "script_url": "/bloader.php", "force": true });
+        });
+    }
 </script>
 
-<!--859422-->
+<script type="text/javascript">
+var spot = {
+    id: 4172,
+    api_host: 'cool.ah-me.com',
+    shows_limit: 1,
+    refresh_rate: 21600,
+    version: 1,
+    sabel: true
+};
+
+!function(e,t){if(!e.__NA||e.__NA.has_ab){var n=!1,o="asg_mixed_tabs",r=e.self;if(e.top!=e.self)try{e.top.document.location.toString()&&(r=e.top)}catch(e){}var a=function(e){for(var t=document.cookie.split(";"),n=0;n<t.length;n++){for(var o=t[n];" "==o.charAt(0);)o=o.substring(1,o.length);if(0==o.indexOf(e+"="))return o.substring((e+"=").length,o.length)}return null},i=a(o);if(i&&(n=!0),setTimeout(function(){document.cookie=o+"=; expires=-1; path=/"},5e3),!i){var s=function(){for(var e={},t=(a("nasl")||"").split(","),n=0;n<t.length;n++)if(""!=t[n]){var o=t[n].split(":");e[parseInt(o[0])]={before:parseInt(o[1]),shows:parseInt(o[2])}}return e}(),f=Math.floor(Date.now()/1e3);for(var c in s)s.hasOwnProperty(c)&&s[c].before<f&&delete s[c];if(!(s[t.id]&&s[t.id].shows<=0)){var l=function(){var t={data:{mixedTab:!0},title:document.title,url:e.location.href},n=new Date;n.setTime(n.getTime()+6e4),document.cookie=o+"=true; expires="+n.toGMTString()+"; path=/",document.cookie=o+"_state="+JSON.stringify(t)+"; expires="+n.toGMTString()+"; path=/"},h=function(t,n){l(),e.open(t),e.location.assign(n)},u=function(e){e.preventDefault(),e.stopPropagation()},d=function(e,t){if(t=t.toLowerCase(),!e)return null;if(e.tagName&&e.tagName.toLowerCase()==t)return e;for(;e&&e.parentNode;)if((e=e.parentNode).tagName&&e.tagName.toLowerCase()==t)return e;return null},p=function(t){var n,o;if(t=t||e.event,(n=d(t.target||t.srcElement,"a"))&&(n.href?"about:blank"==n.href&&(o=!0):o=!0,~n.href.indexOf("javascript:void(0)")?o=!0:~n.href.indexOf([e.location.origin,e.location.pathname,"#"].join(""))&&(o=!0),o&&(n={href:e.location.href}),!n.target))try{n.target=document.head.getElementsByTagName("base")[0].target}catch(t){}return n};!function(e,t,n,o){e.addEventListener?e.addEventListener(n,t,!1):e.attachEvent(o||n,t)}(r.document,function(o){if((!e.__NA||e.__NA.has_ab)&&!n){n=!0,t.refresh_rate>0&&(s[t.id]?s[t.id].shows=s[t.id].shows-1:s[t.id]={before:Math.floor(Date.now()/1e3)+t.refresh_rate,shows:t.shows_limit-1});var r=[];for(var a in s)s.hasOwnProperty(a)&&r.push(a+":"+s[a].before+":"+s[a].shows);var i=r.join(",");document.cookie="nasl="+i+"; path=/";var f="host="+e.location.hostname+"&ev="+t.version;0==navigator.cookieEnabled&&(f+="&c=0");var c="//"+t.api_host+"/api/direct/"+t.id+"?"+f;if(link=p(o)){var l=navigator.userAgent.toLowerCase(),d=/chrome/.test(l)||/opr/.test(l);return d||"_blank"!=link.target?d&&t.sabel&&"_blank"==link.target?(u(o),h(document.URL,c)):(u(o),h(link.href,c)):e.open(c),!1}h(document.URL,c)}},"click","onclick")}}}}(window,spot);
+</script>
+
+<!--188678-->
 
 
 
