@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edukart.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125118id_/http%3A//www.edukart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edukart.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228105331id_/http%3A//www.edukart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EduKart
 
@@ -47,6 +47,6 @@ The EduKart.com website may contain links to other websites. EVis not responsibl
 Please email us at support@edukart.com and we will process your request to delete your account.  
 **Reach Us -**  
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the grievance officer of EV are provided below:  
-Name: Mr. Deepankar Pathak  
+Name: Mr. Karan Khurana  
 Email: support@edukart.com  
-Phone: 011 – 49323333
+Phone: 011 – 49879822
