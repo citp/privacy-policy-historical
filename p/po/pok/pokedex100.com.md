@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokedex100.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629023119id_/http%3A//pokedex100.com/article/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokedex100.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228092129id_/http%3A//www.pokedex100.com/article/privacypolicy) for the most accurate reproduction.*
 
 # Pokedex100 - The best Pokémon hunting platform
 
@@ -42,6 +42,6 @@ Because publisher sites and laws across countries vary, we're unable to suggest 
 
 Contact Pokedex100 
 
-If the user has any questions or comment on our Privacy Policy, please contact our Staff team at the Discord server Discord <https://discord.gg/bhcq3EH>. 
+If the user has any questions or comment on our Privacy Policy, please contact our Staff team at the Discord server Discord <https://discord.gg/R6XBpnr>. 
 
 ****
