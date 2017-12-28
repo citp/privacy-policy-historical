@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the twistmagazine.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629222412id_/http%3A//profile-static.bauerpublishing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistmagazine.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228024739id_/http%3A//profile-static.bauerpublishing.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bauer Publishing Profile
 
 ## Privacy Policy/Your California Privacy Rights
 
-## Last Updated: October 20, 2014
+## Last Updated: July 20, 2017
 
 ## Introduction
 
 Welcome! Bauer Publishing Group knows that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read this privacy policy (“Privacy Policy”). It explains how Bauer Publishing Group, which includes Bauer Media Group, USA, LLC; Heinrich Bauer North America, Inc.; Heinrich Bauer Publishing, L.P.; Bauer Magazine, L.P.; Bauer Publishing Company, L.P., and Bauer Media Sales, Inc. (collectively, “Bauer Publishing” or “we,” “our,” or “us”) collects, uses, shares and protects information about our consumers (“you”). It also tells you how you can access and update your information and make certain choices about how your information is used. The Privacy Policy covers both our “online” (e.g., web and mobile services, including any web sites operated by us and mobile applications, however accessed and/or used, whether via personal computers, mobile devices or otherwise) and “offline” (e.g., collection of data through magazine subscription cards, mailings, telephone, or at in person events) activities owned, operated, provided, or made available by Bauer Publishing. Our “online” and “offline” activities are collectively referenced as the “Services.” This Privacy Policy also applies to your use of interactive features or downloads that: (i) we own or control; (ii) are available through the Services; or (iii) interact with the Services and post this Privacy Policy.
+
+For personal information received by Bauer in the United States from the European Economic Area and Switzerland, please see our [Privacy Shield Privacy Policy](https://profile-static.bauerpublishing.com/privacy-shield).
 
 By using the Services or by otherwise giving us your information, you agree to this Privacy Policy. In addition, as explained below, our [Children's Privacy Policy](https://web.archive.org/childrens-privacy-policy) is also applicable to any of our online Services that target children under 13 and may be applicable to some users of our online Services that target teenagers. If you do not agree to this Privacy Policy, do not use any of our Services or give us any of your information. In addition, please review our [Terms of Use](https://web.archive.org/terms-of-use), which governs your use of any of our websites.
 
@@ -185,7 +187,7 @@ In order for behavioral advertising opt-outs to work on your Device, your browse
 
 Browser "Do Not Track" Signals
 
-Some third party browsers provide "do not track" machine readable signals for websites or other online Services which are automatically applied by default and therefore do not necessarily reflect our visitors’ choice as to whether they wish to receive advertisements tailored to their interests. As a result we do not respond to these signals. Go to [www.networkadvertising.org](https://web.archive.org/web/20170629222412id_/http%3A//profile-static.bauerpublishing.com/www.networkadvertising.org) or [www.aboutads.info](https://web.archive.org/web/20170629222412id_/http%3A//profile-static.bauerpublishing.com/www.aboutads.info) if you wish to learn more about your options to not accept tracking cookies for the purpose of receiving targeted interest-based advertisements.
+Some third party browsers provide "do not track" machine readable signals for websites or other online Services which are automatically applied by default and therefore do not necessarily reflect our visitors’ choice as to whether they wish to receive advertisements tailored to their interests. As a result we do not respond to these signals. Go to [www.networkadvertising.org](https://web.archive.org/web/20171228024739id_/http%3A//profile-static.bauerpublishing.com/www.networkadvertising.org) or [www.aboutads.info](https://web.archive.org/web/20171228024739id_/http%3A//profile-static.bauerpublishing.com/www.aboutads.info) if you wish to learn more about your options to not accept tracking cookies for the purpose of receiving targeted interest-based advertisements.
 
 ## 6\. What About Information I Disclose Publicly?
 
