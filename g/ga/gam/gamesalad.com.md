@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamesalad.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103230id_/http%3A//gamesalad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesalad.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228045321id_/http%3A//gamesalad.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - GameSalad
+# Privacy Policy – GameSalad
 
 This Privacy Policy was last updated April 19, 2017
 
@@ -15,15 +15,15 @@ This Privacy Policy (“Privacy Policy”) explains our policy regarding the col
 
 ### Information Collection, Use, and Sharing
 
-GameSalad requires registration to download software and content, participate in our online communities, and to receive any other services provided on or through the Site. During the registration process, you will be required to provide certain personally identifiable information. Personally identifiable information means information that can be used to identify and contact you such as your name, email address, password, postal mailing/delivery address, payment method, and telephone number, as well as other information when such information is combined with your personal information. At your option, you may also provide demographic information such as your gender or age, but this information is not required. GameSalad may use and disclose this demographic information in aggregate form only in accordance with the “Aggregate Information” Section below. 
+GameSalad requires registration to download software and content, participate in our online communities, and to receive any other services provided on or through the Site. During the registration process, you will be required to provide certain personally identifiable information. Personally identifiable information means information that can be used to identify and contact you such as your name, email address, password, postal mailing/delivery address, payment method, and telephone number, as well as other information when such information is combined with your personal information. At your option, you may also provide demographic information such as your gender or age, but this information is not required. GameSalad may use and disclose this demographic information in aggregate form only in accordance with the “Aggregate Information” Section below.
 
-In addition to the personally identifiable information that we collect from you during the registration process, we may collect data about you from your use of the Site or that you voluntarily provide to us via email or other communications from you. 
+In addition to the personally identifiable information that we collect from you during the registration process, we may collect data about you from your use of the Site or that you voluntarily provide to us via email or other communications from you.
 
-We will use your personally identifiable information to register you to use and download software and content, and provide you with the services on the Site; verify your authority to enter the Site and access the services on the Site; respond to you regarding communications that you have sent us; improve the content and general administration of the Site and the services on the Site; fulfill your requests; provide you with notices regarding the services that you have purchased or may wish to purchase in the future and to send you targeted advertising. We will not share your information with any third party outside of our organization other than as specified in this Privacy Policy. 
+We will use your personally identifiable information to register you to use and download software and content, and provide you with the services on the Site; verify your authority to enter the Site and access the services on the Site; respond to you regarding communications that you have sent us; improve the content and general administration of the Site and the services on the Site; fulfill your requests; provide you with notices regarding the services that you have purchased or may wish to purchase in the future and to send you targeted advertising. We will not share your information with any third party outside of our organization other than as specified in this Privacy Policy.
 
-You are responsible for updating and maintaining the truth and accuracy of the personal information you provide to us relating to your account. If you want to update your contact information or change your payment method, you should do so by visiting your account on our Site. 
+You are responsible for updating and maintaining the truth and accuracy of the personal information you provide to us relating to your account. If you want to update your contact information or change your payment method, you should do so by visiting your account on our Site.
 
-You may notify us that you no longer wish to receive notices from us regarding services that you may wish to purchase in the future by opting out through a reply e-mail to the targeted advertising message or sending us an e-mail at the following address: [unsubscribe@gamesalad.com](mailto:unsubscribe@gamesalad.com?subject=UNSUBSCRIBE "unsubscribe@gamesalad.com") at any time. 
+You may notify us that you no longer wish to receive notices from us regarding services that you may wish to purchase in the future by opting out through a reply e-mail to the targeted advertising message or sending us an e-mail at the following address: [unsubscribe@gamesalad.com](mailto:unsubscribe@gamesalad.com?subject=UNSUBSCRIBE "unsubscribe@gamesalad.com") at any time.
 
 ### Data Collection in Apps Created with GameSalad
 
@@ -40,7 +40,7 @@ When you install or run Apps or Games developed with GameSalad, we may collect s
   * Device Locale Country and Language
   * Device Memory
   * Unique Device Identifier
-  * [Application Events](https://web.archive.org/application-events)
+  * [Application Events](https://gamesalad.com/application-events)
 
 
 
@@ -48,11 +48,11 @@ We collect this data solely for quality assurance purposes and to support the in
 
 ### Public Forums
 
-You may choose to disclose information, including personally identifiable information, about yourself in our online forums, blogs, comments, chat rooms, games, virtual communities, message boards and user “profiles” for public view or in similar forums on the Site (collectively, “Public Forums”). Information that you disclose in any Public Forum is public information, and you agree that there is no expectation of privacy or confidentiality with respect to such information. You should be aware that any personally identifiable information that you post in a Public Forum can be read, collected, or used by other users of the Public Forum, including, without limitation used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in a Public Forum. 
+You may choose to disclose information, including personally identifiable information, about yourself in our online forums, blogs, comments, chat rooms, games, virtual communities, message boards and user “profiles” for public view or in similar forums on the Site (collectively, “Public Forums”). Information that you disclose in any Public Forum is public information, and you agree that there is no expectation of privacy or confidentiality with respect to such information. You should be aware that any personally identifiable information that you post in a Public Forum can be read, collected, or used by other users of the Public Forum, including, without limitation used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in a Public Forum.
 
 Access to Public Forums is disabled by default for education customers. Students must be over the age of 18 (or the age of 13 with consent of a parent or legal guardian) and consent of the account administrator to access the Public Forums.
 
-### Cookies 
+### Cookies
 
 We use “cookies” on our Site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our Site and identify repeat visitors to our Site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our Site. Usage of a cookie is in no way linked to any personally identifiable information on our Site.
 
@@ -71,20 +71,20 @@ In a classroom scenario, educators can keep students’ privacy protected and st
 
 ### Disclosure
 
-We may provide your personally identifiable information that we collect and the data generated by cookies to the vendors and service providers that we may engage to assist us and to third-party partner entities that are not within the GameSalad corporate family. We will also disclose your personally identifiable information (a) if we reasonably believe we are required to do so by law, regulation or other government authority, (b) to enforce the Site and Services Terms of Use or to protect our rights, © to protect the safety of users of the Site and its services, or (d) to a successor entity upon a merger, consolidation or other corporate reorganization in which GameSalad participates or to a purchaser of all or substantially all of Gendai Game’s assets to which this Site relates. 
+We may provide your personally identifiable information that we collect and the data generated by cookies to the vendors and service providers that we may engage to assist us and to third-party partner entities that are not within the GameSalad corporate family. We will also disclose your personally identifiable information (a) if we reasonably believe we are required to do so by law, regulation or other government authority, (b) to enforce the Site and Services Terms of Use or to protect our rights, © to protect the safety of users of the Site and its services, or (d) to a successor entity upon a merger, consolidation or other corporate reorganization in which GameSalad participates or to a purchaser of all or substantially all of Gendai Game’s assets to which this Site relates.
 
 Education accounts are excluded from such communications.
 
 ### Links to Third-Party Sites
 
-The Site may contain links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our Site and to read the privacy statements of any other site that collects personally identifiable information. 
+The Site may contain links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our Site and to read the privacy statements of any other site that collects personally identifiable information.
 
 ### Security
 
-We may employ procedural and technological measures to safeguard the confidentiality of your personally identifiable information such as firewalls, storing password hashes and secure socket layer. Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. By using our service, including our Site and user interfaces, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the services. 
+We may employ procedural and technological measures to safeguard the confidentiality of your personally identifiable information such as firewalls, storing password hashes and secure socket layer. Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. By using our service, including our Site and user interfaces, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the services.
 
 ### Reviewing/ Correcting/Updating Personally Identifiable Information
 
-GameSalad provides you with the ability to review and correct any of the personally identifiable information that you have provided to us through the Site or to delete your user profile by contacting GameSalad at the following e-mail address: [personal_information_request@gamesalad.com](mailto:personal_information_request@gamesalad.com?subject=Personal%20Information%20Request&body=Hello,I%20would%20like%20to%20make%20the%20following%20request%20regarding%20the%20personal%20information%20GameSalad%20has%20collected%20on%20my%20behalf: "personal_information_request@gamesalad.com"). 
+GameSalad provides you with the ability to review and correct any of the personally identifiable information that you have provided to us through the Site or to delete your user profile by contacting GameSalad at the following e-mail address: [personal_information_request@gamesalad.com](mailto:personal_information_request@gamesalad.com?subject=Personal%20Information%20Request&body=Hello,I%20would%20like%20to%20make%20the%20following%20request%20regarding%20the%20personal%20information%20GameSalad%20has%20collected%20on%20my%20behalf: "personal_information_request@gamesalad.com").
 
-Notwithstanding the foregoing, you should understand that any content and/or material that you have posted, including, without limitation, games, text and images (including, without limitation, in forums, comment sections, the wiki, screen shots and game icons) in areas other than your user profile will not be deleted. Once we have deleted your user profile, you agree that GameSalad will not be responsible for any personally identifiable information that was not included within your deleted and/or removed user profile that remains on the Site. 
+Notwithstanding the foregoing, you should understand that any content and/or material that you have posted, including, without limitation, games, text and images (including, without limitation, in forums, comment sections, the wiki, screen shots and game icons) in areas other than your user profile will not be deleted. Once we have deleted your user profile, you agree that GameSalad will not be responsible for any personally identifiable information that was not included within your deleted and/or removed user profile that remains on the Site.
