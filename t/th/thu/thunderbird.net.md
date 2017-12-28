@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thunderbird.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629005113id_/https%3A//www.mozilla.org/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thunderbird.net privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228010910id_/https%3A//www.mozilla.org/privacy) for the most accurate reproduction.*
 
 # Mozilla Privacy
 
