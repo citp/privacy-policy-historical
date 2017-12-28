@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the optimisemedia.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627202159id_/https%3A//www.optimisemedia.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimisemedia.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228010031id_/https%3A//www.optimisemedia.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy - Optimise
 
 Optimise takes the privacy of its customers and users seriously. We take care to put measures in place to preserve the security and integrity of all the information provided to us and/or collected from those who use our services. This policy covers our approach to collecting, storing, safeguarding and processing information submitted by or collected from users, affiliates, prospective affiliates and clients at Optimise sites. We have a distinct [Advertising Privacy Policy](http://www.optimisemedia.com/advertising-privacy-policy/) covering the Advertising Cookies used by Optimise which you can [read here](http://www.optimisemedia.com/advertising-privacy-policy/).
 
-  * ‘Optimise’ refers to Optimise Media Group Limited or any of its subsidiaries: Optimise Media (UK) Limited (trading as and referred to as ‘Optimise’), of 47-49 Colegate, Norwich, NR3 1DD, and Direct Content Limited, of Seymour House, Norwich, NR3 1DJ, UK.
+  * ‘Optimise’ refers to Optimise Media Group Limited or any of its subsidiaries: Optimise Media (UK) Limited (trading as and referred to as ‘Optimise’), of Norfolk Tower, Surrey Street, Norwich, NR1 3PA.
   * ‘The Optimise site’ or ‘The Optimise website’ refers to the website found at the domain www.optimisemedia.com, including all its international versions.
   * ‘Client’ or ‘merchant’ refers to any company or individual who purchases services from Optimise.
   * ‘Prospective client’ refers to any company or individual who, by entering information or making an enquiry at the Optimise website, expresses an interest in purchasing services from Optimise.
-  * ‘Affiliate’ or ‘publisher’ refers to any company or individual who owns and manages a website that directs traffic to Optimiseclients in return for commission as part of an affiliate marketing arrangement governed by contract.
+  * ‘Affiliate’ or ‘publisher’ refers to any company or individual who owns and manages a website that directs traffic to Optimise clients in return for commission as part of an affiliate marketing arrangement governed by contract.
   * ‘Prospective affiliate’, ‘prospective publisher’ or ‘network applicant’ refers to any company or individual who submits information via an Optimise site with the aim of becoming a registered, contracted affiliate.
   * ‘Optimise website user’ refers to an individual who use the Optimise website for any purpose.
   * ‘Affiliate website user’ refers to any individual who uses a website owned and operated by an Optimise affiliate.
