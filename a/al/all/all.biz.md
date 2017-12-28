@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the all.biz privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630020430id_/http%3A//www.all.biz/privacy_policy_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all.biz privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228013853id_/https%3A//all.biz/privacy_policy_en) for the most accurate reproduction.*
 
 # Allbiz Privacy Policy
 
 Your privacy is important to Allbiz. So, we have developed a Privacy Policy that covers how we collect, use, disclose, transfer and store your information. Please take a moment to familiarize yourself with our privacy practices.
 
-IN THIS PRIVACY POLICY, "WE," "US," "ITS" AND "OUR" REFER TO All Biz Limited ("Allbiz"), AND "YOU" AND "YOUR" REFER TO YOU. Before using the Allbiz website and all associated sites linked to [www.all.biz](http://www.all.biz/) (collectively, the “Resource”) containing the link to this policy, please read carefully this Privacy Policy ("Policy") relating to your use of the Resource.
+IN THIS PRIVACY POLICY, "WE," "US," "ITS" AND "OUR" REFER TO All Biz Limited ("Allbiz"), AND "YOU" AND "YOUR" REFER TO YOU. Before using the Allbiz website and all associated sites linked to [all.biz](https://all.biz/) (collectively, the “Resource”) containing the link to this policy, please read carefully this Privacy Policy ("Policy") relating to your use of the Resource.
 
 By using the Resource, you consent to:
 
