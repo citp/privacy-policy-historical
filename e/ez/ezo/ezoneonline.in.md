@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezoneonline.in privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616152100id_/http%3A//www.ezoneonline.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezoneonline.in privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228032204id_/http%3A//www.ezoneonline.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EzoneOnline.in
 
