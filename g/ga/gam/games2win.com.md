@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the games2win.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629000132id_/http%3A//www.games2win.com/corporate/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2win.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228023009id_/http%3A//games2win.com/corporate/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Games2win.com - Play Free Games Online
 
-Protecting your privacy is very important to us. We have developed this Privacy Policy to protect your personal information and keep it confidential.
+We do everything we reasonably can to protect your rights of privacy on downloadable softwares in the nature of mobile applications, games on mobile app 
 
-We do everything we reasonably can to protect your rights of privacy on systems and websites controlled by us, but we are not liable for anyunauthorised or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Site. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours.
+stores like Apple Google, Amazon and other partners , systems websites controlled by us, but we are not liable for anyunauthorised or unlawful disclosures of 
 
-We also cannot warrant the security of the information, which you transmit to us.
+your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Site. You 
 
-We categorise information about you (collectively referred to as "Personal Information") as follows:
+should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be 
+
+different from ours.
 
   * **Profiling Information:**
 
@@ -99,6 +101,19 @@ In order to ensure that all our Users comply with the [User Rules](https://web.a
 **To ensure that the security and integrity of our Services are safeguarded, we may monitor your Personal Information. This monitoring may include (without limitation) the filtering of incoming and outgoing electronic data messages to identify, limit and/or prevent the transmission of spam, viruses and/or unlawful, defamatory, obscene or otherwise undesirable material or content.**
 
 We may under certain circumstances procure an element of the Services from a third party service provider; for example we may use third party advertising companies to serve advertisements when you visit our Website. To the extent that it may be necessary, and solely for the purposes of providing the Service to you, you agree that we may disclose to such third party any of your Personal Information that may be necessary for the procurement of services from the third party. These companies may also use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. More information about this practice and your choices about not having this information used by these companies would be available with the respective third parties. Also, you can visit [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/) for information on how to opt-out of the use of such technologies for the delivery of more relevant advertising.
+
+**Third party SDK and Codes:**
+
+  1. This app contains a software development kit (“SDK”) from a third party, Red Brick Lane Marketing Solutions Private Limited (“RBL”). The SDK is integrated with this app for the purposes of profiling the device on media consumption and other device data and utilizing the same to target relevant content and ads to the device (“Services”) pursuant to the terms and conditions of RBL Services. Further details can be obtained at[ http://www.zapr.in/privacy/.](http://www.zapr.in/privacy/)
+
+  2. If you do not wish for RBL to identify media content viewing around your mobile device, please opt out of all RBL Services via the following link: [http://www.zapr.in/privacy/ .](http://www.zapr.in/privacy/)
+
+  3. RBL does not collect any personally identifiable information or audio/video/image/contact files from your mobile device. For any questions or clarifications please reach out to: privacy@zapr.in .
+
+  4. RBL also automatically receives and tracks certain data about your mobile device (such as your device-type, installed software and language preference) or desktop interface; and may create a unique device or user ID for you. In some cases, RBL can automatically detect or infer your location using GPS, your IP address, etc., but often your operating system will require you to grant RBL permission to access your GPS settings; please refer to your device’s system settings regarding location services.
+
+
+
 
 Using the Google Ads Settings <https://www.google.com/settings/ads>, you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. You can also opt-out by downloading and installing the Google Analytics Opt-out Browser Add-on [https://tools.google.com/dlpage/gaoptout/ ](https://tools.google.com/dlpage/gaoptout/) for your web browser. 
 
