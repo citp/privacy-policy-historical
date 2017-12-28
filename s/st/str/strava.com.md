@@ -1,94 +1,166 @@
-> *The following text is extracted and transformed from the strava.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229115050id_/https%3A//www.strava.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strava.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228034423id_/https%3A//www.strava.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Strava
+# Strava Privacy Policy
 
-Your privacy is critically important to us. We at Strava, Inc. (“Strava”) have a few fundamental principles: 
+Effective Date: May 22, 2017
 
-  * We don’t ask you for personal information unless we truly need it.
-  * We don’t share your personal information with anyone except to comply with the law, develop our products and services, or protect our rights.
-  * We treat your personal information with the highest regard to privacy and security.
+Your privacy is very important to us. Please read below to see how Strava handles information. Before you get to the details, here are a few of our fundamental privacy principles:
 
-
-
-Strava respects your right to privacy and shares your concern about the security of any data you may submit to Strava via Strava’s websites and related services (the “Site”), currently accessible at [www.strava.com](http://www.strava.com/). The following statement (the “Privacy Policy”) discloses the guidelines Strava has established for protecting the information you provide to Strava during your visit to the Site.
-
-The Site is owned, operated, and maintained by:
-
-Strava, Inc.   
-PO Box 32   
-Hanover, NH 03755   
-E-mail [support@strava.com](mailto:support@strava.com)
-
-### What information about me does Strava collect and how is it used?
-
-Strava only collects personal information about you if you voluntarily choose to share it with Strava. Strava does not share, rent or sell information concerning Strava’s members or other users of its website to third parties in ways other than disclosed in this privacy statement. 
-
-To use the core functionality of the Site, you must first complete the registration form at the Site and agree to our Terms and Conditions. During registration you will be required to provide personal information such as your name and email address. Strava does not knowingly collect information from children under 13 years old. If we or a third party service provider requires a birth date to order a specific product or service, you will not be able to enter a birth date that indicates that you are less than 13 years old. 
-
-There are several other opportunities on the Site for you to share personal information about yourself with Strava. This may include information about you such as your equipment and activities, your biking routes, your name, and your zip code and e-mail address. Strava will also collect your credit card or other payment information if you choose to become a Strava Member. If you choose to share any personal information with Strava, Strava may store it and use it for internal research and other Strava marketing purposes, including e-mailing you with special promotions and other programs of interest. If the information is sent as part of a website evaluation, Strava may also use the information to contact you about your comments. If you opt-in for the Strava newsletter during registration, Strava will use your email address to send you newsletters with updates and news about Strava. You may remove your name from our email list by updating your profile in the Account section or by emailing [support@strava.com](https://web.archive.org/%22https://strava.zendesk.com/home/%22). Strava does not share, rent or sell your information to another company in ways other than disclosed in this privacy statement. 
-
-When you visit the Site, a cookie will be stored on your computer. Generally, cookies work by assigning to your computer a unique number that has no meaning outside of Strava. Strava’s cookies do not contain any personally identifying information; Strava uses them to provide features such as personalization, to save your member ID and to keep track of your shopping cart. Strava may also use cookies to assist it in delivering content specific to your interests. Additionally, after you’ve entered your member ID and password during a session on Strava’s website, Strava saves that information so you don’t have to re-enter it repeatedly during that session. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Not accepting cookies may make certain features of the Site unavailable to you. Strava may use your IP address to identify you, to administer the Site and to assist in diagnosing problems with Strava’s server. 
-
-Like most standard Web site servers the Site uses log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the Site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. In addition, Strava uses Google Analytics as a method of tracking site statistics and user behavior on the Site. 
-
-You may decide to send Strava personally identifying information in an e-mail message which might contain information or inquiries about Strava’s products or services. Strava will use this information to identify you as a Strava member and to respond to the electronic mail. Strava will only use the information obtained to resolve the issue identified in the e-mail. Strava never sells e-mail addresses. You may change or request deletion of your personal information by contacting [support@strava.com](https://web.archive.org/%22https://strava.zendesk.com/home/%22). 
-
-Strava will only share your personal information with third parties if: 
-
-  * Strava has your consent; 
-  * Strava determines that it is required to do so by law; such as in response to a court order or subpoena; 
-  * Strava finds that you are in breach of its terms and conditions or any of its policies or usage guidelines for specific products or services; 
-  * it is necessary in Strava’s opinion to do so to prevent, investigate, detect or prosecute criminal offenses or attacks on the technical integrity of the Site or Strava’s network; 
-  * it is necessary in Strava’s opinion to do so to protect the rights, property, or safety of Strava or its employees, the users of its website(s), or the public; or 
-  * it is necessary to fulfill your product or service order. Strava uses a credit card processing company to process your credit card information as required for your order and to ensure that your transaction is secure. This processing company does not retain, share, store or use your personally identifiable information for any other purposes. 
+  * Your privacy is critically important to us and we handle your information accordingly.
+  * We don’t share your personal information with anyone without your consent except to comply with the law, develop our products and services, or protect our rights.
+  * Information you upload or post to Strava may be seen by others depending on your privacy settings.
+  * We aggregate and de-identify information about our members to use for business purposes.
+  * We give you several ways to control the privacy of your personal information and are continuously working to enhance privacy options available to you.
 
 
 
-Information about you and your use of the Site may be aggregated with other information collected on the Site or otherwise used in ways that do not personally identify you or constitute personally identifiable information. This type of aggregated or statistical information may be used by us to improve the quality of the Site or for other purposes that we may deem appropriate. 
+Strava respects your privacy and shares your concern about the security of data you may submit to Strava’s websites and the related mobile applications and services (collectively, the “Services”). Our privacy policy (the “Privacy Policy”) explains the information we collect, how we use and protect it, how to access and update your information, and how to manage your privacy settings when using the Services. This policy was written in English. To the extent a translated version conflicts with the English version, the English version controls.
 
-### What does Strava do to protect the data I transmit to Strava?
+Questions or comments about this Privacy Policy may be submitted by mail to the address below or via [https://support.strava.com](https://support.strava.com/).
 
-The Site uses industry standard Secure Sockets Layer (SSL) technology to allow for the encryption of personal information such as your name and address, as well as critically sensitive information such as your credit card number. Strava engages a company that is an industry leader in online security and site verification to ensure the security of Strava’s site. The Site is also registered with site identification authorities so that your browser can confirm Strava’s identity before any personal information is sent. In addition, Strava’s secure servers protect this information using advanced firewall technology. 
+**Strava, Inc.**   
+500 3rd Street, Suite 110   
+San Francisco, CA 94107   
+Attn: Legal
 
-### What can I do to help make sure the security works correctly?
+### Information Strava Collects
 
-To help ensure that these measures are effective in preventing unauthorized access to your private information, you should be aware of the security features available to you through your browser. You should use a security-enabled browser to submit your credit card information and other personal information at the Site. Please note: If you do not use a SSL-capable browser, you are at risk for having data intercepted. Strava will not be responsible for any compromise of data that is intercepted due to your use of an unsecured browser. 
+Strava collects information about you, including personally identifiable information, if you choose to share it with Strava, register an account, or if you track, complete or upload activities using the Services. Strava also collects information about how you use the Services. There are several opportunities for you to share information about yourself and your activities with Strava, including your name, physical address, email address, gender, age, equipment usage, activities, routes (including date, time and geo-location information as well as your speed and pace), profile photo and other pictures. You may also submit comments, kudos and other content to be shared. In addition, Strava will collect your credit card or other payment information if you choose to become a member of Strava’s Premium service.
 
-Most browsers have the ability to notify you if you change between secure and insecure communications, receive invalid site identification information for the site you are communicating with, or send information over an unsecured connection. Strava recommends that you enable these browser functions to help ensure that your communications are secure. You can also monitor the URL of the site you are visiting (secure URLs begin with https:// rather than the normal http://), along with the security symbol of your browser (an open or closed padlock in Netscape or a broken or complete key in Internet Explorer) to help identify when you are communicating with a secure server. You can also view the details of the security certificate of the site to which you are connected. Strava encourages you to use this to check the validity of any site you connect to using secure communications. 
+If you elect to use location-based features via the Services, then the physical location of your device will be collected. Strava may also collect and upload from your device data such as speed and direction. You are able to disallow our use of certain location data through your device or browser settings by disabling “Location Services”.
 
-#### If my credit card company determines that there are fraudulent charges on my account, what should I do?
+You may use the Services to access your contacts’ information to connect with your contacts on Strava or to send them your activity information while using Strava Beacon. If you choose to use these features, Strava will access and store your contacts’ information. You may delete your contacts’ information by updating your privacy settings at <https://strava.com/settings/privacy> or by updating your device’s permission settings.
 
-If your credit card company determines that there are fraudulent charges on your account that are the result of the use of your credit card at the Site and they hold you liable for the unauthorized changes, please contact Strava immediately. You can contact Strava by email at [support@strava.com](https://strava.zendesk.com/home) or postal mail: 
+Strava allows you to sign up and log in to the Services using accounts you create with third-party products and services, such as Facebook or Google (collectively, “Third-Party Accounts”). These Third-Party Accounts may ask your permission to share certain information from your Third-Party Account with Strava. We use this information to verify your identity as well as to provide you with features of our products and services. This information may include your first and last name, email address, profile information and preferences with the applicable Third-Party Account. This information is collected by the Third-Party Account provider and is provided to Strava under their privacy policies. You can generally control the information that we receive from these sources using the privacy settings in your Third-Party Account. You can deactivate your account at any time by visiting <https://strava.com/settings/privacy>.
 
-Strava, Inc.   
-PO Box 32   
-Hanover, NH 03755   
-E-mail [support@strava.com](mailto:support@strava.com)
+When you make a payment through our payment page, we may collect information from you to properly process your payment. This personal information may include your name, address, phone, email address, your credit card information and payment amount. We use Payment Card Industry certified third-party payment services and do not store your credit card information.
 
-You should carefully review security/privacy policies of any third party sites accessible from the Site. Other sites accessible through the Site have their own policies and data collection, use, and disclosure practices. Please consult each site’s policies and practice. Strava is not responsible for the policies or practices of third parties. The information practices of those websites linked from the Site are not covered by this Privacy Policy. These other sites may send their own cookies to users, collect data, or solicit personal information. 
+### How Information is Collected and Stored
 
-### Does Strava offer opt-out or opt-in services?
+Strava collects information you provide to us. When you register, and agree to our Terms of Service, you must provide personal information such as your name and email address. You may also upload location-based activities, such as a run or a ride, to the Services. You may join challenges, contests, post photos and communicate with other members. You may also provide additional personal information or payment information to complete your member profile or make purchases.
 
-Yes. If you choose to stop receiving emails from Strava, please follow the unsubscribe instructions within each email communication or send an email to [support@strava.com](https://web.archive.org/%22https://strava.zendesk.com/home/%22). Strava will not provide or share any mailing lists or other information about you to another company or service for promotional purposes. Any service related emails (to confirm a purchase, etc.) generally do not offer an option to unsubscribe as they are necessary to provide the service you requested. 
+Strava also automatically collects a variety of technical information, including location, device and network information, cookies, log files and analytics services.
 
-### What if information I have previously submitted has changed?
+#### Cookies and Similar Technologies
 
-If you need to correct, amend or delete submitted information that is inaccurate please contact Strava at [support@strava.com](https://web.archive.org/%22https://strava.zendesk.com/home/%22). Strava will respond to your email request within 7-10 business days. In addition, you may correct, amend or delete submitted information that is inaccurate by visiting “Edit Profile” on the Site. 
+When you visit the Services, a cookie will be stored on your computer. Generally, cookies and similar work by assigning to your computer a unique number that has no meaning outside of Strava. Strava’s cookies do not contain any personally identifying information; Strava uses them to personalize your experience. Strava may also use cookies to assist it in delivering content specific to your interests. Additionally, after you’ve entered your member ID and password during a session on the Services, Strava saves that information so you don’t have to re-enter it repeatedly during that session. Most browsers automatically accept cookies. The only way to “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, please contact us. Not accepting cookies may make certain features of the Services unavailable to you. Strava may also use your IP address to identify you, to administer the Services and to assist in diagnosing problems with Strava’s servers.
 
-### What about the blog?
+#### Log Files
 
-Strava maintains a relationship with an outside service provider to administer the online Blog site that can be accessed through Strava’s site at [http://blog.strava.com/](https://web.archive.org/%22http://blog.strava.com//%22) (the “Blog”). The Blog maintains the look and feel of the Site, but any personal information you provide on the Blog is stored by the outside service provider. Any personal information submitted on the Blog is wholly governed by the privacy policy of the outside service provider, which can be found at [http://www.wordpress.com/privacy](https://web.archive.org/%22http://www.wordpress.com/privacy/%22). Strava recommends that you read that privacy policy before submitting any personal information on the Blog. Although the Blog pages may have Strava branding, the outside service provider is prominently identified so that you are aware of who is collecting your personal information. If you use the Blog, you should be aware that any personally identifiable information you submit in the comment field can be read, collected, or used by other users of these forums indefinitely, and could be used to send you unsolicited messages. Strava is not responsible for the personally identifiable information you choose to submit via the Blog. 
+The Services uses log files. Stored information includes IP addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. This information is used to analyze trends, administer the Services, track member movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc., may be linked to session IDs, athlete IDs and device identifiers.
 
-### Privacy Policy changes
+#### Analytics Services
 
-If Strava makes changes to any terms or conditions of this Privacy Policy, these changes will be posted on the Site in a timely manner. If Strava decides to change this Privacy Policy, it will post those changes on this Privacy Policy and other places Strava deems appropriate, which may include the Site, for a period of time Strava deems appropriate, so that you are aware of what information Strava collects, how Strava uses it, and under what circumstances, if any, Strava discloses it. Strava reserves the right to modify this Privacy Policy at any time, so please review it frequently. In case of a business transaction in which a portion or all of Strava’s business is acquired, Strava will notify you as described above in this paragraph. 
+Strava uses third party analytics providers to understand how the Services are used and to help us improve the Services.
 
-### Disclaimer
+#### Collection from Children
 
-While Strava continues to work hard to protect your personal information, no data transmission over the Internet can be guaranteed to be absolutely secure, and Strava cannot ensure or warrant the security of any information you transmit to Strava. Transmitting personal information is done at your own risk. 
+Strava is not intended for use by children under the age of 13. Strava does not knowingly collect such information. If you believe we may have accidentally received such information, please contact us immediately via [https://support.strava.com](https://support.strava.com/).
 
-### Contact Strava
+#### Third Parties
 
-Strava welcomes your questions and comments about security and privacy. Please send any questions or comments via email to [support@strava.com](https://web.archive.org/%22https://strava.zendesk.com/home/%22). 
+Strava may collect personally identifiable information about your activities over time and across third-party websites or online services when you use the Services. We may obtain additional information about you from third parties such as marketers, partners, researchers, and others. We may combine information that we collect from you with information obtained from such third parties and information derived from any other subscription, product, or service we provide.
 
-Last updated March 25, 2009.
+Strava is committed to providing you choices to manage your privacy and sharing. However, Strava does not recognize or respond to browser-initiated Do Not Track signals, as the internet industry has not fully developed Do Not Track standards, implementations and solutions. To learn more about Do Not Track signals, you can visit [https://allaboutdnt.com](https://allaboutdnt.com/).
+
+### How Strava Uses Information
+
+Strava primarily uses the information we collect to administer and operate the Services. We also use your information to analyze, develop and improve the Services. We may also use your information to market the services, credit or accept payments, provide support related to the Services, protect members and enforce our [Terms of Service](https://strava.com/legal/terms), promote safety, and communicate with you. Additionally, your information may be shared with third parties, as set forth below.
+
+### How Information is Shared
+
+#### Sharing Information and Activities
+
+Subject to your privacy settings, you may share your information, including your profile, username, photos, members you follow and who follow you, clubs you belong to, your activities, and kudos and comments you give and receive. You may choose to invite your contacts to view your location and activities using Strava Beacon or otherwise. If you link your Strava account to other social networks and share your activities, they will be viewable outside the Services. If you choose to share or post your location information via such third parties, it is possible that unintended people could have access to such information. You should use caution when sharing information via third parties and you should carefully review the privacy practices of such third parties.
+
+#### Publicly Available Information
+
+Subject to your privacy settings, your information and content may be publicly accessible.
+
+#### Third Party Business via API or Other Integrations
+
+When you use third party apps, plug-ins, or websites that integrate with the Services, they may receive your information and content, including your personal information, photos, and your activity data (including private activities). Information collected by these third parties is subject to their terms and policies. Strava is not responsible for the terms or policies of third parties.
+
+#### Sharing within Strava
+
+We may share your information and content within Strava to operate, improve, or promote the Services.
+
+#### Service Providers
+
+We may share your information with third parties who provide services to Strava such as supporting and improving the Services, promoting the Services, processing payments, or fulfilling orders. These service providers will only have access to the information necessary to perform these limited functions on our behalf and are required to protect and secure your information. We may also use service providers to collect information about your use of the Services over time so that we or they may promote Strava or display information that may be relevant to your interests on the Services or other websites or services.
+
+#### Affiliates and Acquirors of our Business or Assets
+
+We may share your information with affiliates under common control with us, who are required to comply with the terms of this Privacy Policy with regard to your information. If Strava becomes involved in a business combination, securities offering, bankruptcy, reorganization, dissolution or other similar transaction, we may share or transfer your information in connection with such transaction.
+
+#### Aggregated and De-Identified Information
+
+Strava may modify, de-identify and aggregate the information, data, text, software, sound, photographs, graphics, video, messages, tags, or other materials you make available in connection with the Services (“Content”), in ways that do not personally identify you or contain personally identifiable information. Examples of such aggregated information or statistical data include information about equipment and usage, demographic and route information and performance or biometric information. Strava may use, sell, license, and share this information with third parties for research, business or other purposes. If you make information or content publicly available on the Services, such information, even when aggregated, is capable of being publicly viewed and possibly associated with you.
+
+#### With Consent
+
+We may share your information if (i) you direct us to do so or (ii) you otherwise consent to such sharing.
+
+#### Legal Requirements
+
+We may share your information with third parties, including law enforcement, public or governmental agencies, or private litigants, within or outside your country of residence, if we determine that disclosure is reasonably necessary to comply with the law, including to respond to court orders, warrants, subpoenas, or other legal or regulatory process. We may also disclose your information if we determine that disclosure is reasonably necessary or appropriate to prevent any person from death or serious bodily injury, to address issues of national security or other issues of public importance, to prevent or detect violations of our [Terms of Service](https://strava.com/legal/terms) or fraud or abuse of Strava or its members, or to protect our operations or our property or other legal rights, including by disclosure to our legal counsel and other consultants and third parties in connection with actual or potential litigation.
+
+#### DMCA Notices
+
+We may share your information with third parties when we forward Digital Millennium Copyright Act (DCMA) notifications, which will be forwarded as submitted to us without any deletions.
+
+#### Unforeseeable Disclosures
+
+Your personally identifiable information may be disclosed to third parties in unforeseeable situations that are not preventable even when commercially reasonable protections are employed, such as in the case that Strava or the Services is subject to a hacking or other attack.
+
+### How We Protect Information
+
+We take several measures to safeguard the collection, transmission and storage of the data we collect. These steps depend on the sensitivity of the data that we collect, process, and store. Although we strive to employ reasonable protections for your information that are appropriate to its sensitivity, we do not guarantee or warrant the security of the information you share with us and we are not responsible for the theft, destruction, loss or inadvertent disclosure of your information or content. No system is 100% secure. The Services uses industry standard Secure Sockets Layer (SSL) technology to allow for the encryption of personal information and credit card numbers. Strava engages a company that is an industry leader in online security and Services verification to strengthen the security of Strava’s Services. The Services are registered with site identification authorities so that your browser can confirm Strava’s identity before any personally identifiable information is sent. In addition, Strava’s secure servers protect this information using advanced firewall technology.
+
+To help ensure that these measures are effective in preventing unauthorized access to your private information, you should be aware of the security features available to you through your browser. You should use a security-enabled browser to submit your credit card information and other personal information at the Services. Please note that if you do not use a SSL-capable browser, you are at risk for having data intercepted.
+
+Most browsers have the ability to notify you if you change between secure and insecure communications, receive invalid Services identification information for the Services you are communicating with, or send information over an unsecured connection. Strava recommends that you enable these browser functions to help ensure that your communications are secure. You can also monitor the URL of the Services you are visiting (secure URLs begin with https:// rather than http://), along with the security symbol of your browser to help identify when you are communicating with a secure server. You can also view the details of the security certificate of the Services to which you are connected. Please check the validity of any Services you connect to using secure communications.
+
+### How to Modify Privacy Settings
+
+Strava offers several features and settings to help you manage your privacy and how you share your activities. Most privacy settings are located in your privacy settings page, but some are specific to individual activities or athletes. Strava provides you the option to make your activities private. To manage your privacy settings, please visit <https://strava.com/settings/privacy>.
+
+### How to Opt Out or Adjust Notification and Email Preferences
+
+We offer various ways to opt-out or opt-into our notifications, located at <https://strava.com/settings>. To choose to stop receiving certain emails from Strava, please follow the unsubscribe instructions within each email communication or contact us at [https://support.strava.com](https://support.strava.com/). Strava will not provide or share any mailing lists or other information about you to another company or service other than as set forth in this Privacy Policy. Any administrative or service related emails (to confirm a purchase, or an update to the [Terms of Service](https://strava.com/legal/terms), etc.) generally do not offer an option to unsubscribe as they are necessary to provide the service you requested.
+
+### Updating Account Information
+
+You may correct, amend or delete submitted account information that is inaccurate at any time by adjusting that information in your account settings. If you need further assistance, please contact Strava at [https://support.strava.com](https://support.strava.com/). Strava will generally respond to your request within 7-10 business days.
+
+### Deleting Information and Deactivation of Accounts
+
+You may request deletion of your personally identifiable information by contacting us at [https://support.strava.com](https://support.strava.com/) or visiting <https://www.strava.com/settings/privacy> to request account deletion. Once deactivated, your account, activities and place on leaderboards cannot be reinstated.
+
+Note that content you have shared with others (for example, through Clubs) or that others have copied may also remain visible after you have closed your account or deleted the information from your own profile. In addition, you may not be able to access, correct, or eliminate any information about you that other members or third parties copied or exported out of our Services. Your public profile may be displayed in search engine results until the search engine refreshes its cache.
+
+### Other Strava Sites
+
+Strava maintains certain websites that can be accessed outside of [https://strava.com](https://strava.com/), such as [https://blog.strava.com](https://blog.strava.com/) (the “Other Sites”). The Other Sites maintain the look and feel of the Services, but are hosted by outside service providers with their own terms and privacy policies. If you interact with the Other Sites, your information may be stored, processed, or shared outside of the Services. If you interact with the Other Sites, you agree that you may be subject to the terms and conditions and policies applicable to such Other Site. Please be aware that any personally identifiable information you submit to the Other Sites may be read, collected, or used by other users of these forums indefinitely, and could be used to send you unsolicited messages. Strava is not responsible for the personally identifiable information you choose to submit via the Other Sites.
+
+### Privacy Policy Information
+
+If Strava makes changes to this Privacy Policy, the updated Privacy Policy will be posted on the Services in a timely manner. If the changes are significant, we will provide a prominent notice. Strava reserves the right to modify this Privacy Policy at any time. If you object to any of the changes to Privacy Policy, you may cease using the Services and deactivate your account. Using the Services after a notice of changes has been communicated to you or published on the Services shall constitute your agreement to the changes.
+
+#### United States Operation
+
+The Services are operated from the United States. If you are located outside of the United States and choose to use the Services or provide information to us, your information will be transferred, processed and stored in the United States. United States privacy laws may not be as protective as those in your jurisdiction. You acknowledge and consent to this practice.
+
+#### Disclaimer
+
+While Strava continues to work hard to protect your personal information, no data transmission over the Internet can be guaranteed to be absolutely secure, and Strava cannot ensure or warrant the security of any information you transmit to Strava. Transmitting personal information is done at your own risk.
+
+### Retention of Information
+
+We retain information as long as it is necessary and relevant for our operations. Information about you that is no longer necessary and relevant for our operations will be de-identified and/or disposed of securely. In addition, we may retain information from closed accounts to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the Services’ terms and conditions and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.
+
+When you delete your user account, certain personal information will be immediately de-associated with the account and deleted, such as your e-mail, name, address, and profile photo, if you had chosen to provide this information. Additionally, your Third-Party Account information will be immediately de-associated with your account. All of your activities and kudos will be de-identified, made private and no longer associated with your personal information. Your comments will be deleted and your account will not be associated with any clubs you had previously joined. We may, however, keep a record of your deletion for up to 30 days following your deletion of an account. Additionally, we may keep system logs, which may be associated with your account for up to 30 days following your deletion of an account.
+
+When you delete your account, we may retain geolocation information to continue to improve the Services. Upon deletion of your account, however, this information cannot be viewed by other users and will be de-associated with your name and other identifiers.
+
+© 2017 Strava
