@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madbarz.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119110418id_/https%3A//madbarz.com/Terms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madbarz.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228114357id_/https%3A//madbarz.com/Terms/Privacy) for the most accurate reproduction.*
 
 # 
 
@@ -52,4 +52,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ##  Contact Us
 
-If there are any questions regarding this privacy policy, please send an email to: support@madbarz.com
+If there are any questions regarding this privacy policy, please send an email to: madbarz@madbarz.com
