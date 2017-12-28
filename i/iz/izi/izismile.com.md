@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the izismile.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628055439id_/http%3A//izismile.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izismile.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228010800id_/http%3A//izismile.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,17 @@ We use Google AdSense and other third-party advertising companies to serve ads w
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.  
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://izismile.com/go.php?url=http://www.google.com/privacy_ads.html).
+
+**Opt out of interest-based advertising**  
+Some of the ads you see on the Web or in applications on your mobile device are tailored to your interests and based on your activity online or in the applications on your mobile device. This type of ad tailoring — sometimes called "interest-based" or "online behavioral" advertising — is enabled through various technologies, including browser cookies, mobile advertising identifiers as well as other non-cookie technologies.
+
+Opting out of interest-based advertising does not mean you will no longer see advertising online. It does mean that the company or companies from which you opt out will no longer show ads that have been tailored to your interests.
+
+You may use this service to:
+
+\- find out which participating National Advertising Initiative (NAI) member companies may be conducting Interest-Based Advertising on your browser, \- learn more about the individual participating NAI member companies and their privacy practices by clicking on the links to their privacy notices, \- find out if this browser is already opted-out from Interest-Based Advertising from participating NAI member companies, \- learn more about tailored advertising in applications on mobile devices and the choices you have to opt out, and \- choose to opt out of Interest-Based Advertising from one, some or all participating NAI member companies on your browser.
+
+**You can[opt out of interest-based advertising here](http://izismile.com/go.php?url=http://optout.networkadvertising.org/#!/).**
 
 **How To Contact Us**  
 If you have other questions or concerns about this privacy policy, please send us an email at admin@izismile.com. 
