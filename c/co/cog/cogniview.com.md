@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cogniview.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629015223id_/http%3A//www.cogniview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cogniview.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228193211id_/http%3A//www.cogniview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CogniView
 
