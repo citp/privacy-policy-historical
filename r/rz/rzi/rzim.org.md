@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rzim.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606000659id_/http%3A//rzim.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rzim.org privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228075234id_/http%3A//rzim.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | RZIM
 
@@ -16,7 +16,7 @@ Please keep in mind that if you directly disclose personally identifiable inform
 
 RZIM encourages you to review the statements of websites you choose to link to from RZIM so that you can understand how those websites collect, use, and share your information. RZIM is not responsible for the privacy statements or other content on websites outside of the RZIM and RZIM family of websites.
 
-It is the desire of RZIM to honor your communication needs. If you wish to be removed from our conventional mailing list, please contact us in writing at rzim@rzim.org.
+It is the desire of RZIM to honor your communication needs. If you wish to be removed from our conventional mailing list, please contact us in writing at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Use of Your Personal Information**
 
@@ -54,4 +54,4 @@ RZIM will occasionally update this Statement of Privacy to reflect company and c
 
 **Contact Information**
 
-RZIM welcomes your comments regarding this Statement of Privacy. If you believe that RZIM has not adhered to this statement, please contact RZIM at [rzim@rzim.org](mailto:rzim@rzim.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+RZIM welcomes your comments regarding this Statement of Privacy. If you believe that RZIM has not adhered to this statement, please contact RZIM at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f6848c9f9bb6848c9f9bd8998491). We will use commercially reasonable efforts to promptly determine and remedy the problem.
