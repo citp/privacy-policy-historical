@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livethedreamdvd.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628224022id_/http%3A//www.mlsp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livethedreamdvd.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228144624id_/http%3A//www.mlsp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLeadSystemPRO™
 
