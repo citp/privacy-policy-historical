@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tunnelbear.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512113118id_/https%3A//www.tunnelbear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunnelbear.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228232338id_/https%3A//www.tunnelbear.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TunnelBear
+# A Privacy Policy You Can Actually Understand
 
 #### April 20th, 2017
 
@@ -16,7 +16,7 @@ If you have any questions or comments about this Privacy Policy, please contact 
 
 As a provider of an online privacy service, we ultimately strive to collect the minimal amount of information required to operate our service. This often means difficult trade-offs between the information we collect and the performance of our service.
 
-We believe that extraordinary openness and transparency around the data we collect, why we collect it and how we handle it can be a foundation of trust in our service. We welcome your thoughts and feedback on this evolving document.
+We believe in an open dialogue because this privacy policy is an evolving document. We welcome your thoughts and feedback on how we're doing.
 
 #### 1.1 What is Personal Information?
 
@@ -36,8 +36,6 @@ Email confirmed | Confirmation that your email address is valid
 Paid user | Provide paid users with unlimited data  
 Paid user expiry date | Provide paid service until this date  
   
-Example Trade-off: Collecting your name
-
 TunnelBear previously collected your name as part of the account creation process. This was helpful in communications, customer support and anti-credit card fraud efforts. However, through TunnelBear’s regular data privacy discussions, it was determined that the benefits to user anonymity outweighed other business benefits. As a result, you are now only required to provide your email address when creating a TunnelBear account.
 
 #### 1.3 Operational Data
@@ -55,9 +53,7 @@ e.g. 1 or 0 | Customer satisfaction, support, network demand planning
 Total data used this month  
 e.g. 22.34 GB | Customer satisfaction, support, network demand planning, granting free user data  
   
-Example Trade-off: Selecting an anonymous usage metric
-
-Understanding how much data people are using is a critical metric for TunnelBear. It tells us if people are using TunnelBear, if the service is working properly and it also helps us plan for demand on our network. However, choosing a usage metric that respects your privacy is challenging task. Through vigorous debate, we determined that collecting the overall amount of data used by a specific user, for the current month, was the correct balance. We felt that overall usage would respect individual user privacy (i.e. no login timestamps, no logs, etc.) while still providing the most vital data for TunnelBear to efficiently operate our service.
+Understanding how much data people are using is a critical metric for TunnelBear. It tells us if people are using TunnelBear, if people have reached their free data limit, if the service is working properly and it also helps us plan for demand on our network. However, choosing a usage metric that respects your privacy is challenging task. We decided that collecting the overall amount of data used by a specific user, for the current month, was the correct balance. We also ensure that no historical record is kept by resetting the total monthly usage value to 0 at the end of each month. We felt that overall usage would respect individual user privacy (i.e. no login timestamps, no logs, etc.) while still providing the most vital data for TunnelBear to efficiently operate our service.
 
 Some data is used to ensure customer satisfaction.
 
@@ -92,8 +88,6 @@ TunnelBear never stores your complete credit card number. To keep your payment i
 
 TunnelBear operates exclusively with PCI compliant payment processors. Only our payment processors have the ability to collect, use and access your full credit card information and other financial information. They can use this information solely for the purpose of charging and invoicing you for our (paid) Services.
 
-Example Trade-off: Fighting Credit Card Fraud
-
 No one likes credit card fraud. As a service that’s serious about online privacy, TunnelBear can attract some dodgy characters that attempt to use stolen credit cards to purchase upgraded TunnelBear accounts. Despite trying a number of commercial solutions, credit card fraud became a significant enough problem that we built our own proprietary machine-learning anti-fraud solution.
 
 To enhance the effectiveness of TunnelBear’s anti-fraud tools, we sometimes store your Last Name and the last four numbers of your credit card (and only last 4 numbers) when you upgrade your TunnelBear. This information is exclusively stored for the purposes of making the use of stolen credit cards to purchase TunnelBear as annoying as possible for thieves.
@@ -106,6 +100,7 @@ TunnelBear explicitly does NOT collect, store or log the following data:
 
   * IP addresses visiting our website
   * IP addresses upon service connection
+  * DNS Queries while connected
   * Any information about the applications, services or websites our users use while connected to our Service
 
 
@@ -170,7 +165,7 @@ If at any time you have a question about our records containing your Personal In
 
 #### 2.10 Addressing Comments and Concerns
 
-We believe in open dialog on and that is privacy policy is an evolving document. We welcome your thoughts and feedback on how we’re doing.
+We believe in an open dialogue, and understand that this privacy policy is an evolving document. We welcome your thoughts and feedback on how we're doing.
 
 #### 2.11 Changes to Our Privacy Policy
 
