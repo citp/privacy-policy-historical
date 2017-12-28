@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youjizz.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222031330id_/http%3A//www.youjizz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youjizz.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228201726id_/https%3A//www.youjizz.com/privacy) for the most accurate reproduction.*
 
-# The YouJizz Privacy Page
+# porntube, porn tube, mobile porn, pornotube, you porn, youporn
 
   
 
@@ -10,7 +10,7 @@
 ### A.
 
 The operative parties referred to in this policy are Company and you, the user of this site.   
-1.International Media, Inc., is the publisher and operator of the websites listed at the beginning of this policy. Hereinafter, International Media, Inc. shall be referred to as "Company". When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Company. Additionally, when the terms "The Site" or "Site" are used, these terms refer to the websites listed at the beginning of this policy.   
+1.International Media, Ltd., is the publisher and operator of the websites listed at the beginning of this policy. Hereinafter, International Media, Ltd. shall be referred to as "Company". When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Company. Additionally, when the terms "The Site" or "Site" are used, these terms refer to the websites listed at the beginning of this policy.   
 2.You, the User - As the user of this site, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the site shall be referred to in applicable second- person pronouns. 
 
 ### B.
