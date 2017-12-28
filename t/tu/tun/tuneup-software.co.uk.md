@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the tuneup-software.co.uk privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623034034id_/http%3A//www.avg.com/gb-en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuneup-software.co.uk privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228025716id_/https%3A//www.avg.com/en-gb/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | We are serious about your privacy | AVG
 
 ## Our Privacy Policy
 
   
-We (AVG Technologies B.V. and our affiliates) last changed our privacy policy on March 23, 2017. If you’re interested to see what changed, please [click here](https://web.archive.org/gb-en/privacy#what-changes-have-you-recently-made). AVG is part of the [Avast Group](https://www.avast.com/). This Privacy Policy applies to all the AVG branded products. Please note that specific privacy policies apply for [Avast](https://www.avast.com/privacy-policy) branded products, [HideMyAss](https://www.hidemyass.com/legal/privacy) branded products, [Norman](https://web.archive.org/gb-en/norman-privacy) branded products, [TuneUp](https://web.archive.org/gb-en/app-specific-tuneup-utilities) branded products and the [Ally App](http://chimewifi.com/privacypolicy/), as well as the processing of personal data by [Location Labs Inc.](https://www.locationlabs.com/privacy-policy) and [Jumpshot Inc](https://www.jumpshot.com/privacy-policy/). Furthermore, our website provides you with [specific additional information](https://web.archive.org/gb-en/app-specific) for certain apps. 
+We (Avast Software B.V. and our affiliates) last changed our privacy policy on March 23, 2017. If you’re interested to see what changed, please [click here](https://web.archive.org/en-gb/privacy#what-changes-have-you-recently-made). AVG is part of the [Avast Group](https://www.avast.com/). This Privacy Policy applies to all the AVG branded products. Please note that specific privacy policies apply for [Avast](https://www.avast.com/privacy-policy) branded products, [HideMyAss](https://www.hidemyass.com/legal/privacy) branded products, [Norman](https://web.archive.org/en-gb/norman-privacy) branded products, [TuneUp](https://web.archive.org/en-gb/app-specific-tuneup-utilities) branded products and the [Ally App](http://chimewifi.com/privacypolicy/), as well as the processing of personal data by [Location Labs Inc.](https://www.locationlabs.com/privacy-policy) and [Jumpshot Inc](https://www.jumpshot.com/privacy-policy/). Furthermore, our website provides you with [specific additional information](https://web.archive.org/en-gb/app-specific) for certain apps. 
 
 ## Why do you collect my data?
 
@@ -31,7 +31,7 @@ If you are really interested in this privacy stuff, we’ve put together [a few 
 ## How do you collect my data?
 
   
-We collect information in three ways: when you provide us information, automatically, when you use our website or products, and when provided to us by third parties. Much of our automatic collection is done through the use of things like cookies and tracking beacons. If you are curious what is meant by a cookie or a tracking beacon, please [click here](http://www.allaboutcookies.org/web-beacons/). You can find comprehensive information on how we use cookies and third-party tracking and analytics services [here](https://web.archive.org/gb-en/cookies). Additionally, if you have the option enabled, we may scan web traffic (including encrypted traffic) for known virus threats.
+We collect information in three ways: when you provide us information, automatically, when you use our website or products, and when provided to us by third parties. Much of our automatic collection is done through the use of things like cookies and tracking beacons. If you are curious what is meant by a cookie or a tracking beacon, please [click here](http://www.allaboutcookies.org/web-beacons/). You can find comprehensive information on how we use cookies and third-party tracking and analytics services [here](https://web.archive.org/en-gb/cookies.html). Additionally, if you have the option enabled, we may scan web traffic (including encrypted traffic) for known virus threats.
 
 ## What do you collect that can identify me?
 
@@ -54,7 +54,7 @@ Some personal data we collect automatically when you use our website or products
   * SIM (Subscriber Identification Module) card number;
   * Device ID numbers, including Machine ID, IMEI and/or MEID;
   * AVG product license and identification numbers; and
-  * Geographic location based on GPS/Wi-Fi/communications network local information.
+  * Geographic location based on GPS/Wi -Fi/communications network local information.
 
 
 
@@ -129,9 +129,9 @@ You have the right to ask us about the personal data we process about you, the p
 
 You have the right to request that we update, correct, or delete (assuming that this does not impact the services we are providing to you) your personal data at any time. Please note that we may reject requests which risk the privacy of others or are unreasonable or repetitive, or would require disproportionate effort. Unless you request us to delete your data, please note that we may keep your personal data for one year after you stop being a customer (but we typically keep your personal data no longer than is reasonably necessary given the purposes for which the data was collected).
 
-You have the right to opt out of the use or collection of certain data by us or by third parties, including personal data and non-personal data, by following the instructions [here](https://web.archive.org/gb-en/privacy-preferences).
+You have the right to opt out of the use or collection of certain data by us or by third parties, including personal data and non-personal data, by following the instructions [here](https://web.archive.org/en-gb/privacy-preferences.html).
 
-You have the right to opt-out of receiving our email newsletters, bulletins, or other information at any time by following the instructions [here](https://web.archive.org/gb-en/privacy-preferences) or the relevant unsubscribe process outlined in the applicable email or newsletter. Please be aware that our emails may include important or useful information about your AVG Products, including information about your license number or the status of your orders or accounts.
+You have the right to opt-out of receiving our email newsletters, bulletins, or other information at any time by following the instructions [here](https://web.archive.org/en-gb/privacy-preferences.html) or the relevant unsubscribe process outlined in the applicable email or newsletter. Please be aware that our emails may include important or useful information about your AVG Products, including information about your license number or the status of your orders or accounts.
 
 You have the right to expect us to protect your personal data and keep it safe. We work hard to protect AVG and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of the information we hold. In particular:
 
@@ -151,13 +151,13 @@ Changes to our privacy policy since the latest version include:
 
 
 
-Follow [this link](https://web.archive.org/gb-en/privacy-archive) to access previous versions of the AVG Privacy Policy.
+Follow [this link](https://web.archive.org/en-gb/privacy-archive) to access previous versions of the AVG Privacy Policy.
 
 ## How can I contact you?
 
 If have any questions about this policy or any of the above, please email us at [privacy@avg.com](mailto:privacy@avg.com) or see instructions in the product or service you are using. You may contact us by mail at:
 
-AVG Netherlands B.V.  
+Avast Software B.V.  
 Gatwickstraat 9-39,   
 1043 GL Amsterdam  
 The Netherlands
@@ -166,6 +166,6 @@ The Netherlands
 
 Periodically, our site or products may contain links to and from websites or other external destinations managed by third parties. If you follow a link to any of these destinations (like offers on mobile app stores etc.), please note that those sites have their own privacy policy. When you are on those sites you are subject to those policies, and should therefore read and understand them before you submit any personal data to those sites. 
 
-We may also link to co-branded websites or products that are maintained by AVG Technologies and one or more of our business partners. Please note that these co-branded websites and products may have their own privacy policy, which we encourage you to read and understand.  
+We may also link to co-branded websites or products that are maintained by Avast Software B.V. and one or more of our business partners. Please note that these co-branded websites and products may have their own privacy policy, which we encourage you to read and understand.  
 
 Skip to content Skip to menu
