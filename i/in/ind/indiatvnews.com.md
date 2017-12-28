@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiatvnews.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628023023id_/http%3A//www.indiatvnews.com/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatvnews.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228010851id_/http%3A//www.indiatvnews.com/cms/privacy-policy) for the most accurate reproduction.*
 
 # IndiaTV news privacy policy
 
-Independent News Service Private Ltd. (India TV) respects the privacy of it's users and is committed to protect it in all respects. The information about the user as collected by (India TV) is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
+India TV Interactive Media Pvt. Ltd. (India TV) respects the privacy of it's users and is committed to protect it in all respects. The information about the user as collected by (India TV) is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
 By using (India TV)’s website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
 
