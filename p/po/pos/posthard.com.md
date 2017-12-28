@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the posthard.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619085047id_/http%3A//posthard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posthard.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228195711id_/http%3A//posthard.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Post Hard
 
@@ -67,6 +67,10 @@ Your consent to this Privacy Policy followed by your submission of such informat
 Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+ **3rd Party Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://optout.networkadvertising.org/#!/).
 
  **Children’s Privacy**
 
