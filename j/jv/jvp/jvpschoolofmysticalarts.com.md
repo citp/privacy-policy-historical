@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jvpschoolofmysticalarts.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624033031id_/https%3A//www.jvpschoolofmysticalarts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvpschoolofmysticalarts.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228113423id_/http%3A//www.jvpschoolofmysticalarts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JVP School of Mystical Arts
 
@@ -12,7 +12,7 @@ Policy on this site. Please take a moment to familiarize yourself with our
 policy practices and feel free to contact us if you have any further  
 questions.
 
- **IMPORTANT: By visiting[www.VanPraagh.com](http://www.vanpraagh.com/) and/or  
+**IMPORTANT: By visiting[www.VanPraagh.com](http://www.vanpraagh.com/) and/or  
 [www.JVPSchoolofMysticalArts.com](https://www.jvpschoolofmysticalarts.com/), you are accepting all of the  
 practices described in this Privacy Notice, and any dispute over  
 privacy is subject to this notice of privacy and our conditions of use,  
@@ -29,7 +29,7 @@ stand behind the promises we make. If you have concern about privacy at
 contact us with a complete description and we will try and resolve it to your  
 satisfaction.
 
- **Last updated: April 1, 2015.**
+**Last updated: April 1, 2015.**
 
  **Collection and use of personal information: What personal  
 information do we collect?**
@@ -55,7 +55,7 @@ products, services, content and advertising. If you choose to provide us
 with contact information such as the above for friends or family, we may  
 collect and use that information as well.
 
- **What do we use your information for?**
+**What do we use your information for?**
 
 The personal information we collect from you allows us to keep you posted  
 on many features of our site, such as our latest announcements, updates  
@@ -88,11 +88,11 @@ provide to you.
 
 
 
- **Please Note:** If at any time you would like to unsubscribe from receiving  
+**Please Note:** If at any time you would like to unsubscribe from receiving  
 future emails, we include detailed unsubscribe instructions at the bottom of  
 each email.
 
- **Collection and use of Non-personal information: What information do  
+**Collection and use of Non-personal information: What information do  
 we collect?**
 
 We also collect non-personal information that is data in a form that does  
@@ -116,7 +116,7 @@ personal information for the duration that it is combined.
 
 
 
- **Automatic Information**
+**Automatic Information**
 
 Examples of the information we collect and analyze include the Internet  
 protocol (IP) address used to connect your computer to the Internet; login;  
@@ -135,7 +135,7 @@ methods used to browse away from the page. We may also collect
 technical information to help us identify your device for fraud prevention  
 and diagnostic purposes.
 
- **How do we protect your information?**
+**How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety and  
 security of your personal information when you enter, submit, or access  
@@ -156,9 +156,9 @@ card company during order processing, and you agree to allow us to do so.
 If you do give us your credit card information, it is important for you to  
 protect against unauthorized access to your password and to your  
 computer. Be sure to sign off or log off when finished using a shared  
-computer.
+computer. 
 
- **“Cookies and Other Technologies–What are “cookies” and do we use  
+**“Cookies and Other Technologies–What are “cookies” and do we use  
 cookies?**
 
 We receive and store certain types of information whenever you interact  
@@ -227,7 +227,7 @@ Pixel tags enable us to send email messages in a format you can read, and
 they tell us whether mail has been opened. We may use this information to  
 reduce or eliminate messages sent to readers.
 
- **Do we disclose any information to outside parties?**
+**Do we disclose any information to outside parties?**
 
 We are not in the business of selling your important information to others  
 and so we won’t do so. At times we may make certain personal information  
@@ -242,7 +242,7 @@ us in operating our website, conducting our business, or servicing you, so
 long as those parties agree to keep this information confidential pursuant to  
 this Privacy Policy.
 
- **Who else might we disclose your information to?**
+**Who else might we disclose your information to?**
 
 We may also release your information when we believe release is  
 appropriate to enforce our site policies, or protect ours or others’ rights,  
@@ -268,7 +268,7 @@ operations or users. Additionally, in the event of a reorganization, merger,
 or sale we may transfer any and all personal information we collect to the  
 relevant third party.
 
- **Third party links**
+**Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products  
 or services on our website. These third party sites have separate and  
@@ -277,7 +277,7 @@ We therefore have no responsibility or liability for the content and activities
 of these linked sites. Nonetheless, we seek to protect the integrity of our  
 site and welcome any feedback about these sites.
 
- **Protection of Personal Information**
+**Protection of Personal Information**
 
 We take precautions — including administrative, technical, and physical  
 measures — to safeguard your personal information against loss, theft, and  
@@ -292,7 +292,7 @@ instances. For example, if you list your name and email address in a forum
 posting, that information is public. Please take care when using these  
 features.
 
- **Integrity and Retention of Personal Information**
+**Integrity and Retention of Personal Information**
 
 We hope to make it easy for you to keep your personal information  
 accurate, complete, and up to date. We will retain your personal  
@@ -300,7 +300,7 @@ information for the period necessary to fulfill the purposes outlined in this
 Privacy Policy unless a longer retention period is required or permitted by  
 law.
 
- **Access to Personal Information**
+**Access to Personal Information**
 
 For personal information, we make good faith efforts to provide you with  
 access so you can request that we correct the data if it is inaccurate or  
@@ -312,7 +312,7 @@ otherwise required by local law. Access, correction, or deletion requests
 can be made through the following link:  
 [http://jvpschoolofmysticalarts.com/contact](https://www.jvpschoolofmysticalarts.com/contact/)
 
- **California Online Privacy Protection Act Compliance**
+**California Online Privacy Protection Act Compliance**
 
 We value your privacy, and so if you are located in California, we have  
 taken the necessary precautions to be in compliance with the California  
@@ -320,7 +320,7 @@ Online Privacy Protection Act. We therefore will not distribute your personal
 information to outside parties pursuant to those regulations without your  
 consent.
 
- **Children under 13 and 18**
+**Children under 13 and 18**
 
 We are in compliance with the requirements of COPPA (Childrens’ Online  
 Privacy Protection Act). We do not knowingly collect personal information  
@@ -333,28 +333,28 @@ are under 18 years of age and are not using the site and ordering with the
 express involvement and consent of a parent or guardian, we will  
 immediately cease fulfilling your order and your money will be returned.
 
- **Our Companywide Commitment to Your Privacy**
+**Our Companywide Commitment to Your Privacy**
 
 To make sure your personal information is secure, we communicate our  
 privacy and security guidelines to our employees and strictly enforce  
 privacy safeguards within the company.
 
- **Privacy Questions and Contacting us**
+**Privacy Questions and Contacting us**
 
 If you have any questions or concerns about our Privacy Policy or data  
 processing, please contact us at  
 [http://jvpschoolofmysticalarts.com/contact](https://www.jvpschoolofmysticalarts.com/contact/)
 
- **Online Privacy Policy Only**
+**Online Privacy Policy Only**
 
 This online Privacy Policy applies only to information collected through our  
 website and not to information collected offline.
 
- **Your Consent**  
+**Your Consent**  
 By using our site, you consent to our web site Privacy Policy and all  
 additions or deletions posted by us at any time.
 
- **Changes to our Privacy Policy**
+**Changes to our Privacy Policy**
 
 We may update our Privacy Policy from time to time. When we change the  
 policy in a material way, we will do our best to provide a notice which will be  
