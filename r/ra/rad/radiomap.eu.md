@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiomap.eu privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628093245id_/http%3A//www.radiomap.eu/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiomap.eu privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228103224id_/http%3A//www.radiomap.eu/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy — Radiomap.eu
 
@@ -24,4 +24,4 @@
 
     We may update this Privacy Policy from time to time as our services change and expand. If we update this Privacy Policy, we will notify you about significant changes by sending a notice to the email address specified in your account or by posting a notice of such changes on the Radiomap.eu Site. Unless otherwise provided, the revised terms will take effect on the date they are posted. Once such changes become effective, your continued use of the Site will signify your acceptance of the new Privacy Policy. If you do not agree to the terms of this Privacy Policy, or any revised Privacy Policy, your sole and exclusive remedy is to discontinue using the Site.
 
-    If you have questions about this Statement or our policies, please [contact us](https://web.archive.org/web/20170628093245id_/http://radiomap.eu/about/contact.htm). 
+    If you have questions about this Statement or our policies, please [contact us](https://web.archive.org/web/20171228103224id_/http://radiomap.eu/about/contact.htm). 
