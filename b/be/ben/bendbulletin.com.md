@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032042id_/http%3A//www.bendbulletin.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228115733id_/http%3A//www.bendbulletin.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This policy discloses the privacy and security practices for [bendbulletin.com](http://bendbulletin.com/) and [bendhomes.com,](http://bendhomes.com/) which are subject to change from time to time. Any such changes will be posted on this page and you will be bound to such changes by your continued use of the web site. [Bendbulletin.com](http://bendbulletin.com/) and [bendhomes.com](http://bendhomes.com/) are intended for use by adults. Please see our Children's Privacy Statement below for additional safeguards to protect the privacy of personal information collected from children under 13. This policy applies to the web sites (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated, distributed, or created by us and post this policy. If you have any questions about [bendbulletin.com's](http://bendbulletin.com%27s/) privacy practices, please contact us via e-mail at [privacy@bendbulletin.com](mailto:privacy@bendbulletin.com). 
+Published Nov. 1, 2017 at 08:55AM / Updated Nov. 1, 2017 at 09:04AM
 
-**What type of information do[bendbulletin.com](http://bendbulletin.com/) and [bendhomes.com](http://bendhomes.com/) collect about their users and how do they use the information?**
+This policy discloses the privacy and security practices for [bendbulletin.com](http://bendbulletin.com/) and [bendhomes.com,](http://bendhomes.com/) which are subject to change from time to time. Any such changes will be posted on this page and you will be bound to such changes by your continued use of the web site. [Bendbulletin.com](http://bendbulletin.com/) and [bendhomes.com](http://bendhomes.com/) are intended for use by adults. Please see our Children’s Privacy Statement below for additional safeguards to protect the privacy of personal information collected from children under 13. This policy applies to the web sites (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated, distributed, or created by us and post this policy. If you have any questions about [bendbulletin.com’s](http://bendbulletin.xn--coms-x96a/) privacy practices, please contact us via e-mail at[privacy@bendbulletin.com](mailto:privacy@bendbulletin.com). 
 
-If you use the web sites, we use a feature of your browser called a "cookie" to track traffic patterns and usage of our sites. The cookies may contain a number or other information which tells us the type of web browser used, web site pages viewed, and frequency of visiting the web site. You may choose not to accept cookies by changing the preferences on your browser. 
+What type of information do [bendbulletin.com](http://bendbulletin.com/) and [bendhomes.com](http://bendhomes.com/) collect about their users and how do they use the information? 
+
+If you use the web sites, we use a feature of your browser called a “cookie” to track traffic patterns and usage of our sites. The cookies may contain a number or other information which tells us the type of web browser used, web site pages viewed, and frequency of visiting the web site. You may choose not to accept cookies by changing the preferences on your browser. 
 
 If you use the web site to send us information (for example, a letter to the editor or obituary), we collect information about you necessary to support that service. This information includes personally identifiable information such as your name, phone number, e-mail address or other contact information to enable us to follow up with you as needed. If you send an inquiry via e-mail, we may collect your e-mail address. 
 
 If you use the web site to purchase or renew a subscription or a single-day pass or to place a classified ad, or if you use a third party app store to download an application, we may collect information necessary to process that order and to send you a confirmation. That information includes personally identifiable information such as your name, address, e-mail address, telephone number, and credit card details. 
 
-If you use the web site for location-based information (for example, submitting your location to find a reviewed restaurant's location) or access the website through a mobile device, we collect information about you that is necessary to support that service and to track traffic patterns and usage of the web site. This information may include personally identifiable information such as your geographic location and certain device information. We will only collect this information with your express consent 
+If you use the web site for location-based information (for example, submitting your location to find a reviewed restaurant’s location) or access the website through a mobile device, we collect information about you that is necessary to support that service and to track traffic patterns and usage of the web site. This information may include personally identifiable information such as your geographic location and certain device information. We will only collect this information with your express consent 
 
 If you participate in a survey on our web sites, any information collected about you is only what you explicitly agree to provide. If you provide an e-mail address, we may use it to send you questions we occasionally pose to readers in connection with our news coverage. 
 
@@ -20,9 +22,11 @@ If you subscribe to a newsletter or news alert service, we collect your e-mail a
 
 If you log in to comment on an article, we collect information associated with your account, such as name, user ID, e-mail address or IP address, to authenticate you. 
 
-**With whom do[bendbulletin.com](http://bendbulletin.com/) and [bendhomes.com](http://bendhomes.com/) share the information they collect from their users?**
+We may work with a data provider to target advertising to you personally, through online and offline methods including email, display media, video media and direct mail. These providers may use personal information that we have collected or that you have provided to locate you online, such as when you visit or log in to websites or mobile applications. When you log in to or visit our website, your IP address may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to send ads and materials to you based on your preferences, interests and attributes. To opt out of this and other interest-based advertising, please visit the industry opt-out pages operated by the DAA, at [www.aboutads.info](http://www.aboutads.info/) and by the NAI at [networkadvertising.org](http://networkadvertising.org/). 
 
-We use statistical analyses of user behavior to analyze usage of our web site and to develop summary - not individual - reports to inform our advertisers of levels of interest in various areas of our sites and how many users have seen or "clicked" their advertisements. We only disclose information in aggregate form to third parties in such reports. 
+With whom do [bendbulletin.com](http://bendbulletin.com/) and [bendhomes.com](http://bendhomes.com/) share the information they collect from their users? 
+
+We use statistical analyses of user behavior to analyze usage of our web site and to develop summary - not individual - reports to inform our advertisers of levels of interest in various areas of our sites and how many users have seen or “clicked” their advertisements. We only disclose information in aggregate form to third parties in such reports. 
 
 If you use the web site to purchase or renew a subscription or single-day pass or to place a classified ad, or if you use a third party app store to download an application, the information we collect, including personally identifiable information, will be shared with third parties who perform tasks required to complete the transaction, such as fulfilling subscription orders and processing credit card payments. 
 
@@ -34,7 +38,7 @@ If you use the web site through a mobile device, the service you use to access t
 
 We will not sell your personal information to any third party. 
 
-**What security measures does[bendbulletin.com](http://bendbulletin.com/) perform to protect the privacy of personal information received from its users?**
+What security measures does [bendbulletin.com](http://bendbulletin.com/) perform to protect the privacy of personal information received from its users? 
 
 We will take all reasonable steps to safeguard personal information that you provide to us. We use Secure Sockets Layer (SSL) technology during transmission, which encrypts personal information that you provide to us. 
 
@@ -42,9 +46,9 @@ Notice regarding personal information collected by third party content providers
 
 Sites [bendbulletin.com](http://bendbulletin.com/) and [bendhomes.com](http://bendhomes.com/) and the applications used to view them may contain advertisements and/or links to other web sites on the Internet that are owned and operated by third parties. [Bendbulletin.com,](http://bendbulletin.com/) [bendhomes.com](http://bendhomes.com/) and Western Communications, Inc. do not endorse and are not responsible for the operation of or content located on or through any such third party or third party web site. We do not have control over the personal information collection and use practices of third parties and such third party practices may differ from this privacy policy. You should review the privacy policy of every web site you visit to ensure that you are comfortable with the practices of that particular web site. 
 
-**The Bulletin Children's Privacy Statement**
+The Bulletin Children’s Privacy Statement 
 
-As required by U.S. law, [bendbulletin.com](http://bendbulletin.com/) and [bendhomes.com](http://bendhomes.com/) have created this children's privacy statement to explain our practices with respect to the online collection and use of personal information from children under the age of thirteen. 
+As required by U.S. law, [bendbulletin.com](http://bendbulletin.com/) and [bendhomes.com](http://bendhomes.com/) have created this children’s privacy statement to explain our practices with respect to the online collection and use of personal information from children under the age of thirteen. 
 
 1\. We do NOT knowingly collect personally identifiable information from children under the age of thirteen. If we become aware that we have inadvertently received personally-identifiable information from a user under the age of thirteen, we will delete such information from our records. 
 
@@ -52,6 +56,8 @@ As required by U.S. law, [bendbulletin.com](http://bendbulletin.com/) and [bendh
 
 3\. We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally-identifiable contact information. 
 
-4\. We do NOT condition a child's participation in online activities by requiring personally-identifiable information. 
+4\. We do NOT condition a child’s participation in online activities by requiring personally-identifiable information. 
 
 5\. The dominant page in the [bendbulletin.com](http://bendbulletin.com/) web site that children might use is our Newspapers in Education page, which contains links to high quality education web sites. These sites are reviewed and approved as appropriate for children by our Newspapers in Education Coordinator. There are no pages in [bendhomes.com](http://bendhomes.com/) of particular interest to children. 
+
+18617664
