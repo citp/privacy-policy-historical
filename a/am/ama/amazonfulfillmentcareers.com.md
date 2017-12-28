@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amazonfulfillmentcareers.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617033953id_/http%3A//www.amazon.com/gp/help/customer/display.html%3FnodeId%3D468496) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazonfulfillmentcareers.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228062638id_/http%3A//www.amazon.com/gp/help/customer/display.html%3FnodeId%3D468496) for the most accurate reproduction.*
 
 # Amazon.com Help: Amazon.com Privacy Notice
 
-**Last updated: March 3, 2014.** To see what has changed, [click here](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=16015091). 
+**Last updated: August 29, 2017.** To see what has changed, [click here](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=16015091). 
 
 Amazon.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Amazon.com, you are accepting the practices described in this Privacy Notice.**
 
@@ -14,7 +14,7 @@ Amazon.com knows that you care how information about you is used and shared, and
   * Which Information Can I Access?
   * What Choices Do I Have?
   * Are Children Allowed to Use Amazon.com?
-  * Does Amazon.com Participate in the Safe Harbor Program?
+  * EU-US and Swiss-US Privacy Shield
   * Conditions of Use, Notices, and Revisions
   * Examples of Information Collected
 
@@ -41,7 +41,7 @@ The information we learn from customers helps us personalize and continually imp
 
 ##  Does Amazon.com Share the Information It Receives? 
 
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
 
   * **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Amazon.com or sell offerings to you at Amazon.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. Click here for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party. 
   * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
@@ -66,33 +66,29 @@ Our site includes third-party advertising and links to other Web sites. For more
 
 ##  Which Information Can I Access? 
 
-Amazon.com gives you access to a broad range of information about your account and your interactions with Amazon.com for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples, the list of which will change as our Web site evolves. 
+Amazon.com gives you access to a broad range of information about your account and your interactions with Amazon.com for the limited purpose of viewing and, in certain cases, updating that information. [Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=468496) to see some examples, the list of which will change as our Web site evolves. 
 
 ##  What Choices Do I Have? 
 
   * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.com features as [Your Profile](https://www.amazon.com/gp/pdp/ref=hp_468496_profile), [Wish Lists](https://www.amazon.com/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist) , [Customer Reviews](https://web.archive.org/gp/help/customer/display.html?nodeId=200791000), and [Amazon Prime](https://www.amazon.com/gp/browse.html/ref=hp_468496_prime?node=13819211). 
-  * You can add or update certain information on pages such as those referenced in the Which Information Can I Access? section. When you update information, we usually keep a copy of the prior version for our records. 
+  * You can add or update certain information on pages such as those referenced in the [Which Information Can I Access?](https://web.archive.org/gp/help/customer/display.html?nodeId=468496) section. When you update information, we usually keep a copy of the prior version for our records. 
   * If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.amazon.com/gp/gss/ccp/ref=hp_468496_ccp3) . (If you do not want to receive [Conditions of Use](https://www.amazon.com/gp/browse.html/ref=hp_468496_conditions2?node=508088) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.com, and it is your responsibility to review them for changes.) 
-  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.com/adprefs/ref=hp_468496_advertisingpref2) . 
+  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.com/gp/dra/info/ref=hp_468496_advertisingpref2) . 
   * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
 
 
 
 ##  Are Children Allowed to Use Amazon.com? 
 
-Amazon.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.com only with the involvement of a parent or guardian. 
+Amazon.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.com only with the involvement of a parent or guardian. We do not knowingly collect personal information from children under the age of 13 without the consent of the child's parent or guardian. For more information, please see our [Children's Privacy Disclosure](https://www.amazon.com/gp/help/customer/display.html?nodeId=202185560). 
 
-##  Does Amazon.com Participate in the Safe Harbor Program? 
+## EU-US and Swiss-US Privacy Shield
 
-Amazon.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. We have certified that we adhere to the [Safe Harbor Privacy Principles](https://build.export.gov/main/safeharbor/eu/eg_main_018475) agreed upon by the U.S. and (1) the E.U. and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](http://www.export.gov/safeharbor) Web site. 
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to safeharbor@amazon.com.
-
-Under the Safe Harbor program, any unresolved privacy complaints can be referred to an independent dispute resolution mechanism. We use the BBB EU Safe Harbor Program, which is operated by the Council of Better Business Bureaus. If you feel that we have not satisfactorily addressed your complaint, you can visit the BBB EU Safe Harbor Program web site at [www.bbb.org/us/safe-harbor-complaints](https://www.bbb.org/us/safe-harbor-complaints) for more information on how to file a complaint.
+Amazon.com, Inc. participates in the EU-US and Swiss-US Privacy Shield frameworks. Click [here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=202135380) to learn more. 
 
 ##  Conditions of Use, Notices, and Revisions 
 
-If you choose to visit Amazon.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://www.amazon.com/gp/browse.html/ref=hp_468496_conditions3?node=508088), including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://www.amazon.com/gp/browse.html/ref=hp_468496_conditions4?node=508088) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+If you choose to visit Amazon.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=202135380), including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://www.amazon.com/gp/browse.html/ref=hp_468496_conditions4?node=508088) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
 Related Practices and Information 
 
@@ -113,11 +109,11 @@ You provide most such information when you search, buy, post, participate in a c
 
 **Automatic Information**
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features like [Top Sellers](https://www.amazon.com/exec/obidos/tg/new-for-you/top-sellers/-/main/ref=hp_468496_topsellers2) ; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes. 
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features like [Top Sellers](https://www.amazon.com/gp/bestsellers) ; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes. 
 
 **Mobile**
 
-Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, [click here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_turnofflbs?nodeId=200903520) . If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
+Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, [click here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_turnofflbs?nodeId=200903520). If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
 
 **Information from Other Sources**
 
