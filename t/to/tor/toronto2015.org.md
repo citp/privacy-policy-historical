@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toronto2015.org privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626124456id_/http%3A//www.toronto2015.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toronto2015.org privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228141038id_/http%3A//www.toronto2015.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Toronto 2015 Pan Am / Parapan Am Games
 
