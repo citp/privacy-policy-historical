@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529200454id_/https%3A//www.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228053606id_/https%3A//www.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,7 +98,7 @@ Experts Exchange is not responsible for removing information from third party li
 
 
 
-Experts Exchange is liable for appropriate onward transfers of personal EU data to third parties.
+Experts Exchange is liable for appropriate onward transfers of personal EU and Swiss data to third parties.
 
 ## 8\. Our storage of your personal information
 
@@ -155,4 +155,4 @@ This service verifies adherence to the EU Privacy Shield Policy by means of in-h
 Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
 
   
-_This policy was last modified on 12 April, 2017_
+_This policy was last modified on 12 October, 2017_
