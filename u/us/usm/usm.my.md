@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usm.my privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629175252id_/http%3A//www.usm.my/index.php/en/security-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usm.my privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228110505id_/http%3A//www.usm.my/index.php/en/security-privacy-policy) for the most accurate reproduction.*
 
 # USM | Universiti Sains Malaysia - Security & Privacy Policy
 
