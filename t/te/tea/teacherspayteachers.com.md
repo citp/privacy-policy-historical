@@ -1,65 +1,290 @@
-> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624055222id_/https%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228012034id_/https%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teachers Pay Teachers
 
-## SUMMARY
+PRIVACY POLICY
 
-The following policy applies to TEACHERSPAYTEACHERS.COM, (referred to herein "TPT" or "We"). We are committed to protecting the privacy and security of our online visitors. This Privacy Policy applies only to our online practices.
+ 
 
-## PERSONALLY IDENTIFIABLE INFORMATION
+Effective Date: October 1, 2017 (See our previous version [here](https://www.teacherspayteachers.com/Old-Privacy-Policy))
 
-We consider the following, among other things, to be personally identifiable information: first and last name, e-mail address, street address and phone number. Information that we use internally to identify you as a user in our system, such as your selected User Name, is not considered personally identifiable information. We (and/or our agents or affiliates) may collect online and use personally identifiable information from our online visitors: (1) to process and fulfill transactions; (2) in connection with contests, sweepstakes, games, surveys, forums, subscription registrations, content submissions, classroom activities, message boards, blogs, our requests for suggestions and visitors'? requests for information; (3) to customize the content of our site for our visitors'? current and future needs; and (4) to provide service related announcements to you. We may even share such information between the buyers and sellers on our site in connection with transactions between such buyers and sellers. In addition, this personally identifiable information may be used to provide our visitors, via e-mail or other means, information about materials and activities that may be of interest to them, including products or services of third parties. For these reasons, we may share such information with third parties. 
+Teacher Synergy LLC d/b/a Teachers Pay Teachers (referred to in this policy as “Teachers Pay Teachers”, “TpT”, “us”, “we”, or “our”) has adopted the following Privacy Policy to explain how we collect, use, and share information from and about you.
 
-## Information You Provide
+Your privacy and security are very important to us at Teachers Pay Teachers. We’re committed to transparency when it comes to our privacy practices and how we safeguard your information. This Privacy Policy (“Policy”) outlines what kinds of information we may ask you for and gather from you as you visit or use TpT, how that information may be used, and under what circumstances certain information might be shared with others. 
 
-During the registration process, we collect your e-mail address, address and birth date. This information helps to ensure we can properly pay Teacher-Authors and ensures that the feedback loop is accurate. During the Registration process, Teacher-Authors will also have the opportunity to provide a public Member Profile, which is like a biography about you and the Teaching Content that you wish to make available through TEACHERSPAYTEACHERS. You can choose to provide as much or as little information about yourself in your public Member Profile as you see fit. We may also have open message boards or blogs where you can provide any personal information that you choose. Please note that the information you provide in the Member Profile, message boards or blogs is open to the public and available for all eyes to see.
+This Policy applies to the data you share when you use our “Services” which includes our website at TeachersPayTeachers.com and any affiliated web pages or forms we may create or host (“Site”), our mobile applications (“Apps”), or when you communicate with us.
 
-## Access To Your Personal Information
+This Policy is part of our Terms of Service which you can find [here](https://www.teacherspayteachers.com/Next-Terms-of-Service). 
 
-You can view any personally identifiable information we have collected from you in your Member Profile Page, where you can add, edit, or remove information as you see fit. You can always access your Member Profile Page by logging in to your 'Manage My Account' pages at this link: http://www.TEACHERSPAYTEACHERS.COM.  
+## Information We Collect
+
+A. INFORMATION YOU TELL US
+
+Some information collected when you use our services is considered “Personal Information” (or PI). This is information that can be used to identify you personally and includes things like your full name, your street address, your phone number, and your email address. Other than as provided for in this Policy, we won’t share or disclose this kind of information unless we get your permission. Other information that we collect may not identify you personally. This kind of information may be shared or disclosed in an aggregate form, used to personalize your experience, and so on. 
+
+Visitors.  When you use our Services as a Visitor, we may ask for information about your preferences and interests to personalize your experience and help you find what you need. 
+
+All Members.  To use many aspects of our Services, you’re required to create a TpT account and become a Member. To become a Member, we require that you pick a unique username, and provide us with your email address so we can contact you. We may also ask you to tell us your name so we know who you are. 
+
+Finally we’ll ask you to share some information about what kind of user you are (your role), your geographic location, what and where you teach, and information about your interests to help us personalize your experience using our Services. 
+
+Sellers.  Members who register for one of our Seller Memberships (“Sellers”), will be required to provide additional contact information and and payment information to receive Earnings. Sellers can choose to use a name other than their given name as a “Store Name.” A Seller’s Store Name, profile image or logo, and any additional information they choose to provide about themselves in their Store profile will be publicly viewable. 
+
+To comply with applicable laws, we may collect federal tax identification information from Sellers, including your social security number or employer identification number, to verify your identity and issue tax documents.
+
   
-Our Commitment to Children’s Privacy
+B. PURCHASE INFORMATION
 
-At TpT, we take children’s privacy very seriously. TpT is a site that is directed at adults and we do not knowingly collect personal information from children under the age of 13. If you are under 13, you should not use or attempt to use our Website or Services or send any information about yourself to TpT. If we discover that we have collected information from a child under the age of 13, we take the appropriate measures to promptly remove that information from our site.
+When you make a purchase through our Services, you’ll need to provide billing and payment information to complete your order. We’ve carefully chosen Service Providers who use Payment Card Industry Data Security Standard (PCI DSS) compliant practices to process payments (“Payment Processors”). Whether you check out using a credit or debit card, PayPal account, or any other payment method we may support, your payment will be processed directly by our Payment Processor and we’ll never have access to or store your full payment details.
 
-If you are a parent or guardian and believe that TpT may have collected personal information from your child, please contact us at [support@teacherspayteachers.com](mailto:support@teacherspayteachers.com) to let us know. We’ll work with you to make sure that information is removed from our site.
+When you use a credit or debit card to pay for your purchases, you’ll be asked to enter your credit or debit card number, CVV, and billing contact information. When you submit your order, this information will be sent directly to our Payment Processor. After your payment is processed, the Payment Processor will send TpT some details about the transaction so that we can record your order in our database and provide access to the materials that you purchased. 
 
-## NON-PERSONALLY IDENTIFIABLE INFORMATION AND THE USE OF COOKIE TECHNOLOGY.
+You have the option to save a credit or debit card record with our Payment Processor to re-use those details for future purchases on TpT without having to re-enter them at checkout. You can edit or remove this information at any time by navigating to the checkout page or by [contacting us](https://www.teacherspayteachers.com/Contact) for assistance.
 
-We collect non-personally identifiable information through the use of a software technology called "cookies," and through our visitors' voluntary submissions to us and/or upon our request. By non-personally identifiable information, we are referring to information about our visitors' browsers (e.g., Netscape Navigator or Internet Explorer), operating systems (e.g., Windows or Macintosh), Internet service providers (e.g., AOL or NET.COM) and other similar information which we track in aggregate form. The non-personally identifiable information that we track is anonymous and will never be identified with or lead us back to any of our visitors.
+If you choose to pay using PayPal, you’ll log in to your PayPal account to complete your order. When PayPal processes your payment, they’ll send us a confirmation with transaction details so we can record your order and provide access to the Resources or services you’ve purchased. We do not collect information about or have access to the specific payment or funding sources or any other financial account details associated with your PayPal account.
 
-Cookie technology helps us to know how many people visit us and where visitors go on our site. Cookies are small bits of information we send to your computer. Among other things, this non-personally identifiable information allows us to know which areas are favorites, which areas need a bit of improvement, or what technologies and Internet services are being used by our visitors so that we may continually improve our visitors' online experiences.
+  
+C. OTHER INFORMATION
 
-## USE OF IP ADDRESSES
+When you use our Services as a Member or a Visitor, we receive and collect certain information from your browser and your device such as your Internet Protocol address (IP address), device information, operating system, browser type and version, and browser country location. This information helps us defend against fraudulent activity or attacks,maintain the security of our Services, and improve and personalize your experience. 
 
-We collect IP addresses to obtain aggregate information on the use of TEACHERSPAYTEACHERS.COM. An IP address is a number assigned to your computer by a Web server when you're on the Web. When you are on our site, we have a back-end server that logs your computer's IP address. We only use the information we find out from tracking IP addresses in the aggregate, such as how many users entered a specific area of our site, and not to track a specific IP address to identify an individual user. However, we may use such information to identify a user if we feel that there are or may be safety and/or security issues or to comply with legal requirements.
+We also log data related to how Members and Visitors use our Services, including cookies that may uniquely identify your visit or account. This log data includes details such as what pages of our Site or App you visit and when, how users navigate through the Site, and visit referral URLs. This information allows us to better understand how our Services are being used, helps us make improvements, and enables us to personalize your experience with our Services. (Please refer to the Cookies section below for more information about how we use cookies.) 
 
-## THIRD-PARTY SERVERS
+From time to time, we may host and provide Members and Visitors the opportunity to participate in contests, sweepstakes, and surveys. If you choose to participate, you may be asked to provide Personal Information which may be used for purposes necessary to administer the contest, sweepstakes, or survey, or for other marketing purposes.
 
-We may use third-party companies to serve ads when you visit our Web site and to monitor traffic to our Web site. These companies may (via cookies, gifs or otherwise) use aggregate information (not including your name, address, e-mail address, telephone number, or any other personally identifiable information) about your visits to this and other Web sites in order to provide us with data about our site and/or to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+  
+D. OUR COMMITMENT TO CHILDREN’S PRIVACY
 
-## SECURITY
+At TpT, we take children’s privacy very seriously. TpT’s Services are directed at and intended for use by adults only. We do not knowingly collect Personal Information from children under the age of 13. If you are under 13, you should not use or attempt to use our Services or send any information about yourself to TpT. If we discover that we have collected information from a child under the age of 13, we will take the appropriate measures to promptly remove that information from our Services.
 
-We ensure that all personally and non-personally identifiable information that we receive via the Internet is secure against unauthorized access. This information is kept in a safe and secure system isolated from direct connection to the Internet. This means that no eyes but ours will ever see the information that our visitors send to us, unless we indicate otherwise, or it is in your Member Profile, or message board or blog area. We will give out personal information as required by law, for example to comply with a court order or subpoena or to assist in criminal investigations. We may also give out personal information when we deem it advisable in order to protect the safety and security of our sites and visitors to our sites.
+If you are a parent or guardian and believe that TpT may have collected Personal Information about your child, please contact us at [support@teacherspayteachers.com](mailto:support@teacherspayteachers.com) to let us know. We’ll work with you to make sure that information is removed from our Site.
 
-## Why Are We So Safe?
+## How We Use and Share the Data You Give Us
 
-We use secure server software over a Secure Socket Layer (SSL) line to protect your credit card information. It encrypts all of your personal and credit card information so that this information cannot be read as it travels to our ordering system, and once it is received, it is stored in a location not accessible via the Internet.
+A. IN GENERAL
 
-## More Guarantee Details
+Your privacy is very important to us. Other than as provided for in this Policy, we don’t share your Personally Identifiable Information with third parties without your consent.
 
-Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50 of unauthorized charges. If your bank does hold you liable for any of this $50, we will cover the entire liability for you, up to the full $50. Note that, in the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+We use the information we collect about you and the information that you tell us about yourself for the following general purposes:   
 
-## LINKS TO OTHER SITES
 
-Visitors will find links from TEACHERSPAYTEACHERS.COM to independently-owned, controlled and/or managed World Wide Web or Internet sites whose content we have found of possible interest to our visitors. In many cases, but not always, the links represent cooperative projects or mutual links established with the organizations connected with these sites. While we initially visit these sites to which we directly link, please note that we do not monitor or control the content that appears on these sites and such content may be constantly changing. We encourage all end users of TEACHERSPAYTEACHERS.COM to read the privacy policies of all linked sites before navigating through them.
+  * To create your TpT account and profile 
 
-Please note that we may revise our above policy without notice to users as the content on our sites continues to change and we will post all such material changes on this Privacy Policy.
+  * To identify you in connection with your account activity (In some cases, this information may be shared or displayed publicly or only to certain other Members in a full or modified form as described in sections B, C, and D below.) 
 
-We hope that you enjoy exploring and participating in our site.
+  * To communicate with you about our Services and your account 
 
-TEACHERSPAYTEACHERS.COM is owned and operated by Teacher Synergy LLC 111 E. 18th Street, 11th Floor, New York, NY 10003. You can reach us from our [Contact Us](https://support.teacherspayteachers.com/) page. If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify the information on file, or to notify us that you want your information deleted from our files, please contact us at this address.
+  * To facilitate transactions between you and our Sellers
 
-The effective date of this Privacy Policy is September 20, 2014.
+  * To provide customer support
 
-Most recently updated September 20, 2014.
+  * To personalize your experience with our Services
+
+  * To track usage of our Service and run tests to improve our Services 
+
+  * To identify and understand trends in user activity so that we can make improvements to our Services
+
+  * To ensure the proper operation and security of our Services
+
+  * Other purposes to deliver and improve our Services for you 
+
+
+
+
+  
+B. WHEN YOU OPEN A TpT STORE
+
+If you choose to become a Seller on TpT, there are some additional contact details we collect to ensure that we can reach you and deliver your earnings payments in the method you choose. You’ll also have a store page and profile, where you can choose to provide additional details about yourself to your customers. The information you add to your store profile is information that you visitors can see. 
+
+The following information is visible to others: 
+
+  * Your store name. This will be the first and last name you provided at registration unless you choose an alternative “Store Name.” You can enter or update your Store Name from the store profile section of your account details [here](https://www.teacherspayteachers.com/My-Account/Store_Profile#no-back). 
+
+
+  
+
+
+  * Your location. Some location information may be optional to display and can be adjusted in your store profile. 
+
+
+  
+
+
+  * Your Store Profile image. You have the option to upload a photograph, logo, or other image to your Store Profile.
+
+
+  
+
+
+  * Personal Bio/Other Information. You can choose to provide additional information about yourself, your business, and your teaching experience. Any profile information you provide is visible to those who visit your store and can be edited, updated, or removed by you at any time.  
+
+
+
+
+Other than as described in this Privacy Policy, we won’t publicly display or disclose Personal Information about you such as the email address associated with your account, your street address or phone number, or your earnings and payout information, without your consent. 
+
+  
+C. INFORMATION SHARED BETWEEN BUYERS AND SELLERS
+
+When you place an order, your full name, city, state, and zip code will be visible to the Seller whose materials you purchased. Additionally, if you purchase hard goods, the Seller will see the shipping information you entered during checkout to enable them to ship your order. 
+
+  
+D. WHEN YOU CONNECT, SHARE, OR COMMUNICATE WITH OTHERS
+
+There may be features of our Services which allow you to:
+
+  * Post Content (Resources you upload, and Communications you post such as comments, reviews, questions, or other public messages)
+
+  * Connect, communicate, and share information about yourself with other Members
+
+  * Join and post messages in forums, groups, or communities
+
+  * Link your account to an Organization using TpT for Schools
+
+  * Submit requests for Resources or participate in a shared wish list 
+
+  * Display a public profile, and so on 
+
+
+
+
+By using any of these features, you’re choosing to share information about yourself and your TpT account activity with the public or with other Members. If you connect with another Member, for example by joining a group or Organization, or by accessing a Resource shared with you by another Member, the Members you interact with may be able to view certain information and activity associated with your account and that interaction. 
+
+  
+E. SERVICE PROVIDERS AND PARTNERS 
+
+TpT engages the services of third party companies (“Service Providers”) to support and help provide certain features of our Services such as payment processing, customer support, data storage and analysis, visitor tracking and user testing, email messaging, advertising, surveys, Site security, and other services. TpT shares data with these Service Providers so that they can perform their services which help deliver our Services more securely, efficiently, and effectively. Service Providers may have access to certain Personal Information in the course of providing their service. Service Providers’ access to your Personal Information is limited to the purpose of providing the services contracted for. Service Providers are not permitted to disclose information to other parties or use your Personal Information for any other purpose. 
+
+From time to time, we may partner with other companies or organizations (“Partners’) to offer additional products and services (“Partner Content”). When you buy Partner Content, we may share information with our Partners about your order and your account solely for the purposes of facilitating purchases of Partner Content and ensuring delivery of Partner Content to you.
+
+TpT may from time to time share aggregate user data with business partners, Service Providers, or other third parties to identify or share trends, usage statistics, and so on. Sharing data in an aggregate form means that no Personal Information, which would allow the recipient of the data to identify you personally, will be shared.  
+
+  
+F. MERGER OR ACQUISITION
+
+As part of a merger or an acquisition of TpT, we may transfer the data we have collected, including Personal Information, to the purchasing company. In such an event, we’ll notify you of that change. In addition, any purchasing company would have to adhere by the terms of this Policy including notifying you before making material changes and giving you the opportunity to opt out. 
+
+  
+G. LEGAL OBLIGATION
+
+Finally, we respect and comply with legal obligations and may release information (including Personal Information and information about your account activities) in cooperation with a law enforcement investigation, in response to a valid legal request such as a court order or legal subpoena, as part of the process outlined by the Digital Millennium Copyright Act (DMCA), or to defend, protect, or exercise our legal rights. 
+
+## Your Rights and Options
+
+At TpT, it’s important to us that you have the ability to make choices about your personal information, so we provide you with options for managing your account and the information you give us.
+
+A. ACCOUNT INFORMATION
+
+You can view, update, and correct the information you’ve provided about yourself by visiting your My Account page. You can also remove any of the optional information you’ve provided. Information that is required will be indicated as such and can be updated but cannot be removed. 
+
+If you don’t want to have an account with us anymore, you can close your account at any time. You can find instructions on how to close your account [here](https://www.teacherspayteachers.com/Help/My-Account/How-do-I-cancel-my-account), or you can [contact us](https://www.teacherspayteachers.com/Contact) for assistance. 
+
+  
+B. SAVED PAYMENT SOURCE
+
+If you’ve saved your credit or debit card for future purchases, you can edit or delete your saved card information when you go to the checkout page. If you need assistance, you can [contact us](https://www.teacherspayteachers.com/Contact) and we’ll be happy to remove it for you. 
+
+  
+C. EMAIL PREFERENCES
+
+TpT uses your contact information to communicate with you about our services and to provide notifications related to your account or activity. Certain communications related to your account or your activity are required and you can’t opt out of receiving them. These include, but aren’t limited to, purchase-related notifications, notifications related to changes that have been made to your login credentials or account details, and legal notifications. Other communications may not be required such as announcements about our Services, newsletters and messages with information you might be interested in, and other marketing and promotional messages (“Optional Communications”). You can manage your preferences related to  Optional Communications in the Email Preferences section of your account, or by using the “unsubscribe” link at the bottom of any Optional Communication you receive.
+
+  
+D. OTHER
+
+If you choose to create a public profile, or post Communications, any information you post will be visible by other Users and the public. You can edit and update Communications you’ve posted and information provided in your public profile. You can delete your public profile at any time. 
+
+  
+E. ACCOUNT SECURITY
+
+Access to your TpT account is secured by the password you choose. For your security, we store only a hashed version of your password. This means that we don’t know your password and your password isn’t visible to us when members of our team view your account. 
+
+To prevent unauthorized access to your account, choose a password that can’t be easily guessed and don’t share your password with anyone else. Whenever you use a shared computer or other shared device to access your TpT account (for example, a school computer), be sure to log out of your account completely before you leave your workstation, uncheck the “remember me” option at login, and select “no” if the web browser prompts you to save your login credentials. You’re responsible for keeping your password confidential, and for all activity that occurs under your account, whether or not authorized by you. 
+
+You can change or update your password anytime by visiting your My Account page. If you forget your password, you can request a [reset password link](https://www.teacherspayteachers.com/Login/Forgot-Password).  
+
+## Cookies and Google Analytics
+
+A. COOKIES 
+
+Cookies are small pieces of data that are stored on your computer browser. When you visit websites like ours, some information about your visit is stored in cookies which are used to tailor your experience, surface relevant information, products, and advertisements, and to allow you to pick up where you left off the next time you visit. 
+
+By using our Services as a Visitor or Member, you agree to our use of cookies in the following ways, as well as other similar purposes:
+
+  * Analytics
+
+  * Marketing
+
+  * Preserving your preferences
+
+  * Personalizing your experience
+
+  * Understanding where our website traffic is coming from 
+
+  * To ensure the security and availability of our Site and our Services
+
+
+
+
+You have the right to decide whether a website can store cookies on your computer. Depending on the internet browser you use, you can view, manage, delete, and disable cookies through your browser preferences. Some features may not work properly if you choose not to allow us to use cookies. To learn more about how to do this, check out instructions from these browsers:
+
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?source=gsearch&hl=en)
+
+  * [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+
+  * [Safari](https://support.apple.com/kb/ph19214?locale=en_US)
+
+  * [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+
+
+
+
+  
+B. GOOGLE ANALYTICS
+
+We use Google Analytics to understand and analyze browsing activity, and for advertising through their AdWords and Remarketing Lists features. Google Analytics may store cookies on your computer when you visit our Site and may use those cookies to display advertisements for our products or Services when you visit other websites. You can find out more about this by reading the information Google provides in this explanation: [How Google uses data when you use our partners’ sites or apps](https://www.google.com/policies/privacy/partners/). If you don’t want Google Analytics to use cookies when you browse, you can install the Google Analytics Opt-Out Browser Add-On to prevent Google Analytics from placing cookies on your browser. You can find out more about this option and how to install the Add-On [here](https://tools.google.com/dlpage/gaoptout).  
+
+## Ads and Links to Third Party Websites 
+
+There are places throughout our Services, such as advertisements and other links, where you can access websites owned and operated by third parties. The terms of this Policy apply only to our Services and websites and do not apply to any third party websites that may be linked to or accessible from our Services. We can’t guarantee the privacy and security standards of other websites, so if you choose to access these third party links, you’ll want to familiarize yourself with the privacy policies and other terms applicable to those sites.  
+
+## Hosted Content
+
+The Content uploaded or posted to our Services is made available at the direction of our Members. We are not responsible for the Content, including any disclosures of Personal Information by our Members. If you believe that any Content posted on our Services violates your personal privacy rights, please notify us at [support@teacherspayteachers.com](mailto:support@teacherspayteachers.com) or by using our [Contact Us](https://www.teacherspayteachers.com/Contact) form.
+
+## Data Retention
+
+TpT will use your information for the reasons detailed in this Policy in order to deliver our Services to you while your account is active. If you no longer wish to be a Member of our Services, you can close your account with us at any time. If you close your account, your account is placed in an inactive state. We retain a record of your account information and only use your account information to provide sales data to Sellers you’ve transacted with, to continue to make Resources available to Members who have purchased licenses from you, to comply with a valid legal request or resolve a dispute, or to meet any legal requirements or obligations. We may also continue to include your data as part of ongoing aggregate data and usage analysis. We’ll no longer send you marketing or other communications about your account or our Services. You can restore your account at any time by logging in with your email or username and your password. 
+
+## TpT for Schools
+
+TpT for Schools enables increased collaboration and communication between and among teachers and administrators. 
+
+If you’ve linked your TpT account to an Organization using TpT for Schools, your interactions with and activity related to TpT for Schools may be shared with and be visible to other Organization Members and Managers (Organization Users). Your personal purchases, purchase history, billing information, and personal account details such as your street address and phone number will not be shared. 
+
+Linking your Account. When you link your TpT account to an Organization, your name and role will be shared with your Organization, and you’ll be added to your Organization’s roster which is visible to other Organization Users.
+
+Requesting Resources. When you submit a request for Resources, your request will be visible to Organization Users as part of the Organization’s list of pending requests. TpT may enable your Organization Manager to communicate directly with you about your requests, and send notifications via the email address associated with your TpT account. When you reply via your personal email account, your email address will be visible to the Organization Manager you’re communicating with.
+
+Receiving Resources. When a Resource License is shared with you, Organization Users can see that a Resource License has been shared with you, whether you’ve claimed or downloaded that Resource License, and may be able to see other activity related to your use of that Resource. 
+
+Purchases. When your Organization makes a purchase, those Resources will be added to the Organization’s shared library which is visible to all other Organization Users.
+
+Communicating. TpT will use the email address associated with your TpT account to send you notifications about your TpT for Schools activity, including communications from your Organization. By communicating with your Organization by email, you’re sharing your email address with your Organization. 
+
+## Changes to this Policy
+
+From time to time, we’ll update this Policy in accordance with the process and rules in our [Terms of Service](https://www.teacherspayteachers.com/Next-Terms-of-Service).  
+
+How to Contact Us
+
+For any questions you have about this policy or if you need assistance with your account, you can reach us anytime using the following methods:
+
+  * Submit a question using our [Contact Us form](https://www.teacherspayteachers.com/Contact)
+
+  * Email us at [support@teacherspayteachers.com](mailto:support@teacherspayteachers.com)
+
+  * You may also find the answer to your question in our [FAQs](https://www.teacherspayteachers.com/Help)
+
+
+
