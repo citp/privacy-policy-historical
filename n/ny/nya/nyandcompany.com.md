@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyandcompany.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224121521id_/http%3A//www.nyandcompany.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyandcompany.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229004601id_/http%3A//www.nyandcompany.com/nyco/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - New York & Company
 
