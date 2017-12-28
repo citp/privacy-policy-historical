@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainbowshops.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607163022id_/http%3A//www.rainbowshops.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbowshops.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228201706id_/http%3A//www.rainbowshops.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Rainbow
 
