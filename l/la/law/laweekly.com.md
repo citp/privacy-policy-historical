@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laweekly.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628023349id_/http%3A//www.laweekly.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laweekly.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228012046id_/http%3A//www.laweekly.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Los Angeles News and Events | LA Weekly
 
