@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saucelabs.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630151850id_/http%3A//saucelabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saucelabs.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228130103id_/https%3A//saucelabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sauce Labs
 
