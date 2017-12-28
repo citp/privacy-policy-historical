@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mygroupon.co.th privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630000230id_/https%3A//www.groupon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygroupon.co.th privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228024017id_/https%3A//www.groupon.com/privacy) for the most accurate reproduction.*
 
 # GROUPON, INC. PRIVACY STATEMENT
 
 #### PRIVACY STATEMENT
 
-##### Effective Date: January 31, 2017
+##### Effective Date: August 10, 2017
 
 This Privacy Statement (“ **Privacy Statement** ”) explains how Groupon, Inc. (“ **Groupon** ,” “ **us** ,” “ **our** ,” and “ **we** ”) uses your information and applies to all who use our Web site – www.groupon.com, mobile applications, touch technologies, electronic services, social networking sites, interactive features, online services – or any of our described online activities we own or control, including any online activities owned, controlled, or operated by Groupon Affiliates, (collectively, the “ **Site** ”). In addition, please review the Site’s **[Terms of Use](http://www.groupon.com/terms)** which governs your use of the Service, and includes, among other things, grants of rights from you, limits on our liability and your remedies, mandatory arbitration, and waiver of jury trial and class actions. **By using our Site, you agree to our Terms of Service and consent to our collection, use and sharing of your information and data, and other activities, as described below.**
 
 **By using the Site, you agree to the terms of this Privacy Statement. If you do not agree with the practices described in this Privacy Statement, please do not provide us with your personal information or interact with the Site.**
 
-We may modify this Privacy Statement at any time. If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of notice on the Site prior to the change becoming effective. You can determine when this Privacy Statement was last revised by referring to the "Effective Date” above. You can review the last version of this Privacy Statement [here](https://www.groupon.com/pages/privacy-11-9-2015).
+We may modify this Privacy Statement at any time. If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of notice on the Site prior to the change becoming effective. You can determine when this Privacy Statement was last revised by referring to the "Effective Date” above. You can review the last version of this Privacy Statement [here](https://www.groupon.com/pages/privacy-1-31-2017).
 
 This Privacy Statement is organized as follows: 
 
@@ -108,8 +108,9 @@ We (or our Vendors on our behalf), use information collected as described in thi
   * Send you reminders, technical notices, updates, security alerts, support and administrative messages, service bulletins, marketing messages, and requested information, including on behalf of Business Partners; 
   * Administer rewards, surveys, sweepstakes, contests, or other promotional activities or events sponsored by us or our Business Partners; 
   * Manage our everyday business needs, such as administration of the Site, forum management, fulfillment, analytics, fraud prevention, and enforcement of our corporate reporting obligations and [Terms of Use](http://www.groupon.com/terms), or to comply with the law; 
-  * Allow you to apply for a job, post a video or sign up for special offers from merchants, Business Partners, or third parties through the Site and Other Programs, and to
-  * Enhance other information we have about you directly or from Other Sources to help us better understand you and determine your interests.
+  * Allow you to apply for a job, post a video or sign up for special offers from merchants, Business Partners, or third parties through the Site and Other Programs;
+  * Enhance other information we have about you directly or from Other Sources to help us better understand you and determine your interests, and to
+  * Use your data as described in our [Card Linked Deals](https://www.groupon.com/pages/special-programs#card-linked-deals) program, if you consented to participate in such program.
 
 
 
