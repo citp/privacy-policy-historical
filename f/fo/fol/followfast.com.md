@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followfast.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131847id_/http%3A//followfast.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followfast.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228141454id_/http%3A//followfast.com/privacy.php) for the most accurate reproduction.*
 
 # FollowFast.com - Get Free Facebook Likes
 
