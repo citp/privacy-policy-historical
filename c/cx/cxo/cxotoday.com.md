@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cxotoday.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606094736id_/http%3A//www.cxotoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cxotoday.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228231958id_/http%3A//www.cxotoday.com/privacy) for the most accurate reproduction.*
 
 # Technology News, Business Technology News, Information Technology News, Tech News India | CXOToday.com
 
