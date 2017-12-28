@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the indiafreestuff.in privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502020702id_/http%3A//indiafreestuff.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafreestuff.in privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228013007id_/http%3A//indiafreestuff.in/pages/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Find Shopping deals, Coupons, Free Samples, Contests, Freebies, Recharge offers and online tips for Free - IndiaFreeStuff
-
-##  Privacy Policy 
-
-**Last Updated Dec 2014**
+# Find Shopping deals, Coupons, Free Samples, Contests, Freebies, Recharge offers and online tips for Free – IndiaFreeStuff
 
 Indiafreestuff.in knows that your privacy is very important, and to keep you informed about our privacy practices we ask that you please read the guidelines described below. Keep in mind that because Indiafreestuff.in  is a growing website and internet technologies are constantly evolving, these guidelines are subject to change and any said changes will be posted on this page.
 
@@ -33,7 +29,7 @@ What kind of infomation does  Indiafreestuff.in collect from you?
 
 
 
-## **DoubleClick DART cookie:  **
+## _**DoubleClick DART cookie:  **_
 
   * Google uses the DoubleClick DART cookie on publisher websites displaying AdSense for content ads.
 
@@ -60,23 +56,3 @@ What kind of infomation does  Indiafreestuff.in collect from you?
 
 
 By registering you allow us to send you newsletter email, You can disable from your profile If you don’t want to receive such newsletter.
-
-### Ratings 
-
-Current Average Ratings
-
-Customer service
-
-Avg: 0/5
-
-Returns and Replacement
-
-Avg: 0/5
-
-Website\'s Ease of Use
-
-Avg: 0/5
-
-Total Avg Rating:  0.00 out of 5 with  based on **0** rating(s) 
-
-[Rating System by Codeboxr](http://indiafreestuff.in/?rto=http%3A%2F%2Fcodeboxr.com%3Futm_source%3Dcbratingsystem%26utm_medium%3Dclientsite%26utm_campaign%3Dcbratingsystem)
