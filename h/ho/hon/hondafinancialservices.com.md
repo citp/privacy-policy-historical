@@ -1,211 +1,228 @@
-> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616193937id_/http%3A//www.hondafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228072509id_/http%3A//hondafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Honda Auto Leasing and Financing - Privacy Policy
 
-Information Collection
+**Information Collection**
 
-You can visit our Web Sites without sharing personally identifiable information.  
+**Personally Identifiable Information You Give Us**
 
-You can visit our Web Sites without telling us who you are and without revealing any personally identifiable information to learn about American Honda, American Honda Finance Corporation ("AHFC"), our product and service information, special offers and promotions, and investor information.  You can also access financial planning tools.  
+We receive and may store any personal information entered on our Sites. Depending upon the Site and context, this information may include the following (along with any other information you provide):
 
-"Personally identifiable information or personal information" refers to any information that identifies or can be used to contact or locate you such as name, mailing address, phone number, email address, social security number, and account number.  Use of certain features and tools on this Site requires that you provide us with personally identifiable information.  However, you always have the option not to provide personal information by choosing not to use a particular feature.  
+•    _Contact Information._ Name, address, city, state, zip code, email address and telephone number.
 
-We may request personally identifiable information in order to enhance your experience on our web sites.  There are instances where American Honda requests personally identifiable information to provide the web site visitor a service or correspondence (such as promotions and mailed brochures). This information, such as name, mailing address, email address, type of request and possibly additional information, is collected and stored in a manner appropriate to the nature of the data and is used to fulfill your request. The information you provide is used by American Honda to improve the services we provide you and to help us promote products and services that are of most interest to you.  The information may be merged with other information American Honda already knows, such as whether you are an owner of a Honda or Acura product.
+•    _Demographic Information._ Date of birth, gender, occupation, employer and country of origin.
 
-To use American Honda's Internet services, such as the Dealer Locator and brochure requests, we require a certain amount of personally identifying information such as name and address to meet your request.  We may use this information to identify and access data in the existing relationship we have with you to provide you with the requested services.  We may request email addresses as an alternate means of contacting you.
+•    _Owner Testimonials and Multimedia Submissions._ On certain Sites, such as Owners.Honda.com, you may choose to provide testimonials, upload pictures or videos or otherwise provide personal information.
 
-We Collect and Use Anonymous Information
+•    _Vehicle Information._ VIN, make, model, year, trim level, color, selling dealer and year purchased.
 
-We may gather and store certain anonymous information about your visit, including the name of your Internet Service Provider (ISP), the type of browser and operating systems used to access our site, the date and time you access our site, the website that referred you to us, and the pages you visit (click-through).  This information does not identify you personally.  This information is collected and used to generate statistics, measure site activity, and improve the usefulness of our sites.
+•    _Payment Information._ On certain Sites, such as Honda and Acura eStore and financial services Sites, credit card and other payment information (account numbers, account type, routing numbers and bank name) may be collected. This information is used solely to process your transaction(s).
 
-Use of Cookies
+•    _American Honda Account Information._ If you create an account on any Site, we collect information related to that account such as username, password and answers to your security questions.
 
-A "cookie" is a small text file or text identifier placed on your computer to assist us in providing customized services.  We use cookies to provide you with a convenience feature to save you time and provide a more personalized experience on our site.  For example, you may log on once during a visit and will be able to access multiple servers without having to log on again and again.  We also use the information for internal research on our user's demographics, interests, and behavior to better understand our visitor's preferences.  We may use cookies provided by third parties, including ClearTrust, BrowserHawk, Capricorn Encryption, and WebTrends e-commerce software.  You have the ability to accept or decline cookies.  Some portions of our Web sites, such as owners.honda.com/owners.acura.com, however, require the use of cookies for proper function.
+•    _Instant Messaging Information._ Certain Sites may offer instant messaging features. If you sign up for such features, you are choosing to allow other instant messaging users to see that you are online. At your discretion, you may choose to share additional information with other users.
 
-Advertising Campaigns
+•    _Information on Credit Applications._ Information provided on credit applications may include some of the information covered above as well as additional information such as your social security number and income. Information provided on a credit application is used solely in accordance with the American Honda Finance Corporation Financial Privacy Policy provided below.
 
-Some of our sites, such as automobiles.honda.com and owners.honda.com/owners.acura.com, use web beacons also called single pixel gifs. Their use helps us determine the effectiveness of our advertising campaigns. Certain gif files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to http://www.doubleclick.net/us/corporate/privacy. In short, web beacons collect only a limited amount of information including cookies and time and date of viewing and do not contain personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by going to: http://preferences.truste.com/preference.html?affiliateId=99. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+Certain Sites allow you to send e-cards to third parties. This requires you to provide the email address of each third party to whom you wish to send a card. Third party emails are used solely for this purpose.
 
-Information Use
+You can visit our Sites without sharing personal information; however, certain features and tools (such as the ability to email video hyperlinks, request a quote, request a brochure, locate a dealer or create an account) may not be available unless personal information is provided.
 
-The information you share with American Honda is used to improve the services we provide you and to provide services to you that you request. For example, if you enroll in EasyPay or Pay Online, our account payment services, we will be required to validate your bank account information with your bank. If you request brochures, we may hire a third party fulfillment company to meet your request. We may share information about you with third party service providers (such as companies who assist us in marketing, conducting surveys and research to help us provide better products and services). However, your information is not shared with or sold to any other third party entity or individual for that entity or individual's independent use with the exception of when you request to be added to the fan mailing list of one of the participating Civic Tour bands and/or Civic Tour promotional partners or in situations where required by law, we may need to share this information with law enforcement officials such as in response to a court order or subpoena. AHFC customers are also encouraged to see the American Honda Finance Corporation Financial Privacy Policy below to learn more about protections and use of your nonpublic personal information (such as personally identifiable financial information).
+**Information Provided in Connection with Employment Applications**
 
-The information you share with American Honda when you apply for employment with American Honda or any of its affiliated companies through our site at <http://corporate.honda.com/careers/> may include personal information, such as name, educational and employment background, contact information, job qualifications, and jobs for which you may wish to be considered.  You may choose to provide additional information, such as your resume or CV, employment references, and salary requirements.  You may also choose to provide this information by extracting it from another online location, such as Google, Yahoo, or Talent Exchange Universal Profile.  Your provision of this information in connection with seeking employment at American Honda is voluntary and you determine the extent of the information you provide.  Your decision not to provide such information may affect our ability to consider you for employment.  This information is collected and maintained through Oracle’s Taleo service and is not shared except between the Taleo service and American Honda (and its affiliated companies), or between American Honda and its affiliated companies, as necessary for employment decisions.  For more information about Oracle’s privacy policies, please consult Oracle’s disclosures on its website ([www.oracle.com](http://www.oracle.com/)). 
+We receive and may store personal information provided to American Honda when you apply for employment with American Honda or any of its affiliated companies on [www.honda.com/careers](http://www.honda.com/careers) or other Sites. This information may include name, educational and employment background, contact information, job qualifications, and jobs for which you may wish to be considered. You may choose to provide additional information, such as your resume or CV, employment references, and salary requirements. You may also choose to provide this information by extracting it from another online location, such as Google, Yahoo, or Talent Exchange Universal Profile. Your provision of this information in connection with seeking employment at American Honda is voluntary and you determine the extent of the information you provide. Your decision not to provide such information may affect our ability to consider you for employment. This information is collected and maintained through Oracle’s Taleo service and is not shared except between the Taleo service and American Honda (and its affiliated companies), or between American Honda and its affiliated companies, as necessary for employment decisions. For more information about Oracle’s privacy policies, please consult Oracle’s disclosures on its website ([www.oracle.com](http://www.oracle.com/)).
 
-Partners
+**Information We Collect Automatically**
 
-When you visit or use a part of any website, landing page or mobile application that is co-branded or that is a part of a joint promotion involving American Honda and one or more third parties (each a “Co-Branded Party”), you are providing and consenting to provide your personal information and any other information collected by any Co-Branded Party to American Honda and each of the Co-Branded Parties without any other notice or further consent.  We do not control Co-Branded Parties’ use or treatment of information you provide to them and you should consult each of their privacy policies or any separate Co-Branded privacy policy posted on or linked from the Co-Branded site to determine your rights with respect to their use and treatment of your information.
+_Device and Usage Information_
 
-Security
+We receive information from the devices (computer, tablet, smartphone, etc.) you use to connect to our Sites. The information we receive from these devices may include IP address, unique device identifiers, browser type, internet service provider, hardware model, operating system and application version. When you use or interact with our Sites, we may also record certain information and store it in log files. This may include referring and exit pages, time and date stamp, search terms and clickstream data.
 
-American Honda has reasonable security measures in place to protect your personally identifiable information.  This information is protected while being transmitted through a Secured Sockets Layer (SSL) connection.  Most web pages that display personally identifiable information are encrypted using 128-bit SSL, which is an industry standard.  The following brands' brochure requests, however, are not transmitted through a SSL connection:  Engine, Marine, and Power Equipment.  In addition, the Motorcycle brand site does not currently transmit brochure and email notification requests through an SSL connection.  In addition, we have security procedures and policies in place to safeguard against loss, theft, unauthorized access, destruction, misuse, and modification of this information after we receive it.  However, perfect security does not exist over the internet.  If you are an owners.honda.com/owners.acura.com registrant, you can help protect your personally identifiable information by selecting the "Log Out" icon before you close your browser.
+_Location Information_
 
-Do Not Track Signals
+We receive location information from the devices you use to connect to our Sites. Location information may be obtained through the use of geolocation features in your devices or through other methods such as using your IP address to identify your general geographic area.
 
-Our websites do not treat browsers that  send a ‘do not track’ signal differently from  browsers that do not send one.
+_Cookies, Web Beacons and Similar Technologies_
 
-Links
+We may receive and store certain information about your browsing preferences or activities by using cookies, web beacons and similar technologies. These technologies may be provided by third parties such as ClearTrust, BrowserHawk, Capricorn Encryption, WebTrends and others. Cookies are small text files placed on your computer to help websites and applications recognize your browser. They help us provide you with customized services and may be used for interest-based advertisements or to associate you with social media sites. We may use both session cookies (disappear after you close your browser) and persistent cookies (remain after you close your browser and may be accessed every time you use or connect to our Sites). Most web browsers allow you to modify your cookie settings; however, certain features of our Sites may not work properly if you disable cookies. Web beacons are transparent graphic pixels that are placed on web pages that enable us or a third party to track your actions on our Sites and deliver interest-based advertisements. More information regarding online tracking and interested-based advertising, including opt-out options is included below.
 
-Our web sites may contain links to other sites. However, please be aware that if you access these links you will be leaving our site.  As a result, we encourage users to read the privacy policies of those sites as we are not responsible for their content, links, or privacy procedures.
+_Social Media Widgets_
 
-Policy Updates
-
-If we decide to change our privacy policies and procedures, we will post those changes to this privacy policy so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We suggest periodically visiting this page to review our policies and procedures.
-
-Specific Web Site Provisions
-
-This section below addresses this Site’s unique functionality and offerings specific to particular areas of each Site and serves as a supplement to the General Provisions above.
-
-| **Honda Automobiles**
-
-**Request A Quote.  **When you select and build your choice in a vehicle, we will present you with a complete list of your choices, as well as the vehicle's suggested retail price.  We can also forward your quote to a local Honda dealer for further contact.  If you choose to utilize this service, we will ask you to provide us with your name, home and email address, and your home and/or business telephone number.  Although not required to do so, you may also provide us with further information such as what time of day you wish to be contacted, your vehicle trade-in information as well as any additional information or special requests.  After submitting your request, you may choose to apply for credit with Honda Financial Services.  If you choose to do so, in certain instances, we may forward information regarding the status of your application to the dealer you selected to receive your price quote request.  If you do not want us to forward this information on to your selected dealer, you may go directly to HondaFinancialServices.com to apply.  See also the Honda Financial Services “Apply for Pre-Approved Credit” section below to understand how Honda Financial Services handles the information provided on the credit application.  Requesting a quote and providing your personal information is your choice.  
-
-**Financing Tools, Apply online for Pre-Approved Credit.**  If you choose to submit an application to Honda Financial Services for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income. This information is collected and is used only in a manner appropriate to process your request for pre-approved credit. For example, American Honda Finance Corporation (doing business as Honda Financial Services) may use this information to investigate your credit, employment, and income to assist in our credit decision-making process. After you apply, you may also check the status of your application. In order to do so, we will request that you provide your name, zip code, and personal identification number. We also encourage you to review the American Honda Finance Corporation Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information).
-
-**Financing Tools, Payment Calculators.**  You may choose to utilize our financing calculators to get an idea as to how much it may cost you to buy or lease a new or used vehicle.  Using this feature will help you determine what you can afford.  In doing so, you may provide certain figures such as a trade-in value or an amount owed on your current vehicle to calculate an estimated payment.  We do not collect or share any of this information nor is this information personally identifiable.  
-
-**Request a Brochure.**  If you choose to request that we mail you a specific model fact sheet or brochure or a full-line brochure, you will be required to provide us with your name and address. This information may be shared with a third party brochure fulfillment company to process your request.  You may also choose to receive additional product information or be contacted by a Honda dealer.  If you choose to be contacted by a Honda dealer, we will forward your name, address, and, if provided, your email address to the dealer.  You may also choose to provide us with additional information about your current vehicle.  Requesting a brochure, being contacted by a dealer, and providing your personal information is your choice.
-
-**Email Newsletters.**  You may decide that you wish to sign up to receive email newsletters on a particular Honda model and site features or to receive newsletters about all new models, special promotions, and site features.  In doing so, we will request that you provide your name and email address.  Requesting email newsletters and providing your personal information is your choice.      
-
-**Email Cards.** When visiting our vehicle web pages, at times, you may choose to send electronic cards to your family or friends.  To do so, you will have to provide your email address and the email address of the person you wish to send a card.  This information is only used for the purpose for which it is received.  
+Our sites and mobile applications include social media features connected with social media platform such as Facebook, Twitter, Instagram, Snapchat, Google Plus, Pinterest, YouTube and others. These features may collect information about your IP address and which page you’re visiting on our site, and they may set a cookie or employ other tracking technologies. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
 
 BACK TO TOP
 
-**Acura**
+**Use of Information by American Honda**
 
-**Request A Quote.**  When you select and build your choice in a vehicle, we will present you with a complete list of your choices, as well as the vehicle's suggested retail price. We can also forward your quote to a local Acura dealer for further contact. If you choose to utilize this service, we will ask you to provide us with your name, home and email address, and your home or business telephone number. Although not required to do so, you may also provide us with further information such as what time of day you wish to be contacted, your vehicle trade-in information as well as any additional information or special requests. After submitting your request, you may choose to apply for credit with Acura Financial Services. If you choose to do so, in certain instances, we may forward information regarding the status of your application to the dealer you selected to receive your price quote request. If you do not want us to forward this information on to your selected dealer, you may go directly to AcuraFinancialServices.com to apply. See also the Acura Financial Services “Apply for Pre-Approved Credit” section below to understand how Acura Financial Service handles the information provided on the credit application. Requesting a quote and providing your personal information is your choice.
+Except as otherwise limited in the Policy, we may use personal and anonymous information collected from the Sites in several ways, including:
 
-**Financing Tools, Apply online for Pre-Approved Credit.**  If you choose to submit an application to Acura Financial Services for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income. This information is collected and is used only in a manner appropriate to process your request for pre-approved credit. For example, American Honda Finance Corporation (doing business as Acura Financial Services) may use this information to investigate your credit, employment, and income to assist in our credit decision-making process. After you apply, you may also check the status of your application. In order to do so, we will request that you provide you name, zip code, and personal identification number. We also encourage you to review the American Honda Finance Corporation Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information).
+•  To facilitate or fulfill the information, products or services you have requested;
 
-**Financing Tools, Payment Calculators.**  You may choose to utilize our financing calculators to get an idea as to how much it may cost you to buy or lease a new or used vehicle.  Using this feature will help you determine what you can afford.  In doing so, you may provide certain figures such as a trade-in value or an amount owed on your current vehicle to calculate an estimated payment.  We do not collect or share any of this information nor is this information personally identifiable.    
+•  To provide educational materials to you;
 
-**Brochure Request.**  If you choose to request that we mail you a specific model brochure, a full-line brochure, or a certified pre-owned program brochure, you will be required to provide your name, address and telephone number.   Your contact information may be shared with a third party brochure fulfillment company to process your request.  You may also choose to be contacted by an Acura dealer.  If you choose to be contacted by an Acura dealer, we will forward your contact information to the dealer.  Requesting a brochure, being contacted by a dealer, and providing your personal information is your choice.
+•  To provide important safety or warranty related information;
 
-**Acura Store.**  Our site offers the ability to buy Acura Apparel and Merchandise online from a third party vendor, Bensussen Deutsch & Associates Inc. (BD&A).  If you choose to do so, please be aware that the link to buy Acura Apparel and Merchandise will direct you to the BD&A web site to which the American Honda privacy policy does not apply.  As a result, we encourage users to read the privacy policy of that site, as we are not responsible for their content, links, or privacy procedures.
+•  To maintain customer relationships;
 
-BACK TO TOP
+•  To communicate with you about your account;
 
-**Honda Powersports**
+•  For future marketing promotions, including advertisements tailored to your interests; and
 
-**Request a Brochure.**  If you request that we mail you a full line brochure, you will be required to provide us with your name and address.  Requesting a brochure and providing us with your personal information is your choice.
+•  For internal business operations, including the improvement of our products/services, data analytics, to personalize your experience and other normal business activities.
 
-**Email Notifications.  **You may decide that you wish to sign up to receive email notifications on a particular Honda model(s), new products, special offers, events and more.  In doing so, we will request that you provide you name and email address.  You may also provide your zip code.  Signing up for email notifications and providing your personal information is your choice.
-
-**Build Your Bike/Build Your ATV/Build Your PWC/Build Your MUV.  **You may build a Honda model of your choice without providing personally identifiable information.
-
-**My Favorites.** You may choose to register for a My Favorites account in order to save configurations of any model you build on the site.  If you do so, we will request that you set up a Honda ID and password as well as provide your email address.  We will use your email address to send you email notifications if you choose to opt-in to receiving information on Honda's newest products, special offers, events, and more.  Once registered, you may email your configurations to friends or family.  If you choose to do so, we will not store your friends or family's email addresses.  
-
-**Request A Quote.  **When you select and build your choice in a motorcycle, scooter, ATV or watercraft, we will present you with a complete list of your choices.  We can also forward your quote to a local Honda dealer for further contact.  If you choose to utilize this service, we will ask you to provide us with your name, home and email address.  Although not required to do so, you may also provide us with further information such as your home and/or business telephone number, your vehicle trade-in information, the time of day you wish to be contacted and whether you wish to be contacted by email or telephone as well as any additional information or special requests.  Requesting a quote and providing your personal information is your choice.  
-
-**Certificate Application for Current Offers.**  You may choose to apply for a personalized current offer certificate that you can bring to your local Honda motorcycle dealer and use at your time of purchase.  If you do so, we will request that you provide your name, home address, and email address.  At such time, you may also choose whether you would like to receive additional information on Motorcycle products or whether you would like to email the link to a friend.  
-
-**Apply for Pre-Approved Credit.  **If you choose to submit an application to us for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income.  This information is collected and is used only in a manner appropriate to process your request for pre-approved credit.  For example, we may use this information to investigate your credit, employment, and income to assist in our credit decision-making process.  We also encourage you to review the American Honda Finance Corporation Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information).    
-
-**Honda Card.**  You also have the choice of applying for revolving credit through a credit program between GE Capital Consumer Card Co. and Honda Card.  If you choose to do so, please be aware that the link to the application will direct you to the Conseco Finance Corporation web site to which the American Honda privacy policy does not apply.  As a result, we encourage users to read the privacy policy of that site, as we are not responsible for their content, links, or privacy procedures.
+Information obtained through our Sites may be merged with other information American Honda already knows, such as whether you are an owner of a Honda or Acura product.
 
 BACK TO TOP
 
-**HRCA Clubhouse**
+**Sharing of Information with Third Parties**
 
-**HRCA Clubhouse Registration.**  You may choose to become a registered user in order to have greater access to the Clubhouse.  If you do, you will be required to submit your name, home and email address.  This information is used to provide HRCA Clubhouse services to you.     
+Except as otherwise limited in the Policy, we may share personal and anonymous information collected from the Sites as outlined in this section.
 
-**Membership Enrollment and HRCA Clubhouse Registration.**  If you are not already a member, you may choose to enroll online in the Honda Rider's Club of America.  If you do, you will be required to submit your name, home and email address, telephone number, and credit card information.  During enrollment, you will also be able to opt-in to receiving certain email notifications regarding the Clubhouse, HRCA updates, or other information.  This information is collected and is used only in a manner appropriate to process your enrollment and to provide HRCA club membership services to you. 
+**Affiliated Entities**
 
-If you are already a HRCA member, you may wish to register in the HRCA Clubhouse.  You will either need to provide your HRCA member number and zip code or, if you do not know your number, you may provide us with your name and address exactly as they appear on your Honda Red Rider mailing label.  This information is collected and used only to validate your membership with us and to register you in the clubhouse.
+We may share the information we collect with our parent company, subsidiaries and affiliates. These entities may use this information for everyday business purposes, including the purposes for which American Honda uses the information (outlined above).
 
-Once a HRCA member, you may access your personal information in your registration profile for review and may change any information, as necessary, except for your name.
+**Service Providers**
 
-**Member Directory and Instant Messaging.**  As a member, you may choose to participate in the HRCA member directory.  If you do so, you may participate in our instant messaging feature.  If you sign up for instant messaging, you will choose to allow other instant messaging users to see that you are online.  You will be able to share your username, email address, city and state you live, chapter dealer, or the type of bike you own with other instant messaging members. You are not required to share any of the above information and may pick and choose on an item-by-item basis.  
+We may share the information we collect with third parties that perform services on behalf of American Honda. Service providers may include companies that provide fulfillment, IT, marketing, survey, data analytic, data hygiene or other services on behalf American Honda. These companies may need information about you in order to perform their functions.
 
-BACK TO TOP
+**Dealers**
 
-**Honda Power Equipment**
+We may share your personal information with authorized Honda and Acura dealers, which are independently owned and operated. Dealers may use this information for their everyday business purposes, including marketing, customer service, fulfillment and related purposes.
 
-**Request a Brochure.**  If you request that we mail you any of our brochures, you will be required to provide us with your name and address.  Your email address is optional. Requesting a brochure and providing your personal information is your choice.  
+**Partners**
 
-BACK TO TOP
+When you visit or use a part of any Site that is co-branded or that is a part of a joint promotion involving American Honda and one or more third parties (each a “Co-Branded Party”), you are providing and consenting to provide your personal information and any other information collected by any Co-Branded Party to American Honda and each of the Co-Branded Parties without any other notice or further consent. We do not control Co-Branded Parties’ use or treatment of information you provide to them and you should consult each of their privacy policies or any separate Co-Branded privacy policy posted on or linked from the Co-Branded site to determine your rights with respect to their use and treatment of your information.
 
-**Honda Marine**
+**Sensitive Information**
 
-**Request a Brochure.**  If you request that we mail you a brochure, you will be required to provide us with your name and address.  Your email address is optional.  Requesting a brochure and providing your personal information is your choice.
+Sensitive information (social security numbers, payment information and geolocation information) obtained via the Sites is shared only pursuant to your consent or to the extent necessary to process your transactions or fulfill your requests.
 
-BACK TO TOP
+**As Required by Law or Requested by Law Enforcement**
 
-**Honda Engines**
+We may share your personal information in response to a subpoena, civil investigative demand or request from a law enforcement agency, or to otherwise comply with applicable laws.
 
-**Request a Brochure _._** If you request that we mail you any of our brochures, you will be required to provide us with your name and address.  Your email address is optional. Requesting a brochure and providing your personal information is your choice.  
+**Changes in Corporate Structure or Bankruptcy**
 
-BACK TO TOP
+In the event that American Honda is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. We also may retain a copy of such information.
 
-**Honda Owners/Acura Owners**
+**Other Nonaffiliated Third Parties**
 
-**My Vehicle.** Honda Owners/Acura Owners provides access to valuable resources like maintenance schedules,  roadside tips, FAQs, and account management.   If you choose to register for Honda Owners/Acura Owners, you will be asked to set up a Honda ID/Acura ID and password.  You will be required to submit your email address where we can send your password information, in case you forget it.  Your email address will also be used to send you any messages relating to the Communication Preferences you choose to set up; for example, you may choose to receive messages from us relating to "general information about Honda Owners/Acura Owners, such as site updates." You may also choose not to receive any messages at all.  You will also be asked to tell us the make, year, model, trim, color, and year purchased.  This information is used to set up your account specific to your vehicle.  You will be able to edit or delete your vehicle information any time.
-
-You are given the option of providing us with your name, address, and telephone number.  It is also optional for you to provide your Vehicle Identification Number (VIN) in order to tailor advanced features, such as maintenance reminders, service records, and recall notices to you and to your specific product.
-
-**My Profile.** Once you have registered, a "My Profile" button will be located at the top of every Honda Owners/Acura Owners page.  This is a summary of your account with us.  By clicking this button, you can view and/or edit your personal information at any time by clicking the "Edit/Update" button.  You may also change your Communication Preferences.  
+We will not knowingly share your personal information with any other nonaffiliated third party, for such party’s own marketing purposes, without your consent. One example of such sharing is when you request to be added to the fan mailing list of one of the participating Civic Tour bands and/or a Civic Tour promotional partner.
 
 BACK TO TOP
 
-**eStore**
+**Online Tracking and Interest-Based Advertisements**
 
-The amount and type of information we collect depends on who you are and how you use eStore.  eStore offers products and services to the general public as well as to independent vehicle repair shops.  We collect personally identifying information if you visit the site and wish to register, purchase products, request other information, or otherwise communicate with Honda about the products/services offered on the site.  When you register on the site, we will request that you set up a Honda ID/Acura ID and password for "My Profile".  You may choose to enter your Honda or Acura's vehicle identification number (VIN) or simply choose the make, year, and model of your vehicle.  You may make changes to this information at any time by selecting the edit button in the "My Profile" folder.  
+AHM and third parties, which may include Google, Adobe, Facebook and others advertising networks, use cookies, web beacons and similar technologies to gather information about you over time and across different websites or applications in order to help predict your preferences and show you interest-based advertisements.
 
-If you use eStore to purchase products online, your personally identifying information will be used to complete any transactions that you enter into, including credit card processing and, for independent repair facilities, credit checks, credit services, and debt collection.  Your name, address, email address, telephone number, and where applicable, credit card information and purchase details, will be provided to the participating Honda/Acura Dealer you choose who will fulfill your order.  Honda and Acura dealers are independent from American Honda.  We have installed safeguards to secure and protect the credit card information used for your transactions.
+**How You Can Opt-Out**
 
-BACK TO TOP
+If you do not wish to receive interest-based advertising, please visit the [Digital Advertising Alliance (DAA) Consumer Choice Page](http://http//www.aboutads.info/choices/). The DAA website allows you to opt-out of one or more interest-based advertising networks. Opt-outs are device and browser specific; therefore, you will need to set your opt-out preferences for each device and browser. Deleting browser cookies can remove your opt-out preferences; however, the DAA offers [browser extensions](http://www.aboutads.info/PMC) that help preserve the opt-out preferences you set on the DAA's Consumer Choice Page. Please note that opt-outs only apply to interest-based advertising. You may still receive other types of online advertising.
 
-**Acurafinancialservices.com**
+**Browser Do Not Track Signals**
 
-**Email-to-a-friend.** If you wish to share information that you view on a page of this Site with a friend, we will email the web page to your friend for you.  In order to do so, we will request that you provide us with your name, email address, and your friend's email address.  This information is collected and used only in a manner appropriate to fulfill your request.  
-
-**Apply online for Pre-Approved Credit.** If you choose to submit an application to us for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income.  This information is collected and is used only in a manner appropriate to process your request for pre-approved credit.  For example, we may use this information to investigate your credit, employment, and income to assist in our credit decision-making process.  We also encourage you to review the American Honda Finance Corporation Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information).    
-
-**EasyPay Enrollment.** If you are already an AHFC customer, you may decide to enroll in our convenient EasyPay program and authorize AHFC to automatically withdraw scheduled monthly payments from your bank checking or savings account.  In order to enroll, we will request that you provide personally identifiable information such as your AHFC account number, the last four digits of your social security number, your bank's name and routing number, and your bank account type (checking or savings) and account number.  This information is collected and used in a manner appropriate to process your EasyPay enrollment request.   Note that you can also change or update your information by clicking on "Change" button off the EasyPay home page.  
+Some browsers have a “do not track” setting that allows you to tell sites that you do not want to be tracked. At this time, our Sites do not treat browsers that send a “do not track” signal differently from browsers that do not send one. You may, however, opt-out of interest-based advertising as outlined above.
 
 BACK TO TOP
 
-**Hondafinancialservices.com**
+**Policy on Collection of Information from Children**
 
-**Email-to-a-friend.** If you wish to share information that you view on a page of this Site with a friend, we will email the web page to your friend for you.  In order to do so, we will request that you provide us with your name, email address, and your friend's email address.  This information is collected and used only in a manner appropriate to fulfill your request.  
+We are committed to protecting children's privacy on the Internet. We do not knowingly collect personal information from children under the age of 13. If your child has provided us with personal information, please contact us at:
 
-**Apply online for Pre-Approved Credit.** If you choose to submit an application to us for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income.  This information is collected and is used only in a manner appropriate to process your request for pre-approved credit.  For example, we may use this information to investigate your credit, employment, and income to assist in our credit decision-making process.  We also encourage you to review the American Honda Finance Corporation Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information).    
+Honda Customer Service: 800-999-1009
 
-**EasyPay Enrollment.** If you are already an AHFC customer, you may decide to enroll in our convenient EasyPay program and authorize AHFC to automatically withdraw scheduled monthly payments from your bank checking or savings account.  In order to enroll, we will request that you provide personally identifiable information such as your AHFC account number, the last four digits of your social security number, your bank's name and routing number, and your bank account type (checking or savings) and account number.  This information is collected and used in a manner appropriate to process your EasyPay enrollment request.   Note that you can also change or update your information by clicking on "Change" button off the EasyPay home page.  
+Acura Client Relations: 800-382-2238
 
-BACK TO TOP
+Powersports Customer Service: 866-784-1870
 
-**Hondafinancialservices.com/ir**
-
-You may obtain investor relations information without providing personally identifiable information.
+Power Equipment/Marine/Engines Customer Relations: 770-497-6400
 
 BACK TO TOP
 
-**Civic Tour**
+**Security**
 
-**Email Sign Up.**  You may choose to sign up for email notifications in connection with the Civic Tour, our product information, from the bands participating in a particular Civic Tour, or from the promotional partners participating in a particular Civic Tour.  
+We use, and require our service providers to use, a variety of procedural, technical, and physical controls to help protect your information. Unfortunately, even though we take measures to protect your information, no security measure can be 100% secure, and we cannot guarantee the security of your information.
 
-It is not the practice of civictour.com to share any information we gather with any third-party companies or individuals, unless you specifically request to be contacted by a band participating in a particular Civic Tour and/or a promotional partner participating in a particular Civic Tour.
+We will never request your credit card number, social security number or other sensitive information through email. This practice, called “phishing”, is a scam designed to steal your information. If you receive an email that looks like it is from us asking you for this information, do not respond. You might also consider updating your email filter settings to block emails from the domain from which the email was sent.
+
+BACK TO TOP
+
+**Links**
+
+The Sites may contain links to third party websites including social media platforms, [acura.merchandisecollection.com](http://acura.merchandisecollection.com/) (operated by Staples Promotional Products, Inc.) and websites related to American Honda credit cards (operated by third party financial institutions), among others. Please be aware that if you access these links, you will be leaving our site. We encourage users to read the privacy policies of those sites, as we are not responsible for their content, links, or privacy procedures.
+
+BACK TO TOP
+
+**International Users**
+
+American Honda Sites covered by this website are intended for United States residents only. If you are a resident of another country, please use the corresponding Honda or Acura Sites. In the event that you provide any personal information on American Honda Sites, you consent to the transfer of such information across country borders, and to the use, processing, and disclosure of such information in global locations, including those that may have different levels of privacy protection than in your own country.
+
+BACK TO TOP
+
+**Your California Privacy Rights**
+
+Under California Civil Code Section 1798.83, California residents with whom we have an established business relationship may request (up to once per year) that we provide the categories of personal information we share with third parties for their direct marketing purposes and the names of such third parties. To make such a request, please contact us at:
+
+Honda Customer Service: 800-999-1009
+
+Acura Client Relations: 800-382-2238
+
+Powersports Customer Service: 866-784-1870
+
+Power Equipment/Marine/Engines Customer Relations: 770-497-6400
+
+BACK TO TOP
+
+**Contact Information**
+
+If you have any questions about this Privacy Policy or our online privacy practices, please contact us at:
+
+Honda Customer Service: 800-999-1009
+
+Acura Client Relations: 800-382-2238
+
+Powersports Customer Service: 866-784-1870
+
+Power Equipment/Marine/Engines Customer Relations: 770-497-6400
+
+BACK TO TOP
+
+**Policy Updates**
+
+If we decide to change our privacy policies and procedures, we will post those changes to this Privacy Policy so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We suggest periodically visiting this page to review our policies and procedures.
 
 BACK TO TOP
 
 **American Honda Finance Corporation Financial Privacy Policy**
 
-This policy is provided by American Honda Finance Corporation and is given on behalf of the following family of companies (affiliates):
+Last Updated: 10/01/2017
 
-American Honda Finance Corporation  
-American Honda Service Contract Corporation  
-Honda North America, Inc.  
-American Honda Receivables Corp.  
-American Honda Receivables Corp. II  
-Honda Titling Inc./Honda Lease Trust  
-Honda Funding, Inc.  
-Honda Titling A-D LLCs  
+This policy is provided by American Honda Finance Corporation (doing business as Honda Financial Services and Acura Financial Services) and is given on behalf of the following family of companies (affiliates):
+
+American Honda Finance Corporation (AHFC)
+
+American Honda Service Contract Corporation
+
+Honda North America, Inc.
+
+American Honda Receivables Corp.
+
+American Honda Receivables Corp. II
+
+Honda Titling Inc./Honda Lease Trust
+
+Honda Funding, Inc.
+
+Honda Titling A-D LLCs
+
 Honda Titling A-D LPs
 
-**Privacy Policy Overview**   
-American Honda Finance Corporation ("AHFC") respects and protects customer privacy.  We know privacy is important to you and is vital to our business.  As required by law, this document explains our Privacy Policy.  We want you to know how we keep our customer information private and secure and how we use the information to provide you a broad range of financial services and products to serve you better.
+AHFC websites include [www.hondafinancialservices.com](http://www.hondafinancialservices.com/) and [www.acurafinancialservices.com](http://www.acurafinancialservices.com/) among others.
+
+**Privacy Policy Overview**
+
+AHFC respects and protects customer privacy. We know privacy is important to you and is vital to our business. As required by law, this document explains our Privacy Policy. We want you to know how we keep our customer information private and secure and how we use the information to provide you a broad range of financial services and products to serve you better.
 
 **How do we protect information?**
 
@@ -215,42 +232,32 @@ We maintain physical and electronic safeguards and have policies and procedures 
 
 1\. Credit applications or from other forms that you give us (for example, your name, address, social security number, income and obligations);
 
-2\. Credit reporting agencies (for example, your creditworthiness and credit history);
+2\. Credit reporting agencies (for example, your creditworthiness and credit history); and
 
-3\. The American Honda Finance Corporation family of companies on transactions with us that you have conducted (for example, products that you have purchased, financed or leased, your retail or lease account balance and payment history).
+3\. The AHFC family of companies on transactions with us that you have conducted (for example, products that you have purchased, financed or leased, your retail or lease account balance and payment history).
 
 **Sharing of information**
 
-We may disclose information that we collect about your direct transactions (for example, account balance and payment history, as a present or former customer) among the American Honda Finance Corporation family of companies and our parent company, American Honda Motor Co., Inc.
+We may disclose information that we collect about your direct transactions (for example, account balance and payment history, as a present or former customer) among the AHFC family of companies and our parent company, American Honda Motor Co., Inc.
 
-Sharing with carefully selected companies
+_Sharing with carefully selected companies_
 
 We may also share information about your transactions with us, our affiliates, or others (for example, your name, address, account terms/activity) with the following:
 
-*  companies that perform marketing services on our behalf or with whom we have joint marketing agreements.
+• Companies that perform marketing services on our behalf or with whom we have joint marketing agreements.
 
-* other nonaffiliated financial institutions, including automobile dealers, with which we have joint marketing agreements.
+• Other nonaffiliated financial institutions, including automobile dealers, with which we have joint marketing agreements.
 
-Sharing with others, as the law allows
+_Sharing with others, as the law allows_
 
 We may also disclose:
 
-* all of the information (see 1-3, above) that we collect about you as a present or former customer to financial service providers (for example, banks, vendors or service companies that provide statement printing and mailing or other types of services) for your accounts with AHFC, or with the affiliate to which your account may be assigned and for which AHFC provides servicing.
+• All of the information (see 1-3, above) that we collect about you as a present or former customer to financial service providers (for example, banks, vendors or service companies that provide statement printing and mailing or other types of services) for your accounts with AHFC, or with the affiliate to which your account may be assigned and for which AHFC provides servicing.
 
-* information about you to nonaffiliated third parties as permitted or required by law (for example, information provided to credit reporting agencies or in response to a subpoena).
+• Information about you to nonaffiliated third parties as permitted or required by law (for example, information provided to credit reporting agencies or in response to a subpoena).
+
+_Policy Updates_
 
 If we modify our privacy policy on how we handle your personal information, we will post the revised information here, with a revised "effective date" at the top of this privacy policy. If there are material changes to this privacy policy or in how we will use your personal information, we may notify you by other means, such as sending an email to you or by posting a notice of such changes on our website. We encourage you to periodically review this statement to be informed of how we are protecting your information.
-
-BACK TO TOP
-
-**greendealer.honda.com**
-
-**Honda Green Dealer**
-
-**Email Newsletters.  **You may decide that you wish to sign up to receive email newsletters on Honda environmentally responsible products & technology, “green dealer” guideline updates, and/or other site features. In doing so, you will be required to provide your email address and occupation, and asked to submit your first name, last name, country of origin, and organization. Requesting email newsletters and providing your personal information is your choice.
-
-**Download the “Green Dealer” Guide.**  You may download the “green dealer” guideline. In doing so, you will be required to provide your email address and occupation, and asked to submit your first name, last name, country of origin, and organization before your download begins. Downloading the “green dealer” guideline and providing your personal information is your choice.
-
-**Locate a “Green Dealer” & “Green Dealers” by Award Level.**  Dealerships referenced herein are Honda and Acura dealers, which are independent from American Honda. Visiting these dealers online or in person is your personal choice.
 
 BACK TO TOP
