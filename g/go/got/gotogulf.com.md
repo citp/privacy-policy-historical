@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotogulf.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619063326id_/http%3A//www.gotogulf.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotogulf.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228045047id_/http%3A//www.gotogulf.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
