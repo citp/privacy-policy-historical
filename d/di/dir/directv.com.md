@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624071904id_/http%3A//about.att.com/sites/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228071624id_/http%3A//about.att.com/sites/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AT&T
 
@@ -21,7 +21,7 @@ Whenever you do something like buy one of our products, watch a show or download
 
 
   
-**Effective July 24, 2015**
+**Effective May 2, 2017**
 
 ## A Quick Summary of Our Privacy Policy
 
