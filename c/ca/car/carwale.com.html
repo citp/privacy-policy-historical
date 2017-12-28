@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carwale.com privacy policy that was archived on 2017-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627205509id_/https%3A//www.carwale.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carwale.com privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228012425id_/https%3A//www.carwale.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	
@@ -13,9 +13,10 @@
 
 <link rel="SHORTCUT ICON" href="https://imgd.aeplcdn.com/0x0/cw/design15/carwale.png?staticimgsfix">
 
-<link rel="stylesheet" href="https://stc.aeplcdn.com/staticminv1/css/cw-common-style-21c75c4e17.css" type="text/css">
-<link rel="stylesheet" href="https://stc.aeplcdn.com/staticminv1/cwfontawesome/cw-font-awesome-76f6b1c56f.css" type="text/css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W2Z3ZM"></script><script src="https://script.crazyegg.com/pages/scripts/0012/9477.js?438990" async="" type="text/javascript"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/frameworks-2913c6000a.js"></script>
+<link rel="stylesheet" href="https://stc.aeplcdn.com/staticminv1/css/cw-common-style-a0dba47fa5.css" type="text/css">
+<link rel="stylesheet" href="https://stc.aeplcdn.com/staticminv1/cwfontawesome/cw-font-awesome-d4282e61f2.css" type="text/css">
+<link rel="stylesheet" href="https://stc.aeplcdn.com/staticminv1/css/location-plugin-6253d34341.css" type="text/css">
+<script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W2Z3ZM"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://script.crazyegg.com/pages/scripts/0012/9477.js?438990" async="" type="text/javascript"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/frameworks-2913c6000a.js"></script>
 <!-- for IE to understand the new elements of HTML5 like header, footer, section and so on -->
 <!--[if lt IE 9]>
 	<script     src="https://stc.aeplcdn.com/staticminv1/js/html5-ea8eacfc1b.js"  ></script>
@@ -27,7 +28,7 @@
 	var FACEBOOKPIXELID = '679897508764882';
 	var CLIENTID = '66369593755-840k85iulo17fo63aj4aa94806j0hm9h.apps.googleusercontent.com';
 	var SCOPE = 'https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile';
-	var REDIRECT = 'https://www.carwale.com/loading/googleredirect.html'; 
+	var REDIRECT = 'https://www.carwale.com/loading/googleredirect.html';     
 </script>
 
 <script type="text/javascript">
@@ -67,9 +68,18 @@
 		a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
 	}, 1);
 </script>
-
+<script type="text/javascript">
+	googletag.cmd.push(function () {        
+		googletag.pubads().setTargeting('CarType', 'NA');
+		googletag.pubads().setTargeting('LeadCount', '0');
+		googletag.pubads().setTargeting('ModelsList', 'NA');
+		googletag.pubads().setTargeting('BodyStyleList', 'NA');
+		googletag.pubads().setTargeting('BudgetSegmentList', 'NA');
+		googletag.pubads().setTargeting('CarCount', '0');        
+	});
+</script>
 <style>
-	p { padding-top: 10px; text-align:justify; letter-spacing:0.6px; } 
+	#privacy-policy p { padding-top: 10px; text-align:justify; letter-spacing:0.6px; } 
 </style>
 </head>
 <body class="bg-white header-fixed-inner">
@@ -89,8 +99,8 @@
 				<span class="navbarTitle">Home</span>
 			</a>
 		</li>
-		<li>
-			<a href="javascript:;">
+		<li id="navNewCars">
+			<a href="javascript:;" class="newCarDropDown">
 				<span class="cwsprite newCars-icon"></span>
 				<span class="navbarTitle">New Cars</span>
 				<span class="nav-drop fa fa-angle-down"></span>
@@ -105,10 +115,11 @@
 					</a>
 				</li>
 				
-				<li><a href="/comparecars/">Compare Cars</a></li>
+				<!-- ko template: { name: 'navigationSliderAd' , foreach: SponsoredNavigation.koNewCarsModel.newCarsAds } --><!-- /ko -->                    
+					  <li><a href="/comparecars/">Compare Cars</a></li>
 				<li><a href="/new/prices.aspx">Check On-Road Price</a></li>
 				<li><a href="/recommend-cars/">Recommend Me A Car</a></li>
-				<li><a href="/new/locatenewcardealers.aspx">Locate Dealer</a></li>
+				<li><a href="/new/locatenewcardealers.aspx">Find Dealer</a></li>
 				<li><a href="/upcoming-cars/">Upcoming Cars</a></li>
 				<li><a href="/new-car-launches/">New Launches</a></li>
 				<li><a href="/offers/">Offers</a></li>
@@ -150,22 +161,17 @@
 				<li><a href="/images/">Images<span class="margin-left5 cwsprite new-red-tag-icon"></span></a></li>
 			</ul>
 		</li>  
-		<li>
-			<a href="javascript:;" rel="nofollow">
+		<li id="navSpecials">
+			<a href="javascript:;" rel="nofollow" class="specialCarDropDown">
 				<span class="cwsprite special-icon"></span>
 				<span class="navbarTitle">Specials</span>
-				<span class="ae-sprite ae-new-label-icon"></span>
 				<span class="nav-drop fa fa-angle-down"></span>
 			</a>
 			<ul class="nestedUL">
+				<li><a href="/tyres/" data-role="click-tracking" data-event="CWInteractive" data-action="Main-Menu-item-click" data-cat="TopMenuabtest" data-label="Tyres_Click">Car Tyres</a></li>
 				<li><a href="/electriccars/" data-role="click-tracking" data-event="CWInteractive" data-action="Main-Menu-item-click" data-cat="TopMenuabtest" data-label="Electric_Click">All About Electric</a></li>
 				<li><a href="/the-great-indian-hatchback-of-2016/" data-role="click-tracking" data-event="CWInteractive" data-action="Main-Menu-item-click" data-cat="TopMenuabtest" data-label="KwidResultLinkClick">Great Indian Hatchback</a></li>
-				<li>
-					<span class="block position-abt pos-top0 pos-right10 font11 light-grey-text">Sponsored</span>
-					<a href="/renault-cars/lodgy/" class="sponsored-ad-text" data-role="click-tracking" data-event="CWInteractive" data-action="Renault Lodgy_isSponsored" data-cat="TopMenuabtest" data-label="Renault Lodgy_isSponsored">
-						Renault Lodgy
-					</a>                        
-				</li>
+				<!-- ko template: { name: 'navigationSliderAd' , foreach: SponsoredNavigation.koSpecialsModel.specialsAds } --><!-- /ko -->
 			</ul>
 		</li>
 		<li class="navInsuranceLink" style="display:none">
@@ -175,9 +181,10 @@
 				</a>
 			</li>
 		<li>
-			<a href="/finance/hdfc/?utm=dnavigation" class="text-black block" data-role="click-tracking" data-event="CWInteractive" data-action="Link_clicked" data-cat="HDFC_navigation_desktop">
+			<a href="https://www.bankbazaar.com/car-loan.html?WT.mc_id=bb01|CL|form_page_oops&amp;utm_source=bb01&amp;utm_medium=display&amp;utm_campaign=bb01&amp;variant=slide&amp;variantOptions=mobileRequired" class="text-black block" data-role="click-tracking" data-event="CWInteractive" data-action="Link_clicked" data-cat="BBLink_navigation_desktop" rel="nofollow" target="_blank">
 				<span class="cwsprite nav-loan-icon opacity60"></span>
 				<span class="navbarTitle">Loans</span>
+				<span class="font9 ad-text-icon">Ad</span>
 			</a>
 		</li>
 		<li>
@@ -194,7 +201,7 @@
 		</li>
 	</ul>
 	<div class="margin-top40 margin-bottom40 margin-left20">
-		<a href="https://play.google.com/store/apps/details?id=com.carwale&amp;referrer=utm_source%3DCarWaleWebsite%26utm_medium%3DFooter%26utm_campaign%3DCarWale%2520Website%2520Footer" target="_blank" class="cwsprite gplay-icon margin-right10"></a>
+		<a href="https://play.google.com/store/apps/details?id=com.carwale&amp;referrer=utm_source%3DCarWaleDesktopWebsite%26utm_medium%3DFooter%26utm_campaign%3DCarWale%2520Website%2520Footer" target="_blank" class="cwsprite gplay-icon margin-right10"></a>
 		<a href="https://itunes.apple.com/in/app/carwale/id910137745?mt=8" target="_blank" class="cwsprite app-store-icon"></a>
 	</div>
 </nav>
@@ -202,17 +209,6 @@
 
  <div id="loc-widget" class="loc-widget position-rel">
 		<span id="closeLocIcon" class="cwsprite cross-md-dark-grey position-abt pos-top20 pos-right20 z-index1 font20 cur-pointer"></span>
-		<div id="loadEllipsis" class="loadEllipsis position-abt pos-left0 pos-right0 text-black font24 text-center hide">Identifying your location<span class="ellipsis"><span>.</span><span>.</span><span>.</span></span></div>
-		<div class="locationIpCity position-abt pos-left0 pos-right0 pos-top0 tran-ease-out-all opacity0 z-index-minus1" id="locationIpCity">
-			<div class="text-center padding-top40 padding-bottom30">
-				<p class="font24 text-black margin-bottom20">Are you from <strong><span id="ipCity">Mumbai</span>?</strong></p>
-				<p>
-					<a id="btnYes" href="javascript:void(0);" class="btn btn-xs btn-orange margin-right10">Yes</a>
-					<a id="btnNo" href="javascript:void(0);" class="btn btn-xs btn-white margin-left10">No</a>
-				</p>
-			</div>
-		</div>
-
 		<div id="locationProceed" class="position-abt pos-left0 pos-right0 pos-top0 tran-ease-out-all opacity0 z-index-minus1">
 			<div class="loc-figure text-center padding-top20 margin-bottom20">
 				<p id="loc-title" class="font24 text-black text-bold">Please Tell Us Your City</p>
@@ -406,7 +402,7 @@
 										<ul class="nested-panel-list">
 											<li><a href="/new/prices.aspx">Check On-Road Price</a></li>
 											<li><a href="/recommend-cars/">Recommend Me A Car</a></li>
-											<li><a href="/new/locatenewcardealers.aspx">Locate Dealer</a></li>
+											<li><a href="/new/locatenewcardealers.aspx">Find Dealer</a></li>
 										</ul>
 									</div>
 									<div class="nested-lt-column3 leftfloat">
@@ -415,26 +411,26 @@
 											
 										   <li><a href="/new-car-launches/">New Launches</a>
 											
-											</li><li><a href="/finance/hdfc/?utm=dnavigation" class="text-black block" data-role="click-tracking" data-event="CWInteractive" data-action="Link_clicked" data-cat="HDFC_navigation_desktop">Loans</a></li>
+											</li><li><a href="https://www.bankbazaar.com/car-loan.html?WT.mc_id=bb01|CL|form_page_oops&amp;utm_source=bb01&amp;utm_medium=display&amp;utm_campaign=bb01&amp;variant=slide&amp;variantOptions=mobileRequired" class="text-black block" data-role="click-tracking" data-event="CWInteractive" data-action="Link_clicked" data-cat="BBLink_navigation_desktop" rel="nofollow" target="_blank">Loans<span class="font10 position-abt text-grey">&nbsp;Ad</span></a></li>
 									</ul></div>
 									<div class="clear"></div>
 								</div>
 								<div class="grid-4 omega padding-left50 border-light-left">
-									<h3 class="font17 text-black line-height08">Quick Research</h3>
-									<div class="nc-nested-right-panel single-card"> 
-									  <!-- conditional single-card class -->
-									   <div class="nested-rt-column dynamic-label">
-											<a class="nested-panel-image-preview margin-bottom10" href="/renault-cars/duster/" data-label="Renault Duster">
-												<img src="https://imgd.aeplcdn.com/174x98/cw/ec/22446/Renault-Duster-Right-Front-Three-Quarter-68728.jpg?wm=0&amp;q=85" alt="Renault Duster" title="Renault Duster">
+									<div class="nc-nested-right-panel single-card" id="quickResearch" data-bind="template: { name: 'navigationAd' , foreach: newCarsAds }"></div>
+									<!-- conditional single-card class -->
+									<script type="text/html" id="navigationAd">
+										<div class="grid-6 sponsored-dummy-class">
+											<p class="text-bold margin-bottom5 font14 sponsored-nav"><span class="sponsored-text-title" data-bind="text: title + ' '"></span><span class="font9" data-bind="text: isSponsored ? 'Ad' : '', css: isSponsored ? 'ad-text-icon' : 'hide'"></span></p>
+											<a class="nested-panel-image-preview margin-bottom10 pos-relative" data-role="click-tracking" data-event="CWInteractive" data-cat="SponsoredNavigation_d" data-bind="attr:{href:linkUrl, title: title, 'data-label': title, 'data-action': sectionId == 1 ? 'NewCars' : 'Specials'}"> 
+												<img  data-bind="attr:{alt: title, title: title, 'data-original': hostUrl + '144x81' + originalImgPath + '?wm=1&q=85'}" src="https://imgd.aeplcdn.com/0x0/statics/grey.gif" class="nested-panel-image-preview lazy">     
 											</a>
-											<div class="nested-panel-image-details" style="width:143px;">
-												
-												<a href="/renault-cars/duster/" class="font15 text-black text-bold margin-bottom5 leftfloat" title="Renault Duster" data-label="Renault Duster ">Renault Duster</a><span class="ad-text-icon">Ad</span>
-												<a id="headerOnRoadLink" class="nested-rt-target-link margin-top15" href="/renault-cars/duster/" data-label="Renault Duster ">Explore Now</a>
+											<div class="clear"></div>
+											<div class="nested-panel-image-details margin-top5">
+												<a class="nested-rt-target-link margin-top5 font13" data-role="click-tracking" data-event="CWInteractive" data-cat="SponsoredNavigation_d" data-bind="attr:{href:linkUrl, title: title, 'data-label': title, 'data-action': sectionId == 1 ? 'NewCars' : 'Specials'}"><span data-bind="text:cta"></span></a>
 											</div>
 										</div>
-										<div class="clear"></div>
-									</div>
+									</script>
+									<div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
@@ -521,15 +517,15 @@
 											<li><a href="/news/">News</a></li>
 											<li><a href="/expert-reviews/">Expert Reviews</a></li>
 											<li><a href="/userreviews/">User Reviews</a></li>
-											<li><a href="/videos/">Videos</a></li>
+											<li><a href="/features/">Special Reports</a></li>
 										</ul>
 									</div>
 									<div class="nested-lt-column4 leftfloat">
 										<ul class="nested-panel-list">
-											<li><a href="/tipsadvice/">Tips and Advice</a></li>
-											<li><a href="/features/">Special Reports</a></li>
-											<li><a href="/forums/">Forums</a></li>
 											<li><a href="/images/">Images<span class="margin-left5 cwsprite new-red-tag-icon"></span></a></li>
+											<li><a href="/videos/">Videos</a></li>
+											<li><a href="/tipsadvice/">Tips and Advice</a></li>
+											<li><a href="/forums/">Forums</a></li>
 										</ul>
 									</div>
 									<div class="clear"></div>
@@ -566,48 +562,45 @@
 							<span class="fa fa-caret-down"></span>
 						</div>
 						<div class="top-nav-nested-panel">
-							<div class="container padding-top20 padding-bottom20 specials-nav-tabs">
-								<div class="grid-12 omega alpha">
-									<div class="nc-nested-right-panel single-card">
-										<!-- conditional single-card class -->
-										<div class="grid-4 alpha">
-											<p class="text-bold margin-bottom5 font14">All About Electric</p>
-											<a class="nested-panel-image-preview margin-bottom10" href="/electriccars/" data-role="click-tracking" data-event="CWInteractive" data-action="All About Electric" data-cat="CarwaleSpecials" data-label="All About Electric">
-												<img src="https://imgd1.aeplcdn.com/0x0/cw/es/e2o/e2oplus/e2oplus-car-nav-new.jpg" alt="e2oPlus" title="e2oPlus">
-											</a>
-											<div class="nested-panel-image-details margin-top5">
-												<a class="nested-rt-target-link margin-top5 font13" data-role="click-tracking" data-event="CWInteractive" data-action="Mahindra e2o" data-cat="CarwaleSpecials" data-label="Mahindra e2o" href="/electriccars/">Explore More</a>
+								<div class="container padding-top20 padding-bottom20">
+									<div class="grid-8 omega alpha">
+										<div class="nc-nested-right-panel single-card">
+											<!-- conditional single-card class -->
+											<div class="grid-4 alpha">
+												<p class="text-bold margin-bottom5 font14 sponsored-nav">Car Tyres</p>
+												<a title="Car Tyres" class="nested-panel-image-preview margin-bottom10" href="/tyres/" data-role="click-tracking" data-event="CWInteractive" data-action="Tyres" data-cat="CarwaleSpecials" data-label="Tyres">
+													<img data-original="https://imgd.aeplcdn.com/0x0/cw/es/tyres/tyres-nav.jpg" src="https://imgd.aeplcdn.com/0x0/statics/grey.gif" height="82" class="lazy" alt="Car Tyres">
+												</a>
+												<div class="nested-panel-image-details img-lg-text margin-top5">
+													<a class="nested-rt-target-link margin-top5 font13" data-role="click-tracking" data-event="CWInteractive" data-action="Tyres" data-cat="CarwaleSpecials" data-label="Tyres" href="/tyres/">Know More</a>
+												</div>
 											</div>
-										</div>
-										<div class="grid-4 alpha">
-											<p class="text-bold margin-bottom5 font14">Great Indian Hatchback</p>
-											<a class="nested-panel-image-preview margin-bottom10" href="/the-great-indian-hatchback-of-2016/" data-role="click-tracking" data-event="CWInteractive" data-action="Great Indian Hatchback" data-cat="CarwaleSpecials" data-label="Great Indian Hatchback">
-												<img src="https://imgd2.aeplcdn.com/0x0/cw/es/renault-kwid/result-imgs/compressed/kwid-car-nav-new.jpg" alt="Renault Kwid" title="Renault Kwid">
-											</a>
-											<div class="nested-panel-image-details margin-top5">
-												<a class="nested-rt-target-link margin-top5 font13" data-role="click-tracking" data-event="CWInteractive" data-action="Great Indian Hatchback" data-cat="CarwaleSpecials" data-label="Great Indian Hatchback" href="/the-great-indian-hatchback-of-2016/">Explore More</a>
+											<div class="grid-4 alpha">
+												<p class="text-bold margin-bottom5 font14 sponsored-nav">All About Electric</p>
+												<a title="e2oPlus" class="nested-panel-image-preview margin-bottom10" href="/electriccars/" data-role="click-tracking" data-event="CWInteractive" data-action="All About Electric" data-cat="CarwaleSpecials" data-label="All About Electric">
+													<img data-original="https://imgd1.aeplcdn.com/0x0/cw/es/e2o/e2oplus/e2oplus-car-nav-v2.jpg?q=85" src="https://imgd.aeplcdn.com/0x0/statics/grey.gif" height="82" class="lazy" alt="e2oPlus">
+												</a>
+												<div class="nested-panel-image-details margin-top5">
+													<a class="nested-rt-target-link margin-top5 font13" data-role="click-tracking" data-event="CWInteractive" data-action="Mahindra e2o" data-cat="CarwaleSpecials" data-label="Mahindra e2o" href="/electriccars/">Explore More</a>
+												</div>
 											</div>
-										</div>
-										<div class="grid-4 omega">
-											<div class="nc-nested-right-panel single-card custom-margin-top0">
-												<!-- conditional single-card class -->
-												<div>
-													<p class="text-bold margin-bottom5 font14">Renault Lodgy<span class="ad-text-icon font9">  Ad</span></p>
-													<a class="nested-panel-image-preview margin-bottom10" href="/renault-cars/lodgy/" style="position:relative;" data-role="click-tracking" data-event="CWInteractive" data-action="Renault Lodgy_Sponsored" data-cat="CarwaleSpecials" data-label="Renault Lodgy_Sponsored">
-														<img src="https://imgd.aeplcdn.com/272x153/cw/ec/10448/Renault-Lodgy-Right-Front-Three-Quarter-73220.jpg?wm=0" alt="Renault Lodgy" title="Renault Lodgy">
-													</a>
-													<div class="nested-panel-image-details margin-top5">
-														<a class="nested-rt-target-link margin-top5 font13" data-role="click-tracking" data-event="CWInteractive" data-action="Renault Lodgy" data-cat="CarwaleSpecials" data-label="Renault Lodgy" href="/renault-cars/lodgy/">Explore More</a>
-													</div>
+											<div class="grid-4 alpha">
+												<p class="text-bold margin-bottom5 font14 sponsored-nav">Great Indian Hatchback</p>
+												<a title="Renault Kwid" class="nested-panel-image-preview margin-bottom10" href="/the-great-indian-hatchback-of-2016/" data-role="click-tracking" data-event="CWInteractive" data-action="Great Indian Hatchback" data-cat="CarwaleSpecials" data-label="Great Indian Hatchback">
+													<img data-original="https://imgd2.aeplcdn.com/0x0/cw/es/renault-kwid/result-imgs/compressed/kwid-car-nav-new.jpg?q=85" src="https://imgd.aeplcdn.com/0x0/statics/grey.gif" height="82" class="lazy" alt="Renault Kwid">
+												</a>
+												<div class="nested-panel-image-details margin-top5">
+													<a class="nested-rt-target-link margin-top5 font13" data-role="click-tracking" data-event="CWInteractive" data-action="Great Indian Hatchback" data-cat="CarwaleSpecials" data-label="Great Indian Hatchback" href="/the-great-indian-hatchback-of-2016/">Explore More</a>
 												</div>
 											</div>
 										</div>
 									</div>
+									<div class="grid-4 omega padding-left20 border-light-left">
+										<div class="nc-nested-right-panel single-card" id="specialsAds" data-bind="template: { name: 'navigationAd' , foreach: specialsAds }"></div>
+									</div>
+									<div class="clear"></div>
 								</div>
-								
-								<div class="clear"></div>
 							</div>
-						</div>
 					</li>
 				</ul>
 				<div class="clear"></div>
@@ -675,7 +668,27 @@
 	var logoUrl = '/specials/tyreguide/';
 	$('#bridgestoneurl').attr('href', logoUrl);
 </script>
-
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "19261200" });
+  (function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	window.addEventListener("load", function () { setTimeout(function () { el.parentNode.insertBefore(s, el); }, 0) }, false);
+  })();
+</script>
+<script type="text/html" id="navigationSliderAd">
+	<li class="sponsoredLi">
+		<a data-bind="attr:{href: linkUrl, 'data-label': title, 'data-action': sectionId == 1 ? 'NewCars' : 'Specials'}" data-role="click-tracking" data-event="CWInteractive" data-cat="SponsoredNavigation_d">
+			<span data-bind="text: title + ' '"></span><span class="font9" data-bind="text: isSponsored ? 'Ad' : '', css: isSponsored ? 'ad-text-icon' : 'hide'"></span>
+		</a>
+	</li>
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=19261200&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
 		<section class="container">
 			
 			<div class="grid-12">
@@ -694,7 +707,7 @@
 		<section class="bg-light-grey padding-top20">
 			<div class="container">
 				<div class="grid-12">
-					<div class="content-box-shadow content-inner-block-10 margin-bottom20">
+					<div class="content-box-shadow content-inner-block-10 margin-bottom20" id="privacy-policy">
 
 						<h1 class="font30 text-black border-solid-bottom padding-bottom10">Privacy Policy</h1>
 						<p>
@@ -973,78 +986,29 @@
 		<div class="clear"></div>
 	
 		
-	   <footer class="bg-footer padding-top50 padding-bottom30 position-rel">
-	<!-- Footer section code starts here -->
-	<div class="container">
-		<div class="grid-12 text-center border-solid-bottom margin-bottom20 padding-bottom25">
-					<div class="grid-4">
-						<a href="/" class="cwsprite cw-logo"></a>
-						<p class="text-medium-grey font14 margin-top5 margin-left60">ask the experts</p>
-					</div>
-					<div class="grid-4">
-						<a href="https://www.cartrade.com" target="_blank" class="cwsprite ct-logo"></a>
-					</div>
-					<div class="grid-4">
-						<a href="https://www.bikewale.com/" target="_blank" class="cwsprite bw-logo"></a>
-					</div>
-				 </div>
+	   <footer class="bg-footer padding-top50 padding-bottom30 padding-left20 padding-right20"><div class=""><div class="grid-12 text-center border-solid-bottom margin-bottom20"><div class="grid-4 padding-bottom25"><a href="/" class="cwsprite cw-logo"></a><p class="text-medium-grey font14 margin-top5 margin-left60">ask the experts</p><div class="grid-6"><p class="text-white font14 margin-top15 margin-bottom10">Popular Makes</p><ul class="popular-links"><li><a href="/marutisuzuki-cars/" title="Maruti Suzuki Cars in India - Prices (GST Rates), Reviews, Photos &amp; More - CarWale">Maruti Suzuki</a></li><li><a href="/honda-cars/" title="Honda Cars in India - Prices (GST Rates), Reviews, Photos &amp; More - CarWale">Honda</a></li><li><a href="/hyundai-cars/" title="Hyundai Cars in India - Prices (GST Rates), Reviews, Photos &amp; More - CarWale">Hyundai</a></li><li><a href="/mahindra-cars/" title="Mahindar Cars in India - Prices (GST Rates), Reviews, Photos &amp; More - CarWale">Mahindra</a></li><li><a href="/tata-cars/" title="Tata Cars in India - Prices (GST Rates), Reviews, Photos &amp; More - CarWale">Tata</a></li></ul></div>
+				<div class="grid-6"><p class="text-white font14 margin-top15 margin-bottom10">Popular Models</p><ul class="popular-links">
+							<li><a href="/marutisuzuki-cars/baleno/" title="Baleno Price (GST Rates), Images, Mileage, Colours">Baleno</a></li>
+							<li><a href="/marutisuzuki-cars/dzire/" title="Dzire Price (GST Rates), Images, Mileage, Colours">Dzire</a></li>
+							<li><a href="/tata-cars/tiago/" title="Tiago Price (GST Rates), Images, Mileage, Colours">Tiago</a></li>
+							<li><a href="/marutisuzuki-cars/vitara-brezza/" title="Vitara Brezza Price (GST Rates), Images, Mileage, Colours">Vitara Brezza</a></li>
+							<li><a href="/marutisuzuki-cars/swift/" title="Swift Price (GST Rates), Images, Mileage, Colours">Swift</a></li>
+					</ul></div>
+			</div><div class="grid-4"><a href="https://www.cartrade.com" target="_blank" class="cwsprite ct-logo"></a></div><div class="grid-4"><a href="https://www.bikewale.com/" target="_blank" class="cwsprite bw-logo"></a><p class="text-white font14 margin-top15 margin-bottom10">Popular Bikes</p><ul><li><a href="https://www.bikewale.com/bajaj-bikes/pulsar/" title="Bajaj Pulsar 150 Price, Images, Colours, Mileage &amp; Reviews | BikeWale">Bajaj Pulsar 150</a></li><li><a href="https://www.bikewale.com/hero-bikes/pleasure/" title="Hero Pleasure Price, Images, Colours, Mileage &amp; Reviews | BikeWale">Pleasure</a></li><li><a href="https://www.bikewale.com/yamaha-bikes/fascino/" title="Yamaha Fascino Price, Images, Colours, Mileage &amp; Reviews | BikeWale">Fascino</a></li></ul></div></div><div class="clear"></div><div class="grid-12"><div class="grid-4"><p class="font18 text-white margin-top50 margin-bottom10">Join us on</p><div class="footer-social-icons"><a href="https://facebook.com/carwale" target="_blank" title="Facebook" class="margin-right15"><span class="fa fa-facebook"></span></a><a href="https://twitter.com/carwale" target="_blank" title="Twitter" class="margin-right15"><span class="fa fa-twitter"></span></a><a href="https://www.google.com/+CarWale" target="_blank" title="Google+"><span class="fa fa-google-plus"></span></a></div></div><div class="grid-2"><p class="font18 text-white margin-bottom20">Company</p><ul><li><a href="/aboutus.aspx">About Us</a></li><li><a href="/career.aspx">Careers</a></li><li><a href="/advertiseWithUs.aspx">Advertise with us</a></li><li><a href="/forums/">Forums</a></li><li><a href="/sitemap.aspx">Sitemap</a></li></ul></div><div class="grid-3"><p class="font18 text-white margin-bottom20">Support</p><ul><li><a href="mailto:contact@carwale.com">contact@carwale.com</a></li></ul></div><div class="grid-3"><p class="font18 text-white margin-bottom30">Download Mobile App</p><div class="margin-bottom15"><a href="https://play.google.com/store/apps/details?id=com.carwale&amp;referrer=utm_source%3DCarWaleDesktopWebsite%26utm_medium%3DFooter%26utm_campaign%3DCarWale%2520Website%2520Footer" target="_blank" class="cwsprite gplay-icon"></a></div><div><a href="https://itunes.apple.com/in/app/carwale/id910137745?mt=8" target="_blank" class="cwsprite app-store-icon"></a></div></div></div><div class="clear"></div><div class="border-solid-top text-white margin-top25 padding-top25"><div class="grid-6 alpha font16">© CarWale India</div><div class="grid-6 omega text-right font13"><a href="/visitoragreement.aspx" class="text-white">Visitor Agreement </a>&amp;
+				<a href="/privacypolicy.aspx" class="text-white">Privacy Policy</a></div></div><div class="clear"></div></div></footer>
 
-				<div class="clear"></div>
+<!-- Ask Expert Section Start -->
 
-				<div class="grid-12">
-					<div class="grid-4">
-					   <p class="font18 text-white margin-top50 margin-bottom10">Join us on</p>
-						<div class="footer-social-icons">
-							<a href="https://facebook.com/carwale" target="_blank" title="Facebook" class="margin-right15">
-								<span class="fa fa-facebook"></span>
-							</a>
-							<a href="https://twitter.com/carwale" target="_blank" title="Twitter" class="margin-right15">
-								<span class="fa fa-twitter"></span>
-							</a>
-							<a href="https://www.google.com/+CarWale" target="_blank" title="Google+">
-								<span class="fa fa-google-plus"></span>
-							</a>
-						</div>
-					</div>
-					<div class="grid-2">
-						<p class="font18 text-white margin-bottom20">Company</p>
-						<ul>
-							<li><a href="/aboutus.aspx">About Us</a></li>
-							<li><a href="/career.aspx">Careers</a></li>
-							<li><a href="/advertiseWithUs.aspx">Advertise with us</a></li>
-							<li><a href="/forums/">Forums</a></li>
-							<li><a href="/sitemap.aspx">Sitemap</a></li>
-						</ul>
-					</div>
-					<div class="grid-3">
-						<p class="font18 text-white margin-bottom20">Support</p>
-						<ul>
-							<!--<li><a href="#">Feedback</a></li>-->
-							<li><a href="mailto:contact@carwale.com">contact@carwale.com</a></li>
-						</ul>
-					</div>
-					<div class="grid-3">
-						<p class="font18 text-white margin-bottom30">Download Mobile App</p>
-						<div class="margin-bottom15"><a href="https://play.google.com/store/apps/details?id=com.carwale&amp;referrer=utm_source%3DCarWaleWebsite%26utm_medium%3DFooter%26utm_campaign%3DCarWale%2520Website%2520Footer" target="_blank" class="cwsprite gplay-icon"></a></div>
-						<div><a href="https://itunes.apple.com/in/app/carwale/id910137745?mt=8" target="_blank" class="cwsprite app-store-icon"></a></div>
-						<ul class="margin-top15">
-							<li>
-								<a href="https://www.carwale.com/m/">View CarWale on Mobile</a>
-							</li>
-						</ul>
-					</div>
-				</div>
-				
-				<div class="clear"></div>
-		<div class="border-solid-top text-white margin-top25 padding-top25">
-			<div class="grid-6 alpha font16">© CarWale India</div>
-			<div class="grid-6 omega text-right font13">
-				<a href="/visitoragreement.aspx" class="text-white">Visitor Agreement </a>&amp;
-				<a href="/privacypolicy.aspx" class="text-white">Privacy Policy</a>
-			</div>
-		</div>
-		<div class="clear"></div>
-		<!-- Advantage City PopUp starts here -->
+<div id="askexpertsidebanner" class="ask-expert text-white text-center padding-bottom5 padding-top5 padding-left10 padding-right15 rounded-corner-no-right box-shadow cur-pointer">
+	<span class="cwsprite cross-sm-white position-abt pos-right5 pos-top10 expert-close-btn"></span>
+	<div class="ask-expert-content inline-block">
+		<span class="ask-expert-title font14 block">Ask the experts</span>
+		<span class="toll-free-no block font18">1800 2090 230</span>
+		<span id="ATEConditional" class="toll-free-text font10 block">Mon-Fri &amp; Sun (10 AM - 7 PM) <br> Sat (10 AM - 5:30 PM)</span>
+		<span class="toll-free-text font12 block">Toll free</span>
+	</div>
+</div>
+ <!-- Advantage City PopUp starts here -->
 	<div class="deals-city-popup advantage-city-popup rounded-corner2 hide">
 		<!-- global city pop up code starts here -->
 		<div class="globalcity-popup-data text-center">
@@ -1062,31 +1026,18 @@
 		</div>
 		<div class="clear"></div>
 	</div>
-	<!-- Advantage City PopUp ends here -->
-	</div>
-
-
-</footer>
-
-<!-- Ask Expert Section Start -->
-
-<div id="askexpertsidebanner" class="ask-expert text-white text-center padding-bottom5 padding-top5 padding-left10 padding-right15 rounded-corner-no-right box-shadow cur-pointer">
-	<span class="cwsprite cross-sm-white position-abt pos-right5 pos-top10 expert-close-btn"></span>
-	<div class="ask-expert-content inline-block">
-		<span class="ask-expert-title font14 block">Ask the experts</span>
-		<span class="toll-free-no block font18">1800 2090 230</span>
-		<span id="ATEConditional" class="toll-free-text font10 block">(8 AM - 9 PM)</span>
-		<span class="toll-free-text font12 block">Toll free</span>
-	</div>
-</div>
+   <!-- Advantage City PopUp ends here -->
 
 
 
 <!-- Ask Expert Section End -->
+
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js"></script>
+
 <!-- Ends here -->
 
 <script type="text/javascript">
-	var isNewSession = 'False' == 'True';
 	var cwTrackingPath = 'www.carwale.com';
 	var insuranceKeys = {
 		cholaStates: [-1]
@@ -1096,17 +1047,21 @@
 	var abTestKey = "1";
 	var abTestKeyMaxValue = "100";
 	var abTestKeyMinValue = "1";
-	var askingAreaCityId = [1,2,10];
+	var askingAreaCityId = [1,2,10,12];
 </script>
-<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/plugins-c2e1151cb5.js"></script>
+<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/plugins-166baa000e.js"></script>
 <script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/src/graybox-a39cfd2589.js"></script>
 <script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/adsense-e1e8ac6247.js"></script>
-<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/v2/app/clientcache-75551d46d1.js"></script>
-<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/globalsearch-f2ba6cbae1.js"></script>
-<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/common-f99771fba5.js"></script>
-<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/cookie-migration-8f89635d87.js"></script>
-<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/newcar-common-fc3e6e7500.js"></script>
-<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/v2/app/cwtracking-cb967b132e.js"></script>
+<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/v2/app/clientcache-9494170b73.js"></script>
+<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/globalsearch-dcb763a5b8.js"></script>
+<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/sponsorednavigation-01e2ea26e0.js"></script>
+<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/common-f101c6aa57.js"></script>
+<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/lead-conversion-tracking-a981c3accd.js"></script>
+<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/cookie-migration-d7965c94d1.js"></script>
+<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/newcar-common-5c145916da.js"></script>
+<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/v2/app/cwtracking-38b85dca68.js"></script>
+<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/location-plugin-3250fd8d89.js"></script>
+<script type="text/javascript" src="https://stc.aeplcdn.com/staticminv1/js/pricebreakup-d3fbbf95a8.js"></script>
 <script type="text/javascript">
 	cwTracking.hostPath = 'www.carwale.com';
 </script>
@@ -1146,6 +1101,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 })(window, document, 'script', 'dataLayer', 'GTM-W2Z3ZM');</script>
 <!-- End Google Tag Manager -->
 
+<script data-obct="" type="text/javascript">
+	/ DO NOT MODIFY THIS CODE/
+	! function(_window, _document) {
+		var OB_ADV_ID = '000f19b964704c0545015e2868f10ada02';
+		if (_window.obApi) {
+			return;
+		}
+		var api = _window.obApi = function() {
+			api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);
+		};
+		api.version = '1.0';
+		api.loaded = true;
+		api.marketerId = OB_ADV_ID;
+		api.queue = [];
+		var tag = _document.createElement('script');
+		tag.async = true;
+		tag.src = '//amplify.outbrain.com/cp/obtp.js';
+		tag.type = 'text/javascript';
+		var script = _document.getElementsByTagName('script')[0];
+		window.addEventListener("load", function () {
+			setTimeout(function () {
+				script.parentNode.insertBefore(tag, script);
+			}, 0)
+		}, false);
+	}(window, document);
+	obApi('track', 'PAGE_VIEW');
+</script> 
 
 	
 
