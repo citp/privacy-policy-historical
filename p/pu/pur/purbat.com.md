@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purbat.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629082716id_/http%3A//purbat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purbat.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228034014id_/http%3A//www.purbat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -147,5 +147,3 @@ www.purbat.com
 admin@purbat.com
 
 Last Edited on 2016-09-01
-
-ModifiedThursday, September 1, 2016
