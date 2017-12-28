@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624055135id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228040929id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Tmart: Thousands of Products, Manufacturer Price, Free Shipping Worldwide
 
@@ -41,8 +41,7 @@ If you no longer wish to receive the promotional communications from Tmart.com, 
 
 **Company Info**
 
-Address: Tmart Limited, Flat/RM 1502, Easey Commercial Building, 253-261 Hennessy Road, WanChai, HK
-
-Company Registration Number: 52276817-000-05-16-9   TEL: +852 8197 7220
-
-Email Address: service@tmart.com
+Address: Tmart Limited, Flat/RM 1502, Easey Commercial Building, 253-261 Hennessy Road, WanChai, HK  
+Company Registration Number: 52276817-000-05-16-9     
+TEL: +852 8197 7220  
+Email Address: service@tmart.com 
