@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dodlive.mil privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225094536id_/http%3A//www.dodlive.mil/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodlive.mil privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228093147id_/http%3A//www.dodlive.mil/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DoDLive
 
@@ -38,7 +38,7 @@ Third-party websites and applications that are not owned, operated, or controlle
 
 Below is a list of WordPress plugins currently used on this site with a single-session cookie (Tier 1) stored temporarily on a user’s computer and deleted as soon as the browser is closed. Use of these cookies does not involve the collection of a visitor’s personally identifiable information (PII):
 
-    * Breadcrumb NavXT
+  *     * Breadcrumb NavXT
     * Disqus Comment System
     * Facebook Share
     * Flickr Gallery
