@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakestudent.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629145802id_/http%3A//about.wfu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakestudent.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228155832id_/http%3A//about.wfu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | About Wake Forest | Wake Forest University
 
@@ -39,6 +39,8 @@ Non-personal information collected by us is shared with companies we partner wit
 
 
 By using the wfu.edu website and associated sites, you are consenting to the processing of the data about your visit by these companies in the manner and for the purposes that we describe.
+
+In addition, the Wake Forest School of Law has implemented Google Analytics Demographics and Interest Reporting on their website ([http://law.wfu.edu](http://law.wfu.edu/)) that collects data through Google advertising cookies and identifiers, in addition to data collected through a standard Google Analytics implementation. No personal information will be collected at any time. If you visit [http://law.wfu.edu](http://law.wfu.edu/) and wish to opt out of this, please [refer to these instructions](https://tools.google.com/dlpage/gaoptout/) on how to do that.
 
 ### Cookies
 
