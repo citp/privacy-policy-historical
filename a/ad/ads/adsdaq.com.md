@@ -1,162 +1,202 @@
-> *The following text is extracted and transformed from the adsdaq.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624191855id_/http%3A//www.nasdaq.com/sitespecific/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsdaq.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228154925id_/http%3A//www.nasdaq.com/sitespecific/privacy.aspx) for the most accurate reproduction.*
 
 # NASDAQ, Inc. Privacy Statement
 
-### Registration
+#### Effective Date: October 19, 2017
 
-For some of the NASDAQ, Inc. Web sites, you must first complete the registration form and/or create a user name and password. During registration you may be required to give contact information (such as name and email address). We only use this information to contact you about the services on our site in which you have expressed interest. 
+This Privacy Policy describes how NASDAQ, Inc. and its subsidiaries and affiliates (collectively, “NASDAQ,” “we,” “our” or “us”) collects, uses and discloses information about visitors and users (collectively, “users”) of our websites, online features, products and services that link to this Privacy Policy (each a “Site” or collectively, “our Sites”). You can identify the NASDAQ company that hosts a particular Site through the Site’s footer or “About” link. By visiting or using our Sites, you are consenting to us collecting and processing information about you in accordance with this Privacy Policy. 
 
-NASDAQ, Inc. is the sole owner of the information collected on all NASDAQ, Inc. websites. NASDAQ, Inc. may collect personally identifiable information from our users at several different points on our Web site. 
+## Brief Overview
 
-### Orders
+  |     
+---|---  
+**Information We Collect From You** |  We may collect Personal Information and Device Information (defined below) (collectively, “information”) about you in connection with your registration, use, purchase, or inquiries on or about our Sites that link to this Privacy Policy. Click here to learn more.   
+**How We Use Your Information** |  We may use your information to provide services, respond to inquiries, communicate with you, process transactions, improve, develop, provide content for, operate, deliver and market our Sites, implement social networking features, comply with our company policies and procedures and with applicable law, and as otherwise permitted by applicable law. Click here to learn more.   
+**How We Share Your Information** |  We may share your information with our business units, affiliates, subsidiaries, business partners, customers, and service providers, and as otherwise permitted by law. We do not sell or share information with third parties so that they can independently market their own products or services to you, unless we have explicitly given you the option to opt-in such disclosures. Click here to learn more.   
+**Cookies and Similar Technologies** |  We may use cookies and similar technologies to help provide our Sites, offer you a more personalized user experience and market products and services to you. Click here to learn more.   
+**Choice** |  You can opt out of receiving marketing communications from us. Click here to learn more.   
+**Access and Correction of Your Information** |  We provide you with the opportunity to be informed of whether we are processing your information and to access, correct, update, oppose, delete, block, limit or object, upon request and free of charge, to our use of your information to the extent required by applicable law. Click here to learn more.   
+**Security of Your Information** |  We maintain commercially-reasonable technical, administrative and physical security measures to protect your information. Click here to learn more.   
+**International Transfers** |  We may transfer your information outside of your home country. To protect such information, any such international transfers will be made in accordance with applicable law. Click here to learn more.   
+**Tell-A-Friend** |  If you choose to use our referral service to tell a friend about one of our Sites, we will ask you for your friend’s name and email address for us to send your friend a one-time email to invite him/her to access the specific Site. Click here to learn more.   
+**Links to Other Websites** |  Our Sites may contain links to other websites or services that are not owned or controlled by NASDAQ, including links to websites of our advertisers, sponsors and partners. Click here to learn more.   
+**Changes to this Privacy Policy** |  You will be notified about any material changes to this Privacy Policy via a posting on our Sites, and as otherwise required by applicable law. Click here to learn more.   
+**Contact Us** |  If you have questions about this Privacy Policy, please contact us. Click here to learn more.   
+  
+  
 
-If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and billing address) and in some cases provide financial information (such as credit card number, expiration date). 
 
-We only use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
+## Information We Collect From You
 
-### Uses of Information
+By visiting or using our Sites, we may collect the following categories of personal information (“Personal Information”) you provide to us:
 
-NASDAQ, Inc. uses the personally identifiable information you provide us to communicate with you in response to your inquiries, to provide the services you request, and to manage your account. Any personally identifiable information gathered by NASDAQ, Inc. will be used for internal these purposes only. We will not disclose or divulge such data outside of NASDAQ, Inc., other than to third party providers that assist us in providing the services. NASDAQ, Inc. does not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes. 
+  * Name;
+  * Email address;
+  * Social media username;
+  * Telephone number;
+  * Mailing address;
+  * Company;
+  * Title;
+  * Business contact information;
+  * Photograph;
+  * Payment information (e.g., credit card number);
+  * Username and password; and
+  * Any other Personal Information you volunteer on or provide access to via any or our Sites and/or any NASDAQ community forum, social media offering or blog.
 
-### Special Offers and Updates
 
-We may occasionally send you information on NASDAQ, Inc. products or services.
 
-Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out." 
+We may also automatically collect the following categories of information from devices (e.g., mobile, computer, laptop, tablet) used to visit or use our Sites (“Device Information”):
 
-### Newsletters
+  * IP address;
+  * Device identifier;
+  * Log files;
+  * Cookies;
+  * Clear gifs;
+  * Flash LSOs; and
+  * Other information as described in our Cookies Policy (Click here to view our Cookies Policy).
 
-NASDAQ, Inc. uses a 3rd party to create and distribute various news letters via e-mail. The third party will collect your name and e-mail address when you click through to their site and sign up for the newsletter. Please review their privacy policy to determine how your information will be used. 
 
-### Tell-A-Friend
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. 
+Personal Information and Device Information collectively referred to as “information.”
 
-NASDAQ, Inc. stores this information for the sole purpose of sending this one-time email and tracking the usage of this feature. NASDAQ, Inc. must store this information to fulfill its legal obligations. 
+We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies.
 
-### Service-Related Announcements
+## How We Use Your Information
 
-We will send you service-related announcements when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance or there is price change, we will send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. Please see “Choice and Opt-out." 
+We may use the information we collect from you to:
 
-### Customer Service
+  * Provide you with the services and products offered on our Sites;
+  * Respond to or follow-up on your comments, inquiries or other requests;
+  * Communicate with you about your account or use of our Sites;
+  * Process transactions on our Sites;
+  * Develop, provide content for, operate, deliver, and market our Sites;
+  * Improve the quality of our Sites and tailor them to your preferences;
+  * Implement social networking features you have activated (e.g., Facebook “Like” button and LinkedIn integration); and
+  * Communicate with you about special offers and other marketing communications.
 
-Based upon the personally identifiable information you provide us, we may send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. 
 
-### Profile
 
-We store information that we collect through cookies, log files, clear gifs, to create a “profile" of your email and portfolio preferences within the site, enrollment form or account settings. We will link your personally identifiable information to your web site actions, to information in the profile, in order to provide a more accurate understanding of the web sites usage. 
+We also use your information for compliance with our company policies and procedures, for accounting and financial purposes, and otherwise as required or permitted by law. If you do not provide us with information as described above, we may not be able to fulfill the applicable purpose of collection, such as to respond to your queries or provide our Sites to you.
 
-### Windows Live
+## How We Share Your Information
 
-NASDAQ, Inc. is a Microsoft Windows Live ID participant but does not have access to the information you provide to Microsoft. For more information about Microsoft’s privacy practices please review the Microsoft privacy policy at <http://privacy.microsoft.com/en-us/default.aspx>. 
+From time to time, we may share your information with our affiliates, subsidiaries, business partners, customers (subject to any confidentiality restrictions on providing one customer’s information to another), third party service providers and authorities in the following circumstances:
 
-### Aggregate Information (non-personally identifiable)
+  * _NASDAQ Business Units, Affiliates, Subsidiaries, Business Partners and Customers._ We may share your information with our business units, affiliates, subsidiaries, business partners, and customers in the US and worldwide for purposes identified above. A list of Nasdaq’s offices by country is posted at: <http://business.nasdaq.com/discover/contact-us/index.html>. By visiting or using our Sites or otherwise providing us with your information, you consent to this sharing of your information. To opt-out of such sharing, please contact us via email at [privacy@nasdaq.com](mailto:privacy@nasdaq.com) or at the location in the Contact Us section below.
+  * _Service Providers._ We may share your information with third parties who perform functions on our behalf (e.g., hosting or operating our Sites, processing credit card payments, sending email marketing communications, processing job applications, or data analysis). We do not authorize these third parties to use your information for purposes other than for which it has been provided, and do not authorize these third parties to disclose that information to unauthorized parties. We require these third parties to maintain appropriate security to protect your information from unauthorized access or processing.
+  * _As Required or Appropriate by Law._ We may disclose your information to regulatory authorities, courts, and government agencies where we believe that doing so would be in accordance with or permitted or required by any applicable law, regulation or legal process, to defend the interests, rights, and/or property of NASDAQ or others, or to respond to emergencies.
+  * _Business Transfers._ We may transfer your information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, brands, affiliates, subsidiaries or other assets.
 
-NASDAQ, Inc. does not share aggregated demographic information with our partners and advertisers, in ways that directly identify you. 
 
-### Agents and Service Providers
 
-NASDAQ, Inc. uses outside companies to process credit card purchases. These companies do not retain, share, store or use your personal information for any other purpose. If you sign up for a NASDAQ, Inc. service provided by a third party under contract with us, we will share your name and the minimum information necessary for the third party to provide these services. NASDAQ.com additionally will display aggregated portfolio information on NASDAQ.com, at no time will we share or display individual portfolio information. 
+We may share your information with other parties as directed by you or subject to your consent. We may also share and otherwise process aggregated information or de-identified information that does not identify you individually with other parties. For example, from time to time, we may utilize survey information collected from you on an aggregate, not individually identifiable, basis.
 
-### Legal Disclaimer
+We do not share, sell, rent or trade your information to our service providers or business partners for their own direct marketing purposes, unless we have explicitly given you the option to opt-in or opt-out of such disclosures.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site 
+## Cookies And Similar Technologies
 
-### Choice/Opt-Out
+When you use our Sites, we along with our affiliates, subsidiaries and third party service providers may use “cookies” and similar technologies (e.g., log files, clear gifs, and Flash LSOs) (collectively, “technology”). This technology involves placing small files/code on your device or browser that serve a number of purposes, such as remembering your preferences (e.g., language) and generally improving your experience on our Sites. Specifically, we may use such technology for purposes such as to:
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by emailing us at the appropriate contact associated with each web site found in the contact section of this privacy statement below. 
+  * Provide us with general analytics about our Sites, including demographic information in a non-identifiable form, in order to improve our Sites’ performance and customize users’ experience;
+  * Support security measures, such as requiring re-login into your account;
+  * Allow you to engage in our social media offerings on our Sites (e.g., Facebook “Like” button and LinkedIn integration); and
+  * More effectively market our Sites and advertise other Sites that may be of interest to you.
 
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
 
-### Log Files
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+To learn more about the technology used on our Sites and how to disable some of the technology, visit our more comprehensive Cookie Statement. Where required by law, we collect your consent for the use of such technologies.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+## Choice
 
-We do link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to help identify individual web site usage. 
+If you no longer wish to receive marketing communications from one of our Sites, you may opt-out of receiving marketing-related emails by: (1) using the unsubscribe method provided in our communications; (2) if you created an online account when you registered to receive our emails, you may log-in to your account on the applicable Site and make changes to your communication preferences; or (3) you can opt out by updating your preferences in the Email Alert section of our Sites. If you are having difficulty unsubscribing from our email marketing communications using the above methods, please contact us as detailed under the “Contact Us” heading below.
 
-### Cookies
+We will try to comply with your request as soon as reasonably practicable as required by applicable law. Please note that we may need to retain certain information for recordkeeping purposes, to complete any transactions that you began prior to your request, or for other purposes as required or permitted by applicable law. In addition, please note that even if you opt-out of receiving marketing communications from one or all of our Sites, we may need to send you service-related communications and may need to keep information we have collected about you for record-keeping, research and other purposes.
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. NASDAQ, Inc. uses cookies on some of our websites. 
+## Access And Correction Of Your Information
 
-We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help" file. 
+If you no longer wish to receive marketing communications from one of our Sites, you may opt-out of receiving marketing-related emails by: (1) using the unsubscribe method provided in our communications; (2) if you created an online account when you registered to receive our emails, you may log-in to your account on the applicable Site and make changes to your communication preferences; or (3) you can opt out by updating your preferences in the Email Alert section of our Sites. If you are having difficulty unsubscribing from our email marketing communications using the above methods, please contact us as detailed under the “Contact Us” heading below.
 
-Some cookies contain the email address, site logon or first name provided by you when completing an email profile for that site. This information is used to populate an email address box, logon box or display your first name when you logon on the site, respectively. Where appropriate some sites generate disclaimer/notice cookies to confirm that you have read and agreed to its terms of use. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+## Security Of Your Information
 
-This privacy statement covers the use of cookies by all NASDAQ, Inc. web sites and does not cover the use of cookies by any advertisers. [See the “Third Party advertising” section.] 
+We take reasonable technical, administrative and physical security measures to protect your information, including applying generally accepted industry standards to protect the information submitted to us during transmission and once we receive it. When we request sensitive information (e.g., credit card number) from you, we encrypt that information using secure socket layer technology (“SSL”). However, no method of transmission over the Internet, or method of electronic storage is 100% secure, so we unfortunately cannot guarantee absolute security. If you have reason to believe that your interaction with us is no longer secure (e.g., if you feel that the security of any account you might have with us has been compromised), please contact us immediately as detailed under the “Contact Us” heading below.
 
-### Flash LSOs
+## International Transfers
 
-Some third parties use Flash LSOs also known as Flash cookies, on our sites to display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. 
+Some of the parties with which we may share your information, as detailed in “How We Share Your Information”, may be located in countries that do not provide an equivalent level of protection as your home country. Where required, NASDAQ has implemented appropriate cross-border transfer solutions to provide adequate protection for transfers of certain personal information, including, but not limited to, the European Commission’s Standard Contractual Clauses (http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm). By using our Sites, and providing us information about you, you consent to the international transfer of information about you to the above parties.
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:   
-[ http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118 ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+## Tell-a-friend
 
-### Clear Gifs (Web Beacons/Web Bugs/ Embedded Pixels)
+If you choose to use our referral service to tell a friend about one our Sites, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email to invite him/her to access the specific Site, and store his/her email address for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us as detailed under the “Contact Us” heading below to request we remove this information from our database.
 
-In an effort to provide users with the most relevant Web site content, we may also use embedded pixel technologies to help track site usage, these technologies are used on selected pages for the purposes of identifying unique user visits as opposed to aggregate hits. The site usage information collected by these technologies is associated with cookies and may provide data about site use by registered users of NASDAQ, Inc. Web sites. This information is used to evaluate site content, navigability and composition as well as page response rates. Any data linking the information gathered by clear gifs to a user's personally identifiable information is used for internal tracking purposes only. We will not disclose or divulge such data linkages outside of NASDAQ, Inc.. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. To learn more about our advertising company’s use of clear gifs, please go to <http://www.omniture.com/>
+## Links To Other Websites
 
-### Third Parties
+Our Sites may contain links to other websites or services that are not owned or controlled by NASDAQ, including links to websites of our advertisers, sponsors and partners. This Privacy Policy only applies to information collected by our Sites. We have no control over these third party websites, and your use of third party websites and features are subject to privacy policies posted on those websites. We are not responsible or liable for the privacy or business practices of any third party websites linked to our Sites. Your use of third parties’ websites linked to our Sites is at your own risk, so we encourage you to read the privacy policies of any linked third party websites when you leave one of our Sites.
 
-NASDAQ, Inc. uses an outside company (CyberSource Corporation) to process credit card purchases. This company does not retain, share, store or use your personal information for any other purpose. To learn more about how CyberSource utilizes personal information, please refer to their privacy statement at <http://www.cybersource.com/privacy.xml>. 
+## Changes To This Privacy Policy
 
-### Third Party Advertising
+Except to the extent limited by applicable law, we reserve the right to update this Privacy Policy to reflect changes to our information practices by prominently posting notice of the update on our Sites. Unless otherwise noted, any updates will become effective 30 days after posting the updates to the Privacy Policy, and apply to all information collected about you. If we make any changes to this Privacy Policy that materially impact previously collected information about you, we will, to the extent that we have your email address, notify you by email.
 
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. The privacy statements can be accessed from www.doubleclick.com and <http://www.tribalfusion.com/TribalFusion/privacy.html>
+## Contact Us
 
-We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+If you have any questions about this Privacy Policy or information we have collected about you, please contact us by email at [privacy@nasdaq.com](mailto:privacy@nasdaq.com) or by postal mail at:
 
-### Links to Other Sites
+Office of General Counsel - Privacy Team  
+Nasdaq, Inc.  
+805 King Farm Blvd  
+first Floor  
+Rockville, MD 20850 
 
-This Web site contains links to other sites that are not owned or controlled by NASDAQ, Inc.. NASDAQ, Inc. is not responsible for the privacy practices of non-NASDAQ, Inc. web sites linked to a NASDAQ, Inc. site. We encourage you to read the privacy statements of other linked web sites when you leave our Web site. This privacy statement applies only to information collected by this Web site. 
+  
 
-### InfoSpace Search
 
-NASDAQ, Inc. has partnered with InfoSpace, which operates a network of Web search and online directory properties to find products, services, businesses, people and information. The InfoSpace Privacy Policy will be in effect once you leave NASDAQ.com and can be found at <http://www.infospaceinc.com/about/legal_privacy.php>
+#### Effective Date: October 19, 2017
 
-### Access to Personally Identifiable Information
+This Cookie Statement describes how NASDAQ, Inc. and its subsidiaries and affiliates (collectively, “NASDAQ,” “we,” “our,” or “us”) along with third party service providers may use “cookies” and similar technology (collectively, “technology”) on our websites, online features, products and services that link to this Cookie Statement (each a “Site” or collectively, “our Sites”). This technology involves placing small files/code on your device or browser for the purposes identified in our Privacy Policy. By visiting or using our Sites, you are consenting to us gathering and processing information (as defined in our Privacy Policy) about you in accordance with this Cookie Statement. 
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update or deactivate it by contacting us at the contact information listed below. 
+## Cookies
 
-### Security
+A cookie is a small text file saved on your device or browser. Some of these cookies are necessary for the functioning of our Sites (known as “strictly necessary” cookies), while others are not (known as “non-essential” cookies). Some cookies (known as “persistent cookies”) will remain on your device until you delete them, while others (known as “session cookies”) are automatically erased when you exit your Internet browser. We do not link the information we store in cookies to your information.
 
-NASDAQ, Inc. takes reasonable precautions to protect your personal information. The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+You can set your device or browser to accept or reject most cookies, or to notify you in most situations that a cookie is offered so that you can decide whether to accept it. However, if you block cookies, certain features on our Sites may not function. Additionally, even if you block or delete Cookies, not all tracking will necessarily stop.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+We may place or recognize technology on your browser or device when you visit our Sites for purposes of serving you targeted advertising (also referred to as “online behavioral advertising”). We also work with third party advertising companies who place their own cookies or similar technology on your browser or device when you visit our Sites and other websites to serve customized advertisements to you as you browse the Internet. As noted above, you can set your device or browser to accept or reject most cookies, or at least notify you in most situations that the technology is offered. As an additional step, these advertising companies may participate in one of the following advertising industry self-regulatory programs for online behavioral advertising, with corresponding user opt-outs:
 
-### Changes in this Privacy Statement
+  * Networking Advertising Initiative (<http://www.networkadvertising.org/choices/>) **(US Only)**
+  * Digital Advertising Alliance (<http://www.aboutads.info/choices/>) **(US Only)**
+  * European Interactive Digital Advertising Alliance (<http://www.youronlinechoices.eu/>) **(EU Only)**
+  * Digital Advertising Alliance - Canada (<http://youradchoices.ca/choices>) **(Canada Only)**
+  * DAA App Choices Mobile App **(Mobile Devices Only)** \- For mobile devices (e.g., smartphone, tablets), you may consider downloading the DAA AppChoices Mobile App to manage such technology. 
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please refer to the appropriate contact for each web site: 
+Please note that even if you reject such technology, you may continue to receive advertisements, but the advertisements will not be tailored to your browsing activities and interests.
 
-Website: <http://www.nasdaq.com/>  
-User Profile update: [https://login.passport.net/ppsecure/uisecure.srf?lc=1033&id=10](https://login.passport.net/ppsecure/uisecure.srf?lc=1033&id=10)  
-Contact Info: <http://www.nasdaq.com/help/contactInformation.stm>
+## Log Files
 
-Website: [https://www.nasdaq.net](https://www.nasdaq.net/)  
-Email: [contact@nasdaq.net](mailto:contact@nasdaq.net)  
-Phone: 800.943.5502 
+We automatically gather log files, such as your IP addresses, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and clickstream data when you use our Sites. We may combine information in log files with your information.
 
-Website: <http://www.nasdaqtrader.com/>  
-Email: [traderfeedback@nasdaq.com](mailto:traderfeedback@nasdaq.com)  
-Phone: 800.777.5606 
+## Clear Gifs (Web Beacons/Web Bugs/Embedded Pixels)
 
-Website: <http://www.nasdaqinsurance.com/>  
-Contact Info: <http://www.nasdaqinsurance.com/contacts.html>
+Clear Gifs are embedded on our Sites and are about the size of the period at the end of this sentence. The information collected by these technologies is associated with other technology and information, but only for internal tracking purposes only. We do not disclose or divulge such linkages outside of NASDAQ.
 
-Website: <http://www.emi.nasdaq.com/>  
-User Profile update: [http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo](http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo)  
-Email: [emi@nasdaq.com](mailto:emi@nasdaq.com)
+## Flash LSOs
 
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20160624191855id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
-Email: [enastraq@nastraq.com](mailto:enastraq@nastraq.com)
+Flash Local Storage Objects (“Flash LSOs” / “Flash Cookies”) display content based upon your preferences for how you like to view our Sites. Flash LSOs are different from browser cookies because of the amount of, type of, and how information is stored. Cookie management tools provided by your browser will not remove Flash LSOs. To learn how to manage privacy and storage settings for Flash LSOs, [click here.](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html)
 
-**Mailing address:**  
-The NASDAQ Stock Market  
-4 Times Square  
-43rd and Broadway  
-New York, NY 10036 
+## Third party applications and APIs.
+
+We also offer and deliver services, content or interactive features through and/or using third party application programming interfaces, gadgets, extensions that are hosted on our Sites or through other third party websites or social networking platforms. When you use these services, products, applications, or otherwise connect with, or “accept” or “allow” third party applications, networks, platforms or services through our Sites, you are authorizing those third parties to receive your information and additionally to potentially share any or all of your information with us, based on your privacy or other settings on the particular third party network or platform. Any information we receive by these means will be treated and/or processed according to this Cookie Statement.
+
+## Changes to this Cookie Statement
+
+Except to the extent limited by applicable law, we reserve the right to update this Cookie Statement to reflect changes to our information collection practices by prominently posting notice of the update on our Sites. Unless otherwise noted, any updates will become effective 30 days after posting the updates to the Cookie Statement, and apply to all information collected about you. If we make any changes to this Cookie Statement that materially impact previously collected information about you, we will, to the extent that we have your email address, notify you by email.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy or information we have collected about you, please contact us by email at [privacy@nasdaq.com](mailto:privacy@nasdaq.com) or by postal mail at:
+
+Office of General Counsel - Privacy Team  
+Nasdaq, Inc.  
+805 King Farm Blvd  
+first Floor  
+Rockville, MD 20850 
