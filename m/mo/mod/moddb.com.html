@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moddb.com privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628093702id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moddb.com privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228015225id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<title>Privacy Policy - Mod DB - Mod DB</title>
@@ -237,7 +237,7 @@
 		<a href="http://www.dbolical.com" class="network dbolical" target="_blank" title="DBolical - Entertainment Euphoria"></a>
 		<span class="terms"><a href="/terms-of-use">Terms of Use</a> | <a href="/privacy-policy" style="padding-right: 0">Privacy Policy</a></span>
 		<span class="links"><a href="/blog">Blog</a> | <a href="/about">About</a> | <a href="/advertise">Advertise</a> | <a href="/contact">Contact</a> | <a href="/mods/add">Submit Mod</a> | <a href="https://secure.moddb.com/members/register">Join Mod DB</a> | <a href="/sitemap">Site Map</a> | <a href="/rss">RSS <img src="http://static.moddb.com/cutoff/images/icons/rss.png" alt="RSS" title="Mod DB RSS feeds"></a></span>
-		<span class="copyright">© 2002 - 2017 <a href="http://www.dbolical.com" target="_blank">DBolical Pty Ltd.</a>&nbsp; All Rights Reserved.&nbsp; <a href="/members/online">2743 modders</a>.</span>
+		<span class="copyright">© 2002 - 2017 <a href="http://www.dbolical.com" target="_blank">DBolical Pty Ltd.</a>&nbsp; All Rights Reserved.&nbsp; <a href="/members/online">3497 modders</a>.</span>
 	</div>
 </div></footer>
 </div>
@@ -245,9 +245,20 @@
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"Item":{"@id":"http://www.moddb.com/groups","name":"Groups"}},{"@type":"ListItem","position":2,"Item":{"@id":"http://www.moddb.com/groups/moddb","name":"Mod DB"}},{"@type":"ListItem","position":3,"Item":{"@id":"http://www.moddb.com/groups/moddb/privacy","name":"Privacy"}}]}</script>
 <script src="http://static.moddb.com/html/external/min/index.php?g=js&amp;17"></script>
 <script src="http://static.moddb.com/html/external/min/index.php?g=jswub&amp;4"></script>
-<script><!--
+<script>
 $(document).ready(function() { $("#sitesearch").suggestClick("http://www.moddb.com/html/scripts/autocomplete.php?a=search&p=groups",{resultsClass: "suggest_search", positionIn: "#searchbox", limit: 10});
 
+			var createSvBeacon = function() {
+				var p = location.protocol;
+				var url = (p === "https:"? p : "http:") + "//ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13396668";
+				var scr = document.createElement("script");
+				scr.id = "sBeacon";
+				scr.src = url;
+				scr.async = false;
+				var s0 = document.getElementsByTagName("script")[0];
+				s0.parentNode.insertBefore(scr, s0);
+			};
+			createSvBeacon();
 			var custom_variables = {};
 			custom_variables["url"] = document.location.pathname.substr(0,40);
 			custom_variables["channel"] = "community";
@@ -280,7 +291,18 @@ $(document).ready(function() { $("#sitesearch").suggestClick("http://www.moddb.c
 	
 				$("div.nextmediaboxtop,div.footermediabox").remove();
 				$("div.nextmediabox div.supporter").html("<iframe src=\"http://www.moddb.com/media/block/300/250?sad=t\" width=300 height=250 frameborder=0></iframe>");
-				$("div.headermediabox div.supporter").html("<iframe src=\"http://www.moddb.com/media/block/728/90?sad=t\" width=728 height=90 frameborder=0></iframe>");
+				$("div.headermediabox").remove();
+	
+					var topimg = new Image();
+					topimg.src = "http://media.moddb.com/images/articles/1/167/166214/b854v38b75v438b7v453.jpg";
+
+					topimg.onload = function() {
+						$("#subheader").css({"height": $("#subheader").height()+this.height+10,
+											"background-image": "url("+this.src+")",
+											"background-repeat": "no-repeat",
+											"background-position": "center bottom"})
+										.append("<a href=\"http://bit.ly/2BO5zK4\" target=\"_blank\" style=\"position: absolute; display: block; box-sizing: border-box; border: 5px solid #000; bottom: 0; left: 0; z-index: 0; width: 100%; height: "+this.height+"px;\" alt=\"Nice!\"></a>");
+					};
 			}
 		}
 	
@@ -289,7 +311,6 @@ $(document).ready(function() { $("#sitesearch").suggestClick("http://www.moddb.c
 		}
 $("a.thickbox").click(function() { $.colorbox({href:$(this).attr("href"), rel:$(this).attr("rel"), open:true, onOpen:function(){ $(".nextmediabox").hide(); }, onClosed:function(){ $(".nextmediabox").show(); }}); return false; });
  });
-//-->
 </script>
 <script>
 var _comscore = _comscore || [];
