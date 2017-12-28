@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battrick.org privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614101124id_/http%3A//www.battrick.org/nl/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battrick.org privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228233438id_/http%3A//www.battrick.org/nl/privacy.asp) for the most accurate reproduction.*
 
 # Battrick - Privacy Statement
 
@@ -40,9 +40,9 @@ This site makes chat rooms, forums, message boards, and / or news groups availab
 
 This site gives users the following options for changing and modifying information previously provided:
 
-  * You can send an mail via the [Contact Us](https://web.archive.org/web/20170614101124id_/http%3A//www.battrick.org/nl/contact.asp) page.
+  * You can send an mail via the [Contact Us](https://web.archive.org/web/20171228233438id_/http%3A//www.battrick.org/nl/contact.asp) page.
   * You can visit the preference page when you have logged on.
 
 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us through the [Contact Us](https://web.archive.org/web/20170614101124id_/http%3A//www.battrick.org/nl/contact.asp) page.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us through the [Contact Us](https://web.archive.org/web/20171228233438id_/http%3A//www.battrick.org/nl/contact.asp) page.
