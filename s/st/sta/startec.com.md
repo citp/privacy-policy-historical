@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the startec.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629032928id_/http%3A//www.startec.com/us/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startec.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228144943id_/http%3A//www.startec.com/us/en/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Startec
 
 ## Impact Telecom Privacy Policy
 
-Protecting our customers' privacy is an important priority at Matrix Telecom, LLC.  This Privacy Policy applies to the services and products provided by Matrix Telecom, LLC. (provider of services under the Impact Telecom, Excel Telecommunications, VarTec Telecom, Trinsic, Matrix Business Technologies, Americatel, Startec, Teligent, 1010123, 1010719 and 1016868 brand names) and its affiliates, collectively “Impact Telecom.” A full listing of our brands and services may be found at [www.impacttelecom.com](http://www.impacttelecom.com/). This policy applies to our customers in the United States and to visitors to our websites.  
+Protecting our customers' privacy is an important priority at Matrix Telecom, LLC.  This Privacy Policy applies to the services and products provided by Matrix Telecom, LLC. (provider of services under the Impact Telecom, Excel Telecommunications, VarTec Telecom, Trinsic, Matrix Business Technologies, Americatel, Startec, 1010123, 1010719 and 1016868 brand names) and its affiliates, collectively “Impact Telecom.” A full listing of our brands and services may be found at [www.impacttelecom.com](http://www.impacttelecom.com/). This policy applies to our customers in the United States and to visitors to our websites.  
  
 
 ## Information We Collect and How We Use It
