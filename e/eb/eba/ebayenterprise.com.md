@@ -1,222 +1,421 @@
-> *The following text is extracted and transformed from the ebayenterprise.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204153531id_/https%3A//www.radial.com/legal/website-user-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebayenterprise.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229002445id_/https%3A//pages.ebay.com/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
-# Web Site User Privacy Notice | Privacy | Radial
+# User Privacy Notice
 
-**Effective Date**
+This Privacy Notice was posted on **May 1, 2015**. It is effective upon acceptance for new users, and from **June 15, 2015** for all other users. [See previous version of this Privacy Notice](http://pages.ebay.com/help/pp_previous.html).
 
-This Notice was updated on September 23, 2016. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-### Contents & Summary
+## Summary & Contents
 
-#### Scope and Consent
+**Scope and Consent**
 
-This privacy notice describes your privacy rights regarding our collection, use, disclosure, retention, and protection of your personal information. It applies to any Radial Sites (defined below) where this notice appears in the footer, regardless of how you access or use them, including mobile devices. You should read it to learn how Radial will process and protect your data.
+| 
 
-By using this site or any related sites (collectively, “Sites”) where this Privacy Notice is displayed or referenced, you expressly consent to the terms of this Privacy Notice.  
+This Privacy Notice describes our collection, use, disclosure, retention, and protection of your personal information. It applies to any eBay site where this Privacy Notice appears in the footer, and to any eBay application, service, or tool (collectively "Services") where this Privacy Notice is referenced, regardless of how you access or use them, including through mobile devices. **By using our Services and/or registering for an account with us, you are accepting the terms of this Privacy Notice and our** [**User Agreement**](http://pages.ebay.com/help/policies/user-agreement.html) **, and you are consenting to our collection, use, disclosure, retention, and protection of your personal information as described in this Privacy Notice.**
 
-
-Learn more
-
-#### Privacy Shield Certification 
-
-Radial has certified that it adheres to the EU-U.S. Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
-
-Learn more
-
-#### Collection
-
-We collect different types of information on the Sites in order to provide you with the use of and access to our Sites, and to help us personalize and improve your experience on the Sites. This includes information we collect automatically (such as device ID, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the sites, referral URL, ad data, IP address, standard web log information, and anonymous information collected through our use cookies and web beacons) and information you give us (such as information you enter on our Sites or you provide to us in context of using our Sites). 
-
-Learn more
-
-#### Use and Retention
-
-We use the personal information we collect to: operate, improve and personalize our Sites and services, to contact you about our services, and to customize our advertising and marketing.
-
-We retain your personal information only as long as it is necessary and relevant for our operations.  
-
-
-Learn more
-
-#### Choice
-
-You have a choice about how we use your personal information to communicate with you, send you marketing information, and provide you with customized and relevant advertising.
-
-Learn more
-
-#### Access
-
-If you have provided us with your personal information and wish to update, correct, or delete it, you have the ability to contact us as indicated below. We will respond to any access requests within a reasonable timeframe. 
-
-If your personal information was provided to us by a Radial client and you wish to update, correct or delete it, please contact that company directly.  
-
-
-Learn more
-
-#### Disclosure
-
-There are times when we disclose your personal information to members of the Radial corporate family or other third parties. We do not disclose your personal information to unaffiliated third parties for their marketing and advertising purposes without your explicit consent.
-
-Learn more
-
-#### Security
-
-We store and process your personal information on our computers in the US and elsewhere in the world, where we use reasonable measures in an attempt to protect your information, such as using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure, or alteration.
-
-Learn more
-
-#### Important Information
-
-This section describes some additional important information related to your use of our Sites. Please review it for more details.
-
-Learn more
-
-#### Questions or Complaints
-
-Questions regarding this Privacy Notice should be directed to Radial by email to [privacy@radial.com](mailto:privacy@radial.com) or by regular mail to the attention of: Privacy Manager, Radial, 935 First Avenue, King of Prussia, PA 19406.
-
-Learn more
-
-### Scope and Consent 
-
-This privacy notice describes your privacy rights regarding our collection, use, disclosure, retention, and protection of your personal information. It also describes your choices regarding use, access and correction of your personal information. It applies to any Radial Site where this notice appears in the footer, and to any Radial application, service, or tool where this notice is referenced, regardless of how you access or use them, including mobile devices. You should read it to learn how Radial will process and protect your data.
-
-                                                                                     By using the Sites where this Privacy Notice is displayed or referenced, you expressly consent to the terms of this Privacy Notice.
-
-If all or part of Radial is sold, merged, or otherwise transferred to another entity, the information gathered by the transferred entity may be transferred as part of that transaction.
-
-**Personal Information**  
-Throughout this Privacy Notice, we use the terms “personal information” or “personal data” to describe information that identifies a specific person, such as full name, email address or mailing address. We do not consider personal information to include: business contact information, business information publicly available on the internet or other public sources, information that has been made anonymous or aggregated so that it can no longer be used, whether in combination with other information or otherwise, to identify a specific person, or information that merely identifies a computer or browser, or an ID number assigned to an anonymous person.
-
-**Changes to This Notice**  
-We may amend this Privacy Notice at any time by posting the amended terms on this Site. Any such amendment shall take effect when such amendment is posted on the Site.  If we make any material amendments, we will notify you by email (sent to the email address you provided) or by means of a notice on this Site prior to the amendment taking effect.
-
-### Privacy Shield Certification 
-
-Radial, including members of the Radial corporate family, such as Radial South, L.P., participates in, and has certified its compliance with, the EU-U.S. Privacy Shield Framework.  Radial is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
-
-Radial is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Radial complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
-
-With respect to personal data received **** or **** transferred pursuant to the Privacy Shield Framework, Radial is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Radial may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
-
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
-
-### Collection
-
-**Categories of Individual Data Subjects**  
-In general, Radial may obtain EU Personal Data in the United States about several different types of individuals, including consumers, Clients (defined below), suppliers and other business partners. Radial's practices with respect to each of these types of individual data subjects are described below.
-
-Consumers  
-Radial provides a wide variety of services and solutions to its business clients (each, a "Client") that facilitate services for their customers ("Consumers"). In these cases, personal data collected from Consumers is owned by the applicable Client, and Radial processes this data on the Client's behalf. There may be limited instances in which Radial owns and processes personal data collected from Consumers on its own behalf, rather than on behalf of a Client. In all instances, Radial will obtain access to EU Personal Data about Consumers in the course of operating websites, processing payments, fulfilling orders, implementing marketing campaigns and providing customer care and other related services. Such data may include, name, billing address, shipping address, email address, telephone number, credit card or other payment information, and other information, depending on the particular Client, website or other application at issue. In all instances, Radial will not share, sell, rent, or trade with third parties for promotional purposes any personal data processed by Radial, unless Radial is directed to do so by a Client who owns such personal data.
-
-Clients, Suppliers and Other Business Partners  
-Radial may obtain various types of EU Personal Data about employees and agents of its Clients, suppliers and other business partners. Such data may include contact information (e.g. names, addresses, telephone and fax numbers, and email addresses); user IDs and passwords; information collected through Internet-based and ecommerce activities; and other transaction-related data.  
-Radial may use these types of EU Personal Data for business purposes, including to establish and maintain Client, supplier and other business relationships; to deliver or provide products or services; to provide access to Internet-based applications; to perform accounting functions; and to conduct other activities as necessary or appropriate in connection with the establishment, servicing and development of the business relationship.
-
-**Why We Collect Information**  
-We (including all members of our corporate family) may collect and use the information collected at our Sites for any internal purpose, and we may provide that information to our business partners and vendors to be used by them in connection with such purposes. For example, we may use this data to monitor our Sites and to collect aggregate data for marketing purposes and for other future uses, or to determine the most appropriate information to send to those who request it.
-
-You may choose voluntarily to give us personally identifiable information, such as your name, address, phone number, email address, or other information about yourself.  In addition, we may collect non-personal information automatically as you navigate our sites. This information may include (but may not be limited to): location data, IP address, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our sites (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, clickstream data, device data such as mobile identifiers, carrier network information, the mobile website or mobile app used, and cookie or pixel tag data.
-
-Certain forms on our sites may also request contact and profile information, such as user name, email address, website, phone number, or company information. Completion of these forms is entirely voluntary but may be required in order to request certain services from Radial. Resume submissions on our Sites are used to screen candidates and contact them for interviews.
-
-Radial may also use our sites to periodically survey our clients for purposes of improving the quality of our service and customer satisfaction. Client participation is completely voluntary, and any information we collect from you as part of our surveys will be treated with the same respect as any other information gathered in accordance with this Notice.
-
-**How We Collect It**  
-Our Sites use web beacons and other technologies to collect information when you access our websites, and we may store that information in “cookies”.
-
-We only obtain personally identifying information if it is supplied voluntarily. If you have chosen to receive marketing messages from us about our products and services, we may use information from our log files, cookies, or web beacons to help us make those communications more useful or interesting to you. We may periodically track the open-rates and click behavior of our emails and other messages and advertisements to help us identify which portions of our advertisements are most popular and effective with our customers.
-
-**How We Use Cookies and Other Technologies**  
-When you access our sites, we and our affiliates, business partners and vendors may place small data files on your computer or other device. We use these data files, commonly known as “Cookies” to help us identify you as a site visitor or Client, customize our content and enhance your site experience. These third parties may also use a technology called “Tags” or “Web Beacons”. Similar in function to Cookies, Web Beacons allow us to understand the movements of visitors to our Sites. The tracking technologies on our Sites do not collect personal information. We use this information to analyze trends, to administer our Sites, to track users' movements around the Sites, and to gather demographic information about our user base as a whole.  Radial does not provide personal information through the use of web beacons and cookies to these parties.
-
-You should note that although most browsers are initially set up to accept cookies, you may be able to change your browser settings to cause your browser to refuse first party or third party cookies or to indicate when a third party cookie is being sent. However, disabling or limiting cookies may cause certain features of this site to not function properly. Check your browser’s “Help” files or other similar resources to learn more about handling cookies on your browser.
-
-**Data Supplementation**  
-We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you.  This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you. Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you may include address information about you from third party sources, such as the U.S. Postal Service, to verify your address. This information is used for payment processing, fraud prevention and fulfillment services. 
-
-**Do Not Track**  
-California law requires us to state how we respond to Do Not Track (DNT) signals. Because there is currently no industry or legal standard for recognizing or honoring DNT, we do not currently respond to DNT signals. We await the result of work by the privacy community and industry to determine when such a response is appropriate and what form it should take. 
-
-### Use and Retention 
-
-**Use**  
-We use the information we gather to help us improve our services to offer the best user experience possible, to communicate with our Clients, or for other internal purposes and to generally operate the Sites. You agree that we may use your personal information as follows:
-
-  * To deliver information specific to your interests
-  * To create a profile detailing your service preferences so that we can best serve you
-  * To save you from having to re-enter your password each time you visit our site
-  * To better analyze our site traffic patterns so that we can bolster our Web offering
-  * To respond to your questions or to provide you with the information you have requested
-
-
-
-Any non-personally identifiable material, information, suggestions, ideas, concepts, know-how, techniques, questions, comments, or other communication you transmit or post to our Sites in any manner will be considered non-confidential and non-proprietary "User Communications." Radial and each of our affiliates and/or their designees may use any or all User Communications for any purpose whatsoever, including, without limitation, reproduction, transmission, disclosure, publication, broadcast, development, manufacturing and/or marketing in any manner whatsoever for any or all commercial or non-commercial purposes. 
-
-**Retention**  
-We retain your personal information only as long as it is necessary and relevant for our operations.
-
-In addition, we retain personal information from closed accounts to: comply with the law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, and take other actions permitted by law.
-
-### Choice
-
-You have a choice about how we use your personal information to communicate with you, send you marketing information, and provide you with customized and relevant advertising.
-
-**Advertising**  
-We may partner with a third party to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) or if located in the European Union, click [here](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads. 
-
-**Marketing**  
-We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services or content. 
-
-You may opt-out of the marketing messages we send at any time by utilizing the unsubscribe information provided in such message or by contacting us at [privacy@radial.com](mailto:privacy@radial.com).
-
-If you choose to unsubscribe from emails, please click unsubscribe in the applicable email message. Rarely, we may need to contact you regarding non-promotional purposes. You cannot opt out of these operational emails.
-
-### Access to Information 
-
-Upon request Radial will provide you with information about whether we hold, as a data controller, any of your personal information. You may access, correct, or request deletion of your personal information by emailing us at [privacy@radial.com](mailto:privacy@radial.com).  We will respond to your request within a reasonable timeframe.  
-
-Radial acknowledges that you have the right to access your personal information.  Radial has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to Radial’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that uses our service, please contact the Client directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients or vendors, as applicable. 
-
+Learn more.  
   
+---|---  
+  
+ 
+
+**Global Privacy Standards**
+
+| 
+
+eBay Inc. has established global privacy standards for all eBay Inc. companies known as Binding Corporate Rules (BCRs). They are our commitment to protect your personal information and honor our privacy obligations regardless of where your personal information is collected, processed or retained within our eBay Inc. corporate family.
+
+Learn more.  
+  
+**Collection**
+
+| 
+
+We collect, process, and retain personal information from you and any devices (including mobile devices) you may use when you: use our Services, register for an account with us, provide us information on a web form, update or add information to your account, participate in community discussions, chats, or dispute resolution, or when you otherwise correspond with us regarding our Services.
+
+Learn more.  
+  
+ 
+
+**Use and Retention**
+
+| 
+
+We use the personal information we collect to: provide and improve our Services, provide you with a personalized experience on our sites (especially, by offering you services and items that you may like), contact you about your account and our Services, provide you customer service, provide you with personalized advertising and marketing, and detect, prevent, mitigate, and investigate fraudulent or illegal activities. 
+
+We retain your personal information as long as it is necessary and relevant for our operations. In addition, we may retain personal information from closed accounts to comply with national laws, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, enforce our User Agreement and take other actions permitted or required by applicable national laws.
+
+Learn more.  
+  
+ 
+
+**Choice**
+
+| 
+
+You have a choice about how we use your personal information to communicate with you, send you marketing information, and provide you with personalized advertising, and whether you want to stay signed into your account.
+
+Learn more.  
+  
+**Access**
+
+| 
+
+We take steps to ensure that the personal information we collect is accurate and up to date, and that you have the ability to access it and make corrections to it.
+
+Learn more.  
+  
+**Disclosure**
+
+| 
+
+We may disclose your personal information to other members of the eBay Inc. corporate family or to third parties. This disclosure may be required for us to provide and to provide you access to our Services, to comply with our legal obligations, to enforce our User Agreement, to facilitate our marketing and advertising activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related to our Services. We do not disclose your personal information to third parties for their marketing and advertising purposes without your explicit consent.
+
+Learn more.  
+  
+**Security**
+
+| 
+
+We protect your information using technical and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls.
+
+Learn more.  
+  
+**Important Information**
+
+| 
+
+This section describes some additional important information related to your use of our Services.
+
+Learn more.  
+  
+**Questions or Complaints**
+
+| 
+
+If you have a question or a complaint about this Privacy Notice, our global privacy standards, or our information handling practices, you can reach our Global Privacy Office in writing by sending us a letter or postcard to: eBay Inc, Attn: Legal - Global Privacy Office, 2065 Hamilton Avenue, San Jose, California 95125, USA or follow the instructions on how to contact us posted at our [eBay Privacy Center](http://www.ebayprivacycenter.com/about-us).
+
+Learn more.  
+  
+## Scope and Consent
+
+This Privacy Notice describes our collection, use, disclosure, retention, and protection of your personal information. It applies to any eBay site where this Privacy Notice appears in the footer, and to any eBay application, service, or tool (collectively "Services") where this Privacy Notice is referenced, regardless of how you access or use them, including through mobile devices.
+
+**By using our Services and/or registering for an account with us, you are accepting the terms of this Privacy Notice and our  ** [**User Agreement**](http://pages.ebay.com/help/policies/user-agreement.html) **, and you are consenting to our collection, use, disclosure, retention, and protection of your personal information as described in this Privacy Notice.** If you do not provide the information we require, we may not be able to provide all of our Services to you.
+
+If you reside in the United States, you are contracting with eBay Inc., 2065 Hamilton Avenue, San Jose, CA 95125, USA. If you reside outside of the United States, you are contracting with one of our international eBay companies:
+
+  * If you reside in a country within the European Union you are contracting with eBay Europe S.à.r.l., 22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg
+
+  * If you reside in India, you are contracting with eBay India Private Limited, 14th Floor, North Block, R-Tech Park, Western Express Highway, Goregaon (East), Mumbai 400063, Maharashtra, India
+
+  * Starting on July 1, 2017, you are contracting with eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Canada, if you reside in Canada
+
+  * Starting on August 1, 2017, you are contracting with eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom, if you reside in the United Kingdom
+
+  * If you reside in any other country, you are contracting with eBay International AG, Helvetiastrasse 15/17, 3005 Bern, Switzerland
 
 
-### Disclosure 
-
-As stated above, we and our affiliates may collect and use the information collected at our Sites for any internal purpose and provide that information to our business partners and vendors to be used by them for such related purposes. We may also disclose personal information to respond to legal requirements, enforce our policies, respond to claims that user or Client content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with this Privacy Notice and applicable laws and regulations. As stated above, we never disclose your personal information to unaffiliated third parties for their marketing purposes without your explicit consent. 
-
-                                                                     We may also share your personal information with:
-
-  * Members of the Radial corporate family to provide joint content and services (such as registration, transactions, and customer support), to share contact information and basic corporate information with sister companies for the purpose of marketing other products and services that may be relevant to your business, to help detect and prevent potentially illegal acts, violations of our policies, fraud and/or data security breaches, and to guide decisions about products, services, and communications.
-  * Service providers under contract who help with parts of our business operations such as marketing and technology services. Our contracts dictate that these service providers only use information in connection with the services they perform for us and not for their own benefit;
-  * Law enforcement, government officials, or other third parties when we
-    * Are compelled to do so by a subpoena, court order or similar legal procedure, and
-    * Believe the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate violations of our User Agreements.
-  * Companies that we plan to merge with or be acquired by.
-  * Any other third party with your prior consent.
 
 
+The company you are contracting with is your data controller, and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with our global privacy standards as well as any applicable national laws. Your data controller may transfer data to other members of the eBay Inc. corporate family as described in this Privacy Notice. We may process and retain your personal information on our servers in the U.S. and elsewhere in the world where our data centers are located.
 
-If you use a bulletin board, chat room, blog, or other public forum function on our Sites, you should be aware that any personal information you submit there may be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums.
+**Personal Information**
 
-### Security 
+"Personal information" is information that can be associated with a specific person and could be used to identify that specific person whether from that data or from that data and other information that eBay Inc. has or is likely to have access to. We do not consider personal information to include information that has been made anonymous or aggregated so that it can no longer be used to identify a specific person, whether in combination with other information or otherwise.
 
-We store and process your personal information on our computers in the US and elsewhere in the world where our facilities are located. We protect your information using reasonable technical and administrative security measures in an effort to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls. You acknowledge and agree that our security measures are not a guarantee of security and that we are not responsible for loss or misuse of your personal information.
+**Changes to this Notice**
 
-### Important Information
+We may amend this Privacy Notice at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are posted. We will announce any material changes to this Privacy Notice through the eBay Message Center and/or via email.
 
-**Children’s Privacy**  
-The Radial Sites are general audience websites and are not intended for children under the age of 13. We do not knowingly collect personal information via our Sites from users in this age group. If we discover we have inadvertently gathered any personal information from this age group, appropriate steps will be taken to delete it. 
+## Global Privacy Standards
 
-**Third Parties**  
-This Privacy statement only applies to information received or collected by Radial Sites or information received and processed by Radial (and all members of its corporate family) from its Clients or its Clients’ third-party vendors. Our Sites do not control the privacy practices of third parties. Consumers who click on a link or advertisement, visit a third-party site, or interact with third-party content are subject to the privacy policies of those third parties, where applicable.
+ 
 
-### Questions or Complaints
+eBay Inc. has established global privacy standards for all eBay Inc. companies known as our Binding Corporate Rules (BCRs). They are our commitment to protect your personal information and honor our privacy obligations regardless of where your personal information is collected, processed, or retained within our eBay Inc. corporate family. Our BCRs have been approved by a number of European Union privacy regulators. That means we are treating your personal information everywhere within our eBay Inc. corporate family according to European Union privacy standards. More information about our BCRs and our global privacy standards is available at our [eBay Privacy Center](http://www.ebayprivacycenter.com/privacy).
 
-Questions regarding this Privacy Notice should be directed to Radial by email to [privacy@radial.com](mailto:privacy@radial.com) or by regular mail to the attention of:  
-Privacy Manager  
-Radial            
-935 First Avenue  
-King of Prussia, PA 19406
+## Collection
+
+We collect, process, and retain personal information from you and any devices (including mobile devices) you may use when you: use our Services, register for an account with us, provide us information on a web form, update or add information to your account, participate in community discussions, chats, or dispute resolution, or when you otherwise correspond with us regarding our Services.
+
+The personal information we collect includes the following:
+
+**Personal information you give us when you use our Services** **or register for an account with us** ********
+
+  * Identifying information such as your name, addresses, telephone numbers or email addresses when you register for an account with us
+
+  * Bidding, buying, or selling information you provide during a transaction, or other transaction-based content that you generate or that is connected to your account as a result of a transaction you are involved in
+
+  * Other content that you generate, or that is connected to your account (such as adding items to your basket, adding items to your Watch List, creating collections, and following other collections and sellers)
+
+  * Financial information (such as credit card or bank account numbers) in connection with a transaction
+
+  * Postage, billing and other information used to purchase or post an item, as well as, where postal services are provided through one of our programs, information required to clear customs (such as Tax ID or other identification numbers) and relevant postage information (such as tracking numbers and tracking updates). 
+
+  * In some instances, when you use our Services, you may provide age, gender, interests and favorites
+
+  * You may also provide us other information through a web form, by updating or adding information to your account, through your participation in community discussions, chats, dispute resolution, or when you otherwise correspond with us regarding our Services
+
+  * Additional information we are required or authorized by applicable national laws to collect and process in order to authenticate or identify you or to verify the information we have collected
+
+
+
+
+**Personal information we collect automatically when you use our Services or register for an account with us**
+
+  * We also collect information about your interaction with our Services, your advertising preferences, and your communications with us. This is information we receive from the devices (including mobile devices) you use when you use our Services, register for an account with us, provide us information on a web form, update or add information to your account, participate in community discussions, chats, or dispute resolution, or when you otherwise correspond with us regarding our Services. This information comprises the following: Device ID or unique identifier, device type, ID for advertising, and unique device token
+
+  * Geo-location information, including location information from your mobile device. Keep in mind that most mobile devices allow you to control or disable the use of location services by any application on your mobile device in the device's settings' menu
+
+  * Computer and connection information such as statistics on your page views, traffic to and from the sites, referral URL, ad data, your IP address, your browsing history, and your web log information
+
+
+
+
+**Personal information we collect using cookies, web beacons, and similar technologies**
+
+We use cookies, web beacons, unique identifiers, and similar technologies to collect information about the pages you view, the links you click, and other actions you take on our Services, within our advertising or e-mail content. For more information about our use of these technologies and how to control them, see our notice on [Cookies, Web Beacons and Similar Technologies](http://pages.ebay.com/help/account/cookies-web-beacons.html).
+
+**Personal information from other sources**
+
+  * We may supplement the personal information we collect with information from third parties and add it to your account information. For example, we may collect and use demographic information that is publically available, additional contact information, credit check information, and information from credit bureaus, as allowed by applicable national laws
+
+  * We may allow you to share information with social media sites, or use social media sites to create your account or to connect your account with the respective social media site. Those social media sites may give us automatically access to certain personal information retained by them about you (e.g., content viewed by you, content liked by you, and information about the advertisements you have been shown or may have clicked on, etc.). If you provide us with access to any site with video content, then you agree that we may share your video viewing with, or obtain information about your video viewing from, third-party social media sites for at least two years or until you withdraw consent. You control the personal information you allow us to have access to through the privacy settings on the applicable social media site and the permissions you give us when you grant us access to your personal information retained by the respective social media site about you. By associating an account managed by a social media site with your account and authorizing us to have access to this information, you agree that we may collect, use and retain the information provided by these social media sites in accordance with this Privacy Notice
+
+  * If you give us personal information about someone else, you must do so only with their explicit and prior consent. You have to inform them how we collect, use, disclose, and retain their personal information according to our Privacy Notice.
+
+
+
+
+## Use and Retention
+
+We use the personal information we collect to: provide and improve our Services, to provide you with a personalized experience on our sites (especially, by offering you services and items that you may like), to contact you about your account and our Services, to provide you customer service, to provide you with personalized advertising and marketing, and to detect, prevent, mitigate and investigate fraudulent or illegal activities. We may use and retain your personal information as follows:
+
+**Provide, improve, and personalize our Services** ****
+
+  * Provide access to and use of our Services.
+
+  * Offer you site content that includes items and services that you may like. 
+
+  * Keep track of your basket, your Watch List, your collections, and collections and sellers that you have chosen to follow.
+
+  * Give you access to your purchase history, scores, bids, internal messages and other feature
+
+  * Provide you with credit offers and opportunities on behalf of other members of our eBay Inc. corporate family and their financial institution partners, keeping in mind we do not share any financial information with them without your explicit consent.
+
+  * Customize, measure, and improve our Services
+
+  * Provide other services requested by you as described when we collect the information
+
+  * We may use geo-location information to provide you with location based services (such as advertising, search results, and other personalized content)
+
+
+
+
+**Contact you about your account and provide you customer service** ****
+
+  * Contact you to notify you regarding your account, to troubleshoot problems with your account, to resolve a dispute, to collect fees or monies owed, to poll your opinions through surveysor questionnaires, or as otherwise necessary to provide you customer service
+
+  * Contact you as necessary to enforce our User Agreement, applicable national laws, and any agreement we may have with you. 
+
+  * For these purposes we may contact you via email, telephone, text messages, and postal mail. When contacting you via telephone, to ensure efficiency, we may use autodialed or pre-recorded calls and text messages as described in our User Agreement. Message and data rates may apply
+
+
+
+
+**Personalize our advertising and marketing communications**
+
+  * Personalize, measure, and improve our advertising based on your advertising customization preferences
+
+  * Contact you, either via email, telephone, text messages, and postal mail in order to: offer you coupons, discounts and special promotions, and inform you about our Services and those of our eBay Inc. corporate family. We will use the contact information you have provided to contact you by e-mail, SMS text and/or telephone if you have consented to such contact. Message and data rates may apply
+
+  * Deliver targeted marketing, service updates, and promotional offers based on your communication preferences
+
+
+
+
+**Prevent, detect, mitigate, and investigate fraudulent or illegal activities**
+
+  * Prevent, detect, mitigate, and investigate fraud, security breaches, potentially prohibited or illegal activities
+
+  * Enforce our Privacy Notice, our [User Agreement](http://pages.ebay.com/help/policies/user-agreement.html?rt=nc) or other policies
+
+
+
+
+We retain your personal information as long as it is necessary and relevant for our operations. In addition, we may retain personal information from closed accounts to comply with national laws, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, enforce our User Agreement and take other actions permitted or required by applicable national laws. After it is no longer necessary for us to retain your personal information, we dispose of it in a secure manner according to our data retention and deletion policies.
+
+## Choice
+
+You have a choice about how we use your personal information to communicate with you, to send you marketing information, how we provide you with customized and relevant advertising, and whether you want to stay signed into your account.
+
+**Communication preferences**
+
+You can control the methods by which we may contact you about your account, and your buying and selling activities in the Communication Preference section within your My eBay. There, you can also control your member-to-member communications preferences setting and choose which newsletters and promotions you want to receive.
+
+**Marketing**
+
+If you do not wish to receive marketing communications from us, you can unsubscribe from the link in the email you received, change your Communication Preferences within My eBay, or indicate your communication preferences within the direct communication from us. Keep in mind, we do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.
+
+**Advertising**
+
+If you do not wish to participate in our advertising personalization programs, you can opt-out by following the directions provided within the applicable advertisement, or directly at our [AdChoice program](http://pages.ebay.com/help/account/adchoice.html). The effect of an opt-out will be to stop personalized advertising, but it will still allow the collection of information for certain purposes such as usage, research, analytics and internal online services operation purposes). In addition to that, we do not allow third parties to track or collect your personal information on our sites for their own advertising purposes without your explicit consent.
+
+**Signed in**
+
+When you sign in to your account on our Services, we may give you the option to stay signed in to your account for a certain period of time. If you are using a public or shared computer, we encourage you not to choose to stay signed in. You or any other user of the computer/browser you signed in on will be able to view and access most parts of your account and take certain specific actions during this signed in period without any further authorization. The specific actions and account activities that you or any other user of this computer/browser may take include:
+
+  * Bid, buy or make an offer on an item
+
+  * Check out or add items to your cart
+
+  * Purchase an item with PayPal using Faster Checkout (if enabled in your account)
+
+  * View the activity header
+
+  * View the My eBay page
+
+  * View or edit the Watch List
+
+  * View order details
+
+  * Leave Feedback
+
+  * View the profile page
+
+  * Send member-to-member messages
+
+  * Conduct after-sale activities, like leaving Feedback, canceling orders, requesting returns or submitting claims
+
+
+
+
+If you attempt to change your password, User ID, update any other account information or attempt other account activity beyond those listed above, you will be asked to enter your password.
+
+You can typically end your signed in session by either signing out and/or clearing your cookies. If you have certain browser privacy settings enabled, simply closing your browser may also end your signed in session. If you are using a public or shared computer you should sign out and/or clear your cookies when you are done using our Services in order to protect your account and your personal information.
+
+**Withdraw consent**
+
+If you withdraw your consent for the use or disclosure of your personal information for purposes set out in this Privacy Notice you may not have access to all our Services and we might not be able to provide you all of the Services and customer support offered to our users and authorized under this Privacy Notice and our User Agreement.
+
+## Access
+
+We take steps to ensure that the personal information we collect is accurate and up to date, and that you have the ability to access and make corrections to it. This includes the following:
+
+  * You can see, review and change your personal information by signing in to your account. Please update your personal information immediately if it changes or is inaccurate 
+
+  * Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable national laws
+
+  * We will honor any statutory right you might have to access, modify or erase your personal information. To request access and to find out whether any fees may apply, if permitted by applicable national laws, please contact us following the instructions in the Contact Us section below. Where you have a statutory right to request access or request the modification or erasure of your personal information, we can still withhold that access or decline to modify or erase your personal information in some cases in accordance with applicable national laws, but will give you reasons if we do so
+
+
+
+
+## Disclosure
+
+We may disclose your personal information to other members of the eBay Inc. corporate family or to third parties. This disclosure may be required for us to provide and to provide you access to our Services, to comply with our legal obligations, to enforce our User Agreement, to facilitate our marketing and advertising activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related to our Services. We minimize the amount of personal information we disclose to what is directly relevant and necessary to accomplish the specified purpose. As stated above, we do not disclose your personal information to third parties for their marketing and advertising purposes without your explicit consent. 
+
+We may disclose your personal information to the following parties and for the following purposes: 
+
+[**eBay Inc. corporate family members,**](http://www.ebayprivacycenter.com/about-us/corporate-family)  **who may use it to:** ****
+
+  * provide joint content and services (like registration, transactions, and customer support)
+
+  * help detect and prevent potentially fraudulent and illegal acts, violations of our User Agreement, and data security breaches
+
+  * provide you personalized advertising
+
+  * guide decisions about their products, sites, applications, services, tools, and marketing communications. Members of our eBay Inc. corporate family will use your personal information to send you marketing communications only if you have consented to receive such communications from them
+
+
+
+
+**Service Providers and financial institutions partners**
+
+  * Third party service providers who help us to provide our Services, payment processing services, assist us in providing customize advertising, to assist us with the prevention, detection, mitigation, and investigation of potentially illegal acts, violations of our [User Agreement](http://pages.ebay.com/help/policies/user-agreement.html?rt=nc), fraud and/or security breaches, bill collection, affiliate and rewards programs, co-branded credit cards and other business operations
+
+  * Third party financial institution partners who may offer financial products to you, for them to provide joint content and services (such as, registration, transactions and customer support). These third party financial institution partners will use your personal information to send you marketing communications only if you have requested their services
+
+
+
+
+**Law enforcement, legal proceedings, and as authorized by law**
+
+  * to comply with our legal requirements, enforce our User Agreement, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property or safety.
+
+  * to law enforcement or governmental agencies, or authorized third-parties, in response to a verified request relating to a criminal investigation or alleged or suspected illegal activity or any other activity that may expose us, you, or any other of our users to legal liability. We will only disclose information we deem relevant to the investigation or inquiry, such as name, city, state, postcode, telephone number, email address, User ID history, IP address, fraud complaints, bidding and listing history
+
+  * to participants of the eBay VeRO Program globally under confidentiality agreement, as we in our sole discretion deem necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, we will disclose seller’s name, street address, city, state, postcode, country, phone number, email address and company name to the participants of the eBay VeRO Program
+
+  * to credit agencies or bureaus as authorized by applicable national laws (e.g. information on late or missed payments or other defaults on your account that may be reflected in your credit report or file)
+
+  * to third parties involved in a legal proceeding, if they provide us with a subpoena, court order or substantially similar legal procedure, or we otherwise believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity
+
+
+
+
+**Other eBay users as authorized by you or your use of our Services.** ****
+
+When transacting with another user, the other user may request and we may provide him/her with information about you necessary to complete the transaction, such as your name, account ID, email address, contact details, shipping and billing address, or other information from you needed to promote the reliability and security of the transaction. If a transaction is held, fails, or is later invalidated, we may also provide the other user with details of the unsuccessful transaction. The other user receiving your information is not allowed to use this information for purposes unrelated to the transaction, such as to contact you for marketing purposes, unless you have express consented to it. Contacting users with unwanted or threatening messages is a violation of our User Agreement.
+
+**Data disclosure to PayPal Inc. and its corporate family** ****
+
+We may disclose your personal information to PayPal Inc. and its corporate family for the following purposes:
+
+  * to prevent, detect, mitigate, and investigate potentially illegal acts, fraud and/or security breaches, and to assess and manage risk, including to alert you if fraudulent activities have been detected on your eBay or PayPal accounts
+
+  * to provide customer services, including to help service your account or resolve disputes (e.g., billing or transactional disputes)
+
+  * to facilitate the processing of payment cards when you pay within our Services with a payment card and we use PayPal to process your payment 
+
+  * to facilitate shipping and related services for purchases you made using PayPal
+
+
+
+
+**Change of Ownership**
+
+If we were to merge with or be acquired by another company, we may share information with them in accordance with our global privacy standards. Should such an event occur, we will require that the new combined entity follow this Privacy Notice with respect to your personal information. If your personal information will be collected, used, disclosed, or retained for any purposes not covered in this Privacy Notice, you will receive prior notification of the processing of your personal information for the new purposes.
+
+## Security
+
+We protect your information using technical and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls. If you believe your account has been abused, please contact us following the instructions in the Contact Us section below.
+
+## Important Information
+
+This section describes some additional important information related to your use of our Services. There are just a few more pieces of important privacy information related to your use of our Services that we need to cover:
+
+**When you share your personal information on our sites or applications – what happens?**
+
+Other users have access to the information you share on eBay. For example, other users can see your bids, purchases, items for sale, your collections, the sellers and collections you follow, storefronts, Feedback, ratings and associated comments. Other users can also see any information you chose to share in your profile or your collections.
+
+Your User ID is displayed throughout eBay and is available to the public. It is connected to all of your eBay activity. Notices sent to other users about suspicious activity and notice violations on our sites refer to User IDs and specific items. So if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your eBay activities.
+
+To help protect your privacy, we allow only limited access to other users' contact, shipping and financial information as necessary to facilitate your transactions and collect payments. However, when users are involved in a transaction, they have access to each other's name, User ID, email address and other contact and shipping information.
+
+**How you should use the information you receive on eBay**
+
+When you are in a transaction with another user, we enable you to obtain or we may provide you with the personal information of the other user (such as his/her name, account ID, email address, contact details, shipping and billing address) to complete the transaction. We encourage you to inform the other user about your privacy practices and respect his/her privacy. In all cases, you must give the other user a chance to remove himself/herself from your database and give him/her a chance to review what information you have collected about them.
+
+You may use the personal information that you have access to only for eBay transaction-related purposes, or for other services offered through eBay (such as escrow, shipping, fraud complaints, and member-to-member communications), and for purposes expressly consented by the user to whom the information relates. Using personal information of other users that you have access to for any other purpose constitutes a violation of our [User Agreement](http://pages.ebay.com/help/policies/user-agreement.html?rt=nc).
+
+**Unwanted or threatening email**
+
+We do not tolerate abuse of our Services. You do not have permission to add other users to your mailing list (email or postal), call, or send him/her text messages for commercial purposes, even if this user purchased something from you, unless the user has given his/her explicit consent. Sending unwanted or threatening email and text messages is against our [User Agreement](http://pages.ebay.com/help/policies/user-agreement.html?rt=nc). To report eBay-related spam or spoof emails please forward the email to [spam@ebay.com](mailto:spam@ebay.com) or [spoof@ebay.com](mailto:spoof@ebay.com).
+
+**Children's Privacy**
+
+Our websites are general audience websites, and our Services are not intended for children under the age of 13. We do not knowingly collect personal information from users in this age group.
+
+**Third Party Privacy Practices**
+
+This Privacy Notice addresses only the use and disclosure of personal information we collect from you. If you disclose your information to others, or if you are directed to a third party website, their privacy notices and practices will apply.
+
+We cannot guarantee the privacy or security of your information once you provide it to a third party and we encourage you to evaluate the privacy and security policies of your trading partner before entering into a transaction and choosing to share your information. This is true even where the third parties to whom you disclose personal information are bidders, buyers or sellers on our sites.
+
+## Questions or Complaints
+
+If you have a question or a complaint about this Privacy Notice, our global privacy standards, or our information handling practices, you can reach the Global Privacy Office in writing by sending us a letter or postcard to: eBay Inc, Attn: Legal - Global Privacy Office, 2065 Hamilton Avenue, San Jose, California 95125, USA.
+
+You can also find more information on how to contact us at our [eBay Privacy Center](http://www.ebayprivacycenter.com/about-us).
