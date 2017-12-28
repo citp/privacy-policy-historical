@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strangecosmos.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175444id_/http%3A//www.strangecosmos.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strangecosmos.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228152504id_/http%3A//strangecosmos.com/static/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
