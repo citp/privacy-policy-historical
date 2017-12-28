@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powr.io privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615235239id_/http%3A//www.powr.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powr.io privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229003811id_/https%3A//www.powr.io/privacy) for the most accurate reproduction.*
 
-# POWr Privacy policy
+# POWr Plugins Privacy policy.
 
 Last updated: June 15, 2014
 
@@ -107,6 +107,7 @@ For any changes to this privacy policy for which you are required to provide pri
   * **Blogs and Forums.** Our website offers publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We’re not responsible for any personal information you choose to submit in these areas of our site. To request removal of your personal information from our blog or community forum, contact us at support@POWr.com. In some cases, we may not be able to fulfill your request and we will let you know why.
   * **Online Tracking.** We currently do not process or comply with any web browser's "do not track" signal or other similar mechanism that indicates a request to disable online tracking of individual users who visit our websites or use our services (unless otherwise stated in a service-specific privacy statement).
   * **Safety of Minors and COPPA.** Our services are not intended for and may not be used by minors. "Minors" are individuals under the age of majority in their place of residence (or under 13 in the United States). POWr does not knowingly collect personal data from minors or allow them to register. If it comes to our attention that we have collected personal data from a minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact us at support@POWr.com.
+  * **Third Parties** POWr may allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over). To learn more about behavioral advertising practices or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) and Networking Advertising Initiative at [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/).
   * **English version controls.** In the event of any ambiguity or conflict between translations, the English version is authoritative.
 
 
