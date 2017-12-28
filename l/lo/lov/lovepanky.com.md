@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovepanky.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608022016id_/http%3A//www.lovepanky.com/lovepanky-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovepanky.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228015623id_/http%3A//www.lovepanky.com/lovepanky-privacy-policy) for the most accurate reproduction.*
 
 # LovePanky Privacy Policy - LovePanky - Your Guide to Better Love and Relationships
 
