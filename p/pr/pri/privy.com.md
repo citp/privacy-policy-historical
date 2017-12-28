@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the privy.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627230604id_/https%3A//privy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privy.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228041217id_/https%3A//privy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Privy
 
 **Privacy Policy**
 
-This Privacy Policy was last updated on October 29 2015.
+This Privacy Policy was last updated on October 29 2015.  If you want an easier to digest format, read our [Data Promise](https://web.archive.org/data-promise) instead.
 
 This website (the “Site”) is operated by Privy, Inc. (“Privy”, “we”, “us” and/or “our”) and has been created to provide our Site visitors (“you”, “your”) with information about our company and our e-mail collection tools.  This Privacy Policy (this “Policy”) sets forth Privy’s policy with respect to information, including personally identifiable data (“Personal Information”), that is collected from you through the Site or through our other service offerings (collectively, including the Site, the “Services”).  Certain Services may be made available to you on websites owned by our end customers (“Privy Customers”), and the information collected via these embedded widgets (“Tools”) is directed to Privy and governed by this Policy.
 
