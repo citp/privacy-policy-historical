@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218005040id_/https%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228012843id_/https%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Help Center | Sweetwater
 
@@ -59,4 +59,4 @@ This policy was last updated on January 16, 2006. If you have any questions or c
 
 We're committed to providing you with the best shopping experience in the industry. Give us a call to learn more about our policies and services.
 
-##### **(800) 222-4700**
+##### **[(800) 222-4700](tel:+18002224700)**
