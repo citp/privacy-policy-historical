@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplez.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620020740id_/http%3A//www.aplez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplez.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228040050id_/http%3A//www.aplez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
