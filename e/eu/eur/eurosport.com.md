@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurosport.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624124331id_/http%3A//www.eurosport.com/eurosport/eurosport-privacy-policy_sto4264003/story.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurosport.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228023806id_/http%3A//eurosport.com/eurosport/eurosport-privacy-policy_sto4264003/story.shtml) for the most accurate reproduction.*
 
 # EUROSPORT PRIVACY POLICY - Eurosport - Eurosport
 
@@ -20,7 +20,7 @@ This Privacy Policy does not apply to services provided by any third parties wha
 
 **When you access or use the Services, Eurosport may collect and use information about you: personal data you provide by filling in forms (see I), and navigation data, which are collected by cookies (see II).**
 
-**I. YOUR PERSONAL DATA  **
+**I. YOUR PERSONAL DATA**
 
 Personal data are information that enables you to be identified as an individual or recognised directly or indirectly. Personal data include at least some of the following: surname, given name, date of birth, sex, postal address, email address, computer IP address, phone number, credit card number, photograph, videos, and comments giving your contact details or personal and confidential login and password. 
 
@@ -66,7 +66,7 @@ Your personal data are collected when you subscribe to our Services. Your person
 
 **Eurosport**
 
-Your personal data may be used by Eurosport for the purposes of: 
+Your personal data may be used by Eurosport for the purposes of: 
 
 providing you with the Services for which you have registered and: 
 
@@ -88,7 +88,7 @@ Third parties may use your personal data, but only with your consent.
 
 If you have opted in to receive offers from our selected partners by ticking a box or otherwise manifesting your explicit willingness to receive such offers, your data will be transmitted to the relevant partners so that they may send you their product or service offers by email or, if applicable, SMS, and continue to do so unless and until you opt-out of receiving such offers by following opt-out instructions provided by the individual partners. 
 
-These partners are solely responsible for (i) the processing of your personal data once they have been transmitted to them with your consent, (ii) complying with all applicable legal requirements, and (iii) taking account of your rights and dealing with any requests you make. 
+These partners are solely responsible for (i) the processing of your personal data once they have been transmitted to them with your consent, (ii) complying with all applicable legal requirements, and (iii) taking account of your rights and dealing with any requests you make. 
 
 **Third parties permitted by law**
 
@@ -106,7 +106,7 @@ The simplest way to exercise these rights is to send us an online request. You c
 
 \- logging in to your account with your user name and password and clicking on the “My Profile” link; or 
 
-\- sending us an email at _hello@eurosport.com,_ setting out your request in a manner enabling us to respond effectively to it; or 
+\- [sending us an email ](https://www.eurosport.co.uk/contactus.shtml)
 
 \- clicking on a dedicated hypertext link in the messages we send you. 
 
@@ -130,7 +130,7 @@ You may, however, at any time opt-out of receiving offers from third parties by 
 
 **How long do we keep your personal information?**
 
-Your personal Information is stored by us and/or any contractors of our choosing, strictly for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the information is collected, in accordance with the applicable regulations, e.g. no more than three years for information about customers and prospects as per Simplified Standard No 48 adopted by the CNIL by Resolution 2012-209 of 21 June 2012, and one year for information about content creators. 
+Your personal Information is stored by us and/or any contractors of our choosing, strictly for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the information is collected, in accordance with the applicable regulations, e.g. no more than three years for information about customers and prospects as per Simplified Standard No 48 adopted by the CNIL by Resolution 2012-209 of 21 June 2012, and one year for information about content creators. 
 
 Beyond those time frames, your personal data will be kept solely for statistical purposes and will not be put to any use whatsoever. 
 
@@ -212,7 +212,7 @@ Audience-measurement cookies are used by third parties for us to obtain informat
 
 \- access your user account. 
 
-These tools use technologies for tracking website users and associating a ‘referrer’ or campaign with a unique identifier. 
+These tools use technologies for tracking website users and associating a ‘referrer’ or campaign with a unique identifier. 
 
 **Social media share buttons**
 
@@ -220,7 +220,7 @@ We offer you the possibility to share content of the Services with other people 
 
 Even if you do not use social media share buttons when visiting our Services, the social networks that provided the buttons can identify you through them. Indeed, the mere fact that your account with a social network is activated on your terminal (open session) when you browse our Services can allow the that network to monitor your navigation of our Services. 
 
-**Advertising spaces   **
+**Advertising spaces**
 
 Cookies are likely to be placed in your terminal through advertising spaces on our Services. 
 
