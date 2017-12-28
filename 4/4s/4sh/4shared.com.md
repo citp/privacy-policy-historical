@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624155359id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228013020id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
@@ -51,7 +51,11 @@ DAA AppChoices page – [www.aboutads.info/appchoices](http://www.aboutads.info/
 
 Additionally, we may share information with service providers who may assist us in responding to your inquiries or requests, or otherwise perform some business or operational function for us. We may also disclose personal information about you if required to do so by law, including without limitation, by search warrant, subpoena or court order; to protect our and third-party rights; and for purposes disclosed at time of collection.
 
-**Anonymous Data Collection:** Airpush, Inc. collects data relating to your use of this and other apps and your device and use of the device, such as Bluetooth beacon data, hashed or encrypted values of your email or phone number, geolocation, and other permission-based user information. You will see the ↓ icon whenever data is being collected. Collected data will be shared with third parties for advertising, analytics and market research purposes. For further information Airpush, Inc.’s data collection and use practices, please see Airpush, Inc.’s [Technology Privacy Statement](http://www.airpush.com/technology_privacy/) and [Privacy Policy](http://www.airpush.com/privacypolicy/). You may opt-out of interest-based ads by clicking [here](https://optout.mobi.info/).
+**Anonymous Data Collection:** Airpush, Inc. collects data relating to your use of this and other apps and your device and use of the device, such as Bluetooth beacon data, hashed or encrypted values of your email or phone number, geolocation, and other permission-based user information. You will see the ↓ icon whenever data is being collected. Collected data will be shared with third parties for advertising, analytics and market research purposes. For further information Airpush, Inc.'s data collection and use practices, please see Airpush, Inc.'s [Technology Privacy Statement](http://www.airpush.com/technology_privacy/) and [Privacy Policy](http://www.airpush.com/privacypolicy/). You may opt-out of interest-based ads by clicking [here](https://optout.mobi.info/).
+
+We share location, network diagnostic information, sensor diagnostic information, and other data related to your use of our application with our partner, OpenSignal, Inc., but such information that we share will not include any personally identifiable information about you. OpenSignal will use the information that we share about you to create aggregated anonymous data and OpenSignal is the sole owner of that data.
+
+To learn more about the use of this aggregated anonymous data, we recommend that you review OpenSignal's [Privacy Policy](https://opensignal.com/privacypolicy). To opt-out of our sharing of this information with OpenSignal, please contact us at legal@4shared.com with a request that we not share your information with OpenSignal and we will honour this request.
 
 **Security**
 
