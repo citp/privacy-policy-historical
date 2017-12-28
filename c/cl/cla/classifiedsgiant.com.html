@@ -1,262 +1,531 @@
-<!--The following is the downloaded HTML source of the classifiedsgiant.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606021702id_/http%3A//www.classifiedsgiant.com/4-privacy-policies/content.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classifiedsgiant.com privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228173007id_/https%3A//www.classifiedsgiant.com/4-privacy-policy/content.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<meta charset="utf-8">
-<title>Free online Classifieds ads, Connecting sellers &amp; buyers - ClassifiedsGiant.com</title>
+<title>Privacy Policy</title>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <meta name="description" content="">
-<!-- free classifieds, best free classifieds, classifieds free, free classified ads, free online classifieds, classified ads, post ads, online classified, classified sites, job, auto, pets, business opportunity  -->
-<meta name="google-site-verification" content="tfVlDYD1VxdMSmnOQGIM84ANn-2uoCL7LLG3Qs35uRk">
-<meta name="msvalidate.01" content="05AFFB3A2EEFB3C8E8F99F69A9435946">
+<meta name="keywords" content="Privacy Policy">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="http://www.classifiedsgiant.com/">
-<meta name="alexaVerifyID" content="NihNEVLAidyUVIcMaCcSwFXMFBU">
-<meta name="sitelock-site-verification" content="2116">
-<meta name="google-site-verification" content="tfVlDYD1VxdMSmnOQGIM84ANn-2uoCL7LLG3Qs35uRk">
-<meta name="msvalidate.01" content="4D77373D93AEE98A0E35418AF3879F90">
-<meta property="og:title" content="Free Classifieds - ClassifiedsGiant.com">
-<meta property="og:type" content="article">
-<meta property="og:url" content="http://www.classifiedsgiant.com">
-<meta property="og:image" content="http://www.classifiedsgiant.com/images/ClassifiedsGiant_PNG_new1.png"> 
-<meta property="og:site_name" content="ClassifiedsGiant.com">
-<meta property="og:description" content="Free classifieds with photos and video; find jobs, autos, pets, apartment rentals, home business and everything else. Create your own ad, free!">
 
 
-<style type="text/css">
-	#social_networks { float: left; display: block; padding-top: 20px; }
-</style>
 
-<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
-<link href="/templates/platinum/style.css" rel="stylesheet" type="text/css">
-<!--[if lte IE 7]>
-<link href="/templates/platinum/style_iehacks.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<script type="text/javascript" src="/libs/jQuery/jquery.tools.min.js"></script>
-<script type="text/javascript" src="/js/common.min.js"></script>
-<!--[if lte IE 7]>
-<script type="text/javascript" src="/libs/jQuery/plugins/jquery.pngFix.js"></script>
-<![endif]-->
-</head>
-<body>
+
+<link href="https://www.classifiedsgiant.com/templates/flux/css/style.css" rel="stylesheet" type="text/css">
+<link href="https://www.classifiedsgiant.com/templates/flux/css/style_blue.css" rel="stylesheet" type="text/css">
+<script src="https://www.classifiedsgiant.com/js/base.js"></script>
+
+
 <script type="text/javascript">
 //<![CDATA[
+
+
+// redirect if media queries are not enabled
+function mediaQueriesEnabled () {
+    return (typeof window.matchMedia != "undefined" || typeof window.msMatchMedia != "undefined");
+}
+
+function isIE () {
+  var myNav = navigator.userAgent.toLowerCase();
+  return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
+}
+
+if (isIE () && isIE () < 9) window.location.href="https://www.classifiedsgiant.com/bns.php";
+// end redirect if media queries are not enabled
+
+site_width=1000;
+exdate=new Date();
+exdate.setDate(exdate.getDate() + 365);
 var frontend = 1;
+var no_languages = 2;
 
-$(document).ready(function(){
+jQuery(document).ready(function() {
 
-	$("a.nav-parent").click(function() { 
-
-		if ( $.browser.msie) if( $.browser.version=="6.0") $("#quick_search").hide();
-
-		$(this).parent().find("ul.submenu:first").slideDown('fast').show();
-
-		$(this).parent().hover(function() {
-		}, function(){
-			$(this).parent().find("ul.submenu").slideUp('fast');
-			if ( $.browser.msie) if($.browser.version=="6.0") $("#quick_search").slideDown('slow');
-		});
-
-	});
+//alert(navigator.userAgent)
+$("a[href='#top']").click(function() {
+  $("html, body").animate({ scrollTop: 0 }, "slow");
+  return false;
 });
 
+$("#show_search").click(function(){ 
+ 
+	$("#nav").slideUp();
+	$("#quick-search").slideDown();
+	$("#menu").toggleClass("change");
+
+});
+
+ 	// show left and right banners only if the window is wide enough
+ 	if( window.innerWidth >= site_width+100) {
+
+	// get position for left and right banners
+	var left_page_pos = $(".page").offset().left;
+	var right_page_pos = left_page_pos + $(".page").width()+10;
+	var top_page_pos = $(".page").offset().top;
+
+
+
+	$(".left_banners").css({top: top_page_pos, left: left_page_pos-$(".left_banners").width()-10, position:'absolute'});
+	$(".left_banners").fadeIn();
+
+
+
+	$(".right_banners").css({top: top_page_pos, left: right_page_pos, position:'absolute'});
+	$(".right_banners").fadeIn();
+
+
+
+	lb_height = $(".left_banners").height();
+	rb_height = $(".right_banners").height();
+	page_bottom = $("footer").offset().top;
+
+  	$(window).scroll(function () {
+
+ 		set2 = $(document).scrollTop()+20;
+
+		if(set2<top_page_pos) set3 = top_page_pos+"px";
+		else set3 = set2+"px";
+
+
+
+ 		if(set2+lb_height<page_bottom)
+ 		$('.left_banners').animate({top:set3},{duration:500,queue:false});
+
+
+ 		if(set2+rb_height<page_bottom)
+ 		$('.right_banners').animate({top:set3},{duration:500,queue:false});
+
+
+
+	}); // end on window scroll
+
+	} // end show left and right banners only if the window is wide enough
+
+	// back to top button
+	// browser window scroll (in pixels) after which the "back to top" link is shown
+	var offset = 300,
+	//browser window scroll (in pixels) after which the "back to top" link opacity is reduced
+	offset_opacity = 1200,
+	//duration of the top scrolling animation (in ms)
+	scroll_top_duration = 700,
+	//grab the "back to top" link
+	$back_to_top = $('.cd-top');
+
+	//hide or show the "back to top" link
+	$(window).scroll(function(){
+		( $(this).scrollTop() > offset ) ? $back_to_top.addClass('cd-is-visible') : $back_to_top.removeClass('cd-is-visible cd-fade-out');
+		if( $(this).scrollTop() > offset_opacity ) { 
+			$back_to_top.addClass('cd-fade-out');
+		}
+	});
+
+	//smooth scroll to top
+	$back_to_top.on('click', function(event){
+		event.preventDefault();
+		$('body,html').animate({
+			scrollTop: 0 ,
+		 	}, scroll_top_duration
+		);
+	});
+	// end back to top button
+	
+	
+}); // end document ready
+
+
+
+
+// show left and right banners only if the window is wide enough
+if( window.innerWidth >= site_width+100) {
+
+$(window).on("resize", function(){
+
+	// get position for left and right banners
+	left_page_pos = $(".page").offset().left;
+	right_page_pos = left_page_pos + $(".page").width()+10;
+	top_page_pos = $(".page").offset().top;
+
+
+
+
+	$(".left_banners").css({top: top_page_pos, left: left_page_pos-$(".left_banners").width()-10, position:'absolute'});
+	$(".left_banners").fadeIn();
+
+
+
+	$(".right_banners").css({top: top_page_pos, left: right_page_pos, position:'absolute'});
+	$(".right_banners").fadeIn();
+
+
+
+}); // end on resize
+
+} // end show left and right banners only if the window is wide enough
+
+
+
+function toggleMenu(x) {
+
+	x.classList.toggle("change");
+	if($("#nav").is(":visible"))
+		$("#nav").slideUp();
+	else $("#nav").slideDown();
+	
+}
+
+function toggleLocation() {
+
+	if($("#locations_list").is(":visible"))
+		$("#locations_list").slideUp();
+	else $("#locations_list").slideDown();
+	
+}
+
+WebFont.load({
+    google: {
+      families: ['Open Sans:400,600,700', 'Roboto']
+    }
+});
 
 //]]>
 </script>
 
-<!--[if lte IE 7]>
-<script type="text/javascript">
 
+
+
+
+</head>
+<body>
+
+<style type="text/css">
+
+
+.logo { background: url('https://www.classifiedsgiant.com/images/originallogo2.png') no-repeat; width:274px; height:80px; }
+
+@media all and (min-width: 1000px)
+{
+
+	.bottom-notice { min-width: 1000px; }
+	.page_bounds { min-width: 1000px; width: 1000px;  margin: 0 auto !important;}
+	.logo { background: url('https://www.classifiedsgiant.com/images/originallogo2.png') no-repeat; width:274px; height:80px; }
+	.box-container { width: 25%; }
+	
+}
+
+
+</style>
+
+
+<div class="bottom_notice">
+<div class="page_bounds">
+
+<div class="lfloat p10" style="width: 90%">
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. Read more about our <a href="https://www.classifiedsgiant.com/content.php?code=eu_cookie">cookie terms</a>.
+</div>
+
+<div class="rfloat mt10 mr10"><a href="javascript:;" id="eucn_close"><img src="https://www.classifiedsgiant.com/templates/flux/images/delete.png"></a></div>
+
+</div>
+<div class="clearfix"></div>
+</div>
+
+
+<script type="text/javascript">
 $(document).ready(function(){
-	$(document).pngFix(); 
+
+	$("#eucn_close").click(function() { 
+		// accept cookies use
+		document.cookie='eucb=1; path=/; expires=exdate.toUTCString(); domain=;';
+		$(".bottom_notice").hide();
+	});
 });
-
-</script>
-<![endif]-->
-<div class="t" style="width: 1000px; min-width: 1000px;"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr">
-  <div class="page">
-    <div id="header"> 
-      <div id="topnav">
-        <div id="topnav-right">
-<div class="top-holder">
-                        			</div> 
-
-Sponsor Listings&gt;&gt;&gt;
-
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 468-90 -->
-<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-1071872785261494" data-ad-slot="3473903706"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 
 
-</div>
-        </div>
-      </div>
-      <div class="top-logo">	<a href="/index.html">	<img src="/images/ClassifiedsGiant_PNG_new1.png" alt="ClassifiedsGiant.com"></a></div>
-    </div>
-<!-- end: #header -->
+<div class="left_banners" style="display: none;">
 
-<!-- begin: main navigation #nav -->
-    <div id="nav">
-        <ul id="navlinks">
-		  		            <li><a href="/register.php?group=1">Register Now</a></li>
-		            <li><a href="/login.php?loc=newad.php">Sign In</a></li>
-			          <li><a href="/login.php?loc=newad.php"><b>Post Ads</b></a></li>
-					   		  		            <li><a href="/recent_ads.php">Recent Ads</a></li>
-		  		  		
-		  		          <li><a href="/modules/dealers_page/dealers.php">Dealers</a></li>
-		  
-
-			<li>
-<a href="http://www.classifiedsgiant.com/affiliate/affiliate/">
-$Affiliate Program</a>
-
-</li>
+	</div>
 
 
 
-			<li>
-<a href="#" class="nav-parent">
-Help&nbsp;&nbsp;</a>
+<div class="right_banners" style="display: none;">
 
-<ul class="submenu">
-
-
-
-			<li>
-<a href="/24-how-to-post-an-ad/content.html">
-How to post an ad.</a>
-
-</li>
+	</div>
 
 
 
 
-			<li>
-<a href="/11-faq/content.html">
-FAQ</a>
 
-</li>
+
+<style type="text/css">
 
 
 
+#skin {
+	position: absolute;
+	width: 100%;
+	height: px;
+	margin-left: auto;
+	margin-right: auto;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+}
 
-			<li>
-<a href="/10-why-post-a-classified-ad/content.html">
-Why Post a Classified Ad?</a>
+#background
+{
+	background: url(https://www.classifiedsgiant.com/images/baners/) no-repeat 50% 0;
+	background-color: #dee0e2;
+	width: 100%;
+	height: px;
+	position: absolute;
+	top:0px;
+	z-index: 1;
+}
 
-</li>
+</style>
 
-
-
-
-			<li>
-<a href="/12-tips-on-posting-an-ad/content.html">
-Tips on  posting an ad.</a>
-
-</li>
-
-
+<div id="background"><a href="" id="skin" target="_blank"></a></div>
 
 
-			<li>
-<a href="/6-avoiding-scams-and-fraud/content.html">
-Avoiding Scams and Fraud</a>
 
-</li>
+<header>
+	<div class="page_bounds" id="top">
 
 
-</ul>
-</li>
-
+<div class="top-logo">
 		
+		
+	<a href="https://www.classifiedsgiant.com">
+	
+	
 
-        </ul>
+	
+	
+	<div class="logo">&nbsp;</div>	</a>
 
 	
 
-<div id="choose_location">
+	</div>
 
-<a href="javascript:;" class="choose_location">Choose location&nbsp;<img id="choose_arrow" src="http://www.classifiedsgiant.com/templates/platinum/images/lang-arrow.png" alt="Classifieds Location"></a>
+
+
+
+
+
+
+<div id="menu" onclick="toggleMenu(this)">
+	<div class="bar1"></div>
+	<div class="bar2"></div>
+	<div class="bar3"></div>
 </div>
-<div id="location_div" style="display: none;"></div>
 
+<div class="ssclear"></div>
 
-<script type="text/javascript">
+<ul id="nav">
 
-$(document).ready(function() {
+	<li class="show_search"><a href="javascript:;" id="show_search"><div class="search_icon"><div class="search_circle"></div><div class="search_rectangle"></div></div><span>Search</span></a></li>
 
-
-		
-		$("#location_div").hide();
-		$("#choose_location").click(function(event){
-
-			if ($("#location_div").is(":visible") ) {
-				$("#choose_arrow").attr("src", "http://www.classifiedsgiant.com/templates/platinum/images/lang-arrow.png");
-				$("#location_div").slideUp();
-			}
-			else {
-
-				event.stopPropagation();
-				$("#choose_arrow").attr("src", "http://www.classifiedsgiant.com/templates/platinum/images/up-lang-arrow.png");
-
-				// get values for locations
-				$.ajax({
-					type		: "GET",
-					cache		: false,
-					url		: "/include/get_locations.php",
-					data		: null,
-					success: function(data) {
-
-						var split_loc=data.split("|");
-						var no = split_loc.length;
-
+	<li class="post-listing"><a href="https://www.classifiedsgiant.com/login.php?loc=new_listing.php"><div class="post-listing-btn"><div class="plus"></div><span>Post&nbsp;your&nbsp;ad!</span></div></a></li>
+	
+		<li class="languages">
+		<a class="arrow-button current_language" href="#"><span class="down-arrow"><img src="https://www.classifiedsgiant.com/images/languages/en_usa.gif" alt="English"></span></a>
+		<ul>
+						<li><a class="nolink" href="javascript:;" onclick="document.cookie='default_lang=eng; path=/; expires = exdate.toUTCString(); domain=classifiedsgiant.com;'; window.location.reload( false );"><img src="https://www.classifiedsgiant.com/images/languages/en_usa.gif" alt="">&nbsp;English</a></li>
+						<li><a href="javascript:;" onclick="document.cookie='default_lang=esp; path=/; expires = exdate.toUTCString(); domain=classifiedsgiant.com;'; window.location.reload( false );"><img src="https://www.classifiedsgiant.com/images/languages/spanish.gif" alt="">&nbsp;Spanish</a></li>
 						
-						var crt_loc = "";
-						var content ="<ul>";
-												
-						for (var j=0;j<no;j++) {
-							
-							var cl="";
-							if(crt_loc==split_loc[j]) cl=" class='crt_loc' ";
-							content += "<li><a href='javascript:;'"+cl+" onclick='changeLocation(\" \", \"state|"+split_loc[j]+"\")'>"+split_loc[j]+"</a></li>";
-							
-							//if( j>0 && j%10==0 && j!=no-1) content+= "</ul><div class=\"clearfix\"></div><ul>";
-						}
-						content +="</ul>";
-
-						$("#location_div").html(content);
-					
-						$("#location_div").css({ top: $("#choose_location").position().top+20, left: 		$("#choose_location").position().left});
-						$("#location_div").slideDown();
-
-					} // end data
-				});// end ajax
-			} // end else
-		});
-		$(document).click(function(){
-			$("#choose_arrow").attr("src", "http://www.classifiedsgiant.com/templates/platinum/images/lang-arrow.png");
-			$("#location_div").slideUp();
-		});
+		</ul>
+	</li> 
 	
+	<li>
 	
-});
-
-</script>
-
+	<a class="arrow-button" href="#"><span class="down-arrow">My Account</span></a>
 	
- 	</div>
-    <!-- end: main navigation -->
-
+ 			<ul>
+			<li><a href="https://www.classifiedsgiant.com/login.html">Sign In</a></li>
+			<li><a href="https://www.classifiedsgiant.com/register.html">Register</a></li>
+			<li><a class="starfav" href="https://www.classifiedsgiant.com/favorites.html">Favorites</a></li>
+		</ul>
 	
 		
+	</li> 
+	
+</ul> 
 
-	 <!-- begin: main content area #main -->
-    <div id="dmain">
+<div class="clearfix"></div>
+	</div>
+</header>
 
-<div id="custom_content">
+
+<div id="quick-search">
+<div class="page_bounds">
+<form name="qsearch" id="qsearch" method="post" action="https://www.classifiedsgiant.com/listings.php">
+<div id="qs_container">
+	<div class="qs_category qsf">
+		<select name="qs_category">
+				<option value="">All Categories</option>
+								<option value="6">For Sale</option>
+								<option value="63">&nbsp;&nbsp;&nbsp;Antiques</option>
+								<option value="94">&nbsp;&nbsp;&nbsp;Appliances</option>
+								<option value="64">&nbsp;&nbsp;&nbsp;Art &amp; Crafts</option>
+								<option value="109">&nbsp;&nbsp;&nbsp;Babies &amp; Kids</option>
+								<option value="257">&nbsp;&nbsp;&nbsp;Bed &amp; Bath</option>
+								<option value="65">&nbsp;&nbsp;&nbsp;Books / Magazines</option>
+								<option value="66">&nbsp;&nbsp;&nbsp;Cell Phones</option>
+								<option value="67">&nbsp;&nbsp;&nbsp;Clothing  Accessories</option>
+								<option value="135">&nbsp;&nbsp;&nbsp;Collectibles</option>
+								<option value="68">&nbsp;&nbsp;&nbsp;Computers / Tech</option>
+								<option value="69">&nbsp;&nbsp;&nbsp;DVD / Movie / CD</option>
+								<option value="70">&nbsp;&nbsp;&nbsp;Electronics</option>
+								<option value="338">&nbsp;&nbsp;&nbsp;Farm &amp; Garden</option>
+								<option value="73">&nbsp;&nbsp;&nbsp;Health / Beauty</option>
+								<option value="348">&nbsp;&nbsp;&nbsp;Home Decor &amp; Furniture</option>
+								<option value="132">&nbsp;&nbsp;&nbsp;Industrial  Machinery</option>
+								<option value="101">&nbsp;&nbsp;&nbsp;Jewelry / Watches</option>
+								<option value="74">&nbsp;&nbsp;&nbsp;Kitchen Decor &amp; Cookware</option>
+								<option value="75">&nbsp;&nbsp;&nbsp;Musical Instruments</option>
+								<option value="123">&nbsp;&nbsp;&nbsp;Photo / Video</option>
+								<option value="341">&nbsp;&nbsp;&nbsp;Sports Equipment</option>
+								<option value="107">&nbsp;&nbsp;&nbsp;Tools</option>
+								<option value="106">&nbsp;&nbsp;&nbsp;Toys / Games</option>
+								<option value="71">&nbsp;&nbsp;&nbsp;Other</option>
+								<option value="269">Cars / Trucks</option>
+								<option value="329">&nbsp;&nbsp;&nbsp;ATVs &amp;  Snowmobiles</option>
+								<option value="272">&nbsp;&nbsp;&nbsp;Boats &amp; Watercraft</option>
+								<option value="273">&nbsp;&nbsp;&nbsp;Cars</option>
+								<option value="286">&nbsp;&nbsp;&nbsp;Commercial Vehicles</option>
+								<option value="277">&nbsp;&nbsp;&nbsp;Motorcycles &amp; Scooters</option>
+								<option value="278">&nbsp;&nbsp;&nbsp;Parts &amp; Accessories</option>
+								<option value="280">&nbsp;&nbsp;&nbsp;Trailers &amp; RVs</option>
+								<option value="283">&nbsp;&nbsp;&nbsp;Trucks / Vans / SUVs</option>
+								<option value="285">&nbsp;&nbsp;&nbsp;Other</option>
+								<option value="2">Real Estate</option>
+								<option value="24">&nbsp;&nbsp;&nbsp;Agents / Services</option>
+								<option value="175">&nbsp;&nbsp;&nbsp;Apt / Housing / Condo</option>
+								<option value="327">&nbsp;&nbsp;&nbsp;Commercial Real Estate</option>
+								<option value="21">&nbsp;&nbsp;&nbsp;Housing Wanted</option>
+								<option value="23">&nbsp;&nbsp;&nbsp;Land For Sale</option>
+								<option value="143">&nbsp;&nbsp;&nbsp;Manufactured Homes</option>
+								<option value="183">&nbsp;&nbsp;&nbsp;Office Rentals</option>
+								<option value="212">&nbsp;&nbsp;&nbsp;Parking / Storage</option>
+								<option value="16">&nbsp;&nbsp;&nbsp;Real Estate For Sale</option>
+								<option value="326">&nbsp;&nbsp;&nbsp;Roommates</option>
+								<option value="180">&nbsp;&nbsp;&nbsp;Rooms For Rent</option>
+								<option value="182">&nbsp;&nbsp;&nbsp;Vacation Rentals</option>
+								<option value="7">Services</option>
+								<option value="333">&nbsp;&nbsp;&nbsp;Astrology / Horoscope</option>
+								<option value="78">&nbsp;&nbsp;&nbsp;Automotive</option>
+								<option value="343">&nbsp;&nbsp;&nbsp;Babysitting</option>
+								<option value="79">&nbsp;&nbsp;&nbsp;Child / Elder Care</option>
+								<option value="89">&nbsp;&nbsp;&nbsp;Classes / Lessons</option>
+								<option value="80">&nbsp;&nbsp;&nbsp;Cleaning / Maintenance</option>
+								<option value="81">&nbsp;&nbsp;&nbsp;Computer / Electronics</option>
+								<option value="82">&nbsp;&nbsp;&nbsp;Creative / Web Design</option>
+								<option value="347">&nbsp;&nbsp;&nbsp;Discussion Forums / Blogs</option>
+								<option value="142">&nbsp;&nbsp;&nbsp;Events / Occasions</option>
+								<option value="337">&nbsp;&nbsp;&nbsp;Farm &amp; Garden</option>
+								<option value="84">&nbsp;&nbsp;&nbsp;Financial / Mortgages</option>
+								<option value="346">&nbsp;&nbsp;&nbsp;Food &amp; Beverage</option>
+								<option value="86">&nbsp;&nbsp;&nbsp;Health / Beauty</option>
+								<option value="258">&nbsp;&nbsp;&nbsp;Home Improvements</option>
+								<option value="87">&nbsp;&nbsp;&nbsp;Household</option>
+								<option value="235">&nbsp;&nbsp;&nbsp;IT / Programming</option>
+								<option value="344">&nbsp;&nbsp;&nbsp;Legal Services</option>
+								<option value="238">&nbsp;&nbsp;&nbsp;Medical / Healthcare</option>
+								<option value="254">&nbsp;&nbsp;&nbsp;Online Auction</option>
+								<option value="129">&nbsp;&nbsp;&nbsp;Small Business Ads</option>
+								<option value="246">&nbsp;&nbsp;&nbsp;Travel</option>
+								<option value="83">&nbsp;&nbsp;&nbsp;Other</option>
+								<option value="4">Jobs</option>
+								<option value="35">&nbsp;&nbsp;&nbsp;Accounting / Finance</option>
+								<option value="40">&nbsp;&nbsp;&nbsp;Construction Work</option>
+								<option value="41">&nbsp;&nbsp;&nbsp;Customer Service</option>
+								<option value="42">&nbsp;&nbsp;&nbsp;Education</option>
+								<option value="48">&nbsp;&nbsp;&nbsp;General Labor</option>
+								<option value="45">&nbsp;&nbsp;&nbsp;Healthcare</option>
+								<option value="36">&nbsp;&nbsp;&nbsp;Marketing</option>
+								<option value="342">&nbsp;&nbsp;&nbsp;Nanny &amp; Babysitting Jobs</option>
+								<option value="290">&nbsp;&nbsp;&nbsp;Office</option>
+								<option value="288">&nbsp;&nbsp;&nbsp;People seeking</option>
+								<option value="50">&nbsp;&nbsp;&nbsp;Real Estate</option>
+								<option value="289">&nbsp;&nbsp;&nbsp;Retail</option>
+								<option value="52">&nbsp;&nbsp;&nbsp;Sales</option>
+								<option value="53">&nbsp;&nbsp;&nbsp;Technology</option>
+								<option value="331">&nbsp;&nbsp;&nbsp;Transportation</option>
+								<option value="345">&nbsp;&nbsp;&nbsp;Web Application Programming</option>
+								<option value="121">&nbsp;&nbsp;&nbsp;Web  Info Design</option>
+								<option value="122">&nbsp;&nbsp;&nbsp;Writing / Editing</option>
+								<option value="43">&nbsp;&nbsp;&nbsp;Other</option>
+								<option value="301">Community</option>
+								<option value="302">&nbsp;&nbsp;&nbsp;Announcements</option>
+								<option value="305">&nbsp;&nbsp;&nbsp;Free Stuff</option>
+								<option value="306">&nbsp;&nbsp;&nbsp;Garage Sales</option>
+								<option value="310">&nbsp;&nbsp;&nbsp;Lost / Found</option>
+								<option value="311">&nbsp;&nbsp;&nbsp;Musicians / Bands</option>
+								<option value="315">Business Opp.</option>
+								<option value="322">&nbsp;&nbsp;&nbsp;Affiliate Programs</option>
+								<option value="330">&nbsp;&nbsp;&nbsp;Business Listings</option>
+								<option value="316">&nbsp;&nbsp;&nbsp;Business Opportunities</option>
+								<option value="340">&nbsp;&nbsp;&nbsp;Distributors Wanted</option>
+								<option value="319">&nbsp;&nbsp;&nbsp;Franchise for Sale</option>
+								<option value="321">&nbsp;&nbsp;&nbsp;Investment / Partnership</option>
+								<option value="320">&nbsp;&nbsp;&nbsp;Multi Level Marketing</option>
+								<option value="339">&nbsp;&nbsp;&nbsp;Representatives Wanted</option>
+								<option value="335">&nbsp;&nbsp;&nbsp;Telecommunication</option>
+								<option value="317">&nbsp;&nbsp;&nbsp;Work at Home</option>
+								<option value="334">&nbsp;&nbsp;&nbsp;Other</option>
+								<option value="3">Pets</option>
+								<option value="145">&nbsp;&nbsp;&nbsp;Adoption</option>
+								<option value="140">&nbsp;&nbsp;&nbsp;Animal Services</option>
+								<option value="28">&nbsp;&nbsp;&nbsp;Birds</option>
+								<option value="26">&nbsp;&nbsp;&nbsp;Cats / Kittens</option>
+								<option value="25">&nbsp;&nbsp;&nbsp;Dogs / Puppies</option>
+								<option value="29">&nbsp;&nbsp;&nbsp;Fish</option>
+								<option value="27">&nbsp;&nbsp;&nbsp;Horses</option>
+								<option value="139">&nbsp;&nbsp;&nbsp;Livestock</option>
+								<option value="213">&nbsp;&nbsp;&nbsp;Monkeys</option>
+								<option value="34">&nbsp;&nbsp;&nbsp;Pet Supplies</option>
+								<option value="33">&nbsp;&nbsp;&nbsp;Other Pets</option>
+							</select>
+	</div>
+	<div class="qs_keyword qsf"><input type="text" name="qs_keyword" placeholder="Search for"></div>
+	<div class="qs_location qsf"><input type="text" name="qs_location" placeholder="Postcode or location"></div>
+	<div class="search-button qsf"><input type="submit" name="Search" value="Search"></div>
+
+</div>
+
+<div class="clearfix"></div>
+	<input type="hidden" name="order" value="date_added">
+	<input type="hidden" name="order_way" value="desc">
+
+</form>
+</div>
+</div>
+
+
+
+<main>
+	<div class="page_bounds page">
+
+
+
+
+
+
+
+	</div> 
+
+<div class="page_bounds">
+<div class="page_title"><h1>Privacy Policy</h1></div>
+</div> 
+
+<div class="wbg pt30">
+<div class="page_bounds">
+
 <p><span style="font-size: large;"><strong>Our Commitment To Privacy</strong></span><br> <br> Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.<br> <br> <span style="font-size: medium;"><strong>Overview</strong></span><br> <br> This Privacy Policy describes how ClassifiedsGiant treats the personal information that ClassifiedsGiant collects and receives through its website. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that ClassifiedsGiant does not own or control or to people that ClassifiedsGiant does not employ or manage.<br> <br> By your use of the ClassifiedsGiant website, you expressly consent to our disclosure and use of your personal information as described in this Privacy Policy.<br> <br> We reserve the right to modify this Privacy Policy at any time, and we will post any new versions on this page.<br> <br> 1. A Special Note About Children: Children (persons under the age of 18) are not eligible to use the website unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may use the website only in conjunction with and under the supervision of a parent or legal guardian.<br> <br> 2. Information Collection and Use: ClassifiedsGiant collects personal information from our users at several different points on our website. This includes when you conduct certain activities on the websit<br> <br> Name<br> Address<br> Email address<br> Phone number<br> <br> ClassifiedsGiant automatically receives and records information on our server logs from your browser, including your IP address, ClassifiedsGiant cookies information, and the page you request. Our collection and use of such information is further described below.<br> <br> We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.<br> <br> 3. Information Sharing and Disclosure: ClassifiedsGiant is the sole owner of the information collected on all of ClassifiedsGiant's websites. We will not rent, sell or share your personal information with anyone except under the following circumstances:<br> <br> · We provide information about our users to trusted partners who work on our behalf pursuant to confidentiality agreements. Pursuant to the terms of their agreements, these companies do not have any independent right to share or use such information.<br> <br> · We may disclose user information in response to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims.<br> <br> · We may disclose user information when we believe such disclosure is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our User Agreement, or as otherwise required by law.<br> <br> · We may transfer information about you if we are acquired by or merged with another company. In this event, we will notify you before information about you is transferred and becomes subject to a different privacy policy.<br> <br> On account of the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.<br> <br> 4. Cookies: Some of our business partners (e.g., tracking utility agents, advertisers) use cookies on our site. We have no access to or control over these cookies.<br> <br> This privacy statement covers the use of cookies by ClassifiedsGiant, Inc. only and does not cover the use of cookies by any advertisers.<br> <br> ClassifiedsGiant may set and access ClassifiedsGiant "cookies" on your computer. A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie does not link to any personally identifiable information while on our website. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time.<br> <br> Cookies were implemented to allow user-side customization of website information. Cookie related information is used by ClassifiedsGiant to facilitate the user's transactions and to improve ClassifiedsGiant's service offering to better match the user's needs.<br> <br> 5. Log Files: Like most standard website servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the website, track users' movement in the aggregate, and gather broad demographic information for aggregate use.<br> <br> 6. Confidentiality and Security Your personal information is stored on ClassifiedsGiant's servers located in the United States . We use physical, procedural and technical safeguards to protect that information against loss or theft as well as unauthorized access and disclosure. Certain information is password-protected. Likewise, in certain areas, ClassifiedsGiant uses industry-standard SSL-encryption and network firewalls to protect data transmissions and storage. Finally, all of our employees are kept up-to-date on our security and privacy practices.<br> <br> 7. Your Responsibilities We go to great lengths to protect all of your information on our website. Please keep in mind that whenever you voluntarily disclose personal information online - for example through email - that information can be collected and used by others. By disclosing personal information online, you may receive unsolicited communication from other parties in return. Therefore, you should exercise caution and common sense in such disclosures.<br> <br> 8. Links to Other Sites: This website contains links to other sites that are not owned or controlled by ClassifiedsGiant, Inc. Please be aware that we, ClassifiedsGiant, Inc. are not responsible for the privacy practices of such other sites.<br> We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information.This privacy statement applies only to information collected by this website.</p>
 <p>&nbsp;</p>
 <p><strong>Cookies &amp; 3rd Party Advertisements Googl</strong>e, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/policies/privacy/ads/">Google ad and content network privacy policy. </a></p>
@@ -264,36 +533,166 @@ $(document).ready(function() {
 <p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
 <p>&nbsp;</p>
 <p><strong> NOTIFICATION OF CHANGES</strong><br> If we decide to change our privacy policy, we will post those changes on our Home page and use our best efforts to announce via e-mail so all users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will make a reasonable effort to notify users by way of an e-mail. Users have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.<br> <br> <br> If you have questions or suggestions regarding our Privacy Policy and practices, please contact us at:<br> <br> <strong>ClassifiedsGiant.com</strong><br> <a href="mailto:privacy@classifiedsgiant.com?subject=Your%20Privacy%20Policy"><strong>privacy@ClassifiedsGiant.com</strong></a><br> <span id="gc-header-did-display"><strong>(347) 541-9085</strong></span><br> <br> &nbsp;Last updated 05-10-2010</p>
+
+</div> 
 </div>
-    </div> </div>
-    <!-- end: #main -->
-<br>
-    <!-- begin: #footer -->
-    <div id="footer">
-<div id="footer-nav">
-	<a href="/contact.html">Contact</a>&nbsp;
-		|&nbsp;
-		<a href="/3-terms----conditions/content.html" target="_blank">
-		Terms / Conditions</a>
-		|&nbsp;
-		<a href="/4-privacy-policies/content.html">
-		Privacy Policies</a>
-		|&nbsp;
-		<a href="/26-about-us/content.html">
-		About Us.</a>
-		|&nbsp;
-		<a href="/30-advertise-with-us/content.html">
-		Advertise with us</a>
-		<br>
-	<span>Copyright  2017 - ClassifiedsGiant, LLC</span>
+
+
+<div class="page_bounds">
+
+
+
+
+
 </div>
+</main>
+
+<footer>
+<div class="page_bounds fbc_inv">
+	<nav id="secnav" class="fb_inv">
+	
+		
+				<ul>
+				
+			<li>
+											<a href="http://www.classifiedsgiant.com/affiliate/affiliate/">
+										$Affiliate Program
+							</a>
+						</li>
+		
+				
+			<li class="parent">
+						Help
+						</li>
+		
+				
+			<li>
+											<a href="https://www.classifiedsgiant.com/24-how-to-post-an-ad/content.html">
+										How to Post an Ad.
+							</a>
+						</li>
+		
+				
+			<li>
+											<a href="https://www.classifiedsgiant.com/11-faq/content.html">
+										FAQ
+							</a>
+						</li>
+		
+				
+			<li>
+											<a href="https://www.classifiedsgiant.com/10-why-post-a-classified-ad/content.html">
+										Why Post a Classified Ad?
+							</a>
+						</li>
+		
+				
+			<li>
+											<a href="https://www.classifiedsgiant.com/12-tips-on-posting-an-ad/content.html">
+										Tips on Posting an Ad.
+							</a>
+						</li>
+		
+				
+			<li>
+											<a href="https://www.classifiedsgiant.com/6-avoiding-scams-and-fraud/content.html">
+										Avoiding Scams and Fraud
+							</a>
+						</li>
+		
+				</ul>
+				
+		
+				<ul>
+					<li>
+											<a href="https://www.classifiedsgiant.com/33-affiliates/content.html">
+										Affiliates
+							</a>
+						</li>
+					<li>
+											<a href="https://www.classifiedsgiant.com/36-rules/content.html">
+										Rules
+							</a>
+						</li>
+					<li>
+											<a href="https://www.classifiedsgiant.com/3-terms-conditions/content.html" target="_blank">
+										Terms / Conditions
+							</a>
+						</li>
+					<li>
+											<a href="https://www.classifiedsgiant.com/4-privacy-policy/content.html">
+										Privacy Policy
+							</a>
+						</li>
+					<li>
+											<a href="https://www.classifiedsgiant.com/26-about-us/content.html">
+										About Us
+							</a>
+						</li>
+					<li>
+											<a href="https://www.classifiedsgiant.com/30-advertise-with-us/content.html">
+										Advertise with Us
+							</a>
+						</li>
+				</ul>
+				
+		<ul>
+			
+									<li><a href="https://www.classifiedsgiant.com/modules/dealers_page/dealers.php">Dealers</a></li>
+						
+						<li><a href="https://www.classifiedsgiant.com/login.html">Sign In</a></li>
+			 
+			
+			<li><a href="https://www.classifiedsgiant.com/login.php?loc=new_listing.php">Post your ad!</a></li>
+	
+			<li><a href="https://www.classifiedsgiant.com/contact.html">Contact</a></li>
+
+						
+		</ul>
+	</nav>
+	
+	<div class="frs">
+		
+				<div class="sn_buttons">
+
+<!--
+--><a target="_blank" href="https://www.facebook.com/ClassifiedsGiant"><img src="https://www.classifiedsgiant.com/templates/flux/modules/social_networks/images/sn_facebook.png" alt="Join us on Facebook"></a><!--
+--><!--
+
+--><!--
+--><a href="https://www.twitter.com/clasifiedsgiant" target="_blank"><img src="https://www.classifiedsgiant.com/templates/flux/modules/social_networks/images/sn_twitter.png" alt="Follow us on Twitter"></a><!--
+--><!--
+
+--><!--
+
+--><!--
+
+--><!--
+--><a target="_blank" href="https://www.pinterest.com/classifidsgiant"><img src="https://www.classifiedsgiant.com/templates/flux/modules/social_networks/images/sn_pinterest.png" alt=""></a><!--
+--><!--
+
+--><!--
+--><a target="_blank" href="https://www.instagram.com/classifiedsgiant/"><img src="https://www.classifiedsgiant.com/templates/flux/modules/social_networks/images/sn_instagram.png" alt=""></a><!--
+--><!--
+
+--><!--
+--><a target="_blank" href="https://www.linkedin.com/in/classifiedsgiant/"><img src="https://www.classifiedsgiant.com/templates/flux/modules/social_networks/images/sn_linkedin.png" alt=""></a><!--
+--><!--
+
+--><!--
+--><a target="_blank" href="http://feeds.feedburner.com/Classifiedsgiantcom-FreeClassifieds"><img src="https://www.classifiedsgiant.com/templates/flux/modules/social_networks/images/sn_rss.png" alt="RSS"></a><!--
+-->
 </div>
-    <!-- end: #footer -->
+				
+		<div id="copyright">Copyright  2017 - ClassifiedsGiant, LLC</div>
+	</div>
+
+</div>
+</footer>
 
 
-<!-- end: #page -->
-</div></div></div></div></div>
+<a href="#top" class="cd-top side_button">Go to top</a>
 
 
-
-This page took 0.004923 seconds to load. Memory usage: 5.95 M</div></div></body></html>
+ 
+</body></html>
