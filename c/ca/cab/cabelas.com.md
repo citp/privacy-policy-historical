@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabelas.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630210045id_/https%3A//www.cabelas.com/custserv/custserv.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabelas.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228010622id_/https%3A//www.cabelas.com/custserv/custserv.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Cabela's
 
@@ -37,7 +37,7 @@ Contacting Us
 
 [](https://privacy.truste.com/privacy-seal/Cabela-s,-Inc-/validation?rid=ca181d32-91c0-4159-96f1-b82f9ff0daea "TRUSTe online privacy certification")
 
-Last updated March 27, 2017
+Last updated September 25, 2017
 
 This privacy policy applies to [www.cabelas.com](http://www.cabelas.com/) and other technology resources owned and operated by Cabela's Inc. ("Cabela's", "we", "us", "our") such as Cabela's online store, mobile applications, social platforms, chat rooms, and the like ("Tech Resources"), and to information collected when you visit our stores or otherwise communicate or interact with Cabela's outside of the Tech Resources. This privacy policy describes how Cabela's collects and uses the information you provide and the information that we otherwise collect. It also describes the choices available to you regarding our collection and use of your information and how you can access and update this information. 
 
@@ -62,7 +62,7 @@ When you visit Cabelas.com, make use of Cabela's Tech Resources or visit us, whe
   * Credit card number or other payment-related information
 
   
-In addition, if you're applying for a CLUB VISA Card, we may collect additional information as set below which may include your Social Security number. 
+In addition, if you're applying for a CLUB VISA Card, we may collect additional personal information that you provide as part of the credit card application. 
 
 If you request one of our newsletters or send an inquiry to one of our customer service representatives, we will also store a record of your request along with your email address. When you order a giftcard or eGiftCard you are given the opportunity to include the name and a message for the recipient. We record this information, along with the shipping information. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided. 
 
@@ -88,6 +88,8 @@ If you do not want to use cookies, this will not prevent you from accessing the 
 
 AD NETWORKS  
 We use third party ad networks (called third-party ad servers or network advertisers) including Google, Conversant, and various social media platforms (as discussed below) to deliver ads to you on our behalf. These third party ad networks may place their cookies, web beacons, pixel tags or other technology on the Website or the Application or in your browser to collect non-personal information about you when you visit this Website or use this Application (such as browser type, time and date, browsing or transaction activity, subject of advertisements clicked or scrolled over, or a platform-provided identifier during your visits to this and other websites) to enable those third party ad networks to deliver to you advertisements on third party websites and mobile applications for our products or services or those of third parties that are likely to be of greater interest to you. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
+
+If you wish to Opt-out of Conversant please click here: [http://dtmc.cabelas.com/adinfo/choice/prod/?type=fpc&cid=2122&cname=Cabelas&cmagic=abdbeb&clogo=2122.png&loc=us&lang=en-us](http://dtmc.cabelas.com/adinfo/choice/prod/?type=fpc&cid=2122&cname=Cabelas&cmagic=abdbeb&clogo=2122.png&loc=us&lang=en-us)
 
 We encourage you to view the privacy policy of advertisers and ad services to learn more about their cookies and other technologies. If you do not want to receive those kinds of advertisements, look for the "Ad Choices" icon in the advertisements, which will contain a link to the privacy policy of the ad network that will provide you with information on how to opt-out of receiving such targeted advertising. **You can also visit the website<http://www.networkadvertising.org/choices> or <http://www.aboutads.info/choices/> to learn more about interest-based advertising and third party ad networks and to opt-out of receiving ads from ad networks. Please remember that changing your settings with certain browsers and ad networks will not carry your privacy choices across browsers and other ad networks.**
 
@@ -155,13 +157,11 @@ We use software tools and service providers to help us gather and analyze inform
 
 BrassRing is our service provider for tracking and processing job applications. No information is collected unless specifically entered by the user. This information is only used in connection with applying for a job at Cabela's. You may review BrassRing's privacy policy here or to have your information deleted from the career database, please email BrassRing at [swlegal@us.ibm.com](mailto:swlegal@us.ibm.com;).
 
-We may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of the Cabela's family of companies (for example, your information may be shared with our affiliate World's Foremost Bank in order to offer you a Cabela's CLUB® Visa® credit card). We may also make our postal mailing address lists available to other direct mail companies who we believe may have products and services of interest to our customers. We do not share email addresses with any outside organizations that do not have operational relationships with Cabela's for their own marketing purposes.
+We may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of the Cabela's family of companies. We may also make our postal mailing address lists available to non-affiliated parties in order to offer you a Cabela's CLUB® Visa® credit card, and to direct mail companies who we believe may have products and services of interest to our customers. We do not share email addresses with any outside organizations that do not have operational relationships with Cabela's for their own marketing purposes.
 
 If Cabela's Inc. is involved in a merger, acquisition, reorganization, or sale of all or a portion of its assets, customer information will likely be shared for evaluation purposes and included among the transferred assets. We may share any data within our databases and may transfer title to that data as part of any such transaction. Any successor in interest will remain bound by the terms of this Privacy Policy as it relates to your information.
 
 If required by law, we may provide any and all information we have about you to law enforcement or other government agencies, pursuant to a subpoena, bankruptcy proceedings, warrant, or other order by a court of competent jurisdiction or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In all cases, we will require written documentation of the request, proof of the identity of the law enforcement official making the request, and we will take steps to authenticate the validity of the request. Any law enforcement or government agency request submitted with less than a court-issued order will be evaluated on a case-by-case basis according to the need and urgency, as well as the particular law enforcement agency making the request.
-
-If you complete the form to receive our investor package or sign up for SEC alerts via email your information is provided to a third party specifically for those services and will not be used in any other manner.
 
 HOW WE PROTECT THE INFORMATION WE COLLECT  
 Cabela's strives to maintain administrative, technical and physical safeguards designed to protect the integrity and confidentiality of your personal information. When you make a purchase on Cabelas.com we use technology to protect your order information before transmitting it to our secure server. Although such technology makes it difficult for anyone to intercept or misuse credit card or information, no method of transmission over the Internet or method of electronic storage is 100% secure. Therefore, we cannot guarantee its absolute security.
@@ -191,7 +191,7 @@ If you choose to opt-out out of our use of your information for direct marketing
 If you are a registered user of the web site, you can manage many aspects of your registration information. If your information changes, you may correct or update the information by making the changes on our member information page. For security reasons, however, some parts of your information may not be changed online and may require you to call or write to us in order to verify your identity before such changes can be made. We will respond to your request within a reasonable timeframe. To request that we no longer use your information to provide our services, the removal of your testimonial, or the removal of your information from a blog or public forum, please contact us via our [Customer Service email address](mailto:https://cabelas.custhelp.com/app/ask;).
 
 INFORMATION ABOUT THE CLUB® Visa® PROGRAM  
-The Cabela's CLUB Visa is issued by our affiliate, World's Foremost Bank. When you apply for a Cabela's CLUB Visa card on cabelas.com, we submit your information to World's Foremost Bank to process your credit application. To view World's Foremost Bank's privacy policy, please [click here](https://assets.cabelas.com/content/dam/assets/CLUB_Visa/website/pdf/Privacy_Policy.pdf).
+The Cabela's CLUB Visa is issued by Capital One Bank (USA), N.A. ("Capital One"). When you apply for a Cabela's CLUB Visa card on cabelas.com, we submit your information to Capital One to process your credit application. To view Capital One's privacy notice, please [click here](https://www.capitalone.com/media/doc/corporate/english-privacy-notice.pdf).
 
 CHANGES TO THIS PRIVACY POLICY  
 We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
@@ -200,7 +200,7 @@ CHILDREN
 Our website and other Tech Resources are not directed at children. In accordance with federal law, we do not solicit or knowingly collect information from children under age 13 without the verifiable permission of a parent or guardian. If Cabela's learns that a child under the age of 13 has submitted information online without parental consent, it will not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law) and will take all reasonable measures to delete such information from its databases by identifying such information for a purge process. If you become aware of any information we have collected from children under 13, please contact us as provided below.
 
 RIGHT TO REMOVAL OF POSTED INFORMATION - CALIFORNIA MINORS  
-If you are under 18 years of age, reside in California, and have a registered account with Cabela's, you have the right to request removal of unwanted information that you publicly post on the Tech Resources. To request removal of such information, you can contact Cabela's as provided below. Upon receiving such a request, Cabela's will make sure that the information is not publicly available on the Tech Resources, but the information may not be completely or comprehensively removed from our systems and databases. 
+If you are under 18 years of age, reside in California, and have a registered account with Cabela's, you have the right to request removal of unwanted information that you publicly post on the Tech Resources. To request removal of such information, you can contact Cabela's as provided below. Upon receiving such a request, Cabela's will make sure that the information is not publicly available on the Tech Resources, but the information may not be completely or comprehensively removed from our systems and databases.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**  
 **This Privacy Policy describes how we may share your information for marketing purposes. You may contact us with any questions and, to the extent applicable, to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose.** CONTACTING US  
