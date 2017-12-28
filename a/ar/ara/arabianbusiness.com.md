@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arabianbusiness.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626233604id_/http%3A//www.arabianbusiness.com/privacy-policy-159141.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabianbusiness.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228010819id_/http%3A//www.arabianbusiness.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ArabianBusiness.com
+# - , - ArabianBusiness.com
 
-The Information & Technology Publishing Co. Ltd. ("ITP") recognizes the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all of our customers. We created this policy with a fundamental respect for our users' right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by ArabianBusiness.com. A current list of our publications, web site, and trade shows can be found at www.ArabianBusiness.com.
+The Information & Technology Publishing Co. Ltd. ("ITP") recognizes the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all of our customers. We created this policy with a fundamental respect for our users' right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by ArabianBusiness.com. A current list of our publications, web site, and trade shows can be found at [www.ArabianBusiness.com](http://www.arabianbusiness.com/).
 
 ### Information Collection and Use
 
@@ -64,11 +64,11 @@ We may share aggregate information, which is not personally identifiable, with o
 
 ### Correction/Updating Personal Information
 
-If a user's personally identifiable information changes (such as PO Box), or if a user no longer desires our products(s)/service(s), we provide a way to correct or update that user's personal data. Users should either logon at www.itp.net/subscriptions using their unique User Name and Password and click MODIFY PROFILE; telephone the changes to the Circulation Department on +971 4 282 9996 ext 171; Fax changes to +971 4 282 9599; or email changes to subscriptions@itp.com for the applicable product or service.
+If a user's personally identifiable information changes (such as PO Box), or if a user no longer desires our products(s)/service(s), we provide a way to correct or update that user's personal data. Users should either logon at [www.itp.com/subscriptions](http://www.itp.com/subscriptions) using their unique User Name and Password and click MODIFY PROFILE; telephone the changes to the Circulation Department on +971 4 444 3000; Fax changes to +971 4 4443030; or email changes to [subscriptions@itp.com](mailto:subscriptions@itp.com) for the applicable product or service.
 
 ### Permission
 
-Our users are given the opportunity when they register to choose whether to receive information from our affiliates and us not directly related to the registered services. Users also have the opportunity to choose whether to have personal information shared with third parties for marketing purposes. Users should logon at www.itp.net/subscriptions using their unique User Name and Password and click MODIFY PROFILE to change their options at any time. Please note that we will endeavor to implement requests within a reasonable time, although for a time users may continue to receive mailings, etc., transmitted based on information released prior to the implementation of the request. Users will continue to receive information directly related to their registered services, so they always are kept informed.
+Our users are given the opportunity when they register to choose whether to receive information from our affiliates and us not directly related to the registered services. Users also have the opportunity to choose whether to have personal information shared with third parties for marketing purposes. Users should logon at [www.itp.com/subscriptions](http://www.itp.com/subscriptions) using their unique User Name and Password and click MODIFY PROFILE to change their options at any time. Please note that we will endeavor to implement requests within a reasonable time, although for a time users may continue to receive mailings, etc., transmitted based on information released prior to the implementation of the request. Users will continue to receive information directly related to their registered services, so they always are kept informed.
 
 ### Security
 
