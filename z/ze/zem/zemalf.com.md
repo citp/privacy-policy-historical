@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zemalf.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615082532id_/http%3A//zemalf.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zemalf.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228174601id_/http%3A//zemalf.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zemalf.com
 
