@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teddyfeed.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609075650id_/http%3A//www.teddyfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teddyfeed.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228232042id_/http%3A//www.teddyfeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TeddyFeed
 
@@ -59,6 +59,8 @@ However, non-personally identifiable visitor information may be provided to othe
 
 **Third party links**
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Google**
@@ -84,7 +86,7 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: [http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf)
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
 
 **According to CalOPPA we agree to the following:**
 
@@ -122,8 +124,10 @@ The Fair Information Practices Principles form the backbone of privacy law in th
 
 **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
-We will notify the users via in site notification
+We will notify the users via in site notification:
 
-**•** Within 7 business days
+**•  **Within 7 business days
 
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
