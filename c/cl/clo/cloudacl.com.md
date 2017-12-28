@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudacl.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605231757id_/http%3A//www.cloudacl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudacl.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228014038id_/http%3A//www.cloudacl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cloudacl
 
