@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatstopeat.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628183500id_/http%3A//eatstopeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatstopeat.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228141707id_/http%3A//eatstopeat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
