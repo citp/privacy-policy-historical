@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3am.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073147id_/http%3A//www.mirror.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3am.co.uk privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228213916id_/http%3A//www.mirror.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Mirror Online: The intelligent tabloid. #madeuthink
 
@@ -8,7 +8,7 @@ This Privacy Policy applies to all of our websites and our mobile applications (
 
 In this Privacy Policy, when we refer to any of our Website, we mean any website or mobile application operated by or on behalf of Trinity Mirror plc or its parent companies, subsidiaries and affiliates (collectively "Trinity Mirror"), regardless of how you access the network.
 
-By accessing the Website, you agree to be bound by these terms and conditions whenever you access the Website on any device. This Privacy Policy forms part of and is incorporated into our [Website Terms and Conditions](http://cms1a.mirror.co.uk:8080/terms-conditions/)
+By accessing the Website, you agree to be bound by these terms and conditions whenever you access the Website on any device. This Privacy Policy forms part of and is incorporated into our [Website Terms and Conditions](https://web.archive.org/terms-conditions/)
 
 Any changes to this policy will be posted here. We reserve the right to vary this Privacy Policy from time to time and such changes shall become effective as soon as they are posted. Your continued use of the Website constitutes your agreement to all such changes.
 
@@ -31,9 +31,9 @@ In addition to the services we provide on this web site we may want to offer you
 
 We may collect information from you when you fill in an online registration form for any of the services available on our Website, (e.g., chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.
 
-We collect information about your use of the Website and services it offers through "cookies". For more information on "cookies" please see our [Cookie Policy](http://cms1a.mirror.co.uk:8080/cookie-policy/) which forms part of this Privacy Policy.
+We collect information about your use of the Website and services it offers through "cookies". For more information on "cookies" please see our [Cookie Policy](https://web.archive.org/cookie-policy/) which forms part of this Privacy Policy.
 
-In addition to personal information, we may also collect information about you automatically when you visit the Website by using cookies (small text files) trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties and our advertising partner may also use cookies to serve advertisements that it believes are most likely to be of use or interest to you. For more information about cookies, including how to turn this feature off, please visit our [Cookie Policy](http://cms1a.mirror.co.uk:8080/cookie-policy/)
+In addition to personal information, we may also collect information about you automatically when you visit the Website by using cookies (small text files) trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties and our advertising partner may also use cookies to serve advertisements that it believes are most likely to be of use or interest to you. For more information about cookies, including how to turn this feature off, please visit our [Cookie Policy](https://web.archive.org/cookie-policy/)
 
 If you register to use services via Facebook Connect, we may collect other types of information. These are all shown at the time you use Facebook to register.
 
