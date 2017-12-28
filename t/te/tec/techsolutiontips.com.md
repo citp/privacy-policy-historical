@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsolutiontips.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602071920id_/http%3A//www.techsolutiontips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsolutiontips.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228194537id_/http%3A//www.techsolutiontips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Technology Solution Tips & Tech Geeks Free Online Resource
 
