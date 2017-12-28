@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-book.us privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618202026id_/http%3A//best-book.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-book.us privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228130550id_/http%3A//best-book.us/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
