@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeleadership.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626190211id_/http%3A//www.lifeleadership.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeleadership.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228145331id_/http%3A//www.lifeleadership.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | LIFE Leadership
 
