@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the programmableweb.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624183246id_/https%3A//www.programmableweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programmableweb.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228093447id_/https%3A//www.programmableweb.com/privacy) for the most accurate reproduction.*
 
 # ProgrammableWeb: Privacy Policy | ProgrammableWeb
 
