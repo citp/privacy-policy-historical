@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nadaguides.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626070023id_/http%3A//nadaguides.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nadaguides.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228022851id_/http%3A//www.nadaguides.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NADAguides.com
 
@@ -23,7 +23,7 @@ Security
 
 National Appraisal Guides, Inc. takes commercially reasonable steps to ensure information we gather on our website is stored in a secure manner. Any credit card information you may provide us is secured for transmission over the Internet using industry-standard Secure Sockets Layer (SSL) encryption. While we work hard to protect your privacy, no physical or electronic security system is impenetrable, or invulnerable to attack, including your own, and the ones used to transmit your data to us. We cannot and do not guarantee that our systems, or your information, will be secure. 
 
-In the unlikely event that National Appraisal Guides, Inc., one of its business units or substantially all of its assets is acquired by another company, information on our visitors would be among the transferred assets.
+In the unlikely event that National Appraisal Guides, Inc., one of its business units or substantially all of its assets is acquired by another company, information on our visitors would be among the transferred assets. 
 
   
 
@@ -44,19 +44,17 @@ Securing Your Information
 
 Properly securing the information we collect online is a primary commitment. To help us do this, we take the following steps to: 
 
-  * \- Employ internal access controls to ensure the only people who see your information are those with a need to do so to perform their official duties
-  * \- Train relevant personnel on our privacy and security measures to know requirements for compliance
-  * \- Secure the areas where we hold hard copies of information we collect online
-  * \- Perform regular backups of the information we collect online to insure against loss
-  * \- Use technical controls to secure the information we collect online including but not limited to:
-
-  * \- Secure Socket Layer (SSL)
-  * \- Encryption
-  * \- Firewalls
-
-  * \- Password protections
-  * \- We periodically test our security procedures to ensure personnel and technical compliance
-  * \- We employ external access safeguards to identify and prevent unauthorized tries of outsiders to hack into, or cause harm to, the information in our systems
+  * Employ internal access controls to ensure the only people who see your information are those with a need to do so to perform their official duties
+  * Train relevant personnel on our privacy and security measures to know requirements for compliance
+  * Secure the areas where we hold hard copies of information we collect online
+  * Perform regular backups of the information we collect online to insure against loss
+  * Use technical controls to secure the information we collect online including but not limited to: 
+    * Secure Socket Layer (SSL)
+    * Encryption
+    * Firewalls
+  * Password protections
+  * We periodically test our security procedures to ensure personnel and technical compliance
+  * We employ external access safeguards to identify and prevent unauthorized tries of outsiders to hack into, or cause harm to, the information in our systems
 
 
 
