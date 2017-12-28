@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidelive.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628052027id_/http%3A//www.dallasnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidelive.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228012354id_/http%3A//www.dallasnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Dallas News: Breaking News for DFW, Texas, World
 
@@ -151,15 +151,15 @@ In addition to opting-out by managing your contact preference options, you may o
 
 A.H. Belo Corporation  
 Attn: Opt-Out Request   
-508 Young St.  
-Dallas, TX 75202.
+1954 Commerce St.  
+Dallas, TX 75201.
 
 Please note that changing the contact preference options described above will not affect your receipt of any wireless text message communications you may have registered to receive. To unsubscribe from wireless text communications, please send your “opt-out” request, including the wireless number or wireless address you wish to remove from our list to Customer Care at customercare@dallasnews.com, or by sending postal mail to:
 
 A.H. Belo Corporation  
 Attn: Opt-Out Request   
-508 Young St.  
-Dallas, TX 75202.
+1954 Commerce St.  
+Dallas, TX 75201.
 
 You may “opt-out” altogether from providing Personal Information to us by not registering on the Services, or registering for any AHC-sponsored promotion, and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database by deleting your registration profile. To do so, please follow the process described in “How Can You Update Your Personal or Registration Information.”
 
@@ -229,5 +229,5 @@ To aid in the protection of your Personal Information, please use caution when a
 
 A.H. Belo Corporation  
 Attn: Christine Larkin   
-508 Young St.  
-Dallas, TX 75202.
+1954 Commerce St.  
+Dallas, TX 75201.
