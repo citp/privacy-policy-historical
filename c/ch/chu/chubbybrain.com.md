@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chubbybrain.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628180510id_/http%3A//www.chubbybrain.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chubbybrain.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228140947id_/http%3A//www.chubbybrain.com/privacy-policy.php) for the most accurate reproduction.*
 
 # ChubbyBrain - Privacy Policy
 
@@ -66,7 +66,7 @@ We may modify this Privacy Policy at any time, and we will post any new versions
 
 If you believe that we have not adhered to this Privacy Policy you may contact us:
 
-info@chubbybrain.com CBIS, Inc
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) CBIS, Inc
 
 137 Varick Street, 2nd Floor
 
