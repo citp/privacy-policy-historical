@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daviddarling.info privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613213304id_/http%3A//www.daviddarling.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daviddarling.info privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228043624id_/http%3A//www.daviddarling.info/privacy.html) for the most accurate reproduction.*
 
 # The Worlds of David Darling
 
@@ -84,6 +84,6 @@ Users are advised to take caution and good judgement before clicking any shorten
 
 
 
-If you have a question on this topic, please send an e-mail through the mail form on the [contact page.](https://web.archive.org/web/20170613213304id_/http%3A//www.daviddarling.info/contact.html)
+If you have a question on this topic, please send an e-mail through the mail form on the [contact page.](https://web.archive.org/web/20171228043624id_/http%3A//www.daviddarling.info/contact.html)
 
 v.1.0 July 2016
