@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babypips.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624072442id_/http%3A//www.babypips.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babypips.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228020228id_/https%3A//www.babypips.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -111,6 +111,8 @@ We may use third parties, such as advertising networks and exchanges, to allow u
 
 BabyPips.com will not disclose any personally identifiable information about individual users, except as described in this Privacy Statement. We do not give, rent, lend, or sell individual information to our advertisers, although we do provide aggregate information. For example, we might tell an advertiser that there are 20,000 registered email subscribers in Gotham City, but we will not tell them that Batman is one of them, nor will we tell them that his email address is bruce@statelywaynemanor.com.
 
+If you post content to our site on our forums or through any commenting systems, other site users will be able to see your posted content and may communicate with you.  If you send communications through our site using our forums Messaging feature, the recipients of your communications along with our site administrators will be able to see your communications.  If you do not want others to see your posted information or correspondence, or communicate with you, please do not post anything to or through our site.
+
 We reserve the right to transfer any and all information that we collect from visitors, or that we otherwise collect concerning or in connection with the Site, to a third party in the event of a sale or other transfer of assets or of any portion of our business. In the event BabyPips.com enters a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information may be among the assets transferred.
 
 We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating the law or may be causing injury to or interference with (either intentionally or unintentionally) BabyPips.com’s rights or property, other Site users, or anyone else that could be harmed by such activities. BabyPips.com may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our services.
@@ -129,4 +131,4 @@ Many of our advertisers or partners link from our site to areas on their own sit
 
 We may change this Privacy Statement at any time, but we will give notice of any material changes (or any notices that we are required to give you) on our website and/or in email messages.
 
-Last Updated: February 20, 2015
+Last Updated: July 12, 2017
