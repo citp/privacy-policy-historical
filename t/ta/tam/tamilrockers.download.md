@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamilrockers.download privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121123540id_/http%3A//tamilrockers.download/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilrockers.download privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228025354id_/http%3A//tamilrockers.download/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tamilrockers Download and watch Tamil, Telugu, Malayalam, Hindi
+# Privacy Policy | Tamilrockers Download Tamil Movies, Telugu, Malayalam, Hindi
 
 This Privacy Policy governs the manner in which tamiltunes.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://123tamilsongs.com](http://tamiltunes.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by tamiltunes.com.
 
@@ -47,8 +47,6 @@ tamiltunes.com has the discretion to update this privacy policy at any time. Whe
 
 **Your acceptance of these terms**
 
-[ **» Download This File**](http://go.ad2up.com/afu.php?id=852389)
-
 By using this Site, you signify your acceptance of this policy and [terms of service](http://123tamilsongs.com/terms-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
@@ -56,8 +54,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [123tamilsongs.com](http://123tamilsongs.com/)
 
-contact@123tamilsongs.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-notice@123tamilsongs.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on  4, 2015
