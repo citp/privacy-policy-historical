@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the javalobby.org privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628081856id_/https%3A//dzone.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the javalobby.org privacy policy that was archived on 2017-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228164102id_/https%3A//dzone.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:ng="http://angularjs.org" id="ng-app" lang="en" ng-app="TH"><head ng-controller="DZHeadController">
 <!--
@@ -62,7 +62,7 @@ http://dzone.applytojob.com/apply
 
     <meta name="df-verify" content="df0d76632b4543">
 
-<link rel="stylesheet" type="text/css" href="//dz2cdn3.dzone.com/storage/pub/5709011-combined.css" charset="utf-8"><link rel="stylesheet" type="text/css" href="//dz2cdn3.dzone.com/storage/pub/5709058-combined.css" charset="utf-8">
+<link rel="stylesheet" type="text/css" href="//dz2cdn3.dzone.com/storage/pub/7626411-combined.css" charset="utf-8"><link rel="stylesheet" type="text/css" href="//dz2cdn3.dzone.com/storage/pub/7626475-combined.css" charset="utf-8">
 </head>
 <body>
 
@@ -99,11 +99,9 @@ http://dzone.applytojob.com/apply
 
             
                 <div class="dz-intro">Over a million developers have joined DZone.</div>
-                <div class="mobile-visible sign-in-join" ng-if="!$root.user.authenticated"><a href="#" ng-click="loginForm()">Log In</a> / <a href="#" ng-click="loginForm()">Sign Up</a></div>
-
-                <div class="join-icon"><i class="icon-user" ng-if="!$root.user.authenticated" ng-click="loginForm()"></i></div>
-
-
+                <div class="mobile-invisible sign-in-join" ng-if="!$root.user.authenticated"><a href="#" ng-click="loginForm(0)">Log In</a> <span class="dz-intro-span">/</span> <a href="#" ng-click="loginForm(1)">Sign Up</a></div>
+                <div class="join-icon mobile-invisible"><i class="icon-user" ng-if="!$root.user.authenticated" ng-click="loginForm(1)"></i></div>
+                <div class="join-icon mobile-visible" ng-cloak=""><img src="/themes/dz20/images/DZone_MobileLogin2.png" class="mobile-visible" ng-if="!$root.user.authenticated" ng-click="loginForm(0)"></div>
                 <div class="headerSearch">
                     <span class="icon-search dropdown-toggle" ng-click="focusSearch()" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></span>
                     <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
@@ -155,8 +153,6 @@ http://dzone.applytojob.com/apply
 
 
     <ul class="portals header-container">
-
-
             <li>
                 <a href="/refcardz" id="header-refcardz"><em>Refcardz</em></a></li>
             <li>
@@ -170,6 +166,10 @@ http://dzone.applytojob.com/apply
         <li>
             <a ng-class="{'active-state': isActivePortal(2)}" href="/agile-methodology-training-tools-news" id="header-2">
             Agile</a>
+        </li>
+        <li>
+            <a ng-class="{'active-state': isActivePortal(4001)}" href="/artificial-intelligence-tutorials-tools-news" id="header-4001">
+            AI</a>
         </li>
         <li>
             <a ng-class="{'active-state': isActivePortal(3)}" href="/big-data-analytics-tutorials-tools-news" id="header-3">
@@ -217,7 +217,7 @@ http://dzone.applytojob.com/apply
         </li>
     </ul>
 </div>
-</div></div></div><div class="container-fluid body" th-element="body" th-element-groups="[]" ng-hide="$root.isHidden('body')" data-th-element-name="body"><div class="row mainContentRow" th-element="mainContentRow" th-element-groups="['body']" ng-hide="$root.isHidden('mainContentRow')" data-th-element-name="mainContentRow"><div class="col-md-12 announcementBar1 announcementBar oUhbYlrRaqMaoUhM" th-element="announcementBar1" th-element-groups="['body','mainContentRow']" ng-hide="$root.isHidden('announcementBar1')" data-th-element-name="announcementBar1" data-th-widget="announcementBar" data-widget-announcement-bar="" ng-controller="announcementBar1"><div ng-if="announcement" back-img="" hasimage="{{announcement.hasImage}}" img="{{announcement.img}}" imgbackup="{{announcement.img2}}" id="acontainer" class="ann-container" ng-cloak="">
+</div></div></div><div class="container-fluid body" th-element="body" th-element-groups="[]" ng-hide="$root.isHidden('body')" data-th-element-name="body"><div class="row mainContentRow" th-element="mainContentRow" th-element-groups="['body']" ng-hide="$root.isHidden('mainContentRow')" data-th-element-name="mainContentRow"><div class="col-md-12 announcementBar1 announcementBar oUhbYlrRaqMaoUhM" th-element="announcementBar1" th-element-groups="['body','mainContentRow']" ng-hide="$root.isHidden('announcementBar1')" data-th-element-name="announcementBar1" data-th-widget="announcementBar" data-widget-announcement-bar="" ng-controller="announcementBar1"><div ng-if="announcement &amp;&amp; toShow" back-img="" hasimage="{{announcement.hasImage}}" img="{{announcement.img}}" imgbackup="{{announcement.img2}}" id="acontainer" class="ann-container" ng-cloak="">
     <div class="ann-body">{{announcement.body}}</div><a ng-if="announcement.link" class="ann-link" ng-click="track(announcement.id)" ng-ref="{{announcement.link}}">{{announcement.title}}<span class="icon-right-dir"></span></a>
 </div>
 </div><div class="col-md-12 staticPagesView4 staticPagesView oUhbvdV_VbnkfWVcC" th-element="staticPagesView4" th-element-groups="['body','mainContentRow']" ng-hide="$root.isHidden('staticPagesView4')" data-th-element-name="staticPagesView4" data-th-widget="staticPages.view" data-widget-static-pages-view="" ng-controller="staticPagesView4"><div class="layout-card"> 
@@ -240,7 +240,7 @@ http://dzone.applytojob.com/apply
  </ul> 
  <p>Postal addresses, and other personally identifying information and data, will be used to promote DZone and other DZone companies products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.<br> <br> Telephone numbers of DZone users may be used by DZone, affiliates and it's advertisers for promotional purposes. DZone may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully. </p> 
  <p>When you provide your email address to us, you agree to receive email from DZone and its sister DZone companies. We allow users to "opt-out" of receiving email from outside firms, however, when email information is collected and with each email use of the user’s address you can individually "opt-out" of receiving further e-mail from outside firms, DZone and its sister DZone companies. If a user does not choose to "opt out" at the time the email address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully. </p> 
- <p>In order to access third party content on DZone such as whitepapers, product downloads or any other content asset provided by a third party content provider, users need to complete a registration process. The registration information you provide may be shared with the content provider for the sole purpose of contacting you to assess your interest in its products and services. DZone <b>will not</b> disclose your personal information to any third parties, except to its third party content providers whose information you have chosen to access. <b>If you do not want this information disclosed to a Content Provider, do not view the Third Party Content.</b> Third party content will be made clearly distinguishable on DZone. </p> 
+ <p>In order to access third party content or any DZone Publications on DZone.com such as whitepapers, product downloads, Refcardz, Guides, or any other content asset provided by a third party content provider or by DZone itself, users need to complete a registration process. The registration information you provide may be shared with the content provider or content sponsor for the sole purpose of contacting you to assess your interest in its products and services. DZone <b>will not</b> disclose your personal information to any third parties, except to its third party content providers whose information you have chosen to access. <b>If you do not want this information disclosed to a Content Provider, do not view the Third Party Content.</b> Third party content or DZone Publications will be made clearly distinguishable on DZone. </p> 
  <h3>Security</h3> 
  <p>We use reasonable precautions to protect the personal information you disclose from loss, misuse, unauthorized access or disclosure. We only release this information to third parties we believe share our commitment to privacy. </p> 
  <h3>Accessing and Updating your Information</h3> 
@@ -385,47 +385,7 @@ http://dzone.applytojob.com/apply
 
     </script>
 
-<script type="text/ng-template" id="dzfollow.html"><button class="btn btn-follow" ng-class="{'btn-success': !status.followed, 'btn-warning': status.followed, 'hidden': followed.id == $root.user.id}" ng-click="follow()"><span ng-if="!status.followed"><i class="icon-plus"></i> Follow</span><span ng-if="status.followed" class="following">Following</span><span ng-if="status.followed" class="hover">Unfollow</span></button></script><script type="text/ng-template" id="dztopicselect.html"><ui-select  ng-if="canAddTopics" ng-model="editing.topics" theme="bootstrap" multiple tagging tagging-label="(add topic)"
-           tagging-tokens=",">
-    <ui-select-match class="input-tags"><div class="topics-tag">{{ $item }}</div></ui-select-match>
-    <ui-select-choices
-            refresh="topicsRefresh($select.search)"
-            refresh-delay="250"
-            repeat="topic in foundTopics | filter: $select.search">
-        <div ng-bind-html="topic | highlight: $select.search"></div>
-    </ui-select-choices>
-</ui-select>
-<ui-select ng-if="!canAddTopics" ng-model="editing.topics" theme="bootstrap" multiple>
-    <ui-select-match><div class="topics-tag">{{ $item }}</div></ui-select-match>
-    <ui-select-choices
-            refresh="topicsRefresh($select.search)"
-            refresh-delay="250"
-            repeat="topic in foundTopics | filter: $select.search">
-        <div ng-bind-html="topic | highlight: $select.search"></div>
-    </ui-select-choices>
-</ui-select></script><script type="text/ng-template" id="dzsave.html"><i class="icon-star-empty" ng-class="{'icon-star gold': status.saved, 'icon-star-empty': !status.saved}" tooltip-html-unsafe="{{status.saved ? 'Saved' : 'Save'}}" ng-click="save()"></i>
-<!--<span ng-class="{'gold count': status.saved}">{{ status.count }}</span>--></script><script type="text/ng-template" id="dzupload.html"><span class="btn btn-upload" >
-    <div ng-bind-html="label"></div>
-    <div class="progress-container" ng-style="{visibility: uploading ? 'visible' : 'hidden'}">
-        <progressbar max="100" value="progress"><span>{{ progress }}</span></progressbar>
-    </div>
-    <input type="file" ng-file-drop ng-file-select ng-file-change="upload($files)" />
-</span></script><script type="text/ng-template" id="inline-editable.html"><div class="inline-editable" ng-if="!status.editing" ng-click="edit()" ng-transclude></div>
-<div class="inline-editor-wrapper" ng-if="status.editing">
-    <textarea class="inline-editor" ng-model="status.editValue" ng-if="type == 'textarea'"></textarea>
-    <input class="inline-editor" ng-model="status.editValue" ng-if="type == 'input'"></textarea>
-    <div class="inline-editor-tools">
-        <button class="btn select-ok" ng-disabled="!status.editValue" ng-click="save()"><i class="icon-check-1"></i></button>
-        <button class="btn select-cancel" ng-disabled="!editable" ng-click="cancel()"><i class="icon-cancel-1"></i></button>
-    </div>
-</div></script><script type="text/ng-template" id="dzlike.html">
-<div class="dz-like " ng-class="{liked: status.liked}" ng-click="like()">
-    <a href="#">
-        <i class="icon-up-dir"></i>
-        <span>{{ status.score }}</span>
-    </a>
-</div>
-</script><script type="text/ng-template" id="dzphoto.html"><i class="icon-camera-alt photo" type="file" ng-file-drop ng-file-select ng-file-change="upload($files)"></i></script><script type="text/ng-template" id="followus.html">
+<script type="text/ng-template" id="followus.html">
 <div class="top-social">
     <p>Let's be friends:</p>
     <ul class="icons-only" ng-class="{open: isOpen}" click-outside="outside()">
@@ -463,7 +423,33 @@ http://dzone.applytojob.com/apply
             
     
 
-<script type="text/ng-template" id="overlay.html"><div class="ngdialog th-overlay">
+<script type="text/ng-template" id="dzlike.html">
+<div class="dz-like " ng-class="{liked: status.liked}" ng-click="like()">
+    <a href="#">
+        <i class="icon-up-dir"></i>
+        <span>{{ status.score }}</span>
+    </a>
+</div>
+</script><script type="text/ng-template" id="dztopicselect.html"><ui-select  ng-if="canAddTopics" ng-model="editing.topics" theme="bootstrap" multiple tagging tagging-label="(add topic)"
+           tagging-tokens=",">
+    <ui-select-match class="input-tags"><div class="topics-tag">{{ $item }}</div></ui-select-match>
+    <ui-select-choices
+            refresh="topicsRefresh($select.search)"
+            refresh-delay="250"
+            repeat="topic in foundTopics | filter: $select.search">
+        <div ng-bind-html="topic | highlight: $select.search"></div>
+    </ui-select-choices>
+</ui-select>
+<ui-select ng-if="!canAddTopics" ng-model="editing.topics" theme="bootstrap" multiple>
+    <ui-select-match><div class="topics-tag">{{ $item }}</div></ui-select-match>
+    <ui-select-choices
+            refresh="topicsRefresh($select.search)"
+            refresh-delay="250"
+            repeat="topic in foundTopics | filter: $select.search">
+        <div ng-bind-html="topic | highlight: $select.search"></div>
+    </ui-select-choices>
+</ui-select></script><script type="text/ng-template" id="dzsave.html"><i class="icon-star-empty" ng-class="{'icon-star gold': status.saved, 'icon-star-empty': !status.saved}" tooltip-html-unsafe="{{status.saved ? 'Saved' : 'Save'}}" ng-click="save()"></i>
+<!--<span ng-class="{'gold count': status.saved}">{{ status.count }}</span>--></script><script type="text/ng-template" id="overlay.html"><div class="ngdialog th-overlay">
     <div class="ngdialog-overlay">
         <div class="overlay-box">
             <i class="icon-spin5 animate-spin"></i>
@@ -471,7 +457,21 @@ http://dzone.applytojob.com/apply
             <p>{{ message }}</p>
         </div>
     </div>
-</div></script><script type="text/ng-template" id="dialog.confirm.html"><p>{{ message }}</p></script><script type="text/ng-template" id="dialog.skeleton.html"><div class="dialog-title">
+</div></script><script type="text/ng-template" id="inline-editable.html"><div class="inline-editable" ng-if="!status.editing" ng-click="edit()" ng-transclude></div>
+<div class="inline-editor-wrapper" ng-if="status.editing">
+    <textarea class="inline-editor" ng-model="status.editValue" ng-if="type == 'textarea'"></textarea>
+    <input class="inline-editor" ng-model="status.editValue" ng-if="type == 'input'"></textarea>
+    <div class="inline-editor-tools">
+        <button class="btn select-ok" ng-disabled="!status.editValue" ng-click="save()"><i class="icon-check-1"></i></button>
+        <button class="btn select-cancel" ng-disabled="!editable" ng-click="cancel()"><i class="icon-cancel-1"></i></button>
+    </div>
+</div></script><script type="text/ng-template" id="dzupload.html"><span class="btn btn-upload" >
+    <div ng-bind-html="label"></div>
+    <div class="progress-container" ng-style="{visibility: uploading ? 'visible' : 'hidden'}">
+        <progressbar max="100" value="progress"><span>{{ progress }}</span></progressbar>
+    </div>
+    <input type="file" ng-file-drop ng-file-select ng-file-change="upload($files)" />
+</span></script><script type="text/ng-template" id="dzfollow.html"><button class="btn btn-follow" ng-class="{'btn-success': !status.followed, 'btn-warning': status.followed, 'hidden': followed.id == $root.user.id}" ng-click="follow()"><span ng-if="!status.followed"><i class="icon-plus"></i> Follow</span><span ng-if="status.followed" class="following">Following</span><span ng-if="status.followed" class="hover">Unfollow</span></button></script><script type="text/ng-template" id="dzphoto.html"><i class="icon-camera-alt photo" type="file" ng-file-drop ng-file-select ng-file-change="upload($files)"></i></script><script type="text/ng-template" id="dialog.skeleton.html"><div class="dialog-title">
     <h1 ng-if="$dialog.title">{{ $dialog.title }}</h1>
 </div>
 <div class="dialog-body {{ $dialog.extraClass }}" ng-include="$dialog.template"></div>
@@ -488,7 +488,7 @@ http://dzone.applytojob.com/apply
     <p class="message-title" ng-bind-html="trustAsHtml(title)"></p>
     <p ng-bind-html="trustAsHtml(message)"></p>
 </div>
-</script>
+</script><script type="text/ng-template" id="dialog.confirm.html"><p>{{ message }}</p></script>
 <script type="text/javascript">
 
     var TH_CORE_VARS = {};
@@ -496,13 +496,13 @@ http://dzone.applytojob.com/apply
     try {
         TH_CORE_VARS.additional = {};
 
-        TH_CORE_VARS.additional.model = [{"page":{"id":"809213","type":"page","creationDate":1435672867000,"creationDateFormatted":"06/30/2015 02:01 PM","title":"Privacy","body":"<div class=\"layout-card\">\n<p>DZone is committed to protecting your privacy. The following privacy policy describes the ways in which DZone gathers and shares your personal information as well as how you can access and update this information.&nbsp; DZone reserves the right to update this privacy policy at any time. </p>\n<h2>Cookies</h2>\n\n<p>We use cookies to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process. We also use a session cookie, meaning it expires soon after you leave the site and is not placed on your hard drive, to store your session information during your visit to the Site.</p>\n<h2>Pixel Tags</h2>\n\n<p>DZone may use pixel tags to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements.</p>\n<h2>How We Use Your Personal Information</h2>\n<h3>Anonymous information </h3>\n\n<p>In addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site, occasional geographic data, and the Internet address of the Web site from which you linked directly to our site. None of this information is personally identifiable. This anonymous information is used to help improve the Site, analyze trends, and administer the Site.</p>\n<h3>Personally Identifiable Information</h3>\n\n<p>We use your personally identifiable information for the following purposes:</p>\n\n<ul>\n<li>To register you for DZone membership. </li>\n<li>To subscribe you to the DZone Refcardz program.</li>\n<li>To customize your experience on DZone. </li>\n<li>To send e-mail newsletters and/or third party announcements.</li>\n<li>To fill in certain information for you such as your name, signature and profile picture when posting to message boards. </li>\n</ul>\n<p>Postal addresses, and other personally identifying information and data, will be used to promote DZone and other DZone companies products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.<br>\n<br>\nTelephone numbers of DZone users may be used by DZone, affiliates and it's advertisers for promotional purposes. DZone may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully. </p>\n\n<p>When you provide your email address to us, you agree to receive email from DZone and its sister DZone companies. We allow users to \"opt-out\" of receiving email from outside firms, however, when email information is collected and with each email use of the user’s address you can individually \"opt-out\" of receiving further e-mail from outside firms, DZone and its sister DZone companies. If a user does not choose to \"opt out\" at the time the email address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully. </p>\n\n<p>In order to access third party content on DZone such as whitepapers, product downloads or any other content asset provided by a third party content provider, users need to complete a registration process. The registration information you provide may be shared with the content provider for the sole purpose of contacting you to assess your interest in its products and services. DZone <b>will not</b> disclose your personal information to any third parties, except to its third party content providers whose information you have chosen to access. <b>If you do not want this information disclosed to a Content Provider, do not view the Third Party Content.</b> Third party content will be made clearly distinguishable on DZone. </p>\n<h3>Security</h3>\n\n<p>We use reasonable precautions to protect the personal information you disclose from loss, misuse, unauthorized access or disclosure. We only release this information to third parties we believe share our commitment to privacy. </p>\n<h3>Accessing and Updating your Information</h3>\n\n<p>The instructions to change your information may be found in the 'Edit Account' area of your user profile. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: <a href=\"mailto:feedback@dzone.com\">feedback@dzone.com</a>.</p>\n  \n</div>","bodyAsHTML":"<div class=\"layout-card\"> \n <p>DZone is committed to protecting your privacy. The following privacy policy describes the ways in which DZone gathers and shares your personal information as well as how you can access and update this information.&nbsp; DZone reserves the right to update this privacy policy at any time. </p> \n <h2>Cookies</h2> \n <p>We use cookies to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process. We also use a session cookie, meaning it expires soon after you leave the site and is not placed on your hard drive, to store your session information during your visit to the Site.</p> \n <h2>Pixel Tags</h2> \n <p>DZone may use pixel tags to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements.</p> \n <h2>How We Use Your Personal Information</h2> \n <h3>Anonymous information </h3> \n <p>In addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site, occasional geographic data, and the Internet address of the Web site from which you linked directly to our site. None of this information is personally identifiable. This anonymous information is used to help improve the Site, analyze trends, and administer the Site.</p> \n <h3>Personally Identifiable Information</h3> \n <p>We use your personally identifiable information for the following purposes:</p> \n <ul> \n  <li>To register you for DZone membership. </li> \n  <li>To subscribe you to the DZone Refcardz program.</li> \n  <li>To customize your experience on DZone. </li> \n  <li>To send e-mail newsletters and/or third party announcements.</li> \n  <li>To fill in certain information for you such as your name, signature and profile picture when posting to message boards. </li> \n </ul> \n <p>Postal addresses, and other personally identifying information and data, will be used to promote DZone and other DZone companies products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.<br /> <br /> Telephone numbers of DZone users may be used by DZone, affiliates and it's advertisers for promotional purposes. DZone may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully. </p> \n <p>When you provide your email address to us, you agree to receive email from DZone and its sister DZone companies. We allow users to &quot;opt-out&quot; of receiving email from outside firms, however, when email information is collected and with each email use of the user’s address you can individually &quot;opt-out&quot; of receiving further e-mail from outside firms, DZone and its sister DZone companies. If a user does not choose to &quot;opt out&quot; at the time the email address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully. </p> \n <p>In order to access third party content on DZone such as whitepapers, product downloads or any other content asset provided by a third party content provider, users need to complete a registration process. The registration information you provide may be shared with the content provider for the sole purpose of contacting you to assess your interest in its products and services. DZone <b>will not</b> disclose your personal information to any third parties, except to its third party content providers whose information you have chosen to access. <b>If you do not want this information disclosed to a Content Provider, do not view the Third Party Content.</b> Third party content will be made clearly distinguishable on DZone. </p> \n <h3>Security</h3> \n <p>We use reasonable precautions to protect the personal information you disclose from loss, misuse, unauthorized access or disclosure. We only release this information to third parties we believe share our commitment to privacy. </p> \n <h3>Accessing and Updating your Information</h3> \n <p>The instructions to change your information may be found in the 'Edit Account' area of your user profile. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: <a href=\"mailto:feedback@dzone.com\">feedback@dzone.com</a>.</p> \n</div>","author":{"id":1253325,"username":"chelseab","realname":"Chelsea Bosworth","emailHash":"b30771b4f7feff6ca5c51aaf366b10b27b427badd09847bfe2b2e58e56ddf9bd","avatar":"https://secure.gravatar.com/avatar/36e4ad04901bcdaf2f6445a8ce09386a?d=identicon&r=PG","reputation":1510},"lastEditedAction":1417620,"activeRevisionId":952388,"revisionIds":[952388,931428],"lastActiveUserId":1253325,"lastActiveDate":1435934574000,"parentId":null,"parentAuthor":null,"originalParentId":null,"childrenIds":[],"commentIds":[],"marked":false,"topics":[],"primaryContainerId":8,"containerIds":[8,7],"plug":"pages/privacy","wiki":false,"score":0,"depth":0},"metaData":{"title":"DZone","description":"Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts. Hundreds of free publications, over 1M members, totally free.","keywords":"programming, software development, devops, java, agile, web, iot, database, mobile, big data, cloud","siteName":"dzone.com","url":"https://dzone.com","img":null,"imgprop":"og:image","twitterImage":null,"type":null,"wordCount":null,"canonical":"https://dzone.com/pages/privacy","noIndex":false,"noFollow":false,"prevPage":null,"nextPage":null,"useEscapedFragment":false,"robots":false,"robotsTag":""}}];
+        TH_CORE_VARS.additional.model = [{"page":{"id":"809213","type":"page","creationDate":1435672867000,"creationDateFormatted":"06/30/2015 02:01 PM","title":"Privacy","body":"<div class=\"layout-card\">\n<p>DZone is committed to protecting your privacy. The following privacy policy describes the ways in which DZone gathers and shares your personal information as well as how you can access and update this information.&nbsp; DZone reserves the right to update this privacy policy at any time. </p>\n<h2>Cookies</h2>\n\n<p>We use cookies to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process. We also use a session cookie, meaning it expires soon after you leave the site and is not placed on your hard drive, to store your session information during your visit to the Site.</p>\n<h2>Pixel Tags</h2>\n\n<p>DZone may use pixel tags to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements.</p>\n<h2>How We Use Your Personal Information</h2>\n<h3>Anonymous information </h3>\n\n<p>In addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site, occasional geographic data, and the Internet address of the Web site from which you linked directly to our site. None of this information is personally identifiable. This anonymous information is used to help improve the Site, analyze trends, and administer the Site.</p>\n<h3>Personally Identifiable Information</h3>\n\n<p>We use your personally identifiable information for the following purposes:</p>\n\n<ul>\n<li>To register you for DZone membership. </li>\n<li>To subscribe you to the DZone Refcardz program.</li>\n<li>To customize your experience on DZone. </li>\n<li>To send e-mail newsletters and/or third party announcements.</li>\n<li>To fill in certain information for you such as your name, signature and profile picture when posting to message boards. </li>\n</ul>\n<p>Postal addresses, and other personally identifying information and data, will be used to promote DZone and other DZone companies products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.<br>\n<br>\nTelephone numbers of DZone users may be used by DZone, affiliates and it's advertisers for promotional purposes. DZone may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully. </p>\n\n<p>When you provide your email address to us, you agree to receive email from DZone and its sister DZone companies. We allow users to \"opt-out\" of receiving email from outside firms, however, when email information is collected and with each email use of the user’s address you can individually \"opt-out\" of receiving further e-mail from outside firms, DZone and its sister DZone companies. If a user does not choose to \"opt out\" at the time the email address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully. </p>\n\n<p>In order to access third party content or any DZone Publications on DZone.com such as whitepapers, product downloads, Refcardz, Guides, or any other content asset provided by a third party content provider or by DZone itself, users need to complete a registration process. The registration information you provide may be shared with the content provider or content sponsor for the sole purpose of contacting you to assess your interest in its products and services. DZone <b>will not</b> disclose your personal information to any third parties, except to its third party content providers whose information you have chosen to access. <b>If you do not want this information disclosed to a Content Provider, do not view the Third Party Content.</b> Third party content or DZone Publications will be made clearly distinguishable on DZone. </p>\n<h3>Security</h3>\n\n<p>We use reasonable precautions to protect the personal information you disclose from loss, misuse, unauthorized access or disclosure. We only release this information to third parties we believe share our commitment to privacy. </p>\n<h3>Accessing and Updating your Information</h3>\n\n<p>The instructions to change your information may be found in the 'Edit Account' area of your user profile. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: <a href=\"mailto:feedback@dzone.com\">feedback@dzone.com</a>.</p>\n  \n</div>","bodyAsHTML":"<div class=\"layout-card\"> \n <p>DZone is committed to protecting your privacy. The following privacy policy describes the ways in which DZone gathers and shares your personal information as well as how you can access and update this information.&nbsp; DZone reserves the right to update this privacy policy at any time. </p> \n <h2>Cookies</h2> \n <p>We use cookies to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process. We also use a session cookie, meaning it expires soon after you leave the site and is not placed on your hard drive, to store your session information during your visit to the Site.</p> \n <h2>Pixel Tags</h2> \n <p>DZone may use pixel tags to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements.</p> \n <h2>How We Use Your Personal Information</h2> \n <h3>Anonymous information </h3> \n <p>In addition to personal information, certain anonymous information about your visit is automatically captured when you visit the Site. This information includes the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site, occasional geographic data, and the Internet address of the Web site from which you linked directly to our site. None of this information is personally identifiable. This anonymous information is used to help improve the Site, analyze trends, and administer the Site.</p> \n <h3>Personally Identifiable Information</h3> \n <p>We use your personally identifiable information for the following purposes:</p> \n <ul> \n  <li>To register you for DZone membership. </li> \n  <li>To subscribe you to the DZone Refcardz program.</li> \n  <li>To customize your experience on DZone. </li> \n  <li>To send e-mail newsletters and/or third party announcements.</li> \n  <li>To fill in certain information for you such as your name, signature and profile picture when posting to message boards. </li> \n </ul> \n <p>Postal addresses, and other personally identifying information and data, will be used to promote DZone and other DZone companies products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.<br /> <br /> Telephone numbers of DZone users may be used by DZone, affiliates and it's advertisers for promotional purposes. DZone may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully. </p> \n <p>When you provide your email address to us, you agree to receive email from DZone and its sister DZone companies. We allow users to &quot;opt-out&quot; of receiving email from outside firms, however, when email information is collected and with each email use of the user’s address you can individually &quot;opt-out&quot; of receiving further e-mail from outside firms, DZone and its sister DZone companies. If a user does not choose to &quot;opt out&quot; at the time the email address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully. </p> \n <p>In order to access third party content or any DZone Publications on DZone.com such as whitepapers, product downloads, Refcardz, Guides, or any other content asset provided by a third party content provider or by DZone itself, users need to complete a registration process. The registration information you provide may be shared with the content provider or content sponsor for the sole purpose of contacting you to assess your interest in its products and services. DZone <b>will not</b> disclose your personal information to any third parties, except to its third party content providers whose information you have chosen to access. <b>If you do not want this information disclosed to a Content Provider, do not view the Third Party Content.</b> Third party content or DZone Publications will be made clearly distinguishable on DZone. </p> \n <h3>Security</h3> \n <p>We use reasonable precautions to protect the personal information you disclose from loss, misuse, unauthorized access or disclosure. We only release this information to third parties we believe share our commitment to privacy. </p> \n <h3>Accessing and Updating your Information</h3> \n <p>The instructions to change your information may be found in the 'Edit Account' area of your user profile. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: <a href=\"mailto:feedback@dzone.com\">feedback@dzone.com</a>.</p> \n</div>","author":{"id":1253325,"username":"chelseab","realname":"Chelsea Bosworth","emailHash":"b30771b4f7feff6ca5c51aaf366b10b27b427badd09847bfe2b2e58e56ddf9bd","avatar":"https://secure.gravatar.com/avatar/36e4ad04901bcdaf2f6445a8ce09386a?d=identicon&r=PG","reputation":1549},"lastEditedAction":23112748,"activeRevisionId":2506142,"revisionIds":[2506142,952388,931428],"lastActiveUserId":2,"lastActiveDate":1511207694000,"parentId":null,"parentAuthor":null,"originalParentId":null,"childrenIds":[],"commentIds":[],"marked":false,"topics":[],"primaryContainerId":8,"containerIds":[8,7],"plug":"pages/privacy","wiki":false,"score":0,"depth":0},"metaData":{"title":"DZone","description":"Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts. Hundreds of free publications, over 1M members, totally free.","keywords":"programming, software development, devops, java, agile, web, iot, database, mobile, big data, cloud","siteName":"dzone.com","url":"https://dzone.com","img":null,"imgprop":"og:image","twitterImage":null,"type":null,"wordCount":null,"canonical":"https://dzone.com/pages/privacy","noIndex":false,"noFollow":false,"prevPage":null,"nextPage":null,"useEscapedFragment":false,"robots":false,"robotsTag":""}}];
         TH_CORE_VARS.additional.loadedStyles = [["/lib/bootstrap/bootstrap.less","/lib/fontello/css/fontello.css","/lib/fontello/css/animation.css","/lib/angular-ui/select.css","/lib/ngDialog/css/ngDialog.css","/less/ngDialog-theme.less","/less/container.less","/lib/bootstrap-switch/bootstrap-switch.css","/less/dzone20.less","/less/fonts.less","/less/directives.less","/lib/sb/sb.css","/lib/bootstrap-slider/bootstrap-slider.css","/less/layout.less","/widgets/announcementBar/widget.less","/widgets/footer/footerV2/footerV2.less","/widgets/header/headerV2/widget.less","/widgets/staticPages/view/widget.less"]];
         TH_CORE_VARS.additional.loadedScripts = [["/lib/jquery/jquery.js","/lib/lodash/lodash.js","/lib/moment/moment.js","/scripts/utils.js","/lib/angular/angular.js","/lib/angular/angular-sanitize.js","/lib/local-storage/angular-local-storage.js","/lib/bootstrap/dropdown.js","/lib/angular-ui/bootstrap.js","/lib/angular-ui/select.js","/lib/bootstrap-switch/bootstrap-switch.js","/lib/ngDialog/js/ngDialog.js","/lib/angular-moment/angular-moment.js","/scripts/app.js","/scripts/socket.js","/scripts/services.js","/scripts/ui-services.js","/scripts/directives.js","/scripts/filters.js","/lib/angular/angular-cookies.js","/lib/angulartics/angulartics.js","/lib/angulartics/angulartics-ga.js","/lib/angular-touch/angular-touch.min.js","/lib/elastic/elastic.js","/lib/ng-file-upload/angular-file-upload-all.js","/scripts/dzone.js","/scripts/ads.js","/scripts/social-media.js","/scripts/head.js","/scripts/links.js","/scripts/utilities/directives.js","/scripts/utilities/services.js","/scripts/utilities/editor.js","/lib/bootstrap-slider/bootstrap-slider.js","/lib/bootstrap-slider/directive.js","/lib/sb/sb.js","/lib/flexmenu/flexmenu.min.js","/widgets/header/headerV2/resize.js"]];
         TH_CORE_VARS.additional.botInfo = [{"isRenderBot":false}];
-        TH_CORE_VARS.additional.TH_CSRF = "2693656114934082555";
+        TH_CORE_VARS.additional.TH_CSRF = "6956693859432980991";
         TH_CORE_VARS.additional.request = [{"site":{"id":7,"title":"DZone: Programming & DevOps news, tutorials & tools","keywords":"programming, software development, devops, java, agile, web, iot, database, mobile, big data, cloud","description":"Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts. Hundreds of free publications, over 1M members, totally free.","name":"DZone.com"},"dev":false,"cdn":["dz2cdn1.dzone.com","dz2cdn2.dzone.com","dz2cdn3.dzone.com","dz2cdn4.dzone.com"],"theme":"dz20","context":"","user":{"id":2500002,"authenticated":false,"name":"Anonymous","realName":null,"avatar":"https://secure.gravatar.com/avatar/?d=identicon&r=PG","profile":"/users/2500002/anon-user.html"}}];
-        TH_CORE_VARS.additional.portals = [[{"hideFromNav":false,"topic":8,"id":2,"shortTitle":"agile-methodology-training-tools-news","color":"red","name":"Agile","hideFromHomepageWidgets":false,"code":"agile","url":"/agile-methodology-training-tools-news"},{"hideFromNav":false,"topic":6129,"id":3,"shortTitle":"big-data-analytics-tutorials-tools-news","color":"green","name":"Big Data","hideFromHomepageWidgets":false,"code":"big-data","url":"/big-data-analytics-tutorials-tools-news"},{"hideFromNav":false,"topic":30,"id":4,"shortTitle":"cloud-computing-tutorials-tools-news","color":"orange","name":"Cloud","hideFromHomepageWidgets":false,"code":"cloud","url":"/cloud-computing-tutorials-tools-news"},{"hideFromNav":false,"topic":59,"id":5,"shortTitle":"database-sql-nosql-tutorials-tools-news","color":"purple","name":"Database","hideFromHomepageWidgets":false,"code":"database","url":"/database-sql-nosql-tutorials-tools-news"},{"hideFromNav":false,"topic":31,"id":6,"shortTitle":"devops-tutorials-tools-news","color":"yellow","name":"DevOps","hideFromHomepageWidgets":false,"code":"devops","url":"/devops-tutorials-tools-news"},{"hideFromNav":false,"topic":1138,"id":7,"shortTitle":"enterprise-integration-training-tools-news","color":"green","name":"Integration","hideFromHomepageWidgets":false,"code":"integration","url":"/enterprise-integration-training-tools-news"},{"hideFromNav":false,"topic":48,"id":8,"shortTitle":"iot-developer-tutorials-tools-news-reviews","color":"orange","name":"IoT","hideFromHomepageWidgets":false,"code":"iot","url":"/iot-developer-tutorials-tools-news-reviews"},{"hideFromNav":false,"topic":1,"id":1,"shortTitle":"java-jdk-development-tutorials-tools-news","color":"purple","name":"Java","hideFromHomepageWidgets":false,"code":"java","url":"/java-jdk-development-tutorials-tools-news"},{"hideFromNav":false,"topic":29,"id":9,"shortTitle":"mobile-app-developer-tutorials-tools-news","color":"yellow","name":"Mobile","hideFromHomepageWidgets":false,"code":"mobile","url":"/mobile-app-developer-tutorials-tools-news"},{"hideFromNav":false,"topic":653,"id":10,"shortTitle":"apm-tools-performance-monitoring-optimization","color":"red","name":"Performance","hideFromHomepageWidgets":false,"code":"performance","url":"/apm-tools-performance-monitoring-optimization"},{"hideFromNav":false,"topic":85,"id":2001,"shortTitle":"application-web-network-security","color":"green","name":"Security","hideFromHomepageWidgets":false,"code":"security","url":"/application-web-network-security"},{"hideFromNav":false,"topic":35,"id":11,"shortTitle":"web-development-programming-tutorials-tools-news","color":"orange","name":"Web Dev","hideFromHomepageWidgets":false,"code":"webdev","url":"/web-development-programming-tutorials-tools-news"},{"hideFromNav":true,"topic":1382104,"id":1001,"shortTitle":"developer-marketing","color":"green","name":"Developer Marketing","hideFromHomepageWidgets":true,"code":"developer-marketing","url":"/developer-marketing"},{"hideFromNav":true,"topic":16873,"id":3001,"shortTitle":"writers-zone","color":"purple","name":"Writers'","hideFromHomepageWidgets":true,"code":"inspiration-station ","url":"/writers-zone"},{"hideFromNav":true,"topic":2551,"id":4001,"shortTitle":"artificial-intelligence-tutorials-tools-news","color":"green","name":"AI","hideFromHomepageWidgets":true,"code":"artificalintelligence","url":"/artificial-intelligence-tutorials-tools-news"}]];
+        TH_CORE_VARS.additional.portals = [[{"hideFromNav":false,"topic":8,"id":2,"shortTitle":"agile-methodology-training-tools-news","color":"red","name":"Agile","hideFromHomepageWidgets":false,"code":"agile","url":"/agile-methodology-training-tools-news"},{"hideFromNav":false,"topic":2551,"id":4001,"shortTitle":"artificial-intelligence-tutorials-tools-news","color":"purple","name":"AI","hideFromHomepageWidgets":false,"code":"ai","url":"/artificial-intelligence-tutorials-tools-news"},{"hideFromNav":false,"topic":6129,"id":3,"shortTitle":"big-data-analytics-tutorials-tools-news","color":"green","name":"Big Data","hideFromHomepageWidgets":false,"code":"big-data","url":"/big-data-analytics-tutorials-tools-news"},{"hideFromNav":false,"topic":30,"id":4,"shortTitle":"cloud-computing-tutorials-tools-news","color":"orange","name":"Cloud","hideFromHomepageWidgets":false,"code":"cloud","url":"/cloud-computing-tutorials-tools-news"},{"hideFromNav":false,"topic":59,"id":5,"shortTitle":"database-sql-nosql-tutorials-tools-news","color":"purple","name":"Database","hideFromHomepageWidgets":false,"code":"database","url":"/database-sql-nosql-tutorials-tools-news"},{"hideFromNav":false,"topic":31,"id":6,"shortTitle":"devops-tutorials-tools-news","color":"yellow","name":"DevOps","hideFromHomepageWidgets":false,"code":"devops","url":"/devops-tutorials-tools-news"},{"hideFromNav":false,"topic":1138,"id":7,"shortTitle":"enterprise-integration-training-tools-news","color":"green","name":"Integration","hideFromHomepageWidgets":false,"code":"integration","url":"/enterprise-integration-training-tools-news"},{"hideFromNav":false,"topic":48,"id":8,"shortTitle":"iot-developer-tutorials-tools-news-reviews","color":"orange","name":"IoT","hideFromHomepageWidgets":false,"code":"iot","url":"/iot-developer-tutorials-tools-news-reviews"},{"hideFromNav":false,"topic":1,"id":1,"shortTitle":"java-jdk-development-tutorials-tools-news","color":"purple","name":"Java","hideFromHomepageWidgets":false,"code":"java","url":"/java-jdk-development-tutorials-tools-news"},{"hideFromNav":false,"topic":29,"id":9,"shortTitle":"mobile-app-developer-tutorials-tools-news","color":"yellow","name":"Mobile","hideFromHomepageWidgets":false,"code":"mobile","url":"/mobile-app-developer-tutorials-tools-news"},{"hideFromNav":false,"topic":653,"id":10,"shortTitle":"apm-tools-performance-monitoring-optimization","color":"red","name":"Performance","hideFromHomepageWidgets":false,"code":"performance","url":"/apm-tools-performance-monitoring-optimization"},{"hideFromNav":false,"topic":85,"id":2001,"shortTitle":"application-web-network-security","color":"green","name":"Security","hideFromHomepageWidgets":false,"code":"security","url":"/application-web-network-security"},{"hideFromNav":false,"topic":35,"id":11,"shortTitle":"web-development-programming-tutorials-tools-news","color":"orange","name":"Web Dev","hideFromHomepageWidgets":false,"code":"webdev","url":"/web-development-programming-tutorials-tools-news"},{"hideFromNav":true,"topic":1382104,"id":1001,"shortTitle":"developer-marketing","color":"green","name":"Developer Marketing","hideFromHomepageWidgets":true,"code":"developer-marketing","url":"/developer-marketing"},{"hideFromNav":true,"topic":16873,"id":3001,"shortTitle":"writers-zone","color":"purple","name":"Writers'","hideFromHomepageWidgets":true,"code":"inspiration-station ","url":"/writers-zone"},{"hideFromNav":true,"topic":1382104,"id":5001,"shortTitle":"dev-career","color":"green","name":"Developer Career","hideFromHomepageWidgets":true,"code":"dev-career","url":"/dev-career"},{"hideFromNav":true,"topic":13268,"id":6001,"shortTitle":"microservices-news-tutorials-tools","color":"yellow","name":"Microservices","hideFromHomepageWidgets":true,"code":"microservices","url":"/microservices-news-tutorials-tools"}]];
         TH_CORE_VARS.additional.requiresModule = ["generalDirectives","monospaced.elastic","angularFileUpload","ui.bootstrap-slider","angulartics","angulartics.google.analytics","ngCookies","ngSanitize","ui.select","ui.bootstrap","angularMoment","ngTouch","ngDialog","LocalStorageModule"];
             } catch (e) {
         console.error(e);
@@ -523,7 +523,7 @@ http://dzone.applytojob.com/apply
         node.parentNode.insertBefore(gads, node);
     })();
 </script>
-<script type="text/javascript" src="//dz2cdn2.dzone.com/storage/pub/5709019-combined.js" charset="utf-8"></script><script type="text/javascript" src="//dz2cdn2.dzone.com/storage/pub/5709031-combined.js" charset="utf-8"></script><script>
+<script type="text/javascript" src="//dz2cdn2.dzone.com/storage/pub/7626412-combined.js" charset="utf-8"></script><script type="text/javascript" src="//dz2cdn2.dzone.com/storage/pub/7626433-combined.js" charset="utf-8"></script><script>
     (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
         i[r] = i[r] || function () {
@@ -538,6 +538,7 @@ http://dzone.applytojob.com/apply
 
     ga('create', 'UA-410289-1', 'auto');
     ga('require', 'linkid', 'linkid.js');
+    ga('require', 'GTM-TSD9TZP');
     ga('set', 'siteSpeedSampleRate', 25);
     //ga('send', 'pageview');
 </script>
@@ -588,13 +589,32 @@ http://dzone.applytojob.com/apply
 
     TH$SharedVars.bind($scope, 'searchT', 'searchTerm', true)
 
-    $scope.loginForm = function () {
+    $scope.loginForm = function (where) {
+        switch (where) {
+            case 0:
+                login()
+                break;
+            case 1:
+                signIn()
+                break;
+            default:
+                login()
+        }
+    };
 
+    var login = function(){
         TH$Dialog.open({
-            loadWidget: 'users.loginFormV2',
-            size: 'loginForm'
+            loadWidget: 'users.loginForm',
+            size: 'membershipForm'
         });
     };
+    var signIn = function(){
+        TH$Dialog.open({
+            loadWidget: 'users.signInForm',
+            size: 'membershipForm'
+        });
+    };
+
 
     $timeout(function() {
         $(".portals").flexMenu();
@@ -665,10 +685,10 @@ http://dzone.applytojob.com/apply
         WMODEL_DATA.user = {"jobRole":null,"website":null,"about":null,"job":null,"avatar":"https://secure.gravatar.com/avatar/?d=identicon&r=PG","country":null,"city":null,"id":2500002,"karma":10,"company":null,"realName":"$$ANON_USER$$","websiteUrl":"","tagline":null};
         WMODEL_DATA.OPTIONS = {};
         WMODEL_DATA.getPortals = null;
-        TH.installWidgetController('header.headerV2', 'mainHeader', WMODEL_DATA, typeof controller == 'function' ? controller : null, [{name: 'nextPage', data: false}], ' oUhbWOfRPSwBoUhM', null);
+        TH.installWidgetController('header.headerV2', 'mainHeader', WMODEL_DATA, typeof controller == 'function' ? controller : null, [{name: 'nextPage', data: true}], ' oUhbWOfRPSwBoUhM', null);
         })();
         (function() {
-            function controller($scope, TH$Service, $window) {
+            function controller($scope, TH$Service, $window, $rootScope) {
     var body = $(".body"),
         announcement = $(".announcementBar"),
         marginRight = body.css("marginRight"),
@@ -693,6 +713,8 @@ http://dzone.applytojob.com/apply
         announcement.css("margin-bottom", "10px");
     }
 
+    $scope.toShow = ($scope.announcement && $scope.announcement.anononly) ?  !($rootScope.user.authenticated) : true;
+    
     $scope.setBarWidth = function(){
         var container = $("#acontainer");
         container.css("margin-right", "-"+marginRight)
@@ -719,7 +741,7 @@ var a = function(url, element){
     });
 };
             var WMODEL_DATA = {};
-            WMODEL_DATA.announcement = {"id":2464234,"body":"[New Guide] Download the 2017 Guide to Java: Development and Evolution","link":"https://dzone.com/asset/download/169037?oid=sitenotificationJava","title":"Download Guide","img2":"/notificationImage.html?id=2464234","img":"https://dz2cdn1.dzone.com/notificationImage.html?id=2464234","hasImage":true};
+            WMODEL_DATA.announcement = null;
         WMODEL_DATA.OPTIONS = {};
         TH.installWidgetController('announcementBar', 'announcementBar1', WMODEL_DATA, typeof controller == 'function' ? controller : null, null, ' oUhbYlrRaqMaoUhM', null);
         })();
@@ -747,11 +769,13 @@ var a = function(url, element){
         
         TH.installWidgetDirective('manage.customNotifications.preview', 'manageCustomNotificationsPreview', {"service":null,"extra":null}, 'widget.html', '/widgets/manage/customNotifications/preview/widget.js', null, ' oUhbXYVMwrjrYVdgpZfnkZfnkM dLgZWBLPpWkKeXB', null, ['preview.less','/lib/froala-2/css/froala_style.min.css']);
         
+        TH.installWidgetDirective('users.signInForm', 'usersSignInForm', {"service":null,"extra":null}, 'widget.html', '/widgets/users/signInForm/widget.js', null, ' oUhbwfbkdfdnbZfcpWC', null, ['signInForm.less']);
+        
         TH.installWidgetDirective('users.profile.mini', 'usersProfileMini', {"service":{"user":"="},"extra":null}, 'widget.html', '/widgets/users/profile/mini/widget.js', [{name: 'DEFAULT', data: true}], ' oUhbwfbqddOeffWVcC', null, ['widget.less']);
         
         TH.installWidgetDirective('links.postV2', 'linksPostV2', {"service":null,"extra":null}, 'widget.html', '/widgets/links/postV2/widget.js', null, ' oUhbdhbnvXZqyBC', null, ['postV2.less']);
         
-        TH.installWidgetDirective('links.listV2', 'linksListV2', {"service":null,"extra":null}, 'widget.ftl', '/widgets/links/listV2/widget.js', [{name: 'linkData', data: true},{name: 'list', data: true},{name: 'parseLink', data: true}], ' oUhbdhbdvXVkyBC', ['filters.js','directives.js'], ['listV2.less']);
+        TH.installWidgetDirective('links.listV2', 'linksListV2', {"service":null,"extra":null}, 'widget.ftl', '/widgets/links/listV2/widget.js', [{name: 'linkData', data: true},{name: 'list', data: true},{name: 'parseLink', data: true}], ' oUhbdhbdvXVkyBC', ['directives.js','filters.js'], ['listV2.less']);
         
         TH.installWidgetDirective('users.uiPrefs', 'usersUiPrefs', {"service":null,"extra":null}, 'widget.html', '/widgets/users/uiPrefs/widget.js', null, '', null, null);
         
@@ -771,15 +795,19 @@ var a = function(url, element){
         
         TH.installWidgetDirective('header.zonesDropdown', 'headerZonesDropdown', {"service":{"portal":"="},"extra":{"hover":"="}}, 'widget.html', '/widgets/header/zonesDropdown/widget.js', [{name: 'DEFAULT', data: true}], '', null, null);
         
-        TH.installWidgetDirective('assets.mini', 'assetsMini', {"service":{"asset":"="},"extra":null}, 'widget.html', '', [{name: 'DEFAULT', data: true}], ' oUhbcgvWfSoUhM', null, ['widget.less']);
+        TH.installWidgetDirective('users.noMembership', 'usersNoMembership', {"service":null,"extra":null}, 'widget.html', '/widgets/users/noMembership/widget.js', null, ' oUhbwfblaYfjhfWVcC', null, ['widget.less']);
         
         TH.installWidgetDirective('emailSubscriptions.subscriptions.unsubscribeHeader', 'emailSubscriptionsSubscriptionsUnsubscribeHeader', {"service":null,"extra":null}, 'widget.html', '', null, ' oUhbaTnfejsgpbfejsgpdpfejQWOffWVcC', null, ['widget.less']);
+        
+        TH.installWidgetDirective('assets.mini', 'assetsMini', {"service":{"asset":"="},"extra":null}, 'widget.html', '', [{name: 'DEFAULT', data: true}], ' oUhbcgvWfSoUhM', null, ['widget.less']);
         
         TH.installWidgetDirective('emailSubscriptions.subscriptions.nonMemberJoin', 'emailSubscriptionsSubscriptionsNonMemberJoin', {"service":null,"extra":null}, 'widget.html', '', null, ' oUhbaTnfejsgpbfejsgpXlaYfhffWVcC', null, ['widget.less']);
         
         TH.installWidgetDirective('article.listV2', 'articleListV2', {"service":null,"extra":null}, 'widget.html', '/widgets/article/listV2/widget.js', [{name: 'list', data: true},{name: 'sortCount', data: true}], ' oUhbblYOdvXKuV_VkcC', ['directives.js'], ['article-list.less']);
         
         TH.installWidgetDirective('content.commentBox', 'contentCommentBox', {"service":{"parent":"="},"extra":{"count":"=","limited":"="}}, 'widget.html', '/widgets/content/commentBox/widget.js', [{name: 'post', data: false},{name: 'edit', data: false},{name: 'DEFAULT', data: true}], ' oUhbaqbcaibevMkaqbC', null, ['comments.less']);
+        
+        TH.installWidgetDirective('users.loginForm', 'usersLoginForm', {"service":null,"extra":null}, 'widget.html', '/widgets/users/loginForm/widget.js', null, ' oUhbwfbjZcpWjZcpWC', null, ['loginForm.less']);
         
         TH.installWidgetDirective('emailSubscriptions.subscriptions.memberManageHeader', 'emailSubscriptionsSubscriptionsMemberManageHeader', {"service":null,"extra":null}, 'widget.html', '', null, ' oUhbaTnfejsgpbfejsgpWaQnYRWPSaoUhM', null, ['widget.less']);
         
