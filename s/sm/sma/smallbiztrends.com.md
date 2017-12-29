@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbiztrends.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609031851id_/http%3A//smallbiztrends.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbiztrends.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229184807id_/http%3A//smallbiztrends.com/privacy.htm) for the most accurate reproduction.*
 
 # Small Business Trends | Privacy Policy
 
@@ -15,7 +15,7 @@ You may opt-in to receive our newsletters, special offers or other information v
 
 From time to time our sponsors wish to contact our members who have indicated an interest in their products, services or events. If you register for products, services or events sponsored by a third-party, then you may receive communications directly from such third-parties. Their use of your information is subject to their privacy policies. 
 
-We are conscious of and strive to limit the number of electronic communications to a reasonable number.  If you have a problem with your subscription, please contact us at [admin@smallbiztrends.com](mailto:admin@smallbiztrends.com). 
+We are conscious of and strive to limit the number of electronic communications to a reasonable number.  If you have a problem with your subscription, please contact us at [[email protected]](https://smallbiztrends.com/cdn-cgi/l/email-protection#1372777e7a7d53607e727f7f717a696761767d77603d707c7e). 
 
   
 **Traffic and RSS Data**
@@ -95,7 +95,7 @@ This Privacy Statement may change from time to time and any changes will be publ
   
 **Contact**
 
-If you have any questions about this Privacy Statement, please email us at [admin@smallbiztrends.com](mailto:admin@smallbiztrends.com) __ or contact us at:
+If you have any questions about this Privacy Statement, please email us at [[email protected]](https://smallbiztrends.com/cdn-cgi/l/email-protection#a1c0c5ccc8cfe1d2ccc0cdcdc3c8dbd5d3c4cfc5d28fc2cecc) __ or contact us at:
 
 SmallBizTrends.com  
 ATTN: Small Business Trends Privacy Statement  
