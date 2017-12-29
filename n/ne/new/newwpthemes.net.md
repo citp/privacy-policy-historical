@@ -1,28 +1,17 @@
-> *The following text is extracted and transformed from the newwpthemes.net privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402144955id_/http%3A//wpresponsive.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newwpthemes.net privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - WordPress Responsive
+# Legal
 
-The privacy and security of our site visitors is our highest priority. It is the policy of WordPress Responsive that personal information, such as your name, personal postal and email address, or personal telephone number is private and confidential. Because your privacy is important to us, WordPress Responsive maintains privacy policies to protect your personal information.
+* * *
 
-By using this site, you consent to the terms of our privacy policy for the collection, use and disclosure of your personal information for the purposes set out below. We do not collect, use or disclose your personal information for any purpose other than those identified below, except with your consent or as required by law.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Information we gather or track**
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-(1) Site Activity Data  
-Each time a visitor comes to this website, our web server collects and logs certain information. These access logs are kept for a reasonable period of time. These logs include, but are not restricted to your machine’s TCP/IP address, your username (if applicable), date, time and files accessed. These logs also contain information about ‘referrer’ information if you clicked on an external link to a WordPress Responsive webpage. These logs are used solely for performance, site administration and security reviews. They are not sold or shared in any way to third party organizations.
 
-(2) Cookies  
-Your browser offers “cookies” which — if you allow their use — store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our offerings you like best. And when we make this function available in the future, cookies will enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information. This information is used solely to maintain your computer’s session to the WordPress Responsive server. This information is not shared or sold to third party organizations for any purpose.
 
-Some of the banner ads displayed on WordPress Responsive are provided by outside companies. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our advertisers and we do not have access to this information.
-
-Cookies in and of themselves do not contain any personally identifiable information about you.
-
-(3) Personal Information  
-Personal information, such as your name, personal postal and email address, or personal telephone number is collected only when you voluntarily provide it. Such information is received when you send an email through the site or make some other specific contact, such as completing an online form.
-
-**Policy Revisions**  
-Any changes to the privacy policy will be promptly communicated on this website. Policy changes will not alter how we handle previously submitted personal information.
-
-**Contacting WPResponsive.com**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact WordPress Responsive at: contact [at] wpresponsive [dot] org
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
