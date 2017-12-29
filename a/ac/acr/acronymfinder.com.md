@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acronymfinder.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628103310id_/https%3A//www.acronymfinder.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acronymfinder.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229015418id_/https%3A//www.acronymfinder.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -8,15 +8,13 @@ Acronym Finder has created this privacy statement in order to demonstrate our fi
 
 We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information, and to help us verify [terms of use](https://www.acronymfinder.com/terms.htm) of this site.
 
-#### Cookies
+#### Cookies and Advertisers
+
+A cookie is a small file that our websites send to your browser, which then is stored on your system. You may disable or delete the cookies at any time by accessing your browser's privacy settings. Many users prefer to use cookies in order to help them navigate a website as seamlessly as possible. You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender any personal or other information from your computer. 
 
 Our site uses cookies to keep track of your user session, and to make sure you don't see the same ad repeatedly. We also use cookies to help track user contributions to the site, including your email address (only after you've told us) and acronyms you've submitted. If you wish to set search preferences on the site, these preferences will be stored in a cookie.
 
-#### Advertisers
-
-We use outside companies to manage and display advertisements on our site. These ads may use cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by these ad companies, and we do not have access to this information. Here are their privacy statements.
-
-[Google Privacy Policy Highlights](http://www.google.com/privacy.html)
+We use outside companies to manage and display advertisements on our site. These companies may use cookies in order to provide advertisements about goods and services relevant to you. If you would like to learn more about this practice and your choices about not having this information used by these companies, see the websites of [Digital Advertising Alliance](http://www.aboutads.info/choices/) or [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp)
 
 #### External Links
 
