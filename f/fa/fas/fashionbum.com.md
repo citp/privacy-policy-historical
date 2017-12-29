@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionbum.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609234238id_/http%3A//www.fashionbum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbum.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229151258id_/http%3A//www.fashionbum.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FashionBum
+# Privacy Policy – FashionBum
 
 Our team here at Fashionbum is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
