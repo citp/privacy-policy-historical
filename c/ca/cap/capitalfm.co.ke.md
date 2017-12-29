@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalfm.co.ke privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628111818id_/http%3A//www.capitalfm.co.ke/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalfm.co.ke privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229024417id_/http%3A//www.capitalfm.co.ke/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Capital FM Kenya
 
@@ -66,4 +66,4 @@ Capital FM
 http://www.capitalfm.co.ke  
 P.O. Box 74933 Nairobi 00200, Kenya
 
-This document was last updated on December 11, 2014
+This document was last updated on October 6th, 2017
