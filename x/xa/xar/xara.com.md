@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629043031id_/http%3A//www.xara.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229221137id_/http%3A//www.xara.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Statement
 
-Xara has created this privacy statement in order to **demonstrate the company's firm commitment to privacy**. The following discloses the information gathering and dissemination practices for the Xara web site [www.xara.com](http://www.xara.com/) and the Xara Online purchase site service.xara.com. 
+Xara has created this privacy statement in order to **demonstrate the company's firm commitment to privacy**. The following discloses the information gathering and dissemination practices for the Xara websites [www.xara.com](http://www.xara.com/), [www.xara.cloud](https://www.xara.cloud/), [cloud.ixara.com](https://cloud.ixara.com/) and the Xara Online purchase site service.xara.com. 
 
-**Xara Group Ltd is 100% owned by MAGIX and references to Xara in this document should be taken to mean both Xara and MAGIX**. 
+**Xara Group Ltd is 100% owned by Xara GmbH. Xara has commissioned MAGIX Software GmbH to distribute its products. All Companies are subsidiaries of Bellevue Investments GmbH & Co. KGaA. References to Xara in this document should be taken to mean Xara GmbH, Xara Group Ltd and MAGIX Software GmbH**.
 
 ### Information collected by order forms, registration forms, download forms, opt-in mailing list and surveys
 
