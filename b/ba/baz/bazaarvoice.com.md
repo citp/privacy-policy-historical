@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bazaarvoice.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085248id_/http%3A//www.bazaarvoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bazaarvoice.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229235932id_/http%3A//bazaarvoice.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Bazaarvoice
 
-Effective Date: March 27, 2017
+Effective Date: August 1, 2017
 
 ### Overview
 
@@ -50,9 +50,13 @@ To enable anonymous analytics & measurement reporting | If cookies are disabled 
 Information on persistent cookies set by Bazaarvoice and third parties on the Bazaarvoice Network  
 ---  
 Purpose of Cookie | Alternative (if you disable, block or opt-out)  
-To operate Bazaarvoice services. | If cookies are disabled then the service cannot track reviews user have submitted or commented on, which may impact the ability to perform these actions. Additionally if user has chosen to have their login credentials remembered, then this feature will not work.  
+To operate Bazaarvoice services. | If cookies are disabled then the service cannot track reviews user have submitted or commented on, which may impact the ability to perform these actions. Additionally if the user has chosen to have their login credentials remembered, then this feature will not work.  
+  
+Information on session cookies set by Bazaarvoice on the Bazaarvoice Network  
+---  
+Purpose of Cookie | Alternative (if you disable, block or opt-out)  
 To enable user-generated content submission | If cookies are disabled then users may not be able to submit content or comments.  
-To enable anonymous analytics & measurement reporting. (“Bazaarvoice Network Cookie”) | If cookies are disabled or blocked then users will not be tracked via an anonymous unique identifier.  
+To enable anonymous analytics & measurement reporting.(“Bazaarvoice Network Cookie”) | If cookies are disabled or blocked then users will not be tracked via an anonymous unique identifier.  
 To serve online advertising | * As of the last date this policy was updated, the following Bazaarvoice partners set third party cookies to serve online advertising: Doubleclick, Rocketfuel, and Krux (“Ad Partners”). If cookies are disabled or blocked then users may still see ads on sites that choose to serve ads, however, such ads will not be tailored to the user based on the user’s browsing history. You can opt out of our Ad Partners’ cookies by visiting their website. Additionally, you can learn more about ad-serving companies and opt out from their use of cookies at the following websites: <http://www.networkadvertising.org/understanding-online-advertising>; <http://www.aboutads.info/choices/>; or <http://preferences-mgr.truste.com/>.  
   
 ### Information We Collect Through the Website and BizApps
@@ -75,15 +79,15 @@ Data Collection Technologies
 
 Cookies. We use cookies or similar technologies to collect analytics and tracking information from Consumers on the Website and BizApps. Our technologies may collect the IP address of your computer, the pages you visit, the date and time of your visit, browser type and version and other click-stream data (collectively "Analytics and Tracking Data").
 
-_Cookies._ Our cookies give us access to information about your browsing patterns, which we use to personalize your experience and to analyze general user traffic patterns. We do this so that we may determine the usefulness of the information on the Website, the effectiveness of our navigational structures and to otherwise improve the Website. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions of our Website or Services. To manage Flash cookies, please visit: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
+_Cookies._ Our cookies give us access to information about your browsing patterns, which we use to personalize your experience and to analyze general user traffic patterns. We do this so that we may determine the usefulness of the information on the Website, the effectiveness of our navigational structures and to otherwise improve the Website. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions of our Website or Services. To manage Flash cookies, please visit:  <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
 
 _Passive Collection._ As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site. We may combine this automatically collected log information with other information we collect about you, such as data that you submit on our website. We do this to improve services we offer you, to ensure secure access to the Services, improve marketing, analytics, or site functionality.
 
-_Third Party Technologies_. The Website and BizApps use the cookies or similar technologies of third party providers to assist us with analyzing site traffic, help us determine the effectiveness of content on our site and to manage our advertising on other websites. Our advertising partners use cookies or web beacons to collect information about your visit to the Bazaarvoice website, as well as other websites, to display advertisements that may be of interest to you. For more information on our third party partners that are setting cookies on the Website or if you wish to not have the information collected on the Website used for the purpose of serving you targeted ads, you may opt out as described in this policy.
+_Third Party Technologies_. TThe Website and BizApps use the cookies or similar technologies of third party providers to assist us with analyzing site traffic, help us determine the effectiveness of content on our site and to manage our advertising on other websites. Our advertising partners use cookies or web beacons to collect information about your visit to the Bazaarvoice website, as well as other websites, to display advertisements that may be of interest to you. For more information on our third party partners that are setting cookies on the Website or if you wish to not have the information collected on the Website used for the purpose of serving you targeted ads, you may opt out as described in this policy.
 
 _Local Storage._ We and our partners use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-_Combination of Data_. To assist us with our marketing efforts, the personal information of our Clients, such as email address, may be combined with Passively Collected Data. We do not supplement/append the data we collect with additional data received from third party sources.
+_Combination of Data_. . To assist us with our marketing efforts, the personal information of our Clients, such as email address, may be combined with Passively Collected Data. We do not supplement/append the data we collect with additional data received from third party sources.
 
 _Social Media_. Our website includes social media features, such as the “Facebook” or “Twitter” buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing them.
 
@@ -93,9 +97,9 @@ Some of our partnered sites make use of Bazaarvoice Media technology. As you acc
 
 Data Collection Technologies
 
-_Web Beacons_ : Behavioral tracking data may be collected through our partner site loading a clear 1 pixel by 1 pixel image from Bazaarvoice.
+_Web Beacons_ : : Behavioral tracking data may be collected through our partner site loading a clear 1 pixel by 1 pixel image from Bazaarvoice.
 
-_Cookies_ : Once the web beacon is loaded by your browser, we set a cookie which contains the relevant tracking information, such as your IP address and sites or pages you have previously visited.
+_Cookies_ : O: Once the web beacon is loaded by your browser, we set a cookie which contains the relevant tracking information, such as your IP address and sites or pages you have previously visited.
 
 To opt-out of receiving behaviorally targeted ads, please see “Opting Out”, below. Please note Bazaarvoice makes use of the DoubleClick network to target ads, so that opting out of that network will stop ad targeting by Bazaarvoice.
 
@@ -105,7 +109,7 @@ Opting Out of Data Use by Bazaarvoice
 
 We make available a Bazaarvoice "opt-out" cookie that we will respect by not collecting Analytics and Tracking Data on that browser across the Bazaarvoice Network. Please click the button below to opt-out (please note this opt-out does not apply to behavioral tracking for the purposes of advertising, you must separately opt-out of that use of data as described below). Please note, if you have cookies disabled the following opt-out will not be effective.
 
-If you wish to not have the information obtained from our website or our Client’s websites and BizApps used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](https://web.archive.org/web/20170606085248id_/http://www.bazaarvoice.com/privacy-policy/preferences-mgr.truste.com/?pid=bazaarvoice01&aid=bazaarvoice02&type=bazaarvoice), or if located in the European Union [click here](https://web.archive.org/web/20170606085248id_/http://www.bazaarvoice.com/privacy-policy/www.youronlinechoices.eu/). You may also opt out of certain other companies’ targeted advertising by [visiting here](https://web.archive.org/web/20170606085248id_/http://www.bazaarvoice.com/privacy-policy/preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+If you wish to not have the information obtained from our website or our Client’s websites and BizApps used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/?pid=bazaarvoice01&aid=bazaarvoice02&type=bazaarvoice), or if located in the European Union [click here](http://www.youronlinechoices.eu/). You may also opt out of certain other companies’ targeted advertising by [visiting here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 If you wish to not have the information obtained from our website or our Client’s websites and BizApps used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
@@ -113,9 +117,9 @@ For our advertising services via Bazaarvoice Media, we use the DoubleClick netwo
 
 Please note that opting out of targeted ads does not opt you out of all advertising. Opting out of targeting on one device or browser applies to that device or browser only. To opt out of tracking on other devices or browsers you must opt out from those other devices or browsers.
 
-For information on how to opt out of ad tracking on mobile devices see: [NAI Mobile Choices](http://www.networkadvertising.org/mobile-choices). If you opt out of tracking on a mobile device you will be opted out of all cross-app tracking on that device, but not from other devices and not from web browsers on the same device. To opt out of app tracking on other devices, opt out on those devices. To opt out of browser tracking on you device follow the instructions for option out of website tracking above.
+For information on how to opt out of ad tracking on mobile devices see: [NAI Mobile Choices](http://www.networkadvertising.org/mobile-choices). If you opt out of tracking on a mobile device you will be opted out of all cross-app tracking on that device, but not from other devices and not from web browsers on the same device. To opt out of app tracking on other devices, opt out on those devices. To opt out of browser tracking on you device follow the instructions for opting out of website tracking above.
 
-Your iOS mobile device may provide a “Limit Ad Tracking” setting. On Android devices, your settings may allow you to “Opt out of Interest-Based Ads.” When you have opted out using this setting on a device, Bazaarvoice will not use in-app information collected from that device to infer your interests or serve ads to that device that are targeted based on your inferred interests.
+Your iOS mobile device may provide a “Limit Ad Tracking” setting. On Android devices, your settings may allow you to “Opt out of Interest-Based Ads.” When you have opted out using this setting on a device,and when Bazaarvoice receives this signal, Bazaarvoice will not use in-app information collected from that device to infer your interests or serve ads to that device that are targeted based on your inferred interests.
 
 Opting Out of Marketing Communications
 
@@ -179,7 +183,7 @@ Bazaarvoice has obtained the following certifications and/or follows these volun
 
 EU-U.S. Privacy Shield
 
-Bazaarvoice is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). Bazaarvoice is committed to subjecting all personal data received from the EU to the Principles of the EU-U.S. Privacy Shield Framework, details of which can be found here: https://www.privacyshield.gov/. In compliance with the Principles of Privacy Shield, Bazaarvoice provides recourse to you if you believe that Bazaarvoice has failed to follow its Principles regarding your personal data. You can contact us with details of your complain at privacy@bazaarvoice.com. If you feel that our response to your complaint is unsatisfactory you can refer your complaint to a free, independent dispute resolution mechanism. Under certain conditions, you may invoke binding arbitration for complaints which are not resolved by any other dispute resolution procedures. More information can be found here: https://www.privacyshield.gov/article?id=ANNEX-I-introduction.
+Bazaarvoice is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). Bazaarvoice is committed to subjecting all personal data received from the EU to the Principles of the EU-U.S. Privacy Shield Framework, details of which can be found here: https://www.privacyshield.gov/. Bazaarvoice also complies with the Swiss-US Privacy Shield Framework. Bazaarvoice has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. In compliance with the Principles of Privacy Shield, Bazaarvoice provides recourse to you if you believe that Bazaarvoice has failed to follow its Principles regarding your personal data. You can contact us with details of your complaint at privacy@bazaarvoice.com. If you feel that our response to your complaint is unsatisfactory you can refer your complaint to a free, independent dispute resolution mechanism. Under certain conditions, you may invoke binding arbitration for complaints which are not resolved by any other dispute resolution procedures. More information can be found here: https://www.privacyshield.gov/article?id=ANNEX-I-introduction.
 
 [](http://www.networkadvertising.org/)
 
@@ -203,7 +207,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 ### Bazaarvoice Brand Safety Policy
 
-Bazaarvoice strives to provide 5 star customer service and is dedicated to providing complete transparency and control over how brands appear across our publisher partners’ site content. With a growing marketplace and a robust inventory options, Bazaarvoice takes the safety of clients’ brands very seriously.
+Bazaarvoice strives to provide 5 star customer service and is dedicated to providing complete transparency and control over how brands appear across our publisher partners’ site content. With a growing marketplace and a robust inventory of options, Bazaarvoice takes the safety of clients’ brands very seriously.
 
 Bazaarvoice uses 3rd party verification tools, such as DoubleVerify or IAS, to ensure the integrity of ads shown. While this technology is used to provide ad-visibility measures for brand campaigns, the data is also utilized for placement, performance verification and assures the ad is being shown on high quality sites.
 
@@ -229,6 +233,6 @@ In addition if sites are identified as being inappropriate, while not necessaril
 
 Take Down Policy
 
-In the event of a Bazaarvoice Client’s advertisement or consumer consent appearing on a mobile website, Mobile App or desktop site that the Bazaarvoice Client deems inappropriate or unsuitable, Bazaarvoice will make every effort to take down the advertisement as soon as possible and, if requested, will add that site to our blacklist to be used for any future campaigns for that client.
+In the event of a Bazaarvoice Client’s advertisement or consumer content appearing on a mobile website, Mobile App or desktop site that the Bazaarvoice Client deems inappropriate or unsuitable, Bazaarvoice will make every effort to take down the advertisement as soon as possible and, if requested, will add that site to our blacklist to be used for any future campaigns for that client.
 
 The contractual consequences of not taking down an ad in accordance with Policy are evaluated on a case by case basis.
