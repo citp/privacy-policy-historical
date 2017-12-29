@@ -1,30 +1,17 @@
-> *The following text is extracted and transformed from the filewe.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217193021id_/http%3A//nornar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filewe.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Nornar.com - Easy way to share your files
+# Legal
 
-**Logging IP Addresses**  
-For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by **nornar.com** for measuring usage.
+* * *
 
-**Collecting e-mail Addresses**  
-We collect the e-mail addresses of **nornar.com** Delivery recipients and senders for the purpose of logging and measuring usage. **nornar.com** does not rent, sell, or share personal information about you with nonaffiliated companies.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Certain Exceptional Disclosures**  
-We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. Disclosure may be required by law or if we receive legal process.
-
-**Use of Cookies**  
-**nornar.com** uses cookies to store the preferences of users.
-
-**File Transfer Security**  
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Files stored for delivery are only accessible by **nornar.com** and through the clickable link generated for your recipient. All files stored for delivery are deleted when they expire.
-
-**Third Party Advertising**  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
-
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser or using web beacons to collect information.
-
-  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. 
-  * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [ opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).) 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
+
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
