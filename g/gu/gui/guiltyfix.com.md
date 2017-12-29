@@ -1,45 +1,125 @@
-> *The following text is extracted and transformed from the guiltyfix.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425002833id_/http%3A//guiltyfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guiltyfix.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230000027id_/http%3A//guiltyfix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GuiltyFix
+# Privacy Policy - guiltyfix.com
 
-Your privacy is very important to us at Guilty Fix, and so we have a few fundamental principles that we follow in order to protect it:
+We are committed to safeguarding the privacy of visitors to the Guiltyfix website (the “Site”); this policy sets out how we will treat your personal information.
 
-  * We don’t ask you for personal information unless we truly need it.
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the on-going operation of our site.
+If you are younger than 18, please ensure that your parent or guardian has read this privacy policy and is happy for you to accept it. Your registration for the Site is conditional on your parent or guardian’s consent to this privacy policy.
 
+**1\. What information do we collect?**
 
+We may collect, store and use the following kinds of personal information:
 
-This Privacy Policy describes the policies and procedures Guilty Fix (“we”, “our” or “us”) uses regarding the collection, use and disclosure of any information that you give us when you use www.guiltyfix.com (the “Website”) and the services, features, content or applications we offer (collectively with the Website, the “Services”). We are committed to ensuring that your privacy is protected. When we ask you to provide certain information when using the Website, you can be assured that it will only be used in accordance with this privacy policy. By using this Website, you agree to this privacy policy.
+(a) information about your computer and about your visits to and use of the Site (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, Site navigation) in order to give you better recommendations;
 
-We may change this policy from time to time by posting changes to this page. You can occasionally check to make sure that you are happy with any changes. This policy was last modified on July 27, 2014.
+(b) information that you may provide to us for the purpose of registering with us;
 
-**What Information Do We Collect?**
+(c) information that you provide to us for the purpose of subscribing to the Site services and email notifications;
 
-We collect information from you when you register on our site, subscribe to our newsletter (from which you can unsubscribe at any time), respond to a survey or fill out a form. You may be asked to enter your name or e-mail address. You may always, however, visit our site anonymously.
+(d) information contained in any email messages sent using our message service;
 
-**Your Information Is Protected:  **
+(e) any other information that you choose to send to us.
 
-We are committed to ensuring that your personal information is secure. In order to prevent unauthorized access or disclosure we have put in place a variety of physical, electronic and managerial security measures to safeguard and secure the information we collect online.
+**2\. Cookies**
 
-**How We Use Cookies:**
+A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-Cookies are small files that a site or its service provider places on your computer’s hard drive (if you allow it), that enable the sites or service providers systems to recognize your browser and capture and remember certain information. Cookies allow websites to respond to you as an individual. The website provider can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+We may use both “session” cookies and “persistent” cookies on the Site for the purpose of creating better recommendations. We will use the session cookies to keep track of you whilst you navigate the Site. We will use the persistent cookies to enable the Site to recognise you when you visit.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Session cookies will be deleted from your computer when you close your browser. Persistent cookies may remain stored on your computer until deleted, or until they reach a specified expiry date. We use these persistent cookies to better serve you with the kinds of content that we feel may be of interest to you.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+We use Google Analytics to analyse the use of the Site. Google Analytics generates statistical and other information about the Site use by means of cookies, which are stored on users’ computers. The information generated relating to the Site is used to create reports about the use of the Site. Google will store this information. Google’s privacy policy is available at: <http://www.google.com/privacypolicy.html>.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept them, but you can change your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the website.
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-**Third Party Vendors:**
+Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
-Third party vendors, including Google, use cookies to serve ads to you based on a your prior web site visits to Guilty Fix and/or other websites. You may opt out of the use of the Google cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+**3\. Using your personal information**
 
-**Links To Third Party Websites:**
+Personal information submitted to us via the Site will be used for the purposes specified in this privacy policy or in relevant parts of the Site.
 
-We may sometimes include on our website links to other websites that may be of interest to you. You should note that these third party sites have separate and independent privacy policies, and that we do not have any control over those other websites. Therefore, we have no responsibility or liability for the protection and privacy of any information which you provide while visiting such sites, or for the content and activities of those sites. You should exercise caution and review the privacy policies applicable to the website in question.
+We may use your personal information to:
 
-**Childrens Online Privacy Protection Act Compliance:**
+(a) administer the Site;
 
-Our website, products and services are all directed to people who are at least 13 years old or older. We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), and do not collect any information from anyone under 13 years of age.
+(b) improve your browsing experience by personalizing the Site;
+
+(c) enable your use of the services available on the Site;
+
+(d) send you general (non-marketing) commercial communications;
+
+(e) send you email notifications which you have specifically requested;
+
+(f) provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
+
+(g) deal with enquiries and complaints made by or about you relating to the Site.
+
+Where you submit personal information for publication on the Site, we will publish and otherwise use that information in accordance with the license you grant to us.
+
+We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+
+**4\. Disclosures**
+
+We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
+
+In addition, we may disclose your personal information:
+
+(a) to the extent that we are required to do so by law;
+
+(b) in connection with any legal proceedings or prospective legal proceedings;
+
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
+
+(d) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+
+Except as provided in this privacy policy, we will not provide your information to third parties.
+
+**5\. International data transfers**
+
+Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+
+Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area.
+
+In addition, personal information that you submit for publication on the Site will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+
+You expressly agree to such transfers of personal information.
+
+**6\. Security of your personal information**
+
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+
+We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted.
+
+Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+
+You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the Site).
+
+**7\. Policy amendments**
+
+We may update this privacy policy from time-to-time by posting a new version on the Site. You should check this page occasionally to ensure you are happy with any changes.
+
+We may also notify you of changes to our privacy policy by email.
+
+**8\. Your rights**
+
+You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
+
+(a) the payment of a fee (currently fixed at £10.00); and
+
+(b) the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
+
+We may withhold such personal information to the extent permitted by law.
+
+You may instruct us not to process your personal information for marketing purposes by email at any time. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
+
+**9\. Third party websites**
+
+The Site contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+
+**10\. Updating information**
+
+Please let us know if the personal information which we hold about you needs to be corrected or updated.
+
+**11\. Contact**
+
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [contact@guiltyfix.com](mailto:contact@guiltyfix.com) or by post to 72-75 Red Lion Street, London, WC1R 4NA.
