@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dmcloud.net privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617213715id_/https%3A//www.dailymotion.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmcloud.net privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229140634id_/https%3A//www.dailymotion.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Dailymotion
+# Privacy policy - Dailymotion
 
 Modified on 2011 August 24th 
 
