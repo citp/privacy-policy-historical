@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobitel.lk privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608053127id_/http%3A//mobitel.lk/mobitel-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobitel.lk privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230005215id_/http%3A//www.mobitel.lk/mobitel-privacy-policy) for the most accurate reproduction.*
 
 # Mobitel Privacy Policy | Mobitel
 
