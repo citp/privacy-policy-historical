@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the huntington.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628104723id_/https%3A//www.huntington.com/Privacy-Security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntington.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229020212id_/https%3A//www.huntington.com/Privacy-Security/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Huntington
 
-**Your Privacy Rights**
+##### Your Privacy Rights
 
-**Huntington’s Online Privacy Policy**
-
-[Print Privacy Policy](https://www.huntington.com/-/media/pdf/privacypolicy.pdf?la=en)
+[Print Privacy Policy](https://www.huntington.com/-/media/pdf/privacypolicy)
 
 This Online Privacy Policy ("Online Policy") applies to The Huntington National Bank, its parent Huntington Bancshares Incorporated and their subsidiaries and affiliates (collectively described as "Huntington," "we," or "us"), this website and any Huntington website, online interface, mobile site, or mobile application that links to this Online Policy (each a "Site, and collectively "Sites"). This Online Policy specifically applies to Huntington's collection, use and disclosure of information collected from visitors during use of the Sites, such as for transactional purposes or through tracking technology, including cookies or action tags. This Site and all Huntington Sites are operated in and controlled from the United States of America. This Online Policy should be read together with the "What Does Huntington Do with Your Personal Information" Privacy Notice ("Privacy Notice") below, which, among other things, describes how Huntington may share personal information gathered from you and how you can opt-out or limit certain types of information sharing.
 
@@ -89,13 +87,4 @@ Online surveys and sweepstakes are offered from time to time on our Sites. Onlin
 **Use of Online Planning Tools**  
 We make planning tools, such as mortgage and savings calculators available. We do not currently store information that you enter into one of these planning tools or calculators.
 
-******Affiliates Providing this Notice**
-
-  * The Huntington National Bank (deposits, loans, trust, credit cards, and other banking services), also using the name Huntington Mortgage Group (mortgage lending)
-  * Huntington LT (vehicle leasing)
-  * The Huntington Investment Company (investments)
-  * Huntington Asset Advisors, Inc. (investment advisory services)
-  * Huntington Insurance, Inc. (insurance)
-  * HBI Title Services, Inc. (insurance)
-
-
+[Read our Consumer Privacy Notice](https://web.archive.org/Privacy-Security/privacy-notice)
