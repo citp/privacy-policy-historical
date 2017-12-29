@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628103202id_/https%3A//www.docusign.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229015303id_/https%3A//www.docusign.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DocuSign
 
@@ -207,4 +207,4 @@ We reserve the right to amend this Privacy Policy from time to time to reflect c
 
 **13\. How to Contact Us.**
 
-If you have any questions or suggestions regarding our Privacy Policy or practices, you may contact us at [Privacy@docusign.com](mailto:Privacy@docusign.com) or via postal mail at DocuSign, Attention: Privacy Team, 221 Main Street, Suite 1000, San Francisco, CA 94105.
+If you have any questions or suggestions regarding our Privacy Policy or practices, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fbab89928d9a9882bb9f94988e88929c95d5989496) or via postal mail at DocuSign, Attention: Privacy Team, 221 Main Street, Suite 1000, San Francisco, CA 94105.
