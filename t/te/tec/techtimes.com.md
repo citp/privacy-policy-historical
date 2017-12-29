@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtimes.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630004453id_/http%3A//www.techtimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtimes.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229045929id_/http%3A//www.techtimes.com/privacypolicy) for the most accurate reproduction.*
 
 # Tech Times
 
@@ -43,6 +43,10 @@ Aggregate information is information that we (or third party service providers o
 To the extent that Tech Times utilizes third party service providers to set and access cookies on the computer of our Web site users on behalf of Tech Times, we require such service providers to agree to maintain the confidentiality of the information collected and not to use such information for any reason except to carry out the purpose(s) for which we hired them.  
 We use reputable third parties to present or serve some or all of the advertisements on our Web site. These third party network advertisers may set and access their own cookies on your computer. The use of cookies by third parties is subject to such third party's own privacy policies.  
 Most browsers are initially set up to accept cookies. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to reject cookies. If you set your browser to reject cookies, you may not be able to take advantage of certain features offered through our Web site.
+
+If you would like more information about the information collection practices of a particular third-party advertising service provider, or if you would like more information on how to opt out of a third-party advertising service provider’s information collection practices, go to [http://www.aboutads.info](http://www.aboutads.info/), or for apps, at <http://www.aboutads.info/appchoices>.  
+Additionally, some of our third-party advertising service providers are members of the Network Advertising Initiative ("NAI"). You can obtain more information about these third-party advertising service providers' information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI's website at <http://www.networkadvertising.org/managing/opt_out.asp>.  
+Please note that one of our third-party advertising service providers is DoubleClick. You can opt out of the use of cookies by DoubleClick by visiting <http://www.google.com/settings/ads>. 
 
 **Security** Your www.techtimes.com registration information is password-protected for your privacy and security. The personally identifiable information we collect about you is stored in limited access servers. We maintain (directly and through our agents) physical, electronic and procedural security safeguards to protect your personally identifiable information.
 
