@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimensionsguide.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626171123id_/http%3A//www.memebridge.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensionsguide.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229072443id_/http%3A//www.memebridge.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MemeBridge
 
@@ -21,6 +21,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Rating: 7.2/ **10** (112 votes cast)
+Rating: 7.0/ **10** (119 votes cast)
 
-Privacy Policy, 7.2 out of 10 based on 112 ratings 
+Privacy Policy, 7.0 out of 10 based on 119 ratings 
