@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tampabay.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624024549id_/http%3A//www.tampabay.com/universal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampabay.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229023009id_/http%3A//www.tampabay.com/universal/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Tampa Bay Times
 
@@ -9,7 +9,7 @@ By using our websites, you agree that your uses are governed by this Policy and 
 John Schlander  
 490 1st Ave. S.  
 St. Petersburg, FL 33701  
-[privacy@tampabay.com](mailto:privacy@tampbay.com)  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4e3e3c27382f2d370e3a2f233e2c2f37602d2123)  
 727-893-8714   
 
 
