@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huawei.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617120707id_/http%3A//www.huawei.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huawei.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229075403id_/http%3A//www.huawei.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Huawei
 
@@ -96,7 +96,7 @@ As a global company, your personal data collected by Huawei may be processed in 
 
 Huawei reserves the right to update or change this Policy at any time. We will release the latest Privacy Policy at this page for any changes. If major changes are made to the Privacy Policy, we may notify you via different channels, such as by posting a notice on our websites or by providing a notice directly to you. 
 
-## 10\. How to Contract Us
+## 10\. How to Contact Us
 
 If you have any questions or suggestions, please contact [website@huawei.com](mailto:website@huawei.com).
 
