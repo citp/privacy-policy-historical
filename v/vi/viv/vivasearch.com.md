@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the vivasearch.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030083544id_/http%3A//www.vivasearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivasearch.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | VivaSearch.com
+# Legal
 
-When you browse the site, we collect a few things to make repeat visits more enjoyable for you. We assign you a "cookie," or a data file, that contains the time you visited, your IP address, what Internet browser you are using and how long you stayed. This information gives us insight to future site revisions that can enhance your experience. Should you provide your email address, we will not distribute or provide that information to any third party without your written prior consent
+* * *
 
-VivaSearch.com may store information about your site visit such as search terms entered, referring URL, IP address, pages viewed, browser type and date and time of visit.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-## Using your information
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-The information provided to VivaSearch.com for use on public pages will help other visitors to interact with the content.
 
-Websites that have links on VivaSearch.com may have privacy policies that differ from ours. We encourage you to read their privacy policies before using their site. We are not responsible for content, terms or policies of any site that we link to.
 
-We may be required to disclose visitor information collected pursuant to legal requests (e.g. subpoenas or court orders), or in order to be compliant with applicable laws. We do not release information until we have a good faith belief that requests by law enforcement or litigants meet ethical and applicable legal standards.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
