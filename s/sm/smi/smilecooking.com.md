@@ -1,29 +1,17 @@
-> *The following text is extracted and transformed from the smilecooking.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408080712id_/http%3A//www.smilecooking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilecooking.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy - Free Cooking and Baking Games
+# Legal
 
-Privacy policy
+* * *
 
-SmileCooking.com is committed to providing an entertaining, fun and educational service. We respect the privacy concerns of visitors to SmileCooking.com.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Information we collect and how we use it 
-
-On your visit to our website there is certain information that we collect from traffic references of hosting servers and from cookies. 
-
-From traffic references of hosting servers - every time you visit a website, there is certain information you make available for collection such as IP address, time of visit, location, internet domain, type of browser and operating system used to access our site, pages you visit, if you linked to our website from another website, the address of that website etc . We, like other operators, collect this information and use it for visitors statistics and to improve our services to you. 
-
-From Cookies - the sole purpose of cookies is to enhance your online experience. Cookies are small data files that are stored on your computer by Web sites. Through your Web browser, cookies are only used by the Web site that wrote the cookie. Data stored in a cookie from SmileCooking.com is only accessible by the SmileCooking.com Web site. This information enables us to run our affiliate programs, allows customized advertising, lets you automatically sign in when you visit SmileCooking.com, and offers other operational site activities. Most of browsers are set to accept cookies. But if you prefer, you can reset your browser so as to let you know whenever you receive a cookie or even to refuse cookies. However, you should know that some parts of SmileCooking.com website can only be normally seen if your browser allows cookies. 
-
-SmileCooking.com will not share your information with anyone. The only exception shall be in the event that disclosure of information is required by law enforcement or other government officials in connection with investigation of fraud, intellectual property infringements, or other activity that is illegal or that may expose you or us to legal liability. 
-
-Collection of information and Third-Party sites and Sponsors 
-
-It is important that you understand that advertisers or Web sites that link to a SmileCooking.com site may collect personal information about you. The Privacy Policy does not apply to, and cannot control the activities of other advertisers or Web sites. We use third-party advertising companies to serve ads on our sites. These companies may use information about your visits to this and other sites in order to help them provide relevant ads to users. Third parties may also be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on our website. If you do not wish for these third-parties to place and read cookies you can set your browser to block them. 
-
-**Google Adsense**
-
-  * Google, as a third party vendor, uses cookies to serve ads on your site. 
-  * Googles use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy ](http://www.google.com/privacy_ads.html). 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
+
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
