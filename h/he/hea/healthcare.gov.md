@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcare.gov privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616175153id_/https%3A//www.healthcare.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcare.gov privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229033105id_/https%3A//www.healthcare.gov/privacy) for the most accurate reproduction.*
 
 # Privacy | HealthCare.gov
 
@@ -87,7 +87,7 @@ For specific details on the data collected by the systems that make up the Healt
 
 ### When processing your application after you apply for health insurance coverage:
 
-We use the application information you choose to provide to determine eligibility for enrollment in a qualified health plan through the Federal Health Insurance Marketplaces, Medicaid, CHIP, advance premium tax credits and cost sharing reductions, and certifications of exemption from the individual shared responsibility requirement. We also verify the information provided on the application, communicate with you or your authorized representative, and provide the information to the health plan you select so that it can enroll you in a qualified health plan. You can find more information about how we use the information you provide on the application in the Privacy Act Statements at the following links:
+We use the application information you choose to provide to determine eligibility for enrollment in a qualified health plan through the Federal Health Insurance Marketplace, Medicaid, CHIP, advance premium tax credits and cost sharing reductions, and certifications of exemption from the individual shared responsibility requirement. We also verify the information provided on the application, communicate with you or your authorized representative and provide the information to the health plan you select so that it can enroll you in a qualified health plan. If you submitted your Marketplace application through the website of an agent, broker or a health insurance company and not through HealthCare.gov, we will also communicate with the entity you applied or enrolled with regarding your application and supply them with your eligibility determination and other related information. You can find more information about how we use the information you provide on the application in the Privacy Act Statements at the following links:
 
   * <https://www.healthcare.gov/individual-privacy-act-statement/> for Individuals and Families on the individual Marketplace
   * <https://www.healthcare.gov/agent-privacy-act-statement/> for Agents and Brokers for the individual Marketplace
@@ -176,7 +176,13 @@ As a response to OMB Memo M-10-06, Open Government Directive, the HealthCare.gov
 
 ### Third-party Websites:
 
-Your activity on the third-party websites that HealthCare.gov links to (such as Facebook or Twitter) is governed by the security and privacy policies of those sites. You should review the privacy policies of all websites before using them so that you understand how your information may be used. You should also adjust privacy settings on your account on any third-party website to match your preferences.
+Your activity on the third-party websites that HealthCare.gov links to (such as Facebook or Twitter) is governed by the security and privacy policies of those websites. You should review the privacy policies of all websites before using them so that you understand how your information may be used. You should also adjust privacy settings on your account on any third-party website to match your preferences.
+
+HealthCare.gov and CMS have contracted with BigWave Systems to provide consumers access to Help On Demand, a service that connects consumers with Marketplace-registered and state-licensed insurance agents and brokers for assistance with obtaining eligibility determinations and enrollment in coverage. The service is a real-time referral system that allows consumers to request assistance from participating agents and brokers in their area who can provide immediate assistance. Consumers who want assistance with completing an application on HealthCare.gov can navigate to the Help On Demand service by clicking on a hyperlink. Once the consumer chooses to navigate to the third party website, they are interacting with a website that is not operated by CMS and a referral service that then provides their information directly to a Marketplace-registered insurance agent or broker. Therefore, the consumer using the service is subject to the security standards and privacy policies of the third-party website and BigWave Systems. BigWave Systems will not share consumers’ personally identifiable information with HealthCare.gov or CMS. The website will display a detailed privacy notice as well as terms of use which will govern users' activity on the website. Users should review this content before using the third party website to understand how their information may be used. For more information on this service, please see the CMS Privacy Impact Assessment for [Help on Demand (PDF)](https://www.hhs.gov/sites/default/files/cms-help-on-demand.pdf).
+
+CMS manages and oversees a direct enrollment proxy partner program that establishes agreements with certain insurance companies and licensed agents and brokers. These insurance companies, licensed agents, and brokers use their own websites to facilitate enrollment in qualified health plans. These agreements authorize certain third parties to submit eligibility and enrollment information that they collect directly from consumers to the Marketplace for an eligibility determination without using HealthCare.gov. If you choose to apply for coverage with a third party through their website, or with an Agent or Broker whose website relies on an eligibility and enrollment tool provided by another authorized third party, your activity on those third party websites is governed by the security and privacy policies of those websites. If you choose to apply for coverage through a third party, information needed to determine your eligibility status, your final eligibility determination, and other information related to your application and enrollment will be shared between CMS (who runs the Health Insurance Marketplace) and our authorized third parties which include agents, brokers and health insurance companies.
+
+For more information on how your information is used and kept secure when you apply or enroll through an authorized third party without using HealthCare.gov, please see the CMS Privacy Impact Assessment for [Direct Enrollment Partner Websites (PDF)](https://www.hhs.gov/sites/default/files/cms-direct-enrollment-partner-websites.pdf).
 
 ### Website Analytics Tools:
 
@@ -220,7 +226,7 @@ We believe in the importance of protecting the privacy of children online. The C
 
 ## Links to other sites
 
-HealthCare.gov may link to other HHS sites, other government sites, and/or to private organizations (e.g. healthcare providers). We link to other websites solely for your convenience and education. When you follow a link to an external site, you are leaving HealthCare.gov and are subject to the external site’s privacy and security policies. Non-federal websites do not necessarily operate under the same laws, regulations, and policies as federal websites. Aside from third-party websites highlighted in this privacy notice, CMS is not responsible for the contents of external web pages and a link to a page does not constitute an endorsement.
+HealthCare.gov may link to other HHS sites, other government sites, and/or to private organizations (e.g. health care providers). We link to other websites solely for your convenience and education. When you follow a link to an external site, you are leaving HealthCare.gov and are subject to the external site’s privacy and security policies. Non-federal websites do not necessarily operate under the same laws, regulations, and policies as federal websites. Aside from third-party websites highlighted in this privacy notice, CMS is not responsible for the contents of external web pages and a link to a page does not constitute an endorsement.
 
 ### Your Privacy on Social Media Sites & Other Sites that Require Registration
 
@@ -242,4 +248,4 @@ CMS does not keep separate records or accounting of any Social Media Site users 
 
 If you would like more information about the application of the Privacy Act at CMS, please read the Privacy Act of 1974 located at <http://www.cms.gov/Research-Statistics-Data-and-Systems/Computer-Data-and-Systems/Privacy/PrivacyActof1974.html>.
 
-Published Date: November 4, 2016
+Updated: October 25, 2017
