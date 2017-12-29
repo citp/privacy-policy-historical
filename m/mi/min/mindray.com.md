@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindray.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629155214id_/http%3A//www.mindraynorthamerica.com/%3Fpage_id%3D1489) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindray.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229184052id_/http%3A//www.mindraynorthamerica.com/%3Fpage_id%3D1489) for the most accurate reproduction.*
 
 # Privacy Policy - Mindray North America
 
