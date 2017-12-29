@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelonly.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622060922id_/http%3A//www.travelonly.com/en/c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelonly.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229173957id_/http%3A//www.travelonly.com/en/c/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy Legal documentation - TravelOnly
 
