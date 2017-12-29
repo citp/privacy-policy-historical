@@ -1,45 +1,17 @@
-> *The following text is extracted and transformed from the dramovies.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828161246id_/http%3A//dramovies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramovies.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Dramovies.com
+# Legal
 
-_Updated March 27, 2015_
+* * *
 
-Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of dramovies.com (the “Website”), including information you provide when using it.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-We expressly and strictly limit use of the Website to individuals over thirteen (13) years of age. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
- **Data Collected**  
-Browsing the Website. You can access the Website without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content.
 
-Usage Information. We may record information about your usage of the Website such as your use of the Website, the mp3s you search and listen to, the frequency and size of data transfers and other statistics. If you have registered and are logged in, we may associate that information with your account.
 
-Uploaded Content. Any personal information or content you voluntarily disclose online, including music and comments, becomes publicly available and may be collected and used by others.
-
-Correspondences. We may keep a record of any correspondence between you and us.
-
-Cookies. When you use the Website, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies.
-
- **Data Usage**  
-We may use your information to provide you with certain features and to create a personalized experience on the Website. We may also use that information to operate, maintain and improve features and functionality of the Website.
-
-We will not use your e-mail address or other personal information to send commercial or marketing messages without your consent. We may use your e-mail without further consent for any purposes, including without limitation, commercial, marketing and administrative purposes.
-
-We use cookies, web beacons and other information to store information so that you will not have to re-enter it on future visits, provide personalized content and information, monitor the effectiveness of the Website and monitor aggregate metrics such as the number of visitors and page views (including for use in monitoring visitors from affiliates). They may also be used to provide targeted advertising based on your country of origin and other personal information.
-
-We may aggregate your personal information with personal information of other members and users, and disclose such information to advertisers and other third-parties for marketing and promotional purposes.
-
-Your username may be displayed to other users alongside Content you make available.
-
-Any Content that you submit may be redistributed through the internet and other media channels and may be viewed by the general public.
-
-If you choose to install the eToolKit software (the “Toolbar”) offered on the Website you agree that our partner providing this software may collect and store information about your use of the Toolbar, including full URLs for every web page that you view while using the Toolbar. The list of URLs visited by users of the Toolbar to find mp3 files is subsequently passed to us by the partner. Such information may be automatically used for index creation.
-
- **Disclosures of Information**  
-We may be required to release certain data to comply with legal obligations or in order to enforce our Terms of Use and other agreements. We may also release certain data to protect the rights, property or safety of us, our users and others. This includes providing information to other companies or organizations like the police or governmental authorities for the purposes of protection against or prosecution of any illegal activity, whether or not it is identified in the Terms of Use.
-
-If you upload any illegal material to the Website, we may forward all available information to relevant authorities, including respective copyright owners, without any notice to you.
-
- **Miscellaneous**  
-While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or Content you transmit to us. Any information or Content you transmit to us is done at your own risk.
-
-You are entitled to access, correct or delete your information on the Website and may request us to do so by contacting us at film21gratis@gmail.com
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
