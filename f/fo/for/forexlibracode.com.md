@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexlibracode.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119123702id_/http%3A//www.forexlibracode.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexlibracode.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229234747id_/http%3A//forexlibracode.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Website Terms of Use
 
