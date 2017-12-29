@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeskuwait.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085556id_/http%3A//www.timeskuwait.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeskuwait.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229231718id_/http%3A//www.timeskuwait.com/Privacy) for the most accurate reproduction.*
 
 # The Times Kuwait
 
@@ -51,7 +51,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 By using our site, you consent to the privacy policy of t **imeskuwait.com**.
 
 This policy was last modified on 1st October, 2011 [http://www. **timeskuwait.com**](http://www.timeskuwait.com/)
-
-  * [ ](http://www.timeskuwait.com/upload/banner/FlowHouseKuwait.jpg)
-
-
