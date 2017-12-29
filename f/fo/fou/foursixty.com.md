@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the foursixty.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626113141id_/https%3A//foursixty.com/460/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foursixty.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229223635id_/http%3A//foursixty.com/460/privacy) for the most accurate reproduction.*
 
-# Foursixty >> Privacy Policy
-
-### Last Updated: February 18, 2014
+# Foursixty
 
 This is the Privacy Policy of the Foursixty website (the “Site”), operated by Foursixty Inc. (together with our affiliates and subsidiaries, “Foursixty”, “we”, “us”, “our” and terms of similar meaning) and our related products and services. It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose this information. 
 
