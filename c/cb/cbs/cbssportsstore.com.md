@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbssportsstore.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221042738id_/http%3A//shop.cbssports.com/pages/partners_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbssportsstore.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229071419id_/http%3A//shop.cbssports.com/pages/partners_privacy_policy) for the most accurate reproduction.*
 
 # 
 
