@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversepson.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627214254id_/http%3A//www.driversepson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversepson.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229151027id_/http%3A//www.driversepson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,8 +26,8 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 **Advertising Privacy Policy**
 
-driversepson.com use Google Adsens ads network.. This network has used cookies to [DoubleClick Dart](http://www.driversepson.com/download/aHR0cDovL3d3dy5nb29nbGUuY29tL2RvdWJsZWNsaWNrLw==) for Google Publishers’s web sites. Google ,used this cookies for publish to ads of Advertiser’s as3 th. Part seller. Using this section, pusblish the ads which of the thesame as like to content around the Internet. Visit to [Google Privacy Policy](http://www.driversepson.com/download/aHR0cDovL3d3dy5nb29nbGUuY29tL3BvbGljaWVzL3ByaXZhY3kvYWRzLw==), you can suspend the DART cookies how to make it.
+driversepson.com use Google Adsens ads network.. This network has used cookies to [DoubleClick Dart](http://www.google.com/doubleclick/) for Google Publishers’s web sites. Google ,used this cookies for publish to ads of Advertiser’s as3 th. Part seller. Using this section, pusblish the ads which of the thesame as like to content around the Internet. Visit to [Google Privacy Policy](http://www.google.com/policies/privacy/ads/), you can suspend the DART cookies how to make it.
 
 When the Google visit our web sites, use 3th part ads network ( etc. Adnet, Adcash … ) services fort this. This Ads Networks; use your personal informations ( name, address, email or gsm numbers ) for the their services; view ads to visitors interested to products and service around the internet.
 
-For all this to, Privacy Policy and Rules which of used the Networks, you can download or read atteched file [NAI Self- Regulatory Principles For Publishers ( PDF )](http://www.driversepson.com/download/aHR0cDovL3d3dy5uZXR3b3JrYWR2ZXJ0aXNpbmcub3JnL3NpdGVzL2RlZmF1bHQvZmlsZXMvaW1jZS9wcmluY2lwbGVzLnBkZg==)
+For all this to, Privacy Policy and Rules which of used the Networks, you can download or read atteched file [NAI Self- Regulatory Principles For Publishers ( PDF )](http://www.networkadvertising.org/sites/default/files/imce/principles.pdf)
