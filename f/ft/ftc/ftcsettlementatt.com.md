@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftcsettlementatt.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229044728id_/http%3A//www.ftc.gov/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftcsettlementatt.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229021144id_/http%3A//www.ftc.gov/site-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Federal Trade Commission
 
@@ -53,7 +53,7 @@ When you contact us to help you with a problem, we may collect personal informat
   * we post public comments and transcripts, including names, state of residence, and other non-confidential information, on the FTC website in a rulemaking, workshop, blog, or other public FTC proceeding.
   * we provide information to credit bureaus for complaints about consumer fraud, ID theft, or credit reports.
   * we provide only your phone number to telemarketers to enforce the National Do Not Call Registry.
-  * we provide information to businesses or individuals in response to court orders, subpoenas, or Freedom of Information Act requests, or to resolve complaints.
+  * we provide information to businesses or individuals in response to court orders, subpoenas, discovery requests, or Freedom of Information Act requests, or to resolve complaints.
   * we use [third-party services](https://www.ftc.gov/faq/ftc-info/information-collected-third-party-services) on our websites to assist in communicating or interacting with the public.
 
 
@@ -73,7 +73,7 @@ When you contact us to help you with a problem, we may collect personal informat
 The FTC’s Privacy Act rules – including our procedures, timelines, and instructions for submitting Privacy Act requests, and a list of FTC systems of records that are exempt from the Act’s requirements –  are published at [16 C.F.R. 4.13](http://www.ecfr.gov/cgi-bin/text-idx?SID=04a711d6460cb5811b7b9acc0e359ead&mc=true&node=se16.1.4_113&rgn=div8).
 
   * List of [FTC Privacy Act Systems of Records](https://www.ftc.gov/about-ftc/foia/foia-reading-rooms/privacy-act-systems)
-  * For more information about making a Privacy Act request, visit our [FOIA request page](https://www.ftc.gov/about-ftc/foia/foia-request) or use our [online request form](https://foia.ftc.gov/ftc/foia.htm).
+  * For more information about making a Privacy Act request, visit our [FOIA request page](https://www.ftc.gov/about-ftc/foia/foia-request) or use our [online request form](https://www.ftc.gov/foia/request-form).
 
 
 
@@ -84,7 +84,7 @@ Write to the FTC's Chief Privacy Officer:
 Katherine Race Brin
 
 Federal Trade Commission  
-600 Pennsylvania Ave., NW, H-444  
+600 Pennsylvania Ave., NW, H-350  
 Washington, DC 20580  
 [cpo@ftc.gov](mailto:cpo@ftc.gov)
 
@@ -111,4 +111,4 @@ Visit our [Contact Us](https://www.ftc.gov/contact) page to find email, phone, a
 
 
 
-_Revised October 2016_
+ _Revised August 2017_
