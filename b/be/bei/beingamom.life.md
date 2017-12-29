@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beingamom.life privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132108id_/http%3A//beingamom.life/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beingamom.life privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229114243id_/http%3A//beingamom.life/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Being a Mom | Like it. Love it. Live it.
 
