@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsungindiaestore.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630223819id_/http%3A//www.samsung.com/in/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungindiaestore.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229224653id_/http%3A//www.samsung.com/in/info/privacy) for the most accurate reproduction.*
 
 # Privacy | Samsung India
 
@@ -14,7 +14,7 @@ We strive to improve your lives by offering inspiring and fascinating digital ex
 
 Thank you for your continued interest and support.
 
-**[__](https://web.archive.org/web/20170630223819id_/http://www.samsung.com/in/info/privacy/part1)_Samsung Global Privacy Policy_**
+**[__](https://web.archive.org/web/20171229224653id_/http%3A//www.samsung.com/in/info/part1)_Samsung Global Privacy Policy_**
 
 Effective: [2014.3]
 
@@ -216,5 +216,8 @@ Phone: + 91-124-488-1234
 
 **[Improve them and develop new products and services]** : We may use information we collect to understand the way you use the products and services we offer so that we can improve them and develop new products and services. For example, we may use this information to make better-informed decisions about the design of our devices and the selection of Samsung and third-party content that is accessible through our devices and services.
 
-**[Affiliates]** : The term ‘affiliates’ refers to companies related to Samsung Electronics Co. Ltd. by common ownership or control. Affiliates include companies with the Samsung Electronics name, such as Samsung Asia Pte Ltd. Affiliates may also include other companies related by common ownership or control, such as Samsung Information Systems America.  
+**[Affiliates]** : The term ‘affiliates’ refers to companies related to Samsung Electronics Co. Ltd. by common ownership or control. Affiliates include companies with the Samsung Electronics name, such as Samsung Asia Pte Ltd. Affiliates may also include other companies related by common ownership or control, such as Samsung Information Systems America.
 
+Samsung printing and copier products are now part of the HP product family. Please refer to the HP Privacy Statement at the following link: 
+
+[_www.hp.com/go/privacy_](http://www.hp.com/go/privacy "Open in a New Window")
