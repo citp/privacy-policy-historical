@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commscope.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627154638id_/https%3A//www.commscope.com/About-Us/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commscope.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229232602id_/https%3A//www.commscope.com/About-Us/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -10,6 +10,13 @@ Your use and provision of Personal Information to CommScope constitute your expr
 
  **Types and Uses of Personal Information**  
 CommScope may collect and use the following types of Personal Information about users of the Site or obtain such Personal Information directly from you, such as when you fill out a registration or contact form:
+
+  * First name, last name, email address, phone number and other personal or business contact information;
+  * Account login information (e.g., User ID and Password);
+  * IP address; and
+  * Any additional information you choose to voluntarily disclose on the Site or offline to CommScope
+
+
 
 CommScope uses your Personal Information in order to provide the highest level of customer service to our prospects, customers, investors and users in general. CommScope uses the Personal Information of suppliers, vendors, and business partners in order to manage such relationships. Personal Information is collected in order to allow CommScope to contact you, provide materials to you upon your request, register you, allow you access proprietary systems, to maintain and secure this Site and the CommScope Social Networks, and for similar purposes. At times, CommScope may use Personal Information obtained in order to update a user on information relating to CommScope products or services; although, we will provide you with the right to opt-out of receiving such information. CommScope will not use your Personal Information in ways unrelated to the ones described above without first obtaining your permission.
 
