@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsausa.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140457id_/http%3A//www.dsausa.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsausa.org privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229233926id_/http%3A//www.dsausa.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Democratic Socialists of America
 
@@ -22,7 +22,7 @@ Following termination or deactivation of your DSA or DSA Fund account, we may re
 DSA and DSA Fund reserve the right, but has no obligation, to monitor the user content you post on dsausa.org. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or to protect or defend our rights or property or those of any third party. DSA and DSA Fund also reserve the right to remove information upon the request of any third party.
 
 How We Share Your Information  
-Personally Identifiable Information: DSA and DSA Fund will not rent or sell your personally identifiable information to others. DSA and DSA Fund may share your personally identifiable information with third parties for the purpose of providing dsausa.org services to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of DSA and DSA Fund (for instance, on servers or databases co-located with hosting providers). We may also provide some personal information to other DSA dues paying members for the purposes of organizing a DSA chapter.
+Personally Identifiable Information: Except as otherwise described in this Privacy Policy, DSA and DSA Fund will not rent or sell your personally identifiable information to others. DSA may share your personally identifiable information with DSA locals or sections or with political committees dedicated exclusively to candidates endorsed by DSA locals. DSA and DSA Fund may share your personally identifiable information with third parties for the purpose of providing dsausa.org services to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of DSA and DSA Fund (for instance, on servers or databases co-located with hosting providers). We may also provide some personal information to other DSA dues paying members for the purposes of organizing a DSA chapter.
 
 Any personal information or content that you voluntarily disclose for posting to dsausa.org, such as user content, becomes available to the public, as controlled by any applicable privacy or website customization settings. If you remove information that you posted to dsausa.org, copies may remain viewable in cached and archived pages, or if other users have copied or saved that information.
 
@@ -40,13 +40,13 @@ Your Choices About Your Information
 You may, of course, decline to submit personally identifiable information through dsausa.org, in which case DSA and DSA Fund may not be able to provide certain services to you. You can review and correct the information about you that DSA and DSA Fund keep on file by contacting us directly at info (a) dsausa.org.
 
 Children's Privacy  
-Protecting the privacy of young children is especially important. For that reason, DSA and DSA Fund do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for dsausa.org accounts. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on OUR DOMAIN. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at info (a) dsausa.org.
+Protecting the privacy of young children is especially important. For that reason, DSA and DSA Fund do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for dsausa.org accounts. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on dsausa.org. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible upon the request of the parent(s). If you believe that we might have any information from or about a child under 13, please contact us at info (a) dsausa.org.
 
 Links to Other Web Sites  
 We are not responsible for the practices employed by websites linked to or from dsausa.org, nor the information or content contained therein. Please remember that when you use a link to go from dsausa.org to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
 
 Notification Procedures  
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on dsausa.org, as determined by OUR DSA and DSA Fund in their sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on dsausa.org, as determined by DSA and DSA Fund in their sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
 
 Changes to Our Privacy Policy  
 If we change our privacy policies and procedures, we will post those changes on dsausa.org to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
@@ -55,6 +55,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 DSA
 
-75 Maiden Lane, Suite 505
+75 Maiden Lane, Suite 702
 
 New York, NY 10038
