@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the softncracks.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630085934id_/http%3A//softncracks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softncracks.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229143913id_/http%3A//softncracks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy l SoftnCracks.com
 
 [   
-**Privacy Policy**](http://refterdown.com/dt?k=da19a2e225a4ca273fc9054210804b39&q=%3Ckeyword%3EPrivacy%20Policy)
+**Privacy Policy**](http://blendf.com/dt?k=cf974598e03ebe71b680765211463060&q=%3Ckeyword%3EPrivacy%20Policy)
 
 This Privacy Policy governs the manner in which softncracks.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://softncracks.com/>website (“Site”).
 
@@ -69,5 +69,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 This document was last updated on June 01, 2015
 
 [   
-**Privacy Policy**](http://refterdown.com/dt?k=da19a2e225a4ca273fc9054210804b39&q=%3Ckeyword%3EPrivacy%20Policy)  
+**Privacy Policy**](http://blendf.com/dt?k=cf974598e03ebe71b680765211463060&q=%3Ckeyword%3EPrivacy%20Policy)  
 
