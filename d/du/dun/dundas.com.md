@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621022020id_/http%3A//www.dundas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229085109id_/http%3A//www.dundas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dundas Data Visualization
 
@@ -164,7 +164,7 @@ If you have a question about the privacy policies stated on this site, please ca
 
 If you have a concern or complaint about privacy, confidentiality or the personal information handling practices of Dundas, our employees or service suppliers, please contact: 
 
-**Craig Segal, Dundas General Counsel** Phone: [+1-416-467-5100 x120](tel:+14164675100p120)  
+**Irina Bogatch** Phone: [+1-416-467-5100 x120](tel:+14164675100p120)  
 Fax: [+1-416-422-4801](tel:+14164224801)  
 Email: [privacy@dundas.com](mailto:privacy@dundas.com)
 
