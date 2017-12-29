@@ -1,31 +1,17 @@
-> *The following text is extracted and transformed from the theinternettruthproject.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601092302id_/http%3A//kayolhope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinternettruthproject.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Legal
 
-At Kayol Hope, I are committed to protecting your privacy as a visitor to this Web site and as our customer. To our visitors and to our customers, I offer this pledge:
+* * *
 
-Kayol Hope is the owner of the information, which is collected on this Web site. I will not sell, disseminate, disclose, trade, transmit, transfer, share, lease or rent any personally identifiable information to any third party not specifically authorized by you to receive your information except as I have disclosed to you in this Privacy Policy.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Information Collection
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-I will ask you to provide your personal information to us when you submit reviews and when you provide testimonials to us. I will also ask you to provide your personal information to us when you send e-mail to us from this Web site. When you submit a review and/or testimonial at Kayol Hope, I will ask you to provide your name, home address, mailing address, telephone number and e-mail address. I will maintain a record of your information at the offices of Kayol Hope. so we can provide you with quality services. The employees of Kayol Hope are each required to sign and acknowledge a Confidentiality And Nondisclosure Agreement. Each employee has been instructed on maintaining the privacy of each customer and the importance of protecting the customer’s personal information.
 
-When you send us e-mail from this Web site, you will provide us with certain personally identifiable information including your e-mail address.
 
-Cookies
-
-A cookie is a piece of data that is stored on a visitor’s hard drive while they are visiting this Web site. I may utilize a short-lived form of cookie when you visit this site. At Kayol Hope, a cookie is only used to identify one unique visitor from another visitor during a particular session. A session is the period of active site-use while that unique visitor is linked to our server. I may use cookie technology during a session as a tool to carry forward your input information during the submission process. This enables the visitor to input their information once and have the information appear later during the review process. No personally identifiable information is stored on the cookie. The cookie expires and is deleted from the visitor’s computer as soon as they close their browser or if they are not actively browsing our Web site for more than 20 minutes. Should a previous visitor to our Web site return for a new session, they will be issued a new cookie and in no way will they be recognized as a visitor from a previous visit or session.
-
-Third Party Links
-
-This Web site may contain links to third party Web sites that are not controlled by Kayol Hope. These third party links are made available to you as a convenience and you agree to use these links at your own risk. Please be aware that Kayol Hope is not responsible for the content of third party Web sites linked to Kayol Hope nor are I responsible for the privacy policy or practices of third party Web sites linked to Kayol Hope. Our Privacy Policy only applies to information I collect from you while you are at and while you are actively in a session with Kayol Hope. If you should link to a third party Web site from Kayol Hope, I strongly encourage you to review and become familiar with that Web site’s privacy policy.
-
-Changes In Our Privacy Policy
-
-I reserve the right to change this Privacy Policy without providing you with advance notice of our intent to make the changes.
-
-If you have any questions about our privacy policy, please feel free to contact us at:
-
-Kayol Hope  
-246 Rothesay Avenue  
-SAINT JOHN, NB E2J-2B7
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
