@@ -1,48 +1,17 @@
-> *The following text is extracted and transformed from the 3yen.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013074135id_/http%3A//www.3yen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3yen.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# News on Japan – 3Yen – Privacy Policy
+# Legal
 
-PRIVACY POLICY
+* * *
 
-Your privacy is important to us. This notice explains our online information practices and the choices you can make about the way your information is collected and used. This notice is available on our homepage.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-3Yen.com does not collect personally identifying information with the sole exception of your specific knowledge and consent thereof. We do not share such information with any third parties, and no third party has access to your stored information.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-3Yen.com stores all information in password protected directories and publicly inaccessible databases. 3Yen.com will never sell or distribute email addresses and/or other personally identifying information to third parties without your explicit permission, nor use it for unapproved commercial purposes.
 
-Like all sites, 3Yen.com keeps detailed logs of site usage. Statistics tracked include country of origin, your browser type, IP address and the pages you request. This information is used to find out which parts of a site are most popular and to provide aggregate marketing information to clients. Detail information about your browsing habits is not disclosed to third-parties.
 
-We do not sell your personal information to third-parties, however we may occasionally send mails to users on behalf of third-parties. Users may opt-out of these mailings.
-
-We will not send mails for Viagra, casinos, pyramid schemes, pornography, nor other generic spam.
-
-We may send all registered users regular email updates on the 3Yen.com system. We may send all registered users email when new 3Yen.com services are launched. Users may opt-out of these mailings.
-
-To participate for 3Yen.com discussions and comments you are required to provide a valid email address. We track the IP address of every posting on 3Yen.com discussions. We may remove personally identifiable postings where necessary.
-
-No personally identifiable information is collected for our polls.
-
-We may conduct surveys on behalf of third-parties. Any information collected will be used by third-parties in their marketing efforts. We will always ask all third-parties to use information gathered in surveys responsibly. However, we have no control over how the third-party uses the information collected.
-
-We may write one or several cookies to your machine to track your progress through the site. No personally identifiable information can be collected from these cookies.
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-All online credit card transactions are performed only on secure servers through a secure SSL connection. Credit Card information for recurring payments is not stored on our public servers.
-
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information.
-
-3Yen.com reserves the right to reveal registration information pursuant to a valid subpoena or court order. We reserve the right to use or share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of 3Yen.com’s terms of use, or as otherwise required by law.
-
-We will transfer information about you if 3Yen.com is acquired by or merged with another company. In this event, we will notify you before information about you is transferred and becomes subject to a different privacy policy.
-
-At any time, you may review or update your personal information by contacting us via the contact form available online. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. Please do not hesitate to contact us if you have any questions or concerns about this privacy policy.
-
-GOOGLE ADSENSE
-
-\- Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to this website.  
-\- Google’s use of the DART cookie enables it and its partners to serve ads to this site’s users based on their visit to this sites and/or other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting [the advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can visit the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)  
-\- Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20141013074135id_/http://www.3yen.com/privacy/www.networkadvertising.org/managing/opt_out.asp). 
-
-3Yen.com may update this policy in the future.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
