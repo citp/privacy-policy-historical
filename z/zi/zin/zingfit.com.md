@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingfit.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908020800id_/http%3A//www.zingfit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingfit.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229162413id_/http%3A//www.zingfit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Fitness Studio Software | zingFit
 
@@ -12,10 +12,10 @@ We may from time to time disclose to third parties aggregate information on our 
 
 Note that our site provides links to products and services offered by other companies; the company’s web site that you link to will be able to determine that you linked from our web site.
 
-While you are a 27eweb.com customer, we manage information with regard to your account status, choice of services, and customer logs. In addition, we may store customers’ electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.
+While you are a zingFit customer, we manage information with regard to your account status, choice of services, and customer logs. In addition, we may store customers’ electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.
 
-27eweb.com may share customer information with selected partners/third parties, for example, to provide you with information about products which might be of interest to you or to enable you to take advantage of special partner programs. 27eweb.com may also use customer information to provide customers with system information or information about new or upgraded products.
+zingFit may share customer information with selected partners/third parties, for example, to provide you with information about products which might be of interest to you or to enable you to take advantage of special partner programs. zingFit may also use customer information to provide customers with system information or information about new or upgraded products.
 
-27eweb.com will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that 27eweb.com stores or transmits for its customers. The circumstances under which 27eweb.com will disclose such electronic customer communications are when:
+zingFit will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that zingFit stores or transmits for its customers. The circumstances under which zingFit will disclose such electronic customer communications are when:
 
-Please note, however, that 27eweb.com reserves the right to send bulletins and other important information regarding our services at our discretion.
+Please note, however, that zingFit reserves the right to send bulletins and other important information regarding our services at our discretion.
