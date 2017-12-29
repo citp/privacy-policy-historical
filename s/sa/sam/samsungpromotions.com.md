@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsungpromotions.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630171020id_/http%3A//www.samsung.com/us/common/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungpromotions.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229124912id_/http%3A//www.samsung.com/us/common/privacy.html) for the most accurate reproduction.*
 
 # About SAMSUNG - SAMSUNG
 
@@ -373,6 +373,12 @@ Please note that when you watch a video or access applications or content provid
 ## Country-Specific Features
 
 Please note that one or more of the features described in this SmartTV Supplement may not be available to you depending on where you live. 
+
+## Our Commitment
+
+At Samsung Electronics, we put a priority on protecting your personal information. Acknowledging the importance of your personal information, we strive to secure and carefully process the information you share with us. We value your trust. We hence provide notice regarding how we collect, use and share your information. Where required by applicable law, we seek your permission to collect, use and share your information. We at Samsung Electronics help safeguard your data through technical, data security and internal management procedures as well as physical data protection measures. Particularly, we have developed Samsung Knox, a strong proprietary encryption technology. We have applied Knox across a number of systems and products in an effort to differentiate ourselves from other companies. We strive to offer inspiring and fascinating digital experiences. In order to do so, your trust is paramount and thus, we take measures to protect your personal information. Thank you for your continued interest and support. 
+
+Samsung printing and copier products are now part of the HP product family. Please refer to the HP Privacy Statement at the following link: [ www.hp.com/go/privacy](http://www.hp.com/go/privacy)
 
 * * *
 
