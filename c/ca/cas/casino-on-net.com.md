@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the casino-on-net.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508023013id_/http%3A//www.casino-on-net.com/security-and-privacy/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casino-on-net.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229064342id_/http%3A//www.casino-on-net.com/security-and-privacy/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Security and Privacy | Casino-on-Net™
 
-The Company (as defined in the [User Agreement](https://web.archive.org/security-and-privacy/user-agreement.htm)) offers gambling services (the “ **Services** ”) via its in-house brands (each an " **In-House Brand** ") and via third parties' brands as part of so called "white labels". The white label owner and its corporate affiliates shall hereinafter be referred to as the " **White Label Brand** ".
+The Company (as defined in the [User Agreement](https://web.archive.org/security-and-privacy/user-agreement.htm) applicable to you) offers gambling services (the “ **Services** ”) via its in-house brands (each an " **In-House Brand** ") and via third parties' brands as part of so called "white labels". The white label owner and its corporate affiliates shall hereinafter be referred to as the " **White Label Brand** ".
 
 The Group (as defined below), and the White Label Brand (if applicable) (collectively " **we** ", " **our** " or " **us** "), know that how we collect, use and protect your information is important to you (“ **you** ” or the “ **user** ”), and we value your trust. That is why protecting your information and being transparent about what we do with it is a vital part of our relationship with you.
 
@@ -23,8 +23,6 @@ We have created this Privacy Policy to inform you about how we manage, collect a
 
 
 We encourage you to read the Privacy Policy carefully and use it to make informed decisions.
-
-By using the Services, you agree to the terms of this Privacy Policy and your continued use of the Services constitutes your ongoing agreement to this Privacy Policy. This Privacy Policy forms a part of the User Agreement. You should read this Privacy Policy in conjunction with the User Agreement.
 
 ### About the Group
 
@@ -182,7 +180,7 @@ You may opt-out of many third-party ad networks, including those operated by mem
 
 ### Marketing
 
-We, both the Group and the Brand Owner may use your Personal Information, such as your name, home address, email address, telephone number etc, ourselves or by using our third party subcontractors for the purpose of providing you with promotional materials, concerning the Services as well as products, services, websites and applications which relate to: (i) other companies within the Group; (ii) Brand Owner; or (iii) Group's business partners and affiliates (collectively: “Marketing Affiliates”), which we believe may interest you.
+We, both the Group and the White Label Brand may use your Personal Information, such as your name, home address, email address, telephone number etc, ourselves or by using our third party subcontractors for the purpose of providing you with promotional materials, concerning the Services as well as products, services, websites and applications which relate to: (i) other companies within the Group; (ii) White Label Brand; or (iii) Group's business partners and affiliates (collectively: “Marketing Affiliates”), which we believe may interest you.
 
 We may also share and disclose Personal Information with our Marketing Affiliates for the purpose of providing you different marketing offers, which we, or our Marketing Affiliates, believe are relevant for you. Our Marketing Affiliates may use this Personal Information for different marketing techniques, such as direct email, post, SMS and telephone marketing purposes.
 
@@ -192,7 +190,7 @@ You may at any time decline receiving further marketing offers from us or from o
 
 ### Corporate Transaction
 
-We may share Information, including Personal Information, in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, reorganization, bankruptcy, consolidation or asset sale of an asset or transfer in the operation thereof) in relation to any company within the Group or in the event of a corporate transaction in relation to the White Label Brand (if applicable) or the “white label” .
+We may share Information, including Personal Information, in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, reorganization, bankruptcy, consolidation or asset sale of an asset or transfer in the operation thereof) in relation to any company within the Group or in the event of a corporate transaction in relation to the White Label Brand (if applicable) or the “white label”.
 
 In the event of the above, the acquiring company or transferee will assume the rights and obligations as described in this Privacy Policy.
 
@@ -204,7 +202,7 @@ We reserve the right to access and verify any Personal Information collected fro
 
 ### Updates or Amendments to the Privacy Policy
 
-We may revise this Privacy Policy from time to time, in our sole discretion, and the most current version will always be posted on this website. We encourage you to review this Privacy Policy regularly for any changes.
+We may revise this Privacy Policy from time to time, including without limitation as a result of legal and regulatory changes, security reasons and changes to our Services, and the most current version will always be posted on this website. We encourage you to review this Privacy Policy regularly for any changes.
 
 Your continued use of the Services, following the notification of such amendments on this website, constitutes your acknowledgement and consent of such amendments to the Privacy Policy and your agreement to be bound by the terms of such amendments.
 
@@ -219,8 +217,8 @@ The Group includes the following companies all of which have an address at 601-7
   * **Cassava Enterprises (Gibraltar) Limited;**
   * **888 UK Limited;**
   * **Virtual Digital Services Limited; and**
-  * **888 Ireland Limited;**
+  * **888 Ireland Limited.**
 
 
 
-Last updated on 2nd of February, 2017
+Last updated on 11th of may, 2017
