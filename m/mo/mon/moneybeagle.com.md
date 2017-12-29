@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneybeagle.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628144048id_/http%3A//www.moneybeagle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybeagle.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229140655id_/http%3A//www.moneybeagle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privay Policy
 
