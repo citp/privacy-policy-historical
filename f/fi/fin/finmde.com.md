@@ -1,29 +1,17 @@
-> *The following text is extracted and transformed from the finmde.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429043517id_/http%3A//www.finmde.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finmde.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Notice : finmde.com, win 7 key finder - finmde.com
+# Legal
 
-Thank you for accessing the website. We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice.
+* * *
 
-This Privacy Notice explains how we collect, use and disclose your personal information. This privacy notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our website, you accept the practices described in this notice.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**INFORMATION COLLECTION:** We collect information from you in several different ways on this website. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
-
-  
-
-
-  * Help make this website easier for you to use by not having to enter information more than once.
-  * Help you quickly find information, products, and services.
-  * Help us create content on this site that is most relevant to you.
-  * Help you to new information, Windows 7 Key products, and services that we offer.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-**ORDERING:** To protect your privacy information, we do not collect your certain personal information. You can buy your favorite items on our website via PayPal, and once we receive the payment inform we'll process order quickly for you.
-
-Any and all the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned! Any information you provide will be held with the most care and will not be used in ways that you have not consented to.
-
-If we change or upgrade this Privacy Notice, we will post changes and updates on this website so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this privacy notice from time to time so you will know if the privacy notice has been changed or updated. If you have any questions about the Privacy Notice, please contact us.
-
-  
-Back To [Windows 7 key store](http://www.finmde.com/) Page!  
----
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
