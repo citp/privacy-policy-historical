@@ -1,321 +1,498 @@
-<!--The following is the downloaded HTML source of the mbsbooks.com privacy policy that was archived on 2017-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624014419id_/https%3A//www.mbsbooks.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mbsbooks.com privacy policy that was archived on 2017-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171229010844id_/http%3A//mbsbooks.com/disclaimer/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-<title>MBSbooks.com</title>
-<link rel="stylesheet" href="css/stylesheettryinner12.9.css" type="text/css" media="screen">
-<link rel="stylesheet" href="css/jquery-ui.css" type="text/css" media="all">
-<link rel="stylesheet" type="text/css" href="fancybox/jquery.fancybox-1.2.6.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1582149600000/445231.js"></script><script type="text/javascript" src="css/jquery.min.js"></script>
-<script type="text/javascript" src="css/jquery-ui.min.js"></script>
-<script type="text/javascript" src="css/mbsbooks.js"></script>
-<script type="text/javascript" src="script.js"></script>
-<script language="JavaScript">
-function validate(form_id,UPEmail) {
-   var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
-   var address = document.forms[form_id].elements[UPEmail].value;
-   if(reg.test(address) == false) {
-      alert('Invalid Email Address');
-      return false;
-   }
-}
-function CheckData()
-	{
-	  var ErrString = "";
-         if(document.form.FVuserID.value =="") ErrString = ErrString + "Please insert User Name. \n";
-         if(document.form.FVpassword.value =="") ErrString = ErrString + "Please insert Password. \n";
+<!DOCTYPE html><html><head>
 
-      if (!(ErrString == "")) alert(ErrString);
-      return (ErrString =="");
-	}
-  </script>
-<style type="text/css">
-<!--
-.style1 {
-	color: #666666
+    <!-- Basic Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>MBS Textbook Exchange, LLC</title>
+    <meta name="description" content="Reduce student costs, enhance learning experiences and ensure students have the course materials they need when they need them with the best retail systems and largest selection of new, used and digital textbooks. Find the best solution that’s right for your institution with MBS Textbook Exchange.">
+    <meta name="keywords" content="POS, pos, point of service, point of sale, sales, systems, data security, mobile pos, mobile POS, retail, retail technology, rentals, textbook rentals, textbook rental, risk-free rental, risk free rental, store automation, inventory, expansive inventory, largest inventory, simplified, textbook ordering, text book ordering, textbook ordering options, text book ordering options, online buyback, on-line buyback, textbook recycling, text book recycling, eCommerce, e-commerce, ecommerce, loyalty program, accounting, accounting solutions, efficiency, Advanced Retail Center, advanced retail center, retail center, business intelligence, analytics, business analytics, sales reports, customizable, customizable sales reports, customer support, course material, course material options">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="../images/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../images/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../images/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../images/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../images/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../images/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../images/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../images/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="../images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../images/favicon-16x16.png">
+    <link rel="manifest" href="../images/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="../images/faviconms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/grid.css">
+    <!-- <link rel="stylesheet" href="../css/grid.min.css"> -->
+    <link rel="stylesheet" href="../css/colorbox.css">
+    <!-- <link rel="stylesheet" href="../css/font-awesome.min.css"> *USE CDN INSTEAD* -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+    <!-- jQuery -->
+    <script id="hs-analytics" src="//js.hs-analytics.net/analytics/1582149600000/445231.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+
+    <!-- Hubspot -->
+    <!--[if lte IE 8]>
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+    <![endif]-->
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+    <!--[if lt IE 9]>
+	    <link rel="stylesheet" href="../css/ltIE9.css">
+        <script src="../js/html5shiv-printshiv.min.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+	    <link rel="stylesheet" href="../css/ltIE8.css">
+		<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+    <![endif]-->
+
+    <!-- Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:300,400" rel="stylesheet" type="text/css">
+    <script src="https://use.fontawesome.com/662070557e.js"></script>
+
+        <!-- Open Graph protocol  -->
+    <meta property="og:title" content="MBS Textbook Exchange, LLC.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="images/img_MBS.jpg">
+    <meta property="og:url" content="https://www.mbsbooks.com/index.php">
+    <meta property="og:description" content="XXXXXXXXXXXX">
+    <meta property="og:site_name" content="MBS Textbook Exchange, LLC.">
+    <meta property="og:locale" content="en_US">
+    <meta property="article:author" content="MBS Textbook Exchange, LLC.">
+
+    <!-- Google Verification -->
+    <meta name="google-site-verification" content="a6DmE5ZQo1XVbgpfRfXaBPsDu0oeecgl427oezHs59o">
+
+  <style type="text/css">
+/* Forward Subscription form  */
+
+#hsForm_37326d7a-e6b7-490c-bc13-7f1a2cdcbbb1
+{
+    padding-top: 15px;
 }
--->
+
+#hsForm_37326d7a-e6b7-490c-bc13-7f1a2cdcbbb1 .hs-form-required
+{
+    display: none;
+}
+
+input[type='submit'].bttn-input,
+
+    #hsForm_37326d7a-e6b7-490c-bc13-7f1a2cdcbbb1 .hs-button
+    {
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+
+    #hsForm_37326d7a-e6b7-490c-bc13-7f1a2cdcbbb1 .hs-button
+    {
+        top: 15px;
+    }
+
+
+.bttn-grey, #hsForm_37326d7a-e6b7-490c-bc13-7f1a2cdcbbb1 .hs-button {
+border-bottom: 4px solid #4d4d4d;
+background-color: #666;
+}
 </style></head>
 
 
+  <body>
 
+      <header class="clearfix">
+          <div class="container">
+              <div class="row clearfix">
+                  <div class="column full">
+                      <div class="header_logo">
+                        <a href="../index.php" title="MBS Textbook Exchange, LLC."><img src="../images/logo_MBS-Textbook-Exchange.png" alt="MBS Textbook Exchange, LLC."></a>
+                      </div>
+                      <div class="hamburger">
+                          <span class="hamburger_text">Menu</span>
+                          <span class="hamburger_icon"></span>
+                      </div>
+                      <nav>
+                          <ul>
+                              <li><a href="../resources/index.php">Resources</a>
+                                  <ul>
+                                    <li><a href="../resources/content.php">Content Hub</a></li>
+                                    <li><a href="../resources/events.php">Event Calendar</a></li>
+                                    <li><a href="../resources/media.php">Video Hub</a></li>
+                                    <li><a href="http://foreword.mbsbooks.com?utm_source=mbsbooks.com&amp;utm_medium=navigation&amp;utm_campaign=Foreword%20Online" title="" target="_blank">Foreword Online</a></li>
+                                  </ul>
+                              </li>
+                              <li><a href="../services/index.php" title="MBS Textbook Exchange, LLC. Services">Services</a>
+                                <ul>
+                                	<li><a href="../services/course-material-solutions.php">Course Material Solutions</a></li>
+                                	<li><a href="../services/service-center.php">Service Center</a></li>
+                                  <li><a href="../services/store-automation.php">MBS Systems</a></li>
+                                	<li><a href="http://www.mbsdirect.net" target="_blank">MBS Direct</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="../about/index.php" title="About MBS Textbook Exchange, LLC.">About</a>
+                                <ul>
+                                  <li><a href="../about/heritage.php">Heritage</a></li>
+                                  <li><a href="../about/operations.php">Operations</a></li>
+                                  <li><a href="../about/people.php">Our People</a></li>
+	                              <li><a href="../about/partners.php" title="Our Partners">Our Partners</a></li>
+                                </ul>
+                              </li>
+                              <li><a href="../mbs-difference/index.php" title="">Why Choose MBS?</a>
+                                  <ul>
+                                      <li><a href="../mbs-difference/benefits.php">The MBS Difference</a></li>
+                                      <li><a href="../mbs-difference/case-studies.php">Case Studies</a></li>
+                                      <li><a href="../mbs-difference/testimonials.php">Testimonials</a></li>
+                                  </ul>
+                              </li>
+                              <li><a href="../contact-us/index.php">Contact</a>
+                                  <ul>
+                                      <li><a href="../contact-us/index.php">Customer Service</a></li>
+                                      <li><a href="../hr2/index.php">Employment Opportunities</a></li>
+                                  </ul>
+                              </li>
+                              <li><a href="../services/service-center.php" class=" bttn-blue" id="center" style="color: #fff;">Service Center</a></li>
+                          </ul>
+                      </nav>
+                  </div>
+              </div>
+          </div>
+      </header>
 
-<body>
-<div id="bigwrap">
-<div id="mbswrap">
-  <div id="mbsnavigation">
-    <h1><a href="index.php"><img src="images/logo.png" alt="MBS Textbook Exchange, LLC"></a></h1>
-    <ul>
-      <li><a href="index.php">HOME</a></li>
-      <li><a href="about.php" class="mbscurrentpage">OUR COMPANY</a></li>
-      <li><a href="hr2/index.php">FIND A JOB</a></li>     
-      <li><a href="tour.php">TOUR</a></li>
-      <li><a href="contact.php">CONTACT US</a></li>
-      <li><a href="buysell.php">BUY &amp; SELL BOOKS</a></li>
-      <li><a href="servicecenter.php">SERVICE CENTER</a></li>
-    </ul>
-  </div>
-</div>	
-	
-    <div id="container" class="site">
-        <h2>Privacy Policy</h2>   
-      	<hr><br>
-        <div id="gallery"><div class="abouttext">
-            <h4>Effective date: November 30, 2016</h4>
-            <p>This Privacy Policy describes and governs the information collection, use and sharing practices of MBS Textbook Exchange, LLC, ("MBS") with respect to this Website.</p>
-            <p>This Privacy Policy applies to information collected by MBS and does not apply to information collected by any third-party sites to which MBS may link or to information provided to, or collected by, third-parties through third-party cookies, web beacons, or other third-party technologies served during your visit to the Website.</p>
-            <p>By using the Website, you agree to be bound by the terms of this Privacy Policy.</p>
-            <div class="legal">
-                <!-- -->
-            	<h6>1. Definitions</h6>
-                	<p><strong>"We", "our", and "us"</strong> mean MBS, the operator of this website.</p>
-                    <p><strong>"You" and "your"</strong> mean you, the person visiting this website.</p>
-                    <p><strong>"Personal Information"</strong> means the following information about you that we collect through the website: </p>
-                    <ul>
-                    	<li>name,</li>
-                    	<li>mailing address,</li>
-                    	<li>billing address,</li>
-                    	<li>e-mail address,</li>
-                    	<li>telephone number,</li>
-                    	<li>credit card information,</li>
-                    	<li>and any other information collected or stored in conjunction with your name.</li>
-                    </ul>
-                    <p>Personal Information does not include aggregate information about our customers in which your identity cannot be discerned.  Personal Information (as We use that term in this Privacy Policy) also does not include the following types of information we automatically collect when you visit the Website:</p>
-                    <p><strong>"Contractor"</strong> means a third party that is not owned or controlled by MBS, but that has been retained to provide certain services for us, on our behalf or through our website(s).</p>
-                    <ul>
-                    	<li>IP Address</li>
-                    	<li>Device IDs</li>
-                    	<li>Cookies</li>
-                    	<li>Clear GIFs/tracking pixels</li>
-                    </ul>
-                <!-- -->
-				<h6>2. How We Collect Information</h6>
-                <p>2.1 Why We Collect Personal Information</p>
-                <p>We collect Personal Information and other information from you, and about you:</p>
-                <ul>
-                    <li>to provide you with products and information that you request;</li>
-                    <li>to send you news and information about our company, products and services;</li>
-                    <li>to contact you, if necessary;</li>
-                    <li>to diagnose problems with our computer systems and administer our website; and </li>
-                    <li>to enhance your online experience, as described in greater detail below.</li>
-                </ul>
-                <p>2.2 How We Collect Information</p>
-                <p><strong>Your submissions.</strong> We collect Personal Information that you provide to us when you register for an account, Promotion (defined below) or other program on our website; place or commence an order; or e-mail us.</p>
-                <p><strong>Automatic collection.</strong> We automatically receive certain types of information whenever you interact with Us through Our Website. For example when you visit the Website, our systems, or those of our service providers, may automatically recognize your IP address, domain name and general location, a unique identifier for your Internet-enabled device, date and time of visits, the type of browser you use, the website from which your visit originated, the website you visit after leaving our website, page visits, time spent on web pages, the advertisements clicked on or scrolled over and other data. Below we describe certain information collected, and the actions and technologies that facilitate the collection of such information, in greater detail.</p>
-                <ul>
-                	<li><strong>IP address.</strong> Your "IP Address" is a number that is automatically assigned to your computer by your Internet service provider whenever you are on the Internet. When you view pages of our website, our servers may record or "log" your IP Address and sometimes your domain name and general location.</li>
-                	<li><strong>Device IDs.</strong> You may be visiting our website from your mobile device like a mobile phone or tablet. Certain mobile service providers uniquely identify mobile devices, and we or our third-party service providers may receive such information if you access our website through mobile devices. Some features of the website may allow for the collection of mobile phone numbers, and we may associate that phone number to mobile device identification information.</li>
-                	<li><strong>E-mail.</strong> If you receive e-mail from us, we may use certain tools to capture data, including when you open our message, click on any links or banners it contains and/or make purchases. Certain e-mail messages may also contain tracking pixels or similar technologies, which collect and provide us with information while you are on our website.</li>
-                	<li><strong>Cookies.</strong> Our website uses "cookies" to customize your shopping experience or to keep track of your shopping cart. Cookies make web surfing easier for you by saving your customer identification information (i.e., username, password, shopping cart information, user preferences, etc.) while you are at our website. Cookies also track where you travel on our website and what you look at and purchase, and where you go after you leave our website. When you visit our website again, the cookie allows the website to recognize your browser and customize your experience. You can set your browser to refuse cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.</li>
-                	<li><strong>Clear GIFs/tracking pixels.</strong> A clear GIF or tracking pixel is typically a one-pixel, transparent image (although it may be visible) located on a web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet enabling the verification of a person's viewing or receipt of a web page or message.</li>
-                	<li><strong>City Level Geolocation Data.</strong>  We also use your IP address to determine what city you our visiting our Website from.  We do not determine your street address or precise longitudinal or latitudinal coordinates.</li>
-                </ul>
-                <p>We may use the information described above:</p>
-                <ul>
-                	<li>to operate the website and to provide general statistics regarding the use of the website, including behavior or demographic information;</li>
-                	<li>to analyze and develop our business strategy;</li>
-                	<li>to determine how you found out about us, </li>
-                	<li>to determine your interests regarding our products and services;</li>
-                	<li>to personalize content and recommendations for you and other; </li>
-                	<li>to target marketing for you and others; and</li>
-                	<li>to improve our website and the user experience.</li>
-                </ul>
-                <p>To accomplish all this, and also to allow us to offer our customers streamlined ordering and other useful features, we use and allow our third-party advertising companies, software vendors, fulfillment companies, and contractors to use the technologies listed above and other similar technologies ("Tracking Technologies"). </p>
-                <p>WE HAVE NO RESPONSIBILITY OR LIABILITY FOR ANY TRACKING, DATA COLLECTION OR OTHER ACTIVITIES OF THIRD PARTIES. </p>
-                <p>In some cases, we may link information that is not Personal Information and which was automatically collected through Tracking Technologies with Personal Information.</p>
-                <p><strong>Information from other sources.</strong> We may obtain information about you from outside sources and combine it with your account information. For example, we may purchase demographic and other marketing information from third parties to help us better serve you or inform you about products or services that we think will be of interest to you. We sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. Finally, we may also purchase lists containing your Personal Information (e.g., address, phone number, e-mail address) for advertising and marketing purposes.</p>
-                <!-- -->
-				<h6>3. Your ability to opt out from receiving certain communications from MBS</h6>
-                <p>At any time, you may choose to opt out from receiving marketing communications from us. You can opt out of receiving such communications by clicking on an "opt-out" link provided at the bottom of an e-mail that you receive from us, or by calling our Customer Service Department at (800) 325-3252. Your request will be handled promptly, although you may still receive marketing communications that were already in process prior to receipt of your request. Additionally, we may continue to send you communications relating to your orders, technical matters related to the website, and the Terms of Use or this Privacy Policy.</p>
-                <!-- -->
-                <h6>4. MBS's ability to share your Personal Information</h6>
-                <p><strong>Generally.</strong> We do not rent, sell or share Personal Information about you with other people or companies except in the situations described below.</p>
-                <p><strong>Sharing your information with our contractors.</strong> From time to time we may share Personal Information with contractors that provide us with services. We may share information provided by you directly or through Tracking Technologies with contractors that provide support services to us such as our e-commerce software vendor, fulfillment companies, transaction processor, printer, mailing house, or web host or with companies that help us market, distribute, or sell our products and services. We also may share information provided by you to contractors that conduct research and analysis concerning the people who request information from us. We also may share your Personal Information with contractors that provide a service directly to you through our website. These contractors may need information about you in order to perform their functions. </p>
-                <p>HOWEVER, A CONTRACTOR PROVIDING A SERVICE DIRECTLY TO YOU THROUGH OUR WEBSITE MAY COLLECT PERSONAL INFORMATION AND OTHER INFORMATION DIRECTLY FROM YOU. SUCH CONTRACTOR MAY HAVE ITS OWN TERMS OF SERVICE AND PRIVACY POLICY, AND WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS OR OMISSIONS OF SUCH CONTRACTOR.</p>
-                <p><strong>Sharing your information with advertisers.</strong> We may participate in behavioral-based advertising. This means that we or a third party may use Tracking Technologies to collect information about your use of our website or other internet usage so that they can provide advertising about products and services tailored to your interest. That advertising may appear either on our website, or on other websites. We also may share traffic and transaction information with business partners and advertisers on an aggregate and anonymous basis.</p>
-                <p>We currently use Google and Adobe for analytics, marketing, and advertising network services. These services provide us with aggregated information about our visitors. If you would like to opt-out of behavioral-based advertising, or analytics through these services you may opt-out by following the instructions at the following sites:</p>
-                <ul>
-                    <li><a href="http://www.networkadvertising.org/choices/" target="_blank" title="Opt Out of Interest-Based Advertising">http://www.networkadvertising.org/choices/</a>,</li>
-                    <li><a href="http://www.adobe.com/privacy/opt-out.html" target="_blank" title="Adobe Privacy Center: Your privacy choices">http://www.adobe.com/privacy/opt-out.html</a>, and</li>
-                    <li><a href="https://tools.google.com/dlpage/gaoptout/" target="_blank" title="Google Analytics Opt-out Browser Add-on">https://tools.google.com/dlpage/gaoptout/</a>.</li>
-                </ul>
-                
-				<p><strong>Sharing your information with publishers.</strong> In some instances, we may share your Personal Information with the publisher, copyright holder, or author of the products you purchase from us. These parties may use your information to send you updates, corrections or other information related to those materials.</p>
-                <p><strong>Sharing your information with educational institutions.</strong> We may share your Personal Information with any educational institutions to which you indicate that you belong and with which we have a contractual relationship. The educational institution may use your Personal Information to verify that you have obtained books and other course materials required for a particular course. The educational institution may also use your Personal Information to verify that MBS is in compliance with any agreements between MBS and the educational institution.</p>
-                <p><strong>Share links.</strong> We may use third-party advertising companies to serve ads when you visit our website. The website also may contain links to other websites that are not under our control. These links may include the use of so-called "share links." A "share link" is a button and/or text link appearing on our website that enables the launch of a sharing mechanism whereby you can post links to, and content from, the website onto social networking websites such as Facebook, Twitter or Pinterest. The privacy policies of other website operators or advertisers may significantly differ from our Privacy Policy. We urge you to read the privacy statements of each and every website you visit and to contact the third-party website operators or advertisers directly if you have any questions or concerns about their data collection or privacy policies. </p>
-                <p>WE HAVE NO CONTROL OR INFLUENCE OVER THE PRIVACY PRACTICES OF SUCH OTHER WEBSITES AND ADVERTISERS AND WE DO NOT ASSUME ANY RESPONSIBILITY OR LIABILITY FOR ANY THIRD-PARTY WEBSITE OPERATORS' OR ADVERTISERS' DATA COLLECTION PRACTICES, THEIR FAILURE TO ABIDE BY THEIR PRIVACY POLICIES OR THE CONTENT OF ANY THIRD-PARTY WEBSITES.</p>
-                <p><strong>Sharing your information with law enforcement.</strong> We fully cooperate with reasonable requests for information from law enforcement agencies. As a result, we reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your Personal Information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect the rights, property or safety of MBS, you or one of our other customers.</p>
-                <p><strong>Sharing your information as permitted by law.</strong> We may disclose Personal Information when we believe disclosure is appropriate to comply with the law or protect the rights, property or safety of ourselves or others; when it is necessary to identify or contact you in connection with, bring, or defend legal action against persons or entities that we believe may be causing harm to you, our company or third parties; and, when necessary, to protect or defend our rights or property.</p>
-                <p><strong>Sharing with affiliates and successors.</strong> We may share Personal Information with our parent, subsidiary and sister companies (collectively, "Affiliates"), and they may use such information to market to you, so long as those Affiliates comply with this Privacy Policy. We may also disclose your Personal Information to any actual or potential successor-in-interest of ours, such as a company that is seeking to acquire us, the website, or the business and activities carried on via the website.</p>
-                <p><strong>Contests, sweepstakes and promotions.</strong> Occasionally, we may run a promotion such as a sweepstakes or a contest (a "Promotion"), and you will be given the opportunity to enter by filling out an entry form, or in some cases, you may be automatically entered by using a designated type of credit card when placing an order in store, online or via phone. Your entry information may be shared with third parties for the limited purposes of administering the sweepstakes and selecting a winner(s) and may be used to notify you in connection with the sweepstakes or contest and to verify your identity. Some Promotions may have one or more co-sponsors, and you may also be asked upon entry to consent to receive future communications from such co-sponsors. In the event your consent is indicated, the information from your entry will be shared with the co-sponsors. IN THOSE SITUATIONS, THE THIRD PARTIES WILL HAVE THE RIGHT TO USE YOUR INFORMATION FOR THEIR OWN PURPOSES, IN ACCORDANCE WITH THEIR OWN POLICIES, AND WE ARE NOT RESPONSIBLE FOR HOW CO-SPONSORS MAY USE YOUR INFORMATION. In all events, we will make it clear to you in the entry, order or registration form, before you submit it, whether you are consenting to receive information from any third party, and you will be given the opportunity to opt not to receive such information at the time you submit your entry, order or registration.</p>
-                <!-- -->
-                <h6>5. Security of your information</h6>
-                <p>We take reasonable and appropriate measures to help keep information secure and to help prevent it from becoming disclosed. Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect so we cannot promise, and you should not expect, that your information will be secure in all circumstances.</p>
-                <p>For security purposes, we do not accept credit card information via email, web form, or social media.  </p>
-                <!-- -->
-                <h6>6. Editing your Personal Information</h6>
-                <p>Once you have provided Personal Information to us, we may store and maintain that information. You may review and edit certain information online by logging into your account and accessing the "My Profile" or "My Account" page, where you will be able to edit your information. Additionally, you may contact us using the contact information below and we will edit or delete your information except as prohibited by law.</p>
-                <!-- -->
-                <h6>7. Information Shared with MBS by Educational Institutions</h6>
-                <p>In some circumstance MBS has agreed to provide services to educational institutions including, among other services, making available books and other course materials to those educational institutions' students. In such circumstances, the educational institution may provide MBS with information about you (for example, your student e-mail address) so that we may send you news and information about our company, products, or services.  The information provided by an educational institution is not covered by the terms of this Privacy Policy and is instead governed by the terms of the agreement between MBS and the educational institution.</p>
-                <!-- -->
-                <h6>8. Collection of information from children</h6>
-                <p>We do not provide products and services to children. We do not knowingly collect or solicit information from children under the age of 13.</p>
-                <!-- -->
-                <h6>9. International users</h6>
-                <p>Your Personal Information will be stored and processed on our computers in the United States of America. The laws on holding Personal Information in the United States of America may vary and be less stringent than laws of your state or country. If you object to your Personal Information being transferred or used in this manner, please do not register with or use the website.</p>
-                <!-- -->
-                <h6>10. Do not track signals</h6>
-                <p>Some web browsers and devices allow you to broadcast a preference that your activities online not be "tracked".  At this time, our Website does not take action in response to "do not track" signals.</p>
-                <!-- -->
-                <h6>11. Your California Privacy Rights</h6>
-                <p>Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third-parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third-party direct marketing purposes.</p>
-                <p>You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at:</p>
-                <p>MBS Textbook Exchange, LLC<br>2711 West Ash Street<br>Columbia, MO 65203</p>
-                <!-- -->
-                <h6>12. Changes to the Privacy Policy</h6>
-                <p>We reserve the right to modify or amend this policy at any time by posting the revised policy on our website, so we encourage you to review the policy periodically. Any material changes in how we collect, use or share your Personal Information will only affect the information we collect after the effective date of the change to our policy, unless we obtain your consent otherwise.</p>
-                <!-- -->
-                <h6>13. Contacting Us</h6>
-                <p>If you have any questions or comments concerning this Privacy Policy, please contact MBS Customer Service at 800-325-0530 or at <a href="mailto:cserv@mbsbooks.com" title="Email MBS Customer Service">cserv@mbsbooks.com</a>.</p>
-        	</div>
-        </div>
-	</div>
-</div>
-</div>
+    <main role="main">
+    	<section class="content-hero bkgrd_disclaimer">
+        	<div class="content-hero_cover">
+                <div class="container">
+                    <div class="row clearfix">
+                        <div class="column full">
+                            <div class="content-hero_descrip">
+                                <p class="breadcrumb-trail">Home <i class="fa fa-angle-right"></i> Disclaimer <i class="fa fa-angle-right"></i> Privacy Policy</p>
+                                <h1>MBS Privacy Policy</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="content">
+      		<div class="container">
+            	<div class="row clearfix">
+          			<div class="column full">
+                    	<h3>Effective date: November 30, 2016</h3>
+                        <p>This Privacy Policy describes and governs the information collection, use and sharing practices of MBS Textbook Exchange, LLC, ("MBS") with respect to this Website.</p>
+                        <p>This Privacy Policy applies to information collected by MBS and does not apply to information collected by any third-party sites to which MBS may link or to information provided to, or collected by, third-parties through third-party cookies, web beacons, or other third-party technologies served during your visit to the Website.</p>
+                        <p>By using the Website, you agree to be bound by the terms of this Privacy Policy.</p>
+                    </div>
+                </div>
+            	<div class="row clearfix">
+          			<div class="column full">
+                    	<ol class="legal_list">
+                        	<li>
+                            	<h3>Definitions</h3>
+                                <p><strong>"We", "our", and "us"</strong> mean MBS, the operator of this website.</p>
+                                <p><strong>"You" and "your"</strong> mean you, the person visiting this website.</p>
+                                <p><strong>"Personal Information"</strong> means the following information about you that we collect through the website: </p>
+                                <ul>
+                                    <li>name,</li>
+                                    <li>mailing address,</li>
+                                    <li>billing address,</li>
+                                    <li>e-mail address,</li>
+                                    <li>telephone number,</li>
+                                    <li>credit card information,</li>
+                                    <li>and any other information collected or stored in conjunction with your name.</li>
+                                </ul>
+                                <p>Personal Information does not include aggregate information about our customers in which your identity cannot be discerned.  Personal Information (as We use that term in this Privacy Policy) also does not include the following types of information we automatically collect when you visit the Website:</p>
+                                <p><strong>"Contractor"</strong> means a third party that is not owned or controlled by MBS, but that has been retained to provide certain services for us, on our behalf or through our website(s).</p>
+                                <ul>
+                                    <li>IP Address</li>
+                                    <li>Device IDs</li>
+                                    <li>Cookies</li>
+                                    <li>Clear GIFs/tracking pixels</li>
+                                </ul>
+                            </li>
+                        	<li>
+                            	<h3>How We Collect Information</h3>
+                            	<ol>
+                                	<li>
+                                    	<h4>Why We Collect Personal Information</h4>
+                                    	<p>We collect Personal Information and other information from you, and about you:</p>
+                                        <ul>
+                                            <li>to provide you with products and information that you request;</li>
+                                            <li>to send you news and information about our company, products and services;</li>
+                                            <li>to contact you, if necessary;</li>
+                                            <li>to diagnose problems with our computer systems and administer our website; and </li>
+                                            <li>to enhance your online experience, as described in greater detail below.</li>
+                                        </ul>
+                                    </li>
+                                	<li>
+                                    	<h4>How We Collect Information</h4>
+                                    	<p><strong>Your submissions.</strong> We collect Personal Information that you provide to us when you register for an account, Promotion (defined below) or other program on our website; place or commence an order; or e-mail us.</p>
+                                        <p><strong>Automatic collection.</strong> We automatically receive certain types of information whenever you interact with Us through Our Website. For example when you visit the Website, our systems, or those of our service providers, may automatically recognize your IP address, domain name and general location, a unique identifier for your Internet-enabled device, date and time of visits, the type of browser you use, the website from which your visit originated, the website you visit after leaving our website, page visits, time spent on web pages, the advertisements clicked on or scrolled over and other data. Below we describe certain information collected, and the actions and technologies that facilitate the collection of such information, in greater detail.</p>
+                                        <ul>
+                                            <li><strong>IP address.</strong> Your "IP Address" is a number that is automatically assigned to your computer by your Internet service provider whenever you are on the Internet. When you view pages of our website, our servers may record or "log" your IP Address and sometimes your domain name and general location.</li>
+                                            <li><strong>Device IDs.</strong> You may be visiting our website from your mobile device like a mobile phone or tablet. Certain mobile service providers uniquely identify mobile devices, and we or our third-party service providers may receive such information if you access our website through mobile devices. Some features of the website may allow for the collection of mobile phone numbers, and we may associate that phone number to mobile device identification information.</li>
+                                            <li><strong>E-mail.</strong> If you receive e-mail from us, we may use certain tools to capture data, including when you open our message, click on any links or banners it contains and/or make purchases. Certain e-mail messages may also contain tracking pixels or similar technologies, which collect and provide us with information while you are on our website.</li>
+                                            <li><strong>Cookies.</strong> Our website uses "cookies" to customize your shopping experience or to keep track of your shopping cart. Cookies make web surfing easier for you by saving your customer identification information (i.e., username, password, shopping cart information, user preferences, etc.) while you are at our website. Cookies also track where you travel on our website and what you look at and purchase, and where you go after you leave our website. When you visit our website again, the cookie allows the website to recognize your browser and customize your experience. You can set your browser to refuse cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.</li>
+                                            <li><strong>Clear GIFs/tracking pixels.</strong> A clear GIF or tracking pixel is typically a one-pixel, transparent image (although it may be visible) located on a web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet enabling the verification of a person's viewing or receipt of a web page or message.</li>
+                                            <li><strong>City Level Geolocation Data.</strong>  We also use your IP address to determine what city you our visiting our Website from.  We do not determine your street address or precise longitudinal or latitudinal coordinates.</li>
+                                        </ul>
+                                        <p>We may use the information described above:</p>
+                                        <ul>
+                                            <li>to operate the website and to provide general statistics regarding the use of the website, including behavior or demographic information;</li>
+                                            <li>to analyze and develop our business strategy;</li>
+                                            <li>to determine how you found out about us, </li>
+                                            <li>to determine your interests regarding our products and services;</li>
+                                            <li>to personalize content and recommendations for you and other; </li>
+                                            <li>to target marketing for you and others; and</li>
+                                            <li>to improve our website and the user experience.</li>
+                                        </ul>
+                                        <p>To accomplish all this, and also to allow us to offer our customers streamlined ordering and other useful features, we use and allow our third-party advertising companies, software vendors, fulfillment companies, and contractors to use the technologies listed above and other similar technologies ("Tracking Technologies"). </p>
+                                        <p>WE HAVE NO RESPONSIBILITY OR LIABILITY FOR ANY TRACKING, DATA COLLECTION OR OTHER ACTIVITIES OF THIRD PARTIES. </p>
+                                        <p>In some cases, we may link information that is not Personal Information and which was automatically collected through Tracking Technologies with Personal Information.</p>
+                                        <p><strong>Information from other sources.</strong> We may obtain information about you from outside sources and combine it with your account information. For example, we may purchase demographic and other marketing information from third parties to help us better serve you or inform you about products or services that we think will be of interest to you. We sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. Finally, we may also purchase lists containing your Personal Information (e.g., address, phone number, e-mail address) for advertising and marketing purposes.</p>
+                                    </li>
+                                    </ol>
+                                	</li><li>
+                                    	<h4>Your ability to opt out from receiving certain communications from MBS</h4>
+                                    	<p>At any time, you may choose to opt out from receiving marketing communications from us. You can opt out of receiving such communications by clicking on an "opt-out" link provided at the bottom of an e-mail that you receive from us, or by calling our Customer Service Department at (800) 325-3252. Your request will be handled promptly, although you may still receive marketing communications that were already in process prior to receipt of your request. Additionally, we may continue to send you communications relating to your orders, technical matters related to the website, and the Terms of Use or this Privacy Policy.</p>
+                                    </li>
+                                	<li>
+                                    	<h4>MBS's ability to share your Personal Information</h4>
+                                    	<p><strong>Generally.</strong> We do not rent, sell or share Personal Information about you with other people or companies except in the situations described below.</p>
+                                        <p><strong>Sharing your information with our contractors.</strong> From time to time we may share Personal Information with contractors that provide us with services. We may share information provided by you directly or through Tracking Technologies with contractors that provide support services to us such as our e-commerce software vendor, fulfillment companies, transaction processor, printer, mailing house, or web host or with companies that help us market, distribute, or sell our products and services. We also may share information provided by you to contractors that conduct research and analysis concerning the people who request information from us. We also may share your Personal Information with contractors that provide a service directly to you through our website. These contractors may need information about you in order to perform their functions. </p>
+                                        <p>HOWEVER, A CONTRACTOR PROVIDING A SERVICE DIRECTLY TO YOU THROUGH OUR WEBSITE MAY COLLECT PERSONAL INFORMATION AND OTHER INFORMATION DIRECTLY FROM YOU. SUCH CONTRACTOR MAY HAVE ITS OWN TERMS OF SERVICE AND PRIVACY POLICY, AND WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS OR OMISSIONS OF SUCH CONTRACTOR.</p>
+                                        <p><strong>Sharing your information with advertisers.</strong> We may participate in behavioral-based advertising. This means that we or a third party may use Tracking Technologies to collect information about your use of our website or other internet usage so that they can provide advertising about products and services tailored to your interest. That advertising may appear either on our website, or on other websites. We also may share traffic and transaction information with business partners and advertisers on an aggregate and anonymous basis.</p>
+                                        <p>We currently use Google and Adobe for analytics, marketing, and advertising network services. These services provide us with aggregated information about our visitors. If you would like to opt-out of behavioral-based advertising, or analytics through these services you may opt-out by following the instructions at the following sites:</p>
+                                        <ul>
+                                            <li><a href="http://www.networkadvertising.org/choices/" target="_blank" title="Opt Out of Interest-Based Advertising">http://www.networkadvertising.org/choices/</a>,</li>
+                                            <li><a href="http://www.adobe.com/privacy/opt-out.html" target="_blank" title="Adobe Privacy Center: Your privacy choices">http://www.adobe.com/privacy/opt-out.html</a>, and</li>
+                                            <li><a href="https://tools.google.com/dlpage/gaoptout/" target="_blank" title="Google Analytics Opt-out Browser Add-on">https://tools.google.com/dlpage/gaoptout/</a>.</li>
+                                        </ul>           
+                                        <p><strong>Sharing your information with publishers.</strong> In some instances, we may share your Personal Information with the publisher, copyright holder, or author of the products you purchase from us. These parties may use your information to send you updates, corrections or other information related to those materials.</p>
+                                        <p><strong>Sharing your information with educational institutions.</strong> We may share your Personal Information with any educational institutions to which you indicate that you belong and with which we have a contractual relationship. The educational institution may use your Personal Information to verify that you have obtained books and other course materials required for a particular course. The educational institution may also use your Personal Information to verify that MBS is in compliance with any agreements between MBS and the educational institution.</p>
+                                        <p><strong>Share links.</strong> We may use third-party advertising companies to serve ads when you visit our website. The website also may contain links to other websites that are not under our control. These links may include the use of so-called "share links." A "share link" is a button and/or text link appearing on our website that enables the launch of a sharing mechanism whereby you can post links to, and content from, the website onto social networking websites such as Facebook, Twitter or Pinterest. The privacy policies of other website operators or advertisers may significantly differ from our Privacy Policy. We urge you to read the privacy statements of each and every website you visit and to contact the third-party website operators or advertisers directly if you have any questions or concerns about their data collection or privacy policies. </p>
+                                        <p>WE HAVE NO CONTROL OR INFLUENCE OVER THE PRIVACY PRACTICES OF SUCH OTHER WEBSITES AND ADVERTISERS AND WE DO NOT ASSUME ANY RESPONSIBILITY OR LIABILITY FOR ANY THIRD-PARTY WEBSITE OPERATORS' OR ADVERTISERS' DATA COLLECTION PRACTICES, THEIR FAILURE TO ABIDE BY THEIR PRIVACY POLICIES OR THE CONTENT OF ANY THIRD-PARTY WEBSITES.</p>
+                                        <p><strong>Sharing your information with law enforcement.</strong> We fully cooperate with reasonable requests for information from law enforcement agencies. As a result, we reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your Personal Information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect the rights, property or safety of MBS, you or one of our other customers.</p>
+                                        <p><strong>Sharing your information as permitted by law.</strong> We may disclose Personal Information when we believe disclosure is appropriate to comply with the law or protect the rights, property or safety of ourselves or others; when it is necessary to identify or contact you in connection with, bring, or defend legal action against persons or entities that we believe may be causing harm to you, our company or third parties; and, when necessary, to protect or defend our rights or property.</p>
+                                        <p><strong>Sharing with affiliates and successors.</strong> We may share Personal Information with our parent, subsidiary and sister companies (collectively, "Affiliates"), and they may use such information to market to you, so long as those Affiliates comply with this Privacy Policy. We may also disclose your Personal Information to any actual or potential successor-in-interest of ours, such as a company that is seeking to acquire us, the website, or the business and activities carried on via the website.</p>
+                                        <p><strong>Contests, sweepstakes and promotions.</strong> Occasionally, we may run a promotion such as a sweepstakes or a contest (a "Promotion"), and you will be given the opportunity to enter by filling out an entry form, or in some cases, you may be automatically entered by using a designated type of credit card when placing an order in store, online or via phone. Your entry information may be shared with third parties for the limited purposes of administering the sweepstakes and selecting a winner(s) and may be used to notify you in connection with the sweepstakes or contest and to verify your identity. Some Promotions may have one or more co-sponsors, and you may also be asked upon entry to consent to receive future communications from such co-sponsors. In the event your consent is indicated, the information from your entry will be shared with the co-sponsors. IN THOSE SITUATIONS, THE THIRD PARTIES WILL HAVE THE RIGHT TO USE YOUR INFORMATION FOR THEIR OWN PURPOSES, IN ACCORDANCE WITH THEIR OWN POLICIES, AND WE ARE NOT RESPONSIBLE FOR HOW CO-SPONSORS MAY USE YOUR INFORMATION. In all events, we will make it clear to you in the entry, order or registration form, before you submit it, whether you are consenting to receive information from any third party, and you will be given the opportunity to opt not to receive such information at the time you submit your entry, order or registration.</p>
+                                    </li>
+                                    <li>
+                                    	<h4>Security of your information</h4>
+                                    	<p>We take reasonable and appropriate measures to help keep information secure and to help prevent it from becoming disclosed. Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect so we cannot promise, and you should not expect, that your information will be secure in all circumstances.</p>
+										<p>For security purposes, we do not accept credit card information via email, web form, or social media.</p>
+                                    </li>
+                                	<li>
+                                    	<h4>Editing your Personal information</h4>
+                                    	<p>Once you have provided Personal Information to us, we may store and maintain that information. You may review and edit certain information online by logging into your account and accessing the "My Profile" or "My Account" page, where you will be able to edit your information. Additionally, you may contact us using the contact information below and we will edit or delete your information except as prohibited by law.</p>
+                                    </li>
+                                    <li>
+                                        <h4>Information Shared with MBS by Educational Institutions</h4>
+                                        <p>In some circumstance MBS has agreed to provide services to educational institutions including, among other services, making available books and other course materials to those educational institutions' students. In such circumstances, the educational institution may provide MBS with information about you (for example, your student e-mail address) so that we may send you news and information about our company, products, or services.  The information provided by an educational institution is not covered by the terms of this Privacy Policy and is instead governed by the terms of the agreement between MBS and the educational institution.</p>
+                                    </li>
+                                	<li>
+                                    	<h4>Collection of information from children</h4>
+                                    	<p>We do not provide products and services to children. We do not knowingly collect or solicit information from children under the age of 13.</p>
+                                    </li>
+                                	<li>
+                                    	<h4>International users</h4>
+                                    	<p>Your Personal Information will be stored and processed on our computers in the United States of America. The laws on holding Personal Information in the United States of America may vary and be less stringent than laws of your state or country. If you object to your Personal Information being transferred or used in this manner, please do not register with or use the website.</p>
+                                    </li>
+                                	<li>
+                                    	<h4>Do not track signals</h4>
+                                    	<p>Some web browsers and devices allow you to broadcast a preference that your activities online not be "tracked".  At this time, our Website does not take action in response to "do not track" signals.</p>
+                                    </li>
+                                    <li>
+                                        <h4>Your California Privacy Rights</h4>
+                                        <p>Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third-parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third-party direct marketing purposes.</p>
+                                        <p>You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at:</p>
+                                        <p>MBS Textbook Exchange, LLC<br>2711 West Ash Street<br>Columbia, MO 65203</p>
+                                    </li>
+                                	<li>
+                                    	<h4>Changes to the Privacy Policy</h4>
+                                    	<p>We reserve the right to modify or amend this policy at any time by posting the revised policy on our website, so we encourage you to review the policy periodically. Any material changes in how we collect, use or share your Personal Information will only affect the information we collect after the effective date of the change to our policy, unless we obtain your consent otherwise.</p>
+                                    </li>
+                                	<li>
+                                    	<h4>Contacting Us</h4>
+                                    	<p>If you have any questions or comments concerning this Privacy Policy, please contact MBS Customer Service at 800-325-0530 or at <a href="/cdn-cgi/l/email-protection#9af9e9ffe8ecdaf7f8e9f8f5f5f1e9b4f9f5f7" title="Email MBS Customer Service"><span class="__cf_email__" data-cfemail="f59686908783b5989786979a9a9e86db969a98">[email&nbsp;protected]</span></a>.</p>
+                                    </li>
+                            
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
 
-
-
-
-<div class="clearfooter"></div>
-<div id="footer">
-<div id="bottomwrap">
-	<div class="content">
-    	<div class="section">
-    		<div class="first">
-    			<h4>Visit</h4>
-				<ul class="gallery">
-					<li>
-						<a href="http://systems.mbsbooks.com/Training/index.php" class="thumb"><span><img src="images/trainingacademy.jpg" alt="Systems Training Academy"></span></a>
-						<h2><a href="http://systems.mbsbooks.com/Training/index.php">Systems Training</a></h2>
-					</li>
-				</ul>
- <ul class="gallery">
-      					<li>
-      						<a href="hr2/index.php" class="thumb"><span><img src="images/humanresources.jpg" alt="MBS Human Resources - Find a Job"></span></a>
-      						<h2><a href="hr2/index.php">Find a Job</a></h2>
-      					</li>
-      				</ul> 
-				<ul class="gallery">
-					<li>
-						<a href="http://intranet.mbsbooks.com/" class="thumb"><span><img src="images/intranet.jpg" alt="MBS Employee Intranet"></span></a>
-						<h2><a href="http://intranet.mbsbooks.com/">MBS Intranet</a></h2>
-					</li>
-				</ul>
-			</div>
-	  		<div class="middle">
-    			<h4>Search</h4>
-				<ul>
-				  <li><a href="index.php">Home</a></li>
-				  <li><a href="about.php">Our Company</a></li>
-				  <li><a href="hr2/index.php">Find a Job</a></li> 
-				  <li><a href="tour.php">Tour</a></li>
-				  <li><a href="sitemap.php">Products &amp; Services</a></li>
-				  <li><a href="servicecenter.php">Service Center</a></li>
-				  <li><a href="http://www.facultycenter.net/">Faculty Center Network</a></li>
-				  <li><a href="http://twitter.com/mbstextbook" title="Follow @MBSTextbook on Twitter">Follow us on Twitter</a></li>
-				  <li><a href="http://www.facebook.com/mbstextbook" title="Like MBS Textbook Exchange on Facebook">Like us on Facebook</a></li>
-				  <li><a href="http://foreword.mbsbooks.com/" title="Read Foreword Online">Read Foreword Online</a></li>
-				  <li><a href="tos.php" title="MBS Textbook Exchange, LLC Terms of Service">Terms of Service</a></li>
-				  <li><a href="privacy.php" title="MBS Textbook Exchange, LLC Privacy Policy">Privacy Policy</a></li>
-			   </ul>
-		  </div>
-		  <div class="last">
-			  <h4>Receive updates from MBS</h4>
-			  <!-- <form method="Post" id="searchform" name="form_id" action="#" onsubmit="javascript:return validate('form_id','UPEmail');"><label>Email Address</label>
-				<p><input maxlength="255" name="UPEmail" type="text" value="" id="s" />
-				<input value="Subscribe" name="submit" type="submit" /></p>
-			</form> -->
-
-
-<!-- hubspot foreword online registration form -->
-
-<!--[if lte IE 8]>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]-->
-<style type="text/css">
-.hs-form-required{
-  display: none;
-}
-</style>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script type="text/JavaScript">
-  hbspt.forms.create({ 
-    portalId: "445231",
-    formId: "37326d7a-e6b7-490c-bc13-7f1a2cdcbbb1",
-    css: ""
-  });
-</script>
-
-<!-- hubspot foreword online registration form -->
-
-
-        <br>
-			  <br>
-			  <h4>Service Center login</h4>
-			  <form onsubmit="return CheckData()" method="post" id="searchform" name="form" action="http://servicecenter.mbsbooks.com/index.php">
-				  <label>User Name </label>
-				  <p><input type="text" value="" name="FVuserID" id="s"><br>
-				  <label>Password </label>
-				  </p><p><input type="password" value="" name="FVpassword" id="s"></p>
-				  <label>Jump To </label>
-				  <p><select name="fvJumpTo">
-						<option value="A">Account Information</option>
-						<option value="RO">Realtime Ordering</option>
-						<option value="TT">Textbook Trader</option>
-						<option value="TB">Textbook Trader Bulletin Board</option>
-				</select></p>
-				<p><br><input value="Enter" name="submit" type="submit"></p>
-			</form>
+	    <footer class="clearfix">
+      <div class="container">
+	      <div class="row clearfix">
+              <div class="column third flow-opposite">
+                  <a href="../index.php" title=""><img src="../images/logo_MBS_footer.png" alt="MBS Textbook Exchange, LLC."></a>
+              </div>
+              <div class="column two-thirds">
+                  <div class="social_icons">
+                      <a href="https://www.facebook.com/mbstextbook" title="Like MBS Textbook Exchange, LLC. on Facebook" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
+                      <a href="https://twitter.com/mbstextbook" title="Follow @MBSTextbook on Twitter" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a>
+                      <a href="https://www.linkedin.com/company/mbs-textbook-exchange" title="Follow MBS on LinkedIn" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a>
+                      <a href="https://vimeo.com/mbstextbook" title="Follow MBS Textbook Exchange, LLC. on Vimeo" target="_blank"><i class="fa fa-vimeo-square fa-3x"></i></a>
+                  </div>
+              </div>
+          </div>
+	      <div class="row clearfix">
+              <div class="column third">
+                  <h3>Contact MBS </h3>
+                  <ul class="spacer-top">
+                      <li class="text-bold">Customer Support</li>
+                      <li><i class="fa fa-phone"></i> 800-325-0530</li>
+                      <li><i class="fa fa-envelope-o"></i> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="412232243337012c2332232e2e2a326f222e2c">[email&nbsp;protected]</a></li>
+                  </ul>
+                  <ul class="spacer-top">
+                      <li class="text-bold">Buyback Support</li>
+                      <li><i class="fa fa-phone"></i> 800-325-3248</li>
+                      <li><i class="fa fa-envelope-o"></i> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="dbb9aea2b9bab8b09bb6b9a8b9b4b4b0a8f5b8b4b6">[email&nbsp;protected]</a></li>
+                  </ul>
+                  <ul class="spacer-top">
+                      <li class="text-bold">Systems Sales</li>
+                      <li><i class="fa fa-phone"></i> 800-325-4138</li>
+                      <li><i class="fa fa-envelope-o"></i> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0172787275646c72416c6372636e6e6a722f626e6c">[email&nbsp;protected]</a></li>
+                  </ul>
+              </div>
+              <div class="column third">
+                  <h3>Discover MBS</h3>
+                  <ul class="accordion">
+                      <li><a href="../index.php">Home</a></li>
+                      <li><span>Resources</span>
+                          <ul>
+                              <li><a href="../resources/content.php" title="Content Hub">Content Hub</a></li>
+                              <li><a href="../resources/media.php" title="Video Hub">Video Hub</a></li>
+                              <li><a href="../resources/events.php" title="Event Calendar">Event Calendar</a></li>
+                              <li><a href="http://foreword.mbsbooks.com" target="_blank" title="MBS Foreword Online">Foreword Online</a></li>
+                          </ul>
+                      </li>
+                      <li><span>Services</span>
+                          <ul>
+                              <li><a href="../services/course-material-solutions.php" title="Course Material Solutions">Course Material Solutions</a></li>
+                              
+                              <li><a href="../services/service-center.php" title="Service Center">Service Center</a></li>
+                              <li><a href="../services/store-automation.php" title="MBS Systems">MBS Systems</a></li>
+                              <li><a href="http://www.mbsdirect.net" target="_blank" title="MBS Direct">MBS Direct</a></li>
+                          </ul>
+                      </li>
+                      <li><span>About MBS</span>
+                          <ul>
+                              <li><a href="../about/heritage.php" title="Heritage">Heritage</a></li>
+                              <li><a href="../about/operations.php" title="Opertations">Operations</a></li>
+                              <li><a href="../about/people.php" title="Our People">Our People</a></li>
+                              <li><a href="../about/partners.php" title="Our Partners">Our Partners</a></li>
+                          </ul>
+                      </li>
+                      <li><span>Why Choose MBS?</span>
+                          <ul>
+                              <li><a href="../mbs-difference/benefits.php" title="The MBS Difference">The MBS Difference</a></li>
+                              <li><a href="../mbs-difference/case-studies.php" title="Case Studies">Case Studies</a></li>
+                              <li><a href="../mbs-difference/testimonials.php" title="Testimonials">Testimonials</a></li>
+                          </ul>
+                      </li>
+                      <li><span>Contact Us</span>
+                          <ul>
+                              <li><a href="../contact-us/index.php" title="Customer Service">Customer Service</a></li>
+                              <li><a href="../hr2/index.php" title="Employment Opportunities">Employment Opportunities</a></li>
+                          </ul>
+                      </li>
+                      <li><a href="https://intranet.mbsbooks.com" title="Log in to the MBS Employee Intranet">MBS Employee Intranet</a></li>
+                      <li><a href="hr2/index.php" title="Find a Job">Find a Job</a></li>
+                      <li><a href="http://systems.mbsbooks.com/Training/index.php" title="Systems Training">Systems Training</a></li>
+                      <li><a href="../disclaimer/tos.php" title="MBS Textbook Exchange, LLC. Terms of Service">Terms of Service</a></li>
+                      <li><a href="../disclaimer/privacy-policy.php" title="MBS Textbook Exchange, LLC. Privacy Policy">Privacy Policy</a></li>
+                  </ul>
+              </div>
+              <div class="column third">
+                  <h3>Subscribe to Foreword</h3>
+                  <!--<p>At MBS, we're dedicated to helping our partners be successful and are proud to offer you yet another resource to connect to the latest industry news. Featuring relevant articles, unique ideas and original strategies, Foreword Online ensures you'll receive the most up-to-date information on both MBS and other industry-specific news each day. Subscribe today.</p>-->
+				  <script data-cfasync="false" src="/cdn-cgi/scripts/af2821b0/cloudflare-static/email-decode.min.js"></script><script class="bttn-grey">
+					hbspt.forms.create({
+						portalId: '445231',
+						formId: '37326d7a-e6b7-490c-bc13-7f1a2cdcbbb1',
+						css: ' '
+                    });
+                  </script>
+                  <br>
+                  <h4>Service Center login</h4>
+                  <form onsubmit="return CheckData()" method="post" id="searchform" name="form" action="http://servicecenter.mbsbooks.com/index.php">
+                    <label>User Name </label>
+                    <input type="text" value="" name="FVuserID" id="s">
+                    <label>Password </label>
+                    <input type="password" value="" name="FVpassword" id="s">
+                    <label>Jump To </label>
+                    <select name="fvJumpTo">
+                      <option value="A">Account Information</option>
+                      <option value="RO">Realtime Ordering</option>
+                      <option value="TT">Textbook Trader</option>
+                      <option value="TB">Textbook Trader Bulletin Board</option>
+                  </select>
+                  <input class="button bttn-grey" value="Enter" name="submit" type="submit">
+                </form>           
+              </div>
+          </div>
+	      <div class="row clearfix spacer-top">
+              <div class="column full">
+                  <p class="text-small">© 1992-2017 MBS Textbook Exchange, LLC. All Rights Reserved.</p>
+              </div>
+          </div>
 		</div>
-	</div>
-</div>
+    </footer>
 
-<div class="endfoot">
-<!--<hr color="#666666"; size="1px;"/>-->
-  <p><a href="contact.php" style="color:#666"> Contact Us </a>| <a href="sitemap.php" style=" color:#666666">Site Map</a> </p><p>MBS Textbook Exchange, LLC 2017</p> </div>
-</div>
- </div>
+    <!-- Javascript/jQuery -->
+    <script src="../js/functions.js" type="text/javascript"></script>
+    <script src="../js/rem.min.js" type="text/javascript"></script>
+    <script src="../js/respond.js" type="text/javascript"></script>
+    <script src="../js/jquery.colorbox-min.js"></script>
+    <script src="../js/jquery.mixitup.min.js"></script>
+    <!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-35522706-2', 'auto');
+		ga('send', 'pageview');
+    </script>
+    <!-- Pinterest -->
+	<script type="text/javascript" async="" defer="" src="//assets.pinterest.com/js/pinit.js"></script>
+	<!-- Knowledge Graph -->
+	<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "http://www.mbsdirect.net",
+      "logo": "http://www.mbsdirect.net/images/logo_MBS-Direct.png"
+    }
+    </script>
+    <!-- Start of Async HubSpot Analytics Code -->
+	<script type="text/javascript">
+      (function(d,s,i,r) {
+        if (d.getElementById(i)){return;}
+        var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+        n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/445231.js';
+        e.parentNode.insertBefore(n, e);
+      })(document,"script","hs-analytics",300000);
+    </script>
+  <!-- End of Async HubSpot Analytics Code -->
+    <!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/445231.js"></script>
+<!-- End of HubSpot Embed Code -->
+  
 
-<!-- Start of Async HubSpot Analytics Code -->
-  <script type="text/javascript">
-    (function(d,s,i,r) {
-      if (d.getElementById(i)){return;}
-      var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
-      n.id=i;n.src="//js.hs-analytics.net/analytics/"+(Math.ceil(new Date()/r)*r)+"/445231.js";
-      e.parentNode.insertBefore(n, e);
-    })(document,"script","hs-analytics",300000);
-  </script>
-<!-- End of Async HubSpot Analytics Code -->
-
-
-
-
-<!-- Google Analytics -->
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(["_setAccount", "UA-35522706-2"]);
-  _gaq.push(["_setDomainName", "mbsbooks.com"]);
-  _gaq.push(["_trackPageview"]);
-  (function() {
-    var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
-    ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
-    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
-
-
-
-<div id="fancy_overlay"></div><div id="fancy_loading"><div></div></div><div id="fancy_outer"><div id="fancy_inner"><div id="fancy_close"></div><div id="fancy_bg"><div class="fancy_bg" id="fancy_bg_n"></div><div class="fancy_bg" id="fancy_bg_ne"></div><div class="fancy_bg" id="fancy_bg_e"></div><div class="fancy_bg" id="fancy_bg_se"></div><div class="fancy_bg" id="fancy_bg_s"></div><div class="fancy_bg" id="fancy_bg_sw"></div><div class="fancy_bg" id="fancy_bg_w"></div><div class="fancy_bg" id="fancy_bg_nw"></div></div><a href="javascript:;" id="fancy_left"><span class="fancy_ico" id="fancy_left_ico"></span></a><a href="javascript:;" id="fancy_right"><span class="fancy_ico" id="fancy_right_ico"></span></a><div id="fancy_content"></div></div></div><div id="fancy_title"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="fancy_title" id="fancy_title_left"></td><td class="fancy_title" id="fancy_title_main"><div></div></td><td class="fancy_title" id="fancy_title_right"></td></tr></tbody></table></div></body></html>
+</body></html>
