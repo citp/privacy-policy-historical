@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truevalue.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630205817id_/http%3A//truevalue.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truevalue.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229043310id_/http%3A//truevalue.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # True Value: Privacy & Security
 
@@ -174,7 +174,7 @@ For the protection of our websites and others, we may disclose information you p
 
 Our websites use cookies to create a more personalized shopping experience for you when visiting our site. They let us "remember" information about your preferences and site viewing session(s), and allow you to move within areas of our websites without reintroducing yourself. 
 
-True Value Company uses a third party to place cookies on your computer to collect non-personally identifiable information about your operating system, browser version, IP Address, and geo-location if you are using a mobile device. Although our cookies may contain a unique user ID, they do not collect or store any information that reveals your name or any other personal data. 
+True Value Company uses a third party to place cookies on your computer to collect non-personally identifiable information about your operating system, browser version, IP Address, and geo-location if you are using a mobile device. We may also use technologies, such as our own cookies, to provide you with relevant online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here](http://dtmc.truevalue.com/adinfo/choice/prod/?type=fpc&cid=61961&cname=True%20Value&cmagic=31ea09&clogo=61961.png&loc=us&lang=en-us). 
 
 You may choose to set your Web browser to not accept cookies. However, without enabling your cookies, you will not be able to view, create an account, or make purchases on the True Value site. 
 
