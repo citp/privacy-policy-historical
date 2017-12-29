@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyinyourstate.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603080222id_/http%3A//www.onlyinyourstate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyinyourstate.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229013218id_/http%3A//www.onlyinyourstate.com/privacy-policy) for the most accurate reproduction.*
 
 # Only In Your State LLC Privacy Policy
 
@@ -53,7 +53,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 ## California Residents
 
-California Civil Code Section 1798.83 permits residents of the State of California to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. If you are a California resident and you would like to make such a request, please email us at [contact@onlyinyourstate.com](mailto:contact@onlyinyourstate.com) or write us at: Only In Your State, LLC., Attn: Legal – California Privacy Compliance, 340 S Lemon Ave. #9691, Walnut, Ca 91789.
+California Civil Code Section 1798.83 permits residents of the State of California to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. If you are a California resident and you would like to make such a request, please email us at [contact@onlyinyourstate.com](mailto:contact@onlyinyourstate.com) or write us at: Only In Your State, LLC., Attn: Legal – California Privacy Compliance, 112 Montana Ave #883 Santa Monica, CA 90403.
 
 ## Changes to this privacy policy
 
@@ -67,6 +67,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[contact@onlyinyourstate.com](https://web.archive.org/web/20170603080222id_/http%3A//www.onlyinyourstate.com/contact@onlyinyourstate.com)
+[contact@onlyinyourstate.com](https://web.archive.org/web/20171229013218id_/http://www.onlyinyourstate.com/privacy-policy/contact@onlyinyourstate.com)
 
 Last Updated February 26, 2017
