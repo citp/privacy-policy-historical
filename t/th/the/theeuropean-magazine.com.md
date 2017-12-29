@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615134508id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229224539id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The European
 
@@ -56,13 +56,17 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.theeuropean-magazine.com  
-Oranienburger Straße 84  
-Berlin, Berlin 10178  
-Germany  
-info@theeuropean.de
+www.theeuropean-magazine.com
 
-Most Read 
+THE EUROPEAN MAGAZINE  
+WEIMER MEDIA GROUP GmbH  
+Maximilianstraße 13  
+80539 München
 
+Headquarter:  
+Seestraße 16  
+83684 Tegernsee
 
-
+Telefon: +49 (0) 8022-7044443  
+Fax: +49 (0) 8022-7044445  
+Email: info@weimermedia.de
