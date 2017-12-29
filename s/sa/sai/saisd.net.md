@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the saisd.net privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628073224id_/http%3A//www.saisd.net/main/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D5139%3Aprivacy-policy%26catid%3D55%3Ahome-articles) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saisd.net privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229221354id_/http%3A//www.saisd.net/main/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D5139%3Aprivacy-policy%26catid%3D55%3Ahome-articles) for the most accurate reproduction.*
 
 # SAISD Privacy Policy
+
+Taking applications now through Jan. 31, 2018 for Choice Schools and Magnet Programs.   
+Apply online for 2018-19 school year at  **[ https://saisdchoice.com/](https://saisdchoice.com/)**.
 
 **What information do we collect?**
 
