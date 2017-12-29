@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the urlanalyser.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227001425id_/http%3A//www.urlsas.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urlanalyser.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# URL SAS | Privacy Policy
+# Legal
 
-## 3rd Party advertising
+* * *
 
-We use 3rd-party advertising opportunities to serve ads to make it more accessible what you want when you visit our website. The ad companies we work with sometimes may use information (not any personal information such as your name, address, email address, telephone number or any other kind of personal information). We assure you these informations may only about your visits and it is only because to provide advertisements about what you may be interested in.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-## Cookies
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Our website contains ads and external links to 3rd-party websites offered through Google AdSense. Our Google ads work with the DoubleClick DART cookie. Cookies are small information files which is stored in your computer during a visit a website. Our cookie will only fetch information about your visit, which ad you clicked, which ad you viewed, etc. These cookies help us and Google to provide you more useful information.
 
-For more information about DART cookie, you can visit official Google ad and content privacy policy.
 
-## Links
-
-Additionally, URL Analyse is not affiliated with any other advertisers than Google on our website. Links or references to individuals or companies do not constitute an endorsement of any information, product or service you may receive from such sources. Clicking on advertisements or links that take you off our website is done at your own risk - we are not responsible for any issues resulting from interactions with advertisers, their websites, or their affiliates.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
