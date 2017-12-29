@@ -1,171 +1,34 @@
-<!--The following is the downloaded HTML source of the 1000freeads.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606151441id_/http%3A//www.postallads4free.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1000freeads.com privacy policy that was archived on 2017-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="content-language" content="en">
-
-<link rel="stylesheet" href="/styles/styles_general.css" type="text/css">
-<!--eah8pdae348llpnu-->
-<meta name="google-site-verification" content="sPBaYK5ghlh0vHAvdQdZdA-sSSMXaJ_Gr4q2Wdy3Fig"><title>Privacy Policy</title>
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#version=v2.4&amp;xfbml=1&amp;appId=609136439151390"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
-  (function() {
-	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-	po.src = 'https://apis.google.com/js/plusone.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-
+<title>Legal</title>
+<style type="text/css">
+body {margin:30px 75px;font-size:1em;font-family:helvetica,arial,sans-serif;line-height:1.4em;color:#444;}
+h1 {font-size:2em;font-weight:normal;}
+hr {border:1px solid #ccc;border-width:1px 0 0;height:1px;}
+ol li,
+ul li {color:#336633;line-height:2em;font-size:.9em;}
+.contact {font-style:italic;color:#336699;}    
+</style>  
 </head>
 <body>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script><script type="text/javascript"> (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = '//connect.facebook.net/en_US/sdk.js#version=v2.4&xfbml=1&appId=609136439151390';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
- window.fbAsyncInit = function() {
-
- 
-  FB.init({
-    appId      : '609136439151390',
-    status     : true, // check login status
-    cookie     : true, // enable cookies to allow the server to access the session
-    xfbml      : true, //,   parse XFBML
-	version    : 'v2.4'
-	//channelUrl: 'http://www.postallads4free.com/channel.html'
-  });
-  };
+<!-- Start: Privacy Policy -->
+<h1>Website Privacy Policy</h1>
+<hr>
+<p><strong>Cookies.</strong> Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:</p>
+<ul>
+    <li>the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;</li>
+    <li>the date and time you access the website and pages you visit;</li>
+    <li>your computer's IP address and information about its operating system, platform and the web browser type and version you use;</li>
+    <li>demographic and other non-personally identifiable profile information about you; and</li>
+    <li>information to combat fraud or misuse</li>
+</ul>
+<p><strong>Collection of Information by Third Parties.</strong> This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: <a href="http://optout.networkadvertising.org" class="contact">http://optout.networkadvertising.org</a>.</p>
+<!-- End: Privacy Policy -->
 
 
-
-function login() {
-  			FB.login(function(response) {          
-			if(response.status == 'connected'){	
-				$('.facebooklogin').hide();
-				$('.loadingt').show();
-				FB.api('/me', function(response) {
-			   	email_v = response.email;
-				startajax(); 
-				});
-           }
-			},{scope: 'email'});
-}
-  
-function startajax(){
-  $.ajax({
-url:'index/fblogin',cache: false, async: true,			
-data:{	email:email_v },
-success: function(result){
-	if(result.redirect == '1' ){
-		window.location = result.redirect_url;
-	}
-},
-error: function (result) {
-alert('Login error. Please contact to administrator.');
-},
-type: 'POST',
-dataType: 'json'
-});
-}
-</script> <script src="/styles/ads.js"></script>
-
-<div id="tpage">
-	<div id="container">
-	<a id="log" href="/"></a>		
-	<div style="margin:0;float:left;width:90px;"><div style="margin:5px 5px 0px 3px;float:left;width:90px;">
-						<div class="g-plusone" data-size="medium" data-href="http://www.postallads4free.com/"></div>
-						</div><div style="margin:3px 10px 2px 3px;float:left;" class="fb-like" data-href="http://www.postallads4free.com/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div></div>	
-		<div id="tbar"> 
-		<div style="float:right"><a href="/post.html" class="pstlnktpr">Post a Free Ad</a></div><div style="float:right"><a style="font-size:15px;" rel="nofollow" href="/help.html">Help</a></div>
-	<div style="float:right"><a style="font-size:15px;" rel="nofollow" href="/login.html">Log in</a>
-	<!--
-	<br><a style="margin-right:8px" class="facebooklogin" href='#' onclick='login();'><img src="/images/fblog.png" alt=""></a>
-	<img class="loadingt"  style="display:none;margin-right:22px" alt="" src="/images/loader.gif">
-	-->
-	
-	
-		</div>
-
-				</div>
-	<div id="header">
-		</div>
-	<div id="sidebar">
-		</div>
-	<div id="content">
-	      <title>Privacy Policy</title><p><strong>PostAllAds4Free.com&nbsp; PRIVACY POLICY</strong></p>
-<p>PostAllAds4Free.com has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by PostAllAds4Free.com from time to time. PostAllAds4Free.com will provide notice of materially significant changes to this privacy policy by posting notice on the PostAllAds4Free.com site.</p>
-<p><br>
-&nbsp;</p>
-<p><strong>PROTECTING YOUR PRIVACY</strong></p>
-<p>We don’t share your information with third parties for marketing purposes. We don’t engage in cross-marketing or link-referral programs with other sites. We don’t employ tracking devices for marketing purposes (“cookies”, “web beacons,” single-pixel gifs). We don’t send you unsolicited communications for marketing purposes. We offer email anonymization &amp; relay, to reduce 3rd party harvesting &amp; spam. PostAllAds4Free.com, may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited. PostAllAds4Free.com is not responsible for any kind of dealings between buyers and sellers.</p>
-<p><br>
-&nbsp;</p>
-<p><strong>DATA WE COLLECT</strong></p>
-<p>We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails and providing subscription email services etc. We may collect personal information if you provide it in feedback or comments, post it on our classifieds or interactive forums, or if you contact us directly. Please do not post any personal information on PostAllAds4Free.com that you expect to keep private. Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administrator the PostAllAds4Free.com site, and to otherwise provide our service to you.</p><style type="text/css">#header {border-bottom:2px solid #b9cfda;margin:8px 8px 2px 8px;height:5px;}</style>	</div>
-	<div id="footer"></div>
-	</div>
-	<div id="endft">  
-	
-	<a href="http://m.postallads4free.com/"><img style="text-decoration:none;margin-right:5px" alt="" src="/images/mobile.jpg">Mobile</a>
-	<a href="/">Locations</a>	
-	<a href="/terms_of_use.html" rel="nofollow">Terms of Use</a>
-	<a href="/privacy_policy.html" rel="nofollow">Privacy Policy</a>
-	<!--<a href="/pricing.html" rel="nofollow">Pricing</a>
-	<a href="/refund_policy.html" rel="nofollow">Refund Policy</a>-->
-	<a href="/help.html" rel="nofollow">Help</a>
-	<a href="/contact.html" rel="nofollow">Contact</a>
-		<a onclick="window.open(this.href);return false;" href="http://www.facebook.com/PostAllAds4Free" rel="nofollow">Facebook</a>
-	<a onclick="window.open(this.href);return false;" href="https://plus.google.com/+Postallads4free/posts" rel="nofollow">Google+</a>
-	
-	</div>
-	<div class="copy">Copyright © 2017 PostAllAds4Free.com. Post ads for free. Online advertising. Free classified ads online
-<br>
-	
-<br>
-	</div>
-
-</div>
-<br><br><br><br><br><br>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-35384212-1']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
-
-
-<script type="text/javascript">
-var sc_project=7909705; 
-var sc_invisible=1; 
-var sc_security="89ba7682"; 
-</script>
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
-<noscript><div class="statcounter"><img class="statcounter"
-src="http://c.statcounter.com/7909705/0/89ba7682/1/"
-alt=""></div></noscript>
-
-
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1017997309;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1017997309/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
 
 </body></html>
