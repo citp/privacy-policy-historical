@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beyondthevalley.com.au privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530220652id_/http%3A//www.beyondthevalley.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondthevalley.com.au privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229012627id_/http%3A//www.beyondthevalley.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Beyond The Valley
+# Beyond The Valley 2017
 
-****Beyond the Valley Music Festival Pty Ltd ACN  169 612 159 (“ **Beyond the Valley** “) collects, uses and holds personal information in accordance with the Australian Privacy Principles (“ **APPs** ”) as set out in the _Privacy Act 1988_ (Cth).
+Beyond the Valley Music Festival Pty Ltd ACN 169 612 159 (“ **Beyond the Valley** “) collects, uses and holds personal information in accordance with the Australian Privacy Principles (“ **APPs** ”) as set out in the _Privacy Act 1988_ (Cth).
 
 This Privacy Policy is an important document and you should read it carefully.  Amongst other things, it contains information on:
 
