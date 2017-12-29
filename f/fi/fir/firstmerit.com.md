@@ -1,135 +1,90 @@
-> *The following text is extracted and transformed from the firstmerit.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015234343id_/http%3A//www.firstmerit.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstmerit.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229020212id_/https%3A//www.huntington.com/Privacy-Security/privacy-policy) for the most accurate reproduction.*
 
-# FirstMerit Bank
+# Privacy Policy | Huntington
 
-Privacy and Security
+##### Your Privacy Rights
 
-FirstMerit Privacy and Security Principles  
-Click here or on the following links to learn about our Privacy and Security Principles.  
+[Print Privacy Policy](https://www.huntington.com/-/media/pdf/privacypolicy)
 
+This Online Privacy Policy ("Online Policy") applies to The Huntington National Bank, its parent Huntington Bancshares Incorporated and their subsidiaries and affiliates (collectively described as "Huntington," "we," or "us"), this website and any Huntington website, online interface, mobile site, or mobile application that links to this Online Policy (each a "Site, and collectively "Sites"). This Online Policy specifically applies to Huntington's collection, use and disclosure of information collected from visitors during use of the Sites, such as for transactional purposes or through tracking technology, including cookies or action tags. This Site and all Huntington Sites are operated in and controlled from the United States of America. This Online Policy should be read together with the "What Does Huntington Do with Your Personal Information" Privacy Notice ("Privacy Notice") below, which, among other things, describes how Huntington may share personal information gathered from you and how you can opt-out or limit certain types of information sharing.
 
-  * We Strive to Fulfill Your Trust … Every Day
-  * Our Commitment To Protecting Your Privacy
-  * Your Information Is Safe With Us
-  * Information Is Used To Enhance Our Service
-  * Information Collection
-  * How We Share Information Within Our FirstMerit Family
-  * How We Share Selected Information With Third Parties
-  * Sharing With Other Non-FirstMerit Companies
-  * Joint Accounts 
-  * Privacy Policy Amendments
-  * How Can We Help You Today?
+**Effective Date**  
+This Online Policy is effective as of December 2016.
 
+**Changes to this Online Policy**  
+We reserve the right to amend this Online Policy at any time to address future developments of Huntington, our Sites or changes in industry or legal trends. We will post the revised Online Policy on this Site or announce the change on this Site's homepage. If we make changes to this Online Policy, we will revise the "Effective Date" section above. Any changes to this Online Policy will become effective upon the posting of the revised Online Policy on this Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Online Policy, as it may be amended from time to time, in whole or in part, please do not continue using our Sites. If you have any questions or comments about this Online Policy, please feel free to contact us at [privacy@huntington.com](mailto:%20privacy@huntington.com).
 
+**Types of Information Collected**  
+We collect Personal Information and Aggregate Information from visitors or users of our Sites. We use the term "Personal Information" to mean any information that can identify a specific individual. We use the term "Aggregate Information" to refer to any information that does not allow us to identify a specific individual, such as demographic information, information about the device used to access our Site(s) (“Device”), browser information or areas visited on our Sites.
 
-**Internet Banking Privacy and Security Principles**   
-Click here or on the following links to learn about our Internet Banking Privacy and Security Principles. 
+**Personal Information**  
+Personal Information includes information that you may provide to us when you visit our Site(s) such as name, address, email address, phone number, mother's maiden name, Social Security number, date of birth, driver's license, employment, income, residence, and collateral information. For example, you may provide Personal Information when you complete an online application for a new banking product, when you enroll in our online or mobile banking services or when you complete online fields with your contact information.
 
-  * Your User Name and Password
-  * Encryption
-  * Cookies
-  * E-mail
-  * Logging Out
-  * Firewalls
-  * Viruses
+**Aggregate Information**  
+We may gather and store Aggregate Information about Site visitors and Site users. The collection of this Aggregate Information enables us to measure the number of visitors to various portions of our Sites, diagnose problems with our Sites, administer our Sites, track visitor activity, detect and prevent fraud and enhance the security of our Sites. We may collect information regarding the type of Device or browser you are using, the Device IDs, the IP address of your Device, the advertising ID of your Device, your screen resolution and other Device settings, information about your operating system, your location, your internet or mobile service provider, and how you use our Sites. We will use Aggregate Information to learn more about what you and our customers are expecting from our services to improve our Sites. Because Aggregate Information collected on our Sites does not personally identify you, we may use Aggregate Information for any purpose whatsoever and share Aggregate Information with third parties for any purpose whatsoever. 
 
+**Association of Aggregate Information with Personal Information**  
+We may now, or in the future, associate or combine some or all of the Aggregate Information we collect about you with your Personal Information that we collect about you in order to provide you with more relevant content and marketing messages when you visit our Sites. For example, if you are an online banking customer we may be able to associate your Aggregate Information with your customer profile. This may allow us to provide you with tailored content when you visit our Sites.  Please note: the association of Aggregate Information with Personal information does not change how we treat your Personal Information. You should refer to the “Personal Information,” “Our Use of Personal Information,” “Disclosure of Personal Information,” “Use of Cookies or Similar Technologies,” and “Online Behavioral / Interest-Based Advertising” sections for more information. 
 
+**Use of Cookies or Similar Technologies**  
+Cookies or other similar technologies may be used to gather information on our Sites. Cookies are electronic files that your internet browser places on your hard drive or other Device to retain information relating to visits to and use of our Sites. We use cookies to improve the functionality and performance of our Sites. We may also use cookies or other similar technology to associate or combine your Aggregate Information with your Personal Information (please refer to the “Association of Aggregate Information with Personal Information” section above for more information on this practice.). We do not use cookies to store or transmit Personal Information. We use cookies to enable our customers to navigate more easily within our Sites during a session. We use "persistent" cookies to allow you to set and maintain your preferences for using our Sites. Persistent cookies remain on your Device's memory after you close your internet browser or mobile application.   We may also use technologies, such as our own cookies, to provide you with customized online display advertising tailored to your interests.  Please refer to the “Online Behavioral / Interest-Based Advertising” section for more information, including how to opt out of customized advertising. 
 
-FirstMerit Privacy and Security Principles  
-**Our Commitment To Protecting Your Privacy**
+We also use 1x1 pixel "action tags," which are types of tracking technology associated with cookies. Action tags help us know how many visitors link to our Sites from a third-party website, which areas of our Sites visitors use most often, and how much time visitors spend at our Sites. We provide this type of Aggregate Information to a nonaffiliated application service provider that compiles statistical information for us.  Collection of this data enhances Huntington's ability to meet the needs of our online and mobile users and make improvements to the online and mobile experience.
 
-We Strive to Fulfill Your Trust … Every Day  
-You can be confident in the trust you have placed in FirstMerit. We honor that trust and strive to return it by offering you financial security, backed by the highest quality products and services. Information is at the heart of our ability to deliver the value-added, personalized service you deserve. You have a right to know what information we gather about you, and how we use it to enhance the convenience and quality of our services.
+You can block cookies by changing the settings on your internet browser or through the use of software programs specifically designed to block cookies. Please note, however, that if you choose to block cookies, you will not be able to log into our secure Online Banking service, and you may limit other functionality we can provide when you visit our Sites. You can also remove cookies by deleting them from your Temporary Internet or Cookies folder.  Blocking or deleting cookies may also impact our ability to honor certain online behavioral / Interest-based advertising opt out choices you have made.  See the “Online Behavioral / Interest-Based Advertising” section for more information.
 
-****Our Commitment To Protecting Your Privacy   
-Following is the Privacy Policy for the FirstMerit affiliated companies listed on the back, of which you are a customer, and with which you may have a relationship in the future. This Policy also applies to future FirstMerit affiliated companies. In this Policy, "we," "us," or "our" means the FirstMerit entity(ies) with which you have a relationship, and "you" or "your" means the individual customer who has the relationship. FirstMerit has adopted this Policy to inform you of the confidentiality with which we treat personally identifiable financial information of individual consumers (also referred to as "nonpublic personal information" or "customer information").
+**Online Behavioral / Interest-Based Advertising**
 
-****Your Information Is Safe With Us  
-We have implemented this Policy throughout the FirstMerit family to ensure the security and accuracy of all customer information. This Policy applies to current and former customers. Our operating and data processing environments are highly secure, and we maintain strict physical and electronic safeguards wherever customer information is used or stored. In addition, our employees are committed to maintaining the confidentiality of any customer information. FirstMerit's Code of Ethics requires all employees to affirmatively acknowledge that all customer information is to remain confidential. We comply with all applicable federal regulations in safeguarding customer information. 
+We may engage our service providers to display ads on Huntington's behalf across the internet.  Our service providers may use information about you to provide customized Huntington advertisements tailored to your interests.   This type of advertising is often referred to as “Online Behavioral Advertising” or “Interest-Based Advertising.”  We may also engage our service providers to track and report performance of advertising and marketing campaigns to and from Huntington.  Our service providers may not use your information obtained from us for any purpose other than to deliver Huntington advertisements on the internet. To learn more about this type of advertising, including how to opt out of certain types of online advertisements, please visit the Network Advertising Initiative at [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
-****Information Is Used To Enhance Our Service  
-There are many ways customer information helps us enhance the quality and value of our services. For example, it enables us to:
+You can opt out of Huntington Online Behavioral / Interest-Based Advertising by clicking [here](http://dtmc.huntington.com/adinfo/choice/prod/?type=fpc&cid=61097&cname=Huntington%20Bank&cmagic=a844c1&clogo=61097.png&loc=us&lang=en-us).  You can also opt out by clicking on the “YourAdChoices” Icon contained in certain Huntington online advertisements.   Keep in mind that these opt-out works using cookies, so if you delete cookies, then you will need to opt out again.  Also, if you use different browsers or devices, you will need to opt out for each one individually. 
 
-> • Verify your identity to protect your accounts and balances  
->  • Make it faster and more convenient for you to open new accounts, apply for loans, and conduct other types of transactions  
->  • Respond to your inquiries promptly, and with more complete information  
->  • Identify and recommend additional services that may save you time and money  
->  • Tailor our products and services more closely to your financial needs  
->  • Develop new services to serve your needs even better
+Please note: even if you opt out, you may still see advertisements from Huntington while browsing online.  These advertisements may be less relevant to you and your interests because they won’t be based on information collected about you.   
 
-****Information Collection  
-At FirstMerit, we collect customer information to better serve you and administer your accounts. We collect, use and retain information about you where we believe that doing so is required to operate our business; where it will help us to provide a better selection of products, services, and other benefits to you; or where doing so is permitted by law. This includes information you provide on forms or electronically when you open an account or apply for a loan (such as your income and assets) … records of your transactions within the FirstMerit family or with others (such as your account balance, payment history and credit card usage) … information to complete transactions initiated by you or on your behalf. … information we receive from a consumer reporting agency (such as credit score or credit history) … information we may need to carry out the terms of agreements we have with you … and information that is part of the public record.
+**Browser Settings**  
+Our Sites do not recognize Web browser “do not track” signals or other mechanisms. For more information about opting out of certain types of advertising, please see the “Online Behavioral / Interest-Based Advertising” section above. 
 
-How We Share Information Within Our FirstMerit Family **** **  
-** As we process transactions, administer your accounts and open new accounts, customer information as described above in the Information Collection section may be disclosed to other members of the FirstMerit family, including current and future affiliates such as FirstMerit Mortgage Corporation, FirstMerit Securities, Inc., Abell & Associates, Inc., and FirstMerit Insurance Agency, Inc. These disclosures are made to enhance the array of products and services available to you and to better help you meet your financial goals. If you prefer not to take advantage of such opportunities and not have your customer information disclosed within the FirstMerit family, you may "opt out" (that is, you may direct us not to make those disclosures and we will not do so) by calling us toll-free at 866-353-0020. Please note that if you choose to opt out, certain information may still be disclosed to FirstMerit companies, as permitted by law. 
+**Our Use of Personal Information**  
+Consistent with our Privacy Notice, we use Personal Information provided by Site visitors to fulfill the purpose for which such information was provided; to open an account for you; to process a transaction authorized by you; to send you tailored content or information we think may be of interest to you (sometimes in conjunction with our service providers), to evaluate your suitability for a job if you apply on line through the Careers section of our Site, or as specifically disclosed at the time the information is requested.
 
-How We Share Selected Information With Third Parties
+We also may remove identifiers from Personal Information or aggregate that information to make it anonymous. We will use such Aggregate Information as described in the "Aggregate Information" section.
 
-Sharing With Joint Marketing And Customer Service Companies  
-In order to provide you with offers of beneficial financial products and services, we may disclose customer information as described above in the Information Collection section to companies who perform joint marketing or customer services for us. This may include companies that perform marketing services on our behalf or other financial institutions with whom we have joint marketing agreements. Such companies are obligated contractually to keep customer information confidential and to comply with our confidentiality rules and policies. These companies are prohibited from using customer information for any purpose other than the purpose for which we've contracted.
+**Disclosure of Personal Information**  
+We may disclose Personal Information, as permitted by law, and: (1) consistent with our Privacy Notice; (2) to comply with applicable laws; (3) to respond to governmental inquiries or requests; (4) to comply with valid legal process; (5) to protect the rights, privacy, safety or property of Huntington; (6) to permit us to pursue available remedies or limit damages that we may sustain; and (7) to enforce our rights resulting from inappropriate use of our Sites.
 
-****Sharing With Other Non-FirstMerit Companies  
-To better serve your needs, we may also disclose customer information as described above in the Information Collection section to non-affiliated financial service providers or non-financial companies such as companies that offer products and services that we believe may be beneficial to you. Such disclosure of selected information allows us to partner with companies who have a specific financial expertise so we can offer you a wider array of products and services. Such companies are obligated contractually to keep customer information confidential and to comply with our confidentiality rules and policies. These companies are prohibited from using customer information for any purpose other than the purpose for which we've contracted. If you prefer not to have your customer information disclosed to non-FirstMerit companies, you may "opt out" (that is, you may direct us not to make those disclosures and we will not do so) by calling us toll-free at 866-353-0020. Please note that if you choose to opt out, certain information may still be disclosed to third parties as permitted by law, including information to companies providing joint marketing or customer services.
+In the event there is a change in the corporate structure of Huntington such as, but not limited to, merger, consolidation, sale, liquidation, or transfer of substantial assets, Huntington may, in its sole discretion, transfer, sell or assign information collected on and through our Sites, including without limitation, Personal Information concerning visitors, to one or more affiliated or unaffiliated third parties.
 
-Joint Accounts  
-If any of your accounts or relationships with us are held jointly with another person(s), we will treat a request to opt out of either affiliated or third party sharing by any of the joint owners to be a prohibition on sharing of all information related to all of the parties for that account. However, if the other joint account owners want to opt out for any accounts not held jointly with you, they must exercise their opt out separately.
+**Your Choice About Receiving Promotional E-mails**  
+Visitors may choose not to receive promotional e-mails or electronic newsletters from us by following the instructions in the specific email from which they wish to opt-out. Even if you elect to stop receiving promotional emails from us, we may still contact you through email to tell you important information about our Sites or us, or in response to a transactional or service related matter.
 
-****Privacy Policy Amendments  
-This Policy may be amended from time to time. When legally required, we will send you written notice of any amendments prior to the time they become effective.
+**Maintaining Accuracy in Online and Mobile Information**  
+We strive to maintain complete and accurate online and mobile information about you and your accounts. If you believe that our records contain inaccurate or incomplete information about you, please call us toll-free at (800)480-2265 (24 hours a day, seven days a week). Our Online and Mobile Banking customers may access and edit their own information by logging in to our secure Online Banking service and clicking on the "Customer Service" tab. We will correct any confirmed inaccuracies as necessary and appropriate.
 
-This Privacy Policy applies to the following FirstMerit Companies:
+**Children's Information**  
+We respect the privacy of children and comply with the practices established under the Children's Online Privacy Protection Act. We do not knowingly collect or retain personally identifiable information from children.
 
-FirstMerit Bank, N.A.  
-FirstMerit Commercial Insurance Agency, Inc.  
-FirstMerit Insurance Agency, Inc.  
-FirstMerit Leasing Company  
-FirstMerit Mortgage Corporation  
-FirstMerit Securities, Inc.  
-FirstMerit Title Agency, Ltd.  
-Mobile Consultants, Inc.
+**Safeguarding Personal Information**  
+We employ appropriate safeguards to protect Personal Information that you provide to us through our Sites. Unfortunately, no method of transmitting or storing data can be guaranteed to be 100% secure. As a result, although we strive to protect Personal Information, we cannot ensure the security of any information you transmit to us through or in connection with our Sites. If you have reason to believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at [privacy@huntington.com](mailto:%20privacy@huntington.com)
 
-How Can We Help You Today?  
-FirstMerit is dedicated to offering you choices -- and respecting the choices you make -- every day. We look forward to continuing to offer you banking and financial services that deliver convenience, savings, value and security. 
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email.
 
-  
+We may include links in our emails that link you to information on our Sites about our products, services, and special pricing or promotional offers. However, we will never ask you for Personal Information in an email from us (for example, username, password, Social Security number or account number). We will also never include links that take you to a non-secure page where you are asked to provide this information. To determine whether an email that you have received from Huntington is legitimate, you may contact our Customer Service Center toll-free at (800) 480-2265 (24 hours a day, seven days a week). You can find more information and tips on ways you can protect yourself by visiting our Privacy and Security section at [huntington.com/privacy-security](https://www.huntington.com/Privacy-Security). 
 
+If you receive an email or other correspondence requesting that you provide any sensitive information via email or to a Site that does not seem to be affiliated with us, or that otherwise seems suspicious to you, please do not provide such information and report such request to us at [idtheft@huntington.com](mailto:%20idtheft@huntington.com).
 
-Internet Banking Privacy and Security  
-FirstMerit recognizes the need to protect the confidentiality of the information that you provide and that may be viewed via the Internet. For that reason, we have adopted the following Principles for Internet banking. 
+**Web Linking Practices**  
+We may provide access to information, products or services offered on websites that are owned or operated by other companies ("Third Party Websites"). We provide this access through the use of hyperlinks that automatically move you from a Huntington Site to the Third Party Website.
 
-****Your User Name and Password  
-Access to your account information via the Internet and the ability to complete transactions on your account is possible only with your valid user name and password combination. Your user name and password should be treated with the same care and confidentiality as your ATM card or debit card and PIN combination. You should avoid saving your password on your computer's hard drive to prevent someone from gaining access to your account via the Internet. You should also use a unique user name and password for your Internet banking account. Please note that FirstMerit will never ask you for your password. If you ever believe your user name and password have been misused, you should notify us at once by calling 1-888-554-4362, by sending us an e-mail at [customerservice@firstmerit.com](mailto:customerservice@firstmerit.com), or by writing to us at: 
+While we do our best to provide you with helpful, trustworthy resources, we cannot endorse, approve or guarantee information, products, services or recommendations provided at any Third Party Website. Because we may not always know when information on a linked site changes, Huntington is not responsible for the content or accuracy of any Third Party Website. Huntington shall not be responsible for any loss or damage of any sort resulting from the use of a link on its websites nor will it be liable for any failure of products or services advertised or provided on any Third Party Website.
 
-FirstMerit Bank NA  
-Customer Service  
-295 FirstMerit Circle   
-Akron, Ohio 44307. 
+Huntington offers links to you on an "as is" basis. When you visit a Third Party Website by using a link on our Sites, you will no longer be protected by Huntington's privacy policy or security practices. The data collection, use, and protection practices of the Third Party Website may differ from the practices of our Sites. You should familiarize yourself with the privacy policy and security practices of Third Party Websites that you choose to visit. Those are the policies and practices that will apply to your use of the Third Party Website, NOT Huntington's policies and practices (unless otherwise disclosed to you).
 
-If sending an e-mail, do not include any confidential information. 
+Products, services, and benefits offered by third parties at Third Party Websites are obligations of those third parties, are not an obligation of, a deposit of, or guaranteed by Huntington or any of its affiliates, and are not FDIC insured.
 
-****Encryption  
-Information you provide us or that we provide you, and any instructions you make to us via our Internet banking service are encrypted. This means that the information shared between your browser and FirstMerit is scrambled using an algorithm and then decoded once it is received by us or by you using a decoder that is stored in your browser. We use, and require you to use and receive, 128-bit encryption. Note that e-mail communication is not encrypted in this manner. Do not send confidential information or instructions to us via e-mail. For more information, read the following section regarding e-mail. 
+**Use of Online Surveys and Sweepstakes**  
+Online surveys and sweepstakes are offered from time to time on our Sites. Online surveys are used so that we can gather information to better serve you. Based on the information you provide to us, we may inform you of accounts and services from Huntington. You are not required to complete online surveys, sweepstakes or promotions. You should carefully review the rules of each sweepstakes or promotion in which you participate through our Sites, as they may contain additional important information about Huntington's use of Personal Information about you. To the extent that the terms and conditions of each sweepstakes or promotion concerning treatment of your Personal Information conflict with this Online Policy, the terms and conditions will control.
 
-****Cookies  
-Cookies are bits of data that many companies operating on the Internet, including ours, use to identify you when you visit their Web site.   
-FirstMerit uses cookies to make your use of our site more enjoyable and efficient. Cookies consist of bits of data placed into your Web browser that allow us to identify you, tailor our offerings to you and speed up your experience with us whenever your log in to use FirstMerit Internet banking. Cookies do not harm your hard drive or your system. You can personalize your browser to refrain from accepting cookies or to notify you when one will be sent. However, doing so may slow down your experience with that Web site and may make certain pages unavailable to you. 
+**Use of Online Planning Tools**  
+We make planning tools, such as mortgage and savings calculators available. We do not currently store information that you enter into one of these planning tools or calculators.
 
-****E-mail  
-E-mail communications between you and us are not encrypted, as are communications through FirstMerit's Internet banking service. For that reason, you should refrain from sending us confidential information via e-mail. We will likewise refrain from sending you confidential information using this method. If you wish to communicate confidential information to us, you can send us a secured message through the Internet banking site, which will be encrypted as described in the above section. 
-
-Logging Out  
-It is recommended that you completely log out of the FirstMerit Internet banking service and close all instances of your browser when you finish transacting business with us. This will prevent an unauthorized user from obtaining access to your information while your connection is still open. 
-
-If you do not perform any activity while you are connected to the FirstMerit Internet banking service for more than 15 minutes, you will be logged out automatically. 
-
-****Firewalls  
-FirstMerit uses firewalls to protect the integrity of your information and of the transactions you perform. 
-
-Viruses  
-We take precautions against computer viruses by constantly scanning our site for viruses. It is recommended that you use one of the commercially available software applications to do the same with your computer. 
-
-If you would like additional information or have any questions about these Principles, please contact us by calling 1-888-554-4362 or by sending us an e-mail message. 
-
-These FirstMerit Internet Banking Privacy and Security Principles do not constitute a contract and may be revised from time to time. 
-
-Find out more about the [software and hardware requirements](https://web.archive.org/requirements.asp) for viewing our Web site. 
+[Read our Consumer Privacy Notice](https://web.archive.org/Privacy-Security/privacy-notice)
