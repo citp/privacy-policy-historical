@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sobatdrama.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629083436id_/http%3A//sobatdrama.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sobatdrama.net privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230004930id_/http%3A//www.sobatdrama.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sobat Drama
 
@@ -6,7 +6,7 @@
 
 * * *
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at sobatdrama@gmail.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At sobatdrama.net we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by sobatdrama.net and how we use it. 
 
