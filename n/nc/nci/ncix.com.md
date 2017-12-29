@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115444id_/http%3A//www.ncix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229171258id_/https%3A//www.ncix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NCIX
 
@@ -32,7 +32,7 @@ When you communicate with us through our Web site we collect your e-mail address
 
 When you enter contests, participate in surveys, or register for other activities on our Web site we collect your name, e-mail address and telephone number, and the other information that is required for entry or participation, which varies depending on the activity. 
 
-In any of the situations where we do collect your e-mail address related to customer service, orders, and other such correspondence, we will automatically subscribe you to our weekly newsletters. We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by [clicking here](http://newsletter.ncix.com/unsubscribe.html) and unsubscribing to our e-mail subscriptions.
+In any of the situations where we do collect your e-mail address related to customer service, orders, and other such correspondence, we will automatically subscribe you to our weekly newsletters. We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by [clicking here](https://newsletter.ncix.com/unsubscribe.html) and unsubscribing to our e-mail subscriptions.
 
 ## **Is my personal or account information used for any other purpose?**
 
