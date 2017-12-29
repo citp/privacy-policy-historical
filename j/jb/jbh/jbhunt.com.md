@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616110148id_/http%3A//jbhunt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229080923id_/http%3A//www.jbhunt.com/privacy) for the most accurate reproduction.*
 
 # Become a Freight Carrier and Find Loads with J.B. Hunt | J.B. Hunt Transport
 
-##### Last Updated: May 15, 2017
+##### Last Updated: June 30, 2017
 
-At J.B. Hunt Transport, Inc. (“J.B. Hunt,” “we,” “us,” or “our”), we take your privacy seriously, so we want you to know how we collect, use, share and protect your personal information.
+J.B. Hunt Transport Services, Inc. and its subsidiaries and affiliates (“J.B. Hunt,” “we,” “us,” or “our”) take your privacy seriously, so we want you to know how we collect, use, share and protect your personal information.
 
 ### This Privacy Policy tells you:
 
