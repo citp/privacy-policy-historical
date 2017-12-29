@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saregama.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615055345id_/http%3A//www.saregama.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saregama.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229121318id_/http%3A//www.saregama.com/static/privacy_policy) for the most accurate reproduction.*
 
 # Evergreen Hindi Songs, Ghazals & Devotional music from Saregama
 
@@ -22,7 +22,7 @@ Saregama may collect personal information when you register with Saregama, when 
 
 When you register Saregama may ask for information such as your name, email address, birth date, gender, PIN/ZIP code, occupation, industry, and personal interests. For some products and services Saregama might also ask for your address, address proof document, PAN number, and information about your assets. When you register with Saregama and sign in to our services, you are not anonymous to us.
 
-Saregama may use information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, communicate offers, promotion and marketing of Saregama/ our Business Partner's services, conduct research, and provide anonymous reporting for internal and external clients.
+Saregama may use information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, communicate offers, promotion and marketing of Saregama/ our Business Partner's services, conduct research, and provide anonymous reporting for internal and external clients. 
 
 ### Information Sharing and disclosure
 
@@ -58,7 +58,7 @@ Saregama may update this policy. We will notify you about significant changes in
 
 If you have any comments, questions or suggestions, please complete a feedback form or you can contact us at:
 
-**E-mail :** [feedback@saregama.com](mailto:feedback@saregama.com)  
+**E-mail :** [ feedback@saregama.com ](mailto:feedback@saregama.com)  
 Saregama India Limited  
 # 33 Jessore Road  
 Dum Dum  
