@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiimsbhopal.edu.in privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628212334id_/http%3A//aiimsbhopal.edu.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiimsbhopal.edu.in privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229231624id_/http%3A//www.aiimsbhopal.edu.in/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
