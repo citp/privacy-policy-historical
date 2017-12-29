@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the nkataa.com privacy policy that was archived on 2017-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623044252id_/http%3A//www.nkataa.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nkataa.com privacy policy that was archived on 2017-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171229053115id_/http%3A//www.nkataa.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-
 <title>Privacy policy</title>
 <meta name="cmsmagazine" content="895b73496fde88f9b6b78ec628663194">
 
@@ -15,13 +14,17 @@
 
 
 <meta name="keywords" content="Online shopping, Nkataa.com, groceries, supermarket, secured shopping, fast delivery, save money, vegetables, fruits, candies, fresh meat, home items">
-<meta name="mode" content="full">
+<meta name="mode" content="">
 
 
 
-<link href="http://d2mai49497t2vo.cloudfront.net/images/logos/1/favicon_f9pv-xd.png" rel="shortcut icon">
-<link type="text/css" rel="stylesheet" href="http://d2mai49497t2vo.cloudfront.net/var/cache/misc/statics/design/themes/basic/css/standalone.2a474b4a90585fb932e513b809a893b21497888048.css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" defer="" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/goal.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="http://d2mai49497t2vo.cloudfront.net/var/cache/misc/statics/js/tygh/scripts-4d1a5a125ca6733a29b74a1ef9e61c111497888048.js?ver=4.1.2"></script><script type="text/javascript">
+
+
+
+<link href="http://dr35ct9ol6mx2.cloudfront.net/images/logos/1/favicon_f9pv-xd.png?t=1509321191" rel="shortcut icon">
+<link type="text/css" rel="stylesheet" href="http://dr35ct9ol6mx2.cloudfront.net/var/cache/misc/assets/design/themes/basic/css/standalone.afdab0e58917ca4c5cc28cc0ac052d811512997604.css?t=1512997609">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//code.jivosite.com/script/widget/xUNGdHqb83"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://dr35ct9ol6mx2.cloudfront.net/var/cache/misc/assets/js/tygh/scripts-0cb0cc86ee9717d6121dbfd718457e651512997604.js?t=1512997610"></script>
+<script type="text/javascript">
 //<![CDATA[
 (function(_, $) {
 
@@ -60,18 +63,18 @@
             changes_warning: /*'Y'*/'N',
             currencies: {
                 'primary': {
-                    'decimals_separator': '.',
+                    'decimals_separator': '2',
                     'thousands_separator': ',',
-                    'decimals': '2'
+                    'decimals': '0'
                 },
                 'secondary': {
-                    'decimals_separator': '.',
+                    'decimals_separator': '2',
                     'thousands_separator': ',',
-                    'decimals': '2',
+                    'decimals': '0',
                     'coefficient': '1.00000'
                 }
             },
-            default_editor: 'redactor',
+            default_editor: 'ckeditor',
             default_previewer: 'prettyphoto',    
             current_path: '',
             current_location: 'http://www.nkataa.com',
@@ -96,13 +99,6 @@
     
 }(Tygh, Tygh.$));
 //]]>
-</script>
-<script type="text/javascript">    
-    $(document).ready(function(){
-        if ($("meta[name='cmsmagazine']").length == 0) {
-            $("head").append("<meta name='cmsmagazine' content='c625963813fc0db1e0c69a0f7ba350f6' />");
-        }
-    });
 </script>
 <script type="text/javascript">
 //<![CDATA[
@@ -154,8 +150,23 @@
 <script type="text/javascript">
 //<![CDATA[
     Tygh.$(document).ready(function() {
-        Tygh.$.get('http://www.nkataa.com/index.php?dispatch=searchanise.async&no_session=Y');
+        Tygh.$.get('http://www.nkataa.com/index.php?dispatch=searchanise.async&no_session=Y&is_ajax=3');
     });
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+(function(i,s,o,g,r,a,m){
+    i['GoogleAnalyticsObject']=r;
+    i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    a=s.createElement(o), m=s.getElementsByTagName(o)[0];
+    a.async=1;
+    a.src=g;
+    m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-52767191-1', 'auto');
+ga('send', 'pageview', '/privacy-policy.html');
 //]]>
 </script>
 <script type="text/javascript">
@@ -165,6 +176,22 @@ CloudZoom = {
 };
 //]]>
 </script>
+<script type="text/javascript">
+    function fn_show_instant_offer(notification_abandoned_cart_content, alert_text, current_location) {
+        var cp_instant_shown = $.cookie.get('cp_instant_shown');
+        if (cp_instant_shown == null) {
+            $('body').append('<div class="ui-widget-overlay" id="notification_overlay_abandoned_cart"></div>');
+            $('body').append('<div class="notification-content" id="notification_abandoned_cart"></div>');
+            $('#notification_abandoned_cart').html(notification_abandoned_cart_content);
+            $.processForms($('#notification_abandoned_cart'));
+            $('#notification_abandoned_cart').show();
+            $.cookie.set('cp_instant_shown');      
+        }
+    }
+</script>
+
+
+<!-- Inline scripts -->
 
 
 </head>
@@ -180,112 +207,10 @@ CloudZoom = {
 </div>
 
 <div class="helper-container" id="tygh_main_container">
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5605d90e4abd5d21" async="async"></script>
-            <div class="tygh-top-panel clearfix">
-        <div class="container-fluid  ">
-                    
-
-
-<div class="row-fluid  row-grid-fluid">    <div class="span16 ">
-                                    
-
-
-<div class="row-fluid  row-grid-fluid">    <div class="span11 top-links-grid">
-                    <div class=" float-right">
-        <div class="wysiwyg-content"><ul id="main-navi">
- <li><span><img src="./design/themes/basic/media/images/4.png" style="margin-right:3px;"></span>Delivery Around Abuja From N200</li>
-<li><span><img src="./design/themes/basic/media/images/3.png" style="margin-right:3px;"></span>Security Guaranteed!</li>
-<li><span><img src="./design/themes/basic/media/images/2.png" style="margin-right:3px;"></span>Pay on Delivery</li>
-<li><span><img src="./design/themes/basic/media/images/1.png" style="margin-right:3px;"></span>1-2 Hours Delivery</li>
-</ul></div>
-    </div>
-            </div>
-                
-
-
-    <div class="span5 top-links-grid">
-                    <div class="dropdown-box  top-my-account float-right">
-        <div id="sw_dropdown_418" class="popup-title cm-combination unlogged">
-            
-                                <i class="icon-user"></i><a href="http://www.nkataa.com/profiles-update">My Account</a><i class="icon-down-micro"></i>
-
-                        
-
-        </div>
-        <div id="dropdown_418" class="cm-popup-box popup-content hidden">
-            
-
-<div id="account_info_418">
-        <ul class="account-info">
-    
-                <li><a href="http://www.nkataa.com/index.php?dispatch=orders.search" rel="nofollow" class="underlined">Orders</a></li>
-                <li><a href="http://www.nkataa.com/index.php?dispatch=product_features.compare" rel="nofollow" class="underlined">Compare list</a></li>
-    
-<li><a href="http://www.nkataa.com/wishlist" rel="nofollow">Wish list</a></li>
-
-        </ul>
-
-    <div class="buttons-container">
-                    <a href="http://www.nkataa.com/login?return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D3" data-ca-target-id="login_block418" class="cm-dialog-opener cm-dialog-auto-size account" rel="nofollow">Sign in</a> | <a href="http://www.nkataa.com/profiles-add" rel="nofollow" class="account">Register</a>
-                            <div id="login_block418" class="hidden" title="Sign in">
-                    <div class="login-popup">
-                        
-
-    <form name="popup418_form" action="http://www.nkataa.com/" method="post">
-<input type="hidden" name="return_url" value="index.php?dispatch=pages.view&amp;page_id=3">
-<input type="hidden" name="redirect_url" value="index.php?dispatch=pages.view&amp;page_id=3">
-
-            <div class="control-group">
-                <label for="login_popup418" class="cm-required cm-trim cm-email">Email</label>
-                <input type="text" id="login_popup418" name="user_login" size="30" value="" class="input-text">
-            </div>
-
-            <div class="control-group password">
-                <label for="psw_popup418" class="forgot-password-label cm-required">Password</label><a href="http://www.nkataa.com/index.php?dispatch=auth.recover_password" class="forgot-password" tabindex="5">Forgot your password?</a>
-                <input type="password" id="psw_popup418" name="password" size="30" value="" class="input-text" maxlength="32">
-            </div>
-
-            
-
-    
-                    <div class="buttons-container">
-                    <div class="body-bc clearfix">
-                <div class="float-right">
-                        
- 
-    <span class="button-submit button-wrap-left"><span class="button-submit button-wrap-right"><input type="submit" name="dispatch[auth.login]" value="Sign in"></span></span>
-
-
-
-
-                </div>
-                <div class="remember-me-chekbox">
-                    <label for="remember_me_popup418" class="valign"><input class="valign checkbox" type="checkbox" name="remember_me" id="remember_me_popup418" value="Y">Remember me</label>
-                </div>
-            </div>
-                    </div>
-            
-
-
-</form>
-
-
-                    </div>
-                </div>
-                        </div>
-<!--account_info_418--></div>
-
-        </div>
-    </div>
-            </div>
-</div>
-            </div>
-</div>
-</div>
-    </div>
-
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5605d90e4abd5d21" async="async"></script><div id="pages" class="view page3">
+        
     <div class="tygh-header clearfix">
-        <div class="container-fluid  ">
+        <div class="container-fluid  header-block">
                     
 
 
@@ -293,7 +218,7 @@ CloudZoom = {
                     <div class=" top-logo">
         <div class="logo-container">
     <a href="http://www.nkataa.com/" title="Nkataa.com - Bringing The Supermarket To Your Home">
-        <img src="http://d2mai49497t2vo.cloudfront.net/images/logos/1/logo_homee2_new.png" style="width:143px; height:68px;" alt="Nkataa.com - Bringing The Supermarket To Your Home" class="logo">
+        <img src="http://dr35ct9ol6mx2.cloudfront.net/images/logos/1/Christmas-logo-4.gif?t=1512083155" style="width:331px; height:70px;" alt="Nkataa.com - Bringing The Supermarket To Your Home" class="logo">
     </a>
 </div>
     </div>
@@ -301,11 +226,7 @@ CloudZoom = {
                 
 
 
-    <div class="span13 search_cart">
-                                    
-
-
-<div class="row-fluid  row-grid-fluid">    <div class="span7 search-block-grid searchmain">
+    <div class="span5 search-block-grid">
                     <div class=" top-search">
         <div class="search-block">
 <form action="http://www.nkataa.com/" name="search_form" method="get">
@@ -331,11 +252,11 @@ CloudZoom = {
                 
 
 
-    <div class="span9 cart-content-grid">
+    <div class="span8 mycart-content">
                     <div class=" top-cart-content unlogged float-right">
         
-<div class="dropdown-box" id="cart_status_423">
-    <a href="http://www.nkataa.com/cart" id="sw_dropdown_423" class="popup-title cm-combination">
+<div class="dropdown-box" id="cart_status_1032">
+    <a href="http://www.nkataa.com/cart.html" id="sw_dropdown_1032" class="popup-title cm-combination">
         
                             <i class="icon-basket empty"></i>
                 <span class="minicart-title empty-cart hand">My Basket<i class="icon-down-micro"></i></span>
@@ -343,7 +264,7 @@ CloudZoom = {
         
 
     </a>
-    <div id="dropdown_423" class="cm-popup-box popup-content hidden">
+    <div id="dropdown_1032" class="cm-popup-box popup-content hidden">
         
             <div class="cm-cart-content cm-cart-content-thumb ">
                     <div class="cart-items">
@@ -352,10 +273,10 @@ CloudZoom = {
 
                                         <div class="cm-cart-buttons buttons-container hidden">
                         <div class="view-cart-button">
-                            <span class="button button-wrap-left"><span class="button button-wrap-right"><a href="http://www.nkataa.com/cart" rel="nofollow" class="view-cart">View cart</a></span></span>
+                            <span class="button button-wrap-left"><span class="button button-wrap-right"><a href="http://www.nkataa.com/cart.html" rel="nofollow" class="view-cart">View cart</a></span></span>
                         </div>
                                                 <div class="float-right">
-                            <span class="button-action button-wrap-left"><span class="button-action button-wrap-right"><a href="http://www.nkataa.com/checkout" rel="nofollow">Checkout</a></span></span>
+                            <span class="button-action button-wrap-left"><span class="button-action button-wrap-right"><a href="http://www.nkataa.com/checkout.html" rel="nofollow">Checkout</a></span></span>
                         </div>
                                             </div>
                     
@@ -363,23 +284,53 @@ CloudZoom = {
         
 
     </div>
-<!--cart_status_423--></div>
+<!--cart_status_1032--></div>
 
 
 
+    </div><div class="dropdown-box  top-my-account float-right">
+        <div id="sw_dropdown_1027" class="popup-title cm-combination unlogged">
+            
+                                <i class="icon-user"></i><a href="http://www.nkataa.com/profiles-update.html">My Account</a><i class="icon-down-micro"></i>
+
+                        
+
+        </div>
+        <div id="dropdown_1027" class="cm-popup-box popup-content hidden">
+            
+
+<div id="account_info_1027">
+        <ul class="account-info">
+    
+                <li><a href="http://www.nkataa.com/index.php?dispatch=orders.search" rel="nofollow" class="underlined">Orders</a></li>
+            
+<li><a href="http://www.nkataa.com/wishlist.html" rel="nofollow">Wish list</a></li>
+
+        </ul>
+
+    
+    <div class="buttons-container">
+                    <a href="http://www.nkataa.com/login.html?return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D3" class="account" rel="nofollow">Sign in</a> | <a href="http://www.nkataa.com/profiles-add.html" rel="nofollow" class="account">Register</a>
+                        </div>
+<!--account_info_1027--></div>
+
+        </div>
+    </div><div class=" float-right">
+        <div class="wysiwyg-content"><div class="registerbtn">
+     <a href="/profiles-add.html">Register</a>
+</div></div>
     </div>
             </div>
-</div>
+</div>                
+
+
+<div class="row-fluid  row-grid-fluid">    <div class="span13 search_cart">
             </div>
 </div>                
 
 
-<div class="row-fluid  row-grid-fluid">    <div class="span16 top-menu-grid">
-            </div>
-</div>                
-
-
-<div class="row-fluid  row-grid-full">    <div class="span16 full-width-grid">
+<div class="row-fluid  row-grid-fluid">    <div class="span16 ">
+                    <div class="row-fluid  row-grid-fluid">    <div class="span16 ">
                     <div class=" top-menu">
         <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="http://www.nkataa.com/design/themes/basic/css/addons/mega_menu_pro/supermenuie7.css"/>
@@ -391,16 +342,31 @@ CloudZoom = {
 <div id="supermenu">
     <ul>
      
-                                <li class="tlli  first_menu "><a class="tll">Shop by CATEGORIES  <i class="icon-down-micro"></i>  </a>
+                                <li class="tlli  first_menu "><a class="tll">Shop by CATEGORY  <i class="icon-down-micro"></i>  </a>
 
                         <div class="bigdiv">
             <div class="supermenu-left" style="width: 100%">                                	
                 	<ul class="supermenu-items">
                     	                                                                                                    <li class="firstchild">
-                            <a class="theparent" href="/babies/">Baby</a>
+                            <a class="theparent" href="/baby/">Baby</a>
                             <div class="withchild">                                
                                 <ul class="child-level">
+                                                                                                            	<li><a href="http://www.nkataa.com/baby/baby-accessories/">Baby Accessories</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/baby/baby-bundles/">Baby Bundles</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/baby/baby-drugs/">Baby Drugs</a>
+                                                                                </li>
                                                                                                             	<li><a href="http://www.nkataa.com/baby/baby-food/">Baby Food</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/baby/baby-mama/">Baby Mama</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/baby/baby-skincare/">Baby Skincare</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/baby/baby-skincare/baby-powder/">Baby Powder</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
                                                                                 </li>
                                                                                                             	<li><a href="http://www.nkataa.com/baby/diapering/">Diapering</a>
                                                                                 	<div class="withsubchild">                                
@@ -409,112 +375,157 @@ CloudZoom = {
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/baby/baby-skincare/">Baby Skincare </a>
+                                                                                                        </ul>
+                            </div>
+                                                            <div class="menu-add image_menu">
+                                	<p>Product Banner</p>
+                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_1395267406" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_baby.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
+                                </div>
+                                                        </li>
+                                                                                                                            <li class="firstchild">
+                            <a class="theparent" href="/bulk-purchase/">Bulk Purchase</a>
+                            <div class="withchild">                                
+                                <ul class="child-level">
+                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/frozen-meat-and-poultry/"> Frozen Meat &amp; Poultry</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/baby/">Baby</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/bar-soap-shower-gel/">Bar Soap/Shower Gel</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/contraceptives/">Contraceptives</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/cooking-ingredients/">Cooking Ingredients</a>
                                                                                 	<div class="withsubchild">                                
                                 				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/baby/baby-skincare/baby-powder/">Baby Powder</a></li>
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/cooking-ingredients/herbs-spices-and-salt/">Herbs, Spices &amp; Salt</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/cooking-ingredients/oil/">Oil</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/cooking-ingredients/tinned-tomatoes-and-puree/">Tinned Tomatoes &amp; Puree</a></li>
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/baby/baby-mama/">Baby Mama</a>
+                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/drinks/">Drinks</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks/beer/">Beer</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks/champagne/">Champagne</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks/cider/">Cider</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks/soft-drinks/">Soft Drinks</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks/spirit/">Spirit</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks/water-and-juice/">Water &amp; Juice</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks/wine/">Wine</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/baby/baby-bundles/">Baby Bundles</a>
+                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard/">Food cupboard</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard/baking/">Baking</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard/biscuit/">Biscuit</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard/chocolate/">Chocolate</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard/condiments-and-table-sauces/">Condiments &amp; Table Sauces</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard/crisps-and-snacks/">Crisps &amp; Snacks</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard/custard-cakes/">Custard/Cakes</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard/jam-sweet-spreads/">Jam/Sweet Spreads</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard/milk/">Milk</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard/oat-and-cereal/">Oat and Cereal</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard/sweeteners-syrup/">Sweeteners/Syrup</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard/tea/">Tea</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard/tinned-fish-and-seafood-meat/">Tinned Fish &amp; Seafood/Meat</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/baby/baby-accessories/">Baby Accessories</a>
+                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/food-items/">Food Items</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-items/rice/">Rice</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/baby/baby-drugs/">Baby Drugs </a>
+                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/frozen-fish-and-seafood/">Frozen Fish &amp; Seafood</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/hand-wash/">Hand Wash</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/laundry/">Laundry</a>
+                                                                                </li>
+                                                                                                                <li class="alt-link"><a href="/bulk-purchase/">View more <i class="text-arrow">→</i></a></li>
+                                                                    </ul>
+                            </div>
+                                                            <div class="menu-add image_menu">
+                                	<p>Product Banner</p>
+                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_1010668464" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_bulk.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
+                                </div>
+                                                        </li>
+                                                                                                                            <li class="firstchild">
+                            <a class="theparent" href="/drinks/">Drinks</a>
+                            <div class="withchild">                                
+                                <ul class="child-level">
+                                                                                                            	<li><a href="http://www.nkataa.com/drinks/alcoholic-drinks/">Alcoholic Drinks</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/drinks/alcoholic-drinks/beer/">Beer </a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/drinks/alcoholic-drinks/wine-spirit-and-champagne/">Wine, Spirit &amp; Champagne</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/drinks/food-drinks/">Food Drinks</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/drinks/non-alcoholic-drinks/">Non-Alcoholic Drinks</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/drinks/non-alcoholic-drinks/flavoured-drinks/">Flavoured Drinks</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/drinks/non-alcoholic-drinks/juice/">Juice</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/drinks/non-alcoholic-drinks/soft-drinks/">Soft Drinks</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/drinks/tea-coffee-and-hot-chocolate/">Tea, Coffee &amp; Hot Chocolate</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/drinks/tea-coffee-and-hot-chocolate/coffee/">Coffee</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/drinks/tea-coffee-and-hot-chocolate/hot-chocolate/">Hot Chocolate</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/drinks/tea-coffee-and-hot-chocolate/tea/">Tea</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/drinks/water/">Water</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/drinks/water/bottled-water/">Bottled Water</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
                                                                                 </li>
                                                                                                         </ul>
                             </div>
                                                             <div class="menu-add image_menu">
                                 	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_1608312767" src="http://d2mai49497t2vo.cloudfront.net/images/promo/7/baby_fl.jpg" width="170" height="240" alt="" title=""></a>
+                                    <a href="http://nkataa.com/caroline/drinks-and-beverages/wine-liquor-and-champagne/"><img class="   pict" id="det_img_1941547423" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_drinks.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
                                 </div>
                                                         </li>
                                                                                                                             <li class="firstchild">
-                            <a class="theparent" href="/fresh/">Fresh</a>
+                            <a class="theparent" href="/food-cupboard/">Food Cupboard</a>
                             <div class="withchild">                                
                                 <ul class="child-level">
-                                                                                                            	<li><a href="http://www.nkataa.com/fresh/fruits/">Fruits</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/fresh/vegetables/">Vegetables</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/fresh/breads/">Breads</a>
+                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/biscuits-chocolate-and-crisps/">Biscuits, Chocolate &amp; Crisps</a>
                                                                                 	<div class="withsubchild">                                
                                 				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/fresh/breads/whole-grain-wheat-and-flat-bread/">Whole Grain, Wheat &amp; Flat Bread</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/fresh/breads/garlic-bread-and-burger-bread/">Garlic Bread &amp; Burger Bread</a></li>
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/biscuits-chocolate-and-crisps/biscuits/">Biscuits</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/biscuits-chocolate-and-crisps/chocolate/">Chocolate</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/biscuits-chocolate-and-crisps/crisps-and-snacks/">Crisps &amp; Snacks</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/biscuits-chocolate-and-crisps/fitness-snacks/">Fitness Snacks</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/biscuits-chocolate-and-crisps/sweets-and-gums/">Sweets &amp; Gums</a></li>
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/fresh/fresh-meats-and-poultry/">Fresh Meats &amp; poultry</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/fresh/fresh-fish/">Fresh Fish</a>
-                                                                                </li>
-                                                                                                        </ul>
-                            </div>
-                                                            <div class="menu-add image_menu">
-                                	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_1825429279" src="http://d2mai49497t2vo.cloudfront.net/images/promo/10/fresh_fl.jpg" width="213" height="300" alt="" title=""></a>
-                                </div>
-                                                        </li>
-                                                                                                                            <li class="firstchild">
-                            <a class="theparent" href="/naija-food-section/">Naija Food Ingredients</a>
-                            <div class="withchild">                                
-                                <ul class="child-level">
-                                                                                                            	<li><a href="/naija-food-section/">Soup Ingredients</a>
-                                                                                </li>
-                                                                                                        </ul>
-                            </div>
-                                                        </li>
-                                                                                                                            <li class="firstchild">
-                            <a class="theparent" href="http://www.nkataa.com/food-cupboard/">Food cupboard</a>
-                            <div class="withchild">                                
-                                <ul class="child-level">
                                                                                                             	<li><a href="http://www.nkataa.com/food-cupboard/breakfast-cereals/">Breakfast Cereals</a>
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/healthy-food/">Healthy Food</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/healthy-food/superfoods/">Superfoods</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/healthy-food/healthy-snacks/">Healthy Snacks</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
+                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/breakfast-combo/">Breakfast Combo</a>
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/tins-cans-sachets/">Tins, Cans &amp; Sachets</a>
+                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/cereals-desserts-and-sweetners/">Cereals, Desserts and Sweetners</a>
                                                                                 	<div class="withsubchild">                                
                                 				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/tins-cans-sachets/baked-beans/">Baked Beans</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/tins-cans-sachets/tinned-fish-and-seafood/">Tinned Fish &amp; Seafood</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/tins-cans-sachets/tinned-meat/">Tinned Meat</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/tins-cans-sachets/tinned-tomatoes-and-puree/">Tinned Tomatoes &amp; Puree</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/tins-cans-sachets/tinned-vegetables/">Tinned Vegetables</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/tins-cans-sachets/nuts-and-seeds/">Nuts &amp; Seeds</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/tins-cans-sachets/packaged-meals-and-side-dishes/">Packaged Meals &amp; Side Dishes</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/tins-cans-sachets/dried-fruit/">Dried Fruit</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/dairy/">Dairy</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/dairy/eggs/">Eggs</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/dairy/milk/">Milk</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/dairy/yoghurt/">Yoghurt</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/dairy/cheese/">Cheese</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/dairy/butter-and-margarine/">Butter and Margarine</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/dairy/cream/">Cream</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/grains-meals-and-pasta/">Grains, Meals &amp; Pasta</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/grains-meals-and-pasta/rice-and-noodles/">Rice &amp; Noodles</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/grains-meals-and-pasta/spaghetti-pasta-and-maccaroni/">Spaghetti, Pasta &amp; Maccaroni</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/grains-meals-and-pasta/tubers/">Tubers</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/grains-meals-and-pasta/beans/">Beans</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/grains-meals-and-pasta/wheat-and-grains/">Wheat &amp; Grains</a></li>
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/cereals-desserts-and-sweetners/desserts/">Desserts</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/cereals-desserts-and-sweetners/oats-and-cereals/">Oats &amp; Cereals</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/cereals-desserts-and-sweetners/sugar-and-sweeteners/">Sugar &amp; Sweeteners</a></li>
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
@@ -522,20 +533,9 @@ CloudZoom = {
                                                                                 	<div class="withsubchild">                                
                                 				<ul class="child-level">
                                                 	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/condiments-and-table-sauces/ketchup-mustard-and-mayonnaise/">Ketchup, Mustard &amp; Mayonnaise</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/condiments-and-table-sauces/vinegar/">Vinegar</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/condiments-and-table-sauces/salad-dressings/">Salad Dressings </a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/condiments-and-table-sauces/salad-dressings/">Salad Dressings</a></li>
                                                                                                         	                                                        <li><a href="http://www.nkataa.com/food-cupboard/condiments-and-table-sauces/table-sauces/">Table Sauces</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/biscuits-chocolate-and-crisps/">Biscuits, Chocolate &amp; Crisps</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/biscuits-chocolate-and-crisps/biscuits/">Biscuits</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/biscuits-chocolate-and-crisps/chocolate/">Chocolate</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/biscuits-chocolate-and-crisps/crisps-and-snacks/">Crisps &amp; Snacks</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/biscuits-chocolate-and-crisps/sweets-and-gums/">Sweets &amp; Gums</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/biscuits-chocolate-and-crisps/fitness-snacks/">Fitness Snacks</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/condiments-and-table-sauces/vinegar/">Vinegar</a></li>
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
@@ -549,45 +549,88 @@ CloudZoom = {
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/cereals-desserts-and-sweetners/">Cereals, Desserts and Sweetners</a>
+                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/dairy/">Dairy</a>
                                                                                 	<div class="withsubchild">                                
                                 				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/cereals-desserts-and-sweetners/oats-and-cereals/">Oats &amp; Cereals</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/cereals-desserts-and-sweetners/sugar-and-sweeteners/">Sugar &amp; Sweeteners</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/cereals-desserts-and-sweetners/desserts/">Desserts</a></li>
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/dairy/butter-and-margarine/">Butter and Margarine</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/dairy/cheese/">Cheese</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/dairy/cream/">Cream</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/dairy/eggs/">Eggs</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/dairy/milk/">Milk</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/dairy/yoghurt/">Yoghurt</a></li>
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/swallow/">Swallow</a>
+                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/deal-of-the-day/">Deal Of The Day</a>
                                                                                 	<div class="withsubchild">                                
                                 				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/swallow/semo-and-poundo-flour/">Semo &amp; Poundo Flour</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/swallow/wheat-and-plantain-flour/">Wheat &amp; Plantain Flour</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/swallow/cassava-flour/">Cassava Flour</a></li>
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/deal-of-the-day/bundles/">Bundles</a></li>
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/jams-sweet-and-savoury-spreads/">Jams, Sweet &amp; Savoury Spreads</a>
+                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/grains-meals-and-pasta/">Grains, Meals &amp; Pasta</a>
                                                                                 	<div class="withsubchild">                                
                                 				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/jams-sweet-and-savoury-spreads/jam-and-sweet-spreads/">Jam &amp; Sweet Spreads</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/jams-sweet-and-savoury-spreads/butter-and-cheese/">Butter &amp; Cheese</a></li>
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/grains-meals-and-pasta/beans/">Beans</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/grains-meals-and-pasta/rice-and-noodles/">Rice &amp; Noodles</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/grains-meals-and-pasta/spaghetti-pasta-and-maccaroni/">Spaghetti, Pasta &amp; Maccaroni</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/grains-meals-and-pasta/tubers/">Tubers</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/grains-meals-and-pasta/wheat-and-grains/">Wheat &amp; Grains</a></li>
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
-                                                                                                                <li class="alt-link"><a href="http://www.nkataa.com/food-cupboard/">View more <i class="text-arrow">→</i></a></li>
+                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/healthy-food/">Healthy Food</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/food-cupboard/healthy-food/healthy-snacks/">Healthy Snacks</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/food-cupboard/healthy-food/superfoods/">Superfoods</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/food-cupboard/home-baking/">Home Baking</a>
+                                                                                </li>
+                                                                                                                <li class="alt-link"><a href="/food-cupboard/">View more <i class="text-arrow">→</i></a></li>
                                                                     </ul>
                             </div>
                                                             <div class="menu-add image_menu">
                                 	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_461493924" src="http://d2mai49497t2vo.cloudfront.net/images/promo/7/food_fl.jpg" width="213" height="300" alt="" title=""></a>
+                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_633073643" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_food.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
+                                </div>
+                                                        </li>
+                                                                                                                            <li class="firstchild">
+                            <a class="theparent" href="/fresh/">Fresh</a>
+                            <div class="withchild">                                
+                                <ul class="child-level">
+                                                                                                            	<li><a href="http://www.nkataa.com/fresh/fruits/">Fruits</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/fresh/vegetables/">Vegetables</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/fresh/breads/">Breads</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/fresh/breads/garlic-bread-and-burger-bread/">Garlic Bread &amp; Burger Bread</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/fresh/breads/whole-grain-wheat-and-flat-bread/">Whole Grain, Wheat &amp; Flat Bread</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/fresh/fresh-meats-and-poultry/">Fresh Meats &amp; poultry</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/fresh/fresh-fish/">Fresh Fish</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/fresh/tubers/">Tubers</a>
+                                                                                </li>
+                                                                                                        </ul>
+                            </div>
+                                                            <div class="menu-add image_menu">
+                                	<p>Product Banner</p>
+                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_817603537" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_fresh.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
                                 </div>
                                                         </li>
                                                                                                                             <li class="firstchild">
                             <a class="theparent" href="/frozen-products/">Frozen Products</a>
                             <div class="withchild">                                
                                 <ul class="child-level">
-                                                                                                            	<li><a href="http://www.nkataa.com/frozen-products/frozen-meat-and-poultry/">Frozen Meat &amp; Poultry </a>
+                                                                                                            	<li><a href="http://www.nkataa.com/frozen-products/frozen-meat-and-poultry/">Frozen Meat &amp; Poultry</a>
                                                                                 </li>
                                                                                                             	<li><a href="http://www.nkataa.com/frozen-products/frozen-fish-and-seafood/">Frozen Fish &amp; Seafood</a>
                                                                                 </li>
@@ -599,7 +642,7 @@ CloudZoom = {
                                                                                 </li>
                                                                                                             	<li><a href="http://www.nkataa.com/frozen-products/frozen-chips-potatoes-and-onion-rings/">Frozen Chips, Potatoes &amp; Onion rings</a>
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/frozen-products/frozen-vegetables/">Frozen Vegetables and Fruit</a>
+                                                                                                            	<li><a href="http://www.nkataa.com/frozen-products/frozen-vegetables-and-fruit/">Frozen Vegetables and Fruit</a>
                                                                                 </li>
                                                                                                             	<li><a href="http://www.nkataa.com/frozen-products/frozen-soups-and-stews/">Frozen Soups And Stews</a>
                                                                                 </li>
@@ -607,75 +650,59 @@ CloudZoom = {
                             </div>
                                                             <div class="menu-add image_menu">
                                 	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_1572070664" src="http://d2mai49497t2vo.cloudfront.net/images/promo/7/frozen_fl.jpg" width="213" height="300" alt="" title=""></a>
-                                </div>
-                                                        </li>
-                                                                                                                            <li class="firstchild">
-                            <a class="theparent" href="/drinks/">Drinks</a>
-                            <div class="withchild">                                
-                                <ul class="child-level">
-                                                                                                            	<li><a href="http://www.nkataa.com/drinks/tea-coffee-and-hot-chocolate/">Tea, Coffee &amp; Hot Chocolate</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/drinks/tea-coffee-and-hot-chocolate/tea/">Tea</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/drinks/tea-coffee-and-hot-chocolate/coffee/">Coffee</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/drinks/tea-coffee-and-hot-chocolate/hot-chocolate/">Hot Chocolate</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/drinks/water/">Water</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/drinks/water/bottled-water/">Bottled Water</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/drinks/alcoholic-drinks/">Alcoholic Drinks</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/drinks/alcoholic-drinks/wine-spirit-and-champagne/">Wine, Spirit &amp; Champagne</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/drinks/alcoholic-drinks/beer/">Beer </a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/drinks/non-alcoholic-drinks/">Non-Alcoholic Drinks</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/drinks/non-alcoholic-drinks/juice/">Juice</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/drinks/non-alcoholic-drinks/soft-drinks/">Soft Drinks</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/drinks/non-alcoholic-drinks/flavoured-drinks/">Flavoured Drinks</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
-                                                                                </li>
-                                                                                                        </ul>
-                            </div>
-                                                            <div class="menu-add image_menu">
-                                	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_504689937" src="http://d2mai49497t2vo.cloudfront.net/images/promo/7/drink_fl.jpg" width="213" height="300" alt="" title=""></a>
+                                    <a href="http://nkataa.com/caroline/frozen-products/seafood/"><img class="   pict" id="det_img_1253984352" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_seafood.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
                                 </div>
                                                         </li>
                                                                                                                             <li class="firstchild">
                             <a class="theparent" href="/health-and-beauty/">Health &amp; Beauty</a>
                             <div class="withchild">                                
                                 <ul class="child-level">
-                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/skin-care/">Skin Care</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/skin-care/shower-gel/">Shower Gel</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/skin-care/bar-soap/">Bar Soap</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/skin-care/handwash/">Handwash</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/skin-care/facial-care/">Facial Care</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/skin-care/oils-lotions-moisturizers-and-jelly/">Oils, Lotions, Moisturizers and Jelly</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
+                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/accessories/">Accessories</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/cotton-wools-and-buds/">Cotton Wools and Buds</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/facial-care/">Facial Care</a>
                                                                                 </li>
                                                                                                             	<li><a href="http://www.nkataa.com/health-and-beauty/female/">Female</a>
                                                                                 	<div class="withsubchild">                                
                                 				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/female/toiletries/">Toiletries</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/female/feminine-care/">Feminine care </a></li>
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/female/deodorants-and-body-spray/">Deodorants and Body Spray</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/female/feminine-care/">Feminine care</a></li>
                                                                                                         	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/female/make-up/">Make-up</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/female/deodorants-and-body-spray/">Deodorants and Body Spray</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/female/toiletries/">Toiletries</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/hair-care/">Hair Care</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/hair-care/natural-hair-products/">Natural Hair Products</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/hair-care/shampoos-conditioners-and-oils/">Shampoos, Conditioners &amp; Oils</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/health-care/">Health Care</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/antihistamines-and-antibiotics/">Antihistamines &amp; Antibiotics</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/cough-and-cold/">Cough &amp; Cold</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/first-aid/">First Aid</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/gastro-intestinal-track/">Gastro-Intestinal Track</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/medicals-and-diagonostics/">Medicals &amp; Diagonostics</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/pain-relief/">Pain Relief</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/sexual-health/">Sexual Health</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/vitamins-and-supplements/">Vitamins &amp; Supplements</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/makeup/">Makeup</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/makeup/accessories/">Accessories</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/makeup/eyes/">Eyes</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/makeup/face/">Face</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/makeup/lips/">Lips</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/makeup/nails/">Nails</a></li>
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
@@ -686,152 +713,62 @@ CloudZoom = {
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/nail-care/">Nail Care</a>
+                                                                                </li>
                                                                                                             	<li><a href="http://www.nkataa.com/health-and-beauty/oral-care/">Oral Care</a>
                                                                                 	<div class="withsubchild">                                
                                 				<ul class="child-level">
                                                 	                                                    	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/oral-care/mouthwash/">Mouthwash</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/oral-care/toothbrush/">Toothbrush</a></li>
                                                                                                         	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/oral-care/toothpaste/">Toothpaste</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/oral-care/toothbrush/">Toothbrush </a></li>
                                                                                                     </ul>
                                             </div>                                         	
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/hair-care/">Hair Care</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/hair-care/shampoos-conditioners-and-oils/">Shampoos, Conditioners &amp; Oils </a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/hair-care/natural-hair-products/">Natural Hair Products</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/the-body-shop/">The Body Shop</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/health-care/">Health Care</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/cough-and-cold/">Cough &amp; Cold</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/first-aid/">First Aid</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/medicals-and-diagonostics/">Medicals &amp; Diagonostics</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/pain-relief/">Pain Relief</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/vitamins-and-supplements/">Vitamins &amp; Supplements</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/gastro-intestinal-track/">Gastro-Intestinal Track</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/sexual-health/">Sexual Health</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/health-care/antihistamines-and-antibiotics/">Antihistamines &amp; Antibiotics</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/nail-care/">Nail Care</a>
                                                                                 </li>
                                                                                                             	<li><a href="http://www.nkataa.com/health-and-beauty/perfumes/">Perfumes</a>
                                                                                 	<div class="withsubchild">                                
                                 				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/perfumes/for-him/">For Him</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/perfumes/for-her/">For Her</a></li>
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/perfumes/for-her/">For Her</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/health-and-beauty/perfumes/for-him/">For Him</a></li>
                                                                                                     </ul>
                                             </div>                                         	
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/sebamed-products/">Sebamed Products</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/shaving-and-hair-removal/">Shaving &amp; Hair Removal</a>
                                                                                 </li>
                                                                                                                 <li class="alt-link"><a href="/health-and-beauty/">View more <i class="text-arrow">→</i></a></li>
                                                                     </ul>
                             </div>
                                                             <div class="menu-add image_menu">
                                 	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_111633543" src="http://d2mai49497t2vo.cloudfront.net/images/promo/10/HB_fl.jpg" width="213" height="300" alt="" title=""></a>
+                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_291504041" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_beauty.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
                                 </div>
                                                         </li>
                                                                                                                             <li class="firstchild">
-                            <a class="theparent" href="/bulk-purchase/">Bulk Purchase</a>
+                            <a class="theparent" href="http://www.nkataa.com/household/">Household</a>
                             <div class="withchild">                                
                                 <ul class="child-level">
-                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/food-items/">Food Items</a>
+                                                                                                            	<li><a href="http://www.nkataa.com/household/air-fresheners-and-home-fragrances/">Air Fresheners &amp; Home Fragrances</a>
                                                                                 	<div class="withsubchild">                                
                                 				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-items/rice/">Rice</a></li>
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/household/air-fresheners-and-home-fragrances/air-freshener/">Air freshener</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/household/air-fresheners-and-home-fragrances/scented-candles-and-diffusers/">Scented Candles &amp; Diffusers</a></li>
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/drinks-en/">Drinks</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks-en/water-and-juice/">Water &amp; Juice</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks-en/beer-en/">Beer </a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks-en/cider/">Cider</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks-en/soft-drinks-en/">Soft Drinks</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks-en/wine/">Wine</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks-en/champagne/">Champagne</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks-en/spirit/">Spirit</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/drinks-en/cream-liqueur/">Cream Liqueur</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/pets/">Pets</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/laundry/">Laundry</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/baby-en/">Baby</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/toothpaste-mouth-wash/">Toothpaste/Mouth Wash</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/hand-wash/">Hand Wash</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/bar-soap-shower-gel/">Bar Soap/Shower Gel</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/contraceptives/">Contraceptives </a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard-en/">Food cupboard</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard-en/custard-cakes/">Custard/Cakes</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard-en/biscuit/">Biscuit</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard-en/chocolate-en/">Chocolate </a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard-en/oat-and-cereal/">Oat and Cereal</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard-en/baking/">Baking</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard-en/sweeteners-syrup/">Sweeteners/Syrup</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard-en/tea-en/">Tea</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard-en/milk-en/">Milk</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard-en/jam-sweet-spreads/">Jam/Sweet Spreads</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard-en/condiments-and-table-sauces-en/">Condiments &amp; Table Sauces</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard-en/tinned-fish-and-seafood-meat/">Tinned Fish &amp; Seafood/Meat</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/food-cupboard-en/crisps-and-snacks-en/">Crisps &amp; Snacks</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/bulk-purchase/cooking-ingredients-en/">Cooking Ingredients</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/cooking-ingredients-en/herbs-spices-and-salt-en/">Herbs, Spices &amp; Salt </a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/cooking-ingredients-en/oil/">Oil</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/bulk-purchase/cooking-ingredients-en/tinned-tomatoes-and-puree-en/">Tinned Tomatoes &amp; Puree</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
-                                                                                </li>
-                                                                                                                <li class="alt-link"><a href="/bulk-purchase/">View more <i class="text-arrow">→</i></a></li>
-                                                                    </ul>
-                            </div>
-                                                            <div class="menu-add image_menu">
-                                	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/bulk-purchase/"><img class="   pict" id="det_img_801604566" src="http://d2mai49497t2vo.cloudfront.net/images/promo/7/bulk_fl.jpg" width="213" height="300" alt="" title=""></a>
-                                </div>
-                                                        </li>
-                                                                                                                            <li class="firstchild">
-                            <a class="theparent" href="/household/">Household</a>
-                            <div class="withchild">                                
-                                <ul class="child-level">
                                                                                                             	<li><a href="http://www.nkataa.com/household/bedroom-essentials/">Bedroom Essentials</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/household/laundry-en/">Laundry</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/household/dishwashing/">Dishwashing </a>
                                                                                 </li>
                                                                                                             	<li><a href="http://www.nkataa.com/household/cleaning-tools/">Cleaning tools</a>
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/household/toilet-rolls-and-tissues/">Toilet rolls &amp; tissues</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/household/garbage-disposal/">Garbage disposal </a>
+                                                                                                            	<li><a href="http://www.nkataa.com/household/dishwashing/">Dishwashing</a>
                                                                                 </li>
                                                                                                             	<li><a href="http://www.nkataa.com/household/disinfectant/">Disinfectant</a>
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/household/electronics/">Electronics</a>
+                                                                                	<div class="withsubchild">                                
+                                				<ul class="child-level">
+                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/household/electronics/ellington-electric/">Ellington Electric</a></li>
+                                                                                                        	                                                        <li><a href="http://www.nkataa.com/household/electronics/hb-devices/">HB Devices</a></li>
+                                                                                                    </ul>
+                                            </div>                                         	
+                                                                                </li>
+                                                                                                            	<li><a href="http://www.nkataa.com/household/garbage-disposal/">Garbage disposal</a>
                                                                                 </li>
                                                                                                             	<li><a href="http://www.nkataa.com/household/insecticide/">Insecticide</a>
                                                                                 </li>
@@ -842,76 +779,25 @@ CloudZoom = {
                                                                                                     </ul>
                                             </div>                                         	
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/household/air-fresheners-and-home-fragrances/">Air Fresheners &amp; Home Fragrances</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/household/air-fresheners-and-home-fragrances/air-freshener/">Air freshener</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/household/air-fresheners-and-home-fragrances/scented-candles-and-diffusers/">Scented Candles &amp; Diffusers</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
+                                                                                                            	<li><a href="http://www.nkataa.com/household/laundry/">Laundry</a>
                                                                                 </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/household/electronics/">Electronics</a>
-                                                                                	<div class="withsubchild">                                
-                                				<ul class="child-level">
-                                                	                                                    	                                                        <li><a href="http://www.nkataa.com/household/electronics/ellington-electric/">Ellington Electric</a></li>
-                                                                                                        	                                                        <li><a href="http://www.nkataa.com/household/electronics/hb-devices/">HB Devices</a></li>
-                                                                                                    </ul>
-                                            </div>                                         	
+                                                                                                            	<li><a href="http://www.nkataa.com/household/toilet-rolls-and-tissues/">Toilet rolls &amp; tissues</a>
                                                                                 </li>
-                                                                                                        </ul>
+                                                                                                                <li class="alt-link"><a href="http://www.nkataa.com/household/">View more <i class="text-arrow">→</i></a></li>
+                                                                    </ul>
                             </div>
                                                             <div class="menu-add image_menu">
                                 	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_2130667688" src="http://d2mai49497t2vo.cloudfront.net/images/promo/10/Household_fl.jpg" width="213" height="300" alt="" title=""></a>
+                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_2037486950" src="http://dr35ct9ol6mx2.cloudfront.net/images/promo/23/Flyouts_household.jpg?t=1509321191" width="213" height="300" alt="" title=""></a>
                                 </div>
                                                         </li>
-                                                                                                                            <li class="firstchild">
-                            <a class="theparent" href="/health-and-beauty/makeup/">Make Up</a>
-                            <div class="withchild">                                
-                                <ul class="child-level">
-                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/makeup/lips/">Lips</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/makeup/eyes/">Eyes</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/makeup/accessories/">Accessories</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/makeup/face/">Face</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/health-and-beauty/makeup/nails/">Nails</a>
-                                                                                </li>
-                                                                                                        </ul>
-                            </div>
-                                                            <div class="menu-add image_menu">
-                                	<p>Product Banner</p>
-                                    <a href="http://www.nkataa.com/"><img class="   pict" id="det_img_1725068688" src="http://d2mai49497t2vo.cloudfront.net/images/promo/10/makeup_fl.jpg" width="213" height="300" alt="" title=""></a>
-                                </div>
-                                                        </li>
-                                                                                                                            <li class="firstchild">
-                            <a class="theparent" href="/smokes-and-cigs/">Smokes &amp; Cigs</a>
-                            <div class="withchild">                                
-                                <ul class="child-level">
-                                                                                                            	<li><a href="http://www.nkataa.com/smokes-and-cigs/shisha/">Shisha</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/smokes-and-cigs/dokha/">Dokha</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/smokes-and-cigs/cigars-and-cigarettes/">Cigars &amp; Cigarettes</a>
-                                                                                </li>
-                                                                                                            	<li><a href="http://www.nkataa.com/smokes-and-cigs/pipes-and-accessories/">Pipes &amp; Accessories</a>
-                                                                                </li>
-                                                                                                        </ul>
-                            </div>
-                                                        </li>
-                                                                                                                            <li class="firstchild">
-                            <a class="theparent" href="/food-cupboard/deal-of-the-day/">Deal Of The Day</a>
-                            <div class="withchild">                                
-                                <ul class="child-level">
-                                                                                                            	<li><a href="/bundles-en/bachelors-bundle/">Bachelor Bundle</a>
-                                                                                </li>
-                                                                                                        </ul>
-                            </div>
-                                                        </li>
-                                                                <div class="withoutchild" style="margin:0;">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                            <div class="withoutchild" style="margin:0;">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <!--<div class="withchild">-->
+                        <li class="firstchild">
+                            <a class="theparent nohover" href="/naija-food-section/">Naija Food Ingredients</a>                            
+                                                    </li>
+                        <!--</div>-->
+                                                              
                     </div>
                                         </ul>
                                 
@@ -919,36 +805,40 @@ CloudZoom = {
                 
             </div>
                         </li>
-                                        <li class="tlli "><a class="tll" href="/new-arrivals/">NEW ARRIVALS </a>
+                                        <li class="tlli "><a class="tll" href="/fresh/">Nkataa Fresh </a>
 
                     </li>
-                                        <li class="tlli "><a class="tll" href="/food-cupboard/deal-of-the-day/">Deal of The Day </a>
+                                        <li class="tlli "><a class="tll" href="/new-arrivals/">New Arrivals </a>
 
                     </li>
                                         <li class="tlli "><a class="tll" href="/meals">Meals </a>
 
                     </li>
+                                        <li class="tlli "><a class="tll" href="/nkataa-night-delivery/other-restaurants">Other Restaurants </a>
+
+                    </li>
+                                        <li class="tlli "><a class="tll" href="/health-and-beauty/health-care/">Drugs &amp; Healthcare </a>
+
+                    </li>
+                                        <li class="tlli "><a class="tll" href="/health-and-beauty/makeup/">Cosmetics </a>
+
+                    </li>
+                                        <li class="tlli "><a class="tll" href="/gift-and-party-shop/">Gift &amp; Party </a>
+
+                    </li>
                                         <li class="tlli "><a class="tll" href="/clearance-sale">CLEARANCE SALE </a>
-
-                    </li>
-                                        <li class="tlli "><a class="tll" href="/gift-and-party-shop">Gift &amp; Party Shop </a>
-
-                    </li>
-                                        <li class="tlli "><a class="tll" href="/nkataa-night-delivery">Night Delivery </a>
-
-                    </li>
-                                        <li class="tlli "><a class="tll" href="/health-and-beauty/health-care/">Drugs &amp; Health Care </a>
-
-                    </li>
-                                        <li class="tlli "><a class="tll" href="/stationery/">Stationery </a>
-
-                    </li>
-                                        <li class="tlli "><a class="tll" href="/time-savers/">Time Savers </a>
 
                     </li>
                     </ul>
 </div>
     </div>
+            </div>
+</div>                
+
+
+    <div class="span4 ">
+            </div>
+</div>
             </div>
 </div>
 </div>
@@ -972,7 +862,14 @@ CloudZoom = {
 
 
 <div class="row-fluid  row-grid-fluid">    <div class="span12 ">
-                    <div class="wysiwyg-content">
+                    <div class="mainbox-container clearfix">
+                    <h1 class="mainbox-title">
+                
+                                    <span>Privacy policy</span>
+                                
+
+            </h1>
+                <div class="mainbox-body"><div class="wysiwyg-content">
     
     <p>
 	   We understand that by choosing <strong>Nkataa</strong> to deliver your groceries, you’ve placed a great deal of trust in us. We also understand that you want the personal information you give us to be kept private as well as secure. To reassure you that we feel the same way, here’s how we will and will not use the personal information you give us.
@@ -1025,6 +922,11 @@ CloudZoom = {
     
 
     </div>
+    
+
+
+</div>
+    </div>
             </div>
 </div>                
 
@@ -1041,48 +943,23 @@ CloudZoom = {
 
 
 <div class="row-fluid  row-grid-full">    <div class="span16 full-width-grid">
-                    <div class="mainbox-container clearfix subscribe-block">
-                    <h1 class="mainbox-title">
-                
-                                    <span>Stay Connected</span>
-                                
-
-            </h1>
-                <div class="mainbox-body"><div id="box_sub">
-
-
-<div class="subscribe-block">
-<form action="http://www.nkataa.com/" method="post" name="subscribe_form">
-<input type="hidden" name="redirect_url" value="index.php?dispatch=pages.view&amp;page_id=3">
-<input type="hidden" name="newsletter_format" value="2">
-<!--<div class="Cell1"><p><span style="color:#5d1111; font-size:23px; font-weight:bold;">Be Part of Nigeria's Biggest Online Grocery Store</span></p>
-<p class="subscribe-notice">Enter your email address to receive special offers and promotions.</p></div>-->
-<div class="Cell2"><div class="control-group input-append subscribe">
-<label class="cm-required cm-email hidden" for="subscr_email135">Email</label>
-<input type="text" name="subscribe_email" id="subscr_email135" size="65" value="Enter e-mail address" class="cm-hint subscribe-email input-text input-text-menu" style="height:35px;">
-<button title="Go" class="go-button" type="submit"></button>
-<input type="hidden" name="dispatch" value="newsletters.add_subscriber">
-</div></div>
-</form>
-</div>
-</div></div>
-    </div>
             </div>
 </div>                
 
 
 <div class="row-fluid  row-grid-fluid">    <div class="span16 footer-menu">
-                                    
-
-
-<div class="row-fluid  row-grid-fluid">    <div class="span2 ">
+                    <div class="row-fluid  row-grid-fluid">    <div class="span2 ">
                     <p>
     <span>My account</span>
 </p>
-<ul id="account_info_links_431">
-    <li><a href="http://www.nkataa.com/login">Sign in</a></li>
-    <li><a href="http://www.nkataa.com/profiles-add">Create account</a></li>
-<!--account_info_links_431--></ul>
+<ul id="account_info_links_1040">
+    <li><a href="http://www.nkataa.com/login.html">Sign in</a></li>
+    <li><a href="http://www.nkataa.com/profiles-add.html">Create account</a></li>
+<!--account_info_links_1040--></ul><div class=" footer-no-wysiwyg">
+        <div class="wysiwyg-content"><!-- GeoTrust QuickSSL [tm] Smart  Icon tag. Do not edit. -->
+<script language="javascript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+<!-- end  GeoTrust Smart Icon tag --></div>
+    </div>
             </div>
                 
 
@@ -1106,7 +983,7 @@ CloudZoom = {
         <div class="wysiwyg-content"><p><span style="font-family:Open sans;">Customer Service</span></p>
 <ul>
 <li><a href="http://www.nkataa.com/index.php?dispatch=orders.search">About your order</a></li>
-<li><a href="http://www.nkataa.com/wishlist">Wishlist</a></li>
+<li><a href="http://www.nkataa.com/wishlist.html">Wishlist</a></li>
 <li><a href="?dispatch=pages.view&amp;page_id=41">Returns policy</a></li>
 </ul></div>
     </div>
@@ -1126,22 +1003,33 @@ CloudZoom = {
                 
 
 
-    <div class="span3 ">
-                    <div class=" footer-no-wysiwyg float-right">
-        <div class="wysiwyg-content"><p><span style="font-family:Open sans;">You are secured!</span></p> <br>
-<!-- GeoTrust QuickSSL [tm] Smart  Icon tag. Do not edit. -->
-<script language="javascript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
-<!-- end  GeoTrust Smart Icon tag --></div>
-    </div>
-            </div>
+    <div class="span6 ">
+                    <div class="mainbox-container clearfix">
+                    <h1 class="mainbox-title">
                 
+                                    <span>Stay Connected</span>
+                                
+
+            </h1>
+                <div class="mainbox-body"><div class="subscribe-block">
+<form action="http://www.nkataa.com/" method="post" name="subscribe_form">
+<input type="hidden" name="redirect_url" value="index.php?dispatch=pages.view&amp;page_id=3">
+<input type="hidden" name="newsletter_format" value="2">
 
 
-    <div class="span3 ">
-                    <div class="wysiwyg-content"><div>
+<div class="control-group input-append subscribe">
+<label class="cm-required cm-email hidden" for="subscr_email47">Email</label>
+<input style="height: 35px" type="text" name="subscribe_email" id="subscr_email47" size="20" value="Enter e-mail address" class="cm-hint subscribe-email input-text input-text-menu">
+<button title="Go" class="go-button" type="submit"></button>
+<input type="hidden" name="dispatch" value="newsletters.add_subscriber">
+</div>
+</form>
+</div>
+</div>
+    </div><div class="wysiwyg-content"><div>
     <span style="font-family:Open Sans;">Stay connected!</span>
 	<ul class="sociali-links ">
-		<li><a href="http://www.facebook.com/nkataaNigeria" target="_blank" class="facebook"></a></li>
+		<li><a href="http://www.facebook.com/nkataaonline" target="_blank" class="facebook"></a></li>
 		<li><a href="https://twitter.com/Nkataaonline" target="_blank" class="twitter"></a></li>
 		<li><a href="https://www.instagram.com/nkataaonline" target="_blank" class="Instagram"></a></li>
 	</ul>
@@ -1154,41 +1042,7 @@ CloudZoom = {
 
 <div class="row-fluid  row-grid-fluid">    <div class="span10 ">
                     <div class="    float-left">
-        <div class="wysiwyg-content"><!-- Facebook Pixel Code -->
-
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-
-fbq('init', '809078245890428');
-fbq('track', "PageView");
-fbq('track', 'CompleteRegistration');
-fbq('track', 'InitiateCheckout');
-fbq('track', 'Search');
-fbq('track', 'AddToCart');
-fbq('track', 'Purchase', {value: '0.00', currency: 'NGN'});
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=809078245890428&ev=PageView&noscript=1"
-/></noscript>
-
-<!-- End Facebook Pixel Code --></div>
-    </div><div class="    float-left">
-        <div class="wysiwyg-content"><script type="text/javascript">
-	var $mcGoal = {'settings':{'uuid':'bc30d46fc168979d4cdd591e2','dc':'us9'}};
-	(function() {
-		 var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
-		sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
-	})(); 
-</script>
-
-</div>
-    </div><div class="    float-left">
-        <p class="bottom-copyright">© 2014-2017 Nkataa.com
+        <p class="bottom-copyright">© -2017 Nkataa
 </p>
     </div>
             </div>
@@ -1197,12 +1051,19 @@ src="https://www.facebook.com/tr?id=809078245890428&ev=PageView&noscript=1"
 
     <div class="span6 ">
                     <div class=" float-right">
-        <div class="wysiwyg-content"><img src="https://www.nkataa.com/images/promo/12/payment-icons.png"></div>
+        <div class="payment-icons">
+	<span class="payment-icon 2checkout">&nbsp;</span>
+	<span class="payment-icon paypal">&nbsp;</span>
+	<span class="payment-icon mastercard">&nbsp;</span>
+	<span class="payment-icon visa">&nbsp;</span>
+</div>
+
     </div><div class=" float-right">
-        <div class="wysiwyg-content"><!-- Start of nkataa Zendesk Widget script -->
-<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","nkataa.zendesk.com");
-/*]]>*/</script>
-<!-- End of nkataa Zendesk Widget script --></div>
+        <div class="wysiwyg-content"><!-- BEGIN JIVOSITE CODE  -->
+<script type="text/javascript">
+(function(){ var widget_id = 'xUNGdHqb83';
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script>
+<!--  END JIVOSITE CODE --></div>
     </div>
             </div>
 </div>
@@ -1213,8 +1074,8 @@ src="https://www.facebook.com/tr?id=809078245890428&ev=PageView&noscript=1"
     
 
     
-
-<!--tygh_main_container--></div>
+<!--pages--></div><!--pages--></div>
+<!--tygh_main_container-->
 
 
 
@@ -1233,9 +1094,35 @@ ga('create', 'UA-52767191-1', 'auto');
 ga('send', 'pageview');
 //]]>
 </script>
-	
+<div id="cp_viewed_products">
+    <div class="cp-view-products-content span16 content-grid">
+               
+    </div>
+    
+    <div class="cp-viewed-products__footer">
+        <div class="cp-viewed-products__form span16 content-grid">
+            <div class="cp-viewed-products__form_block">
+                <form action="http://www.nkataa.com/" name="cp_viewed_products" method="post">
+                    <input type="hidden" name="redirect_url" value="index.php?dispatch=pages.view&amp;page_id=3">
+                    <label for="cp_send_email" class="cm-required cm-email">Send products to e-mail:</label>
+                    <input type="text" size="30" class="ty-input-text" id="cp_send_email" name="email" placeholder="Email" onfocus="$.cookie.set('cp_email_started');">
+                        
+ 
+    <span class="button-submit button-wrap-left"><span class="button-submit button-wrap-right"><input class="ty-btn__primary" type="submit" name="dispatch[abandoned_cart.viewed_products]" value="Send"></span></span>
 
-<!--tygh_container--></div>
+
+
+
+                </form>
+            </div>
+        </div>
+        <div class="cp-close-block ">
+            <a class="cp-close"><i class="ty-icon-cancel cm-tooltip" title="Stop showing the window"></i></a>
+        </div>
+    </div>
+</div>	
+
+<!--tygh_container-->
 
 
 
