@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the energymeditationsecrets.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624133437id_/http%3A//coreenergymeditation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energymeditationsecrets.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229140311id_/http%3A//coreenergymeditation.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Core Energy Meditation
+# Privacy
 
 We have been operating online since 1999 and over the years, many customers have placed orders from this and other company websites – privately, safely and securely.
 
