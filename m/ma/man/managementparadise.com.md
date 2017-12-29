@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managementparadise.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065605id_/http%3A//www.managementparadise.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managementparadise.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229235308id_/http%3A//www.managementparadise.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy on ManagementParadise.com
 
@@ -48,4 +48,4 @@ _**CHANGES TO THE POLICY**_
 MP reserves the right to amend, modify or add any other term in the said policy about which the user shall be informed by an e-mail or notification on the home page of the web portal itself. The user, continuing to operate post such changes shall deemed to have accepted the new or changed terms.    
 _**SECURITY AND ENFORCEMENT**_   
 MP ensures to take appropriate security measures to protect against any unauthorized access or data manipulation or unwarranted disclosure.   
-Users can contact us on support@managementparadise.com  
+Users can contact us on [[email protected]](http://www.managementparadise.com/cdn-cgi/l/email-protection)  
