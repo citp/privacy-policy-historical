@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypal-community.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630102015id_/http%3A//www.paypal.com/us/cgi-bin/webscr%3Fcmd%3Dp/gen/ua/policy_privacy-outside) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal-community.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229203226id_/https%3A//www.paypal.com/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
 
 # PayPal
 
