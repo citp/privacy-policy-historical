@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyconnexion.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622190745id_/http%3A//moneyconnexion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyconnexion.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229122013id_/http%3A//moneyconnexion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Money Connexion
+# Privacy Policy - MoneyConnexion
 
 This privacy policy sets out how Jobs8Home.com uses and protects any information that you give Jobs8Home.com when you use this website.
 
