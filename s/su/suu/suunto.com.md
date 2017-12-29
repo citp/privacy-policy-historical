@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suunto.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223140133id_/http%3A//www.suunto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suunto.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229072754id_/http%3A//www.suunto.com/Privacy-Policy) for the most accurate reproduction.*
 
 # 
 
