@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the bangyoulater.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628104022id_/http%3A//www.bangyoulater.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangyoulater.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229015839id_/https%3A//www.bangyoulater.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### CLOSE X
-
-[](https://web.archive.org/)[](https://web.archive.org/)
-
-Videos[Categories](https://web.archive.org/categories)
-
-
-[Upload](http://cashpartners.com/ "UPLOADS.UPLOAD_VIDEO")[Member](http://cashpartners.com/ "Member area")[Live Sex](http://fwbntw.com/show.php?sid=117&spid=161&scid=10&cgid=1 "Live Sex")
 
 respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website BangYouLater.com (“ **Website** ”) and our practices for collecting, using, keeping, protecting, and disclosing that information.
 
