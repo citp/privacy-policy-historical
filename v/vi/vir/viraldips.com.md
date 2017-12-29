@@ -1,58 +1,17 @@
-> *The following text is extracted and transformed from the viraldips.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514200302id_/http%3A//viraldips.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraldips.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-You privacy is very important to us, accordingly, we have developed this policy in order for you to understand how we collect, use, communicate, disclose and make use of your personal information. Our privacy policies vary according to user preferences and specific tools on Viraldips may have their specific policies that is valid only for that tool. For a better explanation we have split our privacy policy to the following categories:
+* * *
 
-  * General Site Policy
-  * Log Files
-  * Cookies & Web Beacons
-  * DoubleClick DART Cookie
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-
-
-## General site policy
-
-For each visitor to our Web page, our Web server automatically recognises the consumer’s domain name and e-mail address (where possible).
-
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address.
-
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customise the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorised use of our Website.
-
-You will not receive any marketing or occasional emails unless your subscribe to our mailing list. If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
-
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about other users.
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information
-
-## Log files
-
-Like many other Web sites, Viraldips makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyse trends, administer the site, track users’ movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-## Cookies and web beacons
-
-Viraldips does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customise Web page content based on visitors browser type or other information that the visitor sends via their browser.
-
-## DoubleClick DART cookie
-
-  * Google, as a third party vendor, uses cookies to serve ads on Viraldips
-  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to Viraldips and other sites on the Internet
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL <http://www.google.com/privacy_ads.html>
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on Viraldips send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-Viraldips has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Viraldips privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
