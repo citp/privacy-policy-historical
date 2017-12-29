@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043944id_/https%3A//genius.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229222933id_/https%3A//genius.com/static/privacy_policy) for the most accurate reproduction.*
 
 # Genius | Song Lyrics & Knowledge
 
 Genius ("Genius," "we" or "us") is committed to protecting your privacy. This Privacy Policy explains how information about you or associated with you ("personal information") is collected, used and disclosed by Genius Media Group, Inc. and its affiliates, which own and operate Genius services ("Genius," "we" or "us"). This Policy applies to the online services offered by Genius at [genius.com](https://genius.com/) (the "Website" or "Our Service"). For more information about our service, please visit our [About Genius](https://genius.com/static/about) page.
 
-  1. [INFORMATION WE COLLECT](https://genius.com/#sec1)
-  2. [SHARING PERSONAL INFORMATION WITH THIRD PARTIES](https://genius.com/#sec2)
-  3. [YOUR CHOICES REGARDING YOUR INFORMATION](https://genius.com/#sec3)
-  4. [SECURITY AND STORAGE OF INFORMATION](https://genius.com/#sec4)
-  5. [CHILDREN'S PRIVACY](https://genius.com/#sec5)
-  6. [LINKS TO THIRD PARTY WEBSITES](https://genius.com/#sec6)
-  7. [UPDATES TO THIS POLICY](https://genius.com/#sec7)
-  8. [YOUR CALIFORNIA PRIVACY RIGHTS](https://genius.com/#sec8)
-  9. [CONTACTING US](https://genius.com/#sec9)
-  10. [LAST REVISION DATE](https://genius.com/#sec10)
+  1. [INFORMATION WE COLLECT](https://genius.com/static/privacy_policy#sec1)
+  2. [SHARING PERSONAL INFORMATION WITH THIRD PARTIES](https://genius.com/static/privacy_policy#sec2)
+  3. [YOUR CHOICES REGARDING YOUR INFORMATION](https://genius.com/static/privacy_policy#sec3)
+  4. [SECURITY AND STORAGE OF INFORMATION](https://genius.com/static/privacy_policy#sec4)
+  5. [CHILDREN'S PRIVACY](https://genius.com/static/privacy_policy#sec5)
+  6. [LINKS TO THIRD PARTY WEBSITES](https://genius.com/static/privacy_policy#sec6)
+  7. [UPDATES TO THIS POLICY](https://genius.com/static/privacy_policy#sec7)
+  8. [YOUR CALIFORNIA PRIVACY RIGHTS](https://genius.com/static/privacy_policy#sec8)
+  9. [CONTACTING US](https://genius.com/static/privacy_policy#sec9)
+  10. [LAST REVISION DATE](https://genius.com/static/privacy_policy#sec10)
 
 
 
